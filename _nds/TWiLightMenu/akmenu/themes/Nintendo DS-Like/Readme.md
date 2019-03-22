@@ -5,7 +5,7 @@
 **Made for:** TWiLightMenu++         
 **Custom font:** No
 
-![preview](https://github.com/DS-Homebrew/twlmenu-extras/raw/master/_nds/TWiLightMenu/akmenu/themes/Ds%20Menu/Preview.jpg)
+![preview](https://github.com/DS-Homebrew/twlmenu-extras/raw/master/_nds/TWiLightMenu/akmenu/themes/Nintendo%20DS-Like/Preview.jpg)
 
 **Additional features:**
 You can change the color of the theme by replacing files in main theme folder from `/colors/~color name~/ folder`.      
