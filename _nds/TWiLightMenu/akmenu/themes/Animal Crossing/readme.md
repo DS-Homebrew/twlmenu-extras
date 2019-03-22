@@ -1,8 +1,8 @@
 ### Animal Crossing
 
-Author: 
+Author: Connonfoddr
 
-Date released: 
+Date released: January 30th 2010
 
 Made for: AceKard
 
