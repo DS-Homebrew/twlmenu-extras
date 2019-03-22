@@ -1,7 +1,9 @@
-### Knuckles the Echidna
+# Knuckles the Echidna
 
-Author: 
+**Author:** Biochao       
+**Release Date:** December 7th, 2009
 
-Made for: AceKard
+## Additional Features
 
-Custom font: No
+- **Custom Font:** No
+- **TWiLightMenu++ Enhanced:** No

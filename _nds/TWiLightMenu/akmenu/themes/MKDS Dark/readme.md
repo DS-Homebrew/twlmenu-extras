@@ -1,7 +1,17 @@
-### MKDS Dark
+# Mario Kart DS: Dark
 
-Author: 
+<p align="center">
+	<img src="https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/MKDS%20Dark/screenshots/main.jpg">
+	<img src="https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/MKDS%20Dark/screenshots/progress.jpg"><br>
 
-Made for: AceKard
+	<img src="https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/MKDS%20Dark/screenshots/rom.jpg">
+	<img src="https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/MKDS%20Dark/screenshots/start.jpg">
+</p>
 
-Custom font: No
+**Author:** amassenburg     
+**Creation Date:** January 1st, 2010
+
+## Additional Features
+
+- **Custom Font:** No
+- **TWiLightMenu++ Enhanced:** No

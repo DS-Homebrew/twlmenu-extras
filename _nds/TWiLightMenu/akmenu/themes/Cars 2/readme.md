@@ -1,9 +1,9 @@
-### Cars 2
+# Cars 2
 
-Author: 
+**Author:** Chadrcheze       
+**Release Date:** August 5th, 2011
 
-Date released: 
+## Additional Features
 
-Made for: AceKard
-
-Custom font: No
+- **Custom Font:** No
+- **TWiLightMenu++ Enhanced:** No
