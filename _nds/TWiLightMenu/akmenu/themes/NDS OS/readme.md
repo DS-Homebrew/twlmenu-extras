@@ -1,6 +1,6 @@
 ### NDS OS
 
-Author: 
+Author: Centy
 
 Made for: Acekard
 
