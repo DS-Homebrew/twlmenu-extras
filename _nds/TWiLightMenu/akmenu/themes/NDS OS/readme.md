@@ -1,6 +1,6 @@
 ### NDS OS
 
-Author:
+Author: 
 
 Made for: Acekard
 
