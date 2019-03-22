@@ -1,1 +1,0 @@
- Who does not want a menu of the 3DS because in this the skin menu 3DS in our wood R4 or Acekard, present my Skin, it is but you like everything is original and I struggle a bit in place all but here I present a skin of many and done, I hope you like. by Xemnas
