@@ -1,6 +1,6 @@
 ### 3D Shadow the Hedgehog
 
-Author: kaz_abdin
+Author: hairzo
 
 Date released: April 13th 2010
 
