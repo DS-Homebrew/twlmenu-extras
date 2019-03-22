@@ -1,6 +1,6 @@
 ### Dry Bones 3D
 
-Author: 
+Author: hairzo
 
 Made for: AceKard
 
