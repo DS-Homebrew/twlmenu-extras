@@ -1,7 +1,8 @@
-### Copper 
+# Copper 
+**Author:** Cannonfoddr      
+**Description:** An Acekard/AKAIO skin with a 'copper' feel to it      
+**Upload Date:** 31st Jan 2010
 
-Author: Cannonfoddr
-
-Made for: AceKard
-
-Description: An Acekard/AKAIO skin with a 'copper' feel to it 
+## Additional Features
+**Custom Font:** No      
+**TWiLightMenu++ Enhanced:** No

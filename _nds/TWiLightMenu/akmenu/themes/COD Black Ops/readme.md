@@ -1,9 +1,7 @@
-### COD Black Ops
+# Call Of Duty: Black Ops
+**Author:** rockleeace     
+**Date released:** 23rd Dec 2011
 
-Author: 
-
-Date released: 
-
-Made for: AceKard
-
-Custom font: No
+## Additional Features
+**Custom Font:** No      
+**TWiLightMenu++ Enhanced:** No
