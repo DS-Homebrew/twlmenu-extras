@@ -1,0 +1,2066 @@
+┌---------------------------------------------------------------------------┐
+│ version 1.1                                                 June 27, 2006 │
+│                     BLEACH DS: SOUTEN NI KAKERU UNMEI                     │
+│                            FAQ by Sixfortyfive                            │
+│                                                  patrick@sixfortyfive.com │
+└---------------------------------------------------------------------------┘
+
+This FAQ is meant to serve as a translation and gameplay guide for Treasure and
+Sega's Bleach DS: Souten ni Kakeru Unmei. It follows a rough outline of the
+game's instruction manual with more in-depth information for items that
+non-Japanese players would find most useful (such as detailed information
+regarding the card system and Story/Challenge Mode walkthroughs).
+
+This guide will not include either a story translation or detailed character
+strategy. The former is because I have very limited Japanese skills and have
+had no exposure to Bleach prior to this game. The latter is because I do not
+intend to learn the ins-and-outs of every single character.
+
+This document is encoded in Japanese Shift-JIS format. In order to properly
+display Japanese characters in your browser, you must set its character
+encoding to Shift-JIS. In Internet Explorer and Firefox, this should be located
+somewhere in the View menu. If you cannot find a selection for Japanese
+Shift-JIS, you may have to download a language pack.
+
+If you believe you can supply any additional useful information or if you find
+a mistake in this document that needs to be corrected, feel free to e-mail me.
+
+┌---------------------------------------------------------------------------┐
+│ TABLE OF CONTENTS                                                         │
+└---------------------------------------------------------------------------┘
+
+   I. Game Basics
+       Basic Controls
+       Main Menu Translation
+       Character Select Screen
+       Result Screen (Arcade/Time Attack/Survival)
+       Common Terms
+        Character List
+        Lexicon
+        Shorthand for Command List, Training, & Challenge Mode
+  II. Screen Explanation and Game Rules
+       Gameplay Screens
+        Top Screen
+        Bottom Screen
+       Pause Menu
+       Victory & Defeat Conditions
+ III. Game Control
+       Character Control
+        Movement
+        Defense
+        Offense
+        Miscellaneous
+       Reifu
+       Simple Mode
+  IV. Story Mode
+       Character and Control Method Select
+       Ichigo Walkthrough
+       Unlock Guide
+   V. Arcade Mode
+  VI. VS Mode
+       DS Wireless & Download Play
+       Wi-Fi Connection
+ VII. Training Mode
+VIII. Time Attack Mode
+  IX. Survival Mode
+   X. Challenge Mode
+       General Tips
+       Individual Challenge Walkthroughs
+  XI. Deck Construction
+       Menu Navigation
+       Deck Strategy
+ XII. Urahara Shop
+XIII. Gallery
+ XIV. Options
+  XV. Credits / Legal Junk
+ XVI. Version History
+
+┌---------------------------------------------------------------------------┐
+│ SECTION I: GAME BASICS                                                    │
+└---------------------------------------------------------------------------┘
+
+┌----------------┐
+│ BASIC CONTROLS │
+└----------------┘
++--------+---------------------+---------------+---------------------+
+|        | MENU SCREENS        | STORY SCREENS | GAMEPLAY            |
+| D-PAD  | select              | fast forward  | movement            |
+| START  | confirm             | message skip  | pause menu          |
+| A      | confirm             | advance       | heavy attack        |
+| B      | cancel / return     | speed up text | flash step          |
+| X      |                     |               | medium attack       |
+| Y      |                     |               | light attack        |
+| L      | freeze text marquee |               | line change         |
+| R      | speed up marquee    |               | guard               |
+| SCREEN | select & confirm    |               | card use & specials |
++--------+---------------------+---------------+---------------------+
+
+┌-----------------------┐
+│ MAIN MENU TRANSLATION │
+└-----------------------┘
+Detailed translations for each game mode can be found in the corresponding
+section of this FAQ.
+
+ストーリーモード          STORY MODE
+アーケードモード          ARCADE MODE
+ＶＳモード                VS MODE
+トレーニングモード        TRAINING MODE
+タイムアタックモード      TIME ATTACK MODE
+サバイバルモード          SURVIVAL MODE
+チャレンジモード          CHALLENGE MODE
+デッキコンストラクション  DECK CONSTRUCTION
+浦原商店                  URAHARA SHOP
+ギャラリー                GALLERY
+オプション                OPTION
+戻る                      RETURN
+
+┌-------------------------┐
+│ CHARACTER SELECT SCREEN │
+└-------------------------┘
+For Arcade, VS, Training, Time Attack, and Survival Modes. Press L and R to
+toggle between 1P/2P/3P/4P. Press Start to begin the match immediately or A to
+adjust more settings (shown below). Not all options are available in all modes.
+
++----------------+
+|   CHARACTER    | includes RANDOM and NO ENTRY / NONE in certain modes
++----------------+
+|  OUTFIT COLOR  | 4 outfits available initially; more available in the shop
+|   DECK SLOT    | for reifu; PERSONAL DECK is the character's default pattern
+|      TEAM      | arrange for 1-on-2, 2-on-2, 1-on-3, or 1-on-1-on-2
+| CONTROL METHOD | select AUTO to activate Simple Mode (see section III)
+|    HANDICAP    | from 0 to +8; increases player strength (+8 = 200%)
+|PLAYER/CPU LEVEL| increase AI LV for higher CPU difficulty; range is 1-8
++----------------+
+|SUPER ANIMATIONS| set to DEMO OFF to remove the cutscenes for super attacks
+|   MATCH RULE   | adjust to set time limit and deathmatch/pointmatch
+|  STAGE SELECT  | choose from 1 of 16 battle areas
++----------------+
+
+┌---------------------------------------------------┐
+│ RESULT SCREEN ( ARCADE / TIME ATTACK / SURVIVAL ) │
+└---------------------------------------------------┘
+After completing any one of these three modes, a result screen is displayed
+with the following information:
+
+最大ヒット数    HIGHEST COMBO
+最大ダメージ数  GREATEST DAMAGE CAUSED FROM ONE COMBO
+プレイタイム    PLAY TIME
+報酬            MONEY EARNED
+
+┌--------------┐
+│ COMMON TERMS │
+└--------------┘
+
+- CHARACTER NAMES -
+
+Below is a list of all the playable characters. Surnames are listed first to
+match the kanji on the left. CAPS indicates the name used on character select
+and gameplay screens.
+
+黒崎一護           Kurosaki ICHIGO
+朽木ルキア         Kuchiki RUKIA
+井上織姫           Inoue ORIHIME
+石田雨竜           Ishida URYU
+茶渡泰虎           Sado Yatsutora (CHAD)
+志波岩鷲           Shiba GANJU
+阿散井恋次         Abarai RENJI
+朽木白哉           Kuchiki BYAKUYA
+市丸ギン           ICHIMARU Gin
+更木剣八           Zaraki KENPACHI
+日番谷冬獅郎       HITSUGAYA Toushiro
+雛森桃             HINAMORI Momo
+東仙要             TOSEN Kaname
+狛村左陣           KOMAMURA Sajin
+涅マユリ           KUROTSUCHI Mayuri
+京楽春水           KYORAKU Syunsui
+浮竹十四郎         UKITAKE Jushiro
+砕蜂               SOIFON
+山本元柳斎重國     Yamamoto GENRYUSAI Shigekuni
+四楓院夜一         Shihoin YORUICHI
+狛村左陣(狼)       KOMAMURA Sajin (Unmasked)
+藍染惣右介         AIZEN Sousuke
+涅ネム             Kurotsuchi NEMU
+黒崎一護(虚)       Kurosaki ICHIGO (Hollow)
+草鹿やちる         Kusajishi YACHIRU
+戦闘用改造魂魄コン Mod Soul KON
+ボニーちゃん       BONNIE
+有沢たつき         Arisawa TATSUKI
+
+The following characters are not playable, but their names appear in menu
+screens under voice options.
+
+蒲原喜助           Urahara Kisuke
+吉良イヅル         Kira Iduru
+斑目一角           Madarame Ikkaku
+綾瀬川弓親         Ayasegawa Yumichika
+山田花太郎         Yamada Hanatarou
+志波海燕           Shiba Kaien 
+
+- LEXICON -
+
+魂魄               SOUL (health)
+霊力               REIRYOKU ("spirit power," used for Specials)
+霊圧               REIATSU ("spirit pressure," used for Supers)
+霊符               REIFU (spirit card)
+しゃがみ           CROUCH
+立ち               STAND
+ジャンプ           JUMP
+ダッシュ           DASH
+空中ダッシュ       AERIAL DASH
+二段ジャンプ       2-STEP JUMP [DOUBLE JUMP]
+特殊移動           SPECIAL MOVEMENT (flash steps)
+瞬歩               FLASH STEP / SHUNPO
+ライン移動         LINE CHANGE (jump between background/foreground)
+ガード             GUARD
+ガードキャンセル   GUARD CANCEL
+ダメージキャンセル DAMAGE CANCEL
+通常攻撃           NORMAL ATTACK
+小攻撃             LIGHT ATTACK
+中攻撃             MEDIUM ATTACK
+大攻撃             HEAVY ATTACK
+投げ               THROW
+必殺技             SPECIAL ATTACK (blue hotkeys)
+RF必殺技           REINFORCED SPECIAL ATTACK (strongest variation)
+超必殺技           SUPER ATTACK (red hotkeys)
+攻撃力             ATTACK STRENGTH
+防御力             DEFENSIVE STRENGTH
+機動力             MOBILITY
+弾速               PROJECTILE SPEED
+奪取               CAPTURE/STEAL
+交換               EXCHANGE
+禁止               PROHIBIT
+回復               RECOVERY
+無尽蔵             INFINITE/LIMITLESS SUPPLY
+無制限             UNLIMITED USE
+無効               CANCEL (negate an effect/behavior)
+
+- SHORTHAND FOR COMMAND LIST, TRAINING, & CHALLENGE MODE -
+
+立     STANDING
+屈     CROUCHING
+空     AERIAL
+瞬歩   FLASH STEP
+小     LIGHT ATTACK
+中     MEDIUM ATTACK
+大     HEAVY ATTACK
+投げ   THROW
+必Ｘ   SPECIAL ATTACK X
+RF必Ｘ REINFORCED SPECIAL ATTACK X
+超必Ｘ SUPER ATTACK X
+
+┌---------------------------------------------------------------------------┐
+│ SECTION II: SCREEN EXPLANATION AND GAME RULES                             │
+└---------------------------------------------------------------------------┘
+
+┌------------------┐
+│ GAMEPLAY SCREENS │
+└------------------┘
+
+- TOP SCREEN -
+
+SOUL (魂魄) GAUGE
+This is the blue life bar at the top of the screen.
+
+REIATSU (霊圧) GAUGE
+Can be roughly translated as "spirit pressure." This is the green bar beneath
+your life gauge, which fills up as you attack your enemy and increases your
+reiatsu stock count by 1 when filled.
+
+REIATSU (霊圧) STOCK
+This is the number located next to your life gauge. You can hold up to 3
+reiatsu stock in reserves, which are required to perform super moves and damage
+cancels.
+
+REIFU (霊符) EFFECT
+Reifu are the spirit cards used during battle to power-up your character or
+power-down your opponents. A colored icon will appear beneath your life gauge
+when your character is currently under the effect of a card. This color
+indicates the type of effect, which matches the color of the card used. For
+more information on reifu and their effects, see the reifu section below.
+
+REIRYOKU (霊力) GAUGE
+Can be roughly translated as "spirit power." This is the three-segmented bar at
+the bottom of the screen, which fills up automatically over time. Reiryoku is
+required to perform RF specials, use flash steps, and jump between the two
+planes of battle. Using flash steps and switching planes depletes the inner
+gauge only, while using RF specials depletes both the inner and outer gauges.
+The inner gauge restores itself more quickly than the outer gauge, but the
+inner gauge will only restore itself as long as the outer gauge is at an equal
+or greater level. In other words, the inner gauge can never be larger than the
+outer gauge.
+
+TIME LIMIT
+Located on the bottom-right corner of the screen.
+
+- TOUCH SCREEN -
+
+REIFU (霊符) STOCK
+Large number that indicates how many reifu you have left in reserves.
+
+CHANGE BUTTON
+Pressing this button changes the display layout on the touch screen. You can
+choose to either have only two large reifu buttons on the screen, or two
+smaller reifu buttons accompanied by hotkeys for special techniques.
+
+REIFU (霊符) BUTTONS
+These are the spirit cards, which are activated upon touch. Ten of these cards
+are randomly selected from a preset deck and shuffled. Two of them will be
+available for use at any one time.
+ CARD EFFECT: The large Japanese text on the card indicates its effect. Check
+              the reifu section below for an explanation of each card.
+ CARD TARGET: This indicates who will be effected by the card, either your
+              character (myself), all enemies, a single enemy, or all players.
+ CARD LEVEL: This indicates the strength of that particular card. Most reifu
+             have four levels of strength, level 1 being the weakest.
+ CARD TIMER: Depending on the type of card, this indicates either how long the
+             reifu effect will last or how long a used reifu card will continue
+             to use up space on your screen before being replaced by a fresh
+             one.
+
+SPECIAL HOTKEYS
+Press the change button to toggle these on and off. Blue hotkeys are shortcuts
+for specials and will always use the reinforce (RF) version of the attack when
+possible, next-strongest version if not. Red hotkeys are shortcuts for supers. 
+
+┌------------┐
+│ PAUSE MENU │
+└------------┘
+Press start during gameplay to bring up the pause menu. Press start again to
+return to gameplay.
+
+COMMAND LIST: brings up a list of your characters' specials/supers
+CPU ACTION (TRAINING): forces the CPU character to perform selected action
+CPU GUARD (TRAINING): instructs the CPU to guard against you when possible
+DISPLAY (CHALLENGE): changes the command display method
+CHARACTER SELECT (VS/TRAINING/CHALLENGE): returns to character select screen
+EXIT: returns to main menu
+
+┌-----------------------------┐
+│ VICTORY & DEFEAT CONDITIONS │
+└-----------------------------┘
+You can select from either DEATHMATCH or POINTMATCH in most versus setups. In
+Deathmatch, gameplay stops when your life bar empties, and the last player or
+team with any life remaining wins. In Pointmatch, you receive 1 point for every
+hit point of damage you inflict on the enemy and lose 1 point for every hit
+point you lose. Point matches are always timed, and the player or team with the
+most points at the end of the battle wins.
+
+┌---------------------------------------------------------------------------┐
+│ SECTION III: GAME CONTROL                                                 │
+└---------------------------------------------------------------------------┘
+
+┌-------------------┐
+│ CHARACTER CONTROL │
+└-------------------┘
+
+- MOVEMENT -
+
+WALK & TURN: left/right
+JUMP:        up
+CROUCH:      down
+DASH:        left/right twice; 2nd press can be held down
+AERIAL DASH: left/right twice in mid-air
+DOUBLE JUMP: up while in mid-air
+FLASH STEP:  B button (can be changed in options, uses 1/3 of reiryoku gauge)
+LINE CHANGE: L button (can be changed in options, uses 1/3 of reiryoku gauge)
+
+Movement in Bleach DS takes place on two individual 2D fighting planes (with
+the exception of Area 10, which only has one plane). Attacks performed on one
+plane will not interfere with the action on the other plane, save for a handful
+of special moves which either launch a projectile into the opposite plane or
+teleport your character between planes. You can switch planes at any time by
+pressing the line change button, which uses up one segment of your inner
+reiryoku gauge.
+
+Flash steps are used to quickly teleport in any direction, and most characters
+are invulnerable and invisible to opponents when they perform this technique.
+You can use flash steps to teleport through or away from enemy attacks, travel
+a longer distance quickly, link normal attacks that normally do not chain
+together, or position yourself in the air for a quick overhead attack. Flash
+steps also use up one segment of your inner reiryoku gauge.
+
+A walking state can be canceled into a dashing state, which can then be
+canceled into an attacking state. You can not change between these states in
+the opposite order (without the use of a flash step). Up to one double jump and
+two aerial dashes can be performed before returning to the ground. These aerial
+movement techniques can be linked together in any manner. Walking speed,
+dashing speed, and flash step distance vary between individual characters.
+
+- DEFENSE -
+
+GUARD:         R button (can be changed in options)
+GUARD CANCEL:  flash step / special while guarding (uses reiryoku)
+DAMAGE CANCEL: any attack button + flash step when enemy strikes (uses reiatsu)
+
+Guarding nullifies damage from enemy attacks and also prevents you from being
+staggered. Most special moves still inflict a small amount of chip damage to
+guarding opponents, however. A standing guard blocks standing and aerial
+attacks but is vulnerable to crouching attacks and throws. A crouching guard
+blocks standing and crouching attacks but is vulnerable to aerial attacks and
+throws. An aerial guard blocks all attacks. Guarding can either be performed
+with the guard button or by moving in the opposite direction of an enemy
+attack.
+
+In a normal guarding state, you can not perform any action besides
+standing/crouching. When an enemy attack hits your character while you are
+guarding, however, a small blue circle will quickly appear, expand, and vanish.
+While this circle is visible, you can perform either a flash step or a
+special/super attack while you are guarding. This technique is called a guard
+cancel, and it uses up one segment of your inner reiryoku gauge.
+
+A damage cancel can be performed to break free from normal enemy attacks,
+special moves, and stuns. To perform this technique, simultaneously press the
+flash step button plus any normal attack button while your character is being
+attacked. (Using a reifu while in a damaged state also performs a damage
+cancel.)  The aura that surrounds your character during a damage cancel will
+inflict 1 hit point of damage to any enemy character that it touches. Damage
+canceling requires 1 reiatsu stock to perform and cannot be used against super
+moves.
+
+- OFFENSE -
+
+LIGHT ATTACK:       Y button (can be changed in options)
+MEDIUM ATTACK:      X button (can be changed in options)
+HEAVY ATTACK:       A button (can be changed in options)
+THROW:              left/right + medium/heavy attack, standing next to enemy
+SPECIALS/SUPERS:    varies between characters; check command list / use hotkeys
+REINFORCE SPECIALS: strongest variation of special attacks, always executed
+                    with strong attack button, usually depletes 1/3 of reiryoku
+                    gauge and abbreviated with "RF"
+
+All characters besides Bonnie have three different levels of normal attacks
+(light, medium, and heavy), which have their own dedicated buttons and can be
+chained together in various ways. The behavior of normal attacks changes
+depending on whether your character is in a standing, crouching, or aerial
+state. If a normal attack hits your opponent, you can immediately follow it up
+with a stronger attack to perform what is called a chain combo. An example of a
+simple chain combo is: light attack -> medium attack -> heavy attack. For most
+characters, you cannot follow a medium or heavy attack with an attack of equal
+or lesser strength; you usually have to either perform a stronger normal
+attack, flash step, or special/super move to keep your combo going.
+
+Throws can be performed when standing next to an opponent. They normally don't
+cause much damage, but they will often put your opponent into a flying or
+stunned state, which can be useful for setting up additional attacks. Throws
+cannot be performed in mid-air. If you walk or flash step out of range of an
+opponent at the very same moment he attempts to throw you, the throw will fail
+and the enemy character will briefly enter a tripping/kneeling animation. If
+you strike an opponent at the same moment he attempts to throw you, or if both
+characters attempt to throw each other at the same time, they will both be
+knocked back from each other.
+
+Each character has a variety of unique special moves and super moves, which can
+either be performed by specific button combinations (listed in the pause menu)
+or by using the touch screen hotkeys. Blue hotkeys are for specials, and red
+hotkeys are for supers.
+
+Like normal attacks, many special moves vary in strength, speed, and behavior
+depending on which attack button you use. Specials performed with the light
+attack button are usually quick but have a long recovery time. Those performed
+with the medium attack button are usually slow but have a quick recovery time.
+Those performed with the heavy attack button often combine the best of both
+worlds. The strongest of these three variations is called a reinforced (RF)
+special move. Performing RF specials uses up one segment of your outer reiryoku
+gauge. If your reiryoku gauge is empty, attempting to perform an RF special
+will result in the use of the next-strongest variation of that special instead.
+Using the touch screen to perform specials will have the same function as using
+the heavy attack button, which means that you'll always use the RF version with
+the touch screen if it's available.
+
+Super moves are typically the strongest attacks available to your character,
+and they do not vary in strength depending on which attack button you press to
+perform them. Every super in the game requires either 1 or 3 reiatsu stock to
+perform.
+
+- MISCELLANEOUS -
+
+KYORAKU/UKITAKE TEAM SUPER
+Kyoraku and Ukitake each have a super attack that is only available if both of
+them are present and on the same team during battle.
+
+YACHIRU/NEMU STUN GLITCH
+Yachiru and Nemu are not affected by attacks at all when in a stunned state.
+All attacks travel right through them and cause no damage. There is no delay
+when recovering from the stun, either. Holding down guard as they recover from
+a stun will prevent them from being damaged by any attacks that happen to hit
+them as the stun wears off.
+
+┌--------------┐
+│ REIFU (霊符) │
+└--------------┘
+Reifu are the spirit cards used during battle to power-up your character and
+power-down your opponents. Various level 1 cards are earned through Story Mode,
+level 4 cards through Arcade and Challenge Modes, some through password entry,
+and the remainder in Urahara's shop. You can arrange up to 5 decks of 15 cards
+each in Deck Construction mode. 10 cards from your chosen deck will be randomly
+selected and arranged for use during gameplay.
+
+You can usually obtain up to 4 copies of each level 1 card, 3 of each level 2,
+2 of each level 3, and 1 of each level 4. Some cards only have one level. You
+do not have to re-buy cards after use; your stock will be fully replenished
+after each battle for later use.
+
+Below is a data chart for all the various reifu available in the game, sorted
+in the same order as most of the in-game menus. Each data box follows this
+format:
+
++--------------------------+--------------------------------------------------+
+|     霊符         REIFU   | explanation of card effect                       |
+|      名          NAME    | timer                 | how to earn level 4 card |
++--------------------------+--------------------------------------------------+
+
+The timer indicates the difference between the level 1/2/3/4 versions of each
+card and can be of any one of the following types:
+ instantaneous: card's effect is instant and will be immediately replaced
+                after use
+      duration: card's effect lasts over a certain period of time
+        linger: card's effect is instant, but the card will remain onscreen for
+                a set time before being replaced
+
+You'll notice that the timer for a few cards do not either increase or decrease
+consistently between levels. This is usually because the higher level version
+has a more potent effect rather than a simple difference in duration. (For
+example, I believe that the higher level versions of Reiatsu Capture will steal
+a greater amount of reiatsu stock from the opponent than the lower level
+versions would.)
+
+The bottom-right corner of each data box indicates what must be completed to
+obtain the level 4 version of the card. As an alternative to Arcade and
+Challenge Mode, you can also buy the level 4 cards after purchasing ALL the
+level 1-3 cards from the shop. The level 4 versions cost quite a lot at 200000
+apiece, though. It's recommended to earn them through gameplay if it's not too
+difficult for you.
+
++-----------------------------------------------------------------------------+
+| 回復系 RECOVERY SYSTEM (BLUE)                                               |
+| Cards in this category restore health and negate undesirable card effects.  |
+| All cards target your character.                                            |
++--------------------------+--------------------------------------------------+
+|     魂魄         SOUL    | gradually restores life                          |
+|     ＵＰ          UP     | 2/3/4/5 sec duration  | Challenge - Orihime      |
++--------------------------+--------------------------------------------------+
+|     霊力       REIRYOKU  | completely restores reiryoku gauge               |
+|     ＵＰ          UP     | 5/4/3/2 sec linger    | Challenge - Uryu         |
++--------------------------+--------------------------------------------------+
+|     霊圧        REIATSU  | gradually increases reiatsu gauge                |
+|     ＵＰ          UP     | 2/3/4/5 sec duration  | Challenge - Renji        |
++--------------------------+--------------------------------------------------+
+|   状態異常       STATE   | nullifies the effect of an assault (red) card    |
+|     回復       RECOVERY  | instantaneous         | no level 2/3/4 card      |
++--------------------------+--------------------------------------------------+
+|   行動異常      CONDUCT  | nullifies the effect of a conduct (purple) card  |
+|     回復       RECOVERY  | instantaneous         | no level 2/3/4 card      |
++--------------------------+--------------------------------------------------+
+| 強化系 REINFORCEMENT SYSTEM (GREEN)                                         |
+| Cards in this category strengthen the user and grant special abilities.     |
+| All cards target your character.                                            |
++--------------------------+--------------------------------------------------+
+|    防御力       DEFENSE  | increases defense                                |
+|     ＵＰ          UP     | 6/7/8/9 sec duration  | Challenge - Rukia        |
++--------------------------+--------------------------------------------------+
+|    攻撃力       ATTACK   | increases attack strength                        |
+|     ＵＰ          UP     | 6/7/8/9 sec duration  | Challenge - Ichigo       |
++--------------------------+--------------------------------------------------+
+|    機動力      MOBILITY  | increases speed                                  |
+|     ＵＰ          UP     | 5/6/7/8 sec duration  | Challenge - Yoruichi     |
++--------------------------+--------------------------------------------------+
+|     無敵      INVINCIBLE | grants immunity from all enemy attacks           |
+|                          | 1/2/3/5 sec duration  | Challenge - Byakuya      |
++--------------------------+--------------------------------------------------+
+|     霊力       REIRYOKU  | gives infinite reiryoku; empties after use       |
+|    無尽蔵      INFINITE  | 5/6/7/8 sec duration  | Challenge - Soifon       |
++--------------------------+--------------------------------------------------+
+|     霊圧        REIATSU  | gives infinite reiatsu; empties after use        |
+|    無尽蔵      INFINITE  | .5/1/2/4 sec duration | Challenge - Kyoraku      |
++--------------------------+--------------------------------------------------+
+|   仰け反り      STAGGER  | prevents you from staggering when attacked       |
+|     無効        CANCEL   | 5/6/7/8 sec duration  | Challenge - Kenpachi     |
++--------------------------+--------------------------------------------------+
+|   通常攻撃      ATTACKS  | makes normal attacks juggle opponents easily     |
+|  ふっとばし    2x FORCE  | 5/6/7/8 sec duration  | Challenge - Komamura     |
++--------------------------+--------------------------------------------------+
+|   通常攻撃      ATTACKS  | allows all normal attacks to chain together      |
+|   チェーン       CHAIN   | 6/7/8/9 sec duration  | Arcade - Ichigo          |
++--------------------------+--------------------------------------------------+
+|    オート        AUTO    | automatically cancels all enemy attacks          |
+|  カウンター     COUNTER  | 1/2/3/5 sec duration  | Arcade - Rukia           |
++--------------------------+--------------------------------------------------+
+|   通常攻撃      ATTACKS  | makes normal attacks hit multiple times          |
+|  多段ヒット    MULTI-HIT | 6/7/8/9 sec duration  | Challenge - Ichimaru     |
++--------------------------+--------------------------------------------------+
+|   通常攻撃      ATTACKS  | gives normal attacks an ice effect               |
+|    氷雪系     ICE EFFECT | 6/7/8/9 sec duration  | Challenge - Hitsugaya    |
++--------------------------+--------------------------------------------------+
+|   通常攻撃      ATTACKS  | gives normal attacks a poison effect             |
+|      毒         POISON   | 6/7/8/9 sec duration  | Challenge - Kurotsuchi   |
++--------------------------+--------------------------------------------------+
+|   通常攻撃      ATTACKS  | gives normal attacks a fire effect               |
+|    炎熱系     FIRE EFFECT| 8/8/8/8 sec duration  | Challenge - Genryusai    |
++--------------------------+--------------------------------------------------+
+|    透明化      INVISIBLE | gives invisibility; does not affect projectiles  |
+|                          | 6/7/8/9 sec duration  | Challenge - Tosen        |
++--------------------------+--------------------------------------------------+
+| 空中ダッシュ  AERIAL DASH| allows unlimited aerial dashes in succession     |
+|    無制限      UNLIMITED | 6/7/8/9 sec duration  | Arcade - Soifon          |
++--------------------------+--------------------------------------------------+
+| 二段ジャンプ  DOUBLE JUMP| allows unlimited double jumps in succession      |
+|    無制限      UNLIMITED | 6/7/8/9 sec duration  | Arcade - Yoruichi        |
++--------------------------+--------------------------------------------------+
+|     弾速      SHOT SPEED | increases projectile speed                       |
+|     ＵＰ          UP     | 6/8/10/12 sec duration| Arcade - Hinamori        |
++--------------------------+--------------------------------------------------+
+|     弾速      SHOT SPEED | decreases projectile speed                       |
+|   ＤＯＷＮ       DOWN    | 6/8/10/12 sec duration| Arcade - Uryu            |
++--------------------------+--------------------------------------------------+
+| 攻撃系 ASSAULT SYSTEM (RED)                                                 |
+| Cards in this category weaken the receiver.                                 |
+| All cards target all enemies.                                               |
++--------------------------+--------------------------------------------------+
+|     霊力       REIRYOKU  | completely depletes enemy reiryoku gauge         |
+|   ＤＯＷＮ       DOWN    | 7/7/7/3 sec linger    | Arcade - Byakuya         |
++--------------------------+--------------------------------------------------+
+|     霊圧        REIATSU  | decreases enemy reiatsu gauge                    |
+|   ＤＯＷＮ       DOWN    | 2/3/4/5 sec duration  | Challenge - Ukitake      |
++--------------------------+--------------------------------------------------+
+|    機動力      MOBILITY  | decreases enemy speed                            |
+|   ＤＯＷＮ       DOWN    | 5/5/6/7 sec duration  | Arcade - Komamura        |
++--------------------------+--------------------------------------------------+
+|    攻撃力       ATTACK   | decreases enemy attack strength                  |
+|   ＤＯＷＮ       DOWN    | 6/7/8/9 sec duration  | Arcade - Tosen           |
++--------------------------+--------------------------------------------------+
+|    防御力       DEFENSE  | decreases enemy defense                          |
+|   ＤＯＷＮ       DOWN    | 6/7/8/9 sec duration  | Arcade - Hitsugaya       |
++--------------------------+--------------------------------------------------+
+|     霊力       REIRYOKU  | steals enemy reiryoku                            |
+|     奪取        CAPTURE  | 6/7/8/6 sec linger    | Arcade - Ukitake         |
++--------------------------+--------------------------------------------------+
+|     霊圧        REIATSU  | steals enemy reiatsu                             |
+|     奪取        CAPTURE  | 6/7/8/6 sec linger    | Arcade - Ichimaru        |
++--------------------------+--------------------------------------------------+
+|   霊符効果   REIFU EFFECT| nullifies active card effects on enemies         |
+|     無効        CANCEL   | 9/7/5/3 sec linger    | Arcade - Kyoraku         |
++--------------------------+--------------------------------------------------+
+|     弾速      SHOT SPEED | increases enemy projectile speed                 |
+|     ＵＰ          UP     | 6/8/10/12 sec duration| button password #1       |
++--------------------------+--------------------------------------------------+
+|     弾速      SHOT SPEED | decreases enemy projectile speed                 |
+|   ＤＯＷＮ       DOWN    | 6/8/10/12 sec duration| button password #2       |
++--------------------------+--------------------------------------------------+
+| 行動系 CONDUCT SYSTEM (PURPLE)                                              |
+| Cards in this category restrict enemy behavior.                             |
+| All cards target all enemies.                                               |
++--------------------------+--------------------------------------------------+
+|   ダッシュ       DASH    | prohibits enemies from dashing                   |
+|     禁止       PROHIBIT  | 5/7/9/11 sec duration | Arcade - Renji           |
++--------------------------+--------------------------------------------------+
+|   ジャンプ       JUMP    | prohibits enemies from jumping                   |
+|     禁止       PROHIBIT  | 5/7/9/11 sec duration | Arcade - Genryusai       |
++--------------------------+--------------------------------------------------+
+|   通常攻撃      ATTACKS  | prohibits enemies from using normal attacks      |
+|     禁止       PROHIBIT  | 5/7/9/11 sec duration | Arcade - Kenpachi        |
++--------------------------+--------------------------------------------------+
+|チェーンコンボ CHAIN COMBO| prohibits enemies from using chain combos        |
+|     禁止       PROHIBIT  | 5/7/9/11 sec duration | Arcade - Komamura (UM)   |
++--------------------------+--------------------------------------------------+
+|     霊符         REIFU   | prohibits enemies from using spirit cards        |
+|     禁止       PROHIBIT  | 5/7/9/11 sec duration | Arcade - Orihime         |
++--------------------------+--------------------------------------------------+
+|   特殊移動    SP.MOVEMENT| prohibits enemies from using flash steps         |
+|     禁止       PROHIBIT  | 5/7/9/11 sec duration | Arcade - Chad            |
++--------------------------+--------------------------------------------------+
+|    必殺技      SPECIALS  | prohibits enemies from using special attacks     |
+|     禁止       PROHIBIT  | 5/7/9/11 sec duration | Arcade - Ganju           |
++--------------------------+--------------------------------------------------+
+|    ガード        GUARD   | prohibits enemies from guarding                  |
+|     禁止       PROHIBIT  | 5/7/9/11 sec duration | Challenge - Chad         |
++--------------------------+--------------------------------------------------+
+|     混乱       CONFUSION | reverses enemy controls (left=right)             |
+|                          | 5/7/9/11 sec duration | Challenge - Ganju        |
++--------------------------+--------------------------------------------------+
+|  ライン移動   LINE CHANGE| prohibits enemies from switching planes          |
+|     禁止       PROHIBIT  | 5/7/9/11 sec duration | Challenge - Hinamori     |
++--------------------------+--------------------------------------------------+
+|     強制         FORCE   | forces enemies to crouch                         |
+|   しゃがみ      CROUCH   | 5/7/9/11 sec duration | Arcade - Kurotsuchi      |
++--------------------------+--------------------------------------------------+
+|     強制         FORCE   | forces enemies to stand                          |
+|     立ち         STAND   | 5/7/9/11 sec duration | touch screen password #1 |
++--------------------------+--------------------------------------------------+
+|     強制         FORCE   | forces enemies to dash                           |
+|   ダッシュ       DASH    | 5/7/9/11 sec duration | touch screen password #2 |
++--------------------------+--------------------------------------------------+
+|     強制         FORCE   | forces enemies to walk                           |
+|     歩き         WALK    | 5/7/9/11 sec duration | touch screen password #3 |
++--------------------------+--------------------------------------------------+
+|     強制         FORCE   | forces enemies to jump                           |
+|   ジャンプ       JUMP    | 5/7/9/11 sec duration | Arcade - Aizen           |
++--------------------------+--------------------------------------------------+
+|     強制         FORCE   | forces enemies to use flash steps                |
+|   特殊移動    SP.MOVEMENT| 5/7/9/11 sec duration | button password #3       |
++--------------------------+--------------------------------------------------+
+|     強制         FORCE   | forces enemies to switch planes                  |
+|  ライン移動   LINE CHANGE| 2/4/6/8 sec duration  | button password #4       |
++--------------------------+--------------------------------------------------+
+|     霊符         REIFU   | forces enemies to use spirit cards               |
+|   強制使用     FORCE USE | 5/7/9/11 sec duration | button password #5       |
++--------------------------+--------------------------------------------------+
+|    カメラ       CAMERA   | locks enemy camera in place                      |
+|     固定         LOCK    | 5/7/9/11 sec duration |                          |
++--------------------------+--------------------------------------------------+
+| その他 MISCELLANEOUS (ORANGE)                                               |
+| The first two cards target a single enemy. The rest target all players.     |
++--------------------------+--------------------------------------------------+
+|     霊力       REIRYOKU  | exchanges reiryoku level with an enemy           |
+|     交換       EXCHANGE  | 20 sec linger         | no level 2/3/4 card      |
++--------------------------+--------------------------------------------------+
+|     霊圧        REIATSU  | exchanges reiatsu level with an enemy            |
+|     交換       EXCHANGE  | 30 sec linger         | no level 2/3/4 card      |
++--------------------------+--------------------------------------------------+
+|     魂魄         SOUL    | evenly redistributes all player life bars        |
+|    平均化       BALANCE  | instantaneous         | no level 2/3/4 card      |
++--------------------------+--------------------------------------------------+
+|     霊力       REIRYOKU  | reduces all player reiryoku gauges to zero       |
+|    ＭＩＮ         MIN    | instantaneous         | no level 2/3/4 card      |
++--------------------------+--------------------------------------------------+
+|     霊圧        REIATSU  | reduces all player reiatsu gauges/stock to zero  |
+|    ＭＩＮ         MIN    | instantaneous         | no level 2/3/4 card      |
++--------------------------+--------------------------------------------------+
+|     霊力       REIRYOKU  | maximizes all player reiryoku gauges             |
+|    ＭＡＸ         MAX    | instantaneous         | no level 2/3/4 card      |
++--------------------------+--------------------------------------------------+
+|     霊圧        REIATSU  | gives all players 3 reiatsu stock                |
+|    ＭＡＸ         MAX    | instantaneous         | Story - Ichigo (5C)      |
++--------------------------+--------------------------------------------------+
+
+┌------------------------------┐
+│ SIMPLE MODE (簡易操作モード) │
+└------------------------------┘
+When setting up the game, there will be an option to change the control method
+from Manual to Auto. Auto activates Simple Mode, which has the following
+features:
+
+AUTOMATIC CHAIN COMBO
+This feature strings attacks together whenever possible. For an example of how
+this works, start Training Mode with Ichigo in Manual mode. Walk up next to
+your opponent and quickly press the light attack button 3 times in succession.
+You will strike him with 3 light attacks. Now return to the Character Select
+screen and change the control method to Auto. Walk up to your opponent and
+quickly press the light attack button 3 times once more. Ichigo will use the
+light attack -> medium attack -> heavy attack chain combo instead. Auto chain
+combo will attempt to use the most damaging variation of your command when you
+are guaranteed to hit the enemy. Be aware, however, that this limits the number
+of custom combos you can discover and execute on your own. Auto chain combo
+isn't recommended for advanced players or anybody who wants to be truly
+competitive.
+
+AUTOMATIC GUARD
+This feature will cause your character to automatically guard whenever
+possible. Only your opponents' counter attacks will successfully connect.
+
+SPECIAL HOTKEYS
+When in Simple Mode, the hotkeys for specials and supers will be displayed by
+default. You can still use the change button to show only the reifu cards.
+
+┌---------------------------------------------------------------------------┐
+│ SECTION IV: STORY MODE (ストーリーモード)                                 │
+└---------------------------------------------------------------------------┘
+NOTE: Ichigo and Renji cannot use their bankai supers in their respective story
+episodes until they reach the point where they learn how to perform them in the
+manga/anime. Ganju cannot summon Bonnie in his episode because he's apparently
+searching for her.
+
+┌-------------------------------------┐
+│ CHARACTER AND CONTROL METHOD SELECT │
+└-------------------------------------┘
+You must first select your character. If this is your first time playing, only
+Ichigo's story will be available.
+
+初めから      NEW GAME
+続きから      CONTINUE
+
+操作方法      CONTROL METHOD
+ マニュアル    MANUAL
+ オート        AUTO (SIMPLE MODE)
+霊符スロット  REIFU SLOT SELECT
+ ランダム      RANDOM
+
+┌--------------------┐
+│ ICHIGO WALKTHROUGH │
+└--------------------┘
+You must complete Ichigo's story before you are allowed to play anyone else's.
+Ichigo's story has many branching paths with certain conditions that must be
+met in order to successfully complete it. The story dialogue will give you
+hints as to what is required of you (usually with bright red text), but it's
+all for nothing if you can't read Japanese. Below is a walkthrough with all the
+requirements for successfully completing Ichigo's story. I'm not sure if it's
+the most effective route, but I can verify that it works.
+
+Training:                complete the instruction sequence
+vs Ganju:                defeat him
+vs Renji:                defeat him 
+vs Kenpachi:             defeat him
+vs Byakuya:              defeat him
+vs Renji:                defeat him with 0 reiatsu stock remaining
+vs Hinamori:             defeat her
+vs Hitsugaya & Hinamori: defeat them
+vs Kurotsuchi:           defeat him
+vs Renji:                defeat him with 0 reiatsu stock remaining
+vs Hitsugaya & Hinamori: defeat Hitsugaya first, Hinamori second
+vs Ichimaru:             defeat him
+vs Renji:                defeat him with 3 reiatsu stock remaining
+vs Kyoraku & Ukitake:    defeat them
+vs Tosen:                defeat him
+vs Tosen & Komamura:     defeat them
+vs Renji:                defeat him with 3 reiatsu stock remaining
+vs Kyoraku & Ukitake:    execute a 20-hit combo (hit both at once with Super B)
+vs Soifon:               defeat her
+vs Genryusai:            defeat him
+Advanced Training:       complete the instruction sequence
+vs Byakuya:              defeat him
+
+You can skip the training levels by pressing the SELECT button if you wish.
+Below is a translation of Japanese phrases used during the training levels.
+General command translations are listed above in SECTION I under COMMON TERMS.
+
+ジャンプ中に    while jumping
+立ち中に        while standing
+しゃがみ中に    while crouching
+霊符をタッチ    touch reifu
+覚悟を決めたら  when finished
+防御中に        while guarding
+ダメージ中に    while taking damage
+
+The first 5 matches will always be the same no matter what you do. Once you
+reach Renji for the second time, he'll serve as a checkpoint of sorts, and
+depending on how many reiatsu stock you have in reserves when you defeat him,
+you'll branch out to different paths. In order to fully complete Ichigo's
+story, you must defeat every character listed above at least once. If you
+successfully complete all the requirements in Ichigo's story, it will be marked
+as COMPLETE in the episode select screen. If you skip over a character, it will
+be marked CLEAR and you will have to replay it in order to unlock everything.
+
+You do not have to play through Ichigo's story in the exact order listed above,
+but this seems to be the simplest route that I can find. For completion's sake,
+below is a translation of all the special objectives you are given whenever you
+fight any character for the second time. Pay attention to the text before the
+match, and if you see a red phrase, check below to see what it means.
+
+RENJI:
+霊圧が最大 = win with max reiatsu stock (3) -> KYORAKU/UKITAKE ROUTE
+霊圧が最小 = win with min reiatsu stock (0) -> HITSUGAYA/HINAMORI ROUTE
+それ以外   = win with other condition (1 or 2 reiatsu stock) -> KENPACHI ROUTE
+
+HITSUGAYA & HINAMORI:
+誰が先に倒れるか = defeat me (Hitsugaya) first
+
+KENPACHI:
+魂魄の残量 = win with a small amount of health (exact amount unknown)
+
+KYORAKU & UKITAKE:
+連続ヒット数 = perform a large combo (20+ hits)
+
+KUROTSUCHI:
+瞬歩禁止など = do not use flash steps
+
+TOSEN & KOMAMURA:
+霊府使用枚数 = use all of your reifu
+
+┌--------------┐
+│ UNLOCK GUIDE │
+└--------------┘
+After completing Ichigo's story, the episodes for Orihime, Uryu, Chad, and
+Ganju are unlocked. Clearing their episodes opens up additional ones in the
+following order:
+
+Orihime -> Kenpachi   -> Tosen   -> Komamura  -> Komamura (unmasked)
+Uryu    -> Kurotsuchi -> Soifon  -> Yoruichi  -> Rukia
+Chad    -> Kyoraku    -> Ukitake -> Genryusai -> Ichimaru
+Ganju   -> Renji      -> Byakuya -> Hitsugaya -> Hinamori
+
+Clearing all of the above episodes unlocks Aizen's, and clearing his unlocks
+the final episode. Clearing the final story episode unlocks Time Attack Mode,
+Survival Mode, and grants you a one-time bonus of 500000 points to spend at the
+shop.
+
+Clearing Ichigo's story yields 100000 shop points each time. Clearing other
+episodes grants you 1000 points per match. A variety of level 1 reifu are
+unlocked through Ichigo's story, which then allows you to buy additional copies
+and higher level versions of those cards through the shop.
+
+Initially, 14 characters are available for play in Arcade, VS, Training, Time
+Attack, Survival, and Challenge modes. Below are the requirements for unlocking
+the other 14 characters. (Not all characters are available in Challenge Mode.)
+
+Ukitake:             defeat him in Ichigo's story
+Komamura:            defeat him in Ichigo's story
+Soifon:              defeat her in Ichigo's story
+Genryusai:           defeat him in Ichigo's story
+Yoruichi:            clear (or skip) advanced training in Ichigo's story
+Tatsuki:             clear Orihime's story
+Bonnie:              clear Ganju's story
+Yachiru:             clear Kenpachi's story
+Nemu:                clear Kurotsuchi's story
+Komamura (Unmasked): clear Komamura's story
+Rukia:               clear Yoruichi's story
+Kon:                 clear Rukia's story
+Aizen:               clear all other characters' stories
+Ichigo (Hollow):     clear the final story episode
+
+Once a character is unlocked, you may purchase that character's corresponding
+System Voice set from the shop. Voice sets for non-playable characters are made
+available as follows:
+
+Yamada Hanatarou:    clear Ganju's story
+Madarame Ikkaku:     clear Kenpachi's story
+Ayasegawa Yumichika: clear Kenpachi's story
+Urahara Kisuke:      clear Yoruichi's story
+Kira Iduru:          clear Ichimaru's story
+Shiba Kaien:         clear the final story episode
+
+Event and character graphics are unlocked in the Gallery simply after viewing
+them in Story Mode. However, if you press Start to skip through the cutscenes,
+you might skip over some of these graphics, which prevents you from unlocking
+them. Hold down to fast-forward through story mode text instead of skipping it,
+and you'll unlock everything.
+
+┌---------------------------------------------------------------------------┐
+│ SECTION V: ARCADE MODE (アーケードモード)                                 │
+└---------------------------------------------------------------------------┘
+All characters are available for play in Arcade Mode, which consists of 6
+1-on-1 fights in succession. Clearing each character's arcade sequence for the
+first time will net you a significant reward, either a level 4 reifu or 200000
+points for use in the shop. The word "CLEAR" will appear in the bottom-left
+corner of the screen for each character you've already played. You will also
+receive 2000 points from each match every time you play.
+
+REWARDS
+Ichigo:              Normal Attacks Chain
+Rukia:               Auto Counter
+Orihime:             Prohibit Reifu
+Uryu:                Shot Speed Down (Reinforcement)
+Chad:                Prohibit Special Movement [Flash Steps]
+Ganju:               Prohibit Special Attacks
+Renji:               Prohibit Dash
+Byakuya:             Reiryoku Down
+Ichimaru:            Reiatsu Capture
+Kenpachi:            Prohibit Normal Attacks
+Hitsugaya:           Defense Down
+Hinamori:            Shot Speed Up (Reinforcement)
+Tosen:               Attack Down
+Komamura:            Mobility Down
+Kurotsuchi:          Force Crouch
+Kyoraku:             Cancel Reifu Effect
+Ukitake:             Reiryoku Capture
+Soifon:              Unlimited Aerial Dash
+Genryusai:           Prohibit Jump
+Yoruichi:            Unlimited Double Jump
+Komamura (Unmasked): Prohibit Chain Combos
+Aizen:               Force Jump
+Nemu:                money (200000)
+Ichigo (Hollow):     money (200000)
+Yachiru:             money (200000)
+Kon:                 money (200000)
+Bonnie:              money (200000)
+Tatsuki:             money (200000)
+
+┌---------------------------------------------------------------------------┐
+│ SECTION VI: VS MODE (ＶＳモード)                                          │
+└---------------------------------------------------------------------------┘
+Versus Mode has play modes for up to 4 players total, either human or CPU,
+online or offline, and single-cart or multi-cart. Choose VS CPU for matches
+against only the computer, WIRELESS BATTLE for matches against other players
+with their own copies of the game, DOWNLOAD PLAY for single-cart multiplayer,
+or Wi-Fi CONNECTION for Internet multiplayer through the Nintendo Wi-Fi
+Connection. All modes besides VS CPU will reward you with 2000 points for the
+shop for every match you play, whether you win or lose.
+
+┌-----------------------------┐
+│ DS WIRELESS & DOWNLOAD PLAY │
+└-----------------------------┘
+As I do not have another DS or copy of the game available for testing, I cannot
+provide detailed information regarding either of these gameplay modes. However,
+all characters and stages are known to be available in single-cart download
+play, and no particular aspect of the game seems to be restricted. The only
+drawback appears to be long load times.
+
+┌------------------┐
+│ WI-FI CONNECTION │
+└------------------┘
+Bleach DS features a very fleshed-out online mode with ranking matches, friend
+battles, and a few filters for rule settings. A translation of most of the
+menu:
+
+ログイン                LOGIN
+ はい                    YES (CONFIRM)
+ いいえ                  NO (CANCEL)
+友達管理                FRIEND CODE SETTINGS
+ 友達リストの確認        FRIEND CODE LIST
+ 友達コード入力          INPUT FRIEND CODE
+ 友達コード確認          MY FRIEND CODE
+ 友達コード交換          EXCHANGE FRIEND CODES
+  友達コード交換受付      SEND FRIEND CODES
+  友達コード交換？？？    RECEIVE FRIEND CODES
+接続先の設定            Wi-Fi SETTINGS
+
+If you have not gone online with your Nintendo DS prior to this, you may have
+to adjust settings in the Wi-Fi SETTINGS screen (third selection on the menu).
+The Wi-Fi configuration menus are set-up in a completely different manner than
+the rest of the game and should in fact bear a very close resemblance to the
+Wi-Fi configuration menus in any other online-capable Nintendo DS game. If you
+have an English-language Nintendo DS game with Wi-Fi Connection features, the
+settings menu in Bleach DS should look exactly the same, only in Japanese. If
+you require a translation, check www.nintendowifi.com for downloadable manuals
+in your native language.
+
+What you should see after logging into WFC:
+
+　＜日本国内対戦＞　＜フレンド対戦＞       <JAPAN BATTLE>  <FRIEND BATTLE>
+
+対戦人数　　２人　　　　４人            # OF PLAYERS  2 PLAYERS    4 PLAYERS
+対戦ルール　自由　　　　固定            BATTLE RULES  FREE CHOICE  RESTRICTED
+　　　　　　デスマッチ　ポイントマッチ                DEATHMATCH   POINTMATCH
+　　　　　　霊符有　　　霊符無                        REIFU ON     REIFU OFF
+
+         ＜尸魂界靈位争奪戦＞               <SOUL SOCIETY RANKING MATCH>
+
+         　霊圧　＃＃＃＃                       SPIRIT LEVEL  ####
+         　霊位　－－－－－                     RANK TITLE    -----
+
+Using the REIFU OFF filter also prohibits the use of team battles and
+handicaps.
+
+JAPAN BATTLE will randomly pit you against anyone else connecting to the
+servers, FRIEND BATTLE will narrow down the field to those on your Friend List,
+and SOUL SOCIETY RANKING MATCH will attempt to match you up in a 1-on-1 fight
+with another player who holds the same rank as you. All new players start with
+a spirit level of 1000. You earn and lose points as you win and lose matches,
+and your rank will change accordingly. Should you disconnect from a ranking
+match by turning off your DS or letting the battery run out, your spirit level
+will be reduced by 2000 points.
+
+All new players start with the rank title of "第十席霊位," which roughly
+translates to "Tenth Seat." The second character is a number which changes as
+your spirit level increases. Based on the experience I've put into Wi-Fi so
+far, the promotions are as follows:
+
+                               28000 第一席霊位
+                               23000 第二席霊位
+                               18500 第三席霊位
+                               14500 第四席霊位
+                               11000 第五席霊位
+                                8000 第六席霊位
+                                5500 第七席霊位
+                                3500 第八席霊位
+                                2000 第九席霊位
+                                   0 第十席霊位
+
+You advance to Ninth Seat after earning 1000 points, to Eighth Seat after
+earning another 1500, to Seventh Seat after earning another 2000, and so on
+with the interval increasing by 500 points for each iteration. I can confirm
+that the pattern continues until at least Third Seat. Assuming that Vice
+Captain and Captain follow First Seat, the requirement for the top rank would
+be 39500 points.
+
+┌---------------------------------------------------------------------------┐
+│ SECTION VII: TRAINING MODE (トレーニングモード)                           │
+└---------------------------------------------------------------------------┘
+This mode allows 1-on-1 practice against the computer. Your life bar
+automatically refills itself and you can instruct your CPU opponent to perform
+certain actions.
+
+┌---------------------------------------------------------------------------┐
+│ SECTION VIII: TIME ATTACK MODE (タイムアタックモード)                     │
+└---------------------------------------------------------------------------┘
+This mode is unlocked upon the completion of the final episode of Story Mode.
+It consists of a sequence of 20 1-on-1 fights against the computer in the
+following order:
+
+Ganju
+Orihime
+Chad
+Hinamori
+Renji
+Uryu
+Rukia
+Tosen
+Komamura
+Kurotsuchi
+Soifon
+Hitsugaya
+Ichimaru
+Kenpachi
+Kyoraku
+Ukitake
+Byakuya
+Yoruichi
+Ichigo
+Genryusai
+
+Reifu can be reused between battles and the maximum money reward for completion
+seems to be 48000. No items are earned through Time Attack Mode.
+
+┌---------------------------------------------------------------------------┐
+│ SECTION IX: SURVIVAL MODE (サバイバルモード)                              │
+└---------------------------------------------------------------------------┘
+This mode is also unlocked upon completion of the final episode of Story Mode.
+Survival Mode consists of an endless amount of 1-on-1 fights against the
+computer until you die or quit. Health and reifu are not restored between
+matches, and your reiatsu and reiryoku gauges carry over between matches
+instead of being reset to zero. The recommended strategy is to use a deck built
+mainly for healing. Aizen is a preferable character to use, as the AI has a
+hard time dealing with many of his moves.
+
+The order of the first 20 matches is pre-determined (same order as Time Attack
+Mode, above). After 20 matches, you will fight against any of the previous 20
+characters randomly (though it seems that there is a greater chance of
+replaying characters that gave you more trouble).
+
+No items are rewarded, but the monetary gain is impressive. You receive a
+moderate amount for the first few wins, but after a time the amount begins
+increasing by leaps and bounds.
+
+REWARDS
+  1 win:      200
+  2 wins:    1000
+  3 wins:    3000
+  4 wins:    7000
+  5 wins:   15000
+  6 wins:   31000
+  7 wins:   47000
+  8 wins:   63000
+ 20 wins:  255000
+100 wins: 1535000
+
+┌---------------------------------------------------------------------------┐
+│ SECTION X: CHALLENGE MODE (チャレンジモード)                              │
+└---------------------------------------------------------------------------┘
+This mode is available for 20 different characters. The goal is to complete
+each of the 10 chain combo sequences displayed on screen for each character.
+You will receive 50000 shop points and a level 4 reifu upon completion of each
+character's challenge.
+
+REWARDS
+Ichigo:     Attack Up
+Rukia:      Defense Up
+Orihime:    Soul Up
+Uryu:       Reiryoku Up
+Chad:       Prohibit Guard
+Ganju:      Confusion
+Renji:      Reiatsu Up
+Byakuya:    Invincible
+Ichimaru:   Normal Attacks Multi-Hit
+Kenpachi:   Stagger Cancel
+Hitsugaya:  Normal Attacks Ice Effect
+Hinamori:   Prohibit Line Change
+Tosen:      Invisible
+Komamura:   Normal Attacks Double Force
+Kurotsuchi: Normal Attacks Poison Effect
+Kyoraku:    Infinite Reiatsu
+Ukitake:    Reiatsu Down
+Soifon:     Infinite Reiryoku
+Genryusai:  Normal Attacks Fire Effect
+Yoruichi:   Mobility Up
+
+┌--------------┐
+│ GENERAL TIPS │
+└--------------┘
+
+UNDERSTANDING CHAIN COMBOS AND INSERTING BUFFERING TECHNIQUES
+Normal, special, and super attacks in Bleach DS are generally chained from
+weaker attacks to stronger attacks, meaning that it is usually possible to
+follow a light attack with a medium attack and a medium with a heavy, but not a
+heavy to a medium or a heavy followed by another heavy. Furthermore, it is
+usually possible to chain a light/medium/heavy normal attack to a special and a
+special to a super, but not the other way around. (There are a few notable
+exceptions to this rule, which should become apparent as you play each
+individual characters' challenges. Faster characters can chain light attacks
+together indefinitely, Uryu can fire three heavy attacks in succession with his
+bow, Komamura can link standing heavy to crouching heavy, etc.) Because of this
+limitation, most combo challenges cannot be performed exactly as they're
+written, and you'll have to insert extra attacks and techniques between certain
+moves in order to link them together without breaking the chain. The most
+common examples are using flash steps to continue combos on the ground and
+double jumps to continue combos in mid-air. Many required and recommended
+buffering techniques will be listed in the walkthrough below in [brackets].
+
+POSITIONING
+Many combo challenges are easier if done right next to the wall. In the
+walkthrough below, assume that every combo is meant to be done next to the wall
+unless stated otherwise.
+
+SPECIALS AND REINFORCED SPECIALS
+Many special attacks have three different versions: light, medium, and
+reinforced (RF), which are performed with the light, medium, and heavy attack
+buttons, respectively. Remember that using the touch screen to perform specials
+has the same behavior as using the heavy attack button, so using the touch
+screen to perform specials will always perform the RF version for that special
+if it exists and if you have enough reiryoku to perform it. If a combo
+challenge asks you to perform the RF version, you cannot perform the light or
+medium version. The opposite holds true as well. Additionally, light specials
+usually have a quick set-up but long recovery time, and medium specials usually
+have a long set-up and quick recovery time. If you're having trouble trying to
+complete a combo with one variation of a special attack, try out the other and
+see if it makes it any easier.
+
+INSTANT AERIAL DASH (IAD)
+Sometimes you'll be asked to link a series of aerial attacks followed by a
+series of standing attacks. Typically, the ideal way to do this is to perform
+an instant aerial dash, which will keep your character close enough to the
+ground so you can land and continue the combo quickly. To perform an IAD, jump
+diagonally towards the CPU dummy, and then immediately press forward to dash
+once you're in mid-air. Perform the required aerial attacks before you touch
+the ground, and then follow up with the rest of the combo. (Depending on how
+close you land to the dummy, it can sometimes be helpful to quickly dash next
+to the dummy once you touch ground again, but this isn't necessary for every
+combo.)
+
+OFF-THE-GROUND (OTG) ATTACKS
+When you strike a falling opponent in mid-air, it will normally keep him in an
+aerial state. However, if you strike him just as he initially hits the ground,
+it will put him into a standing state, which allows you to proceed with a
+standing combo more easily. The timing window for this technique is very
+strict.
+
+┌-----------------------------------┐
+│ INDIVIDUAL CHALLENGE WALKTHROUGHS │
+└-----------------------------------┘
+Below are instructions that should be useful in completing many of the various
+challenge combos in the game. If a combo is not listed below, then it should be
+easy enough to complete as it is written. Translations for the Japanese kanji
+are listed above in SECTION I under COMMON TERMS. Here is the notation that
+I'll be using for this section:
+
+s     standing
+c     crouching
+a     aerial
+L     light attack
+M     medium attack
+H     heavy attack
+T     throw
+S-X   special attack X
+RF-X  reinforced special attack X
+SU-X  super attack X
+FS    flash step
+D     dash
+IAD   instant aerial dash
+OTG   off-the-ground
+
+ICHIGO 2: [IAD] aM → aH → sL → sM → sH
+
+ICHIGO 5: sL → sH → [FS] → sL → sH → [FS] → sL → sH → [FS] → sL → sH
+
+ICHIGO 6: [IAD] aH → [FS] → aH → [FS] → aH → [FS] → aH
+Jump high enough to get the entire combo in before you land.
+
+ICHIGO 7: cM → sH → RF-B → SU-A
+Wait until the RF-B registers before finishing with the super.
+
+ICHIGO 8: T → [OTG] cL → sM → sH → [FS] → aM → aH → [D] sL → sM → sH
+          → RF-B → S-C
+Flash step diagonally upwards to connect sH to aM. The dash is optional if you
+manage to flash step close enough to the dummy for the rest of the combo to
+reach. Both swipes of S-C must connect in order for it to register.
+
+ICHIGO 9: RF-A → aM → [FS] → aL → aM → aH
+You must stand a short distance away from the dummy in order to make RF-A
+juggle him. Jump diagonally towards him while he's being juggled to connect aM,
+and then flash step closer to him to finish the combo.
+
+ICHIGO 10: cH → aM → aM → [FS] → aM → [FS] → aM → [FS] → aM → RF-C
+Pretty straightforward. Make sure to jump and double jump high enough during
+the first two aMs in order to make the rest of the combo connect.
+
+RUKIA 1: sL → sM → sH → S-A
+Use the medium version of S-A.
+
+RUKIA 3: cL → sH → [FS] → S-D
+
+RUKIA 4: [IAD] aL → aM → cL → sH → SU-A
+Both the lightning and the fireball parts of SU-A must connect for it to
+register.
+
+RUKIA 5: [IAD] aM → aH → cL → cH → SU-B
+
+RUKIA 6A: [IAD] aL → aL → aL → [D] sL → sL → sL → sL → [FS] → sL → sL
+          → sL → sL → [FS] → sL → sL → sL → sL → [FS] → sL → sL → cH
+          → aL → aL → aL → aL → aL → aL → aL → aL
+This one isn't quite as intimidating as it might seem as first. When on the
+ground, stay close enough to the dummy to get 4 light attacks in at a time
+between flash steps. When in the air, get 4 light attacks in before and after
+the double jump.
+
+RUKIA 6B: [IAD] aL → aL → aL → [D] sL → [D] sL → [D] sL → [D] sL
+          → [D] sL → [D] sL → [D] sL → [D] sL → [D] sL → [D] sL → [D] sL
+          → [D] sL → [D] sL → [D] sL → cH → aL → aL → aL → aL → aL
+          → aL → aL → aL
+An alternate method for Rukia's 6th combo. If you're fast enough, it's possible
+to alternate between dashing and sL indefinitely.
+
+RUKIA 8: RF-D → RF-C → [D] sL → sM → sH → RF-B
+You must use RF-D to kick the dummy from one side of the screen to the other.
+RF-C will freeze him in place so you can run up to him and finish the combo.
+
+RUKIA 9: aH → S-A → aL → aM → aH
+Position yourself between the dummy and the wall to keep S-A from pushing you
+backwards. Jump straight into the air and connect aH and S-A just before you
+touch the ground, then jump again and follow up with the rest of the combo.
+
+RUKIA 10: cH → aL → aL → RF-A → SU-A
+The key to this one is jumping high enough during the 2 aLs so that SU-A is
+able to connect at the end. Get as much height as you can before hitting the
+dummy with the light attacks, and you should be fine.
+
+ORIHIME 3: [IAD] aL → aM → cL → cH → S-C
+
+ORIHIME 4: S-A → S-D
+Time S-D so that it connects as S-A is coming back towards you.
+
+ORIHIME 6: SU-B → [IAD] aM → aH → [IAD] aM → aH → [IAD] aM → aH
+           → [IAD] aM → aH → [IAD] aM → aH → [IAD] aM → aH
+Pin the dummy against the wall with SU-B to hold him in place. Perform an IAD
+to connect two aerial hits, land, and repeat 5 times to finish the combo before
+he recovers.
+
+ORIHIME 7: cL → cM → cH → RF-A → [D] cL → cM → cH → cL → cM → cH
+RF-A will hit the dummy a second time as it returns to you, allowing you to
+chain cH to cL.
+
+ORIHIME 8: T → SU-B → cL → cM → cH → RF-A → [D] sL → sH → aL → aH
+           → aL → aH → RF-B
+It might be easier to execute this combo in the middle of the arena as opposed
+to the wall. Perform SU-B first, and then throw the dummy into the barrier. Hit
+him with cL as he bounces back towards you, then follow with the rest of the
+combo.
+
+ORIHIME 9: SU-A → SU-B → S-D
+Perform SU-B first, and pin the dummy against the wall with it. Charge SU-A to
+maximum size before you release it. Performing S-D will make the previous
+barrier formed with SU-B disappear, so you have to time it such that SU-A hits
+the dummy a second time as you're setting up S-D.
+
+ORIHIME 10: cL → cH → SU-A → [D] cL → cM → cH → [D] cL → cH → SU-A
+            → [D] cL → cM → cH → [D] cL → cH → SU-A → [D] cL → cM → cH
+            → [D] cL → cH
+I can't think of much advice to give on this one besides getting a feel for the
+timing needed to keep the chain from breaking. Just do it as it says. It's a
+little easier to time the normal hits if you manage to let SU-A carry the dummy
+back and forth a little bit whenever it hits him.
+
+URYU 2: S-A → S-B → RF-A
+Launch S-B first, then perform S-A. S-B will fall and hit the dummy after S-A.
+
+URYU 3: [IAD] aL → aL → aL → [D] sL → sL → sL → S-C
+
+URYU 5: sM → sH → sM → [FS] → sH → sM → sH → SU-B
+
+URYU 6: T → [OTG] cL → sH → [FS] → cL → sH → [FS] → cL → sH → SU-B
+
+URYU 7: S-A → S-B → [IAD] aL → aL → aL → sL → sM → sH → RF-A
+Launch S-B first, just like his second challenge.
+
+URYU 8: RF-C → aL → aL → aL → aL → aL → aM → aH → SU-B
+Charge RF-C to its max size, and it'll juggle the dummy enough to allow you to
+follow up with the rest of the combo.
+
+URYU 9: sL → sM → sH → S-B → RF-C → aL → aL → aM → aH → SU-B
+Launch S-B first. You don't have to charge RF-C this time. S-B should hit the
+dummy at the same time as RF-C, so following up with the aerial part should be
+easy.
+
+URYU 10: sM → sH → sM → [FS] → sH → sM → sH → [FS] → sM → sH → sM
+         → [FS] → sH → sM → sH
+
+CHAD 4: [IAD] aL → aM → sL → sM → RF-A → SU-A
+It's easier to link RF-A to SU-A if done in the middle of the arena as opposed
+to the wall.
+
+CHAD 5: [IAD] aM → aH → [D] cL → cH → RF-B → SU-B
+
+CHAD 8: cL → sH → RF-B → [OTG] cL → cM → S-B → SU-A
+sH will launch the dummy, and RF-B will bounce him off the wall. Turn around
+and use an OTG hit to finish the rest of the combo.
+
+CHAD 9: cL → cH → S-B → SU-A → [OTG] cL → cH → SU-B → aL → aM → aL
+        → aM → aH
+The key to this one is starting the combo the proper distance away from the
+wall in order to time the OTG hit.
+
+CHAD 10: [IAD] aH → RF-C → [IAD] aH → RF-C → [IAD] aH → RF-C → [IAD] aH
+         → cL → cM → cH → SU-C
+
+GANJU 4: cH → S-D
+The light version of S-D summons Bonnie on the same plane as Ganju, and the
+medium version summons her on the opposite plane. You must perform S-D first
+and then time cH so that it hits the dummy right before Bonnie does.
+
+GANJU 5: [IAD] aL → aM → sL → sM → SU-A
+
+GANJU 6: [IAD] aM → aH → cL → cH → SU-B
+
+GANJU 7: S-D → SU-C
+SU-C travels in an arc. Time it so that it intercepts the dummy after Bonnie
+launches him.
+
+GANJU 8: [IAD] aM → aH → [D] sL → sM → RF-C → aL → aM → aH → aL → aM
+         → aH
+Dash after landing to stay close to the dummy or else RF-C probably won't
+connect. Jump after him quickly after the launch to get in the rest of the
+combo.
+
+GANJU 9: [IAD] aL → aM → sL → sM → S-B → [OTG] cL → cM → cH → RF-B
+         → SU-B
+Don't perform this one right next to the wall. S-B will carry the dummy across
+the screen, giving you enough time to dash up next to him and follow with the
+rest of the combo after the bounce.
+
+GANJU 10: RF-A → RF-D → aL → aM → aL → aM → aH
+RF-D will summon Bonnie on both planes. She'll run across the opposite plane as
+Ganju first and the same plane second. Use RF-D first, throw RF-A, and then
+jump into the air to finish the rest of the combo. You have to be careful to
+time all of it so that Bonnie does not hit Ganju.
+
+RENJI 4: [IAD] aL → aM → sL → sH → SU-A
+
+RENJI 5: [IAD] aL → aH → cL → cH → SU-B
+
+RENJI 6: T → S-C
+Throw the dummy from around the middle of the screen, and then use the medium
+version of S-C to hit him after he bounces off the wall.
+
+RENJI 9: [cM] → RF-B → cL → sH → SU-A
+Use cM to launch the dummy into the air, and then use RF-B just as he begins
+falling back to the ground. Follow with the rest of the combo after he bounces
+off the wall.
+
+RENJI 10: S-A → [OTG] cL → sH → [FS] → cL → sH → [FS] → cL → sH → RF-A
+          → SU-A
+Use the medium version of S-A, as it has less recovery time. Make sure to wait
+until RF-A registers before following up with SU-A.
+
+BYAKUYA 5: SU-B → [IAD] aM → aH → [IAD] aM → aH → [IAD] aM → aH
+
+BYAKUYA 6: [IAD] aM → aH → sL → sH → SU-C
+
+BYAKUYA 7: T → S-B
+Throw the dummy to the other side of the screen and use S-B right as he bounces
+off the wall.
+
+BYAKUYA 8: [IAD] aL → aM → aH → sL → sH → S-B → SU-A
+
+BYAKUYA 9: S-D → sL → S-D → sL → SU-C
+Perform two S-Ds at the start of the combo, then follow with two sLs. The
+second S-D should hit the dummy between the sLs.
+
+BYAKUYA 10: cL → sH → RF-C → [D] cL → sH → RF-C → S-B → SU-C
+Dash towards the dummy a little bit after the first RF-C.
+
+ICHIMARU 6: [IAD] aM → aH → sL → sH → SU-B
+
+ICHIMARU 7: T → [OTG] RF-C → sL → sH → S-A
+
+ICHIMARU 8: S-C → RF-C → sL → sH → RF-C → cL → cH → aL → aM → aH → aL
+            → aM → aH → RF-A
+Use the medium version of S-C, as it has less recovery time. Ichimaru's aH has
+multiple hits, and the last hit will smash the opponent back down to the ground
+if it connects. In order to complete this combo, you must enter the next
+command before aH finishes so you can keep juggling the dummy in mid-air.
+
+ICHIMARU 9: cL → cH → RF-C → sL → sH → RF-C → cL → cH → RF-E → SU-A
+Ichimaru's cH also has multiple hits, and the last hit will launch the opponent
+into the air if it connects. In order to complete this combo, you must enter
+the next command before cH finishes so you can continue the combo on the
+ground.
+
+ICHIMARU 10: cH → cH → [FS] → cH → cH → RF-C → cL → cH → RF-C → cL
+             → cH → RF-C → cL → cH → S-A
+Flash step after cH hits the second time to prevent the dummy from being
+launched, then follow with the rest of the combo.
+
+KENPACHI 4: T → S-B
+Throw the dummy from around the middle of the screen, and then use the light
+version of S-B to hit him after the bounce.
+
+KENPACHI 5: [IAD] aM → aH → sL → sH → RF-E → SU-B
+
+KENPACHI 6: [S-D] → [SU-A] → [SU-A] → [SU-A] → [IAD] aH → aH → [D] sL
+            → sH → sH → RF-E → aM → aM → aM → aM → aH
+Fully charge S-D and perform three SU-As before starting this combo. Kenpachi's
+S-D temporarily increases the length of his sword, and his SU-A temporarily
+allows him to chain normal attacks together in ways that typically aren't
+possible. (His SU-A also prevents opponents from damage cancelling out of
+normal attacks.)
+
+KENPACHI 7: [S-D] → [SU-A] → [SU-A] → [SU-A] → sL → sL → sM → sH → sH
+            → [FS] → sL → sL → sM → sH → sH → [FS] → sL → sL → sM
+            → sH → sH → [FS] → sL → sL → sM → sH → sH 
+
+KENPACHI 8: [S-D] → sM → RF-E → [SU-A] → sM → RF-E → [SU-A] → sM → RF-E
+            → aL → aM → aH
+This time, use SU-A to cancel RF-E and keep the combo going on the ground. You
+may have to double jump during the aerial part to connect all three hits.
+
+KENPACHI 9: cL → cM → sH → S-B → [SU-A] → [OTG] cL → cM → sH → S-B
+            → [SU-A] → [OTG] cL → cM → sH → S-B → [SU-A] → [OTG] cL
+            → cM → sH → S-B
+Use the light version of S-B, as it has a shorter set-up time than the medium
+version. Use SU-A after S-B to cancel its recovery time, then keep the combo
+going. I hope you're good at timing OTG hits...
+
+KENPACHI 10: cL → S-E → [SU-A] → cL → S-E → [SU-A] → cL → S-E → [SU-A]
+             → cL → S-E
+This one should be a piece of cake if you completed his 9th challenge. Use the
+light version of S-E, and perform SU-A immediately after S-E connects in order
+to prevent the dummy from being launched.
+
+HITSUGAYA 3: S-C → cL → cM → cH
+Perform cL after S-C hits the dummy for the second time.
+
+HITSUGAYA 7: S-C → [IAD] aM → aH → cL → cM → cH → RF-B → SU-A
+Perform aM after S-C hits the dummy for the second time. cH should be done
+quickly in order for it to connect.
+
+HITSUGAYA 8: RF-A → [IAD] aL → aM → sL → sM → sH → aL → aM → aL → aM
+             → RF-A
+Stand a short distance away from the dummy so that RF-A hits him multiple
+times. This should give you enough time to connect aL.
+
+HITSUGAYA 9: RF-A → RF-C → cL → cM → cH → RF-B → SU-A
+Perform RF-C first, then immediately follow with RF-A. RF-C will hit a second
+time, and you can follow with the rest of the combo. Perform SU-A immediately
+after RF-B registers to prevent Hitsugaya from jumping.
+
+HITSUGAYA 10: SU-A → RF-C → [IAD] aL → aM → cL → cM → [FS] → [cL] → cH
+              → RF-B → SU-A
+Stand far enough away from the dummy so that SU-A hits him at the end of its
+arc. RF-C will carry the dummy back towards Hitsugaya. If you have trouble
+connecting cM to cH, try inserting a flash step and cL as written above.
+
+HINAMORI 3: cL → cM → cH → S-C → [FS] → cL → cM → Ch
+Perform S-C first, and time the first three hits so that S-C detonates
+immediately after the first cH. Flash step next to the dummy and continue the
+combo.
+
+HINAMORI 7: SU-B → RF-E
+This one is easier if done from the initial position instead of the wall. Just
+do it as it says as quickly as possible with the touch screen.
+
+HINAMORI 8: T → RF-C → cL → cH → aL → aH → aL → aH → RF-A
+Shoot RF-C in the opposite direction from the dummy, placing Hinamori between
+the dummy and the fireballs. Throw him into the fireballs, and then continue
+with cL.
+
+HINAMORI 9: RF-C → sL → sH → aL → aM → aH → RF-C → aL → aM → aH
+            → RF-C
+Position the dummy next to the wall, stand right next to him, and perform RF-C.
+Two fireballs should detonate, leaving one next to him. Wait a little, then
+jump above the dummy and perform RF-C again to place 3 fireballs above him.
+When the fireball next to him detonates, continue the actual combo with sL and
+launch with sH. One of the fireballs in the air should connect after the first
+aH, allowing you to continue the combo with aL. Do it as it says to from there.
+
+HINAMORI 10: RF-B → [IAD] aL → aM → sL → sH → aL → aH → aL → aH → RF-C
+             → [FS] → aH → RF-A
+Stand a short distance away from the dummy so that RF-B connects at the end of
+its arc. Get enough height during the jump and double jump so that RF-C is
+performed at the top of the screen. This will hold the dummy in place, allowing
+you to flash step next to him and finish the combo.
+
+TOSEN 1: RF-C → RF-A
+Use RF-C to carry the dummy from one side of the screen to the other. RF-A will
+connect shortly after he bounces off the wall.
+
+TOSEN 2: sL → sM → [FS] → [sL] → sH → S-B
+If you have trouble connecting S-B at the end, try inserting a flash step and
+sL to shorten the distance between you and the dummy.
+
+TOSEN 5: sM → sH → [FS] → [sL] → S-E
+
+TOSEN 6: [IAD] aM → aH → cL → sM → sH → SU-A
+
+TOSEN 7: RF-E → aL → aM → aL → aM → SU-A
+Stand far enough away from the dummy so that RF-E connects at the very end.
+This should give you enough time to jump and continue the combo.
+
+TOSEN 8: [IAD] aM → aH → cL → sM → sH → RF-B → RF-C → RF-E
+
+TOSEN 9: [IAD] aM → aH → RF-D → [D] cL → sH → RF-C → cL → sH → RF-A
+RF-D has the tendency to push Tosen away from the dummy. You must perform RF-D
+in the air as close to the ground as possible before you reach the point where
+it pushes you back a greater distance. Once you touch the ground, dash just a
+little bit in order to close the gap between you and the dummy, then finish the
+combo as it is written.
+
+TOSEN 10: cL → cM → S-B → [D] cL → cM → RF-B → RF-C → cL → cH → aL
+          → aM → aL → aM → SU-A
+Start this one with Tosen positioned next to the wall. This will prevent S-B
+from pushing him backwards. You do not have to follow RF-C with an OTG hit, but
+it does help a little.
+
+KOMAMURA 5: SU-B → aH
+Make sure to perform the aH as quickly as possible.
+
+KOMAMURA 6: T → [OTG] cL → cH → RF-A → RF-C
+
+KOMAMURA 8: SU-B → SU-A → [FS] → aH
+Flash step just enough to get the dummy in range as he's in mid-air. If you're
+too slow with the aH, you won't be able to damage him.
+
+KOMAMURA 9: S-A → cL → cH → RF-A → [D] cL → cH → RF-A → [D] cL → cH
+            → RF-C
+Start the combo with the medium version of S-A, and dash a little bit closer to
+the dummy after each RF-A.
+
+KOMAMURA 10: sL → sH → cH → [FS] → sL → sH → cH → [FS] → sL → sH → Ch
+             → [FS] → sL → sH → cH → SU-A
+
+KUROTSUCHI 2: S-B → [IAD] aM → aH
+
+KUROTSUCHI 3: [S-C] → sL → sM → sH → S-D
+Use S-C to position Nemu next to the dummy.
+
+KUROTSUCHI 4: sL → sH → S-E → aH
+Start the combo with the medium version of S-E, then enter the two standing
+hits before Nemu launches the dummy.
+
+KUROTSUCHI 6: S-B → SU-B
+Normally, SU-B will enter the screen from behind Kurotsuchi. Hold back when
+performing SU-B to make it enter from the opposite side.
+
+KUROTSUCHI 8: S-A → sL → sH → RF-A → sL → sH → RF-A → sL → sH → RF-A
+              → sL → sH → S-A
+Start the combo with the medium version of S-A and end it with the light
+version.
+
+KUROTSUCHI 9: sL → sH → RF-B → [IAD] aM → aH → sL → sH → RF-A → sL
+              → sH → RF-E → S-D → sL → sH → SU-A
+Use the medium version of S-D immediately after RF-E. You do not have to follow
+it with an OTG hit.
+
+KUROTSUCHI 10: [S-C] → T → S-D → sL → sH → RF-A → sL → sH → RF-A → sL
+               → sH → RF-B → [D] S-D → [D] sL → sH → SU-A
+Position Nemu at one side of the screen, and throw the dummy towards her from
+the other side. Detonate Nemu with S-D before the dummy reaches her, and he
+should bounce back towards you. Use RF-B to make Nemu grab him when she
+returns, detonate her, and finish the combo. You may have to dash towards the
+other side of the screen before and after the second S-D as written above in
+order to reach the dummy.
+
+KYORAKU 5: sL → sM → sH → SU-B
+Perform this combo with the dummy positioned to the left of Kyoraku. Hold left
+while using SU-B to make it connect.
+
+KYORAKU 7: sH → aL → aH → aL → aH → aL → aH → aL → aH → aL → aH
+           → S-B
+Kyoraku can use his reiryoku gauge to jump multiple times in mid-air instead of
+using flash steps.
+
+KYORAKU 8: cL → cH → RF-B → SU-A → [OTG] cL → cH → RF-B → aL → aH → aL
+           → aH → RF-B → SU-B
+Perform this combo a short distance away from the wall so that you have enough
+time to follow SU-A with cL.
+
+KYORAKU 9: sH → aL → aH → aL → aH → aL → aH → SU-A → aM → aM → aH
+           → SU-A → aM → aM → aH → SU-B
+Perform this combo a short distance away from the wall so that you have enough
+time to follow SU-A with aM. Use additional jumps instead of flash steps to
+keep the combo going in mid-air.
+
+KYORAKU 10: [IAD] aM → aH → cL → cM → RF-A → cL → cH → SU-A → [OTG] cL
+            → cH → RF-B → aL → aM → aH → RF-B → SU-B
+Perform this combo next to the wall. The crouching attacks will push you far
+enough away from the dummy so that you can get in all of the required hits.
+
+UKITAKE 1: S-A → sH → sH → sH → sH
+Use the medium version of S-A to hold the dummy in place as you finish the rest
+of the combo.
+
+UKITAKE 3: S-B → S-C
+Use the medium version of S-B and the light version of S-C.
+
+UKITAKE 5: [S-C] / [S-D] → S-E → cL → cM → cH
+Set up a white energy ball with either the light, medium, or heavy version of
+S-E. In order to get it to actually fire, you have to touch it with a beam from
+either S-C or S-D. Follow with the rest of the combo after it connects.
+
+UKITAKE 7: [IAD] aM → aH → sL → sH → SU-B
+
+UKITAKE 9: RF-A → RF-D → SU-B → [RF-D] → S-E → sL → sM → sH → SU-A
+Start the combo by performing the heavy version of S-E and then using RF-D
+later in order to make it fire.
+
+UKITAKE 10: S-A → S-D → S-E → S-A → S-D → S-E → S-A → S-D → S-E → SU-A
+Start the combo by performing three heavy S-Es. Use light versions of S-A to
+hold the dummy in place, and then use light S-Ds to hit him and fire the
+pre-set S-Es.
+
+SOIFON 2: [IAD] aL → aH → S-B
+
+SOIFON 9: [SU-B] → [IAD] aL → RF-B → [IAD] aL → RF-B → cL → cM → cH
+          → RF-C → SU-A
+SU-B will summon 20 ninjas to drop kick the dummy in 5 sets of 4. Time the aLs
+so that they hit right after each 4th ninja. The ninjas will keep the dummy in
+place, allowing you to continue the combo.
+
+SOIFON 10: SU-B → [IAD] aL → aM → S-B → [IAD] aL → aM → S-B → [IAD] aL
+           → aM → S-B → [IAD] aL → aM → S-B → [IAD] aL → aM → S-B
+Same idea as the last combo. Time the aerial hits so that they occur in-between
+each set of ninjas.
+
+GENRYUSAI 6: [IAD] aL → aH → cL → cM → SU-A
+
+GENRYUSAI 7: [IAD] aL → aM → sL → sM → S-E → SU-B
+
+GENRYUSAI 9: sL → sL → sM → S-E → SU-A → sL → sL → sM → S-E → SU-A
+             → sL → sL → sM → S-E → SU-A → sL → sH → RF-D → aL → aL
+             → RF-D → aL → aH
+This one is tricky, but you can do it just about exactly as it instructs you
+to. Use light versions of S-E.
+
+GENRYUSAI 10: [IAD] aL → aM → sL → sM → RF-A → [IAD] aL → aM → sL → sM
+              → [SU-B] → [D] RF-B → [IAD] aL → aM → sL → sM → RF-C
+              → [IAD] aL → aM → sL → sH → aL → aM → S-D
+It is tough (if not impossible) to follow RF-B with aL as this challenge is
+written. Use SU-B as written above to give you more time to set up the rest of
+the combo. Use the light version of S-D at the very end.
+
+YORUICHI 1: cL → cH → S-A → cL → cH
+Set up the medium version of S-A first and then start the combo. The knives
+should connect as you hit the dummy, allowing you to chain cH to cL.
+
+YORUICHI 4: [IAD] aL → aH → cL → cH → SU-A
+
+YORUICHI 5: [IAD] aM → aH → cL → cM → cH → SU-C
+
+YORUICHI 7: S-B → S-A → aL → aM → aH
+Perform the medium version of S-A first (same as her first challenge), and then
+use S-B to start the combo.
+
+YORUICHI 8: S-B → [RF-A] → RF-B → SU-A → aM → aH → S-C
+Start the combo with RF-A, which will allow you to chain medium S-B to RF-B.
+Use the light version of S-C at the end.
+
+YORUICHI 9: [IAD] aL → aH → RF-A → [IAD] aL → aH → [IAD] aL → aH → sL
+            → sM → RF-B → SU-C → aM → aH → aM → aH → RF-C
+Start the combo with a mid-air RF-A, and then dash into the aL before you touch
+the ground. The knives will hold the dummy in place until you get to the
+standing attacks, and you can simply perform the combo as it says to from
+there.
+
+YORUICHI 10: RF-C → RF-A → aM → RF-C
+Piece of cake compared to the previous one. Start with the RF-A and then
+perform the other attacks as fast as you can. The knives will keep juggling the
+dummy.
+
+┌---------------------------------------------------------------------------┐
+│ SECTION XI: DECK CONSTRUCTION (デッキコンストラクション)                  │
+└---------------------------------------------------------------------------┘
+This mode is where you arrange your 5 custom reifu decks for use during battle.
+Select a slot on the main screen to check its current arrangement.
+
+┌-----------------┐
+│ MENU NAVIGATION │
+└-----------------┘
+
+カスタマイズ                CUSTOMIZE
+デフォルトパターンから選択  SELECT A DEFAULT PATTERN
+
+The default pattern menu contains a recommended deck for most of the
+characters. None of them are particularly great, however, as they only use
+level 1 cards. You'd best choose to customize your own.
+
+The customize screen is laid out like so:
+ - cards currently in your chosen deck on the left
+ - cards remaining in reserves on the right
+ - a filter at the top that narrows the reserve selection by category/color
+ - a filter at the bottom that narrows the reserve selection by level
+ - a switch in the middle that swaps the selected cards on the left and right
+
+Press B to go back one screen at a time. Press Y to exit from any screen.
+
+┌---------------┐
+│ DECK STRATEGY │
+└---------------┘
+Remember that each deck consists of 15 cards, but only a random 10 of those are
+dealt to you for each fight, and only a random 2 of those are available to you
+at any one time. When building decks, try to stick with only 2 or 3 different
+types of reifu and build strategies around them, rather than rely on
+complicated strategies involving multiple types of cards that aren't very
+likely to appear in the right order (or at all, for that matter).
+
+I have included below some basic strategy for using and dealing with what I
+have found to be the most commonly used cards in Wi-Fi matches. There are many
+more cards that can be useful, and different characters benefit from different
+deck strategies, but you'd do well to get accustomed to dealing with the 5
+listed below.
+
+SOUL UP (魂魄 ＵＰ)
+Your standard healing card, gradually refills your life gauge for 2/3/4/5
+seconds depending on the card level. You can't really go wrong with this one
+unless you're either forced to use it when you already have full health or your
+opponent uses a Soul Balance card after you heal.
+
+FORCE REIFU USE (霊符 強制使用)
+Probably the best all-around deck-breaker card. This forces the target to use
+up all of his cards as quickly as possible, which can really mess up some deck
+strategies.
+
+It should be noted, however, that Force Reifu can be blocked. The effect only
+forces the target to use up cards in situations where it is already possible to
+use them. In other words, if the target is guarding or in the middle of an
+attack while the Force Reifu effect is active, he will not use up any cards. If
+he is in "Bankai Mode"--a situation in which most characters are not allowed to
+use any cards normally--he will also not use up any cards. If the target
+already currently using 2 cards, he will not use up any additional cards until
+one of the 2 active ones is replaced. If you are hit with a Force Reifu card,
+keep this information in mind.
+
+The best time to use a Force Reifu card, in my experience, is when the opponent
+has 2 or 3 reiatsu stock saved up in reserves. That way, when you strike him,
+he'll automatically Damage Cancel out of your attack and waste both 1 reifu and
+1 reiatsu stock in the process. If you see him use an Infinite Reiatsu card
+while under the effect of a Force Reifu, FOLLOW UP WITH AN ATTACK IMMEDIATELY
+if you are close enough (a stun move, or an attack with a long set-up and
+execution, are the most ideal). Try not to let him negate the effect by going
+into a Bankai super.
+
+PROHIBIT GUARD (ガード 禁止)
+Usually used in conjunction with an Infinite Reiatsu card and prevents the
+target from blocking any attacks for a set amount of time. It's really hard to
+deal with in some situations, and it's best to run away from the fight if it
+looks like you're going to be overpowered. If you're hit with this but can
+strike the opponent quickly, try to get him caught up in a long combo and wait
+out the clock until you can guard again. If you have a full reiryoku bar, try
+switching planes and playing keep-away.
+
+INFINITE REIATSU (霊圧 無尽蔵)
+Grants the user a limitless number of reiatsu stock for a very short time
+(.5/1/2/4 seconds depending on card level). Once the card expires, the user's
+reiatsu stock is always reset to 0.
+
+This card is typically used for an on-demand bankai super. If you see your
+opponent use this, try to stall him long enough for the effect to pass by if
+possible. Some throws last long enough for the level 1-3 versions of this card
+to expire before your opponent has a chance to respond with a super. If you're
+using this card and your opponent tries to stall you, Damage Cancel him if
+possible (since you won't use up any reiatsu stock by doing so).
+
+This card is often used in conjunction with a Guard Prohibit, which makes quite
+a deadly combination. I don't find it to be particularly useful by itself,
+however. Since the effect only lasts a few seconds at most before drying up,
+you usually only have the opportunity to use a single 3-stock super before the
+card expires, and if your opponent sees you use this card, he'll know that
+you're planning to rush him with a super pretty soon. I prefer using Reiatsu Up
+cards instead, as the effect is permanent and allows you to take your time and
+decide when exactly you wish to use a super.
+
+SOUL BALANCE (魂魄 平均化)
+This card redistributes all players' life bars so that everyone has the exact
+same amount of health. The card's effect is immediate, and it is immediately
+replaced with another reifu after using it. Very useful, but there's a huge
+drawback: if an opposing player uses a Force Reifu card while you have a Soul
+Balance card available, you'll be forced into using it. Moreover, since the
+Soul Balance card is immediately replaced, you'll also be forced into
+Immediately using that card as well, which can be quite punishing. I typically
+stick to Soul Up rather than Soul Balance since the former doesn't really have
+any negative effects.
+
+At the moment, my main decks are as follows:
+
+SLOT A: Soul Up x10, Force Reifu Use x5
+SLOT B: Infinite Reiatsu x8, Prohibit Guard x7
+SLOT C: Soul Up x10, Reiatsu Up x5
+SLOT D: Soul Up x10, Force Reifu Use x1, Soul Balance x4
+SLOT E: I change this one around a lot for training and experimenting.
+
+┌---------------------------------------------------------------------------┐
+│ SECTION XII: URAHARA SHOP (浦原商店)                                      │
+└---------------------------------------------------------------------------┘
+Urahara's shop contains most of the unlockables in the game, which you purchase
+using money earned from the different gameplay modes.
+
+買い物                 BUY
+ 霊符                   REIFU (spirit cards)
+  回復系                 RECOVERY SYSTEM (blue)
+  強化系                 REINFORCEMENT SYSTEM (green)
+  攻撃系                 ASSAULT SYSTEM (red)
+  行動系                 CONDUCT SYSTEM (purple)
+  その他                 MISCELLANEOUS (orange)
+ カラー                 COLOR (alternate outfits)
+ グラフィック           GRAPHIC (bonus gallery pictures)
+ サウンド               SOUND (gallery BGM/SE/VOICE)
+ ＧＣパスワード         GC PASSWORD (unlocks something in the Bleach GC game)
+パスワード             PASSWORD
+ ボタン入力             INPUT BUTTON PASSWORD
+ タッチスクリーン入力   INPUT TOUCH SCREEN PASSWORD
+ ？？                   ENTERED PASSWORDS
+
+Level 2 cards cost 10x as much as level 1 cards, and level 3 cards cost 10x as
+much as level 2 cards. Once you purchase every single level 1-3 card from the
+shop, the level 4 cards that you have yet to earn will become available for
+purchase. They cost quite a lot, at 200000 each.
+
+Keep this in mind when collecting cards for use in your deck, as a level 3 or 4
+version of some cards are not significantly better than their corresponding
+level 1 versions and, thus, a pretty big waste of money. For example, the
+Infinite Reiatsu card has a duration of 0.5 seconds at level 1 and 4 seconds at
+level 4. Most bankai supers last longer than 4 seconds anyway, so there is no
+use in spending a ton of money on the higher level version unless you really
+want a lot of duplicates (which may or may not be a bad idea depending on your
+deck strategy). 
+
+Passwords can be entered to unlock a handful of level 4 cards. Five of these
+passwords are entered with button combinations obtained from the Bleach GC
+game, and three passwords are entered by drawing kanji on the touch screen.
+Though I know the kanji used for the touch screen passwords, I unfortunately
+cannot determine the exact manner in which you are supposed to draw them. A
+Japanese magazine ("V JUMP BOOKS," I believe) supposedly contains pictures for
+the touch screen passwords, which you are supposed to cut out, place over the
+touch screen, and trace with the stylus. If anyone can provide scans of these
+cut-outs or more information regarding them, please feel free to contact me.
+
+BUTTON PASSWORDS
+←↓ＸＡ↓→↑↓ Shot Speed UP (Assault)
+←↓↓↑↑↓     Shot Speed DOWN (Assault)
+Ｌ↓←↑Ａ↑     Force Special Movement
+↓←↑←ＲＡ↑Ｘ Force Line Change
+←↓↑Ｘ→→↑Ｘ Force Reifu Use
+
+TOUCH SCREEN PASSWORDS
+崩玉             Force Stand
+残月             Force Dash
+死神代行証       Force Walk
+
+Press start after you've entered the corresponding password. Do not add any
+extra button presses,
+
+In addition to the passwords, you receive a bonus of 500000 points for the shop
+if you begin the game with Sega's Bleach GBA game inserted into the GBA slot of
+the DS.
+
+┌---------------------------------------------------------------------------┐
+│ SECTION XIII: GALLERY (ギャラリー)                                        │
+└---------------------------------------------------------------------------┘
+Contains an assortment of graphics and sounds, most of which are purchased at
+the shop. Event and character graphics are unlocked during normal play in Story
+Mode, but you won't unlock them all if you skip the text between battles. Hold
+down to fast-forward through story mode text instead of skipping it, and you'll
+unlock everything.
+
+Press A in the Visual Gallery to remove the menu and view graphics displayed on
+the touch screen. Press A again to recall it. Press Y in the Sound Gallery menu
+to mute the audio. You can loop the BGM of your choice while viewing the rest
+of the gallery.
+
+ビジュアルギャラリー     VISUAL GALLERY
+ イベントグラフィック１   EVENT GRAPHIC 1
+ イベントグラフィック２   EVENT GRAPHIC 2
+ キャラグラフィック       CHARACTER GRAPHIC
+ おまけグラフィック１     BONUS GRAPHIC 1
+ おまけグラフィック２     BONUS GRAPHIC 2
+ おまけグラフィック３     BONUS GRAPHIC 3 
+ おまけグラフィック４     BONUS GRAPHIC 4 
+ おまけグラフィック５     BONUS GRAPHIC 5 
+サウンドギャラリー       SOUND GALLERY
+ [ＢＧＭ]                 [BACKGROUND MUSIC]
+ [効果音]                 [SOUND EFFECTS]
+ [音声] 黒崎一護          [VOICE] KUROSAKI ICHIGO
+ [音声] ...               [VOICE] ...
+
+┌---------------------------------------------------------------------------┐
+│ SECTION XIV: OPTIONS (オプション)                                         │
+└---------------------------------------------------------------------------┘
+Most of this stuff should be pretty self-explanatory. It should be noted that
+difficulty does not affect the amount of money you earn from completing various
+tasks during gameplay.
+
+ゲーム設定                GAME SETTINGS
+ 難易度                    DIFFICULTY
+  簡単                      EASY
+  普通                      NORMAL
+  難しい                    HARD
+ 対戦ルール                BATTLE RULE
+  デスマッチ                DEATH MATCH
+  ポイントマッチ            POINT MATCH
+ 制限時間                  MATCH TIME LIMIT
+  無制限                    UNLIMITED
+  １分                      1 MINUTE
+  ３分                      3 MINUTES
+  ５分                      5 MINUTES
+  １０分                    10 MINUTES
+ 超必殺伎演出              SUPER ATTACK ANIMATIONS
+  あり                      ON
+  なし                      OFF
+ キー設定                  KEY CONFIGURATION
+  設定                      CONFIGURATION
+   小攻撃                    LIGHT ATTACK
+   中攻撃                    MEDIUM ATTACK
+   大攻撃                    HEAVY ATTACK
+   特殊移動                  SPECIAL MOVEMENT (Flash Step)
+   ガード                    GUARD
+   ライン移動                LINE CHANGE
+  標準に戻す                RESTORE DEFAULTS
+音楽設定                  SOUND SETTINGS
+ 出力                      OUTPUT
+  ステレオ                  STEREO
+  モノラル                  MONOAURAL
+ 全体 音量                 MASTER VOLUME
+ ＢＧＭ 音量               BACKGROUND MUSIC VOLUME
+ 効果音 音量               SOUND EFFECT VOLUME
+ 音声 音量                 VOICE VOLUME
+ 標準に戻す                RESTORE DEFAULTS
+その他                    SYSTEM SETTINGS
+ 壁紙                      MENU BACKGROUND GRAPHIC
+ システムボイス            SYSTEM VOICE
+ セーブデータ              SAVE DATA
+  ゲームデータ初期化        ERASE GAME DATA
+  レコードデータ初期化      ERASE RECORD DATA
+  Ｗｉ－Ｆｉデータ初期化    ERASE Wi-Fi DATA
+  全初期化                  ERASE ALL
+記録閲覧                  RANKING
+
+In the Ranking screen, press up/down to cycle through characters, left/right to
+cycle through game modes, and L/R to cycle through difficulties.
+
+┌---------------------------------------------------------------------------┐
+│ SECTION XV: CREDITS / LEGAL JUNK                                          │
+└---------------------------------------------------------------------------┘
+This document was written by Sixfortyfive and intended for publication on
+www.gamefaqs.com. This guide may be redistributed or reproduced in whole or in
+part so long as credit is given to its author.
+
+Thanks to tappy, Chorazin, ETkz, Klarth_Maxwell, TerranBane, ChanchaiNS, jeffc,
+Shin 44, Gen2000, and others on the Penny Arcade and GameFAQs forums who have
+helped provide information. Big thanks to Jayce, Hellfire, Jesuits, and the
+other guys on the IRC channel who helped me through some of the challenges.
+
+┌---------------------------------------------------------------------------┐
+│ SECTION XVI: VERSION HISTORY                                              │
+└---------------------------------------------------------------------------┘
+1.0 (February 13, 2006)
+ - initial release
+1.1 (June 27, 2006)
+ - replaced section headers with boxes for better readability
+ - revised introduction
+ - added non-playable characters to character list
+ - added flash step to shorthand list (for story mode training levels)
+ - added more detailed information in character control section
+ - corrected minor errors in reifu names
+ - corrected errors in reifu effect chart
+ - completed the reifu timer differences
+ - filled-in all but one level 4 reifu requirement
+ - added more information to simple mode description
+ - added bankai restriction information to story mode section
+ - cleaned-up and added more detail to Ichigo walkthrough
+ - added more information to story mode unlock guide
+ - corrected minor errors in unlock guide
+ - added more information for wi-fi rank titles
+ - corrected minor errors in ranking match description
+ - added more information on survival mode rewards
+ - completed reward section for challenge mode
+ - added tips and walkthroughs for challenge mode
+ - added strategy section for deck construction
+ - replaced various "?" marks with their proper menu kanji
+ - corrected other minor errors
+ - made minor revisions to other sections
+ - added additional names to credits
+ - added this section

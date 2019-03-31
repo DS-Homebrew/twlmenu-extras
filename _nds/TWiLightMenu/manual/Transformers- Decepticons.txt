@@ -1,0 +1,1419 @@
+Transformers: Decepticons FAQ by astrangeone
+
+===============================================================================
+===============================================================================
+=                              TABLE OF CONTENTS                              =
+===============================================================================
+===============================================================================
+
+1)  Version History
+2)  What's Going On?
+3)  Controls
+4)  Tips & Tricks
+5)  Story Missions
+-  Casino Strip
+-  Tranquility
+-  Qatar Desert
+-  Hoover Dam
+6)  Challenge Missions
+-  Casino Strip
+-  Tranquility
+-  Qatar Desert
+-  Hoover Dam
+7)  Cheats
+-  Health Regeneration
+-  Extra Vehicle Forms
+8)  Action Replay Cheats
+-  USA & CANADA
+-  FRANCE
+-  EUROPE
+9) Playable Characters
+-  Custom Decepticon
+-  Barricade
+-  Blackout
+-  Brawl
+-  Megatron
+-  Starscream
+10)  Wifi
+-  AllSpark Wars
+11)  Local Play
+12)  Glitches
+13)  About the Author
+14)  Legalese
+
+===============================================================================
+===============================================================================
+=                               Version History                               =
+===============================================================================
+===============================================================================
+April 7, 2009 - Updated contact info
+September 9, 2007  - Started faq.  Added Tips and Tricks.
+September 11, 2007 - Added Story Mission Data (up to Street Brawl)
+September 12, 2007 - Reformatted Tips and Tricks, finished adding Controls
+September 15, 2007 - Added AllSpark Wars information and Cheats section
+September 17, 2007 - Finished Story Missions!
+September 22, 2007 - Added Glitches section
+September 23, 2007 - Small revisions to Tag Team, Stings Like a Bee, and Ambush
+September 25, 2007 - Wrote down some of the Challenge Mission information
+September 25, 2007 - Added the XP bar to the "What's Going On?" section
+October 10, 2007   - Updated Infinite Energy Cheat with the right information
+October 10, 2007   - Added extra stuff to the Challenges Section, reorganized
+October 10, 2007   - Added short description of Playable Characters
+October 16, 2007   - Added another way to complete the Ambush mission
+October 24, 2007   - UPDATED Glitches (Dropping Percentage Problem) with a fix
+August 27, 2008    - Found working Action Replay Codes!
+
+===============================================================================
+===============================================================================
+=                              What's Going On?                               =
+===============================================================================
+===============================================================================
+Transformers: Decepticons can get very confusing, but at the same time, it's
+very intuitive.  Here are some of the explanation for the menus and meters and
+stuff - just in case you don't have the manuals!
+
+Sorry for the lousy ASCII art!
+
+*******************************************************************************
+*                                 Top Screen                                  *
+*******************************************************************************
+
+
+-------------------
+- *************** - (Red)  Health Bar                 [] [] [] [] Threat Level
+-------------------
+- ****************- (Blue) Ammo/Nitro Boost Bar
+-------------------
+
+
+
+
+
+                                                     0/100%  Mission Progress
+
+The top bar indicates health and or life status.  Replenish this with health
+pickups which are red.  
+
+The bottom bar indicates ammo/nitro boost bar.  Replenish these with blue
+ammo pickups.
+
+The threat level bar is four Decepticon symbols.  Raise or lower it by
+attacking human forces.  The humans will respond by putting up a greater
+attacking force if at max.
+
+The bottom right corner indicates mission progress.  Some missions have it,
+some don't.  They usually count the number of items to be destroyed or the
+percentage of destruction wrought.
+
+*******************************************************************************
+*                                Bottom Screen                                *
+*******************************************************************************
+
+----                                                           ___
+    \ ---\                                                    (___)  Scan
+    /     /  Map (Tap to bring up)                              
+----------
+                               ---------------
+                             -                 -
+                            -                   -  Radar
+                            -                   -
+                             -                 -
+                               ----------------
+
+
+                  -------------=======---
+Experience Meter  -                     -
+                  -=====================-
+                                                        [-------]  Decepticon
+                                                        [       ]  Symbol
+                                                        [       ]  Vehicle/
+                                                        [_______]  Robot Mode
+
+The Map shows you information on the terrain, and mission markers.  Gold and
+green markers on the map.  (Green progress the story, and gold are mini-games.)
+
+The radar shows you enemies and missiles coming towards you.  Major enemies
+are large red triangles, and minor are smaller triangles.  Missiles are white
+in color.
+
+Tap the scan button to scan an Earth vehicle form to add to your aresenal.
+
+Tap the Deception symbol to toggle from vehicle mode and robot mode.
+
+The Experience Meter shows you the fractional percentage of experience needed
+to get to the next level, plus your current level.  When the maximium has been
+reached (Level 20), the yellow bar will say "MAXED" above it.
+
+===============================================================================
+===============================================================================
+=                                    Controls                                 =
+===============================================================================
+===============================================================================
+
+*******************************************************************************
+*                                 Car Controls                                *
+*******************************************************************************
+Accelerate = B Button
+Emergency Brake = A Button
+Reverse = Down on the D-Pad or L Button
+Nitro Boost = R Button [needs to be unlocked]
+Fire Laser = Y Button, held down [needs to be unlocked]
+Fire Heavy Blaster = Y Button, tap [need to be unlocked]
+
+*******************************************************************************
+*                             Basic Robot Controls                            *
+*******************************************************************************
+Jump = B Button
+Ground Pound = B, A+Down
+High-flying Punch = B, Direction on the D-Pad and A
+Melee Attack = A
+Pick Up or Throw = X Button (tap twice to pick up and throw)
+Fire Heavy Blaster = Tap Y [needs to be unlocked]
+Fire Light Blaster = Hold Y [needs to be unlocked]
+Strafe = Left/Right on the D-pad when firing weapons
+Rotate Camera = L/R Buttons
+Center Camera Behind Character = L + R Buttons
+
+*******************************************************************************
+*                                Tank Controls                                *
+*******************************************************************************
+Forward = Up on D-Pad or B Button
+Reverse = Down on D-Pad or A Button
+Nitro Boost = R Button
+Fire Heavy Blaster = Tap Y [needs to be unlocked]
+Fire Light Blaster = Hold Y  [needs to be unlocked]
+
+*******************************************************************************
+*                              Helicopter Controls                            *
+*******************************************************************************
+Fly In Any Direction = Direction on the D-Pad
+Descend = B Button
+Ascend = A Button
+Strafe = L/R Buttons
+Fire Heavy Blaster = Tap Y [needs to be unlocked]
+Fire Light Blaster = Hold Y [needs to be unlocked]
+
+*******************************************************************************
+*                              Jetfighter Controls                            *
+*******************************************************************************
+Afterburners (Fly faster) = B Button
+Nitro Boost = R Button
+Up = D-Pad Down
+Down = D-Pad Up
+Strafe = Hold L while press Left or Right on D-pPad
+Fire Heavy Blaster = Tap Y [needs to be unlocked]
+Fire Light Blaster = Hold Y  [needs to be unlocked]
+
+===============================================================================
+===============================================================================
+=                                Tips & Tricks                                =
+===============================================================================
+===============================================================================
+
+*******************************************************************************
+*                      Gaining Experience - The Easy Way                      *
+*******************************************************************************
+Make sure you have unlocked your heavy blaster in vehicle mode.  Get into a map
+with lots of enemies and raise your threat level to four.  Take off in your
+vehicle mode before the game throws heavy artillery at you, and keep blasting
+the tanks and things that get in your way.  You'd be able to get potshots off
+of the slow moving heavy artillery.  Drive by health pickups, and you'd pick
+them up.  (Are they magnetic?)
+
+*******************************************************************************
+*                                Toss the Tanks                               *
+*******************************************************************************
+Don't have your heavy blaster yet?  Toss cars and other police cars at heavy
+artillery in order to destroy them easily.  The radar shows targeted enemies as
+a white cross inside a black circle.
+
+*******************************************************************************
+*                                  Cheap Shots                                *
+*******************************************************************************
+Need help downing an Autobot?  Shoot at him, and he should go flying.  Once in
+the air, keep shooting and you should be able to hit him when he's stunned.
+When he lands, you can melee him for extra damage.  The bosses usually have a
+quicker recovery time, so be careful when doing this to a boss.
+
+*******************************************************************************
+*                            Transformers Hate Water                          *
+*******************************************************************************
+Got too many little Autobytes impending your progress?  Chuck them in the
+closest body of water.  Watch the ammo bar, although, it's depleted when
+holding an Autobot.
+
+===============================================================================
+===============================================================================
+=                                    Free Play                                =
+===============================================================================
+===============================================================================
+In free play, you can explore the area to your heart's content, and also gain
+experience from beating up the human authorities!  Remember to press start to
+quit level after scanning a new form, or you'd lose it!
+
+*******************************************************************************
+*                                 Casino Strip                                *
+*******************************************************************************
+A huge area with loads of buildings and tossable objects.  Rooftops contain
+breakable air conditioning sets and communication dishes.  There is an
+expressway connecting the two parts of the city together.  There are two sets
+of cement blocks - one on the expressway and the other at the end of a block.
+
+You have two starting locations: the Plaza and the Fountain.  The Plaza is in
+the middle of town, while the Fountain is slightly to the west.
+
+Cool vehicles include the Import (blue car with yellow top), Police Copter,
+News Copter, and boring SUV.
+
+Interesting landmarks include, "Space Needle" tower, highway/expressway, a
+Casino with a rooftop parking lot-slash-strip and a Casino with a rooftop
+pool.
+
+*******************************************************************************
+*                                  Tranquility                                *
+*******************************************************************************
+A huge two parted area, separated by a suspension bridge.  If you haven't
+progressed in story mode enough, there will be cement blocks - pass these and
+get a chunk of health taken away.
+
+You get four starting locations: the Junkyard, Downtown, Suburbs and the
+Museum.  The Junkyard and Suburbs are at different ends of the first section
+of Tranquility, while Downtown and the Museum are at the opposite ends of that
+section.
+
+Interesting forms in this mission include the Police Copter, Raider (near the
+docks in middle of a circle of cargo containers), the crazy cool SWAT Van, and
+the school bus.
+
+Interesting landmarks include a mall (with a Blockbuster type logo), a gas
+station, the suspension bridge, and a huge parking lot. 
+
+*******************************************************************************
+*                                 Qatar Desert                                *
+*******************************************************************************
+A military base and a small village are here.  Loads of enemies that shoot back
+in the form of helicopters, tanks, and turrets.  Look out for the two towers
+with rocket firing turrets.  The area is marked off with the end of the base
+and a couple of the villages.
+
+You can start in one of two areas:  the Village or the Military Base.
+
+Only one scannable form - the normal Chopper.
+
+Interesting landmarks include the airfield, the two turret towers, and the
+quasi Russian looking village buildings.
+
+*******************************************************************************
+*                                  Hoover Dam                                 *
+*******************************************************************************
+Another massively confusing area, with loads of enemies and some turrets
+(especially during some story missions).  Watch out for falling in the water,
+it takes a giant chunk of life away.  Breakable rocks, and cacti serve your
+health and ammo refill needs.  The area is marked off with two highway
+entrances near the NW and Eastern Strips; pass these and a chunk of your health
+is taken away.
+
+You can start in four different areas:  the NW Strip, the Eastern Strip, the
+Dam Entrance, and the Radio Tower.
+
+Interesting forms include the Attack Chopper, Tricked out Car, and hippie -
+ooops, I mean Peace Van.  (Find the Peace Van near the Radio Tower building on
+the flat plateau.)
+
+Interesting landmarks include the Dam and lower area, the turbines, the
+Sector 7 internal base, and the wedge of cheese "Radio Tower" building.
+
+===============================================================================
+===============================================================================
+=                                 Story Missions                              =
+===============================================================================
+===============================================================================
+
+===============================================================================
+===============================================================================
+=                                  Casino Strip                               =
+===============================================================================
+===============================================================================
+
+*******************************************************************************
+*                                   The Rookie                                *
+*******************************************************************************
+The prerequiste tutorial level.  You have four yellow markers to collect, the
+last one needing to jump to reach it.  Wreck the bus stop that's glowing on
+your radar.  Press X to pick up any object.  Throw it with X again, or press
+A to use it as a weapon.  Head to the next three markers, using the shoulder
+buttons to see them.  The Autobots arrive.  You are quite weak now, so grab
+a palm tree to turn them into spare parts.  After you beat them, you level up
+and gain the use of your blaster.  A target appears behind you, blast it by
+using the shoulder buttons to get it in sight.
+
+An Autobot wearing the chopper guise appears.  Don't bother scanning it.  Just
+shoot it.  Head to the target and scan your first alternate form.  Morph into
+your car form, and then head to Barricade's location by following the yellow
+target markers.
+
+*******************************************************************************
+*                                    Hazing                                   *
+*******************************************************************************
+Barricade gives you a mission - kill all the autobots.  Problem is, they are
+in hiding.  Flush them out by heading to the destinated location (yellow
+marker), and causing as much property damage as possible.  Grab cars or wreck
+lampposts.  Four standard Autobots appear.  Use your handy palm tree or
+lamppost to scrap them. 
+
+Your first boss then appears.  Bosses have a lifebar at the top of the screen
+beside your own.  (It covers the threat meter.)  This guy is cheap, as he has
+his heavy blaster with him.  Just keep moving, and keep him in sight using the
+shoulder buttons.  Reaqquire your weapon (a lamppost, tree, whatever), and
+keep knocking him down.  Easy!
+
+===============================================================================
+===============================================================================
+=                             Tranquility - Part 1                            =
+===============================================================================
+===============================================================================
+
+*******************************************************************************
+*                             Beware of the Locals                            *
+*******************************************************************************
+Barricade gives you a lesson in human reaction.  Head over to the parking lot,
+and waste one of the cars.  Now the police show up, and you get to have some
+fun battling the humans.  Melee the three cars, or just stay back and use your
+blaster on them.
+
+*******************************************************************************
+*                              Robots in Disguise                             *
+*******************************************************************************
+Tranquility.  Barricade informs you that he has tracked an Autobot to this
+city.  Problem is, he's in hiding.  Head to the first target marker in a human
+shopping mall and scan or blast all four cars to recieve another target marker.
+
+The next marker is directly North from you.  Jump down from that raised parking
+lot, and cross the street.  Again, scan or blast all the marked cars.  This
+time, try not to raise the threat level.  
+
+The next target marker reveals an Autobot!  You have one minute to wreck that
+Autobot into little pieces.  This time, you can use a combination of lamppost
+melee and light blaster fire to tear him into wet slag.  Shoot the police cars
+if you need health pickups.
+
+*******************************************************************************
+*                                The Diversion                                *
+*******************************************************************************
+Barricade asks you to create a distraction while he locates Bumblebee.  Fine.
+Drive over to the marker, and you have four minutes to raise your threat level
+to three.  Easiest way to do this is to head behind the small building
+surrounded by gold trees and shooting all the police cars you have there.
+Also shoot any human police that arrive on the scene.
+
+Now, you have to maintain your threat level.  Keep destroying police cars, and
+grabbing health pickups.  Occassionally chuck some civilian cars into the
+police cars to reduce damage taken by bullets.  Keep it up until you do 50000
+worth of damage.  Just focus on cars and you'd be fine.
+
+*******************************************************************************
+*                              Stings Like A Bee                              *
+*******************************************************************************
+Ah.  As Barricade, chase down Bumbleebee.  Don't bother shooting the mute 'Bee
+in car form, as very little damage occurs.  Focus on driving, especially turns.
+Bumbleebee is very fond of sharp turns.  If you need, slow down at any
+intersection, and use turbos liberally.  After the first few turns (Left, 
+slight left, and right turn.), he'd stop and transform.  Do the same, and
+injure him with a handy lamppost.  
+
+The Bee takes off again, after a quarter of his life is gone.  Chase him some
+more, and Barricade notices that Bumblebee isn't trying to outrun him.  Watch
+out for being trapped behind houses...and don't worry, he follows the road.
+The 'Bee stops again, and you get to whittle him down to half-life before he
+takes off again.
+
+After a short driving sequence, you finally trap Bumblebee.  You get a new
+health bar too!  This time, he unleashes a ton of firepower at you, so don't
+grab your melee weaponary.  Use your blaster and your heavy blaster if you
+have it, and keep strafing left and right.  Use your shoulder buttons to keep
+that 'Bee in your target reticle.
+
+===============================================================================
+===============================================================================
+=                                  Qatar Desert                               =
+===============================================================================
+===============================================================================
+
+*******************************************************************************
+*                                    Decoy                                    *
+*******************************************************************************
+As yourself, ignore the copters, and head to the marker.  It's a scannable
+helicopter.  Scan it, and head out to the airfield's target marker.  Blast the
+five jets into little bits before heading out.  For even more damage, you can
+ram the jets in your helicopter form.  Blow up five of the defending
+helicopters, and watch out for the heavy weaponary of the tanks.  Now blow up
+five of the tanks.  (Beige color with a turret on top.)  If you need health,
+the helicopters are the best way to get some.  If you need more tank targets,
+transform and head to another part of the base.
+
+*******************************************************************************
+*                                Blackout At Qatar                            *
+*******************************************************************************
+You have three and a half minutes to destroy five satellitic dishes.  Transform
+and head to the one on your right.  It's on a tower, so be careful.  Destroy
+the rest.  If the turrets are bothering you, hide behind the communication
+dish.  The turrets will blast the dish for you.  Quickly transform and fly off
+before the missiles can hit you.  Conserve health, because you don't have a
+regenerating bar for the next part.  Don't destroy any turrets, as it makes
+your threat level higher.
+
+Now comes the hard part.  The timer's ticking with 2 and a half minutes to
+scan five buildings.  Fly to the edge of the square of the buildings
+surrounding your first target.  (Near the tower with the turret.)  Land and
+scan quickly.  Don't bother taking out any targets, unless it's the tanks.  Now
+land on the roofs of the next targets for easy scanning.  (You can also go 
+between some buildings and look up to scan the target.)
+
+*******************************************************************************
+*                                    Leftovers                                *
+*******************************************************************************
+As Brawl, your goal is to stop the miltary vehicles from reaching the marker.
+Watch your radar for enemies and stray vehicles (big triangles!) attempting to
+run from you. You can do a nasty amount of damage by ramming the tanks, when
+you run out of ammo.  Nitro boost to reach the stray tanks.  The tanks will at
+first appear in groups of three, and be gradually reduced to singles attempting
+to escape.   Blow up fifteen of these to finish the mission.   
+
+*******************************************************************************
+*                            Ratchet Retailelation                            *
+*******************************************************************************
+Autobots appear to try to stop your rampage.  You take on Ratchet, and Blackout
+and Brawl take out the rest.
+
+Ratchet appears with three copter buddies.  Ignore them unless you need health.
+Kill him with a barrage of missiles, and try not to melee him.  The copters are
+easily taken care of with light blaster fire.
+
+The Easy Way:  Nuke all four aircraft bunkers on the combat field.  These are
+large white buildings that have a life meter to them.  They are scatterred in
+the four corners of the airfield.  Nuke them first, and then take out Ratchet.
+
+===============================================================================
+===============================================================================
+=                            Tranquility - Part 2                             =
+===============================================================================
+===============================================================================
+
+*******************************************************************************
+*                         Torching the Welcome Wagon                          *
+*******************************************************************************
+In copter form, knock out four turrets.  Watch out for the police copters and
+other things.  And don't get knocked into the water.  You have 3 and a half
+minutes to take out the whole set of defenses.  The turrets are sticking out
+slightly thanks to the docks.  You have another set of four turrets to deal
+with in Tranquility's city center.  They are atop buildings and surrounded by
+one attack copter and a police copter.  (White and green helicopters.)
+
+The timer resets after, with five minutes and four new turrets to take out.
+These are easy, take them out with missiles and melee.  The turrets usually
+drop health after being wrecked anyhow.
+
+*******************************************************************************
+*                                 Code Breaker                                *
+*******************************************************************************
+An easy level.  As Brawl, pick up all four turrets.  Toss them to deploy them.
+I like a turret at each corner of the generators.  You can lose as many as half
+of the turrets (four) and still win.  Also, you can help out by blasting with
+your heavy blasters, just don't exit the combat area for too long.  Watch the
+radar when fighting a group of enemies, and let the turrets handle the severely
+damaged enemies.
+
+*******************************************************************************
+*                                Reinforements                                *
+*******************************************************************************
+Ha ha ha!  Another easy level.  Just make sure you are in a form that can fly.
+You have two minutes to reach the first landing site.  The Autobots will be in
+hiding, so look on your radar to find it.  (They are usually hiding in a side
+street.)  All landing sites after the first have one minute to find.  All the
+Autobots will be pretty weak, so easily eliminate them, and don't worry about
+the time limit - you won't have one when fighting.  You have 3 Autobots to kill
+in this manner.
+
+Now, you get an idea to distract the Autobots by injuring Bumblebee.  Chase
+him in Chopper form, and ram him until his life meter gives out.  The 'Bee
+should have a police escort, so you can waste him as well.  Unfortunately,
+your weapons aren't working in this chase...so you'd have to hit the 'Bee
+six times before he faints.
+
+===============================================================================
+===============================================================================
+=                                 Hoover Dam                                  =
+===============================================================================
+===============================================================================
+
+*******************************************************************************
+*                          Communications Breakdown                           *
+*******************************************************************************
+As Brawl, take out three heavily guarded communication dishes.  Go up the hill
+to your left to find them.  Brawl's light blaster should be enough to deal with
+the three turrets guarding each dish.  Look out for walking into the range of
+each of the turrets when disposing of one.  Strafe!
+
+Blackout drops off some bombs to take out the dam with.  You must pick up each
+bomb in robot form, and take it to each marker.  The humans will get in your
+face in this level, so if you need some health, take out the cars or the rocks
+where you wrecked the communication dishes.  You have four markers, so do the
+farthest one first, as you'd get the most damage from walking so far.  Return
+to the bombs in tank form, as it's faster and you'd get less damage.  When you
+drop off the third bomb, an Autobot takes off with your last one.  Chase him
+down in tank form, and blast him a new one.
+
+Now you have four tanks coming your way.  You have to grab one and bring it
+to the point.  Lead them in your tank form to the location, then transform and
+grab one.  You should be able to make it without getting knocked down.  You may
+have to get their attention first by shooting one.  (You have 3 and a half
+minutes to get this done!)
+
+*******************************************************************************
+*                               Cover Your Six                                *
+*******************************************************************************
+As Barricade, your objective is to take out a whole base.  Drive to the target
+marker, and the mission will truly begin.  This base will spawn enemies like
+aircraft and tanks to take you down, so watch yourself.  Shoot the aircraft and
+tanks down, and then melee the buildings.  Your progress is indicated on the
+bottom screen in white.  If you need health, just keep shooting the human
+vehicles.  Once you reach 60% of destruction, tanks will arrive on the scene.
+Keep your cool, and blast them.
+
+The white buildings spawn the tanks and aircraft, while the towers spawn the
+lighter vehicles.
+
+Two Autobots appear.  These two are easy targets, so just keep shooting them
+and they should go down.
+
+*******************************************************************************
+*                                  Tag Team                                   *
+*******************************************************************************
+As Blackout, you have two choices.  If you are of high enough level, wipe out
+all turrets before you pick up Barricade.  These are the only enemies in the
+mission and they don't respawn even after you grab Barricade.  (You can ignore
+the turrets on the water, as I find that they can't reach you after you've
+passed them.)  Make sure you take out the turret on the building with the tower
+- it's your target.
+
+Or you can wing it through the level, and randomly change altitude to avoid
+incoming missiles.  (You can see missiles on radar as a moving white dot.)
+
+Now, blast the radio tower into oblivion.
+
+As Barricade, find the control room.  It's marked in yellow on your radar.
+Be careful not to get locked in the nooks and crannies, the tanks and crap will
+conspire to try to take you out, while you get out.  The big circular hole at
+the beginning is instant death, so chuck your first few enemies into the hole
+to get rid of them.  As usual, health pickups are found after blasting enemies
+or just breaking breakables.
+
+*******************************************************************************
+*                              Megatron's Return                              *
+*******************************************************************************
+As yourself, protect Megatron as he comes out of his deep freeze.  You have
+three and a half minutes to take care of the humans attempting to kill Lord
+Megatron.  When you reach the 1 minute mark, the tanks will disappear, and you
+will have to deal with nosy little Autobots.  Melee them and make sure Megatron
+survives.
+
+Make sure you choose a form with lots of armor and attack power.  I like the
+Attack Chopper.  In fact, you can get the Attack Chopper in this level.  Just
+before the dam, head to the left, and you'd find a little alcove with the
+American flag and some jets and the Attack Choppers.
+
+*******************************************************************************
+*                                 Get the Chip                                *
+*******************************************************************************
+As Blackout, take out the entire convoy before they leave the map.  If even one
+leaves, you fail the mission.  You can use all your tricks here, like grabbing
+tanks and shooting them from behind.  Ram them if neccessary.  A random tank
+will drop Megatron's chip, pick it up and fly it to the target marker.
+
+*******************************************************************************
+*                                   Ambush                                    *
+*******************************************************************************
+Megatron gets shot off the bridge into the dam.  Watch out for the water!  This
+level is misleading - your objective is to destroy all five turrets preventing
+you from leaving the area.  As soon as you destroy one, two Autobots appear to
+help try to stop you.
+
+Continue blasting the turrets, but DON'T TRANSFORM.  You'd get shot the moment
+you do.  You can ignore the Autobots if you wish, and only shoot them when they
+really get in your way.  (You can fail the mission by timing out with about
+five minutes.)  The Autobots appear in teams of two to try to take out Lord
+Megatron.
+
+After the cutscene, you chase down Jazz and the fight between Jazz ensues.
+This Autobot is a fast son of a Cybertronian, so look out for his missiles and
+light blasters.  For some reason, he only shoots at you, instead of taking you
+out with hand-to-hand.  If you need health, transform and head to the top of
+the stone bridge.  You have breakable rocks and cacti to refill your health.
+(And Jazz usually doesn't see you.)
+
+The Cheap Way (To Beat Jazz):  Jazz jumps around a lot.  Head back over to the
+dam area, and avoid missiles.  He should accidentally jump into the water and
+kill himself.  (At least Megatron doesn't have to waste energon crystals on 
+Jazz!)  Actually, when I did this, Jazz landed on the side of the Dam with the
+entrances to the base.  I flew away, hoping to get some health pickups - and
+flew back to find Jazz suspended in midair above the water.  He wasn't moving
+just making his sounds, I just went into jet mode, and shot him to death with
+my heavy blaster.
+
+*******************************************************************************
+*                                Street Brawl                                 *
+*******************************************************************************
+Brawl Versus Ironhide!  The match of the century!  This boss battle is pretty
+brutal, unless you know all of his vocal cues.  (Ironhide is the only Autobot
+with a clearly defined pattern.)
+
+"I'm sending you to the scrapheap!"  =  Ground Pound..
+
+"Prepare to get recycled!"  =  Ground Pound...
+
+"Kiss your chrome goodbye!" = Another punch.
+
+"I'm going to put you in permanent neutral!"  =  A punch.
+
+"You're messing with the wrong Autobot!" = A missile barrage!
+
+My strategy for taking on Ironhide?  Run away from him in tank form, until you
+hear his ground pound and his "Ugh!" and his icon on the radar stops moving.
+Melee him with a few punches, but watch out as he recovers pretty quickly.
+For health, run over trees and lampposts and you'd get it.  Don't bother
+shooting Ironhide, as his armor's pretty thick.
+
+===============================================================================
+===============================================================================
+=                             Tranquility - Part 3                            =
+===============================================================================
+===============================================================================
+
+*******************************************************************************
+*                            Starscream's Betrayal                            *
+*******************************************************************************
+This mission is a pain and a half to complete.  You start off as Starscream in
+jet form.  You need to chase down an extremely nimble Bumblebee, as he leads
+you on a merry chase.  Fly low to the ground, and slow down when he approaches
+any intersection.  Use turbos on straightways, and look your your radar.  When
+the chase reaches the docks with the maze of cargo containers, fly a bit higher
+to watch Bumblebee's movements.  (You have ten seconds to try to catch up, if
+you lose him.)  By the end of the docks, you should have reached a airplane
+hanger and a gap in the fence.  Take off after him, and continue flying low,
+as he's on the highway now.  During the straight stretch, you will have to
+strain your turbos to keeps him in your sight.
+
+Now the 'Bee stops.  Just melee him to death and prepare for the real fight.
+After the cutscene, Blackout and Barricade show up to confront Starscream.  You
+end Blackout's life immediately, but Barricade tries to take you in for
+treason against Big M.  
+
+Barricade only has one attack that you have to watch out for.  He says "I'm
+taking you in for treason!"; then he loops around in a tight circle and rams
+you.  It knocks you back and takes a ton of health off the meter.  Transform
+and fly off when he does this.  You can refill health from breakables in the
+city, just fly off the parking lot and get it.  Make sure you come back if
+the "Exited Combat Area" sign clicks on.
+
+*******************************************************************************
+*                              Sibling Rivalry                                *
+*******************************************************************************
+As yourself, you confront the traitor Starscream.  He sends out a bunch of
+drones to try to finish you off.  You have 1 minute to take out 25 drones.  He
+takes off again, and you have to fly to the next marker.  (If not flying, you
+can take the highway, but jump off the bridge when you are about parallel to
+the target market.)  You have 2 minutes to do this.
+
+Land, and he sends more drones after you.  You have 1 minute to take out the
+same amount of drones.  Just sit in place, and rotate using the L/R buttons.
+Use your rapid-fire light blaster.  Starscream takes off again.
+
+Follow him across the water and across the highway.  (You have 1 minute to do
+this.)  The yellow marker is in the middle of a residental area.  Land, and
+you have to take out 5 Autobots in 2 and a half minutes.  He takes off soon
+after, and you alert Megatron to that fact.
+
+Optimus Prime arrives on the scene.  As Megatron, your goal is to wreck him.
+Keep randomly jumping and firing heavy blasters at him.  Don't bother with
+trying to melee Prime - he stands still and cannot be knocked down.  His
+heavy missiles take out a huge chunk of health - so try hard to avoid them.
+Prime's missiles come in a stream of three, so count carefully, and strafe left
+and right just as his streams end.  (Don't bother picking up health with Prime
+on your tail.)
+
+===============================================================================
+===============================================================================
+=                                Casino Strip                                 =
+===============================================================================
+===============================================================================
+
+*******************************************************************************
+*                               Final Showdown                                *
+*******************************************************************************
+As yourself, your goal is to weaken a AlllSpark holding Starscream enough so
+that Lord Megatron can take him on.  Starscream stands pretty much still, so
+you can hide behind the cube statue to avoid his missiles or scale a building
+to get away from him.  He has two attacks - one standard heavy missiles and
+one blue-ish close combat ray.  After each attack, he will try to reorient to
+continue blasting you.  If you have a huge form (eg. SWAT Van, 'copter), you
+can try to jump over him.  Melee Starscream in the back about four times to get
+him to drop the AllSpark.  Wait until he walks close to the AllSpark, then pick
+it up and melee him with it.  (The AllSpark appears on the radar as a big red
+triangle and it shoots a giant yellow beam into the air.)
+
+Starscream then takes to the air.  Megatron arrives to crush his little
+traitorous chassis, and the battle begins.  You'd have to catch up with
+Starscream using Megatron's nitro boost in jet form.  Starscream lands in three
+places on the rooftops.  His first landing site is a small ledge with a few
+air conditioning units on top.  His second is a long strip of roof with that
+red billboard on it.  His last is the worst - on top of a tall building with a
+human helicopter shooting at you.  Just continue circle strafing Starscream
+using heavy blasters to finish him off.  You can also collect health, once he's
+landed on any roof - destroy lampposts and cars to get it.  Make sure you
+listen to the sound, and take off after Starscream transforms back into jet
+mode.  (If you can fly well enough, you can take off a good chunk of
+Starscream's health by pelting him in the back with heavy blasters.)  You can
+lose the mission if you lose sight of Starscream, so listen!
+
+===============================================================================
+===============================================================================
+=                              Challenge Missions                             =
+===============================================================================
+===============================================================================
+Play challenge missions (mini-games) by accessing them from the main menu or
+going to a Gold target marker in a free play map.  They range from breaking
+stuff, to driving, to killing Autobots and to throwing stuff.  You can unlock
+more by getting gold medals in existing challenge missions.
+
+I'd just put the name of the challenge mission, then the amount needed to get
+a shiny gold medal in it.  (I may be missing a few, so I'd need your help.
+Please refer to the About the Author information for contact information.)
+You will be credited for your submissions.
+
+*******************************************************************************
+*                                 Casino Strip                                *
+*******************************************************************************
+
+Name of Mission:  Urban Removal
+Score: 39
+
+Name of Mission:  Swing Batter, Swing
+Score:  14364
+
+Name of Mission:  Losing It
+Score:  1:01.16
+
+Name of Mission:  Trash the Place
+Score:  57850
+
+Name of Mission:  Toss It
+Score:  1121
+
+Name of Mission:  Fly High
+Score:  ???????
+
+Name of Mission:  Roadblock
+Score:  ???????
+
+Name of Mission:  Orb Dash
+Score:  ???????
+
+Name of Mission:  Time Trial
+Score:  ???????
+
+*******************************************************************************
+*                                  Tranquility                                *
+*******************************************************************************
+
+Name of Mission:  Hold Out
+Score: 1:54:80
+
+Name of Mission:  Vandalism
+Score:  0:46.33
+
+Name of Mission:  Melee Mayhem
+Score:  12260
+
+Name of Mission:  Drone Clean-Uo
+Score:  25
+
+Name of Mission:  Final Orb Race
+Score:  1:06.23
+
+Name of Mission:  Traffic Light  Smash-Up
+Score:  ???????
+
+*******************************************************************************
+*                                 Qatar Desert                                *
+*******************************************************************************
+
+Name of Mission:  Orb Challenge
+Score:  ???????
+
+Name of Mission:  Jumping The Dunes
+Score:  1308
+
+Name of Mission:  Sweating It
+Score:  27:49:13
+
+Name of Mission:  Collecting Orbs
+Score:  ???????
+
+Name of Mission:  Groups of Three
+Score:  ???????
+
+*******************************************************************************
+*                                  Hoover Dam                                 *
+*******************************************************************************
+
+Name of Mission:  Everything Must Go
+Score:  1740
+
+Name of Mission:  Dam Race
+Score:  0:34.68
+
+Name of Mission:  Own The Drone
+Score:  33
+
+Name of Mission:  Survivor
+Score:  22:09.27
+
+Name of Mission:  Destruction List
+Score:  1:32.50  [Jenn - via email]
+
+Name of Mission:  Collect Them All
+Score:  0:38.52
+
+===============================================================================
+===============================================================================
+=                                    Cheats                                   =
+===============================================================================
+===============================================================================
+
+Cheats are unlocked by way of earning Wifi tokens in the AllSpark Wars.  The
+cheats range from extra jumping power to extra vehicle forms to exploding
+everything.  A description of how to earn them follows.
+
+Cheats are activated and deactivatived in the main menu.
+
+Name of Cheat:  Health Regeneration
+How to Unlock:  Earn MAX experience through battle and challenge missions
+What Does It Do?:  When playing as your custom Decepticon, you can slowly
+regain health through time.
+
+Name of Cheat:  Armagedden Mode
+How to Unlock:  Beat the game once
+What Does it Do?:  Everything turns explosive!
+
+Name of Cheat:  Character Select
+How to Unlock:  Beat the game once.
+What Does it Do?:  Allows you to access freeplay as Brawl, Starscream,
+Megatron and Barricade!
+
+Name of Cheat:  Suicidal Civilian Cars (Crazy Cars)
+How to Unlock:  Earn 500 WiFi tokens
+What Does It Do?:  Computer controlled cars will ram you at high speed, even
+if you are in vehicle form.  Increases difficulty of game ten-fold!
+
+Name of Cheat:  Infinite Energy
+How to Unlock:  Earn 1000 WiFi tokens
+What Does It Do?:  Infinite blue ammo bar, means you can shoot heavy blasters
+at will!
+
+Name of Cheat:  Super Jump
+How to Unlock:  Earn 2000 WiFi tokens
+What Does It Do?:  Allows you to jump farther and whatnot.
+
+Name of Cheat:  Top/Down View
+How to Unlock:  Earn 3000 WiFi tokens
+What Does It Do?:  Allows you to view the action from a different camera angle
+
+===============================================================================
+===============================================================================
+=                          Action Replay Cheats                               =
+===============================================================================
+===============================================================================
+*******************************************************************************
+*                 Transformers: Decepticons (USA and Canada)                  *
+*******************************************************************************
+Game ID:  AFYE 86f6202b
+
+Infinite Life & Weapon Energy
+(Your bar still goes down in the "survival" mini-games)
+520DAC50 E8BD8070
+020DAC54 E5902134
+020DAC60 E580213C
+020DAC6C E5902138
+020DAC78 E5802140
+020DAC80 E5802040
+D2000000 00000000
+
+Experience Code
+(Tap R to be -1 experience to next level!)
+520DAC50 E8BD8070
+020C9158 E5906008
+020C9174 E5905004
+02024D54 E7920100
+020C9168 E1A04000
+94000130 FEFF0000
+020C9158 E5905004
+020C9174 E5806008
+02024D54 E7924100
+020C9168 E2446001
+
+All Vehicles and Characters Unlocked
+0203152C E3A00001
+02031530 E8BD8038
+
+Disable The Timer
+(Useful in Mini-games and even some missions!)
+PRESS SELECT TO TOGGLE ON AND OFF!!!!!!
+520C7A20 E5902018
+94000130 FFF70000
+020C7A24 E082200E
+020C7A30 E082200E
+D1000000 00000000
+94000130 FFFB0000
+020C7A24 E1A00000
+020C7A30 E1A00000
+D2000000 00000000
+
+Crazy Npc
+(NPCS act suicidal!)
+PRESS SELECT TO ENABLE, START TO TURN OFF!!!!
+520D6CB4 E3A0175A
+020D6CB0 EBFF8AB4
+520A68A4 00000001
+523FDFFC 00000001
+020D6CB0 00000000
+D2000000 00000000
+94000130 FFF70000
+023FDFFC 00000000
+D2000000 00000000
+94000130 FFFB0000
+023FDFFC 00000001
+D2000000 00000000
+
+*******************************************************************************
+*                    Transformers: Decepticons France                         *
+*******************************************************************************
+Game ID:  AFYF 45b6979c
+
+All Normal Cheats Available
+(Unlocks non-action replay cheats!)
+1217384C 000007FF
+
+All Levels Unlocked
+(Areas and other stuff)
+92173848 FFFE0000
+D9000000 02173848
+D4000000 00000001
+D6000000 02173848
+D2000000 00000000
+
+All Characters
+92173848 FFFD0000
+D9000000 02173848
+D4000000 00000002
+D6000000 02173848
+D2000000 00000000
+
+All Missions
+92173848 FFFB0000
+D9000000 02173848
+D4000000 00000004
+D6000000 02173848
+D2000000 00000000
+
+All Vehicles
+92173848 FFDF0000
+D9000000 02173848
+D4000000 00000020
+D6000000 02173848
+D2000000 00000000
+
+Infinite Ammo/Life Energy
+92173848 FFF70000
+D9000000 02173848
+D4000000 00000008
+D6000000 02173848
+D2000000 00000000
+
+Infinite Energy
+92173848 FEFF0000
+D9000000 02173848
+D4000000 00000100
+D6000000 02173848
+D2000000 00000000
+
+Slow-Motion
+Press SELECT & UP
+94000130 000003BB
+92173848 FFEF0000
+D9000000 02173848
+D4000000 00000010
+D6000000 02173848
+D2000000 00000000
+
+Normal Speed
+Press SELECT & DOWN
+94000130 0000037B
+92173848 FFEF0010
+D9000000 02173848
+D4000000 FFFFFFF0
+D6000000 02173848
+D2000000 00000000
+
+Unlock G1 Starscream
+620ADC40 00000000
+B20ADC40 00000000
+00000004 00000001
+D2000000 00000000
+
+Autobots & Decepticons Vehicles
+Press L and R to before accessing the Vehicle List to Toggle
+620ADBB4 00000000
+B20ADBB4 00000000
+B000000C 00000000
+94000130 FDFF0000
+00000008 0000000A
+0000001C 00000000
+D1000000 00000000
+94000130 FEFF0000
+00000008 00000054
+0000001C 00000001
+D2000000 00000000
+
+*******************************************************************************
+*                         Transformers: Decepticons Europe                    *
+*******************************************************************************
+Game ID:  AFYP e03a6127
+
+All Levels Unlocked
+92172A94 FFFE0000
+D9000000 02172A94
+D4000000 00000001
+D6000000 02172A94
+D2000000 00000000
+
+All Characters Unlocked
+92172A94 FFFD0000
+D9000000 02172A94
+D4000000 00000002
+D6000000 02172A94
+D2000000 00000000
+
+All Missions Unlocked
+92172A94 FFFB0000
+D9000000 02172A94
+D4000000 00000004
+D6000000 02172A94
+D2000000 00000000
+
+All Vehicles
+92172A94 FFDF0000
+D9000000 02172A94
+D4000000 00000020
+D6000000 02172A94
+D2000000 00000000
+
+Infinite Ammo/Life Energy
+92172A94 FFF70000
+D9000000 02172A94
+D4000000 00000008
+D6000000 02172A94
+D2000000 00000000
+
+Infinite Energy
+92172A94 FEFF0000
+D9000000 02172A94
+D4000000 00000100
+D6000000 02172A94
+D2000000 00000000
+
+Slow Motion
+Press SELECT & UP
+94000130 000003BB
+92172A94 FFEF0000
+D9000000 02172A94
+D4000000 00000010
+D6000000 02172A94
+D2000000 00000000
+
+Normal Speed
+Press SELECT & DOWN
+94000130 0000037B
+92172A94 FFEF0010
+D9000000 02172A94
+D4000000 FFFFFFF0
+D6000000 02172A94
+D2000000 00000000
+
+All Normal Cheats Available
+(Unlocks non-action replay cheats!)
+12172A98 000007FF
+
+Character Runs Faster
+2207D305 0000001C
+
+Unlock G1 Starscream
+620ADC2C 00000000
+B20ADC2C 00000000
+00000004 00000001
+D2000000 00000000
+
+Autobots and Decepticons Vehicle Select
+Press L or R to toggle
+620ADB94 00000000
+B20ADB94 00000000
+B000000C 00000000
+94000130 FDFF0000
+00000008 0000000A
+0000001C 00000000
+D1000000 00000000
+94000130 FEFF0000
+00000008 00000054
+0000001C 00000001
+D2000000 00000000
+
+*******************************************************************************
+*                             Extra Vehicle Forms                             *
+*******************************************************************************
+
+Name of Vehicle:  Generation 1 Starscream
+How to Unlock:  Either earn 2500 WiFi tokens or download the Transformers: DS
+trailer at Target stores.  (North America only)
+
+Name of Vehicle:  Funky Bus
+How to Unlock:  Connect to the AllSpark Wars server for the first time.
+
+Name of Vehicle:  Love Cruiser
+How to Unlock:  Earn 250 WiFi tokens
+
+Name of Vehicle:  Stunt Car
+How to Unlock:  Earn 750 WiFi tokens
+
+Name of Vehicle:  Scout Car
+How to Unlock:  Earn 1500 WiFi tokens
+
+Name of Vehicle:  Construction Car
+How to Unlock:  Beat the game once!
+
+*******************************************************************************
+*                            Cheap Trick in Freeplay                          *
+*******************************************************************************
+Got a high threat level?  Need a health boost right this cycle?  Press "Start"
+to bring up your vehicle form change menu, then select "Confirm".  Cancel your
+action with a B button press, and you are back in the game with a full health
+bar and no threat level!
+
+===============================================================================
+===============================================================================
+=                             Playable Decepticons                            =
+===============================================================================
+===============================================================================
+Custom Deception:  You!  You are quite mutable, and can switch vehicle forms at
+will.  I find that the Chopper and bigger forms have better firepower and
+better armor, while the faster cars have weaker armor.
+
+Barricade:  A black tinted Decepticon with horns on his head.  He turns into a
+police car.  He's a pretty fast SOB, but is pretty weak.  Use his heavy blaster
+to turn Autobots into swiss cheese.
+
+Blackout:  A metallic grey chopper who turns into a tall Decepticon with his
+rotors strapped to his back.  Slightly stronger than Barricade, and can some
+what take more hits than Barricade before popping out of vehicle form.
+
+Brawl:  A literal tank, he turns enemies into spare parts at the blink of an
+eye.  Unfortunately, he's slower than a frozen milkshake.  Use his light
+blaster - his heavy blaster tends to miss targets.  He's also good at melee,
+so use that...especially against slow moving targets!
+
+Megatron:  Oooo...the Big Cheese!  The big Kahuna morphs into a Cybertronian
+jet instead of his original Cybertronian pistol.  He's fast, and he has full
+firepower capabilities.  His heavy blaster tends to track downwards, although.
+In Jet mode, you can hover in the air by applying air brakes with the A
+button.
+
+Starscream:  A Decepticon who turns into a regular human Jetfighter.  He has
+about the same stats as Megatron, except he lacks the firepower that his boss
+'bot has.  His light blaster doesn't extend too far away from his body.
+
+
+===============================================================================
+===============================================================================
+=                                     WiFi                                    =
+===============================================================================
+===============================================================================
+
+WiFi isn't that interesting in Decepticons - but it does provide you with a
+sense of your skill level in the Transformers online community.  The WiFi
+function is called the "AllSpark Wars".
+
+Oh yeah, and if you want, you can link your Game Id with an account on the
+Official Transformers Website.  From the main AllSpark Wars menu, head to
+"Website Login", and write down your game id.
+
+Head to www.transformersgame.com/ds to and follow the instructions for
+registering.  Now you can see yourself on the leaderboards!
+
+
+*******************************************************************************
+*                                AllSpark Wars                                *
+*******************************************************************************
+The AllSpark Wars pits Decepticon against Autobot in a neverending series of
+Challenge missions for control of fragments of the AllSpark.  Every day, you
+can download and play a Challenge mission from the server.  You can play
+however many times you like, and the total score is uploaded to the server.
+At the end of each day (24 hours), the total scores of all Decepticons and
+Autobots are tallied together.  The team with the bigger point total gains the
+AllSpark fragment.  When all the battles are complete (eg. the cube is
+completely filled in with color), the total winner of that AllSpark is
+declared.  There are 7 pieces of the AllSpark in total to battle for.
+
+So, what do you get from this?  WiFi tokens, which are used to unlock new
+vehicle forms and cheats.  You get tokens just for competing, for winning a
+battle, and an astounding amount just for winning control of the entire
+AllSpark.
+
+The battles are always Challenge missions - so get cracking on practicing your
+Challenge missions!
+
+(I've noticed the Decepticons seem to do better at Challenge missions that
+involve destruction or the endurance missions.  Better hope Nintendo keeps
+uploading these missions for us!)
+
+===============================================================================
+===============================================================================
+=                                Local Play                                   =
+===============================================================================
+===============================================================================
+
+Ah, multiplayer is done DS to DS or local play.  If you have a friend who has
+a copy of Decepticons and a DS, then you can play a standard Halo 3 inspired
+game of "frag first, ask questions later" or a "get the ball to the target"
+type game.
+
+You can access "multiplayer" from the main menu.  Hosts can change rules,
+while people who join can't.
+
+*******************************************************************************
+*                                    Modes                                    *
+*******************************************************************************
+Deathmatch - standard, let's rack up as many enemy deaths as possible.  Pits
+you as your favorite custom form Decepticon against other players who can use
+different machines.  Level is important here, so be careful against your
+enemies!
+
+AllSpark Sports - find the AllSpark and bring it to a marker to score.  Look
+out for enemy fire, and make sure you have a teammate to protect you!
+
+*******************************************************************************
+*                                    Teams                                    *
+*******************************************************************************
+Teams are denoted by color, with four different colors serving as the marker.
+Red, blue, yellow and gray.  In AllSpark Sports, there are only red and blue
+teams.  (It's an arrow beside your character name.)
+
+*******************************************************************************
+*                              Frag or Score Limit                            *
+*******************************************************************************
+You or your team wins when they get either 3, 5, or 7 wins to their name.
+
+*******************************************************************************
+*                                    Location                                 *
+*******************************************************************************
+Four locations to choose from, Arena, Power Plant, Docks and Cybertron!  I like
+to play deathmatch mode in Cybertron, lots of hiding spots.
+
+*******************************************************************************
+*                                     Rules                                   *
+*******************************************************************************
+Toggle between "normal", "vehicles only" and "robot only".  Make it harder or
+easier for people who don't like using cars or robots.
+
+*******************************************************************************
+*                                 Choose Robot                                *
+*******************************************************************************
+Once unlocked (beat the game), you can battle others with your favorite famous
+Decepticons or your original character.
+
+===============================================================================
+===============================================================================
+=                                    Glitches                                 =
+===============================================================================
+===============================================================================
+
+*******************************************************************************
+*                            The Color Test Glitch                            *
+*******************************************************************************
+Sometimes, when jumping or doing a ground pound, the game doesn't process
+graphics correctly.  Instead of a cratered patch or a damaged floor, there is
+a bunch of dots that resemble a color test pattern on your television at night.
+Fortunatey, it's annoying but not terminal.
+
+*******************************************************************************
+*                        The Dropping Percentage Point                        *
+*******************************************************************************
+Sometimes, shutting off the game when in a mission (either story or challenge)
+without quitting causes a few percentage points to be lost.  This is a very bad
+thing that can't be remedied, save for starting over with a new file.  It
+usually happens when you replay a Story Mission through the menu, instead of
+playing through normally.
+
+Make sure that you always quit a mission.
+
+***UPDATE:  You can fix this glitch, if you remember in what location you were
+when you turned off the game.  (Casino Strip, Tranquility, Quatar Desert or
+Hoover Dam).  Head into freeplay mode (after you've beaten the game), and
+select the location that you were in.  For example, I quit during the
+Communications Breakdown level - so I'd head to the Hoover Dam.  You should
+see a green icon (a story mission?).  Play it, and beat it, and you'd continue
+with the story.  Continue through the rest of the missions to restore your
+missing percentage points.
+
+===============================================================================
+===============================================================================
+=                                About The Author                             =
+===============================================================================
+===============================================================================
+
+*waves*  Yeah, it's me, astrangeone.  I'm a 24 year old walking cliche.  I plan
+to write more faqs for some games I find are impossible or just really really
+hard.  You can contact me with changes and corrections or questions either on
+the Decepticons GameFaqs board or at astrangeone at null.net.  Make sure you
+put "Decepticons Transformers FAQ" in any email you send, or else it will be
+deleted immediately.  (Also, you can ask any nice person on the Decepticon
+boards...)  I will credit you with any name you wish on this FAQ for
+corrections, submissions and other stuff.
+
+Don't send me viruses, letters asking me out (I'm a tried and true dyke.), or
+evil SPAM.  (Both kinds, even the one that contains ham will be rejected.)
+
+Also, check out my video reviews of DS games on youtube.com.  My channel is:
+http://www.youtube.com/user/astrangeone
+
+** It is a queer friendly channel.
+
+===============================================================================
+===============================================================================
+=                                  Legalese                                   =
+===============================================================================
+===============================================================================
+
+This entire document is (C) 2006 astrangeone. All trademarks are property of
+their respective owners. No section of this guide can be used without my
+permission. This includes, but is not limited to posting on your website,
+making links to my guide, including parts of my guide in your own, or making
+reference to any material contained within.
+
+All the sites mentioned below have permission to do the above. Please email me
+at astrangeone@dbzmail.com to enquire about gaining permission to use this
+document.
+
+www.gamefaqs.com
+
+- Thanks to Michael Sarich for this Copyright -
+
+Any misuse of this document will be followed up by my Ivy League graduated
+cousin lawyers!

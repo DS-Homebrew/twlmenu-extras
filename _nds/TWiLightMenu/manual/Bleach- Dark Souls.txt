@@ -1,0 +1,1765 @@
+Ñ°---------------------------------------------------------------------------Ñ¢
+Ñ† version 1.01                                                March 9, 2007 Ñ†
+Ñ†                   BLEACH DS 2ND: KOKUI HIRAMEKU REQUIEM                   Ñ†
+Ñ†                              FAQ/WALKTHROUGH                              Ñ†
+Ñ† by Sixfortyfive                           patrick AT sixfortyfive DOT com Ñ†
+Ñ§---------------------------------------------------------------------------Ñ£
+
+This FAQ is meant to serve as a translation and gameplay guide for Treasure and
+Sega's Bleach DS 2nd: Kokui Hirameku Requiem. I intend to cover everything
+required to play the game competently and unlock all characters and features,
+but I will not be providing either a detailed story translation or in-depth
+strategy for any single character in this guide, though I may be writing a few
+separate guides for individual characters later.
+ 
+This document is encoded in Japanese Shift-JIS format. In order to properly
+display Japanese characters in your browser, you must set its character
+encoding to Shift-JIS. In Internet Explorer and Firefox, this should be located
+somewhere in the View menu. If you cannot find a selection for Japanese Shift-
+JIS, you may have to download a language pack for your browser. Windows XP is
+capable of displaying Japanese fonts out of the box. Go to Control Panel >
+Regional and Language Options > Languages, make sure that Install Files for
+East Asian Languages has a checkbox, and click either OK or Apply.
+
+I will likely be participating in Bleach DS 2nd threads at GameFAQs and
+platformers.net, as well as discussing the game at the quasi-official Bleach DS
+IRC channel as I add more information to this guide. If you believe you can
+supply any additional useful information to this guide or if you find a mistake
+in this document that needs to be corrected, please let me know either by
+posting at one of the above locations or by e-mailing me directly. For now, the
+most recently updated version of this guide can be found at my website
+(http://www.sixfortyfive.com/temp/bleachds2nd.txt). It will be updated on
+GameFAQs as each major revision or addition is made.
+
+Ñ°---------------------------------------------------------------------------Ñ¢
+Ñ† TABLE OF CONTENTS                                                         Ñ†
+Ñ§---------------------------------------------------------------------------Ñ£
+   I. What's New Since Bleach DS 1st?
+  II. Reference
+       Character Roster
+        Returning Characters
+        New Characters
+        Cameo Appearances
+       Lexicon
+        Full List
+        Shorthand Variations
+ III. How To Play
+       Gameplay Screens
+        Top Screen
+        Touch Screen
+       Character Control
+        Movement
+        Defense
+        Offense
+       Tips & Basic Strategy
+       Reifu & Reiju
+        Reifu List
+        Reiju List
+       Simple Mode
+  IV. Menu Translation & Options
+       Extended Main Menu
+       Rule Settings
+   V. Story Mode
+       Walkthrough
+        Part A
+        Part B
+        Part C
+        Part D
+       Unlocks and Rewards
+  VI. VS Mode
+       Wi-Fi Connection
+        After Logging into Nintendo Wi-Fi Connection
+        Friend Code Settings
+ VII. Other Game Modes
+VIII. Deck Construction
+  IX. Urahara Shop & Gallery
+       Urahara Shop
+       Gallery
+   X. Get Your Game On - Bleach DS IRC Channel
+       Using mIRC
+       Using Trillian
+       Using TinyIRC
+       Using Java IRC
+Å@XI. Credits, Legal Junk, and Version History
+
+Ñ°---------------------------------------------------------------------------Ñ¢
+Ñ† SECTION I: WHAT'S NEW SINCE BLEACH DS 1ST?                                Ñ†
+Ñ§---------------------------------------------------------------------------Ñ£
+
+Bleach DS 2nd is mostly an expansion and refinement of the original Bleach DS.
+The basic gameplay system is mostly unchanged, all of the non-duplicate
+characters have returned, several more have been added to the roster, and
+various tweaks have been made here and there.
+
+While the move sets for each of the returning characters are mostly similar
+with a few new specials added here and there, the control behavior for most of
+them have changed drastically. A lot of infinite combos are gone; those that
+remain are harder to pull off. Most non-RF specials have much greater start-up
+or cool-down time, making it particularly difficult to combo to or from some of
+them. If you've put a lot of time into mastering any particular characters in
+the original game, you'll likely have to change your strategy and relearn a few
+things to get yourself up to speed in the sequel.
+
+Most of the changes to specific characters are for balance purposes. Just about
+every significant issue present in the original game has been addressed.
+Kenpachi no longer has infinite teleport ability or stackable Super A. Aizen's
+fireball normals have been replaced with sword techniques and his specials now
+have RF variations. Soifon's crouching kick and ninja summons have been nerfed
+considerably. Uryu's Ransoutengai is now an RF technique, and he can't string
+as many arrow volleys together at once. Yachiru's normal attacks are slower and
+she occasionally trips on her own. Unfortunately, some characters who didn't
+need to be nerfed were made weaker anyway. Orihime now takes 1.5x damage, for
+example.
+
+While a good number of new characters in Bleach DS 2nd mostly seem to have been
+added for the purpose of padding the Story Mode with generic opponent
+characters, those who do stand out among them add a lot of variety to the
+roster. Iduru has a number of command throws and counter techniques. Rangiku
+has some nice ash cloud setups. Don Kanonji is a better fighter than he has any
+right to be. Some characters who had sparse movesets in the original Bleach DS
+have been upgraded. Hollow Ichigo now has a unique moveset. Nemu, Yachiru,
+Tatsuki, and Kon have a little more variety in special attacks now. Bonnie has
+normal attacks.
+
+You can now see your opponents' reiryoku gauges. You can no longer use flash
+steps to pass through enemy RF specials. You can no longer damage cancel out of
+a super during the moment it is cast, which makes for a much more aggressive
+pace to battles in particular. Throws can now be performed in mid-air but are
+now more difficult to perform; they require two button presses and more precise
+positioning. Several hitboxes have been modified; most attacks that used to hit
+in front and behind the player simultaneously no longer do so. Some super
+attacks now vary in behavior depending on what button is pressed to perform
+them.
+
+Steps have been taken to prevent touch screen abuse. You must wait a few
+seconds after using a special attack hotkey in order for it to become active
+again. You cannot use guard cancel techniques via the touch screen. The reifu
+system has been overhauled and the most abused cards have been thrown out
+altogether.
+
+The story mode in Bleach DS 2nd appears to be a non-canon sidestory that takes
+place at the end of the Soul Society arc of the series. It contains several
+minigame-esque stages, some pseudo-sidescrolling beat-em-up stages, and fights
+against hollows who are also playable characters themselves. The Wi-Fi versus
+mode has been improved. You can now rematch opponents after each fight, add
+them to your rivals list without obtaining their code, leave messages for
+others on your friend/rival list, play card-less ranking matches, and play
+special event matches held by Sega periodically. Challenge Mode has not made a
+return. Time Attack Mode is now 6 stages instead of 20. You regain some life in
+Survival Mode after each match now, which makes it considerably easier.
+
+Ñ°---------------------------------------------------------------------------Ñ¢
+Ñ† SECTION II: REFERENCE                                                     Ñ†
+Ñ§---------------------------------------------------------------------------Ñ£
+
+Ñ°------------------Ñ¢
+Ñ† CHARACTER ROSTER Ñ†
+Ñ§------------------Ñ£
+Surnames are listed first to match the kanji on the left. The only character
+from Bleach DS 1 who does not appear in Bleach DS 2nd is the masked version of
+Komamura. This isn't particularly noteworthy, as he played identically to the
+unmasked version anyway. 
+
+- RETURNING CHARACTERS -
+
+çïçËàÍåÏ             Kurosaki, Ichigo
+ãÄñÿÉãÉLÉA           Kuchiki, Rukia
+à‰è„êDïP             Inoue, Orihime
+êŒìcâJó≥             Ishida, Uryu
+íÉìnë◊å’             Sado, Yatsutora (Chad)
+éuîgä‚òh             Shiba, Ganju
+à¢éUà‰óˆéü           Abarai, Renji
+ãÄñÿîíç∆             Kuchiki, Byakuya
+ésä€ÉMÉì             Ichimaru, Gin
+çXñÿåïî™             Zaraki, Kenpachi
+ì˙î‘íJì~éÇòY         Hitsugaya, Toushiro
+êóêXìç               Hinamori, Momo
+ìåêÂóv               Tosen, Kaname
+çùë∫ç∂êw             Komamura, Sajin
+ü∏É}ÉÜÉä             Kurotsuchi, Mayuri
+ãûäyètêÖ             Kyoraku, Syunsui
+ïÇí|è\élòY           Ukitake, Jushiro
+ç”ñI                 Soifon
+éRñ{å≥ñˆç÷èdö†       Yamamoto-Genryusai, Shigekuni
+élïñâ@ñÈàÍ           Shihoin, Yoruichi
+óïêıëyâEâÓ           Aizen, Sousuke
+ü∏ÉlÉÄ               Kurotsuchi, Nemu
+çïçËàÍåÏ(ãïâª)       Kurosaki, Ichigo (Hollow)
+ëêé≠Ç‚ÇøÇÈ           Kusajishi, Yachiru
+ÉRÉì                 Kon
+É{ÉjÅ[ÇøÇ·ÇÒ         Bonnie
+óLëÚÇΩÇ¬Ç´           Arisawa, Tatsuki
+
+- NEW CHARACTERS -
+
+äóå¥äÏèï             Urahara, Kisuke
+î¡ñ⁄àÍäp             Madarame, Ikkaku
+ãgó«ÉCÉdÉã           Kira, Iduru
+éRìcâ‘ëæòY           Yamada, Hanataro
+èºñ{óêãe             Matsumoto, Rangiku
+ÉhÉìÅEäœâπéõ         Don Kanonji
+éuîgãÛíﬂ             Shiba, Kukaku
+ûwç≤ñÿèCï∫           Hisagi, Shuhei
+í€âÆâJ               Tsumugiya, Ururu
+ÇËÇËÇÒ               Ririn
+égÇ¢ñÇ               Tsukaima
+ÉVÉÖÉäÅ[ÉJÅ[         Shrieker
+ëÂãï                 Menos Grande
+ÉOÉâÉìÉhÉtÉBÉbÉVÉÉÅ[ Grand Fisher
+ã~åÏî«àı             Kyugohanin
+åÏíÏë‡ém             Goteitaishi
+ÉVÉoÉ^ÉÜÉEÉCÉ`       Shibata, Yuichi
+
+- CAMEO APPEARANCES -
+The following characters appear in system voice menus.
+
+â‘ä†ÉWÉìëæ           Hanakari, Jinta
+à¨ïHÉeÉbÉTÉC         Tsukabishi, Tessai
+çïçËâƒóú             Kurosaki, Karin
+íŸï{ÉäÉì             Tsubokura, Rin
+
+Ñ°---------Ñ¢
+Ñ† LEXICON Ñ†
+Ñ§---------Ñ£
+The following is a translation of some common terms used throughout the game.
+
+- FULL LIST -
+
+ç∞ÈÆ               SOUL (health)
+óÏóÕ               REIRYOKU ("spirit power," used for Specials)
+óÏà≥               REIATSU ("spirit pressure," used for Supers)
+óÏïÑ               REIFU (spirit card)
+óÏéÏ               REIJU (spirit gem)
+ÇµÇ·Ç™Ç›           CROUCH
+óßÇø               STAND
+ÉWÉÉÉìÉv           JUMP
+É_ÉbÉVÉÖ           DASH
+ãÛíÜÉ_ÉbÉVÉÖ       AERIAL DASH
+ìÒíiÉWÉÉÉìÉv       2-STEP JUMP [DOUBLE JUMP]
+ì¡éÍà⁄ìÆ           SPECIAL MOVEMENT (flash steps)
+èuï‡               FLASH STEP / SHUNPO
+ÉâÉCÉìà⁄ìÆ         LINE CHANGE (jump between background/foreground)
+ÉKÅ[Éh             GUARD
+ÉKÅ[ÉhÉLÉÉÉìÉZÉã   GUARD CANCEL
+É_ÉÅÅ[ÉWÉLÉÉÉìÉZÉã DAMAGE CANCEL
+í èÌçUåÇ           NORMAL ATTACK
+è¨çUåÇ             LIGHT ATTACK
+íÜçUåÇ             MEDIUM ATTACK
+ëÂçUåÇ             HEAVY ATTACK
+ìäÇ∞               THROW
+ïKéEãZ             SPECIAL ATTACK (blue hotkeys)
+RFïKéEãZ           REINFORCED SPECIAL ATTACK (strongest variation)
+í¥ïKéEãZ           SUPER ATTACK (red hotkeys)
+
+- SHORTHAND VARIATIONS -
+
+óß     STANDING
+ã¸     CROUCHING
+ãÛ     AERIAL
+è¨     LIGHT ATTACK
+íÜ     MEDIUM ATTACK
+ëÂ     HEAVY ATTACK
+ïKÇw   SPECIAL ATTACK X
+RFïKÇw REINFORCED SPECIAL ATTACK X
+í¥ïKÇw SUPER ATTACK X
+
+Ñ°---------------------------------------------------------------------------Ñ¢
+Ñ† SECTION III: HOW TO PLAY                                                  Ñ†
+Ñ§---------------------------------------------------------------------------Ñ£
+
+Ñ°------------------Ñ¢
+Ñ† GAMEPLAY SCREENS Ñ†
+Ñ§------------------Ñ£
+
+- TOP SCREEN -
+
+SOUL (ç∞ÈÆ) GAUGE
+This is the blue life bar at the top of the screen.
+
+REIATSU (óÏà≥) GAUGE
+This is the green bar beneath your life gauge, which fills up as you attack
+your enemy and increases your reiatsu stock count by 1 when filled.
+
+REIATSU (óÏà≥) STOCK
+Three white markers next to your reiatsu gauge keep track of your current
+Reiatsu stock. You can hold up to 3 reiatsu stock in reserves, which are
+required to perform super moves and damage cancels.
+
+REIFU (óÏïÑ) EFFECT
+Reifu are the spirit cards used during battle to power-up your character or
+power-down your opponents. A colored icon will appear beneath your life gauge
+when your character is currently under the effect of a card. This color
+indicates the type of effect, which matches the color of the card used. For
+more information on reifu and their effects, see the reifu section below.
+
+REIRYOKU (óÏóÕ) GAUGE
+This is the three-segmented bar at the bottom of the screen, which fills up
+automatically over time. Reiryoku is required to perform RF specials and use
+flash steps. Using flash steps depletes the inner gauge only, while using RF
+specials depletes both the inner and outer gauges. The inner gauge restores
+itself more quickly than the outer gauge, but the inner gauge will only restore
+itself as long as the outer gauge is at an equal or greater level. In other
+words, the inner gauge can never be larger than the outer gauge. In Bleach DS
+2nd, reiryoku gauges for both you and your opponents are always visible.
+
+TIME LIMIT
+Located at the top of the screen between the players' life bars.
+
+- TOUCH SCREEN -
+
+REIFU (óÏïÑ) STOCK
+This is the number at the top of the screen that indicates how many reifu you
+have left in reserves.
+
+REIFU (óÏïÑ) BUTTONS
+These are the spirit cards, which are activated upon touch. Four of these are
+available at any one time. For more information on reifu, check the Reifu/Reiju
+and Deck Construction sections below.
+
+SPECIAL HOTKEYS
+Blue hotkeys are shortcuts for specials. Red hotkeys are shortcuts for supers.
+Using the hotkeys for command input instead of the face buttons prohibits you
+from choosing the variation (light/medium/heavy) of that technique during
+battle. They will always perform the heavy/RF version.
+
+PLAYER EMBLEMS
+Each player's custom emblem will appear at the top-right corner of the touch
+screen.
+ 
+There does not appear to be a way to alter the layout of the touch screen in
+Bleach DS 2nd.
+
+Ñ°-------------------Ñ¢
+Ñ† CHARACTER CONTROL Ñ†
+Ñ§-------------------Ñ£
+
+- MOVEMENT -
+
+WALK & TURN: left/right
+JUMP:        up
+CROUCH:      down
+DASH:        left/right twice; 2nd press can be held down
+AERIAL DASH: left/right twice in mid-air
+DOUBLE JUMP: up while in mid-air
+FLASH STEP:  B button (can be changed in options, uses 1/3 of reiryoku gauge)
+LINE CHANGE: L button (can be changed in options)
+
+FOREGROUND AND BACKGROUND FIGHTING PLANES
+Movement in Bleach DS 2nd takes place on two individual 2D fighting planes.
+Attacks performed on one plane will not interfere with the action on the other
+plane. You can switch planes at any time by pressing the line change button. In
+this game, it is possible to hit opponents as they are changing planes, and you
+can change the game's settings so that you and your opponent cannot change
+planes during battle.
+
+FLASH STEPS / SHUNPO
+Flash steps are used to quickly teleport in any direction, and most characters
+are invulnerable to opponents when they perform this technique. You can use
+flash steps to teleport through or away from enemy attacks, travel a longer
+distance quickly, link normal attacks that normally do not chain together, or
+position yourself in the air for a quick overhead attack. Most characters will
+briefly be vulnerable to attack after completing a flash step; you won't have
+time to block an enemy's attack if you flash step into it. Flash steps also use
+up one segment of your inner reiryoku gauge. Some characters do not have proper
+flash steps but instead have a comparable quick step that provides many of the
+same functions. These characters may be completely visible to opponents when
+performing the technique or not be able to use it in mid-air. In Bleach DS 2nd,
+you cannot use flash steps to pass through your enemy's RF special attacks.
+Attempting to do so will still cause you to get hit.
+
+MOVEMENT BEHAVIOR AND RULES
+Walking speed, dashing speed, and flash step distance vary between individual
+characters. For most characters, up to one double jump and two aerial dashes
+can be performed in mid-air before returning to the ground. These aerial
+movement techniques can be linked together in any manner.
+
+- DEFENSE -
+
+GUARD:         R button (can be changed in options)
+GUARD CANCEL:  flash step / special while guarding
+DAMAGE CANCEL: any attack button + flash step when enemy strikes (uses reiatsu)
+
+GUARDING
+Guarding nullifies damage from enemy attacks and also prevents you from being
+staggered. Most attacks still inflict a small amount of chip damage to guarding
+opponents, however. A standing guard blocks standing and aerial attacks but is
+vulnerable to crouching attacks and throws. A crouching guard blocks standing
+and crouching attacks but is vulnerable to aerial attacks and throws. An aerial
+guard blocks aerial, standing, and crouching attacks but is vulnerable to
+aerial throws. Guarding can either be performed with the guard button or by
+moving in the opposite direction of an enemy attack.
+
+GUARD CANCELING
+In a normal guarding state, you can not perform any action besides
+standing/crouching. When an enemy attack hits your character while you are
+guarding, however, a small blue circle will quickly appear, expand, and vanish.
+While this circle is visible, you can perform either a flash step or a
+special/super attack while you are guarding. This technique is called a guard
+cancel, and it is one of the most vital techniques to learn in order to play
+competitively. In Bleach DS 2nd, you cannot perform guard cancel techniques
+with the touch screen.
+
+DAMAGE CANCELING
+A damage cancel can be performed to break free from normal enemy attacks,
+special moves, and stuns. To perform this technique, simultaneously press the
+flash step button plus any normal attack button while your character is being
+attacked. (Using a reifu while in a damaged state also performs a damage
+cancel.)  The aura that surrounds your character during a damage cancel will
+inflict 1 hit point of damage to any enemy character that it touches. Damage
+canceling requires 1 reiatsu stock to perform and cannot be used against super
+moves or after a wallbounce. Unlike Bleach DS 1, you cannot DC at all after an
+enemy has started to perform a super move, even if it hasn't quite hit your
+character yet.
+
+- OFFENSE -
+
+LIGHT ATTACK:       Y button (can be changed in options)
+MEDIUM ATTACK:      X button (can be changed in options)
+HEAVY ATTACK:       A button (can be changed in options)
+THROW:              two attack buttons simultaneously
+SPECIALS/SUPERS:    varies between characters; check command list / use hotkeys
+REINFORCE SPECIALS: strongest variation of special attacks, always executed
+                    with strong attack button, usually depletes 1/3 of reiryoku
+                    gauge and abbreviated with "RF"
+
+STRIKING NORMAL ATTACKS
+There are three different levels of normal attacks (light, medium, and heavy),
+which have their own dedicated buttons and can be chained together in various
+ways. The behavior of normal attacks changes depending on whether your
+character is in a standing, crouching, or aerial state. Light attacks are
+weaker and faster; heavy attacks are stronger and slower.
+
+THROWS
+Throws can be performed when you are positioned next to an opponent. They
+normally don't cause much damage, but they will often put your opponent into a
+flying or stunned state, which can be useful for setting up additional attacks.
+If you walk or flash step out of range of an opponent at the very same moment
+he attempts to throw you, the throw will fail and the enemy character will
+briefly enter a tripping/kneeling animation. If you strike an opponent at the
+same moment he attempts to throw you, or if both characters attempt to throw
+each other at the same time, they will both be knocked back from each other.
+Throws can be performed in mid-air in Bleach DS 2nd.
+
+SPECIAL ATTACKS, REINFORCED SPECIAL ATTACKS, AND SUPER ATTACKS
+Each character has a variety of unique special moves and super moves, which can
+either be performed by specific button combinations (listed in the pause menu)
+or by using the touch screen hotkeys. Blue hotkeys are for specials, and red
+hotkeys are for supers.
+
+Like normal attacks, many special moves vary in strength, speed, and behavior
+depending on which attack button you use. Specials performed with the light
+attack button are usually quick but have a long recovery time. Those performed
+with the medium attack button are usually slow but have a quick recovery time.
+Those performed with the heavy attack button often combine the best of both
+worlds. The strongest of these three variations are usually reinforced (RF)
+special moves. Performing RF specials uses up one segment of your outer
+reiryoku gauge and will cause your character to glow yellow for a short period
+of time. In Bleach DS 2nd, you can use RF specials to intercept an opponent in
+the middle of a flash step. If your reiryoku gauge is empty, attempting to
+perform an RF special will result in the use of a weaker variation of that
+special instead. Some special moves are RF-only and cannot be performed if you
+don't have enough reiryoku.
+
+You can use the touch screen to perform special moves instead of the buttons,
+but you will always use the heavy/RF variation of the special when doing so. If
+you use a special attack with the touch screen, you will have to wait a few
+seconds before you can perform it with the touch screen again.
+
+Super moves are typically the strongest attacks available to your character. In
+Bleach DS 2nd, super moves also vary in behavior depending on what button is
+used to perform them. Every super in the game requires either 1 or 3 reiatsu
+stock to perform.
+
+Ñ°-----------------------Ñ¢
+Ñ† TIPS & BASIC STRATEGY Ñ†
+Ñ§-----------------------Ñ£
+
+BREAKING GUARD AND MIXING STANDING/CROUCHING/AERIAL ATTACKS
+A standing guard blocks standing and aerial attacks. A crouching guard blocks
+standing and crouching attacks. An aerial guard blocks all normal attacks. A
+standing throw can be used to break a standing or crouching guard, and an
+aerial throw can be used to break an aerial guard. Make sure to mix up your
+attacks to keep a guarding opponent guessing as to what he should block. You
+can flash step directly above your opponent and attack in order to perform a
+quick aerial hit.
+
+CHIP DAMAGE
+Most attacks still inflict a small amount of damage on a guarding opponent.
+Unlike Bleach DS 1, most normal attacks inflict chip damage as well instead of
+just specials and projectiles. Make use of this to KO opponents at low health.
+
+CHAIN COMBOS
+If a normal attack hits your opponent, you can immediately follow it up with a
+stronger attack to perform what is called a chain combo. For most characters,
+you cannot follow a medium or heavy attack with an attack of equal or lesser
+strength. You can usually follow a standing medium or heavy with a crouching
+medium or heavy, though. You can also use certain techniques to link attacks
+together that would not work normally. The most common way of doing so is using
+flash steps to link normal attacks together. For example, most characters can
+perform a simple light -> medium -> heavy attack combo, but this combo cannot
+be followed by another normal attack in most cases. If you perform a flash step
+immediately after the heavy attack, however, you can then immediately follow it
+with any attack of your choosing, allowing for much longer combos.
+
+LAUNCHERS AND AERIAL COMBOS
+Most characters have at least one attack that will send their opponent
+airborne. Such techniques are called launchers, and they can usually be
+followed by a jump and additional hits. Since jumping and double jumping
+require no power from either special gauge, chain combos performed in mid-air
+can often provide more hits than standing combos by themselves.
+
+CHAIN COMBO DAMAGE SCALING
+As the number of hits in a single combo increases, the damage that each
+successive hit inflicts decreases. Most light attacks inflict 4 damage, most
+mediums 6, and most heavies 8 by themselves. A typical light -> medium -> heavy
+chain combo, however, inflicts only 15 damage total. This can make certain
+combos involving multiple super moves less appealing; it would usually be more
+cost-effective reiatsu-versus-damage-wise to perform 2 super moves separate
+from each other than it would to perform both of them in the same combo. Of
+course, it can also be beneficial to combine multiple supers together if you
+are guaranteed a hit after the first super. This is a risk-versus-reward
+scenario that you have to evaluate yourself depending on the situation.
+
+LOW HEALTH DAMAGE SCALING
+Attacks cause more damage against opponents at full health than they cause
+against opponents at low health. Each character has 255 hit points total, and
+for most characters, heavy attacks inflict 8 points of damage. Without damage
+scaling, it would take 32 individual heavy hits to KO an opponent, but in
+actuality it takes 46 hits to do so. Be careful when budgeting your supers
+against an opponent at low health, as they may be able to take more punishment
+than you expect.
+
+DAMAGE TABLES
+The following is a complete list of all characters who have different defense
+levels than the rest of the roster, rounded to the nearest percentage point.
+Characters with 50% defense would receive exactly 2x damage from enemy attacks.
+
+Komamura    - 115%
+ogihcI      -  73%
+Yachiru     -  67%
+Hanataro    -  67%
+Ururu       -  67%
+Orihime     -  62%
+Shrieker    -  57%
+Tatsuki     -  50%
+Goteitaishi -  50%
+Kon         -  47%
+Ririn       -  47%
+Tsukaima    -  47%
+Kyugohanin  -  47%
+Shibata     -  47%
+
+JUGGLE STATES AND OFF-THE-GROUND (OTG) HITS
+In most cases, an opponent hit in mid-air will quickly recover from stun and be
+able to move or counter-attack while still in the air. Some moves will force
+the opponent to fall to the ground after being hit, and they cannot move or be
+hit until they fully recover from their fall. Being thrown into a wall will
+cause them to bounce off of the wall, leaving them unable to move but open to
+further attacks. When you strike an opponent after a wallbounce, it will
+normally keep him in an aerial state and push him slightly upwards, forcing you
+to jump and flash step after him in order to continue a combo. However, if you
+strike him just as he initially hits the ground, it will put him into a
+standing state, which allows you to proceed with a standing combo more easily.
+This technique is known as an off-the-ground hit, and the timing window for it
+is very strict.
+
+INSTANT AERIAL DASH (IAD)
+An IAD is a jump immediately followed by an aerial dash. To perform an IAD,
+jump diagonally and then quickly press forward on the D-pad. This allows you to
+stay close to the ground while inputting aerial attacks, which allows you to
+create longer combos. A common IAD combo is IAD -> aerial medium -> aerial
+heavy. The heavy attack will keep the opponent stunned long enough for you to
+land and continue a standing combo
+
+GROUND-TO-AIR FLASH STEP (TAFS) COMBOS
+When performing a chain combo against a standing opponent, you can usually
+increase the amount of damage by flash stepping above them, inputting a few
+aerial attacks, landing, inputting some standing attacks, and then flash
+stepping again. For example, when attacking an opponent with Ichigo, instead of
+inputting [standing light -> standing medium -> standing heavy -> flash step
+forward -> repeat], try [standing light -> standing medium -> standing heavy ->
+flash step diagonally above opponent -> aerial medium -> aerial heavy -> land
+-> repeat]. The basic idea of this is the same as IAD combos; both allow you to
+add aerial attacks to ground combos.
+
+BALANCING YOUR REIATSU METER
+Reiatsu is used for two techniques: super attacks and damage cancels. It is
+usually  a good idea to keep at least 1 reiatsu stock in reserve for damage
+cancels should you need them. For some characters, 1-stock supers can be more
+cost-effective than 3-stock supers if preceded or followed by certain combos,
+so building your meter up to 3-stock and keeping it there can be a little
+wasteful since any additional normal attacks will not add any more reiatsu to
+the meter until you use some of it first.
+
+BALANCING YOUR REIRYOKU METER
+Reiryoku is used for two techniques: flash steps and RF special attacks. Flash
+steps use up the inner gauge, which refills rather quickly, while RF specials
+use up the outer gauge, which refills much more slowly. Your inner gauge can
+never extend further than the outer gauge. For example, if you perform 2 flash
+steps while both parts of the gauge are maxed out, you will deplete the inner
+gauge by 2/3, while the outer gauge will still be full. If you perform 2 RF
+specials while both parts are maxed out, however, both the inner and outer
+gauges will be reduced by 2/3. Using RF specials in quick succession can be
+rather wasteful, as it will drastically limit your ability to perform flash
+steps and combos that require them.
+
+Ñ°-----------------------------Ñ¢
+Ñ† REIFU (óÏïÑ) & REIJU (óÏéÏ) Ñ†
+Ñ§-----------------------------Ñ£
+Reifu are the spirit cards used during battle to power-up your character and
+power-down your opponents. Reiju are stat modifiers. You can earn some of them
+by clearing stages in Story Mode for the first time. The rest can be purchased
+in the Urahara Shop. You can create up to 5 custom decks in Deck Construction
+mode and then select which one of them to use when you begin a battle. Check
+the Deck Construction section below to learn how to create your own custom
+decks.
+
+During a fight, two thirds of your deck will be randomly selected and available
+for use throughout the match. Four cards will be available for use at any one
+time; just press them to activate them. Each card has 4 different things
+displayed on them:
+  REIFU NAME: Japanese text on the top of the card; describes reifu effect.
+  DECK COST: Small number at bottom-left of card. You are limited to a certain
+             number of total points for each deck that you make.
+  USE COST: Up to 4 blue boxes are displayed at the bottom of each card. You
+            cannot have more than 4 blue boxes of cards active simultaneously.
+            If you use a 2-box card, you can only use an additional 2-box card
+            or two 1-box cards until the first card expires. If you use a 4-box
+            card, you can't use any other cards until that one expires.
+Å@TARGET: The symbol at the bottom-right corner of each card indicates who that
+Å@        card affects.
+            blue triangle = yourself
+            1 red triangle = 1 enemy
+            2 red triangles = all enemies
+            gold A = all players
+            white N = no one (usually a stage effect of some sort)
+
+After you use a reifu, you have to wait a short period of time before the
+effect becomes active. If you're hit before the reifu activates, it won't have
+any effect.
+
+- REIFU LIST -
+
+The following list is separated by category/color and arranged as follows:
+Name - Character Portrait - Name Translation
+
+âÒïúån RECOVERY SYSTEM (BLUE)
+Cards in this category restore health and negate undesirable card effects.
+
+ç∞ÈÆÇtÇo             - Unohana       - Soul Up
+óÏóÕÇtÇo             - Masaki        - Reiryoku Up
+óÏà≥ÇtÇo             - Yachiru       - Reiatsu Up
+èÛë‘àŸèÌâÒïú         - Shibata       - State Recovery
+çsìÆàŸèÌâÒïú         - Kon           - Conduct Recovery
+
+ã≠âªån REINFORCEMENT SYSTEM (GREEN)
+Cards in this category strengthen the user and grant special abilities.
+
+ñhå‰óÕÇtÇo           - Orihime       - Defense Up
+çUåÇóÕÇtÇo           - Kukaku        - Attack Up
+ã@ìÆóÕÇtÇo           - Yoruichi      - Mobility Up
+ñ≥ìG                 - Tessai        - Invincible
+ã¬ÇØîΩÇËñ≥å¯         - Kenpachi      - Stagger Cancel
+í èÌçUåÇÇ”Ç¡Ç∆ÇŒÇµ   - Jindanbo      - Normal Attacks Double Force
+í èÌçUåÇÉ`ÉFÅ[Éì     - Kaien         - Normal Attacks Chain
+í èÌçUåÇëΩíiÉqÉbÉg   - Karin         - Normal Attacks Multi-Hit
+í èÌçUåÇïXê·ån       - Hitsugaya     - Normal Attacks Ice Effect
+í èÌçUåÇì≈           - Mayuri        - Normal Attacks Poison
+í èÌçUåÇâäîMån       - Genryusai     - Normal Attacks Fire Effect
+ìßñæâª               - Chojiro       - Invisible
+ãÛíÜÉ_ÉbÉVÉÖñ≥êßå¿   - Kiyone        - Unlimited Aerial Dash
+ìÒíiÉWÉÉÉìÉvñ≥êßå¿   - Isane         - Unlimited Double Jump
+íeë¨ÇtÇo             - Cat Yoruichi  - Projectile Speed Up
+íeë¨ÇcÇnÇvÇm         - Aizen         - Projectile Speed Down
+ÉKÅ[Éhã≠âª           - Zangetsu      - Guard Reinforcement
+óÏóÕëùâ¡ó¶ÇtÇo       - Shinji        - Reiryoku Recovery Rate Up
+óÏà≥ëùâ¡ó¶ÇtÇo       - Hiyori        - Reiatsu Recovery Rate Up
+èÛë‘àŸèÌîΩéÀ         - Hawk          - State Reflection
+çsìÆàŸèÌîΩéÀ         - Dumbbell      - Conduct Reflection
+ÉIÅ[ÉgÉKÅ[Éh         - Omaeda        - Auto Guard
+ì¡éÍà⁄ìÆñ≥êßå¿       - Butterfly     - Unlimited Special Movement
+í èÌçUåÇïÇÇ©Çπ       - Kyoraku       - Normal Attacks Lift Effect
+òAë±ãZï‚ê≥ÉIÉt       - Soifon        - Combo Damage Scaling Off
+ïÇí|ÇÃñÚ             - Kyugohanin    - Ukitake's Medicine
+
+çUåÇån ASSAULT SYSTEM (RED)
+Cards in this category weaken the target.
+
+óÏóÕÇcÇnÇvÇm         - Hisagi        - Reiryoku Down
+óÏà≥ÇcÇnÇvÇm         - Jirobo        - Reiatsu Down
+ã@ìÆóÕÇcÇnÇvÇm       - Nemu          - Mobility Down
+çUåÇóÕÇcÇnÇvÇm       - Ichimaru      - Attack Down
+ñhå‰óÕÇcÇnÇvÇm       - Nanao         - Defense Down
+óÏóÕíDéÊ             - Yumichika     - Capture Reiryoku
+óÏà≥íDéÊ             - Ikkaku        - Capture Reiatsu
+óÏïÑå¯â ñ≥å¯         - Iemura        - Cancel Reifu Effect
+íeë¨ÇtÇo             - Tatsufusa     - Projectile Speed Up
+íeë¨ÇcÇnÇvÇm         - Kotsubaki     - Projectile Speed Down
+óÏóÕëùâ¡ó¶ÇcÇnÇvÇm   - Ulquiorra     - Reiryoku Recovery Rate Down
+óÏà≥ëùâ¡ó¶ÇcÇnÇvÇm   - Grimmjow      - Reiatsu Recovery Rate Down
+ç∞ÈÆÉQÅ[ÉWïsâ¬éã     - Goteitaishi   - Hide Soul Gauge
+óÏóÕÉQÅ[ÉWïsâ¬éã     - Goteitaishi 2 - Hide Reiryoku Gauge
+óÏà≥ÉQÅ[ÉWïsâ¬éã     - Goteitaishi 3 - Hide Reiatsu Gauge
+ëSÉQÅ[ÉWïsâ¬éã       - Tosen         - Hide All Gauges
+óÏïÑïsâ¬éã           - Messenger     - Hide Reifu
+óÏïÑñïè¡             - ogihcI        - Erase Reifu
+
+çsìÆån CONDUCT SYSTEM (PURPLE)
+Cards in this category restrict enemy behavior.
+
+É_ÉbÉVÉÖã÷é~         - Tsubaki       - Prohibit Dash
+ÉWÉÉÉìÉvã÷é~         - Lily          - Prohibit Jump
+í èÌçUåÇã÷é~         - Ayame         - Prohibit Normal Attacks
+É`ÉFÅ[ÉìÉRÉìÉ{ã÷é~   - Shun'o        - Prohibit Chain Combos
+óÏïÑã÷é~             - Baigon        - Prohibit Reifu
+ì¡éÍà⁄ìÆã÷é~         - Hinagiku      - Prohibit Special Movement
+ïKéEãZã÷é~           - Iba           - Prohibit Special Attacks
+ç¨óê                 - Aramaki       - Confusion
+ÉâÉCÉìà⁄ìÆã÷é~       - Yuzu          - Prohibit Line Change
+ã≠êßÇµÇ·Ç™Ç›         - Iduru         - Force Crouch
+ã≠êßóßÇø             - Chizuru       - Force Stand
+ã≠êßÉ_ÉbÉVÉÖ         - Tatsuki       - Force Dash
+ã≠êßï‡Ç´             - Michiru       - Force Walk
+ã≠êßÉWÉÉÉìÉv         - Keigo         - Force Jump
+ã≠êßì¡éÍà⁄ìÆ         - Mahana        - Force Special Movement
+ÉJÉÅÉâå≈íË           - Kanonji       - Camera Lock
+ëÂç¨óê               - Top           - Super Confusion
+ÉKÅ[ÉhÉ{É^ÉìîΩì]     - Fever         - Reverse Guard Button
+à⁄ìÆãNè„ÇËã÷é~       - Menos Grande  - Prohibit Knockdown Recovery
+à⁄ìÆã÷é~             - Ukitake       - Prohibit Movement
+ÇqÇeã÷é~             - Rukia         - Prohibit Reinforced Specials
+ÉKÅ[ÉhÉLÉÉÉìÉZÉãã÷é~ - Chad          - Prohibit Guard Cancel
+íßî≠ã÷é~             - Byakuya       - Prohibit Taunts
+ìäÇ∞ã÷é~             - Komamura      - Prohibit Throws
+ìäÇ∞î≤ÇØã÷é~         - Komamura 2    - Prohibit Throw Escapes
+É^ÉbÉ`ÉpÉlÉãã÷é~     - Rangiku       - Prohibit Touch Panel
+è¨çUåÇÉ{É^Éìã÷é~     - Tsukaima      - Prohibit Light Attack Button
+íÜçUåÇÉ{É^Éìã÷é~     - Shrieker      - Prohibit Medium Attack Button
+ëÂçUåÇÉ{É^Éìã÷é~     - Grand Fisher  - Prohibit Heavy Attack Button
+
+ÇªÇÃëº MISCELLANEOUS (ORANGE)
+
+óÏóÕåä∑             - Koganehiko    - Exchange Reiryoku
+óÏà≥åä∑             - Shiroganehiko - Exchange Reiatsu
+óÏóÕÇlÇhÇm           - Elder         - Reiryoku MIN
+óÏà≥ÇlÇhÇm           - Rikichi       - Reiatsu MIN
+óÏóÕÇlÇ`Çw           - Jinta         - Reiryoku MAX
+óÏà≥ÇlÇ`Çw           - Ururu         - Reiatsu MAX
+ÉAÉCÉeÉÄ             - Urahara       - Items
+â‘âŒ                 - Ganju         - Fireworks
+óÏóÕÉVÉÉÉbÉtÉã       - Hiyosu        - Shuffle Reiryoku
+óÏà≥ÉVÉÉÉbÉtÉã       - Akon          - Shuffle Reiatsu
+É^ÉCÉ}Å[ë¨ìxÇtÇo     - Ririn         - Timer Speed Up
+É^ÉCÉ}Å[ë¨ìxÇcÇnÇvÇm - Kuroud        - Timer Speed Down
+É^ÉCÉ}Å[ë¨ìxí‚é~     - Nova          - Timer Freeze
+
+- REIJU LIST -
+
+1x gray/blue octagon   - Defense +1%
+2x gray/blue octagon   - Defense +3%
+3x gray/blue octagon   - Defense +5%
+1x gray/red square     - Attack +1%
+2x gray/red square     - Attack +3%
+3x gray/red square     - Attack +5%
+1x purple/gray octagon - Mobility +1%
+2x purple/gray octagon - Mobility +3%
+3x purple/gray octagon - Mobility +5%
+1x gray/yellow square  - Projectile Speed +3%
+2x gray/yellow square  - Projectile Speed +5%
+1x green/gray octagon  - Projectile Speed -3%
+2x green/gray octagon  - Projectile Speed -5%
+2x gray/blue square    - Reiryoku Recovery Rate +1%
+4x gray/blue square    - Reiryoku Recovery Rate +3%
+6x gray/blue square    - Reiryoku Recovery Rate +5%
+4x gray/green octagon  - Reiatsu Recovery Rate +1%
+6x gray/green octagon  - Reiatsu Recovery Rate +3%
+8x gray/green octagon  - Reiatsu Recovery Rate +5%
+1x gray/purple square  - Negate Confusion Status 1 time
+2x gray/purple square  - Negate Confusion Status 2 times
+3x gray/purple square  - Negate Confusion Status 3 times
+3x gray/red octagon    - Auto Guard 3 times
+6x gray/red octagon    - Auto Guard 7 times
+9x gray/red octagon    - Auto Guard 10 times
+6x gray/green square   - Reflect Assault Reifu 1 time
+6x blue/gray octagon   - Reflect Conduct Reifu 1 time
+5x gray/purple octagon - Negate Assault Reifu Effect 1 time
+7x gray/purple octagon - Negate Assault Reifu Effect 3 times
+5x gray/yellow octagon - Negate Conduct Reifu Effect 1 time
+7x gray/yellow octagon - Negate Conduct Reifu Effect 3 times
+
+Ñ°------------------------------Ñ¢
+Ñ† SIMPLE MODE (ä»à’ëÄçÏÉÇÅ[Éh) Ñ†
+Ñ§------------------------------Ñ£
+When setting up the game, there will be an option to change the control method
+from Manual to Auto. Auto activates Simple Mode, which has the following
+features:
+
+AUTOMATIC CHAIN COMBO
+This feature strings attacks together whenever possible. For an example of how
+this works, start Training Mode with Ichigo in Manual mode. Walk up next to
+your opponent and quickly press the light attack button 3 times in succession.
+You will strike him with 3 light attacks. Now return to the Character Select
+screen and change the control method to Auto. Walk up to your opponent and
+quickly press the light attack button 3 times once more. Ichigo will use the
+light attack -> medium attack -> heavy attack chain combo instead. Auto chain
+combo will attempt to use the most damaging variation of your command when you
+are guaranteed to hit the enemy. Be aware, however, that this limits the number
+of custom combos you can discover and execute on your own. Auto chain combo
+isn't recommended for advanced players or anybody who wants to be truly
+competitive.
+
+AUTOMATIC GUARD
+This feature will cause your character to automatically guard whenever
+possible. Only your opponents' counter attacks will successfully connect.
+Attacks blocked with auto guard will cause orange blockstun circles to appear
+instead of blue ones.
+
+Ñ°---------------------------------------------------------------------------Ñ¢
+Ñ† SECTION IV: MENU TRANSLATION & OPTIONS (ÉIÉvÉVÉáÉì)                       Ñ†
+Ñ§---------------------------------------------------------------------------Ñ£
+
+Ñ°--------------------Ñ¢
+Ñ† EXTENDED MAIN MENU Ñ†
+Ñ§--------------------Ñ£
+Submenus and further options are indented.
+
+ÉXÉgÅ[ÉäÅ[ÉÇÅ[Éh              STORY MODE
+ÉAÅ[ÉPÅ[ÉhÉÇÅ[Éh              ARCADE MODE
+ÇuÇrÉÇÅ[Éh                    VS MODE
+ÉgÉåÅ[ÉjÉìÉOÉÇÅ[Éh            TRAINING MODE
+É^ÉCÉÄÉAÉ^ÉbÉNÉÇÅ[Éh          TIME ATTACK MODE (AVAILABLE AFTER CLEARING STORY)
+ÉTÉoÉCÉoÉãÉÇÅ[Éh              SURVIVAL MODE (AVAILABLE AFTER CLEARING STORY)
+ÉfÉbÉLÉRÉìÉXÉgÉâÉNÉVÉáÉì      DECK CONSTRUCTION
+âYå¥è§ìX                      URAHARA SHOP
+ÉMÉÉÉâÉäÅ[                    GALLERY
+ÉIÉvÉVÉáÉì                    OPTION
+ ÉQÅ[ÉÄê›íË                    GAME SETTINGS
+  ÉÅÉbÉZÅ[ÉWë¨ìx                MESSAGE SPEED
+   ïÅí                           NORMAL
+   ë¨Ç¢                          FAST
+  í¥ïKéEãZââèo                  SUPER ATTACK ANIMATIONS
+   Ç†ÇË                          ON
+   Ç»Çµ                          OFF
+  ÉXÉeÅ[ÉWãPìx                  STAGE BRIGHTNESS
+  ï«éÜ                          WALLPAPER
+  ÉVÉXÉeÉÄÉ{ÉCÉX                SYSTEM VOICE
+   ÉâÉìÉ_ÉÄ                      RANDOM
+   Ç»Çµ                          OFF
+Å@ÉLÅ[ê›íË                      KEY CONIFGURATION
+   ê›íË                          CONFIGURATION
+    è¨çUåÇ                        LIGHT ATTACK
+    íÜçUåÇ                        MEDIUM ATTACK
+    ëÂçUåÇ                        HEAVY ATTACK
+    ì¡éÍà⁄ìÆ                      SPECIAL MOVEMENT (FLASH STEP)
+    ÉKÅ[Éh                        GUARD
+    ÉâÉCÉìà⁄ìÆ                    LINE CHANGE
+   ïWèÄÇ…ñﬂÇ∑                    RESTORE DEFAULTS
+ ÉTÉEÉìÉhê›íË                  SOUND SETTINGS
+  èoóÕ                          OUTPUT
+   ÉXÉeÉåÉI                      STEREO
+   ÉÇÉmÉâÉã                      MONOAURAL
+  âπó ÅuëSëÃÅv                  VOLUME [MASTER]
+  âπó ÅuÇaÇfÇlÅv                VOLUME [BACKGROUND MUSIC]
+  âπó Åuå¯â âπÅv                VOLUME [SOUND EFFECTS]
+  âπó Åuâπê∫Åv                  VOLUME [VOICE]
+  ïWèÄÇ…ñﬂÇ∑                    RESTORE DEFAULTS
+ ÉZÅ[ÉuÉfÅ[É^                  SAVE DATA
+  èâä˙âªÅuÉQÅ[ÉÄÉfÅ[É^Åv        ERASE [GAME DATA]
+  èâä˙âªÅuÉåÉRÅ[ÉhÉfÅ[É^Åv      ERASE [RECORD DATA]
+  èâä˙âªÅuÇvÇâÅ|ÇeÇâÉfÅ[É^Åv    ERASE [Wi-Fi DATA]
+  èâä˙âªÅuëSÇƒÅv                ERASE [ALL]
+ ãLò^â{óó                      RANKING
+ ÉÜÅ[ÉUÅ[ê›íË                  USER SETTINGS
+  ñºëOïœçX                      CHANGE NAME
+Å@ë‡èÕÉGÉfÉBÉbÉg                EMBLEM EDIT
+ñﬂÇÈ                          RETURN (TO TITLE SCREEN)
+
+Ñ°---------------Ñ¢
+Ñ† RULE SETTINGS Ñ†
+Ñ§---------------Ñ£
+Some of the following options will be presented when starting a game. Specific
+options to select from change depending on what mode you're playing.
+
+ëΩêîåà         MAJORITY RULE
+ÉãÅ[ÉãéwíË     DESIGNATE RULES
+ìÒêl           2 PLAYERS
+élêl           4 PLAYERS
+ÉfÉXÉ}ÉbÉ`     DEATHMATCH
+É|ÉCÉìÉgÉ}ÉbÉ` POINTMATCH
+ÉVÉìÉOÉãÉoÉgÉã SINGLE BATTLE
+É^ÉbÉOÉoÉgÉã   "TAG" BATTLE (TEAM)
+ÉCÅ[ÉWÅ[       EASY
+ÉmÅ[É}Éã       NORMAL
+ÉnÅ[Éh         HARD
+ÇPÉâÉCÉì       1 LINE
+ÇQÉâÉCÉì       2 LINES
+ÇPï™           1 MINUTE
+ÇRï™           3 MINUTES
+ÇTï™           5 MINUTES
+óÏïÑóL         REIFU PERMITTED
+óÏïÑñ≥         REIFU PROHIBITED
+
+MAJORITY RULE allows each player to vote for game settings. Any ties are
+decided by whoever votes last. DESIGNATE RULES allows the creator of the room
+to determine all match settings in advance. DEATHMATCH is a standard fight-to-
+the-death battle. In POINTMATCH, you get a point for each bit of damage you
+inflict on an enemy and lose points every time you get hit yourself. 1 LINE and
+2 LINE allows you to prohibit or permit movement between the foreground and
+background fighting planes. The REIFU options determine whether deck use is
+allowed or not.
+
+Ñ°---------------------------------------------------------------------------Ñ¢
+Ñ† SECTION V: STORY MODE (ÉXÉgÅ[ÉäÅ[ÉÇÅ[Éh)                                  Ñ†
+Ñ§---------------------------------------------------------------------------Ñ£
+If this is your first time playing Story Mode, you'll be presented with the
+opening scene and then will start off with Yoruichi's training mission. After
+playing once, choosing Story Mode from the main menu will give you the
+following options:
+
+ÇÕÇ∂ÇﬂÇ©ÇÁ    NEW GAME
+Ç¬Ç√Ç´Ç©ÇÁ    CONTINUE
+ÉtÉäÅ[ÉÇÅ[Éh  FREE MODE
+
+Choosing Continue will resume the game wherever you left it. Choosing New Game
+will kick you back to the very beginning of Part A. You can skip stages that
+you've already cleared, however.
+
+After you clear Ending 1, choosing New Game will allow you to skip to the
+beginning of each of the 4 areas in Story Mode (A, B, C, and D). Free Mode will
+also become available at this point. In Free Mode, you can skip directly to any
+stage you've already cleared and play them with any character of your choosing.
+You can't access any new areas in Free Mode or work towards completion
+percentages on difficulties you haven't played yet, however.
+
+When selecting which of the 4 parts of the game you want to play (after you've
+already gotten 1 ending), completion ratings will appear at the top of the
+screen. These indicate how many stages you've cleared for each area on each
+difficulty. Some characters, system voice sets, and money are unlocked and
+rewarded to you whenever each of these ratings reaches 100%. The most hassle-
+free way to unlock all characters is to get 100% completion for each part on
+Easy mode. The only thing that changes on Normal and Hard is the amount of
+money rewarded, and since you get a very large bonus (800000) for completing
+EVERY stage on EVERY difficulty (in addition to smaller bonuses for completing
+each individual part on each individual difficulty), you'll have to play Easy
+mode anyway if you want to earn a lot of money quickly. The touch screen will
+display a selection of parts A through D (Ç`ÉpÅ[Ég, ÇaÉpÅ[Ég, etc). If FULL
+OPEN is displayed to the right of any of them, it means you have access to
+every stage in that area but have not completed everything on all difficulties.
+If COMPLETE is displayed, it means that you are entirely finished with that
+area.
+
+The easiest way to check and see which stages you haven't cleared on a
+particular difficulty is to view the map in Free Mode. Three red boxes will be
+displayed below each stage on the map, and these correspond to Easy, Normal,
+and Hard from left to right. If a box is lit up, it means that that stage has
+been cleared on that difficulty.
+
+When playing through the story in regular mode (not Free Mode), any stage that
+you've cleared previously (either in the current playthrough or in a previous
+one) will be outlined in blue on the map. Stages that you haven't cleared yet
+will be outlined in red. You can skip any stage with a blue outline, but I
+recommend that you play them repeatedly until you clear each of them on each
+difficulty.
+
+You can skip messages and by either pressing start or holding the down button
+on all of the cutscenes. Use the down button to do so, or else you'll fail to
+unlock all of the gallery artwork. (After you've viewed a scene once, however,
+there's no harm in skipping it with the start button the next time you play
+it.) While on the map screens, press Y to change options, B to return to the
+main menu, or X to zoom in and out.
+
+When you begin a stage, you'll have the following options available to you:
+
+ìÔà’ìx            DIFFICULTY
+ ÉCÅ[ÉWÅ[          EASY
+ ÉmÅ[É}Éã          NORMAL
+ ÉnÅ[Éh            HARD
+ÇrÇkÇnÇsëIë      DECK SLOT SELECT
+í¥ïKéEãZââèo      SUPER ATTACK ANIMATIONS
+ Ç†ÇË              ON
+ Ç»Çµ              OFF
+ëÄçÏï˚ñ@          CONTROL METHOD
+ É}ÉjÉÖÉAÉã        MANUAL
+ ÉIÅ[Ég            AUTO
+ÉCÉxÉìÉg          EVENT (FREE MODE ONLY)
+ Ç†ÇË              ON
+ Ç»Çµ              OFF
+ÉLÉÉÉâÉNÉ^Å[ëIë  CHARACTER SELECT (FREE MODE ONLY)
+
+You can create reifu/reiju decks in Deck Construction mode and specify which
+one to use in Story Mode with the deck slot select option. Various reifu,
+reiju, and deck frames can be earned through completing stages in Story Mode
+for the first time and by purchasing them in the Urahara Shop. Super attack
+animations are the long cutscenes that play when certain characters use their
+3-stock transformation super moves during a fight. Specifying Auto under
+Control Method activates Simple Mode.
+
+Ñ°-------------Ñ¢
+Ñ† WALKTHROUGH Ñ†
+Ñ§-------------Ñ£
+The following guide has been written according to Hard mode. Some of the
+requirements are more forgiving on easier difficulties (such as a greater time
+limit, fewer opponents to defeat, or less-powerful opponents). It's also
+written without taking deck strategy into play. I haven't messed around with
+the reifu system in this game yet, but I have cleared everything on Story Mode,
+so I can assure you that everything here is very doable without decks.
+
+That said, I imagine that a few stages would be much easier with certain cards.
+In a few stages, you either have to switch planes more than your opponent or
+catch them and hit them a few times, and they'll be running away and switching
+planes at a very fast rate. A Prohibit Line Change reifu (purple, ÉâÉCÉìà⁄ìÆ
+ã÷é~) would likely help immensely for these missions. I believe there is also a
+reifu that stops the timer, and this would probably come in handy for any stage
+with a time limit. I'm not sure which one this is; it might be the very last
+one listed in the last category of cards in the shop, but I haven't tested it
+to verify.
+
+Each part of this guide will consist of a map, a quick list of all the stages
+displayed on that map, and some in-depth information for a few stages. The map
+is formatted with Shift-JIS characters; sometimes Internet Explorer fails to
+display the spacing correctly, so you might have to use a different browser to
+properly view them. Each stage in the list will be displayed as follows:
+
+#) type - portrait - objective - unlock
+
+Type indicates what symbol appears at the bottom left corner. Two swords
+crossed indicates a battle, a flame indicates a mission with special win
+conditions, and a hollow mask usually indicates a battle with hollows. The
+portrait indicates what character(s) are identified for that stage on the map.
+The objective is what must be done to complete the stage. Each stage will
+reward you with some money when you clear it, and clearing each stage for the
+first time usually gives you access to a reifu, reiju, or deck frame. Clearing
+some stages for the first time will unlock certain characters, and these will
+be listed below.
+
+- PART A -
+
+01      12Å|11Å|13Å|18Å|19
+Ñ†          Ñ†      Ñ†  Ñ†
+02Å|03Å|04Å|06Å|08Å|16Å|21Å|22
+        Ñ†  Ñ†  Ñ†  Ñ†  Ñ†
+        05Å|07Å|09Å|14Å|20
+            Ñ†  Ñ†  Ñ†
+            10Å|15Å|17
+
+Play stages 5 and 12 as soon as they become available, as it's possible to lose
+access to them later. Play stage 21 only after clearing everything else on the
+map, as it prevents you from going back to previous areas after you clear it.
+
+01) Mission - Yoruichi - complete the instruction sequence
+02) Battle - Ikkaku - defeat him (specials/supers prohibited)
+03) Event
+04) Event
+05) Mission - Ukitake - catch more items than him
+06) Battle - Kenpachi - defeat him
+07) Battle - Soifon - defeat her - unlocks Soifon
+08) Battle - Nemu - defeat Kisuke
+09) Mission - Yachiru - switch planes more than her - unlocks Yachiru
+10) Battle - Goteitaishi - protect Hanataro from 15 Goteitaishi
+11) Battle - Renji - defeat him
+12) Battle - Kon - defeat him - unlocks Kon
+13) Event
+14) Battle - Hisagi - defeat him - unlocks Hisagi
+15) Battle - Kenpachi - defeat him
+16) Battle - Iduru - defeat him, then Rangiku - unlocks Iduru & Rangiku
+17) Battle - Ikkaku - defeat him 
+18) Battle - Kyoraku - defeat him
+19) Battle - Goteitaishi - defeat 20 Goteitaishi
+20) Mission - Hitsugaya - catch 12 blue sheets without touching red ones
+21) Event (PLAY THIS LAST!)
+22) Battle - Ganju - defeat him in a point match - unlocks Rukia
+
+STAGE 1 - [MISSION] TRAINING WITH YORUICHI
+When you begin Story Mode, Yoruichi will run you through the game basics. Just
+skip through the messages and follow the instructions that appear on the bottom
+of the screen. Here is a translation of the ones that appear in Japanese:
+
+ÉWÉÉÉìÉvíÜÇ…                 while jumping
+óßÇøíÜÇ…                     while standing
+ÇµÇ·Ç™Ç›íÜÇ…                 while crouching
+çUåÇÉ{É^ÉìÇìÒÇ¬à»è„ìØéûâüÇµ press 2 attack buttons together when next to enemy
+óÏïÑÇÉ^ÉbÉ`                 touch reifu
+
+STAGE 5 - [MISSION] CATCH MORE ITEMS THAN UKITAKE
+Ukitake moves at much greater speeds than normal. Attacks are permitted, and
+they cause much more damage than normal, so the easiest way to win is to just
+knock him out and then grab as many items as you can before he recovers.
+
+STAGE 9 - [MISSION] SWITCH PLANES MORE THAN YACHIRU
+Yachiru moves much faster than normal, casts a speed-up reifu on herself, and
+runs away from you when you try to attack her. Try slowing her down and
+knocking her out with Ichigo's special E (down, up, light attack). Let her run
+to the corner, stand a short distance away, use the special move, jump to the
+other plane, use it again, and keep repeating. The rocks will slow her down and
+periodically knock her out, which will allow you to switch planes quickly a few
+times without worrying about her. When she is about to recover, start using the
+special attack to slow her down again. I recommend using the Prohibit Line
+Change reifu on her if you're still having trouble.
+
+STAGE 10 - [BATTLE] PROTECT HANATARO FROM 15 GOTEITAISHI
+Hanataro will walk around aimlessly for the most part and does not attack, and
+your attacks cannot hurt him. The Goteitaishi have relatively low life bars,
+and you must defeat all of them before Hanataro runs out of health. Make use of
+attacks that cover a wide range or hit in all directions when many of them are
+close together, such as Ichigo's super B and special B. Sometimes Hanataro will
+stand in a corner for an extended period of time, and it's usually easiest to
+guard him when he's like this. Just stand right in front of him and rapidly hit
+the light attack button to keep the opponents away.
+
+- PART B -
+
+    36Å|40Å|Ñ¢  Ñ°47Ñ¢  55Å|56Å|57Å|63
+    Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†
+24Å|35Å|37Å|44Å|45Å|49Å|52  58Å|59Å|60
+Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†
+23Å|25Å|42Å|43Å|48Å|50  41  61Å|62Å|64
+Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†
+53Å|26Å|28Å|29Å|30Å|31Å|32  Ñ§Å|65Å|Ñ£
+Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†
+54  27Å|Ñ£  Ñ§Å|46Å|51Å|33
+                Ñ†  Ñ†  Ñ†
+                39Å|38Å|34
+
+Sorry about the sporadic stage numbering here. You don't have to worry about
+the order in this area until you reach stage 55. Make sure you play everything
+else on the map before starting that one.
+
+23) Event
+24) Mission - Yachiru & Rangiku - catch 25 items as Yachiru
+25) Battle - Nemu - defeat 3 Mayuri at the same time
+26) Battle - Kukaku - defeat 3 Bonnie - unlocks Bonnie
+27) Mission - Hanataro & Goteitaishi - fully heal 3 Goteitaishi as Hanataro
+28) Hollow - Chad & Hollow - defeat 20 Tsukaima as Chad
+29) Battle - Yachiru & Nanao - defeat Soifon, Nemu, & Rangiku - unlocks Nemu
+30) Mission - Byakuya - catch 55 bananas
+31) Hollow - Renji - defeat 35 Goteitaishi
+32) Mission - Iemura - dodge acid rain for 40 seconds
+33) Battle - Goteitaishi - defeat 25 Goteitaishi
+34) Battle - Soifon & Yoruichi - defeat max-reiatsu Yoruichi as Soifon
+35) Mission - Ikkaku - catch 30 items
+36) Battle - Genryusai - defeat Goteitaishi without being hit
+37) Mission - Ikkaku - break more targets than him
+38) Mission - Rangiku & Ichimaru - hit Ichimaru within 30 seconds as Rangiku
+39) Hollow - Hisagi & Tosen - defeat Shrieker & Tsukaima as Hisagi
+40) Mission - Butterfly - catch 50 butterflies in 15 seconds
+41) Mission - Renji & Butterfly - catch 80 butterflies in 30 seconds
+42) Mission - Mayuri - be the first to answer 5 questions correctly
+43) Mission - Komamura - catch 50 bones in 25 seconds
+44) Battle - Hitsugaya & Aizen - defeat max-reiatsu Aizen
+45) Battle - Hollow - defeat 20 Tsukaima
+46) Mission - Mayuri - be the first to answer 5 questions correctly
+47) Mission - Butterfly - destroy 20 butterflies
+48) Event
+49) Event - Orihime
+50) Battle - Chad & Goteitaishi - defeat him
+51) Event - Uryu
+52) Event
+53) Mission - Ukitake - catch more items than him
+54) Mission - Orihime - catch more items (bigger is better)
+55) Hollow - Hollow - defeat 15 Tsukaima, then giant Shrieker (PLAY THIS LAST!)
+56) Event
+57) Hollow - Kyugohanin - protect Kyugohanin from 30 Tsukaima
+58) Hollow - Kyoraku & Ichigo - defeat 20 Tsukaima as Kyoraku
+59) Hollow - Soifon & Ichigo - defeat 15 Tsukaima & Shrieker as Soifon
+60) Hollow - Ikkaku & Ichigo - defeat 20 Tsukaima & Shrieker as Ikkaku
+61) Hollow - Chad & Hollow - protect Shibata from 35 Tsukaima as Chad
+62) Hollow - Ukitake & Ichigo - defeat 20 Tsukaima & Shrieker as Ukitake
+63) Event
+64) Event
+65) Hollow - Kenpachi & Rin - defeat Grand Fisher as Kenpachi
+
+STAGE 24 - [MISSION] CATCH 25 ITEMS AS YACHIRU
+Yachiru trips when walking or running, so if you need to cover a lot of ground
+quickly, use flash steps.
+
+STAGE 25 - [BATTLE] DEFEAT 3 MAYURI AT THE SAME TIME
+You must fight 3 Mayuri at the same time. They fight without Nemu accompanying
+them, and you have a significantly stronger life bar. However, each of the CPU
+opponents will recover to full health shortly after being defeated. In order to
+win, you must knock all three opponents out at the same time. The best way to
+do so is to finish them off with Ichigo's super B. Yellow Mayuri is 2P, red
+Mayuri is 3P, and blue Mayuri is 4P.
+
+STAGE 27 - [MISSION] FULLY HEAL 3 GOTEITAISHI AS HANATARO
+Three Goteitaishi start at near death and must be brought to full health within
+the time limit. They do not attack you, but they tend to flash step and plane
+hop away from you. Use Hanataro's standing heavy attack to gradually heal them.
+Use flash steps to combo heavy -> flash step -> heavy -> etc. When Hanataro's
+meter at the bottom of the screen is full, he'll fire a large burst of energy
+from his sword, so make sure that it doesn't hit any of the Goteitaishi.
+
+STAGE 29 - [BATTLE] DEFEAT SOIFON, NEMU, & RANGIKU AS YACHIRU
+Your 3 opponents are not on a team, so you can sit back and block for a while
+as they beat each other up.
+
+STAGE 32 - [MISSION] DODGE ACID RAIN FOR 40 SECONDS
+This stuff breaks through guard, so you'll have to move around and be careful
+not to get hit. Try not to box yourself into a corner, and flash step away if
+it doesn't look like you can dodge by walking. Use damage cancels to break out
+of stun.
+
+STAGE 37 - [MISSION] BREAK MORE TARGETS THAN IKKAKU
+Not too hard. Knock him out and use super B to clear multiple targets at once.
+
+STAGE 38 - [MISSION] HIT ICHIMARU WITHIN 30 SECONDS AS RANGIKU
+All you have to do is hit Ichimaru before time expires, but he has super speed
+and will try to evade you. Try using Rangiku's ash clouds to hit him. Press
+down, down, guard to deploy one, and down, forward, heavy to throw it. If you
+still can't hit him, try setting up a trap. Deploy one ash cloud, then press
+down, down, light to freeze it in place. Deploy two more ash clouds next to the
+existing one, and use down, forward, heavy to throw all 3 of them at once.
+Throw the ash clouds and then immediately cross planes if you need to make
+Ichimaru switch planes. Failing that, use a Prohibit Line Change reifu to keep
+him from getting away.
+
+STAGE 42 - [MISSION] BE THE FIRST TO ANSWER 5 QUESTIONS CORRECTLY
+The floor is split into two halves marked with an O and X on each half. Mayuri
+will quiz you on a number of things related to Bleach and you must answer
+either true (O) or false (X) for each question by standing on the appropriate
+half of the stage when time runs out. You must answer 5 questions correctly
+before Ikkaku, who will be trying to fight you at the same time. I don't have
+the answers for each question as of this time, so the best advice I can give is
+to just stay on the same side as Ikkaku for each question once you have 1 more
+point than him. You can also try knocking him off of the side that he tries to
+stay on in order to prevent him from getting a point, but he doesn't always
+answer the questions correctly to begin with.
+
+- PART C -
+
+    70Å|71Å|Ñ¢  83Å|88Å|89
+    Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†
+68Å|69Å|72  74Å|75Å|84Å|Ñ£  91
+Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†      Ñ†
+67Å|66Å|73Å|81Å|82  Ñ§Å|85Å|90Å|92Å|93
+Ñ†  Ñ†  Ñ†  Ñ†  Ñ†      Ñ†      Ñ†
+Ñ§Å|76Å|77Å|80Å|94Å|87Å|86      96Å|97
+    Ñ†  Ñ†  Ñ†  Ñ†  Ñ†  Ñ†      Ñ†
+    78Å|79Å|Ñ£  Ñ§Å|95Å|Ñ£      98
+
+You cannot play stages 77 and 78 during the same playthrough. You must play
+story mode again in order to clear both of them. Similarly, you cannot play
+stages 87, 94, and 95 on the same playthrough either. If you play stage 94, you
+can't play #87. If you play #87, you can't play either #94 or #95. You cannot
+access stage 96 until you've cleared ending 1 (stage 93). You cannot access
+stage 98 until you've cleared ending 2 (stage 97). Stage 98 will take you to
+part D. Since you have to play part C at least 3 times, use the opportunity to
+clear the other stages on as many different difficulties as possible if you're
+shooting for 100% completion. 
+
+66) Mission - Yoruichi - complete the instruction sequence
+67) Battle - Komamura & Kenpachi - defeat max-reiatsu Kenpachi as Komamura
+68) Battle - Ikkaku & Kenpachi - defeat max-reiatsu Kenpachi as Ikkaku
+69) Battle - Kenpachi & Kenpachi - defeat max-reiatsu Kenpachi as Kenpachi
+70) Hollow - Rukia & Byakuya - defeat 30 Tsukaima w/ Byakuya - unlocks Byakuya
+71) Hollow - Rukia & Orihime - defeat 30 Tsukaima as Rukia with Orihime
+72) Hollow - Ganju & Rukia - defeat 35 Tsukaima as Ganju with Rukia
+73) Hollow - Ukitake - defeat 45 Tsukaima as Ichigo with Ukitake
+74) Hollow - Orihime & Hanataro - defeat Shrieker & Tsukaima with Hanataro
+75) Mission - Orihime & Iemura - fully heal 3 Goteitaishi as Orihime (super C)
+76) Event - Hitsugaya
+77) Hollow - Rangiku & Iduru - defeat 30 Tsukaima as Rangiku
+78) Battle - Hitsugaya & Hinamori - defeat max-reiatsu Hinamori as Hitsugaya
+79) Hollow - Chad & Rin - destroy 40 butterflies in 30 seconds as Chad
+80) Hollow - Hitsugaya & Hollow - defeat 2 Grand Fisher as Hitsugaya
+81) Mission - Yoruichi - hit Yoruichi 3 times (RF special B recommended)
+82) Hollow - Hollow - defeat 35 Tsukaima
+83) Battle - Renji & Kenpachi - defeat max-reiatsu Kenpachi as Renji
+84) Hollow - Komamura & Hollow - defeat 35 Tsukaima & Grand Fisher as Komamura
+85) Hollow - Hollow - defeat Grand Fisher, Shrieker, & Tsukaima
+86) Event
+87) Battle - Kyoraku & Ukitake - defeat Ukitake as Kyoraku, then defeat clones
+88) Event
+89) Event
+90) Event (PLAY THIS LAST!)
+91) Hollow - Nemu & Uryu - defeat 30 Tsukaima & Shrieker as Nemu
+92) Hollow - Hollow - defeat max-reiatsu Menos Grande
+93) Event - ENDING 1
+94) Hollow - Chad & Hollow - defeat 30 Tsukaima as Chad, then defeat 2 Shrieker
+95) Battle - Ukitake & Kyoraku - defeat Kyoraku as Ukitake, then defeat clones
+96) Hollow - Hollow - defeat 3 Menos Grande
+97) Event - ENDING 2
+98) Event - TO PART D
+
+STAGE 66 - [MISSION] TRAINING WITH YORUICHI PART 2
+Yoruichi will give you more commands to practice. These include combos that
+involve flash steps, linking specials and supers together, and guard/damage
+canceling. Translations of commands can be found in the shorthand list in the
+Reference section above.
+
+ÉKÅ[ÉhíÜÇ…   while guarding
+É_ÉÅÅ[ÉWíÜÇ… while taking damage
+
+- PART D -
+
+Ñ°-100-101-102Å|Ñ¢
+Ñ†              Ñ†
+99-104-105-106-103
+Ñ†              Ñ†
+Ñ§-107-108-109Å|Ñ£
+
+There are 3 paths in this area, all of which lead to the final ending. You can
+only play through 1 path each time you play this area.
+
+99) Event
+100) Battle - Chad - defeat max-reiatsu Chad & 25 Tsukaima
+101) Battle - Ukitake - defeat max-reiatsu Ukitake & max-reiatsu Tsukaima
+102) Battle - Mayuri - defeat max-reiatsu Mayuri, Shrieker, & Menos Grande
+103) Event - ENDING 3
+104) Battle - Orihime - defeat max-reiatsu Orihime & 25 Tsukaima
+105) Battle - Renji - defeat max-reiatsu Renji & max-reiatsu Shrieker
+106) Battle - Hitsugaya - defeat max-r Hitsugaya, Grand Fisher, & Menos Grande
+107) Battle - Uryu - defeat max-reiatsu Uryu & 25 Tsukaima
+108) Battle - Komamura - defeat max-reiatsu Komamura & max-reiatsu Grand Fisher
+109) Battle - Byakuya - defeat max-reiatsu Byakuya & 2 max-reiatsu Menos Grande
+
+Ñ°---------------------Ñ¢
+Ñ† UNLOCKS AND REWARDS Ñ†
+Ñ§---------------------Ñ£
+The following is a list of notable one-time rewards in Story Mode. As stated
+earlier, the easiest way to unlock every character is to shoot for 100%
+completion in Easy mode. Play every stage in parts A and B on Easy during your
+first playthrough, and then play as many as you can in part C before accessing
+ending 1. Skip straight to part C on your next playthrough and play the stages
+you missed before accessing ending 2. You'll have to play 3 times in order to
+access part D.
+
+After you unlock a character, you can purchase their system voice set from the
+shop. Some nonplayable characters also have system voice sets.
+
+Some of the Part A-C unlocks will not come into effect until you clear story
+mode for the first time.
+
+Part A 1st Clear             - 20000
+Part A Event 100%            - Tosen
+Part A Easy 100%             - 10000
+Part A Normal 100%           - 20000
+Part A Hard 100%             - 30000
+Part A 100%                  - Ururu
+Part A 100%                  - Jinta Hanakari system voice
+Part A 100%                  - Tessai Tsukabishi system voice
+Part A All Modes 100%        - 100000
+
+Part B 1st Clear             - 50000
+Part B Event 100%            - Ichimaru
+Part B Easy 100%             - 10000
+Part B Normal 100%           - 20000
+Part B Hard 100%             - 30000
+Part B 100%                  - Kukaku
+Part B All Modes 100%        - 100000
+
+Part C 1st Clear             - 80000
+Part C 1st Clear             - Rin Tsubokura system voice
+Part C 1st Clear             - Time Attack Mode
+Part C 1st Clear             - Survival Mode
+Part C 1st Clear             - Story Mode: Free Mode
+Part C Event 100%            - Aizen
+Part C Easy 100%             - 10000
+Part C Normal 100%           - 20000
+Part C Hard 100%             - 30000
+Part C 100%                  - Hollow Ichigo
+Part C All Modes 100%        - 100000
+
+Story Mode 1st Clear         - 200000
+Story Mode 1st Clear         - Don Kanonji
+Story Mode 1st Clear         - Karin Kurosaki system voice
+
+Part D Event 100%            - Tatsuki
+Part D Event 100%            - Ririn
+Part D Easy 100%             - 10000
+Part D Normal 100%           - 20000
+Part D Hard 100%             - 30000
+Part D All Modes 100%        - 100000
+
+All Part 100%                - Tsukaima, Shrieker, Menos Grande, Grand Fisher,
+                               Kyugohanin, Goteitaishi, Shibata
+All Part All Difficulty 100% - 800000
+
+Ñ°---------------------------------------------------------------------------Ñ¢
+Ñ† SECTION VI: VS MODE (ÇuÇrÉÇÅ[Éh)                                          Ñ†
+Ñ§---------------------------------------------------------------------------Ñ£
+Main VS Mode menu:
+
+ÇbÇoÇtëŒêÌ              CPU BATTLE
+ÉèÉCÉÑÉåÉXëŒêÌ          WIRELESS BATTLE
+É_ÉEÉìÉçÅ[ÉhëŒêÌ        DOWNLOAD BATTLE
+ÇvÇâÅ|ÇeÇâÉRÉlÉNÉVÉáÉì  Wi-Fi CONNECTION
+
+CPU BATTLE will pit you against up to 3 CPU players. WIRELESS BATTLE allows you
+to play with up to 3 others who own their own copies of Bleach DS 2nd. You can
+either create a room or join an existing one on the list. DOWNLOAD BATTLE
+allows you to set up a room and let up to 3 other players who don't own the
+game join your room via DS Download Play. Wi-Fi CONNECTION allows you to fight
+online and adjust your DS and friend code settings.
+
+Ñ°------------------Ñ¢
+Ñ† Wi-Fi CONNECTION Ñ†
+Ñ§------------------Ñ£
+Initial Wi-Fi menu:
+
+ÉçÉOÉCÉì            LOGIN
+ ÇÕÇ¢                YES (CONFIRM)
+ Ç¢Ç¢Ç¶              NO (CANCEL)
+óFíBÅEÉâÉCÉoÉãä«óù  FRIEND CODE SETTINGS
+ê⁄ë±êÊÇÃê›íË        Wi-Fi SETTINGS
+
+LOGIN will attempt to connect you to the Bleach DS 2nd servers. You must login
+to the server first in order to retrieve your friend code. FRIEND CODE SETTINGS
+allows you to check your friend code and make adjustments to your FC list.
+Wi-Fi SETTINGS allows you to change the connection profile for your DS, and the
+menus therein are identical to other DS Wi-Fi Connection games, only in
+Japanese. If you've played online with your DS before, you shouldn't have to
+worry about changing anything in the settings. If you haven't played online yet
+and need a translation for these menus, check www.nintendowifi.com for
+downloadable manuals in your native language.
+
+- AFTER LOGGING INTO NINTENDO WI-FI CONNECTION -
+
+After selecting LOGIN from the previous menu, you should be connected to the
+server. If any special events are currently taking place, there will be a
+message accompanied by a chime and EVENT BATTLE will be available from the next
+menu.
+
+é©óRëŒêÌ                FREE BATTLE
+ ìÒêl                    2 PLAYERS
+ élêl                    4 PLAYERS
+ÉtÉåÉìÉhÅEÉâÉCÉoÉãëŒêÌ  FRIEND/RIVAL BATTLE
+óÏà ëàíDêÌ              RANKING MATCH
+ óÏïÑóL                  REIFU PERMITTED
+ óÏïÑñ≥                  REIFU PROHIBITED
+ÉCÉxÉìÉgëŒêÌ            EVENT BATTLE
+óÏà ëàíDêÌÉâÉìÉLÉìÉO    RANKING LEADERBOARDS
+ ÇÕÇ¢                    YES (CONFIRM)
+ Ç¢Ç¢Ç¶                  NO (CANCEL)
+ì`åæì¸óÕ                MESSAGE INPUT
+ì`åæämîF                MESSAGE CONFIRMATION
+
+FREE BATTLE will randomly search the server for an opponent and pair you with
+one. FRIEND/RIVAL battle allows you to play against others on your Friend/Rival
+list. Either join a room listed or create one with the top option. RANKING
+MATCH will pit you against somebody else and award or detract points from your
+ranking score based on your performance. Two scores are kept: one for ranking
+matches with reifu/reiju permitted and one without. EVENT BATTLE allows you to
+play special event matches that will be held from time to time. The
+specifications regarding these will change periodically. RANKING LEADERBOARDS
+has the following 4 lists: top 10 players (reifu permitted), the closest-ranked
+10 players to you (reifu permitted), top 10 players (reifu prohibited), the
+closest-ranked 10 players to you (reifu prohibited). I'm not exactly sure what
+purposes the MESSAGE INPUT and MESSAGE CONFIRMATION options serve.
+
+After a battle ends, a win/loss tally will be displayed in addition to a few
+options. At the bottom of the screen, select the left option to play a rematch
+or the right option to quit. If you just played a random opponent, a button
+will be placed next to their name and result tally that will add that player to
+your Rival list.
+
+- FRIEND CODE SETTINGS -
+
+óFíBÅEÉâÉCÉoÉãä«óù     FRIEND CODE SETTINGS
+óFíBÉRÅ[Éhì¸óÕ         INPUT FRIEND CODE
+óFíBÉRÅ[ÉhämîF         MY FRIEND CODE
+óFíBÉRÅ[Éhåä∑         EXCHANGE FRIEND CODES
+ óFíBÉRÅ[Éhåä∑éÛït     SEND FRIEND CODES
+ óFíBÉRÅ[Éhåä∑ÅHÅHÅH   RECEIVE FRIEND CODES
+
+Selecting the top option allows you to view your Friend/Rival list. Pressing X
+will delete a player from the list. INPUT FRIEND CODE lets you add another
+player to your list. MY FRIEND CODE displays your friend code. (You must login
+once in order to retrieve it.) EXCHANGE FRIEND CODES allows you to send/receive
+codes with another local DS.
+
+Ñ°---------------------------------------------------------------------------Ñ¢
+Ñ† SECTION VII: OTHER GAME MODES                                             Ñ†
+Ñ§---------------------------------------------------------------------------Ñ£
+
+ARCADE MODE and TIME ATTACK MODE will pit you against 6 random CPU opponents in
+succession. Arcade Mode scores are determined mostly by long combos. The
+objective of Time Attack is to defeat all of the opponents as quickly as
+possible. Both modes can be played either solo or with a CPU partner. You earn
+2000 points for the shop per match and a bonus 20000 points for clearing either
+mode for the first time with each character. You can get the bonus for each
+character twice; once in solo battle and once in team battle. Time Attack Mode
+is only available after clearing Story Mode.
+
+TRAINING MODE allows you to practice against a CPU dummy with full power
+gauges. Use it to check and practice commands for each character. You can set
+the CPU dummy to perform certain actions or fight you normally via the pause
+menu.
+
+SURVIVAL MODE pits you against every character in the game at random in an
+endless sequence of fights. You regain only a little bit of life between
+matches. This mode has the greatest potential for earning money for the shop
+once you've cleared Story Mode; longer winning streaks can net you
+exponentially greater sums. You must clear Story Mode in order to unlock
+Survival Mode.
+
+Ñ°---------------------------------------------------------------------------Ñ¢
+Ñ† SECTION VIII: DECK CONSTRUCTION (ÉfÉbÉLÉRÉìÉXÉgÉâÉNÉVÉáÉì)                Ñ†
+Ñ§---------------------------------------------------------------------------Ñ£
+This mode is where you arrange your 5 custom reifu decks for use during battle.
+Select a slot on the main screen to check its current arrangement.
+
+ÉJÉXÉ^É}ÉCÉY  CUSTOMIZE
+ÉRÉsÅ[        COPY
+ì¸ÇÍë÷Ç¶      SWAP
+ñºèÃïœçX      RENAME
+ÉLÉÉÉìÉZÉã    CANCEL
+
+Select CUTSOMIZE to change the deck's arrangement. Select COPY to duplicate one
+of your existing decks. Select SWAP to change the order of the deck list.
+Select RENAME to change the deck's title. Select CANCEL to go back.
+
+After selecting Customize from the menu, two rows of cards will appear on the
+touch screen. The top row are the cards currently present in this deck. The
+bottom row are all of the cards you have in reserves. You can buy more at the
+Urahara Shop. The menu at the bottom from left to right is: Reserve Selection,
+Reifu, Reiju, and Frame. Changing the Reserve Selection narrows the reserves
+list down to one category of cards at a time for faster navigation. Selecting
+Frame allows you to choose the base frame for this deck. Different frames allow
+you to utilize different amounts of each category of reifu as well as different
+amounts of reiju. You can unlock additional frames in Story Mode and then
+proceed to purchase them from the shop.
+
+To add a reifu to your deck, simply find it in the reserves list and press A to
+move it to the slot list. To remove a reifu from your deck, find it in the slot
+list and press A to move it back to the reserves. The top screen shows the
+current configuration of your deck. In order to be able to save your changes,
+you must make sure that none of the status counters at the top of the screen
+are blinking red. There are three counters at the top-right corner of the
+screen: card count, power count, and reiju count. When you add a card to your
+deck, the card count increases by one and the power count increases by the
+number at the bottom-left corner of the card (deck cost). More powerful cards
+generally have higher deck costs.
+
+Select the reiju option on the touch screen to view the current reiju
+configuration for your deck. The default deck frame has 3 reiju holders, which
+doesn't accommodate for much. Different frames allow you to configure reiju in
+a 2x2, 3x3, or 4x4 grid. Select a reiju from your reserves at the bottom and
+then fit them into the frame with the A button. Press X if you need to rotate
+the gems in order to make them fit.
+
+When you are done customizing your deck, press the B button to go back to the
+main menu. If you're presented with a YES/NO prompt, it means that you have not
+created a valid deck and pressing YES to exit will cause changes to be lost.
+
+Ñ°---------------------------------------------------------------------------Ñ¢
+Ñ† SECTION IX: URAHARA SHOP (âYå¥è§ìX) & GALLERY (ÉMÉÉÉâÉäÅ[)                Ñ†
+Ñ§---------------------------------------------------------------------------Ñ£
+
+Ñ°--------------Ñ¢
+Ñ† URAHARA SHOP Ñ†
+Ñ§--------------Ñ£
+The shop contains a number of things for you to purchase through points earned
+during the regular game. The fastest ways to earn money are to fully complete
+Story Mode on all difficulties, enter specific touch screen passwords, and
+getting high scores in Survival Mode.
+
+îÉÇ¢ï®                 BUY
+ ÉAÉCÉeÉÄ               ITEM
+  óÏïÑ                   REIFU (SPIRIT CARDS)
+  ÉtÉåÅ[ÉÄ               FRAME (DECK HOLDERS)
+  óÏéÏ                   REIJU (SPIRIT GEMS)
+ ÉJÉâÅ[                 COLOR (ALTERNATE OUTFITS)
+ ÉOÉâÉtÉBÉbÉN           GRAPHIC (GALLERY PICTURES)
+ ÉTÉEÉìÉh               SOUND
+  å¯â âπ                 SOUND EFFECTS
+  ÇaÇfÇl                 BACKGROUND MUSIC
+ âπê∫                   VOICE (SYSTEM VOICE SETTING & SOUND TEST)
+ÉpÉXÉèÅ[Éh             PASSWORD
+ É^ÉbÉ`ÉXÉNÉäÅ[Éìì¸óÕ   TOUCH SCREEN INPUT
+ ÅHÅH                   ENTERED PASSWORDS
+
+Everything in the ITEM menu is related to the reifu/reiju deck system used in
+battle. You may have to unlock some of them in Story Mode before you can buy
+them from the shop. The COLOR menu has 4 alternate outfits for each character.
+The GRAPHIC and SOUND menus contain pictures and audio that can be accessed in
+the Gallery. The VOICE menu contains all of the voice samples for each
+character; you can listen to them in the Gallery or change your System Voice
+setting so that different characters read the menus.
+
+Three specific touch screen passwords can be entered to earn more money (300000
+each). They are pictures of Kon's paw print, a jar, and Chappy. Cutouts of each
+of these pictures can supposedly be found in Jump, and they are supposed to be
+placed over the touch screen for you to trace them. It's actually not too hard
+to trick the game into accepting random scribbles instead, though. Just draw a
+bunch of circles and random lines and you might be able to get all of them.
+
+Ñ°---------Ñ¢
+Ñ† GALLERY Ñ†
+Ñ§---------Ñ£
+Most of the items in the gallery must first be purchased from Urahara's Shop.
+ 
+ÉrÉWÉÖÉAÉãÉMÉÉÉâÉäÅ[     VISUAL GALLERY
+ ÉCÉxÉìÉgÉOÉâÉtÉBÉbÉNÇP   EVENT GRAPHIC 1
+ ÉCÉxÉìÉgÉOÉâÉtÉBÉbÉNÇQ   EVENT GRAPHIC 2
+ ÉLÉÉÉâÉOÉâÉtÉBÉbÉN       CHARACTER GRAPHIC
+ Ç®Ç‹ÇØÉOÉâÉtÉBÉbÉNÇP     BONUS GRAPHIC 1
+ Ç®Ç‹ÇØÉOÉâÉtÉBÉbÉNÇQ     BONUS GRAPHIC 2
+ Ç®Ç‹ÇØÉOÉâÉtÉBÉbÉNÇR     BONUS GRAPHIC 3
+ÉTÉEÉìÉhÉMÉÉÉâÉäÅ[       SOUND GALLERY
+ ÅuÇaÇfÇlÅv               [BACKGROUND MUSIC]
+ Åuå¯â âπÅv               [SOUND EFFECTS]
+ Åuâπê∫Åv                 [VOICE]
+éÄê_ê}ä”                 SHINIGAMI MANUAL
+ êlï®ê}ä”                 CHARACTER PROFILES
+ ópåÍèW                   GLOSSARY
+ ãZê}ä”                   TECHNIQUE REFERENCE
+
+Event and character graphics are made available simply after viewing them once
+in Story Mode. If you skip cutscenes, however, you may fail to unlock all of
+them. The Shinigami Manual contains information about the characters and the
+world of Bleach. 
+
+Ñ°---------------------------------------------------------------------------Ñ¢
+Ñ† SECTION X: GET YOUR GAME ON - BLEACH DS IRC CHANNEL                       Ñ†
+Ñ§---------------------------------------------------------------------------Ñ£
+If you're looking for people to play with on Wi-Fi, there's a quasi-official
+IRC channel set up for just that. Discussion can veer wildly off-topic at
+times, but it's more convenient to arrange matches here than it is on message
+boards, and it's usually the best place on the net to find somebody to fight.
+The server is irc.rizon.net and the channel is #Bleach_ds. If you are
+unfamiliar with IRC, use one of the following guides to join the chat. Once
+you're in the channel just ask if anybody wants to play.
+
+Ñ°------------Ñ¢
+Ñ† USING MIRC Ñ†
+Ñ§------------Ñ£
+mIRC is a popular IRC client for Windows. You can download it at the following
+URL: http://www.mirc.com/get.html. Though the splash screen says that the
+program is a 30-day evaluation version, you can still use it after the 30 days
+expire. Just wait a few seconds on the splash screen until the Continue button
+becomes active.
+
+After installing and starting mIRC:
+1) The Options screen should appear. Enter a username into the Nickname box and
+an alternate name to the Alternate box. I recommend listing your friend code in
+your nickname as well (example: "YourName|123456789012"). Enter a fake name and
+fake e-mail address to their corresponding boxes. (You can use your real name
+and e-mail if you like, but there's no reason to do so.)
+2) Click "Servers" in the category list on the left. Scroll down to Rizon in
+the list and hit the Select button on the right. This will bring you back to
+the Connect screen. Click the "Connect to server" button and you should log-in
+to the Rizon server with your nickname.
+3) The channels window will pop-up once you are logged in. Type "#Bleach_ds"
+(without the quotes) and click the Join button at the top of the screen to
+enter the Bleach DS channel.
+
+Ñ°----------------Ñ¢
+Ñ† USING TRILLIAN Ñ†
+Ñ§----------------Ñ£
+Trillian is an instant messaging / chat program that is compatible with several
+IM protocols (AIM, MSN, etc). It's useful if you just want to use one program
+to take care of all of your IM/chat needs. The following guide was written by
+Jayce. Skip to step 9 if you already have Trillian installed.
+
+1) Download Trillian here: http://www.ceruleanstudios.com/downloads/
+2) Install it where ever. It should launch after installing.
+3) Choose Trillian Basic.
+4) Choose your Trillian name and icon and click next.
+5) Make sure IRC is checked along with any other chat program you want to use
+   with Trillian and click next. It'll download the plugins after you click
+   next.
+6) Click install.
+7) Click Finish.
+8) The Trillian window should be visible now with your name and icon at the
+   top.
+9) In Trillian press Alt+T. Click the option that says
+   "Trillian Preferences..."
+9A) (Only do this step if you already had Trillian installed previously.) Go
+    into Plug-ins and check the box next to IRC if it's not already checked.
+10) In the window that pops up choose "Identities and Connections."
+11) Click add a new connection and choose IRC.
+12) Check the box on the bottom (Automatically connect to this account on
+    startup) and fill in the blanks for each of the 5 dialog boxes with the
+    following:
+        [ Rizon Bleach Chan            ] via IRC  [Connect] [Change...] [X]
+        [ irc.rizon.net                ] [...]
+        [ Your screen name             ]
+        [ Your "real" name             ]
+        [ Any misc profile information ]
+13) Click "Change..."
+14) In the preform buffer box check the "After successful connection to irc
+    ... preform following commands ... " box.
+15) In the text box under the preform buffer add "/join #Bleach_ds".
+16) Click the misc tab and check the "rejoin channel when kicked" option.
+17) Click save settings then click connect. You should join the BDS IRC chan
+    every time you start Trillian. 
+
+Ñ°---------------Ñ¢
+Ñ† USING TINYIRC Ñ†
+Ñ§---------------Ñ£
+The following was provided by Gen2000. TinyIRC is useful in that it does not
+require installation and can be run from a thumb drive or other removable
+media.
+
+1) Get the program from http://www.tinyirc.net.
+2) Click on "Quick Connect".
+3) In the Server Info category, change Server to irc.rizon.net. Leave the port
+   number as is and don't worry about entering a password.
+4) In the User Info category, change the Nickname to whatever nick you want to
+   go by when in the #Bleach_ds channel. You can also enter up to 2 Alternate
+   nicks in case those nicks are taken.
+5) Click "Connect". When successfully connected to the server, type "/join
+   #Bleach_ds" to enter the channel. Enjoy.
+
+It's a pretty basic irc program but it gets the job done and there are a few
+settings you can mess around to change font or background colors as well as
+font sizes if you want it to mirror the actual mirc program font style and
+sizes.
+
+Ñ°----------------Ñ¢
+Ñ† USING JAVA IRC Ñ†
+Ñ§----------------Ñ£
+Also provided by Gen2000. You can run this version of IRC directly from your
+browser.
+
+1) Enter this URL into your address bar: http://searchirc.com/irc-bleach_ds-1
+2) You will usually see at least 2 results from the #Bleach_ds query on
+   searchirc.com. From my listing both of the results leads to the same place.
+3) Click on the #Bleach_ds link after the irc:// heading. Your status bar
+   Should indicate that it's a java link. When you click on it a Jpilot applet
+   will start, you may need to click "Yes" on the dialog box before it appears
+   asking you if you want to accept this program. Enter a nick and enjoy.
+
+This java applet for chatting is pretty barebones, you can't even resize the
+window but for those don't want to download anything (although I would
+recommend just running TinyIRC from the zip file off their website instead) and
+still want to chat then you try this method.
+
+Ñ°---------------------------------------------------------------------------Ñ¢
+Ñ† SECTION XI: CREDITS, LEGAL JUNK, AND VERSION HISTORY                      Ñ†
+Ñ§---------------------------------------------------------------------------Ñ£
+This document was written by Sixfortyfive and intended for publication on
+www.gamefaqs.com. If you wish to host this guide on another site, feel free to
+do so. Just give credit where it's due.
+
+Shout out to Gen, Jayce, Dracil, Yeti, Jesuits, DarkSchneider, and the rest of
+the guys in the IRC channel who helped me piece all of this together.
+
+1.01 (March 9, 2007)
+ - added damage scaling info
+ - added damage table info
+ - added ground-to-air flash step info
+ - completed reifu chart
+1.00 (February 26, 2007)
+ - added what's new section
+ - reordered character list according to in-game menus
+ - corrected Japanese spelling of some names
+ - added cameo appearances to character list
+ - shortened lexicon
+ - corrected information about special attack hotkeys
+ - corrected information about foreground/background planes
+ - corrected information about flash steps
+ - added information about stopping flash steps with RF specials
+ - added information about chip damage
+ - added reiju/reiju list
+ - added simple mode section
+ - added menu/option translation
+ - added Story Mode section
+ - added VS Mode section
+ - added Other Game Modes section
+ - added Deck Construction section
+ - added Shop & Gallery section
+ - added some credits
+ - combined Credits/History sections
+0.10 (February 17, 2007)
+ - initial release

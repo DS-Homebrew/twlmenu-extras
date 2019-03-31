@@ -1,0 +1,3490 @@
+Game: Final Fantasy: The 4 Heroes of Light
+FAQ: General FAQ/Walkthrough
+Version: 0.60
+Author: PiperStarfireGilmore
+Last Updated: October 17, 2010
+
+
+
+
+
+Table of Contents
+
+I.    Introduction                                                   [tadapsg]
+II.   Acknowledgments                                                [mercibe]
+III.  Walkthrough FAQ                                                   [cara]
+             Town of Horne and North Caves                         [01cfaq]
+             Witch's Mansion and Horne revisited                   [02cfaq]
+             The Moonlight Tower                                   [03cfaq]
+             The town of Guera and the Water Tome                  [04cfaq]
+             Quicksand Castle                                      [05cfaq]
+             Liberte and the Pirate Hideout                        [06cfaq]
+             The Liberte whirlpool                                 [07cfaq]
+             An Animal Burrow and Fairy Path to Arbor              [08cfaq]
+             Navigating the Hunting Caves to Urbeth                [09cfaq]
+             Breaking curses at Arbor                              [10cfaq]
+             Reunions in the snow                                  [11cfaq]
+             Hatching Invidia's egg                                [12cfaq]
+             The Tower to the Sky                                  [13cfaq]
+             Exploring Spelvia and taking flight                   [14cfaq]
+             World Tour and updated shop listings                  [15cfaq]
+             Guera and the Shield of Light                         [16cfaq]
+             Arbor and the Lux Tome                                [17cfaq]
+             Liberte and Cestus                                    [18cfaq]
+             Spelvia and the Sword of Light                        [19cfaq]
+             Urbeth and the Cape of Light                          [20cfaq]
+             Invidia and the Armor of Light                        [21cfaq]
+             Unravelling Horne's curse                             [22cfaq]
+             Revealing the truth about King Horne                  [23cfaq]
+             The Star Chamber and regaining what was lost          [24cfaq]
+             A dark, starry road                                   [25cfaq]
+             Extra content: the bonus towers                       [26cfaq]
+IV.   Crown Locations and Crown Upgrade List                        [speaknow]
+V.    Consumable Items and Magic Book List                         [hesonfire]
+VI.   Weapons, Armor and Accessory Lists                            [icecream]
+VII.  History                                                        [baggage]
+VIII. Copyright                                                     [vonkarma]
+
+
+
+
+
+==============================================================================
+I.    Introduction                                                   [tadapsg]
+==============================================================================
+
+
+
+Popping the game in sure was a nice, change of pace compared to the standard
+iterations of more recent games, at least to me.  It's got a decidedly old
+playing style, with mechanics based on discovery rather than guiding players
+everywhere throught the game world.  There's quite a lot of a player having to
+read between the lines to decipher where to go next, glimmering advice by
+speaking to the various NPCs and the like throughout the land.
+
+Therefore, it seems rather ironic that a guide would be written up for such
+a game like this.  With new players not used to these types of throwbacks,
+realizing what games of ye olden days once were like, the need for guidance
+feels "right."  We all shared such tips on the playground when lost.
+
+In regards to mechanics, to those on the fence, there's a job system in place,
+realized via the Crown System; it's essentially the player's way of picking
+each job for each main player character.  With standard staples, like the
+generally useful White Mage, to more esoteric, such as the Seamstress jobs
+in place, there's bound to be something that appeals to the player.  The story
+lacks, at least at the time of this write-up; your hometown comes under some
+magical curse and only some of your party feels the need to save it.  It kicks
+off a quest to save the world from the approaching darkness, hinted at by the 
+recurring crystals, which grants you with each of the game's Crowns.
+
+Expect a lot of soloing, or near soloing, though, despite the game's subtitle
+of there being four Heroes of Light.  The party spends a good part of the
+game split up from one another, so just be aware of that.
+
+
+
+
+
+==============================================================================
+II.   Acknowledgments                                                [mercibe]
+==============================================================================
+
+
+
+Square Enix
+   - For creating, translating and bring the game over to the West.
+
+Nintendo
+   - For the creation of the console that this game plays on.
+
+The GameFAQs community, other contributors and users, CJayC, Bacon
+   - For bringing about this gaming community for all of us to share our
+     experiences and ability to help one another.
+
+KMart
+   - Including a gaming coupon with purchase, pushing me from the kinda sorta
+     buy column to deciding to give this more of a shot
+
+
+
+
+
+==============================================================================
+III.  Walkthrough FAQ                                                   [cara]
+==============================================================================
+
+
+
+As you start the game up for the first time, a message will show up saying the
+saved data is being reset to default.  After some time, you'll be presented
+with the title screen to start the game.  Do so and you'll have a prompt to
+name each of the four main party members.  I'll be using the default names in
+the guide but will personally be using customized names.  Those default names
+are: Brandt, Jusqua, Yunita and Aire.
+
+
+   ~ Town of Horne ~                                                  [01cfaq]
+
+   Horne General Shop
+          Potion              20 G            Torch               10 G
+          Dragon Wing         60 G            Steel Sword        200 G
+          Horne's Bow        190 G            Wood Shield        130 G
+   Horne Wireless Shop
+          Inferno           5400 pts          Frost Bull        5160 pts
+          Gran Fissure      4080 pts          Krysta            5700 pts
+          Blacksword        9600 pts          Fencer's Garb     1000 pts
+          Warmage Armor     1000 pts          Ceremonial Robe   1000 pts
+          Hero's Will       8000 pts          Growth Egg        3000 pts
+   Inn    10 Gil
+
+Brandt's mother, Kuore, wakes Brandt up, telling Brandt he needs to go and see
+the king.  Kuore gives Brandt directions on how to get to the castle: head to
+the back of town and follow the road to the castle.  Before doing so, examine
+the top right corner behind Kuore, to find <POTION> inside hidden chest (1/8).
+
+Exit your house and go in the grass on the left side of your house.  Right
+next to your house you'll find <POTION> inside hidden chest (2/8).  Head down,
+across the bridge and from the bushes of this first house, go South into the
+grass to find another hidden chest (3/8) with <POTION> inside.  Enter the
+house on the left side and examine the barrel at the back of the room for yet
+another hidden chest (4/8) to claim <DRAGON WING>.  Speak to the soldier near
+the gate leading South out of town to get <PHOENIX DOWN> and speak to the man
+on the left side of the Item Shop to get a <POTION> as Brandt's birthday gift.
+
+The man on the right side of the item shop is your save point; remember what
+he looks like, since you should stay on the lookout for save opportunities.
+Save if you wish, then head North and go inside the inn.  At the very top of
+the inn, examine next to the bed for <TORCH> inside a hidden chest (5/8).  Go
+West to the house at edge of town and inside, at the top of the stairs, near
+the bed, is a hidden chest disguised as a box (6/8) with <DRAGON WING> for
+the taking.  Head up to the Wireless shop and speak to the man near there to
+gain a <POTION>, then go down and around to the storage shop.  Outside, in
+the grass near the bottom leg of the bridge looking thing is another hidden
+chest (7/8) containing <POTION>.  By now, you might want to put some items
+in storage or sell them for money since we'll be picking up at least six (6)
+more items before leaving town, with a few more along the way, with luck.
+
+Head up through the center of town to the next screen.  Go East to the giant
+windmill and along the right side, on the cliff, you'll find an invisible
+hidden chest (8/8) with a <POTION> inside.  Head across the wooden bridge to
+the West and follow the path to the castle.
+
+
+   ~ Horne Castle ~
+
+Enter the room in the top left for a chest with <POTION>, then backtrack to
+the room in the top right for two chests for the taking, containing a
+<WOOD SHIELD> and <POTION>.
+
+Take the central stairs up to the throne room and speak to King Horne to learn
+of your next mission; you have to agree to continue the storyline.  After
+agreeing, the King gives Brandt a <STEEL SWORD>; speak to the nearby Minister
+now to gain <100 GIL> as well.  Head back to town and speak to Kuore, back
+at home, and gain <INHERITED RING>.  Remember to equip everything before
+leaving town, and save if you'd like.
+
+
+   ~ Overworld ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Falcon              |   4-6    |  3  | Ruby, Topaz       | Pnx Down, GaleGntlt
+Imp                 |   5-9    |  1  | Ruby, Emerald     | Potion, Harp
+Jack Lantern        |    <7    |  2  | Ruby, Sapphire    | Potion
+
+Head Northeast from Horne 'til you spot a cave.  Enter to explore North Caves.
+
+
+   ~ North Caves / Overworld ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Blood Bat           |    <5    |  1  | Ruby              | Hi-Potion
+Goblin              |    <7    |  2  | Ruby              | Hi-Potion
+Lizardman           |   7-8    |  3  | Ruby, Aquamarine  | Wind Foil, Phnx.Dwn
+Myconid             |   10-3   |  3  | Ruby              |
+   BOSS
+Minotaur            |  104-24  | 20  | Rubyx2, Amethyst  |
+
+                                    __[4]  ____ Exit
+                                   |__[3] |
+ [2]___ B1                         |______|____
+     |                                        |         [1]: <POTION>
+     | [1]                1F,N     |          |         [2]: <PHOENIX DOWN>
+     |__|____               |      |__________|         [3]: <PHOENIX DOWN>
+             |              !      |                    [4]: <HATCHET>
+        Entrance    1F,S ___|      B1
+
+    1F, South            B1         1F, North
+
+If you'd like to save your Torch, you can follow the above maps to get you
+through North Caves.  The only thing to note is on Floor B1, as you approach
+the stairs to Floor 1F North, you'll run into a spiral looking enemy on the
+main map; this will signify a forced story encounter, sometimes as a boss, as
+it is in this case.  Jusqua will temporarily join your party to beat Minotaur.
+After the battle, refuse Jusqua's request to go home to have him join the
+party out of the caves.  After that, head out to the exit.
+
+On the overworld, enter that suspicious looking building in the clearing.
+
+Minotaur strategy:
+Brandt was at Lvl2 and Jusqua at Lvl5.  There's not much you can do, option-
+wise: have Brandt use normal attacks and let Jusqua Boost to gain enough AP
+to cast Fire.  Each Fire hit seems to break the Minotaur's horn, causing it
+to get in more attacks and do damage, so try to finish the battle quickly.
+If both Brandt and Jusqua are feeling psyched, let both of them attack to deal
+slightly more damage in a combined attack.  Heals, both through item usage
+and Cure spells via Jusqua, will target the person with the lowest HP.
+
+
+   ~ Witch's Mansion ~                                                [02cfaq]
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Cowpel              |    <16   |  4  | Ruby              | Phoenix Down
+Mimic               |   26-31  |  4  | Ruby              |
+Orc                 |   13-9   |  4  | Ruby              |
+   BOSS
+Greaps              |  255-65  | 72  | Rubyx2, Amethystx2|
+
+From the entrance at 1F, take the door to the far left; the center door is
+locked for the moment.  Pass this soldier while going East to a room where
+you have a closeup of the party characters.  Continue East and open a chest
+for <CURE TOME> near a soldier.  Remember to set the ability on Brandt before
+moving on, since Jusqua already has access to Cure.  Beyond the Cure Tome
+screen, take the path closest to the screen to find yourself at the entrance
+screen, just on the upper right side with two chests for the taking.  The top
+chest yields a <POTION> while the lower chest has a <MIMIC> encounter, which
+will give up STEEL ARMOR after winning.  Head back one screen and take the
+stairs in the upper right corner to go up to 3F.
+
+Walk towards the screen, then go to the left, then up.  Before taking the
+stairs, grab the <PHOENIX DOWN> from the chest and we'll find ourselves on
+Floor 2F.
+
+Walk to the right and light the candle.  You'll note that a door is heard
+opening.  That door would be the locked door at the very beginning of the area
+that I mentioned was locked, so let's make our way back there.  Before doing
+so, though, we'll be running into spiral enemies where we found the Cure Tome
+for Brandt.  After taking out the enemies there, answer with either response
+and Yunita will join the party.
+
+Back at the entrance, enter the now opened center door and, along the back
+wall, left center, you'll find a chest with <HORNE's BOW>.  Take the stairs
+to the right to reach 2F.  Head to the bottom right corner here to find a
+<DRAGON WING> inside a chest, then take the stairs to the left to reach 3F.
+Continue walking up and take the save offer and enter the door.  Approach
+Aire, save her and try to leave the room; we get a boss battle.
+
+Greaps strategy:
+Brandt at Lvl5, Jusqua at Lvl6, Yunita at Lvl8 and Aire at Lvl5.  If you have
+any Wind Foils equipped, remove them; Greaps resists Wind and is vulnerable to
+Fire.  Everyone should have access to Cure and two users should have Fire;
+I'd suggest making Aire one of those Fire users due to her already equipped
+King's Shortsword.  Basically, always Boost to have at least 2AP saved up for
+every party member, since you never know when you might need to do a group
+Cure session.  While on the ground, Greaps gets one, sometimes two attacks,
+but while in the air, Greaps gets two attacks the majority of the time.  While
+in the air, Greaps uses an attack that hits all party members for about 10 HP
+worth of damage; couple this with a chance of using this twice in a row means
+keeping everyone's HP at least above 20 HP.  Keep sending out Fire spells for
+your main method of damage, while chipping away with regular attacks when Cure
+isn't necessary, and Greaps will fall.
+
+After the battle, you'll see a talking crystal, the opening credits and access
+to the WAYFARER CROWN.  Step into the magic circle and make your way back to
+Horne, either by walking or using one of the Dragon Wings we picked up along
+the way here.
+
+
+  ~ Town of Horne / Overworld ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Basilisk            |   34-46  |  6  | Ruby, Emerald     | Phoenix Down
+Big Worm            |   50-2   |  6  | Emerald           | ErthGaunt., Antidte
+Metal Flan          |    <8    | 40  | Amethyst          |
+
+Head to the castle throne room and speak to the character you'll find there.
+Jusqua and Aire will leave the party, so take any items from their inventories
+that you'd like Brandt and Yunita to have access to.  After they leave, exit
+town and head East into the desert.
+
+Continue walking East through the desert until you run into an event and come
+across another character.  Meet Krinjh, the last of the Moon Folk.  You're
+directed to Moonlight Tower in the Northwestern area of the desert.  You can
+find the tower along the coast; if you walk too far North and come across a
+cave called Fairy Path, you went too far, so follow the coast South.  Enter
+Moonlight Tower.
+
+
+   ~ Moonlight Tower ~                                                [03cfaq]
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Wight               |  64-100  |  6  | Lapis, Sapphire   | Animate Tonic
+
+
+                   1F-D__  [2]___1F-B
+                         |        |    4F-G___________[3]    ______    ______
+ _______________     | 3F-E  _____|                         |   3F-F  |   3F-H
+|2F-D       2F-B|    |      |                               |      |  |      |
+|               |    |______|    |     4F-F          4F-H   |      |  |      |
+|2F-A__    _2F-C|    |           |       |__   2F-E  __|    |      |  |      |
+       |  |          |__  [1]____|          |___|___|       |3F-G__|  |5F____|
+     Entrance        |           |
+                   1F-A        1F-C
+
+     Floor 1F           Floor 2F            Floor 3F             Floor 4F
+
+     [1]: <TEMPEST PIKE>     [2]: <PHOENIX DOWN>     [3]: <RISING SUN>
+
+From the entrance, go right and take the 2F-C stairs to Floor 2F.  Grab the
+treasure chest to the left for <TEMPEST PIKE> and head back down to Floor 1F.
+Take the top right stairs at 2F-B to grab a <PHOENIX DOWN> nearby and head
+back down to Floor 1F, this time taking the top left stairs at 2F-D, then
+the stairs at 3F-E to reach Floor 3F.
+
+At the intersection, go left and take the stairs at 4F-F, then 3F-G and go all
+the way to the right to pick up <RISING SUN> in the chest at the end of the
+hall.  Backtrack to the intersection near 2F-E and this time go right, up to
+4F-H.  Hit the save if you want and head up to Floor 5F.  At the very top left
+corner, grab a chest with <1000 GIL> inside, then approach and examine the
+sparkly pedal in the center to gain <MERKMAL>.  You can now find Guera, our
+next destination.  Exit the Moonlight Tower.
+
+
+   ~ Overworld / Guera ~                                              [04cfaq]
+
+From the Moonlight Tower, hug the Southern area of the desert and you'll spot
+Guera in the North.  Go inside town, preferably during the day.
+
+   Guera Item Shop
+          Potion              20 G            Dragon Wing         60 G
+          Antidote            20 G            Echo Herbs          20 G
+          Animate Tonic       30 G            Eye Drops           20 G
+          Torch               10 G            Antarctic Wind     300 G
+   Guera Weapon Shop
+          Steel Sword        200 G            Steel Spear        330 G
+          Horne's Bow        190 G            Wind Bow           485 G
+          Magic Staff         95 G            Rock Shield        350 G
+          Traveler's Garb    150 G            Power Ring         500 G
+          Poison Cape        250 G
+   Guera Magic Shop
+          Fire Tome          500 G            Quake Tome         500 G
+          Aero Tome          500 G            Cure Tome          500 G
+   Guera Wireless Shop
+          Hercules          9000 pts          Ares              5130 pts
+          Mjollnir          3300 pts          Afreet Robe       1000 pts
+          Priest's Gown     1000 pts          Red Sash          1000 pts
+          Shinobi Garb      1000 pts          Hero's Will       8000 pts
+          Fortune Egg       3000 pts          Growth Egg        3000 pts
+   Inn    20 Gil
+
+First things first, there's new hidden chests in the area.  Head to the right
+side of town to find a well; just to the right of the well, in the bushes,
+is a <POTION> inside one such hidden chest (1/8).  Enter the Wireless Shop
+North from here and check the table on the left side for <EYE DROPS> inside
+another hidden chest (2/8).  Go left and inside the inn, heading all the way
+to the right end, checking between the top bed and the table for <POTION> in a
+hidden chest (3/8).  Circle around to the big house on the other side of the
+wall from the Wireless shop to find <ANTIDOTE> in the left cupboard's hidden
+chest (4/8).  Now go around this big house and hug the wall behind to find a
+clearing; examine the left tree for <ANTIDOTE> in another chest (5/8).  On the
+Northern left side of town you'll find a magic shop.  Go inside and examine
+the left set of shelves, specifically the center one, to find a chest with
+<POTION> inside (6/8).  The other two hidden chests aren't accessible at this
+time, in case you're worried about that.
+
+During the day, go straight back to Guera Palace, taking two teleporters up to
+see the king.  Agree so that he'll help Horne, then go outside of town and
+wait for night to fall.  Go back inside Guera Palace and, after taking the
+first teleport, head down either wing twice and take the door in the opposite
+corner, which would normally be blocked during the day.  Go down the set of
+stairs and go inside the lowest cavern inside to enter Guera Caverns.
+
+
+ ~ Guera Caverns ~
+
+ Entrance/Exit                   [5]
+        |                     ____|
+   A ___|___ [1]/Z   Jump/Z__|    |
+                                  |
+        ____A                     |
+       |                          |
+     __|      B                   |       [1]: <TORCH>
+    |  |      |                   |       [2]: <WOOD AXE>
+    B  |      |                   |       [3]: <ETHER>
+       |      |____[2]     __D    D       [4]: <WATER TOME>
+       |____              |               [5]: <PHOENIX DOWN>
+            |        _____|
+        ____|       |
+       |            |      [4]
+       |  [3]    ___|_______|____
+     __|___|                |    |
+    |                       |    |
+    |   ____C         C_____|
+    |__|
+
+No new enemies here, and you can save another Torch if you feel up to it,
+since the lighting is just good enough to follow the above maps.  From the
+entrance, grab the <TORCH> and go left to A.  Swing down the left side and
+down the B stairs to B2 and grab the <WOOD AXE> and go back to B1.  Continue
+down the path and at the intersection veer right to grab the <ETHER> and go
+left until you hit C, going down to B2.
+
+Follow this path and take the Northern path up to claim what we need: the
+<WATER TOME>.  From there, head left at the intersection and keep going up
+to reach D, leading to B1.  Go all the way up, grab the <PHOENIX DOWN> in the
+chest, then head left and jump off; this is a one-way path to where the Torch
+chest was at the beginning of the area.  Exit out of the caverns.
+
+Before heading out of town, take the villagers on their suggestion and equip
+one Rock Shield.  Then head out and, from Guera, walk in a general Northeast
+direction and you should come upon a castle looking thing.  Go inside.
+
+
+   ~ Quicksand Castle ~                                               [05cfaq]
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Cait Sith           |  56-75   |  7  | Emerald           |
+Cu Sith             |  70-2    |  7  | Emrld, Aquamarine | Antidote
+   BOSS
+Sand Devil          | 595-616  | 218 | Emrldx2, Amethyst | Earth Sword
+
+  ___________________    __________    ___________    ______        _________
+ |________ A ________|  |     A   !|  |E    !     |  |E  F  | [5]  |  ! F !  |
+      _   | |       _   |   ! ! ! !|  |   ! ! !   |  |G__?__| | |  |G !   !  |
+ [2] | |  | |   ___| |  |   !     B|  |   ![4]!  B|   ____   _| |  |__!_I_?_J|
+ | |_| |__| |__|  _  |  |D      !_!|  |D  ! ! !   |  |   I| |__J|   _________
+ |________   ____| | |  |!  ! !| __   |_    !   _C|  |!__K|        |    K    |
+  ____    |_|      | |  |      || C|    |!_?_!_|                   |___ L ___|
+ |  __[1]       ___| |  |[3]___||_S|     
+ | |    _______|  _  |                      [1]: <PHOENIX DOWN>
+ | |___|  _   _  | |_|                      [2]: <ETHER>
+ |_______| | | | |___                       [3]: <BLUE SHOT>
+           | | |_____|                      [4]: <BANEKNIFE>
+        ENTRANCE                            [5]: <EARTH AXE>
+
+From the entrance, take the path to the left and grab the <PHOENIX DOWN> from
+the chest at the end of the path.  Backtrack to the right and head up twice,
+left once and you should come upon a four way intersection.  Go left to find
+an <ETHER> at the end of the hall, then head back to the intersection and
+go up to the stairs.
+
+In the following rooms, if you fall into the quicksand, you'll fall to the
+floor below.  For some of these, we want to fall down to reach a treasure
+chest that would normally be inaccessible.  Starting at the top of 2F, go left
+and down, ignoring the first set of stairs and taking the stairs off to the
+right.  Take the stairs below you, back to 2F, and we'll find a switch in the
+corner.  It needs water magic to activate, but thankfully, we already picked
+up the Water Tome back in Guera.  Activate it, then head back up to 3F, then
+2F and take the stairs we initially skipped.
+
+Go down and take the center quicksand trap, marked with the ? in the map
+above.  You'll fall right next to a <BLUE SHOT> chest on the left.  Claim it
+and take one of the quicksand traps back down to 1F and head back to 3F.
+Once you return, take the stairs above you to 4F and fall in the quicksand
+trap diagonally down and to your right; you'll fall in the middle of a bunch
+of quicksand traps, with a chest holding <BANEKNIFE> before you.  Grab it,
+fall back down to 2F and make your way back to 4F.
+
+Take the stairs to your right and fall in the bottom most quicksand trap on
+the right side.  Ignore the stairs and claim the <EARTH AXE>, then take the
+stairs we just passed by, taking either of the top two traps to return to 4F.
+Climb back up, take the stairs directly below you twice over and make use of
+the save point to your left.  Taking the stairs marked as L will lead to
+the boss room.
+
+Sand Devil strategy:
+Steal everything useful from Krinjh, since he'll be leaving after this battle.
+Whoever is equipped with the Rock Shield, give the other main party member
+Krinjh's Robe for the defensive boost.  Similarly, designate one party member
+as your mage, hopefully taking the Aero Tome as well, and be certain that
+their Water spell ability is active; give the other party member Krinjh's
+Sword.  If you can't tell, Krinjh may as well perish in this fight.  For the
+battle itself, have your mage cast Water to start and your attacker attack.
+For as long as Krinjh stays alive, let him chip away at the Sand Devil's
+health with regular punches.  Every two to four turns, you'll get a message
+saying that "sand begins to flow," signifying the need to recast Water.
+After about half of Sand Devil's HP is lost, it'll start to use a sandstorm
+attack to hit everyone on your side of the field everytime the sand begins to
+flow again; with our defensive setups, taking Krinjh's equipment, these
+sandstorms should be doing a max of 15 dmg, with regular attacks doing near
+5 dmg.  Focus most of your attacks with your attacker, continue healing with
+Cure use and keeping your AP totals healthy and this fight will be over.
+
+After the battle, Krinjh directs you to the land of Arbor, saying the key to
+saving Horne is there, then leaves the party with Ariadne.  You gain access to
+two new crowns: the WHITE MAGE CROWN and the BLACK MAGE CROWN.  Take the magic
+circle out of Quicksand Castle and head Southeast, back to Guera.
+
+
+   ~ Guera ~
+
+Stay at the inn.  We can't go to Guera Palace since a guard is blocking the
+entrance, and also directs Brandt and Yunita to stay at the inn, so we might
+as well do that.  Brandt gains a World Map and a new party member in that Cat.
+
+
+   ~ Liberte ~                                                        [06cfaq]
+
+   Liberte Item Shop
+          Potion              20 G            Dragon Wing         60 G
+          Torch               10 G            Tranquilizer        20 G
+          Echo Herbs          20 G            Fire Tome          500 G
+          Water Tome         500 G            Cure Tome          500 G
+          Confuse Cape       250 G            Rainbow Boots     5000 G
+   Liberte Weapon Shop
+          Steel Sword        200 G            Horne's Bow        190 G
+          Magic Staff         95 G            Knife              220 G
+          Flame Dagger       530 G            Harp               220 G
+          Traveler's Garb    150 G            Black Robe         350 G
+          White Robe         350 G            Ice Shield         350 G
+   Liberte Wireless Shop
+          Book of Secrets   4860 pts          Avalon Scrolls    5280 pts
+          Akashic Records   6690 pts          Cat's Tunic       1000 pts
+          Angel Toga        1000 pts          Dancing Wear      1000 pts
+          Blue Jacket       1000 pts          Maximillian       1000 pts
+          Old Shoes         6000 pts          Music Score       2500 pts
+   Inn    20 Gil
+
+! MUSICIAN CROWN is available by purchasing the Music Score from the Wireless
+shop here.  Don't expect to get it this early, since it requires quite a few
+battles if not playing in multiplayer.  Do know that you'll be able to pick
+it up eventually, even if you're playing strictly solo.
+
+Gain control of Aire.  We also have yet another set of hidden chests to find.
+First, head out of the house and take the path just to the left and follow the
+path to a house.  Go down to the basement and take <GIANT's RING> from the
+chest.  Head back outside and examine the space to the right of the house for
+<HI-POTION> in the hidden chest (1/8).  Circle North around where you started
+to go up a set of stairs, past the item shop, and take the stairs to the
+right up to the teepee looking building.  Head inside, go upstairs again and
+examine the bushes on the right for a hidden chest <POTION> (2/8).  Leave
+and go South to find the inn, then examine the flowers in the space to the
+right of the house directly East of the inn for some <EYE DROPS> in a hidden
+chest (3/8).  Enter the inn, go to the room at the far left and examine the
+upper bed for <ECHO HERBS> in another hidden chest (4/8).  Go through the
+gate to the South to reach Liberte Port.
+
+Head to the right, climb aboard the ship and examine behind the mast to gain
+<DRAGON WING> from the hidden chest (5/8).  Continue heading South to find
+another save point and an item shop to the East; go behind the item shop to
+find <GAIA DRUM> near the cliff behind the shop (6/8).  Go inside the Storage
+shop and check the bottom right corner, below the vase, to find <POTION> in
+a hidden chest (7/8).  Head past the second inn and check the clearing
+Southwest of the second inn; in the middle of that area, you'll find
+<PHOENIX DOWN> in the last hidden chest (8/8).
+
+Head back to the house with the Giant's Ring in the basement and speak with
+Apollo, the kid looking out the window.  Now speak to his mom, near the front
+entrance.  Head back and speak with Jusqua to tell him about the pirates to
+get him to rejoin the party.
+
+Before heading out, set Aire as a White Mage and Jusqua as a Black Mage, then
+equip them with the White Robe and Black Robe, respectively, leaving you with
+50 Gil if you haven't been selling anything yet.  Remember to set their
+abilities, as well.  Exit town, go East, following the coastline to a cave.
+
+
+   ~ Pirate Hideout ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Aspidochelon        |  54-6    |  6  | Topaz             |
+Lamia               |  35-42   |  6  | Ruby, Topaz       | Tranq., Sleep Ring
+Slime (un-merged)   |  35-41   |  5  | Emerald, Topaz    | Potion, Hi-Potion
+   BOSS
+Trollud             | 400-20   | 182 | Topazx3           |
+
+   A   B   A   C   _____         ___D   _____   E____       [2]   G   [3]  H
+   |   |   |   |  |    B|       |      |C    |       |       |    |    |   |
+   |   |   |   |  |     |       |      |     |       |       !    |    !  BOSS
+   |   |___|___|  |D____| [1]___|      |____E|       |____F  |____F____|   |
+ Enter                                                                     G
+        [1]: <300 GIL>         [2]: <ROCK LANCE>        [3]: TERRA STAVE
+
+The password is Freedom.  Take the stairs down and go left to reach the B2
+left room areas.  Continue going down and left to grab a chest with <300 GIL>.
+Head back to take the right set of stairs to reach the B2 right room areas.
+
+Keep going down and right until you meet up with the save point character.
+Beat the left guard for a <ROCK LANCE> chest and the right guard for a chest
+with <TERRA STAVE>.  They're both guarded by slightly stronger Lizardman
+enemies, sporting 60-2HP and giving up 8 Exp each.  When you feel you're
+ready, take the stairs North of the save character and we'll get our boss
+encounter to save the captives.
+
+Trollud strategy:
+Jusqua and Aire were both at Lvl11 with Jusqua, a Black Mage for now, holding
+that shiny new Terra Stave.  Start Aire with a Healthgiver and let Jusqua
+stick to casting Fire spells; for the whole battle, Jusqua keeps using Fire.
+If Jusqua is hit once after being fully healed, Aire has leeway to get
+another Healthgiver up for the following turn; else, Aire should use Cure.
+You want to keep Healthgiver up as often as possible due to Whirling Bludgeon,
+an attack that hits both party members for near 20 dmg, slightly more if
+Trollud has Berserk up.  Keep an eye on HP levels and you'll be fine.  For
+those rare instances Aire has a Healthgiver set and doesn't need to use Cure,
+sneak in an attack or Boost.
+
+After the battle, take the stairs beyond and grab all the treasure.  Clockwise
+starting from the stairs, you'll find <500 GIL>, <ICEBRAND>, <500 GIL>,
+<OCEAN STAVE>, <HUNTING HORN> and <ANTARCTIC WIND>.  After claiming your
+spoils, speak to each captive, then examine the vase to meet Lilibelle.  Pablo
+then suggests stopping by to visit him back at Liberte.  Exit the hideout and
+head back to Liberte to take Pablo up on his offer.
+
+
+   ~ Liberte ~
+
+Enter Liberte during the day and speak to Apollo to gain <APOLLO'S TALISMAN>.
+Speak to Pablo if you wish, but head back to the house you're resting at,
+just to the right of the path of Apollo/Pablo's house.  Lilibelle suggests
+checking the whirlpool, so head outside of town, wait for night to fall, then
+come back in.  The whirlpool is at the top of Liberte's Port screen.  Enter.
+
+
+   ~ ??? (Liberte's whirlpool) ~                                      [07cfaq]
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Air Ray             |  46-56   |  7  | Topaz, Sapphire   | Tranquilizer
+Ichthon             |  34-44   |  6  | Topaz, Aquamarine | 
+Brainshark          | 543-52   | 210 | Aquam, Amethystx2 | 
+
+       ___              _______          __________
+      /[1]\            |  _____Ly2      |  ______Ly1     [1]: <MIMIC>
+      |   |            | |    __________| |      | |          -> STREAM CAPE
+      \   /            | |   |  __   _____|      | |     [2]: <EARTH BOW>
+   ____|z|___          | |___| |  |y|       _____| |     [3]: <MIMIC>
+  |  ________A         |_______|  | |      A_______|          -> BOLT SWORD
+  | |_________                    | |                    [4]: <ECHO HERBS>
+  |_________  |               _   | |  Lx1
+    ________| |              | |  | |  | |
+   /      ____|          ____| |  | |  | |   [2]            __________
+   |     |____          |  __  |  | |  | |   | |__         |          |
+   |        Lz1         | |  | |__| |__| |   |__  |        |          |
+   |          |         | |  |____   __  |      | |    ____|          |____
+   |          |    Lx3  | |       |x|  | |______| |   |      ________      |
+   \___   ___/     | |  | |_____  | |  |____   _  |   |     |        |     |
+       | |         | |  |_____  | | |       | | | |   |  B  |        | [3] |
+       | |         | |________| | | |  Lx2  | | | |   |_____|        |_____|
+    ___| |___      |  ________  | | |  | |__| | | |
+   /         \     | |___     | | | |  |______|  B        ___________
+   |         |     |_____Lx4  | | | |                    /           \
+    ENTRANCE             _____| | | |____                |    BOSS   |
+                      [4]_______| |      |               |           |
+                                  |_____C|               \      c    /
+
+From the entrance, head past the first opening, then keep to your right to
+tug on the lever to Lz1.  This opens the door marked z on the above map.
+Continue upwards, snaking around the path and open the chest for a <MIMIC>
+encounter.  This one is slightly stronger than the first Mimic at the Witch's
+Mansion, between 43-55 HP and gives up 28 Exp.  After claiming the STREAM CAPE
+that the Mimic was guarding, head to the right, to the stairs to B2.  Equip
+it to reduce the primarily water damage attacks in the dungeon.  I'd suggest
+giving it to Aire, though.
+
+In this mini-section, you'll need to hit both y levers to open the door at y.
+Just stick to the path, hitting the first lever at the second corner at Ly1,
+then the second lever at the end of the path, at Ly2.  Backtrack to the now
+opened pathway and head down for another set of levers to trip.
+
+Take the path to the right first for convenience.  Go up to hit the Lx1 lever,
+then head down and wind around to hit the Lx2 lever.  Backtrack to the right
+and grab the chest up above for <EARTH BOW>, then take the stairs to B1 to
+find another <MIMIC> encounter (50-83HP, 31 Exp) to gain BOLT SWORD as your
+reward for winning.  Go back to the locked x door and go to the left this
+time.  Go all the way to the bottom to grab the chest with <ECHO HERBS>, then
+take the branching path we passed on the left.  Go up to hit the Lx3 lever,
+then down to hit the final Lx4 lever.  Head back to the now opened x door and
+go all the way down.  Hit up the save, since we're going to have a boss fight
+after taking the stairs and approaching the treasure chest.
+
+Brainshark strategy:
+Aire alternates between Healthgiver and Cure, while Jusqua sticks to casting
+Fire spells.  If you don't really need healing, Aire can attack Brainshark
+directly.  Fairly often, Brainshark will use Waterspray; the damage isn't a
+problem, but the possible Sleep and Poison status conditions may give cause
+for concern.  Keep up healthy doses of healing and Fire magic attacks and
+this will be over in a few turns.
+
+After the battle, Jusqua will leave and Aire is forced to open the treasure.
+Do so and we'll wind up back at Liberte.  During the day.  As a cat.
+
+
+   ~ Liberte / Overworld ~
+
+Go to your room and speak to Apollo, the kid.  Then speak to Lilibelle, the
+fairy on your bed.  Gain <FAIRY MAP> and we're headed out to the overworld.
+
+Walk North, then West, around the beach/cove.  Continue to the most South-
+westernly corner you can reach, enclosed by some mountains.  Just North from
+this spot, there's a line of trees against the mountains.  Enter there.
+
+
+   ~ Animal Burrow / Overworld ~                                      [08cfaq]
+
+Don't bother wasting a torch here.  Follow the      EXIT ___!___
+path up, then left.  Do this three times, noting            |
+the spiral enemy denoted as an exclamation on the           |___
+map to the right.  You're forced into the fight                 |
+and you can't win against Ogre Bear; you'll be                  |___
+hit by 10k+ damage.  Lilibelle gives Aire some                      |
+LILIBELLE'S WINGS, and you'll also gain the                         |
+BANDIT CROWN and BARD CROWN.  Exit to overworld.                 ENTRANCE
+
+Go West to Guera; the Animal Burrow empties in the Eastern part of the desert.
+
+
+   ~ Guera ~
+
+   Guera Magic Shop #2  (NIGHT ONLY)
+          Fira Tome         1500 G            Quakra Tome       1500 G
+          Aerora Tome       1500 G            Cura Tome         1500 G
+          Berserk Tome      1000 G            Protect Tome      1000 G
+          Shell Tome        1000 G            Magick Tome       1000 G
+          Raise Tome        1500 G
+
+Head up through the center of town; we're going to pick up the other hidden
+chests that we couldn't get with Brandt and Yunita.  At the weapon shop, go
+through the hole on the right side, then continue to the right to find an
+<ANIMATE TONIC> in a hidden chest (7/8).  Head over to the top left corner of
+town and enter the hole near the Northern magic shop; along the water's edge,
+behind the locked door building, you can find <DIRT DIRK> in Guera's final
+hidden chest (8/8).
+
+If it's not night, head outside and wait for night to fall, then come back
+inside to Guera.  If the spells above pique your interest, you can find the
+magic shop through the hole on the left side of the item shop, again, only
+during the night.  When you're ready, speak to Brandt outside of the inn to
+get him to join the party.  With Brandt in tow, head out to the overworld.
+We're going to the Northwest corner of the desert, inside Fairy Path.
+
+
+   ~ Fairy Path ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Batter Fly          |  46-52   |  8  | Topaz, Lapis      | Alarm Clock
+
+Use the map to the right to bump your     EXIT
+way through the dark tunnel.  Hang a        |
+left at the first intersection for the      |  [2]
+<SPIRIT RING> chest, then keep pressing     |___|__    [1]: <SPIRIT RING>
+up and right until you reach the top               |   [2]: <SPRING GAUNTLETS>
+wall, and go left until you reach the     [1]______|
+indentation for <SPRING GAUNTLETS>.                |
+Feel your way to the left corner, then             |
+walk up to the exit, slightly alit with            |
+the exit shining through.                      ENTRANCE
+
+Walk North to Arbor, past the forest in the area.
+
+
+   ~ Arbor ~
+
+Walk into town, and we'll be shifting gears to Jusqua's quest.
+
+
+   ~ Liberte ~                                                        [09cfaq]
+
+Talk to the cat four times to have this cat join the party.  With that, exit
+town and head North to the Hunting Caves.  You can speak with the king if you
+want, to learn our next destination is Urbeth, but we're going there anyway.
+
+
+   ~ Hunting Caves ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Hellhound           |  47-56   |  8  | Sapphire          | BombFrag., LoneWolf
+Succubus            |  46-68   |  9  | Sapphire          |
+
+         ______
+        |  ____ EXIT          [1]: <ETHER>                     [3]: <HI-ETHER>
+        | |                                 [2]: <THUNDER AXE>
+   _____| |_____         _________         D         ________      __________
+  |  _________  |       C___   ___A    ___| |___    |___D___[2]   |   [3]    |
+  | |         | |____       | |       C_________E                 |          |
+  | |         |  ____A       B                      __________    |          |
+  | |_________| |                      ________    |____   ___E   |____F_____|
+  |_____   _____|                     [1]__B___|        | |
+        | |                                              F
+        | | ENTRANCE
+
+      FLOOR 1F           FLOOR B1      FLOOR B2      FLOOR B3       FLOOR B4
+
+I'd suggest heading straight for the exit at this point in time.  Those
+Hellhound type enemies are particularly tough without fire protection, which
+we can pick up shortly after reaching Urbeth.  When you do want to explore,
+there's your maps, above.  You can, once again, save a torch by bumping into
+the walls and feeling your way through.
+
+Once reaching the overworld, head North, then bank Northwest.  You'll be
+coming along Urbeth soon.  Just be aware of any Hellhound encounters; they're
+often mixed with a beefed up Lizardman companion.  Just don't go East, since
+the world does wrap around itself on foot.
+
+
+   ~ Town of Urbeth ~
+
+   Urbeth Item Shop #1
+          Potion              20 G            Hi-Potion           40 G
+          Antidote            20 G            Gold Needle         50 G
+          Echo Herbs          20 G            Animate Tonic       30 G
+          Eye Drops           20 G            Alarm Clock         20 G
+          Cross               50 G            Remedy             400 G
+   Urbeth Item Shop #3
+          Potion              20 G            Hi-Potion           40 G
+          Torch               10 G            Dragon Wing         60 G
+          Antidote            20 G            Animate Tonic       30 G
+          Gold Needle         50 G            Eye Drops           20 G
+          Ether             1000 G
+   Urbeth Weapon Shop
+          Steel Sword        200 G            Hatchet            255 G
+          Steel Spear        330 G            Knife              220 G
+          Bolt Sword         700 G            Blue Shot          580 G
+          Encyclopedia       285 G            Cyclone Staff      295 G
+          Burning Harp       970 G            Ice Pick           640 G
+   Urbeth Armor Shop
+          Traveler's Garb    150 G            Black Robe         350 G
+          White Robe         350 G            Bandit Gear        350 G
+          Poet Tunic         350 G            Wood Shield        130 G
+          Flame Shield       350 G            Rock Shield        350 G
+          Darksteel Shield   450 G
+   Urbeth Accessory Shop
+          Power Ring         500 G            Intellect Ring     500 G
+          Spirit Ring        500 G            Giant's Ring       500 G
+          Star Earring       500 G            Turtle Shell       500 G
+          Black Ring         500 G            Confuse Cape       250 G
+          Poison Cape        250 G            Stun Cape          250 G
+   Urbeth Magic Shop   (NIGHT ONLY)
+          Fire Tome          500 G            Fira Tome         1500 G
+          Firaga Tome       5000 G            Water Tome         500 G
+          Watera Tome       1500 G            Waterga Tome      5000 G
+          Cure Tome          500 G            Raise Tome        1500 G
+          Shell Tome        1000 G            Protect Tome      1000 G
+   Urbeth Wireless Shop
+          Mammon's Spear    3630 pts          Gae Bolg          4290 pts
+          Trident           7200 pts          Worker's Clothes  1000 pts
+          Silver Suit       1000 pts          Red Jacket        1000 pts
+          Trylion's Cloak   1000 pts          Gem Collector     4000 pts
+          Fortune Egg       3000 pts          Hermes Sandals    6000 pts
+   Inn    50 Gil
+
+The town is split up into quadrants; the Northwest quadrant is for weapons,
+the Southwest quadrant is for items and storage, the Southeast quadrant holds
+the armor, magic and inn areas, and the Northeast quadrant is primarily the
+residential areas, with the accessory shop in the vicinity.
+
+Our goal is to show up during the day time and go to the odd Sorcerer's house
+in the Northeast corner of town.  Agree to both questions and we're left with
+needing to raise 10000 Gil.  The four shopkeepers of Urbeth each have a job
+available for you at this time.  Note that after paying the Sorcerer and going
+to the inn, all but Thauzand's request will be lost.  It's in your best
+interest to do AT LEAST two of the following subquests, specifically for the
+next section; no, repeating Thauzand's subquest twice doesn't count.
+
+Trylion, of the Accessory shop in the Northeast quadrant:
+   Sell three rings; Reward: 2500 GIL
+      1) Man on the dock at the Northeast quadrant
+      2) Woman inside the left house, along the dock, at Northeast quadrant
+      3) Man near the inn/upgrade shop at the Southeast quadrant
+
+Mylion, of the Armor shop in the Southeast quadrant:
+   Give a Bomb Fragment; Reward: 2500 GIL
+      These are random drops from the Hellhounds outside of town
+
+Bylion, of the Item shop #3, at the Southwest quadrant:
+   Defeat the Chimera at Hunting Caves (B1) near the exit; Reward: 2500 GIL
+      42-70 HP, gain 8 Exp, drops Sapphire gem
+
+Thauzand, of the Weapon shop at the Northwest quadrant:
+   Run a shop; Reward: whatever you can profit; repeatable
+      This is the easiest method, but you may need to do Trylion's quest to
+      gain enough capital to start selling items.  Head over to Item shop #3
+      and buy a max of six Ethers, putting them all in storage.  Head up to
+      the Weapon shop and open a counter, ignoring the current trends of the
+      moment.  Put up all your Ethers for sale, focusing on the bigger "pair"
+      slots if applicable; mark those as 5000 Gil and add the "hot item" tag
+      to it, ignoring any empty slots.  Then wait for people to buy them,
+      pocketing the profit.  Repeat as needed to pay the Sorcerer's 10000 Gil
+      fee, to lift the hex on the cat following Jusqua.
+
+   ! SEAMSTRESS CROWN is available by doing well in Thauzand's sidequest.
+   To do so, you need to raise the maximum amount of money, only doable with
+   10 single slot items; you need to sell all 5000 Gilx3 items, 1000 Gilx3
+   items and 500 Gilx4 items.  It's easiest to do if you take a loss, such as
+   selling those Firaga/Waterga Tomes for 1000 or 500 Gil, pretty much
+   guaranteeing those sales; do note that that's an extreme example.  You'll
+   have to hope the shoppers buy the remaining books at market value if you do
+   this example, though.  It's available anytime Jusqua is in town, so feel
+   free to skip it until you have better items to sell.
+
+When you have the money, head back to the Northeastern corner and pay the
+Sorcerer, then do as suggested and head to the inn, noting it costs 50 Gil
+per night, in case you just had enough to cover the hex removal fee.  Now
+would be a good time to start our customary hidden treasure chest hunt.
+
+Starting from the Sorcerer shop and going clockwise around town, go inside the
+Accessory shop and examine the right shelf, left-hand side, for <HI-POTION>
+in the hidden chest (1/8).  Head South, near the dock, and enter the right
+house, checking the center of the cabinet in the back room for <POTION> (2/8).
+Head to the dock, examining the suspicious crate against the wall for an
+<ALARM CLOCK> (3/8).  Head to the Southeast quadrant, go inside the inn and
+head upstairs on the lefthand side; check the bathtub for <HYDRAXE> (4/8).
+Cross the bridge to the West and, on this side, head down to the riverbank.
+Step into the water and go all the way up and left, behind the tower as far as
+you can go to find <ZEUS'S WRATH> (5/8).  Get out of the water and go to the
+Southwest quadrant's Item shop #3.  Upstairs, to the right of the doll looking
+thing, you'll find <GREAT TREE LOG> (6/8).  Head outside and go North a bit to
+find a diner or restaurant; check the barrels at the left counter to find a
+<CROSS> (7/8).  Our final hidden chest is to the West of the diner place.
+Examine the set of barrels on the upper row, finding yourself not able to get
+to the barrels themselves, and we'll find a <HI-POTION> (8/8).  Head back to
+the inn and rest to progress the storyline.
+
+Enemy               |    HP    | Exp |   Gem  /  Drop    |       Steal
+--------------------|----------|-----|-------------------|--------------------
+Chimera             |  34-69   |  8  |                   | Phoenix Down
+Cowpel              |  38-55   |  7  |                   | Ocean Stave
+Hellhound           |   <66    |  8  |                   | Bomb Fragment
+Rock Golem          |  66-81   |  9  | Sapphire          | Bomb Fragment
+Succubus            |   <56    |  9  | Sapphire / Tranq. | Hi-Potion
+   BOSS
+Demon               |  400-66  | 60  | Sapphirex3, Emrld | Hi-Potion
+
+There's four spiral enemies to deal with, each going against the Merchants
+running the town.  First, go to the Northwestern quadrant and speak to Yunita,
+hanging out near the statue.  We need to get her equipped, so head to the
+Armor shop in the Southeastern quadrant first.  A Hellhound and Cowpel are
+guarding the entrance.  Equip Yunita with current equipment, making sure to
+buy at least one Darksteel Shield; two would be ideal.  She's not staying
+long, so if the shield is all you can get her, that's fine.  Next stop, check
+the Accessory shop in the Northeast quadrant for any additions you'd like
+for both Jusqua and Yunita; it's guarded by a Chimera and Succubus.  Ignore
+the Weapons on your way to Item Shop #3, since those double spirals signify
+a much stronger opponent.  Item Shop #3 is guarded by a single Rock Golem,
+and stock up on any items you may need.  Now head over to the Weapon shop
+and gear up for the boss.
+
+Demon strategy:
+As mentioned, equip those Darksteel Shields to minimize damage.  Demon has two
+forms: an open eye and a closed eye, beginning the battle with a closed eye.
+In this form, Demon does basic attacks and throws out a Dakra spell, which
+does 60-90 dmg without the shield equipped.  Continue attacking with any light
+based weapons you may have to increase damage and keep your heals up.  Soon,
+Demon will switch to an open eye form, which will allow use of Blade Blitz
+and slightly more chances of getting hit by a Dakra spell.  The former hits
+all party members and will continue switching back and forth between the two
+forms.  Demon throws out a Cure spell on itself after getting down to about
+10% of its life remaining, healing for about 20% or so.  Keep up the attacks
+and heals and we'll move on.
+
+Gain MERCHANT CROWN and SALVE-MAKER CROWN with the victory.  Go inside the
+Weapon shop and speak to Thauzand, then head to the inn and spend the night.
+Jusqua will set off alone, so head outside of town, take the ship and swing
+North to find the Sorcerer.
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Ikkaku              |  58-85   | 13  | Aquamarine        | Phoenix Down
+
+We're now switching back to Brandt and Aire over at Arbor.
+
+
+   ~ Arbor ~                                                          [10cfaq]
+
+   Arbor Item Shop
+          Potion              20 G            Torch               10 G
+          Dragon Wing         60 G            Eye Drops           20 G
+          Antidote            20 G            Echo Herbs          20 G
+          Alarm Clock         20 G            Cure Tome          500 G
+          Raise Tome        1500 G
+   Arbor Weapon Shop
+          Wood Lance         660 G            Sacred Tree Staff  190 G
+          Red Shot           865 G            Ranger Bow         570 G
+          Stun Stiletto      530 G            Merchant Tunic     550 G
+          Salve-maker Robe   500 G            Great Tree Shield  280 G
+          Sleep Cape         250 G            Silence Cape       250 G
+   Arbor Wireless Shop
+          Mythril Rod       5745 pts          Sage's Staff      6750 pts
+          Vermillion        1000 pts          Hunter Garb       1000 pts
+          Eastern Garb      1000 pts          Dark Armor        1000 pts
+          Garb of Knowledge 1000 pts          Mana Screen       8000 pts
+          Growth Egg        3000 pts          Old Shoes         6000 pts
+   Inn    100 Gil
+
+Another town, another set of hidden treasure chests.  There's a <HI-POTION> in
+the bushes just North from the raccoon at the entrance (1/8).  Head inside the
+tree and go right, checking the long stem mushroom for <EYE DROPS> (2/8).  Go
+up the stairs and check the apples near the item shop for <ECHO HERBS> (3/8).
+There's an <ALARM CLOCK> in the pot above/on top of the item shop (4/8).  Take
+the path up to find the wireless shop, then go to the room to the left.  Check
+the dishes for <BOMB FRAGMENT> (5/8) and the top of the long stem mushroom
+for <POTION> (6/8).  Examine the apples behind the wireless shop, along the
+back wall for another <POTION> (7/8).  Continue going up to the Queen's room,
+examining the stairs to the right, leading to the Summit, for the last hidden
+chest with <PHOENIX DOWN> (8/8).
+
+Our goal is way back near the inn, where the Eye Drops were.  You might want
+to bring along fire type weapons for this next area.  When ready, head down
+into the Great Tree Roots.
+
+
+   ~ Great Tree Roots ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Jack Lantern        |   50-5   |  8  | Lapis             | Potion
+Mandragora          |   52-9   |  7  | Lapis             | H.Potion, Stun Ring
+Myconid             |   52-77  |  7  | Sapphire, Lapis   | Potion
+
+ ENTRANCE
+       ______?                           A
+             |                       ____|____          [1]: <GREAT TREE HARP>
+        _____|____                __|         |            [2]: <PHOENIX DOWN>
+       |          |__          __|         ___|___         [3]: <ANIMAL STAFF>
+       |             |__      |           |___    |  [3]
+       |                |    [2]              |__     |___
+       |___[1]          A                    ____|____|
+                                            |
+
+Head right and speak to the mouse at the point marked with a "?" in the above
+maps; Torte will join the party.  Our goal is to pick up the Animal Staff,
+which Torte says has the power to heal Brandt.
+
+At the first intersection, head left to grab <GREAT TREE HARP>, then head back
+and to the right for the stairs.  Again, head left to grab a chest with
+<PHOENIX DOWN>, then head back and go right.  At the next intersection, take a
+left, then take a right at the next intersection.  Go all the way up to claim
+the <ANIMAL STAFF>.  Exit out of the Great Tree Roots.
+
+
+   ~ Arbor ~
+
+Go outside of the tree trunk and use the Animal Staff on Brandt.  Go inside
+the tree trunk, climb up to the top and speak to the Queen.  Agree to help
+them find Arbaroc.  Picking up a Red Shot for Brandt is highly recommended
+before setting out.
+
+From the Queen's throne, take the left exit out and climb up to Great Tree.
+
+
+   ~ Great Tree ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Huginn              |  51-62   |  8  | Lapis, Aquamarine | Eye Drops
+Rattatox            |  52-6    |  9  | Lapis             | Wind Dagger
+   BOSS
+Arbaroc             | 475-515  | 342 | Tpazx2, Amthystx2 |
+
+       FLOOR 1F               FLOOR 2F                   FLOOR 3F
+               ___[1]       C                        D
+          A___|___       ___|___B___           [3]___|___   |__           I
+              |                     |                    |  |  |      H   |
+         _____|    B              __|___           E_____|    ---     |   |
+        |  |       |        E____|                          ___|   ___|___|
+    ____|  |_______|             |                         |      |       |
+ ENTRANCE      |                 | H____[6]      F____     G______|       |
+               |              ___|                    |____|
+                             |                   K         |____[4]
+                        F    |     A____[2]      |
+                        |____|__                [8]
+                                                           [1]: <PHOENIX DOWN>
+                                                           [2]: <WIND CAPE>
+                ______        BOSS              J          [3]: <PHOENIX DOWN>
+               |  |            |                |     G    [4]: <HI-POTION>
+  |            J  |    [7]     |____    __   ___|     |    [5]: <PHOENIX DOWN>
+  |_______        |_____|           |  |    |         |    [6]: <MIMIC>
+  |    |             |           K  |__|____|  [5]____|         -> WOOD LANCE
+  D    C             I           |_____|__|                [7]: <ETHER>
+                                          |___[9]          [8]: <FAIRY CAPE>
+ Transitory    Transitory                                  [9]: <HI-POTION>
+   2F-3F         3F-4F                FLOOR 4F
+
+Head to the right and keep going right at the first intersection.  At the four
+way crossing, go up to grab a <PHOENIX DOWN>, then go left to the stairs at A
+to grab a <WIND CAPE> at 2F.  Backtrack to the first intersection, taking the
+path down this time, and continue across to the stairs at B, leading to 2F.
+
+Go left and up, through the doorway, to enter an inside area, between floors
+2F and 3F.  Go left then down to D to come out near a <PHOENIX DOWN> chest.
+Go right and around to the stairs at E, to go back down to 2F.  From here, go
+all the way down, then left, to the stairs at F to reach Floor 3F.
+
+Go right, detouring down to grab a <HI-POTION>, then back up to the stairs to
+Floor 4F.  Take the <PHOENIX DOWN>, take the stairs back to 3F and head to the
+right.  Take the first path up for stairs leading to a <MIMIC> encounter; the
+prize for winning is a WOOD LANCE.  Go back to Floor 3F, swing around to the
+upper right entrance into another inside path, straddling Floor 3F and 4F.
+Grab the chest to the right for an <ETHER>, then go left and down to reach 4F.
+
+Head as far down as you can to grab the <HI-POTION> in the chest, then at the
+first intersection, go as far left as you can, taking the stairs to 3F for a
+chest holding <FAIRY CAPE>.  Go back to 4F, go right, up then left and hit up
+the save point before the boss battle through the hole.
+
+Arbaroc strategy:
+Make use of the Wind Cape and Fairy Cape, with the Wind Cape going to your
+healer and the Fairy Cape going to either of the remaining two.  Keep a
+Healthgiver active, particularly when Arbaroc is in the air, since that's when
+it'll use Thundagaa and Airstorm to deal damage to the whole party.  While on
+the ground, Arborac gets its usual two attacks with a regular attack and at
+times a Leafra spell.  If Torte is attacking rather than healing, stick him
+using Blizzard since he's not initially setup to do any physical attacks.
+Brandt should be doing upwards of 30 dmg with Red Shot equipped.  Just keep
+your HP values in check, accounting for the worst case scenario of two
+Thundagaa spells in a single turn, thus having your HP above ~40 most of the
+time; hence heavy dosages of Healthgiver-> Cure.  Levels ranged between 17-19,
+with Arbaroc's steal being a Phoenix Down.
+
+After the battle, you'll gain ELEMENTALIST CROWN and RANGER CROWN.  Also, rob
+Torte of everything he has; if you don't have inventory space, that's fine.
+You can take the magic circle back to the beginning of the area, head back to
+Arbor's Storage shop and clear up some space, then rob Torte blind.  Once
+that's done, talk to the queen.  Torte leaves the party and the Animal Staff
+upgrades into the TRANSFORM STAFF.
+
+When you regain control, go back to talk with the queen, then head up the
+stairs to the right for the summit.
+
+
+   ~ Path to Summit ~
+
+No need for a map here, nor an enemy listing.  Wind your way to the top of the
+screen until you change screens.  Use the Transform Staff to turn back into
+animals, then try to jump across.
+
+
+   ~ Overworld ~                                                      [11cfaq]
+
+So, Aire made it and Brandt fell, right?  Bring Brandt South, near Arbor, then
+go West, across the isthmus.  I'd highly recommend switching Brandt to the
+Wayfarer class, as well, solely to be able to run from tougher encounters.
+If you don't have any offensive spells on Brandt, you'll need to do some
+running away, specifically from any Silky enemies.
+
+Once across the isthmus, start your trek to the North, where all the snow is.
+Enter the cave.
+
+
+   ~ Ice Caverns (West) ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Borgbear            |  69-87   | 12  | Aquamarine, Topaz | Giant's Ring
+Lizardman           |  36-75   |  8  | Sapphre, Aqumarne |
+Silky               |  28-46   | 12  | Aquamarine        | Animate Tonic
+Yoton               |  44-80   | 11  | Aquamarine        |
+
+          ___(___A     [2]___      A              B
+   ______|c               ___)     |  c   |c      |     [1]: <HI-POTION>
+ ENTER   |c__(__[1]      |   )  c__|__|___|       |     [2]: <INTELLECT RING>
+                         B   |        |   |c      ?
+                             |__)__)__|           |
+
+Go to the right, grab the lower candle and put it in the candle holder on the
+bottom path to open the way to <HI-POTION>.  Backtrack to the upper path,
+grabbing the candle along the way and put that in the candle holder to open
+the way to B1 West.  For those having trouble healing, Boost/Cure on Yoton
+or Lizardman enemies, while running away from Silky; the former attacks you
+can easily take a few hits from, especially the Lizardman.
+
+Head down and grab the candle to the left, then go all the way down to melt
+the first ice block.  Grab any of the three remaining candles on the right
+side of the room and use it on the second ice block; repeat for the third
+ice block, denoted by the ) symbol, going up.  Grab the last candle to melt
+the ice blocking the <INTELLECT RING>, then swing to the left to go through
+the door.
+
+Walk down the center until you see a suspicious hole.  Transform into a dog
+and wiggle your way inside, marked as the ? on the above map.
+
+
+   ~ Overworld ~
+
+Now we're in control of Jusqua, on a boat.  Go to the Northwest, surprisingly
+by the snowy area where we just left Brandt.  There's a beach nearby to moor
+the ship, and a cave to explore.  Enter the cave and make use of the save.
+
+
+   ~ Ice Caverns (East) ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Trollud             |  19-50   | 11  |                   |
+Mythritoise         |  62-79   |  9  |                   | Mythril
+   BOSS
+Sorcerer            | 155-60   | 30  | Aquamarine        |
+Behugemoth          | 475-90   | 272 | Amethystx2, Aquam |
+
+                                      [2]_____        Y               T
+ [1]____)____            _c_c_c_    Z      ___(       |     c         |
+            c|_____             |   |     )   |       |     |       __|__
+   Z____)___c|   ENTER    ___)__|___|__(__|   |       |_____|      |BOSS |
+                         |      |         |   |  [3]     |         |     |
+                        c|      |__(__    |c  |   |   ___|___(__   |_____|
+                                              Y   |             |     |
+     W    X    V    U                             |             |     |
+  ___|____|____|____|____      __________         W             X     V
+                              |          |
+                              |          |       [1]: <ETHER>
+                              |          |       [2]: <FLAME SPEAR>
+                            EXIT         T       [3]: <DARKENING HARP>
+
+Head to the left, grab the upper candle and place it in the upper path for an
+<ETHER>, then grab the lower candle and use that to progress further in.
+
+Head left, then up and grab any of the three candles.  Go all the way to the
+right, beyond where you came in and open that pathway.  Head back to grab
+another candle from the upper left corner and bring it with you through the
+newly opened path, then up, to open that ice block.  Head down from here, grab
+the nearby candle, then go through the new path and use this candle to gain a
+<FLAME SPEAR> in the chest beyond.  Go all the way down to the next room.
+
+Head to the far right, grab the candle and go down and right.  Melt the ice
+block and move on to the next area.
+
+Here, take the door one space to the left and grab the <DARKENING HARP> in the
+waiting chest.  Count two doors to the right and go inside, make use of the
+save point and go on through for the boss encounter.
+
+Sorcerer strategy:
+Not much thought here.  You can steal a Potion if you want.  The best he can
+do is poison and confuse you.  Just attack a few times to end the battle.
+
+Behugemoth strategy:
+Here's the real boss.  In the first part of the fight, you can steal a Potion.
+Just survive three rounds and part one will auto-end, and Brandt will join.
+In part two, you can steal a Hi-Potion.  Keep your HP up and attack as if it's
+a regular enemy encounter.  After you drop its HP by half, roughly 250 points
+of damage, Behugemoth's horn will break and will start casting Thundaga every
+turn.  Now it's essential to keep your HP up, and depending on your setups,
+you may need to use items for AP-friendly healing.  If you have Mirror
+opened up, on the Black Mage set of skills, this fight will be a lot easier,
+as well as bringing along an Elementalist.  You can do either before the
+Sorcerer fight if this part of the battle gets too difficult.
+
+After the fight, Brandt officially joins up with Jusqua and you get your
+10000 Gil back from the Sorcerer.  Continue beyond and we'll get to the exit.
+
+Once outside, go East and enter the town you see.  That's Invidia.
+
+
+   ~ Invidia ~                                                        [12cfaq]
+
+   Invidia Item Shop
+          Potion              20 G            Hi-Potion           40 G
+          Torch               10 G            Dragon Wing         60 G
+          Gold Needle         50 G            Animate Tonic       30 G
+          Cross               50 G            Bomb Fragment      300 G
+          Dark Tome          500 G
+   Invidia Weapon Shop
+          Flame Dagger       530 G            Ice Pick           640 G
+          Darkness Blade    1100 G            Darkness Axe      1135 G
+          Red Shot           865 G            Black Book         865 G
+          White Book         675 G            Inferno Stave      390 G
+          Darkness Staff     675 G
+   Invidia Armor Shop
+          Black Robe         350 G            White Robe         350 G
+          Bandit Gear        350 G            Poet Tunic         350 G
+          Elementalist Robe  550 G            Ranger Outfit      380 G
+          Merchant Tunic     550 G            Salve-Maker Robe   500 G
+          Darksteel Shield   450 G            Ice Shield         350 G
+   Invidia Wireless Shop
+          Hades' Bow        6000 pts          Expunger          4500 pts
+          Failnaught        9000 pts          Monkish Garb      1000 pts
+          Gunner's Coat     1000 pts          Cat's Cloak       1000 pts
+          Hestia's Tunic    1000 pts          Mana Screen       8000 pts
+          Energy Screen     8000 pts          Fortune Egg       3000 pts
+   Inn    300 Gil
+
+! BEASTMASTER CROWN is available by doing well in the math game, where the
+polar bear is hanging out.  I'm not sure how many points you need, but I got
+it unlocked with 257 points.  Tips on scoring high: use multiplication
+whenever possible and don't be afraid to skip, since the penalty only seems to
+be around 3 points or so; also, skip anything where all numbers look fairly
+low, even if it's solvable, since whatever shows up at the equal sign is
+added to your point total.
+
+More hidden chest goodness.  Enter the door to your left to be inside the
+Weapon and Storage shops.  Examine the bags near the barrel directly across
+from the Weapon Shop for <POTION> (1/8).  To the right of the Storage shop,
+examine the pot in the fireplace for <HI-POTION> (2/8).  Go right one screen
+to the Wireless shop and inn, checking behind the furnace closest to the
+screen between the two shops for <TRANQUILIZER> (3/8).  Go to the next screen
+on the right, grabbing the <ANIMATE TONIC> on the bookshelf near the locked
+door (4/8).  Go right again to the polar bear math game thing, checking the
+bed at the top left for <ANTIDOTE> (5/8).  Go right again to the Armor and
+Item shop, taking <BOMB FRAGMENT> from the table closest to the screen (6/8).
+Go right to head outside, checking a tree near the man to the left of the
+giant egg; you'll find <POTION> (7/8).  Head up the center stairs to find
+yourself back in the Chief's room, with the locked door, and head upstairs
+using the left set of stairs.  Ignore the person for now, going up the landing
+and checking the teapot there to gain <DARK SIGH> in the last chest (8/8).
+
+Talk to the person we just ignored to have Rekoteh join the party.  Go down,
+then outside and examine the giant egg.  You have two options: 
+   -Find a Mythritoise to gain a Mythril, which you'll trade to the Weapon
+    shop owner for a Mythril Hammer.  To get Mythril, you pretty much need to
+    steal the item as a bandit from the Mythritoise turtles, only available
+    at night.  After giving Mythril to to the Weapon Shop owner, stay at the
+    inn and return to claim your Mythril Hammer.
+   -Get a Firaga Tome way back at Urbeth.
+
+After doing either scenario, you'll fail and Rekoteh mentions needing the
+Dragon Harp.  Talk to the Chief, gain MAGIC KEY, unlock nearby door and enter.
+
+
+   ~ Invidia Underground ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Cowpel              |   41-62  |  7  |                   |
+Orc                 |   70-6   |  7  | Sapphire          |
+Skeleton            |   72-8   | 12  | Aquamarine        | Darkness Axe
+Wight               |   58-96  | 12  | Lapis, Aquamarine |
+   BOSS
+Ice Dragon          |  495-532 | 465 | Amthystx2, Aqumrn | 
+
+           A                         A                          C
+          | |                       | |                        | |
+  ________| |______             ____| |_____           _    ___| |___    _
+ |  _______________|           |__________  |         | |  |  3   1  |  | |
+ | |                                      | |_____    | |  |         |  | |
+ | |______   _________                    |_____  |   | |  |  3   1  |  | |
+ |___   __| |__   __  |    _________   _________| |   | |  |___   ___|  | |
+     | |       | |  | |   |  __   __| |___   _____|   | |______| |______| |
+     | |_______| |  | |   | |  | |________| |         |________   ________|
+     |____   ____|  [1]   [2]  |____   _____|                  | |
+          | |                       | |                        | |
+          | |                        B                          B
+       ENTRANCE           [1]: <INFERNO STAVE>        [2]: <BOOK OF SHIVA>
+
+From the entrance, keep going right, then head down for an <INFERNO STAVE>.
+Go left this time, then up to reach the stairs down to B2.
+
+In B2, go right, then down and then to the left.  There's a <BOOK OF SHIVA>
+for the taking, then head down the stairs to B3.
+
+There aren't any enemies in this room, so feel free to take your time.  The
+left and right dragons gives hints for the puzzle, both along the wings.  Or
+you can ignore the hints and press the switches the number of times listed
+in the map above, to open the path to where the boss lies.  Hit up the save
+before stepping through the next set of stairs.
+
+Ice Dragon strategy:
+Levels ranged between 18-20.  Ice Dragon resists dark based attacks and can
+absorb or reflect all water based attacks; too bad that's what they sell in
+town, no?  Steals are predominately Potions, but there's a rare steal for a
+Stream Cape, the first time I've seen a different potential boss steal.
+Equip everyone with either Darksteel or Ice Shields to minimize damage from
+Ice Dragon's attacks.  While on equipment, remove Rekoteh's Shark Lance and
+give her that Inferno Stave, if you have nothing else, just so she's not dead
+weight in this fight.  Once you're setup, keep your heals up and hammer away,
+literally if you have the Mythril Hammer, and we'll come out with the win.
+
+For your victory, gain the FIGHTER CROWN as well as the SCHOLAR CROWN, and our
+main reasons for coming down here, the DRAGON HARP.  Head outside to Invidia.
+
+
+   ~ Invidia ~
+
+Go outside of the Chief's home and examine the giant egg.  Ride the newly
+hatched dragon to Spelvia.  Be sure to strip Rekoteh of all her belongings
+since she's not coming back after this point.
+
+
+   ~ Town of Urbeth ~                                                 [13cfaq]
+
+   Urbeth Item Shop #2
+          Bomb Fragment      300 G            Antarctic Wind     300 G
+          Gaia Drum          300 G            Raven's Yawn       300 G
+          Zeus's Wrath       300 G            Dark Sigh          300 G
+          Holy Breath        300 G
+
+We're back in control of Yunita.  Head outside and talk to Thauzand at the
+Weapon shop at the Northwest quadrant.  Say no, you're not looking for Jusqua
+to gain STEEL SWORD+5.  Head to the Accessory shop and speak to Trylion to
+gain TRYLION RING.  Check out Bylion at the Item shop for a free POTION.
+Head out of town and go near the Hunting Caves, getting into battles as a
+Bandit until you find Mythritoise in the forest; steal a Mythril and trade it
+to Mylion at the Armor shop for RAINBOW BOOTS.  Now we're ready.
+
+For those wondering, that second Item shop is that locked shop below Storage.
+Enter the giant tower in the center of town.
+
+
+   ~ Tower to the Sky ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Cowpel              |   54-87  |  7  | Saph, Aquamarine  | Phoenix Down
+Gargoyle            |   54-62  | 10  | Sapphire          |
+Hellhound           |   39-54  |  7  |                   |
+Lizardman           |   33-62  |  7  | Sapphire          |
+Orc                 |   58-74  |  7  | Sapphire          | Steel Spear
+Succubus            |   47-63  |  9  |                   |
+
+         FLOOR 1F           FLOOR 2F         FLOOR 3F         FLOOR 4F
+
+         A   BACK_____     __________     _____________     _    _    _
+    _   | | |ENT _    |   |___   __  |   |  ___   ___  |   |E|__| |__| |
+   | |__| | |   | |   |       | |  | |   | |   | |   | |   |  __   __  |
+   |  __  | |   | |   |   [2] |_|  | |   |B|   | |   [3]   |_|  |_|  |D|
+   | |  |_| |   | |   |   | |______| |         | |
+   | |      |___| |[1]|   |B_________|    _____| |_____     _________
+   | |________________                   |C___________D|   |C________[4]
+   |______   _________|
+          | |            [1]: <RED SHOT>   [2]: <CURA TOME>   [3]: <DARK CAPE>
+        ENTRANCE     [4]: <STAR EARRING>   [5]: <RAISE TOME>      [6]: <ETHER>
+                     [7]: <HI-POTION>      [8]: <SOIL CAPE>     [9]: <500 GIL>
+    _     _            
+   |E|___| |___[5]       [6]       [7]   [8]      [9]        _     ________
+   |  ___   ___  |    ___| |___    | |___| |    __| |___    |J|   |  EXIT  |
+   | |   | |   |_|   |  _____  |   |  ___  |   |  ____  |   | |   |        |
+   | |_  | |_____    | |     |F|   |G|   | |   |H|    | |   | |   |        |
+   |___| |______F|   |G|            _____| |       ___| |   | |   |        |
+                                   |H______|      |I____|   |I|   |____J___|
+
+       FLOOR 5F        FLOOR 6F     FLOOR 7F    FLOOR 8F     FLOOR 9F-10F
+
+First we'll hit up the back entrance.  Head back outside to Urbeth and go down
+into the water, where we picked up the hidden chest with Zeus's Wrath.  Go in
+the back of the tower and take the opening on the right to grab the <RED SHOT>
+here, then go back outside to the main entrance.  Swing up to the left and
+take the stairs to 2F.
+
+Take the perimeter all the way around, going beyond the stairs to grab a
+chest with <CURA TOME>, then head back to the stairs to 3F.  Go across to
+claim a <DARK CAPE>, then take the center path down and head left and take
+those stairs to 4F.  Walk to the right, gain the <STAR EARRING> then take the
+stairs back to 3F.  This time walk to the right to go back to a different part
+of 4F, going all the way to the left, then up to the stairs leading to 5F.
+
+Head all the way to the right, then take the chest above you for <RAISE TOME>.
+Take the center path down, then right, and we'll reach 6F.  Go up, take the
+center doorway to find a chest with <ETHER>, then continue back down to the
+left to 7F.  There's two doors with treasure behind them here, containing
+<HI-POTION> in the left door and <SOIL CAPE> in the right.  Go down and take
+the stairs to your left to 8F.  Another room with treasure, holding <500 GIL>,
+in the center, then circle around to the stairs to 9F.  Hit the save along
+the path and continue beyond.
+
+And this is why we traded for those Rainbow Boots back at Urbeth.  You don't
+have to equip them to walk on the rainbow, either; just have it in Yunita's
+inventory.  Walk up the rainbow to Spelvia.
+
+
+   ~ Spelvia Dungeons ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Cloud Penguin       |   70-8   | 11  | Aquamarine        |
+Golem               |   81-7   | 11  |                   |
+Medusa              |    <88   | 12  | Aquamarine        |
+Mimic               |    <93   | 79  |                   | Steal: Hi-Potion
+Wight               |   78-85  | 12  | Lapis, Aquamarine | Potion
+
+                   _____
+    _________     |  _  | [1]
+   |___ D ___|    |B| | | | |                  [1]: <PHOENIX DOWN>
+       | |         ___| |_| |                  [2]: <SHINING AXE>
+       | |        |  _____  |          _____   [3]: <MIMIC> -> SHINE CAPE
+    ___| |___     | |  _  |_|    [2]  |  _  |  [4]: <MIMIC> -> BOOK OF RAMUH
+   |  _____  |    | | | |  _     | |  | | | |          _
+   |B|     |C|    | |_| |_| |    | |  | | |C|    [3]  |D|  [4]
+                  |_______  |    | |__| |___     | |  | |  | |
+    _________      _______| |    |  ______  |    | |__| |__| |
+   |     !  A|    |___   ___|    | |      | |    |____   ____|
+   |         |     ___| |___     |_|      |_|         | |
+   |         |    |    !    |                         | |
+   |ENTRANCE |    |A________|                         EXIT
+
+Well, it's not quite Spelvia yet; we're in the dungeons.  Go to the upper
+right corner, making use of the HP healing in the pot near the stairs.  Head
+up the center path and take note of that suspicious cat.  Yay, it's Aire!
+We're no longer flying solo.  Go just beyond there and we can save.
+
+From the save, go up and take the first left, then head up and take the first
+right.  Keep going to the right and head up to grab a chest for <PHOENIX DOWN>
+inside.  Backtrack to take the passageway up, to the left of the chest, and
+take the stairs up to the next floor.
+
+Go all the way to the right and take the stairs back to B3 for a new area.
+Head down then left, taking the path up for treasure holding <SHINING AXE>.
+Take the stairs back to B2, this time taking the center path up to the stairs
+heading to B1.  Walk down and take the left path to a set of stairs holding
+a treasure chest with <MIMIC>; winning nets you a SHINE CAPE.  Go back up to
+B1 and head to the far right, taking the stairs here to find another <MIMIC>
+hiding in the chest, this time giving up BOOK OF RAMUH upon victory.  Go back
+to B1 and take the lower path to the exit.
+
+
+   ~ Spelvia ~                                                        [14cfaq]
+
+   Spelvia Item Shop
+          Potion              20 G            Hi-Potion           40 G
+          Remedy             400 G            Ether             1000 G
+          Black Ring         500 G            Flame Shield       350 G
+          Ice Shield         350 G            Darksteel Shield   450 G
+          Fossil Cape        500 G            Curse Cape         500 G
+   Spelvia Weapon Shop
+          Shining Blade      900 G            Shining Axe       1135 G
+          White Book         675 G            Shining Staff      485 G
+          Stardust Bow       960 G            Shining Harp       860 G
+          Elementalist Robe  550 G            Ranger Outfit      380 G
+          Fighter Gi         550 G            Scholar Crown      700 G
+   Spelvia Magic Shop
+          Fire Tome          500 G            Fira Tome         1500 G
+          Water Tome         500 G            Watera Tome       1500 G
+          Banish Tome        500 G            Banishra Tome     1500 G
+          Banishga Tome     5000 G            Cure Tome          500 G
+          Cura Tome         1500 G            Raise Tome        1500 G
+   Spelvia Wireless Shop
+          Lamia Harp        6900 pts          Angel Harp        6600 pts
+          David's Harp      6000 pts          Stiletto          4680 pts
+          Sasuke's Kodachi  4680 pts          Main Gauche       6180 pts
+          Tonberry Knife    7680 pts          Modern Dress      1000 pts
+          Replica Plate     1000 pts          Hermes Sandals    6000 pts
+   Inn    FREE
+
+Let's start on the hidden treasure chest hunt.  Right from the start, after
+exiting from the dungeons, examine to your left for a <REMEDY> (1/8).  Go
+South and head behind the tombstone, facing the main town of Spelvia and
+examine that spot for <SHINING HARP> (2/8).  Get off the tombstone platform
+on the right side and check the area there, behind the pool of water, to get
+<HOLY BREATH> (3/8).  Head inside the main town.
+
+Notice all the Golems?  If you want to interact with them, to you know, buy
+items, access the storage area or use the inn, you'll need to do so as an
+animal.  With that out of the way, let's continue our hidden chest hunt.  Go
+behind the item shop, entering near the save, to find <INDRA'S SPEAR> (4/8).
+Go through the door on the right to find the inn and examine the candles at
+the bottom left corner for <ANIMATE TONIC> (5/8).  Continue through the upper
+door and check the broken pillar nearest the screen for <DARK SIGH> (6/8).
+Continue through the center door, head through the hallway, then find the
+wing leading off to the left; at the end of the path is a <DRAGON WING> (7/8).
+Now try and find the right wing, a little further in from the left wing, and
+grab the chest behind the pillar for <COURAGE RING>.  Continue up to the door
+and check the plant on the left side for the last hidden chest, holding some
+<ECHO HERBS> (8/8).
+
+Head back to the throne room and speak to Rolan.  Then, head outside and enter
+that pool of water near the tombstone and the Holy Breath hidden chest.
+
+
+   ~ Rolan's Soul ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Wight               |  49-92   | 12  |                   |
+Doppleganger        |   <67    | 12  | Aquamarine        | Cursed Blade
+Silky               |  25-64   | 12  | Aquamarine        |
+   BOSS
+Geri                |  434-71  | 260 | Ruby, Amethyst    |
+Freki               |  445-59  | 260 | Lapis, Amethyst   |
+
+    _    _|C|_    _         1  2  3   4      6         7       10    11  END
+   |B|__/  _  \__|D|   B   /   |   \   \    /   6-7   /   9-8   \    /   /
+   |  __  /A\  __  |      2    3    4   5  5         8           9  10  11
+   |_|  \ \ / /  |_|
+         \ v /[1]              2  4   5         6  7  9    10          END
+      ____| |____      C  1-2  |   \   \  5-6  /   |   \    |   11-10   |
+     |    | |    |             3    3   4     7    8    8   9          11
+     |     !     |
+     |           |        2  2    4  5      5  6         8  10         END
+     |____   ____|     D  |   \   |   \    /   |  7-8   /   /   10-11    \
+          | |             1    3  3    4  6    7       9   9              11
+        ENTRANCE
+
+Speak to Rolan near the stairs to get him to join the party.  Go behind the
+stairs and open the chest for <HERO ARMOR>.  Climb up and enter each of the
+above doors, ignoring the center, lower door, since it's blocked off at the
+moment.
+
+In each of these rooms, the room goes off in all sides forever.  The goal is
+to "speak" to each of the silhouettes as they move around the room, at which
+time, enemy encounters seem to be turned off.  The order they move can be seen
+above, visually, or if you're familiar with numpad notation, then as follows:
+
+   B: 12339614799              C: 62776127848                D: 83871861967
+
+Once you clear each of the rooms above, enter the once blocked off lower,
+center door, and go inside.  Talk to that Rolan and we get a boss fight.
+
+Geri and Freki strategy:
+Equip Fire and Ice Shields, giving your main healer a Flame Shield and Stream
+Cape combination.  Also while setting up, take Rolan's Thundara Tome, since he
+won't be staying around after the fight, thus don't give him anything you
+don't mind losing.  Steals are Hi-Potions from both of bosses.  If you haven't
+noted how the auto-targetting system works just yet, spells start with the
+enemies on the right and physical attacks start from the left.  Thus, stick
+with fire-element spells to quell Geri, and lower its breath attacks, while
+continuing to hammer away at Freki.  If one of them falls, you have three to
+four turns before the boss who dies auto-resurrects itself at half of its
+original HP.  You'll need to beat them both to end the battle.
+
+
+   ~ Spelvia ~
+
+After winning the battle, the world falls into darkness and you get to reunite
+with your other party members, Brandt and Jusqua.  Head to the inn to rest up,
+remembering to change forms into an animal to be allowed to rest and use the
+various shops if you need to re-equip the party.  Use the save, too.
+
+Head to the throne room and we'll get another boss fight.
+
+BOSS                |    HP    | Exp |        Gem        |      Steals
+--------------------|----------|-----|-------------------|--------------------
+Rolan               |  785-819 | 756 | Diamndx2, Amytsx2 | X-Potion, Lghtbrngr
+
+Rolan strategy:
+Equip everyone with Darksteel Shields and either take a Black Mage with Mirror
+or an Elementalist with Mysterio; the Mirror option leads to enemy heals of
+20-30 HP for every time Rolan uses a dark spell, while the Elementalist route
+leads to around 10 damage across the board for each party member, so pick your
+poison.  Either addition helps lower overall damage, leaving you with dealing
+with the thunder spells, healable with either a White Mage using Healthgiver
+or a Salve-maker using Dispensary and Healthcare with Remedy use.  That leaves
+your other two party members with whatever attack type you're most comfortable
+using.  If you want one of the steals, then you'll need a Bandit; it seems to
+be predominately X-Potion steals, with that Lightbringer as one of the rarer
+steals.  Keep up heals and damage dealing and Rolan will fall.
+
+After the battle, gain access to PARTY HOST CROWN and HERO CROWN.  Go outside
+and talk to Witch of the Sky, the character near the pool that led to the
+inside of Rolan's Soul.  Talk to the dragon and we're going on a world tour.
+And searching for those legendary weapons of Rolan.
+
+
+   ~ World Tour ~                                                     [15cfaq]
+
+The following include all the shop upgrades after darkness has spread across
+the land.  Use the upgraded shops to gear up with the best equipment you can,
+or to suit your needs depending on which legendary weapon you're going to go
+for to begin with.  Also added are any locked doors in the various towns,
+assuming they have treasure to take.
+
+When ready, head to the next couple sections, since they can be handled in
+any order you wish.  You'll need to go through all of the following sections
+eventually, however.  I'll be listing them in the order of crown acquisition,
+though it may not be the best order to tackle the next events in.
+
+
+   ~ Town of Horne ~
+
+Head to the windmill one screen up from the entrance and unlock the door.  Go
+inside and take the <X-POTION> and then the <HI-ETHER> upstairs.  Head over
+to Castle Horne to the West, enter the center door on the first level and go
+inside the locked cell to claim the <SOUL OF THAMASA>.  We're done here.
+
+
+   ~ Guera ~
+
+   Guera Item Shop                (AFTER DARKNESS FALLS)
+          Hi-Potion           40 G            X-Potion           400 G
+          Ether             1000 G            Remedy             400 G
+          Dragon Wing         60 G            Torch               10 G
+          Poison Cape        250 G            Fossil Cape        500 G
+          Stun Cape          250 G
+   Guera Weapon Shop              (AFTER DARKNESS FALLS)
+          Wind Foil          500 G            Book of Sylph      865 G
+          Book of Titan      380 G            Rock Shield        350 G
+          Black Robe         350 G            White Robe         350 G
+          Spell Fencer Armor 850 G            Hero Armor         750 G
+   Guera Magic Shop               (AFTER DARKNESS FALLS)
+          Berserk Tome      1000 G            Protect Tome      1000 G
+          Magick Tome       1000 G            Shell Tome        1000 G
+          Confuse Tome       500 G            Poison Tome        500 G
+          Break Tome        2500 G            Silence Tome       500 G
+          Flash Tome         500 G            Sleep Tome         500 G
+   Guera Magic Shop #2            (AFTER DARKNESS FALLS)
+          Quake Tome         500 G            Quakra Tome       1500 G
+          Quaga Tome        5000 G            Protect Tome      1000 G
+          Shell Tome        1000 G            Cure Tome          500 G
+          Cura Tome         1500 G            Curaga Tome       5000 G
+          Esuna Tome        1500 G            Raise Tome        1500 G
+
+
+   ~ Liberte ~
+
+   Liberte Item Shop              (AFTER DARKNESS FALLS)
+          Hi-Potion           40 G            X-Potion           400 G
+          Ether             1000 G            Dragon Wing         60 G
+          Bomb Fragment      300 G            Torch               10 G
+          Water Tome         500 G            Watera Tome       1500 G
+          Waterga Tome      5000 G
+   Liberte Weapon Shop            (AFTER DARKNESS FALLS)
+          Fire Axe          1220 G            Book of Shiva      675 G
+          Flame Spear        640 G            Flowing Harp       640 G
+          Bandit Gear        350 G            Poet Tunic         350 G
+          Monk Robe          850 G            Ice Shield         350 G
+          Holy Shield        450 G
+
+There's a locked door in the northern, town section of Liberte, just past the
+inn.  Inside are three treasure chests holding <SOUL OF THAMASA>, <REMEDY>,
+and <STUNNING HARP>.
+
+
+   ~ Town of Urbeth ~
+
+   Urbeth Item Shop #2            (AFTER DARKNESS FALLS)
+          Drain Tome        1500 G            Confuse Tome       500 G
+          Poison Tome        500 G            Break Tome        2500 G
+          Silence Tome       500 G            Suppress Tome     2000 G
+          Flash Tome         500 G            Curse Tome        2000 G
+          Sleep Tome         500 G            Death Tome        5000 G
+   Urbeth Item Shop #3            (AFTER DARKNESS FALLS)
+          Potion              20 G            Hi-Potion           40 G
+          X-Potion           400 G            Dragon Wing         60 G
+          Remedy             400 G            Ether             1000 G
+          Torch               10 G
+   Urbeth Weapon Shop             (AFTER DARKNESS FALLS)
+          Steel Sword        200 G            Mutsunokami      10000 G
+          Hatchet            255 G            Book of Ifrit      770 G
+          Burning Harp       970 G            Encyclopedia       285 G
+          Magic Staff         95 G            Steel Spear        330 G
+          Horne's Bow        190 G            Harp               220 G
+   Urbeth Armor Shop              (AFTER DARKNESS FALLS)
+          Merchant Tunic     550 G            Salve-maker Robe   500 G
+          Fighter Gi         550 G            Scholar Gown       700 G
+          Party Host Wear    600 G            Hero Armor         750 G
+          Paladin Armor      850 G            Flame Shield       350 G
+          Great Tree Shield  280 G
+   Urbeth Accessory Shop          (AFTER DARKNESS FALLS)
+          Power Ring         500 G            Intellect Ring     500 G
+          Spirit Ring        500 G            Giant's Ring       500 G
+          Star Earring       500 G            Turtle Shell       500 G
+          Black Ring         500 G            Poison Cape        250 G
+          Flash Cape         250 G            Confuse Cape       250 G
+   Urbeth Magic Shop              (AFTER DARKNESS FALLS)
+          Fire Tome          500 G            Fira Tome         1500 G
+          Firaga Tome       5000 G            Cure Tome          500 G
+          Cura Tome         1500 G            Curaga Tome       5000 G
+          Regen Tome        1000 G            Esuna Tome        1500 G
+          Raise Tome        1500 G            Arise Tome        5000 G
+
+
+   ~ Arbor ~
+
+   Arbor Item Shop                (AFTER DARKNESS FALLS)
+          Hi-Potion           40 G            X-Potion           400 G
+          Remedy             400 G            Dragon Wing         60 G
+          Torch               10 G            Leaf Tome          500 G
+          Leafra Tome       1500 G            Leafaga Tome      5000 G
+          Curaga Tome       5000 G            Esuna Tome        1500 G
+   Arbor Weapon Shop              (AFTER DARKNESS FALLS)
+          Red Shot           865 G            Wind Bow           485 G
+          Blue Shot          580 G            Ranger Bow         570 G
+          Book of Dryad      475 G            Great Tree Dagger  440 G
+          Great Tree Shield  280 G            Spell Fencer Armor 850 G
+          Sniper's Ring      500 G            Fairy Cape         500 G
+
+
+   ~ Invidia ~
+
+   Invidia Item Shop              (AFTER DARKNESS FALLS)
+          Potion              20 G            Hi-Potion           40 G
+          Dragon Wing         60 G            Torch               10 G
+          Dark Tome          500 G            Darkra Tome       1500 G
+          Darkaga Tome      5000 G            Blizzard Tome      500 G
+          Blizzara Tome     1500 G            Blizzaga Tome     5000 G
+   Invidia Weapon Shop            (AFTER DARKNESS FALLS)
+          Darkness Blade    1100 G            Fire Axe          1220 G
+          Book of Ifrit      770 G            Inferno Stave      390 G
+          Evil Lance        2070 G            Bloody Bow         865 G
+          Burning Harp       970 G            Darkening Harp     860 G
+          Ocean Stave        295 G            Darkness Staff     675 G
+   Invidia Armor Shop             (AFTER DARKNESS FALLS)
+          Fighter Gi         550 G            Scholar Gown       700 G
+          Alchemist Gown     350 G            Star Earring       500 G
+          Ice Shield         350 G            Darksteel Shield   450 G
+          Flame Gauntlet     500 G            Dusk Gauntlet      500 G
+
+
+   ~ Spelvia ~
+
+   Spelvia Item Shop              (AFTER DARKNESS FALLS)
+          Potion              20 G            Hi-Potion           40 G
+          Remedy             400 G            Ether             1000 G
+          Soul of Thamasa  10000 G            Glimmer Gauntlet   500 G
+          Courage Ring     10000 G            Fossil Cape        500 G
+          Curse Cape         500 G
+   Spelvia Weapon Shop            (AFTER DARKNESS FALLS)
+          Holy Knife        1080 G            Bolt Bow           960 G
+          Shining Blade      900 G            Shining Axe       1135 G
+          White Book         675 G            Shining Staff      485 G
+          Party Host Wear    600 G            Hero Armor         750 G
+          Dancer Clothes     735 G            Holy Shield        450 G
+   Spelvia Magic Shop             (AFTER DARKNESS FALLS)
+          Thunder Tome       500 G            Thundara Tome     1500 G
+          Thundaga Tome     5000 G            Banish Tome        500 G
+          Banishra Tome     1500 G            Banishga Tome     5000 G
+          Invisible Tome    1000 G            Aura Tome         2500 G
+          Magick Tome       1000 G
+
+
+   ~ Guera / Moonlight Tower ~                                        [16cfaq]
+
+We're going after the Shield of Light and the Spell Fencer Crown in this part.
+
+Speak to the King and leave town.  Head to the Northwest to re-enter the
+Moonlight Tower.  Take along some Rock Shields for everyone for this trip.
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Buffohelm           |  130-88  | 17  | Ruby              | Magic Staff
+Cockatrice          |   <175   | 17  | Emerald           |
+Ghoul               |   <171   | 17  |                   |
+Pumpking            |  55-171  | 17  |                   |
+Trollud Zombie      |  58-119  | 17  | Emerald           |
+
+Head to the top floor, taking the top left set of stairs to get you started.
+Find Krinjh, beat the enemies surrounding him, then head to Quicksand Castle,
+over to the East.
+
+
+   ~ Quicksand Castle ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Bullking            |  141-90  | 20  | Topaz             |
+Cockatrice          |  140-9   | 17  | Emerald           | G.Needle, PoisnRing
+Ghoul               |  147-85  | 17  | Emerald           | Hi-Potion
+Minotaur            |  283-339 | 14  | Ruby, Emeraldx2   |
+Neko Natter         |   <185   | 20  |                   | Tranquilizer
+Red Jelly           |   <217   | 17  | Topaz             |
+Wyorm               |   <170   | 20  | Emerald           |
+   BOSS
+King Guera          |   <500   | 100 |                   | Steal: Potion
+Asmodeus            | 2690-820 | 756 | Diamnd, Amthystx3 | Steal: Px.Dwn,A.Wnd
+
+Head upstairs to the boss room; the map layout is exactly the same as the
+first time we were here, with Krinjh.  Check the previous section further up
+for a map on how to get around if you need a refresher.
+
+Once at the boss floor, speak to either character for a battle.
+
+King Guera strategy:
+Spell Focus to Blizzara with a Black Mage.  The other three don't really
+matter as much.  Since we can't switch Crowns between this and the next fight,
+take along a White Mage or Salve-maker and an Elementalist, leaving the last
+slot open for another damage dealer or utility character.  If you have Lux,
+don't waste the AP to cast it here.  You either win in three turns or the
+battle automatically ends with no penalty, other than the missed Exp.
+
+Asmodeus strategy:
+You'll run the whole gamut of status effects in this battle.  Both normal and
+magic attacks seem to add poison, silence, confuse, blind, sleep or curse
+afflictions, so a Healthcare Remedy use might be more in order, in terms of
+AP efficiency.  About every 12% of Asmodeus' HP lost results in a snake break,
+and if you do more than 12% of damage at a time, as in a Spell Focus'd water
+spell, like Blizzaga, then subsequent hits will break them off automatically.
+When all snakes are broken off, Asmodeus will have about 800HP left.  Keep
+up the Mysterio effects, heal your main healer's status and keep your status
+cleared up.  Asmodeus likes to use Firaga, Break and Moonlight Curse, the
+latter of which drops all of your buffs and psyches you down.
+
+Gain SPELL FENCER CROWN after the battle.  Speak to Krinjh to gain a legendary
+item in the SHIELD OF LIGHT and a fancy new icon above Guera.
+
+
+   ~ Arbor / Great Tree Roots / Arbor ~                               [17cfaq]
+
+We're going after the Lux Tome and gaining the Monk Crown in this section.
+
+Enter Arbor and speak to the man in the cape, outside, near the entrance and
+close to the raccoon.  Head down to the Great Tree Roots.  If you need a map
+for the Great Tree Roots area, refer to the first time we've been here, since
+nothing changed between then and now, save a new treasure chest.
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Hobgoblin           |  122-70  | 14  | Sapphire          | HPotion, Tmpst Pike
+Pumpking            |  100-46  | 14  | Ruby              | Hi-Potion
+Vampire Bat         |  125-35  | 14  | Ruby, Topaz       | Potion, Bloody Ring
+
+Head down the path and speak to the mystery character, agreeing to help one
+another.  Follow him down the right side to take the stairs down.
+
+Go down the right side again, then take two lefts.  At the end of the path,
+we'll find a treasure chest with-- oh, the mystery character wants to open it.
+Let him, then watch as he steals the Lux Tome.  Exit out of here and go see
+the Queen.  She'll tell you to go to the volcano, off to the North.  Talk to
+Torte to have him rush off, Lux Tome in tow.  You'll need to fly there using
+your dragon; it's a cave completely surrounded by the mountains.
+
+Before doing so, equip everyone with Flame Shields and water-element weapons
+and/or Spring Gauntlets.
+
+
+   ~ Mount Gulg ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Buffohelm           |  151-230 | 14  | Ruby              | Mgic Stff, EchoHrbs
+Death Trap          |   <216   | 35  | Emerald           | Mythril
+Garm                |  63-152  | 14  | Lapis             | Bomb Fragment
+Minotaur            |  266-350 | 14  | Ruby, Emeraldx2   |
+Nue                 |  127-73  | 14  | Lapis             | Dragon Wing
+Red Jelly           |  100-200 | 14  | Topaz, Emerald    | Mythril
+Vampire Bat         |  125-35  | 14  | Ruby, Topaz       | Potion, Bloody Ring
+   BOSS
+Cube                |  499-517 |  0  |                   | Steal: BombFragment
+Belphegor           |  2333-79 | 756 | Diamnd, Amthystx3 | Steal: BombFragment
+
+[1]: <FLAMEBLADE>           [4]           _____________________B
+[2]: <FIRE AXE>     B________|______     |     |           |
+[3]: <BURNING HARP>       |     |   |    |__D  |    S6     |
+[4]: <FLAME CAPE>         |_____|   S3         |_____|_____|          BOSS
+                          |     |              |   |   |   |      _____|___
+ [2]     [1]____          |_____|__            |___|___|___|           |   |
+  |   _A        |         |        |           |           |     D_____|__ |
+  |  |       |  |         |   [3]  |           |           | E_        |   |
+  |__|       |__|         |____|___|__S2   S5__|_____S4____|___|    ___|___|
+  |  |       |  |       __|____                 _____|_____        |
+  |  |       |  |      |       | [5]: <DEATH   |           |       |______[5]
+  |__|_______|__|      |   S1__|         TRAP> |     C     |           |
+         |         A___|__     |    --> ELF    |_____|_____|           C
+       ENTER              |____|          CAPE
+
+Go all the way right, then all the way up to find <FLAMEBLADE>.  Take the
+perimeter all the way to the top left corner for a <FIRE AXE>.  Backtrack to
+the first path to the right, then go up to find the stairs to 2F.
+
+Head to the right and take the upper path.  Go as far right as you can, then
+head down to flip the switch to change the lava flow.  Go down from here and
+take the path back up, then go back up again.  Head to the right, then grab
+the chest at the first non-blocked off lava path for <BURNING HARP>.  Go down
+and all the way to the right for another switch to change the lava flow.  Flip
+this one, then go up, taking the left path up.  When you hit the wall, go to
+the right, taking the first path up for a <FLAME CAPE>.  The next switch is to
+the right, which would divert the flow of lava to block off the latest chest.
+Continue to the left to take the stairs up to 3F.
+
+Take the second path down, then approach the lower right switch from the left.
+Flip that, then go up and around to the left to hit the far left switch.  One
+last switch to hit in the upper part of the room, then take the stairs up to
+B5 on the bottom most set of stairs, below the first switch you hit in this
+room.
+
+Here, fight the <DEATH TRAP> to your right to claim an ELF CAPE, then snake
+your way left, then right, then back to the left to find a save point.  Go up
+to find the boss.
+
+Belphegor strategy:
+Since we already have Flame Shields equipped, place that Flame Cape on your
+main healer, whether it be a White Mage or Salve-maker.  Also pretty much
+needed is an Elementalist with Mysterio, since we don't want to be Mirror-ing
+fire spells back at Belphegor, since any spell hit causes it to change its
+affinity.  Take any other two classes with you for damage dealing, shying
+away from the Black Mage, though, since we don't want to be casting spells.
+Take out each Cube one by one, then focus on Belphegor.  Don't get too lax on
+your healing, however, since Belphegor's regular attacks can inflict sleep,
+which might cause some trouble if you can't heal that off of your primary
+HP restorer, if Mysterio happens to not be in effect.  When you start seeing
+Belphegor using Cure spells, it'll signify it's near the 40% HP remaining
+point, so just keep pressing your attacks and remain defensive with Mysterio
+use.  Just to reiterate, don't use attack spells.
+
+After the battle, gain MONK CROWN and take the magic teleporter out.  Fly
+back to Arbor.
+
+
+   ~ Arbor ~
+
+Go talk to the Queen and Torte hands you the LUX TOME.  That's one of the
+legendary items we need to collect, signified by the shiny new icon over
+Arbor.
+
+
+   ~ Liberte / Animal Burrow / Liberte ~                              [18cfaq]
+
+We're going after Cestus and the Dancer Crown in this section.
+
+Go to the Northern town screen, enter the house to the left of the house that
+Aire and Jusqua started in and speak to Pione.  Go to the Animal Burrow West
+of town.
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Red Jelly           |  100-200 | 14  | Topaz, Emerald    | Hi-Potion
+Alraune             |  112-57  | 14  | Sapphire          | Hi-Potion
+
+Transform the entire party into animals and get to where the Ogre Bear was.
+You can even enter from the Guera side, if you wanted to make it quicker.
+Examine the far wall to find Lilibelle and help her out of the spiderweb.
+Return to Liberte.
+
+Go back to Pione's house and talk with him.  Go to the inn and rest.  Leave
+town and go to the Pirate Hideout.
+
+
+   ~ Pirate Hideout ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Archelon            |  146-65  | 14  | Topaz             | Turtle Shell
+Demon Ray           |   <181   | 14  | Topaz             | Hi-Potion
+Oceanus             |  143-202 | 14  | Topaz             |
+   MINI-BOSS
+Seadevil            |  866-94  | 14  | Aqumrne, Amthysx2 | Steal: None
+
+Exact same layout, exact same password to enter as previously.  Only main
+changes are the enemy encounters and the spoils.
+
+Head straight to the boss room by taking the right set of stairs, heading
+diagonally down in the next area, diagonally down again, then straight up,
+beyond the save point.  Speak to Pione to begin the boss battle.
+
+Seadevil strategy:
+Well, it doesn't really feel like a boss battle.  Basically, treat it like all
+the other random encounters in the cave, except this one has a ton more HP.
+No steals to worry about since it's not carrying anything.
+
+After the fight, speak to Drake, then head to the stairs to take some booty.
+Clockwise from the stairs, you'll find <FRESH MEAT>, <DANCER CLOTHES>,
+<1000 GIL>, <MONK ROBE>, <DEATH TOME>, <1000 GIL> and a <RUSTY COMPASS> in the
+center.  Exit and go back to Liberte.
+
+
+   ~ Liberte / Overworld ~
+
+Go up to the main portion of town in the North, enter the King's house, that
+teepee looking building near the lighthouse, and place the Rusty Compass in
+the pedastal in the middle of the room.  Gain CESTUS.
+
+While moving around on Cestus, you won't have to worry about random battles,
+unlike on the ship.  Head East, just beyond the Pirate Hideout, then turn
+North, into the bay.  Approach that suspicious spot in the middle to get
+the enemy's attention for the boss fight.
+
+BOSS                |    HP    | Exp |   Gem  /  Drop    |       Steal
+--------------------|----------|-----|-------------------|--------------------
+Leviathan           | 8831-994 | 756 | Diamnd, Amthystx3 | Phoenix Down
+
+Leviathan strategy:
+If you have Lux, use it.  Otherwise, equip Ice Shields on everyone, equip any
+Stream Capes if you have any and equip fire-element weapons and spells, or
+make them into fire-element weapons with the Flame Gauntlet.  Bring the usual
+healer, coupled with a Mysterio wielding Elementalist and go wild with your
+attacks.  After losing 20% of its HP, you'll notice a break message, then at
+about 50% of Leviathan's HP, it'll come out of the water and fly for the
+remainder of the fight.  Two things: Leviathan's regular attacks have a chance
+of inflicting Sudden Death, which will instantly switch one of your characters
+into death status, even if Leviathan's attack actually healed their HP.  The
+other thing is to drop whatever setup you were planning when you notice that
+Leviathan is charging up; have everyone attack to cause the Charge to falter.
+Keep it up and we'll be done with this section.
+
+After the battle, gain DANCER CROWN and officially gaining this legendary
+weapon.
+
+
+   ~ Spelvia / Spelvia Dungeons ~                                     [19cfaq]
+
+We're grabbing the Sword of Light and the Paladin Crown in this section.
+
+Head to Spelvia and go down into Spelvia Dungeons, the cave to the left of
+the main entrance into Spelvia.  Equip Holy Shields on everyone and add
+Stream and/or Dark Capes to your more active healers on the accessory slot;
+the accessory is more for getting through random encounters.
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Ghoul               |   <218   | 26  | Aquamarine        |
+Golem               |   <90    | 11  |                   |
+Kaiser Penguin      |  150-70  | 26  | Aquamrne, Emerald | H-Potion, Glm.Gntlt
+Metal Flan          |  100-80  | 114 | Amethyst          |
+Nidhogg             |  150-80  | 26  | Aquamarine        | Hi-Potion
+
+Go to the lowest floor, where the healing pot is, and where we first entered
+Spelvia when Yunita was alone with the Rainbow Boots.  Speak to Rolan, then
+head back to the surface.
+
+
+   ~ Rolan's Soul ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Doppleganger        | 190-240  | 32  | Aquamrne, Emerald | Ice Pick, FlameDggr
+                    |          |     |                   | CrseRing, CrseBlade
+Ghoul               |  <177    | 32  |                   |
+Wraith              |  <258    | 32  |                   |
+   MINI-BOSS
+Arch Demon          |  1200-33 | 19  | Aquamarine        | Steal: X-Potion
+   BOSS
+Lucifer             | 716-2081 | 768 | Diamond, Amthystx3| Steal: Lightbringer
+                    |          |     |                   | Steal: Holy Breath
+
+Go inside each of the upper rooms and defeat the spiral Arch Demon inside.
+For the upper, left room, from the teleport, the Arch Demon is found to the
+South-southeast.  In the upper, center room, from the teleport, the Arch Demon
+is to the South-southwest.  Inside the upper, right room, Arch Demon can be
+found to the North-northeast.
+
+After beating all three, come back to the main room and speak to Rolan.  The
+dark aura should disappear and he'll go through the lower, center door.
+Follow him in and speak to the characters there to trigger the boss battle.
+
+Arch Demon strategy:
+With the previously equipped Dark Capes, damage should be negligible.
+World of Dark causes Curse and Silence status, while Bladeblitz hits your
+entire party for, again, negligible damage.  The basic attack, attack, attack,
+heal, heal, heal should be more than enough here.  Add an Elementalist's
+Mysterio if there are any problems.
+
+Lucifer strategy:
+Lucifer's normal attacks are light-element, while the Thunder/aga and Aeroga
+spells are light and wind element, respectively; hence the need for the two
+capes mentioned at the beginning of the section.  Buff up resistances using
+Mysterio, but do it often while Lucifer is in the air.  Reason being is that
+Lucifer loves to spam Judgment Bolt, which hits the entire party and drains
+everyone of 5 AP.  Keep your HP totals healthy and go ahead and use up most
+of your AP, rather than saving it up for future turns, since AP might just get
+wiped out with a single attack.  Focus more on offense, pretty much.
+
+After the battle, gain PALADIN CROWN.  Head back to Spelvia's throne room and
+speak to Rolan to gain SWORD OF LIGHT, completing this quest for a legendary
+piece of equipment and gaining a shiny sword icon over Spelvia.
+
+
+   ~ Urbeth / Hunting Caves ~                                         [20cfaq]
+
+We're after the Cape of Light and the Alchemist Crown here.
+
+Go to the Northwest quadrant, enter the Weapon shop and speak to Thauzand.
+Afterwards, head to the Northeastern quadrant, speaking to the Apothecary in
+the same spot where the Sorcerer once was.  Leave town and go to the South,
+to the Hunting Caves.
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Boggle Bear         |  71-195  | 26  | Aquamarine        |
+Fungus              |   <183   | 26  | Sapphire          | Great Tree Sword
+Orc Lord            |  179-292 | 26  | Ruby              | Hi-Potion
+Red Jelly           |   <229   | 23  | Topaz             | Hi-Potion
+Vampire Bat         |   <137   | 23  | Ruby              | Potion
+
+Go down to the lowest floor, where the Hi-Ether on Floor B4 is.  Speak to the
+Apothecary to get into an easy battle against one Orc Lord; check the bushes
+behind him to gain HI-ELIXIR.  Time to head back to Urbeth.
+
+
+   ~ Urbeth ~
+
+Go to the Weapon shop and give Thauzand the Hi-Elixir, then head to the inn
+and rest up.  After waking up, go back to Thauzand and speak to him twice,
+triggering him to run off.  Enter the Tower to the Sky.
+
+
+   ~ Tower to the Sky ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Buffohelm           | 165-235  | 26  | Ruby              |
+Evil Knight         |  153-625 | 26  | Aquamarine        |
+Iron Golem          |  144-83  | 26  | Lapis             | Mythril
+Lilith              |   <240   | 26  | Lapis             |
+Nue                 |  60-259  | 26  | Ruby              | Dragon Wing
+Orc Lord            |  179-292 | 26  | Ruby              | H-Potion, StlSpear
+   BOSS
+Beelzebub           | 2797-821 | 768 | Diamond, Amythyx3 | Steal: X-Potion
+
+Bring along a set of Flame Shields, only equipping them when we're at the
+boss encounter.  Climb to the very top of Tower of the sky, making use of the
+save point along the way.  At the top, speak to the Apothecary to trigger the
+boss fight.
+
+Beelzebub strategy:
+Start with Mysterio and, if you have a Black Mage, make use of Spell Focus to
+Magic Might or the Leaf series of spells.  Additionally, switch everyone to
+neutral element weapons, since Beelzebub is resistant to everything.  With
+the previously equipped Flame Shields coupled with Mysterio, the fire attacks
+shouldn't be doing too much damage, if any at all.  It's when Beelzebub takes
+to the air that's problematic; when that happens, you have two to three turns
+to fully heal your party, since Beelzebub will attack with Fall of Angels,
+a party wide attack that deals in excess of 100 dmg to all.  If your party
+can survive that, you're good to go; use the next few turns to re-heal up, in
+anticipation of another flight.  Once you're sure you can take that hit,
+the battle should be a breeze.
+
+After the fight, gain ALCHEMIST CROWN.  Take the warp out, then head to the
+Weapon shop and talk to Thauzand at the top of the stairs to claim for the
+team the CAPE OF LIGHT, as well as a shiny icon above Urbeth.
+
+
+   ~ Invidia / Invidia Underground ~                                  [21cfaq]
+
+Our goal is to gain the Armor of Light and earn the Shaman Crown here.
+
+Once at Invidia, speak to Rekoteh, near the entrance to the Chief's place,
+outside where the dragon egg used to be.  After taking with her, speak to the
+Chief inside the building.  Now, unlock the door to the left and enter the
+Invidia Underground.  Before going further, equip everyone with Ice Shields
+and Confuse Capes, or some combination affording both water and confuse
+resistances.
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Ghoul               |   <148   | 24  | Emerald           |
+Trollud Zombie      |  124-65  | 24  | Aquamarine        |
+   BOSS
+Ice Dragon          | 1186-286 | 471 | Amthysx2, Aqumrnx2| Steal: Potion
+
+Continue on until you hit the puzzle room, with the dragons again.  Again,
+there don't seem to be enemy encounters in here.  The left dragon gives up a
+hint about moving one dragon once, one dragon twice and one last dragon
+three times.  Or, if you don't want to figure it out:
+   1.  Press the upper left switch once
+   2.  Press the lower left switch twice
+   3.  Press the lower right switch three time
+Do this in any order.  This will open up the path to the boss.
+
+Ice Dragon strategy:
+Use Mysterio with our already equipped Ice Shields and laugh the damage off.
+Attack with fire-element weapons or spells.  Nothing new here from the last
+time we fought the Ice Dragon for the Dragon Harp.
+
+After the battle, gain DRAGON'S MARK and exit out to Invidia and give it to
+Rekoteh.  Head inside the Chief's house and speak to the Chief.  Then, follow
+Rekoteh up to her room and talk to her again.  Exit town, summon the dragon
+and fly just South to a cave.  Enter the Sun Temple.
+
+
+   ~ Sun Temple ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Death Trap          |  169-216 | 35  |                   |
+Gorgon              |  128-282 | 26  | Sapphire          |
+Nidhogg             |  129-77  | 28  |                   |
+Shade Trollud       |          | 26  | Aquamarine        |
+Trollud Zombie      |   <205   | 26  | Aquamarine        | Hi-Potion
+   BOSS
+Mammon              |  2114-32 | 774 | Diamond, Amthystx3| Steal: Claustrum
+                    |          |     |                   | Steal: Antarc. Wind
+
+      ______              ____             BOSS
+     |      |            |    |       [2]___|________[3]    [1]: <DEATH TRAP>
+  ___|      |___      ___|    |____      ___|    _______       --> GROWTH EGG
+ |              |    |             |    |            |  |   [2]: <FOSSIL CAPE>
+ |___         __|    |          ___|    |___       __| [1]  [3]: <DEATH CAPE>
+     |     __|       |         |            |   B    |
+     A    |          A   B_____|         ___|___|____|
+         ENTRANCE
+
+Approach the gate and the Dragon's Mark should respond.  Examine the gate and
+use the Dragon's Mark on the carving to open the pathway.  Follow the linear
+path for two screens.
+
+When we finally get to an intersection, go to the right twice, battling the
+<DEATH TRAP> for a GROWTH EGG.  Head back to the intersection and continue
+to the left; take the first path up, then take the first path to the left.
+At the end of the path, grab the <FOSSIL CAPE> in the chest, then go all the
+way to the right to claim a <DEATH CAPE>.  Head back, take the path up, use
+the save and get ready for a boss battle.
+
+Mammon strategy:
+Keep up an Elementalist's Mysterio with our equipped Ice Shields and you'll be
+taking either zero damage or healed.  You'll most likely be doing low damage
+as well, without bringing in fire-element weapons and magic spells, coupled
+with Mammon's constant Protect and Shell use.  Since you're doing damage and
+Mammon can't heal, while you're taking zero damage, this will just be a battle
+of atrition.  If this isn't one of your first attempts at a legendary weapon,
+then your higher levels will allow you to do more damage to end this battle
+quicker.  Alternatively, if you bring along an Alchemist, as suggested by an
+NPC at Invidia, you can throw Bomb Fragments for damage.  When all of Mammon's
+pieces break off, it'll land and will attempt to confuse your party.  That's
+when our Confuse Capes come in handy, which should already be equipped.  Keep
+plugging away and the post battle prizes will be ours.
+
+Gain the SHAMAN CROWN with Mammon's defeat.  Exit out of the Sun Temple via
+the teleport and fly back to Invidia.  Speak to the Chief twice to gain the
+ARMOR OF LIGHT and a nifty armor icon above Invidia on the map.
+
+
+   ~ Town of Horne ~                                                  [22cfaq]
+
+In order to proceed, you are required to have the Sword of Light, the Armor of
+Light, the Shield of Light, the Cape of Light, the Lux Tome and access to the
+whale, Cestus, in addition to having beat Leviathan.  If you're missing any of
+these components, go back to the previous section(s) to pick them up.  Levels
+were in the mid-30s starting this part of the game.
+
+   Horne General Shop             (AFTER COLLECTING ALL SIX LEGENDARY PIECES)
+          Storm Axe         1220 G            Book of Sylph      865 G
+          Book of Ramuh      580 G            Wood Shield        130 G
+          Traveler's Garb    150 G            Shaman Robe        850 G
+          Remedy             400 G            Hi-Potion           40 G
+          Dragon Wing         60 G            Torch               10 G
+
+Go to Horne Castle, taking the center door, where the once locked cell is, at
+least if you've been following along with this guide.  Go through the door to
+the right that was initially blocked off.  Enter the Magic Laboratory.
+
+
+   ~ Magic Laboratory ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Arch Demon          | 997-1267 | 34  | Aquamarine        |
+Buffohelm           |   <230   | 47  | Ruby              | Magic Staff
+Ghoul               |  78-211  | 47  | Emerald, Topaz    | HiPotion, CurseRing
+Hobgoblin           | 124-207  | 47  | Sapphire, Lapis   | Tempest Pike
+Lizardhawk          |  50-246  | 47  | Ruby              | Hi-Potion
+Orc Lord            | 192-251  | 47  | Ruby              | Steel Spear
+
+We are NOT progressing through this dungeon yet.  Our only goal is to find the
+King, nothing more.  You are free to explore the area, but when you come upon
+a certain "sheep puzzle," it's not going to be active at this time; we have to
+continue the storyline by talking to the King, hence the lack of a map.
+
+From the entrance, take the first set of stairs you see, then take the first
+hallway leading up; if you see the save point character, you're on the right
+track.  Enter the doorway just beyond the save, approach the King and talk,
+then leave.  Exit Magic Laboratory and Horne, and go to the Witch's Mansion.
+
+
+   ~ Witch's Mansion ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Buffohelm           |  36-232  | 53  | Ruby, Lapis       |
+Ghoul               |  139-56  | 53  |                   |
+Hobgoblin           |  107-81  | 53  | Emerald           |
+Lizardhawk          |  100-44  | 53  | Ruby, Aquamarine  | Hi-Potion
+Orc Lord            |  140-73  | 53  | Ruby              | Steel Spear
+   BOSS
+Greaps              | 860-997  | 107 | Rubyx2, Amthystx2 | Steal: None
+
+Go back to where we first rescued Aire.  There's a good chance that you'll
+need to relight the candle off in the left room to open the main entrance's
+center door again.
+
+After getting back to where we rescued Aire, beyond the save point, we'll
+have to battle Greaps again.
+
+Greaps strategy:
+An Elementalist's Mysterio will keep the air spell damage in line.  If you
+want to end this quickly, then use Spell Focus -> Magic Might; otherwise,
+your normal attacks should be doing high enough damage to end this just a
+little slower than the Black Mage's method.
+
+Rolan appears after the fight and gives you a MASTER KEY.  We're tasked with
+finding the Lamp of Truth.  Go down to the first floor and use our new key
+on the locked door near the stairs.
+
+                   _______________________________________
+                  |            x______________           A|
+                  |           |               |  Y        |
+                  |     X     |               |____   ____|
+    _________     |____   ____|  ___________       |y|
+   |        A|         | |      |           |      | |
+   |         |         | |      |    [1]    |      | |    [1]: <LAMP OF TRUTH>
+   |___   ___|     ____|w|____  |____   ____|      | |
+       | |        |           |  ____| |____   ____| |____
+      LOCKED      |           | |           | |           |
+       DOOR       |        W  |_|           |_|  Z        |
+                  |__________________________z____________|
+
+You can examine the paintings for hints for our next puzzle, or you can use
+the above map to solve it directly.  Go beyond the locked door, take the
+stairs in the upper right corner and we'll be in the middle of a giant puzzle.
+We need to light the candles so that each room has a red flame lit, but with
+each flame, one of the doors locks.  Each capital letter represents a candle
+to be lit, with the corresponding lower case letter showing which door gets
+locked.  Light the candles in reverse alphabetical order to open the door
+to the center room.  Approach the chest and we'll be attacked.
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Doppleganger        | 300-800  | 104 | Amethyst          | Cross
+
+Doppleganger strategy:
+Spell Focus -> Magic Might should knock out two of the four Dopplegangers.
+They can't use Raise spells, but they can use Cure/Cura spells.  Stick to the
+offensive so they don't have time to regroup.
+
+Gain <LAMP OF TRUTH>.  Exit the Witch's Mansion and return to Horne.
+
+
+   ~ Town of Horne / Castle Horne / Magic Laboratory ~                [23cfaq]
+
+Go to Horne Castle and head back down into the Magic Laboratory.
+
+Boss                |    HP    | Exp |        Gem        |       Steal
+--------------------|----------|-----|-------------------|--------------------
+Satan               | 3567-603 | 801 | Diamond           | Darkbringer
+                    |          |     | Amethystx3        | X-Potion, Phnx.Down
+
+                 FLOOR B1               FLOOR B2
+
+                   BOSS              _      _      _ 
+                    | |             |I| [2]|B|[3] |L|
+   _               -----            | |_| || || |_| |
+  |A|        Sh2    | |    Sh3      |_____|| ||_____|   [1]: <STAR EARRING>
+  | |        | |  __| |__  | |       _   _ | | _   _    [2]: <DARKNESS STAFF>
+  | |        | | |B_____A| | |      |T| |U|| ||P| |O|   [3]: <EVIL LANCE>
+  | |     ___| |           | |___   | |_| ||C|| |_| |   [4]: <DARKAGA TOME>
+ ENTER   |U__  | Sh4   Sh1 |  __P|  |_____| _ |_____|   [5]: <BLACK BOOK>
+             | |_| |___| |_| |       ______| |______ 
+             |_______________|      |B'____________A|
+                                                                   _
+   __________    _   _________    _  ____   _   ____  _           |F|
+  |  _______N|  |C| |R______  |  |R||  _H| |F| |K_  ||N|          | |
+  | |    _   ___| |___      | |  | || |  __| |__  | || |   _______| |_______
+  | |___|O| |  _____  |  _  | |  | || | |  ___  | | || |  |G__   _   _   __J|
+  |  _____| | |  _  | | |T| | |  | ||G| | ||D|| | |J|| |      | | | | | |
+  | |       | | |D| | | | |_| |  | | ___| || || |___ | |      | |_| |_| |
+  | |___    | |_| |_| | |  ___|  | ||___  |[1]|  ___|| |      |  _ ! _  |
+  |_____[5] |___   ___| [4]      | |    |__   __|    | |      | | | | | |
+   ___________  | |  _________   | |____   |E|  _____| |   ___| |_| |_| |___
+  |I_________H| |E| |K_______L|  |_____Q|  |_| |M______|  |Q_______________M|
+
+              FLOOR B3                  FLOOR B4                FLOOR B5
+
+From the entrance, take the stairs down to B1 and take note of the gate with
+sheep emblazoned on it.  This indicates that the earlier unactivated sheep
+puzzle is now active.  Keep going to the left to take the stairs down to B2.
+
+This room is sometimes weird.  A few times, after taking the stairs marked B,
+I'd wind up at B', which leads you back to the entrance.  If your screen
+looks like it's going straight down, you're good to go, no need to worry.
+If it happens to be going to the right, leave Horne completely and come back.
+It's fairly isolated, but just in case it happens to you too, that's the only
+way I got Magic Laboratory fixed.  In any case, we should be on B3 now.
+
+Go down either side, then swing up the middle to take the stairs down for a
+chest holding <STAR EARRING>.  Go back to B3 and head straight down and take
+those stairs to be on the outside portion of B4.  Go up on either side and
+we'll be at B5.
+
+Take the first set of stairs on the left side to go to B4, then B3, then B2,
+to find yourself in a U shaped room.  A chest is on the right side, holding
+a <DARKNESS STAFF>.  Go back to B5 and go directly to the right, taking that
+set of stairs back to B2 again in another U shaped room, with a chest on the
+left holding <EVIL LANCE>.  Make your way back to B5.
+
+Exploring this room a little more reveals a sheep surrounded by some pillars.
+Take the lower right set of stairs, marked M in the above maps, and follow
+this set of stairs to B3.  Detour to the lower path to grab a <BLACK BOOK>,
+then go to the right path to continue back up to B2, then B1.
+
+This is the sheep puzzle.  You want to examine, in order, the sheep facing
+forward, right, left, then backwards, marked Sh1, Sh2, Sh3 and Sh4 on the
+maps above.  A message should pop up after checking the last, backwards sheep.
+With that, take the left set of stairs, marked U.
+
+Continue to B3, opening the chest just below you for a <DARKAGA TOME>.  Keep
+going to the right until you make it back to B5.  We're going back to the
+entrance now, so take the stairs at the very top of the screen to B4, then
+go all the way down for the next set of stairs to B3 and go either to the
+left or right to reach the stairs to B2.  From here, it's a straight shot up
+to B1; take the now opened hallway, hit up the save and just beyond the room,
+we'll have another boss battle.
+
+Talk to the King and use the Lamp of Truth.
+
+Satan strategy:
+Bring an Elementalist with Mysterio and Amplify active, and a Black Mage with
+Spell Focus and Banishra.  I rounded out the other members with a Bandit for
+stealing and a Merchant for the Diamond(s).  Whoever isn't equipped with the
+Cape of Light should be holding Darksteel Shields.  Start with Mysterio,
+Spell Focus and Lux on the first turn, keeping Spell Focus active while
+Amplify is used on turn three.  On the next turn, cast Banishra, since this
+is when Satan changes from Sword God stance to Demon Lord stance.  Follow up
+with Spell Focus then Banishra again, which should have done more than half
+of its HP in damage.  In essence, every three turns, Satan will change its
+immunity starting with magic, to physical attacks, then back again.  If your
+other three members are sporting light magic, they can back up your Black Mage
+during the physical immunity round; otherwise they can heal or boost for AP.
+Keep Mysterio up, and Lux should be healing all your damage with Recovery.
+Demon Lord stance grants physical immunity and Sword God stance grants magical
+immunity, which is what the battle starts with.
+
+Gain DARK FENCER CROWN after winning.  Exit via the magic circle, then go
+upstairs to the Castle Horne throne room.  Enter the second door on the right,
+talk to the King and gain DESOLATOR.  A new area opens up on the overworld
+and all but the Cestus icons disappear from the world map.
+
+
+   ~ Liberte Town / Overworld ~                                       [24cfaq]
+
+Liberte Town is marked by wherever you left Cestus, the whale.  Go inside
+Liberte, head up to the Rusty Compass and examine it, so we can travel around
+on Cestus.  Odds are you left it near Liberte Port, so head South and land
+Cestus at the beach closest to Urbeth.
+
+If you haven't done any armor upgrading at Urbeth, now would be a prudent time
+to do so.  In fact, if you haven't upgraded anything as of yet, buy some of
+the Wireless shop armors, the ones that look like armor, rather than clothes
+or robes.  Unlike crowns, you can enter and back out of each upgrade attempt
+if you don't like the gem distrubutions, given your current stock.  Try and
+upgrade everyone to +9 in their armor.
+
+This area of Liberte and Urbeth will essentially serve as our base of ops.
+When ready, take Cestus straight South to enter the bubble.
+
+
+   ~ Star Chamber ~
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Alraune             | 150-227  | 71  | Sapphire          | Stun Ring
+Cockatrice          |   <246   | 71  | Emerald           |
+Demon Ray           | 123-207  | 71  | Topaz             | Hi-Potion
+Garm                |   <251   | 71  | Lapis             |
+Ghoul               |   <335   | 71  |                   |
+Gorgon              |  172-95  | 71  | Aquamarine        |
+Iron Golem          |  144-96  | 71  | Lapis             |
+Lizardhawk          |  80-136  | 71  |                   | Hi-Potion
+Metal Flan          |  200-77  | 135 | Amethyst          |
+Muninn              | 162-235  | 71  |                   |
+Oceanus             | 156-212  | 71  | Topaz             | Hi-Potion
+Orc Lord            |  206-60  | 71  | Ruby              | Hi-Potion
+Red Jelly           | 165-197  | 71  | Topaz             | Hi-Potion, Ether
+Shade Trollud       |   <200   | 71  |                   |
+Scylla              | 196-300  | 71  |                   | Tranquilizer
+Wraith              |   <221   | 71  |                   |
+   SUB-BOSS
+Asmodeus            | 3936-94  | 768 | Diamnd, Amthystx3 |
+Beelzebub           | 3795-4712| 771 |                   |
+Belphegor           | 3193-588 | 780 | Diamnd, Amthystx3 |
+Cube                | 1275-461 | 30  |                   |
+Leviathan           | 4552-743 | 786 | Diamnd, Amthystx3 |
+Mammon              | 3325-521 | 774 | Diamnd, Amthystx3 |
+Satan               | 4411-573 | 777 | Diamnd, Amthystx3 |
+
+   B           A                 LEVIATHAN
+   E    [1]    S       _____________---_____________
+   L    ---    M      |C _   _____________   _____ D|
+   P  __| |__  O      | | | |  ___________| |___  | |
+   H :__ A __: D      |_| |_| |  _________   _  | | |    [1]: <PHOENIX DOWN>
+   E    | |    E       _______| |_________| |_| | | |       [2]: <RIBBON>
+   G    ---    U      |  _____   ___-:-___   ___| | |    [3]: <KIKU-ICHIMONJI>
+   O    |B|    S      | |     | |    :    | |  ___| |       [4]: <ETHER>
+   R               [5]: | [2] | :----B----: | |  ___:[3] [5]: <FRESH MEAT>
+      _________       | |_| |_| |___-:-___| |_| |           [6]: <HI-ETHER>
+     /         \      |  _   _   _________   _  | [4]    [7]: <HERO'S WILL>
+     |    A    |      |_| | | | |___      | |_| |_| |       [8]: <FORTUNE EGG>
+     |         |          | | |___  |     |  _____  |    [9]: <X-POTION>
+     \___   ___/       ___| |_____| |     | |__   | |
+         | |          |E____________|     |____|  |F|
+
+      _________________________________________
+     |_______   ____________   ______   _______|
+             ---            ---      ---
+      _______| |_________   | |  ____| |_______
+     |  _________________|  | | |____________[8]
+     | |  ________________  | |               _
+     [7] |  _________   __| | |____________  | |
+         | |         | |    |____________  | | |
+      _  | |  _______| |______________   | | | |              ____
+     | |_| | |C _________   ________ D|  | | | |             / __ \
+     |  _  | | |         | |        | |  | | | | B          / /  \ \
+     | | | | | |    _____---_____   | |__| | | | E         / /    \ \
+   S | | | | | |   |             |  |  __  |_| | E        / /     / /
+   A | | | | | |___|             |__| |  |___  | L       / /  ___/ /
+   T : | |_| |  __:       H      :__  |      | : Z       | | |H___/
+   A | |  ___| |   |             |  | |      | | E     __| |_______
+   N | | |  _  |   |_____---_____|  | |  [6] | | B    |            |
+     | | | | | |_________| |________| |  | | | | U    |        [9] |
+     | | | | |E________________   ___F|  | | | | B    |            |
+     | | | |_________   _______| |_______| | | |      |_______   __|
+     |_| |_________  | |  _________________| | |              | |
+      _____________| | | |_____________   ___| |             To B5
+     |_______________| |____   ________| |_____|
+                            --- 
+                          MAMMON
+
+As we enter, we're stripped of all of our crowns, at least strictly when in
+this environment.  If you leave, they'll be available, but until we re-unlock
+them, we'll have no crowns to use here.  It's the number of sub-bosses that
+determine what crowns get reunlocked; a specific sub-boss does not carry a
+set of crowns to regain.
+
+Beat # of Sub-bosses | Crowns regained
+---------------------|--------------------------------------------------------
+          0          | Freelancer
+          1          | Wayfarer, White Mage, Black Mage
+          2          | Bandit, Bard, Merchant, Salve-maker
+          3          | Elementalist, Ranger, Fighter, Scholar
+          4          | Party Host, Hero, Spell Fencer, Monk
+          5          | Dancer, Paladin, Alchemist, Shaman
+          6          | Dark Fencer, remaining optionally collected Crowns
+
+Pack a few Torches to get through the area, or just stumble along using the
+included maps above.  Take along Rock Shields; Asmodeus will fall first.
+Press forward to the first set of stairs, then go up and take the upper
+entrance for <PHOENIX DOWN>.  Go down twice to stairs to go down to B2.
+
+Run off to the left to go the outside screen; go down to an intersection,
+stay to the left, then go up for a <RIBBON>.  Go all the way to the right,
+turning with the corner and take the doorway to your right; <KIKU-ICHIMONJI>'s
+all yours for the taking.  We can grab the <ETHER> just below where the sword
+rested, then make our way back to the center area, entering the inside area.
+From here, take the stairs back to B1 and go to the right.  That's where we'll
+improve our crown collection, by taking down Asmodeus.  Take the warp for the
+rematch.
+
+Asmodeus strategy:
+Equip our new found treasures, along with those Rock Shields.  Your healer
+gets the Shield and Cape of Light combination, while your attacker, whether
+it be physical or magical, gets the ribbon.  Have everyone carry some type of
+life restoring skill, like Hi-Potions, Cure/Cura spells and A/Raise.  No
+Mysterio access just yet, but those Sidewinders should be kept in check with
+our equipment, and keeps your healer and attacker free to do as they please.
+Realizing half your team is now immune to status, Asmodeus' primary way of
+exacting damage isn't a threat, and doesn't do a whole lot of damage that your
+entire team can't deal with on healing duty.  Add Lux to the mix and congrats
+on getting our first set of crowns back.  Levels were between 44 and 45 here.
+
+The next easiest boss, I thought, is Beelzebub.  Exit out of Star Chamber and
+pick up some Flame Shields and equip those regained crowns, making use of
+Black and White Mage for attacking and healing purposes.  If you have space,
+bring along Ice Shields for the next boss, Mammon; otherwise, keep them in
+storage, depending on your inventory setup, since Mammon needs Confuse Capes
+as well.  Beelzebub is on B3, along the far right wall.  Stairway D, in the
+upper right corner, is the closest path to get to Beelzebub.
+
+Beelzebub strategy:
+Start with Lux, as should be the norm as soon as you picked it up.  Keep your
+Black Mage setup with Spell Focus, sitting on enough AP to cast Desolator;
+when not boosting, just ping away with attacks.  Have everyone else continue
+attacking and your White Mage keeping everyone's HP totals healthy.  When
+Beelzebub takes to the air, let your Black Mage cast that Spell Focus'd
+Desolator, instantly making Beelzebub drop to the ground and dealing about
+900+ dmg to itself while keeping your team same from harm.  Two to three more
+of those and we'll unlock the next set of crowns, through Salve-maker.
+Levels ranged between 45 and 46 here.
+
+If you brought along those Ice Shields and Confuse Capes, let's take on the
+fight with Mammon; otherwise, exit out and bring them out of storage.  From
+Beelzebub's, go left and down to where the F stairs are.  If you exited out,
+get to B3 via the stairs marked F.  From there, drive to the left after the
+turn and take the doorway down.
+
+Mammon strategy:
+Cast Lux and, with Ice Shields and Confuse Capes, you've automatically won.
+Feel free to set the DS on autobattle and walk away.  Mammon can't heal and
+can't deal enough damage to overcome the Recovery effect from Lux while the
+rest of the team pings Mammon away to death.  And with that, we got our
+Elementalist crown back, among others.  The whole party was at Lvl 46.
+
+Now, it doesn't really matter who we go after next.  I went with Satan solely
+because he was the closest.  While coming out of Mammon's area, take the
+<HI-ETHER> from the chest to the right.  Head back near the D stairs and go
+to the upper wall, still on B3.  We're grabbing the <HERO'S WILL> to the left
+and the <FORTUNE EGG> to the right.  Make your way back to the D stairs and
+walk toward the C stairs, taking the path up leading to Satan.  Go into the
+wall on the left and we'll get the next boss rebattle.
+
+Satan strategy:
+Use Lux and Mysterio.  Deal damage however you've been dishing it out.  If you
+need extra element support, equip Darksteel Shields and light-element weapons
+and spells.  As before, Satan begins the battle immune to magic attacks and
+switches its immunity to physical attacks after three turns, and vice versa.
+Enjoy the reclaimed crowns.  Levels were bumped up to 47 across the board.
+
+Head back to B2 via the C stairs to bring us near Leviathan; that boss can
+be found along the upper wall.
+
+Leviathan strategy:
+We should still have those Ice Shields from Mammon's revisited battle.  Equip
+those if you removed them and start the battle with Lux and Mysterio.  As in
+the Beelzebub battle, keep a Spell Focus active, ready to cast Desolator when
+Leviathan starts sending out the message that it's charging up.  If Leviathan
+happens to pull off a Tidal Wave, make sure you have Mysterio active, to keep
+the damage in the double digits.  Definitely has less HP in our first battle,
+since Leviathan starts the battle flying, so this should be over quickly.
+
+Let's grab the last treasure chest we passed.  Go to the right, from where
+Leviathan's door was, and go down two, four-way intersections; go to the left
+at the third four-way intersection.  Hit the far left wall, then go up to find
+the doorway leading to <FRESH MEAT>.  This is near where the ribbon item was,
+so head back to the center, inner area, and take the stairs back to B1.  We're
+taking out the last of the revisited boss battles now.  Go to the left path.
+
+Belphegor strategy:
+Lux up, and add Mysterio for overkill.  Spell Focus and fire off a Desolator
+to knock out all the Cubes.  Do it again if Belphegor is still alive while
+your mage boosts up their AP.
+
+Head back down to B2 via the lower set of stairs.  The upper right stairs,
+marked D, are the easiest to get to, using that to get to the center, bigger
+area.  The floor dips down to the stairs marked H, leading to B4.
+
+This area no longer needs a Torch, if you were even using one.  Take the set
+of stairs counterclockwise to a chest holding <X-POTION>, then speak to the
+save character.  We're about to get to the final boss.
+
+
+   ~ Star Chamber, FLOOR B5-B9 ~                                      [25cfaq]
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Arch Demon          |  871-935 | 80  | Aquamarine        |
+Bullking            |   <366   | 80  | Emerald           |
+Doppleganger        |   <111   | 12  | Aquamarine, Ruby  |
+Neko Natter         |   <288   | 80  | Emerald           |
+
+    ______       _   __________        _          _    ______________________
+   |A___  |___  |D| |__   ____B|      |H|________|G|  |  __________________  |
+ _____  |____B| | |    | |          __|  ___   ____|  | |  ______________  | |
+|D__  |____     |E|    |C| _____   |  __|   | |____   | | |  __________  | | |
+ _  |____  |     _    _   |F__  |  | |      |____  |  | | | |  ______  | | | |
+|E|___   | |    | |__|H|___   | |  | |  ____   _ |_|  | | | | |  __  | | | | |
+|____F|  |C|    |________  |  | |  |I| |  _M| |K|__   | | | | | | _| | | | | |
+                         |_|  |G|      |L|    |___J|  |I| |L| |M||N__| |K| |J|
+
+   FLOOR B5         FLOOR B6            FLOOR B7              FLOOR B8
+
+Except for the first time you get to floor B7, this entire area is linear.
+The first time you do get to B7, go all the way to the left, then go all the
+way to the bottom.  Continue your way to the vortex marked N to come face
+to face with the final boss.  Mix up your shields between Holy and Darksteel
+equips among the three not holding the Cape of Light.
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Chaos               |   ~5400  | 666 |                   |
+
+Chaos strategy:
+Lux, Mysterio and Spell Focus'd Desolator attacks are your friends.  Chaos
+throws out some light and dark element spells, but tends to lean more towards
+dark element spells here.  If you can squeeze in Amplify for those Desolator
+attacks, do so.  Levels coming into this fight were between 49 and 50.
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Chaos, Round 2      |   ~6300  | 777 |                   |
+
+Chaos strategy, Round 2:
+Hopefully this didn't come as a surprise, so you could bring your Lux user's
+AP totals back to full during the previous fight.  Start with Lux and
+Mysterio, again, but this time, keep an eye on your HP levels, since this form
+of Chaos can deal out more damage than the previous one.  Desolator, powered
+up with Spell Focus and Amplify, are still your best bets at doleing out
+damage; I haven't run across a physical analogue that deals six different
+~400 dmg hits every other turn, hence Desolator.  Chaos throws out more light
+spells this time around, so those Holy Shield holders will get more of a break
+this time around.
+
+After the battle, we get a pep-talk from past characters and become fully
+restored.  We have one last battle to go before the credits roll.
+
+Enemy               |    HP    | Exp |        Gem        |       Item
+--------------------|----------|-----|-------------------|--------------------
+Chaos' Right Hand   | 5541-621 |  0  |                   |
+Chaos' Left Hand    | 4344-458 |  0  |                   |
+Chaos' Face         |9332-10088| 999 |                   |
+
+Chaos strategy, Round 3:
+You have to beat the right hand, left hand, then face, in order.  You can't
+even target a different part; likewise, the other parts can't attack until the
+previous body part is dispatched.  Both the right and left hand parts are
+similar to Chaos' second form, just with less HP, but capable of hitting
+harder.  The face is what's new.  The face has an atack called Big Bang,
+which is spammable.  With Lux up, expect to take around 100 dmg for all of
+your characters.  If your Black Mage falls, it's going to be hard to revive
+them and get them back behind a Lux, but make it a priority if you find
+yourself in this situation.  Unlike in the previous rounds, your healer may
+have had nothing to do and threw out an attack now and then, but that changes
+here; keep them healing the whole party, either Lifegiver/Healthgiver Cure/as
+or Healthcare X-Potion/Remedy.  After losing 60% of the face's HP, it'll
+start casting Cura on itself, healing for around 400HP per use.  Two of the
+six Desolator strikes should cancel that outright, so don't worry too much
+about that, as long as your Black Mage is still alive.  Just be a little more
+cautious here, and when in doubt from having a "free" action, heal.
+
+When you see Bigger Bang being cast, you've won.  Take the magic circle out
+to find yourself at the beginning of B5.  Head to the upper left to get back
+to the spiral staircase area.  Talk to the dragon and we'll be on autopilot
+for the endgame scenes.
+
+Congrats on beating Final Fantasy: The 4 Heroes of Light!  After the credits,
+you'll get a prompt to save.  If you're worried about losing anything that was
+given out during *those* endgame scenes, don't worry, you'll still have it.
+
+
+   ~ The Bonus Towers ~                                               [26cfaq]
+
+You can begin this section as soon as you gain the Master Key from Rolan,
+since gaining the Master Key also requires having gained Cestus.  I can't map
+any of these areas out for you, since the layout changes each time.  There's
+one set of stairs for each screen and your goal is to get to those stairs to
+go up to the next floor.  Every now and then, you'll find random treasure
+chests, too.
+
+All of the towers thus far follow the same pattern.  Every 10 floors, you're
+allowed to leave and save the game, so you can start the tower again where
+you left off.  Speaking to the NPC outside of the tower can reset the tower
+back to the first floor.
+
+The pattern thus far is:
+Floor 10: Boss; drops Amethysts
+Floor 20: Empty floor
+Floor 30: Boss; drops Diamond(s) and Amethysts
+Floor 40: Shop
+
+
+-- Moonsand Ruins; Tower 1 --
+
+You can find this by flying North of the Witch's Mansion.
+
+   Moonsand Ruins (Tower 1) General Shop, Floor 40
+          X-Potion              400 G            Phoenix Down       100 G
+          Hi-Ether            10000 G            Gungnir          65000 G
+          Unyielding Shield  100000 G            Antimage        100000 G
+          Hide Shield        100000 G
+
+
+-- Holy Tree Tower; Tower 2 --
+
+You can find this only by using the whale, Cestus.  From Urbeth, go West to
+slam into the Arbor coastline, and follow the coastline North, West, then
+South.  Line up Cestus' icon with Arbor, then swim West.  You'll find a
+crescent shaped island with a cave in the center.  This is the tower.
+
+   Holy Tree Tower (Tower 2) General Shop, Floor 40
+          X-Potion              400 G            Phoenix Down       100 G
+          Hi-Ether            10000 G            Mooring Blade    22000 G
+          Koga Shuriken       28000 G            Guan Yu's Pike   55000 G
+
+
+-- Mysterious Lighthouse; Tower 3 --
+
+Explore Liberte Town on top of Cestus.  It's that locked lighthouse at the
+very top of town.
+
+   Mysterious Lighthouse (Tower 3) General Shop, Floor 40
+          X-Potion              400 G            Phoenix Down       100 G
+          Hi-Ether            10000 G            Muramasa          9000 G
+          Fuma Shuriken       28000 G            Shiranui         50000 G
+
+
+-- Trial Tower; Tower 4 --
+
+From Spelvia, fly West-Northwest, or fly North from Urbeth.  That's the tower.
+
+
+
+
+
+==============================================================================
+IV.   Crown Locations and Crown Upgrade List                        [speaknow]
+==============================================================================
+
+
+
+Crown       | Location
+------------|--------------------------------------------------------------
+Freelancer  | Beginning of the game
+Wayfarer    | Witch's Mansion; beat Greaps
+White Mage  | Quicksand Castle; beat Sand Devil
+Black Mage  | Quicksand Castle; beat Sand Devil
+Bandit      | Animal Burrow; lose to Ogre Bear
+Bard        | Animal Burrow; lose to Ogre Bear
+Merchant    | Urbeth; beat Demon
+Salve-maker | Urbeth; beat Demon
+Elementalist| Arbor's Great Tree; beat Arbaroc 
+Ranger      | Arbor's Great Tree; beat Arbaroc
+Fighter     | Invidia Underground; beat Ice Dragon
+Scholar     | Invidia Underground; beat Ice Dragon
+Party Host  | Spelvia's Throne Room; beat Rolan
+Hero        | Spelvia's Throne Room; beat Rolan
+Spell Fencer| Quicksand Castle; beat Asmodeus
+Monk        | Mount Gulg; beat Belphegor
+Dancer      | Overworld with Cestus; beat Leviathan
+Paladin     | Rolan's Soul; beat Lucifer
+Alchemist   | Tower of the Sky; beat Beelzebub
+Shaman      | Sun Temple; beat Mammon
+Dark Fencer | Magic Laboratory; beat Satan
+Seamstress  | Urbeth Weapon Shop; earn 20000 Gil selling at the counter
+Beastmaster | Invidia; earn 257+ points in the math game
+Musician    | Liberte Wireless Shop; purchase Music Score for 2500 pts
+
+
+Crown       | * |Rby|Emr|Tpz|Sph|Lps|Aqu|Ame|Dia| Ability
+------------|---|---|---|---|---|---|---|---|---|-------------------
+Wayfarer    | 1 | 5 | 5 |   |   |   |   |   |   | Escape
+Wayfarer    | 2 | 6 |   | 2 |   |   | 6 | 1 |   | Recovery
+Wayfarer    | 3 | 7 |   |   | 7 | 3 |   | 2 | 1 | Friend in Need
+White Mage  | 1 |   |   |   |   | 5 | 5 |   |   | Lifegiver
+White Mage  | 2 |   |   | 2 | 6 | 6 |   | 1 |   | Hide
+White Mage  | 3 | 3 | 7 |   |   | 7 |   | 2 | 1 | Miracle
+Black Mage  | 1 |   |   | 5 | 5 |   |   |   |   | Spell Focus
+Black Mage  | 2 | 2 | 6 | 6 |   |   |   | 1 |   | Mirror
+Black Mage  | 3 |   |   | 7 |   | 3 | 7 | 2 | 1 | Magic Might
+Bandit      | 1 |   |   | 5 | 5 |   |   |   |   | Plunder
+Bandit      | 2 | 2 | 6 | 6 |   |   |   | 1 |   | Deadly Blow
+Bandit      | 3 |   |   | 7 |   | 3 | 7 | 2 |   | Pillage
+Bard        | 1 |   |   |   |   | 5 | 5 |   |   | Motet
+Bard        | 2 |   |   | 2 | 6 | 6 |   | 1 |   | Aria
+Bard        | 3 | 3 | 7 |   |   | 7 |   | 2 | 1 | Fugue
+Merchant    | 1 | 5 | 5 |   |   |   |   |   |   | Keeper
+Merchant    | 2 | 6 |   | 2 |   |   | 6 | 1 |   | Ransom
+Merchant    | 3 | 7 |   |   | 7 | 3 |   | 2 | 1 | Money Talks
+Salve-maker | 1 |   |   |   |   | 5 | 5 |   |   | Healthcare
+Salve-maker | 2 |   |   | 2 | 6 | 6 |   | 1 |   | Poison Pill
+Salve-maker | 3 | 3 | 7 |   |   | 7 |   | 2 | 1 | Level Serum
+------------|---|---|---|---|---|---|---|---|---|-------------------
+Crown       | * |Rby|Emr|Tpz|Sph|Lps|Aqu|Ame|Dia| Ability
+------------|---|---|---|---|---|---|---|---|---|-------------------
+Elementalist| 1 | 5 | 5 |   |   |   |   |   |   | Amplify
+Elementalist| 2 | 6 |   | 2 |   |   | 6 | 1 |   | Mysterio
+Elementalist| 3 | 7 |   |   | 7 | 3 |   | 2 | 1 | Elemental
+Ranger      | 1 | 5 | 5 |   |   |   |   |   |   | Snipe
+Ranger      | 2 | 6 |   | 2 |   |   | 6 | 1 |   | Covering Fire
+Ranger      | 3 | 7 |   |   | 7 | 3 |   | 2 | 1 | Smashing Blow
+Fighter     | 1 | 5 | 5 |   |   |   |   |   |   | Jugular
+Fighter     | 2 | 6 |   | 2 |   |   | 6 | 1 |   | Chakra
+Fighter     | 3 | 7 |   |   | 7 | 3 |   | 2 | 1 | Frenzy-fu
+Scholar     | 1 |   |   |   |   | 5 | 5 |   |   | Subdue
+Scholar     | 2 |   |   | 2 | 6 | 6 |   | 1 |   | Restrain
+Scholar     | 3 | 3 | 7 |   |   | 7 |   | 2 | 1 | Tame
+Party Host  | 1 |   |   | 5 | 5 |   |   |   |   | Rouse
+Party Host  | 2 | 2 | 6 | 6 |   |   |   | 1 |   | Pot Luck
+Party Host  | 3 |   |   | 7 |   | 3 | 7 | 2 | 1 | Go Team Go!
+Hero        | 1 |   |   |   |   | 5 | 5 |   |   | Bladeblitz
+Hero        | 2 |   |   | 2 | 6 | 6 |   | 1 |   | Wrath
+Hero        | 3 | 3 | 7 |   |   | 7 |   | 2 | 1 | Finale
+Spell Fencer| 1 | 5 | 5 |   |   |   |   |   |   | Mystic Sword
+Spell Fencer| 2 | 6 |   | 2 |   |   | 6 | 1 |   | Magic Thwart
+Spell Fencer| 3 | 7 |   |   | 7 | 3 |   | 2 | 1 | Magic Infuse
+------------|---|---|---|---|---|---|---|---|---|-------------------
+Crown       | * |Rby|Emr|Tpz|Sph|Lps|Aqu|Ame|Dia| Ability
+------------|---|---|---|---|---|---|---|---|---|-------------------
+Monk        | 1 |   |   | 5 | 5 |   |   |   |   | Implement
+Monk        | 2 | 2 | 6 | 6 |   |   |   | 1 |   | Kamikaze
+Monk        | 3 |   |   | 7 |   | 3 | 7 | 2 | 1 | Ghost Army
+Dancer      | 1 | 5 | 5 |   |   |   |   |   |   | Perform
+Dancer      | 2 | 6 |   | 2 |   |   | 6 | 1 |   | Applaud
+Dancer      | 3 | 7 |   |   | 7 | 3 |   | 2 | 1 | Ovation
+Paladin     | 1 |   |   |   |   | 5 | 5 |   |   | Bait
+Paladin     | 2 |   |   | 2 | 6 | 6 |   | 1 |   | Avenge
+Paladin     | 3 | 3 | 7 |   |   | 7 |   | 2 | 1 | Last Stand
+Alchemist   | 1 |   |   | 5 | 5 |   |   |   |   | Forge
+Alchemist   | 2 | 2 | 6 | 6 |   |   |   | 1 |   | Smelt
+Alchemist   | 3 |   |   | 7 |   | 3 | 7 | 2 | 1 | Cast
+Shaman      | 1 |   |   | 5 | 5 |   |   |   |   | Hex
+Shaman      | 2 | 2 | 6 | 6 |   |   |   | 1 |   | Spellbound
+Shaman      | 3 |   |   | 7 |   | 3 | 7 | 2 | 1 | Forbidden Art
+Dark Fencer | 1 |   |   | 5 | 5 |   |   |   |   | Darker Side
+Dark Fencer | 2 | 2 | 6 | 6 |   |   |   | 1 |   | Eye for an Eye
+Dark Fencer | 3 |   |   | 7 |   | 3 | 7 | 2 | 1 | Amok
+Seamstress  | 1 |   |   |   |   | 5 | 5 |   |   | Stitched Up
+Seamstress  | 2 |   |   | 2 | 6 | 6 |   | 1 |   | Refurbish
+Seamstress  | 3 | 3 | 7 |   |   | 7 |   | 2 | 1 | Sew Together
+------------|---|---|---|---|---|---|---|---|---|-------------------
+Crown       | * |Rby|Emr|Tpz|Sph|Lps|Aqu|Ame|Dia| Ability
+------------|---|---|---|---|---|---|---|---|---|-------------------
+Beastmaster | 1 |   |   | 5 | 5 |   |   |   |   | Gentle
+Beastmaster | 2 | 2 | 6 | 6 |   |   |   | 1 |   | Command
+Beastmaster | 3 |   |   | 7 |   | 3 | 7 | 2 | 1 | Turncoat
+Musician    | 1 |   |   |   |   | 5 | 5 |   |   | Nocturne
+Musician    | 2 |   |   | 2 | 6 | 6 |   | 1 |   | March
+Musician    | 3 | 3 | 7 |   |   | 7 |   | 2 | 1 | Oratorio
+
+
+
+
+
+==============================================================================
+V.    Consumable Items and Magic Book List                         [hesonfire]
+==============================================================================
+
+
+
+Item                | Effect
+--------------------|---------------------------------------------------------
+Alarm Clock         | Wakes you up from any sleep
+Animate Tonic       | Cures paralysis
+Antarctic Wind      | Inflicts water-element damage
+Antidote            | Cures poison
+Bomb Fragment       | Inflicts fire-element damage
+Cross               | Lifts curses
+Dark Sigh           | Inflicts dark-element damage
+Dragon Wing         | Teleports you back to town
+Echo Herbs          | Cures silence
+Ether               | Recovers 3 AP
+Eye Drops           | Cures blindness
+Gaia Drum           | Inflicts earth-based damage
+Gold Needle         | Cures petrification
+Great Tree Log      | Inflicts earth-element damage
+Hi-Ether            | Recovers 5 AP
+Hi-Potion           | Recovers 80 HP
+Holy Breath         | Inflicts light-element damage
+Hunting Horn        | Summons monsters to your side
+Mythril             | Sell/Trade.  "A really hard lump of mythril"
+Phoenix Wing        | Brings one party member back to life
+Potion              | Recovers 40 HP
+Raven's Yawn        | Inflicts wind-element damage
+Remedy              | Cures all ailments, save death, and restores 100 HP
+Torch               | Lights up dark areas
+Tranquilizer        | Cures confusion
+X-Potion            | Recovers 160 HP
+Zeus's Wrath        | Inflicts light-element damage
+
+
+Magic Book    | Type  | Element |Power| AP| Additional notes
+--------------|-------|---------|-----|---|-----------------------------------
+Aero Tome     | Black | Wind    |  5  | 2 |
+Aerora Tome   | Black | Wind    |  12 | 3 |
+Banish        | Black | Light   |  5  | 2 |
+Banishra      | Black | Light   |  12 | 3 |
+Banishga      | Black | Light   |  15 | 4 |
+Blizzard Tome | Black | Water   |  8  | 2 |
+Blizzara Tome | Black | Water   |  15 | 3 |
+Blizzaga Tome | Black | Water   |  18 | 4 |
+Dark Tome     | Black | Dark    |  5  | 2 |
+Darkra Tome   | Black | Dark    |  12 | 3 |
+Darkaga Tome  | Black | Dark    |  15 | 4 |
+Fire Tome     | Black | Fire    |  5  | 2 |
+Fira Tome     | Black | Fire    |  12 | 3 |
+Firaga Tome   | Black | Fire    |  15 | 4 |
+Leaf Tome     | Black | -       |  5  | 2 |
+Leafra Tome   | Black | -       |  12 | 3 |
+Leafga Tome   | Black | -       |  15 | 4 |
+Quake Tome    | Black | Earth   |  6  | 2 |
+Quakra Tome   | Black | Earth   |  13 | 3 |
+Quaga Tome    | Black | Earth   |  16 | 4 |
+Thunder Tome  | Black | Light   |  3  | 2 |
+Thundara Tome | Black | Light   |  10 | 3 |
+Thundaga Tome | Black | Light   |  12 | 4 |
+Water Tome    | Black | Water   |  5  | 2 |
+Watera Tome   | Black | Water   |  12 | 3 |
+Waterga Tome  | Black | Water   |  15 | 4 |
+Desolator     | Black | -       |  30 | 5 | Mighty black magic destroys all
+--------------|-------|---------|-----|---|-----------------------------------
+Magic Book    | Type  | Element |Power| AP| Additional notes
+--------------|-------|---------|-----|---|-----------------------------------
+Cure Tome     | White | -       |  -  | 2 | Slight HP recovery, menu use
+Cura Tome     | White | -       |  -  | 3 | HP recovery, can use from menu
+Curaga Tome   | White | -       |  -  | 4 | Party HP recovery
+Esuna Tome    | White | -       |  -  | 2 | Cure afflictions
+Raise Tome    | White | -       |  -  | 3 | Revive from dead, menu use
+Arise Tome    | White | -       |  -  | 4 | Completely revive, menu use
+Berserk Tome  | White | -       |  -  | 2 | Attack increased 50%
+Protect Tome  | White | -       |  -  | 2 | Defense increased 50%
+Shell Tome    | White | -       |  -  | 2 | Magic defense increased 50%
+Magick Tome   | White | -       |  -  | 2 | Magic attack increased 50%
+Aura Tome     | White | -       |  -  | 3 | Increase status levels by 10%
+Invisible Tome| White | -       |  -  | 2 | Evasion doubled
+Regen Tome    | White | -       |  -  | 3 | Recover health each turn
+Lux Tome      | White | -       |  -  | 5 | All-stat increase, Recovery effect
+--------------|-------|---------|-----|---|-----------------------------------
+Magic Book    | Type  | Element |Power| AP| Additional notes
+--------------|-------|---------|-----|---|-----------------------------------
+Break Tome    | Dark  | -       |  -  | 3 | Inflict petrification
+Confuse Tome  | Dark  | -       |  -  | 2 | Inflict confusion
+Curse Tome    | Dark  | -       |  -  | 2 | Inflict a curse
+Flash Tome    | Dark  | -       |  -  | 2 | Inflict blindness
+Poison Tome   | Dark  | -       |  -  | 2 | Inflict poison
+Silence Tome  | Dark  | -       |  -  | 2 | Inflict silence
+Sleep Tome    | Dark  | -       |  -  | 2 | Inflict sleep
+Death Tome    | Dark  | -       |  -  | 4 | Take a foe's life
+Suppress Tome | Dark  | -       |  -  | 2 | Lower foe's status
+Drain Tome    | Dark  | -       |  5  | 2 | Absorb HP
+
+
+
+
+
+==============================================================================
+VI.   Weapons, Armor and Accessory Lists                            [icecream]
+==============================================================================
+
+
+
+-- Weapons --
+
+Swords              |Att |Def |MAtt|MDef|STR |INT |SPRT|EVd |MEvd|Elem|Other
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Steel Sword+*       |+2* |    |    |    |    |    |    |    |    |-   |
+Wind Foil+*         |+3* |    |    |    |    |    |    |    |    |Wind|
+Icebrand+*          |+4* |    |    |    |    |    |    |    |    |Watr|
+Krinjh's Sword+*    |+4* |    |+2  |    |    |    |    |    |    |-   |
+Bolt Sword+*        |+5* |    |    |    |    |    |    |    |    |Lght|Paralys
+Earth Sword+*       |+5* |    |    |    |    |    |    |    |    |Erth|
+Great Tree Sword+*  |+7* |    |    |    |    |    |    |    |    |-   |
+Shining Blade+*     |+7* |    |    |    |    |    |    |    |    |Lght|
+Darkness Blade+*    |+9* |    |    |    |    |    |    |    |    |Dark|
+Flameblade+*        |+10*|    |    |    |    |    |    |    |    |Fire|
+Lightbringer+*      |+11*|    |+11 |    |    |    |    |    |    |Lght|
+Frost Bull+*        |+12*|    |    |    |    |    |    |    |    |Watr|
+Mutsunokami+*       |+13*|    |    |    |    |    |    |    |    |-   |
+Muramasa+*          |+14*|    |    |    |    |    |    |    |    |-   |-EnStat
+Inferno+*           |+14*|    |    |    |    |    |    |    |    |Fire|
+Kiku-ichimonji+*    |+15*|    |    |    |    |    |    |    |    |-   |
+Krysta+*            |+15*|    |    |    |    |    |    |    |    |Wind|
+Gran Fissure+*      |+16*|    |    |    |    |    |    |    |    |Erth|
+Sword of Light+*    |+17*|    |+17*|    |    |    |    |    |    |Lght|
+Darkbringer+*       |+17*|    |    |    |    |    |    |    |    |Dark|
+Blacksword          |+18 |    |    |    |    |    |    |    |    |Dark|S.Death
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Shurikens           |Att |Def |MAtt|MDef|STR |INT |SPRT|EVd |MEvd|Elem|Other
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Rising Sun+*        |+3* |    |+2  |    |    |    |    |    |    |-   |
+Mooring Blade+*     |+10*|    |+10*|    |    |    |    |    |    |-   |
+Fuma Shuriken+*     |+15*|    |    |    |    |    |    |    |    |-   |Psn,Par
+Koga Shuriken+*     |+15*|    |    |    |    |    |    |    |    |-   |Cnf,Bln
+Shiranui+*          |+20*|    |    |    |    |    |    |+20%|    |-   |
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Axes                |Att |Def |MAtt|MDef|STR |INT |SPRT|EVd |MEvd|Elem|Other
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Hatchet+*           |+3* |    |    |    |    |    |    |    |    |-   |
+Wood Axe+*          |+5* |    |    |    |    |    |    |    |    |-   |
+Earth Axe+*         |+6* |    |    |    |    |    |    |    |    |Erth|
+Thunder Axe+*       |+6* |    |    |    |    |    |    |    |    |Lght|Paralys
+Hydraxe+*           |+8* |    |    |    |    |    |    |    |    |Watr|
+Darkness Axe+*      |+11*|    |    |    |    |    |    |    |    |Dark|
+Shining Axe+*       |+11*|    |    |    |    |    |    |    |    |Lght|
+Fire Axe+*          |+12*|    |    |    |    |    |    |    |    |Fire|
+Storm Axe           |+12 |    |    |    |    |    |    |    |    |Wind|
+Mjollnir+*          |+13*|    |    |    |    |    |    |    |    |-   |
+Ares+*              |+19*|    |    |    |    |    |    |    |    |-   |
+Hercules            |+50 |    |    |    |    |    |    |    |    |-   |
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Hammers             |Att |Def |MAtt|MDef|STR |INT |SPRT|EVd |MEvd|Elem|Other
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Mythril Hammer+*    |+11*|    |    |    |    |    |    |    |    |    |
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Books               |Att |Def |MAtt|MDef|STR |INT |SPRT|EVd |MEvd|Elem|Other
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Encyclopedia        |+3  |    |+4  |    |    |    |    |    |    |-   |
+Book of Ramuh+*     |+4* |    |+6* |    |    |    |    |    |    |Lght|Paralys
+Book of Titan+*     |+4* |    |+7* |    |    |    |    |    |    |Erth|
+Book of Dryad+*     |+5* |    |+8* |    |    |    |    |    |    |-   |
+Book of Shiva+*     |+5* |    |+9* |    |    |    |    |    |    |Watr|
+White Book+*        |+5* |    |+9* |    |    |    |    |    |    |Lght|
+Book of Secrets     |+6  |    |+10 |    |    |    |    |    |    |-   |
+Book of Ifrit       |+6  |    |+11 |    |    |    |    |    |    |Fire|
+Black Book+*        |+7* |    |+12*|    |    |    |    |    |    |Dark|
+Book of Sylph+*     |+7* |    |+13*|    |    |    |    |    |    |Wind|
+Akashic Records     |+8  |    |+14 |    |    |    |    |    |    |-   |
+Avalon Scrolls      |+13 |    |+5  |    |    |    |    |    |    |-   |
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Staffs              |Att |Def |MAtt|MDef|STR |INT |SPRT|EVd |MEvd|Elem|Other
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Magic Staff+*       |+1  |    |+3* |    |    |    |    |    |    |-   |
+Ocean Stave+*       |+1  |    |+3* |    |    |    |    |    |    |Watr|
+Cyclone Staff       |+1  |    |+4  |    |    |    |    |    |    |Watr|
+Terra Stave+*       |+1  |    |+4* |    |    |    |    |    |    |Erth|
+Sacred Tree Staff+* |+2  |    |+5* |    |    |    |    |    |    |-   |
+Inferno Stave+*     |+2  |    |+5* |    |    |    |    |    |    |Fire|
+Shining Staff+*     |+3  |    |+7* |    |    |    |    |    |    |Lght|
+Mythril Staff       |+5  |    |+12 |    |    |    |    |    |    |-   |
+Darkness Staff+*    |+5  |    |+13*|    |    |    |    |    |    |Dark|
+Sage's Staff        |+6  |    |+14 |    |    |    |    |    |    |-   |
+Claustrum+*         |+6  |    |+14*|    |    |    |    |    |    |-   |
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Spears              |Att |Def |MAtt|MDef|STR |INT |SPRT|EVd |MEvd|Elem|Other
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Steel Spear+*       |+3* |    |    |    |    |    |    |    |    |-   |
+Tempest Pike+*      |+3* |    |    |    |    |    |    |    |    |Wind|
+Rock Lance+*        |+4* |    |    |    |    |    |    |    |    |Erth|
+Flame Spear+*       |+4* |    |    |    |    |    |    |    |    |Fire|
+Wood Lance+*        |+6* |    |    |    |    |    |    |    |    |-   |
+Shark Lance+*       |+6* |    |    |    |    |    |    |    |    |Watr|
+Indra's Spear+*     |+8* |    |    |    |    |    |    |    |    |Lght|Paralys
+Mammon's Spear      |+11 |    |    |    |    |    |    |    |    |-   |
+Gae Bolg            |+13 |    |    |    |    |    |    |    |    |-   |
+Evil Lance+*        |+17*|    |    |    |    |    |    |    |    |Dark|
+Guan Yu's Pike+*    |+18*|    |    |    |    |    |    |    |    |-   |
+Trident             |+20 |    |    |    |    |    |    |    |    |-   |
+Gungnir+*           |+20*|    |    |    |    |    |    |    |    |-   |
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Bows                |Att |Def |MAtt|MDef|STR |INT |SPRT|EVd |MEvd|Elem|Other
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Horne's Bow+*       |+2* |    |    |    |    |    |    |    |    |-   |
+Wind Bow+*          |+3* |    |    |    |    |    |    |    |    |Wind|
+Blue Shot+*         |+4* |    |    |    |    |    |    |    |    |Watr|
+Earth Bow+*         |+4* |    |    |    |    |    |    |    |    |Erth|
+Ranger Bow+*        |+6* |    |    |    |    |    |    |    |    |-   |
+Bloody Bow          |+7  |    |    |    |    |    |    |    |    |Dark|
+Red Shot+*          |+7* |    |    |    |    |    |    |    |    |Fire|
+Stardust Bow+*      |+8* |    |    |    |    |    |    |    |    |Lght|
+Bolt Bow            |+8  |    |    |    |    |    |    |    |    |Lght|Paralys
+Hades' Bow          |+10 |    |    |    |    |    |    |    |    |-   |
+Failnaught+*        |+15*|    |+15 |    |    |    |    |    |    |-   |
+Expunger+*          |+30*|    |    |    |    |    |    |    |    |-   |
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Harps               |Att |Def |MAtt|MDef|STR |INT |SPRT|EVd |MEvd|Elem|Other
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Harp+*              |+2  |    |+2* |    |    |    |    |    |    |-   |
+Flowing Harp        |+4  |    |+4  |    |    |    |    |    |    |Watr|
+Great Tree Harp+*   |+5  |    |+5* |    |    |    |    |    |    |-   |
+Darkening Harp+*    |+6  |    |+6* |    |    |    |    |    |    |Dark|
+Shining Harp+*      |+6  |    |+6* |    |    |    |    |    |    |Lght|
+Burning Harp+*      |+7  |    |+7* |    |    |    |    |    |    |Fire|
+Stunning Harp+*     |+7  |    |+7* |    |    |    |    |    |    |Lght|Paralys
+Whispering Harp+*   |+8  |    |+8* |    |    |    |    |    |    |Wind|
+Angel Harp          |+12 |    |+12 |    |    |    |    |    |    |-   |S.Death
+David's Harp        |+12 |    |+12 |    |    |    |    |    |    |-   |-EnStat
+Lamia Harp          |+12 |    |+12 |    |    |    |    |    |    |-   |Petrify
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Knives              |Att |Def |MAtt|MDef|STR |INT |SPRT|EVd |MEvd|Elem|Other
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Baneknife+*         |+2* |    |+2  |    |    |    |    |    |    |Watr|Poison
+King's Shortsword+* |+2**|    |+2**|    |    |    |    |    |    |-   |
+Knife               |+2  |    |+2  |    |    |    |    |    |    |-   |
+Dirt Dirk+*         |+3* |    |+3  |    |    |    |    |    |    |Erth|Petrify
+Flame Dagger+*      |+3* |    |+3  |    |    |    |    |    |    |Fire|Confuse
+Stun Stiletto       |+3  |    |+3  |    |    |    |    |    |    |Lght|Paralys
+Great Tree Dagger+* |+4* |    |+4  |    |    |    |    |    |    |-   |
+Ice Pick+*          |+4* |    |+4  |    |    |    |    |    |    |Watr|Sleep
+Cursed Blade+*      |+5* |    |+5  |    |    |    |    |    |    |Dark|Blind
+Wind Dagger+*       |+6* |    |+6  |    |    |    |    |    |    |Wind|Silence
+Main Gauche         |+8  |    |+4  |    |    |    |    |    |    |-   |Par,-St
+Sasuke's Kodachi    |+8  |    |+4  |    |    |    |    |    |    |-   |Con,Psn
+Stiletto            |+8  |    |+4  |    |    |    |    |    |    |-   |Sil,Bln
+Tonberry Knife      |+8  |    |+4  |    |    |    |    |    |    |-   |S.Death
+Holy Knife          |+8  |    |+8  |    |    |    |    |    |    |Lght|-EnStat
+Fresh Meat+*        |+10*|    |+5  |    |    |    |    |    |    |-   |S.Death
+
+
+-- Shields --
+
+Equipment           |Att |Def |MAtt|MDef|STR |INT |SPRT|EVd |MEvd|Elem|Other
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Wood Shield+*       |    |+1  |    |+1  |    |    |    |+3* |+3  |-   |
+Flame Shield+*      |    |+1  |    |+1  |    |    |    |+5* |+5  |Fire|
+Ice Shield+*        |    |+1  |    |+1  |    |    |    |+5* |+5  |Watr|
+Rock Shield+*       |    |+1  |    |+1  |    |    |    |+5* |+5  |Erth|
+Darksteel Shield+*  |    |+2  |    |+2  |    |    |    |+5* |+5  |Dark|
+Holy Shield+*       |    |+2  |    |+2  |    |    |    |+5* |+5  |Lght|
+Great Tree Shield+* |    |+2  |    |+2  |    |    |    |+8* |+8  |-   |
+Shield of Light+*   |    |+3* |    |+3* |    |    |    |+10*|+10 |-   |N.Ailmn
+Unyielding Shield+* |    |+5* |    |    |    |    |    |    |    |-   |
+Antimage+*          |    |    |    |+5* |    |    |    |    |    |-   |
+Hide Shield         |    |    |    |    |    |    |    |+15 |+15 |-   |
+
+
+-- Armor --
+
+Equipment           |Att |Def |MAtt|MDef|STR |INT |SPRT|EVd |MEvd|Elem|Other
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Brandt's Togs+*     |    |+1* |    |+1* |    |    |    |    |    |-   |
+Jusqua's Coat+*     |    |+1* |    |+1* |    |    |    |    |    |-   |
+Yunita's Garb+*     |    |+1* |    |+1* |    |    |    |    |    |-   |
+Aire's Frock+*      |    |+1* |    |+1* |    |    |    |    |    |-   |
+Old Clothes+*       |    |+1* |    |+1* |    |    |    |    |    |-   |
+Steel Armor+*       |    |+2* |    |+1* |    |    |    |    |    |-   |
+Traveler's Garb+*   |    |+2* |    |+1* |+5% |+5% |+5% |    |    |-   |
+Angel Toga          |    |+2  |    |+2  |+5% |+5% |+5% |    |    |-   |
+Afreet Robe+*       |    |+2* |    |+2**|+5% |+5% |+5% |    |    |-   |
+Blue Jacket         |    |+2  |    |+2  |+5% |+5% |+5% |    |    |-   |
+Cat's Cloak+*       |    |+2* |    |+2**|+5% |+5% |+5% |    |    |-   |
+Cat's Tunic         |    |+2  |    |+2  |+5% |+5% |+5% |    |    |-   |
+Ceremonial Robe+*   |    |+2* |    |+2**|+5% |+5% |+5% |    |    |-   |
+Dancing Wear+*      |    |+2* |    |+2* |+5% |+5% |+5% |*   |    |-   |
+Dark Armor+*        |    |+2**|    |+2* |+5% |+5% |+5% |    |    |-   |
+Eastern Garb+*      |    |+2* |    |+2**|+5% |+5% |+5% |    |    |-   |
+Fencer's Garb+*     |    |+2* |    |+2* |+5% |+5% |+5% |*   |    |-   |
+Garb of Knowledge+* |    |+2* |    |+2* |+5% |+5% |+5% |*   |    |-   |
+Gunner's Coat+*     |    |+2* |    |+2**|+5% |+5% |+5% |    |    |-   |
+Hestia's Tunic+*    |    |+2* |    |+2* |+5% |+5% |+5% |*   |    |-   |
+Hunter Garb+*       |    |+2* |    |+2* |+5% |+5% |+5% |*   |    |-   |
+Maximillian+*       |    |+2**|    |+2* |+5% |+5% |+5% |    |    |-   |
+Modern Dress        |    |+2  |    |+2  |+5% |+5% |+5% |    |    |-   |
+Monkish Garb+*      |    |+2* |    |+2* |+5% |+5% |+5% |*   |    |-   |
+Priest's Gown+*     |    |+2* |    |+2**|+5% |+5% |+5% |    |    |-   |
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Equipment           |Att |Def |MAtt|MDef|STR |INT |SPRT|EVd |MEvd|Elem|Other
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Red Jacket          |    |+2  |    |+2  |+5% |+5% |+5% |    |    |-   |
+Red Sash+*          |    |+2**|    |+2* |+5% |+5% |+5% |    |    |-   |
+Replica Plate+*     |    |+2  |    |+2  |+5% |+5% |+5% |    |    |-   |
+Shinobi Garb+*      |    |+2* |    |+2* |+5% |+5% |+5% |*   |    |-   |
+Silver Suit         |    |+2  |    |+2  |+5% |+5% |+5% |    |    |-   |
+Trylion's Cloak     |    |+2  |    |+2  |+5% |+5% |+5% |    |    |-   |
+Vermillion+*        |    |+2* |    |+2* |+5% |+5% |+5% |*   |    |-   |
+Warmage Armor+*     |    |+2**|    |+2* |+5% |+5% |+5% |    |    |-   |
+Worker's Clothes    |    |+2  |    |+2  |+5% |+5% |+5% |    |    |-   |
+Black Robe+*        |    |+3* |+10%|+4* |    |+10%|    |    |    |-   |
+Krinjh's Robe+*     |    |+3* |    |+4* |    |    |    |    |    |-   |
+White Robe+*        |    |+3* |    |+4* |    |    |+20%|    |    |-   |
+Bandit Gear+*       |    |+4* |    |+2* |    |    |    |    |    |-   |Acc20%
+Torte's Clothes+*   |    |+4* |    |+3* |    |    |    |    |    |-   |
+Poet Tunic+*        |    |+4* |    |+3* |    |+10%|+10%|    |    |-   |
+Ranger Outfit+*     |    |+5* |    |+2* |+10%|    |    |    |    |-   |Acc10%
+Elementalist Robe+* |    |+5* |    |+6* |    |+10%|    |    |    |-   |MAcc10%
+Party Host Wear     |    |+5  |    |+7  |    |+5% |+5% |+5% |+5% |-   |
+Rekoteh's Clothes+* |    |+6* |    |+4* |    |    |    |    |    |-   |
+Salve-maker Robe+*  |    |+6* |    |+4* |    |+10%|    |+5% |+5% |-   |
+Merchant Tunic+*    |    |+6* |    |+5* |    |+10%|+10%|    |    |-   |
+Dancer Clothes+*    |    |+7* |    |+6* |    |    |+10%|+10%|    |-   |
+Scholar Gown+*      |    |+7* |    |+7* |    |+20%|    |    |    |-   |
+Fighter Gi+*        |    |+8* |    |+3* |+10%|    |    |    |    |-   |HP10%
+Rolan's Clothes+*   |    |+8* |    |+7* |    |    |    |    |    |-   |
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Equipment           |Att |Def |MAtt|MDef|STR |INT |SPRT|EVd |MEvd|Elem|Other
+--------------------|----|----|----|----|----|----|----|----|----|----|-------
+Hero Armor+*        |    |+8* |    |+7* |+10%|+10%|+10%|    |    |-   |HP10%
+Monk Robe+*         |    |+8* |    |+9* |    |+10%|+10%|    |    |-   |
+Shaman Robe         |    |+8  |    |+9  |    |+10%|    |    |    |-   |MAcc10%
+Alchemist Gown+*    |    |+9* |    |+8* |    |    |    |    |    |-   |Acc5%
+                    |    |+5% |    |+5% |    |    |    |    |    |    |MAcc5%
+Spell Fencer Armor+*|    |+9* |    |+8* |+10%|+10%|    |    |    |-   |
+Paladin Armor       |    |+11 |    |+6  |    |    |    |    |    |-   |HP20%
+Armor of Light+*    |    |+12*|    |+12*|    |    |    |*   |    |-   |ALL10%
+
+
+-- Accessories --
+
+Equipment           | Effect
+--------------------|---------------------------------------------------------
+Apollo's Talisman   | Defense+1, Magic Defense+1
+Black Ring          | Magic Defense+10%
+Bloody Ring         | Gain 10% of damage inflicted in a normal attack to HP
+Cape of Light       | Defense+2, Magic Defense+2, Blocks all element attacks
+Confuse Cape        | Blocks confusion
+Courage Ring        | You become psyched up more easily
+Curse Cape          | Blocks curses
+Curse Ring          | 10% chance of inflicting a curse in a normal attack
+Dark Cape           | Blocks dark-element attacks
+Death Cape          | Blocks sudden death
+Dusk Gauntlet       | Adds dark-element damage to weapon attacks
+Earth Gauntlet      | Adds earth-element damage to weapon attacks
+Elf Cape            | Magic Evasion is doubled
+Energy Screen       | Grants immunity from physical att, 4x damage from magic
+Fairy Cape          | Evasion rate is doubled
+Flame Cape          | Blocks fire-element attacks
+Flame Gauntlet      | Adds fire-element damage to weapon attacks
+Flash Ring          | 10% chance of blinding foe with a normal attack
+Fortune Egg         | Doubles number of items dropped
+Fossil Cape         | Blocks petrification
+Fossil Ring         | 10% chance of petrifying the foe in a normal attack
+Gale Gauntlet       | Adds wind-element damage to weapon attacks
+Gem Collector       | Keep all your gems, even after death
+Giant's Ring        | Attack+10%
+Growth Egg          | Doubles experience points earned
+Hermes Sandals      | Always act first
+Hero's Will         | If user dies during battle, drops down to 1HP one time
+Inherited Ring      | HP+10
+Intellect Ring      | Boosts intellect by 10%
+Lone Wolf           | Don't partcipate in joint attacks
+Mana Screen         | Grants immunity from magic, 4x damage from physical att
+Old Shoes           | Always act last
+Poison Cape         | Blocks poison
+Poison Ring         | 10% chance of poisoning the foe in a normal attack
+Power Ring          | Boosts strength by 10%
+Rainbow Boots       | Legendary boots that let you walk on rainbows
+Ribbon              | Blocks alls afflictions
+Shine Cape          | Blocks light-element attacks
+Silence Cape        | Blocks silence
+Sleep Cape          | Blocks sleep
+Sleep Ring          | 10% chance of putting for to sleep with normal attack
+Sniper's Ring       | Accuracy+10%
+Soil Cape           | Blocks earth-element attacks
+Soul of Thamasa     | Magic Attack+10%, INT+5
+Spirit Ring         | Boosts spirit by 10%
+Spring Gauntlets    | Adds water-element damage to weapon attacks
+Star Earring        | Magic Attack+10%
+Stream Cape         | Blocks water-element attacks
+Stun Cape           | Blocks paralysis
+Trylion's Ring      | Defense+1, HP+20
+Turtle Shell        | Defense+10%
+Wind Cape           | Blocks wind-element attacks
+
+
+
+
+
+==============================================================================
+VII.  History                                                        [baggage]
+==============================================================================
+
+
+
+October 5, 2010 - Picked up game.  Very very rough outline.  Up through return
+          to Horne after first dungeon.  Trying something new: typing directly
+          into the file rather than taking notes on paper.
+     Random statistics: Pages(8)             Characters(11749)
+                        Words(2476)          Bytes:(18405)
+October 6, 2010 - Initially lost at Liberte, but got it solved.
+     Random statistics: Pages(16)            Characters(22618)
+                        Words(5282)          Bytes:(36351)
+October 7, 2010 - Pirate Hideout and a whale, I think, done.  Reunited Aire
+          with Brandt, Jusqua now soloing to Urbeth.
+     Random statistics: Pages(21)            Characters(31735)
+                        Words(7582)          Bytes:(50343)
+October 8, 2010 - Huge market at Urbeth now gathered.  Dealing with a tree.
+     Random statistics: Pages(28)            Characters(40570)
+                        Words(9965)          Bytes:(65917)
+October 9, 2010 - Through Invidia.  Organized the weapons, finally.  Still
+          need to write up the non-Walkthrough sections to get this posted.
+          And change up the anchors.
+     Random statistics: Pages(36)            Characters(55208)
+                        Words(13443)         Bytes:(88875)
+October 10, 2010 - Cleaning up FAQ formatting, consolidating data, added
+          anchors.  Everyone should be at Spelvia now, just reunited with
+          Aire.  Submitting to the public for the first time tonight.
+     Random statistics: Pages(42)            Characters(66250)
+                        Words(15994)         Bytes:(104993)
+October 11, 2010 - Wow, that jumped up the wanted lists.  Filling in a bunch
+          of new shop data in most of the towns.  Heh, world tour already.
+     Random statistics: Pages(51)            Characters(78533)
+                        Words(19362)         Bytes:(128437)
+October 12, 2010 - Finished up two of the branching quests.  Dunno when I'll
+          be able to do those for real without restarting from scratch.
+          My preorder pick up is calling for me, too ;p
+     Random statistics: Pages(56)            Characters(88240)
+                        Words(21576)         Bytes:(142032)
+October 13, 2010 - Completely redid Quicksand Castle's maps, adding a bunch
+          of treasure chests in the process.  Missed a section in Spelvia
+          Dungeons and added that, after the revisit.  Adding missing notes
+          from my paper copy to Arbor's legend quest.  Added Spell Fencer,
+          Paladin, Alchemist and Shaman Crown sections.  I just need to do
+          them all at once, rather than restarting each quest anew.
+     Random statistics: Pages(63)            Characters(99673)
+                        Words(24276)         Bytes:(158586)
+October 14, 2010 - Needed to catch up and gain the weapons themselves.  Gained
+          the Master Key, wasted time doing the non-existant sheep puzzle at
+          the time of discovery.  Just noticed a sheep gate lock, so yay.
+     Random statistics: Pages(67)            Characters(105722)
+                        Words(25785)         Bytes:(168138)
+October 15, 2010 - Lots of upgrade item data.
+     Random statistics: Pages(67)            Characters(107116)
+                        Words(25961)         Bytes:(169514)
+October 16, 2010 - And credits rolled.  Final clear time, 34:42, 681 battles.
+          Still tons to write up, though; getting through that.
+     Random statistics: Pages(71)            Characters(113851)
+                        Words(27621)         Bytes:(180072)
+October 17, 2010 - Finishing up last few maps, slowly adding Wireless weapon
+          upgrade data.  Added three shops at the bonus towers.  Guide
+          through to the end of the game, filling in the circle now.
+     Random statistics: Pages(77)            Characters(124704)
+                        Words(30124)         Bytes:(195154)
+
+
+
+
+
+==============================================================================
+VIII. Copyright                                                     [vonkarma]
+==============================================================================
+
+
+
+This may not be reproduced under any circumstances except for personal,
+private use. It may not be placed on any web site or otherwise distributed
+publicly without advance written permission.  Use of this guide on any other
+web site or as a part of any public display is strictly prohibited, and a
+violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+(C) 2010 Alias: PiperStarfireGilmore
+
+
+END OF FAQ

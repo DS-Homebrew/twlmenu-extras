@@ -1,0 +1,3433 @@
+"Pokemon Ranger" for Nintendo DS FAQ/Walkthrough
+By Mykas0
+version 1.61
+11-6-2007
+
+BE SURE TO READ THIS FIRST PART! You can read this faq as long as you
+don't change ANY part of it (including this small introduction). Also,
+you can print it but only for use at your home, you may NEVER sell 
+this stuff or else you will make me really mad and maybe I won't work
+anymore! Finally, if you want to use this faq on your site you have to
+mail me and ask me for it, I will almost surely grant it to you!
+
+
+While I may not be a very huge fan of the Pokemon series (in fact, I
+hardly know their names, after the first 151), I had some free time and I
+decided to write this guide. It may not be the best one around, but it
+will surely help players with this game. Also, I wanted to give a huge
+thanks to guys back at http://www.serebii.net , their website is great and
+some of their information was used (with permission) to fully complete
+this guide, and without their help this wouldn't have been possible. Also,
+the entire website is a great resource for Pokemon information, so be sure
+to pay them a visit, ok?
+Also, I am currently accepting donations. In case you liked this guide and
+you feel like contributing for my future work (even a $5 online gift 
+certificate is just great!), please contact me to the mail stated at the
+end of this guide.
+Now, please continue reading and I hope you enjoy doing so as much as I
+did writing it.
+
+
+
+0~. Version History
+    0.1~. Notes for the American Version
+-----------------------------------------------------------
+1~. Controls
+    1.1~. Menus
+    1.2~. Initial Notes
+    1.3~. Pokemon Type
+    1.4~. Mini-games
+2~. Walkthrough
+    2.1~. Ring Town
+    2.2~. Your first mission
+    2.3~. Ring Town
+    2.4~. Mission 1
+    2.5~. Fall City
+    2.6~. Mission 2
+    2.7~. Fall City
+    2.8~. Mission 3
+    2.9~. Fall City
+    2.10~. Summer Town
+    2.11~. Mission 4
+    2.12~. Summer Town
+    2.13~. Fall City
+    2.14~. Mission 5
+    2.15~. Ring Town
+    2.16~. Mission 6
+    2.17~. Ring Town
+    2.18~. Summer Town
+    2.19~. New mission
+    2.20~. Yet another mission
+    2.21~. Summer Town
+    2.22~. Fall City
+    2.23~. Mission 7
+    2.24~. Fall City
+    2.25~. Summer Town
+    2.26~. Another mission
+    2.27~. Summer Town
+    2.28~. Mission 8
+    2.29~. Win Town
+    2.30~. Mission 9
+    2.31~. Win Town
+    2.32~. Mission 10
+3~. What now?
+    3.1~. Fall City
+    3.2~. Extra Mission 1
+    3.3~. Fall City
+    3.4~. Ring Town
+    3.5~. Summer Town
+    3.6~. Extra Mission 2
+    3.7~. Summer Town
+    3.8~. Win Town
+    3.9~. Extra Mission 3
+    3.10~. Win Town
+    3.11~. Special Missions
+        3.11.1~. Special Mission 1 (Deoxys)
+        3.11.2~. Special Mission 2 (Celebi)
+        3.11.3~. Special Mission 3 (Mew)
+        3.11.4~. Special Mission 4 (Manaphy's Egg)
+4~. Acquirable Pokemon and their moves
+5~. Frequently Asked Questions
+-----------------------------------------------------------
+ST~. Special Thanks
+EN~. Contacts
+
+
+
+
+0~. Version History
+
+-> version 1.61 <-
+- Fixed an important typo.
+
+-> version 1.6 <-
+- Added more information on the Manaphy mission for European users;
+-- Fixed some minor problems;
+--- Added one more question to the FAQ.
+
+-> version 1.5 <-
+- Fixed the location where you can find Machamp;
+-- Fixed Porygon's location;
+--- Fixed some minor typos.
+
+-> version 1.4 <-
+- Added information on the "Manaphy Egg"'s quest;
+-- Added one more question to the FAQ.
+
+-> version 1.3 <-
+- Added a lot more information on the American version of the game;
+-- Fixed many mistakes in the guide.
+
+-> version 1.2 <-
+- Fixed some minor typos;
+-- Added a more proper answer to a certain question of the FAQ.
+
+-> version 1.1 <-
+- Added some more information on extra Pokemon, and the way to unlock them
+  in the American version of the game;
+-- Added some misc notes about the American version of the game;
+--- Added information about the way to capture Deoxys, Mew and Celebi in
+    the non-Japanese version of the game.
+
+-> version 1.0 <-
+- Added ALL pokemon to "Acquirable Pokemon and their moves";
+-- Fixed some erroneous information in that same section;
+--- Added more questions to "Frequently Asked Questions";
+---- Updated most of the sections.
+
+-> version 0.8 <-
+- Added some more pokemon to "Acquirable Pokemon and their moves";
+-- Completed the "Mini-games" section.
+
+-> version 0.7 <-
+- Corrected a mistake on how much HP "Charge x2" increased;
+-- Fully completed the "What now?" section;
+--- Added some more "Frequently Asked Questions".
+
+-> version 0.6 <-
+- Added some information to most of the sections;
+-- Checked most of the guide for errors.
+
+-> version 0.5 <-
+- Completed the "Walkthrough" section.
+
+-> version 0.4 <-
+- Completed the "Walkthrough" up to mission number 9.
+
+-> version 0.3 <-
+- Completed the "Walkthrough" up to the mission inside the pyramid.
+
+-> version 0.2 <-
+- Completed the "Walkthrough" up to mission number 6.
+
+-> version 0.1 <-
+- Started the main guide;
+-- Added some information to almost all the sections.
+
+
+
+0.1~. Notes for the American Version
+
+As you may suppose, most of the information available in this guide was
+first created for the Japanese version of the game. While I doubt that
+many important things have changed, the way to acquire Mew, Deoxys and
+Celebi has slightly changed, mostly because most outsiders could have
+problems trying to go to one of the events where you could acquire such
+Pokemons.
+As you may suppose, I won't buy the American version (however, I accept
+donations! :P) and therefore I can't state much about the new functions,
+so such information comes from contributors who mailed me, and I have no
+way to check if they are true or not. So, in case you find something
+horrible (or just innacurate) in those parts of the guide, or if you feel
+the need to add some kind of information to this guide, please mail me
+about it.
+A certain user, credited as Louis, mailed me some information on what was
+changed to this American version of the game, and while I can't substitute
+them in the actual guide (it would not only take a long time, but also
+stop covering the original japanese title), you can read about them in the
+following lines.
+
+- The menu now features "Release" (instead of "Pokemon"), "Glossary"
+  (instead of "Tutorials") and Browser (instead of "Encyclopedia");
+
+- "Medals" are now called "Ranks";
+
+- "Paralyze", the special attack that only Plusle and Minun have, was now
+   renamed to "Discharge";
+
+- The "older guy" is actually called "Professor Hastings";
+
+- "Team Go-go" is now called "Go-rock Squad";
+
+- "Forest" is now called "Lyra Forest";
+
+- "Tunnel" is now called "Krokka Tunnel";
+
+- "Jungle" is now called "Olive Jungle";
+
+- "Temple" is now called "Fiore Temple";
+
+- "Cave" is now called "Panula Cave";
+
+- "Mountain Range" is now called "Sekra Range";
+
+- "Factory" is now called "Dusk Factory".
+
+
+
+1~. Controls
+
+While controls for most handheld gaming systems are usually quite easy to
+master, I can't say the same thing about the ones in this console. I will
+try to provide as much information about them as possible, and I hope you
+find it easy to comprehend.
+
+UP       - moves the character up, moves up on menus
+DOWN     - moves the character down, moves down on menus
+LEFT     - moves the character left, moves to the left on menus
+RIGHT    - moves the character right, moves to the right on menus
+A        - interact with someone, selects YES in binary options
+B        - exits in a menu, selects NO in binary options
+X        - in the field, selects all your pokemon
+Y        - in the field, selects all your pokemon
+L        - isn't used
+R        - isn't used
+START    - summons (and makes it disapper) the menu, while in the field
+SELECT   - isn't used
+
+Now, the main problem (and yet, one of the most important features) in
+this game turns out being the lower, tactile, screen of this game. You
+will obviously need to use it several times during your adventure, and
+while few of the functions are available initially, others will also be
+unlocked automatically, as you advance further in the game. So, eventually
+you will discover that the lower screen of the console can be used to:
+
+- Move your character (you simply need to have your stylus pointed at the
+  direction you wish to take) and talk to other characters (simply tap
+  them with your stylus).
+
+In battles, you can use it to:
+
+- Draw closed lines around your opponent, which makes it HP go down by 1.
+  Keep on doing it until the HP is below 1, in order to gain extra EXP
+  points after the end of the battle. Do you see the green/red numbers?
+  Those are the points you will win after the battle;
+
+- Tap the blue area on the lower right corner, to make one of your current
+  pokemons usable in the battle. Their effects largely depend on what
+  pokemon you select, but such thematic will be further developed in the
+  "Pokemon Type" section of this guide;
+
+- By "capturing" a Pokemon when its HP isn't below 1, you'll see a blue
+  area appearing on the lower left corner of the screen. Such option will
+  only be available sometimes and it allows you to run away from your
+  current battle, something that you should use if you are into trouble.
+
+That's basically it, for this section...
+
+
+
+1.1~. Menus
+
+When you first start the game, you will see two options, they are:
+
+New Game
+Options
+
+Well, all of those are quite understandable... in case you are wondering
+about the "Options" menu, it only contain two options, the first one being
+something I don't fully understand and the second one simply allowing you
+to change the background image some of the menus. However, after first
+saving your game, the layout will be changed to the following one:
+
+Continue
+New Game
+Options
+
+Easy, hum?
+Well, there is simply another menu requiring explanation in this game, and
+that turns out being menu that will appear after pressing START. However,
+don't forget that such menu will only appear after a certain part of the
+game, slightly before getting your first mission. That menu will usually
+ook like this (and no, this isn't an accurate translation, it's just my
+interpretation of it), but in case you aren't in the middle of a mission,
+its layout will slightly change:
+
+                  Pokemon
+       Mission               Tutorials
+Map                                       Encyclopedia
+       Options               Quick Save
+                  Exit
+
+"Pokemon" is the place where you can head to check information about those
+pokemon that you have currently in your party.
+
+"Mission" generally allows you to check the information about the mission
+you are currently playing. Obviously, in case you aren't in the middle of
+a mission, this option won't be seen in the menu.
+
+"Tutorials" allows you to check several information about the gameplay of
+this game, teaching you about something you may not know. When you haven't
+read something yet, it will display a symbol stating the you haven't read
+it yet. You DON'T have to read them all and there's NO prize for doing so,
+but it is always a good idea to check it, in case you have any questions.
+
+"Map" is one of those obvious options, where you can simply check the
+world MAP.
+
+"Encyclopedia" can be considered as this game's Pokedex, allowing you to
+check the information on all the pokemon that you've already seen or
+captured in the game.
+
+"Options", in this menu, has exactly the same layout as the other
+mini-menu I've stated before. Therefore, I don't think you will have any
+trouble with it.
+
+"Quick Save" is the option you should use if you are in the field and you
+need to quickly leave the game, in order to do anything else. Be aware
+that this only allows you to restart the game ONCE from that particular
+point, and then it will erase the point where you quick saved it.
+
+"Exit", well... it exits this menu.
+
+This is all for this section, I guess.
+
+
+
+1.2~. Initial Notes
+
+In this section, you will be able to read about some of the things you
+should know BEFORE starting to play the game. While they may spoil a very
+limited amount of the gameplay, it is in your best interest to acknowledge
+them as soon as possible.
+
+- As stated before, after dropping a pokemon's HP to below 1, you can
+  usually still give it a few extra rounds, to max out the EXP you win.
+  This way, you can get more EXP and still face the exact same amount of
+  enemies;
+
+- More EXP means more levels, and more levels mean more HP for you;
+
+- Shortly after starting to play, your character will gain his first
+  special bar. However, when you gain your 3rd, 5th, 7th and 9th medals,
+  you will also receive a new special bar. Since more special bars mean
+  that your main pokemon will be able to use a stronger paralyzing attack,
+  you could consider them to be quite important;
+
+- When acquiring your 4th, 7th and 10th medals, you will be able to
+  increase the number of pokemon you can carry with you at any time, from
+  the initial value of 4 up to a maximum of 7, after getting your 10th
+  medal;
+
+- Like what happens in the classical pokemon games, in here you could also
+  find "capturing all Pokemon" to be an interesting sidequest. Therefore,
+  each time you see a unique pokemon in front of you, you should give
+  everything you've got to capture it, EVEN if I have no mention to such
+  pokemon in the guide;
+
+- Save a lot and save often, as you don't want to have to replay a certain
+  mission all over again, do you? Therefore, EVERY time you see a save
+  point, be sure to use it, even if that isn't stated in this guide.
+
+That's all for now, I guess...
+
+
+
+1.3~. Pokemon Type
+
+First, I must tell you that in this game, the Pokemon are usable inside
+and outside of the battles. In the field, you can generally use them to
+help you in several tasks, like removing natural barriers. While there are
+more than 200 Pokemon in the game, the abilities that you can use in the
+field are kinda limited, and they include:
+
+- Break - destroys something, like a huge rock.
+
+- Burn - burns something down, like a tree or a huge ice block.
+
+- Charge - restores your life.
+
+- Cross - allows your characters to be taken to another place, by using
+          this ability on something they can grab.
+
+- Cut - simply cuts something in front of you, like a fence or a bush.
+
+- Flash - lights up an area.
+
+- Gust - creates a windy attack that can lift stuff off the floor.
+
+- Tackle - pushes something, as a box or a tree.
+
+- Water - throws some water, which can be used for tasks such as
+          extinguishing something that is on fire or very hot.
+
+Besides "Flash" (an ability that only Staryu can use), all the other ones
+come in 3 different strenghts, like the normal one, "x2" and "x3". While
+an ability of "x3" can remove a "x2" (or lower) barrier, the opposite
+can't occur. Also, in the case of "Charge", the normal ability restores
+5 HP, the "x2" version restores 15 HP and finally the "x3" one fully
+restores your HP.
+
+This is all for the field abilities, but the game also contains battle
+ones. With an higher number than the ones specified above, these can be
+used by simply calling a pokemon to the battle which can use an ability of
+such type, as shown in the section "Acquirable Pokemon and their moves" of
+this guide. They include:
+
+- Bug - entraps your opponent inside the lines you created.
+
+- Dark - decreases your current HP BUT makes your stylus' line longer.
+
+- Electric - simply restores your HP.
+
+- Fighting - Each time you do a full closed line, opponent's HP is halved
+             by 2 points, instead of the usual 1.
+
+- Fire - when you complete a full line around an opponent, this causes
+         massive explosions in the inside of that area, usually preventing
+         the opponent from attacking.
+
+- Flying - throws gusts, which may lift opponent's from the ground for a
+           while.
+
+- Ghost - when you complete a full closed line, ghosts appear and stun the
+          opponents inside the circle, making them stop whatever they were
+          going to do.
+
+- Grass - this attack allows you to create a grass barrier around your
+          opponent.
+
+- Ground - breaks the ground, stopping your enemies from crossing that
+           particular place for a while.
+
+- Ice - creates ice areas that can freeze the opponent, if he runs into
+        them.
+
+- Paralyze - this electrical attack stuns the opponent for as much time as
+             the number of special bars that were currently filled.
+
+- Poison - poisons your enemy, making it weaker.
+
+- Psychic - stuns your opponent for a while, taking it off the floor.
+
+- Rock - causes sandstorms.
+
+- Water - allows you to create bubbles that can imprison your enemies
+          inside, with the time being defined only by the size of the 
+          bubble you created.
+
+Some of these functions are instantly used (like the Psychic or Electric
+ones), but others will last for some time, like the Fire or Grass ones,
+with the time being awarded simply having the strenght of that pokemon in
+mind.
+
+And that's all for this section...
+
+
+
+1.4~. Mini-games
+
+While most of the events in this story are pretty linear, the game also
+seems to contain some small 3 areas where you will need to play a slightly
+different adventure. Those are not very hard, but turn your task of
+capturing all the Pokemon into something slightly harder than what you
+will usually find in the game.
+
+The "Ring Town mini-game" and the "Summer Town mini-game" are easily
+acessible by talking to the proper person, when all to the right of the
+upper exit (for the Ring Town one) and to the immediate left of the Lapras
+(for the Summer Town one), and you will need to hang on top of the
+provided Pokemon (either a Doduo or a Lapras, depending on the game) and
+try to capture as many pokemon as possible in a 3-minute time. Rarer
+pokemon give you more points, and there sure are a lot of those for you to
+find in each of the two areas stated above. Be aware that some of them are
+really hard to find and may only be available sometimes, so it may turn
+out being indeed very hard to capture a particular pokemon, even if you
+know where to find them. As an added note, the biggest difference between
+these 2 mini-games is that in the Summer Town one you can't see most of
+your enemies, as they will be appearing below the water.
+
+The "Fall City mini-game" seems to be only available after completing the
+main storyline once, and available by taking the left path on the upper
+area of the stated city, you will find an arena in there. Inside that one,
+you should talk to the woman at the counter and she will make you enter a
+tournament, where pokemon will usually be falling from the sky and you
+need to capture them, in order to win points and more capture time. You
+must be aware that circling them more times than required increases the
+time that you have for capturing more pokemon, while capturing more than a
+pokemon at the same time will greatly increase the number of points you
+get from them, and that sure is important. In case you are wondering, the
+main target is surpassing the 50000 points area, which turns being quite
+hard.
+
+That's all for this section, too...
+
+
+
+2~. Walkthrough
+
+I have to start by saying that while some people may have desired it, this
+walkthrough will simply tell you what do you need to do in each mission
+and how to perform it, I will not be spending my time trying to provide a
+lot of unuseful information or stating stuff as "give to steps to the left
+and then turn three steps to the right". Therefore, I will only provide
+information that I think to be valuable and which can indeed matter to a
+random person who is playing this game.
+Now, on to the walkthrough itself...
+
+In the first screen, you need to start by tapping the lower screen of the
+console with your stylus, or press any button at all. In the menu showing
+up next, press the first option ("New Game"), and you will be seeing the
+first scenes of this interesting game.
+When the text in the letter is simply going around the screen, you can
+press the lower screen with your stylus in order to make it go faster, and
+eventually you will reach the place where you get to pick your character,
+which you should do by tapping him/her with your stylus. In case you are
+wondering, the only difference between the two of them is the pokemon that
+will be following your character during the game, Minun for the guy and
+Plusle for the girl.
+
+Pick anyone you want, and then you will see a cutscene allowing the game
+to finally start. (In case you are wondering, A or tapping the lower 
+screen makes the text advance)
+When you finally get to control the character you picked, move it up on
+the stairs and you'll see another cutscene. After its end, move up to the
+bridge on the upper side of this area and you'll see a moving box,
+interact with it and a pokemon will jump out of it. Now, go to the
+building on the left and talk to the woman in the counter. You should head
+up the bridge once more, which will unfold a new cutscene.
+
+You will see the pokemon that jumped from the box being attacked by a
+Houndoom, besides seeing a tutorial battle, which you don't even have to
+control. The data involved in such battle is already explained in the
+"Controls" section of this guide, and you should fight the other Pokemon.
+More cutscenes, and you'll be asked to rename your character.
+Eventually a Fearow will appear, and he will take you to another town.
+
+
+
+2.1~. Ring Town
+
+After a long cutscene, you will hear about the news and eventually you
+will need to press START, in order to open the menu for the first time.
+Some more story will be seen, you'll hear about the save points and all
+that, which you should instantly use and use EVERY time you see one of
+them, or else you may become frustrated after losing an important battle
+and having to start a whole section all over again.
+When possible, leave this building and head to the upper part of town,
+leaving it in order to spot another cutscene, which will lead to the first
+mission you will ever face.
+
+
+
+2.2~. Your first mission
+
+After a long conversation, there are some pokemon to capture around here.
+Capture them all, and eventually you will see a Taillow hanging around,
+which you should capture. After doing so, go back to the main entrance and
+the Taillow will be given to his rightful owner.
+You will then see some trees one fire, which you should extinguish. In
+order to do so, you need to capture a water pokemon (there are some
+elements of the Mudkip species around) and use him to extinguish the fire,
+as seen in the small tutorial you get to see.
+After doing so, your Mudkip will run away (in this game, the pokemon
+always run away after completing their task) and your mission will be
+over.
+
+
+
+2.3~. Ring Town
+
+After the chat sequence, and when possible, leave that building and you
+will see another scene with the same man from before. Your pokemon (which
+one it is depends only on your initial choice for a character) will stun
+the Taillow and you can then easily capture it. Soon, you will get your
+first special bar, which allows your own pokemon (well, the only one that
+will always be following you) to use his electrical attack in the middle of
+the battles.
+
+Now, you should go back to the building and you'll see a new tutorial.
+Then, an older guy will appear and eventually you will be able to control
+your character once again. Talk to the older guy once, and then take the
+elevator in the left to go up. Talk to everyone in there and then head
+back to the floor below, and when talking to the older guy once more, a
+new sequence will unfold and you will (finally) be getting a new mission.
+Go all the way up, to exit this town, and then you will be starting that
+mission.
+
+
+
+2.4~. Mission 1
+
+A Bellsprout will jump out of the bushes, and you should obviously capture
+it. Another tutorial scene will appear and when you're done, head to the
+upper section of this area. Yet another tutorial scene, and then you can
+proceed. Be sure to capture the Torchic on the left, as you will be
+needing him. Head to the right side, and use the Torchic on the pieces
+blocking your path. Later, be also sure to capture the Pichu nearby, as he
+can heal you. Continue following the path until you find a huge piece of
+wood blocking you. Go slightly back, and a Combusken will jump out of the
+bushes. While you can easily capture him, using a Mudkip to aid you is
+probably also a good idea. Use the Combusken to remove the wood and
+continue following that path until you can enter a cave.
+
+Around here, you can find a strange area where all the Magikarps are
+jumping OUTSIDE OF THE WATER (cool, a water pokemon that doesn't need
+water, what's next?), but you can't go there yet. Therefore, keep on
+following the only possible path and eventually some rocks will fall,
+blocking your path. Capture the Paras and use him to get rid of the wood
+fence nearby. You can't remove the huge rocks *yet*, so... don't worry
+about it, just follow the only possible path and you will eventually see
+some thugs from your yet-to-be enemy, Team GoGo. Proceed to the right and
+head to the outside of the cave and you'll see a Rhydon, which you should
+also capture. He isn't even very strong, but after the battle he will go
+away and you should go to the right. For the first time ever, you will be
+asked if you REALLY want to leave an area... in case you do, all the
+pokemon you captured will currently go away, except for (obviously) the
+main one.
+
+In this new town, simply move to the new headquarters and this mission
+will be over.
+
+
+
+2.5~. Fall City
+
+A new character will appear and you will be given a new medal. You can't
+exit this building yet, so be sure to talk to everyone and eventually a
+woman will enter, leading to a scene where you will be given a new mission
+for you to play.
+
+
+
+2.6~. Mission 2
+
+Go to the right and you'll see a new sequence. Go all to the right and
+that woman will once again be seen. Enter the building and she will have a
+large box in front of her door, so you should go outside and capture a
+Makuhita. Use it to get rid of the box and defeat the Venonat inside.
+
+After doing so, head to the outside of the building and to the left, where
+another woman will ask you to find her Skitty pokemons. You can find them
+in the following places:
+- the top floor of the building you just visited.
+- behind a wooden fence, on the central area of this city. He will run
+  away, but you can easily get him later, by checking the behind of one of
+  the trees.
+- near the fountain, on the central area of this city.
+- on the right trash can, on the central area of this city.
+- On the upper left house, on the upper area of this city, hidden in the
+  middle of some plushies.
+When you give the 5th to the woman, she will go away and take them all.
+Obviously, it is impossible to currently have 5 of these on your party, so
+whenever you feel like it, you should go back to the woman and she will
+take the number of Skitty pokemons you currently have. Several trips to
+her will do the trick, but you should now head to the right and another
+new woman will be seen. Follow her up to her house and you will notice her
+basement to be all dark and stuff like that.
+
+Now, you have to go the the south area of this city and go down, to the
+sewers. Yes, the place which was previously covered by a Snorlax, in case
+you noticed it. He won't be there anymore, but you can go down the ladder
+and get a Staryu in there. Take him back to the woman's basement and use
+its power to lighten everything up.
+
+Exit the house, go all to the right and a woman will talk to you, but you
+will also see a pokemon attacking the clock tower. I advise you to save
+your game before confronting it, but it's really up to you. A nice option
+for this battle is stunning the enemy with the usual electrical shock from
+your main pokemon, but it is really up to you.
+
+After that, the mission will end and you will be back to the headquarters.
+
+
+
+2.7~. Fall City
+
+After the previous mission, you will not only get a new medal but also an
+upgrade to the special bar. Yeah, the one used to thundershock people! But
+anyway, you should continue seeing the story, and eventually you will get
+another new mission. Exit this building and you will instantly know where
+you need to go next. Head there, go down the ladder and a new mission will
+start.
+
+
+
+2.8~. Mission 3
+
+Start by simply following the only path available, until you find a man,
+where you should start going down. Eventually you will see some green ooze
+in the floor, head to the greatest concentration of it and you will fight
+a Grimer which, when defeated, will make all the green ooze disappear in
+that spot.
+
+Another cutscene, keep on going to the right and you'll see some more new
+Pokemon, continue always going down (even when you see a small bridge
+leading to the right) and you'll eventually find another green ooze place,
+this time with 2 Grimer in it, which you should obviously defeat. Continue
+going and down on the ladder, when possible.
+
+In that new room, you will see some Koffing and you can go all to the
+right, being specially careful not to fall in this room's holes, or you
+will need to start this room over (and yeah, below the room you're
+currently in, there's a whole lot of Koffing). These pokemon seem to be
+able to poison you, but besides moving at 1 step per second, that's not
+much to worry about. Well, in the right side of that room, go up the
+ladder and you'll find a new area with a single Raticate.
+After acquiring him, go back to the place with that small bridge and go
+up after crossing the bridge, using the Raticate to get rid of the fence
+which was previously blocking your path. Continue going up and enter a new
+area, but be careful as some Croconaw may randomly jump out of the water
+in here. Having that in mind, just follow the unique path until you see
+another green ooze area with another 2 Grimer in there, both of which you
+should (as usual) defeat.
+
+After doing so, continue to the right and follow that path until you get
+to see 2 giant water tubes. Take the one in the right and down the ladder,
+follow the path to the right and up the ladders, down on the water tube
+and you'll see a save point. Proceed to the left and all the way up, past
+the bridge and on to 3 other Grimer. In case you have a Drowzee (which
+could be previously seen in this level), you can use it here in order to
+paralyze your foes for a bit and quickly capture them. Also, in case you
+are wondering, you can go exactly to the right after the bridge, as there
+is a Drowzee in there! ;)
+
+Well, after defeating the 3 Grimer, head to the left and you'll see a new
+cutscene. You need to go that way, but how? It's rather simple, go up and
+be sure to capture the Tangela. Later, use his power in the pin on the
+other side, and you'll be taken there. Now, you can go up and get a
+Meditite, go back all the way down (by taking the right side of the water
+path) and all to the right, where a Drowzee previously was. Use the
+Meditite to break the wall, and enter the newly open hole. In there, you
+will find both an Oddish and a Magneton. Now, make once again your way to
+the outside of this small cave, get the Tangela and advance to the left
+once again. Enter the water tube on the left and follow it to another new
+room. Take the tube in the left, and all the way down for another
+Raticate. Back to the tube, go all the way up (to the room in which you
+just came from) and use the Raticate to get rid of the fence exactly to
+your left. Check around this platform and a rare pokemon will appear in
+the area, which you should try to capture, a Crawdaunt.
+
+Back to the tube, take the first left and head down (the upper exit is
+closed for good), to a place with a save point and some green ooze in the
+left. Defeat the 3 Grimer (once again, I used the aid of a Drowzee, you
+can also do it, if you like), save your game and then continue to the left
+side, following the path and seeing a Muk with 2 Grimer, later on. Get the
+Drowzee on your way there and try to defeat them. You should start by
+using the Drowzee's aid to quickly get rid of the 2 Grimer, and then use
+your partner to stun the Muk enough time to quickly capture him.
+
+After doing that, your mission will be taken to the headquarters, once
+again.
+
+
+
+2.9~. Fall City
+
+New medal, you will also earn the opportunity to take one more pokemon
+with you (before, you could only have 4, but now you can finally take 5)
+and seen more of the storyline. When it ends, exit this building and go
+all the way down, to the south part of the city. Search in until you see
+a new cutscene (with 2 Krabby attacking a Lapras), and then defeat the 2
+Krabby to continue.
+
+You will get Lapras' data and you should then talk to him, in order to be
+taken to a new city.
+
+
+
+2.10~. Summer Town
+
+Start by finding this city's headquarter and enter it. After the
+conversation, talk to the guy who is alone and more conversation will
+unfold. When it ends, go to the outside and you will have a new mission to
+play. Follow the path to this city's upper exit and you will face your
+forth mission.
+
+
+
+2.11~. Mission 4
+
+Go up on the green herbs stuck on the cliff and you'll get to see you real
+enemies (or maybe not, it's up to you to find out...) for your first time,
+in an always amusing sequence. When they leave, go to the left side and
+you have an easy battle against 3 Wurmple.
+
+Proceed by taking the only possible path, you'll see a short cutscene and
+eventually you will reach a battle against 2 Ekans. In order to have an
+easier time defeating them, you can try to stun them and then quickly
+capture one, as they usually seem to tackle you when you are least
+expecting it.
+
+After the battle, go all the way up but be aware of the falling pokemon
+(usually, members of the Spinarak species) until you reach the next area,
+which may be considered as slightly calmer. When going to the right side
+of this area, you will see another cutscene, so you should go up (using
+the place of the mountain which you can climb) and capture the Heracross
+and the other pokemon which is nearby it. Now, head back to the place
+where the guy in the cutscene was, and use the Heracross to throw the
+tree down. Be sure to capture a Lotad in the water nearby, as you should
+use it in the upper right corner to allow an herb to grow up. Follow it
+up and you will fight a rare pokemon, Grovyle. You can then use it in the
+bush nearby, to unlock a new area where 2 Lombre will be seen. After
+capturing them, go back to the main area (the one where you cut the bush,
+in case you aren't understanding me) and exit to the lower right corner.
+
+After a small cutscene, you will have to fight against 2 Mankey and a
+single Primeape. You can start by stunning them all with the electrical
+attack and then quickly capture the Mankey. Then, in an odd move, you can
+even start by summoning one of them right away, in order to quickly
+capture the Primeape. Go back to the previous area and exit the path seen
+all the way up, not before seeing a cutscene. In order to get rid of the
+fence, get one of the pokemon nearby (I got the Grovyle for this task) and
+get rid of it.
+
+Another battle, which you should quickly use to capture the small ones and
+then use the Primeape to help you capture the flying Beautifly. The enemy
+will run away, but you should continue going up until you reach the top of
+this small mountain, where another cutscene will be seen. You should then
+enter the top of the pyramid, where you will have to face a Politoed,
+which can be easily captured by using the electrical attack to stun him.
+
+After this easy battle, leave the pyramid and you will see one of your
+enemies, who will leave without a fight. Go all the way down, a Politoed
+and another guy (yes, the one which you abandoned at the begining of this
+mission) will be back and the mission will be over.
+
+
+
+2.12~. Summer Town
+
+Another medal and yet another special bar will be granted to the character
+you are controlling. After all the chat, you will be able to move him once
+again, so you should go back to the Lapras, who will take you back to Fall
+City.
+
+
+2.13~. Fall City
+
+Move to the left, and you'll see a new cutscene with your boss. When he
+finally stops talking and goes away, you should go to the headquarters,
+which will grant you another conversation and a new mission.
+
+After that, simply leave the building and take the road to the left, which
+will start your fifth mission.
+
+
+
+2.14~. Mission 5
+
+Go the left and enter the cave. Follow the only path possible, until you
+see a strange pokemon taking care of one of the huge rocks, the same ones
+which previously blocked your path. Continue to the left and enter the
+first door, follow the only possible path until you find two possible
+ones, where you should go up for another confrontation with Team Gogo.
+
+Go up, for getting a Magneton, then exit that small room and head to the
+left side, where you will fight 3 Geodude. You can easily defeat all of
+them by using the help of a water pokemon, but you should then take the
+lower path nearby and follow it fight against 3 Snubbull, which can be
+easily defeat by stunning with electrical attack and then quickly
+capturing them. Up on the next door, get a Poliwhirl and then head back to
+the room before, to use the Poliwhirl on the Graveler, which is down on
+the right side of the room. After capturing such pokemon, go to the room
+exactly up and use it on the wall, to allow the appearance of a new cave
+with a Kirlia inside.
+
+Head back to the room where you got the Graveler, and then all the way
+down. Head to the right side and you will fight an enemy with 2 different
+pokemon and then continue to the upper door on your right side, facing 3
+Zubat before heading to the upper door. From there, take the lower left
+door, then the one which goes down, the one in the left and all the way
+up. Be specially aware of the Zubat, as they can confuse your character
+for a bit. Do you see that small cave? Enter it.
+
+Here, you will have to capture one of those weird Hariyama pokemon. Then,
+go all the way down (where you fought 2 different pokemon) and destroy the
+rock blocking your path, before going down and capturing another Magneton.
+Go all the way back to the cave with the Hariyama to capture another one,
+but NEVER venture to the lower section of it, as there will be 2 Hariyama
+to fight at the same time, and that turns out being really hard to
+accomplish for most players.
+
+After capturing a single one, go back to the room where you previously got
+a Graveler and up, up, right and down until you can use the Hariyama to
+get rid of one of those huge rocks. Go back to the Hariyama cave, get the
+one in the upper room once again, and then remove the final huge rock.
+
+A small scene will occur, then you just need to leave by taking the lower
+left door, in the next room you simply have to head all to the left and
+you will see a new cutscene with Team GoGo. When you are ready to battle
+the powerful foe, talking to the pokemon and your battle will start. While
+he may seem to cause you some trouble, you can either use a water pokemon
+or try to circle him as quickly as possible. For newbies, I would suggest
+the first technique, as it requires less skill and less effort.
+
+After the battle, a short scene will be seen and you will automatically
+exit the cave, meeting with your partner.
+
+
+
+2.15~. Ring Town
+
+Another medal, some conversation and you should then leave the building.
+Head to the upper right corner of the city and then talk to the man in
+there, who allows you to play a mini-game, in case you are wanting to do
+so. Either you do it or not, you should then head back to the headquarters
+and you will see your partner leaving, so you should enter that building
+and then watch the cutscene which follows, as you will earn a new mission.
+
+Simply leave town by the upper exit and the mission will start.
+
+
+
+2.16~. Mission 6
+
+While your partner is following you, there's no way you can ask for
+his/her help or use his/her pokemon, in case you are wondering. So, you
+should simply go all the way up and talk to a man, continue going up and
+turn left on the second exit, head all the way down after the bridge, as
+you can capture a Marshtomp. As you may suppose, now you should go all the
+way up, until you reach a new area. A girl will start talking about her
+missing Jigglypuff, which you should proceed to find.
+
+From here, go all the way up and you will see some rare Pokemon, go all to
+the left and eventually you will see her (at least a Jigglypuff is usually
+considered as a "she"...) jumping/floating around. When she is going to
+step on the floor, quickly move there and fight her. You can easily
+capture this pokemon, but you should then return to the little girl (who
+is still standing in the lower right corner of this area) and then proceed
+(now, without your partner) to get a Phanpy, which you should use toattack
+a tree, until it drops a Beedrill. Using him, get rid of the stone in the
+right side of scenario, next to the lower section of the river. By going
+down in there, you will be able to get a Wartortle.
+
+Now that you've done it, head to the left area of this area, which will
+lead you to a new area, which contains a single wooden shrine. No, there
+isn't any Celebi in here, so you should continue to the left and, in the
+next room, go all the way down to face a group of new pokemon and even to
+find your beloved Pikachu. From here, go back up and turn left on the
+first place, continue to the left and down, left on the next possible
+choice and continue up to the next area, where you will find a mysterious
+man, after jumping off a short cliff.
+
+After the conversation, proceed to the left and capture a Quilava, which
+will lead to another short conversation. Follow the path in order to see
+Murkrow, which will run away. Use the Quilava to remove the tree in your
+path, which will lead to yet another conversation. Continue to the next
+area, all the way up but be careful with all the Beedrill hanging around,
+until you reach yet another new area.
+
+The pokemon in the new are mostly peaceful, but you should capture them as
+usual, before heading to the area in the right. By first taking the upper
+path, you will understand that this area is slightly like a labyrinth, so
+you should take the lower path once, which will allow you to get a
+Nincada. Then, head back to the previous area (by taking the left path)
+and use this pokemon to remove the bush on the central path area. Enter
+the newly seen hole and you will see a Venosaur, which you can capture
+with some aid from a Beedrill, if you have one with you.
+
+After capturing it, exit this small cave and go left, to find yourself in
+the labyrinthic area once again. Start by taking the lower path, then
+follow the upper one and finally go for the lower one, which will lead to
+another scene with the Murkrow. After that one, capture a Phanpy and use
+him on the tree, which will drop down the Murkrow, leading to another
+short scene.
+
+When you are ready, go to the dark pokemon and be sure to capture him
+(however, he will have some help, if you know what I mean...), an action
+which may turn out easier if you use the thundershock to capture the 4
+Spinarak which are running around. You can then use a Phanpy (in case you
+have a stocked one) or even a Venosaur to help you capture the Murkrow
+itself, which shouldn't pose you much of a trouble.
+
+After the battle they will all run away, so you should take the lower path
+to exit this area and see the cutscene which ends this mission.
+
+
+
+2.17~. Ring Town
+
+Another medal, you will be able to carry one more pokemon with you, and
+you will even acquire another special bar, always nice. Your boss will
+take the elevator up, so you should do the same thing and you will have to
+fight a Dragonite. He doesn't have much HP but he is indeed quick, so you
+will have to try circling him as quickly as possible (and forget about the
+earned EXP, in here...) and that is probably the best, and yet only, tip I
+can give you about it.
+
+After the battle, you will be taken to Summer Town.
+
+
+
+2.18~. Summer Town
+
+You will eventually be taken to the inside of the headquarters, where you
+will once again meet your partner and all that. When possible, exit it and
+follow to the forest, once again making your way to the inside of the
+pyramid, the same one you visited in a previous mission. In your way
+there, you will face a funny cutscene, but when you are back inside the
+pyramid, your partner will touch the strange statue in front of you and a
+new path will be appear. Enter it, go all the way down the stairs and you
+will have to face a new mission.
+
+
+
+2.19~. New Mission
+
+While this mission doesn't seem to have a real number, it indeed has an
+interesting feature, with the player being able to select which area he
+wants to face first. There is a cutscene with an Entei statue that you can
+see by crossing the upper area of main bridge, but there are 4 different
+areas for you to play, 2 in each side of the bridge.
+
+Since the lower left area is still unable to be followed, and one of the
+entrances in the upper left leads nowhere, there are initially only 3
+areas for you to choose between, 2 on the right side of the bridge and 1
+on the left side of it. I suggest you start by the left side, but it is
+really up to you. In there, you will face:
+
+- On the upper left side, you will find a windy room, where you simply
+  need to reach the upper central area, which contains a door to a battle.
+  In case you have been using the stylus to control the character, in here
+  you'd better use the directional controls to do it, as it will turn your
+  task into something easier. At the end, you should face (and obviously
+  beat) a Flygon, which is weak but REALLY quick. Therefore, you should
+  wait for him to be in the middle of the screen, preparing to attack, and
+  then circle him as quickly as possible. Hopefully, you will capture it
+  without much trouble.
+
+- On the lower right side, you will find a room with 5 Gyarados shooting
+  water bubbles. In case you are hit by one of those, you will fall to the
+  floor below and you'll have to start over. This isn't very hard, you
+  simply need to see where the bubbles are heading and try to walk only
+  when you're sure that you won't be hit. At the end, you'll have to face
+  2 Kingdra, which aren't even very hard to capture. You can simply stun
+  (and quickly capture) one of them with your thundershock, and then you
+  can simply normally capture the other. Be aware not to lift the stylus
+  when they are inside the water, or your capture will fail. Apart from
+  that, this one is probably the most easy of the 4 areas.
+
+- On the upper right side, you will find a room where you simply need to
+  step on the huge yellow switches to spawn some enemies, which you should
+  capture and use to destroy the blocks nearby. It is an easy task, and
+  you should destroy all the blocks before proceeding to the last door.
+  There's no way you can take more pokemon with you there, and when you
+  destroy the last block all your pokemon will run away (well, besides the
+  one which always follows you), as you will have to face a powerful
+  dragon, Salamence. This will probably be your toughest battle this far,
+  as you will need to be extremely careful with your foe. The stunning
+  attack of your pokemon doesn't seem to help at all, so you have to do it
+  by skill, which turns out being really hard, as your enemy has a nice
+  22 points of HP. Your best best is to start circling him as soon as he
+  lands on the floor (causing a massive explosion...), be aware of his
+  beam and when he starts flying, try to circle him as quickly as
+  possible, always without touching it. With some tries, you will probably
+  manage to beat him, but besides that there's not much I can tell you,
+  sorry about that.
+
+After beat these 3 areas, you will finally be able to enter the one in the
+lower left, which you should take after saving your game. In there, you
+will find an unimportant room (c'mon, you will only fall out of this area
+if you are REALLY dumb), so you should simply head to the upper section,
+where you will see a Charizard and Team GoGo. Another cutscene will then
+follow, and eventually you will see the Charizard roaming around. You must
+touch it when it is back in the ground, and a battle will start.
+
+While he isn't very strong, your main problem may be having enough time to
+capture him. Each time he starts spitting fire, his HP will reset, so your
+biggest problem may be the one of getting him. Well, you should bear in
+mind that when you're hit with one of those small static flames, they seem
+to disappear, and that's something you could try to use for your own
+advantage. Exactly after he stops spitting fire, you should try to circle
+him as many times and as quickly as possible, but don't mind about the
+EXP, think simply of capturing him and completing the battle. Eventually
+you will be able to do it, and the game will continue.
+
+Your life will (fortunately) be restored, so you should exit this area
+(there's no need to check the upper room) and go the the middle of the big
+bridge, where the statue of an Entei was. A new scene will appear, in
+which the statue disappears, and then the mountain will strangely start to
+shake. When you proceed to check what happened, a new mission appears.
+
+
+
+2.20~. Yet another mission
+
+Hum, a real Entei is around... I wonder how he got here, NOT! Well, back
+to what matters, appears that this area was actually a volcano, which you
+will now need to calm down. Proceed to the right and all the way up, where
+you will fight two fire pokemon. From there, go up and right to get a
+Graveler, which you can easily capture if you wait until he rises from the
+floor. In this same room, use him to get rid of the huge rock on the lower
+right corner, above the stairs. Inside, you will capture a Tangela and a
+Sceptile, which you can capture with some help from a fire pokemon.
+
+Getting in the outside, cross the bridge to the left side and you will
+fight a Rapidash. Cut the brown fence for a small cave with 2 water
+pokemon, all of which you should capture. Back to the outside, continue
+going up and you will be able to get a Manectric, but you should also
+enter a small cave, the same one that previously didn't have anything in
+there, which now has 2 Beldum. A Magmar can sometimes also be seen in the
+outside, so in case you see him, be sure to capture one.
+
+When you're done, go back to the right side of the bridge and then
+continue all the way up, you'll reach a new screen and eventually fight 3
+Slugma. Instead of following the new stairs, continue going up and you'll
+have to fight a Meowth and a Sneasel, before trying to capture the Rhydon,
+which is hanging nearby. With his help, get into the stairs you previously
+unlocked (when you beat the 3 Slugma) and use him to destroy the huge
+rocks that fell from the top of the cave.
+
+Going slightly down, you will find a Houndoom, but you should continue
+heading down and down in the stairs which are seen at the end. Follow the
+only possible path and you will see another cutscene with the woman from
+before. Instead of instantly going up on those stairs, take the ones in
+the far left and you will be able to get some Charmander. You are then
+free to save your game and go up the stairs.
+
+In there, you will find one of those Team GoGo guys with his pokemon, a
+Slaking. While he can cause a lot of damage to you in case you are in
+front of him, you can simply circle him and stop when he is about to
+attack, turning this into an easy battle.
+
+After the battle, you should simply go all the way up until a new room,
+where you will see the guy from before, along with an Entei. Such pokemon
+is indeed weaker than you could think, so apart from his ability to summon
+more fire pokemon to this battle, he isn't strong at all. If such thing
+indeed happens, you can use a full power thundershock to paralyze everyone
+on the screen, easily capturing the weaker pokemon. As for the Entei
+itself, remember when I told you to stock those water pokemon? This is
+exactly where you should be using them, send the Entei inside one of those
+classic bubbles (from the water power) and then capture him as quickly as
+possible.
+
+After getting rid (or maybe not...) of this legendary pokemon, you should
+head back to where the woman was, which will trigger a cutscene with the
+Charizard and eventually take you back to the headquarters.
+
+
+
+2.21~. Summer Town
+
+Some conversation, and you should exit the headquarters as soon as you are
+able to, which will lead you to another cutscene. After that one, take the
+elevator up and talk to the Dragonite, who will take you back to the
+second it this game's cities.
+
+
+
+2.22~. Fall City
+
+After the conversation, you will get a new mission, where you should go to
+the central part of the city and then to the exit on the right side of it.
+
+
+
+2.23~. Mission 7
+
+This will start with a small cutscene, you simply have to interact with
+the door and the guy following you will open it. The front door is (as it
+is usual in this kind of game) closed, so you must go all the way around
+the building. Simply proceed to the right, and all the way around, you can
+catch some Voltorb but you MUST capture a Meowth and a Makuhita.
+When you captured at least those 2 pokemon, head to the front of this
+factory and enter the silver door on the right.
+
+Use the Meowth to get rid of the wooden fence on the left and then go up
+the stairs, where you should use the Makuhita to get rid of the box. Go
+down the hole and you can capture a Growlithe. After doing so, continue
+your way on the floor above, by taking the only possible path and
+defeating the 2 Voltorb. Proceed by that path for a short scene with Team
+GoGo, before continuing to the left.
+
+There's not much to say around here, except that you will see a Pikachu
+locked in a cage, but you can't save it yet. Continue going up, for a room
+full of Mr. Mime, which you should exit by the left side. You'll have to
+fight 2 Mr. Mime, which you should stun and capture as soon as possible.
+
+Proceed to the left, then go up and to the right on the next room, going
+up the stairs. Be sure to capture the Pinsir in here, but you can also
+fight a Slakoth on the upper left corner of this room. When you're done,
+go back to the room with the Pikachu and release it, which will make some
+Ghost pokemon appear around. Go back to the attic and capture another
+Pinsir before continuing.
+
+Back to the room where you went up the stairs, this time you should exit
+the room by the lower exit, which will eventually take you to a battle
+against a Muk and two other strange pokemon. Capture the two of them by
+stunning them, and then head to capture the Muk.
+
+Enter the door and capture the Houndoom, which you should then use in that
+big room (the one now filled with Gastly), to get rid of the thing that
+prevented you from going down the stairs. On that new room, beat the 3
+pokemon and continue going all the way down, where you will eventually
+need to face a whole lot of Rattata. It will be really easy to capture
+them all, you don't even need to be afraid of it!
+
+Down to the next room, which despite containing 3 exits, you must
+initially take the one in the right side. Make your way to the upper
+section of that room (yes, I know it is filled with eletrical floors, but
+I don't think you can do it wrong, it is rather easy) and enter the new
+room, where you should use your Pinsir to release this Pikachu. Go back
+to the room you just came from, capture the Magneton and a Pinsir, then
+going for the room in the left, on that big room with 3 exits. Go all the
+way around the boxes and exit to the lower left room.
+
+Here, go all the way up and you'll see another cutscene, where you will be
+attacked by two pokemon, which you can easily stun and capture. When your
+enemy leaves, enter the room he came from and be sure to capture at least
+the Scyther, as you will be needing it soon.
+
+Exit this room, proceed by the path in the right side of the room and
+enter the first door you see. Use the Scyther to release the Raichu, which
+will escape. Go all the way back to that room with 3 entrances, and while
+you are trying to do so, another member of Team GoGo will fight you. His
+pokemon, a Scizor, can be stunned with the electrical attack, so you can
+use it to easily capture it, provided you capture him quickly.
+
+After the battle, your mission will be over and you will be taken back to
+your headquarters.
+
+
+
+2.24~. Fall City
+
+A small conversation, and then you will get another medal. When all the
+conversation ends, take the elevator to the second floor and use the
+Dragonite to go back to Summer Town.
+
+
+
+2.25~. Summer Town
+
+You'll be seeing a slightly longer conversation, but at the end you can
+get a new mission. After that, exit to the jungle (as usual) and this new
+mission will start.
+
+
+
+2.26~. Another mission
+
+This one would be REALLY easy, if it wasn't for a small detail: the guy
+who is following you is afraid of bugs. Interesting, hum? Every time he is
+touched by a bug, your position in this mission will be reset and you will
+have to do it all over again. A trick is to constantly check the map on
+the console's upper screen, as you will normally know if anyone (either
+bug or simply another pokemon) are nearby.
+
+You should start by exiting the first area by the upper left corner, then
+continue to the place where the Snorlax previously was, take the upper
+route in there, then the upper one and then all the way up, to reach a new
+area.
+
+Here, go all the way up but be aware, as some bugs may cover your path. Up
+on the mountain parts covered with herb, and all the way up until you find
+a cave-like place, which contains a save point. From there, go slightly up
+and the guy who is following you will kick a Magikarp onto the water, an
+action which will awaken a powerful Gyarados, along with 4 amazing
+Magikarp. As soon as possible, stun everyone with an eletrical attack and
+then quickly capture ALL the Magikarp. As for the Gyarados, you can either
+restore your entire special bar and then stun (and quickly capture) him,
+or you can do it by skill, slowly capturing him and being specially aware
+of his beam, which he always uses twice in a row.
+
+After the battle, another cutscene will be seen and your mission here will
+be over.
+
+
+
+2.27~. Summer Town
+
+Conversation, and eventually a new mission. Exit the headquarters and the
+guy you just met will talk to you, so you should visit the lower platforms
+in this town and another cutscene will be seen. When you are able to
+control your character once again, move to the submarine and your 8th
+mission will start.
+
+
+
+2.28~. Mission 8
+
+Oh, so this was the area in which the Magikarps are hanging outside of the
+water... I wonder how they do that, but nevermind, I am supposed to be
+writing about how to complete the game... Well, when the conversation
+ends, be sure to follow the guy into the next area.
+
+When you reach it, you will notice that this room has quite a few new
+pokemon types, so you may want to try getting at least once of each
+species before heading into the next area, acessible at the top of this
+one. On the new one, start by going left (to capture a rare pokemon) and
+then go up, to yet another new room.
+
+In here, instead of going up (as the man outside the cave may suggest) you
+should go all the way left, across the many rooms and capturing the
+several rare pokemon which will cross your path, but don't forget to use
+that pokemon that I told you to capture in the last paragraph, as you can
+use it to break the huge rock and capture a Wobbuffet. When your done, go
+back to the place where the man was and up, to enter a not-yet-visited
+area.
+
+In there, you will see a sleeping Steelix, which you need to awake by
+using the Poliwrath that you capture a few moments ago, in the area where
+you got the Wobbuffet. However, after making him disappear, be sure to
+head back and capture two water pokemon before proceeding. When you're
+ready, enter the huge hole and go down the stairs, saving if you like.
+
+On the next area, exit by the stairs on the left and you will see the guy
+from before talking to someone else. You should go right, but when you try
+to do it, you will see that those pokemon won't allow you. Therefore, you
+need to bring them the other pokemon. In order to do it, take the upper
+path, go all the way up and down the hole in the floor. You will find
+yourself in a water area with lots of exits, but you should simply take
+the leftmost exit, which will take you to the pokemon you want to catch,
+so you should then return it to parents, so that they go away. You can
+proceed right away if you want, but you can also return to the water
+maze-like area and get the other rare pokemon in this area, which can be
+found by taking the rightmost exit.
+
+When you're ready, take the same path that all those pokemon and on to the
+next area. You can capture a Raichu and a Piloswine before going up the
+new stairs, something you sure should do. Next area, you can capture a
+Golem as a new pokemon BUT you can't remove the huge ice blocks yet, as
+you will need a fire pokemon. When you're ready, be sure to have at least
+a fighting pokemon (like the one you previously used to removed a rock
+before, a Medicham) and SAVE YOUR game in this room, then you can go all
+the way around the stage and up, making the Steelix attack you. He is one
+of the biggest pokemon you will see in the entire game, so you should be
+careful. Your best bet for capturing such beast is by stunning him and
+then QUICKLY putting the fighting pokemon into play, to cause as much
+damage as quickly as possible. It may take a while, but eventually you
+will manage to do it and a cutscene will follow.
+Another strategy for this battle is probably stun it at full power when he
+is moving in a loop and then use Medicham to quickly capture it.
+
+The two people from before will appear, and so will a soldier from Team
+GoGo. Instead of heading to the Steelix's cave (it doesn't contain
+anything), follow those people by the only possible path and you will
+eventually find yourself going to another new zone, where you will be
+asked if you wanna drop your pokemon. Obviously, you should do it, or else
+you wouldn't be able to continue. Go slightly up and your mission will be
+over.
+
+
+
+2.29~. Win Town
+
+After entering the headquarters, you will be given a new medal and you
+will be given another special bar, apart from a new mission. After all the
+conversation, leave this town by its upper exit, and your mission will
+start.
+
+
+
+2.30~. Mission 9
+
+When following the road, you will eventually see a scene with a Charizard
+flying around. Be sure to capture the 2 water pokemon in here, and then
+follow the road to the right side, fighting 6 weak enemies. When you see
+the sleeping Snorlax, turn left and continue following the road, fighting
+some more of those week enemies. Continue, and you will find yet some more
+enemies. Some more road, and eventually you reach the next area.
+
+Some enemies will jump from tree, but you'd better run from the battle if
+they are too many. Up to 2 will be OK, but more of them may cause you a
+lot of trouble. However, they give a lot of EXP, so you could hang in here
+for a while, defeating them one by one. When you're ready, go up for the
+next area.
+
+Enter the house and you can talk to the man, who will restore your entire
+HP. Now, you should continue following the road BUT before crossing the
+bridge, go all the way up and you can capture a Raichu. Then, when
+crossing the bridge, you will see a rare pokemon being stalked by members
+of Team GoGo. It will later cause a lot of fog in this area, which you
+need to remove. The best way to find the pokemon causing this is by
+checking the map on the upper screen, you can use it to find where the
+pokemon are and then find the particular one. It isn't very strong, but
+you will find it to be quick. After capturing such pokemon, go all the way
+up and continue following the road until you reach a new area.
+
+You will need to knock the tree down, so you should capture a Piloswine
+(there's one nearby) and use it to do the job. Go all way to the right and
+eventually you will see a zone with the trees burned down, you will also
+see the Charizard in there and you should touch him to fight him. When he
+is flying, start by stunning him with your thundershock and then attack
+your enemy with the water pokemon, but be aware to capture him QUICKLY, or
+else you will be in trouble. An interesting detail is that you can
+actually run away from this battle, so you'd better do it if you run out
+of water pokemon, as they are your best chance against this enemy. Even if
+the bubble doesn't stand in there time enough, you can still try to
+capture him, but be way more careful when he is flying around, shooting
+flames out of his mouth.
+
+After the battle you'll see a short cutscene and you should then continue
+going up, obviously saving your game on the save point. Follow all the
+road until you find a Tangela, which you should capture. Continue going
+all the way up and at the top you should turn left, where you will have to
+face two pokemon. After defeating them, take the path in the left and
+follow the road, turning left on the first possible chance, but not before
+having 2 Tangela on your party.
+
+In the next area, use those 2 Tangela to jump to the other side of the
+cliff and the continue following the road to the next area, where you will
+need to climb a huge mountain. When you're reaching the top, an odd scene
+will occur and you will see a scene with a Team GoGo soldier. When you
+touch the switch, there will be no way back, so be sure that it is what
+you want to do. In case it REALLY is, continue reading.
+
+Appears you've just entered Team GoGo's headquarters! After the scene,
+enter the door and save your game, if you want. Here, there's a single
+path for you to follow but there are some red floors that reset your
+position in this area. While you should try watch the patterns in which
+they lite up and turn off, I will try to provide you schematics on how to
+proceed in each area. You should simply follow the ordered number, but if
+the numbers are the same, it means that you should quickly move from one
+panel to the other, without waiting for the colors to change. The first
+two panels are easy, you just need to do:
+
+   X
+-> 1
+
+But continuing, you should then enter the door and you'll see some more
+panels.
+
+   X X X X
+   2 2 2 1 <-
+
+(After the first panel turns off, go there. Then, when all the other lower
+panels turn off, quickly move all the way, as shown above).
+
+Continue advancing and the layout for the next one will be slightly
+harder than before:
+
+   X X X X
+-> 1 2 3 4
+
+(Board the first panel, and then continue heading to the right BUT only
+when the new panel turns off)
+
+   X 4 3 2 1
+   4 4 X X X <-
+
+(Start slowly, but go quickly on the last 3 panels, as shown above).
+
+Enter the door and continue going for more panel "fun".
+
+   1 X
+   1 X
+   1 X
+   1 X
+   ^
+   |
+
+(While the layout is simply, you should start moving as soon as the first
+panel turns off, moving in direct line AND as quickly as possible)
+
+   X 1
+   X 1
+   X 1
+   X 1
+     ^
+     |
+
+(Once again, you should go as quickly as possible, just like in the panels
+you just faced)
+
+Go down the stairs and this will all be finally over, no more panels for
+anyone. A huge door will close after you, so you'd better save your game
+before continuing.
+
+Go left, capture the 3 pokemon in there and then exit by the upper green
+teleporter. Continue to the left and you will have to beat 3 pokemon at
+once. Here, you can get a powerful Swampert on the lower left corner, and
+you can then take the lower left exit. On the next room, take the only
+possible exit and you will find a Blaziken, which you should capture
+before heading to the right side. Follow all the way to the left and board
+the last teleporter, in the next room you should take the upper left one
+and you'll have to fight against another enemy with 3 pokemon.
+
+Take the only possible exit and then head to the right, going down the
+stairs when possible. Go down, capture all the pokemon and down once more,
+you'll find your partner and you should then capture the 2 pokemon in the
+right, before going up two areas and using the Sneasel to remove the
+fence, where you will find an Electabuzz. First, use him to fully heal
+you, but you should then return to this same screen and capture him
+*again*. When you're ready, take the red door and you will find yourself
+fighting against a Team GoGo member, who you should defeat with the aid of
+the water pokemon you captured before.
+
+After the scene, heal yourself with the Electabuzz and then capture
+another one (and the Mankey nearby!) before heading into the blue door. In
+there, you'll have to fight against 3 other enemies. Use the thundershock
+to easily capture the 2 weaker ones, and then go for the big one, which
+you should with strategy, as we did to capture it before.
+
+One more scene, and you should then enter the same door which your enemies
+took. 3 more pokemon for you to battle, you should start by maxing out the
+power on your special bar and, when possible, use the thundershock to
+capture the 2 Scyther. Then, continue maxing out the power on the special
+bar, and when it is once again completly filled, you should stun the
+Scizor and then quickly capture it. Yet again, heal youself and capture
+another Electabuzz before heading down the stairs.
+
+You can capture whoever you want in there, but be sure to enter the door
+and capture at least a single Machamp. Then, save you game and go all the
+way up on the room filled with Machamp, continue going up on the next room
+and you will need to fight the 3 forms of Larvitar. Start by easily
+capturing the Larvitar itself, then use a Metang to stun everyone and
+QUICKLY capture the Pupitar, and then finally use the Machamp to help you
+capturing the Tyranitar.
+
+After the battle, an unusual cutscene will occur and your mission will be
+over. When all the conversation ends, go down the hole and exit the cave,
+which will take you to the outside and (eventually) back to town.
+
+
+
+2.31~. Win Town
+
+You'll get your tenth (and last) medal, along with ability to finally take
+up to 7 pokemon with you. Eventually you will get yet another mission, so
+you should exit this headquarters and move out of town, by taking the
+upper exit. Go all the way up to the place where you had to use a Tangela
+to go to the other side of the cliff AND when you're at the top of the
+moutain (slightly before the area I just told you about), you will notice
+that the huge gates from before are now open. Obviously (or we wouldn't be
+be here), you should enter them and go up the stairs, which will unlock
+your last mission.
+
+
+
+2.32~. Mission 10
+
+Go slightly up, and you'll see someone closing another of those huge
+gates. Interact with the gates and you'll see a new scene, where the
+Charizard from before appears and opens the gates for you. Cross them and
+you can save your game if you like. Go up the stairs, all to the right and
+up the stairs, continue going up and turn left before the second stairs,
+falling on the hole between the 3 pillars. Follow that path to the lower
+left corner and then jump down, in that exact place. Proceed all to the
+left and when you reach the end of that platform and jump to the left,
+going up the stairs and all the way up and up on the next stairs, to the
+left and up another stairs, after which you'll see a Raichu, which you
+should capture. Head all to the left and up the stairs, follow that path
+and eventually you will find yourself seeing another cutscene.
+
+Basically, you have to put the 3 main Eevee evolutions on those stone
+squares, and I mean Vaporeon, Flareon and Jolteon. From here, jump down
+from the lower left square, then turn right and you should go down the
+stairs, as you will find an entrance in there. That place is full of rare
+pokemon, which you could try to capture, and there's even a Flareon in the
+room at the lower area. Capture AT LEAST the Flareon, the 2 Gengars and
+the Espeon before going out, but remember that you still need to find the
+other 2 main Eevee evolutions.
+
+From the exit of that small place, go up the stairs and all to the left,
+falling down the ledge from the leftmost point for the Vaporeon, who
+usually tries to run from the battle as soon as possible. Stun him with
+the electrical attack and then you should quickly capture him. Now, head
+back to the stone squares and interact with the ones in the left and right
+sides, for getting rid of 2 (out of 3) pokemon which you were required to
+capture.
+
+From there, go all the way to the right and fall down the rightmost ledge
+twice, to find yourself in an area with the Jolteon, which you can capture
+with some help from a Gengar. Now, use the Raichu to heal you and go all
+the way back to the room which contained all the rare pokemon capturing a
+Medicham and the Gengar which you just used to capture the Jolteon.
+
+Head back to the stone squares and interact with the middle one, which
+will cause the huge door to open. Enter it, SAVE YOUR GAME and then start
+climbing the huge building on front of you, facing several battles. You
+can (and should...) go back and save after each of them, but it's really
+up to you.
+
+For the first one, simply stun everyone and be sure to capture at least 2
+out of the 3 pokemon. As for the last one, simply capture it, as you would
+usually do. Proceed all to the right.
+
+For the second one, use the Espeon and be sure to capture at least 2 out
+of the 3 pokemon. As in the battle before, you should then simply try to
+capture the last one as you normally would. Up the stairs...
+
+For this third one, be aware that you may need to heal during the battle,
+and you should use your Raichu for that purpose. As soon as you have your
+special bar filled, stun your two enemies with the eletrical attack and
+the capture the Blaziken (the fire pokemon...). As for Blastoise, he isn't
+much of a threat alone, but I guess you can use your Gengar to help
+capturing him.
+
+After the battle, instead of continuing, you should go back to the
+previous area, fully heal yourself (and I mean it!) and then capture the
+following pokemon: Medicham, Gengar, Gengar (yep, 2 of them!), Espeon,
+Flareon, Raichu. When you have captured all of those, heal yourself, be
+sure to have your special bar completly filled and then head to the place
+inside the gates. As before, be sure to save your game and then climb to
+the top of the building, where you will be asked to confirm if you really
+wanna go (or not). Obviously, you should want to do it by now...
+
+Long cutscene, and then you will have to fight a Raikou. By simply dodging
+his thunders (or waiting for them to go away) and then striking with one
+of your Gengar you will do just fine, as your enemy isn't very strong.
+
+Then, after a small cutscene, you will have to fight a Suicune. Stun him
+as soon as the battle begins, before he has the opportunity to create some
+clones, and you will then be able to easily capture him.
+
+Another cutscene, and you will finally fight the most powerful of the 3
+beasts, an... Entei! Strangely, this time he is way stronger than the last
+time you saw him, and he will be covered by some small flames that grant
+him a certain immortality. "Capture" this pokemon normally until all the
+flames surrounding him disappear, and then you can use the Espeon to stun
+it for a while, but EXACTLY after using it, call for the Medicham and use
+it to have an even easier time. If you can't do it, call for the other
+pokemon you currently have. There's also an interesting technique in which
+you can simply held your opponent in there (by taking only 1, 2 HP at each
+time and then lifting your stylus) until the flames disappear, then stun
+him with a full powered thundershock and then use the Medicham (or simply
+capture him normally, like I did, but such technique is for more advanced
+players!). Believe me, this battle will be really hard, but eventually you
+will manage to beat your opponent and a cutscene will appear.
+
+Strangely, the man from before will be gone, and your boss will appear,
+leading to this game's final cutscene, where most of the events in this
+game are finally spoiled for you, and the mission will be over, as will
+the game. Well, or at least the main storyline will... You can see the
+credits and all the usual stuff, and then your game will be saved.
+
+Now, you should continue reading in this next section of this guide...
+
+
+
+3~. What now?
+
+As you may have read above, after the credits and all that, your game will
+be saved. Load it as you normally would, and then you'll see a large
+cutscene, allowing you to eventually gain access to the data of your
+partner's pokemon. Then, take the elevator to the second floor and talk to
+the man next to the Dragonite, who will allow you to choose what city you
+want to go to. Pick "F", for Fall city.
+
+
+
+3.1~. Fall City
+
+Try to enter the headquarters and you will receive a message. Now, go to
+the house where you used a Staryu to light the basement, and talk to the
+guy who is inside, but not without first releasing the pokemon which you
+captured, if any. (In case you don't know how to do it, simply access the
+menu by pressing START, select the upper option and then select each
+pokemon in there, pressing the upper button after each one)
+
+You will get a new cutscene and eventually be back to the headquarters in
+this city and get a new mission, when you exit this headquarters.
+
+
+
+3.2~. Extra Mission 1
+
+After the cutscene, go down the ladder and you'll have to fight 4 Staryu
+at the same time. Stun them with the electrical attack and then easily
+capture them. When you're back in the outside, visit that house you've
+just seen and then you will have to beat 4 Krabby, which you can easily
+capture (c'mon, they are really slow!). After such battle, go to the
+outside and then slightly down, where you will see yet another scene. Make
+your way to the pokemon in the lower right corner and you will have to
+fight them, they are some Carvanha. Stun them all with a fully powered
+electrical attack and you will then be able to capture them easily.
+
+Now, you'll see some strange things in the sea, so you should board in the
+Lapras and you'll (eventually) be taken into some whirlpools, where you
+will get to see a Kyogre. He isn't strong, but he can summons waves that
+seem to cause massive damage, so you should wait until less waves are
+coming (that *eventually* happens, you just have to wait!) and then
+capture him as quickly as possible. The electrical attack may also
+slightly help you, but be sure to avoid the waves at all costs, as they
+may put you into trouble.
+
+After the battle, you will be taken to the headquarters nearby and your
+mission will end.
+
+
+
+3.3~. Fall City
+
+After the long conversation, you will find yourself outside of the
+headquarters. Therefore, enter it once again and then take the elevator
+up, using the Dragonite to go to Ring Town.
+
+
+
+3.4~. Ring Town
+
+In here, enter the headquarters, release all the pokemon you may have (if
+any) and then talk to your boss. After all the conversation, you will be
+taken to Summer Town.
+
+
+
+3.5~. Summer Town
+
+Some more conversation, an eartquake will occur and you will eventually be
+given a new mission. Exit the headquarters and then you will find yourself
+instantly at the fire cave, where you found that pyramid from before and
+your mission will start.
+
+
+
+3.6~. Extra Mission 2
+
+Go to the right, up, cross the bridge to the left side, continue going and
+you will see that your partner is trapped inside that cave with a huge
+rock. Capture the Rhydon nearby and then use him to get rid of that huge
+rock. Small cutscene, enter the cave and be sure to capture the 2
+Poliwrath.
+
+Back to the outside, head all to the right across the bridge and use one
+of the Poliwrath to get rid of the huge glowing fire stone. Capture as
+many pokemon as you want, but be sure to keep the other Poliwrath with you
+at all times. When you're ready, go all the way up and enter the next
+area.
+
+Continue going up and fight the guy from Team GoGo, having some help from
+any fire pokemon to easily capture the two enemies. After defeating them,
+head to the left side and capture (and use) the Manectric as many times as
+it takes to fully heal you. When you're done, capture him yet again and
+then go up the stairs on the right.
+
+On the next room, go all the way down and down the stairs. Capture the
+other electrical pokemon, another Manectric on the upper left corner and
+go up those stairs, on the upper left corner. Explore that room up to the
+end, as you can find some Charmeleon in there. You can also capture
+another Rhydon in there, if you want. After doing so, go to the outside
+and to the right, saving your game before going up the stairs.
+
+On the next room, go all the way up until you reach a new room and you
+will be able to capture an Arcanine, which you can easily stun (with the
+eletrical attack) and capture. Now, go all the way down and back to the
+room with the 2 Charmeleon, where you should drop down an hole in the
+floor, which is placed between the 2 Charmander and the place where you
+could previously see 2 Charmeleon. You'll see a new scene and you should
+then enter the door that just opened.
+
+You'll find a Groudon inside, which you can easily capture with the help
+of your Poliwrath. You kept it, didn't you? I hope so... After the
+cutscene you'll be brought back to town.
+
+
+
+3.7~. Summer Town
+
+The usual cutscene, and your mission will be (literally) over. When all
+the conversation ends, you should enter the headquarters once again, take
+the elevator up and talk to the guy near the Dragonite. This time, go to
+Win Town.
+
+
+
+3.8~. Win Town
+
+When you're there, talk to the woman in the right (not before releasing
+your pokemon, as you did before) and a bigger cutscene will follow, where
+the other guy from before will join you and you will gain yet another new
+mission. Exit the headquarters and you will instantly find yourself in the
+place of the mission.
+
+
+
+3.9~. Extra Mission 3
+
+Start by going up and you will have to fight a guy with 3 Ekans. Easily
+defeat them and then search the entire area for a Ralts, a Kirlia and a
+Gardevoir. I can't tell you where they are since they seem to change their
+location, but you can simply continue searching and eventually you will
+get all 3 of them.
+
+After doing so, visit the place where you previously put the 3 evolutions
+of Eevee and you'll see a cutscene. Interact with the 3 stone blocks and
+put the 3 pokemon I told you to capture in there, which will lead to yet
+another cutscene. Go up and fight 2 pokemon in that huge building, which
+you can easily defeat by using your usual thundershock. Now, go all the
+way down to the previous area and capture the following pokemon: Medicham,
+Gengar, Gengar (yes, 2 of them, once again...), Espeon, Umbreon, Raichu.
+Their locations are the same as before. Once you have all of them return
+to the huge building and fight the second group of enemies. Using a single
+Gengar, capture all of them and then continue going.
+
+You'd better heal and save your game at this point, but it is really up to
+you. At the top you'll find a Rayquaza, which you should capture with some
+help from a Gengar, which will make this battle really easy.
+
+After the battle, some more conversation will occur and you will be back
+to town.
+
+
+
+3.10~. Win Town
+
+A lot more conversation and then your mission will really be over. Some
+time later, you will finally see the (usual) screen that allows you to
+save the game and then it will be over.
+
+I mean, the game isn't over yet, but there aren't any more "normal"
+missions for you to take. Rumor has it that in Japan you can download at
+least 2 extra missions, but I wasn't able to try that, so I can't talk
+much about it. Therefore, all there is to do right now is capturing all
+pokemon, which is actually doable in the game, without requiring you to
+have any other games, unlike usually happens on pokemon games.
+
+But... well... that's all for this section, I guess, unless you're not
+playing the Japanese version of the game.
+
+
+
+3.11~. Special Missions
+
+In the American Version of the game, after beating the 3 legendary dogs
+you will unlock something called Ranger Net,  Basically, it is a place
+which grants you a couple Special Missions, which I will talk about in
+a minute.
+
+
+
+3.11.1~. Special Mission 1 (Deoxys)
+
+First, you get to battle Deoxys, which eventually runs away from battle
+and leading to an event where you're informed that you can only capture
+such Pokemon when it is in its Normal form. Go to the place near the
+tunnel, you'll fight it some more times and eventually you will reach a
+place where it won't run away from you.
+Then, keep on attacking him and eventually it will lead to a scene where
+he turns into his very own Normal Form. When that happens, try to stun him
+using Plusle/Minun's attack (obviously, at full power) and then circle him
+as quickly as possible.
+
+
+
+3.11.2~. Special Mission 2 (Celebi)
+
+In the forest, you'll see this pokemon and a couple scenes. Then, try to
+capture it (a fire pokemon is advisable, for obvious reasons) and he won't
+probably put you into much trouble, since he only requires 3 circles to
+capture.
+
+
+
+3.11.3~. Special Mission 3 (Mew)
+
+After finding him in the jungle, simply use your older strategies (mainly,
+the stunning one) and you can probably get it in no time.
+
+
+
+3.11.4~. Special Mission 4 (Manaphy's Egg)
+
+In the Japanese version of the game, you acquired this quest by an easier
+task. However, in the American version, after completing the game you must
+go to the "Ranger Net" option, from the main menu, hold down R, X and
+press left (in the directional controls), which will unlock a password
+option. In there, enter the password for this mission, and a new mission
+will appear, in its proper place.
+In there, you'll take a small mission, in the forest and tunnel that, when
+beaten, grants you the amazing Manaphy Egg, which you can later send to
+Pokemon Diamond/Pearl, in order to unlock that secret pokemon.
+In case you're wondering on what password you need to input, it seems to
+change depending on your version of the game. Here are some of the
+possible ones:
+
+P8M2-9D6F-43H7  -- American version
+Mg35-Cpb8-4FW8  -- U.K. Version
+C58f-t3WT-Vn79  -- Overall European Version (?)
+
+Be aware that these aren't all the possible ones. There are probably many
+others, but since I couldn't find all of them, I can't add them here. If
+none of these work for you, try checking magazines and gaming websites
+from your country, as they may have the proper code.
+
+
+
+4~. Acquirable Pokemon and their moves
+
+Unlike what happened in most of the previous Pokemon games, in here not
+all of the famous monsters will be available for capturing. Actually, only
+around 212 of them are capturable in this game, and while some may be easy
+to find and capture, others aren't. Therefore, this is the section of this
+guide that you should read in order to know what pokemon you can in fact
+capture in this game, where to capture them and their powers.
+Be sure to remember that each Pokemon has (usually) two powers, one that
+can be used in the middle of the battles and another which can be used
+while in the middle of the field. In order to learn more about those
+attacks, be sure to read the "Pokemon Type" section of this same guide.
+Now, on to the Pokemon themselves, their information will usually be given
+in the following way:
+
+R-number of the pokemon in this game -> name of that pokemon
+TYPE: the type of that particular pokemon
+FIELD MOVE: the field move that this pokemon can use, if any
+BATTLE MOVE: the battle move that this pokemon can use, if any
+HOW TO GET HIM: whatever you need to do in order to capture this pokemon
+
+Understood? This is mostly everything you need to know in order to fully
+comprehend the list below. So, I hope you find it easy to do by now, as
+you can actually find all the important information for getting all your
+Pokemon in this section!
+
+I have to state that when you read "as part of the storyline" in the
+section of "HOW TO GET HIM", I am basically trying to tell you that you
+will probably find him while normally playing across the story of this
+game, at least I did it while writing this guide. In case you really can't
+seem to find it AS PART OF THE STORY and you aren't following my guide,
+contact me about such problem and I will try to fix it as soon as
+possible.
+
+As a final note, I have to state that the best time to try capturing all
+these pokemon is after completing the main story. This way, you will be
+able to travel wherever you want and each of the areas you find will be
+filled with even more pokemon than before, including some new ones. Bear
+this in mind while reading this entire guide, meaning that if you can't
+seem to find a certain pokemon in a proper location, maybe he isn't there
+*YET* !
+
+Now, on to what probably you wanna read...
+
+
+R-001 -> Bulbasaur
+TYPE: Grass
+FIELD MOVE: Cross
+BATTLE MOVE: Grass
+HOW TO GET HIM: in the forest, all down and slightly to the left before
+                entering the tunnel, you will need to use "Cut".
+
+R-002 -> Ivysaur
+TYPE: Grass
+FIELD MOVE: Cross
+BATTLE MOVE: Grass
+HOW TO GET HIM: in the forest.
+
+R-003 -> Venosaur
+TYPE: Grass
+FIELD MOVE: none
+BATTLE MOVE: Grass
+HOW TO GET HIM: in the forest, on mission 6 or later, you will need to use
+                "Cut" on a bush, just before the labyrinthic area.
+
+R-004 -> Bellsprout
+TYPE: Grass
+FIELD MOVE: none
+BATTLE MOVE: Grass
+HOW TO GET HIM: as part of the storyline OR in the forest.
+
+R-005 -> Weepinbell
+TYPE: Grass
+FIELD MOVE: none 
+BATTLE MOVE: Poison
+HOW TO GET HIM: in the forest, as soon as mission 6.
+
+R-006 -> Victreebel
+TYPE: Grass
+FIELD MOVE: none
+BATTLE MOVE: Poison
+HOW TO GET HIM: in the forest.
+
+R-007 -> Chikorita
+TYPE: Grass
+FIELD MOVE: none
+BATTLE MOVE: Grass
+HOW TO GET HIM: you can even easily find it in the first forest.
+
+R-008 -> Bayleef
+TYPE: Grass
+FIELD MOVE: Cut x2
+BATTLE MOVE: Grass
+HOW TO GET HIM: as part of the storyline.
+
+R-009 -> Meganium
+TYPE: Grass
+FIELD MOVE: Break x3
+BATTLE MOVE: Grass
+HOW TO GET HIM: in the jungle.
+
+R-010 -> Hoppip
+TYPE: Grass
+FIELD MOVE: none
+BATTLE MOVE: Grass
+HOW TO GET HIM: in the forest, as soon as mission 6.
+
+R-011 -> Mudkip
+TYPE: Water
+FIELD MOVE: Water
+BATTLE MOVE: Water
+HOW TO GET HIM: as part of the storyline OR in the forest.
+
+R-012 -> Marshtomp
+TYPE: Ground
+FIELD MOVE: Water x2 
+BATTLE MOVE: Water
+HOW TO GET HIM: in the forest, on your mission number 6 or later.
+
+R-013 -> Swampert
+TYPE: Ground
+FIELD MOVE: Water x3
+BATTLE MOVE: Water
+HOW TO GET HIM: at Team GoGo's base OR in the forest.
+
+R-014 -> Slowpoke
+TYPE: Water
+FIELD MOVE: Water
+BATTLE MOVE: Water
+HOW TO GET HIM: in the Ring Town mini-game, but he will only appear after
+                you capturing 2 Abra.
+
+R-015 -> Torchic
+TYPE: Fire
+FIELD MOVE: Burn
+BATTLE MOVE: Fire
+HOW TO GET HIM: as part of the storyline OR in the forest.
+
+R-016 -> Combusken
+TYPE: Fire
+FIELD MOVE: Burn x2
+BATTLE MOVE: Fire
+HOW TO GET HIM: as part of the storyline.
+
+R-017 -> Blaziken
+TYPE: Fire
+FIELD MOVE: Burn x3
+BATTLE MOVE: Fire
+HOW TO GET HIM: at Team GoGo's base OR in the road from the tunnel to Fall
+                City.
+
+R-018 -> Rapidash
+TYPE: Fire
+FIELD MOVE: Burn x3
+BATTLE MOVE: Fire
+HOW TO GET HIM: as part of the storyline OR in the Ring Town mini-game,
+                where he will only appear after you capturing 2 Spoink.
+
+R-019 -> Cyndaquil
+TYPE: Fire
+FIELD MOVE: Burn
+BATTLE MOVE: Fire
+HOW TO GET HIM: in the forest, in mission 6 or later.
+
+R-020 -> Quilava
+TYPE: Fire
+FIELD MOVE: Burn x2
+BATTLE MOVE: Fire
+HOW TO GET HIM: as part of the storyline OR at the Mountain Range.
+
+R-021 -> Typhlosion
+TYPE: Fire
+FIELD MOVE: Burn x3
+BATTLE MOVE: Fire
+HOW TO GET HIM: in the forest, you have to use "Cut" in one of the bushes,
+                probably the one in the lower right part of that area.
+
+R-022 -> Pichu
+TYPE: Electric
+FIELD MOVE: Charge
+BATTLE MOVE: Electric
+HOW TO GET HIM: in several places. However, he is easily found in the
+                forest, as soon as mission number 1.
+
+R-023 -> Pikachu
+TYPE: Electric
+FIELD MOVE: Charge x2
+BATTLE MOVE: Electric
+HOW TO GET HIM: in lots of places, but you can first see one in mission
+                number 6.
+
+R-024 -> Raichu
+TYPE: Electric
+FIELD MOVE: Charge x3
+BATTLE MOVE: Electric
+HOW TO GET HIM: in lots of places, but you can first see one in mission
+                number 8.
+
+R-025 -> Beedrill
+TYPE: Bug
+FIELD MOVE: Break
+BATTLE MOVE: Poison
+HOW TO GET HIM: in the forest, as soon as mission 6.
+
+R-026 -> Ralts
+TYPE: Psychic
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: at the Mountain Range OR at Team GoGo base.
+
+R-027 -> Kirlia
+TYPE: Psychic
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: in the tunnel (you will need to use a Graveler), OR on
+                mission number 5 (or later) OR in the plain capture
+                mini-game OR at the Mountain Range.
+
+R-028 -> Gardevoir
+TYPE: Psychic
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: during Extra Mission 3 OR at the Mountain Range OR in the
+                Ring Town mini-game, where she will only appear after you
+                capturing 2 Kirlia.
+
+R-029 -> Abra
+TYPE: Psychic
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: in the Ring Town mini-game.
+
+R-030 -> Spoink
+TYPE: Psychic
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: in the Ring Town mini-game.
+
+R-031 -> Nincada
+TYPE: Ground
+FIELD MOVE: Cut
+BATTLE MOVE: Bug
+HOW TO GET HIM: in the forest.
+
+R-032 -> Ninjask
+TYPE: Bug
+FIELD MOVE: none
+BATTLE MOVE: Flying
+HOW TO GET HIM: in the forest, use "Tackle" on certain trees.
+
+R-033 -> Shedinja
+TYPE: Bug
+FIELD MOVE: none
+BATTLE MOVE: Ghost
+HOW TO GET HIM: in the forest.
+
+R-034 -> Phanpy
+TYPE: Ground
+FIELD MOVE: Tackle
+BATTLE MOVE: Ground
+HOW TO GET HIM: in the jungle OR in the forest.
+
+R-035 -> Donphan
+TYPE: Ground
+FIELD MOVE: Tackle x2
+BATTLE MOVE: Ground
+HOW TO GET HIM: at the temple.
+
+R-036 -> Taillow
+TYPE: Flying
+FIELD MOVE: Gust
+BATTLE MOVE: Flying
+HOW TO GET HIM: as part of the storyline OR in the forest.
+
+R-037 -> Swellow
+TYPE: Flying
+FIELD MOVE: Gust x2
+BATTLE MOVE: Flying
+HOW TO GET HIM: in the forest, after mission 6.
+
+R-038 -> Dragonite
+TYPE: Flying
+FIELD MOVE: none
+BATTLE MOVE: Flying
+HOW TO GET HIM: as part of the storyline.
+
+R-039 -> Spearow
+TYPE: Flying
+FIELD MOVE: Gust
+BATTLE MOVE: Flying
+HOW TO GET HIM: in the Ring Town mini-game.
+
+R-040 -> Fearow
+TYPE: Flying
+FIELD MOVE: none
+BATTLE MOVE: Flying
+HOW TO GET HIM: in the Ring Town mini-game, but it will only appear after
+                you getting more than 50000 points in the Fall City
+                mini-game.
+
+R-041 -> Doduo
+TYPE: Flying
+FIELD MOVE: none
+BATTLE MOVE: Flying
+HOW TO GET HIM: in the Ring Town mini-game, but he will only appear after
+                you capturing 2 Gardevoir.
+
+R-042 -> Dodrio
+TYPE: Flying
+FIELD MOVE: none
+BATTLE MOVE: Flying
+HOW TO GET HIM: in the Ring Town mini-game, but he will only appear if you
+                previously scored more than 5000 points in this same
+                mini-game.
+
+R-043 -> Scyther
+TYPE: Bug
+FIELD MOVE: Cut x3
+BATTLE MOVE: Flying
+HOW TO GET HIM: as part of the storyline OR in the forest.
+
+R-044 -> Scizor
+TYPE: Steel
+FIELD MOVE: Cut x3 
+BATTLE MOVE: Bug
+HOW TO GET HIM: as part of the storyline OR in the forest.
+
+R-045 -> Skarmory
+TYPE: Steel
+FIELD MOVE: none
+BATTLE MOVE: Flying
+HOW TO GET HIM: in the Ring Town mini-game, but he will only appear if you
+                previously scored more than 5000 points in the Summer Town
+                mini-game.
+
+R-046 -> Murkrow
+TYPE: Dark
+FIELD MOVE: none
+BATTLE MOVE: Dark
+HOW TO GET HIM: as part of the storyline OR in the forest, by using
+                "Tackle" in the tree where you previously saw him.
+
+R-047 -> Zigzagoon
+TYPE: Normal
+FIELD MOVE: none
+BATTLE MOVE: none
+HOW TO GET HIM: in several places. However, he is easily found in your
+                first mission.
+
+R-048 -> Linoone
+TYPE: Normal
+FIELD MOVE: Tackle x2
+BATTLE MOVE: none
+HOW TO GET HIM: as part of the storyline OR in the forest.
+
+R-049 -> Tauros
+TYPE: Normal
+FIELD MOVE: Tackle x3
+BATTLE MOVE: none
+HOW TO GET HIM: in the Ring Town mini-game.
+
+R-050 -> Paras
+TYPE: Bug
+FIELD MOVE: Cut
+BATTLE MOVE: Grass
+HOW TO GET HIM: as part of the storyline OR in the tunnel.
+
+R-051 -> Parasect
+TYPE: Bug
+FIELD MOVE: Cut
+BATTLE MOVE: Grass
+HOW TO GET HIM: in the tunnel, you will need a "Gust x2" ability.
+
+R-052 -> Poliwag
+TYPE: Water
+FIELD MOVE: Water
+BATTLE MOVE: Water
+HOW TO GET HIM: in the tunnel.
+
+R-053 -> Poliwhirl
+TYPE: Water
+FIELD MOVE: Water x2
+BATTLE MOVE: Water
+HOW TO GET HIM: in the tunnel (on mission 5 or later) and in many other
+                places.
+
+R-054 -> Poliwrath
+TYPE: Water
+FIELD MOVE: Water x3 
+BATTLE MOVE: Water
+HOW TO GET HIM: as part of the storyline OR in the pyramid.
+
+R-055 -> Politoed
+TYPE: Water
+FIELD MOVE: Water x3
+BATTLE MOVE: Water
+HOW TO GET HIM: as part of the storyline.
+
+R-056 -> Magnemite
+TYPE: Electric
+FIELD MOVE: Charge
+BATTLE MOVE: Electric
+HOW TO GET HIM: in really lots and lots of places.
+
+R-057 -> Magneton
+TYPE: Electric
+FIELD MOVE: Charge x2
+BATTLE MOVE: Electric
+HOW TO GET HIM: in several places, but one of them is by using a Meditite
+                to throw a wall down, on the Fall City sewers.
+
+R-058 -> Zubat
+TYPE: Poison
+FIELD MOVE: none
+BATTLE MOVE: Poison
+HOW TO GET HIM: in the tunnel, on mission 5 or later.
+
+R-059 -> Golbat
+TYPE: Poison
+FIELD MOVE: Gust x2
+BATTLE MOVE: Poison
+HOW TO GET HIM: at the cave.
+
+R-060 -> Crobat
+TYPE: Poison
+FIELD MOVE: none
+BATTLE MOVE: Poison
+HOW TO GET HIM: as part of the storyline OR in the cave.
+
+R-061 -> Diglett
+TYPE: Ground
+FIELD MOVE: none
+BATTLE MOVE: Ground
+HOW TO GET HIM: in the tunnel, on mission 5 or later.
+
+R-062 -> Dugtrio
+TYPE: Ground
+FIELD MOVE: none
+BATTLE MOVE: Ground
+HOW TO GET HIM: in the tunnel, you need to use "Cross" on the lower left
+                corner of the area filled with Zubat. Then, use "Break x3"
+                in the next room and you will find this pokemon in there.
+
+R-063 -> Rhydon
+TYPE: Ground
+FIELD MOVE: Break x3
+BATTLE MOVE: Ground
+HOW TO GET HIM: as part of the storyline OR in the pyramid.
+
+R-064 -> Geodude
+TYPE: Ground
+FIELD MOVE: Break
+BATTLE MOVE: Rock
+HOW TO GET HIM: as part of the storyline OR in the tunnel.
+
+R-065 -> Graveler
+TYPE: Ground
+FIELD MOVE: Break x2
+BATTLE MOVE: Rock
+HOW TO GET HIM: in the tunnel (on mission 5 or later) and in many other
+                places.
+
+R-066 -> Golem
+TYPE: Ground
+FIELD MOVE: Break x3
+BATTLE MOVE: Rock
+HOW TO GET HIM: at the cave oR in the temple.
+
+R-067 -> Plusle
+TYPE: Electric
+FIELD MOVE: none
+BATTLE MOVE: Paralyze
+HOW TO GET HIM: initially select the girl as your character, or complete
+                the game once with the boy.
+
+R-068 -> Minun
+TYPE: Electric 
+FIELD MOVE: none
+BATTLE MOVE: Paralyze
+HOW TO GET HIM: initially select the boy as your character, or complete
+                the game once with the girl.
+
+R-069 -> Tangela
+TYPE: Grass
+FIELD MOVE: Cross 
+BATTLE MOVE: Grass
+HOW TO GET HIM: as part of the storyline OR in the Mountain Range.
+
+R-070 -> Krabby
+TYPE: Water
+FIELD MOVE: Water 
+BATTLE MOVE: Water
+HOW TO GET HIM: in Fall City.
+
+R-071 -> Corpish
+TYPE: Water
+FIELD MOVE: Water 
+BATTLE MOVE: Water
+HOW TO GET HIM: on the Fall City sewers.
+
+R-072 -> Crawdaunt
+TYPE: Dark
+FIELD MOVE: Cut x3
+BATTLE MOVE: Water
+HOW TO GET HIM: Fall City sewers, you will need to have a Raticate with
+                you and simply break the fence which is placed before the
+                tube with many different exits. You can also get it as
+                part of the storyline.
+
+R-073 -> Totodile
+TYPE: Water
+FIELD MOVE: Water 
+BATTLE MOVE: Water
+HOW TO GET HIM: on the Fall City sewers.
+
+R-074 -> Croconaw
+TYPE: Water
+FIELD MOVE: Water x2 
+BATTLE MOVE: Water
+HOW TO GET HIM: on the Fall City sewers.
+
+R-075 -> Feraligatr
+TYPE: Water
+FIELD MOVE: Break x3 
+BATTLE MOVE: Water
+HOW TO GET HIM: on the Fall City sewers, you need to use "Cross" and then
+                "Fire x2" in the room after the one which contains
+                Koffing.
+
+R-076 -> Squirtle
+TYPE: Water
+FIELD MOVE: Water
+BATTLE MOVE: Water
+HOW TO GET HIM: on the Fall City sewers, you need to use "Cross" in the
+                room after the one which contains the Koffing.
+
+R-077 -> Wartortle
+TYPE: Water
+FIELD MOVE: Water x2
+BATTLE MOVE: Water
+HOW TO GET HIM: forest, on mission 6 or later, you need to use "Break" in
+                order to remove a huge stone which is near the river.
+
+R-078 -> Blastoise
+TYPE: Water
+FIELD MOVE: Water x3
+BATTLE MOVE: Water
+HOW TO GET HIM: as part of the storyline OR on Fall City, where you
+                previously a Staryu.
+
+R-079 -> Voltorb
+TYPE: Electric
+FIELD MOVE: Charge
+BATTLE MOVE: Electric
+HOW TO GET HIM: as part of the storyline OR near the factory.
+
+R-080 -> Machop
+TYPE: Fighting
+FIELD MOVE: Break
+BATTLE MOVE: Fighting
+HOW TO GET HIM: in the tunnel, on mission 5 or later.
+
+R-081 -> Machoke
+TYPE: Fighting
+FIELD MOVE: Break x2 
+BATTLE MOVE: Fighting
+HOW TO GET HIM: as part of the storyline OR in the factory.
+
+R-082 -> Machamp
+TYPE: Fighting
+FIELD MOVE: Break x3
+BATTLE MOVE: Fighting
+HOW TO GET HIM: at Team GoGo's base OR in the tunnel, after completing the
+                game once.
+
+R-083 -> Makuhita
+TYPE: Fighting
+FIELD MOVE: Tackle x2
+BATTLE MOVE: Fighting
+HOW TO GET HIM: in Fall City.
+
+R-084 -> Hariyama
+TYPE: Fighting
+FIELD MOVE: Break x3
+BATTLE MOVE: Fighting
+HOW TO GET HIM: as part of the storyline OR in the tunnel.
+
+R-085 -> Meditite
+TYPE: Psychic
+FIELD MOVE: Break
+BATTLE MOVE: Fighting
+HOW TO GET HIM: in the Fall City sewers.
+
+R-086 -> Medicham
+TYPE: Psychic
+FIELD MOVE: Break x2
+BATTLE MOVE: Fighting
+HOW TO GET HIM: at the cave.
+
+R-087 -> Grimer
+TYPE: Poison
+FIELD MOVE: none
+BATTLE MOVE: Poison
+HOW TO GET HIM: as part of the storyline.
+
+R-088 -> Muk
+TYPE: Poison
+FIELD MOVE: none
+BATTLE MOVE: Poison
+HOW TO GET HIM: as part of the storyline.
+
+R-089 -> Koffing
+TYPE: Poison
+FIELD MOVE: none
+BATTLE MOVE: Poison
+HOW TO GET HIM: in the Fall City sewers.
+
+R-090 -> Drowzee
+TYPE: Psychic
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: in the Fall City sewers.
+
+R-091 -> Hypno
+TYPE: Psychic
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: at the factory.
+
+R-092 -> Mr. Mime
+TYPE: Psychic
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: as part of the storyline.
+
+R-093 -> Pinsir
+TYPE: Bug
+FIELD MOVE: Cut x2
+BATTLE MOVE: Bug
+HOW TO GET HIM: at the factory.
+
+R-094 -> Gastly
+TYPE: Ghost
+FIELD MOVE: none
+BATTLE MOVE: Ghost
+HOW TO GET HIM: at the factory.
+
+R-095 -> Haunter
+TYPE: Ghost
+FIELD MOVE: none
+BATTLE MOVE: Ghost
+HOW TO GET HIM: at the factory.
+
+R-096 -> Gengar
+TYPE: Ghost
+FIELD MOVE: none 
+BATTLE MOVE: Ghost
+HOW TO GET HIM: at the temple.
+
+R-097 -> Snubull
+TYPE: Normal
+FIELD MOVE: Tackle
+BATTLE MOVE: none
+HOW TO GET HIM: on Fall City.
+
+R-098 -> Skitty
+TYPE: Normal
+FIELD MOVE: none
+BATTLE MOVE: none
+HOW TO GET HIM: as part of the storyline OR on Fall City.
+
+R-099 -> Meowth
+TYPE: Normal
+FIELD MOVE: Cut 
+BATTLE MOVE: none
+HOW TO GET HIM: on Fall City.
+
+R-100 -> Jigglypuff
+TYPE: Normal
+FIELD MOVE: none
+BATTLE MOVE: none
+HOW TO GET HIM: as part of the storyline OR on Fall City.
+
+R-101 -> Rattata
+TYPE: normal
+FIELD MOVE: Tackle
+BATTLE MOVE: none
+HOW TO GET HIM: as part of the storyline OR on Fall City sewers.
+
+R-102 -> Raticate
+TYPE: Normal
+FIELD MOVE: Cut x2
+BATTLE MOVE: none
+HOW TO GET HIM: as part of the storyline OR on Fall City sewers.
+
+R-103 -> Porygon
+TYPE: Normal
+FIELD MOVE: none
+BATTLE MOVE: none
+HOW TO GET HIM: at the factory, but this is one of the most difficult ones
+                to find. He is sometimes invisible, but other times he
+                makes himself, visible, and that's when you can actually
+                capture it. Look closely inside the factory and eventually
+                you will find it.
+
+R-104 -> Kecleon
+TYPE: Normal
+FIELD MOVE: none
+BATTLE MOVE: none
+HOW TO GET HIM: before entering the factory, destroy the trash on the
+                left side using a "Burn x2" ability. He will be there, but
+                be careful as he is invisible when he isn't attacking.
+                Also, you may find him as part of the Ring Town mini-game.
+
+R-105 -> Snorlax
+TYPE: Normal
+FIELD MOVE: none
+BATTLE MOVE: none
+HOW TO GET HIM: in the Mountain Range, in a cave near where you fought the
+                Charizard. He will only wake up (and be capturable) after
+                capturing all other 209 pokemon.
+
+R-106 -> Lapras
+TYPE: Ice
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: as part of the storyline.
+
+R-107 -> Horsea
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: in the Summer City mini-game.
+
+R-108 -> Seadra
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: in the Summer City mini-game.
+
+R-109 -> Kingdra
+TYPE: Water
+FIELD MOVE: Water x3
+BATTLE MOVE: Water
+HOW TO GET HIM: as part of the storyline OR in the Summer City mini-game,
+                after you capturing 2 Horsea.
+
+R-110 -> Goldeen
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: in the Summer City mini-game.
+
+R-111 -> Seaking
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: in the Summer City mini-game, appearing only after you've
+                captured 2 Goldeen.
+
+R-112 -> Staryu
+TYPE: Water
+FIELD MOVE: Flash
+BATTLE MOVE: Water
+HOW TO GET HIM: as part of the storyline OR in the Summer City mini-game.
+
+R-113 -> Starmie
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: in the Summer City mini-game, only after you've captured
+                2 Staryu.
+
+R-114 -> Remoraid
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: in the Summer City mini-game.
+
+R-115 -> Octillery
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: in the Summer City mini-game.
+
+R-116 -> Mantine
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: in the Summer City mini-game, but only appears after
+                you've captured 2 Remoraid and 2 Octillery.
+
+R-117 -> Carvanha
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: during Extra Mission 1 OR in the Summer City mini-game.
+
+R-118 -> Sharpedo
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Dark
+HOW TO GET HIM: in the Summer City mini-game, only after you've captured
+                2 Carvanha.
+
+R-119 -> Wailmer
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: in the Summer City mini-game, but only after you've
+                managed to capture 2 Seaking.
+
+R-120 -> Luvdisc
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: in the Summer City mini-game.
+
+R-121 -> Psyduck
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: in the Summer City mini-game, but only after you captured
+                2 Starmie.
+
+R-122 -> Wingull
+TYPE: Water
+FIELD MOVE: none 
+BATTLE MOVE: Water
+HOW TO GET HIM: on Fall City.
+
+R-123 -> Pelipper
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: in the Summer City mini-game, but it will only appear
+                after you've previously beaten this game's top score of
+                5000 points.
+
+R-124 -> Magikarp
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: as part of the storyline OR in the Summer City mini-game
+                OR in the Mountain Range.
+
+R-125 -> Gyarados
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: as part of the storyline.
+
+R-126 -> Oddish
+TYPE: Grass
+FIELD MOVE: Cut 
+BATTLE MOVE: Grass
+HOW TO GET HIM: by using a Meditite to throw a wall down, on the Fall City
+                sewers OR in the jungle, requiring a "Gust" ability.
+
+R-127 -> Gloom
+TYPE: Grass
+FIELD MOVE: none
+BATTLE MOVE: Grass
+HOW TO GET HIM: in the jungle, requires someone with a "Gust x2" skill.
+
+R-128 -> Vileplume
+TYPE: Grass
+FIELD MOVE: none
+BATTLE MOVE: Grass
+HOW TO GET HIM: in the Mountain Range, you need someone with a "Gust x3"
+                skill.
+
+R-129 -> Treecko
+TYPE: Grass
+FIELD MOVE: Cut 
+BATTLE MOVE: Grass
+HOW TO GET HIM: in the jungle.
+
+R-130 -> Grovyle
+TYPE: Grass
+FIELD MOVE: Cut x2 
+BATTLE MOVE: Grass
+HOW TO GET HIM: there are some different places to get it, but in the
+                jungle you can do it by using "Water" on a small plant,
+                near the place where you can throw a tree down.
+
+R-131 -> Sceptile
+TYPE: Grass
+FIELD MOVE: Cut x3 
+BATTLE MOVE: Grass
+HOW TO GET HIM: on the Pyramid, after it becomes full of fire. You need to
+                use a "Break x2" to remove the huge rock, exactly all to
+                the right of your initial position.
+
+R-132 -> Lotad
+TYPE: Water
+FIELD MOVE: Water
+BATTLE MOVE: Water
+HOW TO GET HIM: jungle, and while you could usually need to lift him from
+                the water, they seem to randomly get out of it
+
+R-133 -> Lombre
+TYPE: Water
+FIELD MOVE: Water x2
+BATTLE MOVE: Water
+HOW TO GET HIM: in the jungle, Where you can see a Grovyle, simply use
+                someone in the bush nearby and you will be taken to a
+                place where 2 of this pokemon can be seen.
+
+R-134 -> Ludicolo
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: on Fall City OR in the jungle.
+
+R-135 -> Numel
+TYPE: Fire
+FIELD MOVE: Burn
+BATTLE MOVE: Fire
+HOW TO GET HIM: on the Pyramid, after it becomes full of fire.
+
+R-136 -> Camerupt
+TYPE: Fire
+FIELD MOVE: Burn x3
+BATTLE MOVE: Fire
+HOW TO GET HIM: as part of the storyline OR on the Pyramid, after it
+                becomes full of fire.
+
+R-137 -> Magmar
+TYPE: Fire
+FIELD MOVE: Burn x2
+BATTLE MOVE: Fire
+HOW TO GET HIM: on the Pyramid, after it becomes full of fire.
+
+R-138 -> Slugma
+TYPE: Fire
+FIELD MOVE: Burn
+BATTLE MOVE: Fire
+HOW TO GET HIM: as part of the storyline OR on the Pyramid, after it
+                becomes full of fire.
+
+R-139 -> Magcargo
+TYPE: Fire
+FIELD MOVE: Burn x2
+BATTLE MOVE: Fire
+HOW TO GET HIM: as part of the storyline OR on the Pyramid, after it
+                becomes full of fire.
+
+R-140 -> Charmander
+TYPE: Fire
+FIELD MOVE: Burn
+BATTLE MOVE: Fire
+HOW TO GET HIM: on the Pyramid, after it becomes full of fire.
+
+R-141 -> Charmeleon
+TYPE: Fire
+FIELD MOVE: Burn x2
+BATTLE MOVE: Fire
+HOW TO GET HIM: during Extra Mission 2 OR on the Pyramid, after it
+                becomes full of fire (which will require a "Water x3"
+                ability).
+
+R-142 -> Charizard
+TYPE: Fire
+FIELD MOVE: Burn x3
+BATTLE MOVE: Fire
+HOW TO GET HIM: as part of the storyline.
+
+R-143 -> Torkoal
+TYPE: Fire
+FIELD MOVE: Burn x2
+BATTLE MOVE: Fire
+HOW TO GET HIM: at the cave. Use a "Burn x3" ability to destroy the huge
+                block of ice inside a room and then continue following the
+                path, going up the stairs.
+
+R-144 -> Growlithe
+TYPE: Fire
+FIELD MOVE: none
+BATTLE MOVE: Fire
+HOW TO GET HIM: at the Factory.
+
+R-145 -> Arcanine
+TYPE: Fire
+FIELD MOVE: Burn x3
+BATTLE MOVE: Fire
+HOW TO GET HIM: during Extra Mission 2 OR on the Pyramid, after it becomes
+                full of fire.
+
+R-146 -> Electrike
+TYPE: Electric
+FIELD MOVE: Charge
+BATTLE MOVE: Electric
+HOW TO GET HIM: in the jungle, besides many other places.
+
+R-147 -> Manectric
+TYPE: Electric
+FIELD MOVE: Charge x2
+BATTLE MOVE: Electric
+HOW TO GET HIM: pyramid (after the fire appears), besides other places.
+
+R-148 -> Heracross
+TYPE: Bug
+FIELD MOVE: Tackle x3 
+BATTLE MOVE: Fighting
+HOW TO GET HIM: as part of the storyline OR in the jungle.
+
+R-149 -> Mankey
+TYPE: Fighting
+FIELD MOVE: Break
+BATTLE MOVE: Fighting
+HOW TO GET HIM: as part of the storyline OR in the jungle (requires
+                "Tackle x3").
+
+R-150 -> Primeape
+TYPE: Fighting
+FIELD MOVE: Break x2
+BATTLE MOVE: Fighting
+HOW TO GET HIM: as part of the storyline OR in the jungle (requires
+                "Tackle x3").
+
+R-151 -> Ekans
+TYPE: Poison
+FIELD MOVE: none
+BATTLE MOVE: Poison
+HOW TO GET HIM: as part of the storyline OR in the jungle, where they seem
+                to randomly jump out of the bushes.
+
+R-152 -> Arbok
+TYPE: Poison
+FIELD MOVE: none
+BATTLE MOVE: Poison
+HOW TO GET HIM: in the Mountain Range.
+
+R-153 -> Venonat
+TYPE: Bug
+FIELD MOVE: none
+BATTLE MOVE: Poison
+HOW TO GET HIM: as part of the storyline OR in the jungle.
+
+R-154 -> Wurmple
+TYPE: Bug
+FIELD MOVE: none
+BATTLE MOVE: Bug
+HOW TO GET HIM: as part of the storyline OR in the jungle.
+
+R-155 -> Silcoon
+TYPE: Bug
+FIELD MOVE: none
+BATTLE MOVE: Bug
+HOW TO GET HIM: in the jungle.
+
+R-156 -> Beautifly
+TYPE: Bug
+FIELD MOVE: none
+BATTLE MOVE: Flying
+HOW TO GET HIM: as part of the storyline OR in the jungle.
+
+R-157 -> Spinarak
+TYPE: Bug
+FIELD MOVE: none
+BATTLE MOVE: Bug
+HOW TO GET HIM: jungle, besides some more places.
+
+R-158 -> Ariados
+TYPE: Bug
+FIELD MOVE: none
+BATTLE MOVE: Bug
+HOW TO GET HIM: as part of the storyline OR in the jungle OR in the
+                temple.
+
+R-159 -> Flygon
+TYPE: Dragon
+FIELD MOVE: Gust x3
+BATTLE MOVE: Ground
+HOW TO GET HIM: as part of the storyline.
+
+R-160 -> Gligar
+TYPE: Ground
+FIELD MOVE: Cut
+BATTLE MOVE: Ground
+HOW TO GET HIM: jungle OR at the Mountain Range.
+
+R-161 -> Houndoom
+TYPE: Dark
+FIELD MOVE: Burn x2
+BATTLE MOVE: Dark
+HOW TO GET HIM: Pyramid, after it becomes full of fire.
+
+R-162 -> Slakoth
+TYPE: Normal
+FIELD MOVE: Cut
+BATTLE MOVE: none
+HOW TO GET HIM: as part of the storyline OR in the jungle.
+
+R-163 -> Vigoroth
+TYPE: Normal
+FIELD MOVE: Cut x2
+BATTLE MOVE: none
+HOW TO GET HIM: as part of the storyline OR in the jungle.
+
+R-164 -> Slaking
+TYPE: Normal
+FIELD MOVE: Break x3
+BATTLE MOVE: none
+HOW TO GET HIM: as part of the storyline OR in the jungle.
+
+R-165 -> Bagon
+TYPE: Dragon
+FIELD MOVE: Tackle
+BATTLE MOVE: none
+HOW TO GET HIM: as part of the storyline.
+
+R-166 -> Shelgon
+TYPE: Dragon
+FIELD MOVE: Tackle x2
+BATTLE MOVE: none
+HOW TO GET HIM: as part of the storyline.
+
+R-167 -> Salamence
+TYPE: Dragon
+FIELD MOVE: Break x3
+BATTLE MOVE: Flying
+HOW TO GET HIM: as part of the storyline.
+
+R-168 -> Jynx
+TYPE: Psychic
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: at the cave.
+
+R-169 -> Solrock
+TYPE: Rock
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: at the cave.
+
+R-170 -> Wobbuffet
+TYPE: Psychic
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: at the cave, you will need to break a big rock near the
+                area with water, using a "Break x2" pokemon.
+
+R-171 -> Dusclops
+TYPE: Ghost
+FIELD MOVE: none
+BATTLE MOVE: Ghost
+HOW TO GET HIM: at the cave.
+
+R-172 -> Swinub
+TYPE: Ground
+FIELD MOVE: Tackle
+BATTLE MOVE: Ice
+HOW TO GET HIM: at the cave.
+
+R-173 -> Piloswine
+TYPE: Ground
+FIELD MOVE: Tackle x3
+BATTLE MOVE: Ice
+HOW TO GET HIM: at the cave  OR at the Mountain Range.
+
+R-174 -> Snorunt
+TYPE: Ice
+FIELD MOVE: Break
+BATTLE MOVE: Ice
+HOW TO GET HIM: at the cave.
+
+R-175 -> Glalie
+TYPE: Ice
+FIELD MOVE: none
+BATTLE MOVE: Ice
+HOW TO GET HIM: at the cave.
+
+R-176 -> Whismur
+TYPE: Normal
+FIELD MOVE: none
+BATTLE MOVE: none
+HOW TO GET HIM: at the cave.
+
+R-177 -> Loudred
+TYPE: Normal
+FIELD MOVE: none
+BATTLE MOVE: none
+HOW TO GET HIM: at the cave, by taking the rightmost exit on the water
+                maze.
+
+R-178 -> Exploud
+TYPE: Normal
+FIELD MOVE: none
+BATTLE MOVE: none
+HOW TO GET HIM: at the cave.
+
+R-179 -> Steelix
+TYPE: Steel
+FIELD MOVE: none 
+BATTLE MOVE: Ground
+HOW TO GET HIM: as part of the storyline.
+
+R-180 -> Seedot
+TYPE: Grass
+FIELD MOVE: Tackle
+BATTLE MOVE: Grass
+HOW TO GET HIM: as part of the storyline OR in the Mountain Range.
+
+R-181 -> Nuzleaf
+TYPE: Dark
+FIELD MOVE: Gust
+BATTLE MOVE: Grass
+HOW TO GET HIM: in the Mountain Range.
+
+R-182 -> Shiftry
+TYPE: Dark
+FIELD MOVE: Gust x2
+BATTLE MOVE: Grass
+HOW TO GET HIM: in the Mountain Range. 
+
+R-183 -> Vaporeon
+TYPE: Water
+FIELD MOVE: Water x2
+BATTLE MOVE: Water
+HOW TO GET HIM: as part of the storyline OR at the temple.
+
+R-184 -> Flareon
+TYPE: Fire
+FIELD MOVE: Burn x2
+BATTLE MOVE: Fire
+HOW TO GET HIM: as part of the storyline OR at the temple.
+
+R-185 -> Jolteon
+TYPE: Electric
+FIELD MOVE: Charge x3
+BATTLE MOVE: Electric
+HOW TO GET HIM: as part of the storyline OR at the temple.
+
+R-186 -> Espeon
+TYPE: Psychic
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: at the temple.
+
+R-187 -> Umbreon
+TYPE: Dark
+FIELD MOVE: none
+BATTLE MOVE: Dark
+HOW TO GET HIM: at the temple.
+
+R-188 -> Electabuzz
+TYPE: Electric
+FIELD MOVE: Charge x3
+BATTLE MOVE: Electric
+HOW TO GET HIM: at Team GoGo's base.
+
+R-189 -> Swalot
+TYPE: Poison
+FIELD MOVE: none
+BATTLE MOVE: Poison
+HOW TO GET HIM: at the temple.
+
+R-190 -> Beldum
+TYPE: Steel
+FIELD MOVE: Tackle 
+BATTLE MOVE: Psychic
+HOW TO GET HIM: pyramid, after it becomes full of fire OR at Team GoGo's
+                base.
+
+R-191 -> Metang
+TYPE: Steel
+FIELD MOVE: Tackle x2
+BATTLE MOVE: Psychic
+HOW TO GET HIM: at Team GoGo's base.
+
+R-192 -> Metagross
+TYPE: Steel
+FIELD MOVE: Break x3
+BATTLE MOVE: Psychic
+HOW TO GET HIM: at Team GoGo's base, after it blows up.
+
+R-193 -> Larvitar
+TYPE: Ground
+FIELD MOVE: Cut
+BATTLE MOVE: Rock
+HOW TO GET HIM: as part of the storyline OR in the Mountain Range.
+
+R-194 -> Pupitar
+TYPE: Ground
+FIELD MOVE: none
+BATTLE MOVE: Rock
+HOW TO GET HIM: as part of the storyline OR in the Mountain Range.
+
+R-195 -> Tyranitar
+TYPE: Rock
+FIELD MOVE: Break x3
+BATTLE MOVE: Dark
+HOW TO GET HIM: as part of the storyline OR at Team GoGo's base.
+
+R-196 -> Swablu
+TYPE: Flying
+FIELD MOVE: Gust
+BATTLE MOVE: Flying
+HOW TO GET HIM: in the Mountain Range.
+
+R-197 -> Altaria
+TYPE: Dragon
+FIELD MOVE: Gust x3
+BATTLE MOVE: Flying
+HOW TO GET HIM: as part of the storyline OR in the Mountain Range.
+
+R-198 -> Aerodactyl
+TYPE: Rock
+FIELD MOVE: none
+BATTLE MOVE: Flying
+HOW TO GET HIM: as part of the storyline OR at the temple.
+
+R-199 -> Sneasel
+TYPE: Dark
+FIELD MOVE: Cut x2 
+BATTLE MOVE: Dark
+HOW TO GET HIM: as part of the storyline OR at the cave OR in the Mountain
+                Range.
+
+R-200 -> Absol
+TYPE: Dark
+FIELD MOVE: Cut x3
+BATTLE MOVE: Dark
+HOW TO GET HIM: at the cave. Use a "Burn x3" ability to destroy the huge
+                block of ice inside a room and then continue following the
+                path, taking the lower exit.
+
+R-201 -> Kangashkan
+TYPE: Normal
+FIELD MOVE: Break x3
+BATTLE MOVE: none
+HOW TO GET HIM: on the first area, found by exiting Win Town by its upper
+                entrance, next to the right side of the small lake. You
+                will need a pokemon with a "Break x3" ability.
+
+R-202 -> Entei
+TYPE: Fire
+FIELD MOVE: Burn x3
+BATTLE MOVE: Fire
+HOW TO GET HIM: as part of the storyline.
+
+R-203 -> Raikou
+TYPE: Electic
+FIELD MOVE: Charge x3
+BATTLE MOVE: Electric
+HOW TO GET HIM: as part of the storyline.
+
+R-204 -> Suicune
+TYPE: Water
+FIELD MOVE: Water x3
+BATTLE MOVE: Water
+HOW TO GET HIM: as part of the storyline.
+
+R-205 -> Regirock
+TYPE: Rock
+FIELD MOVE: none
+BATTLE MOVE: Rock
+HOW TO GET HIM: Exactly before entering the temple, use "Break x3" on the
+                rock on the right. Use "Water" on the small flower, go up
+                and us "Break x3" on the other rock. Inside, use "Fire x3"
+                on the ice block and continue going up and inside the huge
+                door, where you will find this enemy.
+
+R-206 -> Regice
+TYPE: Ice
+FIELD MOVE: none
+BATTLE MOVE: Ice
+HOW TO GET HIM: in the cave, use a "Fire x3" pokemon to remove the lower
+                giant ice cube. Use a "Break x2" ability to remove the
+                huge rock in the right side and go down the hole. Use a
+                "Cross" ability to go to the left and down the next hole.
+                Inside the huge door, you will find this enemy.
+
+R-207 -> Registeel
+TYPE: Steel
+FIELD MOVE: Break x3
+BATTLE MOVE: none
+HOW TO GET HIM: tunnel, you need to use "Cross" on the lower left corner
+                of the area filled with Zubat. Then, use "Cut x2" in the
+                next room and continue going up. You will at least 4
+                pokemon with a "Break x2" and yet another one with a
+                "Cross" ability. You will find him inside a huge door.
+
+R-208 -> Kyogre
+TYPE: Water
+FIELD MOVE: none
+BATTLE MOVE: Water
+HOW TO GET HIM: during Extra Mission 1.
+
+R-209 -> Groudon
+TYPE: Ground
+FIELD MOVE: none
+BATTLE MOVE: Ground
+HOW TO GET HIM: during Extra Mission 2.
+
+R-210 -> Rayquaza
+TYPE: Dragon
+FIELD MOVE: none
+BATTLE MOVE: Flying
+HOW TO GET HIM: during Extra Mission 3.
+
+R-211 -> Deoxys
+TYPE: Psychic
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: in Japan, you had to pre-book tickets for the 9th pokemon
+                movie. In the other versions, you can get it by completing
+                Special Mission 1 in Ranger Net.
+
+R-212 -> Celebi
+TYPE: Grass
+FIELD MOVE: none
+BATTLE MOVE: Grass
+HOW TO GET HIM: in Japan, you could only get it in special events. In the
+                other versions, you can get it by completing Special
+                Mission 2 in Ranger Net.
+
+R-213 -> Mew
+TYPE: Psychic
+FIELD MOVE: none
+BATTLE MOVE: Psychic
+HOW TO GET HIM: in Japan, you could only get it in special events. In the
+                other versions, you can get it by completing Special
+                Mission 3 in Ranger Net.
+
+R-??? -> Manafi's egg
+TYPE: probably none
+FIELD MOVE: probably none
+BATTLE MOVE: probably none
+HOW TO GET HIM: in Japan, you had to pre-book tickets for the 9th pokemon
+                movie. In the other versions, you have to input a certain
+                password, as stated in the proper section of this guide.
+
+
+
+5~. Frequently Asked Questions
+
+Here, you will be able to read about some of the questions that people may
+be wondering about this game, at least if I consider them to be slightly
+important.
+
+Q: What exactly is the name of this game?
+A: It is "Pokemon Ranger". "Pokemon Rangers" and "The Road to Diamond and
+   Pearl" are just slight mistranslations.
+
+Q: Are pokemon an it/she/he ?
+A: Haven't got a clue, and that's probably one of the major problems in
+   this guide, as I don't usually 
+
+Q: What is the most under-rated pokemon in the game?
+A: I would have to say Gengar. With him, you can capture a lot of enemies
+   easily.
+
+Q: How many towns are there in this game?
+A: 4 different ones.
+
+Q: What's that man with 2 Drowzee, that you can see near the place where
+   there are the 3 legendary dogs?
+A: By talking to that man, you will be taken back to the past and fight
+   the 3 legendary dogs once again. WHAT? >_>
+
+Q: What happens after you capture the Snorlax?
+A: After exiting its cave, you will receive a call and a cutscene will
+   occur where all the important characters appear and you get a special
+   badge, stating that you captured all the possible pokemon. That's all,
+   unfortunately.
+
+Q: Besides Manaphy's one, is there any other mission to unlock, via the
+   password mode?
+A: No, I don't think so.
+
+Q: I'm trying to input a password for the Manaphy mission but I can't get
+   it right. What am I doing wrong?
+A: Probably nothing, but be aware that there are several different
+   passwords that you need to input, depending on what region of the game
+   you're playing. While a single one is used for the USA, at least two
+   different ones were found for the European version, and if none of the
+   ones stated in this guide work for you, it's probably because you have
+   another version of the game.
+
+You can also contribute your own questions, if I find them interesting I
+will add them to this section.
+
+
+
+ST~. Special Thanks
+
+I want to thank the following people:
+
+- Everyone who made this game;
+
+- Everyone who likes my works here on gamefaqs, it's for those people
+  that I like to work in this type of project;
+
+- People I know personally and that make me smile;
+
+- http://www.serebii.net , for the information that was adapted and
+  inserted in sections "Acquirable Pokemon and their moves" and "Pokemon
+  Type", along with the proper translation of the City's names. If it
+  wasn't for their help, I would have taken a lot more time writing this
+  guide;
+
+- greatfire , for correcting some of my mystakes in the pokemon list;
+
+- Matthew Galvin, for information on how to capture Celebi, Mew and Deoxys
+  in the American version of the game;
+
+- Hayden, for information on the 3 legendary Pokemon obtained from events;
+
+- Cardz, for pointing out a typo and giving me an information I had
+  forgotten to include;
+
+- Tom, for pointing out what the Drowzee man was all about;
+
+- Louis, for providing a lot of information in the American version of the
+  game and correcting some of the problems in this guide;
+
+- Ryan L., for correcting the location of Machamp;
+
+- Everyone who mailed me asking about Porygon's location;
+
+- Everyone I forgot to credit (if anyone at all...);
+
+- BethanyM and CjayC, for inspiring me to continue working in this faq
+  and in all other projects as well.
+
+
+
+EN~. Contacts
+
+If you want, you may see my web page, just check it at  the HTML address
+www.geocities.com/Mykas0/ .
+Also, BEFORE MAILING ME BE SURE TO READ THE WHOLE FAQ, since your question
+may already be covered in there.
+My e-mail is Mykas0 [at] gmail.com , use the following subject or I will
+NEVER (AND I MEAN IT!) reply back to you:
+
+Subject: "PR FAQ"
+
+You should use it for asking anything or giving me more info for this faq,
+obviously I will credit you!
+
+Thanks and until a next version!!!!!!

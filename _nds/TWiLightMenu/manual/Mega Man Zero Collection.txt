@@ -1,0 +1,1075 @@
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                     Mega Man Zero FAQ/Walkthrough
+                By: BurningFox (Pikminworrior@aol.com)
+                    Version 1.91 (1/11/03) KB: 50
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                __  __                    __  __
+               |  \/  |                  |  \/  |
+               | \  / | ___  __ _  __ _  | \  / | __ _ _ __
+               | |\/| |/ _ \/ _` |/ _` | | |\/| |/ _` | '_ \
+               | |  | |  __/ (_| | (_| | | |  | | (_| | | | |
+               |_|  |_|\___|\__, |\__,_| |_|  |_|\__,_|_| |_|
+                             __/ |
+                            |___/
+                           ______
+                          |___  /
+                             / / ___ _ __ ___
+                            / / / _ \ '__/ _ \
+                           / /_|  __/ | | (_) |
+                          /_____\___|_|  \___/
+
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                  Note From the Author/ Guide Info
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Welcome! This is my first FAQ and hopefully not my last. I am a huge
+fan of mega man and hope this guide will be helpful to you. As of now
+the guide is about done.
+
+What's New In Version 1.91:
+Added some minor changes.
+
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                          Table Of Contents
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+1)                About Mega Man Zero                             MMNZ1
+2)                Story                                           MMNZ2
+3)                Characters                                      MMNZ3
+4)                Cyber Elves                                     MMNZ4
+5)                Walkthrough                                     MMNZ5
+6)                Weapons                                         MMNZ6
+7)                Secrets/Hints                                   MMNZ7
+8)                GameShark Codes                                 MMNZ8
+9)                Legal Stuff                                     MMNZ9
+
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+1)                     About Mega Man Zero                        MMNZ1
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Publisher: Capcom
+
+Developer: Capcom
+
+System: Gameboy Advance
+
+Released: September 10th 2002
+
+Length: 5-10 hours total including time it takes to finish a level
+        after dying.
+
+Genre: Platform/ Action
+
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+2)                            Story                               MMNZ2
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+The game starts out with Ciel, a resistance fighter, trying to
+resurrect the legendary Zero, her last hope.  He is her last hope to
+stop the evil tyrant X, who is killing innocent reploids.  Zero agrees
+to help out and you take on his role, going on various missions trying
+to destroy X's evil minions from things like blowing up the factory and
+taking over the base, while uncovering small pieces of what is really
+going on.  Has Zero's old friend X really changed so much since he last
+saw him a century ago?  There's only one way to find out...
+
+As you go through missions, X's minions will become more and more
+powerful.  The last of your missions will have you encounter Fefnir,
+Phantom, Harpuna, and Leviathan, X's top minions known as the
+guardians. They will do anything to help out their master.  They have
+the strongest attacks and the most HP out of all his minions.  Beneath
+the guardians are their henchman, whom I will not name (mostly because
+I don't remember their names and they are weird) and below that are a
+few smaller reploids, like machines.
+
+X's evil base is located in Neo Arcadia, the city where the humans
+exiled Ciel and her reploids from.  Ciel, feeling strangely responsible
+for his actions, decided that she had to stop X.  She formed a small
+alliance, the rag tag group of reploids that you meet in the beginning
+of the game.
+
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+3)                           Characters                           MMNZ3
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Zero- The legendary repoid from 100 years ago serves as the main
+character in this game. His main weapon is a saber, which can slash
+devastating blows at enemies. He cannot remember anything about his
+past at first though and may never.
+
+Ciel- The main resistance fighter. She gives up her loyal cyber elf to
+resurrect the legendary Zero to save the world and to destroy the evil
+that she created in Neo Arcadia.
+
+X- Has your dear old friend X really turned into a mad villain? Can
+this be true, there is only one way to find out and that's by going to
+Neo Arcadia and stopping whoever this evil tyrant is!
+
+The Guardian's- These four are X's strongest and most loyal assistants.
+These four will do basically anything for their master and are so
+strong they are virtually invincible to most fighters, can Zero destroy
+these reploids? It's up to you!
+
+X's Reploids- Other that the guardians X also has other minions. These
+minions are not as strong and not quite as loyal but still follow their
+master's orders.
+
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+4)                          Cyber Elves                           MMNZ4
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ____________________     _____________________________________________
+/ About Cyber Elves /    / Brief Overview of Cyber Elves              /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Cyber elves are new to the Mega Man games, small creatures that are
+used as items and power-ups.  As you can guess, they play a major role
+in this game and make it very difficult to beat without them.  A cyber
+elf can give Zero a permanent ability change, destroy enemies, change
+level data, and more. There are over 70 cyber elves in the game, split
+between 3 types: Nurse, Animal, and Hacker. You can only use them once,
+but there almost always more than one of each "power"
+
+Nurse Elves are probably the most helpful elves. Their abilities
+include: healing, sub-tanks (refillable item that holds spare energy
+you pick up), raising maximum health, and more.
+
+Animal Elves are only useful in a few situations but are pretty good.
+Their abilities mostly focus on enemies and do things like attacking
+them and making you stronger against them.
+
+Hacker Elves change the data of the game. They lower your score for
+the rest of the game so it's a risk to use them but they can give you
+some awesome advantages like no spikes.
+
+ ______________________     ___________________________________________
+/ Cyber Elf Locations /    / In Mission Format                        /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Mission One Cyber Elves:
+ 1) In a container at the very left of the level. Shoot it with your
+    buster to reveal the cyber elf (the container is kind of hidden,
+    and can only be opened with when dashing and shooting).
+ 2) From destroying a spider nest or spider it produces (can anyone
+    clarify?)
+ 3) From solider with electrifying torch near the middle of the level
+ 4) Near the end where you collapse there is an area where you can
+    jump on the top. Dash against the wall and leap from the wall onto
+    the side of the gap where you should dash against the wall upward.
+    The cyber elf is in a container on the left side.
+
+In-between Missions Cyber Elves:
+ 1) Go to the very bottom and give the lying down guy 250 crystals if
+    you don't have 250 then give them to him at a later time.
+ 2) After giving the guy 250 crystals follow the now opened path. It
+    leads to a door, go through the door and at the end of the room is
+    a cyber elf container, smash it open and get the elf inside.
+
+Mission Two Cyber Elves:
+ 1) By the ladder at the beginning of the level. One of the spikey
+    wheels drops it.
+ 2) At the beginning of the first hill a solider drop it.
+ 3) At the top of the hill jump off and slash the elf container that's
+    hanging in mid air. Climb back up the hill and jump off again to
+    get the elf.
+ 4) After climbing up the stairs at the end of the level you'll see a
+    cyber elf container and a free life on the side. Come back later
+    with the charge Z-saber ability and slash there. The saber will
+    crack the container. Head downward and wait for the cyber elf
+    circle to come down.
+ 5) At the end of the level slash the spiky tower thing. A cyber elf
+    will come out after you disable it for a few seconds by slashing
+    it.
+
+In-between Missions Cyber Elves:
+ 1) Go to the bottom LEFT area of the base and listen to the old guy's
+    story.
+
+Mission Destroy The Train Cyber Elves:
+ 1) From motorcycle enemy
+ 2) From defeating fake mini boss
+ 3) Jump up on onto and go up the wall before the mini boss and there
+    is a cyber elf container
+ 4) From punching enemy or airship on the train (clarify?)
+ 5) From flying solider guy on the train
+ 6) From enemy that throws a spiky circular metal thing at you on the
+    train
+ 7) From defeating the real boss
+
+Mission Find the Shuttle Cyber Elves:
+ 1) From snake enemy by tank
+ 2) From bird enemy
+ 3) On top of huge cliffs (in container)
+ 4) From trap enemy (underneath huge cliffs)
+ 5) From the boss
+
+Mission Retrieve Data Cyber Elves:
+ 1) From exploding red ball
+ 2) From "sky shooter" enemy
+ 3) From Boss
+ 4) After the mission ends you can some back to a newly opened area. A
+    cyber elf container is lying on the top, you have to make a really
+    hard jump to get to it though.
+
+Mission Occupy Factory Elves:
+ 1) From Flying thing with Shield
+ 2) Go to the beginning of the factory and there is some enemies that
+    shoot bullets. Kill them, one of them has the elf.
+ 3) In Air Vent Shortcut
+ 4) From Spider Type Enemy
+ 5) Above the place where you jump to the Second Platform
+ 6) Above the ladder after the Platform ride
+ 7) In a secret passage in a wall on the ladder that you climb up to
+    to get to the boss
+
+O No The Base is Being Attacked! Elves:
+ 1) From a flying thing that the Mechaloid shoots out
+ 2) LET IT EAT PARTWAY THROUGH THE ORANGE/YELLOW BUILDING!!! You know,
+    the one you had to jump off of to get Mippie. there's a shaft under
+    the building, but it's closed off at the moment (there's a Continue
+    on it, too). Once that's uncovered kill the boss ASAP. When you go
+    back, the shaft will now be open- jump down it and look for a room
+    on the right with the last SubTank Elf. The shaft goes all the way
+    down to the Subway area from the Train mission.
+ 3) From Defeating the Boss
+
+Mission Find Hidden Base Elves:
+ 1) Where you fall down to the Hidden Base go to the left and there is
+    a passage which will lead you to the elf
+ 2) From destroying a turtle type enemy
+ 3) By the computer room latter there is a pipe, jump down it into a
+    passage that leads to an elf.
+
+Mission Rescue Colbar Elves:
+ 1) To the left of where you start the mission
+ 2) From destroying a flying soldier
+ 3) There will be two falling platforms in a row somewhere, after them
+    there is a cyber elf below the next platform
+ 4) Underneath another platform nearby
+ 5) From defeating the Boss
+
+Mission Duel in the Desert Elves:
+ 1) From Camel Enemy
+ 2) From Tank Enemy
+ 3) From defeating the Boss
+
+Mission Protect Factory Elves:
+ 1) From defeating the Boss
+ 2) From a wolf enemy
+
+Mission Stop the Hacking Elves:
+ 1)  From a squid enemy
+ 2)  From a fish enemy
+ 3)  At left portion of the under-water portion of the level, slide
+     down the cliff and it will be there
+ 4)  Above the first submarine is a metal extension thing. Jump onto it
+     and climb it up to get the elf
+ 5)  In the Computer Room
+ 6)  In the Computer Room
+ 7)  In one of the cell's that you have to destroy
+ 8)  In one of the cell's that you have to destroy
+ 9)  In one of the cell's that you have to destroy
+ 10) In one of the cell's that you have to destroy
+ 11) From Defeating the Boss
+
+Mission O No the Base is Being Attacked! Elves:
+ 1) From a monkey the boss makes
+ 2) From defeating the boss
+
+Neo Arcadia: Shrine Elves:
+ 1) In a secret area, you have to jump to it from a platform
+ 2) Next to Elf #1
+ 3) From Boss #1
+ 4) Jump over the flying yellow enemies onto the temple that had Boss
+    #1 in it
+ 5) Next to Elf #4
+ 6) Slide off the left edge of the temple with Boss #1 in it then jump
+    left under a wall and land on a platform with the left.
+ 7) From Boss #2
+ 8) Jump from the left most disappearing block onto a platform that is
+    inactive, then activate it, hop on it, and wait until it is the
+    farthest left and dash jump off, you'll end up on top of the place
+    where you fought Boss #2.
+ 9) From Boss #3
+
+Neo Arcadia: Tower Elves:
+ 1) From a flying robot
+ 2) Guarded by a robot enemy
+ 3) From the Boss
+
+Neo Arcadia: Core Elves:
+ There are no Cyber Elves in this level
+
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+5)                        Walkthrough                             MMNZ5
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ____________     _____________________________________________________
+/ Mission 1 /    / This Mission Has No Name                           /
+¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Start up by heading left, dash and shoot. A floating bubble should
+appear (a cyber elf), move over and walk into it. After collecting the
+cyber elf head right and kill three the soldiers. Continue heading
+right, shooting the spiders after killing them destroy their source,
+the gray nest. A few seconds later you should encounter more spiders,
+destroy them and continue on. Another spider producing nest should show
+now, destroy it, the spiders it produces, and the spiders behind it.
+Continue on destroying spiders and their nests. Soon you should see
+four soldiers with electrifying torches, shoot them until their gone
+and continue on. You should see three more soldiers and a moving orb.
+If you luck out you can destroy the soldiers with the orb (when shot
+the orb explodes), if not shoot them. Head on and Ciel will fall. Head
+right and you've reached the first boss, Golem!
+
+WARNING! BOSS FIGHT: GOLEM
+Weakness: Z-Saber
+
+This is the first boss, don't expect them to get much easier.  As soon
+as the fight begins, switch your attack controls (press start and press
+R) so you only have to press R to use your secondary weapon instead of
+holding it and pressing A, this will make things much easier for the
+entire game.  To avoid his lower laser, jump against the wall and stay
+at the top.  To avoid his upper laser, stay close to him.  His head is
+his weak spot, so don't waste anytime shooting anywhere else. An
+effective way to hit it is get about half way up on the wall then jump
+off and shoot, it will be a direct hit. After he takes enough damage,
+you will get the Z saber.  One slash of it with R will destroy him!  If
+you had trouble with this mission then this game may not be for you...
+
+ ____________     _____________________________________________________
+/ Mission 2 /    / This Mission Has No Name                           /
+¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Immediately begin by heading right killing the wheel enemies as you go.
+The third one you kill will drop a cyber elf. Soon soldiers and wheels
+will attack you, continue destroying them as you go. Jump over the
+spikes and head up the hill killing soldiers, one of them will drop a
+cyber elf. When you get to the top slash the flying soldier with the
+saber. At the top dash off and slash the cyber elf container, climb
+back up and get the mid-air cyber elf. Soon, you will see towers that
+shoot at you. Slash the towers with your saber to temporarily disable
+them. Jump over the spikes and continue on killing wheel enemies,
+soldiers, and disabling towers. After a few seconds you'll reach
+stairs.  Climb them destroy a soldier, climb more destroy the soldier,
+continue doing this until you reach the top. Dash down destroying
+soldiers until you reach the bottom. At the bottom dash on killing
+enemies until you reach a tower. Disable this tower, collect the cyber
+elf and head to the boss.
+
+WARNING! BOSS FIGHT: AZTEC FALCON
+Weakness: None
+
+The next boss is a bird creature and is pretty darn hard, as far as
+bosses in this game go. When he switches sides, jump off the wall and
+slash him, then get on the other wall and continue avoiding the fire.
+When he lands on the ground, jump down and start slashing away. By now
+you should have the double slash, which will help destroy this bird.
+You can defeat it quickly that way, but you will take some severe
+damage, if you don't want the risk of dying, do the other way of
+dodging fire and slashing when he switches sides.  Either way, Keep in
+mind that you only have so much time before the bellow reploid is
+crushed.  Don't take too long or you'll have fail.  After the battle
+grab the thunder chip and leave through the door.
+
+ ____________     _____________________________________________________
+/ Mission 3 /    / Destroy the Train                                  /
+¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Begin out the mission by dashing past the stairs and getting the energy
+crystals. After getting the energy crystals head down the stair's/
+ladder and head left, ignoring directions. You'll see a gap between the
+platforms, slide down it and receive your prize of an extra life and
+climb back up the wall. Now head right, as told killing the killing the
+flying enemy. Now your faced with a jump, don't worry it's not too
+hard, jump across an continue on. A couple more flying enemies will
+attack you on the next platform, after destroying them, jump to the
+next platform. On this platform there are three types of enemies, the
+flying ones, a type of motorcycle enemy and what I like to call "sky
+shooters" (enemies on the ceiling that shoot). The Z-saber is the most
+effective way to destroy these guys, after killing all the enemies on
+the platform head on.
+
+You should notice an electrical rope blocking your jump to the next
+platform. These ropes can be destroyed with the Z-saber, so jump and
+slash in mid-air, destroying the rope, making your landing safe.
+Immediately jump to the next platform; destroy the flying enemy and
+the sky shooter then jump to the next one. Your next jump will look a
+lot then it is being of the moving rope, use the same strategy as
+above, it isn't any harder really. On the next platform a motorcycle
+enemy will attack you, kill it and receive the cyber elf. Destroy the
+rope with the jumping slash and continue on. Kill the enemies on this
+platform and head on to the fake boss. This mini boss is easy,
+basically watch out for the ball and chain and when it's shield goes
+away slash it up with the saber. When it's destroyed, grab the cyber
+ elf and continue on to the train. The train is basic, hop from car
+to car destroying enemies as you go until you reach the end, at the
+end slide down and enter the boss chamber. Despite from the couple
+cyber elves from enemies, there is nothing really to do here.
+Underneath the second car is a life re-filler if you need it.
+
+WARNING! BOSS FIGHT: TRAIN ENGINE
+Weakness: None
+
+This thing is all looks! In between fire shoots, slash it with the
+saber and after it shoots the huge fire shot it will start lifting up
+platforms. This is the only hard thing about this boss, If you find the
+platform your on being lifted up quickly dash off, remember there is a
+time limit for this boss though.  One last thing, it shoots out mini
+fire blasts too, they aren't that powerful, but they can hurt you. If
+you are scared to use the Z-Saber because of low life then you can use
+your blaster from a far, but it isn't as effective.
+
+ ____________     _____________________________________________________
+/ Mission 4 /    / Find the Shuttle                                   /
+¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Start out heading left. Slash the snake enemies that come up. One of
+them might drop a cyber elf. Continue on killing the bird and more
+snake enemies. Soon you'll reach a sort of hill, on your way back up
+watch out for the sandtrap. Soon you will see another hill, this time
+sand is moving, destroy the machine at the bottom to stop the sand
+(watch out for sandtraps). Next up you'll see a bunch of giant cliffs,
+climb up to the top get the cyber elf and jump off continuing on. A
+few more birds and snakes will attack you, as you continue on. Soon
+you will see a sand storm machine, destroy it and the next one, then
+head to the boss.
+
+WARNING! BOSS FIGHT: ANUBIS
+Weakness: Fire (don't need it though)
+
+Charge up your saber and strike him when possible, while taking out the
+creatures he summons. When he goes in the sand, giant spikes will come
+up.  You can see them briefly before they go up, leaving you a chance
+to get out of the way.  If you don't make it out, jump on the side,
+climb up, and hop over. Just keep on slashing him with the Z-saber when
+possible and soon his two life bars will be gone. After Anubis collect
+the cyber elf and head on to the soldier. After talking to him, grab
+the extra life and energy on the plane and head the slow journey back.
+There is nothing new here, just slowly walk back to base protecting the
+injured soldier while killing enemies.
+
+ ____________     _____________________________________________________
+/ Mission 5 /    / Retrieve Data                                      /
+¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Start out heading left then begin to dash up the wall. Sneak past the
+first spinning elecrifier, jump across the wall and sneak past the
+other one. When you reach the top watch out for the moving red balls,
+if you make contact they will explode. Destroy them with your buster
+and move on left. There will be another electrifier, dash under it,
+kill the enemy nearby and dash under the next one. Continue on
+avoiding yet another electrifier then destroying the nearby enemy.
+Pretty much all there is for the rest of this portion of the level is
+a flat strech, there will be some electrifiers first, then it will thin
+out to just being enemies to kill until you reach the boss.
+
+WARNING! BOSS FIGHT: GANESHARIFF
+Weakness: Electric Element
+
+Very easy boss with the element, no really skill evolved. His weak spot
+is his head. By now you should have the brown charge up on your Z saber
+allowing you to do massive damage to him. When he swings from the top
+stay at the backside until he's coming back for the last time and
+quickly dash out of the way. When he turns into a ball jump over him,
+you'll probably take damage the first because it's fairly hard to do.
+When he creates a shield with his hands just chill. Whenever he's doing
+nothing slash him with a fully charged Z SABER! Also, when he's
+punching you can shoot a charged blaster shot at his head making him
+take some damage and stopping the attack. After you beat him, you'll
+have to escape and head back to base; this is all about dashing. Keep
+on dashing and you'll win this. The doors will close on you though so
+slash them with the Z saber when they do that, there is no enemies
+though which is a major plus, you should earn the nickname speedster
+after this mission.
+
+ _____________________     ____________________________________________
+/ Inbetween Missions /    / Getting a New Weapon                      /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Find the engineer and he'll give you a new weapon quick is pretty good.
+He is located at the very bottom of the base in a house type thing.
+
+ ____________     _____________________________________________________
+/ Mission 6 /    / Occupy Factory                                     /
+¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Lots of hard jumping here. The Censors are pretty much in avoidable
+except for the first few. The first one can be easily passed and the
+second one leaves a huge gap for you. When your on the second floor do
+your best to avoid them but it's pretty hard, you can still win if you
+get hit, just slash open the path blocker and dash as fast as you can
+out. When you get to the part where you stand on the platforms you can
+easily avoid the shockers by standing on the front. The second switch
+off is a little difficult. Destroy the two spiders and ride down until
+your just about dead and another one will pop up, jump on it and
+continue on.
+
+WARNING! BOSS FIGHT: ROBOT DRAGON HEAD
+Weakness: None
+
+Pretty easy boss. When it's eye opens up (it's weak spot quickly slash
+it with an all the way charged up Z saber then dash to the other side
+to avoid it's attacks. It has a variety of attacks, but none are really
+that hard to dodge, simply go to the other side ^_^. After you beat it
+collect the Fire Element and leave.
+
+ ____________________________________    ______________________________
+/ O No! The Base is Being Attacked! /   /                             /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+WARNING! BOSS FIGHT: GIANT MECHALOID
+Weakness: None
+
+This boss is VERY EASY! It's first spot to attack is this cone that
+comes out every once in a while. When it comes out quickly slash it up
+with your Z saber until it's gone. You next spot to attack are a little
+lid that lets enemies out at you, slash it up with your Z saber until
+it's gone too. The last spot to attack is top portion. Charge up your Z
+saber and attack the very top until it's destroyed! Hurray you beat the
+really easy boss and the base is saved!
+
+ _____________________     ____________________________________________
+/ Inbetween Missions /    / Getting a New Weapon                      /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Go back to the weapon dude and get another weapon!
+
+ ____________     _____________________________________________________
+/ Mission 7 /    / Find Hidden Base                                   /
+¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+NOTE: Make sure to skip the mission Rescue Colbar and go to Find Hidden
+      Base.
+
+Navigate through the desert until you get to the quicksand machine
+destroy it and a secret base will be revealed. Go down and before you
+have Ciel take away the lasers go over and get the cyber elf. After
+you've got the cyber elf head down the path and watch out for the
+spikes. Continue over as far as you can until there is a ground of
+spikes, notice the dirt icicles up on top, shoot them with your blaster
+and they will fall down creating a path. Follow the iced up path until
+you get to the base then rescue the seven people. Watch out for guards,
+they set off the alarm witch puts red bars over the cells for a short
+period of time.
+
+WARNING! BOSS FIGHT: BLIZZACK
+Weakness: Fire
+
+Six fully charged Z-Baser blasts would take him out with the fire
+element. He isn't that tough but he can freeze you and slow you down
+with his attacks. Basically dodge all his attacks while charging up
+your Z saber and when he jumps near you slash him. He does have a quite
+annoying attack though where he creates a wind storm, jump onto a wall
+and climb up to avoid it.
+
+ ____________     _____________________________________________________
+/ Mission 8 /    / Rescue Colbar                                      /
+¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+NOTE: Be sure to go up to Rescue Colbar.
+
+Pretty easy mission. Take out the enemies while going down the ladders
+to get stuff. If you want to waste some lives there is cyber elves in
+weird locations near the bottom of the level. When you get to the
+moving platforms I have a few tips:  1) Destroy the enemy on the
+platform first  2) Wait until the platform is in clear visible sight,
+preferably going down to jump on to it.  3) Flying soldiers are
+annoying, don't jump to dodge whatever you do, take the damage if you
+must.
+
+WARNING! BOSS FIGHT: HARPUNA
+Weakness: Ice
+
+When she gets to the middle slash her with a fully charged Z-Saber. Now
+it's just a matter of charging up the Saber and jump behind her and
+slashing. It seems alot harder than it is, just jump behind slash and
+repeat until she's dead. If you can't do this then just try to
+interrupt her attacks with a Slash of the Z-Saber here and there and a
+whack with the Triple-Rod (also be sure to dash under her attacks).
+
+ ____________     _____________________________________________________
+/ Mission 9 /    / Duel in the Desert                                 /
+¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+This is a very easy mission that will let you gain lots of equipment
+levels. Use all your weapons switching every once in a while, If you
+switch right you should gain a level on each weapon along with gaining
+a ton of crystals.
+
+WARNING! BOSS FIGHT: FEFNIR
+Weakness: Electricity
+
+He is simply a joke, he has one long ranged attack, which when he uses
+you can simply jump over. to avoid his other attacks, simply step back.
+Inbetween his feable attacks give him a good Z-Saber slash ^_^.
+
+
+ _____________     _____________________________________________________
+/ Mission 10 /    / Protect the Factory                                /
+¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+WARNING! BOSS FIGHT: PHANTOM
+Weakness: None
+
+Phantom has no weakness but can be stomped fairly simply. Equip the
+triple rod and go over and the battle will begin. His first attack is a
+dash toward you, whack him with the rod or jump over him to dodge. His
+second attack is a four-image split; you can see phantom because he's a
+little bit more life like. Whack the one you think is phantom until he
+stops the attack, beware when he ends the attack he comes down from the
+sky sometimes. His third attack is a ninja star throw, which you can
+easily jump over. His last attack is a ninja star ride, jump over the
+star and whack him with the rod to start off the attack. When he gets
+in the air watch out for falling spikes while you whack him with the
+rod. If you follow this plan, you can beat him easy!
+
+(Note if you don't have a high level triple rod then you can use the Z-
+saber, the only change you should do is use the gun for the four image
+attack)
+
+If you thought phantom was hard give up on this mission because the
+level is even harder. The objective is to destroy the eight bombs which
+doesn't seem that hard, but it is.
+
+Bomb One: By the elevator on the down indent in the wall.
+
+Bomb Two: First side indent in the elevator ride, on the right wall.
+
+Bomb three: on the left wall in the third indent of the elevator ride.
+
+Bomb Four: After the first two zappers after the first platform switch
+of the platform ride, it's on a little L shaped indent.
+
+Bomb Five: Right after you switch platforms for the second time jump
+back and there is a bomb.
+
+Bomb Six: You'll see a place on the platform ride toward the end where
+there is two walls that open up to a little area, go down the area and
+there is a bomb.
+
+Bomb Seven: Where there is an area to go up and areas to go down after
+the platform ride go up and there will be the bomb.
+
+Bomb Eight: By where the boss chamber used to be, right after the
+ladder on the wall.
+
+ _____________     _____________________________________________________
+/ Mission 11 /    / Stop the Hacking                                   /
+¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Ya! It's the last mission! Or is it? Anyway, follow the path down to
+where the ice was, but now it's water! No biggie, in water jumping is
+easy so the spikes are no problem. Watch out for boats though, they can
+squish you, it's an ugly site. Get to as far as you can and jump on the
+boat watch out for missiles and go as far as you can, when you reach
+the end jump off and land on another boat. Go across the boat and onto
+the ladder to the base they have.  Now your in the base. After Ciel
+unlocks the door go up the door and left then up the first ladder then
+right, through the trick ending and onto the hacking room. Destroy the
+six computers, get the supplies and head back to base.
+
+WARNING! BOSS FIGHT: LEVIATHAN
+Weakness: Fire
+
+Easy boss with the fire element, any attack she does can be interrupted
+by a fully charged Z saber attack and they all can be dodged. If she
+does the pointy ice flake attack then destroy them before they come
+down so you can get a good hit on her. If she throws her weird thing at
+you jump over it, she is pretty easy for a guardian...
+
+ ____________________________________    ______________________________
+/ O No! The Base is Being Attacked! /   /                             /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+The mission starts out and you have to save the engine room. Go to the
+bottom and into the room where you got the weapons to save it. Next go
+up until you get to the second place on the left, continue left until
+you get to the staircase. Go down the staircase and into the room to
+fight the boss.
+
+WARNING: BOSS FIGHT: HANUMACHINE
+Weakness: Electricity
+
+This is quite possible the hardest battle in the game even though he
+has a weakness. He has two major attacks, a fireball which is easily
+dodged and a monkey summon which you'll have to kill. Other than
+destroying the monkeys, attacking with fully charges Z saber hits and
+avoiding his attacks, I have no real advice, good luck. This battle is
+more against the money bomb things than he is.
+
+ _____________________     ____________________________________________
+/ Neo Arcadia Shrine /    / First Neo Arcadia Mission                 /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+NOTE: For Neo Arcadia Shrine I will only give boss strategies
+
+WARNING! BOSS FIGHT #1: STONE SOLDIERS
+Weakness: None but only the Z-buster/gun works on them
+
+Immediately head to the far left. Now the battle is simple. Simply, go
+trigger-happy whenever you see one and they will be dead in no time.
+
+WARNING! BOSS FIGHT #2: SWORDSMAN
+Weakness: Electricity
+
+Simple Boss, Whenever he starts spinning like he's a top, jump over
+him. Whenever he does his sword slash attack simple move back. Last
+whenever he does his boomerangs attack jump over them when they come
+out and again when they come back in. In between attacks slash him with
+the Z-saber.
+
+WARNNING! BOSS FIGHT #3: HERCULIOUS ANCHORTUS
+Weakness- Ice Element
+
+Watch out for the shooting electric attacks and slash him when ever
+able to. A good time to slash him is when he makes the electric clamp.
+Overall he isn't that hard of a boss, he uses electric attacks, that
+are easily avoided/ disrupted.
+
+ ____________________     _____________________________________________
+/ Neo Arcadia Tower /    / Second Neo Arcade Mission                  /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Fully raise the cyber elf totten for this mission, no matter how long
+it takes, do it, it will make this mission not so hard you'll smash
+your GBA in half. The Reason? This mission has lots of hard jumps where
+one wrong jump lands you on spikes. Basically for this mission jump
+head to the top of the tower, I may provide an ASCII map of the tower
+in the future.
+
+WARNING! BOSS FIGHT: DEVIL SLUG
+Weakness- Fire
+
+This guy has several annoying attacks but he isn't that hard. He
+punches, squeezes you and splits up and bounces around. Avoid his
+punches and squeeze attempts and when he splits up slash the one that
+has a weird looking thing inside of it, also keep on moving during this
+attack or you'll get trampled
+
+ ___________________________     ______________________________________
+/ Neo Arcadia Mission Core /    / Last Neo Arcada Mission             /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+This is basically a boss revisit with a little in between action, no
+point of a walkthrough except to tell where the boss are.
+
+Boss Room 1:                           Boss Room 2:
+
+Anubis      Bizzack                    Harpuna  Fefnir
+Herculious  Ganeshariff                Phantom  Leviathan
+
+
+Note: When Phantom is defeated he self-destructs, watch out for it, It
+is avoidable
+
+WARNING: FINAL BOSS FIGHT!
+
+Preparation:
+2 sub tanks if you have them or 2 recovery cyber elves
+
+FORM #1: PIRATE X
+
+This guy is easy, equip no element because he changes it along with his
+attacks. To beat him try to stay on another screen from him so he'll
+use this dash attack which is easy to interrupt and slash. He only has
+2 bars of life and his attacks aren't that lethal.
+
+FORM #2: PIRATE X ANGEL
+Weakness: Ice Element? (not too sure on that)
+
+Wow! Ultimate cheapness! This boss isn't that hard, but sure is cheap!
+Make sure to heal when necessary. His first attack is some restrain
+ring thing, make sure not to go off the platform when he's doing this
+attack, it will be the death of you, dash away from this attack. His
+second attack is a laser shots, it's pretty hard to avoid, and the only
+way is to jump on one of the side floating things. His last attack is a
+beam of fire across the platform, immediately jump on the moving things
+on the side when he does this attack. The only way to attack him is to
+go on one of the side things and jump and slash or shoot.
+
+ ___________________________     ______________________________________
+/ Dragoon Rijito Writes In /    / Pirate X Angel Strategy             /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+I found that using your triple rod on the last form of x is very easy.
+What you do is stay on the middle platform to start out and wait for
+the rings to fly by..then just jump up and stab him..and continue this
+jump and stab until he lights up the platform with fire..then just jump
+over to one of hte floating ledges..and play the sliding game until the
+fire disappears then jump back onto the platform and jump stab up again
+at him
+
+
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+6)                            Weapons                             MMNZ6
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+There are 4 weapons and 4 elements in Mega Man Zero, each of them
+unique:
+
+ _______________________     __________________________________________
+/ Weapon: Z Gun/Buster /    / My Second Favorite Weapon               /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+This is a long ranged rifle type thing. As you pass levels with it, it
+gains power and shot quickness, it max's out after four levels. It is
+your primary weapon in the game and the weapon you start out with.
+
+Damage Listings:
+Uncharged: 1
+Uncharged dashing: 1.5
+Blue Charge: 3
+Yellow Charge: 6
+
+ __________________     _______________________________________________
+/ Weapon: Z-Saber /    / My Favorite Weapon                           /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+You get the Z-saber at the end of your first mission from an unknown
+source. It goes up 7 levels and is your strongest weapon that you find
+you using the most. As you go up levels with it, it increases in attack
+speed, attack strength and attack variety.
+
+Damage Listings:
+Uncharged: 4
+Uncharged dashing: 5
+Yellow Charge: 8
+Jumping Slash: 4
+Jumping Spin Slash (any additional hit): 2 per hit
+
+ _____________________     ____________________________________________
+/ Weapon: Triple Rod /    / My Third Favorite Weapon                  /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+The Resistance engineer makes this weapon for you. It can attack in the
+most directions and has a pretty long range when fully upgraded. It's
+upgrades increase, attack strength, attack range and attack speed. This
+is a good weapon for fighting hard to reach high enemies. You may get
+this after the retrieve data mission.
+
+Damage Listings:
+Uncharged: 4
+Second extension: 3
+Third extension: 2
+Down-Thrust while airborne: 3
+Yellow Charge: 2 per hit
+
+ ___________________________     ______________________________________
+/ Weapon: Shield Boomerang /    / My Least Favorite Weapon            /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+This weapon is pretty much useless for taking out enemies but is very
+effective as a shield when trying to blaze through missions without
+killing enemies. It has 2 levels focusing on length of distance when
+shot out, but as I said it's pretty much useless as an attack force.
+You may get this after you fight the giant mechaloid.
+
+Damage Listings:
+Reflected Shot: 0.5
+Damage Charged: 8 damage
+
+ ___________      _____________________________________________________
+/ Elements /     / Elements can help you do more or less damage       /
+¯¯¯¯¯¯¯¯¯¯¯      ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Non-Elemental: Damage is never reduced or increased
+Electric: Stuns enemies for a short period
+Fire: Catches enemies on fire for a short period
+Ice: Freezes enemies for a short period
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+7)                        Secrets/ Hints                          MMNZ7
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ __________________________     _______________________________________
+/ My Fantastic Super Tips /    / Tips that I came up with :P          /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+- After You've beat the first mission go back to the area and go to a
+spider web, do not destroy the web, only the spiders, If you do this
+for a few minutes you'll have a ton of crystals
+
+- If you beat the game there will be a screen that pops up telling you
+how to get hard mode
+
+- After you've beat the game you can replay the game on the same file
+with all the cyber elves you've used/collected
+
+- If you collect all the cyber elves in hard mode without using one you
+unlock Jackson mode
+
+- If you beat Jackson mode (which is easy) you unlock ultimate mode
+
+- After you've beat the "retrieve data" mission you cannot do the
+spider trick but there is another area to get alot of crystals. Go down
+the ladder where your not supposed to go in the second mission and dash
+over and you'll see a 16 crystals thing grab it and dash back to where
+the ground changes (about halfway to the ladder) and then go back,
+repeat this to get alot of crystals.
+
+- Talk to the base people after every mission, It will help out.
+
+ ___________________     ______________________________________________
+/ User Submissions /    / Sent in by Link500063 and Wolveshardt       /
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+- To get a lot of crystals first go to the energy room and pick up the
+16 crystals then save. After you save hit start+select+a+b at the same
+time and you will go to the title screen load our file and go get the
+16 energy crystals.
+
+- Another trick is after you beat fenfir (the guardian in the desert)
+go to desert transerver thing. When you get there climb 2 ladders to
+get to the roof dash right and there will be 16 crystals head back to
+the transerver and go somewhere. Teleport back to the desert and go
+find the 16 crystals. Repeat theses steps.
+
+- For most bosses before you fight them charge your buster and then
+start the battle in the very beginning fire a buster shot. This is a
+little cheap since the boss will usually be standing there or charge at
+you. This works against blizzard bull (from the mission where you have
+to find the hidden base the first time), aztec falcon (first real
+mission), phantom, X (in first form) fenfir, and for the other 2
+guardians use the shield boomerang instead of a buster shot for a first
+cheap shot.
+
+
+- After you're able to transit between the desert Trans and the Subway,
+collect the 16 crystal container on the top platform where the desert
+trans is located. Then Transit to the subway and go down the ladder to
+where the train was. Enter that door, grab both 16-crystal containers
+and then transit back to the desert to collect the regenerated
+container on the top of the platform and repeat.
+
+- This on the destroy the Recycle Center (second mission), rather. Once
+you reach a part of the board where a 16-crystal container is sitting
+on top of a truck, and one of the flying transport enemies that drops
+the spiked wheel attacks, collect the container and destroy
+both the transport enemy and the wheel collecting the crystals they
+drop (It's quickest to use the Z-Saber and for it to be maxed out of
+course). Dash to the left and then back right while you're on top of
+the truck and the transport enemy comes back to give you more chances
+for more crystals. 
+
+
+Please send in Tricks, Secrets, and Tips to Pikminworrior@aol.com
+
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+8)                         GameShark Codes                        MMNZ8
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+NOTE: these might be Action Replay Codes, I'm not an expert in the
+codes department.
+
+A few people have requested GameShark Codes so here's what I've got...
+(Please Note that if these mess up your game it is your fault not mine)
+
+Master Code (Must be on)
+c2497b68
+d5b35da8
+cbeedd47
+7361f305
+
+Infinite Health
+57351cdb
+9e6b4919
+
+Infinite Crystals
+f35e7df4
+713a3f28
+
+All Cyber Elves
+bd9319a1
+43cfb07a
+f7f9ee8a
+2a20ae2c
+d7753f0c
+4e9a8c14
+3fe12eae
+7eb217cd
+5c6a475c
+ac3e30bb
+
+Not much... but hopefully that will satisfy a few of you people.
+
+
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+9)                          Legal Stuff                           MMNZ9
+_______________________________________________________________________
+=======================================================================
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+This guide may only belong to:
+ www.Warp2Games.com
+ www.cheatcc.com
+ www.gamefaqs.com
+ www.ign.com
+ www.cheats.de
+ www.neoseeker.com
+ www.gamespot.com
+ www.gametalk.com
+ Zero Unit's site (dunno URL)
+
+If you wish to comment or help out E-mail me at PikminWorrior@aol.com
+
+Special Thanks to:
+ CJAYC for an awesome site and posting this FAQ (ditto for other sites)
+ Capcom for creating this game
+ Nintendo for creating the GBA
+ Neoenigma for the weapon damages
+ Various FAQ writers who gave me advice
+ Nintendo Power for letting me know about this game
+ Network Science's ASCII Generator for the ASCII Art
+ You for reading this FAQ
+ SpellDragon for some random info
+ |V|ech for being my 1337 "bud"
+ the stupid foo for GameShark codes
+ ZoopSoul for the FotD (I won on 9/15/03!)
+ MasterZero99 for the 3rd Place in 10/7/03's FotD
+ Blackbelt Bobman for Cyber Elf information after I lost the game
+ Me for uhhhhh.... writing this sucky FAQ :P
+ 
+_______________________________________________________________________
+Copyright (c) BurningFox 2002-2004                         End of File
+
+

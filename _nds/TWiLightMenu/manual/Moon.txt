@@ -1,0 +1,1714 @@
+ __  __                     _____ _    ___  
+|  \/  | ___   ___  _ __   |  ___/ \  / _ \ 
+| |\/| |/ _ \ / _ \| '_ \  | |_ / _ \| | | |
+| |  | | (_) | (_) | | | | |  _/ ___ \ |_| |
+|_|  |_|\___/ \___/|_| |_| |_|/_/   \_\__\_\
+
+===============================================================================
+Moon FAQ
+Date Began: February 6th, 2009
+Date Finished: March 1st, 2009
+Version: 1.00
+Author: Jose "ffmasterjose" Escamilla
+Email: ffmasterjose (at) gmail (dot) com
+===============================================================================
+
+
+-------------------------------------------------------------------------------
+ [Table of Contents]
+-------------------------------------------------------------------------------
+
+I. Introduction.........................................................[int01]
+II. Controls............................................................[ctr02]
+III. Weapons............................................................[wpn03]
+IV. Pickups.............................................................[pik04]
+V. Miscellaneous........................................................[msc05]
+VI. Enemies.............................................................[ene06]
+VII. Walkthrough........................................................[wlk00]
+    Prologue............................................................[pro00]
+    Episode 01: Product Storage Sector I................................[ep101]
+    Episode 01: Product Storage Sector I (Part 2).......................[epxx1]
+    Episode 02: Guardian I..............................................[ep202]
+    Episode 03: Escape Product Storage Sector I.........................[ep303]
+    Episode 04: Product Storage Sector II...............................[ep404]
+    Episode 04: Product Storage Sector II (Part 2)......................[epxx2]
+    Episode 05: Sanctus Vector..........................................[ep505]
+    Episode 06: Exit Product Storage Sector II..........................[ep606]
+    Episode 07: Non-ETO Transport Vessel................................[ep707]
+    Episode 08: LOLA-RR10 / Waste Disposal..............................[ep808]
+    Episode 08: LOLA-RR10 / Waste Disposal (Part 2).....................[epxx3]
+    Episode 09: Guardian II.............................................[ep909]
+    Episode 10: Power Station...........................................[ep100]
+    Episode 10: Power Station (Part 2)..................................[epxx4]
+    Episode 11: Phexic Manifold.........................................[ep111]
+    Episode 12: Cold Process............................................[ep122]
+    Episode 13: Guardian III............................................[ep133]
+    Episode 14: Irradiated Stratum......................................[ep144]
+    Episode 14: Irradiated Stratum (Part 2).............................[epxx5]
+    Episode 15: Matrix Progenitor.......................................[ep155]
+    Episode 16: Fermian Homeworld.......................................[ep166]
+    Episode 17: Overlord................................................[ep177]
+VIII. Bonus Episodes....................................................[bno00]
+    Episode 18: Tsukigami's VR Training I...............................[bno01]
+    Episode 19: Tsukigami's VR Training II..............................[bno02]
+    Episode 20: Tsukigami's VR Training III.............................[bno03]
+    Episode 21: Tsukigami's VR Training IV..............................[bn004]
+    Episode 22: Tsukigami's VR Training V...............................[bno05]
+    Episode 23: Tsukigami's VR Training VI..............................[bno06]
+IX. Frequently Asked Questions..........................................[faq00]
+X. Version History......................................................[ver00]
+XI. Legal Information...................................................[leg00]
+XII. Final Notes........................................................[fin00]
+
+
+-------------------------------------------------------------------------------
+ I. Introduction [int01]
+-------------------------------------------------------------------------------
+
+Welcome to my FAQ for Moon! In this guide you will find everything that you
+could possibly want to know about this game, and then some! I wrote this FAQ
+because at the time of this writing there were no other FAQs posted for the
+game at all on GameFAQs. So I figured I would be doing both the site a favor,
+with bringing it one step closer to the "impossible dream" of having a guide
+for every game posted, but I am also helping you the reader out by (hopefully)
+giving you the answer to whatever you're looking for.
+
+To provide you with a little background information about this game, Moon is a
+first-person shooter science-fiction game for the Nintendo DS. It was released
+in the United States on January 13th, 2009, and as of this writing, has not
+been released in any other region. It was developed by rookie Developer
+Renegade Kid, who at the time of this writing have only released on other game:
+Dementium: The Ward, also for Nintendo DS and also a first-person shooter. Moon
+was released by Mastiff, a company that has been around a little bit longer
+than RK with more experience. The game itself has a very "indie" feel to it,
+and is often compared to another popular DS title, Metroid Prime Hunters. Now,
+I have not played Metroid Prime Hunters so I won't even begin to agree or even
+disagree with that statement. The game itself was met with average reception,
+but given that it was not released by a triple-a company, I would say that not
+to be too disappointing. My personal opinion - it's a very fun game, it actually
+surprised me, which is always nice.
+
+With that being said, it's on to the FAQ itself!
+
+
+-------------------------------------------------------------------------------
+ II. Controls [ctr02]
+-------------------------------------------------------------------------------
+
+The control scehemes in Moon are very simplistic and straightforward. You can
+select between two schemes, Type 1 and Type 2. Their functions are as follows.
+Please note that I have also dedicated this section to detailing al there is
+to know about the dual screens and their use in Moon:
+
+Type 1 (For right-handed individuals)
+------
+
+L button = Shoot
+Directional pad = Move character
+Stylus = Look around/Aim reticule
+
+
+Type 2 (for left-handed individuals)
+------
+
+R button = Shoot
+Y,X,A,B buttons = Move character
+Stylus = Look around/Aim reticule
+
+
+LOLA-RR10 Controls
+------------------
+
+Directional pad Up = Accelerates
+Directional pad Down = Brakes/Reverse
+Directional pad Left/Right AND sliding Stylus on the Touch Screen = Steer
+Slide stylus on Touch Screen = Aim turret/move camera
+L Button = Fires weapon
+Tap the Action Icon on the touch screen = Exit vehicle
+
+Top Screen Display
+------------------
+
+- Reticule in the center of the screen is what you use to aim your weapon
+- HEALTH bar in the lower left-hand corner displays how much health you have
+left
+- Lower right hand corner of the screen displays what weapon you are currently
+using as well as how much ammunition you have left
+- At the bottom of the screen is where a blinking arrow will show up when you
+have the chance to use the Action Icon. This is basically here for a reminder
+to look at your Touch Screen from time to time more than anything.
+
+Touch Screen Display
+--------------------
+
+- In the center is your navigational display. Whenever you enter a new location
+this map will always load. The triangle represents your movement.
+- At the bottom is your weapon display, showing you what weapon you are using
+as well as how much ammo you have left. Tap this to alternate between weapons
+as well as the Remote Access Droid
+- In the upper left-hand corner is the Options screen. You can use this to
+adjust most game settings. This can also be accessed from the Main Menu
+- In the upper right-hand corner is Map display. Once you have downloaded the
+map for whatever area you are presently in you can use this feature to check
+locations. Rooms shaded in blue are areas you have yet to explore, while rooms
+in red signify that you have been in those areas before.
+- At the very top of the Touch Screen is the Action Icon. You use this to..well
+perform actions. Things like opening doors, picking up weapons, retrieving your
+Remote Access Droid, saving your game, all of these and more are dependent on
+the Action Icon.
+
+
+-------------------------------------------------------------------------------
+ III. Weapons [wpn03]
+-------------------------------------------------------------------------------
+
+This section will tell you everything that you could possibly want to know
+about the weapons in this game! I have included practically everything except
+for the kitchen sink, so I hope you find it useful!
+
+Weapon: Super Assault Rifle
+Description: The standard weapon of the game, given to all ETEO officers. It
+has unlimited ammo since it is based on "particle displacement technology" and
+is a "high impact weapon". While the unlimited ammo aspect is great, the more
+distance there is between you and your target, the less accurate the Super
+Assault Rifle is. It fires in burst of three.
+
+Weapon: Muon Pistol
+Found In: Episode 01: Product Storage Sector I
+Ammo/Clip Capacity: 16/92
+Description: The Muon Pistol serves as a handgun in Moon. It is "lightweight,
+versitile, and effective in close-quarters and mid-range combat scenarios". It
+fires one shot per burst, but that single shot packs a strong punch. Very
+portable and not as sluggish to wield as some other weapons are.
+
+Weapon: Quanta Rifle
+Found In: Episode 04: Product Storage Sector II
+Ammo/Clip Capacity: 96/192
+Description: Now this is a weapon you don't want to screw around with, really.
+It fires rapid green projectiles at the enemy. It is basically a great upgrade
+to the Super Assault Rifle, except that it does not do too much as far as
+accuracy is concerned. But it is definitely the superior weapon in almost every
+other way. Very useful for dealing continous, hard damage to an enemy, and for
+most boss fights it is a godsend. With a very large ammo clip once you get the
+upgrade, its no wonder it serves as a fan favorite.
+
+Weapon: Fermion Sniper
+Found In: Episode 10: Power Station
+Ammo/Clip Capacity: 8/8
+Description: Your standard sniper rifle for the game. Not intended for close
+range use, but that goes without saying. Can zoom in and zoom out with ease,
+and also doesn't hinder strifing. Packs a strong punch, most regular foes go
+down after 1-3 shots at the most.
+
+Weapon: Lepton Spread
+Found In: Episode 12: Cold Process
+Ammo/Clip Capacity: 16/16
+Description: The shotgun/mini grenade launcher of the game. If you can get
+enemies together when you shoot this thing, you're going to mess them up.
+
+Weapon: Oxid Cannon
+Found In: Episode 14: Irradiated Stratum
+Ammo/Clip Capacity: 16/8
+Description: This is like the game's answer to the rocket launcher. Works
+incredible for large group of enemies. And plus, Kane takes no shockwave
+damage from it! Used best against multiple enemies, or just one very tough
+opponent. Has modest accuracy.
+
+Weapon: Seeker Pod
+Found In: Episode 14: Irradiated Stratum
+Ammo/Clip Capacity: 8/4
+Description: This weapon of mass destruction is very similar to the Oxid
+Cannon, except that it has some homing capability and its blast radius is much
+more wide and destructive. It's a shame you acquire it so late in your
+adventure. It is most effective when used against a large group of enemies,
+or when you are bunched up in a narrow space and facing a large horde.
+
+-------------------------------------------------------------------------------
+ ++ffmasterjose's anti-plagiarism check++
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+ IV. Pickups [pik04]
+-------------------------------------------------------------------------------
+
+This is all about the many things that you can pick up along your journey.
+I even included storyline items that have very little effect on the game.
+
+
+
+Canisters: Replenish Kane's health. Blue and alien in nature. Dropped by some
+enemies after they are destroyed.
+
+Ammunition: Ammo for your vaious weapons in the game. Also dropped by enemies
+and found in various spots of the game.
+
+Power Ups: Max Health Increase items and Ammo Clip Increase Items, these
+forever build up your health meter and ammunition supplies. Found throughout
+some levels.
+
+Alien Artifacts: When these are present in a level there are always three of
+them to collect. Collecting all three will unlock bonus episodes to play.
+
+Red Key: Used to unlock a door in Episode 01
+
+Data Packets: Used to disable a security lock
+
+Multi-colored Keys: Used to open boss chamber doors.
+
+
+-------------------------------------------------------------------------------
+ V. Miscellaneous [msc05]
+-------------------------------------------------------------------------------
+
+And this section deals with odds and ends that have a direct relationship with
+the game but are not worthy of their own section.
+
+Save Points: Spherical instruments found in safe rooms. Save your progress
+by approaching one and using the Action Icon. Save points are useful as they
+record your data, provide a spot to determine where to head to next, and they
+fully replenish Major Kane's health.
+
+Switches: Brightly colored columns that require you to examine them using the
+Action Icon to disable force fields that they control.
+
+Map Terminals: Found in areas that are vast and expansive. They resemble
+computer terminals except that they are much wider in width. Use the Action
+Icon when close enough to a Map Terminal to download the map information to your
+UCA. After you have done this, you can check the map of your area by selecting
+the "Map" option on the upper-right hand corner of the Touch Screen.
+
+Computer Terminal: Scattered throughout the levels are these terminals that
+provide somewhat cryptic information about whatever was going on before you got
+there. They serve to fill in some backstory with the overall plot of the game.
+You also need to examine every terminal in a level in order to earn every Merit
+that you can possibly get.
+
+Security Chutes: These vents will spit out Drone units if an enemy prescence is
+detected. They are more than a nuisance than anything. But in some cases they
+come in handy, giving you an unlimited supply of Drones to shoot provides you
+with health canisters and ammo pickups.
+
+Tunnels: Small narrow passageways that Kane cannot fit into and require the
+use of your Remote Access Droid. They are protected by weak force fields that
+can be disabled by your Remote Access Droid's EMP blast, allowing it to access
+them (no pun intended).
+
+Force Orbs: These pesky little spheres provide the force fields that block your
+way with power. They can be destroyed by normal gun fire but most of the time
+you are unable to do that until you find yourself on the other side of them.
+This requires you to use your Remote Access Droid to go through some tunnels
+and temporarily disable them so Kane can move on. These provide a good chunk of
+the game's puzzles to solve.
+
+LOLA-RR10: The "Low-Gravity Land-Based Reconnaissance and Repulse Vehicle",
+or LOLA for short. Designed for reconnaissance missions and combat on the Moon
+surface. Comes equipped with a turret that emits a powerful laser blast capable
+of penetrating most armor. Reminds me of the DeLorean for some reason.
+
+Remote Access Droid: A small little recon droid that links up with Kane's 
+sensory output and neural output. Used to get to areas Kane cannot access to
+disable a force field or for anything else. Due to how it is setup, any damage
+it takes will also affect Kane. It also leaves Kane vulnerable to attack, and
+vice versa once you control Kane and you backtrack to retrieve it. Comes
+equipped with a small EMP blaster that disables electronic equipment for a short
+amount of time, including enemies. The maximum capacity of its EMP blaster is
+eight, which recharges quickly after use.
+
+Universal Cognitive Adapter: Abbreviated as UCA, located in Kane's suit. It
+contains a communication device that allows you to keep in touch with General
+Lambert and Captain Tsukigami, an advanced scanning system and a personal
+navigation database (all displayed in the center on the Touch Screen). This
+device is what you use to download maps and keep in touch with your superior
+officers. It is very handy, and neat if you ask me.
+
+
+-------------------------------------------------------------------------------
+ VI. Enemies  [ene06]
+-------------------------------------------------------------------------------
+
+There are a variety of enemies that you will encounter along your adventure.
+They all have the same goal in mind - to stop you at all costs. Here is listing
+of every enemy encountered in the game. Most enemies have a variance of sorts,
+that is, they have different or altered physical forms.
+
+Drone: The standard enemy of the game. These levitating nuisances are not very
+tough alone, but if they get the opportunity to gang up on you, life might
+become a little more difficult. All of their forms go down with relative ease.
+
+Crawlers: Tiny metallic enemies that are commonly found in narrow hallways and
+tunnels where you send the Remote Access Droid into. They have no long range
+attacks at all, they literally have to crawl to you in order to harm you.
+Even against the Remote Access Droid they do not pose much of a threat against
+you.
+
+Gun TurretS: Mounted on either ceilings or the side of walls. The standard
+variety shoot blue lasers at Kane, there is also a red form that shoots a kind
+of homing yellow plasma projectile at you. Best to attack from long range if
+at all possible. They are not really too much of a threat by themselves, it is
+just when they overwhelm you in superior numbers things can get heated.
+
+Spiders: Small compact mechanical beasts that shoot projectiles in all possible
+directions. Their core is the weak point. The only difference between the two
+varities comes in how durable they are and how fast the projectiles are fired.
+The blue advanced model fires much more rapidly than the first yellow models
+you come across.
+
+Scorpion: You realy don't see too many of these, in fact one of them serves as
+the first boss of the game, and then you won't come across them until much
+later in the game. Fires a projectile from its tail that can both stun you and
+deplete your health meter. Somewhat durable to your Super Assault Rifle. They
+also utilize a shockwave-type of attack by raising up and slamming down on the
+ground.
+
+Walking Mech Suits: Not having an official name for most enemies in the game
+leaves things very open for interpretation, as you can see. These enemies are
+exactly what the name implies - walking mechs that fire green projectiles at
+you. When they are destroyed sometimes a smaller flying enemy will try to crash
+into Kane, causing harm. These foes are also fairly tough and most of the time
+you will want to use better weaponry than your Super Assault Rifle against them
+and their several different forms, such as the ones that launch grenades at
+Kane.
+
+Roller-Bosses: Mini-bosses that also show up as regular enemies towards the end
+of the game. Their weak point is their center. Roll towards Kane in an attempt
+to crush him, and they also have the ability to fire from their dual laser
+blasters. Targeting their center with your best weaponry will put them away
+quickly though.
+
+Mechanized Doors: At the end of most non-boss levels you will have to face an
+automated defense...door. Yeah, it really IS a door. They fire flare projectile
+at you. Their weak point is their orange-glowing center. They serve as a type
+of sub-boss, a very easy sub-boss at that.
+
+Bosses: Almost every other Episode will be a boss fight Episode. Every boss
+has a specific routine and attack pattern, and the boss fights that require you
+to interact with whats around you is all pretty straightforward. Each boss is
+different except for the first three Guardian fights, its basically the same
+fight except with different conditions in place. Same goes for the numerous
+core bosses you will fight. Thankfully every boss fight is extremely easy and
+straightforward.
+
+
+-------------------------------------------------------------------------------
+ VII. Walkthrough  [wlk00]
+-------------------------------------------------------------------------------
+
+The meat and bones of the FAQ itself. I will outline the guide portion just as
+the game does, by episode title. I will try to make this guide as spoiler free
+as I possibly can, I understand that reading spoilers while you're looking for
+help is pretty annoying. But I make no absolute promises. I may mention a small
+scene or something, but big plot points will never be talked about, that I do
+promise.
+
+-------------------------------------------------------------------------------
+ Prologue [pro0]
+-------------------------------------------------------------------------------
+
+At the start of adventure, take a few moments to get yourself situated with
+the controls, and get used to the stylus use, you will not get very far in
+the game if you don't. Take a quick walk around, and then hop on the catwalk.
+Using your map, find your way to the end of it. Approach the yellow blinking
+spot, and using the Touch Screen, tap on the "Open" command to progress to
+the next room.
+
+The first room you enter will be pretty uneventful, so open the door to the
+next room. The door on the left is locked, leaving you with only one other
+door to go through. Open the door, and view the scene that plays.
+
+After that scene things seem to heat up a bit. Directly in front of you will be
+the SUPER ASSSAULT RIFLE (simply abbreviated to "SAR"). Tap "Take" on the Touch
+screen to acquire it. Aww yeah, no ammo needed. On the default control scheme
+(Type 1) the shoot button will be the L button. Since there is no way to go
+but from where you came, exit out the single door. In the next area, shoot the
+alien that is floating directly in front of you. One burst from your Super
+Assault Rifle will take care of business. Continue on to the left, you can't
+miss the path, you'll notice the broken door and the bodies of some of your
+teammates.
+
+Shoot the aliens that you come across. Do your best to avoid their projectile
+shots, I only got hit once but that was because of bad reflex. Continue down
+the narrow hallway, shooting whatever you come across. Keep straight and soon
+you'll come across a shiny blue object on the ground. Walk to it as if you were
+going to pick it up. A strange scene will ensure. After the scene you'll speak
+with both General Lambert and Captain Tsukigam. They don't quite know what it
+was, but evidently it helped you, yay! After that exchange is finished, go
+straight out the door in front of you - the other door farther back on the
+right is locked. You will again find yourself on the surface of the moon,
+outside of the base.
+
+Examine the corpses scattered throughout the first part of the area. Kane
+suggests that three soldiers are missing in action, and possibly still alive.
+You receive orders to enter the subterranean portion of the level to play a
+little recon. There is not much else to do right now, so enter the mysterious
+green portal to be taken deeper into the Moon. End of the prologue.
+
+-------------------------------------------------------------------------------
+ Episode 01: Product Storage Sector I [ep101]
+-------------------------------------------------------------------------------
+
+At the start of the Episode, descend the stairs and make your way into the main
+area. Off to the first right is where you want (and can) go. Examine the blue
+canister on the ground, this will trigger a scene. When the scene is finished,
+move back a little so as to give you a more advantageous position against the
+attacking drone robot enemies. After you have dispatched all three of them,
+the door allowing you to advance more will unlock. Go through it.
+
+Examine the computer terminal directly in front of you to trigger some more
+dialogue and advance the plot. That terminal is your first taste of the Map
+Terminals that are found in the game. You now have a map of a good chunk of the
+area. You are given more orders to check it out. Head through the door that is
+beyond the Map Terminal. In the next room you are given instructions to use the
+save point. You really have no choice, as the door you need to go through will
+not be unlocked until after you do so.
+
+More of those floating drones will assault you as soon as you enter the next
+room, just dodge their blasts and take them out. From the entrance point,
+make your way left. Destroy the drones that you come across. You should find
+yourself in an area which you can use the Remote Assistance Droid. Make a note
+of this and continue further. A single drone will be all that there is between
+you and the next area. In this area there will again be enemies to dispatch as
+soon as you're in. To the right is a hallway with a door, but of course it is
+guarded by drones. Make short work of them and continue along.
+
+There is not anything too eventful about this narrow winding hallway, except
+for the CRAWLING METAL INSECT ROBOTS! Yeah, this is your first encounter with
+them. There really is not much to say about them. They cannot hurt you unless
+they touch you. Shoot them as they crawl to you. They're more of a nuisance for
+the Remote Assistance Droid than anything. Continue on.
+
+The first thing you will probably notice in this area is that giant orange
+force field. There is not much Kane can do about it, you have to disable the
+Force Orbs that power it. To your left is an area blocked off by a bunch of
+boxes that block Kane's path. Which leaves you with one option - going to the
+right. In the next area, drop down to the left. You will get more dialogue with
+Kane and Tsuke, then take the Remote Assistance Droid. Use it to blast the vent
+shield and then go through the vent with your new RAD. This is also an intro
+to the many puzzles you will solve with the Remote Assistance Droid. When you
+reach the end of the tunnel, use the EMP blast to disable the force field on
+the next vent you come across. Then blast the Force Orb with to allow Kane his
+access. Switch to Kane (via the weapon select screen on the Touch Screen) and
+walk Kane past where the force field generates. Take the RAD, and make your way
+up the stairs. Shoot the two Force Orbs yourself, and exit out the way you came
+here.
+
+Remember that spot I told you to make a mental note of? Go back to it. Use the
+RAD to enter through the vent. Once you're in the small room, go in the other
+vent. You will eventually make your way to the first Alien Artififact! Collect
+the other two and you will unlock a bonus episode that can be played! Go back
+to where you saw your first force field.
+
+Stand in front of the force field, and use the Touch Screen to select the
+Remote Access Droid. Move the little thing down the path to the left. If you
+did not take care of the metal crawling robot be sure to watch out for that
+annoying little bugger. When you make your way past the linear path with all of
+the containers use your map and make it over to the southeast side of the room.
+Blast open the security vents and crawl through the system. After a few twists
+and turns you will make your way to the second Alien Artifact in the episode,
+yay! Backtrack all of the way through the vents.
+
+This time go up the steps that you haven't gone up yet (of course!), being sure
+to avoid the mechanical monsters that are around you. Blasting them with your
+EMP is typically a waste of time if you ask me. When you are in range, shoot
+the single force orb to disable the force field. Switch back to Kane, pick up
+the RAD, and go through the door to the next area.
+
+It's more or less the same deal here. Take the time to destroy the two drones
+that are in the area where your RAD will be crawling around, just to make your
+life a little easier. Before you send out the RAD, move Kane in a corner where
+he is out of the range of fire. There is a drone on the other side of the force
+field that can shoot at you, but you cannot shoot at it for now. Anyway, move
+the RAD down the steps to the right, around the containers in your way, and up
+the steps that lead to the space behind the force field. Disable the force orbs
+quickly and switch to Kane, there will be two drones shooting at your RAD. Make
+short work of them, pick up your robot, and then continue on through the door.
+
+This area is pretty much the same as before. Do your best to make sure Kane is
+out of the way, and move your RAD down the left path (as if you had any other
+choice really), dodge past the red drones and their firepower, and haul robot
+butt up the steps. Disable all of the force orbs to deactivate the force
+field, do the whole switching-to-Kane routine, pick up the RAD, and head out.
+
+Now, dispatch the two metallic crawlers before sending the RAD through the
+vents. When you are out, disable the single force orb. Switch to Kane, grab the
+RAD, and enter the room. It contains a MAX HEALTH INCREASE which will increase
+Kane's health meter, yay! After you get that, go out the way you came, and go
+through the door. There are no enemies in this next room, make your way over
+to the downed soldier to start some more dialogue. Since there are only two
+other doors in the room, and one of them is locked, your options are pretty
+limited for now. Go through the other door that is not locked. You will find
+yourself in a save room. Use it to save your progress and replenish any damage
+you may have suffered, then move along.
+
+There is a new type of enemy that is ahead of you. Honestly, I am just going to
+call it a spider. There are no official names given for any of the enemies you
+come across in the game, so literally ANYTHING works. But yeah, when it comes
+to those spiders, all you have to keep in mind is this: shoot their yellow core
+when they expose it (they expose it as they shoot off their projectiles at you)
+until it is destroyed. Simple enough. Be careful though, in the two rooms next
+to where you enter the area there are two drones that will double team you. So
+if you have the spider as well as the two drones on your butt, you won't last
+too long. Dispatch the lot of them and exit through the south door. Right when
+you enter the next area a drone will open fire, so be aware. Turns out, this
+small square room is just full of drones. Destroy them all and keep moving.
+
+In this room you immediately notice the giant blue force field blocking the
+path. All you have to do is shut it down by examining the few yellow power
+terminals that are around it. First things first though, get rid of those pesky
+drones. After the force field is shut down you are free to claim the Muon
+Pistol. Continue through the door just beyond where you acquired the new gun.
+The next room is a save area. The one after that is much more interesting.
+
+Ah, your first boss fight. You have to destroy the giant metal monstrosity as
+well as look out for the drone. Even if you destroy the drone that is with it,
+another will simply spawn. This is both good and bad. It's bad because you will
+always have tha extra enemy. But the good news is, destroyed drones drop ammo
+and health canisters to pick up. As for the actual fight itself, the boss will
+stalk you. There is no point in running away. In order to damage bosses in this
+game, you have to shoot the red areas on their body. In this case, shooting
+the entire body of the boss will damage it, but this doesn't happen too often
+so don't get used to it.
+
+The Muon Pistol deals more damage than your Super Assault Rifle. The projectile
+launched from the boss' tail both damages Kane and in some instances, can
+temporarily stun him, making it very difficult for you to move. Just keep up
+with shooting the drones as they become an issue, and focus on getting in as
+many hits on the boss as you can. Sooner than later, you'll have it bested.
+Claim the Red Key, then make your way over to the east side of the chamber.
+Send in the Remote Access Droid, disable the orbs and claim the Ammo Clip to
+give your new Muon Pistol more capability! Now you have to backtrack a very far
+amount of distance, back to where you found the dead private. Use your new Red
+Key to unlock the door and continue along.
+
+-------------------------------------------------------------------------------
+ ++ffmasterjose's anti-plagiarism check++
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+ Episode 01: Product Storage Sector I (Part 2) [epxx1]
+-------------------------------------------------------------------------------
+
+I split this section because it's so darn huge. Really, the second level of the
+game is massive. And since the game doesn't shorten up, expect me to halve
+certain episodes, just for cosmetic purposes
+
+There are no enemies in this red hallway. In the next room you will see another
+map terminal. Examine it to trigger some more dialogue and to download more of
+the area. The next room presents you with another Remote Access Droid puzzle.
+Send it through the right path first, eventually you will come across the third
+and final Alien Artifact of the Episode, yay! You unlocked a bonus episode to
+play! But anywho, backtrack to where Kane is and go through the other vent. Be
+sure to either avoid the crawlers or stun them. The force orb you need to stun
+is in the same room with the gun turrets mounted on the ceiling. Disable it and
+move the RAD to a safe spot. Then bring Kane in, destroy the gun turrets and
+pick up you RAD. Then make your way to the west side of the chamber and exit
+through the door.
+
+Aside from the strange nature of this area, there is nothing too challenging
+about it. Destroy the drones and gun turrets you come across, and move to the
+next door. The next room is the same case, be careful to not get surrounded
+though, those turrets can sneak up on you and coupled with the drones, they're
+a regular pain in the butt. Keep moving along. Watch out for the room after
+that one though, two drones will spawn from the security vent behind you, but
+not until after you walk past it. Wrap around either side and continue through
+the door.
+
+The next room is more annoying than anything. Clear the two turrets as well as
+the two spiders, and move on. In the next red hallway keep moving straight,
+the room at the end contains another MAX HEALTH INCREASE for you to pick up.
+From there backtrack and hook a right to the only other direction you can go.
+This is more annoying than anything. In this next room you have to destroy the
+mechanical guard on the door. It shoots fireballs at you, or something. All you
+have to do is shoot its core, it'll flash red when it takes damage. Move back
+and forth to get it to expose the core. I advise use of the Muon Pistol just to
+make the process happen faster. Three shots will do the trick. You will see a
+scene of it exploding, and then that will bring this Episode to a close.
+
+-------------------------------------------------------------------------------
+ Episode 02: Guardian I [ep202]
+-------------------------------------------------------------------------------
+
+Pick up the key in front of you and continue straight ahead. Watch the scene
+that unfolds, and get ready for your second boss fight! This one is just as
+easy as simple and straightforward as the first one though. As soon as the
+fight starts, pop a few rounds into the glowing red areas on its lower chest.
+If its entire body flashes red, it means you have successuflly connected! Be
+sure to make good use of the cover the four pillars surrounding the boss give
+Kane. The boss itself cannot leave its confined area, so standing just in
+front of those pillars will keep you safe enough. When you expose yourself to
+take your shots at the boss, be sure to move quick. The old rule of never
+standing still in one spot for too long in video games holds true. If you stand
+in one place, or just are too slow to dodge the boss' projectile attacks, Kane
+will take damage.
+
+As the battle looms in and the boss takes more damage, it will begin to fire
+more projectiles at Kane at once. Also, it will summon Drones to dispatch you.
+As soon as they are summoned, take the time to destroy them. Not only will you
+be saving yourself from their nuisance, but they may also drop health canisters
+as well as ammunition pickups. The Muon Pistol is a very effective weapon in
+this fight, if your accuracy is good enough to hit a red zone on the boss it
+will deal greater damage than rounds from your Super Assault Rifle. The trick
+to this fight is dodging the projectile attacks and taking your shots when you
+can, and also dispatching those annoying Drones when the boss summons them.
+
+-------------------------------------------------------------------------------
+ Episode 03: Escape Product Storage Sector I [ep303]
+-------------------------------------------------------------------------------
+
+Ugh, do I despise timer missiions. Your objective is simple, escape from the
+Product Storage Sector within ninety seconds. Do not try to leave out the way
+you came, instead exit out of the door that is up the ramp in the boss room.
+After this, the rest is simply a mad dash out of the place. Do not attempt to
+destroy every enemy that you come across, merely the ones that are in your
+immediate path. When you reach the room that has you dropping down from a much
+higher point, exit out the door to the right of the Map Terminal. At this new
+point it is just a matter of backtracking through familiar territory. Go up to
+the stairs that lead to the elevator that took you into this place originally.
+
+You get some praise from Tsuke for making it out alive. Now again, it is just
+a simple matter of backtracking through an area you are already familiar with.
+If you recall the base area from the Prologue level, just do everything you did
+there backwards. When you first enter the area one of those pesky little metal
+crawling enemies will greet you. Give it a burst from your Super Assault Rifle.
+Continue along the hallway, you will open two doors before finding yourself in
+a new area. Shoot the two metal crawlers and go down the stairs, to the right
+is a door. Go through it and shoot the two red drones that you will encounter
+right away. Open the door in the middle of the room and continue through the
+other door. Congratulations, you successfully escaped!
+
+Lambert and Tsukigami will fll you in one some more plot points, and then you
+are given orders to explore another alien hatch. Pick up the Explosives that
+are sitting on the counter in front of you, then use your Navigational Display
+to find the LOLA. Use the Action Icon to enter it, watch the cool scene, and
+leave the base area. From here it is just following the yellow and black
+striped path, with some drone and turret shooting in the max. When you reach
+toward the end of the path, the blue icon on your navigational display will
+flash toward the west. Exit out of the LOLA and walk past the black and yellow
+striped columns with the red triangle-like shapes at their top. Continue north
+and eventually you will see a scene with Kane placing the explosives on the
+rocks and running away to a safe distance as they detonate. After the explosion
+merely walk over to the newly exposed hatch, and once you walk directly to it
+Kane will descend into this new mysterious hatch. This brings Episode 03 to a
+close.
+
+-------------------------------------------------------------------------------
+ Episode 04: Product Storage Sector II [ep404]
+-------------------------------------------------------------------------------
+
+Descend the stairs and pass through the door to enter the room with the map
+terminal you want. More dialogue will pop up, and then you're on your way. Past
+the save room will be an area with steps to descend. Examine the terminal in
+the middle for some more dialogue and a clue as to what to do next. You are
+told to explore two diferent paths in hopes of unlocking some type of security
+which will let you advance. It does not matter which path you take first, the
+east or west one.
+
+I personally started with the east one. There isn't anything too special about
+the first hallway you're in, just dispatch the numerous crawlers you come
+across and you'll be alright. When you get to the vent, send out your Remote
+Access Droid and make your way through the system. You will soon come across
+another vent to explore, at the end of that one will be an Alien Artifact! Once
+you have claimed it, backtrack all of the way to where Kane is and continue on.
+
+The next area isn't too special, it's just a winding path with drones and those
+pesky spider things to destroy. As you have probably noticed by now, the red
+colored drones are a pure pain in the rear. The chamber that contains what
+you are looking for is pretty straightforward, just follow your on-screen map.
+The only thing you really have to watch out for is getting overun by all of
+the enemies. There are turrets, spiders, and plenty of drones for you to take
+on, yay. Claim the Missing Piece from the pedestal and head back the way you
+came in.
+
+The west path is unnecessarily harder than the east path, but it is still very
+manageable. Right from the get-go you're faced with an RAD puzzle, get those
+to these, they're everywhere in this game and both in the west path. Send the
+RAD under the pipes and down the level. Use your map, when you come to the
+first left, go into it. You should see another Alien Artifact. Collect it, and
+then to the left and right of where you picked up the Artifact will be the two
+force orbs that you need to disable in order to get Kane through the force
+field. Do this, then switch to Kane and bring him closer to the entrance of the
+vent system that your RAD entered, and switch back to it so that you can get to
+Kane and reunite! After you do this, keep moving into the next area.
+
+This area is more annoying than anything. Make your way past the weird machines
+and stop when you get to the vent. Send out your RAD, and when you enter the
+open area with the indestructible gun turrets (trust me, you cannot destroy
+them, I spent a few minutes pumping hot lead into them and cursing) and blast
+the two force orbs on the ceiling. Now move Kane past where the force field
+will generate, and switch back to the RAD. Go through the next vent, come out
+and blast the two force orbs. Switch to Kane and make a mad dash for the door.
+Then move the RAD over to Kane so you can retrieve it, and continue on through
+the door.
+
+Ugh, this is seriously probably my most hated area of the entire game, just
+because of how tedious it is. But anyway, with a force field to your left you
+have little choice but to send out the Remote Access Droid to the right, down
+the stairs and under the pipes. Be wary of the drones and gun turret, they will
+always be gunning for you. As soon as you descend the stairs, hook a left into
+the room with the force orb you need to blast with your trusted EMP. When you
+accomplish this, switch to Kane and get him through where the force field was
+and down the steps. Now, as far as the RAD is concerned, instead of backtrack-
+ing up the stairs and whatnot, just use your map and guide it to where Kane is.
+This will serve as a nifty shortcut and it will give you a nice idea of the
+layout.
+
+When you get your bearings straight, take the RAD into the chamber with the
+Missing Piece, and have it go into the vent. You will see yet another Alien
+Artifact. If you have been following the same paths in the order I laid out in
+this guide, that is the third and final piece. If not, you still have one more
+to obtain in the east path. When you are done with that, travel under the next
+batch of pipes, and to the right will be the room with the right force orb to
+disable. Deactivate it, and then take Kane down the steps through the rest of
+the hallway. Make your way into the chamber and claim the second Missing Piece
+(or first). Now it is the ultimate fun task of backtracking through the entire
+west path. First move Kane to the force field, then have the RAD disable it.
+After you have done this twice you will be able to leave. In the room where
+you twice sent the RAD to disable the force orbs, just shoot them as Kane to
+make things happen fast. Yeah, you probably will take damage, but you will be
+able to easily recover it. You will have to send the RAD in the middle vent
+system to disable the force field blocking Kane, then go up the left path under
+the pipes to meet him again. Go back to where you were told to explore the two
+paths.
+
+Examine the terminal to assemble the two pieces. As it turns out, that was all
+along a weapon. Take the Quanta Rifle. The door beyond is still unlocked for
+you. When you are ready, head through it to explore the next part of this area.
+
+-------------------------------------------------------------------------------
+ Episode 04: Product Storage Sector II (Part 2) [epxx2]
+-------------------------------------------------------------------------------
+
+As soon as you enter the room, you are greeted with an entire platoon of foes
+to destroy. Get the gun turrets on the ceiling first, then dispose of all the
+drones, and then the spider enemy. After this you are faced with two options as
+far as exploration is concerned, it does not matter which path you take really.
+I personally had to explore both because what little obsessive compulsive
+disorder I have wouldn't let me just explore one path and leave the other one
+blue and unexplored. If it helps you decide, the right path has two spiders to
+deal with whereas the left path only has drones.
+
+When you make your way into the main chamber you're given more dialogue. Head
+through the only door in the room afterwards. In the next room you will drop
+down into an area with another one of those mechanized door locks to destroy.
+Again, your Muon Pistol makes the whole affair VERY short. I'd personally
+conserve Quanta Rifle ammo for now, unless you happened to pick some more up.
+After it is destroyed this will bring Episode 04 to a close.
+
+-------------------------------------------------------------------------------
+ ++ffmasterjose's anti-plagiarism check++
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+ Episode 05: Sanctus Vector [ep505]
+-------------------------------------------------------------------------------
+
+Pick up the Red Key lying in front of you, there really isn't any other option
+given that it is in the middle of the doorway, but hey. Past the door into the
+next chamber is your first "serious" boss fight. It may prove tough for first
+time players, but once you figure out what to do, it's a cinch.
+
+You will notice the boss is behind a giant orange force field, and on both
+sides of the room are vents to send your Remote Access Droid in. It doesn't
+matter which one you choose really. When you come out, there are four force
+orbs to disable with your EMP blast. Move quickly, if you can take long range
+shots at them. When all four are disabled and the force field is finally down,
+the boss itself will move down the steps towards Kane.
+
+Notice the flashing red spots on its body, these are of course the boss' weak
+points. The objective is to shoot all of them to render them disabled, then
+when the boss' red core is exposed, to open fire on it. It has two main forms
+of attacking Kane. The first involves just launching projectiles in a full
+circle around itself, in the same fashion as those pesky spider enemies. And
+its other attack is a red laser that emits from its bottom. This can also be
+avoided, though it is a little more tricky than the projectile attack. I say to
+use the Super Assault Rifle or the Muon Pistol for the numerous weak points
+along the body, then when the core is exposed to switch to the Quanta Rifle and
+open fire.
+
+When the core is exposed drones will be summoned. Just do your best to ignore
+them. You only have so much time to shoot the core before the boss goes behind
+the force field again. If this happens, you'll have to use the Remote Access
+Droid to disable the force orbs again, and as you are doing this the boss will
+renegerate its health, putting you back to square one when it comes down again.
+The vital thing to do is unleash your new Quanta Rifle on the core, it will not
+last too long once you do this. Even if you do not manage to destroy the boss
+the first time, the leftovers from the drones it summons may give you some
+health canisters to pick up as well as some more ammo for your Quanta Rifle and
+Muon Pistol. You will take damage by focusing everything on the exposed core,
+so act fast. Really, all this battle is is just a matter of good timing. When
+the boss is destroyed Episode 05 will come to a close.
+
+-------------------------------------------------------------------------------
+ Episode 06: Exit Product Storage Sector II [ep606]
+-------------------------------------------------------------------------------
+
+This would be another level that I hate, and that's because it's time based.
+Exit out of the boss chamber and instead of backtracking through familiar
+territory hook a right and exit through the door there that was previously
+locked. You'll get some more dialogue to advance the plot, and then you are
+told to continue further. In the first area you find yourself in, just shoot
+and run. It makes things go much faster, and there is nothing extra for you to
+collect in this Episode. The next area is a twisting linear path full of those
+metal crawler enemies.
+
+The next area will be the main chamber where you picked up the Quanta Rifle,
+you'll drop down. Destroy the two drones, then start backtracking through the
+familiar territory, and be sure to save your progress when you hit the save
+room. Eventually you will find yourself in the area with the alien elevator,
+make short work of the two red drones and then catch a ride back top to the
+surface. Then make your way back to the LOLA. Take the LOLA into the hanger
+area directly in front of where you parked it, keep going until you're at the
+end onto the platform. Once you're on it the game will automatically save
+and you'll be taken up the lift.
+
+Here's where the poop hits the fan. Through more storyline dialogue you are
+told that you only have two more minutes to get over to the last satellite
+before it's too late! Now your LOLA's navigational display comes in handy.
+Fortunately, your goal is hard to miss - it's a satellite after all! The first
+part is very linear, its just a straight, twisting path. Don't spend too much
+time shooting the drones and turrets. Avoid the landmines as best you can, I
+understand that the steering is very sluggish with the LOLA. You will soon
+find your way to another platform that will take the LOLA up to the next level.
+
+The clock is still ticking, so don't take your foot off the gas just yet.
+Again, the path is very straightforward. Just keep twisting around, doing your
+best to shoot the drones and turrets and avoid all of those landmines. When
+you come to a fork in the path, go right, as indicated by your navigational
+display. You'll see the satellite. Park next to it, and then exit. It takes
+literally eight seconds for Kane to exit out of that damn vehicle, so make sure
+you have at least 15 to kill when you arrive. Then walk up to the console on
+the satellite, Examine it to save the day and end the timer.
+
+But a hero's work is truly never finished. After you do that, you are given
+some more orders. Simply hop in the LOLA and head down that left path from the
+fork in the road. And once again you have the comfort of following a very linear
+path. Make your way to the platform with the LOLA, you'll see a scene and be
+taken to a new part of the area. This last part is the same as the previous
+sections, just be sure to keep to the right. Eventually you'll get to a point
+in the area where it will cut to a scene and the Episode will draw to a close.
+
+-------------------------------------------------------------------------------
+ Episode 07: Non-ETO Transport Vessel [ep707]
+-------------------------------------------------------------------------------
+
+This is actually a fairly short level that has a very straightforward layout,
+the only difficulty that you might encounter with it is the very last part of
+the level, which sees you fighting a boss of some sort. Here you are introduced
+to a new type of enemy, the walking suit aliens. These are more formidable and
+they fire more damaging projectiles at you. Your Muon Pistol and Quantra Rifle
+still make short work of them though. Occasionally when you destory them, a
+small drone will emerge from the destruction and zoom towards you, going for a
+kamikaze-type move. If it hits you, you'll take damage. So when you see one,
+just shoot it.
+
+Make your way past the first couple of walking robots, picking up any ammo
+that they drop. You will wrap around some more and come across two more. Then
+you will follow the path as it takes you deeper and deeper into the alien
+spacecaft. Shoot down the drones and the walking suits you come across. Soon
+after this you will notice a boss life gauge pop up on the top of the screen.
+Well as it turns out, the boss is just a core you have to disable, but it does
+take some work on your part to accomplish.
+
+The core at first is spinning with panels on each side. It emits grenades to
+keep you at a constant distance, and projectile shots that mimic those the
+spider enemies shoot. What you must do at first is target the circular spots
+above each panel, not the area where the projectiles are fired from, but above
+that. It's fairly small and somewhat difficult to shoot from far away. I advise
+use of the Muon Pistol. If you can get an accurate shot in while the panels are
+moving, it won't take but a few rounds compared to that of your Super Assault
+Rifle. If a panel flashes red, it means you are doing damage. After you have
+taken out all four of the panels the main core is exposed. Now you should pull
+out the Quanta Rifle and unleash on the core with it. The core will fire lasers
+in the same manner as the last boss did, they are easy to dodge. In fact you
+can probably stand from a good distance and unleash on it without worrying
+about the lasers.
+
+When it is finally destroyed you will see a cool cut scene, and the Episode
+will be drawn to a close.
+
+-------------------------------------------------------------------------------
+ Episode 08: LOLA-RR10 / Waste Disposal [ep808]
+-------------------------------------------------------------------------------
+
+You begin in the LOLA. At first there really isn't anywhere to go, the path is
+very linear and without much surprise. When you come to the fork in the road
+it really doesn't matter which way you take, both will bring you to the exact
+same spot. Keep your eye on the navigational map. Soon you will come to an
+opening with two red drones. Dispatch of them, and then look for an opening in
+the rocks. Beyond this opening is another hatch for you to explore. Descend the
+elevator to get things moving.
+
+Examine the map terminal to download the schematics for the area, pay attention
+to the dialogue, and make your mind up as far as which way you are going to go
+first. For our purposes, I'm starting with the northwest area first.
+
+There really isn't anything of real interest in the first couple of rooms,
+just some drones to shoot and some dialogue to read. The second room has a
+spider enemy waiting for you. In the next area hook a left, you will see some
+more plot advancement, and then you will have the chance to keep exploring.
+Just head through the first door you see. This next area is an ambush, and you
+are unfortunately at a disadvantage. Get out of the center of the room, head
+towards the stairs, dispath the first walking mech you see, then shoot the
+drone in the stairway. There are two more suits for you to destroy. When you
+have taken care of that business, continue on into the next room.
+
+This is the first core boss of three that you have to take care of, and all of
+them are pretty much the same. Just like the last core they emit projectile
+shots and lob out grenades. If you are in any of the rooms where the grenades
+explode, you will feel the blast radius. What you have to do is do your best
+to avoid the projectile shots, and then use your Muon Pistol to take shots at
+the vulnerable point just above its cannons, it is essentially the same boss
+fight as before when you were on the alien ship. One good shot or two should
+take care of each panel. When the core is exposed it will emit lasers, but you
+already know this game. Use your Quanta Rifle until the core is destroyed.
+Exit out of the previously locked door, and use the save point to save your
+progress as well as restore your lost health. Continue on.
+
+The next area is simple, dispatch the two red drones and then send your Remote
+Access Droid through the simple vent puzzle. Disable the force field, and claim
+the AMMO CLIP INCREASE for the Quanta Rifle. Leave this room and exit down the
+hallway and out through the next door. Destroy the walking mech in front of
+where you enter, as well as the numerous annoying drones. Exit through the
+only door in the room. The room after that has nothing of interest either,
+so just get to the door.
+
+Before you send your RAD down, take the time to clear the spider enemy and the
+drone. When you send it out, make it go under the pipes instead of the vent
+first, so you can disable the first force field and get Kane past it. Then send
+it through the vents, when you come out the two force orbs will be in clear
+view. Destroy the red drones and keep moving. This area presents you with yet
+another RAD puzzle. Send the robot out under the pipes, avoid or stun the drone
+and get into the vents. The first space you make it into has the two force orbs
+on the ceiling, but if you continue into the vents, you will find an Alien
+Artifact! Go back to the open area, disable the orbs, get Kane through the
+force field and into the next area.
+
+There's not much to say about his place, its just linear twisting and turning
+with some drones thrown into the mix. You will then find yourself in the next
+core chamber. Follow the same tactic that you did for the first room. The only
+difference comes in the drones and spider enemies that are now present in the
+rooms. Be sure to take care of them first, just to make your life easier and
+in case they drop health canisters and ammo pickups. Use the exact same tactic
+for when the core is exposed. When you have succeeded you will be treated to
+another cutscene, and the chance to save your game and restore your health in
+the next save room.
+
+-------------------------------------------------------------------------------
+ Episode 08: LOLA-RR10 / Waste Disposal (Part 2) [epxx3]
+-------------------------------------------------------------------------------
+
+More narrow tunnels await you, coupled with an easy Remote Access Droid puzzle
+to solve. When you can use Kane again, get rid of the drones and crawlers fast,
+as they will only serve to annoy you. Before you leave, take the time to check
+out the isolated room (use your map if you're confused), in this room you will
+find a MAX HEALTH INCREASE. Exit through either of the two doors, it doesn't
+matter which one you take as they both lead to the exact same place. Wherever
+you come out you'll have to deal with drones. After doing this, continue on
+through the door. Yay, another RAD puzzle! Send the little bugger out, make
+your way to the force orbs. Disable them and bring Kane in, pick up your droid
+and blast the drones to dust. Keep moving.
+
+Simple but noteworthy area. Follow the linear path, destroying the mechs as you
+go along. Then in the last chamber with the door you'll want to send out your
+RAD to pick up the Alien Artifact! Exit through the door. On this catwalk of
+sorts you will want to be very careful. When there is an opening on either side
+of Kane are gun turrets. Destroy them, and then destroy the drones that you
+come across. The next room is the chamber with the third and final core to take
+care of.
+
+You will want to employ the same strategy as before with the first two cores.
+If anything this core is actually the easiest of them all, given that you have
+much more room to move around. In fact, you can even stand far back enough out
+of firing range on one of the sides. When the core is exposed you know what to
+do. Exit out, you will find yourself back in the main chamber. Ascend the
+stairs and make your way into the area that was previous inaccessible to you.
+Go through the door, you will encounter yet another mechanized door to deal
+with. When it is defeated, that will be all she wrote for Episode 08.
+
+-------------------------------------------------------------------------------
+
+ Episode 09: Guardian II [ep909]
+-------------------------------------------------------------------------------
+
+
+This is very similiar to the first Guardian boss fight. There are a few note-
+worthy differences though. Along with projectile fire the boss will also toss
+out grenades at you, making it so you want to stay on the move and not be too
+stationary throughout the fight. You also have to disable the four force field
+generators, otherwise you won't even be able to damage the boss.
+
+Just go around and examine the generators to turn them off. Then when you can
+finally strike the Guardian, use your Muon Pistol to blast the three red panels
+on its body. When these are taken out, it will expose the core. When this
+happens switch to the Quanta Rifle and unload everything you have on it. You
+may not take the boss out in one shot, so don't worry if the force field pops
+back up. It doesn't regenerate health or anything, so simply deactivate the
+force field again and repeat the process. Soon enough victory will be yours to
+claim and Episode 09 will be finished.
+
+-------------------------------------------------------------------------------
+ Episode 10: Power Station [ep100]
+-------------------------------------------------------------------------------
+
+Exit out of the new door, descend the stairs and pick up the Fermon Sniper off
+the pedestal, and continue on. The next room has nothing except for a walking
+mech suit to destroy and a door to go through. Save your game in the save room
+and continue on. This main chamber has for doors leading to different locations
+as well as one extra door, but you cannot enter that without exploring the
+other four rooms and getting the necessary security key/code. I start from the
+northwest room and work my way counter-clockwise, so that's how I am going to
+lay out this part of the guide.
+
+The first room has nothing of interest. The second has a chamber with another
+RAD puzzle, but before you send out your robot be sure to take care of the mech
+or it will get the drop on Kane. Controlling the Remote Access Droid, once you
+are out of the tunnel hook a right past the two walking mechs, disable the
+ground turret and to the left of the turret is an Alien Artifact for you to
+claim. Backtrack back to Kane and continue on. The next area is still pretty
+simple. At the start, take out the spider. Then move into the chamber it was at
+and bust out your Fermon Sniper, then take aim at the grenade-throwing enemy,
+one shot should do the trick. Move to where it was located, and send your RAD
+under the pipes. Move around, past the mech and you will soon come across the
+force orbs. Blast them with your EMP and move Kane through. Don't bother with
+the walking suit mech, just exit out the door.
+
+There is nothing of interest in this winding tunnel, just a few annoying
+crawler enemies. In the next room however, you have force fields on either side
+of Kane to deal with. Send out the RAD under the pipes and down the steps. Go
+on either the left or right side, it doesn't matter which, and disable the
+force field so that Kane can progress further. Whichever way you took, pick up
+the RAD and make your way to the main hallway and through the door. In the save
+room grab the key and save your game. The next chamber presents the first out
+of four minibosses that are all the same.
+
+The boss' vulnerable point is its center. It fires from two sides, one side
+fires projectiles that harm you, while another fires projectiles that can stun
+you. And the boss will always be trying to roll into you, causing more harm.
+The key is to keep moving and specifically target its middle section. If you
+make a good, connecting hit, it will flash red indicating to you that you have
+done the right thing. These fights typically won't last long. When the boss is
+destroyed, pick up the Data Packet. When you have it, backtrack all of the way
+back to main chamber with the four doors. Now I will cover the southwest path.
+
+Past the small and pointless twisting narrow hallway is a more expansive area
+with more to do. When you first enter the area keep straight, down the stairs
+will be a MAX HEALTH INCREASE for you to take, but it is guarded. Dispose of
+the drones, and then send out the RAD in the vent. At the end will be another
+Alien Artifact to claim, then get back to Kane. Go back upstairs and down the
+catwalk, shooting the drones as you go along into the next area. This area has
+nothing of interest, just make it to the door.
+
+This next area is a mess. Destroy as many drones as you possibly can, then take
+out the grenade launching turret. Send out the Remote Access Droid under the
+pipes where the turret was. Then disable the first set of orbs to let Kane in,
+then using Kane shoot the other two that he can access to retrieve your droid.
+walk up the steps and past the catwalk and go through the door. This area is
+noteworthy for intoducing you to a new enemy, the exploding cube! Either get
+close enough to it, or shoot it. It will explode and send out a shockwave that
+hurts Kane. Continue past this twisting hallway.
+
+The next room is a save room. Take the key, then heal and save. You have to
+face another roller boss, but it's the exact same fight. I discovered a really
+funny "bug" of sorts. If you get right up in the boss' face, it will constantly
+ram toward you, but not hurt you. Its lasers can't touch you either. Really,
+you can just stand right in front of it and fire away. After it is easily taken
+down, pick up the data packet and backtrack all of the way to the center room.
+
+-------------------------------------------------------------------------------
+ ++ffmasterjose's anti-plagiarism check++
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+ Episode 10: Power Station (Part 2) [epxx4]
+-------------------------------------------------------------------------------
+
+Now we will explore the southeast region. The first room has nothing but red
+drones for you to destroy. The next has a very simple Remote Access Droid
+puzzle to solve. Put Kane on the east side of the level next to the force field
+and then send out the robot through the vent. The force orbs are right near
+where the droid will come out. Get Kane and your drone back together, then go
+through the door. The next area is a giant circle with walking mech suits and
+drones. There is no point to the middle area, so feel free to bypass it unless
+you REALLY want those plot details. The room after that is pretty empty, just
+ascend the stairs and go through the door. The next two areas are nothing too
+special, they just have drones and turrets to destroy. You will find yourself
+in a save room with another key. Save your game, heal Kane and go into the boss
+chamber. You already know the routine of things and how to destroy those roller
+bosses. When it is finally destroyed, backtrack back to the main chamber with
+the doors...again.
+
+Ah, here we are. The last path to explore, the northeast path. The first two
+rooms to explore aren't really noteworthy. The third one has a branching path
+at the bottom of the stairs. The left path leds to an AMMO CLIP INCREASE for
+your Fermon Sniper. The right path takes you to the same area. The center door
+where the branch is will progress you further into the level. Beyond the area
+where you picked up the ammo increase is something much more interesting.
+
+Send the RAD through the vents. This will net you another Alien Artifact, which
+is probably the last to collect. Then wrap all of the way around to the force
+orbs, one is hidden behind the containers. Bring Kane around, dispose of those
+pesky droids, and continue on. Past the last couple of rooms is the save room
+with the boss chamber after it. After you have taken care of the last boss and
+gotten the last data packet, backtrack to the main chamber. Go through that
+center door now that you have all four of the proper packets. Past the small
+hallway with two red drones will be another mechanized door. At this point in
+the game you're already very familiar with how to deal with them. After it is
+defeated Episode 10 will be over.
+
+-------------------------------------------------------------------------------
+ Episode 11: Phexic Manifold [ep111]
+-------------------------------------------------------------------------------
+
+This level is a boss fight, but it is a very non-traditional boss fight. As
+opposed to controlling Kane during the battle, you actually fight the boss
+using the Remote Access Droid. Now you might think "What? That thing can only
+stun things". But in this case, its EMP blast inflicts real damage. This fight
+requires you to attack all three sides of boss with your EMP. Take aim at the
+obvious red weak points. The boss has a bit of variety in its attacks. The
+center side lobs out grenades, the side to the right (your right) fires a fast
+barrage of energy projectiles and the side to the left emits a green laser that
+is both easy to dodge and slow moving.
+
+There really is not too much strategy involved with this fight. Just be quick
+to move the RAD out of harm's way whenever you can. You will have to shoot each
+spot more than once, but soon enough you'll get the job done. The Episode will
+come to a close as soon as you defeat the boss.
+
+-------------------------------------------------------------------------------
+ Episode 12: Cold Process [ep122]
+-------------------------------------------------------------------------------
+
+At the start of the level take the Remote Access Droid into the vents the boss
+left exposed after it exploded. After you work your way past the winding path
+you'll come into an area with a gun on a pedestal. Shoot the two force orbs
+powering the force field, move Kane into the room, claim the Lepton Spread and
+then continue on through the door. There is an elevator in this room that you
+need to take to make it back to the surface. When you are on the catwalk make
+your way to the other side to be taken into another part of the Moon. Now stuff
+should start to look familiar again. Examine the map terminal to advance the
+plot and to get the map data that you need.
+
+Past the map terminal will be an open area with two new blue drone types. Past
+this room is a save room, do what you got to do and keep moving. The blue room
+with the round part in the center is nothing special, just go down the stairs
+and go through the door. In the room with the two vents, you will want to send
+the RAD into the east-side vent first, and you'll soon see why. Make your way
+through the vents, towards the end of the path of the first vent you will want
+to blast the force orb to your left, then quickly make it into the second set
+of vents to shoot the other one and make it possible to claim the Alien
+Artifact. Shoot the orb to the left of your current position and then book it
+though the vents. The second orb will be on your right. Now you can exit out
+of the west side and safely meet up with Kane. When you do this, leave this
+area through the yet-unexplored door.
+
+In the red chamber after this there's nothing special to do. Now you will find
+yourself in a blue room again with a force field to your right and stairs in
+front of you, there will also be more grenade-throwing mechs for you to deal
+with. Send the RAD through the vents, you will see the first force orb almost
+right away, but the second one is not as obvious. Hook a right when you get a
+chance to. The second orb is across the platform, but you will have to shoot it
+from afar. When you do that, move Kane past where the force field was and take
+the ammo increase clip for the Lepton Spread. Then regroup and leave. There is
+nothing of interest in the next three rooms really.
+
+After those uneventful rooms will be a red room with a grenade turret on the
+ceiling. Dispath of the annoying drones and the turret, then send out the RAD
+under the pipes to the right (from where you enter the area) and disable the
+the two force orbs. Move Kane past the force field and down into a lower area
+with a MAX HEALTH INCREASE. Then backtrack and regroup, and leave the area.
+
+Next area has another simple RAD puzzle to solve, and the room after that is
+another save point. What's with all of the save points? I bet the boss is SO
+intimidating! But anywho, now you are introduced to spider enemies that have a
+blue core, these enemies are more durable and their projectile shots are more
+faster, making it difficult to dodge them. Send out the RAD into the vents,
+the path to the next Alien Artifact is kind of long, but soon enough you will
+reach it. After you claim it, regroup with Kane and make a timely exit.
+
+The next two areas aren't really anything, but the room after those is worth a
+mention. The path is still linear twists and turns with some drones and walking
+mechs thrown into the mix though. When you reach the hall with the two suits
+standing next to one another, use your brand new Lepton Spread to take care of
+them both with just a couple shots. Send out the RAD through the insanely long
+tunnel path to claim the last Alien Artifact of the Episode, then regroup with
+Kane and leave the area at once.
+
+There honestly really isn't much to say about the remainder of the Episode.
+Past one empty hallway will be a mechanized door for you to defeat. After that
+is done you will be finished with Episode 12.
+
+-------------------------------------------------------------------------------
+ Episode 13: Guardian III [ep133]
+-------------------------------------------------------------------------------
+
+The much-anticipated third Guardian. I admit this one is definitely a few steps
+above the first two, but its still really manageable. With the arsenal of
+weapons that you carry with you now it's a cinch. Just like a previous boss
+fight you have to disable the force field arond it by examining the four
+generators. As with the previous fight it will be constantly shooting at you
+and just making life more difficult. There are two generators near the floor
+of the area, and two on the upper level.
+
+It does not matter which order you turn them off, but I highly recommend saving
+one of the floor-level ones for last, this makes it so when the force field is
+deactivated you will be much closer to the Guardian. When you finally do get
+all of the generators deactivated and you are face to face (well, sort of) with
+the boss use your Lepton Spread and target the three red panels on its chest
+to get things kicked into motion. Once the panels have been shot out, that red
+core that you are so familiar with will be exposed. Even though it is close
+range for this instance I advise using the Fermon Sniper on the core. It will
+deal heavy damage to the boss. If this is not an option the Quanta Rifle and
+Muon Pistol are always a welcome substitute. But the Super Assault Rifle feels
+too awkward for this one.
+
+You will probably have to deactivate the force field at least twice before you
+can defeat the third Guardian. The boss does not regenerate health or anything,
+so don't fret. Soon enough you will claim victory and bring this Episode to a
+close. Congratulations!
+
+-------------------------------------------------------------------------------
+ Episode 14: Irradiated Stratum [ep144]
+-------------------------------------------------------------------------------
+
+Well you managed to shut down that horrible process, but a hero's work is truly
+never finished. After some more dialogue you will be told to download the next
+map from the terminal you come across in order to check out three points of
+interest. Exit out the door on the east side. In this first room you will find
+a new weapon to wield, the Oxid Cannon! Beyond the room with the Oxid Cannon
+is the way to another elevator that will take you to a map terminal. Download
+the map and continue on, dispatching the drones in this room.
+
+In the area beyond the save point room you wil encounter more drones and more
+walking mech suits to deal with. There is a tunnel opening point in the north-
+east side of the room. Send your Remote Access Droid through the long paths to
+claim an Alien Artifact, then group back together with Kane and press onward.
+The next room may prove to be a little tough. You've got mech suits and a new
+but old enemy - a scorpion. It served as the game's first ever boss. You kill
+them the same as everything else, though be aware of their shockwave ground
+attack. Since the other door is currently locked you have no choice but to go
+up the stairs and through that door.
+
+The next room is nothing but an ambush room, but beyond that is an area with an
+RAD puzzle to solve. After you have cleared the way stand Kane by where the
+force field is and send out the droid under the pipes not too far away. Take
+winding path down to where the force orbs are at, disable them, move Kane past
+the force field and all of the way down the stairs. Eventually you will find a
+new MAX HEALTH INCREASE. Backtrack and regroup with the RAD, then continue on.
+The next chamber is where the first Power Cell is located, but its heavily
+guarded. Use your new Oxid Cannon on the group, then switch to either the
+Quanta Rifle or Muon Pistol to pick off the rest. Move up the stairs and
+examine the Power Cell to start it. Then backtrack all of the way to where you
+first encountered that annoying locked door.
+
+You will find that the door is no longer locked. In the save room heal up and
+save your current progress, and then keep going. As soon as you enter the next
+room you are greeted by gun turrets and drones. You will notice a tunnel to
+send your RAD in, but ignore it for now as that is not the correct one, there
+is a force field blocking the path. Around the stairs is a mech suit and one of
+those upgraded spider enemies for you to take on. When you reach the second
+security tunnel send the RAD in. Near the end of the first tunnel will be a
+force orb to disable, the second one is in the other set of tunnels. Make your
+way to the Alien Artifact. Then exit out the other series of tunnels, you will
+come across two more force orbs. Those disable the force field blocking the
+path of the first tunnel. Regroup with Kane and leave the area.
+
+It seems like the aliens are out for your blood, the next room you will find
+yourself in is more or less the same as the past few. Clear a path and head up
+the stairs through the door. The next area is a series of rooms to explore.
+Take the time to clear all of the drones, then place Kane near the force field.
+Send out the RAD under the pipes in the right chamber near the start of the
+area and wrap your way through the tunnel system. The force orbs are luckily
+right next to the force field. Regroup with Kane and continue down the stairs.
+Make your way past those indestructible yellow drones and claim the AMMO CLIP
+INCREASE for the Oxid Cannon. Backtrack past the force field and continue on.
+
+The next room is nothing special, but beyond that is the chamber with the next
+Power Cell to activate. Just as with the first room, the Oxid Cannon will prove
+to be your best friend, its massive firepower will deal damage to everyone that
+is caught in its fire radius. Examine the Power Cell to activate it and then
+make your way back to where you ascended those second set of stairs, and go
+through the previously locked door in that room.
+
+-------------------------------------------------------------------------------
+ Episode 14: Irradiated Stratum (Part 2) [epxx5]
+-------------------------------------------------------------------------------
+
+There is nothing noteworthy about the room beyond the save room, just clear
+the enemies and keep moving. The next area is very straightforward, it is just
+a bunch of inter-connected rooms with walking mech suits, drones and spiders to
+destroy. Towards the end of the room there will be a tunnel to the left of the
+exit door. Send the Remote Access Droid through the tunnel, you will soon make
+your way to another tunnel entry point. Toward the end of that will be the last
+Alien Artifact to claim! Regroup with Kane and continue onward.
+
+This next room is just two different paths that lead to the exact same spot,
+there is nothing special about them. But the one after that is the third and
+last Power Cell chamber, again it is heavily guarded. When you have finally
+destroyed every drone and mech suit examine the Power Cell to activate it. Then
+exit out the other door in the room, the one you didn't come in from.
+
+In this next room will be your last weapon to pick up, the Seeker Pod! Beyond
+this chamber will be a narrow walk-way for you to take to an elevator. As soon
+as you enter the elevator the Episode will be drawn to a close.
+
+-------------------------------------------------------------------------------
+ Episode 15: Matrix Progenitor [ep155]
+-------------------------------------------------------------------------------
+
+Snag the key that is sitting at the bottom of the two staircases, and then
+move through the door. The next chamber is more noteworthy. Grab the Ammo Clip
+Increase for the Seeker Pod that you just picked up. Drop down into the main
+area of the room and move forward to being the boss fight.
+
+Fortunately this is pretty straightforward. Attack the top weak points of each
+core panel from afar. It is much easier to dodge the projectiles than it is to
+avoid the grenades that the core throws out. Your Fermion Sniper is almost
+like your new best friend, it will allow you to attack from long range so that
+you can easily dodge projectile attacks. Not to mention it packs a strong hit.
+
+When the core is exposed I recommend switching to your new Seeker Pod to test
+it out. Aim directly at the core and shoo-HOLY CRAP ITS LIKE A NUCLEAR WEAPON!
+Ahem, but yeah, as you will see it is a very powerful weapon. Finish off the
+core however you like. When it is destroyed, Episode 15 is over.
+
+-------------------------------------------------------------------------------
+ Episode 16: Fermian Homeworld [ep166]
+-------------------------------------------------------------------------------
+
+Right off the bat you're dealing with a roomful of enemies. Dispatch them and
+exit out of the door that is to the west of where you started. Without map
+data the exits won't be as spoonfed to you as before. The next two rooms are
+very linear and there's nothing special about them. But the next one requires a
+little RAD-puzzle solving. First clear the area of all of the enemies, then
+move Kane to around where the force field is. Send the droid through the tunnel
+found near the beginning of the area. Disable the force orbs to bring Kane in,
+then regroup and continue along.
+
+The next two rooms are again pretty much just there for the sake of being there
+and not worth any other kind of mention. The room after those is the same deal,
+except you are introduced to a new type of walking mech suit - a variety that
+are more durable, have a different physical appearance, and can cloak when they
+want to - either they can cloak or my game glitched up.
+
+The next three rooms are all about running and gunning. I almost died in the
+third room just because of how much overwhelming firepower you face. And with
+no save points yet if you die you have to begin at the start of the Episode.
+Moving on, you will encounter a chamber with some drones and one of those mini
+roller bosses that you dealt with earlier in the game. Beyond that room are
+just more mech suits to destroy and doors to go through.
+
+The last area is basically empty, there are two wrapping paths that lead to the
+exact same spot, it does not matter which route you take. When you reach the
+elevator walk into it to be taken to a new part of the alien homeworld. This
+brings Episode 16 to a close.
+
+-------------------------------------------------------------------------------
+ Episode 17: Overlord [ep177]
+-------------------------------------------------------------------------------
+
+The final level of the main game mode. Take the key on the narrow walkway and
+go through the final door. The last boss, the Overlord, really isn't that hard.
+His weak point is his exposed head/face area. If you conserved your Seeker Pod
+and Oxid Cannon rounds now is the time to use them. This boss fight is just
+like all of the other ones in the sense that it follows a distinct pattern.
+After a while the Overlord will retreat back behind a force field, and when
+this happens drones will spawn from the security chutes. But this isn't all bad
+as it allows you the potential opportunity to pick up some more ammo and health
+canisters.
+
+As far as attacks go, the Overlord fires your standard projectile shots, and it
+throws grenades out. And what alien boss fight would be complete without the
+standard-issue laser beam. The Overlord will constantly follow you around the
+area, when it's not behind a force field anyway. The only real difficulty of
+this fight comes in with a lack of ammo for the Seeker Pod and Oxid Cannon.
+If needed you can still use your other weapons, including the Super Assault
+Rifle on the boss, it would just take an absurd amount of time.
+
+It will not be too long before you bring the Overlord down. When this finally
+happens sit back and watch the final cut-scene. Then the credits will roll and
+you will be thanked for playing. Congratulations, you have just beaten Moon!
+
+
+-------------------------------------------------------------------------------
+ VIII. Bonus Episodes [bno00]
+-------------------------------------------------------------------------------
+
+The Bonus Episodes are six Episodes all of very short length and with a very
+straight objective that you unlock by obtaining all three Alien Artifacts in
+each episode that has them. Each Bonus Episode is a re-hash of a previously
+beaten Episode, except with a few cosmetic changes. Your objective is always
+the same, get to Tsuke at the end of the area. 
+
+You begin each Episode with the map data already uploaded to your UAC, and you
+get the same basic instructions from Tsuke at the start, all you have to do is
+make it to the end of the Episode's area to beat it. There are no extra merits
+of any kind in any of the Bonus Episodes, and each Episode is very easy. They
+really only serve to give you more practice with the game. You will notice that
+the writeups for the six Bonus Episodes are all noticeably shorter than the
+writeups for most of the other usual normal levels of the game, and that is
+because of how short and simple each Episode is. But with that being said, it
+is on to the Bonus Episodes walkthrough portion!
+
+-------------------------------------------------------------------------------
+ Episode 18: Tsukigami's VR Training I [bno01]
+-------------------------------------------------------------------------------
+
+The first of the Bonus Episodes. It follows a pattern that the rest of them do,
+in the sense of how simple it is. The first room is just a giant chamber with
+some drones to destroy, the second has a spider enemy along with some drones
+and gun turrets. The next two rooms after that are more or less the same, but
+be sure to keep your guard up - there are more drones in the second of the two
+than you might think.
+
+The room after that has two drones that will spawn right in front of Kane, so
+deal with them quickly. This final room is actually a bit more tricky than the
+others. Down the stairs will be two spider enemies for you to destroy, and in
+the last area after them will be a grenade-launching gun turret and one of
+those invincible gun turrets that alternate fire from every other hole. Once
+you are past all of that you will quickly see Tsuke waiting for you...just kind
+of standing there. Gee, thanks for the help pal. That will bring the first
+training episode to a close.
+
+-------------------------------------------------------------------------------
+ Episode 19: Tsukigami's VR Training II [bno02]
+-------------------------------------------------------------------------------
+
+Feel free to make a mad dash for the exit door when you find yourself in the
+first chamber's room. As there is nothing else of interest except for several
+drones to destroy on either side of yourself. The second area is a familiar
+winding path of empty space and drone-filled space. Be way of the security
+chutes you pass, as drones will eventually spawn from them and catch up with
+Kane.
+
+The third room only has drones and a blue-core colored spider enemy to deal
+with, and the exit is located in the southeast region of the area. After that
+area is a small narrow hallway that just leads to another door. The chamber
+beyond that one may seem like it has a Remote Access Droid puzzle for you to
+solve, but the reality in fact is, it really does not. There is only one of
+two force orbs that you need to disable around you. The second one is literally
+no where else to be found. I guess they just forgot to finish this level or
+they could not afford to finish it. Either way, move on.
+
+The area after that just sees you making your way to another door. Following
+it though, is an area with a very familiar Remote Access Droid puzzle for you
+to solve. Just send out the droid through the tunnel and disable the force orbs
+so that Kane can move into the area some more. Regroup Kane and your Remote
+Access Droid together to bring this Episode to an end.
+
+-------------------------------------------------------------------------------
+ Episode 20: Tsukigami's VR Training III [bno03]
+-------------------------------------------------------------------------------
+
+The first big area you will find yourself in is simply a narrow hallway that
+connects to a wider room with those indestructible gun turrets and more drones
+to prove bothersome to you, there is not much else to say about that really.
+Beyond that space is a chamber with a spider enemy and the first appearance of
+walking mech suits in these Bonus Episodes. You will also encounter one of
+those really annoying plasma turrets.
+
+After that is another simple winding path for you to run and gun while getting
+to the area exit point. After that will be the final room. And all that is
+standing between you and Tsukigami are a handful of drones that you will easily
+be able to dispatch. You will find Tsuke on the east side of the room's area.
+
+-------------------------------------------------------------------------------
+ Episode 21: Tsukigami's VR Training IV [bno04]
+-------------------------------------------------------------------------------
+
+The first two rooms in this Episode are nothing but shooting drones and going
+through doors, yay. The third one requires you to solve a Remote Access Droid
+puzzle. Send out your robot either side under the pipes. Be aware of all the
+droids in the area though. Disable the two force orbs, then move Kane in and
+take out those bothersome drones. Reclaim your RAD and continue on through
+the door.
+
+Now we will start to see more Remote Access Droid puzzles in use. The next area
+has another one to solve. Stand Kane in front of the force field and send out
+your droid under the pipes. The two force orbs that you need to disable with
+the EMP blaster are located in the two rooms directly next to the room with
+the force field. Disable them and bring Kane in. Then regroup and enter the
+next area.
+
+The area after that has another RAD puzzle, but it is both near the end of the
+level and very easy to solve, just send the droid under the pipes and disable
+the orbs, the force field is generated right next to that position. Take Kane
+and your droid into the next room.
+
+One more puzzle stands between you and the exit. This one actually takes some
+luck and almost near-perfect timing. The two force orbs are located in the
+southwest corner (first row from the top on the very left) and on the very
+bottom south-hallway. There's a trick to it of sorts. The first time you turn
+them off you have to move Kane past the force field. Then the second time you
+have to haul robot butt and get your Remote Access Droid through the the other
+side as well. If you do not get the first time, don't sweat it. Its tricky but
+still very easy, so no worries. In the next room you'll meet up with Tsuke and
+that will bring this Episode to a close. In case you're wondering why you need
+to make two deactivating trips its because with the time it takes to switch to
+Kane and pick up your RAD there won't be enough time to get you both through
+in time before the force field goes back up.
+
+-------------------------------------------------------------------------------
+ Episode 22: Tsukigami's VR Training V [bno05]
+-------------------------------------------------------------------------------
+
+The first area is pure running and gunning, be wary of the ceiling turret. If
+you do not take care of it soon enough it can rip Kane to shreds. Around the
+stairs will be a mech suit waiting for you, so be sure to have something like
+your Oxid Cannon ready. The room after this is pretty straightforward, that
+run and gun sense is still present. The path itself is very linear and full of
+twists and turns.
+
+The next chamber is very odd, for the sole reason that there seems to be red
+projectiles that emit from the ground. There is no enemy that fires them, they
+just emerge from the ground. Its really weird. This is where I began to wonder
+just how much this game was finished before they sold it. This single chamber
+is the ONLY place where you will witness something like this in the entire
+game. But anyway, just destroy all of the drones and enter the next area. Just
+be sure to watch out for the mysterious firing projectiles!
+
+Finally, in the very last room just make your fastest dash for the exit. Be
+wary of the walking mech suits and drones that you will encounter. But really,
+it is all a cinch. Tsuke is in the northeast region of the area.
+
+-------------------------------------------------------------------------------
+ Episode 23: Tsukigami's VR Training VI [bno06]
+-------------------------------------------------------------------------------
+
+The first serious chamber you find yourself in contains a carbon copy of that
+Remote Access Droid puzzle with the gun turrets from Episode 01. Use the same
+exact strategy for this one too. Disable the force orbs, move Kane in and put
+him in front of the second force field, out of harm's way. Then repeat the
+processs for the second force field. Regroup your RAD with Kane and then move
+on to the next room.
+
+As soon as you enter this room you are greeted with a force orb and two tunnels
+to send your RAD in. The one on the right is absolutely useless, the force
+field it deactivates is entirely ignored. So send your droid through the left
+tunnel. The force orb that you have to disable will be directly above you on
+the wall adjacent to where you come out of the tunnel. Switch to Kane, make
+very short work of the mech suits, then take your RAD and continue on through
+the door at the bottom of the steps, making sure to either destroy or ignore
+the mech suit waiting there for you.
+
+The last chamber is very straigtforward. The first thing you should do is make
+sure to clear all of the drones and gun turrets, then put Kane in front of the
+force field. Send out your RAD through the tunnel. When you exit the first
+tunnel turn around, you'll see the lone force orb that you have to destroy.
+Take the time to move Kane past where the force field generates, and switch to
+the RAD again and continue your journey through the next tunnel. You will, very
+conveniently, come out right where Kane is standing. Regroup and wrap around
+the path to where Tsuke is waiting for you. Congratulations, you just completed
+the very last Bonus Episode in Moon!
+
+
+-------------------------------------------------------------------------------
+ IX. Frequently Asked Questions [faq00]
+-------------------------------------------------------------------------------
+
+The following section is dedicated for pieces of information that I felt did
+not warrant their own section in the main guide, for one reason or another. It
+is also a source for the answers to some common questions you may have about
+the game.
+
+Q: Is there Nintendo Wifi support for this game?
+A: Sadly, no. Which really baffles me.
+
+Q: How can I play multiplayer with my friends?
+A: You cannot, Moon is a single player game only.
+
+Q: How many different game modes are there?
+A: Just the single adventure mode, and quick play
+
+Q: Which is better, this game or Metroid Prime Hunters?
+A: Everyone is entitled to their own personal opinion, so there is no right
+answer. Personally as I stated earlier, I have never played Metroid Prime
+Hunters, so I cannot really answer that question.
+
+Q: Is there anyway to disable use of the stylus?
+A: I'm afraid there is not, you're stuck with using the stylus. But trust me,
+you get used to it with practice!
+
+Q: Who are the main characters in the game?
+A: Major Edward Scott Kane, the reluctant hero of the game. A guy who was just
+doing his job before the poop hit the fan. You play as him. General Lillian
+Lincoln Lambert, Kane's superior officer who brought him along when she
+discovers a mysterious structure on the Moon, who seems to know more than what
+she lets on. And Captain Kado Tsukigami, Kane's best friend who was hand picked
+by General Lambert to assist you. He is very experienced in combat and manages
+to keep a cool head when the pressure is on. Kane refers to him as "Tsuke"
+during the game.
+
+Q: How do I earn all of the Merits in a level?
+A: In order to earn every Merit that you can possible get in an Episode, you
+need to collect any weapons that can be found in them, as well all three Alien
+Artifacts, the Ammo Clip Increase pick up, and the Max Health Increase pick up.
+The final stipulation is something that a lot of people tend to miss, including
+yours truly. You must ALSO take the time to examine every computer terminal
+in a level. Not the map terminals, the ones that provide log data from whoever
+used them last. So they not only serve to fill you in on plot details, they are
+also there for the perfectionists of the game.
+
+Q: Which Episodes have Alien Artifacts for me to collect?
+A: Episodes 01, 04, 08, 10, 12, and 14.
+
+
+-------------------------------------------------------------------------------
+ X. Version History [ver00]
+-------------------------------------------------------------------------------
+
+February 13th, 2009 - 0.15: Initial submission of the guide. Just about every
+section of the guide needs to be updated. As far as the walkthrough goes, I
+wrote up the strategy for the Prologue and Episode 02 sections - anyone else
+can notice that Episode 01 is missing. I intentionally did this, but rest easy
+and assured I will include the write up for that and many other sections with
+the next update to the guide.
+
+February 20th, 2009 - 0.16: Updated the main walkthrough section to finally
+include Episode 01, Episode 03, Episode 04, and Episode 05.
+
+February 23rd, 2009 - 0.17: Updated the main walkthrough section again to
+include the strategy guides for Episode 06 and Episode 07. I meant to get more
+done over the weekend but it just quite simply did not happen. I would say the
+guide is still coming along nicely though, just not at the same pace I would
+prefer. I do intend to keep chipping away at the guide as this week before my
+Spring Break progresses. Thank you for all of the emails I've been getting.
+
+Febuary 24th, 2009 - 0.42: Massive update to the guide. Every section saw an
+update. The walkthrough section saw Episodes 08-13 being written up for. I
+should be able to finish her by the beginning of Spring Break weekend.
+
+March 1st, 2009 - 1.00: Another massive update to the entire guide. I updated
+every single section and decided to split section 2 into three different parts,
+I decided that it would be easier to allocate those pieces of information their
+own section. I also added the Bonus Episodes section and the walkthrough for
+each of those levels. All in all, the entire FAQ/Walkthrough is now officially
+complete. I can close the book on her. ffmasterjose's anti-plagiarism check.
+
+
+-------------------------------------------------------------------------------
+ XI. Legal Information [leg00]
+-------------------------------------------------------------------------------
+
+All trademarks and copyrights contained in this document are owned by their
+respective and copyright holders.
+
+This may not be reproduced under any circumstances except for personal,
+private use. It may not be placed on any other website besides
+http://www.gamefaqs.com/ or otherwise distributed publicly at all. Use of this
+guide on any other web site or as a part of any public display is prohibited,
+and a violation of copyright. I'm only granting GameFAQs permission to host
+this guide, so please refrain from requesting permission to host this anywhere
+else, as your request will be denied respectably.
+
+Copyright 2009 Jose Escamilla.
+
+
+-------------------------------------------------------------------------------
+ XII. Final Notes [fin00]
+-------------------------------------------------------------------------------
+
+I encourage feedback of any kind, and I can be reached at the email listed
+above. In addition to feedback, if you have errors or missing content to report
+I'll look into it, and if everything checks out credit will be given to you in
+a future update. Thank you for viewing my FAQ.
+
+===============================================================================

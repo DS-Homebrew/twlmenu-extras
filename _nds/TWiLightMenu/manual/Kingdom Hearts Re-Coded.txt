@@ -1,0 +1,2582 @@
+          ___ ___   ___  ______   _______  ______    _______  ___ ___ 
+         |   Y   ) |   ||   _  \ |   _   ||   _  \  |   _   ||   Y   |
+         |.  1  /  |.  ||.  |   ||.  |___||.  |   \ |.  |   ||.      |
+         |.  _  \  |.  ||.  |   ||.  |   ||.  |    \|.  |   ||. \_/  |
+         |:  |   \ |:  ||:  |   ||:  1   ||:  1    /|:  1   ||:  |   |
+         |::.| .  )|::.||::.|   ||::.. . ||::.. . / |::.. . ||::.|:. |
+         `--- ---' `---'`--- ---'`-------'`------'  `-------'`--- ---'
+                                                              
+             ___ ___  _______  _______  _______  _______  _______ 
+            |   Y   ||   _   ||   _   ||   _   \|       ||   _   |
+            |.  1   ||.  1___||.  1   ||.  l   /|.|   | ||   1___|
+            |.  _   ||.  __)_ |.  _   ||.  _   1`-|.  |-'|____   |
+            |:  |   ||:  1   ||:  |   ||:  |   |  |:  |  |:  1   |
+            |::.|:. ||::.. . ||::.|:. ||::.|:. |  |::.|  |::.. . |
+            `--- ---'`-------'`--- ---'`--- ---'  `---'  `-------'
+
+                                   Re:Coded
+
+ _____________________________________________________________________________
+/=============================================================================\
+|                               FAQ/Walkthrough                               |
+|                         By: Greg Boccia aka noz3r0                          |
+|                          Email: noz3r0@gmail.com                            |
+|                                Version: 0.75                                |
+|                        Copyright ©2010 Greg Boccia                          |
+\=============================================================================/
+/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+|+++++++++++++++++++++++++++++Table of Contents+++++++++++++++++++++++++++++++|
+|=============================================================================|
+|   I. Introduction................................................ [01.00.00]|
+|  II. Controls.................................................... [02.00.00]|
+| III. Characters.................................................. [03.00.00]|
+|  IV. Walkthrough................................................. [04.00.00]|
+|      - Destiny Islands........................................... [04.01.00]|
+|      - Traverse Town............................................. [04.02.00]|
+|      - Wonderland................................................ [04.03.00]|
+|      - Olympus Coliseum.......................................... [04.04.00]|
+|      - Agrabah................................................... [04.05.00]|
+|      - Hollow Bastion............................................ [04.06.00]|
+|      - Hollow Bastion - Riku's Data.............................. [04.07.00]|
+|      - Castle Oblivion........................................... [04.08.00]|
+|   V. System Areas................................................ [05.00.00]|
+|  VI. Olympus Coliseum............................................ [06.00.00]|
+| VII. Quests...................................................... [07.00.00]|
+|VIII. Collections................................................. [08.00.00]|
+|  IX. Version History............................................. [09.00.00]|
+|   X. Closing..................................................... [10.00.00]|
+\=============================================================================/
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _____________________________________________________________________________
+/=============================================================================\
+|                                Introduction                       [01.00.00]|
+\=============================================================================/
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Thank you for choosing to read my guide on Kingdom Hearts Re:Coded. This is
+the third Kingdom Hearts guide that I have written and the second that I have
+started from the Japanese version of the game. The goal of the guide is to
+provide the greatest amount of detail and accuracy of information in the
+quickest amount of time. Until the North American release this guide will be
+written covering the Japanese version from a non-japanese speaking/reading
+player. There is a guide for the original game that has a full game script, I
+highly recommend you use it and recommend it to fellow readers if you cannot
+follow the story or gameplay due to lack of knowledge in the japanese language.
+ _____________________________________________________________________________
+/=============================================================================\
+|                                  Controls                         [02.00.00]|
+\=============================================================================/
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ __________________________________________________________________
+|------------------------------------------------------------------|
+|    BUTTON    | MAIN MENU       | IN THE FIELD                    |
+|==============|=================|=================================|
+| D-Pad        | Move Cursor     | Move character                  |
+|--------------|-----------------|---------------------------------|
+| A            | Confirm         | Attack, Talk, Open Chests       |
+|--------------|-----------------|---------------------------------|
+| B            | Cancel          | Jump                            |
+|--------------|-----------------|---------------------------------|
+| Y            | -               | Use action command              |
+|--------------|-----------------|---------------------------------|
+| X            | Toggle Screens  | Use deck command                |
+|--------------|-----------------|---------------------------------|
+| L            | Switch screens  | Hotkey and change commands      |
+|--------------|-----------------|---------------------------------|
+| R            | Switch screens  | Rotate camera, change targets   |
+|--------------|-----------------|---------------------------------|
+| L + R        | -               | Lock-on                         |
+|--------------|-----------------|---------------------------------|
+| Start        | Close menu      | Open menu, Pause                |
+|--------------|-----------------|---------------------------------|
+| Select       | Switch menus    | Toggle camera view              |
+|--------------|-----------------|---------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _____________________________________________________________________________
+/=============================================================================\
+|                                Walkthrough                        [04.00.00]|
+\=============================================================================/
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  _______ 
+ |   _   |
+ |   1___|
+ |____   |
+ |:  1   |
+ |::.. . |tation of Awakening
+-`-------'---------------------------------------------------------------------
+===============================================================================
+
+  After the opening video you take control of Sora. Move to the sparkle in the
+middle of the area to spawn a shield, sword, and a staff. You must choose one
+and discard another. Confirm your entry to start another sequence of
+conversations. When you regain control of Sora run up the path and follow the
+instructions given on how to block, dodge, and gain experience as you defeat
+the Shadows.
+
+  After the battle open the menu and choose the top option, Status Matrix. Here
+you can set Chips to enter Cheats. They must be connected to the CPU, so choose
+the block connected to it and insert the [LEVEL UP] chip. Sora will learn [DODGE
+ROLL], the command to the right of it. You can toggle Dodge Roll on/off by
+moving the switch to the left (off) or to the right (on). Close the menu and
+go to the save point then approach the door and select it to enter Destiny
+Islands.
+  ______
+ |   _  \  
+ |.  |   \ 
+ |.  |    \
+ |:  1    /
+ |::.. . /estiny Islands                                             [04.01.00]
+-`------'----------------------------------------------------------------------
+===============================================================================
+
+  After the opening scene run over to Selphie to start a conversation. Speak
+with her again and then break the Bug Blocks heading towards Wakka. After the
+talk with Wakka, Sora learns about the Metal Blocks (silver and white) and Prize
+Blocks (purple white a yellow star), and Rare Prize Blocks (yellow with a silver
+star). Climb the Metal Blocks up to reach a Rare Prize Block containing an [HP
++2]. Hop back down and talk to Wakka again then equip the HP +2 chip. There are
+three other Prize Blocks around the island, the one at the highest point is a
+Rare Prize Block and nets a [BLANK CHIP].
+
+  Talk to Wakka one last time after equipping the HP +2 chip then jump on the
+nearby shack to start an event. Approach the door and select it to create a
+crack in it. In the System Area the objective is to destroy all the Bug Blocks
+and Heartless. After you clear the two floors you are given a chance for a
+reward. You can purchase items or trade your SP (Special Points) for EXP or
+Munny.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Power Armlet          | 90                     |
+               | Strength +1           | 70                     |
+               | Magic +1              | 70                     |
+               | Defense +1            | 70                     |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  The bridge is now built connecting you to Tidus' island. Head on over and
+duel him, he isn't much of a challenge. Destroy the Rare Prize Block on this
+island to get a [FIRE] which you should equip. Now that you can destroy all of
+the Bug Blocks do so and talk to Selphie to obtain [DEFENSE +1]. Enter the
+Secret Place near the Waterfall to start a scene and the games first boss fight.
+
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Darkside                                                              |
+|-----------------------------------------------------------------------------|
+|  The Darkside is a three stage fight. During the first stage Darkside will  |
+| thrust his arm into the ground leaving itself open for attack but it also   |
+| summons a few Shadows. Kill the Shadows and damage the arm until it retracts|
+| and does this attack again. The other move is one that summons several Bug  |
+| and Prize Blocks, destroy them to raise your score.                         |
+|                                                                             |
+|  In the second stage Darkside will shoot numerous blocks from his chest at  |
+| you from a distance. Dodge Roll away to avoid damage and when Darkside puts |
+| his arm in the ground destroy the Blocks on his arm to stun him, leaving his|
+| head wide open to be damaged.                                               |
+|                                                                             |
+|  In the third and final stage you will face a Purple Block surrounded by a  |
+| number of other Blocks. This enemy will bounce around and spin towards you, |
+| simply Dodge Roll away. Utilize the Fire commands to bust through to the    |
+| and get some damage in. Eventually, the yellow blocks will seperate leaving |
+| the middle open. Use this time to get your damage in, but move out once the |
+| blocks slow down from spinning because they quickly collapse and can cause  |
+| some damage.                                                                |
+|-----------------------------------------------------------------------------|
+|                                    RANK                                     |
+|-----------------------------------------------------------------------------|
+| S-Rank        | 10,000+ points                                              |
+| A-Rank        | 6,000-9,999 points                                          |
+| B-Rank        | 3000-5,999 points                                           |
+|-----------------------------------------------------------------------------|
+|                                   PRIZES                                    |
+|-----------------------------------------------------------------------------|
+| B-Rank Item   | Ether                                                       |
+| A-Rank Item   | Fire                                                        |
+| S-Rank Item   | Fire Edge                                                   |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  After the battle a scene occurs and Sora winds up in Traverse Town.
+  _______ 
+ |       |
+ |.|   | |
+ `-|.  |-'
+   |:  |
+   |::.|raverse Town                                                 [04.02.00]
+---`---'-----------------------------------------------------------------------
+===============================================================================
+
+  Start off by heading down the ramp and talking to the Moogle to access the
+shop. Purchase at least one new command then be on your way, Quick Blitz can
+be combined with Fire to create Fire Edge and Sliding Dash can be combined with
+Fire to make Heat Dash so buy enough to make this combination if you don't have
+1800 Munny yet.
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+|                    TRAVERSE TOWN FIRST DISTRICT MARKET                       |
+|------------------------------------------------------------------------------|
+| Quick Blitz....................................................... 400 Munny |
+| Fire Edge........................................................ 1800 Munny |
+| Sliding Dash...................................................... 400 Munny |
+| Heat Dash........................................................ 1800 Munny |
+| Round Blitz....................................................... 400 Munny |
+| Fire.............................................................. 800 Munny |
+| Slow.............................................................. 800 Munny |
+| Potion............................................................ 120 Munny |
+| Ether............................................................. 200 Munny |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  If you head out to the right side of town you can climb a ladder to a Metal
+Block. Jump from here to the Bouncy Block to reach the roof of the Accessory
+Shop. Jump over to the other side and across for a Rare Prize Block containing a
+[BLANK CHIP]. If you jump back to the Accessory Shop roof and jump to the Bouncy
+Block to the southern end you can reach the Rare Prize Block containing a
+[THUNDER]. In the alcove to the left of the Accessory Shop is another Bouncy
+Block that leads to two Prize Blocks.
+
+  Head on over to the Second District to find numerous Bug Blocks, amidst them
+are four Prize Blocks. Head down to the corner against the back wall to find
+Huey in danger, defeat the Heartless to obtain a [FIRE]. More Heartless come
+after a conversation, introducing a Large Body in to the mix. Go behind the
+Metal Blocks where Huey was and destroy the Rare Prize Block to obtain a [BLANK
+CHIP]. The objective is now to find the other ducklings and the [MYSTERY PIECES]
+that they have.
+
+  Head back the way you entered to have Sora point out the door on the bottom
+area. Go through it to the Alleyway and head left, destroying the Bug Blocks.
+At the southern end climb up the ladder and jump across the Metal Blocks till
+you reach the Prize Block to get a lot of Munny. Drop down and take out the
+other Bug Blocks then jump up to the balcony and talk to Dewey to obtain a
+[THUNDER]. Hop over the balconies to the south to find another Bug Block then
+head north into the right corridor.
+
+  Destroy the Bug Blocks and climb the ladder, making your way across the Metal
+Blocks to a Rare Prize Block for an [HP +2]. Head back to the Second District
+and protect Dewey then a System Area will become active. Locate it near the top
+of the curve along the western wall. Enter the System Area to fight a chain of
+Blocks that maneuvers around like a snake. Use Thunder/Thundara spells to make
+quick work of the excess Blocks then focus on the main one to complete this
+System Area.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Fire Charm            | 300                    |
+               | HP +2                 | 140                    |
+               | Magic +1              | 140                    |
+               | Fire                  | 90                     |
+               | Sliding Dash          | 140                    |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Head back to the First District and talk to Cid to learn [SPEED COMBO]. Try
+to go back to the Second District only to start another System Area, access it
+via the top door to the Accessory Shop. Jump up top using the Bouncy Block and
+defeat the Heartless as you ascend, breaking the Prize Blocks on the way. Drop
+back down once the Heartless are cleared out. On the second floor make your way
+to the top by jumping on the blocks when they become solid. There are two Prize
+Blocks for extra SP, once the Heartless are cleared out head to the third floor.
+Make your way to the top using the Bouncy Blocks and the Ghost Blocks when they
+become solid. Once the Heartless are defeated you can reach two more sets of
+Prize Blocks. One is on the top floor where Green Blocks solidify on top of each
+other, simply time your jumps to reach the top. The other is also on the top
+floor where you can use a Bouncy Block to reach Metal Blocks with a Prize Block.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Wizard's Amulet       | 280                    |
+               | Strength +1           | 150                    |
+               | HP +2                 | 150                    |
+               | Heat Dash             | 110                    |
+               | Quick Blitz           | 110                    |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Head in to the Second District to notice that new Bug Blocks and Metal Blocks
+have appeared as well as a new Bouncy Block. Use the Bouncy Block to reach new
+heights and collect the Prize Blocks. At the northern end equip a Dash command
+and jump to land above the Gizmo Ship. This Rare Prize Blocks holds a [DEFENSE
++1], be sure to equip it. Jump down to the east side to find another Rare Prize
+Block for a [CURE]. Make your way to the Third District now where a Save Point
+and Moogle Shop greet you.
+
+  Move to the center of the area to start a long fight against some new
+Heartless, the Soldiers come first followed by Red Nocturne and a Large Body.
+When you defeat all of them head up the ramp and jump on the Metal Blocks to
+reach a Prize Block at the top. Make a long jump east to reach a Rare Prize
+Block with a [DEFENSE +1] inside. If you jump south and use a Dash command at
+the right time you can slide into a balcony with a Rare Prize Block containing a
+[BLANK CHIP].
+
+  Head back to the First District to start a System Area, access it via the door
+that the Hooded Man goes through. Fight your way to the end of the area and grab
+any Prize Blocks along the way. Once you defeat the four enemies you need to,
+return to the first area to complete the System Area.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Energy Bomb           | 300                    |
+               | Magic +1              | 100                    |
+               | Strength +1           | 100                    |
+               | Fire Edge             |  70                    |
+               | Round Blitz           |  70                    |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Talk to Cid then make your way to the Second District again. Near the entrance
+to the First District are Metal Blocks, use them to reach the roof and break
+the Rare Prize Block for a [STRENGTH +1]. If you jump down to the central area
+you can reach another Rare Prize Block with a [BLANK CHIP]. Approach the
+northern end of the map to start a System Area, access it by heading up the
+steps and around to the northwest corner's door.
+
+  While defeating the Heartless, destroy the Bug Blocks and use the Movable
+Block to position yourself to jump to the next layer. Rinse and repeat until you
+reach the top layer with three Prize Blocks. Jump down and move to the next
+floor where you can combine blocks to make breakable ones. Combine a Pair Block
+and continue clockwise around the middle pillar to another. At the top hit the
+Pair Block down and follow it then make it connect with the one on the bottom.
+Return to the top to reach floor three.
+
+  Move to the middle and hit the Movable Block over to reach a platform with
+Soldiers. Defeat them and use the Bouncy Blocks nearby to reach a higher
+platform. Ride the Metal Blocks to the opposite side and get the two Prize
+Blocks. Jump down and climb the ladder on the opposite end to see 4 Pair Blocks
+that can be connected. Smack the first one down and run across the bridge of
+Ghost Blocks, smack this Pair Block down too. Make your way back across and to
+the other two, simply connect them. Jump down and connect the last two and 
+return to the top to finish the System Area.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Blizzard Charm        | 300                    |
+               | Lucky Strike          | 200                    |
+               | Magic +1              | 200                    |
+               | Rising Strike         | 200                    |
+               | Thunder               | 200                    |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Use the newly created Metal Blocks to reach the top of the Gizmo Shop and
+find Louie, gaining a [BLIZZARD]. Return to the First District to start a scene
+that takes you to a side scrolling adventure. The objective is to pick up the
+abilities and not get stuck so that the screen catches up to you and mashes you
+between blocks. Use the Keyblade and the abilities you pick up to destroy the
+Bug Blocks as you make your escape. Below is a list of the abilities you can get
+and use during these stages. Wind Spin can be used in succession to jump in mid-
+air and reach higher places. If at anytime you fall or get smashed against the
+back screen the ability will be gone and Sora will turn into a glowing ball that
+you can maneuver and place for his respawn.
+                ________________________________________________
+               |------------------------------------------------|
+               |                   ABILITIES                    |
+               |------------------------------------------------|
+               |         COLOR         |          ABILITY       |
+               |=======================|========================|
+               | Red                   | Fire Lunge             |
+               | Yellow                | Thunder Rain           |
+               | Green                 | Wind Spin              |
+               | Blue                  | Blizzard Dart          |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  At the end of Stage 1 Sora will have to fight off a bunch of Shadows. At the
+end of Stage 2 it will be Soldiers. In Stage 3 you are taken down into Terminus
+and essentially get to pick an ability to use. Thunder Rain or Wind Spin will
+work best so grab either of those.
+
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Guard Armor                                                           |
+|-----------------------------------------------------------------------------|
+|  Guard Armor will fire it's hands at you and jump around causing shockwaves.|
+| It's best to start out using your ability until it's gone. Occasionally, Bug|
+| Blocks and Prize Blocks will fall from the sky. Destroy them as fast as you |
+| can along with the Damage Box that appears. If you don't the Guard Armor    |
+| will unleash a laser beam from it's chest that takes up a good portion of   |
+| screen. Use the Prize Blocks for healing and be sure to dodge the firing    |
+| hands attacks and shockwave attacks.                                        |
+|-----------------------------------------------------------------------------|
+|                                    RANK                                     |
+|-----------------------------------------------------------------------------|
+| S-Rank        | 60,000+ points                                              |
+| A-Rank        | 50,000-59,999 points                                        |
+| B-Rank        | 40,000-49,999 points                                        |
+|-----------------------------------------------------------------------------|
+|                                   PRIZES                                    |
+|-----------------------------------------------------------------------------|
+| B-Rank Item   | Aerial Sweep                                                |
+| A-Rank Item   | Thunder                                                     |
+| S-Rank Item   | Thunder Edge                                                |
+| Keyblade      | Wishing Star                                                |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  After the scene Sora winds up in Wonderland.
+
+  ___ ___ 
+ |   Y   |
+ |.  |   |
+ |. / \  |
+ |:      |
+ |::.|:. |onderland                                                  [04.03.00]
+-`---'---'---------------------------------------------------------------------
+===============================================================================
+
+  Defeat the Heartless and save Alice then take some time to equip the Status
+Matrix with new Chips and equip your new Keyblade. Change out any commands you
+need to level up and create new ones. Head over to the green star to obtain
+[INLKLING: ALICE]. The Moogle Shop should be upgraded now so check it out as
+well before you progress.
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+|                          WONDERLAND CLEARING SHOP                            |
+|------------------------------------------------------------------------------|
+| Rising Strike..................................................... 400 Munny |
+| Quick Blitz....................................................... 400 Munny |
+| Fire Edge........................................................ 1800 Munny |
+| Thunder Edge..................................................... 1800 Munny |
+| Sliding Dash...................................................... 400 Munny |
+| Heat Dash........................................................ 1800 Munny |
+| Spark Dash....................................................... 1800 Munny |
+| Round Blitz....................................................... 400 Munny |
+| Fire Blast....................................................... 1800 Munny |
+| Thunder Blast.................................................... 1800 Munny |
+| Aerial Sweep...................................................... 400 Munny |
+| Fire.............................................................. 800 Munny |
+| Fira............................................................. 1600 Munny |
+| Thunder........................................................... 800 Munny |
+| Thundara......................................................... 1600 Munny |
+| Slow.............................................................. 800 Munny |
+| Potion............................................................ 120 Munny |
+| Ether............................................................. 200 Munny |
+| Panacea........................................................... 160 Munny |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Destroy all the Bug Blocks and speak with Alice. Choose the top of the two
+options to tell her the correct name. Speak with her again then exit at the top
+left door to the Hedge Maze. Make your way to the top right corner without
+getting caught to find a Rare Prize Block for a [BLANK CHIP]. In the top left
+corner is the [INKLING: WHITE RABBIT]. Exit at the southeast corner to the Lotus
+Forest where you immediately find the [INKLING: HEARTLESS]. Climb the ladder and
+jump across the Metal Blocks.
+
+  The first Rare Prize Block holds a [BLANK CHIP], the second is a [STRENGTH +1]
+and the third has a [BLIZZARD]. Jump to the southern end to find [INKLING:
+PECULIAR HOLE] then exit at the east to the Aimless Path. In the top left
+corner is the [INKLING: CARD SOLDIERS] and below it is a Rare Prize Block with
+a [BLANK CHIP]. In the top right corner is a Rare Prize Block with an [AERIAL
+SWEEP]. Exit at the northern end to the Tea Party Garden. Defeat the Heartless
+and check the poster in the corner for [INKLING: UNBIRTHDAY]. Stand on the
+table and use it to make the White Rabbit come out. You don't have his memory
+yet so break the Rare Prize Block in the corner for a [BLANK CHIP] and get to
+the one above the hedges for [STAR RAVE].
+
+  Head back south to trigger a System Area. You can find it along the southern
+end near the "T-shaped" hedging. This is the first time you can make a challenge
+so bet only if you think you can make it, see the chart below for rates and
+conditions. Be sure to get all the Prize Blocks that you can for the most amount
+of SP.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | D-Fira                | 1800                   |
+               | Strength +1           | 640                    |
+               | Magic +1              | 640                    |
+               | Lucky Strike          | 640                    |
+               | Cure                  | 530                    |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x1.5 | Kill 15 Heartless                                             |
+|-------|------|---------------------------------------------------------------|
+|   2   | x2.0 | Clear the floor within 200 seconds                            |
+|-------|------|---------------------------------------------------------------|
+|   3   | x2.0 | Clear the floor without using Healing commands                |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  You receive [INKLING: WATCH] for winning the System Area. Head back to the
+White Rabbit and give it to him (15th choice, second from the bottom) and he
+will leave behind the [INKLING TRIAL]. Inspect the door behind where he left to
+spawn [INKLING: MAD HATTER]. Make your way back to Alice and exit at the bottom
+left to the Rose Garden. Pass through the archway to get teleported to the
+bottom middle. Go west from here to end up in an "L-Shaped" area. Go through the
+southwestern archway then east twice to end up in an area with Bug and Prize
+Blocks, the Rare Prize Block has a [DEBUG DEVICE:R]. Use this as soon as
+possible to open up more space in the System Matrix.
+
+  Go north from here to find the [INKLING: LOOKING-GLASS]. Go back until you
+have a choice to make, go north to find [INKLING: WHITE ROSES] and a Rare Prize
+Block with [FIRAGA BURST]. Head back and go south from here then take the north
+east archway, then the southern one. Here you find [INKLING: RED ROSES] and a
+Rare Prize Block with [BLIZZARD EDGE] inside. Return to the original central
+bottom area and go south. In the Lotus Forest exit west to reach the Hedge Maze
+and talk to the Spade in the top right corner. Choose "White Roses" (option 12)
+and he will give you [INKLING: QUEEN OF HEARTS].
+
+  Exit north to reach the Bizarre Room where Sora is on a table. Defeat the
+Heartless and drink the potion. Run around the corner and break the Rare Prize
+Block for a [SLOW]. Climb the ladder in the northeast corner to reach the
+[INKLING: CHESHIRE CAT]. Climb higher and jump the Metal Blocks to reach another
+Rare Prize Block with a [HI-POTION]. Jump south across the Bouncy Block to reach
+a Rare Prize Block with a [STRENGTH +1]. Another Rare Prize Block can be reached
+below via the Ghost Block to get a [RISING STRIKE]. In the bottom left corner
+you will find [INKLING: COOKIE]. Talk to the Doorknob to start a System Area
+that can be accessed on the table.
+
+  The only reason the challenge can be hard is because on your way out you
+meet a Heartless that is red and has a shield. It can hit you with Confuse and
+make your controls backwards. It also hits multiple times every time it fires
+beams. Be sure to dodge everything it throws at you and simply get out of the
+System Area!
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Safeguard Armlet      | 700                    |
+               | Debug Device: R       | 500                    |
+               | HP +2                 | 400                    |
+               | Fire +1               | 400                    |
+               | Magic +1              | 400                    |
+               | Blizzard              | 100                    |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x5.0 | Take damage less than 15 times                                |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  You obtain [INKLING: DOORKNOB] after clearing the System Area. Go through the
+door at the northwest to enter the Hedge Maze again. Another System Area starts
+up and it is accessed in the top right corner of the map, left side. This System
+Area introduces Exploding Bug Blocks. Hit them with magic so you don't take
+damage and watch them light up the room. The first floor clears easily as long
+as you hit the Bug Blocks. For the second floor you will fight a chain of Blocks
+again. Destroy all the blocks when they are Bug Blocks, if you don't then break
+them all up without hurting the head Block and it will spawn more. Wait till
+they turn to Bug Blocks and destroy them to meet the challenge. If anything, be
+sure to buy the [TEACUP] afterwards.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Compass               | 1200                   |
+               | Teacup                | 700                    |
+               | Defense +1            | 400                    |
+               | Blizzard +1           | 400                    |
+               | Blank Chip            | 400                    |
+               | Aerial Sweep          | 200                    |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x2.0 | Destroy 35 Bug Blocks                                         |
+|-------|------|---------------------------------------------------------------|
+|   2   | x4.0 | Destroy 20 Bug Blocks                                         |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Head back to the Clear and talk to Alice. If you missed anything then consult
+the list below on where to find them. They are also listed in the order in which
+the options are chosen when speaking with Alice. Choose White Rabbit, Peculiar
+Hole, Cheshire Cat, and Queen of Hearts to finish the main part. Choose the 
+bottom option to tell her you have more and choose Card Soldier, Trial, Mad
+Hatter, Unbirthday, and Doorknob to earn a [CURE +1]. After talking to Alice
+you are taking in to a battle. Break both sides of the tower to lower the
+Spade. Once he is lowered all the way release him to enter a mini-game.
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+|                                  INKLINGS                                    |
+|------------------------------------------------------------------------------|
+|              INKLING                 |               LOCATION                |
+|======================================|=======================================|
+| Alice                                | Clearing                              |
+| White Rabbit                         | Hedge Maze                            |
+| Heartless                            | Lotus Forest                          |
+| Unbirthday                           | Tea Party Garden                      |
+| Trial                                | Dropped by White Rabbit               |
+| Peculiar Hole                        | Lotus Forest                          |
+| Queen of Hearts                      | Dropped by Spade                      |
+| Cheshire Cat                         | Bizarre Room                          |
+| Cookie                               | Bizarre Room                          |
+| Doorknob                             | Dropped by Doorknob                   |
+| Red Roses                            | Rose Garden                           |
+| White Roses                          | Rose Garden                           |
+| Looking-Glass                        | Rose Garden                           |
+| Mad Hatter                           | Tea Party Garden                      |
+| Watch                                | Complete System Area in Aimless Path  |
+| Card Soldiers                        | Aimless Path                          |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  During this mini-game Sora will run automatically. He will take damage from
+enemies and falling into holes. Fortunately, you can shoot blasts from the
+Keyblade, hold it down to fire up to five at once and gain more points for
+defeating more enemies at one time. There are 10 waves total of varying enemies
+and Damage Blocks, Prize Blocks, and abilities. Use everything you have to pass
+the waves with high HP and a high score because you are thrust into a boss
+fight.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Trick Master                                                          |
+|-----------------------------------------------------------------------------|
+|  The Trick Master will stay ahead of Sora at all times. You can target all  |
+| over his body so focus on using a charged shots. Trick Master's attacks are |
+| extremely simple, a single homing fireball that can be dodged via rolling   |
+| and a wave of fireballs that can simply be jumped over since they don't seek|
+| after Sora. Stick with charged shots inbetween Trick Master's attacks for a |
+| quick win.                                                                  |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Stage 2 starts after this fight with another 10 waves of fun. Keep HP high as
+the for returns.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Trick Master                                                          |
+|-----------------------------------------------------------------------------|
+|  The Trick Master will stay ahead of Sora at all times. You can target all  |
+| over his body so focus on using a charged shots. Trick Master's attacks are |
+| slightly more difficult to deal with. He brings the wave of fireballs and   |
+| drops the homing fireball. Trick Master adds two new attacks, one summons a |
+| quantity of Damage Blocks and the other is spinning fiery balls that bounce |
+| around towards Sora.                                                        |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Stage 3 starts up after this fight and this time you will get flipped to all
+sorts of angles. Focus on keeping high HP more and use the abilities to the best
+to overcome the awkward camera angles.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Trick Master                                                          |
+|-----------------------------------------------------------------------------|
+|  The Trick Master will stay ahead of Sora at all times. You can target all  |
+| over his body so focus on using a charged shots. This time the Trick Master |
+| incorporates all his previous attacks into this battle.
+|-----------------------------------------------------------------------------|
+|                                    RANK                                     |
+|-----------------------------------------------------------------------------|
+| S-Rank        | 45,000+ points                                              |
+| A-Rank        | 40,000-49,999 points                                        |
+| B-Rank        | 35,000-39,999 points                                        |
+| C-Rank        | 34,999 and below                                            |
+|-----------------------------------------------------------------------------|
+|                                   PRIZES                                    |
+|-----------------------------------------------------------------------------|
+| C-Rank Item   | Potion                                                      |
+| B-Rank Item   | Cure                                                        |
+| A-Rank Item   | Confuse                                                     |
+| S-Rank Item   | Sliding Rush                                                |
+| Keyblade      | Lady Luck                                                   |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  After a long scene Sora ends up in the Olympus Coliseum.
+  _______ 
+ |   _   |
+ |.  |   |
+ |.  |   |
+ |:  1   |
+ |::.. . |lympus Coliseum                                            [04.04.00]
+-`-------'---------------------------------------------------------------------
+===============================================================================
+
+  After the scene proceed to the gates into the Vestibule. Talk to Phil and
+Sora will break down the Bug Blocks. After entering the Coliseum you are given
+the run down of what needs to be done. With the exception of skill-based
+abilities all abilities are locked, ie; Commands but not Dodge Roll, Jump, and
+Block.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bug Level
+
+  The metre in the top right corner shows the Bug Level of every room. The Bug
+Level affects enemy strength, and can also influence the Bug Blocks. The color
+of the meter is significant.
+    Yellow     Level 1: Metal blocks and damage blocks will transform into
+                        normal blocks or prize blocks.
+    Red        Level 2: Damage from enemies will be multiplied by two.
+    Flashing   Level 3: Damage from enemies will be multiplied by three.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Destroy the first areas Bug Blocks and move to the green star. Here you are
+briefed on how to battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Battle
+  When you run into Heartless, a battle begins. The battle starts as soon as you
+engage the Heartless. You'll lose HP when enemy attacks make it through, so keep
+an eye on your remaining HP.
+
+Knockback*
+  If you land several attacks in a row, your enemy will suffer a knockback.
+Looks like attacking a knockbacked enemy will always hit!
+
+Critical
+  When you attack, press the attack button at the right time to score a critical
+hit! It hits for more damage and causes a knockback more often. Sometimes, it
+might even trigger a special attack.
+
+Block
+  If you press Guard at the proper time you will halve the damage done!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Essentially your skill-based abilities become locked in battle and Commands
+are the only way to fight. Choose the right combination of Commands and attacks
+to take out the enemies. Make your way through the rooms till you reach the top
+right one and find a Rare Prize Block with a [STRENGTH +1]. South from here you
+will find another Rare Prize Block but with a [MAGIC +1]. Head north in to the
+long hall and defeat the Heartless as you go along to the left. The Rare Prize
+Block yields an [HP +2] and in the back corner you will find a warp point to the
+next layer.
+
+  In this area is a Moogle Shop, Save Point, and Warp Point to the next layer.
+Be sure to check the Shop for any new items!
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+|                           OLYMPUS COLISEUM SHOP                              |
+|------------------------------------------------------------------------------|
+| Rising Strike..................................................... 400 Munny |
+| Quick Blitz....................................................... 400 Munny |
+| Fire Edge........................................................ 1800 Munny |
+| Thunder Edge..................................................... 1800 Munny |
+| Sliding Dash...................................................... 400 Munny |
+| Heat Dash........................................................ 1800 Munny |
+| Spark Dash....................................................... 1800 Munny |
+| Round Blitz....................................................... 400 Munny |
+| Fire Blast....................................................... 1800 Munny |
+| Thunder Blast.................................................... 1800 Munny |
+| Aerial Sweep...................................................... 400 Munny |
+| Fire.............................................................. 800 Munny |
+| Fira............................................................. 1600 Munny |
+| Blizzard.......................................................... 800 Munny |
+| Blizzara......................................................... 1600 Munny |
+| Thunder........................................................... 800 Munny |
+| Thundara......................................................... 1600 Munny |
+| Cure.............................................................. 800 Munny |
+| Slow.............................................................. 800 Munny |
+| Stop.............................................................. 800 Munny |
+| Potion............................................................ 120 Munny |
+| Hi-Potion......................................................... 320 Munny |
+| Ether............................................................. 200 Munny |
+| Panacea........................................................... 160 Munny |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Head to Layer 2 and destroy the Bug Blocks. Head north and get briefed on what
+Licenses are. Clear this room and open the Prize Blocks to find [STRENGTH-L],
+[BREAK-L], [DEFENSE-L], and defeat the Heartless for [SCOUT-L]. Head back to the
+first area to find Hercules. Defeat some Heartless with his help then continue
+west. Bring the Bug Level down to 1 and break the Rare Prize Block that is
+unveiled for a [DEFENSE +1]. Head south from here and clear the room to discover
+the Warp Point. Instead of taking it now continue east to another room and clear
+it, including the Rare Prize Block with the [LUCKY STRIKE] inside. Now return
+and use the Warp Point.
+
+  Here the Moogle drops an Auto-Block-L, Regen-L, Auto-Life-L, and Charge-L. Be
+sure to pick them up before moving to Layer 3. The battles will have a lot more
+Heartless in them from here on out so make good use of Licenses. Clear the
+initial room and with High Jump reach the lower right hand room. Bust open the
+Rare Prize Block here for a [THUNDER +1]. Head back and go across to the left
+side and clear this room, pending you have High Jump to reach it. Head back out
+and into the northern room, clear it and proceed to the room on the right.
+Clear this room to find 
+
+  Return to the previous room and jump to the ledge above and clear this area
+as well to reveal a Rare Prize Block with [AERO +1] inside. Enter the other room
+up here for a battle against Cloud.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Cloud                                                                 |
+|-----------------------------------------------------------------------------|
+|  Cloud has one big threat to your survival and that is Omnislash. When it is|
+| cast do your best to Guard against the attacks. Be sure to bring at least   |
+| one Cure/Cura spell and rely on comboing. Slide Dash can be used in a combo |
+| to deal decent damage, be sure to time your strikes to get criticals and    |
+| stay alive long enough to win the battle.                                   |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Rid the room of Bug Blocks and move on to the next area via the Warp Point.
+Do what you need to here and move on to Layer 4. Clear the initial room then
+move to the east clearing another, the Rare Prize Block holds [AIR SPIRAL]. Head
+north and clear out the Heartless in this room. Get to the second tier and move
+west to the large middle room. Defeat the Heartless and destroy the Bug Blocks
+to reveal the Rare Prize Block with a [CURE +1]. Continue to the top left area
+where the group spots Cloud Below. Head south and drop down, lowering the Bug
+Level to 1 to allow access to the Rare Prize Block containing a [DEBUG DEVICE
+:R]. Head north from here to notice Cloud is missing, but continue south to
+find him. Help Cloud defeat the abundant amount of Heartless. Return to the
+northern central area and exit at the top.
+
+  Use this final Save Point and proceed to Layer 5 via the Warp Point. Continue
+north and break the Rare Prize Block for an [AERIAL SLAM]. As you reach the
+steps the boss emerges.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Cerberus                                                              |
+|-----------------------------------------------------------------------------|
+|  Be sure to bring at least one Cura with you for this fight. Cerberus will  |
+| attack with a series of Fireballs and do a triple-bite attack that hits the |
+| whole party. Fortunately, you have two extra members so rely on basic attack|
+| and commands. Use a Cura in conjunction with another command to heal the    |
+| entire party. Other than that, focus on timing your hits for criticals and  |
+| second swings.                                                              |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Immediately after disposing of his pet, Hades enters the scene for a battle.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Hades                                                                 |
+|-----------------------------------------------------------------------------|
+|  Hopefully you equipped a Blizzard spell for some easy damage. You have no  |
+| time to heal between these fights so use a Regen-L and a Defense-L to keep  |
+| ahead of the game. Attack like normal and unleash commands that are Blizzard|
+| based. Hades will attack with a triple Fireball or a single burst of flame, |
+| be sure to Guard them. Hades will also summon Shadows when he needs and is  |
+| obviously immune to Fire.                                                   |
+|-----------------------------------------------------------------------------|
+|                                    RANK                                     |
+|-----------------------------------------------------------------------------|
+| S-Rank        |                                                             |
+| A-Rank        |                                                             |
+| B-Rank        |                                                             |
+| C-Rank        |                                                             |
+|-----------------------------------------------------------------------------|
+|                                   PRIZES                                    |
+|-----------------------------------------------------------------------------|
+| C-Rank Item   |                                                             |
+| B-Rank Item   | Rising Strike                                               |
+| A-Rank Item   | Air Spiral                                                  |
+| S-Rank Item   | Blizzard Buster                                             |
+| Keyblade      | Olympia                                                     |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  After some scenes Sora ends in Agrabah.
+  _______ 
+ |   _   |
+ |.  1   |
+ |.  _   |
+ |:  |   |
+ |::.|:. |grabah                                                     [04.05.00]
+-`--- ---'---------------------------------------------------------------------
+===============================================================================
+
+  Upon entering Agrabah use the Save Point and speak with the man to enter the
+shop.
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+|                             AGRABAH PLAZA SHOP                               |
+|------------------------------------------------------------------------------|
+| Rising Strike..................................................... 400 Munny |
+| Quick Blitz....................................................... 400 Munny |
+| Fire Edge........................................................ 1800 Munny |
+| Blizzard Edge.................................................... 1800 Munny |
+| Thunder Edge..................................................... 1800 Munny |
+| Sliding Dash...................................................... 400 Munny |
+| Heat Dash........................................................ 1800 Munny |
+| Ice Dash......................................................... 1800 Munny |
+| Spark Dash....................................................... 1800 Munny |
+| Round Blitz....................................................... 400 Munny |
+| Fire Blast....................................................... 1800 Munny |
+| Blizzard Blast................................................... 1800 Munny |
+| Thunder Blast.................................................... 1800 Munny |
+| Aerial Sweep...................................................... 400 Munny |
+| Heat Sweep....................................................... 1800 Munny |
+| Ice Sweep........................................................ 1800 Munny |
+| Spark Sweep...................................................... 1800 Munny |
+| Rising Rush..................................................... 10000 Munny |
+| Muscle Strike................................................... 12000 Munny |
+| Fire.............................................................. 800 Munny |
+| Fira............................................................. 1600 Munny |
+| Blizzard.......................................................... 800 Munny |
+| Blizzara......................................................... 1600 Munny |
+| Thunder........................................................... 800 Munny |
+| Thundara......................................................... 1600 Munny |
+| Cure.............................................................. 800 Munny |
+| Slow.............................................................. 800 Munny |
+| Stop.............................................................. 800 Munny |
+| Potion............................................................ 120 Munny |
+| Hi-Potion......................................................... 320 Munny |
+| Ether............................................................. 200 Munny |
+| Panacea........................................................... 160 Munny |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Jump up on the right side and use the Bouncy Block to obtain an [ELIXIR] from
+the Rare Prize Block. Jump to the bottom left corner to find another Rare Prize
+Block containing an [AERO]. Enter the Main Street via the large opening on the
+bottom floor. Jump up the right side and move around to a Rare Prize Block that
+holds a [FIRAGA]. Jump across and up another tier to find another Rare Prize
+Block with a [LUCKY STRIKE] inside. In the bottom left corner is yet another
+Rare Prize Block with [CONFUSE] inside. Go west into the Alley and up the north
+end to find a Rare Prize Block with a [BLIZZARD BUSTER].
+
+  Return to Main Street and head north to the Palace Gates. On the left side of
+this area bust up all the Damage Blocks and use the Bouncy Block to reach the
+top. Jump across to the east using the Bouncy Blocks to knock down a purple
+and starred Pair Block. Match them up to obtain [BLIZZARD RESISTANCE] then climb
+to the top and bust open the Rare Prize Block for [MAGNET]. Speak with Aladdin
+next then try to leave when some Heartless attack. Bandits and Fat Bandits are
+new on the scene. Fat Bandit function like Large Bodies except they can shoot
+fireballs. Leave back to Main Street and enter the Bazaar via the north west.
+
+  In this room there are Damage Blocks and a set of Pair Blocks. Make your way
+to the top and knock the Pair Block down and match them up. Break it for a
+[DEFENSE +1] then head back to the Alley. Here you must face Jafar and free
+Princess Jasmine.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Jafar                                                                 |
+|-----------------------------------------------------------------------------|
+|  Jafar mainly only casts Fireballs from his scepter. The hard part is that  |
+| he simply moves around to places far away so it's hard to catch him. The    |
+| easiest way is to target him with magic if he's really far away, otherwise  |
+| rush him and get in a combo before he vanishes.                             |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  After saving Jasmine head to the Plaza and speak with Aladdin. A scene occurs
+and triggers a stop on the entire city. Iago flies in and steals the lamp from
+Aladdin so you have to get it back. The only guarantee about where Iago's
+location is that he isn't in the Plaza the first time. Search Agrabah until
+you find him three times and be sure to avoid the Phantom Jafar. You can extend
+the timer by breaking Bug Blocks and defeating Heartless. Genie makes the eerie
+Phantom Jafar disappear then Sora wishes to go to the Cave of Wonders where the
+real Jafar is located.
+
+  Time isn't stopped here so there is no longer a time restriction. After the
+scene Jafar wishes to for a trap, starting a System Area that is accessed in
+the top left of the map. The floor is easy but meeting the challenge without
+the help of an Ether or two can be hard. Hopefully you have an Ether or two to
+make the challenge a cakewalk.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Faith                 | 600                    |
+               | Adamant Belt          | 200                    |
+               | HP +2                 | 200                    |
+               | Strength +1           | 200                    |
+               | Magic +1              | 200                    |
+               | Fire Resistance +1    | 200                    |
+               | Sliding Rush          | 100                    |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x5.0 | Use a Finisher                                                |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  After the System Area jump through into the entrance of the Cave of Wonders.
+In this Hall of Beginnings there is a Moogle Shop at the front. Fight your way
+down the path until you reach the boulders. Follow one down so you don't take
+damage then duck off to find a Prize Block guarded by Mimics (fake Bug Blocks).
+From here you can spot a Rare Prize Block with [STRIKE RAID] inside. Continue
+around defeating Heartless till you spot another Rare Prize Block, this time
+with the powerful [LAND CRASH]. At the end of the area you will see a sandfall
+that starts a System Area. To access it return to the area with the boulders to
+find it in one of the single blocks off the western boulder path.
+
+  The floors are simple to win but the challenges are a little harder. A new
+Block is introduced, the Magnet Block will pull you towards it so be careful
+when making long jumps. If you are good at blocking than the first floors
+challenge is a breeze. The second floors challenge requires you to use lower end
+Blizzard spells so you don't kill the Heartless in a single shot but instead
+freeze them. The third floor is the simplest in that you don't need to swing the
+Keyblade, you can rely on commands to defeat the Heartless and not be penalized
+for missing.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | CMOS Armlet           | 2100                   |
+               | Debug Device: R       | 1000                   |
+               | Fire +1               | 800                    |
+               | Blizzard +1           | 800                    |
+               | Thunder Resistance +1 | 800                    |
+               | Aero Resistance +1    | 800                    |
+               | Aerial Slam           | 500                    |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x2.0 | Guard 10 times                                                |
+|-------|------|---------------------------------------------------------------|
+|   2   | x3.0 | Freeze enemies 3 times                                        |
+|-------|------|---------------------------------------------------------------|
+|   3   | x4.0 | Miss less than 15 attacks                                     |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Head back to where the sandfall was and go through the door to reach the next
+area, the Gauntlet. If you fall you will be taken down to the bottom area where
+you will start a System Area, accessed at the bottom of the steps. To win the
+challenge keep alternating between normal areas until the Golden Mushroom
+spawns.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Energy Earring        | 600                    |
+               | Debug Device: R       | 500                    |
+               | Fire +2               | 400                    |
+               | Blizzard +2           | 400                    |
+               | Fire Resistance +2    | 400                    |
+               | Blizzard Resistance +1| 300                    |
+               | Aero                  | 300                    |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x5.0 | Kill a Golden Mushroom                                        |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Now make your way out of this room and break the Rare Prize Block for a
+[THUNDER TRACER]. Down the path leap out for a [FIRE RESISTANCE +1] from the
+Rare Prize Block. Make your way around to the Moogle Shop and Save Point then
+continue onward across the Metal Blocks. The two Rare Prize Blocks net a [DEBUG
+DEVICE: R] and an [AERO RESISTANCE +2]. On the other side Sora rides an elevator
+down battling Heartless as the elevator gets smaller and smaller. Falling will
+cause damage so do your best not to fall off. At the bottom Sora will meet with
+Jafar for a battle.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Jafar                                                                 |
+|-----------------------------------------------------------------------------|
+|  Jafar mainly only casts Fireballs from his scepter. He will create clones  |
+| that will do the same and chase you around. Focus on dodging his attacks and|
+| using Strike Raid attacks to stun him temporarily. Firaga Burst and other   |
+| such spells will make this a quick and easy battle.                         |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  You now have three minutes to find the Keyhole. Unfortunately, it's in a
+different location every playthrough. Luckily, there are plenty of Bug Blocks
+to destroy and add to the time. There is a Rare Prize Block in the room that has
+an [AERO EDGE], try to grab it while searching for the Keyhole.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Jafar                                                                 |
+|-----------------------------------------------------------------------------|
+|  Jafar, now an all powerful Genie, will be in the middle of the room of     |
+| molten lava. He will throw huge molten boulders at you, but he is not your  |
+| target instead it is Iago who holds the lamp. Chase Iago around and drain   |
+| his HP to start the second stage of the fight. Jafar will cast slow and     |
+| continue his barrage of boulders. Iago tends to fly high up so you must use |
+| the various blocks to reach him and drain his HP this round.                |
+|-----------------------------------------------------------------------------|
+|                                    RANK                                     |
+|-----------------------------------------------------------------------------|
+| S-Rank        |                                                             |
+| A-Rank        |                                                             |
+| B-Rank        |                                                             |
+| C-Rank        |                                                             |
+|-----------------------------------------------------------------------------|
+|                                   PRIZES                                    |
+|-----------------------------------------------------------------------------|
+| C-Rank Item   |                                                             |
+| B-Rank Item   | Fire Slam                                                   |
+| A-Rank Item   | Stop                                                        |
+| S-Rank Item   | Aero                                                        |
+| Keyblade      | Three Wishes                                                |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  After a long series of events Sora winds up in Hollow Bastion.
+  ___ ___ 
+ |   Y   |
+ |.  1   |
+ |.  _   |
+ |:  |   |
+ |::.|:. |ollow Bastion                                              [04.06.00]
+-`--- ---'---------------------------------------------------------------------
+===============================================================================
+
+  Sora is without his Keyblade so you cannot break Blocks or damage Heartless
+at this time. Run through the area and check out the Moogle Shop.
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+|                            HOLLOW BASTION SHOP                               |
+|------------------------------------------------------------------------------|
+| Rising Strike..................................................... 400 Munny |
+| Quick Blitz....................................................... 400 Munny |
+| Fire Edge........................................................ 1800 Munny |
+| Blizzard Edge.................................................... 1800 Munny |
+| Thunder Edge..................................................... 1800 Munny |
+| Sliding Dash...................................................... 400 Munny |
+| Heat Dash........................................................ 1800 Munny |
+| Ice Dash......................................................... 1800 Munny |
+| Spark Dash....................................................... 1800 Munny |
+| Round Blitz....................................................... 400 Munny |
+| Fire Blast....................................................... 1800 Munny |
+| Blizzard Blast................................................... 1800 Munny |
+| Thunder Blast.................................................... 1800 Munny |
+| Sliding Rush...................................................... 400 Munny |
+| Fire Buster...................................................... 1800 Munny |
+| Blizzard Buster.................................................. 1800 Munny |
+| Thunder Buster................................................... 1800 Munny |
+| Aerial Slam....................................................... 400 Munny |
+| Fire Slam........................................................ 1800 Munny |
+| Blizzard Slam.................................................... 1800 Munny |
+| Thunder Slam..................................................... 1800 Munny |
+| Aerial Sweep...................................................... 400 Munny |
+| Heat Sweep....................................................... 1800 Munny |
+| Ice Sweep........................................................ 1800 Munny |
+| Spark Sweep...................................................... 1800 Munny |
+| Air Spiral........................................................ 400 Munny |
+| Heat Storm....................................................... 1800 Munny |
+| Ice Storm........................................................ 1800 Munny |
+| Spark Storm...................................................... 1800 Munny |
+| Rising Rush..................................................... 10000 Munny |
+| Muscle Strike................................................... 12000 Munny |
+| Fire.............................................................. 800 Munny |
+| Fira............................................................. 1600 Munny |
+| Blizzard.......................................................... 800 Munny |
+| Blizzara......................................................... 1600 Munny |
+| Thunder........................................................... 800 Munny |
+| Thundara......................................................... 1600 Munny |
+| Cure.............................................................. 800 Munny |
+| Slow.............................................................. 800 Munny |
+| Stop.............................................................. 800 Munny |
+| Potion............................................................ 120 Munny |
+| Hi-Potion......................................................... 320 Munny |
+| Ether............................................................. 200 Munny |
+| Hi-Ether.......................................................... 640 Munny |
+| Panacea........................................................... 160 Munny |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Use the Save Point and make your way to the large door. You can't get through,
+you have to find the switch first. Head to the far right and ride the elevator
+down to the Waterway. Hit the first switch, you then have 10 seconds to hit the
+other one which is right next to it. The wall goes away and you can move on to
+the next area where a blue switch is. Hitting will start a timer of 20 seconds
+and waves of Blocks will start to fall and rush towards you. Jump them and reach
+the other end to hit the red switch. Run to the back side here to find another
+[EMBLEM PIECE].
+
+  Hit the newly formed blue switch in the middle and return to the Castle Gates.
+Go through the door that previously wouldn't budge to enter the Entrance Hall.
+After the scene you have to survive by dodging in small quarters combat. When
+the next scene occurs you can use Goofy to help out.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Entrust
+
+  Goofy has joined your party. You can cycle through the what you want Goofy to
+do with the attack command. There are three available commands:
+
+   Follow me............ Makes Goofy follow Sora
+   Fight the Heartless.. Makes Goofy attack the Heartless
+   Smash the blocks..... Makes Goofy smash blocks
+
+  Goofy can also use Goofy Tornado with the command button. Use the commands to
+have Goofy defeat these Heartless.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Defeat the Heartless with Goofy's help to start another event. On the right
+side of the steps have Goofy break the Rare Prize Block for a [CURA]. Approach
+the middle door to get the next objective, assemble the crest. Head in to the
+Library next and approach the green star for an [EMBLEM PIECE]. Return to the
+Entrance Hall and place the first Emblem Piece then follow Donald to the Castle
+Gates. Have Goofy destroy the blocks here and use the Bouncy Blocks to reach a
+Rare Prize Block high above for an [AERO +1]. As you move towards the Waterway
+have Goofy continue to break blocks and destroy the Rare Prize Block for a
+[DEBUG DEVICE: R]. Use the Bouncy Blocks here to reach a higher platform with
+a Rare Prize Block containing a [LUCKY STRIKE]. Head down to the Waterway once
+you have gotten everything.
+
+  Have Goofy break the Bug Blocks and then the Rare Prize Block for an [ESUNA]
+then move down to the area where you got the Emblem Piece and break the Rare
+Prize Block for a [MAGIC +1]. Move to the area with a wall of Bug Blocks and
+have Goofy break them down. Pass through here to find a blue switch that summons
+numerous Blocks. Use a Goofy Tornado to plow through them and beat the 25
+seconds time limit to the other switch. Find the other blue switch around the
+corner to bring a lot more Blocks, easily defeated with a Goofy Tornado, and a
+Rare Prize Block with a [EXO SPARK]. Hit the red switch and run over to Donald.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Entrust 2
+
+  Donald has joined your party. You have access to his spells now in addition
+to all of Goofy's attacks. Use Donald Thundaga/Firaga and now Goofy Turbo to
+make your way through the Castle.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Use the nearby elevator and return to the Library. Use the red switch in the
+back to move to Library 3. Hit the blue switch then the red switch to gain
+access to Library 4. Hit the blue switch then use the Ghost Blocks to reach the
+upper tier of the bookcases and the red switch. Break the Rare Prize Block to
+get a [CURE +3] then head to the Library 3 via the new door. Don't fall down,
+instead run over to the Rare Prize Block for a [THUNDER +3]. Jump now into the
+top left corner and into the Library 2.
+
+  Hit the blue switch and follow the pillars that have the Rare Prize Block
+and the red switch. Destroy all the Bug Blocks to get [MEGA FLARE], then hit
+the red switch. Exit to the Entrance Halls Upper Level and hit the blue switch
+then make your way to the red switch to create an [EMBLEM PIECE] that can be
+reached in the middle platform. Hop down and place the Emblem Piece then go to
+the Castle Gates. Spot the blue switch and hit it then jump across the Blocks
+to reach the red switch; the key is to use the Bouncy Blocks.
+
+  Defeat the Heartless and destroy more blocks to reach the [EMBLEM PIECE].
+Destroy the Rare Prize Block for a [HEAT DIVE] and continue climbing the Blocks
+to the top. Cross to the opposite end and make sure the Damage Blocks are gone
+so you can use the Bouncy Blocks to reach another Rare Prize Block, this one
+has an [AERO RESISTANCE +3]. Drop down and break another Rare Prize Block for a
+[DEFENSE +1]. Return to the Entrance Hall and use the last Emblem Piece on the
+door to start an event where the team rides an elevator to a new location.
+
+  After you clear the Great Crest you arrive in the High Tower. Hit the blue
+switch and make a mad dash to the opposite end of the area. Use the Bouncy Block
+to get over the first wall and then destroy the numerous Bug Blocks to clear the
+next wall. Use a Donald Thundaga to reach the Prize Block that the red switch is
+on to complete the time trial. Drop down and approach the large wall that was
+dropped down when you finished the time trial to start a System Area. Run back
+to where you started and view the door on the ledge (top right of the curve on
+the map) to enter the System Area.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | D-Blizzara            | 1100                   |
+               | Command Ring          | 900                    |
+               | HP +2                 | 500                    |
+               | Strength +1           | 500                    |
+               | Magic +1              | 500                    |
+               | Defense +1            | 500                    |
+               | Fire Resistance +3    | 1100                   |
+               | Magnera               | 300                    |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x4.0 | Use a Finisher                                                |
+|-------|------|---------------------------------------------------------------|
+|   2   | x5.0 | Kill 29 Heartless                                             |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Head back down to where you started the System Area and save, then proceed
+through the door. After a long sequence of events Sora gets the Keyblade back
+and follows Pete into the Keyhole where they battle.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Pete                                                                  |
+|-----------------------------------------------------------------------------|
+|  Pete has a wide array of attacks but not all of them are particularly      |
+| damaging. He can roll that inflict Silence, summon Damage Blocks, and uses  |
+| miniature explosives around the screen in addition to his normal combo. Get |
+| in his face and let him have it with some of your high damage commands to   |
+| quickly force Pete into round 2.                                            |
+|                                                                             |
+|  Pete will start off by summoning Thunder, you can tell where it is going by|
+| the yellow circle that is following you. Pete will use the same attacks to  |
+| include this new Thunder attack. Again, get up close and pummel Pete into   |
+| submission.                                                                 |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  After beating Pete he will bring Riku out who isn't fighting under his own
+power.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Riku                                                                  |
+|-----------------------------------------------------------------------------|
+|  Riku is fairly weak in the first round. A good combo or command might be   |
+| sufficient to take him down. He uses a rising slash and sliding dash mainly |
+| in conjunction with his normal attacks. Round 2 kicks off once you drain his|
+| HP and Riku will use a new dive attack that shoots Damage Blocks out. The   |
+| third and final round starts after round 2 is completed. Riku uses a new    |
+| attack where he warps around and dashes at Sora through the air. You can't  |
+| hurt Riku during this time so dodge until it's over. Keep the attack to win |
+| this round.                                                                 |
+|-----------------------------------------------------------------------------|
+|                                    RANK                                     |
+|-----------------------------------------------------------------------------|
+| S-Rank        | 40,000+ points                                              |
+| A-Rank        | 35,000-39,999 points                                        |
+| B-Rank        | 30,000-34,999 points                                        |
+| C-Rank        | 29,999 points and below                                     |
+|-----------------------------------------------------------------------------|
+|                                   PRIZES                                    |
+|-----------------------------------------------------------------------------|
+| C-Rank Item   | Potion                                                      |
+| B-Rank Item   | Cura                                                        |
+| A-Rank Item   | Strike Raid                                                 |
+| S-Rank Item   | Muscle Strike                                               |
+| Keyblade      | Oblivion                                                    |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  After another series of events Sora will end up inside Riku's Data.
+  ___ ___ 
+ |   Y   |
+ |.  1   |
+ |.  _   |
+ |:  |   |
+ |::.|:. |ollow Bastion - Riku's Data                                [04.07.00]
+-`--- ---'---------------------------------------------------------------------
+===============================================================================
+
+  Sora starts off stripped of his powers. The Matrix Power meter in the top left
+displays how much you need to get back. Use the Save Point and the Moogle Shop
+before going any where.
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+|                     HOLLOW BASTION - RIKU'S DATA SHOP                        |
+|------------------------------------------------------------------------------|
+| Rising Strike..................................................... 400 Munny |
+| Quick Blitz....................................................... 400 Munny |
+| Fire Edge........................................................ 1800 Munny |
+| Blizzard Edge.................................................... 1800 Munny |
+| Thunder Edge..................................................... 1800 Munny |
+| Aero Edge........................................................ 1800 Munny |
+| Sliding Dash...................................................... 400 Munny |
+| Heat Dash........................................................ 1800 Munny |
+| Ice Dash......................................................... 1800 Munny |
+| Spark Dash....................................................... 1800 Munny |
+| Wind Dash........................................................ 1800 Munny |
+| Round Blitz....................................................... 400 Munny |
+| Fire Blast....................................................... 1800 Munny |
+| Blizzard Blast................................................... 1800 Munny |
+| Thunder Blast.................................................... 1800 Munny |
+| Aero Blast....................................................... 1800 Munny |
+| Sliding Rush...................................................... 400 Munny |
+| Fire Buster...................................................... 1800 Munny |
+| Blizzard Buster.................................................. 1800 Munny |
+| Thunder Buster................................................... 1800 Munny |
+| Aero Buster...................................................... 1800 Munny |
+| Aerial Slam....................................................... 400 Munny |
+| Fire Slam........................................................ 1800 Munny |
+| Blizzard Slam.................................................... 1800 Munny |
+| Thunder Slam..................................................... 1800 Munny |
+| Aero Slam........................................................ 1800 Munny |
+| Land Crash........................................................ 400 Munny |
+| Heat Dive........................................................ 1800 Munny |
+| Ice Dive......................................................... 1800 Munny |
+| Spark Dive....................................................... 1800 Munny |
+| Wind Dive........................................................ 1800 Munny |
+| Strike Raid....................................................... 400 Munny |
+| Fire Raid........................................................ 1800 Munny |
+| Blizzard Raid.................................................... 1800 Munny |
+| Thunder Raid..................................................... 1800 Munny |
+| Aero Raid........................................................ 1800 Munny |
+| Aerial Sweep...................................................... 400 Munny |
+| Heat Sweep....................................................... 1800 Munny |
+| Ice Sweep........................................................ 1800 Munny |
+| Spark Sweep...................................................... 1800 Munny |
+| Wind Sweep....................................................... 1800 Munny |
+| Air Spiral........................................................ 400 Munny |
+| Heat Storm....................................................... 1800 Munny |
+| Ice Storm........................................................ 1800 Munny |
+| Spark Storm...................................................... 1800 Munny |
+| Wind Storm....................................................... 1800 Munny |
+| Rising Rush..................................................... 10000 Munny |
+| Muscle Strike................................................... 12000 Munny |
+| Fire.............................................................. 800 Munny |
+| Fira............................................................. 1600 Munny |
+| Blizzard.......................................................... 800 Munny |
+| Blizzara......................................................... 1600 Munny |
+| Thunder........................................................... 800 Munny |
+| Thundara......................................................... 1600 Munny |
+| Aero.............................................................. 800 Munny |
+| Cure.............................................................. 800 Munny |
+| Cura............................................................. 2400 Munny |
+| Magnet............................................................ 800 Munny |
+| Magnera.......................................................... 2400 Munny |
+| Slow.............................................................. 800 Munny |
+| Stop.............................................................. 800 Munny |
+| Confuse........................................................... 800 Munny |
+| Potion............................................................ 120 Munny |
+| Hi-Potion......................................................... 320 Munny |
+| Ether............................................................. 200 Munny |
+| Hi-Ether.......................................................... 640 Munny |
+| Panacea........................................................... 160 Munny |
+| Elixir............................................................ 800 Munny |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Head through the door to enter the Corrupted Destiny Islands. Start off by
+connecting the Pair Blocks, one on the shed and one on the dock, for a {+3%
+MATRIX POWER]. Destroy the Prize Block near the shed for [+3% MATRIX POWER] and
+then the Prize Block near the Secret Entrance for another [+3% MATRIX POWER].
+Head north of the docks to find a mimic Prize Block for [+3% MATRIX POWER] and
+a Rare Prize Block with a [DEBUG DEVICE: R]. Climb the nearby ladder and get to
+another Prize Block with [+3% MATRIX POWER]. Cross the bridge connecting to the
+island where Riku normally sits and defeat two mimic Prize Blocks for [+6%
+MATRIX POWER] to max out at 20%. Enter the System Area on the island and beat
+it. To win the second challenge simply stay back and fire away with magic until
+the snake is defeated.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | CMOS Necklace         | 2300                   |
+               | Folding Fan           | 1500                   |
+               | HP +2                 | 1000                   |
+               | Strength +1           | 1000                   |
+               | Magic +1              | 1000                   |
+               | Triple Burst          | 700                    |
+               | Land Crash            | 700                    |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x4.0 | Do not use Healing commands                                   |
+|-------|------|---------------------------------------------------------------|
+|   2   | x6.0 | Take damage less than 15 times                                |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+  After winning the System Area you are taken back to Riku's Data. Enter the new
+door to go to a Corrupted Traverse Town. Use the Bouncy Block on the west side
+to reach the second tier and jump on the moving Metal Blocks. Ride it over to
+the Pair Blocks for an easy [STRENGTH +3]. Ride the Metal Blocks again to the
+platform with a Prize Block and Rare Prize Block for [+3% MATRIX POWER] and a
+[DEBUG DEVICE: R]. On the left of the Accessory Shop is a Prize Block with a
+[+3% MATRIX POWER]. Go through the door to reach the Second District instead of
+the Third. Destroy the nearby Prize Block for a [+3% MATRIX POWER] and make
+your way around towards the real First District door. Climb the Metal Blocks to
+reach the roof and break the Rare Prize Block for an [AEROGA].
+
+  Jump from here across to a Prize Block with [+3% MATRIX POWER]. Run over to
+the Pair Block and smack it down then run across the Ghost Blocks to reach the
+Prize Block and another [+3% MATRIX POWER]. Hop down and link up the Pair Blocks
+for [FIRE RESISTANCE +4]. In front of the First District door is a Prize Block
+with [+3% MATRIX POWER] and down the left side near the Hotels is a mimic Prize
+Block that yields the last [+3% MATRIX POWER]. Enter the First District door
+and use the Bouncy Blocks to reach the roof of the Accessory Shop where a Rare
+Prize Block awaits with an [HP +6]. Another Bouncy Block leads to a different
+roof with a Rare Prize Block containing an [AERO RESISTANCE +4]. Enter the
+System Area and clear all three floors. To paralyze enemies use Thunder, to
+clear the second floor challenge use Ethers and a Keyblade that can reach MAX,
+ie; a Keyblade that is already max level.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Spinner Saw           | 3600                   |
+               | Waistband             | 3000                   |
+               | Debug Device: R       | 2400                   |
+               | Defense +2            | 3000                   |
+               | Lucky Strike          | 2400                   |
+               | Fire +4               | 3000                   |
+               | Firaga Burst          | 2400                   |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x4.0 | Paralyze 5 enemies                                            |
+|-------|------|---------------------------------------------------------------|
+|   2   | x4.0 | Defeat 5 enemies while the Clock Gauge is at MAX              |
+|-------|------|---------------------------------------------------------------|
+|   3   | x5.0 | Miss with attacks less than 10 times                          |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  After clearing here you return to Riku's Data. Enter the Corrupted Wonderland
+next and go north to enter the Lotus Forest. Jump to the top left corner and
+hit the blue Pair Block down. Go one tier lower and break the Prize Block for
+a [+3% MATRIX POWER] and defeat the mimic Prize Block at the bottom for another.
+Match up the Pair Blocks on the bottom floor, purple yields a [CURAGA]. Break
+two more sets of Prize Blocks at the southern end for [+6% MATRIX POWER] then
+jump the north east corner for a Rare Prize Block containing [BLIZZARD
+RESISTANCE]. The Rare Prize Block in the southwest corner has a [THUNDAGA] and
+the southeast corner one has [AERO +3]. The Prize Block in the middle of the
+room has [+3% MATRIX POWER]. Defeat two more mimic Prize Blocks for [+6% MATRIX
+POWER] then enter the System Area. To beat the second floor challenge use an
+Ether.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Payback Ring          | 1900                   |
+               | Red Rose              | 1600                   |
+               | Debug Device: R       | 800                    |
+               | Blizzard +4           | 800                    |
+               | Cure +4               | 800                    |
+               | Blizzard Resistance +3| 500                    |
+               | Rising Rush           | 500                    |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x4.0 | Take damage less than 8 times                                 |
+|-------|------|---------------------------------------------------------------|
+|   2   | x5.0 | Use a Finisher                                                |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  After clearing this world you are taken back to Riku's Data, head for the
+Corrupted Agrabah now. Use the Bouncy Block to reach the Rare Prize Block with
+a [SPARK DIVE]. Destroy the Prize Block to get a [+3% MATRIX POWER] and head
+around the corner. Break the Prize Block nearby for more [+3% MATRIX POWER] and
+bust the Explosive Blocks. Head up and into an alcove where Bug Blocks surround
+a Rare Prize Block holding a [THUNDER RESISTANCE +3]. Where the boulders spawn
+you will find another Prize Block and [+3% MATRIX POWER]. Around the corner from
+here use the Bouncy Block and Ghost Blocks to reach a Prize Block with [+3%
+MATRIX POWER]. Break through some Exploding Blocks to reach a Rare Prize Block
+and the [STUN IMPACT] command.
+
+  Grab the [+3% MATRIX POWER] from the Prize Block in the corner and head out.
+Destroy the Prize Block in the top right corner for [+3% MATRIX POWER]. On the
+left side use the Bouncy Block to reach the Ghost Blocks and destroy the Prize
+Block for {+2% MATRIX POWER]. The Rare Prize Block nearby holds a [TRIPLE BURST]
+so grab it and continue up to another Rare Prize Block for a [TORNADO TRACER].
+Jump over to the large area of Bouncy Blocks and then over to the System Area.
+All the challenges shouldn't be anything you don't know how to conquer at this
+point.
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Immortal Charm        | 5100                   |
+               | Crystal Earrings      | 4000                   |
+               | Debug Device: R       | 2700                   |
+               | HP +4                 | 2700                   |
+               | Strength +2           | 2700                   |
+               | Magic +2              | 2700                   |
+               | Thunder Tracer        | 1000                   |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x4.0 | Use two Finishers                                             |
+|-------|------|---------------------------------------------------------------|
+|   2   | x5.5 | Complete in under 60 seconds                                  |
+|-------|------|---------------------------------------------------------------|
+|   3   | x5.0 | Destroy 30 Blocks                                             |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  A fifth door opens leading to the Corrupted Hollow Bastion.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Corrupted Riku                                                        |
+|-----------------------------------------------------------------------------|
+|  Riku fights exactly like he did last time except for a slight bit more     |
+| speed. His dive attacks releases Damage Blocks and he still uses the shield |
+| which can limit your combos. Keep on the offensive and heal if you ever take|
+| too much damage.                                                            |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Head in to the last area to make the escape. It is a side scrolling vendetta
+where you lose health if you fall. Use the blue blocks as switches to create
+new Metal Blocks. Near the end of the first stage you will ride snakes of Metal
+Blocks to reach the to left corner. Stage 2 consists of a boss fight against
+Maleficent.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Dragon Maleficent                                                     |
+|-----------------------------------------------------------------------------|
+|  Maleficent will arch back and slam down creating a green shockwave, jump   |
+| over and begin your assault. With enough damage she will wain down and be   |
+| open for easy combination. She will also reign down green fireballs from the|
+| sky which need to be Dodge Rolled away from. Occasionally an ability will   |
+| appear underneath her, be sure to grab it to utilize easy damage.           |
+|-----------------------------------------------------------------------------|
+|                                    RANK                                     |
+|-----------------------------------------------------------------------------|
+| S-Rank        |                                                             |
+| A-Rank        |                                                             |
+| B-Rank        |                                                             |
+| C-Rank        |                                                             |
+|-----------------------------------------------------------------------------|
+|                                   PRIZES                                    |
+|-----------------------------------------------------------------------------|
+| C-Rank Item   |                                                             |
+| B-Rank Item   | Chain Rave                                                  |
+| A-Rank Item   | Elixir                                                      |
+| S-Rank Item   | Blizzaga                                                    |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  After a long series of events you return to the Grand Hall. Save and head up
+through the door. You are in another mini-game where Sora runs forward and
+shoots beams from the Keyblade.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Darkside                                                              |
+|-----------------------------------------------------------------------------|
+|  Darkside uses the same style of attacking as he always has with the one    |
+| difference being his attacks are now elemental. His left hand smash causes  |
+| ice spikes to rise from the ground and his right hand smash summons three   |
+| fireballs that will crash in on you when you attack. Darkside can also hit  |
+| you with his hand through the floor when he disappears. Dodge this attack   |
+| and you can counter for a few hits. The battle shouldn't take too long or be|
+| too incredibly challenging.                                                 |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Immediately after defeating Darkside it takes on a new form in a Heartless
+Sora.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Heartless Sora                                                        |
+|-----------------------------------------------------------------------------|
+|  Heartless Sora has low HP and low defense but high attack and wide array of|
+| them. His attacks consist of mainly throwing all types of Keyblades at you  |
+| whether they be homing or a number in multiple directions. Stay on your toes|
+| for Sliding Dash attacks because you can dodge these and counter for easy   |
+| damage.                                                                     |
+|                                                                             |
+|  Round 2 kicks off and with clones. Defeat them and Heartless Sora will use |
+| a devastating barrage of Keyblades while being invulnerable. Dodge these    |
+| and counter when he is vulnerable again by stepping into the yellow circle. |
+| This gives Sora an attack that turns Heartless Sora into a Shadow. Defeat   |
+| this shadow to end the fight.                                               |
+|-----------------------------------------------------------------------------|
+|                                   PRIZES                                    |
+|-----------------------------------------------------------------------------|
+| Item          | Device Debug: Y                                             |
+| Keyblade      | Zero/One                                                    |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  After an extremely long chain of events Sora winds up in Castle Oblivion.
+  _______ 
+ |   _   |
+ |.  1___|
+ |.  |___ 
+ |:  1   |
+ |::.. . |astle Oblivion                                             [04.08.00]
+-`--- ---'---------------------------------------------------------------------
+===============================================================================
+
+  Check the Moogle Shop and save your game.
+
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+|                     HOLLOW BASTION - RIKU'S DATA SHOP                        |
+|------------------------------------------------------------------------------|
+| Rising Strike..................................................... 400 Munny |
+| Quick Blitz....................................................... 400 Munny |
+| Fire Edge........................................................ 1800 Munny |
+| Blizzard Edge.................................................... 1800 Munny |
+| Thunder Edge..................................................... 1800 Munny |
+| Aero Edge........................................................ 1800 Munny |
+| Sliding Dash...................................................... 400 Munny |
+| Heat Dash........................................................ 1800 Munny |
+| Ice Dash......................................................... 1800 Munny |
+| Spark Dash....................................................... 1800 Munny |
+| Wind Dash........................................................ 1800 Munny |
+| Round Blitz....................................................... 400 Munny |
+| Fire Blast....................................................... 1800 Munny |
+| Blizzard Blast................................................... 1800 Munny |
+| Thunder Blast.................................................... 1800 Munny |
+| Aero Blast....................................................... 1800 Munny |
+| Sliding Rush...................................................... 400 Munny |
+| Fire Buster...................................................... 1800 Munny |
+| Blizzard Buster.................................................. 1800 Munny |
+| Thunder Buster................................................... 1800 Munny |
+| Aero Buster...................................................... 1800 Munny |
+| Aerial Slam....................................................... 400 Munny |
+| Fire Slam........................................................ 1800 Munny |
+| Blizzard Slam.................................................... 1800 Munny |
+| Thunder Slam..................................................... 1800 Munny |
+| Aero Slam........................................................ 1800 Munny |
+| Land Crash........................................................ 400 Munny |
+| Heat Dive........................................................ 1800 Munny |
+| Ice Dive......................................................... 1800 Munny |
+| Spark Dive....................................................... 1800 Munny |
+| Wind Dive........................................................ 1800 Munny |
+| Strike Raid....................................................... 400 Munny |
+| Fire Raid........................................................ 1800 Munny |
+| Blizzard Raid.................................................... 1800 Munny |
+| Thunder Raid..................................................... 1800 Munny |
+| Aero Raid........................................................ 1800 Munny |
+| Aerial Sweep...................................................... 400 Munny |
+| Heat Sweep....................................................... 1800 Munny |
+| Ice Sweep........................................................ 1800 Munny |
+| Spark Sweep...................................................... 1800 Munny |
+| Wind Sweep....................................................... 1800 Munny |
+| Air Spiral........................................................ 400 Munny |
+| Heat Storm....................................................... 1800 Munny |
+| Ice Storm........................................................ 1800 Munny |
+| Spark Storm...................................................... 1800 Munny |
+| Wind Storm....................................................... 1800 Munny |
+| Chain Rave...................................................... 11000 Munny |
+| Rising Rush..................................................... 10000 Munny |
+| Muscle Strike................................................... 12000 Munny |
+| Stun Impact..................................................... 11000 Munny |
+| Fire.............................................................. 800 Munny |
+| Fira............................................................. 1600 Munny |
+| Blizzard.......................................................... 800 Munny |
+| Blizzara......................................................... 1600 Munny |
+| Thunder........................................................... 800 Munny |
+| Thundara......................................................... 1600 Munny |
+| Aero.............................................................. 800 Munny |
+| Cure.............................................................. 800 Munny |
+| Cura............................................................. 2400 Munny |
+| Magnet............................................................ 800 Munny |
+| Magnera.......................................................... 2400 Munny |
+| Slow.............................................................. 800 Munny |
+| Stop.............................................................. 800 Munny |
+| Confuse........................................................... 800 Munny |
+| Potion............................................................ 120 Munny |
+| Hi-Potion......................................................... 320 Munny |
+| Ether............................................................. 200 Munny |
+| Hi-Ether.......................................................... 640 Munny |
+| Panacea........................................................... 160 Munny |
+| Elixir............................................................ 800 Munny |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Each world in Castle Oblivion has three different endings, either the Normal
+Ending, Alternate Ending, or Extra Ending. Return to the world until you get
+all three endings in each of them for a special reward!
+
+  Head through the door and use the Destiny Islands card. Talk to Selphie and
+destroy the Bug Blocks. Talk to Wakka and jump up top to the Rare Prize Block
+with [HP +8]. Fight Tidus then talk to the Cloaked Man to receive the [W1 NORMAL
+CARD]. Sora gains cards to the rest of the worlds, return to Destiny Islands.
+In the top right corner is a Rare Prize Block with [STRENGTH +4]. Destroy the
+Bug Blocks near here to reveal a green star, defeat the shadows and move to the
+next star. Defeat more Shadows and after some events you gain the [W1 EXTRA
+CARD]. Return to Destiny Islands once more and choose the bottom option when
+talking to Selphie. Destroy all the blocks and talk to Wakka then choose the
+bottom option. Tidus appears trapped in Bug Blocks, destroy them to receive the
+[W1 ALTERNATE CARD].
+
+  Head to Traverse town this time. Jump up to the northern end and break the
+Rare Prize Block for a [DEFENSE +4]. At the southern end match up the Pair
+Blocks and break it for a [MAGIC +3]. In the top right corner is a Heartless,
+defeat the group and talk to Huey. Head to the west side and talk to Dewey and
+send him back to Cid. Jump up in the middle and bust down the Bug Blocks to
+reveal Louie and send him back to Cid. Head back towards Cid and defeat the
+Heartless. Talk to Cid to receive the [W2 NORMAL CARD]. Return to Traverse Town
+and save the ducklings in the order Huey, Louie, then Dewey to receive the [W2
+ALTERNATE CARD]. Go back once more and save the ducklings in the order Louie,
+Dewey, then Huey to get the [W2 EXTRA CARD].
+
+  Next up is Wonderland. Destroy the Bug Block in the corner behind Alice to
+and examine the corner to find the Cheshire Cat. The answer to his riddle is
+the letter "D." Talk to Alice and tell her what her name is, either "Alice" or
+"The Queen of Hearts". In the next room talk to the Heart on the left and
+deliver the Potion to the Spade or alternatively give it to the other Heart.
+Speak with the White Rabbit and he will take off dropping his watch, either
+run in to the green star or avoid it and talk to the White Rabbit again. If
+you did everything correctly, ie; solved the riddle, told Alice her real name,
+made the delivery properly, and didn't touch the watch you get the [W3 ALTERNATE
+CARD]. If you did everything wrong, ie; gave up on the riddle, lied to Alice,
+gave the delivery to the other Heart, and picked up the watch you get the [W3
+EXTRA CARD]. If you did one to three things wrong then you get the [W3 NORMAL
+CARD], return to the world and get each card. Don't miss the Rare Prize Block
+in a corner for the [THUNDER RESISTANCE +4].
+
+  The next world is Olympus Coliseum. Break the Rare Prize Block in the bottom
+left corner for a [THUNDER +4], the one in the top right nets [AERO +4]. Talk
+with Hercules to battle a bunch of Heartless. Next, speak with Cloud and beat
+the Heartless that he asks you to defeat. Then defeat the Heartless that moves
+first in the second trial or you will take a 7 second time penalty. After this
+round talk to Hades and beat the Heartless as fast as possible. If you get more
+than 20 on Hercules' challenge, pass the challenge from Cloud, but fail to
+defeat the Heartless in Hades round in under one minute you get the [W4 NORMAL
+CARD]. If you fail the first two challenges you get the [W4 ALTERNATE CARD]. If
+you pass all three you get the [W4 EXTRA CARD].
+
+  Head off to Agrabah next. Iago is hidden in one of the Prize Blocks and you
+have 90 seconds in which to find him. Two of the Prize Blocks are actually Rare
+Prize Blocks with a [MAGIC +4] and [DEFENSE +3]. If you catch Iago with more
+than one minute left on the clock you get the [W5 EXTRA CARD]. If you break all
+the blocks and still catch Iago you get the [W5 ALTERNATE CARD]. If you catch
+Iago with less than a minute to go you get the [W5 NORMAL CARD].
+
+  The last world to go to is Hollow Bastion. Hit the switch in the top left
+then the one in the bottom right to open the door. Do the same thing in the
+next room except you have to defeat the Heartless in order to reach the second
+switch. The next room is much the same, destroy the blocks that heed your path
+in order to make the timer. The next room is a boss fight with Pete. The final
+room is a challenge with Maleficent to reach the other side as fast as possible.
+The first Rare Prize Block holds a [MAGNEGA] and the second a [SHOCK FALL]. If
+you beat Pete in under 30 seconds and reach Maleficent in under one minute you
+receive the [W6 EXTRA CARD]. If you take longer than the times on one but not
+the other you receive the [W6 NORMAL CARD]. If you take longer than one minute
+on Pete and longer than two minutes to reach Maleficent you reach the [W6
+ALTERNATE CARD]. Upon reaching the door after collecting every card Leon and
+Yuffie will give you a [DEBUG DEVICE: Y] and a [HEAT SINK BELT].
+
+  After completing all the worlds you will enter a boss battle against the
+figure.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Roxas                                                                 |
+|-----------------------------------------------------------------------------|
+|  Roxas is pretty quick so get used to Dodge Rolling. His attacks include a  |
+| standard combo, a dash command, a rising slash, and an attack that unleashes|
+| numerous pillars of light in multiple directions. Most of them are easy to  |
+| dodge so work on getting the timing down and getting combos of your own in. |
+| Keep dodging and attack inbetween Roxas' attacks to defeat him.             |
+|-----------------------------------------------------------------------------|
+|                                   PRIZES                                    |
+|-----------------------------------------------------------------------------|
+| Keyblade      | Oathkeeper                                                  |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  After the battle use the card labeled "???" to reach the ending of the game.
+The events will roll through and you will be given a chance to save your game,
+do so because there is still a lot to do and most things can't be done until
+you complete the game!
+ _____________________________________________________________________________
+/=============================================================================\
+|                                System Areas                       [05.00.00]|
+\=============================================================================/
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  This section of the guide covers all the System Areas that aren't in the
+normal play through the game.
+
+-------------------------------------------------------------------------------
+DESTINY ISLANDS                                                      [05.01.00]
+-------------------------------------------------------------------------------
+
+Location: Top of the Big Tree
+Unlock: Clear Wonderland
+
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Debug Device: R       | 8000                   |
+               | Armor Bangle          | 10000                  |
+               | Life Preserver        | 8000                   |
+               | HP +2                 | 1000                   |
+               | Strength +1           | 1000                   |
+               | Defense +1            | 1000                   |
+               | Fira                  | 1000                   |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x4.0 | Take damage less than 10 times                                |
+|-------|------|---------------------------------------------------------------|
+|   2   | x6.0 | Defeat 36 Heartless                                           |
+|-------|------|---------------------------------------------------------------|
+|   3   | x8.0 | Take damage less than 8 times                                 |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Location: Secret Place, Door
+Unlock: Clear Hollow Bastion (First time)
+
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Meteor Rain           | 56000                  |
+               | Jump Rope             | 18000                  |
+               | HP +2                 | 3000                   |
+               | Strength +1           | 3000                   |
+               | Magic +1              | 3000                   |
+               | Slow                  | 1000                   |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x4.5 | Complete in under 180 seconds                                 |
+|-------|------|---------------------------------------------------------------|
+|   2   | x5.0 | Use a Finisher within 60 seconds                              |
+|-------|------|---------------------------------------------------------------|
+|   3   | x6.0 | Complete in under 100 seconds                                 |
+|-------|------|---------------------------------------------------------------|
+|   4   | x6.0 | Use a Finisher 3 times                                        |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+-------------------------------------------------------------------------------
+TRAVERSE TOWN                                                        [05.02.00]
+-------------------------------------------------------------------------------
+Location: Third District, Fire Door
+Unlock: Clear Wonderland
+
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Zip Watch             | 7000                   |
+               | Wrench                | 7000                   |
+               | Debug Device: R       | 4000                   |
+               | HP +2                 | 1000                   |
+               | Strength +1           | 1000                   |
+               | Magic +1              | 1000                   |
+               | Air Spiral            | 1000                   |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x4.0 | Complete in under 120 seconds                                 |
+|-------|------|---------------------------------------------------------------|
+|   2   | x6.5 | Use a Finisher within 80 seconds                              |
+|-------|------|---------------------------------------------------------------|
+|   3   | x8.0 | Complete in under 80 seconds                                  |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Location: Alleyway, Red Hotel Door
+Unlock: Finish the game
+
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Lionheart             | 348000                 |
+               | Goggles               | 129000                 |
+               | Fire +1               | 29000                  |
+               | Blizzard +1           | 29000                  |
+               | Thunder +1            | 29000                  |
+               | Aeroga                | 9000                   |
+               | Magnega               | 9000                   |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x5.0 | Ignite 20 Heartless                                           |
+|-------|------|---------------------------------------------------------------|
+|   2   | x6.5 | Jump less than 20 times                                       |
+|-------|------|---------------------------------------------------------------|
+|   3   | x6.5 | Complete in under 200 seconds                                 |
+|-------|------|---------------------------------------------------------------|
+|   4   | x6.5 | Do not use Healing commands                                   |
+|-------|------|---------------------------------------------------------------|
+|   5   | x8.0 | Miss with attacks less than 5 times                           |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-------------------------------------------------------------------------------
+WONDERLAND                                                           [05.03.00]
+-------------------------------------------------------------------------------
+
+Location: Lotus Forest, North Central Lilypad
+Unlock: Clear Wonderland
+
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Half-moon Armlet      | 13900                  |
+               | Glass Vial            | 8300                   |
+               | Thunder +1            | 2700                   |
+               | Aero +1               | 2700                   |
+               | Cure +1               | 2700                   |
+               | Stop                  | 2000                   |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x4.0 | Miss with attacks less than 10 times                          |
+|-------|------|---------------------------------------------------------------|
+|   2   | x5.5 | Defeat 3 Heartless while Clock Gauge is at MAX                |
+|-------|------|---------------------------------------------------------------|
+|   3   | x7.5 | Use a Finisher within 50 seconds                              |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-------------------------------------------------------------------------------
+OLYMPUS COLISEUM                                                     [05.04.00]
+-------------------------------------------------------------------------------
+
+Location: Vestibule, Northern Passageway
+Unlock: Clear Hollow Bastion (First time)
+
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | D-Thundara            | 74000                  |
+               | Barbell               | 37000                  |
+               | Strike Armlet         | 7000                   |
+               | HP +2                 | 7000                   |
+               | Strength +1           | 7000                   |
+               | Magnet                | 1000                   |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x4.0 | Counter 5 times                                               |
+|-------|------|---------------------------------------------------------------|
+|   2   | x5.5 | Complete in under 45 seconds                                  |
+|-------|------|---------------------------------------------------------------|
+|   3   | x6.5 | Gain 1200 SP                                                  |
+|-------|------|---------------------------------------------------------------|
+|   4   | x7.0 | Complete during night time                                    |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-------------------------------------------------------------------------------
+AGRABAH                                                              [05.05.00]
+-------------------------------------------------------------------------------
+
+Location: Palace Gates, Northwest Corner
+Unlock: Clear Hollow Bastion (First time)
+
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Counter Ring          | 62000                  |
+               | Silver Ring           | 47000                  |
+               | Fire +3               | 31000                  |
+               | Blizzard +3           | 31000                  |
+               | Cure +1               | 25000                  |
+               | Blizzaga              | 6000                   |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x5.0 | Take damage less than 10 times                                |
+|-------|------|---------------------------------------------------------------|
+|   2   | x6.5 | Take damage less than 10 times                                |
+|-------|------|---------------------------------------------------------------|
+|   3   | x7.5 | Take damage less than 8 times                                 |
+|-------|------|---------------------------------------------------------------|
+|   4   | x8.5 | Take damage less than 5 times                                 |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Location: Cave of Wonders Gauntlet, Last island
+Unlock: Complete the game
+
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Zone of Ruin          | 620000                 |
+               | Ruby Hairpin          | 310000                 |
+               | Defense +1            | 103000                 |
+               | Aero +1               | 103000                 |
+               | Curaga                | 20000                  |
+               | Triple Blizzaga       | 20000                  |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x3.5 | Counter 20 times                                              |
+|-------|------|---------------------------------------------------------------|
+|   2   | x4.0 | Complete in under 45 seconds                                  |
+|-------|------|---------------------------------------------------------------|
+|   3   | x4.0 | Use commands other than Magic less than 9 times               |
+|-------|------|---------------------------------------------------------------|
+|   4   | x4.5 | Defeat 5 Heartless in a single hit each                       |
+|-------|------|---------------------------------------------------------------|
+|   5   | x4.5 | Collect 10 items                                              |
+|-------|------|---------------------------------------------------------------|
+|   6   | x5.0 | Deal 10 critical hits                                         |
+|-------|------|---------------------------------------------------------------|
+|   7   | x6.0 | Take damage less than 5 times                                 |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-------------------------------------------------------------------------------
+HOLLOW BASTION                                                       [05.06.00]
+-------------------------------------------------------------------------------
+
+Location: Entrance Hall Upper Level, Middle
+Unlock: Complete the game
+
+                ________________________________________________
+               |------------------------------------------------|
+               |                    REWARD                      |
+               |------------------------------------------------|
+               |         ITEM          |     SPECIAL POINTS     |
+               |=======================|========================|
+               | Ultima Weapon         | 1500000                |
+               | Debug Device: Y       | 102000                 |
+               | HP +4                 | 51000                  |
+               | Strength +2           | 51000                  |
+               | Magic +2              | 51000                  |
+               | Defense +2            | 51000                  |
+               | Lucky Strike          | 51000                  |
+               | Fire +2               | 51000                  |
+               | Blizzard +2           | 51000                  |
+               | Thunder +2            | 51000                  |
+               | Aero +2               | 51000                  |
+               | Cure +2               | 51000                  |
+               | Fire Resistance +2    | 51000                  |
+               | Blizzard Resistance +2| 51000                  |
+               | Thunder Resistance +2 | 51000                  |
+               | Aero Resistance +2    | 51000                  |
+               | Icicle Mine           | 40000                  |
+               | Flame Fall            | 40000                  |
+               |------------------------------------------------|
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+| FLOOR | RATE |                             TRIAL                             |
+|=======|======|===============================================================|
+|   1   | x1.5 | Use a Megalixir                                               |
+|-------|------|---------------------------------------------------------------|
+|   2   | x1.5 | Complete in under 100 seconds                                 |
+|-------|------|---------------------------------------------------------------|
+|   3   | x1.5 | Make 15 Heartless Spin                                        |
+|-------|------|---------------------------------------------------------------|
+|   4   | x2.5 | Complete in under 60 seconds                                  |
+|-------|------|---------------------------------------------------------------|
+|   5   | x2.0 | Use the Attack command less than 10 times                     |
+|-------|------|---------------------------------------------------------------|
+|   6   | x3.5 | Miss with attacks less than 8 times                           |
+|-------|------|---------------------------------------------------------------|
+|   7   | x2.0 | Do not use Healing commands                                   |
+|-------|------|---------------------------------------------------------------|
+|   8   | x3.5 | Take damage less than 5 times                                 |
+|-------|------|---------------------------------------------------------------|
+|   9   | x3.0 | Take damage less than 8 times                                 |
+|-------|------|---------------------------------------------------------------|
+|  10   | x2.0 | Defeat 10 Heartless when the Clock Gauge is at MAX            |
+|-------|------|---------------------------------------------------------------|
+|  11   | x3.0 | Complete in under 120 seconds                                 |
+|-------|------|---------------------------------------------------------------|
+|  12   | x3.0 | Defeat an Eliminator                                          |
+|-------|------|---------------------------------------------------------------|
+|  13   | x4.5 | Use a Finisher within 60 seconds                              |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ _____________________________________________________________________________
+/=============================================================================\
+|                             Olympus Coliseum                      [06.00.00]|
+\=============================================================================/
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+  If you head back to the Olympus Coliseum after clearing it and replay the
+story mode you will notice you get the option to play 5 or 15 Layers. This go
+around choose 15 and follow the walkthrough for the first 5 layers. After you
+beat Hades a Warp Point pops up letting you progress deeper. Once you clear the
+15 Layer Challenge you can choose 30 Layers once you come back. After beating
+the boss on the 15th Layer you gain access to the 16th Layer.
+
+-------------------------------------------------------------------------------
+LAYER 06
+-------------------------------------------------------------------------------
+
+  You start off in the bottom left corner of the Layer. Destroy the Bug Blocks
+and the two Heartless groups then proceed right. Here you will find three
+Prize Blocks, numerous Bug Blocks, two groups of Heartless, and the Warp Point
+to Layer 07. Clear everything out and continue up, but don't destroy the Bug
+Blocks. Instead use them to reach the Prize Blocks high above then clear out
+this room. Head left to the final room and clear it out to finish off this
+Layer, head to Layer 07.
+
+-------------------------------------------------------------------------------
+LAYER 07
+-------------------------------------------------------------------------------
+
+  This Layer turns out to be one giant room with tons of creeping Heartless and
+hardly any Bug Blocks to lower their level. Once you do lower the level to one
+their will be numerous Prize Blocks available to you. Amongst them is a Rare
+Prize Block containing a [BLANK CHIP]. Destroy the rest of the Blocks to reveal
+the Warp Point to Layer 08.
+
+-------------------------------------------------------------------------------
+LAYER 08
+-------------------------------------------------------------------------------
+
+  Destroy all the Blocks in the starting area and move right to the next room.
+There are three Heartless here, destroy them to drop the Bug Level down to one
+and destroy the Bug Blocks. Head back to the starting area and go south to find
+two more groups of Heartless. After defeating them you can clear this room and
+head north where only one Heartless lurks. Clear the north room and use the
+Warp Point nearby to reach Layer 09.
+
+-------------------------------------------------------------------------------
+LAYER 09
+-------------------------------------------------------------------------------
+
+  You start off this Layer encased in Metal Blocks so you must defeat at least
+one of the Heartless groups to advance. Move onward to the next area and clear
+it out the jump down going right. In this final area there are numerous Blocks
+and Heartless. The Rare Prize Block contains a [MAGIC +1]; take the Warp Point
+to Layer 10.
+
+-------------------------------------------------------------------------------
+LAYER 10
+-------------------------------------------------------------------------------
+
+  In this Layer you actually get a chance to save before progressing. You start
+at the top left, clear this room and then the one to the right. Make your way
+down clearing out the rooms to each side of you. The room that has the Warp
+Point changes every go around so clear till you find it. You don't have to clear
+every room but the bottom left room has a Rare Prize Block with a [DEFENSE +1]
+inside.
+
+-------------------------------------------------------------------------------
+LAYER 11
+-------------------------------------------------------------------------------
+
+  You get a chance to save here as well before progressing. Destroy the Bug
+Blocks in the way and move on to the next room. There are a few Heartless that
+lurk about and numerous Damage Blocks at the top end. In that top end is the
+Warp Point to Layer 12.
+
+-------------------------------------------------------------------------------
+LAYER 12
+-------------------------------------------------------------------------------
+
+  The starting room has two Heartless groups and a bunch of Damage Blocks in
+the way. Clear the room and move to the next where it's close quarters with a
+lot of Damage Blocks. Clear this room and move on to the last one where you will
+find the Warp Point to Layer 13 and a Rare Prize Block containing a [SPARK
+SWEEP].
+
+-------------------------------------------------------------------------------
+LAYER 13
+-------------------------------------------------------------------------------
+
+  Clear out the initial room and then choose the top room in the next area to
+find the Warp Point. The bottom room holds nothing more than easy points in the
+form of Bug Blocks and Heartless. Move onward to Layer 14 when you finish up.
+
+-------------------------------------------------------------------------------
+LAYER 14
+-------------------------------------------------------------------------------
+
+  You get an opportunity to save before being thrust in to battle in this giant
+room. Clear out all the Heartless groups and the Bug Blocks, then the Rare Prize
+Block to obtain a [HEAT STORM]. Use the Warp Point to move on to Layer 15.
+
+-------------------------------------------------------------------------------
+LAYER 15
+-------------------------------------------------------------------------------
+
+  Use the save point this time as a boss fight is coming up. Proceed through the
+gate and up the steps to find Hades' new pet.
+
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Rock Colossus                                                         |
+|-----------------------------------------------------------------------------|
+|  The Rock Colossus has a lot of HP and decent defense so melee attacks won't|
+| do so well. Fortunately, the Rock Colossus has limited attacks but it's a   |
+| little hard to time the guard. The attacks are a punch to the ground that   |
+| fires waves at the entire party and a stomp. Bring high level commands like |
+| Tornado and Thunder Tracer to utilize Breath of Zeus and Zeus Spear for     |
+| quick, high damage rounds. A Curaga isn't a bad idea incase you are taking  |
+| too long to take down the mammoth.                                          |
+|-----------------------------------------------------------------------------|
+|                                   PRIZES                                    |
+|-----------------------------------------------------------------------------|
+| Item          | Wristbands                                                  |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+-------------------------------------------------------------------------------
+LAYER 16
+-------------------------------------------------------------------------------
+
+  In order to reach Layer 16 you must first complete the round of 15 then choose
+30 Layer Challenge. You start in the top right area with a lot of Bug Blocks.
+Head left after clearing this room to find a Rare Prize Block containing a
+[BLIZZARD SLAM]. Head south into the next room to find the Warp Point. Go right
+to find the last room and earn some extra points.
+
+-------------------------------------------------------------------------------
+LAYER 17
+-------------------------------------------------------------------------------
+
+  You start out between two rooms. Clear the one you are in then move left to
+clear the second room. The room on the far right has the Warp Point to Layer 18.
+
+-------------------------------------------------------------------------------
+LAYER 18
+-------------------------------------------------------------------------------
+
+  This is another giant room where you must defeat all the Heartless and Blocks
+to get the rewards. The rewards is the numerous Prize Blocks that yield tons of
+points. Move on to Layer 19 via the Warp Point.
+
+-------------------------------------------------------------------------------
+LAYER 19
+-------------------------------------------------------------------------------
+
+  You get to save and heal up before entering this Layer. You start off in the
+far right room with a singular Heartless to fight. The Rare Prize Block has an
+[ICE DASH] inside; clear the room and move left. Clear this room and move to the
+last one with the Warp Point to Layer 20.
+
+-------------------------------------------------------------------------------
+LAYER 20
+-------------------------------------------------------------------------------
+
+  Clear the initial room and move left to another room. You have to defeat most
+of the Heartless and Bug Blocks to drop the level down. Head through the far
+left door and up to discover a Rare Prize Block with an [ICE DIVE]. In the top
+left corner you will find another Rare Prize Block containing a [WIND DASH].
+Go through the rooms until your find the Warp Point, it moves around each play
+through.
+
+-------------------------------------------------------------------------------
+LAYER 21
+-------------------------------------------------------------------------------
+
+  You get a chance to heal and save again here. From this Layer forward you will
+begin to fight the toughest Heartless in the game. Clear the initial room then
+go either left or right and clear those rooms. Continue north where the paths
+split and clear the rooms until you find the Warp Point as its location varies.
+
+-------------------------------------------------------------------------------
+LAYER 22
+-------------------------------------------------------------------------------
+
+  You start at the far left side of the map in this Layer. Go south as you
+clear rooms until you reach an alcove that stretches left. Clear this room then
+start heading north clearing more rooms with Prize Blocks and Bug Blocks. As
+you go right you will find the last room. The Warp Point is hidden in one of
+the rooms in this massive layer.
+
+-------------------------------------------------------------------------------
+LAYER 23
+-------------------------------------------------------------------------------
+
+  Once again a chance to heal and save. You start at the bottom middle so you
+can go either left or right. In this layer the Warp Point can be anywhere, so
+keep searching until you find it.
+
+-------------------------------------------------------------------------------
+LAYER 24
+-------------------------------------------------------------------------------
+
+  This ends up being one giant room where the Bug Level starts at 3! If you
+haven't figured it out yet, Zeus's Spear and Breath of Zeus are strong enough
+to wipe out the entire battlefield so get to using them. Lower the Bug Level to
+1 and you can open the Rare Prize Block for a [MAGNERA].
+
+-------------------------------------------------------------------------------
+LAYER 25
+-------------------------------------------------------------------------------
+
+  Save and heal up if you need to and proceed to this layer.
+
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Behemoth                                                              |
+|-----------------------------------------------------------------------------|
+|  This boss has a ton of health points, so be sure to bring Strength-L. Use  |
+| some Licenses off the start like Regen-L, Strength-L, and Defense-L to gain |
+| an edge. Combo your melee attacks to get the most out of your damage and    |
+| continue to use attacks like Breath of Zeus and Zeus's Spear to deal the    |
+| most damage. The Behemoth only has two attacks and they are both simple to  |
+| guard against. One is where it reigns down lightning from the skies and the |
+| other is a simple stomp that causes a shockwave.                            |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+-------------------------------------------------------------------------------
+LAYER 26
+-------------------------------------------------------------------------------
+
+  Save and heal up after that boss fight and continue on to Layer 26. There are
+four rooms and either of them can hold the Warp Point. There are however quite
+a few Prize Blocks so you might want to clear them all for the points.
+
+-------------------------------------------------------------------------------
+LAYER 27
+-------------------------------------------------------------------------------
+
+  This Layer is filled with rooms and lots of Blocks. Section it off and start
+with the bottom three rooms, then the middle three, and finally the top three.
+The middle room at the top has a Rare Prize Block with [THUNDER RAID] while the
+top right room has the [METAL CHOCOBO] Keybalde in it's Rare Prize Block.
+
+-------------------------------------------------------------------------------
+LAYER 28
+-------------------------------------------------------------------------------
+
+  Save and heal up again then continue on. This layer isn't that large so you
+get a break this go around. You are forced to clear around to the left and then
+down because of the Metal Blocks.
+
+-------------------------------------------------------------------------------
+LAYER 29
+-------------------------------------------------------------------------------
+
+  Only two rooms to this layer, the Warp Point is obviously in the second room.
+
+-------------------------------------------------------------------------------
+LAYER 30
+-------------------------------------------------------------------------------
+
+  Use this opportunity to save and heal up for the final battle.
+ _____________________________________________________________________________
+|-----------------------------------------------------------------------------|
+| BOSS: Ice Colossus                                                          |
+|-----------------------------------------------------------------------------|
+|  The Ice Colossus is weak against fire so being able to cast Explosion will |
+| be handy in this battle. The Ice Colossus will fire shards of ice that hit  |
+| for a lot of damage so do your best to guard against them. Use all the      |
+| Licenses that you have to boost your stats as much as possible. The other   |
+| attacks that can be used against you are a breath of icicles and hale from  |
+| the sky. All the attacks do a decent amount of damage so heal when needed   |
+| and keep up your guarding to minimize the damage.                           |
+|-----------------------------------------------------------------------------|
+|                                   PRIZES                                    |
+|-----------------------------------------------------------------------------|
+| Item          | Leather Gloves                                              |
+|-----------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _____________________________________________________________________________
+/=============================================================================\
+|                                   Quests                          [07.00.00]|
+\=============================================================================/
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  This section details the quests that you can do for each world. Talk to the
+quest giver to start the quest then turn in the item they seek. You can't do
+the second or third parts until you do the ones prior.
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+|                              DESTINY ISLANDS                                 |
+|------------------------------------------------------------------------------|
+| CLIENT: Selphie                                                              |
+|------------------------------------------------------------------------------|
+|                ITEM                  |                REWARD                 |
+|======================================|=======================================|
+| Life Preserver                       | Feather Chain                         |
+| Jump Rope                            | Gravity Drop                          |
+| Folding Fan                          | Shock Fall                            |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+|                               TRAVERSE TOWN                                  |
+|------------------------------------------------------------------------------|
+| CLIENT: Cid                                                                  |
+|------------------------------------------------------------------------------|
+|                ITEM                  |                REWARD                 |
+|======================================|=======================================|
+| Wrench                               | Thunder Charm                         |
+| Waistband                            | Triple Blizzaga                       |
+| Goggles                              | Judgment Triad                        |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+|                                 WONDERLAND                                   |
+|------------------------------------------------------------------------------|
+| CLIENT: Alice                                                                |
+|------------------------------------------------------------------------------|
+|                ITEM                  |                REWARD                 |
+|======================================|=======================================|
+| Teacup                               | Debug Device: R                       |
+| Glass Vial                           | Heavy Chain                           |
+| Red Rose                             | Pulse Tracer                          |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+|                              OLYMPUS COLISEUM                                |
+|------------------------------------------------------------------------------|
+| CLIENT: Phil                                                                 |
+|------------------------------------------------------------------------------|
+|                ITEM                  |                REWARD                 |
+|======================================|=======================================|
+| Wristbands                           | Debug Device: R                       |
+| Barbell                              | Exo Spark                             |
+| Leather Gloves                       | Liberty Crown                         |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|------------------------------------------------------------------------------|
+|                                  AGRABAH                                     |
+|------------------------------------------------------------------------------|
+| CLIENT: Aladdin                                                              |
+|------------------------------------------------------------------------------|
+|                ITEM                  |                REWARD                 |
+|======================================|=======================================|
+| Silver Ring                          | Debug Device: R                       |
+| Crystal Earrings                     | Night Lenses                          |
+| Ruby Hairpin                         | Icicle Mine                           |
+|------------------------------------------------------------------------------|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ _____________________________________________________________________________
+/=============================================================================\
+|                              Version History                      [09.00.00]|
+\=============================================================================/
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Version 0.75 - Initial release. I'll take any help I can get in any form of a
+14 Oct 10      translation or secrets. I don't understand a lot of the game
+               right now but I can at least play and find everything for others
+               who want to play the japanese version. Also looking to get the
+               other values of Ranks for stages since I could only hack a few
+               of them.
+ _____________________________________________________________________________
+/=============================================================================\
+|                                 Closing                           [10.00.00]|
+\=============================================================================/
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Thanks - GameFAQs.com
+         Gamespot.com
+         Square Enix
+         Disney
+         KilledHeart
+         nicklessguy
+
+  This document is Copyright ©2010 Greg Boccia (noz3r0) and is the intellectual
+property of the author. It may be not be reproduced under any circumstances
+except for personal, private use as long as it remains in its unaltered,
+unedited form. It may not be placed on any web site or otherwise distributed
+publicly without advance written permission. Use of this guide on any other web
+site or as a part of any public display is strictly prohibited, and a violation
+of copyright.
+
+  All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+The following sites are allowed to use my guide:
+
+GameFAQs.com

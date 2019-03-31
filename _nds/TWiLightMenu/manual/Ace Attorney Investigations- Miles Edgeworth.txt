@@ -1,0 +1,1775 @@
+                       @@@@@@
+             @@@@@@@@@@      @@@@@@@@
+            @@                       @
+           @@                         @@                  @@@@@#@@
+            @                           @@              @@@      @@
+             @                            @@            @         @@
+              @@@@@@@                      `@@          @         @@@
+                    @                         @         @         @
+                    @                          @@       @@        @
+                    @@                           @@@@@@@@@@       @
+                     @                                       @@   @@
+                     @                                              @@
+     ###             @                                               @@@@
+    # @ #             @     @@@                                       @@@@
+   # @@ ##   ######   #@@@@@# @@                                        @@
+  # @@@@ #  #      # #       # @@@@@@@@@                                @@
+  # @@@@  ##   @@@  #  @@@@@  #       @@@@@@                           @@
+ # @@@@@@ #  @@@@@@@  @@@@@@@  #            @@@@@@@@@@@              @@@
+ # @@ @@@   @@@   @@ @@@   @@@ #                      @@              @
+# @@  @@@   @@@  #   @@@   @@@ #                       @              @
+# @@   @@@  @@@ ###  @@@@@@@@@ #                       @              @
+# @@@@@@@@  @@@ ###  @@@       #                       @              @
+ @@     @@@ @@@      @@@     @ #                       @               @
+@@@ ##  @@@@ @@@@@@@  @@@@@@@ #                        @               @
+@@@@   @@@@@@  @@@      @@@@ #                         @               @
+#############################################################################
+  ######## @ ### @@@ ## @@@  ##   @@@  #  @@ # @@  @@@@@@ ### @@@@   @@ ## @@#
+        # @@@ #  @@@ ## @@@  ##  @@@@@@  @@@@@@@@ @@@@@@@@   @@@ @@  @@@ # @@#
+        # @@@   @@@@@  @@@@@    @@   @@   @@@@@@@ @@@   @@@ @@@   @@  @@@  @@#
+       # @@@@@   @@@ ## @@@ ## @@@ # @@@  @@@   @ @@@ # @@@ @@@   @@@ @@@  @@#
+      # @@@@@@   @@@ ## @@@ ## @@@ # @@@  @@@     @@@ # @@@ @@@@@@@@@  @@@ @@#
+      # @@  @@@  @@@ ## @@@    @@@ # @@@  @@@     @@@ # @@@ @@@        @@@@@ #
+      # @@  @@@  @@@  @ @@@@  @@@@   @@@  @@@     @@@ # @@@ @@@         @@@@ #
+     # @@@@@@@@@ @@@@@  @@@@@@  @@@@@@@   @@@     @@@ # @@@  @@@@@@@    @@@  #
+     # @@    @@@  @@@     @@@  #  @@@@ # @@@@@ #  @@@@ @@@@@   @@@     @@@   #
+    # @@@ ##  @@@             # #     ##      # #     #     ###      @@@  ###
+    # @@@ ##  @@@  ############ ############### ###### ###### ####  @@@ ##
+   # @@@@@  @@@@@@ ##                                             #    #
+   #               #                                               ####
+   #################
+
+ACE ATTORNEY INVESTIGATIONS: MILES EDGEWORTH (DS) - SPOILER FREE WALKTHROUGH
+
+By: MKaykitkats
+
+==============================================================================
+
+ABOUT THIS FAQ
+
+==============================================================================
+
+This is a SPOILER FREE FAQ for ACE ATTORNEY INVESTIGATIONS: MILES EDGEWORTH
+on DS.
+
+As part of being spoiler-free, there will be no give-aways on what
+happens in the story of each chapter; just the answers/correct
+choices required in order to proceed.
+
+I suppose some of the answers themselves are "give-aways", but by the
+point you get to them, you will probably have the same thought
+in the back of your mind. The answers ahead of you probably won't make
+sense until you get to them as well, so no worries.
+
+While there are gameplay elements different from that of the other Ace
+Attorney games, they will be explained below (still without spoilers.)
+
+I just believe a story oriented game does not really need someone explaining
+what is going on, rather, just "how to proceed" so you can enjoy the dialogue
+for yourself. :)
+
+I hope this guide provides you with what you are looking for without giving
+anything away. :)
+
+Onward!
+
+==============================================================================
+
+TABLE OF CONTENTS [TOC]
+
+==============================================================================
+
+Use Ctrl + F to skip to specific sections, simply search for the letters 
+within the brackets listed below.
+
+Rebuttals/Arguments are usually at the end of an Investigation. Look at the
+ends of the investigations below to find them with ease.
+
+No worries, when you do Ctrl/Apple + F, you will end up with the term at the
+complete bottom of the screen, meaning nothing beyond it gets potentially
+spoiled. :)
+
+1.) Table of Contents [TOC]
+2.) What You Should Know (Controls/In-game terminology)[WSK]
+3.) Reading this Guide (My terms and format) [RTG]
+4.) The Episodes [EPS]
+    -Episode I: Turnabout Visitor [EP1]
+      -Investigation 1 [E1I1]
+      -Investigation 2 [E1I2]
+    -Episode II: Turnabout Airlines [EP2]
+      -Investigation 1 [E2I1]
+      -Investigation 2 [E2I2]
+      -Investigation 3 [E2I3]
+      -Investigation 4 [E2I4]
+    -Episode III: The Kidnapped Turnabout [EP3]
+      -Investigation 1 [E3I1]
+      -Investigation 2 [E3I2]
+      -Investigation 3 [E3I3]
+      -Investigation 4 [E3I4]
+      -Investigation 5 [E3I5]
+      -Investigation 6 [E3I6]
+    -Episode IV: Turnabout Reminiscence [EP4]
+      -Investigation 1 [E4I1]
+      -Investigation 2 [E4I2]
+      -Investigation 3 [E4I3]
+    -Episode V: Turnabout Ablaze [EP5]
+      -Investigation 1 [E5I1]
+      -Investigation 2 [E5I2]
+      -Investigation 3 [E5I3]
+      -Investigation 4 [E5I4]
+      -Investigation 5 [E5I5]
+5.) Closing/Credits/Contact Information [CCC]
+6.) Version Info [VIN]
+7.) Authorized Websites [ADS]
+
+==============================================================================
+
+WHAT YOU SHOULD KNOW [WSK]
+
+==============================================================================
+
+CONTROLS: Below are the controls, paraphrased from the manual of the game. The
+          game itself will remind you constantly of the controls, as well as
+          teach you gameplay basics as you go along.
+
+TOUCH SCREEN CONTROLS: These controls apply to the stylus
+
+ In Conversation:
+ -Panel [Marked as a right arrow on purple) is to see the next message
+ -Organizer Panel [Top right of the touch screen] touch it to open your
+  organizer
+ -Movement Panel [The box on the right]
+
+ In Movement:
+ -Logic Panel [Top left of touch screen] use this to open the Logic Menu
+ -Partner Panel [Left side of the touch screen] touch this to talk to your
+  Partner
+ -Movement Panel [Right side of touch screen] use this to move around the
+  area
+ -Examine Panel [Bottom right of touch screen] touch to examine whatever is
+  in front of you
+
+BUTTON CONTROLS: The controls are for people who want to use the DS buttons,
+                 rather than Touch Screen
+
+ During Investigation:
+  -Directional Pad = Move around/Move Cursor/Select from Menu
+  -A Button = Confirm/Examine/Next message
+  -B Button = Cancel/Go back
+  -X Button = Present evidence/Connecting Information when in Logic/Deduction
+              when investigating
+  -Y Button = Open partner screen/Turn on the microphone/Switch screens
+  -L Button = Open Logic Screen
+  -R Button = Open Organizer/Switch Files in Organizer
+  -START = Save game
+
+ During Confrontation:
+  -Directional Pad = Selections/Move back/forward in Testimony
+  -A Button = Confirm/Next message
+  -B Button = Cancel/Go back
+  -X Button = Present Evidence
+  -Y Button = Turn on Microphone
+  -L Button = Press statements
+  -R Button = Open organizer/Swap files
+  -START = Save game
+
+ *Select is not used in both areas.
+
+IN GAME TERMINOLOGY: This is pretty self-explanatory, and the game itself will
+                     explain the terminology along with teaching you about it.
+
+==============================================================================
+
+READING THIS GUIDE [RTG]
+
+==============================================================================
+
+I will be using some terminology which is self-explanatory, but here
+is a list in case you are confused:
+
+SELECT = You are presented with a few choices. I will tell you which of
+         these choices to "select."
+
+RECEIVE LOGIC = When you receive a new logic piece.
+
+LOGIC = I will write this when I want you to enter "LOGIC" mode, it will be
+        followed up by "CONNECT" below.
+
+CONNECT = In logic mode, I will tell you what two things to connect by their
+          title.
+
+DEDUCE = During examinations, you usually get an option to DEDUCE when there
+         is something on the scene which contradicts your evidence. I will
+         write "DEDUCE" followed by which item in your ORGANIZER to present.
+
+EXAMINE = During Investigation phases, you will have the need to examine
+          various items in a room. Do so by pointing and "Examining" an
+          object.
+
+MOVE = During investigation phases, you will have the need to move to
+       other locations to gather evidence. I will detail the location
+       after "Move" accordingly. However, in this game, as you can freely
+       move, I will not say where to move in the room. This will be listed in
+       "Examine", giving you necessary directions where in the area you need
+       to examine something.
+
+RECEIVE = When you receieve new evidence for your ORGANIZER. This
+          usually follows a "Select"/"Talk"/"Examine" option, but can
+          sometimes come on it's own.
+
+          Profiles are updated whenever someone is met and/or mentioned. I do
+          not mention their updates.
+
+PRESENT = When presenting evidence to a person  from the ORGANIZER. There may 
+          be a need to "Highlight" a certain place in "picture" evidence, 
+          which will be marked.
+
+          Evidence also includes "profiles", which you can toggle on/off in
+          the menu. Profiles are updated whenever someone is met and/or
+          mentioned.
+
+PRESENT PARTNER = When you need to present your partner with something.
+
+PRESENT [Name] = When you need to present something to someone other than your
+                 partner, their names will be listed in the brackets.
+
+PRESS = During a testimony, if you are required to press a statement
+        to add in order to contradict.
+
+TALK = During investigations, you will be able to talk to people in the area
+       around you. 
+
+TALK PARTNER = When you have the options to say certain things to your partner
+               on the field.
+
+TALK [NAME] = When you have to talk to someone other than your partner, their
+              name will be listed in the brackets. 
+
+UPDATE = Evidence may update when new information comes along. This will
+         be marked.
+
+DISCARD = Rarely happens, but this means the the evidence is removed
+          from the ORGANIZER.
+
+Some advice: If afraid of  potential spoilers in the choices you make, here is\
+a way to get around it.
+
+Scroll up until this line is at the bottom of your screen. Now click down.
+Now that you see this line, you can go through the guide this way, not seeing
+the next choice until you need it. :) Simple, neh?
+
+Don't scroll down until events finish. I leave spaces between events for
+organization, but also you can use it as a way not to get spoiled!
+
+If this system works for you, please email me and say so, I would appreciate
+feedback. :)
+
+Remember: This walkthrough is just to progress through the game. To get the
+most out of the story, press every statement! Present items to everyone! 
+Examine more than what I just tell you to do! There is much more than this 
+guide, these are just the "correct" answers.
+
+==============================================================================
+
+THE EPISODES [EPS]
+
+==============================================================================
+
+Below are the walkthroughs listed per Episode. If you are confused on the
+instructions, refer to the guide above. 
+
+------------------------------------------------------------------------------
+
+EPISODE I: TURNABOUT VISITOR                                             [EP1]
+
+------------------------------------------------------------------------------
+
+---Start of Episode I---
+
+Receive Logic: Crime Scene: My Office
+Receive Logic: The Office Key
+Logic:
+Connect: "Crime Scene: My Office" with "The Office Key"
+Receive Logic: The killer's goal
+
+BEGIN INVESTIGATION [E1I1]
+
+Examine: Handgun [Bottom mid-left of the room, next to officer]
+Receive Logic: Revolver
+
+Examine: Dead Body [Right side of the room]
+Examine: Badge in bottom left
+Receive Logic: Victim was a detective
+Examine: The dead body
+Receive: Crime Scene Notes
+Examine: The mess of files [top area]
+Receive Logic: Signs of a Struggle
+
+Logic:
+Connect: "Victim was a detective" and "Revolver"
+Receive: Victim's Revolver
+Examine: The revolver's cylinder [Center of the gun, where the bullets are
+         held]
+
+Examine: Jacket in frame [which the Policeman just moved from]
+Deduce: Highlight the bullet hole
+Present: Victim's Revolver
+Receive Logic: Another handgun
+Receive: Secret Safe
+Examine: Code panel [Right side of the safe]
+Receive Logic: Wiped fingerprints
+Update: Secret Safe
+
+Logic:
+Connect: "The killer's goal" with "Wiped fingerprints"
+Receive Logic: Motive: Theft (?)
+Connect: "Signs of a struggle" with "Motive: Theft (?)"
+Deduce: Highlight the bullet hole in the bottom right
+Present: Crime Scene Notes
+Select: The order of the files
+Receive Logic: Files in disarray
+Examine: Files will blood written on them [bottom right]
+Receive: Stolen File
+
+INVESTIGATION COMPLETE
+
+Select: (Whichever you want, one explains how to do it, one does not)
+
+Present: Stolen file at the statement "But thanks to that, you didn't notice
+         the bloody letters his body was hiding."
+
+Receive: Master Key
+Press: The statement "It's pretty obvious that Ms. Byrde snuck into your room
+       using the master key."
+Select: "Ask for more details"
+Present: Secret Safe at the statement "Her intent? From the messed-up shelves
+         to the wiped-down safe, I'd say thievery."
+
+TO BE CONTINUED
+
+BEGIN INVESTIGATION [E1I2]
+
+Examine: Sofa [Bottom left]
+Examine: File [Sticking out of the bottom of the sofa's right side]
+Receive: Stolen 0-Series File
+
+Talk [Maggey]: "The Victim"
+Talk [Maggey]: "Maggey Byrde"
+Present [Maggey]: Master Key
+Receive Logic: Master key was stolen
+Talk [Maggey]: "Used the master key?"
+Talk [Maggey]: "Forgetful Mr. Portsman"
+Receive Logic: Used the master key
+
+Logic:
+Connect: "Master key was stolen" with "Used the master key"
+Receive: Mr. Portsman's Office
+
+Examine: Door [With the basketball hoop next to it]
+Deduce: Highlight Door Knob
+Present: Mr. Portsman's Office
+Select: Prints on the doorknob
+Present: Maggey Byrde
+Update: Mr. Portsman's Office
+Examine: Note [under door, to the right]
+Receive: Note Left by Victim
+Examine: Bottom of Basketball Hoop [Top right of bottom area]
+Receive: Basketball Hoop
+
+Examine: Door on the left [Edgeworth's door]
+Examine: Door Knob
+
+INVESTIGATION COMPLETE
+
+Press: The statement "Besides, how, may I ask, do you propose I unlocked your
+       door and got in here?"
+Select: "Raise an objection"
+Present: Master Key
+Present: Maggey Byrde
+Present: Basketball Hoop
+
+Present: Note Left by Victim at the statement "After that, I was in my room
+         the entire time."
+Present: Mr. Portsman's Office
+
+Press: (Every statement; no contradiction)
+
+Receive Logic: Mr. Portsman's alibi
+
+Logic:
+Connect: "Mr. Portsman's alibi" with "Another handgun"
+Receive Logic: Another visitor
+Connect: "Another visitor" with "Files in disarray"
+
+Press: The statement "And when Jim came to deliver some evidence to me, I was
+       down at Criminal Affairs."
+Present: Note Left by Victim at the statement "He brought me two items, a gun
+         and a pendant, that are related to yesterday's case."
+
+Examine: Blood stain [On the back of the video casette]
+
+Present: Stolen 0-Series File
+
+---End of Episode I---
+
+------------------------------------------------------------------------------
+
+EPISODE II: TURNABOUT AIRLINES                                           [EP2]
+
+------------------------------------------------------------------------------
+
+---Start of Episode II---
+
+Present: Travel Wallet at the statement "...it was you, standing there, with
+         fresh blood dripping off of the murder weapon."
+Examine: The gold button [It should be pointing near it already]
+Update: Travel Wallet [Now Mr. Hick's Travel Wallet]
+
+Present: Crime Scene Notes at the statement "You were out to steal Mr. Hick's
+         money, weren't you?"
+Present: Highlight the money [bottom left area]
+
+Move: Lounge [Exit left]
+
+BEGIN INVESTIGATION [E2I1]
+
+Receive Logic: "Where was the killer?"
+
+Examine: Dead Body [In the elevator]
+Receive Logic: "Elevator"
+Examine: Figurine [Bottom right, next to his left hand]
+Receive Logic: "Murder weapon: Mr. Ifly"
+Examine: Coat Pocket [His left pocket, with a little white slip sticking out]
+Receive: Photo of Mr. Hicks
+Examine: The body [anywhere other than the above locations]
+Receive Logic: "Blunt force trauma"
+Receive Logic: "Broken glasses"
+Deduce: Highlight the necklace [yellow, hanging around his neck]
+Present: Photo of Mr. Hicks
+Receive: Missing Cell Phone
+
+Examine: Grape juice stain [below statue on the right of the elevator]
+Present: Highlight the footprints [going right]
+Receive Logic: "Spilled grape juice"
+
+Logic:
+Connect: "Blunt force trauma" with "Murder weapon: Mr. Ifly"
+ReceiVe: Mr. Ifly Piggy Bank
+Connect: "Where was the killer?" with "Elevator"
+Receive Logic: "In the elevator with Hicks?"
+Connect: "In the elevator with Hicks?" with "Spilled grape juice"
+Receive: Grape Juice Footprints
+
+INVESTIGATION COMPLETE
+
+Press: The statement "I am certain I saw Mr. Hicks enter the elevator!"
+Present: Grape Juice Footprints at the statement "The only person inside was
+         that Mr. Hicks man!"
+
+Press: The statement "I was very upset when Mr. Hicks passed by my seat."
+Press: The statement "The movie I wanted to see would not start, so I checked
+       my pocket watch many times."
+Present: Sky Magazine at the statement "My watch is set to my destination's
+         time. I always set it when I board the plane."
+
+Receive: Refueling in Zheng Fa
+Receive: Ms. Meele's Testimony
+
+Present: Mr. Ifly Piggy Bank
+
+Move: In-flight Shop [Exit right]
+Receive Logic: "Murder weapon: Mr. Ifly"
+
+BEGIN INVESTIGATION [E2I2]
+
+Examine: Two suitcases [The brightly colored ones between the flowers and the
+         shelf]
+Receive Logic: "Suitcase"
+
+Examine: Shelf with broken glass [right side]
+Receive Logic: "Tiny captain's hat"
+
+Logic:
+Connect: "Murder weapon: Mr. Ifly" with "Tiny captain's hat"
+Update: Mr. Ifly Piggy Bank
+
+Examine: Shelf with broken glass [Where you found the Tiny Captain's Hat]
+Deduce: Highlight empty space
+Present: Mr. Ifly Piggy Bank
+Receive Logic: "Turbulence"
+Update: Mr. Ifly Piggy Bank
+
+Logic:
+Connect: "Turbulence" with "Suitcase"
+Present: Highlight the bottom of the left suitcase [The wheels]
+Examine: The wheel of the suitcase [Oddly colored from the rest]
+Examine: Button [To open suitcase, frontside]
+
+INVESTIGATION COMPLETE
+
+Present: Crime Scene Notes
+Receive: iFly Suitcase
+Receive: Bloody Cloth
+
+TO BE CONTINUED
+
+Talk [Gumshoe]: "Initial Investigation"
+Talk [Gumshoe]: "Franziska von Karma"
+
+Move: First Class [Exit left]
+
+Talk [Lablanc]: "Lablanc's Cargo"
+Present [Lablanc]: Bloody Cloth
+Update: Bloody Cloth (Now Borginian Cloth)
+Talk [Lablanc]: "Rhoda Teneiro"
+
+Present: "iFly Suitcase" at the statement "The scene of the crime was here, in
+         this very lounge the body was discovered."
+Present: Grape Juice Footprints
+Present: Highlight the twin tracks [leaving the pool, below the footprints]
+
+Present: Mr. Ifly Piggy Bank at the statement "You prepared yourself and
+         acquired the piggy bank before the plane hit that turbulence."
+
+Move: Flight Attendants' Room [Exit left through the door, not the stairs]
+
+Talk [Teneiro]: "Captain's permission"
+Talk [Teneiro]: "In-flight shop"
+Present [Teneiro]: "iFly Suitcase"
+Talk [Teneiro]: "The last suitcase"
+
+Present: Highlight the tag [Sticking off of the top of the suitcase]
+Select: "the in-flight shop."
+Present: Rhoda Teneiro
+Receive: Suitcase Receipt
+
+TO BE CONTINUED
+
+BEGIN INVESTIGATION [E2I3]
+
+Examine: Suitcases [in the left corner]
+Receive Logic: Glass shards
+
+Logic:
+Connect: "Broken Glasses" with "Glass shards"
+
+Examine: Open suitcase [along the bottom, black]
+Receive Logic: Profile on Franziska
+
+Talk [Franziska]: "Why at this airport?"
+Receive Logic: Interpol
+
+Logic:
+Connect: "Profile on Franziska" with "Interpol"
+
+Talk [Franziska]: "Truth behind Hicks"
+Receive Logic: "Smuggling"
+
+INVESTIGATION COMPLETE
+
+Press: The statement "But the point to keep in mind is the keycard that allows
+       the elevator to come down here."
+Press: The statement "Further, there is the matter of the key to the display
+       case that held the murderous bank."
+Select: "The body"
+Receive: Autopsy Report
+Receive Logic: Mr. Ifly piggy bank
+Receive Logic: Weapon couldn't be found
+Receive Logic: Cause of death
+
+Logic:
+Connect: "Mr. Ifly piggy bank" with "Cause of death" 
+Receive Logic: A sizable weapon
+Connect: "Weapon couldn't be found" with "A sizable weapon"
+
+Select: "Don't have evidence to show"
+Select: "Free fall"
+Present: "Refueling in Zheng Fa"
+Receive: Cargo from Zheng Fa
+
+BEGIN INVESTIGATION [E2I4]
+
+Examine: Large box [left side next to the colorful suitcases; covered]
+
+Talk [Lablanc]: "Lablanc's cargo"
+
+Receive Logic: "Valuable piece of art"
+
+Logic:
+Connect: "Smuggling" with "Valuable piece of art"
+
+Talk Witness [Lablanc]: "Fake statue"
+Receive: Alif Red Certificate
+Receive: Alif Red Statue
+
+Examine: Alif Red Statue [The one that was just unveiled]
+Deduce: Highlight either eye
+Present: "Photo of Mr. Hicks"
+Deduce: Highlight the drape the statue is sitting on [Pan down, the brown
+        part stuck under the statue]
+Present: "Cargo from Zheng Fa"
+Update: "Alif Red Certificate"
+
+INVESTIGATION COMPLETE
+
+Present: Borginian Cloth
+Select: "Ms. Meele's testimony"
+
+TO BE CONTINUED
+
+Press: The statement "And from 5 to 6, I was, um...in the flight attendants'
+       room all by my lonesome self."
+Select: "Raise an objection"
+Present: "Suitcase Receipt"
+
+Press: The statement "She's the one in charge of the elevator keycard and the
+       shop, you know."
+Present: Alif Red Certificate at the statement "All I'm in charge of are the 
+         attendants' room and some Borginian stuff."
+Present: "iFly Suitcase"
+Select: "Where the murder took place"
+Present: Missing Cell Phone
+
+Move: Flight Attendants' Room [Up the stairs]
+
+Examine: Locker [far right of the room]
+
+Examine: The camera on the phone [backside]
+
+Examine: The four boxes [Toward the bottom right of the screen, marked with
+         "B"'s]
+Present: Borginian Cloth
+Present: Highlight the box labeled "Bedsheets" [top left area]
+
+---End of Episode II---
+
+------------------------------------------------------------------------------
+
+EPISODE III: THE KIDNAPPED TURNABOUT                                     [EP3]
+
+------------------------------------------------------------------------------
+
+---Start of Episode III---
+
+Talk: "Great Theif"
+Talk: "Yatagarasu"
+
+BEGIN INVESTIGATION [E3I1]
+
+Examine: Blue head [Sitting next to where Edgeworth was sitting]
+Receive: Bad Badger's Head
+
+Examine: White Spec [In the middle of the blue mat]
+
+Examine: Lockers [Beneath the window, left side of the room]
+Receive Logic: "Lockers"
+
+Examine: Row of boxes [back of the room]
+Receive: Blue Badger Bible
+Receive Logic: Costumes
+Examine: White Key [Hanging left of top-left box]
+Receive Logic: "Tiny Key"
+
+Examine: Sign [Lying on blue mat]
+Receive: Badger Photo Rally
+
+Talk [Kay]: "The kidnapping"
+
+Examine: Door [Bottom right]
+Examine: Trap door [left side]
+Receive Logic: "Open floor panel"
+
+Examine: Beam [Next to Bad Badger head]
+Receive Logic: "The beam I was tied to"
+
+Logic:
+Connect: "Open floor panel" with "The beam I was tied to"
+
+Examine: Trap door [Below Beam]
+Receive Logic: "Underground entrance"
+
+Logic:
+Connect: "Tiny key" with "Underground entrance"
+Receive Logic: "Underground ladder"
+Connect: "Underground ladder" with "Lockers"
+
+INVESTIGATION COMPLETE
+
+Talk [Kay]: "Next Step"
+Talk [Kay]: "'One and only one'"
+
+Talk [Gumshoe]: "Agent Lang"
+Talk [Gumshoe]: "Next Step"
+
+Talk: "The kidnapping"
+Talk: "Lance Amano"
+Talk: "Oliver Deacon"
+
+BEGIN INVESTIGATION [E3I2]
+
+Examine: Footprints [In front of security guards]
+Receive Logic: "What kind of shoes?"
+
+Talk [Blue Badger]
+
+Talk [Mike Meekins]: "Mike Meekins"
+Talk [Mike Meekins]: "The Blue Badger"
+Talk [Mike Meekins]: "Any clues?"
+Present: "Badger Photo Rally"
+Receive Logic: "A 2nd Blue Badger"
+
+Logic:
+Connect: "Costumes" with "A 2nd Blue Badger"
+Receive Logic: "Costumed escape"
+Receive: Stolen Costumes
+Connect: "What kind of shoes?" with "Costumed escape"
+
+Examine: Footprints [Left, in front of security guards]
+
+Examine: Garage Door [With horses painted on it]
+Receive Logic: "Victim was kidnapper?"
+Receive: Preliminary Findings
+
+Examine: Blood [On stomach]
+Update: Preliminary Findings
+Examine: Necklace
+Deduce: Necklace
+Present: Preliminary Findings
+Receive: Mr. Deacon's Pendant
+
+INVESTIGATION COMPLETE
+
+Press: The statement "Not unless you're a member of law enforcement like
+       Officer Meekins, isn't that right?"
+Present: Preliminary Findings at the statement "Officer Meekins ambushed the
+         victim in this garage and killed him here with his gun!"
+
+Receive: Blue Badgermobile
+
+Present: Blue Badgermobile at the statement "I also went looking for the 
+         kidnappers while selling dreams in the Blue Badgermobile, sir!"
+
+TO BE CONTINUED
+
+Talk [Ema]: "Ema Skye"
+Talk [Ema]: "The witness"
+
+Examine: Pink Badgermobile
+
+Talk [Pink Badger]
+
+Talk [Oldbag]: "Wendy Oldbag"
+Talk [Oldbag]: "The witness"
+
+Press: [Every statement, no contradiction]
+
+BEGIN INVESTIGATION [E3I3]
+
+Examine: Blue Body
+Present: Mr. Deacon's Murder Notes
+Receive Logic: "Why is there no blood?"
+
+Examine: Stage [Far left]
+Receive Logic: "Stage was packed up"
+
+Logic:
+Connect: "Why is there no blood?" with "Victim was kidnapper?"
+
+Talk [Ema]: "Footprint Analysis"
+Receive: Victim's Costume
+
+INVESTIGATION COMPLETE
+
+Present: Victim's Costume at the statement "As I was resting, I happened to
+         glance over and I saw two men facing each other in that area."
+Receive Logic: "In the shadow of the stage"
+
+BEGIN INVESTIGATION [E3I4]
+
+Logic:
+Connect: "Stage was packed up" with "In the shadow of the stage"
+
+Examine: Red Body
+
+INVESTIGATION COMPLETE
+
+Present: Mr. Deacon's Murder Notes at the statement "And when the victim 
+         finally showed, he shot him from on high!"
+Select: "The killer's & victim's locations"
+
+Present: Blue Badgermobile at the statement "Then, he used the car to move the
+         body to the garage in the Wild, Wild West Area."
+Present: Highlight Tire
+
+TO BE CONTINUED
+
+Talk [Amano]: "Lance Amano"
+Talk [Amano]: "Letter"
+Receive: Love Letter
+
+Talk [Lauren]: "Lance Amano"
+Talk [Lauren]: "About the case"
+
+Select: "Kidnapper's Hideout"
+
+Talk: Blue Officer
+Receive: Colin Devorae Dossier
+
+BEGIN INVESTIGATION [E3I5]
+
+Examine: Black object [Near door]
+Receive Logic: "Broken prop sword"
+
+Examine: Door [Bottom right]
+Examine: Opposite door handle [The lock, specifically]
+Receive Logic: "The door leading outside"
+
+Examine: Trash [Bottom of the room, blue container]
+Receive Logic: "Costume pieces"
+
+Examine: Chairs/Table [Top left area]
+Examine: Chairs [Any]
+Receive Logic: "Folding chairs"
+Examine: Cups [Any of the up-right ones]
+Receive Logic: "3 Cups"
+
+Logic:
+Connect: "Folding chairs" with "3 cups"
+Connect: "Broken prop sword" with "The door leading outside"
+Receive: Broken Prop Sword
+
+Talk: [Proto Badger]
+Present: Box with Head [Bottom right]
+Receive Logic: "Unaccounted for Bad Badger"
+
+Logic:
+Connect: "Unaccounted for Bad Badger" with "Costume pieces"
+
+Examine: Right hand
+Deduce: Right hand
+Present: Blue Badger Bible
+Receive: Missing Model Gun
+
+INVESTIGATION COMPLETE
+
+TO BE CONTINUED
+
+Examine: Neck hole
+Receive: "Ms. Paups' Pendant"
+
+Press: The statement "...Mr. Deacon turned on me, and tried to kill me!"
+Select: "Raise an objection"
+Present: Mr. Deacon's Pendant
+Present: Ms. Paups's Pendant
+Present: Colin Devorae Dossier
+Present: Highlight the word "Daughter" [Second last line]
+
+Present: Stolen Costumes at the statement "And the two of them made good use
+         of their meetings to plan this little kidnapping."
+Present: Lance Amano
+
+Press: The statement "I made my escape and ran away from that room as fast as
+       I could."
+Present: Broken Prop Sword at the statement "The door leading outside was 
+         locked tight, so I ahd to use the underground passageway."
+Present: Love Letter
+
+Press: The statement "But that Badger pointed his gun at me, aiming to shoot
+       me dead!"
+Present: Colin Devorae Dossier at the statement "But that Badger pointed the
+         gun in his left hand at me, aiming to shoot me dead!"
+Select: "Both are correct"
+Present: Bad Badger's Head
+Present: Highlight Proto Badger
+Present: Missing Model Gun
+
+Press: The statement "He had tied Mr. Deacon securely to the beam in the room
+       next door."
+Press: The statement "The captive had a Bad Badger's head on, so I'm
+       absolutely sure it was Mr. Deacon"
+Select: "Raise an objection"
+Present: Bad Badger's Head
+Select: "Miles Edgeworth"
+
+Examine: Bullet Hole
+Update: Victim's Costume
+Examine: Revolver [The one on your right]
+Receive: Revolver
+Examine: Head hole
+Receive: Mirror Fragments
+
+Press: The statement "Make no mistake. There are fingerprints on that
+       murderous gun."
+Select: "Raise an objection"
+Present: Bad Badger's Head
+Present: Victim's Costume
+Present: Highlight the Bullet Hole
+Present: Highlight Haunted House
+Present: Mirror Fragments
+
+TO BE CONTINUED
+
+Present: Highlight Green Dot
+
+BEGIN INVESTIGATION [E3I6]
+
+Examine: Bad Badger Figure
+Present: Broken Prop Sword
+Select: "Test with Luminol"
+Update: Broken Prop Sword
+Deduce: Left Hand [Holding Sword]
+Present: Broken Prop Sword
+Present: Missing Model Gun
+Update: Gatewater Land Pamphlet
+
+Deduce: Higlight the belt
+Present: Blue Badger Bible
+Receive Logic: Blue Badger in reverse
+
+Examine: Mirror [Near the slumped Badger]
+Receive Logic: "Mirror shards"
+Update: Mirror Fragments
+
+Logic:
+Connect: "Blue Badger in reverse" with "Mirror shards"
+Present: Gatewater Land Pamphlet
+Select: "Move the mirror-wall"
+Present: Dark area [Behind mirror, not where the green dot is]
+Present: Far left area [Behind where the mirror would have been. not where
+         green and red dot are]
+Present: "Victim's Costume"
+
+---End of Episode III---
+
+------------------------------------------------------------------------------
+
+EPISODE IV: TURNABOUT REMINISCENCE                                       [EP4]
+
+------------------------------------------------------------------------------
+
+---Start of Episode IV---
+
+Talk [Mentor]
+Talk [VonKarma]: "Today's trial"
+Talk [VonKarma]: "2nd KG 8 Incident"
+Receive: KG-8 Incident Overview
+Talk [VonKarma]: "Yatagarasu"
+
+Talk [Man on the Right]
+Talk [Gumshoe[: "Crime scene"
+Receive: Det. Gumshoe's Testimony
+
+Talk [Woman in blue, in the middle]
+Talk [Yew]: "Crime Scene"
+
+Talk [Man on the left]
+Talk [Badd]: "Crime Scene"
+Talk [Badd]: "Trial witness"
+
+BEGIN INVESTIGATION [E4I1]
+
+Examine: Window [On the right, with curtains open]
+Receive Logic: "Lobby No.2 window"
+
+Examine: Long table [Along the bottom of the screen]
+Receive Logic: "Neat and tidy table"
+
+Examine: Television
+
+Examine: Dead Bodies
+Examine: Handgun
+Receive: Handgun
+Examine: Knife
+Receive: Knife
+Examine: Bloody Plastic Bag [Bottom left]
+Receive Logic: "Plastic bags strewn about"
+Examine: Left Hand [Faraday's]
+Receive Logic: "Ink stain"
+
+Examine: Faraday's Breast Pocket
+Receive Logic: "Fountain pen in pocket"
+Examine: Faraday's Wound
+Update: Knife
+Examine: Wound on Mack Rell's body
+Update: Handgun
+Receive: Crime Scene Notes
+
+Logic:
+Connect: "Ink stain" with "Fountain pen in pocket"
+Receive: Mr. Faraday's Fountain Pen
+Connect: "Neat and tidy table" with "Plastic bags strewn about"
+Receive: Plastic Bag
+
+Deduce: Highlight Faraday's right hand
+Present: Mr. Faraday's Fountain Pen
+
+INVESTIGATION COMPLETE
+
+Update: Crime Scene Notes
+
+Press: The statement "And Mr. Rell, while on the brink of death, stole Mr.
+       Faraday's knife and stabbed him."
+Present: Det. Gumshoe's Testimony at the statement "They struggled, and Mr.
+         Rell used the last of his strength to counterattack Mr. Faraday."
+Select: "Yes, something is off."
+Present: Crime Scene Notes
+Select: "The order the bodies fell"
+
+Press: The statement "...which indicates that they attacked each other at the
+       same time."
+Present: Handgun at the statement "That fact indicates that they attacked
+         each other at the same time from close range."
+Select: "Neither man"
+Present: Plastic Bag
+
+Select: "Motive for the murders"
+
+Press: The statement "Well? How's that for the 'perfect explanation?'"
+Select: "Raise an objection"
+Select: "Motive for killing Mr. Rell"
+
+Present: KG-8 Incident Overview at the statement "There's no one out there
+         with a motive to kill both Mr. Faraday and Mr. Rell."
+
+Talk [Yew]: "KG-8 Incident"
+Present [Yew]: KG-8 Incident Overview
+Select: "Through the victim"
+Talk [Yew]: "KG-8 Incident"
+Talk [Yew]: "Manny Coachen"
+
+TO BE CONTINUED
+
+Talk [Yew]
+Talk [Yew]: "Detective Badd"
+Talk [Yew]: "Time of the murder"
+Talk [Yew]: "Mack Rell"
+Talk [Yew]: "Yatagarasu"
+
+Talk [Gumshoe]
+Talk [Gumshoe]: "Motive for murder"
+Talk [Gumshoe]: "During the recess"
+Talk [Gumshoe]: "Next step"
+Receive: Annual Bonus Envelope
+
+Present [Gumshoe]: Det. Gumshoe's Testimony
+
+Receive: Swiss Roll
+
+Move: Hallway [Exit left]
+
+BEGIN INVESTIGATION [E4I2]
+
+Examine: Vending Machine [Orange one]
+Receive Logic: "Vending machine"
+
+Talk [Judge]: "Time of the murder"
+
+Examine: Window [Far left]
+Examine: Pink object [On windowsill]
+Receive Logic: "Pink piece of trash"
+Examine: Plant [Left]
+Receive Logic: "Windowsill cactus"
+Examine: Handprint [Pan down, bottom right of the seat]
+Receive: Det. Gumshoe's Fingerprints
+Examine: Black crumbs/specs [Beneath seat]
+Receive Logic: "Swiss roll crumbs"
+
+Talk [Badd]: "Detective Gumshoe"
+Talk [Badd]: "The gunshot"
+Select: "Time he heard the gunshot"
+Receive: Det. Badd's Testimony
+
+Logic:
+Connect: "Pink piece of trash" with "Windowsill cactus"
+Receive: Balloon Piece
+Connect: "Swiss roll crumbs" with "Vending machine"
+Update: "Det. Gumshoe's Fingerprints"
+
+Examine: Vending Machine [Orange one]
+Deduce: Highlight price of Swiss Rolls [$6]
+Present: Annual Bonus Envelope
+Update: Swiss Roll
+
+INVESTIGATION COMPLETE
+
+Present: Det. Gumshoe's Fingerprints at the statement "But when I was about to
+         exit the restroom, he had completely disappeared!"
+
+Press: The statement "However, that doesn't mean that the Detective was
+       sitting there when I looked!"
+Present: Det. Badd's Testimony at the statement "Let's see...I looked into
+         that hallway about 20 minutes before we were to reconvene."
+Present: Balloon Piece
+
+Press: The statement "From that time on, until I heard the gunshot, I was in
+       that hallway the whole time!"
+Present: Det. Gumshoe's Fingerprints at the statement "And until I heard the
+         gunshot, I didn't take a single step away from the Lobby No. 2 door."
+Present: Swiss Roll
+
+Talk [Kay]
+Present: Swiss Roll
+
+Talk [Kay]
+Talk [Kay]: "Your father"
+Receive: Promise Notebook
+Talk [Kay]: "Dick Gumshoe"
+Talk [Kay]: "Swiss rolls"
+
+Present: Promise Notebook
+
+TO BE CONTINUED
+
+Talk [Badd]
+Receive: Ms. Yew's Perfume
+Talk [Badd]: "During the recess"
+Talk [Badd]: "KG-8 Incident"
+Talk [Badd]: "Relation to Yew"
+Talk [Badd]: "Relation to Faraday"
+Talk [Badd]: "Yatagarasu"
+
+Examine: Evidence [On left side]
+Examine: Gun
+Examine: Knife
+Examine: Black Organizer [Bottom Right]
+Receive: Mr. Faraday's Organizer
+Receive: Yatagarasu's Key
+Present: Yatagarasu's Key
+Examine: Bottom of the object
+Update: Yatagarasu's Key
+Update: Knife
+Examine: Folder
+
+Talk [Badd]
+Talk [Badd]: "Time of the murder"
+Present [Badd]: Yatagarasu's Key
+Talk [Badd]: "Time of the murder"
+
+Press: The statement "...I heard the gunshot...right before the trial was
+       about to reconvene."
+Present: Balloon Piece at the statement "...I didn't hear any other strange
+         sounds...until that gunshot..."
+
+Receive Logic: "Dissipating the smell"
+Receive Logic: "Very loud television"
+Receive Logic: "Missing evidence"
+
+Logic:
+Connect: "Lobby No. 2 window" with "Dissipating the smell"
+Receive Logic: "Open windows"
+Connect: "Open windows" with "Very loud television
+Receive Logic: "Gunshot could be heard"
+Connect: "Missing evidence" with "Gunshot could be heard"
+
+BEGIN INVESTIGATION [E4I3]
+
+Examine: VCR
+Receive: Surveillance Video
+Deduce: Highlight the Open Window
+Present: Surveillance Video
+Select: "When the crime took place"
+
+INVESTIGATION COMPLETE
+
+TO BE CONTINUED
+
+Press: Every statement (No contradiction)
+Present: Surveillance Video
+Select: "The window was open."
+Present: "Calisto Yew"
+
+Present: Ms. Yew's Perfume at the statement "You argue that the window was
+         opened, however, do you have proof it was I who did that?"
+
+Press: The statement "After all, I don't even know where the knife that was
+       used to kill him came from."
+Present: Yatagarasu's Key at the statement"There was a key in his evidence
+         bag, but you can't kill anyone with a simple key!"
+Present: Yatagarasu
+
+Present: Swiss Roll
+
+---End of Episode IV---
+
+------------------------------------------------------------------------------
+
+EPISODE V: TURNABOUT ABLAZE                                              [EP5]
+
+------------------------------------------------------------------------------
+
+---Start of Episode V---
+
+Examine: Table [Left of the man in green]
+Receive: Embassy Guide
+
+Talk [Steel Samurai]
+Receive: Steel Samurai's Autograph
+
+BEGIN INVESTIGATION [E5I1]
+
+Examine: Dead Body
+Receive: Notes on Coachen's Body
+Examine: Knife
+Receive Logic: "Motif on knife handle"
+Receive: Knife
+Examine: Pocket [His right]
+Examine: Button [On the bottom]
+Receive: Yatagarasu's Key
+
+Examine: Golden statue
+Receive: Babahl's Primidux Statue
+
+Examine: Knife Rack [Next to painted logo]
+
+Examine: Golden Painted Wall [Has a design]
+Receive Logic: "Butterfly of Babahl"
+
+Logic:
+Connect: "Motif of knife handle" with "Butterfly of Babahl"
+
+Talk [Franziska]
+Receive Logic: "Franziska's return"
+Talk [Franziska]: "The murder"
+Talk [Franziska]: "Yatagarasu"
+Receive Logic: "Stealing of secret"
+
+Logic:
+Connect: "Franziska's return" with "Stealing of secret"
+
+Talk [Franziska]: "Smuggling"
+Receive: Cohdopian Paper Document
+
+Examine: Safe [Top left]
+Receive Logic: "Locked safe"
+
+Talk [Palaeno]
+Talk [Palaeno]: "Manny Coachen"
+Talk [Palaeno]: "Renovations"
+Talk [Palaeno]: "Cohdopia"
+Receive Logic: "Key used at Embassy"
+
+Logic:
+Connect: "Key used at Embassy" with "Locked safe"
+Examine: Paper
+Select: "It has two compartments"
+Deduce: Highlight the black slit [Left on the safe]
+Present: Yatagarasu's Key
+Examine: Blade tip
+Deduce: Highlight File [Bottom right]
+Present: Cohdopian Paper Document
+
+INVESTIGATION COMPLETE
+
+Press: The statement "Futhermore, this girl claims to be the Yatagarasu."
+Present: Yatagarasu's Key at the statement "She wanted to steal documents
+         regarding smuggling, so she killed Mr. Coachen for the key."
+
+Present: Babahlese Knife at the statement "The knife with the butterfly handle
+         is the murder weapon, which the killer was holding."
+Examine: The center of the knife
+Receive: Babahlese Knife Handle
+Examine: Faint mark [at the bottom of the blade, thin part]
+Present: Embassy Guide
+
+TO BE CONTINUED
+
+Talk [Franziska]
+Receive: Counterfeit Bills
+
+Talk [Palaeno]
+Receive: Babahlese Ink
+
+Talk [Badd]: "Initial Investigation"
+Talk [Badd]: "Suspect"
+
+BEGIN INVESTIGATION [E5I2]
+
+Examine: Knife Rack [Top left area]
+Examine: Knives
+
+Examine: Picture [On desk, right of the Flower symbol]
+Receive: Photo with Steel Samurai
+
+Examine: Window [Far right]
+Receive: Passionflowers
+
+Examine: Dead body
+Examine: Sword
+Receive: Samurai Sword
+Examine: Right Hand
+Receive: DeMasque II's Note
+Examine: Mask
+
+Examine: Allebahst's Primidux Statue
+Deduce: Highlight the statue
+Present: Photo with Steel Samurai
+Update: Allebahst's Primidux Statue
+
+Talk [Larry]
+Talk [Larry]: "Steel Samurai"
+Talk [Larry]: "Time of the murder"
+Receive Logic: "Smoke from chimney"
+Talk [Larry]: "Murder weapon"
+
+Examine: Knife Rack
+Deduce: Highlight the spear
+Present: Steel Samurai's Autograph
+Receive: Samurai Spear
+
+Talk [Pink Princess]
+Talk [Oldbag]: "Pink Princess"
+Receive: Stand-In Request
+Receive: Letter from a Stalker
+Talk [Oldbag]: "Time of the murder"
+Receive Logic: "Used the fireplace"
+
+Receive: Lady's Undershirt
+
+Talk [Oldbag]
+Present [Oldbag}: Lady's Undershirt
+Receive Logic: Undershirt from next door
+Talk [Oldbag]: "Samurai Dogs"
+Receive: Samurai Dogs
+
+Logic:
+Connect: "Used the fireplace" with "Smoke from chimney"
+Receive Logic: "Shared chimney"
+Connect: "Undershirt from next door" with "Shared chimney"
+Receive Logic: "Connected fireplaces"
+
+INVESTIGATION COMPLETE
+
+Press: The statement "So then, I wanted to play Santa and decided to give it
+       a try."
+Select: "Raise an objection"
+Present: Ex-Security Lady [Wendy Oldbag]
+Present: Stand-In Request
+
+Present: Letter from a Stalker at the statement "But why would I ever put
+         myself through so much humiliation on purpose!?"
+Present: Highlight the name
+Present: Steel Samurai's Autograph
+
+Press: The statement "Beside him was the Samurai Sword... glittering red, and
+       offering up the scent of blood."
+Present: Samurai Spear at the statement "I suspect he beat the victim to death
+         with that thing."
+Update: Samurai Spear
+
+Press: The statement "We searched the Embassy, top to bottom, but the victim's
+       blood is only on that weapon."
+Select: "Raise an objection"
+Present: Allebahst's Primidux Statue
+
+Examine: Bottom of the Statue
+
+TO BE CONTINUED
+
+Discard/Update: Evidence
+
+Talk [Partner]: "Investigation Update"
+
+Talk [Gumshoe]: "Investigation Update"
+Receive: Silhouette Lantern
+
+Talk [Palaeno]: "Open-air stage"
+Talk [Palaeno]: "Primidux Statue"
+Talk [Palaeno]: "Manny Coachen"
+Present [Palaeno]: Allebahst's Primidux Statue
+
+Receive: Pick
+Receive: Ms. Yew's Perfume
+
+Move: Theatrum Neutralis: Lobby [Exit Down]
+
+Move: Rose Garden [Exit Left]
+
+BEGIN INVESTIGATION [E5I3]
+
+Examine: Pool
+Receive: Fountain Spouts
+
+Examine: Male Statue [Pan left]
+
+Examine: Female Statue [Pan right]
+
+Talk [Lang]
+Talk [Lang]: "Yatagarasu's appearance"
+Present: Highlight the Male Statue [Pan left]
+Present: Highlight the Female Statue [Pan right]
+Present: Highlight the left hand [The raised one]
+
+INVESTIGATION COMPLETE
+
+Receive: Photo of Yatagarasu
+
+Move: Theatrum Neutralis: Lobby [Exit Down]
+
+Move: Open-Air Stage [Exit Right]
+
+Move: Babahlese Embassy: Office [Exit through door on right]
+
+BEGIN INVESTIGATION [E5I4]
+
+Examine: Desk [Far left]
+Examine: Bottle of Ink
+
+Talk [Palaeno]
+Update: Photo of Yatagarasu
+Receive: Fires in Babahl
+Talk [Palaeno]: Morning activities
+Receive Logic: Renovations
+Receive: Amb. Palaeno's Testimony
+Talk [Palaeno]: Afternoon activities
+Talk [Palaeno[: Mr. Coachen's Ink
+
+Examine: Desk [Far left]
+Examine: Open cabinet
+Deduce: The brown sheet of paper
+Present: DeMasque II's Note
+
+Talk [Palaeno]: "Job for DeMasque II"
+
+Examine: Grandfather Clock [Far right]
+Receive: Wire
+
+Examine: Green flames
+Present: Sillhouette Lantern
+Present: Babahlese Ink 
+Present: Counterfeit Bills
+Update: Counterfeit Bills
+
+Talk [Gumshoe]
+Talk [Gumshoe]: "During the fire"
+Talk [Gumshoe]: "What you saw"
+Receive Logic: "Shih-na's location"
+
+Receive Logic: "Bilateral symmetry"
+
+Logic:
+Connect: "Connected fireplaces" with "Bilateral symmetry"
+Receive Logic: "Revolving fireplace used?"
+
+Deduce: Highlight the pile of wood
+Present: Amb. Palaeno's Testimony
+Receive Logic: "Missing ashes"
+
+Logic:
+Connect: "Missing ashes" with "Revolving fireplace used?"
+Receive: Revolving Fireplace Wall
+Receive Logic: "Escaped through revolving fireplace"
+Connect: "Shih-na's location" with "Escaped through revolving fireplace"
+
+INVESTIGATION COMPLETE
+
+TO BE CONTINUED
+
+Update: DeMasque II's Note
+
+Present: Shih-na
+Present: Photo of Yatagarasu
+
+Present: Revolving Fireplace Wall at the statement "Although I was in the next
+         room, I was unable to catch a glimpse of the Yatagarasu.
+Present: Revolving Fireplace Wall
+Present: Ambassador Paleno's Testimony
+
+Present: Counterfeit Bills at the statement "...and we found not a single
+         suspicious thing in Mr. Coachen's office."
+Present: Wire
+Present: Highlight the room with the green dot
+
+Select: Coat
+Present: Babahlese Ink
+Select: Burn the coat
+Present: Ms. Yew's Perfume
+
+Select: Neither person
+
+Present: Babahlese Knife Handle
+Discard: Babahlese Knife Handle
+
+Receive: Hair Sticks
+
+Receive: Trump Card
+Receive: Video Tape
+
+TO BE CONTINUED
+
+Discard/Update: Evidence
+
+Present: Highlight Flag [Front of the car]
+
+Present: Babahl's Primidux Statue at the statement "Somehow, these two objects
+         were able to penetrate the two countries' impenetrable security."
+Present: Photo of Yatagarasu
+Present: Allebahst's Primidux Statue
+
+Press: The statement "After all the preparations were in place, I was called
+       back by Ambassador Alba to his office."
+Press: The statement "When I arrived, Ambassador Alba was watering the flowers
+       on the windowsill."
+Present: Passionflowers at the statement "There were four large passionflowers
+         in full bloom in the flower box."
+
+Examine: Flower
+Select: "Show Evidence"
+Present: Hair Sticks
+Present: Highlight the Crossbow [Above Knives, left side]
+
+Press: The statement "So Babahl's statue was draped in the Yatagarasu's
+       clothes, and then shot over here?"
+Press: The statement "Even if you fired the arrows from this side, they
+       wouldn't go far with a statue tied to them!"
+Present: Wire at the statement "If it wasn't a statue that was tied to the
+         arrows, then waht did the crossbow launch...?"
+Select: "Rotary motion"
+
+Present: Highlight the ceiling fan
+
+Present: Crossbow Arrows
+
+Present: Allebahst's Primidux Statue
+
+Examine: Head
+Examine: New piece
+Receive: Counterfeit Plate
+
+Select: "Use the trump card" (Either works, though)
+
+Present: Highlight the right hand [His right]
+Examine: Blood [Back of the card]
+Present: Highlight the breastpocket [Man in back]
+
+Present: Highlight the Medal [Back seat window, circular object]
+
+Receive: Amb. Alba's Wound
+
+TO BE CONTINUED
+
+Discard: Passionflowers
+
+BEGIN INVESTIGATION [E5I5]
+
+Receive Logic: "Agitated Alba"
+Receive Logic: "Coachen's counterfeiting op."
+
+Examine: Picture [Left side, on a stand]
+Examine: Odd yellow flower [In Alba's Boquet]
+Deduce: Highlight odd flower
+Present: Allebahstian Knife
+Receive: Commemorative Photo
+Update: Allebahstian Knife
+
+Logic:
+Connect: "Coachen's counterfeiting op." with "Renovations"
+Select: "Quercus Alba"
+Receive Logic: "Motive to kill Coachen"
+Connect: "Agitated Alba" with "Motive to kill Coachen"
+Present: Highlight "Theatrum Neutralis"
+
+Receive: Security Footage
+Select: "5:23"
+Examine: Pushcart
+Receive: Pushcart
+
+INVESTIGATION COMPLETE
+
+Press: The statement "Under your hypothetical scenario, Mr. Coachen and I were
+       fellow smugglers."
+Present: DeMasque II's Note at the statement "In that case, what motive would 
+         I have had to kill my co-conspirator?"
+
+Present: Commemorative Photo at the statement "THe last time I met with Mr.
+         Coachen was here at the Theatrum Neutralis."
+
+Present: Pushcart at the statement "There is no way for me to have transported
+         his body from the theater to Babahl!"
+Present: Notes on Coachen's Body
+Examine: Blood [Inside]
+
+Press: [Every statement, no contradiction]
+
+Select: "bilateral symmetry."
+
+Present: Highlight the Babahlese side of the wall [The side that does not have
+         water on it. Aim to the right of the wall that separates the sides,
+         specifically the empty space]
+
+Present: Fires in Babahl
+
+Present: Fountain Spouts
+
+Present: Pick
+Present: Allebahstian Knife
+
+TO BE CONTINUED
+
+Press: The statement "I do remember the contents of the show very well,
+       though. Is that proof enough for you?"
+Present: Samurai Spear at the statement "One of the scenes was of his
+         never-before-seen "Early Summer Rain Jab" move."
+
+Select: "You saw it."
+
+Present: Pushcart
+
+Receive Logic: "Rising Sun Dogs"
+Receive Logic: "Samurai Dogs"
+Receive Logic: "Body in the pushcart"
+
+Logic:
+Connect: "Samurai Dogs" with "Body in the pushcart"
+Receive Logic: "Samurai Dogs were removed"
+Connect: "Rising Sun Dogs" with "Samurai Dogs were removed"
+
+Examine: Red spot
+
+Present: Quercus Alba
+Present: Amb. Alba's Wound
+Present: Yatagarasu's Key
+
+---End of Episode V---
+
+==============================================================================
+
+CLOSING/CREDITS/CONTACT INFORMATION [CCC]
+
+==============================================================================
+
+I hope you got through un-spoiled, after all, a story game is more enjoyable
+that way. I hope the instructions were clear as well :)
+
+You may have noticed that I've been making spoiler-free walkthroughs as the
+titles are released on WiiWare. I will continue to do so, updating my first
+one for the fifth case, and the coming Trials and Tribulations when it is
+released. I hope you enjoy them!
+
+If you see any problems (even a small typo!) email me, I'd appreciate it!
+
+Also, if you have any questions, feedback or just a plain old comment, email 
+me anyway.
+
+Yes, that logo did take me forever to make. And yes, the "Kay" in my username
+is related to the character in this game; among other things. :)
+
+That said,
+
+Thanks for reading, cheers!
+
+-MKay
+
+CREDITS:
+
+Thanks to Capcom for the great game!
+
+Thanks to gameFAQs for the simple FAQ submission!
+
+Thanks to you the reader, who would have otherwise made my work feel
+wasted if you hadn't read this. :) I really appreciate it!
+
+Special thanks to all those who email me minor/major corrections! It will help
+all future readers, so they should appreciate you too!
+
+A special thanks to user HikariChino, for going through and pointing out
+various things that needed correcting! I really appreciate your help :)
+
+CONTACT:
+
+Email me at mkaykitkats@live.com
+
+I read all emails, and respond if needed. :)
+
+==============================================================================
+
+VERSION INFO [VIN]
+
+==============================================================================
+
+Version 1.00 [2/19/10] The guide up to the end of Episode I.
+
+Version 1.20 [2/19/10] The guide up to the end of Episode II. Gamesrader.com
+added as an "Authorized Website" Thanks for those who reported it to me, but
+nothing to worry about. :)
+
+Version 1.40 [2/20/10] The guide up to the end of Episode III.
+
+Version 1.80 [2/20/10] The guide up to the end of Episode IV. One more!
+
+Version 2.00 [2/21/10] The guide is complete!
+
+Version 2.01 [2/22/10] Added "Cheatcc" to the "Authorized Websites", and fixed
+a typo! Thanks for pointing that out!
+
+Version 2.02 [2/23/10] Was more specific on an area of highlighting. Sorry if
+that didn't make sense to others! Added two examines that were suggested by
+a user.
+
+Version 2.10 [2/25/10] More minor updates that are still vital to the
+gameplay! Thanks again for pointing that out. :)
+
+==============================================================================
+
+AUTHORIZED WEBSITES [ADS]
+
+==============================================================================
+
+If you find this FAQ on any sites OTHER than the ones listed below, please
+contact me IMMEDIATELY. 
+
+www.gamefaqs.com [original submission]
+
+www.neoseeker.com
+
+www.supercheats.com
+
+www.gamesrader.com
+
+www.cheatcc.com
+
+==============================================================================
+                       @@@@@@
+             @@@@@@@@@@      @@@@@@@@
+            @@                       @
+           @@                         @@                  @@@@@#@@
+            @                           @@              @@@      @@
+             @                            @@            @         @@
+              @@@@@@@                      `@@          @         @@@
+                    @                         @         @         @
+                    @                          @@       @@        @
+                    @@                           @@@@@@@@@@       @
+                     @                                       @@   @@
+                     @                                              @@
+     ###             @                                               @@@@
+    # @ #             @     @@@                                       @@@@
+   # @@ ##   ######   #@@@@@# @@                                        @@
+  # @@@@ #  #      # #       # @@@@@@@@@                                @@
+  # @@@@  ##   @@@  #  @@@@@  #       @@@@@@                           @@
+ # @@@@@@ #  @@@@@@@  @@@@@@@  #            @@@@@@@@@@@              @@@
+ # @@ @@@   @@@   @@ @@@   @@@ #                      @@              @
+# @@  @@@   @@@  #   @@@   @@@ #                       @              @
+# @@   @@@  @@@ ###  @@@@@@@@@ #                       @              @
+# @@@@@@@@  @@@ ###  @@@       #                       @              @
+ @@     @@@ @@@      @@@     @ #                       @               @
+@@@ ##  @@@@ @@@@@@@  @@@@@@@ #                        @               @
+@@@@   @@@@@@  @@@      @@@@ #                         @               @
+#############################################################################
+  ######## @ ### @@@ ## @@@  ##   @@@  #  @@ # @@  @@@@@@ ### @@@@   @@ ## @@#
+        # @@@ #  @@@ ## @@@  ##  @@@@@@  @@@@@@@@ @@@@@@@@   @@@ @@  @@@ # @@#
+        # @@@   @@@@@  @@@@@    @@   @@   @@@@@@@ @@@   @@@ @@@   @@  @@@  @@#
+       # @@@@@   @@@ ## @@@ ## @@@ # @@@  @@@   @ @@@ # @@@ @@@   @@@ @@@  @@#
+      # @@@@@@   @@@ ## @@@ ## @@@ # @@@  @@@     @@@ # @@@ @@@@@@@@@  @@@ @@#
+      # @@  @@@  @@@ ## @@@    @@@ # @@@  @@@     @@@ # @@@ @@@        @@@@@ #
+      # @@  @@@  @@@  @ @@@@  @@@@   @@@  @@@     @@@ # @@@ @@@         @@@@ #
+     # @@@@@@@@@ @@@@@  @@@@@@  @@@@@@@   @@@     @@@ # @@@  @@@@@@@    @@@  #
+     # @@    @@@  @@@     @@@  #  @@@@ # @@@@@ #  @@@@ @@@@@   @@@     @@@   #
+    # @@@ ##  @@@             # #     ##      # #     #     ###      @@@  ###
+    # @@@ ##  @@@  ############ ############### ###### ###### ####  @@@ ##
+   # @@@@@  @@@@@@ ##                                             #    #
+   #               #                                               ####
+   #################
+==============================================================================
+                        ~~~COPYRIGHT 2010 MKaykitkats~~~
+==============================================================================
+
+==============================================================================

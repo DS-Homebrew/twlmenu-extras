@@ -1,0 +1,1242 @@
+
+
+
+===================================DISCLAIMER==================================
+I have decided not to allow websites other than Gamefaqs (www.gamefaqs.com),
+IGN (faqs.ign.com), Gamerhelp (www.gamerhelp.com) & Gamespot (www.gamespot.com)
+to host my FAQs from now on.
+Please don't ask, because I will not grant permission.  It's just that too many
+sites don't keep their version of my FAQ up to date which makes for a lot of
+hassle in my mailbox.
+So if anyone sees this FAQ on any site other than those mentioned above, please
+let me know and I will take care of the situation, thanks.
+
+Just to make things crystal clear for some people, this FAQ is not to appear
+anywhere at the following URLs:
+
+http://www.cheatcc.com
+http://www.cheatindex.com
+
+
+This document Copyright 2006 Daniel Engel
+===============================================================================
+
+Mario VS Donkey Kong 2: March of The Minis FAQ [DS]
+October 07, 2006
+Daniel (FecalLord) Engel
+fecalord [AT] gmail [DOT] com
+
+
+
+###############################################################################
+                             (A) TABLE OF CONTENTS
+###############################################################################
+
+Table of Contents
+
+ (A) This Table of Contents
+ (B) Controls
+ (C) Walkthrough
+  -  (C-01) Mushroom Mayhem - Room 1
+  -  (C-02) Mushroom Mayhem - Room 2
+  -  (C-03) Mushroom Mayhem - Room 3
+  -  (C-04) Mushroom Mayhem - Room 4
+  -  (C-05) Mushroom Mayhem - Room 5
+  -  (C-06) Mushroom Mayhem - Room 6
+  -  (C-07) Mushroom Mayhem - Room 7
+  -  (C-08) Mushroom Mayhem - Room 8
+  -  (C-09) Mushroom Mayhem - Room 9
+  -  (C-10) Mushroom Mayhem - DK
+
+  -  (C-11) Tropical Island - Room 1
+  -  (C-12) Tropical Island - Room 2
+  -  (C-13) Tropical Island - Room 3
+  -  (C-14) Tropical Island - Room 4
+  -  (C-15) Tropical Island - Room 5
+  -  (C-16) Tropical Island - Room 6
+  -  (C-17) Tropical Island - Room 7
+  -  (C-18) Tropical Island - Room 8
+  -  (C-19) Tropical Island - Room 9
+  -  (C-20) Tropical Island - DK
+
+  -  (C-21) Pipe Works - Room 1
+  -  (C-22) Pipe Works - Room 2
+  -  (C-23) Pipe Works - Room 3
+  -  (C-24) Pipe Works - Room 4
+  -  (C-25) Pipe Works - Room 5
+  -  (C-26) Pipe Works - Room 6
+  -  (C-27) Pipe Works - Room 7
+  -  (C-28) Pipe Works - Room 8
+  -  (C-29) Pipe Works - Room 9
+  -  (C-30) Pipe Works - DK
+
+  -  (C-31) Magnet Mania - Room 1
+  -  (C-32) Magnet Mania - Room 2
+  -  (C-33) Magnet Mania - Room 3
+  -  (C-34) Magnet Mania - Room 4
+  -  (C-35) Magnet Mania - Room 5
+  -  (C-36) Magnet Mania - Room 6
+  -  (C-37) Magnet Mania - Room 7
+  -  (C-38) Magnet Mania - Room 8
+  -  (C-39) Magnet Mania - Room 9
+  -  (C-40) Magnet Mania - DK
+
+  -  (C-41) Lava Dome - Room 1
+  -  (C-42) Lava Dome - Room 2
+  -  (C-43) Lava Dome - Room 3
+  -  (C-44) Lava Dome - Room 4
+  -  (C-45) Lava Dome - Room 5
+  -  (C-46) Lava Dome - Room 6
+  -  (C-47) Lava Dome - Room 7
+  -  (C-48) Lava Dome - Room 8
+  -  (C-49) Lava Dome - Room 9
+  -  (C-50) Lava Dome - DK
+
+  -  (C-51) Toadstool Castle - Room 1
+  -  (C-52) Toadstool Castle - Room 2
+  -  (C-53) Toadstool Castle - Room 3
+  -  (C-54) Toadstool Castle - Room 4
+  -  (C-55) Toadstool Castle - Room 5
+  -  (C-56) Toadstool Castle - Room 6
+  -  (C-57) Toadstool Castle - Room 7
+  -  (C-58) Toadstool Castle - Room 8
+  -  (C-59) Toadstool Castle - Room 9
+  -  (C-60) Toadstool Castle - DK
+
+  -  (C-61) Spooky Attic - Room 1
+  -  (C-62) Spooky Attic - Room 2
+  -  (C-63) Spooky Attic - Room 3
+  -  (C-64) Spooky Attic - Room 4
+  -  (C-65) Spooky Attic - Room 5
+  -  (C-66) Spooky Attic - Room 6
+  -  (C-67) Spooky Attic - Room 7
+  -  (C-68) Spooky Attic - Room 8
+  -  (C-69) Spooky Attic - Room 9
+  -  (C-70) Spooky Attic - DK
+
+  -  (C-71) Jungle Hijinks - Room 1
+  -  (C-72) Jungle Hijinks - Room 2
+  -  (C-73) Jungle Hijinks - Room 3
+  -  (C-74) Jungle Hijinks - Room 4
+  -  (C-75) Jungle Hijinks - Room 5
+  -  (C-76) Jungle Hijinks - Room 6
+  -  (C-77) Jungle Hijinks - Room 7
+  -  (C-78) Jungle Hijinks - Room 8
+  -  (C-79) Jungle Hijinks - Room 9
+  -  (C-80) Jungle Hijinks - DK
+
+  -  (C-81) Roof - Final Boss
+
+  -  (C-82) Basement 1
+  -  (C-83) Basement 2
+ (D) Tips
+ (E) Unlocks
+ (F) Thanks
+ (G) Experimental
+
+
+###############################################################################
+                                 (B) CONTROLS
+###############################################################################
+
+The controls for this game are as follows:
+
+
+Drag the stylus left or right to move the minis.
+
+Tap a mini or draw down to stop it, and drag the stylus up on one to jump.
+
+
+dpad / A,B,X,Y - Move camera.
+
+
+Start  - Pause.
+
+
+###############################################################################
+                                (C) WALKTHROUGH
+###############################################################################
+                           Bricklayer J. Gastronomy
+
+You will find the walkthrough for the main game in the sections below.
+
+You should check out the HELP button in the game for some helpful demos.
+
+
+###############################################################################
+                        (C-01) MUSHROOM MAYHEM - ROOM 1
+###############################################################################
+
+Tap the pink blocks to pick them up, then tap the dotted outlines just left of
+them to set them down and form a bridge.  Send both minis left towards some
+coins and a card, then remove the pink blocks so the minis fall down to the
+bottom.  Take more coins here as they walk right to the exit.
+
+
+###############################################################################
+                        (C-02) MUSHROOM MAYHEM - ROOM 2
+###############################################################################
+
+This is the first stage with spikes, which you don't want to fall on. There is
+also a yellow spring, which allows you to bounce straight up when you drag the
+stylus up over a mini near the spring.
+
+
+Tap the wall of pink blocks and move them right to make a lower bride, then
+send the left 2 minis walking right past the coins and up the stairs to the
+second level.  Move the pink blocks up to this level to create another bridge
+as all the minis walk left to the exit.
+
+
+###############################################################################
+                        (C-03) MUSHROOM MAYHEM - ROOM 3
+###############################################################################
+
+This is the first stage with plant enemies in it.  These guys fire a single
+fireball that bounces back into their mouth.  If you manage to put something
+between them and the fireball, then the fireball can get trapped.
+
+
+Move the top blocks and put them back in the same spot so that the fireball is
+stuck bouncing down below, then move the blocks on your left to make another
+bridge that traps a second fireball down low.
+
+Have the two right minis move left and use the spring as they take the coins up
+high.  Switch the pink blocks for a bridge below the card once they're clear of
+the first bridge.  Move the bridge back right to block the fireball from
+above, this lets the minis fall and walk safely to the exit.
+
+
+###############################################################################
+                        (C-04) MUSHROOM MAYHEM - ROOM 4
+###############################################################################
+
+This stage has your first shyguy, which are harmful to touch, but you can jump
+on top and ride them.  It also has conveyor belts which move you either left or
+right automatically, and can be controlled by tapping a nearby button.  The
+elevator sits on a floor and can also be moved by pressing the switch.
+
+
+Tap the blocks and put them back as the shyguy falls, then have the top mini
+walk right across the conveyers.  Use the button below so that he gets the card
+on the way down, then send the bottom mini right and have him stop on top of
+the shyguy.
+
+Send both minis right to the elevator [use the switch on the wall] while moving
+the blocks across here, then take the coins and go down to the exit.
+
+
+###############################################################################
+                        (C-05) MUSHROOM MAYHEM - ROOM 5
+###############################################################################
+
+This is the first stage with a hammer in it, which lets you destroy enemies
+that touch you.
+
+
+Get the bottom left mini to ride the shyguys for coins and have the top right
+mini do the same.  Move the blocks down as the bottom right mini heads left,
+then jump for the hammer and carefully hammer the bottom shyguys.
+
+Try to throw the hammer up to the other mini before heading up the elevator,
+then remove the wall and use it for an upper bridge.  Ride or hammer the last
+shyguy and send all minis right to the exit.
+
+
+###############################################################################
+                        (C-06) MUSHROOM MAYHEM - ROOM 6
+###############################################################################
+
+There is a new DK toy enemy in this stage.  This enemy stands there and throws
+you in the air repeatedly if you touch him, but he can be stunned with a
+hammer.
+
+
+Walk right into the DK toy as he tosses you up into the coins, then move the
+bridge left so another mini can get the card.  Move the bridge to the middle as
+the first mini lands safely, then head right for some coins and carefully move
+the bridge down so you can reach the exit.
+
+
+###############################################################################
+                        (C-07) MUSHROOM MAYHEM - ROOM 7
+###############################################################################
+
+Remove the blocks and hit the conveyor switch, then have the right mini walk
+left.  Change the conveyors so he grabs all the coins and the card and ends up
+on the right side, then ride the elevator up with his friend.  Put the blocks
+back on the right as you cross and ride the conveyor to the spring, then take
+it up to the exit.
+
+
+###############################################################################
+                        (C-08) MUSHROOM MAYHEM - ROOM 8
+###############################################################################
+
+Move the wall of blocks right so the right mini can cross, then take the
+hammer and move the blocks above to block the other plant.  Move more blocks
+right to get the card and drop through afterwards.  Send the bottom pair of
+minis up the elevator and start riding the shyguy with one.  Take the hammer
+and make a bridge while trying to trap the plants' fireball below, then head
+for the exit.
+
+
+###############################################################################
+                        (C-09) MUSHROOM MAYHEM - ROOM 9
+###############################################################################
+
+Have the bottom right mini use the hammer to get to the elevator with his
+friend, then ride up and use the hammer with the third mini to get past DK and
+a shyguy.  Move the blocks up while the mini falls and send him right to the
+springs, a card and some coins.  Move him back down to his friends and grab the
+hammer again, then move the blocks down and head for the exit.
+
+
+###############################################################################
+                          (C-10) MUSHROOM MAYHEM - DK
+###############################################################################
+
+This is your first boss battle and you want to hit DK 6 times to finish the
+fight.  He appears in one of 3 windows while barrels and dumbbells fall down.
+You a cannon to fire the minis with.  Draw across the wheel to move left or
+right and press the shoot button to fire a mini straight up.
+
+Listen for DK laughing when he appears, because that's the best time to hit
+him.  He stays in the window longer during this time and alternates between
+these longer moments and quick ones where he makes more debris fall.
+
+
+###############################################################################
+                        (C-11) TROPICAL ISLAND - ROOM 1
+###############################################################################
+
+Send the top mini right for a coin, then hit the red switch and drop down to
+the bottom.  Send the other mini right and hit the yellow switch as you take
+the card, then go back left and hit the red switch.  Use the spring to get both
+minis to the exit.
+
+
+###############################################################################
+                        (C-12) TROPICAL ISLAND - ROOM 2
+###############################################################################
+
+Send the top right mini down to the bottom safely as you hit the red switch
+with the top left mini.  Send this one down while hitting the other switch if
+you want to block the fireball.  Grab the card and bounce all the minis up to
+the exit while hitting the red switch.
+
+
+###############################################################################
+                        (C-13) TROPICAL ISLAND - ROOM 3
+###############################################################################
+
+Send the bottom 2 minis past bloopers and across platforms, then use the spring
+to reach the upper floor.  Move the blocks right so a mini can jump to the
+card, then send all minis left to the exit as you move the blocks left again.
+
+
+###############################################################################
+                        (C-14) TROPICAL ISLAND - ROOM 4
+###############################################################################
+
+Hit the red switch at the bottom and send both minis up the pipe, then jump to
+the hammer and smash the upper shyguys.  Send a mini down low as you hit the
+blue switch and more shyguys down there.  Use the yellow switch and collect the
+card as the minis reach the exit.
+
+
+###############################################################################
+                        (C-15) TROPICAL ISLAND - ROOM 5
+###############################################################################
+
+Hit the red switch with the top mini and have the bottom mini hit the blue
+switch.  Use the spring to get the card and make the elevator rise as the other
+mini joins his friend.
+
+Now you can use the elevator to keep the crab on the bottom floor, so you can
+get the coins.  Or you can let the crab off on the middle floor and just send
+the minis to the exit now.
+
+
+###############################################################################
+                        (C-16) TROPICAL ISLAND - ROOM 6
+###############################################################################
+
+Get the top left mini to take the coin while the bottom one hits the item block
+and the red switch.  Take the fire flower with the top left mini to stun the DK
+toy and jump for the flowers and card.  Have this mini and the top one drop to
+the lowest floor, then hit the yellow switch so a mini can get the coins in the
+corner.  Hit the red switch and send all minis through the right pipe to the
+exit.
+
+
+###############################################################################
+                        (C-17) TROPICAL ISLAND - ROOM 7
+###############################################################################
+
+Take the left blocks and use them to block the fireball of the lower plant.
+Make the two left minis cross the platforms [keeping in mind that they can't
+share the same platform] and send one up the pipe and through the next one.
+Take the card and ignore the spring to pass through another pipe, then send all
+the minis down the pipe as you take either trio of blocks and move it under the
+exit.  Send the minis up the next pipe and on to the exit.
+
+
+###############################################################################
+                        (C-18) TROPICAL ISLAND - ROOM 8
+###############################################################################
+
+Have the bottom mini use the switches to get the top crab to move down a floor,
+then have the other minis drop down a floor and take the coin.  Work one right
+so he can use the spring for a card, then hit the red switch with the crabs on
+the right side of the red wall so the bottom mini can go down the next pipe.
+
+Try to get the crabs on the left side of the red wall this time if you want the
+coins.  Either way, you want to use the pipes to get all minis down to the
+exit.
+
+
+###############################################################################
+                        (C-19) TROPICAL ISLAND - ROOM 9
+###############################################################################
+
+Take both walls of blocks so the top crab walks right and falls, then place the
+bridge below and take it away so that he falls down to the other crabs.  Have
+the top right mini drop left and go right to the elevator, then take it down a
+level and reveal the fire flower before taking it and killing the crabs.
+
+Send the top right mini left as he falls to the bottom and send the other mini
+right across the bridge before taking it away.  Reveal another fire flower from
+the bottom and build a small bridge, then send the minis right past the DK toy
+to the exit.
+
+
+###############################################################################
+                          (C-20) TROPICAL ISLAND - DK
+###############################################################################
+
+DK drops bananas on you in this fight and the bottom of his platform has spikes
+on it, so you can't hit him from below.  Instead, you want to fire a mini
+diagonally off the wall so he lands above and knocks a coconut down.  After
+one of these hits, DK drops 5 bananas quickly.  Once 6 coconuts hit DK, the
+battle is over.
+
+If you're lucky you can sometimes hit DK on the side without a coconut, but
+it's tough.
+
+
+###############################################################################
+                          (C-21) PIPE WORKS - ROOM 1
+###############################################################################
+
+Send a mini up the pipe for the coins and spin it so you exit right, then send
+both through.  Spin and exit the pipe up before hitting the red switch, then
+grab the card and get to safety.  Hit the yellow switch and keep left to the
+exit.
+
+
+###############################################################################
+                          (C-22) PIPE WORKS - ROOM 2
+###############################################################################
+
+Take the right blocks and open the valve to release the water.  Put the blocks
+down on your left and have the other 2 minis go down their pipes, then open the
+valve down low to add water over here.  Carefully remove the blocks so the
+minis land on the platforms and get the card.  Go up the long pipe and head for
+the exit.
+
+
+###############################################################################
+                          (C-23) PIPE WORKS - ROOM 3
+###############################################################################
+
+Hit the conveyor button and send one mini right to the exit for some coins as
+well.  Send another for a card and send one left for another coin.  Move the
+rest [or all if you want the max chain bonus] down the right pipes to reach the
+exit.
+
+
+###############################################################################
+                          (C-24) PIPE WORKS - ROOM 4
+###############################################################################
+
+Send the top mini up a pipe for the card, then carefully move these two past
+the thwomp.  Have one go down the pipe if you want some coins and return here,
+then have the third cross the blocks to join his friends.
+
+Take the blocks after and return them after the thwomp drops, to keep him
+above.  Send all minis through the pipe below while taking the blocks, then
+move the blocks under the exit.  Go up the nearby pipe to reach the exit.
+
+
+###############################################################################
+                          (C-25) PIPE WORKS - ROOM 5
+###############################################################################
+
+Steal the blocks and put them in the bottom right, then send this mini through
+the pipe and down to the hammer.  Take out the shyguys and grab the card, then
+move the blocks to the top left.  Grab the hammer with this mini and drop down
+to kill more shyguys, then send all minis through both pipes [rotating as
+needed].  Take the coins if you want and move the blocks to reach the exit.
+
+
+###############################################################################
+                          (C-26) PIPE WORKS - ROOM 6
+###############################################################################
+
+This stage has some cymbal enemies that can run and push you off a ledge.  Send
+the top mini left to a conveyor and switch it right so he gets the card.  Have
+the left mini go down through the conveyors and ride a pusher right past the
+coins.  Send the right mini down past the floating platforms, then have all
+minis ride the pusher and go up the pipe to reach the exit.
+
+
+###############################################################################
+                          (C-27) PIPE WORKS - ROOM 7
+###############################################################################
+
+Send the bottom left mini right and up the pipe, then send the left mini right
+and up a pipe as you move the blocks down.  Take the card while trapping the
+thwomp below, then trap the right thwomp at the bottom and send all minis to
+the exit.
+
+
+###############################################################################
+                          (C-28) PIPE WORKS - ROOM 8
+###############################################################################
+
+Send the middle right mini through the pipe so he exits below, then go down the
+next pipe to appear up top.  Head right and hit the red switch before dropping
+down and walking left to the spring.  Hit the blue switch above and grab the
+coins and card before sending all minis to the exit.
+
+
+###############################################################################
+                          (C-29) PIPE WORKS - ROOM 9
+###############################################################################
+
+Send the bottom 2 minis through the pipe so they exit at the bottom, then send
+the other mini through the pipe so he comes out above.  Hit the red switch with
+this mini and head right [use the yellow switch if you want the pusher to drop
+on the spikes for some coins].  Grab the card with the lower mini and watch the
+thwomp as you send all 3 to the exit.
+
+
+###############################################################################
+                            (C-30) PIPE WORKS - DK
+###############################################################################
+
+This battle has DK appearing out of 5 pipes while you also need to deal with
+plants and their fireballs.  The fireballs can bounce off the walls, so watch
+for that.  Attack DK when he sticks more than his head out and watch for more
+fireballs after he gets hit.
+
+
+###############################################################################
+                         (C-31) MAGNET MANIA - ROOM 1
+###############################################################################
+
+Move the blocks left to block the fireballs and send the left pair of minis
+left and the other one right.  All minis should be on the next floor, so take
+the blocks and use them in front of the left plant above you.  Use the other
+blocks sideways here so that you can get the card, then send everyone to the
+exit.
+
+
+###############################################################################
+                         (C-32) MAGNET MANIA - ROOM 2
+###############################################################################
+
+You can also shimmy sideways across the swing bars by drawing left or right,
+then tap the mini to stop.
+
+
+Have the mini by the swing bar jump onto it below the card, then move the wheel
+down until he's spinning fast.  Drag up on the mini to launch him up to the
+card, then remove the blocks and have the minis ride the conveyers one at a
+time to another swing bar.  Drop down and ride the shyguys left, then swing to
+the exit and put the blocks above so the minis can land on them.
+
+
+###############################################################################
+                         (C-33) MAGNET MANIA - ROOM 3
+###############################################################################
+
+This is the first floor that you see the rotating magnet stick, which is a
+green and blue section that you can drag on the ends of to flip to either side.
+
+
+You can send all the minis to the exit now and use the magnet sticks left and
+below the exit, or you can send one down lower and move the blocks to allow you
+to get the coins and card.
+
+
+###############################################################################
+                         (C-34) MAGNET MANIA - ROOM 4
+###############################################################################
+
+Send the bottom right mini up the right wall and move the blocks over so he can
+climb up to the card, then have the bottom left mini swing up higher from the
+bar.  Send these 2 minis right to the bar below and have them drop down, then
+go left to the long bar below the exit.  Shimmy lift and spin the bar, then
+swing up and take the exit.
+
+
+###############################################################################
+                         (C-35) MAGNET MANIA - ROOM 5
+###############################################################################
+
+Get the minis to grab the card and coins if you want while avoiding the spark
+enemy, then place the blocks below the exit so you can walk up to it.
+
+
+###############################################################################
+                         (C-36) MAGNET MANIA - ROOM 6
+###############################################################################
+
+Hang off the enemy's tie with the lower mini and ride the enemy with the other
+one, then head right and hang off the next tie if you want the card and some
+more coins.  Cross the spikes if need be and get the other minis to the swing
+pole, then swing up to the exit.
+
+
+###############################################################################
+                         (C-37) MAGNET MANIA - ROOM 7
+###############################################################################
+
+Walk up the walls and use the blocks and magnet sticks as needed.  Be sure to
+keep away from the spark enemies and remember that they get flipped with you on
+the magnet sticks.  Make a wall above the exit to transfer to the exit, then
+place the blocks under it to use the exit.
+
+
+###############################################################################
+                         (C-38) MAGNET MANIA - ROOM 8
+###############################################################################
+
+This is the first level with donut blocks in it, which fall after you walk over
+them [and respawn after a moment].
+
+
+Send the minis through the top magnet stick and up to the top left corner use
+the donut blocks to get the coins and a hammer.  Bust up the shyguys and take
+the card, then go up the pipe to reach the exit.
+
+
+###############################################################################
+                         (C-39) MAGNET MANIA - ROOM 9
+###############################################################################
+
+Hang off and ride the left tie enemy with the 2 left minis, then drop off the
+tie to the swing pole and jump up on the ledges above with the other mini.
+Swap the blocks to trap the thwomp while you walk up past it, and on to the
+exit.
+
+Have the bottom two minis shimmy right on the swing bar and swing up to the
+tie enemy, then use the springs to reach the bottom right corner.  Take the
+blocks above as you send the minis right up the wall, then trap the thwomp
+below with the blocks and head for the exit.
+
+
+###############################################################################
+                           (C-40) MAGNET MANIA - DK
+###############################################################################
+
+DK swings back and forth on a spiked platform in this battle while dropping
+spiked balls.  You want to fire the minis up to either of the corners so that
+the donut blocks land on DK.
+
+Watch for more spike balls after each hit, and wait for DK to stop flashing
+like usual.
+
+
+###############################################################################
+                           (C-41) LAVA DOME - ROOM 1
+###############################################################################
+
+Use the shyguys and the elevator to reach the exit.  You can take different
+paths to get the coins and the card, just watch for the fire logs and pass them
+carefully.
+
+
+###############################################################################
+                           (C-42) LAVA DOME - ROOM 2
+###############################################################################
+
+Have the right mini drop onto the platform above the lava fountain and take the
+card, then send him through the pipe to save time crossing the lava.  Go right
+and follow the trail of coins with one of the upper minis.  Have the others
+cross the lava and on to the exit.
+
+
+###############################################################################
+                           (C-43) LAVA DOME - ROOM 3
+###############################################################################
+
+This is the first stage where you can wall-jump between the red walls by
+tapping a mini.
+
+
+Get the bottom right mini to wall-jump up to the card, then jump the gap and
+take the exit.  Have the other minis work their way up by wall-jumping and
+using the springs.
+
+
+###############################################################################
+                           (C-44) LAVA DOME - ROOM 4
+###############################################################################
+
+Send the bottom left mini left up the pipe and springs, while the bottom right
+mini goes right past shyguys [spring onto the bottom one] and an elevator.
+Grab the card on the way to the exit with one of the upper minis.
+
+
+###############################################################################
+                           (C-45) LAVA DOME - ROOM 5
+###############################################################################
+
+This is the first stage with red fire blocks, which can be used to burn away
+wooden sections.
+
+
+Take the fire blocks and burn all wood [replace the blocks before burning
+more] except for the two on the bottom floor.  You can leave the top right
+piece if you want some coins, otherwise burn it.  Send a mini to the card and
+another to the coins in the bottom left corner, then move them OFF the wood
+before burning it and go to the exit.
+
+
+###############################################################################
+                           (C-46) LAVA DOME - ROOM 6
+###############################################################################
+
+Ride the pusher in the middle if you want the coin, then avoid the pusher and
+fireballs at the bottom if you want the card [walk into the red wall].  Take
+any other coins you want and wall-jump up to the exit.
+
+
+###############################################################################
+                           (C-47) LAVA DOME - ROOM 7
+###############################################################################
+
+Ride the far right shyguy to get the card.  Get any coins that you want by
+using shyguys, springs and swing bars.  Avoid the fire logs and fireballs as
+you take the spring to the exit.
+
+
+###############################################################################
+                           (C-48) LAVA DOME - ROOM 8
+###############################################################################
+
+Move the left mini off the wood before burning it, then take the coin and have
+the minis wait left of the next wood.  Put a wall left of the wood and burn it
+up, then ride the pusher and remove the wall to get the card and reach the
+exit.  The rest of the minis can use the DK toy below to knock them up above to
+the exit.
+
+
+###############################################################################
+                           (C-49) LAVA DOME - ROOM 9
+###############################################################################
+
+Have the bottom left mini wall-jump if you want the coins, then ride the lava
+fountain and tie with his friend to get the card.  Use the conveyor switch from
+here to reach the exit.  Use the ties and conveyors with the other minis to get
+down to the exit.
+
+
+###############################################################################
+                             (C-50) LAVA DOME - DK
+###############################################################################
+
+DK appears in 3 windows above with two fire logs guarding him.  He also drops
+fireballs down on you every third time he appears.  You want to aim carefully
+as you fire straight up at him.  Keep in mind that DK never appears in the same
+window twice in a row.
+
+
+###############################################################################
+                       (C-51) TOADSTOOL CASTLE - ROOM 1
+###############################################################################
+
+If you want the coins then you should send one of the left minis up the
+elevator to hit the blue switch.  Grab the card in the bottom right corner
+[you need a yellow switch] and use the red and blue switches to reach the exit.
+
+
+###############################################################################
+                       (C-52) TOADSTOOL CASTLE - ROOM 2
+###############################################################################
+
+Send the lower mini across the water while the other one hits a switch, then
+use the blue switch and pipes to get the card.  Send the left mini back to the
+water and drain it for the exit, then hit the blue switch with the other mini
+and get him over to the exit by using the water in the same way.
+
+
+###############################################################################
+                       (C-53) TOADSTOOL CASTLE - ROOM 3
+###############################################################################
+
+This is the first stage with moving platforms, which follow a track and extend
+when stopped.
+
+
+Ride the platforms and get as many coins as you want and the card, then hit the
+red switch and take the first elevator up to the exit.
+
+
+###############################################################################
+                       (C-54) TOADSTOOL CASTLE - ROOM 4
+###############################################################################
+
+Move a mini onto the left platform of the balance beam and have a right mini
+hit the blue switch.  Move onto the right platform with the nearby mini [weigh
+the left platform down first with another mini if you want some coins] and hit
+the red switch with one of the other 2.
+
+Take the card and move two minis to the exit by double-weighing a platform.
+Move the blocks down to get the coin, then remove them and get the other minis
+to the exit.
+
+
+###############################################################################
+                       (C-55) TOADSTOOL CASTLE - ROOM 5
+###############################################################################
+
+Hit the red switch to block the left thwomp and carefully grab the coins on
+your way right, then hit the yellow switch to block the next enemies.  Move
+these minis down and press the blue switch, then head for the exit [use the
+pipe for a coin if you want].
+
+
+###############################################################################
+                       (C-56) TOADSTOOL CASTLE - ROOM 6
+###############################################################################
+
+You don't really need to touch any of the switches here, just use the platforms
+to get any coins that you want, grab the card and use the hammer before you
+reach the exit.
+
+
+###############################################################################
+                       (C-57) TOADSTOOL CASTLE - ROOM 7
+###############################################################################
+
+Send the top left mini through the pipe and hit the lower item box, then use
+the blue switch and go back to the top left corner, then weigh down the
+platform.  Use the gold mini to weigh down the other side and step off left
+with the left mini.  Put another mini on the right side and use the blue spring
+and pink blocks to get above the card.
+
+Send both minis to the exit and remove the blocks so you fall onto the card and
+can run to the left side.  Put both remaining minis here before sending them to
+the exit.
+
+
+###############################################################################
+                       (C-58) TOADSTOOL CASTLE - ROOM 8
+###############################################################################
+
+Have one of the bottom minis release the fire flower, then send the top mini
+right past the blocks.  Work the rest of the minis to the bottom floor, and
+move the bridge of blocks and top wall so that both DK toys are on the floor
+with the exit [try to move the lower DK toy down first so a mini can get the
+coins, if you want them].
+
+Send the top mini to the card and down to join his friends, then send all the
+minis past the flower and DK toys to the exit.
+
+
+###############################################################################
+                       (C-59) TOADSTOOL CASTLE - ROOM 9
+###############################################################################
+
+Send the bottom left mini up to ride the tie if you want a coin, then hit the
+red switch and get the coins and card on the way to the exit.
+
+
+###############################################################################
+                         (C-60) TOADSTOOL CASTLE - DK
+###############################################################################
+
+DK swings back and forth on a spiked platform that also slides left and right
+while dropping spiked balls.  You want to fire the minis up to either of the
+corners [when he slides near them] so that the blocks land on DK.
+
+Watch for more spike balls after each hit, and wait for DK to stop flashing
+like usual.
+
+
+###############################################################################
+                         (C-61) SPOOKY ATTIC - ROOM 1
+###############################################################################
+
+Move the bottom blocks to trap the bouncing flame up above, then jump on the
+enemies to stun them both.  Send these two minis down the pipe, then have the
+other 2 minis down here use the springs.
+
+Move the blocks up once all minis are up high, then trap the nearby flame below
+as you use the spring and get the card.  Trap the flame above once more and go
+left to the exit.
+
+
+###############################################################################
+                         (C-62) SPOOKY ATTIC - ROOM 2
+###############################################################################
+
+Hit the red switch when the red phantom guys at the bottom are making stairs to
+get the coin, if you want it.  Send a mini through the bottom left pipe and
+have the others down here go up the same phantom stairs and up a different
+pipe.
+
+Hit the blue switch when the phantoms near the card are down low, then use them
+to get that card and climb the red phantom stairs once more to get near the
+exit.  The mini up top can use a red switch for another coin, then he can join
+his friends.  Use the blue switch here when the blue phantoms are in a row on
+your right, then walk to the exit.
+
+
+###############################################################################
+                         (C-63) SPOOKY ATTIC - ROOM 3
+###############################################################################
+
+Move the right blocks from the top under the left crate, then let it fall onto
+them.  Have a mini walk right across the blocks to get a coin in the top right
+corner, then get the mini below to take the coins on his right.  The mini
+between the left 2 crates can walk left for some coins, then you should release
+all 3 crates and replace the blocks.  Take the remaining cards and coins before
+using the exit.
+
+
+###############################################################################
+                         (C-64) SPOOKY ATTIC - ROOM 4
+###############################################################################
+
+Have a mini hang off the tie on your right and get the rest to walk up the left
+wall and use the spring.  Carefully grab the coins and have one mini use the
+magnet stick and donut blocks for another coin.  Get another to fall through
+the blocks and ride the tie enemy, then take the rest to the exit as you grab
+the card.
+
+
+###############################################################################
+                         (C-65) SPOOKY ATTIC - ROOM 5
+###############################################################################
+
+Hit the blue switch with a lower mini, then go down the top left pipe for some
+coins and back up again.  Use the red switch up above to make a bridge and
+cross with the minis, then use the blue switch and jump across the gaps for the
+card.  Hit the red switch and drop down with the minis to get the coins, then
+hit the yellow switch and go through the pipe with the top mini.  Now you can
+take all the minis to the exit.
+
+
+###############################################################################
+                         (C-66) SPOOKY ATTIC - ROOM 6
+###############################################################################
+
+Hit the red switch in the top corner and use the conveyor button to release one
+of the left crates, then grab the card and go down the pipe and take the coins
+in the bottom right corner.  Take that pipe and hit the conveyor switch to
+release another crate, then hit the yellow switch at the bottom.  Take the
+coins and hit the red switch, then use the exit.
+
+
+###############################################################################
+                         (C-67) SPOOKY ATTIC - ROOM 7
+###############################################################################
+
+Send the bottom right mini right for some coins, then up the pipe for the card.
+Carefully drop down and hit the red switch before going down a pipe, then use
+the blue switch and get the coins if you need them on the way to the exit.
+
+
+###############################################################################
+                         (C-68) SPOOKY ATTIC - ROOM 8
+###############################################################################
+
+Carefully move the bottom left minis past the thwomp, then move the blocks to
+make bridges and block the next thwomp.  Walk right up the wall and trap the
+thwomp down below, then drop down and get the card as you make a path to it.
+Block the plant above and walk up the wall to the exit.
+
+
+###############################################################################
+                         (C-69) SPOOKY ATTIC - ROOM 9
+###############################################################################
+
+Walk behind the DK toys and use the springs as needed, collect any coins that
+you want.  You need to reveal the fireflower and fall through the donut blocks
+while you have the flower.  Stun the middle DK toy this way and also use the
+bottom DK toy to carefully knock you up a level and reach the exit.
+
+
+###############################################################################
+                           (C-70) SPOOKY ATTIC - DK
+###############################################################################
+
+DK hides in one of 3 ghosts as they shuffle around above.  Follow him as best
+you can so you can get into position and fire as he reveals himself.  A bat
+flies down low and tries to dive at you, so avoid it while DK throws down
+fireballs.
+
+You need to deal with two bats and more fireballs directly after hitting DK, so
+keep your guard up.
+
+
+###############################################################################
+                        (C-71) JUNGLE HIJINKS - ROOM 1
+###############################################################################
+
+Ride the platforms and pushers with the top two minis for some coins, then hit
+a red switch and grab the card by using the lower mini.  Send another mini
+right to use the blue switch to get a few coins and move the minis above the
+exit, then hit the yellow switch on the way to the exit.
+
+
+###############################################################################
+                        (C-72) JUNGLE HIJINKS - ROOM 2
+###############################################################################
+
+The enemies in this stage will eat their way up or down a vine when they come
+across one.
+
+
+Use the springs to get all minis off the ground floor, then remove the right
+blocks so the nearby vine gets eaten.  Move the minis away from the other vines
+and remove the blocks above so the same enemy falls down and eats these vines.
+
+Now your free to use the blocks, get the card and whatever coins you want on
+your way to the exit.
+
+
+###############################################################################
+                        (C-73) JUNGLE HIJINKS - ROOM 3
+###############################################################################
+
+Move the upper left minis through the pipe and hit the conveyor button, then
+send the left minis right as you wait for the right enemy to eat the second
+vine.  Hit the conveyor button and go right through the pipe for the card
+[timing is HARD, you can also go into the pipe when the enemy above is as far
+right as possible], then quickly back down again.  Collect the coins that you
+want and head down to the exit.
+
+
+###############################################################################
+                        (C-74) JUNGLE HIJINKS - ROOM 4
+###############################################################################
+
+Send the bottom 2 minis left and remove the blocks so they can get some coins
+and reach the upper area.  Have a mini ride on top of the tie enemy as you make
+a bridge for him, then cross to the other side and remove the blocks so the
+enemy falls down a level.
+
+Put some blocks near the card so you can get it, then use the tie enemy to get
+everyone else across.  Put down more blocks and head for the exit with the
+minis.
+
+
+###############################################################################
+                        (C-75) JUNGLE HIJINKS - ROOM 5
+###############################################################################
+
+This is the first stage with grey bomb blocks, which can be placed among
+cracked blocks to get rid of them.
+
+
+Take some bomb blocks and use them to the right of the card here:
+
+X X
+XXXB
+
+The "B" is where you want to place the bomb, now you can destroy all other
+cracked blocks [if you want you can let the left blocks fall so you can get
+some coins] except the 3 here that make a set of stairs.  Take the coins that
+you want and the card before using the exit.
+
+
+###############################################################################
+                        (C-76) JUNGLE HIJINKS - ROOM 6
+###############################################################################
+
+This is the first stage with a snifit, which spits bullets at you in bursts of
+5.
+
+
+Carefully send the bottom right mini onto the pusher below to reveal the fire
+flower.  Use the flower to stun the DK toy, then move the other minis up higher
+as they take some coins.  Use the springs [avoid the bullets] and take the
+pipes up to the exit and the card.
+
+
+###############################################################################
+                        (C-77) JUNGLE HIJINKS - ROOM 7
+###############################################################################
+
+Hit the blue switch above the exit and send the top 3 minis left, then hit the
+red switch and use the hammer to get the card.  Move the minis down and hit the
+blue switch, then move them down and hit the yellow switch to reach the exit.
+
+
+###############################################################################
+                        (C-78) JUNGLE HIJINKS - ROOM 8
+###############################################################################
+
+Take the lower right blocks and use them in the top right corner to make the
+enemy fall down a level and eat 2 vines.  Use the blocks to get this enemy into
+the water, then use the blue spring at the top for a pair of coins.  Grab the
+card and some coins with the lower left mini and use the blocks so he doesn't
+fall in the water.
+
+Get the blue spring to land left of the conveyor, then send the other enemies
+along it to the water.  Now you can get any leftover coins and use the exit.
+
+
+###############################################################################
+                        (C-79) JUNGLE HIJINKS - ROOM 9
+###############################################################################
+
+Bomb all the blocks while leaving stairs up to the card, then send the bottom 3
+minis left to the DK toy.  Use the blocks in front of the snifits as you grab
+the card and whatever coins you want, then send the minis to the exit.
+
+
+###############################################################################
+                          (C-80) JUNGLE HIJINKS - DK
+###############################################################################
+
+DK hides climbs some vines above along with some enemies.  A bird flies down
+low and tries to dive at you, so avoid it.  You want to fire a mini up to knock
+a banana loose [make sure it doesn't hit you too] and hit DK with it [you can't
+damage him directly with a mini].
+
+You need to deal with the bird dropping eggs directly after hitting DK, so keep
+your guard up.
+
+
+###############################################################################
+                           (C-81) ROOF - FINAL BOSS
+###############################################################################
+
+This stage is right out of the classic Donkey Kong games, you need to send each
+mini up the solid ladders while jumping over the barrels.  Use the hammers to
+destroy barrels and any fireballs that come from the oil can.  Once you reach
+the top, you score a hit on DK and another mini appears at the bottom.
+
+After 6 hits, the fight and the game are both over!
+
+
+###############################################################################
+                               (C-82) BASEMENT 1
+###############################################################################
+
+You have fireball enemies to deal with here, but there are some hammers to make
+things easier.
+
+There are six segments on the lower screen, you walk over them to make them
+disappear.  There are another 6 on the top screen, just send minis up to that
+screen to get rid of them too, once they are all gone, the stage is over.
+
+
+###############################################################################
+                               (C-83) BASEMENT 2
+###############################################################################
+
+In this stage there are fireballs, spikes and bouncing springboards to deal
+with.  All of these can take out your minis, but there are also blue drops of
+water.
+
+You WANT the water to hit you, because it covers a mini with a protective
+bubble that makes you invincible for a short period.  This means that you can
+walk right past enemies and across spikes.
+
+
+I recommend using the bubbles when you can, they're the easiest way to get
+minis up to the large barrel above.  Failing that, you should use the first
+spring and climb up the shorter ladder, rather than the longer pair.  Jump the
+gaps and carefully use the blue spring to clear the gap and miss the
+springboard, then climb the top ladder.
+
+
+Once 6 minis have been send up to the barrel, the stage is over.
+
+
+###############################################################################
+                                   (D) TIPS
+###############################################################################
+
+If you are trying to get a better score, then you want to make sure you get the
+nonstop bonus.  It's hard to get but it's worth a lot of points.  Basically you
+want to make sure that you NEVER tap a mini or draw down on one to make it stop
+moving.  Once a mini starts moving, never tell it to stop.  You can tell it to
+walk the other way.  When a mini is waiting on a platform or elevator or
+trapped inside the bag DK toy, it still counts as moving.  It even helps to
+only move one mini if you can, then get the rest moving with him later on.
+
+Try to get the gold mini to be the last one in a chain for even more points.
+
+
+###############################################################################
+                                  (E) UNLOCKS
+###############################################################################
+
+Collecting all the cards on a floor unlocks a minigame for you to play.
+
+
+The construction kits are unlocked by beating DK at the end of each floor.
+
+The 3 special kits are unlocked by beating the target in 3, 6, and 9 of the
+minigames.
+
+
+Get 40 silver stars to unlock an extra boss fight and get 40 gold stars to
+unlock another one.
+
+All 80 bronze stars lets you change the minis on the title screen to toad
+minis.  80 silver or gold stars lets you do the same thing, but with princess
+and DK minis respectively.
+
+
+###############################################################################
+                                  (F) THANKS
+###############################################################################
+
+Huge thanks go out to the following contributors:
+
+BobFromPikeCreek
+jdx7777
+superphillip32
+veriya
+
+
+###############################################################################
+                                (G) EXPERIMENTAL
+###############################################################################
+
+For a little while now I've had a paypal link in all my FAQs at the very bottom
+here.  Mainly as a small experiment since a few other FAQ authors have also had
+the same idea.
+
+I had a few people email me before I put this link in because they wanted to
+send money, so it's here for those people.
+
+
+For the record I've received about $87 (which works out to a bit more in
+Canadian lol) last I checked, so I've been getting cases of pop and making some
+excellent progress on a few FAQs.
+
+If you don't want to send money or can't then send me an email, it's nice to
+hear what people thought about my work and there's always room for improvement.
+
+My email address is fecalord (AT) gmail (DOT) com, and the paypal address is
+listed below.
+
+
+For those that want to contribute, you can use paypal at the following address:
+
+fecalord2002 (AT) yahoo (DOT) ca
+
+Many thanks, and I hope you continue to use my work!
+
+~Dan

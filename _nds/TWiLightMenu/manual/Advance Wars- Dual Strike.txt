@@ -1,0 +1,4350 @@
+Advance Wars Dual Strike FAQ
+Copyright Nintendo 2006
+Written By Brian P. Sulpher
+E-mail: briansulpher@hotmail.com
+Version 1.5
+Dates Written: March 20th to June 25th, 2007
+
+I dedicate this to my girlfriend Jessica Thompson.  She has been a wonderful
+woman with me thus far, and she continues to be an astoundingly great human
+being.  She has always been supportive of my gaming (not seeing it as an evil
+necessity to put up with like some others), so here's to her, a beauty and my
+love!
+
+Also, for Cougar, Howler, and Koonce.  I miss you, and I hope you are living
+it up in the afterlife as you did in this world.  You will always be in my 
+memories, and you will never be forgotten.
+
+-----------
+Version 1.0
+-----------
+
+-Submitted FAQ on June 25th, 2007
+
+-----------
+Version 1.1
+-----------
+
+-Submitted FAQ on July 2nd, 2007
+-Corrected an error in the Co section for COlin (thanks to Ahmed Luqman)
+
+-----------
+Version 1.2
+-----------
+
+-Submitted FAQ on July 20th, 2007
+-Corrected an error that I had previously overlooked
+
+-----------
+Version 1.5
+-----------
+
+-Submitted FAQ on January 8th, 2008
+-Added in Mistwalker and Soul Of Hachi to the Special Skills section (thanks
+ to Rydawg for the information)
+
+----------------------------------------------------------------------------
+-----------------------------Table Of Contents------------------------------
+----------------------------------------------------------------------------
+
+1) Introduction
+2) Units
+3) Terrain
+4) Walkthrough
+5) Commanding Officers
+6) Special Skills
+7) Black Hole Installations
+8) Final Word
+
+----------------------------------------------------------------------------
+-------------------------------Introduction---------------------------------
+----------------------------------------------------------------------------
+
+1) With Sturm defeated and gone, it appeared that Black Hole might finally 
+   disappear into the wilds... at least for a while.  However, under a new
+   leader and with mostly new CO's, Black Hole has returned, this time 
+   aiming their mighty war machine upon the people of Omega Land!  That 
+   does raise an interesting query though... how does Black Hole keep 
+   producing such massive armies?  Especially after two straight disastrous
+   defeats at the hands of the members of the Allied Nations (Orange Star,
+   Blue Moon, Yellow Comet, and Green Earth)?  Play on to find out what is
+   going on, and enjoy what is a great expansion upon the AW universe!
+
+----------------------------------------------------------------------------
+----------------------------------Units-------------------------------------
+----------------------------------------------------------------------------
+
+2) This section will give information on each type of unit, what their 
+   weaponry is and what units they can fight.
+
+   The stats will be based on both units being at full power (both have full
+   Hit Points), the Defensive Terrain being a value of 0, and this will not 
+   take into account CO bonuses/penalties on the attacks.  It should be 
+   useful as a quick reference for offensive and defensive abilities of each
+   unit type.  Also note that any attack listed as 0% means that the unit 
+   type can not attack that unit type.  Al so note that any defense listed 
+   as 0% means that the unit type can not be attacked by the unit listed.
+
+
+                        o------------------------o
+                        | Short Range Land Units |
+                        o------------------------o
+
+                              ~~~~~~~~~~~~~~
+                            ~~~~ Infantry ~~~~
+                              ~~~~~~~~~~~~~~
+
+Cost            : 1000
+Movement Points : 3 (1 in mountains)
+Vision          : 2
+Primary Weapon  : None
+Secondary Weapon: Machine Gun
+
+These are the lighter foot soldiers in your army.  They are only good for 
+fighting other Infantry and Mech units when it comes to battling, but they
+are also useful for expanding your territory by capturing new cities.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :  55%
+Mech      :  45%
+Recon     :  12%
+APC       :  14%
+Anti-Air  :   5%
+Tank      :   5%
+Md Tank   :   1%
+Neotank   :   1%
+Megatank  :   1%
+Artillery :  15%
+Rocket    :  25%
+Missile   :  25%
+Piperunner:   5%
+Oozium 238:  20%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:   0%
+T Copter  :  30%
+B Copter  :   7%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :  55%
+Mech      :  65%
+Recon     :  70%
+APC       :   0%
+Anti-Air  : 105%
+Tank      :  75%
+Md Tank   : 105%
+Neotank   : 125%
+Megatank  : 135%
+Artillery :  90%
+Rocket    :  95%
+Missile   :   0%
+Piperunner:  95%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:  95%
+T Copter  :   0%
+B Copter  :  75%
+Stealth   :  90%
+Fighter   :   0%
+Bomber    : 110%
+
+
+                                ~~~~~~~~~~
+                              ~~~~ Mech ~~~~
+                                ~~~~~~~~~~
+
+Cost            : 3000
+Movement Points : 2 (2 in mountains)
+Vision          : 2
+Primary Weapon  : Bazooka (3 Rounds)
+Secondary Weapon: Machine Gun
+
+Mechs move slightly slower than other foot soldier counterparts, but this is
+due to their Primary Weapon the Bazooka.  They have 3 rounds  of the tank
+missile ammo before running dry, which means they will use their secondary
+weapon (Machine Gun) for all battles.  They are slightly more powerful than
+Infantry with the Machine Gun in battle, and they can stand against Tanks 
+and Recon units fairly well.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :  65%
+Mech      :  55%
+Recon     :  85% (18% without Bazooka)
+APC       :  75% (20% without Bazooka)
+Anti-Air  :  65% ( 6% without Bazooka)
+Tank      :  55% ( 6% without Bazooka)
+Md Tank   :  15% ( 1% without Bazooka)
+Neotank   :  15% ( 1% without Bazooka)
+Megatank  :   5% ( 1% without Bazooka)
+Artillery :  70% (32% without Bazooka)
+Rocket    :  85% (35% without Bazooka)
+Missile   :  85% (32% without Bazooka)
+Piperunner:  55% ( 6% without Bazooka)
+Oozium 238:  30% (20% without Bazooka)
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:   0%
+T Copter  :  35%
+B Copter  :   9%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :  45%
+Mech      :  55%
+Recon     :  65%
+APC       :   0%
+Anti-Air  : 105%
+Tank      :  70%
+Md Tank   :  95%
+Neotank   : 115%
+Megatank  : 125%
+Artillery :  85%
+Rocket    :  90%
+Missile   :   0%
+Piperunner:  90%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:  90%
+T Copter  :   0%
+B Copter  :  75%
+Stealth   :  90%
+Fighter   :   0%
+Bomber    : 110%
+
+
+                                ~~~~~~~~~~~
+                              ~~~~ Recon ~~~~
+                                ~~~~~~~~~~~
+
+Cost            : 4000
+Movement Points : 8 (3 per non-Road surface)
+Vision          : 5
+Primary Weapon  : None
+Secondary Weapon: Machine Gun
+
+These guys are essentially Infantry with wheels.  They have high-powered
+Machine guns for weapons, so they are ideal for taking on foot soldiers.
+Add in the fact that their vision is so great (a real asset in Fog Of War
+situations), and you have a unique and useful unit.  However, these 
+fellows can not capture cities or traverse across non-Road areas quickly, 
+so be wary of this when moving out with them.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :  70%
+Mech      :  65%
+Recon     :  35% 
+APC       :  45%
+Anti-Air  :   4%
+Tank      :   6%
+Md Tank   :   1%
+Neotank   :   1%
+Megatank  :   1%
+Artillery :  45%
+Rocket    :  55%
+Missile   :  28%
+Piperunner:   6%
+Oozium 238:  20%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:   0%
+T Copter  :  35%
+B Copter  :  10%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :  12%
+Mech      :  85% (18% without Bazooka)
+Recon     :  35%
+APC       :   0%
+Anti-Air  :  60%
+Tank      :  85% (40% without Cannon)
+Md Tank   : 105% (45% without Cannon)
+Neotank   : 125% (65% without Cannon)
+Megatank  : 195% (65% without MegaCannon)
+Artillery :  80%
+Rocket    :  90%
+Missile   :   0%
+Piperunner:  90%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:  90%
+T Copter  :   0%
+B Copter  :  55%
+Stealth   :  85%
+Fighter   :   0%
+Bomber    : 105%
+
+
+                                 ~~~~~~~~~
+                               ~~~~ APC ~~~~
+                                 ~~~~~~~~~
+
+Cost            : 5000
+Movement Points : 6
+Vision          : 1
+Primary Weapon  : None
+Secondary Weapon: None
+
+No weaponry for this baby as the APC (Armored Personnel Carrier) is intended
+for primary use as a transport for foot soldiers.  
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :   0%
+Md Tank   :   0%
+Neotank   :   0%
+Megatank  :   0%
+Artillery :   0%
+Rocket    :   0%
+Missile   :   0%
+Piperunner:   0%
+Oozium 238:   0%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:   0%
+T Copter  :   0%
+B Copter  :   0%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :  14%
+Mech      :  75% (20% without Bazooka)
+Recon     :  45%
+APC       :   0%
+Anti-Air  :  50%
+Tank      :  75% (45% without Cannon)
+Md Tank   : 105% (45% without Cannon)
+Neotank   : 125% (45% without Cannon)
+Megatank  : 195% (65% without MegaCannon)
+Artillery :  70%
+Rocket    :  80%
+Missile   :   0%
+Piperunner:  80%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:  80%
+T Copter  :   0%
+B Copter  :  60% (20% without Missile)
+Stealth   :  85%
+Fighter   :   0%
+Bomber    : 105%
+
+
+                              ~~~~~~~~~~~~~~
+                            ~~~~ Anti-Air ~~~~
+                              ~~~~~~~~~~~~~~
+
+Cost            : 8000
+Movement Points : 6
+Vision          : 2
+Primary Weapon  : Vulcan (9 Rounds)
+Secondary Weapon: None
+
+These treaded terrors are a fairly good investment as they can take down any
+flying units Hit points super fast.  They also have great success against foot
+soldiers and moderate success against lighter armored vehicles.  They are 
+susceptible to explosive rounds though, so be especially wary of the Tanks in
+the game.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  : 105%
+Mech      : 105%
+Recon     :  60%
+APC       :  50%
+Anti-Air  :  45%
+Tank      :  25%
+Md Tank   :  10%
+Neotank   :   5%
+Megatank  :   1%
+Artillery :  50%
+Rocket    :  55%
+Missile   :  55%
+Piperunner:  25%
+Oozium 238:  30%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:   0%
+T Copter  : 105%
+B Copter  : 105%
+Stealth   :  75%
+Fighter   :  65%
+Bomber    :  75%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   5%
+Mech      :  65% ( 6% without Bazooka)
+Recon     :   4%
+APC       :   0%
+Anti-Air  :  45%
+Tank      :  65% ( 6% without Cannon)
+Md Tank   : 105% ( 7% without Cannon)
+Neotank   : 115% (17% without Cannon)
+Megatank  : 195% (17% without MegaCannon)
+Artillery :  75%
+Rocket    :  85%
+Missile   :   0%
+Piperunner:  85%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:  85%
+T Copter  :   0%
+B Copter  :  25% ( 6% without Missile)
+Stealth   :  50%
+Fighter   :   0%
+Bomber    :  95%
+
+
+                                ~~~~~~~~~~
+                              ~~~~ Tank ~~~~
+                                ~~~~~~~~~~
+
+Cost            : 7000
+Movement Points : 6
+Vision          : 3
+Primary Weapon  : Cannon (9 Rounds)
+Secondary Weapon: Machine Gun
+
+These are the weakest of the Tank family, but they still deal decent damage
+to other Tanks and lightly armored units (like Recon and Anti-Air units).  
+The secondary weapon (Machine Gun) is fairly powerful (even better than a
+Recon's), so turning it loose on foot soldiers and even lightly armored
+vehicles if you have no more Cannon rounds.  A fairly cheap hard hitter that
+is fairly susceptible to explosive rounds.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :  75%
+Mech      :  70%
+Recon     :  85% (40% without Cannon)
+APC       :  75% (45% without Cannon)
+Anti-Air  :  65% ( 6% without Cannon)
+Tank      :  55% ( 6% without Cannon)
+Md Tank   :  15% ( 1% without Cannon)
+Neotank   :  15% ( 1% without Cannon)
+Megatank  :  10% ( 1% without Cannon)
+Artillery :  70% (45% without Cannon)
+Rocket    :  80% (55% without Cannon)
+Missile   :  80% (30% without Cannon)
+Piperunner:  55% ( 6% without Cannon)
+Oozium 238:  20% (20% without Cannon)
+Lander    :  10% ( 0% without Cannon)
+Black Boat:  10% ( 0% without Cannon)
+Cruiser   :   5% ( 0% without Cannon)
+Submarine :   1% ( 0% without Cannon) (only if Sub is on the surface)
+Carrier   :   1% ( 0% without Cannon)
+Battleship:   1% ( 0% without Cannon)
+T Copter  :  40%
+B Copter  :  10%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   5%
+Mech      :  55% ( 6% without Bazooka)
+Recon     :   6%
+APC       :   0%
+Anti-Air  :  25%
+Tank      :  55% ( 6% without Cannon)
+Md Tank   :  85% ( 8% without Cannon)
+Neotank   : 105% (10% without Cannon)
+Megatank  : 180% (10% without MegaCannon)
+Artillery :  70%
+Rocket    :  80%
+Missile   :   0%
+Piperunner:  80%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:  80%
+T Copter  :   0%
+B Copter  :  55% ( 6% without Missile)
+Stealth   :  75%
+Fighter   :   0%
+Bomber    : 105%
+
+
+                              ~~~~~~~~~~~~~
+                            ~~~~ Md Tank ~~~~
+                              ~~~~~~~~~~~~~
+
+Cost            : 16000
+Movement Points : 5
+Vision          : 1
+Primary Weapon  : Cannon (8 Rounds)
+Secondary Weapon: Machine Gun
+
+These are the middle of the Tank family power wise, they pack harsh damage
+to anything with metal coating 9exceptions being sea vessels and Neotanks).  
+The secondary weapon (Machine Gun) is fairly powerful (even better than a
+Tank's), so turning it loose on foot soldiers and even lightly armored
+vehicles if you have no more Cannon rounds.  A fairly expensive hard hitter 
+that is only susceptible to long range attackers as well as Md Tanks or 
+Neotanks.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  : 105%
+Mech      :  95%
+Recon     : 105% (45% without Cannon)
+APC       : 105% (45% without Cannon)
+Anti-Air  : 105% (10% without Cannon)
+Tank      :  85% ( 8% without Cannon)
+Md Tank   :  55% ( 1% without Cannon)
+Neotank   :  45% ( 1% without Cannon)
+Megatank  :  25% ( 1% without Cannon)
+Artillery : 105% (45% without Cannon)
+Rocket    : 105% (55% without Cannon)
+Missile   : 105% (35% without Cannon)
+Piperunner:  85% ( 8% without Cannon)
+Oozium 238:  30% (20% without Cannon)
+Lander    :  35% ( 0% without Cannon)
+Black Boat:  35% ( 0% without Cannon)
+Cruiser   :  30% ( 0% without Cannon)
+Submarine :  10% ( 0% without Cannon) (only if Sub is on the surface)
+Carrier   :  10% ( 0% without Cannon)
+Battleship:  10% ( 0% without Cannon)
+T Copter  :  45%
+B Copter  :  12%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   1%
+Mech      :  15% ( 1% without Cannon)
+Recon     :   1%
+APC       :   0%
+Anti-Air  :  10%
+Tank      :   1%
+Md Tank   :  55% ( 1% without Cannon)
+Neotank   :  75% ( 1% without Cannon)
+Megatank  : 125% ( 1% without MegaCannon)
+Artillery :  45%
+Rocket    :  55%
+Missile   :   0%
+Piperunner:  55%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:  55%
+T Copter  :   0%
+B Copter  :  25% ( 1% without Missile)
+Stealth   :  70%
+Fighter   :   0%
+Bomber    :  95%
+
+
+                              ~~~~~~~~~~~~~
+                            ~~~~ Neotank ~~~~
+                              ~~~~~~~~~~~~~
+
+Cost            : 22000
+Movement Points : 6
+Vision          : 1
+Primary Weapon  : New Cannon (9 Rounds)
+Secondary Weapon: Machine gun
+
+Neotanks are near the top of the line in power for land units, dealing 
+incredible damage to almost everything they fire on.  They also boast 
+superior movement range, making them fast striking foes that can wield their
+terror both far and fear the front lines.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  : 125%
+Mech      : 115%
+Recon     : 125% (65% without Cannon)
+APC       : 125% (45% without Cannon)
+Anti-Air  : 115% (17% without Cannon)
+Tank      : 105% (10% without Cannon)
+Md Tank   :  75% ( 1% without Cannon)
+Neotank   :  55% ( 1% without Cannon)
+Megatank  :  35% ( 1% without Cannon)
+Artillery : 115% (65% without Cannon)
+Rocket    : 125% (75% without Cannon)
+Missile   : 125% (55% without Cannon)
+Piperunner: 105% (10% without Cannon)
+Oozium 238:  35% (20% without Cannon)
+Lander    :  50% ( 0% without Cannon)
+Black Boat:  40% ( 0% without Cannon)
+Cruiser   :  30% ( 0% without Cannon)
+Submarine :  15% ( 0% without Cannon) (only if Sub is on the surface)
+Carrier   :  15% ( 0% without Cannon)
+Battleship:  15% ( 0% without Cannon)
+T Copter  :  55%
+B Copter  :  22%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   1%
+Mech      :  15% ( 1% without Bazooka)
+Recon     :   1%
+APC       :   0%
+Anti-Air  :   5%
+Tank      :  15% ( 1% without Cannon)
+Md Tank   :  45% ( 1% without Cannon)
+Neotank   :  55% ( 1% without Cannon)
+Megatank  : 115% ( 1% without MegaCannon)
+Artillery :  40%
+Rocket    :  50%
+Missile   :   0%
+Piperunner:  50%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Battleship:  50%
+T Copter  :   0%
+B Copter  :  20%
+Stealth   :  60%
+Fighter   :   0%
+Bomber    :  90%
+
+
+                              ~~~~~~~~~~~~~~
+                            ~~~~ Megatank ~~~~
+                              ~~~~~~~~~~~~~~
+
+Cost            : 28000
+Movement Points : 4
+Vision          : 1
+Primary Weapon  : MegaCannon (3 Rounds)
+Secondary Weapon: Machine gun
+
+An invention of Green Earth's CO's, this monstrosity packs an INCREDIBLE
+primary weapon in the MegaCannon!  It is capable of hammering anything into
+a smoking pile, and it also boasts incredibly thick and durable armor.  
+However, due to the massive size of the shells, only 3 MegaCannon rounds can
+be stored in the tank's body, and the massive armor makes the gas hold in 
+the vehicle very small, meaning that though this tank is powerful, it needs
+to be supported constantly or it will soon be running on fumes and secondary
+machine gun fire.  It also lacks large moving range, which is again due to 
+the over-armored nature of the vehicle.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  : 135%
+Mech      : 125%
+Recon     : 195% (65% without MegaCannon)
+APC       : 195% (65% without MegaCannon)
+Anti-Air  : 195% (17% without MegaCannon)
+Tank      : 180% (10% without MegaCannon)
+Md Tank   : 125% ( 1% without MegaCannon)
+Neotank   : 115% ( 1% without MegaCannon)
+Megatank  :  65% ( 1% without MegaCannon)
+Artillery : 195% (65% without MegaCannon)
+Rocket    : 195% (75% without MegaCannon)
+Missile   : 195% (55% without MegaCannon)
+Piperunner: 180% (10% without MegaCannon)
+Oozium 238:  45% (30% without MegaCannon)
+Lander    :  75% ( 0% without MegaCannon)
+Black Boat: 105% ( 0% without MegaCannon)
+Cruiser   :  65% ( 0% without MegaCannon)
+Submarine :  45% ( 0% without MegaCannon) (only if Sub is on the surface)
+Carrier   :  45% ( 0% without MegaCannon)
+Battleship:  45% ( 0% without MegaCannon)
+T Copter  :  55%
+B Copter  :  22%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   1%
+Mech      :   5% ( 1% without Bazooka)
+Recon     :   1%
+APC       :   0%
+Anti-Air  :   1%
+Tank      :  10% ( 1% without Cannon)
+Md Tank   :  25% ( 1% without Cannon)
+Neotank   :  35% ( 1% without Cannon)
+Megatank  :  65% ( 1% without MegaCannon)
+Artillery :  15%
+Rocket    :  25%
+Missile   :   0%
+Piperunner:  25%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Battleship:  25%
+T Copter  :   0%
+B Copter  :  10%
+Stealth   :  15%
+Fighter   :   0%
+Bomber    :  35%
+
+
+                             ~~~~~~~~~~~~~~~~
+                           ~~~~ Oozium 238 ~~~~
+                             ~~~~~~~~~~~~~~~~
+
+Cost            : Cannot be deployed
+Movement Points : 1
+Vision          : 1
+Primary Weapon  : None
+Secondary Weapon: None
+
+This byproduct of Black Hole's schemes is a slowly moving mess that seems
+innocent enough... until it gets up close.  It has the capability to absorb
+and destroy ANY unit in one movement, regardless of the target unit type and
+how healthy the Oozium may be.  They also boats great defense against 
+indirect attacks, meaning that only close up attacks will be able to 
+dissipate the pooled gelatinous mass.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  : 999%
+Mech      : 999%
+Recon     : 999%
+APC       : 999%
+Anti-Air  : 999%
+Tank      : 999%
+Md Tank   : 999%
+Neotank   : 999%
+Megatank  : 999%
+Artillery : 999%
+Rocket    : 999%
+Missile   : 999%
+Piperunner: 999%
+Oozium 238: 999%
+Lander    : 999%
+Black Boat: 999%
+Cruiser   : 999%
+Submarine : 999%
+Carrier   : 999%
+Battleship: 999%
+T Copter  : 999%
+B Copter  : 999%
+Stealth   : 999%
+Fighter   : 999%
+Bomber    : 999%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :  20%
+Mech      :  30% (20% without Bazooka)
+Recon     :  20%
+APC       :   0%
+Anti-Air  :  30%
+Tank      :  20% (20% without Cannon)
+Md Tank   :  30% (20% without Cannon)
+Neotank   :  35% (20% without Cannon)
+Megatank  :  45% (30% without MegaCannon)
+Artillery :   5%
+Rocket    :  15%
+Missile   :   0%
+Piperunner:  15%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Battleship:  20%
+T Copter  :   0%
+B Copter  :  25% (20% without Missile)
+Stealth   :  30%
+Fighter   :   0%
+Bomber    :  35%
+
+
+                        o-----------------------o
+                        | Long Range Land Units |
+                        o-----------------------o
+
+                             ~~~~~~~~~~~~~~~
+                           ~~~~ Artillery ~~~~
+                             ~~~~~~~~~~~~~~~
+
+Cost            : 6000
+Movement Points : 5
+Vision          : 1
+Primary Weapon  : Cannon (9 Rounds)
+Secondary Weapon: None
+
+A rather inexpensive long range attacker, it can fire on any enemy (excluding
+air units) within the range of 2-3 spaces.  It deal fairly heavy damage, even
+to armored vehicles.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :  90%
+Mech      :  85%
+Recon     :  80%
+APC       :  70%
+Anti-Air  :  75%
+Tank      :  70%
+Md Tank   :  45%
+Neotank   :  40%
+Megatank  :  15%
+Artillery :  50%
+Rocket    :  80%
+Missile   :  80%
+Piperunner:  70%
+Oozium 238:   5%
+Lander    :  55%
+Black Boat:  55%
+Cruiser   :  50%
+Submarine :  60% (only if Sub is on the surface)
+Carrier   :  45%
+Battleship:  40%
+T Copter  :   0%
+B Copter  :   0%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :  15%
+Mech      :  70% (32% without Bazooka)
+Recon     :  45%
+APC       :   0%
+Anti-Air  :  50%
+Tank      :  70% (45% without Cannon)
+Md Tank   : 105% (45% without Cannon)
+Neotank   : 125% (65% without Cannon)
+Megatank  : 195% (65% without MegaCannon)
+Artillery :  75%
+Rocket    :  80%
+Missile   :   0%
+Piperunner:  80%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:  80%
+T Copter  :   0%
+B Copter  :  65% (25% without Missile)
+Stealth   :  75%
+Fighter   :   0%
+Bomber    : 105%
+
+
+                               ~~~~~~~~~~~~
+                             ~~~~ Rocket ~~~~
+                               ~~~~~~~~~~~~
+
+Cost            : 15000
+Movement Points : 5 (3 per non-Road surface)
+Vision          : 1
+Primary Weapon  : Rockets (6 Rounds)
+Secondary Weapon: None
+
+An expensive but deadly long range attacker, it can fire on any enemy 
+(excluding air units) within the range of 3-5 spaces.  It deals spectacular
+damage, even to the toughest of armored vehicles.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :  95%
+Mech      :  90%
+Recon     :  90%
+APC       :  80%
+Anti-Air  :  85%
+Tank      :  80%
+Md Tank   :  55%
+Neotank   :  50%
+Megatank  :  25%
+Artillery :  80%
+Rocket    :  85%
+Missile   :  90%
+Piperunner:  80%
+Oozium 238:  15%
+Lander    :  60%
+Black Boat:  60%
+Cruiser   :  60%
+Submarine :  85% (only if Sub is on the surface)
+Carrier   :  60%
+Battleship:  55%
+T Copter  :   0%
+B Copter  :   0%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :  25%
+Mech      :  85% (35% without Bazooka)
+Recon     :  55%
+APC       :   0%
+Anti-Air  :  55%
+Tank      :  85% (55% without Cannon)
+Md Tank   : 105% (55% without Cannon)
+Neotank   : 125% (75% without Cannon)
+Megatank  : 195% (75% without MegaCannon)
+Artillery :  80%
+Rocket    :  85%
+Missile   :   0%
+Piperunner:  85%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:  85%
+T Copter  :   0%
+B Copter  :  65% (35% without Missile)
+Stealth   :  85%
+Fighter   :   0%
+Bomber    : 105%
+
+
+                              ~~~~~~~~~~~~~
+                            ~~~~ Missile ~~~~
+                              ~~~~~~~~~~~~~
+
+Cost            : 12000
+Movement Points : 4 (3 per non-Road surface)
+Vision          : 5
+Primary Weapon  : Missiles (6 Rounds)
+Secondary Weapon: None
+
+An expensive but deadly long range attacker, it can fire on any air unit
+within the range of 3-5 spaces.  It deals spectacular damage, even 
+destroying all air units with full Hit Points in a single volley (barring CO
+stat alterations).
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :   0%
+Md Tank   :   0%
+Neotank   :   0%
+Megatank  :   0%
+Artillery :   0%
+Rocket    :   0%
+Missile   :   0%
+Piperunner:   0%
+Oozium 238:   0%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:   0%
+T Copter  : 115%
+B Copter  : 115%
+Stealth   : 100%
+Fighter   : 100%
+Bomber    : 100%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :  25%
+Mech      :  85% (35% without Bazooka)
+Recon     :  28%
+APC       :   0%
+Anti-Air  :  55%
+Tank      :  85% (35% without Cannon)
+Md Tank   : 105% (35% without Cannon)
+Neotank   : 125% (55% without Cannon)
+Megatank  : 195% (55% without MegaCannon)
+Artillery :  80%
+Rocket    :  90%
+Missile   :   0%
+Piperunner:  90%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:  90%
+T Copter  :   0%
+B Copter  :  65% (35% without Missile)
+Stealth   :  85%
+Fighter   :   0%
+Bomber    : 105%
+
+
+                             ~~~~~~~~~~~~~~~~
+                           ~~~~ Piperunner ~~~~
+                             ~~~~~~~~~~~~~~~~
+
+Cost            : 20000
+Movement Points : 9 (only movable along pipes)
+Vision          : 4
+Primary Weapon  : Pipe Cannon (9 Rounds)
+Secondary Weapon: None
+
+This Black Hole invention can be taken away by finding their hidden base and
+wining the battle there.  Although restricted to movement along pipelines 
+(meaning it is only movable in a few levels) and camping on factories, it is
+a unique weapon that can only be directly attacked from one space as the 
+enemy can not drive onto the pipe.  Much like Rockets it can hit targets as 
+far away as 5 spaces, but unlike Rockets it can hit any target as close 2 
+spaces and it can also fire upon any unit in the field, including air 
+units.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :  95%
+Mech      :  90%
+Recon     :  90%
+APC       :  80%
+Anti-Air  :  85%
+Tank      :  80%
+Md Tank   :  55%
+Neotank   :  50%
+Megatank  :  25%
+Artillery :  80%
+Rocket    :  85%
+Missile   :  90%
+Piperunner:  80%
+Oozium 238:  15%
+Lander    :  60%
+Black Boat:  60%
+Cruiser   :  60%
+Submarine :  85% (only if Sub is on the surface)
+Carrier   :  60%
+Battleship:  55%
+T Copter  : 105%
+B Copter  : 105%
+Stealth   :  75%
+Fighter   :  65%
+Bomber    :  75%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   5%
+Mech      :  55%
+Recon     :   6%
+APC       :   0%
+Anti-Air  :  25%
+Tank      :  55% ( 6% without Cannon)
+Md Tank   :  85% ( 8% without Cannon)
+Neotank   : 105% (10% without Cannon)
+Megatank  : 180% (10% without MegaCannon)
+Artillery :  70%
+Rocket    :  80%
+Missile   :   0%
+Piperunner:  80%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:  80%
+T Copter  :   0%
+B Copter  :  55% ( 6% without Missile)
+Stealth   :  80%
+Fighter   :   0%
+Bomber    : 105%
+
+
+                              o-------------o
+                              | Water Units |
+                              o-------------o
+
+                               ~~~~~~~~~~~~
+                             ~~~~ Lander ~~~~
+                               ~~~~~~~~~~~~
+
+Cost            : 12000
+Movement Points : 7
+Vision          : 1
+Primary Weapon  : None
+Secondary Weapon: None
+
+No weaponry here as the Lander is intended solely for transporting land 
+units from one shore to another.  It can transport up to two units at a 
+time, but it can only land on a shore where there are Shallows or at a Port
+(does not need to be under your control).
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :   0%
+Md Tank   :   0%
+Neotank   :   0%
+Megatank  :   0%
+Artillery :   0%
+Rocket    :   0%
+Missile   :   0%
+Piperunner:   0%
+Oozium 238:   0%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:   0%
+T Copter  :   0%
+B Copter  :   0%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :  10% ( 0% without Cannon)
+Md Tank   :  35% ( 0% without Cannon)
+Neotank   :  50% ( 0% without Cannon)
+Megatank  :  75% ( 0% without MegaCannon)
+Artillery :  55%
+Rocket    :  60%
+Missile   :   0%
+Piperunner:  60%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :  25%
+Submarine :  95%
+Carrier   :   0%
+Battleship:  95%
+T Copter  :   0%
+B Copter  :  25%
+Stealth   :  65%
+Fighter   :   0%
+Bomber    :  85%
+
+
+                             ~~~~~~~~~~~~~~~~
+                           ~~~~ Black Boat ~~~~
+                             ~~~~~~~~~~~~~~~~
+
+Cost            : 7500
+Movement Points : 7
+Vision          : 1
+Primary Weapon  : None
+Secondary Weapon: None
+
+Similar to the Lander in that it can transfer two units at a time, due to
+it's lighter power it can only take Infantry or Mech units (the same rules 
+of shore/ports as only pick-up and drop-off spots apply).  The real draw of 
+this unit though is that it can repair damage to any unit by 1 Hit Point 
+immediately after moving, making it an ideal unit to mass produce to keep 
+the war machine healthy.  Note that they do not re0supply spent units 
+though.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :   0%
+Md Tank   :   0%
+Neotank   :   0%
+Megatank  :   0%
+Artillery :   0%
+Rocket    :   0%
+Missile   :   0%
+Piperunner:   0%
+Oozium 238:   0%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:   0%
+T Copter  :   0%
+B Copter  :   0%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :  10% ( 0% without Cannon)
+Md Tank   :  35% ( 0% without Cannon)
+Neotank   :  40% ( 0% without Cannon)
+Megatank  : 105% ( 0% without MegaCannon)
+Artillery :  55%
+Rocket    :  60%
+Missile   :   0%
+Piperunner:  60%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :  25%
+Submarine :  95%
+Carrier   :   0%
+Battleship:  95%
+T Copter  :   0%
+B Copter  :  25% ( 0% without Missile)
+Stealth   :  65%
+Fighter   :   0%
+Bomber    :  95%
+
+
+                              ~~~~~~~~~~~~~
+                            ~~~~ Cruiser ~~~~
+                              ~~~~~~~~~~~~~
+
+Cost            : 18000
+Movement Points : 7
+Vision          : 3
+Primary Weapon  : Missiles (9 Rounds)
+Secondary Weapon: Anti-Air Gun
+
+A jack-of-all-trades on the sea, this vessel is very adept at bringing down
+Submarines (using the Primary Weapon) and air force units (really effective
+on both Helicopter types and fair against all three Plane types).  It can 
+also carry up to two Helicopters (both types) on its deck at one time.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :   0%
+Md Tank   :   0%
+Neotank   :   0%
+Megatank  :   0%
+Artillery :   0%
+Rocket    :   0%
+Missile   :   0%
+Piperunner:   0%
+Oozium 238:   0%
+Lander    :  95%
+Black Boat:  95%
+Cruiser   :  25%
+Submarine :  90%
+Carrier   :   5%
+Battleship:   5%
+T Copter  : 105%
+B Copter  : 105%
+Stealth   : 100%
+Fighter   :  85%
+Bomber    : 100%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :  10% ( 0% without Cannon)
+Md Tank   :  30% ( 0% without Cannon)
+Neotank   :  30% ( 0% without Cannon)
+Megatank  :  65% ( 0% without MegaCannon)
+Artillery :  65%
+Rocket    :  85%
+Missile   :   0%
+Piperunner:  60%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :  25%
+Submarine :  25%
+Carrier   :   0%
+Battleship:  95%
+T Copter  :   0%
+B Copter  :  55%
+Stealth   :  35%
+Fighter   :   0%
+Bomber    :  85%
+
+
+                               ~~~~~~~~~~~~~~~
+                             ~~~~ Submarine ~~~~
+                               ~~~~~~~~~~~~~~~
+
+Cost            : 20000
+Movement Points : 6
+Vision          : 5
+Primary Weapon  : Torpedoes (6 Rounds)
+Secondary Weapon: None
+
+Subs can fire on naval units only, and they do very poorly against Cruisers 
+while great against other Subs and Battleships.  They will burn either one
+unit of fuel (on the surface) or five units of fuel (submerged) at the 
+beginning of each turn.  However, submerged Subs can not be detected by
+units unless they are right beside the unit.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :   0%
+Md Tank   :   0%
+Neotank   :   0%
+Megatank  :   0%
+Artillery :   0%
+Rocket    :   0%
+Missile   :   0%
+Piperunner:   0%
+Oozium 238:   0%
+Lander    :  95%
+Black Boat:  95%
+Cruiser   :  25%
+Submarine :  55%
+Carrier   :  75%
+Battleship:  55%
+T Copter  :   0%
+B Copter  :   0%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :   1% ( 0% without Cannon) (only if Sub is on the surface)
+Md Tank   :  10% ( 0% without Cannon) (only if Sub is on the surface)
+Neotank   :  15% ( 0% without Cannon) (only if Sub is on the surface)
+Megatank  :  45% ( 0% without MegaCannon) (only if Sub is on the surface)
+Artillery :  60% (only if Sub is on the surface)
+Rocket    :  85% (only if Sub is on the surface)
+Missile   :   0%
+Piperunner:  85% (only if Sub is on the surface)
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :  90%
+Submarine :  55%
+Carrier   :   0%
+Battleship:  95% (only if Sub is on the surface)
+T Copter  :   0%
+B Copter  :  25% (only if Sub is on the surface)
+Stealth   :  55% (only if Sub is on the surface)
+Fighter   :   0%
+Bomber    :  95% (only if Sub is on the surface)
+
+
+                                ~~~~~~~~~~~~~
+                              ~~~~ Carrier ~~~~
+                                ~~~~~~~~~~~~~
+
+Cost            : 30000
+Movement Points : 5
+Vision          : 4
+Primary Weapon  : Missile (9 Rounds)
+Secondary Weapon: None
+
+The Aircraft Carrier is a real terror versus air units, ripping them all 
+down from the skies (if they are within 3-8 spaces) with their vaunted 
+Missile attacks.  However, they also serve as a landing pad for any air 
+unit, holding two at a time and they will also re-supply any unit that stays
+on board until the next turn.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :   0%
+Md Tank   :   0%
+Neotank   :   0%
+Megatank  :   0%
+Artillery :   0%
+Rocket    :   0%
+Missile   :   0%
+Piperunner:   0%
+Oozium 238:   0%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:   0%
+T Copter  : 115%
+B Copter  : 115%
+Stealth   : 100%
+Fighter   : 100%
+Bomber    : 100%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :   1% ( 0% without Cannon)
+Md Tank   :  10% ( 0% without Cannon)
+Neotank   :  15% ( 0% without Cannon)
+Megatank  :  45% ( 0% without MegaCannon)
+Artillery :  45%
+Rocket    :  60%
+Missile   :   0%
+Piperunner:  60%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   5%
+Submarine :  75%
+Carrier   :   0%
+Battleship:  60%
+T Copter  :   0%
+B Copter  :  25% ( 0% without Missile)
+Stealth   :  45%
+Fighter   :   0%
+Bomber    :  95%
+
+
+                             ~~~~~~~~~~~~~~~~
+                           ~~~~ Battleship ~~~~
+                             ~~~~~~~~~~~~~~~~
+
+Cost            : 28000
+Movement Points : 6
+Vision          : 2
+Primary Weapon  : Cannon (9 Rounds)
+Secondary Weapon: None
+
+A floating armada of pain, these Cannons can attack any unit (except air 
+units) within a range of 2-6 spaces.  They deliver devastating damage to 
+even the largest of units and they have the potential to wipe out a lot of 
+units in a hurry.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :  95%
+Mech      :  90%
+Recon     :  90%
+APC       :  80%
+Anti-Air  :  85%
+Tank      :  80%
+Md Tank   :  55%
+Neotank   :  50%
+Megatank  :  25%
+Artillery :  80%
+Rocket    :  85%
+Missile   :  90%
+Piperunner:  80%
+Oozium 238:  20%
+Lander    :  95%
+Black Boat:  95%
+Cruiser   :  95%
+Submarine :  95% (only if Sub is on the surface)
+Carrier   :  60%
+Battleship:  50%
+T Copter  :   0%
+B Copter  :   0%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :   1% ( 0% without Cannon)
+Md Tank   :  10% ( 0% without Cannon)
+Neotank   :  15% ( 0% without Cannon)
+Megatank  :  45% ( 0% without MegaCannon)
+Artillery :  40%
+Rocket    :  55%
+Missile   :   0%
+Piperunner:  55%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   5%
+Submarine :  55%
+Carrier   :   0%
+Battleship:  50%
+T Copter  :   0%
+B Copter  :  25%
+Stealth   :  45%
+Fighter   :   0%
+Bomber    :  75%
+
+
+                               o-----------o
+                               | Air Units |
+                               o-----------o
+
+                              ~~~~~~~~~~~~~~
+                            ~~~~ T Copter ~~~~
+                              ~~~~~~~~~~~~~~
+
+Cost            : 5000
+Movement Points : 6
+Vision          : 2
+Primary Weapon  : None
+Secondary Weapon: None
+
+The "T" is for Transport, and that is what this whirlybird does for your
+forces.  It can carry one foot soldier at a time and it can load/unload
+only when it is over solid ground itself.  Useful for sneaking by the 
+front lines to snake a property or even the Enemy Headquarters.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :   0%
+Md Tank   :   0%
+Neotank   :   0%
+Megatank  :   0%
+Artillery :   0%
+Rocket    :   0%
+Missile   :   0%
+Piperunner:   0%
+Oozium 238:   0%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:   0%
+T Copter  :   0%
+B Copter  :   0%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :  30%
+Mech      :  35%
+Recon     :  35%
+APC       :   0%
+Anti-Air  : 120%
+Tank      :  40%
+Md Tank   :  45%
+Neotank   :  55%
+Megatank  :  55%
+Artillery :   0%
+Rocket    :   0%
+Missile   : 120%
+Piperunner: 105%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   : 105%
+Submarine :   0%
+Carrier   : 115%
+Battleship:   0%
+T Copter  :   0%
+B Copter  :  95%
+Stealth   :  95%
+Fighter   : 100%
+Bomber    :   0%
+
+
+                              ~~~~~~~~~~~~~~
+                            ~~~~ B Copter ~~~~
+                              ~~~~~~~~~~~~~~
+
+Cost            : 9000
+Movement Points : 6
+Vision          : 3
+Primary Weapon  : Missiles (6 Rounds)
+Secondary Weapon: Machine Gun
+
+A real nice addition to your armies, B Copters can use their Missiles to
+fight armored foes and they can use their Machine Guns to take down other
+units.  They can really hurt Infantry, Mech, B Copters, and Tanks or lower
+in the armored units.  However, they are quite weak to any Anti-Air units
+and they should be used as support attackers instead of being your front 
+line attackers.  They do not do well vs. Navy (except Cruisers) and they 
+can attack Helicopters only in the air (both kinds, but very well).
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :  75%
+Mech      :  75%
+Recon     :  55% (30% without Missile)
+APC       :  60% (20% without Missile)
+Anti-Air  :  25% ( 6% without Missile)
+Tank      :  55% ( 6% without Missile)
+Md Tank   :  25% ( 1% without Missile)
+Neotank   :  20% ( 1% without Missile)
+Megatank  :  10% ( 1% without Missile)
+Artillery :  65% (25% without Missile)
+Rocket    :  65% (35% without Missile)
+Missile   :  65% (35% without Missile)
+Piperunner:  55% ( 6% without Missile)
+Oozium 238:  25% (20% without Missile)
+Lander    :  25% ( 0% without Missile)
+Black Boat:  25% ( 0% without Missile)
+Cruiser   :  55% ( 0% without Missile)
+Submarine :  25% ( 0% without Missile) (only if Sub is on the surface)
+Carrier   :  25% ( 0% without Missile)
+Battleship:  25% ( 0% without Missile)
+T Copter  :  95%
+B Copter  :  65%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   7%
+Mech      :   9%
+Recon     :  10%
+APC       :   0%
+Anti-Air  : 120%
+Tank      :  10%
+Md Tank   :  12%
+Neotank   :  22%
+Megatank  :  22%
+Artillery :   0%
+Rocket    :   0%
+Missile   : 120%
+Piperunner: 105%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   : 105%
+Submarine :   0%
+Carrier   : 115%
+Battleship:   0%
+T Copter  :   0%
+B Copter  :  65%
+Stealth   :  85%
+Fighter   : 100%
+Bomber    :   0%
+
+
+                               ~~~~~~~~~~~~~
+                             ~~~~ Stealth ~~~~
+                               ~~~~~~~~~~~~~
+
+Cost            : 24000
+Movement Points : 6
+Vision          : 4
+Primary Weapon  : OmniMissile (6 Rounds)
+Secondary Weapon: None
+
+A versatile fighter, it is capable of damaging all land, sea, and air units,
+though it has to engage them directly in battle.  They also boast the great
+capability of being able to cloak themselves, only being vulnerable to 
+attack from other Stealths and Fighter units, but is comes at the cost of
+burning 8 units of fuel (as opposed to the traditional 5 units), so an APC 
+or a Carrier is a must for this unit to have any longevity on the 
+battlefield.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :  90%
+Mech      :  90%
+Recon     :  85%
+APC       :  85%
+Anti-Air  :  50%
+Tank      :  75%
+Md Tank   :  70%
+Neotank   :  60%
+Megatank  :  15%
+Artillery :  75%
+Rocket    :  85%
+Missile   :  85%
+Piperunner:  80%
+Oozium 238:  30%
+Lander    :  65%
+Black Boat:  65%
+Cruiser   :  35%
+Submarine :  55% (only if Sub is on the surface)
+Carrier   :  45%
+Battleship:  45%
+T Copter  :  95%
+B Copter  :  85%
+Stealth   :  55%
+Fighter   :  45%
+Bomber    :  70%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :  75%
+Tank      :   0%
+Md Tank   :   0%
+Neotank   :   0%
+Megatank  :   0%
+Artillery :   0%
+Rocket    :   0%
+Missile   : 100%
+Piperunner:  75%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   : 100%
+Submarine :   0%
+Carrier   : 100%
+Battleship:   0%
+T Copter  :   0%
+B Copter  :   0%
+Stealth   :  55%
+Fighter   :  85%
+Bomber    :   0%
+
+
+                               ~~~~~~~~~~~~~
+                             ~~~~ Fighter ~~~~
+                               ~~~~~~~~~~~~~
+
+Cost            : 20000
+Movement Points : 9
+Vision          : 2
+Primary Weapon  : Missiles (9 Rounds)
+Secondary Weapon: None
+
+Purely an air unit fighter, these guys are made to stop charging Helicopters
+in one volley of Missiles, as well as badly crippling other Fighters, 
+Stealths and Bombers.  Expensive to deploy, they can be taken down but 
+Anti-Air units and Missiles fairly easily, so keep an eye out for those 
+units when moving.  Still a useful unit to have, especially when the enemy 
+likes to bring the air units after your forces repeatedly.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :   0%
+Tank      :   0%
+Md Tank   :   0%
+Neotank   :   0%
+Megatank  :   0%
+Artillery :   0%
+Rocket    :   0%
+Missile   :   0%
+Piperunner:   0%
+Oozium 238:   0%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :   0%
+Submarine :   0%
+Carrier   :   0%
+Battleship:   0%
+T Copter  : 100%
+B Copter  : 100%
+Stealth   :  85%
+Fighter   :  55%
+Bomber    : 100%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :  65%
+Tank      :   0%
+Md Tank   :   0%
+Neotank   :   0%
+Megatank  :   0%
+Artillery :   0%
+Rocket    :   0%
+Missile   : 100%
+Piperunner:  65%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :  55%
+Submarine :   0%
+Carrier   : 100%
+Battleship:   0%
+T Copter  :   0%
+B Copter  :   0%
+Stealth   :  45%
+Fighter   :  55%
+Bomber    :   0%
+
+
+                               ~~~~~~~~~~~~
+                             ~~~~ Bomber ~~~~
+                               ~~~~~~~~~~~~
+
+Cost            : 22000
+Movement Points : 7
+Vision          : 2
+Primary Weapon  : Bombs (9 Rounds)
+Secondary Weapon: None
+
+A devastating sight to any ground unit that hears their jet engines whine as 
+it approaches, these behemoths can only be fired on by a select few units as 
+they bring their hard hitting payload.  Anti-Air and Missiles are the only
+ground units that can fire on them, Cruisers are on the only sea units to 
+fire on them, and Fighters as well as Stealths are the only air units to 
+fire on them.  However, Bombers are an excellent way to remove heavily 
+armored land units and they are worth the price that they boast.
+
+===================
+Attacking Abilities
+===================
+
+Infantry  : 110%
+Mech      : 110%
+Recon     : 105%
+APC       : 105%
+Anti-Air  :  95%
+Tank      : 105%
+Md Tank   :  95%
+Neotank   :  90%
+Megatank  :  35%
+Artillery : 105%
+Rocket    : 105%
+Missile   : 105%
+Piperunner: 105%
+Oozium 238:  35%
+Lander    :  95%
+Black Boat:  95%
+Cruiser   :  85%
+Submarine :  95% (only if Sub is on the surface)
+Carrier   :  75%
+Battleship:  75%
+T Copter  :   0%
+B Copter  :   0%
+Stealth   :   0%
+Fighter   :   0%
+Bomber    :   0%
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  :  75%
+Tank      :   0%
+Md Tank   :   0%
+Neotank   :   0%
+Megatank  :   0%
+Artillery :   0%
+Rocket    :   0%
+Missile   : 100%
+Piperunner:  75%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   :  65%
+Submarine :   0%
+Carrier   : 100%
+Battleship:   0%
+T Copter  :   0%
+B Copter  :   0%
+Stealth   :  70%
+Fighter   : 100%
+Bomber    :   0%
+
+
+                             ~~~~~~~~~~~~~~~~
+                           ~~~~ Black Bomb ~~~~
+                             ~~~~~~~~~~~~~~~~
+
+Cost            : 25000
+Movement Points : 9
+Vision          : 1
+Primary Weapon  : None
+Secondary Weapon: None
+
+Another Black Hole creation that must have the pans stolen from a lab map,
+this monster will not stay in the air long, and after one attack it will
+no longer exist.  However, when it does attack it will remove FIVE Hit 
+Points from every unit within range (friend or foe), though it can not 
+destroy any unit (if they have five or less Hit Points, then that unit will
+be reduced to 1 Hit Point).  The only units that can destroy a Black Bomb
+before it attacks are as follows: Anti-Air, Missiles, Piperunner, Cruiser,
+Carrier, Stealth, and Fighter.  Although they are expensive to deploy, a 
+well utilized and placed strike can knock an entire strike force of an army 
+into disarray, or even open a portion of the enemy defenses to a break 
+through opportunity.
+
+===================
+Defending Abilities
+===================
+
+Infantry  :   0%
+Mech      :   0%
+Recon     :   0%
+APC       :   0%
+Anti-Air  : 120%
+Tank      :   0%
+Md Tank   :   0%
+Neotank   :   0%
+Megatank  :   0%
+Artillery :   0%
+Rocket    :   0%
+Missile   : 120%
+Piperunner: 120%
+Oozium 238: 999%
+Lander    :   0%
+Black Boat:   0%
+Cruiser   : 120%
+Submarine :   0%
+Carrier   : 120%
+Battleship:   0%
+T Copter  :   0%
+B Copter  :   0%
+Stealth   : 120%
+Fighter   : 120%
+Bomber    :   0%
+
+----------------------------------------------------------------------------
+---------------------------------Terrain------------------------------------
+----------------------------------------------------------------------------
+
+3) This section will give you the heads up on how to use the terrain to your
+   advantage when battling the opposition.
+
+
+                              o------------o
+                              | Land Types |
+                              o------------o
+
+                                ~~~~~~~~~~
+                              ~~~~ Road ~~~~
+                                ~~~~~~~~~~
+
+Defense Rating: 0
+
+Since there is no cover when using the road, your units are extremely 
+vulnerable to damage.  However, it is the best movement place for wheeled
+vehicles.
+
+
+                               ~~~~~~~~~~~~
+                             ~~~~ Plains ~~~~
+                               ~~~~~~~~~~~~
+
+Defense Rating: 1
+
+With minimal cover, your troops will still be rather open to being hit hard
+by the opposition.  Wheeled vehicles will use two movement points per Plain
+crossed.
+
+
+                               ~~~~~~~~~~~~
+                             ~~~~ Forest ~~~~
+                               ~~~~~~~~~~~~
+
+Defense Rating: 2
+
+The trees afford the unit residing within some coverage from fire.  Wheeled
+vehicles use 3 movement points through these woods.
+
+
+                                ~~~~~~~~~~
+                              ~~~~ City ~~~~
+                                ~~~~~~~~~~
+
+Defense Rating: 3
+
+A unit can take a good beating while holding a City and still take very 
+little damage.  If the City is controlled by that unit, at the start of 
+their next turn they will be re-supplied and have up to 2 Hit Points
+recovered if they are damaged.
+
+
+                                 ~~~~~~~~~
+                               ~~~~ Lab ~~~~
+                                 ~~~~~~~~~
+
+Defense Rating: 3
+
+A unit can take a good beating while holding a City and still take very 
+little damage.  
+
+
+                                ~~~~~~~~~~
+                              ~~~~ Base ~~~~
+                                ~~~~~~~~~~
+
+Defense Rating: 3
+
+A unit can take a good beating while holding a Base and still take very 
+little damage.  If the Base is controlled by that unit, at the start of 
+their next turn they will be re-supplied and have up to 2 Hit Points
+recovered if they are damaged (provided the unit is a ground unit).  Also,
+if the Base is unoccupied by an unit, you can purchase a new ground unit to
+appear there.
+
+
+                               ~~~~~~~~~~~~~
+                             ~~~~ Airport ~~~~
+                               ~~~~~~~~~~~~~
+
+Defense Rating: 3
+
+A unit can take a good beating while holding an Airport and still take very 
+little damage.  If the Airport is controlled by that unit, at the start of 
+their next turn they will be re-supplied and have up to 2 Hit Points
+recovered if they are damaged (provided the unit is an air unit).  Also, if 
+the Airport is unoccupied by a unit, you can purchase a new air unit to 
+appear there.
+
+
+                                ~~~~~~~~~~
+                              ~~~~ Port ~~~~
+                                ~~~~~~~~~~
+
+Defense Rating: 3
+
+A unit can take a good beating while holding a Port and still take very 
+little damage.  If the Port is controlled by that unit, at the start of 
+their next turn they will be re-supplied and have up to 2 Hit Points
+recovered if they are damaged (provided the unit is a water unit).  Also, if
+the Airport is unoccupied by an unit, you can purchase a new air unit to 
+appear there.
+
+
+                                ~~~~~~~~~~
+                              ~~~~ Silo ~~~~
+                                ~~~~~~~~~~
+
+Defense Rating: 3
+
+A unit can take a good beating while holding a Silo and still take very 
+little damage.  A great attacking building, it can be fired (only one time 
+though) by an Infantry or a Mech.  They have unlimited range and a large 
+splash damage area, but both sides in the conflict can be hurt by it.
+
+
+                                ~~~~~~~~~~~
+                              ~~~~ Tower ~~~~
+                                ~~~~~~~~~~~
+
+Defense Rating: 3
+
+A unit can take a good beating while holding a Tower and still take very 
+little damage.  These new building in the Advance Wars universe allow for a
+country to get a +10% Offense boost for every one of these that they have in
+their possession, but they can not repair or resupply any units.
+
+
+                            ~~~~~~~~~~~~~~~~~~
+                          ~~~~ Headquarters ~~~~
+                            ~~~~~~~~~~~~~~~~~~
+
+Defense Rating: 4
+
+A unit can take a good beating while holding Headquarters and still take 
+very little damage.  This building is the nerve centre of each army, and if 
+it is captured, the side that lost their Headquarters loses the battle.  If
+the Headquarters is controlled by that unit, at the start of their next turn
+they will be re-supplied and have up to 2 Hit Points recovered if they are 
+damaged.
+
+
+                              ~~~~~~~~~~~~~~
+                            ~~~~ Mountain ~~~~
+                              ~~~~~~~~~~~~~~
+
+Defense Rating: 4
+
+A unit can take a good beating while holding a Mountain and still take very 
+little damage.  Only Infantry and Mech units may enter mountains, giving them
+the upper hand in battles with stronger foes.  They also experience increased
+vision during Fog Of War maps from these locales.
+
+
+                              o-------------o
+                              | Water Types |
+                              o-------------o
+
+                                ~~~~~~~~~~~
+                              ~~~~ Shoal ~~~~
+                                ~~~~~~~~~~~
+
+Defense Rating: 0
+
+A unique land type in that both land and water units can set foot on.
+No cover to be found, so maximum damage will be taken when in a fight.
+
+
+                                 ~~~~~~~~~
+                               ~~~~ Sea ~~~~
+                                 ~~~~~~~~~
+
+Defense Rating: 0
+
+Sea going vessels only here, with no cover what so ever.  Units here are
+completely open to damage.
+
+
+                                ~~~~~~~~~~
+                              ~~~~ Reef ~~~~
+                                ~~~~~~~~~~
+
+Defense Rating: 1
+
+The lone place on the sea where a unit can have some protection from 
+attack, albeit a very small amount of protection.
+
+----------------------------------------------------------------------------
+-------------------------------Walkthrough----------------------------------
+----------------------------------------------------------------------------
+
+4) This section will give statistics and strategies to get through each map 
+   in the game.  This includes the hidden lab areas as well, which will be 
+   placed after the map they are discovered in.
+
+
+                             o------------o
+                             | Mission 01 |
+                             o------------o
+
+Mission Name: Jake's Trial
+Suggested CO: Jake
+Enemy CO    : Rachel
+Difficulty  : 1/10
+
+On Day One send the Tank and Mech after the nearby enemy Tank to remove it
+from the battlefield, followed by moving the Infantry up to the closest 
+building to the Mech/Tank strike force.
+
+Day Two will see an enemy Infantry come close enough for the Mech and 
+Infantry to double team said enemy Infantry, while the Tank rolls out to cut
+some Hit Points out of the other enemy Infantry.
+
+Day Three will bring the simple job of mopping up the remains of the enemy 
+force to grab the victory!
+
+
+                             o------------o
+                             | Mission 02 |
+                             o------------o
+
+Mission Name: The New Black
+Suggested CO: Jake
+Enemy CO    : Jugger
+Difficulty  : 1/10
+
+Day One begins with the Tank rolling up the road, followed by loading the
+weakened Infantry into the APC before moving up the road past the Tank, 
+dropping the Infantry.  After this, fire at the enemy with the Artillery on
+the right while the Artillery on the left moves to the right one space.
+
+Day Two Continue to bring the Tank and APC up the road, rushing towards the 
+enemy ranks, while the Artillery should lay some punishment upon the hapless
+foes.
+
+Day Three will be more of the same, as the Artillery should lay the boots to
+the enemy Tanks, and the Tank/APC convoy continues along the northward path.
+
+Day Four has the Tank finishing off the remaining enemy Tank, ending the
+mission!
+
+
+                             o------------o
+                             | Mission 03 |
+                             o------------o
+
+Mission Name: Max Attacks
+Suggested CO: Max
+Enemy CO    : Lash
+Difficulty  : 2/10
+
+Day One will have all the B Copters fly north to try and outrace the strange
+enemy unit, though it will be impossible for a lot of the Copters to get 
+away cleanly (as you will soon see).  In the mean time, use an APC and a 
+Mech to block up the bridge against the incoming enemy land units.
+
+Day Two should begin by combining the hurt B Copters (combining them will
+lessen the amount of your units in the battle, BUT it will make them fight
+at full strength, which is a fair enough compromise), moving the one healthy
+B Copter to the very front of the unit lines you began to assemble last 
+turn.  Send the Mech onto the T Copter, and send the T Copter southwards, 
+moving towards the enemy Headquarters.
+
+Day Three will begin with the fully strengthened B Copters sending their 
+Missile payloads down into the enemy Tanks and Md Tanks.  After that the 
+Artillery should be moved as close to the front of the lines without being 
+exposed, remembering after that to move the T Copter further towards the 
+intended target of the enemy Headquarters.
+
+Day Four will further the attacks upon the enemy rolling forces, making them
+too weak to really threaten your units.  The T Copter should be able to 
+reach land, dropping off the Mech near the enemy Headquarters.
+
+Day Five onwards  will be dictated by your preferred style of play.  If you 
+are a fan of capturing the enemy Headquarters, then go get it while pounding
+the enemy troops that remain.  The alternative to this is to obliterate the
+enemy troops to complete the battle, though it may be wise to begin the 
+capturing at the same time, as the enemy can sometimes scatter, wasting an 
+extra turn on Max, so taking the HQ instead of spending the extra turn may 
+be more desirable for scoring purposes.
+
+
+                             o------------o
+                             | Mission 04 |
+                             o------------o
+
+Mission Name: Reclaim The Skies
+Suggested CO: Rachel
+Enemy CO    : Jugger
+Difficulty  : 1/10
+
+The mission has a 30 minute real time limit, so best not dawdle!  
+Actually, this mission is absolutely easy, so the time limit will turn out
+to be a complete non-factor.
+
+On Day one use the Missiles unit on the B Copter, destroying it completely, 
+followed by hammering the Tank with the Rockets.  Use the Anti-Air units on 
+the Bomber and Fighter, finally finishing the initial push by getting your
+Tank to crash into the enemy Tank.
+
+Day Two is simply finished by using your units to destroy the remaining 
+enemy forces, claiming the victory!
+
+
+                             o------------o
+                             | Mission 05 |
+                             o------------o
+
+Mission Name: Neverending War
+Suggested CO: Jake
+Enemy CO    : Koal
+Difficulty  : 2/10
+
+At this point in the game, selection of your CO for most maps are possible.
+Try to figure out which CO would work best on a particular map, though the
+suggested CO is the one that made it the easiest map possible (from here on 
+out).  When ready, choose deploy from the menu to begin the battle!
+
+On Day One purchase an Infantry unit in the south and a Mech in the north,
+also using current Mechs to draw the enemy nearer to your unit's positions.
+
+Day Two begins with a Tank purchase in the north, followed by beginning a 
+capture of a City in the south.  Also fire off a round at the enemy Tank in 
+the south to soften it up.
+
+Day Three begins with an Artillery purchase in the north after moving the 
+Tank bought on the previous turn southward, blocking the bridge so the enemy
+can not cross.  In the south buy a Mech before ending the turn.
+
+Day Four to Day Six will see things pick up in pace, so these movements will
+take place over the three day period.  Use the APC in the north to draw the
+enemy Md Tank towards your troops (position the APC on the Orange Star 
+city), where the Tank/Artillery/Mechs force can knock the Md Tank into the
+scrap heap.  Claim the factory in the south, rolling Tanks out the door as
+soon as possible, all the while producing more Tanks in the north to 
+reinforce the weakened troops already in combat.
+
+Day Seven onwards will consist of whittling down and destroying enemy 
+strength, using a two-pronged attack to clear the area of Black Hole units.
+
+
+                             o------------o
+                             | Mission 06 |
+                             o------------o
+
+Mission Name: The Ocean Blue
+Suggested CO: Colin
+Enemy CO    : Lash
+Difficulty  : 2/10
+
+On Day One use the Battleship and nearby Rocket on the enemy Cruiser, 
+sending it down to the briny deep, followed by sending the Submarine to the
+northwest, submerging it to avoid enemy Battleship fire after the turn ends.
+Speaking of that Battleship, move the nearby B Copter out to damage the 
+massive superstructure, hit the enemy Sub with a Cruiser salvo (this means 
+it will be a target for the Battleship after the turn, but it will not be
+destroyed), and load the APC with an Infantry before placing the APC and a 
+Tank on the Lander, moving towards the middle island.
+
+Day Two will begin with the enemy Sub being completely destroyed and the 
+enemy Battleship receiving some more damage from sea units, followed by 
+landing the APC and Tank with the Lander, setting up the battle with ground
+forces in the vicinity.
+
+Day Three onwards will be your typical mop up operation, pounding the 
+remaining units with all available troops, taking the field and the victory!
+
+
+                             o------------o
+                             | Mission 07 |
+                             o------------o
+
+Mission Name: Fog Rolls In
+Suggested CO: Jake or Rachel
+Enemy CO    : Koal
+Difficulty  : 3/10
+
+This is the first instance of Fog Of War to be found in the game, so get 
+ready for some hidden units, hard to peer into Woods and Reef sections of 
+the map.
+
+Day One begins the battle by sending the Infantry onto the nearby mountains
+to get a larger view of the area, spotting an Artillery.  Destroy the 
+Artillery while advancing the remaining troops (using Woods for cover as 
+much as humanly possible).
+
+On Day Two an enemy Recon and a Tank should be destroyed and damaged 
+respectively, also remembering to advance the troops while getting a Recon
+into some Woods further along to use it as a hidden observer to spot 
+incoming enemies.
+
+Day Three onwards will consist of a somewhat cautious approach, leapfrogging
+from cover to cover, tag teaming all opponents who would get in your way.  
+The enemy may try to sneak an Infantry past your troops in an APC (with the
+intention of taking your HQ), so keep an eye out for it to hammer it.  
+Finally, the enemy HQ houses a Tank and an Artillery unit is positioned in 
+the nearby Woods, so come at them with a B-Copter, Anti-Air, and Tank,
+overwhelming them quickly, going for the total destruction route of victory,
+or to just clear the way for an Infantry to take the Headquarters to end the
+map.
+
+
+                             o------------o
+                             | Mission 08 |
+                             o------------o
+
+Mission Name: Tag Battle
+Suggested CO: Max
+Enemy CO    : Lash & Jugger
+Difficulty  : 2/10
+
+The enemy will be trying out the Tag Battle style of the game (which will
+soon become commonplace), so the goal is to disable their troops to the 
+point that their counter-attack with the Tag Power will be minimal at best.
+
+On Day One buy two Infantry.
+
+On Days Two to Four buy two more Infantry and capture the nearby buildings, also
+making sure to get two Tanks prepped and roll them out, sending them to smash
+up the Black Hole Piperunner.  Finally, have an APC transport Infantry towards 
+the Airport, taking them to get the property under control.
+
+Days Five to Seven concentrates on finishing off the Piperunner and 
+consolidating all the northern properties.  As for new units, concentrate on 
+more Tanks, an Artillery, and an Anti-Air unit, advancing southward to engage
+the enemy, keeping them contained to the lower half of the map.
+
+Day Eight onwards will focus on taking out the enemy troops, lowering their 
+numbers and strength, forcing the enemy to use their Tag Attack with too few
+troops to inflict any severe damage.  After the attack, bring in Tanks, 
+Artillery, B Copters, and a Bomber, forcing the Black Hole units to be driven 
+under in very short order.
+
+
+                             o------------o
+                             | Mission 09 |
+                             o------------o
+
+Mission Name: Victory Or Death!
+Suggested CO: Jake & Rachel OR Colin & Sasha
+Enemy CO    : Koal & Lash
+Difficulty  : 3/10
+
+Start off by choosing two CO's, with the first CO selected battling on the main
+front in the conventional fashion, while the second CO selected will fight on 
+the secondary front.  The secondary front is a battle of various units, though 
+Fighters/Bombers can be sent to help, and the CO that wins will get to join 
+his/her partner on the main front, giving a decided advantage to said force, as
+they can make use of the Tag Power capability.
+
+Day One and Day Two will begin with the Fighters on the main front being sent 
+to the second front, strengthening the forces there for the fight to come.  
+While this is being done, take the Factory and Airport and that lie nearby, 
+ignoring the factory in the middle of the map, as the Black Fortress above will
+bomb any troops that are created there.
+
+Day Three to Day Six will see one more Fighter (buy from the Airport) and a 
+Bomber (since the enemy Fighters will be destroyed by now), both of which can 
+assist with the final destruction of the Black Fortress Minicannons, taking it 
+out of commission and ending the second front battle (bringing the second CO to
+the main front).  As for the main front, use Anti-Airs and B-Copters to hammer 
+the incoming enemy B-Copters while massing all other troops just outside the
+range of the bombs from above, waiting for the disabling of the fortress.  The 
+range to stay clear of the blasts are three spaces.
+
+Day Seven onwards will have the remaining units from the second front greatly 
+increase the Star Power of both CO's, setting up an ideal situation where a Tag
+Power can be used, so use it to push through the center of the map, leading the
+way with Tanks, hammering on the enemy.  After weakening the air defenses, 
+bring in B-Copters and Bombers, loosing them upon the hapless foes on the 
+ground, closing the net of units closer and closer upon the Black Crystal, 
+shattering it to take the field and the victory!
+
+
+
+                             o------------o
+                             | Mission 10 |
+                             o------------o
+
+Mission Name: Black Boats Ahoy!
+Suggested CO: Jake & Rachel
+Enemy CO    : Kindle
+Difficulty  : 3/10
+
+Day One to Day Three will have the Sub in the water submerge, focusing it's 
+efforts upon the enemy Battleship, scuttling the behemoth to the deep.  On land
+the battle is best served in your favour by pushing across the bridge, bringing 
+the fight to the foe, focusing upon the Tanks and Anti-Airs mainly, followed by
+creaming the Artillery and foot units.
+
+Day Four to Day Six will begin with the focus of grabbing the Neutral City 
+across the bridge, as it holds the map to the plans for the Black Boat unit 
+(this unlocks the next mission, so be sure to do this action).  Meanwhile, the 
+remaining units will need to mop up as many foes as possible, keeping the enemy
+occupied so the Lander can get an Infantry to the enemy Headquarters, capturing
+it to end the threat in this area!
+
+
+                             o------------o
+                             | Mission 11 |
+                             o------------o
+
+Mission Name: The Long March
+Suggested CO: Jake & Rachel (OS) / Colin & Sasha (BM)
+Enemy CO    : Jugger & Koal
+Difficulty  : 3/10
+
+Day One to Day Three for Orange Star should use indirects to shred the Black 
+Hole foes across the water, also making sure to use the Tanks to stem the 
+charging enemy Tanks, allowing for the indirects to rip them up.  Blue Moon 
+forces will need to smash up the Black Hole naval forces as their primary 
+mission, followed by turning attention to the heavy ground forces to assist the
+forces of Orange Star.  Colin and Sasha should switch positions every turn,
+buying new units with Colin while Sasha collects extra cash on the off turns.
+
+Day Four to Day Six will have an enemy Tag Power lay into the Orange Star 
+troops, so take the hit and send a Recon with an Infantry laden APC northward,
+hopping from forest to forest cover, attempting to get close to the Lab in the 
+north.  To facilitate this effort, divert some of the southern forces northward
+after the Black Hole foes begin to get taken out in the south, as the 
+overwhelming force is not necessary at that point.
+
+Continue to pound on the foes on both fronts, getting the Infantry close enough
+to the Lab to capture it, stealing the Black Boat plans and ending the mission!
+
+
+                             o------------o
+                             | Mission 12 |
+                             o------------o
+
+Mission Name: Lightning Strikes
+Suggested CO: Jake & Max
+Enemy CO    : Grimm & Sensei
+Difficulty  : 3/10
+
+Max is the perfect choice for the second front, as his direct firepower 
+capabilities will cancel out the B-Copter and Mech advantages that Sensei has.
+
+The first step is to turn the Auto CO off, as you can fight FAR better than any
+strategy setting selected for the second front.  This is very important to help
+remove the second front, adding your CO to the main front, making Tag Power's
+available for use.
+
+Day One to Day Five on the main front will concentrate on taking the City near
+the river, leaving the Infantry there to fight the foes that will try to cross
+while an APC (with an Infantry) and a Recon go north to get onto the center 
+island.  These two will begin the process of holding off Grimm's troops while 
+the Infantry takes the Factory, also creating and sending two more Anti-Airs to
+the second front (the starting Anti-Air should be sent there on the first 
+turn).  On the second front Max should work on destroying the Mechs when 
+possible, as they can do far more damage to the Anti-Air units (the best weapon
+against Sensei's forces), but attacking the B-Copters is also acceptable.  Use
+the non-air killing units in your possession to bait and distract the Mechs,
+buying the time necessary for the Anti-Airs to get into attack position.
+
+Day Six to Day Ten begin with the capture of the Airport at the outset, 
+creating a decided advantage for your forces as B-Copters will be able to 
+hammer the majority of the early troops that Grimm bought.  This is also a 
+choice time to make use of the Missile Silos that lie on the island, slamming 
+them into the enemy forces looking to attack across the river, weakening them 
+enough that your Infantry forces (buy replacements in the south as needed) can
+smack them back with relative ease.  Finally, the second front should consist 
+of an organized mop-up mission, with max putting an end to Sensei, joining 
+Jake on the main front.
+
+Day Eleven onwards will consist of Tanks, B Copters, and a Bomber hammering 
+into Grimm, using a Tag Power to remove the majority of his units, thus 
+rendering his Co Power/Super CO Power essentially useless.  It is possible to 
+take the Headquarters as well, but it is far more fun to pound his troops 
+relentlessly after he started with the initial advantage.
+
+
+
+                             o------------o
+                             | Mission 13 |
+                             o------------o
+
+Mission Name: Frozen Fortress
+Suggested CO: Jake & Rachel (OS) / Sensei & Grimm (BM)
+Enemy CO    : Kindle & Jugger
+Difficulty  : 3/10
+
+Com Towers will enable units to have a slight boost in firepower (10% over the
+usual for each unit MULTIPLIED by the amount possessed, so owning 3 is a 30%
+boost for instance), and this map will introduce them to your forces.
+
+Day One to Day Seven will have the northern forces exterminate the Black Hole 
+forces found there, followed by moving Infantry across the shoals to the far
+side of the water, claiming the Factory (build units from here to assist in the
+south) as well as the City, as it holds the map to the Black Bomb Lab area (the
+next mission is only playable by taking this City, so hop to it).  The southern
+forces will need to start out by taking the Airport, making use of Tanks and 
+B Copters to hurt the Black Hole forces, all the while expanding outwards to 
+take more property.
+
+Day Eight onwards will consist of more of the same, bringing the northern 
+troops to the south, squeezing a vice upon the Black Hole forces, crushing them
+in a display of awesome power.  Make sure to keep taking properties, increasing
+the firepower of all units via the Com Towers.
+
+
+                             o------------o
+                             | Mission 14 |
+                             o------------o
+
+Mission Name: Lash's test
+Suggested CO: Sensei & Grimm
+Enemy CO    : Lash
+Difficulty  : 2/10
+
+A rather simple matter of choice here, as Sensei can lead the way early, 
+leaving it to Grimm to pound the enemy after a few Days.
+
+Day One to Day Four will consist of Sensei having a B Copter free the Black 
+Bombs on the east side of the map, while an APC takes a Mech and an Infantry
+towards the Com Towers, taking them to increase the force's firepower.  An 
+Md Tank and a Rocket should free the other set of Black Bombs, followed by 
+massing the troops by this containment area (between it and the water).
+
+Day Five to Day Seven will being with a series of Black Bomb detonations, using
+about half of them, forcing the foe to combine their forces into one another 
+(they do this to get full strength units once again), followed by a second 
+round of Black Bomb smashings on the next turn.  At this point the main forces
+in your control should rush northward, smacking the weakened units to remove as
+many from play as possible.  Also, as a precaution, make sure that an Infantry
+is sent to the Airport, taking it to make sure that the Black Hole can not 
+start using it to pump out new units.
+
+Day Eight onwards will have any Powers being used, pushing right to the top of 
+the area, killing all foes.
+
+
+                             o------------o
+                             | Mission 15 |
+                             o------------o
+
+Mission Name: Verdant Hills
+Suggested CO: Colin & Max (OS) / Sasha & Jake
+Enemy CO    : Javier & Jess
+Difficulty  : 5/10
+
+Day One to Day Three will have the Orange Star forces (led by Colin) move their
+Tanks to the south to bottle up the exit from the mountains, purchasing more 
+Tanks to assist in this endeavour.  In the mean time, all the Infantry should 
+be fanning out and taking the Cities/Com Towers that it can, gaining firepower
+bonuses and funding in the process.  Blue Moon troops will have to use their
+long range capabilities to weaken up the Megatank and large escort Tanks it 
+has, positioning the Mechs on Mountains where treaded troops can not attack 
+them, but gives them (and the indirect units) a better look at the battlefield.
+Have Sasha lead the way here, using her Market Crash power to bring the enemy
+back from the brink of a Tag Power attack.
+
+Day Four onwards will have Max leading the way for Orange Star, using his 
+direct firepower skills to knock out the Megatank.  The Blue Moon will need to 
+support the Orange Star efforts from afar while they wait for a chance to send 
+their Mechs in over the mountains, taking the headquarters to end the battle.
+
+
+                             o------------o
+                             | Mission 16 |
+                             o------------o
+
+Mission Name: Snow Hunters
+Suggested CO: Max & Javier
+Enemy CO    : Hawke
+Difficulty  : 4/10
+
+Day One to Day Seven opens with the decision of whether to blast open the pipe
+seams to stall the progress of the Piperunners, or to let the, slide along, as
+the blown pipe seams will allow the main force of Black Hole direct access to 
+your trapped units.  The best option is to allow the Piperunners free reign, as
+they will soon slide into range of your Tanks, making their days numbered.  The
+indirect units will need to keep the enemy Infantry from claiming the Factories
+on the opposite side of the pipes, as that would prove disastrous to the 
+battle (if no Infantry to shoot, peg off enemy Tanks and Artillery).  The 
+Missiles and Anti-Air should be re-routed to the southwest, lining up to face 
+the incoming B-Copter and Bomber barrage, followed by moving an APC with foot
+soldiers to go take the Seaport and Com Tower.  Finally, use the Lander to send
+an Infantry to the island in the southeast AFTER the Piperunners have moved 
+northwards in pursuit of your troops.  By taking the Cities here, the map to 
+the Piperunner Lab location will be secured, creating the opportunity to play
+the next level.
+
+Day Eight onwards will focus on smashing the remaining foes, purchasing a 
+Battleship from the Seaport to assist in the tackling of the remaining foes.  
+With enough enemies subdued, move on to smash the Minicannons (use the 
+Battleship to open the festivities), rushing them in one big move, as they can 
+only do so much damage before the next turn, knocking all three out to take the
+victory!
+
+
+                             o------------o
+                             | Mission 17 |
+                             o------------o
+
+Mission Name: Spiral Garden
+Suggested CO: Sensei & Grimm
+Enemy CO    : Kindle
+Difficulty  : 4/10
+
+Day One to Day Ten will have Sensei leading the way at first, making use of his
+superior transport movement capabilities, getting Infantry as far out into the
+furthest reaches of Properties, forcing Kindle to waste time battling for them
+instead o taking them.  With one strike force working up the west side of the 
+map, using a an Artillery or two with Tanks to subdue any opposition while the
+stronger force goes through the pipe seams to take the Airport and battle the 
+main enemy force that will come down the east side of the map.  Two Piperunners
+will attack (one versus each strike force), so get Tanks in close enough to 
+really pound on them and eliminate them as early as possible.  Once the main
+chunk of properties have been snagged, it is time for Grimm to come in and begin
+the assault in earnest.
+
+Day Eleven onwards will focus on Grimm pounding the enemy with Tanks, 
+Anti-Airs, Artillery, and even a couple Bombers, as he will be able to push the
+line back, allowing APCs to bring up Infantry to take the final Properties 
+required to gain the victory.  It is also nice for your score to smash extra
+pipe seams before taking the final property, as it will add to your overall
+score after the map is over.
+
+
+                             o------------o
+                             | Mission 18 |
+                             o------------o
+
+Mission Name: Omens And Signs
+Suggested CO: Colin & Max
+Enemy CO    : Koal & Jugger
+Difficulty  : 5/10
+
+A two front mission, the main front will benefit from stronger, more expensive
+units to purchase, so Colin is a great choice there.  The secondary front is
+more open to choice, so choose someone who you like, though Max does have that
+offensive direct firepower bonus, and Sasha has a great Tag Power rating with 
+Colin, so either of them should be leading candidates.
+
+Day One to Day Ten on the main front will begin by taking the closer properties
+to the homebase area, followed by moving southward to take the Com Towers and 
+southern Factory.  While this is happening, have Artillery and Rockets move 
+south as well, getting them into position to bust up the enemy Cruisers 
+(allowing the Carriers to drop the Stealth Fighters) as well as bust the Pipe
+Seams.  Send all but two of the Fighters to the second front, keeping those two 
+handy to hammer the enemy air units (send them skyward once the main front is 
+clear of enemy air units).  Finally, cut down as many of the enemy units along
+the way, staying away from the Minicannons, as they are invulnerable.  The 
+second front will consist of destroying all enemy Fighters, allowing the 
+survivors to turn on the fortress, taking out the supports to crash it, ending
+the second battle.
+
+Day Eleven onwards will have the enemy pushed back even more, using all 
+available units (and a Battleship bought with spendthrift Colin) to lay into the
+four Minicannons, as they are now vulnerable with the fortress above disabled. 
+A Tag Power will likely be available as well, so use it to really push on the
+enemy to get a better Power score.
+
+
+                             o------------o
+                             | Mission 19 |
+                             o------------o
+
+Mission Name: Into The Woods
+Suggested CO: Max & Grimm (OS) / Jess & Javier (BM)
+Enemy CO    : Kindle & Lash
+Difficulty  : 5/10
+
+Day One to Day Four for Orange Star will have an objective of moving right at
+the forest ahead, having the APC drop an Infantry right into the trees, which
+will spot the charging Oozium 238, allowing the Megatank/Neotanks/Md Tanks to
+team up and wham the Oozium 238 in one round (it must be defeated in one round 
+or it will eat a valuable unit on the next turn).  Blue moon will make use of
+their indirects to pound on the initial enemy troops, using the Tanks and APCs
+as protective barriers to keep the hard hitters healthy.  he second wave of 
+attack will come in the form of B-Copters, so ready the Anti-Airs and Missile
+units to bring them down from the skies.  The final piece of advice is to 
+almost fill the enemy Power Meters, but end your turn before completely fill
+them up, as the enemy will just attack instead of using the powers, allowing
+for an extra turn of poundings on them, leaving them with too few units to
+mount an effective Tag Power offensive.
+
+Day Five onwards will continue the push to the east, with both units taking
+a Com Tower to improve their firepower.  Another Oozium 238 lies in wait in
+the forests near the main road and the mountains, so once it draws near whack 
+it with the powerful tanks to get rid of the threat.  The final surprise the
+enemy has in store are a pair of Neotanks hiding in the trees near their
+Headquarters, so make use of the Missile Silos to bombard the area (even if you
+can not see the enemy in Fog of War, the Missiles will still do their damage),
+followed by rushing into mop up the weakened units.  Keep plowing along, 
+routing all the foes for the easy victory.
+
+
+                             o------------o
+                             | Mission 20 |
+                             o------------o
+
+Mission Name: Muck Amok!
+Suggested CO: Grimm & Jake (OS) / Hawke & Lash (BM)
+Enemy CO    : Koal
+Difficulty  : 3/10
+
+Not a particularly difficult mission, the proper choice in CO's proves crucial.
+Sine the enemy uses Oozium 238 as the overwhelming choice for attack, so 
+Grimm's offensive strengths and defensive shortcomings will work swimmingly 
+here, while Jake has the luxury of a lot of field tiles to take advantage of
+for extra firepower.  Finally, Javier is a solid choice as well, as he has
+some Com Towers to make use of, though his advantages do not come into play as 
+early as the other two CO's mentioned here.
+
+Day One to Day Six will begin with the units fanning out into two attack 
+groups, one strike force going east towards the Com Tower while the other 
+strike force moves northward towards the Minicannon.  Make use of a T-Copter
+and a Mech to get the aforementioned Com Tower, withdrawing the Mech before the
+Oozium 238 can overwhelm the position.  Remember when attacking Oozium 238 to 
+wipe out any Oozium 238 that you attack in that same round, or it will absorb
+and destroy one of your units.  Hawke and Lash should get their units behind 
+the advancing rescue party, using their Rockets to help weaken the Oozium 238,
+so use Hawke for his unit firepower bonus, focusing on really weak foes as they
+are more likely to take damage from the indirect units, as they are rather
+resistant to such units typically.
+
+Day Seven onwards, keeping up the Oozium 238 extermination while having the
+T-Copter and the Mech go north to take another Com Tower.  Once the Tag Power 
+is set up, use it to really pound the Oozium 238, allowing a couple units to 
+rush the Missile unit near the headquarters, pounding it into slagged metal,
+ending the mission!
+
+
+                             o------------o
+                             | Mission 21 |
+                             o------------o
+
+Mission Name: Healing Touch
+Suggested CO: Javier & Jess (OS) / Hawke & Lash (BM)
+Enemy CO    : Kindle & Jugger
+Difficulty  : 5/10
+
+Javier and Jess for Orange Star works well due to the abundance of Com Towers
+for Javier to take and Jess has a lot of treaded vehicles upon which to use
+her special skills.  Hawke and Lash work well at Blue Moon thanks to some
+nice terrain for Lash and Hawke (as always) boasts some decent unit bonuses.
+Note that the Black Crystals will heal all units within range for 2 Hit Points
+before each Black Hole turn.
+
+Day One to Day Eight will begin with the first two days being used to hammer as
+many of the weak enemy forces as humanly possible, followed by smashing the
+three southern Black Crystals.  Each army should get an Infantry to take a Com 
+Tower, while more Infantry take a Factory (Orange Star) and an Airport (Blue 
+Moon).  Finally, make sure that enough Infantry exist in the south to make use 
+of the Missile Silos in one turn, but do not use them yet.
+
+Day Nine onwards will consist of positioning the troops, purchasing Anti-Airs 
+and Tanks for Orange Star while the Blue Moon forces should add a Black Bomb 
+and any B-Copters (if possible).  When the attack is ready, use the Black Bomb
+to weaken the front line foes for the charging units, while the Infantry in the
+south should let the Missile Silo shot go against the foes a bit further back
+from the main line, causing the entire Black Crystal healing process to be 
+severely hampered.  After the enemy threat is gone, go about the business of
+smashing up the Black Crystals, finishing off the mission!
+
+
+                             o------------o
+                             | Mission 22 |
+                             o------------o
+
+Mission Name: Crystal Calamity
+Suggested CO: Jake & Rachel (OS) / Jess & Javier (BM) / Colin & Sasha (GE)
+Enemy CO    : Koal & Kindle
+Difficulty  : 6/10
+
+Things are going to be very difficult on this mission, as the enemy satellite
+can only be disabled by launching nine Missile Silos (three each in the various
+forces areas), making sure to not let the enemy take even one, as that will
+cause the mission to fail.  With this issue at stake, the time constraint of
+50 minutes is also placed upon your forces as well, making it a double whammy 
+of challenge.  To get the triple crown, the Black Obelisk in the center of the
+map must be destroyed.
+
+Orange Star will need to make use of Tanks, Artillery, and B-Copters to beat 
+back the enemy advance, also producing some foot soldiers to go after the 
+Missile Silos.  The Oozium 238 needs to be hit hard all at once, so let it come
+to the Orange Star mountains as opposed to being aggressive, as it will be too
+tough to get enough concentrated fire to take it down.
+
+Blue Moon will need to get an Infantry to the island via a Lander/Black Boat,
+while the rest of the troops advance southwards, taking properties (especially 
+the Com Towers), opening the path forward for the land troops to push towards 
+the Black Obelisk (but stay out until the satellite is destroyed).
+
+Green Earth will need to send some troops south to hurt the enemy near their 
+factory, making sure an Infantry goes into the Missile Silo area, making sure 
+that Black Hole does not slip a foot soldier there first.  After the enemy is 
+subdued, take the Factory and Airport in the south, using Colin's cheaper units
+coupled with Sasha's extra cash flow, producing a lot of high flying units to
+pound on the strong enemy.
+
+With the satellite disabled, go in after the Black Obelisk, pounding enemy 
+troops relentlessly and occupying there unit production properties (ie the 
+Factories and Airports), allowing Orange Star to pound the Black Obelisk into
+a pile of slagged metal!
+
+
+                             o------------o
+                             | Mission 23 |
+                             o------------o
+
+Mission Name: Dark Ambition
+Suggested CO: Sensei & Sami (OS) / Grit & Eagle (BM) / Jess & Hawke (GE)
+Enemy CO    : Kindle & Olaf
+Difficulty  : 6/10
+
+Day One to Day Three for Orange Star will consist of getting the Mech near the
+northern Missile Silo while the Infantry gets near to the southern Missile 
+Silo.  This is done in anticipation of the attack upon Black Hole, but do not 
+launch the Missiles just yet.  Blue Moon should bring the units down towards 
+the pipeline, using Grit's superior range to pound enemy indirects.  Green 
+Earth should get the tanks rolling towards the pipe seams, as they will be the 
+sensible blocking forces for when the pipe seams are destroyed.  Remember to 
+use the respective APCs for each force to keep the aircraft in the sky, the 
+indirect units bombing away, and to keep the tanks rolling.
+
+Day Four to Day Five will have Orange Star foot soldiers hold their positions.
+Blue Moon will have Grit launch explosive rounds into the enemy indirects and 
+Megatank, while the Md Tank, Neotank, and Megatank for Green earth block the
+pipe seams.  The Green Earth Battleship and Artillery should also be used to 
+send some shots at enemy Anti-Airs and tanks, having Hawke in command for his 
+attack bonus.
+
+Day Six to Day Seven will have the enemy busting through the pipe seams, so
+survive the initial Tag Power attack, followed by having Orange Star soften up
+the Black Hole forces further with some carefully placed Missile Silo shots.  
+Blue Moon and Green Earth will now have to work over remaining foes without 
+crossing into enemy territory, as the enemy Minicannons will knock a lot of Hit
+Points off each unit that rushes across, making them ripe for getting picked 
+off.
+
+Day Eight onwards will have the Blue Moon pound the two central Minicannons,
+allowing Green Earth to rumble through and smash all enemy Anti-Airs.  With 
+that portion of the force subdued, it will be a simple matter for Eagle to take
+over for Blue Moon, sending his air units through to finish the enemy pounding
+(along with Green Earth and Jess controlling the Tanks).  It is also possible 
+to remove the snowy conditions by taking the north and south cities along the
+pipeline, but it is not really worth it as the enemy will be subdued long 
+before the foot soldiers can be ferried there via the APCs.
+
+
+                             o------------o
+                             | Mission 24 |
+                             o------------o
+
+Mission Name: Pincer Strike
+Suggested CO: Jess & Javier (OS) / Sasha & Colin (BM)
+Enemy CO    : Jugger & Drake
+Difficulty  : 8/10
+
+Although this mission seems really unfair at first (due to Drake's 
+Tsunami/Typhoon and how it not only damages all units, but it also reduces 
+fuel in all units by one half), but it is actually very doable by a 
+disciplined player.  The key is to make careful use of turn ends to keep the
+full Tag Power for the enemy to be built up, and to use Sasha's units to get
+her basic CO Power of Market Crash built up, as it will remove the Black 
+Hole star meters to ZERO.  Using this stratagem, Drake only got to use one 
+Tsunami, and by that point the Blue Moon forces had already over run their area
+of the map, making it a slight annoyance instead of a full fledged disaster to 
+the battle.  So, pay careful attention to the enemy star meters, stopping an
+attack early on one turn, pounding the foe relentlessly on the next, allowing
+Sasha to cancel out their impending attack with her Market Crash CO Power.
+
+Day One to Day Two for Orange Star will begin with the land unit moving up to
+the neutral factory, using an APC and an Infantry to draw the enemy Md Tank and
+Neotank near to the Orange Star forces, keeping the Megatank in reserve.  Send 
+the navy (without the Lander) and the B-Copter eastward, parking them in the 
+2 x 2 Reef section to the south of the landmass with the neutral Com Towers.
+Also, purchase two Infantry on the first turn while on the second turn buy a
+Tank.  Blue Moon should pull back any tanks within the range of the enemy 
+Rockets, sitting tight for the moment.
+
+Day Three to Day Five begins with the Fog of War rolling in, so Orange Star 
+will begin by hitting the enemy Md Tank and Neotank that threatened previously,
+destroying them with ease.  Send the Lander with an available Infantry across 
+the bay, looking to start taking the southern Com Tower.  At sea, use the 
+B-Copters to spot the Cruiser, using the Battleship to hammer it, allowing the
+Submarine to go after the enemy Battleship.  This just leaves the enemy 
+Submarine, so get your Cruiser to land a brutal hit to decimate it.  Blue Moon
+should get the indirect units as close to the edge of the forest as possible,
+shooting the enemy Rockets/Artillery/Battleship, destroying them quickly and
+efficiently as possible.  Use the Recons to spot units beside the Blue Moon 
+Cities while the tank forces should all spread out in anticipation of the
+upcoming rush attack.
+
+Day Six to Day Ten for Orange Star will look to get onto the northeast road, 
+rolling from Forest to Forest in methodical fashion, flushing out enemy units
+so they can be destroyed by the trailing units.  In the mean time, keep taking
+the southeastern properties, having the Lander bring a couple more Infantry to
+assist in this endeavour.  Blue Moon should rush out of the Forest tiles after 
+the second Market Crash power, using the extra boost in attack to smash the 
+remaining enemy units, destroying/disabling every single unit with at least one
+attack each.  With the area secure, send the Infantry and Mech out of hiding 
+via APCs, taking the neutral Factory and Airport before the rushing Black Hole
+troops can arrive.  This will allow Sasha to use the extra cash she built up
+(due to her abilities) on expensive Bombers and Tanks, rolling out some support
+for Orange Star on the road ahead.
+
+Day Eleven onwards strategy will be dictated by the preferred method of victory 
+by the player.  Decide whether it would be best to just take the enemy 
+Headquarters, or whether destroying all foes is the best way to go.  Orange 
+Star can use their navy to sweep the eastern coastline for hiding enemy foes
+while the combined Orange Star and Blue Moon forces go along the mountains,
+grinding all the foes along the way into dust.  Otherwise, have some APCs 
+carry some Infantry towards the Headquarters, using the other units to block 
+access for the enemy, allowing the foot soldiers to capture to their hearts 
+content.
+
+
+                             o------------o
+                             | Mission 25 |
+                             o------------o
+
+Mission Name: Ring Of Fire
+Suggested CO: Grit & Hawke
+Enemy CO    : Koal & Kanbei
+Difficulty  : 5/10
+
+This map has an 18 Day limit for destroying all the enemy forces, so best get
+to work!
+
+Day to Day Three for the main front will have Grit sending his forces on the
+outer ring of the map northward after the Factory that lies that way while 
+another chunk of forces go east towards the neutral Airport.  Since the enemy 
+will come after the factory pathway much more strongly, send a few extra units
+northward instead of to the east.  However, send enough Anti-Airs on the first 
+turn of the map to the second front (via moving them to the Headquarters) to 
+make them number four on the second front, followed by boosting the Rocket unit
+to the second front in the same manner.  As for the inner ring of the map, have
+the indirect units here pound the enemy indirect units inside the mountain 
+range, but ignore all other units in there for now and instead concentrate the 
+forces near the Factory and put a couple of indirects near the Airport, as this
+will help halt the Black Hole advance.  Hawke on the second front will just need
+to commandeer the two Com Towers with his foot soldiers, leaving the remaining 
+units to withdraw into the southwest corner of the map (near the Headquarters)
+in the following formation:
+
+___________________
+Key                |
+                   |   __ __ __ __
+AA - Anti-Air      |  |AA|XX|  |  |
+BC - B-Copter      |  |__|__|__|__|
+MI - Missile       |  |BC|AA|XX|  |
+PC - APC           |  |__|__|__|__|
+RO - Rocket        |  |MI|PC|AA|  |
+XX - Infantry/Mech |  |__|__|__|__|
+                   |  |RO|MI|BC|AA|
+___________________|  |__|__|__|__|
+
+This will protect the valuable air killing units versus the incoming B-Copters.
+
+Day Four to Day Six on the main front consists of finishing the capturing of 
+the Factory and Airport, all the while delivering vicious blows to the 
+approaching tanks and Anti-Airs (helps out the B-Copters and Bombers that are 
+to come via purchases).  The first turn with the B-Copters in range will 
+consist of hitting them hard, taking them down one by one (using Missiles 
+first, followed by Anti-Airs), BUT stop the attack JUST before Kanbei's Star 
+Meter fills up, ending your turn there.  By doing this he will not get to use 
+his Super CO Power, with a lot of units in play, so just position the rest of 
+the units in spots to protect the Missiles from direct attack.  On the next 
+turn you can finish off the remaining B-Copters, leaving one Neotank for the
+enemy to make use of on the Super CO power, so move the Rocket forward to prep
+for the take down (B-Copters can do the rest of the work).
+
+Day Seven to Day Nine on the main front will have Tanks and B-Copters rolling
+out of the Factory and Airport production lines respectively, using them to
+assist the indirect units from the inner ring in beating back the Black Hole 
+forces.  Also be on the look out for the Oozium 238, as it will begin to cross
+the river, so use Mechs and B-Copters to destroy it, waiting for one turn where
+four solid attacks can be launched upon the obscenity.  Finish off the Neotank 
+on the second front and begin to ferry the foot soldiers through the raining 
+lava, starting to capture the four cities around the base of the volcano.
+
+Day Ten onwards The main front will continually push forward, crushing all 
+Black Hole forces (some of the indirects can now switch over to attacking the
+contained foes inside the mountain range, with some assistance from a Bomber
+or B-Copters).  On the second front, finish off the enemy forces and capture
+the four Cities around the volcano, allowing the second front CO to join the
+main battle.  A Tag Power attack should be available at this point, using the
+opportunity to really push Black Hole to the edge of extinction, keeping the
+efforts up to finish off the map with the defeat of the final Black Hole unit!
+
+
+                             o------------o
+                             | Mission 26 |
+                             o------------o
+
+Mission Name: Surrounded!
+Suggested CO: Hawke & Lash (OS) / Sensei & Javier (BM)
+Enemy CO    : Kindle & Andy
+Difficulty  : 6/10
+
+The time limit here is 24 Days, with the goal being the capturing of the four
+Com Towers near each massive Missile Silo.  Not a tough map, especially if an
+aggressive stance is used early to put Black Hole on the defensive.
+
+Day One to Day Three for Orange Star will begin by going after the Factory in
+the northeast, followed by using the Md Tank and Neotank to dissuade the enemy 
+Anti-Airs below from rushing up to smash into the foot soldiers moving out 
+towards the properties in the east.  While continuing to put pressure on the
+Anti-Airs and Artillery (drop a Mech inside the range of the Artillery via an
+APC), also take the Factory and begin to claim the Com Tower.  In the center 
+of the map, be sure to purchase Tanks and Artillery, using them to keep the
+charging Black Hole forces bottlenecked.  Blue Moon will use the Recon to bait
+the Tank and Anti-Air in the south to come towards the bulk of their forces, 
+also using an APC (park it on the City that only one of the B-Copters can 
+reach) to draw the enemy B-Copters from the southwest in the same manner.  Push
+forward aggressively to pound the enemy positions in the south, taking the Com 
+Tower and Airport/Factories, while in the north purchase an Infantry, followed 
+by Mechs on each turn (they will hold up the enemy Md Tank while the Infantry 
+goes after the next Com Tower).  Finally, once south is secured, have the 
+Rocket begin to pound the pipe seam to make a second opening into the western 
+quadrant.
+
+Day Four to Day Six will have Orange Star finish taking the eastern quadrant 
+Com Tower, swinging their attention around to hold off Black Hole from the west
+with some units, while the rest move north to assist Blue Moon there in 
+disabling the Md Tank and any other units rolling out of the Factory.  Blue 
+Moon should cover the enemy's Factory in the southern quadrant with a unit 
+(until an Infantry can arrive), followed by spilling through the busted pipe 
+seam to quell the enemy resistance from the western quadrant, taking the Com
+Tower with the enemy Factory below cut off by overwhelming Blue Moon forces.
+
+Day Seven onwards will have just the north quadrant left to tame, but with so
+little left Black Hole can quickly be crushed, especially since all foot 
+soldiers in the other three quadrants will keep taking more properties, 
+lessening Black Hole's resources while strengthening their own.  Once the 
+fourth Com Tower is secured, the map will end, and it should be done in 12 Days
+or less (took me 9 Days personally).
+
+
+                             o------------o
+                             | Mission 27 |
+                             o------------o
+
+Mission Name: For The Future!
+Suggested CO: Javier & Jess (OS) / Grit & Hawke (BM) / Eagle & Sensei (GE)
+Enemy CO    : Von Bolt
+Difficulty  : 8/10
+
+For Day One to Day Five strategy to work properly, the following rules should
+be followed.  The most important step is to build up Von Bolt's Star Meter 
+until it just about full, followed by ending the turn for Orange Star (make 
+sure Javier has done all the fighting to this point).  Blue Moon and Green 
+Earth will continue to do their unit position juggling to prep for the 
+incoming forces (taking Cities if they have to still do so as well), but they
+will NOT attack, leaving the Star Meter just short.  This means that Von Bolt
+will attack on the next turn, hurting Orange Star and filling his own meter,
+which he will not use (if he does, then the plan will fail).  Now that it is
+Orange Star's turn, Javier should be able to smack out a Super CO Power 
+(ie Tower Of Power) INSTEAD of the Tag Power (if you have both Star Meters
+filled, do not Tag Power).  The reason for this is that Von Bolt's Ex Machina 
+will damage all the Orange Star troops AND paralyze them, BUT he will mostly
+have Artilleries left at his disposal, which will be UNABLE to damage Javier's
+troops.  Sounds complicated, but if done right it basically forces Von Bolt
+to waste his one good shot at gutting Orange Star, so follow the directions 
+for each force for the first five days to make it work properly.
+
+Day One to Day Five for Orange Star will have two main goals; the first is 
+to take the three Com Towers and the second is to hold off the enemy forces.
+Let Javier have control all the way here, starting off by taking the two 
+outside Com Towers, also buying another Infantry to move up to the middle
+Com Tower via an APC.  Use the Megatank above the central Com Tower, making
+it play blocker until it is destroyed, allowing for the three Com Towers to
+be taken.  Keep buying Artilleries and Tanks, using them to replace the front
+line troops while pounding the foe with the indirects.
+
+Day One to Day Five Blue Moon will begin with Grit in command, using the first
+two turns to start taking the neutral City near their group of properties, 
+buying an APC, sending the Infantry up on foot towards the neutral Cities on 
+the coast, while the Mech on the left goes into the APC to follow along (take
+both Cities).  The Battleship should take the first two turns to decimate the
+lower Minicannon, followed by trying to bait the enemy navy into attacking 
+the Carrier, allowing the Blue Moon navy (which will be reinforced by a second
+Battleship from funds collected) to counter-attack.
+
+Day One to Day Five for Green Earth will begin with Sensei in command, using 
+the first two turns to start taking the neutral City near their group of 
+properties, buying a T-Copter, sending the Infantry up on foot towards the 
+neutral Cities on the coast, while the Mech on the right goes into the 
+T-Copter to follow along (take both Cities).  After the T-Copter dumps the
+Mech on it, switch control to Eagle at the end of that turn, followed by
+flying the T-Copter into range of the enemy Fighter, baiting it into 
+attacking, allowing Green Earth to use the own Fighter and Stealth (in that
+order) to eliminate it.  Save the money that is gained, purchasing Bombers
+to assist in hitting the Minicannons and Black Crystals.
+
+Day Six onwards will focus on Orange Star busting up through the Black Crystal
+to occupy the Black Hole Factories, with Blue Moon's Grit providing Battleship
+fire support from the flank.  Meanwhile, Green Earth will sweep in with Bombers
+in the service of Eagle, supporting the fight, moving northward to hit the 
+Black Obelisk with a Bomber, destroying it one hit thanks to Eagle's superior
+air firepower capabilities.  Try to eliminate as many foes as possible before
+delivering the final blow, as getting a good Power score depends upon it.
+
+
+                             o------------o
+                             | Mission 28 |
+                             o------------o
+
+Mission Name: Means To An End
+Suggested CO: Jake & Rachel (OS)
+Enemy CO    : Von Bolt & Kindle
+Difficulty  : 7/10
+
+Note that on Day Six, Day Twelve, and Day Eighteen that the three weak 
+points of the G Bolt will release an Oozium 238 each (three in total).  
+Although it is not overly dangerous, it is a good thing to keep in mind to 
+avoid losing some stronger units from carelessness.
+
+Day One to Day Six on the main front will have Jake spend his first three 
+Days buying four Infantry and one T-Copter, with three of the Infantry
+moving on to local properties (beginning the capturing of the locales)
+while the one Infantry that can get onto the T-Copter flies south to start 
+the assault on the mass of properties and Black Hole Infantry found down 
+there.  The T-Copters are to ignore the Oozium 238s down there, going for 
+the two Airports (one on each side of the map), taking said Airports to begin
+producing the B-Copters needed to subdue the enemy Infantry.  It is not a 
+bad idea on Day Four to send an additional B-Copter to the south, followed
+by purchasing Tanks and Anti-Airs to work over the incoming enemy Infantry
+and APCs.  Jake should ignore the Oozium 238s at the top of the screen as 
+well, due to lack of concentrated firepower to take them out in one turn.
+On the second front it is impossible to control the action directly, so tell
+Rachel to play things defensively, letting Black Hole come after her, away
+from the Black Crystals and their healing powers.
+
+Day Seven to Day Twelve will have Jake consolidating his hold on the 
+southern part of the map, using B-Copters to clear the area of Infantry while
+the T-Copters bring in other Infantry to help knock out the Black Hole Cities,
+serving the two-fold purpose of gaining more funds while cutting off Black
+Hole's funding at the same time.  More B-Copters should be bought, using them
+as extermination squads for the Oozium 238s.  Meanwhile, in the north a 
+Md Tank and more Anti-Air/Tank purchases will help take control of the area,
+followed by moving into more advanced purchases, like Bombers/Neotanks 
+(always make sure to make the most valuable purchase possible), but stay away
+from Artilleries and Rockets, as the enemy Oozium 238s are practically 
+invincible versus indirect attacks.  The second front should be switched to
+a more aggressive posture, allowing Rachel to go after the now weakened 
+troops (thanks to her Super CO Power and the Missile Silos).
+
+Day Thirteen onwards will continue the push northwards, using the Tag Power
+that will come of Rachel's smashing of all three Black Crystals on the 
+secondary front, allowing her to join Jake on the main front.  Spread out
+the attacking units, pounding the Oozium 238s before they can get too 
+concentrated, which will allow them to kill some units (make sure to NEVER
+stop beside one, as they will destroy whatever they touch).  Once it is 
+possible to do so, cover the enemy Factories with injured units, which will
+keep them from adding in additional units to the attack, also sending fully 
+powered Neotanks or Bombers to work on the three weak points of the G Bolt,
+knocking them out (just remember to not attack them directly on Day Six, Day
+Twelve, or Day Eighteen, as the G Bolt will expel some more Oozium 238s from
+the weak points).  Once all three weak points are smashed, the mission is 
+over and the game is complete!   CONGRATULATIONS!!!
+
+----------------------------------------------------------------------------
+---------------------------Commanding Officers------------------------------
+----------------------------------------------------------------------------
+
+5) This section will examine the special abilities that the CO's (Commanding
+   Officers) of the game possess as well as examining their CO Power,
+   CO Super Power, and Tag Power.
+
+
+                          o------------------o
+                          | Orange Star CO's |
+                          o------------------o
+
+                               ~~~~~~~~~~
+                             ~~~~ Andy ~~~~
+                               ~~~~~~~~~~
+
+With no Strengths OR Weaknesses to him, he gets a middle of the road effort
+from his troops.  Although this means he does not have some weak units to 
+hold him back, he also misses out on some powered-up units to help him make 
+a big push against the enemy.
+
+CO Power: Hyper Repair
+Effect..: Restores 2 Hit Points to any of his damaged units while all units
+          experience a +10% Offense and +10% Defense boost.
+
+Super CO Power: 
+Effect........: Restores a whopping 5 Hit points to damaged units, adds an 
+                extra movement space to all of his units, AND his units
+                experience a +10% Offense and +30% Defense boost.
+
+Tag Power Ratings: Nell=====> 105%
+                   Sami=====> 105%
+                   Max======> 110%
+                   Eagle====> 115%
+                   Hawke====> 105%
+                   Von Bolt=>  90%
+
+
+                               ~~~~~~~~~~
+                             ~~~~ Sami ~~~~
+                               ~~~~~~~~~~
+
+Sami is an Infantry specialist, causing her Infantry and Mech Units to fight
+with more effectiveness and they get a x1.5 capturing bonus on properties.  
+She also gets the added bonus of transport units gaining an extra movement 
+point.  However, her direct combat units (such as Tanks, Planes, and 
+Copters) are less effective under her leadership.
+
+CO Power: Double Time
+Effect..: Infantry and Mechs get A +40% Offense and 10% Defense boost in
+          addition to an extra movement space.  All other units get a +10% 
+          Offense and +10% Defense boost.
+
+Super CO Power: Victory March
+Effect........: Infantry and Mechs get A +70% Offense and 10% Defense boost 
+                in addition to 2 extra movement spaces AND they can capture 
+                any property on that turn regardless of their Hit Points.  
+                All other units get a +10% Offense and +10% Defense boost.
+
+Tag Power Ratings: Nell=====> 105%
+                   Andy=====> 105%
+                   Max======> 105%
+                   Sonja====> 110%
+                   Eagle====> 120%
+                   Von Bolt=>  90%
+
+
+                               ~~~~~~~~~
+                             ~~~~ Max ~~~~
+                               ~~~~~~~~~
+
+A direct combat specialist, he gains a 20% bonus on direct combat units.  
+However, his long range weaponry (such as Artillery, Rockets, Missiles, 
+Battleships, and Carriers) are less effective as their range is reduced by 
+one.
+
+CO Power: Max Power
+Effect..: His direct combat units get +40% Offense and +10% Defense boost
+          while all other units get +10% Offense and +10% Defense boost.
+
+Super CO Power: Max Blast
+Effect........: His direct combat units get +70% Offense and +10% Defense 
+                boost while all other units get +10% Offense and 
+                +10% Defense boost.
+
+Tag Power Ratings: Nell=====> 105%
+                   Andy=====> 110%
+                   Sami=====> 105%
+                   Grit=====> 110%
+                   Von Bolt=>  90%
+
+
+                               ~~~~~~~~~~
+                             ~~~~ Jake ~~~~
+                               ~~~~~~~~~~
+
+This young fellow is a raw CO that boasts no weaknesses in his units,
+though he also can not fall back on any strengths.  However, all of his 
+units will gain a +10% Offense boost whenever they are positioned on the 
+Plains.
+
+CO Power: Beat Down
+Effect..: Indirect units gain an extra tile of range, on the plains his 
+          units will get a +20% Offense boost, and all units get a base 
+          +10% Offense and +10% Defense boost.
+
+Super CO Power: Block Rock
+Effect........: Indirect units gain an extra tile of range, on the plains his 
+                units will get a +40% Offense boost, land vehicles gain 2 
+                movement spaces, and all units get a base +10% Offense and 
+                +10% Defense boost.
+
+Tag Power Ratings: Sasha====> 105%
+                   Jess=====> 110%
+                   Rachel===> 120%
+                   Kindle===>  90%
+                   Von Bolt=>  90%
+
+
+                              ~~~~~~~~~~~~
+                            ~~~~ Rachel ~~~~
+                              ~~~~~~~~~~~~
+
+The younger sister of Orange Star's head CO Nell, this spunky up and comer
+boasts great enthusiasm.  This may be why her units gain an extra Hit Point
+of repair ability after each turn, or why she does not suffer from any type 
+of penalties on Offense or Defense.
+
+CO Power: Lucky Lass
+Effect..: In addition to the +10 Offense and +10% Defense boost, Rachel's 
+          troops can deal up to an additional 40% damage.
+
+Super CO Power: Covering Fire
+Effect........: In addition to the +10 Offense and +10% Defense boost, 
+                Rachel will launch 3 missiles (just like they were shot from
+                Silos on a map) that will strike three random targets, 
+                removing 3 Hit Points from enemy units in the area.
+
+Tag Power Ratings: Sasha====> 105%
+                   Jake=====> 120%
+                   Nell=====> 130%
+                   Von Bolt=>  90%
+                   Koal=====>  65%
+
+
+                               ~~~~~~~~~~
+                             ~~~~ Nell ~~~~
+                               ~~~~~~~~~~
+
+The "Lady Luck" in the Orange Star army, she can unexpectedly damage an 
+enemy unit for far more damage (up to 15% extra) than should be possible.
+
+CO Power: Lucky Star 
+Effect..: Her units get a +10 Offense and +10% Defense boost as well as 
+          increasing the odds of her striking the enemy with extra force by
+          as much as 60%.  LUCKY!
+
+Super CO Power: Lady Luck
+Effect........: Her units get a +10 Offense and +10% Defense boost as well 
+                as increasing the odds of her striking the enemy with extra
+                force by as much as 100%.  LUCKY!  LUCKY!
+
+Tag Power Ratings: Andy=====> 105%
+                   Max======> 105%
+                   Sami=====> 105%
+                   Rachel===> 130%
+                   Von Bolt=>  90%
+
+
+                                ~~~~~~~~~~~
+                              ~~~~ Hachi ~~~~
+                                ~~~~~~~~~~~
+
+This ancient and revered CO does not actively take part in the Story Mode,
+but he is a possible participant elsewhere.  While his units have average
+strength, his units come at 90% cost, meaning he can deploy stronger units
+slightly sooner than counterparts and has no penalty assigned for this 
+advantage.
+
+CO Power: Barter
+Effect..: Units can be deployed for 50% cost and his units get a 
+          +10% Offense and +10% Defense boost.
+
+Super CO Power: Merchant Union
+Effect........: Units can be deployed for 50% cost and his units get a 
+                +10% Offense and +10% Defense boost.  He also can deploy
+                any bought units on this turn from any City under his 
+                control.
+
+Tag Power Ratings: Sensei===> 100%
+                   Von Bolt=>  90%
+
+
+                           o----------------o
+                           | Blue Moon CO's |
+                           o----------------o
+
+
+                               ~~~~~~~~~~
+                             ~~~~ Olaf ~~~~
+                               ~~~~~~~~~~
+
+He is the leader of Blue moon's forces who has no Strengths OR Weaknesses to 
+him, he gets a middle of the road effort from his troops.  Although this 
+means he does not have some weak units to hold him back, he also misses out 
+on some powered-up units to help him make a big push against the enemy.  
+Also note that his units will fight better in snow (+20% Offense boost) as
+well as no penalty for moving through the white stuff.
+
+CO Power: Blizzard
+Effect..: While increasing his units with a +10% Offense and +10% Defense 
+          boost, this will also cause the conditions to change to snow 
+          for the next two turns.
+
+Super CO Power: Winter Fury
+Effect........: While increasing his units with a +10% Offense and 
+                +10% Defense boost, this will also cause the conditions to
+                change to snow for the next two turns.  This attack will 
+                also damage all enemy units for 2 Hit Points of damage.
+
+Tag Power Ratings: Colin====> 105%
+                   Grit=====> 115%
+                   Lash=====>  80%
+                   Von Bolt=>  90%
+
+
+                               ~~~~~~~~~~
+                             ~~~~ Grit ~~~~
+                               ~~~~~~~~~~
+
+Grit is a laid back fellow, so it stand to reason his strength is long range
+attacks.  Therefore, his Rockets, Artillery, Missiles, Carriers, and 
+Battleships all have increased power (+20% Offense boost) and an extra space
+of range on their shots while his direct combat units are less powerful 
+(-20% Offense boost).
+
+CO Power: Snipe Attack
+Effect..: Adds an extra range space to each of his long range units in play
+          as well as adding some extra power (+40% Offense and +10% Defense
+          boost) to the shots.  All other units experience a +10% Offense 
+          and +10% Defense boost.
+
+Super CO Power: Super Snipe
+Effect........: Adds two extra range spaces to each of his long range units 
+                in play as well as adding some extra power (+40% Offense and
+                +10% Defense boost) to the shots.  All other units 
+                experience a +10% Offense and +10% Defense boost.
+
+Tag Power Ratings: Colin====> 105%
+                   Max======> 110%
+                   Olaf=====> 115%
+                   Von Bolt=>  90%
+
+
+                                ~~~~~~~~~~~
+                              ~~~~ Colin ~~~~
+                                ~~~~~~~~~~~
+
+A young CO that had just been promoted in the previous war, his units lack 
+the experience to be completely effective (-10% Offense and -10% Defense 
+boost).  However, his cost for units is 20% less than the normal cost, 
+making him able to get a large quantity of units out in a hurry.
+
+CO Power: Gold Rush
+Effect..: When used, your funds will be multiplied by 1.5, which is a 
+          fantastic way to get even more cash to purchase cheap units with.
+          All units receive a +10 Offense and +10% Defense boost as well.
+
+Super CO Power: Power Of Money
+Effect........: Weaponry in all active units will be increased by the war
+                coffers Colin possesses.  The more money he holds in 
+                reserve, the more powered-up the weapons will be.  All 
+                units receive a +10 Offense and +10% Defense boost as well.
+
+Tag Power Ratings: Olaf=====> 105%
+                   Grit=====> 105%
+                   Sasha====> 130%
+                   Lash=====>  90%
+                   Von Bolt=>  90%
+
+
+                                ~~~~~~~~~~~
+                              ~~~~ Sasha ~~~~
+                                ~~~~~~~~~~~
+
+The sister of Colin, she was not active in any of the previous wars, but she
+has decided to join her sibling in tackling Black Hole.  Her units are of
+average quality, but she boasts such good bookkeeping that she is able to 
+draw an extra 100 Gold from each of her properties on every turn.
+
+CO Power: Market Crash
+Effect..: All units get a +10% Offense and +10% Defense boost in addition to
+          opposing Co star power meters being reduced by 10% for every 5000 
+          Gold in Sasha's possession.
+
+Super CO Power: War Bonds
+Effect........: All units get a +10% Offense and +10% Defense boost in 
+                addition to 50% of all damage dealt will be funded back into
+                her war coffers (ie a Neotank is worth 22000 Gold, so if she
+                damages it for 5 Hit Points, she would get 
+                11000/2 = 5500 Gold for that attack).
+
+Tag Power Ratings: Jake=====> 105%
+                   Rachel===> 105%
+                   Grimm====> 105%
+                   Colin====> 130%
+                   Von Bolt=>  90%
+
+
+                          o-------------------o
+                          | Yellow Comet CO's |
+                          o-------------------o
+
+                              ~~~~~~~~~~~~
+                            ~~~~ Kanbei ~~~~
+                              ~~~~~~~~~~~~
+
+The leader of Yellow Comet, he has the best trained troops around, which
+means they ALL get 20% effectiveness (Offense and Defense) in battle.  
+However, to train his troops so well, it costs Kanbei an extra 20% to do so.
+
+CO Power: Morale Boost
+Effect..: His units get a +40% Offense and +10% Defense boost.
+
+Super CO Power: Samurai Spirit
+Effect........: His units get a +40% Offense and +10% Defense boost while
+                his counter attacks by his units deal twice the normal 
+                amount until his next turn.
+
+Tag Power Ratings: Sensei===> 105%
+                   Javier===> 110%
+                   Sonja====> 130%
+                   Von Bolt=>  90%
+
+
+
+                              ~~~~~~~~~~~~
+                            ~~~~ Sensei ~~~~
+                              ~~~~~~~~~~~~
+
+An old master of the game of war, he trained Kanbei on how to wage war.  He 
+is an old paratrooper who has especially effective Infantry (+10% Offense
+and +10% Defense boost) and Helicopters (+50% Offense and +50% Defense 
+boost), but his naval units have a -10% Offense and -10% Defense boost.  His
+transports also boast an extra movement space, meaning he can move his 
+troops in a hurry.
+
+CO Power: Copter Command
+Effect..: B Copter get a +30% Offense and a 10% Defense boost, all other
+          units get a +10% Offense and +10% Defense boost.  All of Sensei's
+          empty Cities will gain an Infantry each with 9 Hit Points.
+
+Super CO Power: Airbourne Assault
+Effect........: B Copter get a +30% Offense and a 10% Defense boost, all 
+                other units get a +10% Offense and +10% Defense boost.  All
+                of Sensei's empty Cities will gain a Mech each with 9 Hit 
+                Points.
+
+Tag Power Ratings: Kanbei===> 105%
+                   Sonja====> 105%
+                   Javier===> 105%
+                   Grimm====> 110%
+                   Von Bolt=>  90%
+
+
+                                ~~~~~~~~~~~
+                              ~~~~ Sonja ~~~~
+                                ~~~~~~~~~~~
+
+Daughter to Kanbei, she is a master of intel.  Her units fight best in Fog
+Of War situations as they see an extra space over opponents, but her units 
+will be unlucky in scoring extra damage in attacks most of the time, even 
+losing a damage point they should deal.  However, enemies can not tell how 
+many Hit Points remain on her units, and she is able to ignore 1 star of 
+enemy terrain defensive advantage (ie Plains count as 0 instead of 1).
+
+CO Power: Enhanced Vision
+Effect..: Her units gain an extra vision space in Fog Of War situations and
+          allows her units to see into the Woods and Reefs without being 
+          right beside them.  All units also boast a +10% Offense and +10%
+          Defense boost as well as getting the enemy defense stars down by
+          2 (ie City counts as 1 instead of 3).
+
+Super CO Power: Counter Break
+Effect........:  Her units gain an extra vision space in Fog Of War 
+                 situations and allows her units to see into the Woods and 
+                 Reefs without being right beside them.  All units also 
+                 boast a +10% Offense and +10% Defense boost as well as 
+                 pushing the enemy defense stars down by 3 (ie Headquarters
+                 counts as 1 instead of 4), and she also strikes first 
+                 during any attacks on the next opponent's turn.
+
+Tag Power Ratings: Sensei===> 105%
+                   Lash=====> 105%
+                   Sami=====> 110%
+                   Kanbei===> 130%
+                   Von Bolt=>  90%
+
+
+                                ~~~~~~~~~~~
+                              ~~~~ Grimm ~~~~
+                                ~~~~~~~~~~~
+
+This offensively minded meathead focuses so much on attacking that his 
+attention to the defensive side of war is sorely under developed 
+(+30% Offense and -20% Defense boost).  Also, since he is lax on his 
+defensive preparedness, his units can get slammed for extra damage by any
+CO, not just the ones with the default luck.
+
+CO Power: Knuckleduster
+Effect..: Grimm's already offensive minded units will get a +30% Offense
+          boost and a default +10% Defense boost.  
+
+Super CO Power: Haymaker
+Effect........: Grimm's units will get a ridiculous +60% Offense boost 
+                (making them a whopping 190%!) and a +10% Defense boost.
+
+Tag Power Ratings: Sasha====> 105%
+                   Javier===> 105%
+                   Sensei===> 110%
+                   Von Bolt=>  90%
+
+
+                           o------------------o
+                           | Green Earth CO's |
+                           o------------------o
+
+                                ~~~~~~~~~~~
+                              ~~~~ Eagle ~~~~
+                                ~~~~~~~~~~~
+
+The wild man in the skies, Eagle gets a +20% Offense boost with his Air
+units as well as less fuel consumption (2 units less per day).  However, 
+his naval units are slightly underpowered (-10% boost), so his using a Navy
+is not a particularly good idea for the commander in chief of the Green 
+Earth forces.
+
+CO Power: Lightning Drive
+Effect..: All of his units (sans Infantry and Mechs) will get a second turn
+          to attack, but on the second attack they get the following 
+          bonuses: Air units (-50% Offense and 10% Defense boost), Direct 
+          Land units (-40% Offense and +10% Defense boost), and Indirect
+          Land units (-35% Offense and +10% Defense boost).  Infantry and 
+          Mechs get a more typical +10 Offense and +10% Defense boost for 
+          their one attack with this power.          
+
+Super CO Power: Lightning Strike
+Effect........: All of his units (sans Infantry and Mechs) will get a second
+                turn to attack, though all get a +10% Offense and +10% 
+                Defense boost for both rounds of attacks.
+
+Tag Power Ratings: Jess=====> 105%
+                   Drake====> 115%
+                   Andy=====> 115%
+                   Sami=====> 120%
+                   Von Bolt=>  90%
+                   Lash=====>  90%
+                   Hawke====>  70%
+
+
+
+                                ~~~~~~~~~~~
+                              ~~~~ Drake ~~~~
+                                ~~~~~~~~~~~
+
+Master of the seas, Drake has the ability to have a 20% Offense boost with 
+his seafaring vessels.  However, his Air units are of a very poor quality,
+taking a -10% Offense boost on those.  He is an integral part of Green 
+Earth's command structure, keeping their seas clear of foes that would do 
+the country harm.
+
+CO Power: Tsunami
+Effect..: This will remove 1 Hit Point from every enemy unit, and remove 
+          half of their total fuel.  All of his units will get a +10% 
+          Offense and 10% Defense boost as well.
+
+Super CO Power: Typhoon
+Effect........: This will remove 2 Hit Points from every enemy unit, and 
+                remove half of their total fuel.  All of his units will get 
+                a +10% Offense and 10% Defense boost in addition to the 
+                weather changing to rain with the possibility of Fog of War
+                rolling into play for a couple of turns following the storm.
+
+Tag Power Ratings: Jess=====> 105%
+                   Eagle====> 115%
+                   Von Bolt=>  90%
+                   Hawke====>  90%
+
+                               ~~~~~~~~~~
+                             ~~~~ Jess ~~~~
+                               ~~~~~~~~~~
+
+A vehicle specialist, she is the ground power of the Green Earth army 
+(+20% Offense boost).  However, her Air and Naval forces are slightly weaker
+(-10% Offense boost) due to her superior vehicle knowledge.
+
+CO Power: Turbo Charge
+Effect..: Vehicles gain one movement space, ammo and fuel are replenished 
+          completely, and a +30% Offense and 10% Defense boost is 
+          experienced.  All other units get a +10 Offense and +10% Defense
+          boost.
+
+Super CO Power: Overdrive
+Effect........:Vehicles gain two movement spaces, ammo and fuel are 
+               replenished completely, and a +30% Offense and 10% Defense 
+               boost is experienced.  All other units get a +10 Offense and 
+               +10% Defense boost.
+
+Tag Power Ratings: Eagle====> 105%
+                   Drake====> 105%
+                   Javier===> 110%
+                   Jake=====> 110%
+                   Von Bolt=>  90%
+                   Hawke====>  90%
+
+
+                              ~~~~~~~~~~~~
+                            ~~~~ Javier ~~~~
+                              ~~~~~~~~~~~~
+
+The newcomer to the Green Earth CO ranks, this honourable knight of the 
+forest is a big supporter of defense as the way to victory, as he boasts a
++20% Defense boost versus indirect attacks as well as getting +10 Defense 
+boost from every Tower he controls (to go with the traditional +10 Offense 
+boost they give to everyone).
+
+CO Power: Tower Shield
+Effect..: Gets a +20% Defense boost versus indirect attacks and Tower 
+          bonuses are now doubled.  All units get a +10% Offense and +10%
+          Defense boost.
+
+Super CO Power: Tower of Power
+Effect........: Gets a +60% Defense boost versus indirect attacks and Tower 
+                bonuses are now tripled.  All units get a +10% Offense and 
+                +10% Defense boost.
+
+Tag Power Ratings: Sensei===> 105%
+                   Grimm====> 105%
+                   Kanbei===> 110%
+                   Jess=====> 110%
+                   Von Bolt=>  90%
+
+
+                           o-----------------o
+                           | Black Hole CO's |
+                           o-----------------o
+
+                               ~~~~~~~~~~
+                             ~~~~ Flak ~~~~
+                               ~~~~~~~~~~
+
+
+A rather impatient and headstrong CO, he likes to attack, attack, attack.
+His attack power can be stronger than the normal amounts (up to +25% Offense
+boost), but his poor leadership causes his units to cause less damage than 
+they could (as much as -10% Offense boost).
+
+CO Power: Brute Force
+Effect..: All units get a +10% Offense and +10% Defense boost.  All units
+          will have an increased chance of landing a harsh blow (as much as 
+          +50% Offense boost), but their also is a chance of dealing less 
+          damage (-20% Offense boost).
+
+Super CO Power: Barbaric Blow
+Effect........: All units get a +10% Offense and +10% Defense boost.  All 
+                units will have an increased chance of landing a harsh blow 
+                (as much as +90% Offense boost), but their also is a chance 
+                of dealing less damage (-30% Offense boost).
+
+Tag Power Ratings: Adder=> 105%
+                   Lash==> 110%
+
+
+                                ~~~~~~~~~~~
+                              ~~~~ Adder ~~~~
+                                ~~~~~~~~~~~
+
+Very self-absorbed, Adder thinks himself truly great.  He tends to make good
+decisions, and he has no strength or weaknesses.  He also stores up his CO 
+Power faster than any other CO, even Koal.
+
+CO Power: Sideslip
+Effect..: His units gain an extra movement space and all get a +10% Offense 
+          and +10% Defense boost.
+
+Super CO Power: Sidewinder
+Effect........: His units gain two extra movement spaces and all get a +10% 
+                Offense and +10% Defense boost.
+
+Tag Power Ratings: Flak=> 105%
+                   Koal=> 110%
+
+
+                               ~~~~~~~~~~
+                             ~~~~ Lash ~~~~
+                               ~~~~~~~~~~
+
+
+The brilliant mind behind many of the Black Hole installations, she is an 
+average CO with no strengths or no weaknesses.  However, every defensive
+star that exists on a square that a unit attacks from, they get a +5% 
+Offense boost (ie from a city, it is a +15% Offense boost).
+
+CO Power: Terrain Tactics
+Effect..: All units get a +10% Offense and +10% Defense boost.  All terrain
+          movement costs drop to 1, essentially making all spaces like 
+          roads.
+
+Super CO Power: Prime Tactics
+Effect........: All units get a +10% Offense and +10% Defense boost.  All 
+                terrain movement costs drop to 1, essentially making all 
+                spaces like roads.  All defensive ratings are doubled 
+                (ie City becomes 6 instead of 3).
+
+Tag Power Ratings: Sonja====> 105%
+                   Flak=====> 110%
+                   Hawke====> 110%
+                   Von Bolt=>  90%
+                   Colin====>  90%
+                   Eagle====>  90%
+                   Olaf=====>  80%
+
+
+                                ~~~~~~~~~~~
+                              ~~~~ Hawke ~~~~
+                                ~~~~~~~~~~~
+
+The former top CO under Sturm, he is now working with the Omega Land Black
+Hole CO's, despite the apparent lack of respect they have for him.  His 
+units have a +10% Offense boost, but his CO Powers take the longest of any 
+CO to build up.
+
+CO Power: Black Wave
+Effect..: All of his damaged units gain one Hit Point while enemy units lose
+          one Hit Point (will not kill a one Hit Point unit).  All units get
+          a +10% Offense and +10% Defense boost.
+
+Super CO Power: Black Storm
+Effect........: All of his damaged units gain two Hit Points while enemy 
+                units lose two Hit Points (will not kill a two Hit Points 
+                unit).  All units get a +10% Offense and +10% Defense boost.
+
+Tag Power Ratings: Andy=====> 105%
+                   Lash=====> 110%
+                   Von Bolt=>  90%
+                   Drake====>  90%
+                   Jess=====>  90%
+                   Kindle===>  80%
+                   Eagle====>  70%
+
+
+                               ~~~~~~~~~~
+                             ~~~~ Koal ~~~~
+                               ~~~~~~~~~~
+
+This strange one bears some similarities to one Black Hole CO Adder, as both
+are average in their units, and both have very short star bars to fill for 
+their Co Power/Super CO Powers.  However, he also possesses a +10% Offense
+boost on roads, making his forces kings of the paved pathways.
+
+CO Power: Forced March
+Effect..: His units gain an extra movement space and all get a +10% Offense 
+          and +10% Defense boost.  They also get a +20% Offense boost when
+          attacking on Roads.
+
+Super CO Power: Sidewinder
+Effect........: His units gain two extra movement spaces and all get a +10% 
+                Offense and +10% Defense boost.  They also get a +20% 
+                Offense boost when attacking on Roads.
+
+Tag Power Ratings: Kindle=> 105%
+                   Adder==> 110%
+                   Jugger=> 110%
+                   Rachel=> 65%
+
+
+                              ~~~~~~~~~~~~
+                            ~~~~ Jugger ~~~~
+                              ~~~~~~~~~~~~
+
+This computerized creation has an unknown origin, and he is a lot like the
+big ape Flak. His units have no strengths or weaknesses (average rules the 
+day), and he has a potential for greater damage dealt (+30% Offense boost)
+and for lesser damage than normal being dealt (-15% Offense boost).
+
+CO Power: Overclock
+Effect..: All units get a +10% Offense and +10% Defense boost.  All units
+          will have an increased chance of landing a harsh blow (as much as 
+          +55% Offense boost), but their also is a chance of dealing less 
+          damage (-25% Offense boost).
+
+Super CO Power: System Crash
+Effect........: All units get a +10% Offense and +10% Defense boost.  All 
+                units will have an increased chance of landing a harsh blow 
+                (as much as +95% Offense boost), but their also is a chance 
+                of dealing less damage (-45% Offense boost).
+
+Tag Power Ratings: Kindle=> 105%
+                   Koal===> 110%
+
+
+                              ~~~~~~~~~~~~
+                            ~~~~ Kindle ~~~~
+                              ~~~~~~~~~~~~
+
+The leader of the Bolt Guard, she is the new second in command of the Black
+Hole forces, thinking little of the old Black Hole CO's.  She has average
+units for abilities, but they get a bonus of +40% Offense boost whenever 
+they are residing upon any property (ie Cities, Headquarters, etc.).
+
+CO Power: Urban Blight
+Effect..: Any opposing forces that are residing on a property will receive
+          3 Hit Points worth of damage and her units will deal more damage
+          from properties (+80% Offense boost).  All units get a +10% 
+          Offense and +10% Defense boost.
+
+Super CO Power: High Society
+Effect........: Kindle's units will deal more damage from properties 
+                (+130% Offense boost), and  All units get a +10% Offense and
+                +10% Defense boost.  Her units will also get +3% Offense 
+                boost for every property that she possesses.
+
+Tag Power Ratings: Jugger=> 105%
+                   Koal===> 105%
+                   Jake===>  90%
+                   Hawke==>  80%
+
+
+
+                             ~~~~~~~~~~~~~~
+                           ~~~~ Von Bolt ~~~~
+                             ~~~~~~~~~~~~~~
+
+The new leader of the Black Hole forces, he also is behind the odd 
+circumstances of many of the battlefields.  His units draw a +10 Offense
+boost and +10% Defense boost, so they are always fighting fit and looking to
+lay a hurt on opposing forces.
+
+CO Power: None.
+Effect..: He focuses so much on Super CO Power, he does not have one.
+
+Super CO Power: Ex Machina
+Effect........: A bolt of electricity will smash into troops in a focused
+                area (same size as a Black Bomb's detonation area) to remove
+                3 Hit Points, and it has the secondary effect of rendering 
+                all units in the blast radius immobile for one full turn.
+
+Tag Power Ratings: Orange Star CO's==> 90%
+                   Blue Moon CO's====> 90%
+                   Yellow Comet CO's=> 90%
+                   Green Earth CO's==> 90%
+
+----------------------------------------------------------------------------
+-------------------------------Special Skills-------------------------------
+----------------------------------------------------------------------------
+
+6) This section will examine the various skills that can be applied to a CO
+   as they get promoted to higher levels.
+
+
+                                o----------o
+                                | Level 01 |
+                                o----------o
+
+Bruiser.....: Direct Fire attack (+5% Offense boost)
+
+Sharpshooter: Indirect Fire attack (+5% Offense boost)
+
+Slam Guard..: Direct Fire defense (+8% Defense boost)
+
+Snipe Guard.: Indirect Fire defense (+8% Defense boost)
+
+Combat Pay..: Damage foes to earn cash (2% of damage dealt becomes cash)
+
+Luck........: Random higher damage (+10% Offense boost)
+
+
+                                o----------o
+                                | Level 02 |
+                                o----------o
+
+APC Guard..: APC defense (+10% Defense boost)
+
+Tower Power: Com Tower Effect increased (+5% Offense boost per tower)
+
+Sneaky....: Dive/Hide fuel cost is 1 less
+
+
+                                o----------o
+                                | Level 03 |
+                                o----------o
+
+Teamwork..: Tag CO's Attack increased (+5% Offense boost)
+
+Scout.....: Increased Vision of 1 space
+
+Mechanic..: Increased Base Repair of 1 Hit Point
+
+Invader...: Increased capture rate of 1
+
+Sale Price: Lessens Production Cost by 5%
+
+
+                                o----------o
+                                | Level 04 |
+                                o----------o
+
+Road Rage....: Increased Road attack (+10% Offense boost)
+
+Ranger.......: Increased Woods attack (+10% Offense boost)
+
+Urban Fighter: Increased Property attack (+10% Offense boost)
+
+Mountaineer..: Increased Mountain attack (+10% Offense boost)
+
+Seamanship...: Increased Sea attack (+10% Offense boost)
+
+Backstab.....: Increased Dive/Stealth attack (+15% Offense boost)
+
+
+                                o----------o
+                                | Level 05 |
+                                o----------o
+
+APC Boost....: Increased APC Movement by 1 space
+
+Missile Guard: Decreases Missile damage by 1 Hit Point
+
+Cannon Guard : Decreases Cannon damage by 2 Hit Points
+
+Star Power...: Increases Star Meter build
+
+
+                                o----------o
+                                | Level 06 |
+                                o----------o
+
+Bodyguard  : Tag CO's Defense increased (+10% Defense boost)
+
+Prairie Dog: Plain movement is 1 for all units
+
+Pathfinder.: Woods movement is 1 for all units
+
+Stealthy...: Lessens Dive/Stealth fuel usage by 2
+
+Gold Rush..: +100 Gold from each money producing property
+
+
+                                o----------o
+                                | Level 07 |
+                                o----------o
+
+High And Dry.: Increased attack in Rain (+20% Offense boost)
+
+Icebreaker...: Increased attack in Show (+20% Offense boost)
+
+Sand Scorpion: Increased attack in Sandstorm (+20% Offense boost)
+
+
+                                o----------o
+                                | Level 08 |
+                                o----------o
+
+Brawler.....: Direct Fire attack (+8% Offense boost)
+
+Sniper......: Indirect Fire attack (+8% Offense boost)
+
+Slam Shield : Direct Fire defense (+12% Defense boost)
+
+Snipe Shield: Indirect Fire defense (+12 Defense boost)
+
+
+                                o----------o
+                                | Level 09 |
+                                o----------o
+
+Synergy..: Tag CO's attack increased (+8% Offense boost)
+
+Fire Sale: Lessens Production Cost by 8%
+
+
+                               o------------o
+                               | Level Star |
+                               o------------o
+
+Eagle Eye....: Increased Vision of 2 spaces
+
+Gear Head....: Increased Base Repair of 2 Hit Points
+
+Conquerer....: Increased capture rate of 2
+
+Mistwalker...: When an enemy has Super CO Power, your units attack first
+
+Soul Of Hachi: Able to deploy units from Cities with active Super CO Power
+
+
+                              o--------------o
+                              | Rules Of Use |
+                              o--------------o
+
+-As a CO gets promoted to new levels, each new Level will be unlocked for 
+ potential use.
+
+-With each promotion for the first three levels, another Skill may be
+ selected for use (up to a max of 4).
+
+-If two Skills that affect the same thing are selected, then the Skill 
+ values will actually stack, giving the value of both.
+
+-The Star Level if Skills are only available after the campaign is finished.
+
+----------------------------------------------------------------------------
+--------------------------Black Hole Installations--------------------------
+----------------------------------------------------------------------------
+
+7) This section will look at how each special installation of the Black Hole
+   Army works, and how to deal with them.
+
+
+                                 o--------o
+                                 | Cannon |
+                                 o--------o
+
+Description: A Giant Cannon that covers a massive area with it's destruction
+             (one direction only).
+
+Power......: Removes up to 5 Hit Points, but it can not finish off an unit.  
+             Also, the number of turns it takes to power a shot is 
+             determined per area.
+
+Weakness...: The doors on the front of these installations can be attacked.  
+             After a total of at least 100% damage has been dealt, the 
+             Cannon will meltdown.
+
+
+                                o----------o
+                                | Fortress |
+                                o----------o
+
+Description: A large building that helps the Black Hole maintain their hold 
+             on an area.
+
+Power......: Does not attack, but it can not be directly damaged either.
+
+Weakness...: None since it can not be destroyed.
+
+
+                               o-------------o
+                               | Mini-Cannon |
+                               o-------------o
+
+Description: A smaller version of the Cannon, it's range is considerably 
+             less, but it still packs a nasty punch (one direction only).
+
+Power......: Removes up to 3 Hit Points, but it can not finish off an unit.  
+             Also, the number of turns it takes to power a shot is 
+             determined per area.
+
+Weakness...: After a total of at least 100% damage has been dealt, the 
+             Mini-Cannon will meltdown.
+
+
+                                o----------o
+                                | Pipeline |
+                                o----------o
+
+Description: These will snake through a map, often channeling troops through
+             certain areas.  Some sections can be destroyed.
+
+Power......: They work as walls, not even allowing air  units to pass over
+             them.
+
+Weakness...: Anywhere a pipe seam can be attacked, at least 100% damage is 
+             required to break through.
+
+----------------------------------------------------------------------------
+---------------------------------Final Word---------------------------------
+----------------------------------------------------------------------------
+
+8) As is the usual, this walkthrough is copyright property of Brian P. 
+   Sulpher, 2007.  The only website, group, person, etc. to have access to
+   post it is www.gamefaqs.com, www.ign.com, www.retronintendo.com, and 
+   www.honestgamers.com.  You must ask for permission before posting this, 
+   as doing so without consent is a violation of international copyright 
+   law.
+
+   If you liked it, hated it, have anything to add, then please E-mail me at
+   briansulpher@hotmail.com.  You can also contact me through MSN messenger
+   through the same E-mail address.
+
+   Great game!  Simply no other way to put it, and I hope this FAQ helped 
+   some people out with their troubles!  Do keep in mind that these 
+   strategies are rather general in the whole, and even the specific 
+   strategies can be struck void by an enemy CO acting outside their regular
+   behaviours.
+
+   Credit to Xenesis Xenon and his CO FAQ on GameFAQs, as it helped me with
+   some of the specific % boosts for some CO's.
+
+   Thanks to all readers who send in suggestions, as without input I am 
+   often unable t further improve my FAQ, which does not help anyone.  I 
+   always accept new material (as stated before), just be polite, clear, and
+   concise when you send in a strategy and I will evaluate it to see if it 
+   should go in the FAQ or not.

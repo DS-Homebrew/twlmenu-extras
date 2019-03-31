@@ -1,0 +1,550 @@
+-------------------------------------------------------------------------------
+===============================================================================
+
+== METROID PRIME PINBALL GUIDE (v0.8)
+=====================================
+written by Tim | last updated on 11/01/05
+>> timb0882@gmail.com
+:: http://metroid.retrofaction.com
+----------------------------------
+
+==================
+// INTRODUCTION //
+==================
+Welcome to Metroid HQ's guide for METROID PRIME PINBALL. Use the index below by
+copy and pasting section titles into the Find command for quick browsing, and
+go to http://metroid.retrofaction.com/database/guides/ to find HTML versions of
+this guide along with guides for all of the other games in the Metroid series.
+
+-------------------------------------------------------------------------------
+
+====================
+//  SECTION INDEX //
+====================
+ 1. Guide Overview/Controls
+    1.1 - Main Menu
+    1.2 - Default Controls
+ 2. Game Overview
+    2.1 - Table Descriptions
+    2.2 - Scoring System
+    2.3 - Board Features
+    2.4 - Collecting Artifacts
+    2.5 - Enemies
+    2.6 - Boss Battles
+    2.7 - Mini-Games
+    2.8 - Unlockables
+    2.9 - Items & Power-Ups
+ 3. Gameplay
+    3.1 - Pirate Frigate
+    3.2 - Tallon Overworld
+    3.3 - Phendrana Drifts
+    3.4 - Phazon Mines
+    3.6 - Artifact Temple
+    3.7 - Impact Crater
+ 4. Wireless Download Play
+    4.1 - Setup/Download Instructions
+    4.2 - Playing a Multiplayer Game
+ 5. Hints and Tips
+    5.1 - Easy Points
+    5.2 - Verification Code
+ 6. Contributions
+ 7
+. Legal
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+==============================
+== 1. GUIDE OVERVIEW/CONTROLS:
+==============================
+Metroid Prime Pinball is, as you would imagine, quite different from your typ-
+ical Metroid game. It's an interesting twist on the original Metroid Prime, 
+for sure, with all of the areas intact (except Magmoor Caverns, which is the
+default Multiplayer Table, and Chozo Ruins, which is surprisingly absent from
+the game - a shame, as fighting Flaaghra could've been interesting) in surpris-
+ingly nice fashion. Read below for some more in-depth explanations on the 
+specifics of the game.
+
+  ===================
+  ++ 1.1 - MAIN MENU:
+  ===================
+  From the start menu, you have four options available to you:
+  - Multi Mission
+  - Single Mission
+  - Wireless Play
+  - Options
+
+  MULTI MISSION is where the bulk of the gameplay takes place. You begin on one
+  of two default tables - either the Pirate Frigate or Tallon Overworld, and
+  work through the other areas (except Magmoor) to reach the Impact Crater,
+  where you'll have to square off against Metroid Prime's two forms. This mode
+  is all single-round, meaning you must play through all the tables without
+  any means of "saving" until you have defeated the final boss. In this way,
+  it makes it more like a real pinball game. Remember, real life has no contin-
+  ues or extra lives. Well, you do have extra balls, but that's beside the
+  point. After passing certain objectives in this mode, you unlock extras in
+  the Single Mission mode, below.
+
+  SINGLE MISSION is geared more towards just amassing a high score on a single
+  table. Like Multi Mission, you'll begin with the two default tables. By
+  defeating Thardus and Omega Pirate in Multi Mission, you'll add the Phendrana
+  Drifts and Phazon Mines tables to this mode, respectively. By collecting 12
+  Artifacts in Multi Mission and successfully opening the Artifact Temple, you
+  can add that table to this mode, and finally, defeat Metroid Prime to earn
+  the Impact Crater table here. There is no real advancement in this mode, as
+  the only goal is to stay alive as long as possible and rack up points.
+
+  WIRELESS PLAY uses the built-in wireless adapter to send a signal out to any
+  other Nintendo DS' within a specified range. You can compete with up to 8
+  other people off of a single MPP DS Card, and engage them in a frantic Multi-
+  ball showdown that takes place in a surprisingly drab rendition of Magmoor
+  Caverns. At least the menu music for Wireless Mode is spiffy (it's a remix of
+  the Lower Norfair theme from Super Metroid - with the heavier percussion, it
+  sounds more like the SM rendition than the MP1 remix). Alternatively, you can
+  get some practice on this table by playing against yourself. The practice
+  session, like the real multiplayer mode, ends when you reach 100,000 points.
+
+  OPTIONS, obviously, is the default options for the game. However, there isn't
+  a lot to choose from - you can trigger the DS' backlight on/off (why you
+  would want to is beyond me), switch the Rumble Pak feature on or off (you
+  can negate this entirely by just not inserting the included Rumble Pak into
+  the GBA slot).
+
+  A fifth mode, EXPERT MISSION, becomes available once you have completed the
+  normal Multi-Mission mode at least once. Here the difficulty is significantly
+  ramped up, you earn less points per objective, and enemies appear with much
+  more frequency.
+
+  ==========================
+  ++ 1.2 - DEFAULT CONTROLS:
+  ==========================
+  To the best of my knowledge, the control scheme for the game cannot be 
+  altered. It's not like the controls are that difficult to use anyway.
+
+  R BUTTON/RIGHT D-PAD BUTTON - Right Flipper
+  L BUTTON/LEFT D-PAD BUTTON  - Left Flipper
+
+  POWER - Duh? Turns NDS off
+  SELECT - No Function
+  START - Pauses the Game
+
+  X BUTTON - Missiles (in Combat Mode) - must acquire Missile first.
+  A BUTTON - Right Flipper
+  Y BUTTON - Power Bomb (in Morph Ball Mode) - must acquire PB first.
+  B BUTTON - Bombs (in Morph Ball Mode)
+
+  Unlike most DS games, this one makes almost no use of the touch screen func-
+  ionality of the DS. However, you can "rock the table" by sliding either a
+  finger (easier) or the stylus across the touch screen. This can greatly aid
+  in helping keep your ball on the table when sometimes it seems like you're
+  on a beeline straight for the gutter. Just nudge the table back and forth to
+  do some short trajectory correction, and you'll be fine.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+====================
+== 2. GAME OVERVIEW:
+====================
+
+ 
+  =====================
+  ++ 2.1 - TABLE TYPES:
+  =====================
+  There are two main types of tables in the game - Adventure Tables and Arena
+  Tables. Adventure Tables are mostly just filled with chances to score mini-
+  games and earn points, while Arena Tables feature less of that and more
+  chances for enemies to appear so that they can harass you while a boss is
+  busy rumbling around the area. The tables are classified below:
+
+    ADVENTURE TABLES
+    ================
+    Pirate Frigate - styled after the Frigate Orpheon
+    Tallon Overworld - lush jungle area, with some mechanical parts
+    Magmoor Caverns - lava cave (not really) environment
+
+    ARENA TABLES
+    ============
+    Phendrana Drifts - resembles Quarantine Cave
+    Phazon Mines - styled mostly after the Omega Quarters
+    Artifact Temple - 2D representation of the Temple
+    Impact Crater - self explanatory; sort of like the SubChambers
+
+  See below, Section 3, for more in-depth information regarding the layouts
+  of each table, specific minigames that appear in each, and other important
+  information.
+
+  ========================
+  ++ 2.2 - SCORING SYSTEM:
+  ========================
+  Scoring is like any real or VG pinball game - you earn more points by running
+  over various sections of the table, hitting bumpers in scoring regions, or
+  triggering jackpots. As this is styled after Metroid, you also earn points
+  by defeating enemies the game throws your way. The Jackpot is a continuously
+  increasing scoring counter that you can get if you shoot the ball the correct
+  way. Many items, though, are not scored or added to your point total until
+  you lose a ball down the gutter. This is where the Bounty Bonus comes into
+  play.
+  
+  The Bounty Bonus is based on the following criteria:
+  - Total number of each enemy killed
+  - Total number of Specials collected (20-50,000 per Special)
+  - How many times you hit the Bounty Multiplier
+
+  The good thing about this is that your score is counted for the entire game,
+  not just the ball you were playing on, so your scores accumulate and become
+  worth more the more you play. Skillful manipulation of the Wall Jump and the
+  Reward Scanner is key so you can gain as many Extra Balls as possible to help
+  in earning higher and higher scores.
+
+  The game saves your high scores automatically after each game. If you place
+  on the high scores list, you'll be asked to input your initials or other 
+  three-letter moniker of your choice. The number of Artifacts you collected is
+  displayed next to your point total, and if you've completed the game, a num-
+  ber will appear over the Artifact symbol to denote how many times you managed
+  to complete the game.
+
+
+  ========================
+  ++ 2.3 - BOARD FEATURES:
+  ========================
+  Every table is, of course, unique, but there are a number of features that
+  most of the tables share in common. These include:
+
+  1) THE MODE SAUCER: This usually is a hologram somewhere on the board that
+     either depicts an enemy or an arrow. If an enemy, hitting it with the ball
+     triggers the minigame mode for whichever enemy is highlighted (for exam-
+     ple, hitting it while a Metroid is displayed triggers either Metroid Mania
+     or Metroid Blast, depending on the status of the SAMUS indicator lights).
+     When this hologram displays an arrow, rocket yourself into it to gain the
+     ability to warp between tables - a crucial power in Multi Mission.
+
+  2) S-A-M-U-S INDICATOR LIGHTS: While playing, knock your ball over the flash-
+     ing blue ramps to trigger another letter to light up. Whenever all five
+     letters are lit, roll over the Combat Saucer just above the gutter to 
+     trigger a Blast session, where you get to pop out of Morph Ball mode and 
+     take a crack at some enemies with your good old arm cannon.
+
+  3) COMBAT SAUCER: As explained above, this activates once the SAMUS lights
+     have been lit. When active, you have to defeat all the enemies that swarm
+     the table. You can only be hit four times before reverting back to Morph
+     Ball mode. Successfully complete this mode and (in most cases), you'll
+     receive an Artifact as a reward.
+
+  4) BOUNTY ROLLOVERS: These are located normally near the top of any given
+     table, and consist of a few rollovers along bith a series of bumpers. Hit
+     these to increase the potential Jackpot score, which can add a massive
+     amount of points to your score.
+
+  5) KICKBACKS: These little springs lie in the outer lanes and prevent your
+     ball from being shot down into the gutter when they fall into these lanes.
+     They activate at the start, but disappear when used once, and can be re-
+     energized by using the Reward Scanner.
+
+  6) FORCE FIELD: This helpful feature keeps you from losing the ball between
+     the two lowest flippers. It disappears after a while, and can be reacti-
+     vated using the Reward Scanner.
+
+  7) REWARD SCANNER: This cute little device looks like a Spinner from Metroid
+     Prime 1 and 2. While rolling around, enter one to start a roulette with
+     multiple random prizes, including: Health Recharge (obvious), Big Points
+     (adds anywhere between 30,000 and 50,000 points to your score), Phazon
+     Multiball (MB mode with Phazon-powered balls), Combat Ready (activates the
+     Combat Saucer), Extra Ball (extra life, basically), Force Field (engages
+     the Force Field at the bottom near the gutter), Missile Recharge (refills
+     your Missile stock), Power Bomb (gives you a Power Bomb to use), Bounty
+     Multiplier (increases the Bounty Multiplier score for higher point ratio),
+     and Kickback Ready (activates the outer-lane kickbacks).
+
+  8) WALL JUMP: This is usually stashed away as a red light in one of the upper
+     corners. Hit it once to activate the mechanism, then again to enter the
+     Wall Jump mode, where you have to hit L and R as you carom off the walls
+     trying to reach the Artifact/Special that lies at the top.
+
+  9) BUMPERS & RAMPS: Bumpers are locates near the Bounty Multiplier and can
+     really add to the overall Jackpot score. Hitting them more often can also
+     serve to advance the hologram displayed in the Mode Saucer. Ramps are
+     located all around the table and serve as point-gaining mechanisms. Shoot
+     a ball up a ramp when a white arrow is flashing to start a combo. Other
+     arrows and circles that may appear include: Blue Circle (turns on one of
+     the SAMUS indicators), Green Circle (opens a multi-ball lock), Red Circle
+     (readies the Wall Jump), Green Arrow (locks ball/starts multiball), Purple
+     Arrow (readies the Kickbacks), Red Arrow (starts the Wall Jump minigame),
+     Red & Blue Arrows (activates Phazon Multiball - Tallon Overworld only).
+
+  ==============================
+  ++ 2.4 - COLLECTING ARTIFACTS:
+  ==============================
+  Just like playing the original Metroid Prime, you need to collect twelve of
+  the Artifacts in order to progress to the final levels. Unlike the original,
+  however, the Artifacts are not in set locations - you earn them by completing
+  in-game challenges such as mini-games and whatnot. Completing mini-game ob-
+  jectives, such as Burrower Bash, Triclops Terror, etc, usually net you an
+  Artifact. Reaching the Wall Jump area and successfully navigating the Wall
+  Jump also gains you one on the first try (in Multi-Mission, subsequent Wall
+  Jumps earn you Extra Balls; in Single Player, you earn Specials worth 50,000
+  points). Defeating a boss also reveals an Artifact. Once you gain twelve,
+  trigger a Destination Warp and you'll be able to reach the Artifact Temple
+  table.  
+
+  =================
+  ++ 2.5 - ENEMIES:
+  =================
+  There are many enemies that will appear during the course of the game. Most
+  appear during minigames, but occasionally they'll just appear for the sake
+  of cameo'ing or ramping up the difficulty, the latter if you're just cruising
+  through the game. Below is a list of those that will make their appearances.
+  
+  1) BEETLE
+     ------
+     Description: These tunneling creatures attack by charging at their prey.
+     Appears in: Tallon Overworld
+
+  2) BURROWER
+     --------
+     Description: Tunneling creatures that attack their prey.
+     Appears in: Tallon Overworld
+
+  3) METROID
+     -------
+     Description: Vicious, life-sucking parasites from which there is little
+                  escape. Set bombs to get them off if you get snatched.
+     Appears in: P. Frigate, Tallon Overworld, Magmoor Caverns, Impact Crater
+
+  4) PARASITE
+     --------
+     Description: A strain of parasitic creature, deadly in large numbers.
+     Appears in: Pirate Frigate
+
+  5) PUFFER
+     ------
+     Description: Floating orbs that leave behind poison gas when destroyed.
+     Appears in: Pirate Frigate  
+
+  6) SHRIEKBAT
+     ---------
+     Description: These fast-moving creatures dive-bomb their targets while 
+                  emitting a high-pitched shriek (hence, the name).
+     Appears in: Pirate Frigate
+
+  7) SPACE PIRATE
+     ------------
+     Description: Starfaring brigand of thieves that have a long history of
+                  conflict with Samus Aran.
+     Found in: Pirate Frigate, Phazon Mines
+
+  8) TRICLOPS
+     --------
+     Description: Creatures with powerful jaws that will (very cheaply, too) 
+                  grab and dump you down the gutter. Set bombs to break free.
+     Appears in: Tallon Overworld, Phendrana Drifts
+
+  9) WAR WASP
+     --------
+     Description: Beelike creatures that attack you in swarms of two or three.
+     Appears in: Tallon Overworld
+
+
+  ======================
+  ++ 2.6 - BOSS BATTLES:
+  ======================
+  Boss battles only occur on Arena Tables, and usually take a few seconds be-
+  fore they actually begin. Generally, the objective is simply to rocket into
+  the boss as much as possible while dodging attacks, other enemies, and table
+  hazards to defeat the offending creature. Below is a list of the bosses and
+  some hints for defeating them.
+
+  THARDUS (boss of Phendrana Drifts)
+  ----------------------------------
+  Thardus behaves much like his MP1 counterpart, except for the blizzard/storm
+  bits and turning near invisible. He either summons rocks to chuck at you, or
+  he rolls around. Grab the Power Bomb near him, and detonate it with the Y
+  Button when he's standing still to take out a chunk of his life. The primary
+  distraction in the area when dealing with Thardus are the Triclops he can
+  summon.
+
+  OMEGA PIRATE (boss of Phazon Mines)
+  -----------------------------------
+  Omega Pirate retains all of his moves from MP1, except for the Chameleon
+  Manta (thank God). He'll create shockwaves that are near impossible to avoid,
+  and he'll summon Space Pirates to get in your way. The Phazon Mines board 
+  features a Missile upgrade, so it's in your best interest to trigger the
+  SAMUS indicators during this fight so you can fire away at OP.
+
+  META RIDLEY (boss of Artifact Temple)
+  -------------------------------------
+  Meta Ridley isn't so much of a real boss fight as it is just dodging his
+  bombing runs. Your goal is to hit the twelve Artifact posts before he can
+  reset them. Do so successfully, and you reach the Impact Crater, and Meta
+  Ridley is no more.
+
+  METROID PRIME (boss of Impact Crater)
+  -------------------------------------
+  Strategy and information forthcoming.
+
+  ===================
+  ++ 2.7 - MINIGAMES:
+  ===================
+  
+  1) BEETLE BLAST
+     ------------
+     Unlocked in:
+     Details: 
+
+  2) BURROWER BASH
+     -------------
+     Unlocked in:
+     Details:
+
+  3) CLONE MULTIBALL
+     ---------------
+     Unlocked in:
+     Details: 
+
+  4) GUNSHIP MULTIBALL
+     -----------------
+     Unlocked in:
+     Details: 
+  
+  5) HURRY UP!
+     ----------
+     Unlocked in:
+     Details:
+
+  6) METROID MANIA
+     -------------
+     Unlocked in:
+     Details:
+
+  7) PARASITE PURGE
+     --------------
+     Unlocked in:
+     Details:
+
+  8) PHAZON FRENZY
+     -------------
+     Unlocked in:
+     Details:
+  
+  9) PHAZON MULTIBALL
+     ----------------
+     Unlocked in:
+     Details:
+  
+  10) SHRIEKBAT SHOOTOUT
+      ------------------
+      Unlocked in: Pirate Frigate
+      Details: Samus unmorphs and has to attack a swarm of Shriekbats. Defeat
+               them all to earn an Artifact.
+  
+  11) SPACE PIRATE PANIC
+      ------------------
+      Unlocked in:
+      Details:
+  
+  12) TRICLOPS TERROR
+      ---------------
+      Unlocked in:
+      Details: 
+  
+  13) WALL JUMP
+      ----------
+      Unlocked in: Pirate Frigate, Tallon Overworld...
+      Details: Rebound off the walls using the Left and Right Flipper buttons
+               to reach the top of the room (either an Artifact or Extra Ball).
+
+
+  =====================
+  ++ 2.8 - UNLOCKABLES:
+  =====================
+  The game features unlockable tables you can earn for play in Single Mission
+  Mode. Below is ...
+
+
+  ===========================
+  ++ 2.9 - ITEMS & POWER-UPS:
+  ===========================
+
+
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+===============
+== 3. GAMEPLAY:
+===============
+
+
+
+
+
+Verify Code:
+
+For instance, my first one was 
+JYRG SSBF MMPW ZTBB
+FCFJ TWMC GCRW WRXW
+
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+=============================
+== 4. WIRELESS DOWNLOAD PLAY:
+=============================
+The wireless play option uses a single DS Card of Metroid Prime Pinball to send
+the game out to other players (up to a maximum of eight).
+
+  =====================================
+  ++ 4.1 - SETUP/DOWNLOAD INSTRUCTIONS:
+  =====================================
+  The instructions, whether you're the host or client, are very simple to
+  follow:
+
+  HOST DS
+  -------
+  - Start MPP game
+  - Select "Wireless Mission" from menu
+  - Wait while MPP is downloaded to friends' DS'. Their names will appear in
+    the roster. When finished, a ball next to their name will cease flashing.
+  - Press START button to begin play.
+
+  CLIENT DS
+  ---------
+  - Remove any DS Card from your DS
+  - Select DS Download Play from your DS menu
+  - Select MPP from the available downloads menu
+  - Select "Yes" to download the software*
+  - Wait until the Host DS starts play, then join in
+
+  * Do note that the download is temporary cache only. It will be deleted
+    as soon as your DS is turned off.
+
+  ====================================
+  ++ 4.2 - PLAYING A MULTIPLAYER GAME:
+  ====================================
+  Playing a Wireless Multiplayer game is different than the regular modes. The
+  first player to reach 100,000 points wins, regardless. The basic goal is to
+  shoot the Ramps, Targets, Rollovers, Spinners, and Saucers to earn as many
+  points as you can in as fast a time as possible. There are a few things that
+  are unique to the Magmoor Caverns board that others don't have:
+
+  1) PROGRESS METER - a meter tracks yours and other players' progress towards
+     the goal. Your position is orange; other players are blue. 
+  2) RANKING - a small number (1st, 2nd, 3rd, etc...)
+
+
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+============
+== 7. LEGAL:
+============
+This guide is the property of the author, and may not be reproduced, in part or
+whole, without prior permission. A link and applicable credit must be given to
+the author and Metroid HQ (http://metroid.retrofaction.com) if you wish to use
+any information from this guide. All rights reserved, © 2003-2005 Metroid HQ. 
+All associated characters and games are copyright to Nintendo.
+
+===============================================================================
+-------------------------------------------------------------------------------

@@ -1,0 +1,590 @@
+-From the NEOBRAIN ARCHIVES-
+Custom Robo Game Mechanics guide
+
+Archived by WYVERN_FOUR
+
+____________Version II____________
+
+Custom Robo is one of the most popular games in the world. Although the premise 
+at first is simple, strategies and gameplay have much more underlying 
+difficulty than first meets the eye. This guide will assist you in your goal to 
+become one of the Custom Robo Arena Champions.
+
+This guide is spilt into 4 sections:
+
+1]Mechanics
+
+2]Techniques
+
+3]Online Strategies
+
+4]Useful Links
+
+
+1}
+__________ -Game Mechanics-___________
+
+..Combos..
+
+All right, the problem here is that the whole "combo" thing is somewhat 
+confusing to understand.
+
+All you have to do is hit them before the "HIT" message on their status bar 
+disappears. This means that you can actually afford some time to set up attack 
+chains before you actually start downing them.
+
+The combo damage itself lasts from when you first damage them (HIT message) 
+until they re-birth after being downed.
+
+You need to use at least 3 different weapons, but not necessarily limited to 
+using them one time each.
+
+Aerial and ground gun shots count separately toward the 3 weapons, but I am not 
+sure whether aerial bomb/pod fire is different.
+
+You have 3 hits of regular damage before they are knocked down, and after that, 
+their damage taken is greatly reduced. (60-70 percent) Therefore, you want to 
+do them the majority of the damage all at once and not have to rely on your gun 
+hitting them while they are downed. You want to hit them the hardest at the 
+start before they get downed, then hit them quickly before they rebirth.
+
+-A quick example of this would be with the Needle Gun, Burrow Bomb P and the 
+Umbrella pod. This combo probably won't get over 380, but it will give you an 
+idea of how to set combos up.
+
+1]Hit them with the Needle gun, stopping their movement and drawing them in 
+toward you.
+2]Launch a Bomb into the ground in front of them and then hit them with the 
+Needle again, downing them and blasting them into the air with the Pillar type 
+blast.
+3]Launch the Umbrella pod while they are in the air
+4]Use the charge attack to tack on some extra damage.
+
+As you can see, it's all about moving them into your traps, then piling on the 
+damage.
+
+..Weapon Limits..
+
+There is a set limit to how many of a weapon you can have in the field at once; 
+once this limit is met, you will have to wait until there is sufficient spaces 
+for you to use new ones.
+
+Gun- 10 individual rounds
+Bomb- 4 bombs (unknown if Dual bombs count for 2)
+Pod- 3 individual pods
+
+Once there are enough places, you are able to re-fire the parts even though not 
+all of them have disappeared. You can observe these limits with the Volcanic 
+bomb or Divide pod. Both use more than one unit at a time and use one less than 
+the limit. However, if one of the units explodes, you are able to fire once 
+again. Thus you can have 4 volcanic bombs and 3 Divide pod units on the field 
+at once.
+
+
+..Critical hits: The optimal range..
+
+Some guns have a "sweet spot" or range where they do the most damage at. At 
+this range, the majority of the shots hit the other robo and rack up the most 
+damage. Experimentation is needed to find out what the optimal range is.
+
+The critical hit ranges for all the guns can be seen in the Parts list/Damage 
+chart below.
+
+http://i130.photobucket.com/albums/p277/Wyvern_5UN/CRAGundamagechart.png
+
+*All damages were calculated with the Ray Mk III against the training robo/Ray 
+Mk III in the Free Play mode; presumably they are the same robo.
+Keep in mind that these figures are just guidelines for approximating damage. 
+Multi-hit guns are espcially difficult to calculate max damages for because of 
+the multiple rounds that often deal more damage at a certain distance. Ie: not 
+at point blank
+
+
+..Part Letters and their effects..
+
+You'll notice that some parts have letters placed after their names. 
+ie: Burrow P/Satellite H
+
+These letters denote the effect of the blast. It is much easier to find a 
+bomb/pod that has the right blast type for your set-ups if you know the 
+meanings of all the letter types.
+
+Letter Names and their effects:
+
+Normal (no letter)-diagonally upward (orange/red blast)
+Gazer- upward (small weak blast)
+Horizon-slowly to the side (large white blast)
+Burst-blasts sideways (medium pink blast)
+Destroy-diagonally upward (skull blast)
+Stun-paralyzes foe (small green blast)
+Pillar-upward; leaves a blast zone (tall orange blast)
+Flipper-knocks foe to the side (light blue pillar)
+Cyclone- slowly upward (large blue blast)
+Traction- toward robo that fired the bomb/pod (small yellow blast)
+Knockdown- Knocks opponent down (medium size brown blast)
+X (Explosion)- Diagonally upward high into the air (small brown white blast)
+
+
+..Robo Special Abilitiies..
+
+As alluded to in the notes section, some/all robos have a secret ability that 
+is not mentioned in the manual/customization screen. The game itself only 
+mentions three of them; the rest are apparently for players to discover on 
+their own.
+
+Shining Fighter
+"Better intergration" with lag parts gives them better mobility than other 
+robos with similar parts. Has a descending air dash which reduces lag.
+
+Metal Grappler
+Less DOWN time than other robos and better reload rate.
+
+Little Raiders
+Traction is similar to the effect from formula legs.
+Incredibly low endurance makes them down from most attacks.
+
+
+Little Sprinters
+Traction is similar to the effect from Stabilizer legs.
+Incredibly low endurance makes them down from most attacks.
+
+Javelin
+Unlimited quick charges at the expense of invincibility
+
+Jameson
+Cannot be downed by any weapon or charge, as well is invulnerable to blast 
+effects from weapons or charges.
+
+Lightning Sky
+Has a unique long range single air-dash; also has a descending air dash which 
+reduces lag-time.
+
+Ray Sky
+Shining Fighter mobility and less down time. Also has somewhat less 
+vulnerability after a dash.
+
+---
+For robo special abilities, wild soldiers DON'T recover faster after shooting. 
+Creators made a mistake.
+
+Big Boys recover faster from shots.
+
+Strike vanishers have shorter down time.
+
+Burning beast have instant recovery when landing
+
+Submitted by SHOMASAN (GF Mara)
+---
+
+The rest of the abilities are unknown at this point; as soon as more 
+information becomes available it will be added, with due credit.
+
+
+
+2}
+________-Techniques-___________
+A compilation of all current accepted Custom Robo Techniques
+
+-Movement Techs-
+
+.Short Hop- Pretty much a given, but when you have Ground, Feather or Quick 
+Jumps on (or Burning Beasts) you can repeatedly jump back and forth low to the 
+ground to get a quick burst of speed similar to an air dash. Big Boys can 
+demonstrate this technique the best.
+
+.Jump cancelling- When you jump and fire a weapon from the air, all movement 
+stops and you can take advantage of the gun/bomb's aerial effects without 
+having to jump as high. You also cancel the slide shot effect, making it easier 
+for you to avoid guns like the V-Laser.
+
+.Air-dash- The air dash is mainly used to traverse long distances quickly 
+without the danger of being exposed to enemy fire. It can also be used to 
+approach quickly. By tapping A twice near to the ground, you can dash lower to 
+the ground, therefore reducing your vulnerability upon landing.
+[See Stealthdash]
+
+.Continuous jump- The counterpart to the air-dash. Although less useful for 
+moving quickly, it is better for dodging fire because you are not left on the 
+ground after using it. Time your jumps so that you jump right before the rounds 
+are about to hit you.
+
+.Wall dash- If you jump while moving alongside a wall, your airspeed will be 
+significantly higher than if you had just been moving in mid-air and you will 
+land farther away. You can really see this the best with Little Sprinters and 
+Sassy Stunners with the Wide Jump legs. In most arenas you can jump across an 
+entire wall without having to use a mid-air jump.
+
+.Stealth dash- Strike Vanishers and Burning beasts have this special kind of 
+air-dash which allows them to disappear while they are dashing.
+
+.Prep Spin- You can keep yourself ready to run in any direction (especially 
+stabilizer) by running in a circle. That way, you will be at top speed and 
+ready to go in any direction while you wait for your opponent to rebirth.
+
+-Gun Techs-
+
+.Overloading- When you and another robo fire your gun at the same time, if one 
+robo is downed, the other robo's rounds disappear. Try to overload robos whose 
+gun take a long time to reach their opponent or stall in the air.
+*NOTE: Only Gun shots overload. Bomb and pod explosions do not.
+
+.Slide shot- When running, you can fire your gun and slide in the direction you 
+were running. Use this technique to fire into an open area and then come to a 
+stop behind a wall.
+
+.Critical hit- Many guns have a range at which they will do the maximum damage. 
+For example, the Halo gun's aerial shot actually does the most damage when used 
+point blank. (150 dmg)
+.Switch Firing- Some guns/bombs shoot differently from the air than on the 
+ground. Fire during a Jump cancel with a gun or bomb to switch the round type.
+Bombs usually fire straight when fired from the air, allowing them to be used 
+akin to a gun (doing damage by hitting the robo instead of the robo being 
+caught in the blast)
+
+Switch firing also can be used at the end of some charges because of the slight 
+vertical distance gained during the charge. An example of this is Swift or 
+Pike; both use their aerial shots after a charge.
+
+
+-Bomb Techs-
+
+.Switch Firing- See Switch firing in the gun section above
+
+.Soft landing: You know how when you dash twice (or more) in the air and you 
+have that lag when you land if you're not wearing reduced vulnerability legs? 
+You can cut that out with this. After your dashes (or whenever, really, if 
+you're expecting lag when landing) Prepare to fire your bomb and hold it out 
+until your robo lands. Then, fire, and your robo will be ready to go a lot 
+quicker than if you hadn't done that. Tips to streamline the process is to 
+practice starting the trick just before you land, so you're not in one spot for 
+too long.
+
+.Drifting: When you prepare to fire a bomb from the air, you drift slowly 
+downward. You know this already, but maybe not how to apply it. You can dodge 
+your enemy's gun if it has low homing and get a nice counterattack by 
+manipulating your drift and letting go to dodge it.
+
+.Stop on a Dime: You will stop immediately on the ground (and in the air if 
+you're not a dashing LS) when you're firing a bomb. Use that if you've got poor 
+turning/braking and don't have enough time to take a detour away from running 
+into an explosion.
+
+.Keep moving! : If you want to launch your bombs from the air and still be on 
+the move, but you don't wanna give in and use a Lightning Sky? Try practicing 
+this: Since bombs have no lag after they're fired, dash immediately afterwards. 
+This is pretty brainless, but sometimes it needs to be said.
+
+-Pod techs-
+
+.Neutral Pod- When no button is pressed, pods go directly at your opponent, 
+giving you more precise aim for cornering pods.
+
+
+
+-Special Techs-
+
+.Charge attack- All robos have a charge attack, which is a close range dash 
+designed to allow you to simultaneously negate damage and cause damage. Using a 
+charge attack always downs the opponent. Robos also have different types of 
+charges with differing effects as well.
+Its effect is shown next to its section on the customization screen.
+
+Attack-
+usually moves in a straight line and hits opponent either slightly ahead of you 
+or into the air, away from your position.
+Movement-
+used for moving closer to the opponent without taking damage. Effect on 
+opponent varies,
+Evasion-
+used for avoiding damage while remaining able to damage enemies up close. 
+Knocks enemies away.
+Flak-
+used to hit mid-air enemies. Hits opponents up higher into the air. Also able 
+to be used to jump into the air or over obstacles safely.
+
+
+.Combos- Combos refer to an unavoidable attack sequence that happens in a short 
+amount of time. Refer to the "combo" guide in the information section for more 
+info.
+
+.Rebirth invincibility- after being downed, there is a short period of time 
+called the "rebirth" where your robo is invulnerable to damage. The Acrobat 
+bomb/pods exploit this feature and the Little Raider/Sprinter's low endurance 
+stat to give them temporary invicibility. By downing themselves behind walls, 
+they are able to attack without fear of being damaged.
+
+.Charge shielding- Even if you launch a bomb right next to an opponent, there 
+is still a nanosecond where you can still move. To add on some damage really 
+quick at close range, bomb and then charge right after. Often, just a simple 
+combo like this will net 150+ damage because single bombs don't usually down 
+robos.
+
+.Prep Spin- You can keep yourself ready to run in any direction (especially 
+formula) by running in a circle. That way, you will be at top speed and ready 
+to go in any direction while you wait for your opponent to rebirth.
+
+.Reload Tech- When you are hit by an attack, your gun will stop firing and you 
+will regain movement. This effect is often ignored because of wifi's lag, but 
+you can still you this to your advantage. The acrobat bomb counts as a hit 
+since it takes away some of your endurance. If you launch a bomb ahead of your 
+path and then hit it while firing your gun, you will fire the shot while having 
+your reload vulnerability reduced. To use this in the air, jump, fire a bomb 
+and then fire your gun so that you drift onto the explosion.
+On the ground, fire it ahead of you and use your slide shot to drift onto the 
+explosion.
+
+."Check"- keeping a constant threat on your opponent is extremely helpful when 
+playing competitively. Robo sets that can use the bomb pod and gun as well as 
+the charge to threaten and eventually trap the other robo are the most 
+successful.
+
+.D'Glitch- When a bomb or pod happens to hit a robo at the exact same time that 
+a charge hits, the robo will not down; instead the robo will miraculously 
+emerge undowned. This can either be a blessing or a curse; not downing means 
+that the robo does not gain the 70% damage buffer, but it also may be able to 
+counter attack.
+
+3}
+________Online Strategies________
+
+.Picking your stage: You want to make sure that the stage you pick corresponds 
+to the robo you plan on using and what robo your opponent is using. You can get 
+a hint of what they use most by paying attention their title when your opponent 
+is announced. Titles like "the sparkling" indicate that their most used robo is 
+a Shining Fighter like the Ray MkII , while the title "Get off my Lawn" shows 
+that they favor Old-Timer robos such as Codger or Gramps.
+
+You can check Killbot's "Title Research thread" to find the current list of 
+title descriptions. However, there is no real way to determine what the titles 
+truly represent or what the conditions are for obtaining them.
+
+.Customizing your robo: Make sure that your choices are specialized for the 
+stage that you picked. Don't be afraid to change up a few parts from your saved 
+sets to match what robos you anticipate your foe using. Also, try not to be 
+predictable with your choices. If you never change your parts, you will 
+eventually find yourself unable to counter anything once your opponent figures 
+out how to beat you.
+
+.The robo cannon- the virtual starting block: Unless you have a strong, close-
+range gun, try to fire away from the action, behind a wall or some barrier. 
+This gives you less of a chance of starting the game off already behind in 
+points. Try not to have your cube bounce around too much; it delays your 
+unfolding. You will notice that some places will guarantee opening quicker in 
+most situations/robo sizes. Try to remember where these are, because it will 
+often mean losing 200+ hp because your opponent has the opportunity to use a 
+perfect combo on you.
+
+.Opening moves: What you should do first depends on each individual set, but 
+there are a couple guidelines.
+You should always have an opening combo worked out, even it just involves your 
+gun and your charge. Don't lose the opportunity to deal 150 damage but waste it 
+fumbling around. Experiment in the training arena to figure out a quick 
+sequence. 
+
+If you are far away, you may opt to just down them quickly with a bomb and 
+prepare your attack while they are downed.
+
+[[Countering strategies]]
+Although there are seemingly endless customizations of robos, they eventually 
+fall into a generic strategy type.
+
+.Melee/ Gun Spammer-
+The most common type of strategy used to by newer players, this strategy focus 
+almost completely on the gun's high damage and homing to KO opponents and the 
+charge to repeatedly hit opponents.
+
+How to counter: Jump often while dropping pods behind you and using your slide 
+shot to dash away from them. As long as you are in the air, you are for the 
+most part invulnerable to damage except by their gun. Circle around them as you 
+approach to negate their round's homing. Also make use of your surroundings to 
+shield yourself. Once you are close enough or they are hit, quickly down them 
+and run away again.
+
+.Long-Range Flyers
+
+The second most common strategy used on wi-fi is essentially the same as the 
+melee gunner's, but they use their ability to fly over obstacles and fire 
+without becoming vulnerable to distance themselves from you.
+
+How to counter: This is one of the easiest traps to fall for. Since they are 
+able to fire high power rounds that will down you easily, you will be hard 
+pressed to win if you do not include at least one anti-air weapon in your 
+customization. One of the best ways to fit this in is a gun that fires 
+differently in the air. By mixing your air and ground shots, and you can keep 
+them stranded on the ground where they are very slow. Also try to go for an 
+overload by downing them quickly so that their high powered shots will 
+disappear.
+Once they land, they will be an easy target for you, so keep on the move, 
+firing only behind walls and after they have just fired until they land.
+Using a Flak-type charge that jumps into the air is also a good foil as they 
+will be instantly downed and unable to get away.
+
+.Close Range Runners
+
+This strategy uses either the Little Raider/Sprinter models or Shining Fighters 
+to dodge fire with their high speed. They then attempt to trap you or stun you 
+before unleashing their gun on you.
+
+How to counter: Because their speed is so high, the only time when you will be 
+able to use a straight-firing gun is when they are sliding or when they are 
+downed. The key to defeating these robos is a customization that emphasizes 
+blocking tactics to trap them in a corner or keep them running around trying to 
+dodge your blasts. Pods are the easiest way to block off paths due to their 
+unique ability to fire in any direction and without slowing down to fire. 
+Another good weapon to use is the V-Laser; it's long range blast shoots to the 
+side and forces them to jump into the air to avoid your fire.
+Take advantage of the Runner's typically low endurance rating and use weapons 
+that can cause many explosions all at once to trap them and negate their gun 
+rounds.
+
+.Chipper
+
+These robos try to damage you from afar using long range weapons and chip away 
+at your health while you are unable to approach them up close. Sometimes one of 
+the most frustrating opponents because they sometimes can simply stall the 
+match with time running out.
+
+How to counter: This strategy is a type favored by Aerial Beatuies, Big Boys 
+and Old-Timers. Knowing this, the most efficient way to win them is by keeping 
+them on the ground and behind a wall where they are slow, trapped and unable to 
+damage you. Flying pods do the job best in these situations because they do not 
+overload. Try to limit their range by placing Satellites or Beast pods in the 
+corners or in a line diagonally across the stage for them to run into. Lastly, 
+these robos's gun rounds are usually very easy to overload because of their 
+slower speed and reload time. Since they are mainly trying to trap you in a 
+corner and pummel you, stay in the open and weave behind walls, forcing them to 
+avoid you instead of firing their gun. Once they land, they are an easier 
+target. A direct charge is a good choice to down them; lag can make gun rounds 
+not disappear.
+
+.Heavy Hitters
+
+These robos try to outlast your attacks with their high endurance, then slam 
+you with massive amounts of damage before retreating away. 
+
+How to counter: your main objective is to keep them away from you and unable to 
+approach. Once they are within range of a charge attack, you are defenseless 
+and they can rack up huge combos with little effort. Instead of trying to 
+challenge them head on, try to pin them in one place and do your damage all at 
+once so that the combined effect of your weapons will be enough to down them. 
+Take advantage of their high endurance and juggle them between blasts. On the 
+whole, their mobility is severely limited if they cannot jump due to their 
+single air-dash. Keep them from jumping, at a distance and combo them once they 
+are trapped.
+
+.Combo Robos
+These robos have a specific combo that they are designed to do. Often, they 
+combine several elements of the aforementioned strategies but are designed to 
+take advantage of a specific combo. The key thing to defeating this style is to 
+understand what weapon begins the combo and focus on avoiding it so that you 
+don't get sucked into the rest of the weapons.
+
+
+[[Strategies]]
+
+.First off, always keep a mental tally of your surroundings. By remembering 
+where your opponent launched bombs and pods earlier, you can avoid most simple 
+traps and make simple stationary traps much less useful.
+Also related to this skill is keeping track of your opponent. Count how many 
+air-dashes/jumps your opponent has taken so that you can calculate when to rush 
+in for an attack. Keep special note if you see that your opponent has Plus-One 
+legs- they can surprise you with a last jump to dodge your attack and hit you 
+when you are most vulnerable.
+
+.Predict where your opponent will move to next and make subtle changes to your 
+attack so that you will be ready for when they try to bolt away. Likewise, 
+learn how to spot a trap coming and move to another place to keep from being 
+cornered.
+
+.Keep yourself protected. There are no shields aside from charges, so you will 
+have to rely on your jumps and on your environment to prevent losing health. If 
+possible, end aerial jumps/dashes behind walls and end gun attacks by sliding 
+behind a wall.
+
+.Find their pattern. Most sets have a pattern of attacks. Typically it 
+progresses like this:
+
+POD BOMB GUN CHARGE
+
+This is because each takes more time to use than the ones before it. By 
+experience, you can decipher the pattern of attacks your opponent uses to trap 
+you and you will learn the steps you need to take to evade the chain.
+If you are realizing that your opponent has learned how to evade your attacks, 
+it is time to switch tactics. Stay in the air/on the ground more. Use a 
+different gun mode. Launch your bombs so that they are trapped in the corners. 
+Place bombs and pods off-screen and run your opponent into a blind trap. If all 
+else fails, focus on evading their attacks so that you don't take damage and 
+let them make mistakes. An expert commander will be able to adapt to all 
+strategies with the set they chose and formulate a counter… and the sooner, the 
+better.
+
+.Keep your cool. This goes without saying, but often in the heat of battle, 
+take a moment to reflect on what technique they are using successfully and 
+figure out how to get around it.
+
+.Don't underestimate your opponent. Often the sets you have never seen before 
+are the ones you are most likely to make big mistakes because you haven't had 
+much experience countering it. In addition, make use of the time that you are 
+shown your opponent's customization to make a quick battle plan.
+
+.Learn the timing of attacks, reload times, bomb/pod blast fading times and how 
+long it takes on average for your opponent to get out of rebirth. This will be 
+incredibly helpful for you because you can guess at what is happening in the 
+rest of the stage without actually seeing it happen. You can also time attacks 
+so that you are attacking as long as possible while your opponent is 
+vulnerable. 
+
+.Learn from experience. If your opponent picked Seal Kid last time you picked 
+Nature Park, a set made to counter it will most likely succeed if you pick that 
+same stage again. Or, the opposite could happen. You use a set to counter their 
+previous set- and they pick a counter for your counter! Over time, you can try 
+to predict what your opponent will do in a given situation. Also make an effort 
+to remember what sets they have saved in their garage. Commanders will rarely 
+make a totally new set on the spot unless they are inexperienced because they 
+have more experience with their regular sets.
+
+.When making sets, focus on how all the parts work together, not just a single 
+combo or how well the set takes over the field. The key to success is a set 
+that combines damage potential, evasiveness, control and unpredictability into 
+one single set.
+
+
+4]
+ __________Sources and Useful Links__________
+
+Homerun's unofficial all-parts guide
+
+
+ShadowWolf's Tips and Techs guide (link broken, message was probably deleted)
+
+Killbot's Title research thread
+http://www.gamefaqs.com/boards/genmessage.php?board=930297&topic=48378192
+_________________________________________
+
+Wyvern's comments:
+
+5-3-07:
+This concludes the end of my research up to this point. I hope that in addition 
+to being a reliable, credible source of information, it will also be a place 
+where players can ask for advice, give tips to others, and serve as a showcase 
+for worthy guides. If you would like to submit your guide for inclusion in the 
+useful links section, kindly PM me the link and I will be more than happy to 
+feature it.
+
+6-26-07:
+I added a couple more things to the Advanced techniques and linked to one of 
+the Gamefaqs user's guides.
+
+9-17-07
+Version 2 includes a totally new strategy section to the wifi battles and has a 
+couple of newly discovered techniques included as well. All the previous NSider 
+html has been removed and two of the URLs to my sources have unfortunately both 
+been broken since my last revision of this, so I had to remove them.
+
+As always, I encourage readers to point out mistakes, inaccuracies or confusing 
+portions as well as discuss the material and the evolving strategy in Custom 
+Robo's wifi arena. I am a huge fan of this game and hopefully by reading this 
+guide, some of the enjoyment that I got out of writing this guide will rub off 
+on you. ;)
+
+1234567890123456789012345678901234567890123456789012345678901234567890123456789

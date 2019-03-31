@@ -1,0 +1,2794 @@
+:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:..:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.
+Nanostray 2 - Nintendo DS
+
+Version 1.0 (27/03/2008)
+
+Version History:
+1.0: Basic guide complete - (27/03/2008)
+0.4: First four stages - (20/03/2008)
+
+.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:..:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.
+
+Legality:
+This Guide is Copyright, 2008, Matthew McIntyre
+
+This guide may not be used on a website or in any public forum
+where it is protected by copyright without the consent of the author.
+
+To contact me: entropiclobo(at)yahoo(dot)ca or chaos(dot)wolf(at)gmail(dot)com
+
+Websites with permission to use this Guide:
+www.GameFAQS.com
+www.neoseeker.com
+faqs.IGN.com
+www.1up.com
+www.honestgamer.com
+gamesradar.com
+cheatplanet.com
+
+Game by Shin'en
+
+******************************************************************************
+*                            Table of Contents                               *
+******************************************************************************
+
+*To jump to a section, hold the Control Key and press F, then type in the
+section number as it appears (ie type NS1)
+
+NS1: Intro
+NS2: Gameplay
+NS3: Weapons and Items
+NS4: Stages
+     NS4.1: Teppeki Dock
+     NS4.2: Keikan Outpost
+     NS4.3: Naizoh Habitat
+     NS4.4: Shinkai Bay
+     NS4.5: Daitoshi Station
+     NS4.6: Kigan Belt
+     NS4.7: Kohai City
+     NS4.8: Himuro Base
+NS5: Bosses
+     NS5.1: Teppeki Dock
+     NS5.2: Keikan Outpost
+     NS5.3: Naizoh Habitat
+     NS5.4: Shinkai Bay
+     NS5.5: Daitoshi Station
+     NS5.6: Kigan Belt
+     NS5.7: Kohai City
+     NS5.8: Himuro Base
+NS6: Challenge Mode
+     NS6.A: Challenge Set A
+     NS6.B: Challenge Set B
+     NS6.C: Challenge Set C
+     NS6.D: Challenge Set D
+NS7: Simulators
+NS8: Unlockables
+NS9: Credits
+
+Nanostray 2 is rated A for "Awesome Crab Boss," it contains scenes of massive
+maggots and tumultuous turrets. Player discretion is advised.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                                NS1: Intro                                  |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Marvellous! Well met my friend. What call for excitement is there? Lo, it is
+the release of a competent shmup on the DS.
+
+Nanostray 2 is a surprising game. While Nanostray was a good game in its own
+right, Nanostray 2 takes steps to innovate the design, to tweak the system.
+Here I had thought that developers didn't have the stones to do this anymore.
+While you get a similar experience to the first game, it is different enough to
+make it a worthwhile sequel.
+
+Beyond that, it's a quality game. It's an easier game than a lot of intensive
+shmupers will be used to, however it is at least accessible to a wider array of
+people here. And to those of us who do play shmups frequently, it seems to pay
+homage to old shmups and shmup themes. I can't say for sure that's what they
+were going for, but it definitely gives that impression.
+
+Moreover, I am happy that a game like this got released on the Nintendo DS,
+which is in definite need of more games like this. This doesn't have the
+benefit of a longtime fanbase of something like Contra 4, but that's all the
+more reason to support Nanostray 2.
+
+Because we need more games like this.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                               NS2: Gameplay                                |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Nanostray has three control sets.
+
+Control Set A:
+-Classic-
+
+Control Pad: Movement
+A: Primary Attack
+B: Secondary Attack
+L and R: Satellite Position
+Start: Pause
+
+Control Set B:
+-Right-Handed Touch-
+
+Slide Touch Screen: Movement
+Control Pad: Primary Attack
+L: Secondary Attack
+Tap Touch Screen: Satellite Position
+Start: Pause
+
+Control Set C:
+Slide Touch Screen: Movement
+A: Primary Attack
+B: Secondary Attack
+Tap Touch Screen or L/R: Satellite Position
+Start: Pause
+
+The touchscreen controls may or may not be your cup of tea. You will need to
+practice and to hold your hand in a way that it _won't_ obscure the screen.
+This is the biggest issue with touch control, though it -is- surprisingly
+responsive. Give it a shot and it may turn out useful when you have to do
+dodging challenges and the ilk, if not in the main game.
+
+But as you can see, the controls are very simple. I kind of wish you could
+customize them because I prefer Y and B over A and B, but c'est la vie. I am
+content with the fact that controls are the controls of a shmup, ha...
+
+Before each stage you have the opportunity to pick a subweapon. These will
+prove invaluable so pick wisely. You can also edit the position of your
+satellites from here. By selecting one of the satellite boxces, you can use
+L and R to move them within here. You can make, for instance, your backwise
+satellites tighter or more spread, and so on and so forth. This is an excellent
+feature and I urge you to experiment with it.
+
+There is a nanogauge now too, which counts down the time between enemies
+destroyed. The more enemies you can destroy without running the gauge down, the
+better it is for your score.
+
+Each level has a sub boss and a boss. You must fly from one end of the stage to
+the next, and defeat these bosses. There are eight levels in total. Unlike the
+typical arcade shooter, you have  achoice of order to do some levels in. Stages
+2, 3, and 4, as well as 5, 6, and 7 are two sets that you may make your choice.
+
+In the end, it doesn't matter what order you do them in, but if you do the
+easier levels - or those _you_ have an easier time with - last it may at least
+keep you fresh.
+
+When the eight level is conquered, you can watch the ending - though there is
+still plenty to do in the other modes.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                            NS3: Weapons and Items                          |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Nanostray 2 differs from the first game in that you can only select a secondary
+weapon an dnot a primary. This may seem like a letdown at first but it's no big
+deal. Since you pick your secondary before the stage this time around, you
+don't want to get stuck with a poor primary for the situation. A standardized
+primary thus helps.
+
+The lack of a Side gun was distressing at first, there are some situations that
+it would come in very handy. However, this is solved partially by satellites.
+They are weaker, but in some ways more versatile.
+
+                                 ---Items---
+
+When you destroy an enemy or enemy wave, an item may be released.
+
+Yellow Coin: Released en masse by large enemies, collect for points.
+
+Blue Coin: Released after a wave has been downed. They will slightly refill
+           your secondary weapon's power meter.
+
+1-Up: Released after a wave has been downed and you have 1 life left.
+
+Satellite: The first two waves you destroy will release these glowing orbs.
+           Each one provides one Satellite.
+
+                               ---Weapons---
+
+*Satellites:
+ ----------
+
+Satellites are the "options" of Nanostray 2 and are extremely useful. They not
+only increase the rate of fire, but two satellites firing also increases the
+volume. They allow you to hit larger targets with more concentrated fire or
+conversely - multiple smaller targets.
+
+The versatility comes from being able to change their position around the ship.
+
+o       o      o
+  >     >    >
+o       o      o
+
+ 1      2     3
+
+You have three stored positions. The default positions are tight in the front,
+straight up and down, and loose in the back. You can change these in the weapon
+select mode. Select the box showing position and manipulate it with L and R so
+that you have three optimal positions.
+
+You can change direction while firing, so remember which direction L and R or
+whatever you're using provides, so that you can switch on the fly.
+
+*Pulse:
+ -----
+Power: Low
+Usage:
+
+Pulse has a long range and low usage, but its power leaves much to be desired
+for larger targets. While a concentrated beam may be useful for a boss or
+miniboss, it might not be enough to fend off larger enemies before they fly
+away.
+
+That's fine, however, as Pulse is more useful for groups of small enemies. You
+can sweep the screen with pulse and so it is useful for taking out some waves
+before they draw near.
+
+It uses less power than Raydion, but is only truly useful for crowd control at
+a distance.
+
+*Seeker:
+ ------
+Power: High
+Usage: 25%
+
+Seeker was easily the best choice in nanostray (imo of course) and it's still a
+force to be reckoned with here. Seeker fires two bolts of energy that home in
+on a target. The destructive power is immense, and it can take out most large
+targets with a single attack.
+
+The problem arises whehn there is more than one target onscreen. You will need
+to be relatively close to the target or at the very least have only one
+onscreen so that it does not strike a smaller target by mistake.
+
+It does immense damage, and it seems like a fire and forget weapon. It isn't,
+Seeker is deadly in experienced hands but you have to take care with it to use
+it properly.
+
+*Raydion:
+ -------
+Power: Low
+Usage:
+
+Raydion is an awesome crowd control weapon though it very rapidly drains your
+power reserves. It surrounds your ship in an electrical field, which damages
+any enemy that comes in contact with it. For smaller ships, this means death.
+
+When your SHN fighter is surrounded with Raydion, you can use yourself as a ram
+of sorts. Fly through small ships to rapidly destroy them. If only a few are
+coming near you, simply tap the button and a brief surge of electricity should
+down them.
+
+The downside is against large targets, which will require a fair bit of juice
+to down. Keep this in mind. You may take out one large ship, but you won't take
+out the fleet. Also, getting really close to some bosses isn't always the most
+atractive option.
+
+*Ion Strike:
+ ----------
+Power: High
+Usage:
+
+Ion Strike might just have the greatest destructive potential. Hold the button
+to send it out, and release to explode. The explosion is very powerful, and can
+hit multiple targets. It can also travel through surfaces.
+
+This, of course, is the advantage over Seeker besides the lower power usage. If
+you can master Ion Strike, it is a deadly tool indeed.
+
+Of course, it travels only on one plane and you need to direct it personally.
+This is the downside. If you have to direct this device for any length of time,
+then your attention maybe should have been elsewhere. You don't want to be
+downed because you weren't concentrating on more than your target.
+
+That's a paramount skill if you are using Ion Strike - to be able to consider
+the whole screen while being accurate with your strike.
+
+*Shock Mines:
+ -----------
+Power:
+Usage:
+
+Shock Mines are mines launched directly ahead of your ship that do reasonable
+damage. They explode in the vicinity of an enemy.
+
+Shock Mines are most udeful in levels you are familiar with, you can release
+one when you know something is coming, so that it is either destroyed or so
+suficiently damaged that your primary weapon will down it soon anyways.
+
+The splash damage is not tremendous on shock mines, and you probably won't
+take out a full wave with a single mine.
+
+*Spin:
+ ----
+Power:
+Usage:
+
+The spin gun shoots a purple bolt that will dance between enemies - briefly.
+For larger enemies, it will typically stay on top of it until it is totally
+destroyed.
+
+This sounds like it could be useful, though the bolt will typically destroy
+only a few enemies before exhausting its power, and to take out a larger target
+it probably -will- deplete its entire supply.
+
+I'd say pick another subweapon unless you _know_ this one is going to help.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                                NS4: Stages                                 |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+This walkthrough is for helping people through the game, and applies for Normal
+difficulty. It -won't- help you get the bests core. That's a competitive area,
+my friend, and it only matters if you do it yourself.
+
+------------------------------------------------------------------------------
+                             NS4.1: Teppeki Dock
+------------------------------------------------------------------------------
+Orientation: Horizontal
+
+When the level begins, stay near the bottom. When the small ships appear, head
+up while firing at them. The junk here can be destroyed, but right now it is
+more important to snag a satellite.
+
+Be prepared for the next wave at the top, grab your next satellite then weave
+down between the refuse - destroy it if possible - and meet the wave heading
+down and left. Stay central as the enxt wave appears from the background, and
+shoot them as they appear.
+
+A large ship will appear below you. There will be three in total in this area.
+Rather than using your secondary weapon on this ship, get right in front of it
+and blast away with your primary - pulling back when it gets closer. Take out
+the next two the same way, taking the time of course to destroy the waves that
+appear. You might have to use a secondary ont he third if you really want to
+blow it up.
+
+Either way, you will arrive at a door. Shoot the red core on the door but
+don't get too close to it. A wave will arrive from the background so you will
+want to shoot them while you shoot the door.
+
+Stay near the door and switch your satellites to an upwards angle, so as to
+take out the two turrets here. Stay back though, as two waves appear from the
+background, and a third from the pit in front of you.
+
+When they are thus dispatched, there are large pipes blowing gas here. Wait and
+destroy the wave that appears just past it. Fly past the gas when it stops
+blowing, be quick. Stay near the gas until you destroy the next wave, however.
+It's probably best to switch to an upwards shot.
+
+Keep firing forward as you enter the tunnel. The wave from above will be firing
+all the while. When you get down to the two pipes whose streams criss-cross,
+move past the vertical stream. Take out the next wave, and blast open the door
+via its red core.
+
+                       ********Miniboss: Genken********
+
+The miniboss is running along the floor when you come up upon it. Basically you
+have to stay near the same level it is toward the left side of the screen. The
+miniboss will fire streams of green bullets, and provided you're on Normal
+Mode, a red shot.
+
+This red shot can bounce off of walls. Essentially, it's best to stay just
+above Genken when its on the ground and just below when its on the ceiling.
+Your satellite should get most of the shots in. The red shot will be charged
+before fired, so you can get a premptive evade in - it will bounce to the left,
+fly away from Genken and towards it when the shot hits the wall.
+
+The green shots come more or less in straight lines - they should be cake to
+avoid. Just don't get near it because when it changes between floor and ceiling
+that could mean death.
+
+                               -=-=-Resume-=-=-
+
+After the miniboss, there will be a few slow-moving waves. Make sure you get
+them all to recharge your special meter if you used a secondary in that fight.
+Big ships are in the background, and one will fly into the lower part of the
+playing field. Strike it down, potentially with a secondary weapon, if you can,
+otherwise wait for it to fire before moving forward.
+
+Waves will appear from the bottom right, mid left, and top right. To get them
+all you will need to pick an upwards/downwards satellite position. Afterwards,
+large spinning enemies will appear. You will probably need a secondary weapon
+to take them down. Unless you want the points, it may be more economical to
+dodge their shots and focus on the waves that come with them.
+
+Switch to a more backwards shot at this point. Yellow ships travel vertically
+on the left and right of the screen. This way you can hit them on either side.
+This continues with the spinning enemies again, you may want to strike them
+down with a secondary so things don't get too hairy. You'll enter a vertical
+tunnel.
+
+This tunnel down is lined with turrets. Switch between front and back shots as
+you descend. When you approach a "T" shaped structure, fly around it. It is an
+obstacle. When you see the vertically arranged ships, switch to a frontal gun
+and strike those fools down.
+
+As you leave the tunnel, a wave approaches from behind. There's a few more to
+the front afterwards, so switch back to a frontal shot.
+
+Now, your SHN-Fighter starts to travel up again. You will see somne lasers
+firing and stopping, firing and stopping. When the bottom array of lasers
+stops, fly beneath the top array of lasers. When that top array of lasers
+stops, fly up and shoot the turrent.
+
+As you approach the smashing walls, stick to an upwards shot and destroy the
+wave that appears. Switch to forward and destroy the turret. Switch to forward
+for the next wave, then reverse for the turret. Switch to forward for the wave
+at the top, then reverse for the second one.
+
+                         ********Boss: Shokkoh********
+
+Ah, a robot with lasers. You need to hit Shokkoh in the orb on the bottom of
+its body.
+
+Shokkoh starts by raising his arm. Now is the time to let loose with your
+secondary weapons on his orb. His hand will fire lasers, one from each finger,
+but you don't have to worry about that until he brings his hand down. At this
+point, stay back and dodge the lasers. The lower left corner is tight but does
+work well for this if you want to continue to get shots.
+
+Keep on firing at this orb. His arm will sprt a laser. Fly up next to his
+wires in his head and the laser will thus miss you. Make small movements closer
+so as not to hit the head but also so as not to be crushed by the arm.
+
+Shokkoh will next open his arms into a > shape. Stay between them, near the
+green. It fires many shots out of this array. When he moves forward, move with
+him. When he moves back, let him shoot one volley, then move out of his array
+and into the lower left. Dodge the next volley of shots as they come, but
+Shokkoh will crush his arms closed so don't go between them.
+
+It then switches it back up. Just learn to dodge the attacks properly and this
+will become second nature. And look on the bright side - it's more complex than
+some of the next few bosses.
+
+Want to score a lot of damage with your main gun? As long as you have a tight
+stream on your satellites, getting right next to the orb will very quickly
+increase the damage. This is best done when the laser finger arm is raising,
+get away when it starts to lower.
+
+
+
+------------------------------------------------------------------------------
+                             NS4.2: Keikan Outpost
+------------------------------------------------------------------------------
+Orientation: Vertical
+
+Haul back to the bottom of the screen and take out the two waves that appear.
+The large ship that arrives releases multiple lasers and leaves. Take him out
+with a secondary if you so desire, but getting your satellites now is very
+important.
+
+Stay in the moddle of the screen now as more waves arrive. You could pick one
+of the big ships that arrive on the side and down it, but it's not ultimately
+important. The next big ship comes straight up the middle, however, so if you
+can't take one out quickly, dodge to the side. Take out the remaining waves to
+refill your secondary if you had to use it.
+
+As you enter the structure, there will be large structures moving back and
+forth. Retreat to the bottom of the screen and fire upon them until they are
+destroyed utterly. After their chamber there are some flamethrowers. Move past
+them after they fire and _when_ there is enough space at the top of the screen
+for your SHN-Fighter.
+
+After the flames, there will be some more mobile blockades. After these,
+switch to a sideways satellite position and take out the turrets on the right
+and waves on the left. Switch to a forward shot as you go around the corner
+with the waves on the right.
+
+Switch back to a forward spread and destroy the turret from below and the
+wave on the right. Switch back to side for the wave, if you must, but back to
+front for the blockades just ahead. As these blockades travel down at you, do
+not shy away from blasting the last one in your way with a secondary if you
+have to.
+
+When you're out of there, take out the waves but pay mind to the large ship.
+Dodge to the side if it gets the drop on you. Refill your secondary weapon on
+the multiple blue coins here.
+
+Keep a forward shot for the following blockades, and hit the turret with one of
+your side streams. Destroy the waves coming from above and before the fire at
+the bottom of the next wall can blow again, sneak onto the lefthand side. Shoot
+the turrets here with a side shot.
+
+I'd take the right on the next one normally, there's only one large ship here.
+If not, you have to pass some flamethrowers and waves, stay back until there's
+enough room for you on top, charge forward when they stop blowing, and stick to
+the far left.
+
+Pass teh next few flamethrowers as you just did. There will be some turrets on
+the lower wall, strike these down with the side cannon, but quickly change back
+to a forward shot to compensate for the waves that arrive here.
+
+                       ********Miniboss: Senten********
+
+As the miniboss approaches, get in past his outer rim. Those black bars, by the
+way, will not destroy you. You can move all around the centre, important.
+
+Senten's core will spin. It has four guns that will fire as it spins. Move
+around the centre firing upon it while staying between the streams. Of course,
+change your satellite position as you go around.
+
+   .---.
+ .'  B  '.    -When you are at the top, switch to a back shot.
+'         '
+'S       S'   -At the sides, switch to a side shot.
+'         '
+ '.  F  .'    -And of course, a forward shot at the bottom.
+   '---'
+
+When he stops firing the streams, get to 12 or 6 o'clock around him and get
+ready to dodge the shots from his outer rim cannons. There will be a little pie
+wedge that you can stay in that will move a bit. Stay here and concentrate on
+avoiding him until he starts his normal streams again.
+
+If you want to rack up serious damage with the primary weapon, switch to a
+forward shot and rest your satellites on top of its core. Fire away. Never let
+a gun in front of you, however, and if the outer rim cannons line up with you
+get out of the way right away.
+
+                               -=-=-Resume-=-=-
+
+There will be multiple waves now - take this as an opportunity to refill your
+special meter. The big ships arrive once more. Middle, sides, middle. When the
+waves come two by two, you will need to line up with at least one of them and
+use forward satellites to get both.
+
+Soon, you will enter a metal tunnel. After the first orange blocks there will
+be a wave or two, take them out but pay attention to the invincible spinning
+turrets.
+
+When it stops, pass it. Pick a side for the pait above. Stay between the guns
+on the turret proper until you are on their side. Let them stop, then pass to
+the north.
+
+Stay to the protected sides of the orange blocks for the next turret. Slip back
+in line after the block and fire at the turrets here. Switch to a side cannon
+now. As the cannons appear on the upper side of blocks, hit them with the side
+cannon. When they appear on the bottom, you can try the side, but taking out
+_one_ with the spread of a forward shot may be the best way. Either way, shift
+your fighter's position in line with the openings whenever you come to them.
+
+When it speeds up, you are leaving the wall turrets section. Stay at the back
+and fire like crazy at the blockades that approach. If you have to, use the
+orange blocks here as a shield as you take out only one side of them. It
+shouldn't be a huge issue though.
+
+                         ********Boss: Tessemi********
+
+Tessemi crawls along the wall at the top of the screen. It's much more simple
+than Shokkoh, but keep an eye out.
+
+As it walks up and down, it fires many streams of bullets. It only shoots red
+bullets when it moves forward. The first burst usually has a stream that goes
+straight down the middle, so be sure to be to the side when it starts down at
+you.
+
+Otherwise, stay near the bottom and continually fire while making little shifts
+in position to dodge the green bullets slowly coming towards you.
+
+A little over halfway destroyed, it will begin to launch large green orbs at
+your ship. Stay still, then move when they appear. They move briefly, note
+your position, then fly at you. Work your way from one side of the screen to
+the other. Please beware when Tessemi goes down again, he will probably still
+do red shots.
+
+It does alternate back to green shots, so just keep up your pattern and it
+should fall.
+
+
+
+
+------------------------------------------------------------------------------
+                             NS4.3: Naizoh Habitat
+------------------------------------------------------------------------------
+Orientation: Horizontal
+
+There will be many blue cell enemies flying onscreen from the righthand side.
+Now, if you have Raydion, just give it a short burst whenever they get close.
+Otherwise, keep firing and dodging to the best of your ability, but stay near
+the bottom of the screen. There will be a wave of red cells down here. Destroy
+them for your first satellite. Get up a bit and destoy another wave for your
+second.
+
+Continually shoot these waves as they arrive, but after the cells, there will
+be giant maggots. These maggots don't pose much of a threat, however they are
+large and take up much of the screen. Either fire on them with the primary and
+dodge them when you have to or shoot them once witht he secondary.
+
+Anyways, the first maggot goes across the top, not too important. The second
+one goes from top to bottom, so it's a fair target. As the third arrives, you
+will have to contend with a ground crawler. these malformed husks crawl along
+the ground firing at your SHN-Fighter. Pump them full of lead though be sure to
+take out some waves as well. The third maggot goes to the right.
+
+As the fourth maggot arrives, a tusk will jutt out on the right side of the
+screen from the crater mark here. Stay back and fire on it, this will also take
+out the rolling enemy en route. A maggot will be travelling right, duck beneath
+it.
+
+Stay back and fire at the maggots going up and down in the pit just ahead.
+Destroy the waves of red cells but watch out for the crater here - it has a
+tusk. Stay back as you destroy the turrets, crawler, and tusks. At the end,
+there is a maggot so use your secondary. If you sneak past it, go up as there
+is a tusk on the bottom path - so you will likely be going up either way.
+
+There is an acid thrower at the bottom anyways, throwing jets of acid into
+the air. Instead, take the top path and destroy the top tusk after the acid
+jet. Once it is destroyed, switch to an up and down formation and destroy the
+turret on the ground. Switch back to a forward shot and take out the next
+tusks before the next acid geyser. Wait for the geyser to spit acid, then sneak
+on past.
+
+There will be large bone circles coming up. There is a gap in this circle, go
+inside of it. Stay near the top of it so the acid jet does not hit it. Use a
+forward shot for the first wave, then a backshot for the next two waves. Whever
+the bone circles open right, slip through to the next circle. The next wave,
+after the red structure, is a forward issue and the one following is for the
+backshot.
+
+As you head up, use an up and down shot for the two waves, the switch to a
+forward shot as you realign to go right. You will be assaulted from all sides
+by blue cells. Rapidly fire and rapidly switch between formations to keep them
+at bay. Raydion is extremely useful here.
+
+When you arrive at a tunnel, stay near the right of the screen, as the tusk
+doors close.
+
+                       ********Miniboss: Hishin********
+
+Hishin walks forward. It spurts energy from the top and will now and then
+launch a rolling, bouncing enemy. Basically, the energy balls are "lobbed,"
+that is, they ar esubject to gravity and travel in a parabola. 
+
+As such, you can stay near Hishin and move back when it is on the ground,
+but when the screen shifts so it is on the top of the screen - get the hell
+away from it. Stay near the bottom and dodge the energy balls as they fall
+down.
+
+As for the bouncing rolling enemies, they make a distinct sound when they
+are lobbed. NEVER let Hishin close you in or else they will hit you with
+their shots OR themselves. Staying a distance here makes the fight longer
+but at least spares you some regrettable deaths.
+
+So pump it full of whatever you've got as it is fara way. When it moves forward
+switch to an up and down formation, then backwards and hit it as you pass it.
+
+Careful evasion is the name of the game here, and definitely use your secondary
+weapon to speed it up.
+
+                               -=-=-Resume-=-=-
+
+Keep a forward shot trained as you head right again. Destroy the waves, but
+adjust your position so you first take out the turret, and then the crawler.
+Stay near the back as you approach the large metal urchins. When they blow up
+they launch shots, so you will want room to dodge.
+
+You soon arrive at a wall, select an up and down shot here. Fire at the wave
+coming in fromt he small opening, but also the urchin and tusk above you. After
+the first two tusks, switch to a backshot and take out the next wave. Then
+switch back to an up and down shot. Train your shots on that big urchin, but
+switch position to meet those waves from the back when necessary.
+
+Switch to a backshot when the screens tarts to move right again. Take out the
+wave, the switch to a forward shot for the tusks and crawlers. Use a secondary
+shot on one if necessary but don't go crazy as the boss is just ahead.
+
+                       ********Boss: Mushikera********
+
+Mushikera is pretty simplistic, though it may take you by surprise unless you
+pay attention. The weak spot is the eye in the middle of the wall.
+
+Mushikera will launch white orbs that expplode into a radially burst of shots
+when hit. The best thing to do is explode them at a distance so the shots are
+extremely thin when they get to you - easy to dodge then.
+
+When mushikera closes its eye, stay where you are until it opens it. It
+launches a wave of blue cells forward. If your secondary can't deal with them,
+dodge to the bottom of the screen. You need to stay in line with the eye until
+it starts firing, otherwise Mushikera seems to shoot a wider berth of shots.
+
+Basically, you have to pound it in the eye from the back of the screen until
+it is destroyed. The pattern is easy, though it can get hairy at times.
+Concentrate on evasion and it will eventually fall.
+
+
+
+------------------------------------------------------------------------------
+                             NS4.4: Shinkai Bay
+------------------------------------------------------------------------------
+Orientation: Vertical
+
+Stay near the lower right and start hitting the waves as soon as they appear.
+Destroy these two lines and if the laser ships arrive, dodge and grab your two
+satellites. Three of these laser ships will arrive. They aim at your SHN
+fighter and launch some lasers. Make them aim, dodge, and return fire.
+
+Another set of waves like at the start will appear now. Great if you missed out
+on one of the satellites. A big yellow ship will arrive here, it shoots a
+spread shot forward. You can concentrate fire on this guy while staying at the
+bottom to dodge shots, or quickly down him with a secondary.
+
+After a few more waves, there will be three more laser ships. You have two
+satellites now so destroy them as they arrive and before they can fire. Get to
+the centre of the screen for the next wave, and you can stay here for the next
+three after this and before the turret.
+
+These turrets fire a wave of shots as they swivel to and fro. Keep a forward
+shot trained, and take it out. There is a laser turret on the left, but take
+out the wave from the right and the spread turret from above.
+
+Keep a forward shot trained on the waves as the screen starts to turn. Switch
+to a side shot and take out the turret and waves. When you see some blocks in
+the way, switch back to a forward shot and take it out. If you can do it quick
+enough, switch to a side shot and take out the laser cannon.
+
+Go left and there's some blocks ahead of you. Take them out with the forward
+shot. Keep firing as more block barriers show up. Stay forward.
+
+There will be robots here that aim and fire a few shots. Either hit them
+rapidly or use a secondary. THough that may be best used at the large yellow
+ship just past the robots.
+
+Take out the wave of two ships that comes up.
+
+                       ********Miniboss: Umihebi********
+
+Umihebi is a mechanical sea snake that jumps out of the water and fires shots.
+Do __not__ waste secondary weapons on it unless you want to take it out fast.
+It is only on your plane briefly, meaning you have a small window to hit it
+each time. However, this miniboss is largely non-threatening so don't fire
+your secondary all helter skelter.
+
+When it jumps out of the water, fire at its head, then dodge to the side. The
+snake shoots stremas of red shots, and a starburst of green shots. Dodge the
+reds left and right, then stay between the green streams. Stay at the bottom
+of the screen and there WILL be enough room to dodge the reds again.
+
+You can stay at the bottom of the screen dodging left and right and get enough
+shots in to destroy it quickly. Otherwise, you can move everywhere giving
+yourself a wide berth and hit it only a few times during each repetition.
+
+                               -=-=-Resume-=-=-
+
+After the two laser ships, take the right path on the split. Switch to a side
+shot and destroy one of the blockade blocks coming up while destroying the wave
+to the right.
+
+Stay behind the wall as you head north. a turret rakes around in a circle with
+a large purple laser. stay behind the wall until it finishes. Take the
+righthand path up and destroy the ships on the left with a sideshot. Switch to
+a forward shot for the next bunch waves.
+
+Just after the next blockade, there will be another large laser cannon. Let it
+start around and head to the right of it. Take a side position for your
+satellites and destroy teh first wave. As youd estroy the second wave, move
+up between those closing walls.
+
+Keep an eye on the laser turrets, but switch to a forward shot and destroy the
+swivel turret. Start to destroy the long wave fromt he north and move up and
+in before the doors close, as you are destroying the wave.
+
+You again come up to some laser turrets. Switch to a side cannon and take out
+the first one on a wall shooting horizontally and the one shooting vertically.
+Try to destroy the third but don't worry too much about it, make it through the
+door above all else.
+
+With the moving laser turrets, destroy one then focus on the wave, move through
+the door. In here, stay between the streams of fire and whip through the door
+as soon as possible.
+
+Destroy the laser ship, dodge the turret, and you will be at a blockade again.
+Fire on it straight ahead. Keep firing at them but if they get too close blast
+them with a secondary.
+
+Switch to a sideshot as you emerge and take out the turret and waves. switch to
+a forward shot for the three laser turrets along the wall. Keep it up...
+
+                       ********Boss: Ishigani********
+
+This awesome cool crab is making rap gestures with its claws. It's a shame to
+destroy this beacon of rad, but alas... that is the tragedy of Nanostray 2.
+
+Ishigani lets out a wave of red shots. Stay at the bottom of the screen and
+head away from the crab when he starts to fire. When the shots come close, fly
+between them. You may have to pass through two or three streams, but it's no
+problem if you give him a wide enough berth.
+
+When Ishigani stops firing rd shots, he will fire awesome golden lasers. These
+lasers bend towards your SHN-fighter and fly forward quickly. Stay near the
+bottom until the lasers bend then dodge away from them.
+
+If you keep firing all the while, Ishigani quickly falls. Though its attacks
+are constant, it is a large target and thus quickly destroyed. Its whole body
+is vulnerable, after all.
+
+------------------------------------------------------------------------------
+                           NS4.5: Daitoshi Station
+------------------------------------------------------------------------------
+Orientation: Vertical
+
+Start on the left and destroy the waves as they pop up. once this wave is
+destroyed, head over and destroy the next one. Collect both satellite power ups
+and destroy the next few waves, even switch to a side shot if you have to.
+
+Eventually, some larger ships will appear. These open their cannons and fire a
+spray of shots. They have a lot of endurance so you may want to use a secondary
+on them. HOWEVER, there are many so that soon gets expensive. Start shooting
+near them and move back.
+
+The ships that look like this:
+  _____
+ /     \
+|       |
+|   _   |
+\  ( )  /
+ \ | | /
+  \| |/
+   \ /
+
+WIll fire a screen-length laser out. So gte out of their way when they get to
+the top. Dodge to the side and continue to pound them until they drop. After
+these laser ships, there will be a large missile ship. Stay back for this guy
+and use a secondary if you _must- but it's not necessary. Keep the shots up and
+dodge as the missiles fly toward you.
+
+There will be another missile ship after a few more waves of enemies. Again,
+stay near the back of the screen and you should be able to down it. A large
+structure will arrive.
+
+Keep a forward shot trained and stay near the left. Use its side spray (the
+side spray of the forward shot) to hit the two laser turrets ont he right hand
+side. Then begint o follow the path inward. Switch to a side shot and take out
+the turrets on the right then left. Simply pass them if you can't destroy them
+warly.
+
+You want to destroy the next guy asap as a large bullet spray ship will arrive
+shortly. Destroy it then focus on the big ship. Keep your shots forward and
+destroy the next few laser turrets. The forward mode will also allow you to
+take care of the approaching waves as well.
+
+Laser ships will arrive again, dodge their lasers, and focus ont he bullet
+sprayer that appears next. Get the waves as per usual.
+
+Keep your shots forward. Destroy the laser turret that appears on the left of
+the screen, then stay near the back of the screen - the two bullet sprayers
+should fall to you if you take them on from back here. As you enter the narrow
+passage, a missile ship will appear. Keep firing, but stay near the left wall
+so you can more easily dodge the missile. There will be quite a few waves now
+before the miniboss, so refill your secondary.
+
+                        ********Miniboss: Tembi********
+
+Tembi is a humanoid robot. He has two main attacks - a green wave of shots and
+large energy balls. The balls of energy start slow then slope towards your ship
+and the green waves come in three waves of many bullets. Tembi will use the
+energy balls from two positions on the screen, then the green waves, then the
+balls, and so on.
+
+When Tembi uses the energy balls, get on the other side of the screen and fire
+at tembi. Move out of the way as the balls fly before you. So stop, dodge,
+stop, dodge, stop, dodge for each burst of three.
+
+For the green waves, stay at the other side of the screen, NOT in line with
+Tembi. Go between the bullets as they spread out, and as I said do not stay in
+line with Tembi - in case he flies toward you next.
+
+Throughout the fight, just keep dodging and firing. Adjust your satellites so
+that you are always aimed at Tembi.
+
+                               -=-=-Resume-=-=-
+
+Four waves will approach now. Use a forward shot for the first two, and a side
+shot for the remaining. Switch back to a forward shot and destroy the laser
+turret that appears on the righthand structure.
+
+As you enter the passage, start shooting yellow blocks and stay near the left.
+Do not worry about laser cannons, simply dodge the lasers and focus on the
+blocks. Keep firing on them and use a secondary if they get too too close.
+
+There will be laser ships appearing on either side of the screen now. Fly up
+next to them and shoot them down. Stay in the space they leave behind to avoid
+the lasers of the others. But do NOT use the topmost laser ship - waves will
+arrive between the two instances of laser ships here.
+
+There will be numerous waves now, clean up so your secondary is full for the
+boss.
+
+                        ********Boss: Ginyoku********
+
+Ginyoku is a large, spinning boss. You will need to stay between its blades for
+much of the battle. Ginyoku alternates between two main attacks - a raking
+laser and a spread of bullets.
+
+When Ginyoku turns its blades on its sides, it is going to fire bullets. They
+kind of go like this:
+     /\
+     || X     While Ginyoku's spread isn't quite this wide, it does show the
+     || X     side from which bullets are spread out (X).
+    (  )
+X  // X\\
+X //  X \\
+ \/      \/
+
+When Ginyoku spins clockwise while firing a spread, stay up near the top of the
+blade oppiste the bullets' point of egress. When the boss spins counter
+clockwise, stay near the main body of Ginyoku and beneath the point of egress
+if possible.
+
+When Ginyoku has finished a spread it next goes to a laser rake. A laser will
+emerge from its body and rake across the screen. You need to get between the
+blade and the laser.
+
+Ginyoku's arm/
+------------/
+'-._
+'-._'-._ ( )  <-You
+    '-._'-._
+        '-._  Laser
+
+Move along with Ginyoku as it spins around. I find the most mobile area of the
+screen is the righthand side. Stay here if possible.
+
+As you dodge Ginyoku, continually adjust your satellites so that you are always
+aiming at it. Go up next to her when you are beneath. Fire like crazy with your
+satellites on the main body of it. And of course, pour your secondary weapons
+intot he fight.
+
+------------------------------------------------------------------------------
+                              NS4.6: Kigan Belt
+------------------------------------------------------------------------------
+Orientation: Vertical
+
+Stay near the bottom of the screen and fire ont he asteroids as they approach.
+Staying bottom centre is mostly safe, but dodge if you really must.
+
+When you enter the tunnel, stay to the left and fire on the wave here. A laser
+ship appears in the centre and fires multiple small lasers - nevermind it
+unless you -want- to use some secondary juice, and grab the satellite power up.
+Destroy the wave on the right to get your second and then take out the laser
+turrets on the upper right wall.
+
+As you enter a portion of the tunnel clogged with meteors, fire on the right
+then left initially to destroy the turrets. Once they are gone, concentrate on
+the rest of the meteors. Just take out the laser ships and waves as you leave
+the tunnel.
+
+You will now be flying between ships. Stick to the left if you want some waves.
+The first two ships, stay between them, even as they fire on you. Dodge their
+bursts. If a ship gets too close you - fire with primary and secondary alike.
+
+There will be a few waves and laser ships, then the final ship to the right.
+You don't need to take this out, but do so if you must. Use a side shot for the
+multiple waves that are coming from above of three ships each. Get in front of
+one group and the side shot will take care of the rest.
+
+As you keep this up, there will eventually arrive asteroids which have turrets
+to fire upon you. My preferred method here is to fire on them as they appear
+with the forward shot and switch to a side shot to get any waves of ships that
+slip by while you are doing this.
+
+As you approach the tunnel, stay near the back. The level speeds up and the
+meteors here move quickly and bounce off of the walls. Try to stay near the
+centre of the tunnel and dodge if any meteor gets through. You want to keep a
+forward shot here, concentrated fire is the key to survival.
+
+Eventually you will come upon a wall of meteors. Shoot your way through. There
+are some mines upahead. Fly near them, then head back to the bottom of the
+screen. They will explode, so dodge the spread of shots while firing on the
+waves of enemies that appear. The reason for blowing them up yourself is so you
+have time to deal with them. You will only fly through the centre, so provoke
+mostly the central mines. You will soon leave the tunnel to face the miniboss.
+
+                       ********Miniboss: Hanrin********
+
+Hanrin is a fairly easy miniboss. It attacks frequently, however they are very
+easy to avoid. Hanrin starts by tracking your position and launching lasers
+straight down. Small lasers. It will then open up and shoot raking lasers while
+wiggling back and forth.
+
+Hanrin's weakspot is its core. When it is moving to line up with you, fire
+straight up into its core. Stay near the middle of the screen and fire up.
+Hanrin will fire its lasers. Move just out of reach to the side before you are
+hit. Keep firing. Hanrin will move so rinse and repeat, keep this up until
+Hanrin starts its other attack. If Hanrin backs you into a corner, you need to
+move between the lasers to escape. Don't worry, they're slow and spread enough
+that this is perfectly possible.
+
+As for Hanrin's raking attack, simply fly up next to its core and fire like
+crazy. Keep your satellites on top of its core. Keep this up until it starts
+to close, then start the strategy all over again.
+
+Keep it up, Hanrin requires patience but is quickly downed even without a
+secondary weapon - and I recommend you don't use one here if you can help it.
+
+                               -=-=-Resume-=-=-
+
+There will be three large ships from the top now. I suggest you se the
+secondary weapon to down one of them since they are a bit faster. At least
+until you get used to them. Take the right path if possible and fire upon the
+waves that appear. Try your side shot if any slip by.
+
+There will be a wall of meteors coming up. Take out the waves as they appear.
+They come from the bottom but are not dangerous until they fly up to your
+level. Keep firing upon them and the laser ships, nothing too hairy for now.
+
+But the asteroids appear again. If you don't want to risk the middle of the
+screen, pick a side and keep it clear while you dodge shots from the other.
+
+There will be waves and laser ships again. Start with a forward shot to take
+out a wave and laser ship on each pass, then switch to a side shot when you
+have to. The boss is just ahead.
+
+                         ********Boss: Dokuga********
+
+Dokuga is a very simple boss as well, and with a little patience you shouldn't
+be touched during this battle. DOkuga starts with large spreads of red shots,
+smaller spreads of green shots, then it launches mines at you..
+
+For the red shots, stay at the bottom of the screen and dodge between them as
+they come forward. Simple.
+
+When the green shots start, make your way to the centre of the screen until the
+reds disappear. The green shots dominate the sides only. FLy up about a ship
+and a half's distance from Dokuga's mouth and keep firing until the mines
+start.
+
+When it fires mines, remember that theyw ill explode shortly after coming close
+to you in a radial burst. It's best to stay on the opposite side of the mines
+so that they don't explode. If they do, they are simplya  radial burst of shots
+that are easy to avoid. Explode as few as possible.
+
+All the while, pour your secondaries into Dokuga as much as possible. However,
+do not fire the secondaries when Dokuga launches mines as they WILL block your
+shots. But keep your primary going, Dokuga will soon fall.
+
+------------------------------------------------------------------------------
+                              NS4.7: Kohai City
+------------------------------------------------------------------------------
+Orientation: Horizontal
+
+Kohai city take splace inside a sewer system. It is the most consistently
+crowded city and certainly one of the more prominent for environmental features
+anyway you slice it. The screen starts by scrolling down.
+
+Stay near the top as the wave comes in from the left. They will head to the
+centre then come onto the same plane as you. FIre upon them as they become
+available and then grab the satellite while you can.
+
+This part could get a little hairy. Your single satellite cannot aim DOWN, so
+you have to settle for behind you. Avoid these ships as they fly up and fall
+down. Stay near the openings, as high as possible unless you want to weave your
+way into them and shoot them down for points. Fire witht he backshot and your
+primary forward and you should get through with nary a scratch.
+
+There will be a wave appearing near the higher gap when the screen evens out.
+Fire on this wave and take the second satellite. Another wave will take the
+bottom path now, but whatever path you take - switch to an up and down shot to
+destroy the turret.
+
+Stay near the ceiling away from the jumping cephalopods. Use the up and down
+shot to take out the two waves in here, then forward shot for the brown crawler
+at the lower right - secondary if you absolutely must as it is a tough squeeze
+otherwise. Stay low and use an up and down shot to take out the eyestalk above.
+
+If you can, use a forward shot and get high, the spread should take out the
+brown crawlers on the ceiling and the eyestalk to the right. Otherwise, dodge
+the bullets of the brown crawlers and concentrate fire on the eyestalk. Make
+sure the cephalopod doesn't jump into you in the meantime.
+
+Keep a forward shot as the screen moves down and clobber the two waves. Move
+near the ceiling now to take out the brown crawlers and eyestalk. Meanwhile,
+sewer worms are leaping about below. When you can, get in front of one and
+fire with a forward shot rapidly into it and it should quickly drop.
+
+Switch to an up and down shot as you leave this area and destroy the eyestalk.
+
+The screen will now speed up. There will be multiple passages, one clear on
+each set and the others with brown crawlers. Stay near the back of the screen
+and none of it should be a problem if you keep firing, but use the secondary if
+you must.
+
+But if they fire it is very difficult to avoid the shots in tight quarters.
+
+I will name the unoccupied tunnels. One set is a number of tunnels that line
+up with each other:
+
+Set 1: All free
+Set 2: The top
+Set 3: Very top, but take the bottom.
+Set 4: None, but take the bottom as it is very large.
+Set 5: None, singular again, just take it to the top.
+Set 6: Take the very top.
+Set 7: Take the top again.
+
+At this point, there should be two floors here and the screen is moving up.
+
+Set 8: Take the top.
+Set 9: Top or bottom, either one.
+Set 10: Very middle.
+Set 11: Very top or bottom.
+Set 12: Top
+Set 13: Third tunnel from the top.
+Set 14: Second from the top.
+
+Now there should be a change in the sloping of the floors, like so:
+    ----
+  ----
+----
+
+Set 15: Second from the bottom.
+
+Miniboss time.
+
+                       ********Miniboss: Kagizume********
+
+
+Kagizume will appear from those tunnels at the top of the room so beware, stay
+near the bottom until you know what to do.
+
+Kagizume starts by lobbing large coconut shaped bombs. They explode in bursts
+of red bullets when shot. It's best to stay up directly next to Kagizume and
+your shots should not hit the coconuts. Beware if you have Seeker, the shots
+WILL head towards the coconuts.
+
+When Kagizume has lost half of its health, there will be a changing of the
+guards. Two arms will appear on either side and start firing little lasers. The
+safest way to do this is to sit directly below Kagizume's main core at the
+bottom of the screen and use an up and down shot until it's toast.
+
+You just have to dodge the lasers until it drops.
+
+Oh yeah, when Kagizume is in his little pipe between phases? He's vulnerable.
+Clean up with an up and down shot or applicable secondary.
+
+                               -=-=-Resume-=-=-
+
+Head down to the bottom and use a forward shot on the brown crawlers here. Fly
+up again so the jumping cephalopods cannot hit you. This will be the go now as
+you stay near the top. With a forward shot you will be able to hit any waves
+and brown crawlers up here. Lower your altitude and fire on the eyestalk when
+you get a chance.
+
+Stay low and use your forward shot on the turrets here. They are a bigger
+threat than those giant urchins, but destroy those if you get the opportunity
+to. You will approach a pipe spilling water. Pass it after it has spilled its
+water and continue to destroy turrets and urchins as the screen scrolls right.
+
+Eventually youw ill find spinning sections of pipe. The protrusions here will
+kill you if they touch you, so wait until they are in front or behind the pipe
+and pass them before theys pin back around. There will be spilling pipes and
+jumping cephalopods here as well. Stay near the ceiling above and just to the
+side of the peak of the cephalopod's jump. After the water spills, pass it and
+wait until you can pass the next in the same manner.
+
+There will be another set of spinning gears now. Take the top route, when it
+spins out of the way. Pass it by then switch to an up and down shot. Fire on
+the turret fromt he side and the top satellite will hit the eyestalk. When you
+fly up, wait here as there is a large water spilling pipe and a jumping
+cephalopod.
+
+Notice that they are relatively slower than those from before. When there is
+room, wait for the pipe to spill and cephalopod to jumnp. Follow it down and
+pass the large pipe before it can spew water again.
+
+Keep a forward shot here and destroy the waves and stay near the bottom - the
+worms are a bigger threat than the brown crawlers, they make the area too tight
+and you can't killt he browns fast enough to also avoid the worms.
+
+At the end, pass the ipe as you sually do. There is an eyestalk and brown
+crawler above you. Use an up and down shot on the eyestalk, and switch to a
+forward for the brown crawler. The path will split.
+
+Take the left and destroyt he brown crawler with a forward cannon. When it
+stops moving up and starts moving right, start firing on those urchins.
+
+Passing the urchins, switch to a backshot for the wave here, get some juice for
+your secondary weapon. Switch to a forward shot for the next two waves and get
+ready for the boss.
+
+
+                         ********Boss: Kingao********
+
+
+Kingao is a strange face beast. It's going to be best to keep your distance
+from this boss. He has two pirmary attacks - energy balls and a bullet spray.
+
+The energy balls are kind of unpredictable. They don't necessarily fly towards
+you and they don't seem to follow any easy pattern. They can fire up on a
+diagonal, down on a diagonal, and straight forward. It could have to do with
+the direction Kingao's face is in, but I can't really verify this. Either way,
+they charge for a second before firing, so you have time between each assault.
+
+Each energy ball seems to ALMOST reach the very back of the screen - which is
+where you should be. Once they're here, they move around a bit before leaving.
+Stay at the back. Dodge away from the point of impact for the balls, then move
+around any remaining bals to a relatively clean section of the screen.
+
+Kingao can also fire waves of red shots -these are a lot easier in that you
+only need to stay at the back and move between the gaps in the shots.
+
+All the while you should be firing at Kingao. His assault is tight and constant
+but it is a very large target so it shouldn't take long to beat him when it
+comes down to it.
+
+------------------------------------------------------------------------------
+                              NS4.8: Himuro Base
+------------------------------------------------------------------------------
+Orientation: Horizontal
+
+Yeah! The Final Lap! Himuro Base has many enemies and at times the most complex
+geometry.
+
+The waves fromt he start are bottom, top, bottom, it may be best to get your
+satellites at the bottom exclusively. It's best to stay at the back of the
+screen when they start coming in fromt he background. Keep a forward shot UNTIL
+there is a ship that will appear directly in line with you. THEN switch to an
+up and down shot to knock it out of the sky. Switch back to a forward until you
+see turrets.
+
+These turrets are behind a wall. Switch to an up and down shot and fire upon
+them. Keep this shot trained as well as you fight the waves. The waves mostly
+approach at the front but you also want to be able to down those turrets in
+the ceiling of the tunnel.
+
+As you approach the end of the tunnel, switch to a forward to destroy the
+turret just after it, then a backshot for the big walker. Stay about in line
+with its main body and dodging down away from the shots will be cake.
+
+As teh screen goes up, switch to an up and down satellite formation. There are
+two waves to destroy here. When they are destroyed, hide under the  ledge until
+the big walker falls off the ledge and destroys itself...
+ ____
+/    \        You will hide at (A) untilt he walker falls off and destroys
+\____/        itself. At this point, you must quickly fly up in line with the
+ //_          moving walls before you are crushed.
+------+
+      |
+      |
+      |
+  +---+
+  | (A)
+
+As the screen starts to move right again, keep your up and down formation on.
+Enter teh tunnel made of moving hydraulics. When they move up, move up, when
+they move down, move down. Match their movement. What you want to do is get
+past them and shoot the turret on the top and bottom but only move between the
+hydraulic presses whent hey have moved themselves.
+
+Switch to a forward shot. After the next wave you can go up or down. I usually
+choose down as there is a big walker here. Just pump him full of shots from far
+back and it quickly falls. Use the forward shot to get the turrets here too. If
+you took the top route, you would need to shoot a turret from afar and pass the
+laser when it stops firing. I find it best to shoot this turret with the
+backshot after clearing the bottom.
+
+The screen will start to move up on a diagonal now. Switch back to a forward
+shot and start firing at the large icicles. The parts that will break kind of
+flash when hit so keep firing on them. When you see the turret at the end,
+switch to an up and down shot and take it out. Switch back to forward for the
+handful of waves.
+
+Alright, in this next spot, ice crystalizes across the screen. Keep your shots
+forward and either move ahead of the trail or shoot an already established
+section of trail. The spark at the end of the ice trail is where new sections
+emerge so if you shoot everything behind that, it won't grow back.
+
+Switch to an up and down shot when you start to go back inside the base. Take
+the top path here so, in case you can't destroy the turret you can at least
+avoid it altogether. Wait for the laser to fire, pass it by, and take out the
+turret.
+
+Take out the next ground turret sooner than later, as well. Move past the next
+laser afte rit fires, then destroy the ground and ceiling turrets before the
+next hydraulic lift/presses. Stay within them and move up and down with them,
+match their movement.
+
+At this point, you can go up or down, around a horizontally aligned hydraulic
+press. If you go down, you get more points for a wave and an extra turret. If
+you go up, it's safer. Besides, if you go down you have to go up through the
+hydraulic. Do this just after it moves and before it moves again. Either way,
+destroy the ground turret on top of the tall structure and continue along.
+
+Move into here and use an up and down shot to destroy all three waves before
+they can fire too much upon you. The miniboss approaches.
+
+                       ********Miniboss: Sankyaku********
+
+
+Sankyaku walks forward. The screen will continually spin here and it's the
+classic shmup standby of move between the legs as it moves. Mind you, I'd much
+prefer a 50 foot showgirl, but I'll take it.
+
+HOW Sankyaku walks depends largely on the screen's orientation.
+
+    ==       ==  ==      Essentially, this is how Sankyaku walks forward. It
+    ||       ||  ||->    will always have two paired legs and one singular.
+    ||       ||  ||->
+  ( () )     ( () )      The trick to moving past it is to stay near the single
+<-||  ||       ||        leg and you iwll eventually be between two. Then, you
+<-||  ||       ||        can simply escape when the leg you were originally
+  ==  ==       ==        next to moves down to the other side.
+
+Sankyaku can use a greens pread of bullets as well, and these are more frequent
+as it takes more damage. This is why you must get away fro it as soon as you
+make it to the other side, so you have enough room to weave between them.
+
+Other than that, folks, it's self-explanatory. You must hit Sankyaku in its
+central core, and as you move around and past it, you must switch your
+satellite position to meet it - so that you are _always_ aimed at it.
+
+                               -=-=-Resume-=-=-
+
+As the level evens back out, waves and large walkers will approach from the
+right. These walkers, of course, fire mostly straight ahead. So stay above
+their guns if they are on top and below if they are on bottom. You should be
+able to destroy most of the enemies here with the forward shot.
+
+Leaving this, you enter a space dominated by small grey ships. Switch between
+all of your satellite formations and fire upon any that get close you. Try not
+to let them get into any great number. When you see the icicle, however, switch
+primarily to an up and down shot.
+
+Shoot this icicle out with the up and down shot. You will need to use forward
+and backshots for the turrets just after it.
+
+Stay to the right of the fan here and fire on the turret with a forward shot.
+Switch to a backshot and take the next turret out as you move between the fans.
+Keep your backshot as you destroy the turret just below it and the primary
+cannon hits the turret on the opposite wall. It's very much the same as you
+move right and through another pair of fans.
+
+Eventually, you come to a fan very close to the righthand wall. You need to get
+in between the blades and move down. Keep your backshot on as you pass in
+between the blades of the next fan. Destroy the next turret.
+
+The hydraulic press here is on a slant. Fire on the turrets near it but move
+through ut when you get the chance. Move through it just after it moves. You
+won't be hesitating for the lasers up ahead either. After a laser fires, move
+past it. If you can hit a turret, do so. As the screen starts to tilt back to
+horizontal, you can get one with a backshot.
+
+As it tilts back horizontal, there will be more laser gates. Switch to an up
+and down shot for the next assortment of turrets. When you pass the final laser
+gate, destroy the turrets then fall back again.
+
+You can switch to a forward shot now until you reach the far wall, at which
+point you should switch to an up and down shot again to deal with the waves and
+turrets above you.
+
+You will see a big walker. Take the righthand, small squeeze up and deestroy
+the wall turret as the walker drops to its demise. You will see two more
+walkers above you, stay beneath their platform until both fall to destruction.
+Do the same as you go up for other walkers on platforms. Of course, destroy the
+paired turrets as soon as you can as well. You will eventually come again to a
+fan as you head up.
+
+Get between the blades shoot the turrets as you arrive out. Try to switch to a
+backshot and get up between the platforms before the waves arrive, otherwise
+you will need to use an up and down shot to destroy them.
+
+                         ********Boss: Nohkan********
+
+Phase 1:
+--------
+
+Nohkan encapsulates another classic element of shmups - the brain boss at the
+end. Thankfully, it's not as frail as some of these.
+
+Nohkan's first phase is very simple. It will fire lasers and shots but they
+come from the guns above and below the brain on its capsule. The lasers will
+crisscross but before they fire there's a small, thin line to show their
+position.
+
+-----------[]=( )
+
+The turret will firsts how a thin line.
+
+###########[]=( )
+
+Then the laser will burst forward.
+
+The other thing to note is that the turrets move and their position determines
+how the lasers will fire. As such, it's often best to stay at the back of the
+screen in the centre because you will either not have to move at all or just
+need to make a very small evasive move.
+
+The other attack Nohkan will use is a steady set of red shot bursts. Staying
+near the back will give you ample time to avoid this, but if you want to get
+close as it starts this assault you can rack up some nice damage before falling
+back to deal with the lasers.
+
+Keep it up and Nohkan's chamber starts to crack. I say save any secondaries you
+have for the next phase, your standard shot is more than enough for this...
+
+Phase 2:
+--------
+
+Nohkan attacks you directly. While it assaults you, there will be many grey
+ships trying to ram you as well. Now, these should be destroyed before they get
+near you, there's no question about that. Nohkan will try to make things
+miserable for you, however.
+
+Essential, Nohkan flies back and forth firing a raking laser from the top of
+itself. Now, there's two ways to consider this.
+
+You can move past Nohkan as it moves toward you and switch your direction of
+fire every time, and eventually it will fall. The starting direction of the
+laser is hard to predict, however.
+
+In my experience, its laser doesn't curve down too much so...
+
+      _______
+(A) .'       '.      Getting just beside or above the top part of Nohkan seems
+  .'           '.    to be a safe spot.
+ .               .
+ '-............-'    You will be below the maximum passage of the laser.
+
+A safe spot from Nohkan, anyways. You still have to worry about the grey ships.
+So switching from an up/down shot to forward from here will let you get the
+greys.
+
+Nohkan does have a lot of stamina so no matter what you do, keep firing and
+definitely pour all of your secondary shots into it. And remember, the greys
+will take damage form secondaries as well - so be very careful if you have
+Seekers here.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                                NS5: Bosses                                 |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Bosses organized for convnenience in this order:
+
+NS5.1: Teppeki Dock
+NS5.2: Keikan Outpost
+NS5.3: Naizoh Habitat
+NS5.4: Shinkai Bay
+NS5.5: Daitoshi Station
+NS5.6: Kigan Belt
+NS5.7: Kohai City
+NS5.8: Himuro Base
+
+
+                            ~NS5.1: Tepekki Dock~
+                             '-...............-'
+
+                       ********Miniboss: Genken********
+
+The miniboss is running along the floor when you come up upon it. Basically you
+have to stay near the same level it is toward the left side of the screen. The
+miniboss will fire streams of green bullets, and provided you're on Normal
+Mode, a red shot.
+
+This red shot can bounce off of walls. Essentially, it's best to stay just
+above Genken when its on the ground and just below when its on the ceiling.
+Your satellite should get most of the shots in. The red shot will be charged
+before fired, so you can get a premptive evade in - it will bounce to the left,
+fly away from Genken and towards it when the shot hits the wall.
+
+The green shots come more or less in straight lines - they should be cake to
+avoid. Just don't get near it because when it changes between floor and ceiling
+that could mean death.
+
+                         ********Boss: Shokkoh********
+
+Ah, a robot with lasers. You need to hit Shokkoh in the orb on the bottom of
+its body.
+
+Shokkoh starts by raising his arm. Now is the time to let loose with your
+secondary weapons on his orb. His hand will fire lasers, one from each finger,
+but you don't have to worry about that until he brings his hand down. At this
+point, stay back and dodge the lasers. The lower left corner is tight but does
+work well for this if you want to continue to get shots.
+
+Keep on firing at this orb. His arm will sprt a laser. Fly up next to his
+wires in his head and the laser will thus miss you. Make small movements closer
+so as not to hit the head but also so as not to be crushed by the arm.
+
+Shokkoh will next open his arms into a > shape. Stay between them, near the
+green. It fires many shots out of this array. When he moves forward, move with
+him. When he moves back, let him shoot one volley, then move out of his array
+and into the lower left. Dodge the next volley of shots as they come, but
+Shokkoh will crush his arms closed so don't go between them.
+
+It then switches it back up. Just learn to dodge the attacks properly and this
+will become second nature. And look on the bright side - it's more complex than
+some of the next few bosses.
+
+Want to score a lot of damage with your main gun? As long as you have a tight
+stream on your satellites, getting right next to the orb will very quickly
+increase the damage. This is best done when the laser finger arm is raising,
+get away when it starts to lower.
+
+
+
+                            ~NS5.2: Keikan Outpost~
+                             '-.................-'
+
+
+                       ********Miniboss: Senten********
+
+As the miniboss approaches, get in past his outer rim. Those black bars, by the
+way, will not destroy you. You can move all around the centre, important.
+
+Senten's core will spin. It has four guns that will fire as it spins. Move
+around the centre firing upon it while staying between the streams. Of course,
+change your satellite position as you go around.
+
+   .---.
+ .'  B  '.    -When you are at the top, switch to a back shot.
+'         '
+'S       S'   -At the sides, switch to a side shot.
+'         '
+ '.  F  .'    -And of course, a forward shot at the bottom.
+   '---'
+
+When he stops firing the streams, get to 12 or 6 o'clock around him and get
+ready to dodge the shots from his outer rim cannons. There will be a little pie
+wedge that you can stay in that will move a bit. Stay here and concentrate on
+avoiding him until he starts his normal streams again.
+
+If you want to rack up serious damage with the primary weapon, switch to a
+forward shot and rest your satellites on top of its core. Fire away. Never let
+a gun in front of you, however, and if the outer rim cannons line up with you
+get out of the way right away.
+
+                         ********Boss: Tessemi********
+
+Tessemi crawls along the wall at the top of the screen. It's much more simple
+than Shokkoh, but keep an eye out.
+
+As it walks up and down, it fires many streams of bullets. It only shoots red
+bullets when it moves forward. The first burst usually has a stream that goes
+straight down the middle, so be sure to be to the side when it starts down at
+you.
+
+Otherwise, stay near the bottom and continually fire while making little shifts
+in position to dodge the green bullets slowly coming towards you.
+
+A little over halfway destroyed, it will begin to launch large green orbs at
+your ship. Stay still, then move when they appear. They move briefly, note
+your position, then fly at you. Work your way from one side of the screen to
+the other. Please beware when Tessemi goes down again, he will probably still
+do red shots.
+
+It does alternate back to green shots, so just keep up your pattern and it
+should fall.
+
+
+
+                           ~NS5.3: Naizoh Habitat~
+                           '-..................-'
+
+
+                       ********Miniboss: Hishin********
+
+Hishin walks forward. It spurts energy from the top and will now and then
+launch a rolling, bouncing enemy. Basically, the energy balls are "lobbed,"
+that is, they ar esubject to gravity and travel in a parabola. 
+
+As such, you can stay near Hishin and move back when it is on the ground,
+but when the screen shifts so it is on the top of the screen - get the hell
+away from it. Stay near the bottom and dodge the energy balls as they fall
+down.
+
+As for the bouncing rolling enemies, they make a distinct sound when they
+are lobbed. NEVER let Hishin close you in or else they will hit you with
+their shots OR themselves. Staying a distance here makes the fight longer
+but at least spares you some regrettable deaths.
+
+So pump it full of whatever you've got as it is fara way. When it moves forward
+switch to an up and down formation, then backwards and hit it as you pass it.
+
+Careful evasion is the name of the game here, and definitely use your secondary
+weapon to speed it up.
+
+                       ********Boss: Mushikera********
+
+Mushikera is pretty simplistic, though it may take you by surprise unless you
+pay attention. The weak spot is the eye in the middle of the wall.
+
+Mushikera will launch white orbs that expplode into a radially burst of shots
+when hit. The best thing to do is explode them at a distance so the shots are
+extremely thin when they get to you - easy to dodge then.
+
+When mushikera closes its eye, stay where you are until it opens it. It
+launches a wave of blue cells forward. If your secondary can't deal with them,
+dodge to the bottom of the screen. You need to stay in line with the eye until
+it starts firing, otherwise Mushikera seems to shoot a wider berth of shots.
+
+Basically, you have to pound it in the eye from the back of the screen until
+it is destroyed. The pattern is easy, though it can get hairy at times.
+Concentrate on evasion and it will eventually fall.
+
+                           ~NS5.4: Shinkai Bay~
+                           '-................-'
+
+
+                       ********Miniboss: Umihebi********
+
+Umihebi is a mechanical sea snake that jumps out of the water and fires shots.
+Do __not__ waste secondary weapons on it unless you want to take it out fast.
+It is only on your plane briefly, meaning you have a small window to hit it
+each time. However, this miniboss is largely non-threatening so don't fire
+your secondary all helter skelter.
+
+When it jumps out of the water, fire at its head, then dodge to the side. The
+snake shoots stremas of red shots, and a starburst of green shots. Dodge the
+reds left and right, then stay between the green streams. Stay at the bottom
+of the screen and there WILL be enough room to dodge the reds again.
+
+You can stay at the bottom of the screen dodging left and right and get enough
+shots in to destroy it quickly. Otherwise, you can move everywhere giving
+yourself a wide berth and hit it only a few times during each repetition.
+
+                       ********Boss: Ishigani********
+
+This awesome cool crab is making rap gestures with its claws. It's a shame to
+destroy this beacon of rad, but alas... that is the tragedy of Nanostray 2.
+
+Ishigani lets out a wave of red shots. Stay at the bottom of the screen and
+head away from the crab when he starts to fire. When the shots come close, fly
+between them. You may have to pass through two or three streams, but it's no
+problem if you give him a wide enough berth.
+
+When Ishigani stops firing rd shots, he will fire awesome golden lasers. These
+lasers bend towards your SHN-fighter and fly forward quickly. Stay near the
+bottom until the lasers bend then dodge away from them.
+
+If you keep firing all the while, Ishigani quickly falls. Though its attacks
+are constant, it is a large target and thus quickly destroyed. Its whole body
+is vulnerable, after all.
+
+                         ~NS5.5: Daitoshi Station~
+                          '-...................-'
+
+
+                        ********Miniboss: Tembi********
+
+Tembi is a humanoid robot. He has two main attacks - a green wave of shots and
+large energy balls. The balls of energy start slow then slope towards your ship
+and the green waves come in three waves of many bullets. Tembi will use the
+energy balls from two positions on the screen, then the green waves, then the
+balls, and so on.
+
+When Tembi uses the energy balls, get on the other side of the screen and fire
+at tembi. Move out of the way as the balls fly before you. So stop, dodge,
+stop, dodge, stop, dodge for each burst of three.
+
+For the green waves, stay at the other side of the screen, NOT in line with
+Tembi. Go between the bullets as they spread out, and as I said do not stay in
+line with Tembi - in case he flies toward you next.
+
+Throughout the fight, just keep dodging and firing. Adjust your satellites so
+that you are always aimed at Tembi.
+
+                        ********Boss: Ginyoku********
+
+Ginyoku is a large, spinning boss. You will need to stay between its blades for
+much of the battle. Ginyoku alternates between two main attacks - a raking
+laser and a spread of bullets.
+
+When Ginyoku turns its blades on its sides, it is going to fire bullets. They
+kind of go like this:
+     /\
+     || X     While Ginyoku's spread isn't quite this wide, it does show the
+     || X     side from which bullets are spread out (X).
+    (  )
+X  // X\\
+X //  X \\
+ \/      \/
+
+When Ginyoku spins clockwise while firing a spread, stay up near the top of the
+blade oppiste the bullets' point of egress. When the boss spins counter
+clockwise, stay near the main body of Ginyoku and beneath the point of egress
+if possible.
+
+When Ginyoku has finished a spread it next goes to a laser rake. A laser will
+emerge from its body and rake across the screen. You need to get between the
+blade and the laser.
+
+Ginyoku's arm/
+------------/
+'-._
+'-._'-._ ( )  <-You
+    '-._'-._
+        '-._  Laser
+
+Move along with Ginyoku as it spins around. I find the most mobile area of the
+screen is the righthand side. Stay here if possible.
+
+As you dodge Ginyoku, continually adjust your satellites so that you are always
+aiming at it. Go up next to her when you are beneath. Fire like crazy with your
+satellites on the main body of it. And of course, pour your secondary weapons
+into the fight.
+
+                            ~NS5.6: Kigan Belt~
+                             '-.............-'
+
+
+                       ********Miniboss: Hanrin********
+
+Hanrin is a fairly easy miniboss. It attacks frequently, however they are very
+easy to avoid. Hanrin starts by tracking your position and launching lasers
+straight down. Small lasers. It will then open up and shoot raking lasers while
+wiggling back and forth.
+
+Hanrin's weakspot is its core. When it is moving to line up with you, fire
+straight up into its core. Stay near the middle of the screen and fire up.
+Hanrin will fire its lasers. Move just out of reach to the side before you are
+hit. Keep firing. Hanrin will move so rinse and repeat, keep this up until
+Hanrin starts its other attack. If Hanrin backs you into a corner, you need to
+move between the lasers to escape. Don't worry, they're slow and spread enough
+that this is perfectly possible.
+
+As for Hanrin's raking attack, simply fly up next to its core and fire like
+crazy. Keep your satellites on top of its core. Keep this up until it starts
+to close, then start the strategy all over again.
+
+Keep it up, Hanrin requires patience but is quickly downed even without a
+secondary weapon - and I recommend you don't use one here if you can help it.
+
+
+                         ********Boss: Dokuga********
+
+
+Dokuga is a very simple boss as well, and with a little patience you shouldn't
+be touched during this battle. DOkuga starts with large spreads of red shots,
+smaller spreads of green shots, then it launches mines at you..
+
+For the red shots, stay at the bottom of the screen and dodge between them as
+they come forward. Simple.
+
+When the green shots start, make your way to the centre of the screen until the
+reds disappear. The green shots dominate the sides only. FLy up about a ship
+and a half's distance from Dokuga's mouth and keep firing until the mines
+start.
+
+When it fires mines, remember that theyw ill explode shortly after coming close
+to you in a radial burst. It's best to stay on the opposite side of the mines
+so that they don't explode. If they do, they are simplya  radial burst of shots
+that are easy to avoid. Explode as few as possible.
+
+All the while, pour your secondaries into Dokuga as much as possible. However,
+do not fire the secondaries when Dokuga launches mines as they WILL block your
+shots. But keep your primary going, Dokuga will soon fall.
+
+                            ~NS5.7: Kohai City~
+                             '-.............-'
+
+                       ********Miniboss: Kagizume********
+
+
+Kagizume will appear from those tunnels at the top of the room so beware, stay
+near the bottom until you know what to do.
+
+Kagizume starts by lobbing large coconut shaped bombs. They explode in bursts
+of red bullets when shot. It's best to stay up directly next to Kagizume and
+your shots should not hit the coconuts. Beware if you have Seeker, the shots
+WILL head towards the coconuts.
+
+When Kagizume has lost half of its health, there will be a changing of the
+guards. Two arms will appear on either side and start firing little lasers. The
+safest way to do this is to sit directly below Kagizume's main core at the
+bottom of the screen and use an up and down shot until it's toast.
+
+You just have to dodge the lasers until it drops.
+
+Oh yeah, when Kagizume is in his little pipe between phases? He's vulnerable.
+Clean up with an up and down shot or applicable secondary.
+
+                         ********Boss: Kingao********
+
+
+Kingao is a strange face beast. It's going to be best to keep your distance
+from this boss. He has two pirmary attacks - energy balls and a bullet spray.
+
+The energy balls are kind of unpredictable. They don't necessarily fly towards
+you and they don't seem to follow any easy pattern. They can fire up on a
+diagonal, down on a diagonal, and straight forward. It could have to do with
+the direction Kingao's face is in, but I can't really verify this. Either way,
+they charge for a second before firing, so you have time between each assault.
+
+Each energy ball seems to ALMOST reach the very back of the screen - which is
+where you should be. Once they're here, they move around a bit before leaving.
+Stay at the back. Dodge away from the point of impact for the balls, then move
+around any remaining bals to a relatively clean section of the screen.
+
+Kingao can also fire waves of red shots -these are a lot easier in that you
+only need to stay at the back and move between the gaps in the shots.
+
+All the while you should be firing at Kingao. His assault is tight and constant
+but it is a very large target so it shouldn't take long to beat him when it
+comes down to it.
+
+
+                            ~NS5.8: Himuro Base~
+                             '-...............-'
+
+                       ********Miniboss: Sankyaku********
+
+
+Sankyaku walks forward. The screen will continually spin here and it's the
+classic shmup standby of move between the legs as it moves. Mind you, I'd much
+prefer a 50 foot showgirl, but I'll take it.
+
+HOW Sankyaku walks depends largely on the screen's orientation.
+
+    ==       ==  ==      Essentially, this is how Sankyaku walks forward. It
+    ||       ||  ||->    will always have two paired legs and one singular.
+    ||       ||  ||->
+  ( () )     ( () )      The trick to moving past it is to stay near the single
+<-||  ||       ||        leg and you iwll eventually be between two. Then, you
+<-||  ||       ||        can simply escape when the leg you were originally
+  ==  ==       ==        next to moves down to the other side.
+
+Sankyaku can use a greens pread of bullets as well, and these are more frequent
+as it takes more damage. This is why you must get away fro it as soon as you
+make it to the other side, so you have enough room to weave between them.
+
+Other than that, folks, it's self-explanatory. You must hit Sankyaku in its
+central core, and as you move around and past it, you must switch your
+satellite position to meet it - so that you are _always_ aimed at it.
+
+                         ********Boss: Nohkan********
+
+Phase 1:
+--------
+
+Nohkan encapsulates another classic element of shmups - the brain boss at the
+end. Thankfully, it's not as frail as some of these.
+
+Nohkan's first phase is very simple. It will fire lasers and shots but they
+come from the guns above and below the brain on its capsule. The lasers will
+crisscross but before they fire there's a small, thin line to show their
+position.
+
+-----------[]=( )
+
+The turret will firsts how a thin line.
+
+###########[]=( )
+
+Then the laser will burst forward.
+
+The other thing to note is that the turrets move and their position determines
+how the lasers will fire. As such, it's often best to stay at the back of the
+screen in the centre because you will either not have to move at all or just
+need to make a very small evasive move.
+
+The other attack Nohkan will use is a steady set of red shot bursts. Staying
+near the back will give you ample time to avoid this, but if you want to get
+close as it starts this assault you can rack up some nice damage before falling
+back to deal with the lasers.
+
+Keep it up and Nohkan's chamber starts to crack. I say save any secondaries you
+have for the next phase, your standard shot is more than enough for this...
+
+Phase 2:
+--------
+
+Nohkan attacks you directly. While it assaults you, there will be many grey
+ships trying to ram you as well. Now, these should be destroyed before they get
+near you, there's no question about that. Nohkan will try to make things
+miserable for you, however.
+
+Essential, Nohkan flies back and forth firing a raking laser from the top of
+itself. Now, there's two ways to consider this.
+
+You can move past Nohkan as it moves toward you and switch your direction of
+fire every time, and eventually it will fall. The starting direction of the
+laser is hard to predict, however.
+
+In my experience, its laser doesn't curve down too much so...
+
+      _______
+(A) .'       '.      Getting just beside or above the top part of Nohkan seems
+  .'           '.    to be a safe spot.
+ .               .
+ '-............-'    You will be below the maximum passage of the laser.
+
+A safe spot from Nohkan, anyways. You still have to worry about the grey ships.
+So switching from an up/down shot to forward from here will let you get the
+greys.
+
+Nohkan does have a lot of stamina so no matter what you do, keep firing and
+definitely pour all of your secondary shots into it. And remember, the greys
+will take damage form secondaries as well - so be very careful if you have
+Seekers here.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                            NS6: Challenge Mode                             |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Challenge Mode is 4 sets of 8 challenges used to unlock the Simulator minigames
+for use at your leisure.
+
+Essentially, there are sets A through D and you must clear one set to start
+the other. Within a set, you can play the challenges in any order.
+
+Weapon choice often makes all of the difference in the world, and Raydion is
+very common in that respect.
+
+But try whatever works for you.
+
+                     -=-=-=-NS6.A: Challenge Set A-=-=-=-
+                            >--===---====---===--<
+
+*Challenge A.1
+--------------
+Task: Collect 70 Yellow Coins
+Time Limit: 30 Seconds
+Orientation: Vertical
+Recommended Weapon: None
+
+The coins will appear as you fly forward. Essentially, fly in to meet them. At
+both times where the path splits, take the left. When the spinning turrets show
+up, fly in and collect the coins around them as they are the most clustered.
+
+Remember, these turrets are invincible, but the guns on them are very obvious.
+You should be able to fly in and out without much concern.
+
+*Challenge A.2
+--------------
+Task: Collect Score 35000, do not get hit.
+Time Limit: 30 Seconds
+Orientation: Vertical
+Recommended Weapon: Seeker
+
+Stay near the bottom left for the first wave, move to the right for the second.
+Once both are destroyed, collect the satellites and keep them forward.
+
+When the first spinning enemy arrives, hit it with your powerful blast, then
+collect its coins. There will be a wave shortly thereafter, then two more of
+these spinners. Destroy them in the same manner.
+
+Make SURe you get the wave following them and blast the large ship coming up
+point blank with a seeker and take its coins. If you've done everything as such
+up to this point, the enemies between the two ships should be more than enough
+to take you above 35000, otherwise, switch to a side shot and use a seeker on
+the ships and hope for the best.
+
+*Challenge A.3
+--------------
+Task: Survive
+Time Limit: 25 Seconds
+Orientation: Horizontal
+Recommended Weapon: None
+
+Alright, there are two moving platforms which kill on contact and six turrets
+which you cannot destroy. This challenge is pure evasion.
+
+Start at top centre. This will protect you for 5 seconds.
+
+At 20 seconds move down above the bottom middle gun, but you will soon dodge
+to the left.
+
+At 16/15 seconds you will be heading up - weave between the two shots heading
+up on a diagonal.
+
+Dodge the shot heading down, and keep heading down and right between the two
+shots coming up form the lower left.
+
+This should take you to 12 seconds. And for the remainder of the stage you will
+need to stay in the centre of the screen dodging mostly single shots as they
+come near to you.
+
+*Challenge A.4
+--------------
+Task: Collect Survive
+Time Limit: 10 Seconds
+Orientation: Vertical
+Recommended Weapon: Raydion
+
+Ha, this one is merely a trick. Take Raydion from the start and use it to open
+one of those side doors. When it opens, sneak into that little chamber ans stay
+here as the large ship arrives. In here, it cannot touch you and thus you can
+wait the challenge out.
+
+*Challenge A.5
+--------------
+Task: Complete the course without getting hit.
+Time Limit: 30 Seconds
+Orientation: Horizontal
+Recommended Weapon: Pulse
+
+Start by shooting forward at the yellow blocks ahead. When you break one move
+through then head up over the wall, then down beneath the next wall.
+
+For the large fan, follow its spin up and around by staying between its blades
+and stay up here until you pass the wall witht he two yellow blocks. Weave down
+around the brown block and use the pulse on the yellow blocks coming up.
+
+After you blast a hole go down around the first wall and up over the second.
+Immediately use pulse to blast holes in the two yellow block walls straight
+ahead.
+
+Go beneath the fan here and right up to the green laser gate. Pass it as soon
+as the lasers stop. For the next two laser gates, pull back until they stop,
+then speed past them.
+
+Afte rthe laser gates, use pulse on the wall of yellow blocks. Pass through
+the holes you make until you come to some fans.
+
+Speed up next to the fans and pass between them as soon as you see an opening.
+Fly to victory.
+
+*Challenge A.6
+--------------
+Task: 45000 points, do not get hit
+Time Limit: 30 Seconds
+Orientation: Vertical
+Recommended Weapon: Raydion
+
+Fire at the two waves from above and get your satellites right away.
+
+When you come to a stop, switch to a side shot and hit the individual enemies
+that come up.
+
+When the three ships, two from the bottom, one from the top appear, head down
+between the two ships and fire up at the top one and your side shots will hit
+the two you're between.
+
+Head to the top now as 3 sets of 2 appear from the sides. Hit them with the
+sideshot as they appear.
+
+From this point on, use bursts of Raydion as the enemies close you in. Grab
+any blue coins that appear to refill your weapon.
+
+*Challenge A.7
+--------------
+Task: Destroy 14 Waves
+Time Limit: 35 Seconds
+Orientation: Vertical
+Recommended Weapon: Pulse
+
+Stay on the right and hit the ships as they appear. Honestly? This one is best
+taken as reactionary. The ships line up at the top and you can strafe them with
+pulse.
+
+Once you have two satellites, keep them on side shot ad destroy the waves as
+they come in beside you and get in line to rake them with pulse.
+
+Of course, collect the blue coins.
+
+*Challenge A.8
+--------------
+Task: 100000 points, do not get hit.
+Time Limit: 30 Seconds
+Orientation: Horizontal
+Recommended Weapon: Raydion
+
+Alright, this one is a stumbling block for some, but proper use of Raydion will
+make it a fairly easy task.
+
+Start at the top of the screen and fire on the wave as you travel down. When
+you are at the bottom quickly burst your Raydion to get the rest of them.
+
+Stay at the left and hit the wave approacching on the left side and shoot the
+rest with a forward shot.
+
+Switch to a backshot and try to take out as much of the wave approaching from
+the left as possible as you fly down. Raydion the end of them.
+
+Now, keep your backshot on and raydion the right end of the next wave and
+backshot the rest of them.
+
+Switch to an up and down position for your satellites now. Keep firing on the
+waves as they appear. Raydion them if they try to pass.
+
+When the waves start to crush in from two sides in long lines, switch to a
+forward shot and fly past them with the raydion. Even if you miss a few ships,
+100000 points is perfectly reachable.
+
+                     -=-=-=-NS6.B: Challenge Set B-=-=-=-
+                            >--===---====---===--<
+
+
+*Challenge B.1
+--------------
+Task: Collect 40 yellow coins
+Time Limit: 30 Seconds
+Orientation: Horizontal
+Recommended Weapon: Seeker
+
+You get four shots with Seeker, you could get more with Ion Strike but you need
+the speed of Seeker.
+
+Collect the yellow coins ass they appear and hit the robots with Seeker as soon
+as they appear. Collect their coins immediately. There are three robots.
+
+Keep firing your primary weapon but hit part of the first wave with your seeker
+as well. You want to get a satellite NOW. If you get two satellites, you can
+fend off all of the waves as theya ppear, meaning you won't miss the coins.
+
+*Challenge B.2
+--------------
+Task: Survive
+Time Limit: 20 Seconds
+Orientation: Vertical
+Recommended Weapon: Raydion
+
+Raydion is a must for this Challenge. You will fly into a structure littered
+with cannons...
+
+Alright, shoot the ships that appear or burst raydion if you must. The
+satellite should be kept in forward shot formation.
+
+As you fly through, dodge the laser turrets and raydion the bullet turrets.
+
+When you approach the end and the turrets are on the opposite side of the wall,
+protected from your shots, use raydion to quickly dispatch them even through
+the walls themselves.
+
+*Challenge B.3
+--------------
+Task: collect 48 Yellow Coins
+Time Limit: 10 Seconds
+Orientation: Vertical
+Recommended Weapon: Raydion
+
+You are surrounded by many boxes start at the top and spin around using
+Raydion. Collect all the coins as they head into the centre.
+
+You WANT it staggered like this so that if you do them all at once they won't
+disappear. You want ALL of the coins.
+
+*Challenge B.4
+--------------
+Task: Score 50000 points
+Time Limit: 30 Seconds
+Orientation: Horizontal
+Recommended Weapon: Seeker
+
+Stay at the top and hit that wave as they appear. As a large yellow ship
+appears below, fire your seeker. Make sure there are no waves on hand though.
+Take the satellite and position yourself centrally.
+
+Shoot the next big yellow asap and start collecting the coins of the first
+before the next wave appears. Down this wave. Get the second satellite and
+collect the second big yellow's coins.
+
+For the wave approaching from the right, use a forward shot and fly up and
+down to hit them all. Fire a seeker at each big yellow that appears and use
+an up and down orientation for your satellites for the remaining waves.
+
+*Challenge B.5
+--------------
+Task: Destroy 15 Waves
+Time Limit: 30 Seconds
+Orientation: Vertical
+Recommended Weapon: Raydion
+
+Not as bad as it seems. Again, this one is reactionary. Mostly.
+
+Pick a side, either left or right as the ships arrive at the start. Shoot at
+one and use the Raydion to clobber both.
+
+You will get two satellites. But them to your side. Destroy all waves that
+appear and use the Raydion for any that are very thick or look like they will
+get away. Never mind the robots, you can get 16/17 waves without them.
+
+*Challenge B.6
+--------------
+Task: Survive
+Time Limit: 30 Seconds
+Orientation: Horizontal
+Recommended Weapon: Raydion
+
+The screen will spin and ships will arrive from the openings in the walls. This
+is an exercise in dodging.
+
+Stay near the centre of the screen and any time a ship comes near shoot it if
+it is from the front or give a quick burst of the Raydion from any other side.
+Just TAP the button for Raydion and it _will_ last you this whole stage. Dodge
+the bullets then get back intot he centre.
+
+*Challenge B.7
+--------------
+Task: Survive
+Time Limit: 20 Seconds
+Orientation: Vertical
+Recommended Weapon: None
+
+You're between four invincible bullets praying turrets. Essentially, this is a
+a weaving exercise. Stay at the top centre until about 10/8 seconds. Weave your
+way back into the centre now and dodge until time runs out.
+
+This one is really all about your reflexes.
+
+*Challenge B.8
+--------------
+Task: Score 37000 points, do not get hit.
+Time Limit: 30 Seconds
+Orientation: Vertical
+Recommended Weapon: Raydion
+
+Remember if you just TAP the button for Raydion, it gives a quick burst of
+electricity that will still hit everything around you as it normally functions.
+
+Anyways, all of those cells come down around you. They spiral in. When the
+cells start to spiral back out, give the biggest clump of them a jolt with
+Raydion.
+
+If you tap it correctly, you should have enough juice to take you through the
+stage. Otherwise, if you have just over 30000 the nanogauge should allow you
+to string enough cells together to make up the difference. Given enough time
+of course.
+
+
+                     -=-=-=-NS6.C: Challenge Set C-=-=-=-
+                            >--===---====---===--<
+
+
+*Challenge C.1
+--------------
+Task: Survive
+Time Limit: 30 Seconds
+Orientation: Horizontal
+Recommended Weapon: None
+
+Pull back from the structure as you make your approach. Wait for the turrets to
+fire their first volley then move past the first pair, up around the wall and
+then pass the second pair.
+
+It will be around 21 seconds now. Stay in the little alcove at the top of the
+screen as the next turret fires. Whent he shot passes beneath you, pass by the
+turret and stay to the right of it.
+
+At the end there is a flamethrower, nothing to worry about because you are not
+going down there. Stay near the opening at the top of the screen. When the
+screen starts back left around 12 seconds, let any shots pass you before
+heading through the upper path again. Wait for the turret in the tunnel to
+fire then pass it. Do not hide int he alcove again.
+
+You can pass the paired set of cannons when they don't fire, around 6 seconds
+remaining. Take the _lower path_ here, more room to dodge.
+
+When the timer hits three, you can pass the final pair of turrets and you're
+home free.
+
+*Challenge C.2
+--------------
+Task: Score 35000 points
+Time Limit: 30 Seconds
+Orientation: Vertical
+Recommended Weapon: Raydion
+
+Raydion gets so much love in the challenges. You need to fly by the waves of
+ships and hit them with electricity. Make sure to fly opposite of their
+direction to minimize power use. If you die during one wave but manage to
+destroy it before it leaves, you can still win. May be the way to refill
+your secondary meter, but use blue coins as much you can.
+
+*Challenge C.3
+--------------
+Task: Collect 12 yellow coins
+Time Limit: 33 Seconds
+Orientation: Vertical
+Recommended Weapon: None
+
+There's a definite pattern here.
+
+1. The first coin is right above you. Grab it and pull back.
+2. Fly up and right, just below the flamethrower. Grab the coin.
+3. After they blow, fly up and grab the third coin.
+4. Take the yellow coin below the brown block as you fly left.
+5. Grab the fifth above the flamethrower.
+6, 7, 8: They're at the top of the run. Get hit with a flamethrower and use
+         your temporary invulnerability to grab all three.
+9. Grab the new coin under the brown block as you head back down.
+10. Stay to the left as you head down and wait for the flamethrowers
+   (horizontal) to blow. Grab the yellow coin beneath them to the left.
+11, 12: When you see the last two coins, get hit by fire then quickly snatch
+        them up.
+
+You have 99 lives, yes, but only lose them when the screen doesn't move. Any
+notion otherwise could screw you out of grabbing a coin.
+
+*Challenge C.4
+--------------
+Task: Destroy 20 waves
+Time Limit: 33 Seconds
+Orientation: Horizontal
+Recommended Weapon: Raydion
+
+Oh Raydion, lovely. This stage is pretty straight forward. Use your primary
+weapon on enemies in front of you and Raydion on those above, below or behind
+you.
+
+Essentially, start out by taking the first wave with your primary as they
+emerge and teh secondary with Raydion. Get your satellites and start firing and
+never stop (with the primary).
+
+Everytime you destroy some waves, get the blue coin. Raydion should be used in
+the shortest bursts necessary. For the vertical wave near the end, use the
+primary weapon.
+
+*Challenge C.5
+--------------
+Task: Survive
+Time Limit: 45 Seconds
+Orientation: Horizontal
+Recommended Weapon: None
+
+45 seconds: Move north. Top middle.
+40 seconds: Move into the centre. Move down and right between the walls until
+            the moving barricades get out of the way.
+36: Move back up to the top middle. Move left, down, right between the two
+    walls.
+32: Move left, down, right to the middle. Move to the top middle and back to
+    the left.
+24: Move down, right, and up into the top middle.
+12: Move to the bottom middle, just between the two small walls. As the
+    barricade passes above, head back up to the top middle before the one
+    beneath you crushes you.
+7: Move left until the barricade passes, move back right and stay there until
+   the challenge ends.
+
+*Challenge C.6
+--------------
+Task: Survive
+Time Limit: 40 Seconds
+Orientation: Vertical
+Recommended Weapon: Raydion
+
+Use raydion the first two waves coming at you so you get two satellites. Then,
+switch to using a forward shot and destroy the next two waves and take the blue
+coins to refill your secondary meter.
+
+Now, use your standard shot to destroy a yellow block to the north. Let's use
+the righthand path as it is honestly a little easier despite the sooner gas
+vent. Either way, let the gas vent blow, then when you can fly out past it,
+Raydion the wall, and wait just before the next vent.
+
+Fire at the blocks past this vent with your primary. After it blows, pass it.
+
+There is a vent spaying north here. Wait beside it as the screen scrolls to the
+north. As soon as you see space beyond the red wall, wait for the vent to blow,
+and pass it when the coast is clear.
+
+Alright, 18 seconds left. Destroy the waves here you WANT juice for your
+Raydion.
+
+When you see the open gap, wait for the gas to vent down. After it disappears,
+fly up and use a Raydion blast on the wall to the right. Slip in here where no
+gas can hit you.
+
+After the next vent gasses upwards, fly past it and hit the next block with a
+Raydion burst. Fly out to freedom.
+
+*Challenge C.7
+--------------
+Task: Collect 35 yellow coins.
+Time Limit: 35 Seconds
+Orientation: Horizontal
+Recommended Weapon: Ion Strike
+
+Ion Strike is key here. It is powerful enough to destroy a cruiser and has at
+least 5 uses without recharge.
+
+Essentially, hit the cruisers with an ion strike and collect its five coins.
+You need to down 7 of them so you MUST hit all the waves that appear. Destroy
+as many cruisers as you can but you should be in position to start recharging
+your secondary just as or just after it runs out.
+
+*Challenge C.8
+--------------
+Task: Do not get hit.
+Time Limit: 35 Seconds
+Orientation: Horizontal
+Recommended Weapon: None
+
+Hug the back of the screen and stay near the middle as the walls taper in
+towards the middle of the room.
+
+Head up at the first split.
+
+Head up past the climbing stair of platforms. Then down under the next one.
+After you arrive at the bottom of the screen, head back into the middle so
+as not to crash into the next wall.
+
+Head down below the next block then back into the middle to pass between the
+two walls. This is the 21 second mark and halfway through the level.
+
+Head down below the next wall and back into the centre as the platforms taper
+in towards the middle. So you want to stay central.
+
+After the tapering, head down below the wall, then up over the next as soon
+as you pass under. Then back intot he middle to pass between two walls.
+
+Stay central. When you pass throught he middle of an "J" and "7" shaped walls,
+go up above the next block then back into the middle.
+
+Stay below the longer, mishapen structure and move up to the middle after the
+small platform that follows it.
+
+Fly beneath the long platform, between the two long platfroms, then take the
+twisty path in the lower portion of the next structure. Get central again.
+
+Dodge the block then stay central for the next tapering. Dodge again then stay
+dead centre for the final tapering, the tunnel is just big enough to squeeze
+your SHN-Fighter through.
+
+                     -=-=-=-NS6.D: Challenge Set D-=-=-=-
+                            >--===---====---===--<
+
+*Challenge D.1
+--------------
+Task: Collect 18 yellow coins
+Time Limit: 30 Seconds
+Orientation: Horizontal
+Recommended Weapon: Seeker
+
+Kind of cheap, but the best way to do this is to die halfway through to refill
+your weapon. Shoot the crawlers at point blank range with the seeker. After
+you have killed three AND collected their coins, die and get the last three
+with your new payload of Seekers.
+
+Kind of cheap, but it works.
+
+*Challenge D.2
+--------------
+Task: Survive
+Time Limit: 30 Seconds
+Orientation: Vertical
+Recommended Weapon: Raydion
+
+This one is about proper Raydion management. Stay behind rocks as the screen
+scrolls and use raydion to blast any turrets that do get close to you. Blast
+ONLY those that are going to be in the way of you, and hide behind rocks as
+the screen scrolls.
+
+Dodge the shots until the stage ends.
+
+*Challenge D.3
+--------------
+Task: Score 1200 points, do not die.
+Time Limit: 25 Seconds
+Orientation: Horizontal
+Recommended Weapon: Shock Mines
+
+As you move right, hit the rolling, bouncing enemies with shockmine sand your
+primary weapon. The shock mines will kill them on contact. If you can get two
+or three in a row as the nanogauge is still full, you will easily pass it.
+
+Once you have 1200 points, retreat below the platforms at the end for safety.
+Otherwise, destroy the dudes near the end.
+
+*Challenge D.4
+--------------
+Task: Collect 15 yellow coins, do not get hit.
+Time Limit: 15 Seconds
+Orientation: Vertical
+Recommended Weapon: None
+
+When you start, you are invulnerable. Make EXCELLENT use of this time. Grab the
+two coins down near the vents, grab the one at the left first, then the one at
+the right, and then grab the four yellow coins in the spinning skeletal circle.
+Pass out to its side before your invulnerability runs out.
+
+At the VERY least, get the two coins nearest the vent while you are still
+invulnerable.
+
+Move to the top of the screen now and take the coins here.
+
+As for the coins in the skeletal rings, wait until they open to the top so the
+acid vents are then blocked and cannot spray you.
+
+*Challenge D.5
+--------------
+Task: Collect 7 yellow coins, do not get hit.
+Time Limit: 30 Seconds
+Orientation: Horizontal
+Recommended Weapon: Raydion
+
+Essentially, there are mashers and there are turrets. When a masher opens and
+you can see space beyond it, you can pass. Use the Raydion to destroy any
+turrets with _quick bursts_, just _tap_ the button.
+
+Collect the yellow coins at one point before moving past the next set of
+mashers.
+
+*Challenge D.6
+--------------
+Task: Collect 12 yellow coins, do not get hit.
+Time Limit: 30 Seconds
+Orientation: Horizontal
+Recommended Weapon: Raydion
+
+Iron balls will be destroyed in a quick Raydion burst, so it is the weapon of
+choice.
+
+Start with the ball right below you. Dodge the shots after youd estroy it and
+take its two coins.
+
+Head down and right when the gears spin out of the way and destroy the ball
+here.
+
+Now, on the righthand side, there will be two balls close together. Even so,
+destroy one at a time to reduce the amount of bullets onscreen.
+
+As you head back left, yse Raydion on the turret here. Simply destroy the
+balls as you head down. You COULD destroy the two final ones together, as you
+will have plenty of room to move around here.
+
+*Challenge D.7
+--------------
+Task: Collect 4 yellow coins, do not get hit.
+Time Limit: 15 Seconds
+Orientation: Horizontal
+Recommended Weapon: None
+
+While still invulnerable, take the lower left coin and move to the lower right
+and take this one. Move now to the upper right and take this coins. Wait now
+for the red turret to fire, dodge and pass over it, and grab the final coin.
+
+*Challenge D.8
+--------------
+Task: Survive
+Time Limit: 30 Seconds
+Orientation: Horizontal
+Recommended Weapon: None
+
+This one is all about dodging.
+
+At 25 seconds, stay in the centre and the screen will start to spin.
+At 20 seconds, the spray gets pretty thick. When there is a spray like this
+you need to stay near the centre as the spray thins out and weave between the
+globs of acid.
+
+Really guys, this one is all you. It;s about relfexes and your ability to weave
+between shots.
+
+But as a guide line, when a spray si coming fromt he side, stay below the
+spray's poiint of egress.
+
+When it is from below and quite large, you will need to head to the centre and
+find an opening.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                               NS7: Simulators                              |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Simulators are minigames you unlock by completing the Challenge Mode. Though
+they serve as diversions they do not lack finesse.
+
+*Nanobreak:
+ ---------
+
+Nanobreak is a breakout style minigame where you must hit the ball with a
+paddle.
+
+The paddle is controlled with the stylus. You can use it to whap the ball back
+at the bricks.
+
+
+                      ( )
+                       ^
+   ( )                 ^
+    ^                  ^
+    ^                  ^
+==========         ==========
+==========         ==========
+                    ^^^^^^^^
+                    ^^^^^^^^
+
+Still paddle.      Hitting with the paddle.
+
+You really do have to wack the ball. If you wack it by pulling the paddle from
+low in the field of movement up and striking the ball, the ball will fly a
+better tdistance than if you were to just let it hit the paddle.
+
+( )    ( )     ( )
+  *     *      *
+   *    *     *
+    ==========
+    ==========
+
+The ball as well will fly depending on where it hits the paddle. Hitting it on
+the side of the paddle will cause it to ave a more severe arc to that
+direction.
+
+        ( )     ( )
+       *       *
+     *     *
+==========
+==========
+    ^
+  ^
+^
+
+Now, if you are moving the paddle on an angle, hitting the ball in the centre
+of the paddle will cause it be angled, and hitting it on the side will cause it
+to have a more severe tilt.
+
++--------------+
+|              |
+|              |
+|              |
+|              |
+/              \
+
+
++--------------+
+
+The playing field has a large gap on the bottom. The ball can be lost off of
+the sides, but you can move the paddle anywhere in this area. Within the
+playing field you will encounter obstacles to block you, blocks for points,
+and glowing orbs that split your ball into two.
+
+This is all very simple but there is one dangerous happening:
+
+If a ball is coming down on an almost 180 degree angle, almost completely
+horizontal. The best way to handle this is to hit it with the middle of the
+paddle.
+
+If it is going towards the side and isn't in the playing field, try to block
+it off completely there by making a L or J with the wall, but if it is in the
+playing field, hit it in the centre. It may not go very far at first, but at
+least you can break it out of its path.
+
+*Nanorush:
+ --------
+
+Orb: 500 Points
+Barrel: 1000 Points
+Cone: 3000 Points
+
+Nanorush is a simple game. Simply use the control pad to steer your craft as
+you fire at enemies. Fly into orbs to get their points but shoot barrels and
+cones.
+
+Barrels do not move so you can just line up and shoot them.
+
+Cones are a different story, they fire back. It's best to wait for them to
+fire, let it pass, line up with them and pulversie them with your own attack.
+
+It gets very thick as you go on, but try to keep this style up as you zip
+around walls and destroy enemies.
+
+*Nanotorque:
+ ----------
+
+Nanotorque is a difficult though addicting asteroids style game. Essentially,
+there are blocks here you must fire upon to spin them around. Each block has a
+green and a red half, and you need to have same colours hit each other.
+
+  +-+-+           +------+           +------------+
+  | | |           |      |           |            |
+  | | |           |______|           |____________|
+  | | |           |      |           |            |
+  | | |           |      |           |            |
+  +-+-+           +------+           +------------+
+
+  Thin             Medium               Large
+
+The size also determines the speed at which they can spin. The larger blocks
+cannot spin nearly as well. Spin is also determined by wehre you shoot the
+block itself. If you shoot it on the corner, the block will be spun more
+violently around in that direction, shooting it near the centre may confuse
+the spin and make it more spin more slowly.
+
+Volume of shots is the third decding factor here. The more you fire, the more
+it will spin to compensate. Of course, if you fire too much, it may spin back
+or spin to far. Short bursts are the best way to hit things here.
+
+When two opposite colours collide, you lose 8 seconds and a burst of shots is
+released. These shots will turn any other block they come in contact with, so
+watch out.
+
+Making same colours collide adds four seconds to your clock, as does collecting
+a +4 item.
+
+The ship can be destroyed by collidign with a block or getting hit with their
+explosion. However, the game is not over until the timer reaches 0.
+
+So, stay near the centre and try to direct same colours into one another. If
+there is only one block onscreen at a time, it is almost not worth spinning it
+until another comes along. You see, the biggest flaw with Nanotorque is that
+a block can suddenly appear on the side. Now, this may result in -8 or +4 if
+something hits it, but there's no way to know what's coming. Just take it in
+stride.
+
+*Nanogrid:
+ --------
+
+Nanogrid is much like Qix, or even Duncan's Thin Ice. You can hold down the
+button to draw a line. This line must be drawn around the mobile items between
+the grid lines. These grid lines mark your only points of movement, and drawing
+a line around an item will destroy it and earn you points.
+
+Consequently, drawing a line around more than one results in a multiplier.
+
+Enemies are here too, however, and like Qix, if they touch you or your line
+you will lose a chance. I have surrounded enemies and they did not perish, so
+for now I believe you will just have to avoid them.
+
+Along the while, there are small items that appear on the gridlines. Pick these
+up for a small amount of points, though sometimes when I have included them in
+my line's path I've received a mulitiplier upon destroying an item. Worth a try
+though it seems kind of up in the air.
+
+As time marches on, there will be an abundance of enemies. At this point it
+becomes more about getting those small items, and taking the few chances you
+can get to encapsulate an item.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                              NS8: Unlockables                              |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Nanostray 2 has a handful of unlockables, beyond the little stars you get on
+the menu for clearing difficulty levels.
+
+                            ---Challenge Sets---
+
+Challenges are arranged in sets, A through D. You must complete a set to unlock
+another.
+
+Challenge Set B: Complete Challenge Set A
+Challenge Set C: Complete Challenge Set B
+Challenge Set D: Complete Challenge Set C
+
+                           ---Arcade Mode Levels---
+
+The Arcade mode levels must be unlocked in Adventure Mode. You merely have to
+play these stages to unlock them, and each stage unlocks its respectvie
+appearance in Arcade.
+
+Therefore, it may be worthwhile to play the game in different orders until you
+catch em' all.
+
+                               ---Simulators---
+
+Simulators are little minigames you can unlock by completing sets of challenges
+in the challenge mode.
+
+*Nanobreak:
+
+This is a breakout style game that you control with the stylus. Unlock
+Nanobreak by completing Challenge Set A.
+
+*Nanorush:
+
+This is a 3D minigame that I guess is kind of like Hyperzone... but not quite.
+It's pretty rad, unlock it by completing Shallenge Set B.
+
+*Nanotorque:
+
+Nanotorque is an awesome Asteroids style minigame, where you need to shoot
+blocks of two colours so that one colour spins into the same colour on another
+block. Complete Challenge Set C for this.
+
+*Nanogrid:
+
+Nanogrid is kind of like Qix, but more like Duncan's Thin Ice on the
+Intellivision. You need to draw lines around items to score while avoiding
+enemies. Unlock it via Challenge Set D.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|                                NS9: Credits                                |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Many thanks to the folks behind the Nanostray series for bringing something to
+the DS that it severely lacks. And beyond that, it's a well made game. Ha ha,
+well, keep up the great work Shin'en.
+
+Lots of thanks to Ishigani, for being the next in a long line of awesome crabs
+who are also bosses. Clawgrip would be proud.
+
+Thanks of course go out to my hosts, as without them you would not be reading
+this guide.
+
+Websites with permission to use this Guide:
+www.GameFAQS.com
+www.neoseeker.com
+faqs.IGN.com
+www.1up.com
+www.honestgamer.com
+gamesradar.com
+cheatplanet.com
+
+
+Game by Shin'en.

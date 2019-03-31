@@ -1,0 +1,629 @@
+                   ,   *WWWWWWWW*,                                       
+                    @WWWWWWWWWWWWWWW                                     
+                  *WWWWWWWWWWWWWWWWWWW                                   
+                 WW#.+WWWWWWWWWWWWWWWWW                                  
+                WW#.:WWWWWWWWWWWWWWWWWWW                                 
+               WW+WWWWWWWWWWWWWWWWWWWWWWW                                
+              ,WW.WWWWWWWWWWWWWWWWWWWWWWW*                               
+              WWWWWWW+.::::::+++++*WWWWWWW                               
+             ,WWWWW,,,,,,,,,,,,,,,,,,WWWWW.                              
+             WWWW#,,,,,,,,,,,,,,,,,,,,#WWWW                              
+             WWWW,,,,,,,,,,,,,,,,,,,,,,WWWW                              
+             WWW,,,:WW*,,,,,,,,,,,@W@,,,WWW                              
+            +WWW,,,W  W,,,,,,,,,,W  WW,,WWW:                             
+            WWW#,,#,#WW@,,,,,,,,,W@:WW,,@WW@                             
+            WWW+,,:WWWW+,,,,,,,,,WWWWW,,@WWW                             
+            WWW@,,,WWWW,,,,,,,,,,+WWW.,,WWWW                             
+            WWWW,,,,,,,,,,,,,,,,,,,.,,,,WWWW                             
+     *WWWWWWWWWW#,,,,,,,,,,,,,,,,,,,,,,WWWWW+++:.                        
+   WWWWWWWWWWWWWW#,,,,,,,,,,,,,,,,,,,,WWWWWWWWWWWWWW,                    
+  W+.WWWWWWWWWWWWWWW##******++++++:+WWWWWWWWWWWWWWWWWW                   
+ WW@WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW+                  
+ W,WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                  
+:WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                  
+*WWWWWWWWWWWW NinjaTown FAQ/Strategy GUide WWWWWWWWWWWW.                 
+*WWWWWWWWWWWW     For the Nintendo DS!     WWWWWWWWWWWW:                 
++WWWWWWWWWWWW    Version 0.1 (12/31/08)    WWWWWWWWWWWW.                 
+,WWWWWWWWWWWW        By Travis Coe         WWWWWWWWWWWW                  
+ WWWWWWWWWWWW Copyright (c)2008 Travis Coe WWWWWWWWWWWW                  
+ :WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW*                  
+  *WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                   
+    @WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW:                    
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW....,                        
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWW WWWWWWWWWWWWWWWW                             
+            WWWWWWWWWWWWWWW WWWWWWWWWWWWWWW@                             
+            WWWWWWWWWWWWWWW #WWWWWWWWWWWWWW*                             
+            WWWWWWWWWWWWWWW ,WWWWWWWWWWWWWW                              
+            +WWWWWWWWWWWWW   WWWWWWWWWWWWWW                              
+             WWWWWWWWWWWW@   :WWWWWWWWWWWW,                              
+              WWWWWWWWWWW     @WWWWWWWWWW#                               
+               WWWWWWWW#       *WWWWWWWW+                                
+                 #WWW+           #WWWW*                                  
+
+=============================
+      TABLE OF CONTENTS       
+=============================
+
+1. Introduction                 [Start]
+2. Version History              [Verzi]
+3. Basics/Controls              [Basic]
+4. General Rules to help        [Rulez]
+5. Actual Walkthrough Part      [Walkt]
+---1. Suburbs                   
+------1. Sleepy Sprawl          [A1Lv1]
+------2. Nap Alley              [A1Lv2]
+------3. Sugar River Junction   [A1Lv3]
+------4. Commutersville         [A1Lv4]
+---2+. Not done yet.            [WAULF]
+6. Contacts                     [Tactz]
+7. Special Thanks               [Tanks]
+8. Legal Stuff                  [lageL]
+
+[Start]
+=============================
+        INTRODUCTION
+=============================
+
+Welcome to Ninjatown!  I am Travis Coe, or as the other people know me as on 
+the GameFAQs boards, _Raich_. I am a big fan of this game, and after hearing 
+about it from E3 reports, I couldn't wait to get my hands on it. Who doesn't
+want to get a game that got multiple nominations for being amazing AND full
+of ninjas!
+
+This game was made by Southpeak Games and was released into the U.S.A on the
+28th of October.  Oddly enough, I only got this game on the 22nd of December 
+and a little more than a week  later I am writing a FAQ for it.  This is my 
+first FAQ, and I don't plan on it being my last.
+
+
+[Verzi]
+=============================
+      VERSION HISTORY
+=============================
+
+Version 0.1 12/31/08
+The majority of the planned non-walkthrough stuff is written.
+The first Area is completely written
+
+
+[Basic]
+=============================
+       BASICS/CONTROLS         
+=============================
+
+Ninjatown is a Tower Defense game, based around placement of huts. You spend
+cookies (money), on buying different huts or modifier buildings on square lots
+to deploy Ninjas to attack your enemies. You can upgrade all of your huts from
+I to V (Roman Numerals), and your enemies come in I to V also. Some enemies can
+be super fast, super tough, or even flying kind. Your ninjas and enemies will 
+take multiple shapes and sizes. But that isn't all!  You also get a hickory 
+cane to gather happiness.  It doesn't sound that useful from how I described 
+it, but it is essential to success. The cane have 3 notches indicating levels
+of happiness obtained from the defeat of your opponents. You use these notches 
+to fire off Ol' Master Ninja Powers.  They can be used to destroy enemies, move
+your enemies, or even stop time to upgrade huts.  Very, very useful indeed. 
+
+
+Okay, here is the rundown.
+
+It you tap a lot, you have an option to build Ninjas, Ranged Ninjas, and 
+Modifier buildings.  If a Hut is already built on the lot you tapped, you have
+a set of options.  For Regular Ninjas, you have the option to Upgrade, Rest, 
+Set Rally Point, and Sell.  Upgrade is self-explanatory, Rest makes your Ninjas
+leave the battlefield to regain their health, Set Rally Point decides where 
+your Regular Ninjas will stay to regain health after battle without leaving the
+battlefield (This will be covered more in my advice section), and Sell is 
+self-explanatory, but returns back at 3/4ths the cost of it.  For Ranged 
+Ninjas, every option is the same except Set Rally Point is replaced with 
+Target, which decides whether or not the Ranged Ninjas go after the closest 
+enemy, the enemy with the lowest health, and the enemy with the highest health. 
+Modifier buildings only have one option when tapped, Sell, which destroys a 
+building for 1/2 of the money returned to you, instead of 3/4ths of it.
+
+Upgrades are generally better than building more towers because it is cost 
+efficent and makes the game go by quicker.  Also, certain Ninjas cant hit other
+enemies unless they are strong enough, like Business Ninja on Chubby Devils or 
+the Anti-Ninja on Speedy Devils. As said before, upgrades only happen till the 
+hut reaches V, and it cannot be upgraded anymore.
+
+You almost never need to use the Rest, so don't worry about that option.
+
+
+This game only needs the D-pad, touch screen and microphone to play the game.
+
+D-pad
+
+Moves map around
+
+Microphone
+
+Used for specific Ol' Master powers
+
+Touch Screen
+
+EVERYTHING else.  I'm not kidding.  If you lost your stylus, and forced to use 
+a finger, you will find that you will have lots of trouble doing routine things
+in this game.
+
+
+[Rulez]
+=============================
+    GENERAL RULES TO HELP
+=============================
+
+This section is for some more in-depth advice for people who just started the 
+game and having a little trouble.
+
+RULE I: 
+
+Rally Points are the key to every fight. If place in a bad spot, it can result 
+in multiple unnecessary Ninja deaths.  Have your front line Ninjas at one 
+point, and your back up Ninjas at another point.  Have the Front (and Middle) 
+Ninjas at right before the edge of their range, and the Back-up Ninjas parallel
+with their hut. That way, if a Devil passes by your front line, the Ninjas walk
+towards, instead of chase, the Devil. Occasionaly, you won't have a Back-up or 
+a middle, but it is impossible to not have a front line. The best general 
+set-up for a fight is Anti fronts, Wee middles, and Business back-ups.
+Also, you might have to have your forces in a general huddle instead of in a 
+line for multi-path courses.
+
+RULE II:
+
+Have your Antis at least one or more levels above the closest Chubby Devil 
+Wave. If you can't have that done, have a Wee Devil of an equal level to assist
+ you. If they are one level or more (Until IV waves), they are able to 2-hit 
+kill, and if they can't do that, then the Wee's can help pick up the slack left 
+behind.
+
+RULE III:
+
+Have your Snipers at least two or more levels above the closest Winged Devil 
+Wave. Again, if they are two levels or more (Until III waves), they can 2-hit 
+kill them.  Since there are two Sniper Ninjas per hut, that makes it VERY 
+important to have them like this.
+
+RULE IV:
+
+If overwhelmed with excess Devils passing by your defenses because they are 
+pre-occupied with other Devils, use Business Ninjas. They might but weak, but 
+they have an uncanny ability to hold back a Devil from moving but getting it 
+to lock-on to them.  The only time you generally have to deal with this is a 
+time where they are highly important, where you get swamped in Speedy Devils 
+and Business Devils.  Business Ninjas are the only Ninjas that can keep them 
+back, and they come in very handy during Area 3 Level 3.
+
+More rules to come later in an update.
+
+
+[Walkt]
+=============================
+   ACTUAL WALKTHROUGH PART
+=============================
+
+This section is split up into Areas, then Levels.
+The chunk of my updates go into this section, areas at a time.
+
+=============================
+      AREA  1 - SUBURBS
+=============================
+
+This area is a tutorial level. Occasionaly in their plans, they may make you 
+build something here or there, so if they do, do what they say, hit Return to 
+map, and go back in. Then you can build freely.
+
+[A1Lv1]
+==============================
+Area 1 Level 1 - Sleepy Sprawl
+==============================
+
+I know the game forces you to make a Wee Ninja hut in the Spot below where I
+want you to put it, so after going through the tutorial, like I said before 
+just go back to map, and go back in and you can do as you please.
+
+General tips for those who don't want to go step-by-step:
+
+Build some of both types.  Upgrade them when possible inbetween waves.
+Make sure to have your Antis one or more levels above the Chubby waves.
+
+Detailed Step-by-Step guide:
+
+Set-up:  Build 1 Wee Ninja on closest to spawn spot on the left and an 
+         Anti-Ninja to the opposite side on the right, and another Anti-Ninja
+         below him.  Hit the FF button.
+
+During Wave 1:  4 Wee Devil I.  Just sit there.  You should be fine.
+
+Inbetween Wave 1 & 2:  Upgrade Wee Ninja.  Hit the FF button.
+
+During Wave 2:  6 Wee Devil I.  You should be fine.  With Wee Ninja II,
+                nothing should be a problem at the moment.
+
+Inbetween Wave 2 & 3:  Upgrade your front Anti-Ninja.  Hit the FF button.
+
+During Wave 3:  6 Wee Devil I again. Your Antis should 2-hit kill them now.
+
+Inbetween Wave 3 & 4:  Upgrade your back Anti-Ninja.  Hit the FF button.
+
+During Wave 4:  4 Chubby Devil I.  This should be your first time with them,
+                but if you have an Anti II, then they should be a breeze.
+
+Inbetween Wave 4 & 5:  You don't have the money to do anything.  HTFFB.
+
+During Wave 5:  6 Wee Devil II.  Just sit there and wait.  Not too hard.
+
+Inbetween Wave 5 & 6:  You can upgrade any of them.  Since Wee is the weakest,
+                       I normally go with him.  But it's your choice. HTFFB.
+
+During Wave 6:  8 Wee Devil II.  It should be easier now.  One might slip, but
+                what do you think your back Antis are for?
+
+Inbetween Wave 6 & 7:  You should have enough to upgrade the other two now.
+                       After hitting the upgrade button, HTFFB.
+
+During Wave 7:  10 Wee Devil II. Move up there flags if you want to.
+
+Inbetween Wave 7 & 8:  Upgrade your front Anti-Ninja.  HTFFB.
+
+During Wave 8:  8 Chubby Devil II.  With an Anti-Ninja IV, it should be easy.
+
+Using this strategy, I got an A in under 3 minutes.  But of course pausing and
+writing this made it take 20 or so.
+
+[A1Lv2]
+==========================
+Area 1 Level 2 - Nap Alley
+==========================
+
+It seems you are limited to only 4 plots.  It is not as much of a problem as 
+it may seem.  Since they make a T, I will refer to them as such.  On this level
+you get Ol' Master Powers for the first time.  You get the ability to blow back
+enemies if they slide past your defenses.  A very useful ability that will come
+in handy.
+
+General Tips for those who don't want to go step-by-step:
+  
+Build using 3 or 4 plots, probably 4 if you don't go step-by-step. Whatever you
+do, make sure that if a devil passed by your defenses, that you use the new
+Ol' Master Power to bring him back.
+
+Detailed Step-by-Step Guide:
+
+Set-up:  Make an Anti-Ninja on the left of T.  Make another in the middle of
+         the T, and place a Wee Ninja at the bottom of it.  HTFFB.
+
+During Wave 1:  8 Wee Devil I.  So long as you have their flags set up before
+                they come, there shouldn't be a problem.
+
+Inbetween Wave 1 & 2:  Upgrade your left Anti-Ninja and HTFFB.
+
+During Wave 2:  8 Wee Devil I.  Should be even easier with a stronger Anti.
+
+Inbetween Wave 2 & 3:  Upgrade your left Anti-Ninja again and HTFFB.
+
+During Wave 3:  6 Chubby Devil I.  With an Anti-Ninja III, they should be 
+                easily decimated.
+
+Inbetween Wave 3 & 4:  Upgrade either of the two middle ones.  I went with the
+                       Wee Ninja.
+
+During Wave 4:  8 Wee Devil I again.  You shouldn't even have to think to 
+                get past this one.
+
+Inbetween Wave 4 & 5:  Upgrade the other one and HTFFB.  Move up flags if
+                       you want to.
+
+During Wave 5:  10 Wee Devil I.  The extra numbers shouldn't be a problem.
+
+Inbetween Wave 5 & 6:  Upgrade the left Anti-Ninja again and HTFFB.
+
+During Wave 6:  8 Chubby Devil II.  With a Anti-Ninja IV, this should be a
+                piece of cake (pun indeed intended).
+
+Inbetween Wave 6 & 7:  It may seem like a choice, but I highly advise upgrading
+                       the Wee Ninja hut.  HTFFB.
+
+During Wave 7:  10 Wee Devil II.  Not much of a problem.  Remember if one
+                manages to slip past your defenses, use the new Ol' Master
+                Power.
+
+Inbetween Wave 7 & 8:  You can upgrade any of them if you upgraded the Wee
+                       Ninja hut last time.  For the sake of killing,
+                       I finished off my left Anti-Ninja.  HTFFB.
+
+During Wave 8:  10 Wee Devil II again.  Just sit and relax.
+
+Inbetween Wave 8 & 9:  Upgrade the middle Anti and HTFFB for the next wave of..
+
+During Wave 9:  8 Chubby Devil II.  Should be even easier than last time, since
+                you have a Anti-Ninja V now.
+
+Inbetween Wave 9 & 10:  Choices, eh?  The middle two are up for grabs again,
+                        and I chose the Wee yet again.  HTFFB.
+
+During Wave 10: 12 Wee Devil II.  Simple as pie.  Get a drink if necessary.
+
+Inbetween Wave 10 & 11:  Upgrade your middle Anti-Ninja to IV and HTFFB.
+
+During Wave 11:  8 Chubby Devil II.  Watch them kill.
+
+Inbetween Wave 11 & 12:  Win.
+
+Using this stategy, you should finish the level with an A and around 5 minutes.
+Only if you were unlucky should you have to use the Ol' Master Power.
+
+[A1Lv3]
+====================================
+Area 1 Level 3 - Suger Hill Junction
+====================================
+
+This map is a pretty simple one, with only one entrance and one exit, so it
+is not much of a problem.  This time however, they give you ranged ninjas for 
+your fight against a new type of enemy.  Plus the storyline before the start
+of this level is awesome.
+
+General Tips for those who don't want to go step-by-step:
+
+Build 2 or 3 ground attackers and only 1 sniper hut should do.
+If you follow RULE III then you shouldn't worry about the Winged Devils.
+
+Detailed Step-by-Step Guide:
+
+Set-up:  Build an Anti-Ninja on the plot closest to the spawn point. Then build
+         a Wee Ninja across from it, downwards.  To the left of the Wee, build
+         an Anti-Ninja.  HTFFB.
+
+During Wave 1:  8 Wee Devil I.  With your Anti-Ninjas right where they spawn,
+                the wave should be simple and quick.
+
+Inbetween Wave 1 & 2:  Upgrade your front Anti-Ninja hut.  HTFFB.
+
+During Wave 2:  10 Wee Devil I.  This wave, again, should be pretty easy, and
+                now even easier with an Anti-Ninja II.
+
+Inbetween Wave 2 & 3:  Upgrade the other two huts and HTFFB.
+
+During Wave 3:  6 Chubby Devil I.  Not too hard.  Just watch them kill.
+
+Inbetween Wave 3 & 4:  Build one of your new fancy Sniper Ninja Huts to the
+                       right of the front Anti-Ninja. You can also do this 
+                       during the next wave.  HTFFB.
+
+During Wave 4:  12 Wee Devil I.  Still easy and not a problem.  During this
+                wave if you haven't build a Sniper Hut, build it.
+
+Inbetween Wave 4 & 5:  You MUST get a Sniper Ninja Hut III in order to 2-hit
+                       kill them. So upgrade and upgrade and HTFFB. To save
+                       some time, you can upgrade during Wave 4 if you have the
+                       cookies for it.  Also, set them to target the weakest.
+
+During Wave 5:  8 Winged Devil I.  This is your first time encountering Winged
+                Devils, and it certainly won't be your last. Occasionaly, your
+                Ninjas will mess up the pattern an skip a Devil and it will get
+                away.  If this occurs, then Ol' Master Powers can fix it.
+
+Inbetween Wave 5 & 6:  The next wave coming up is a piece of cake, so upgrade
+                       the Wee Ninja if you want, but you shouldn't worry about
+                       it.  HTFFB.
+
+During Wave 6:  10 Wee Devil I.  They went down. Too easy.
+
+Inbetween Wave 6 & 7:  Have your front Anti-Ninja and the Wee Ninja upgraded
+                       to III. HTFFB.
+
+During Wave 7:  12 Wee Devil I.  Just like 3 waves ago!  Except your stronger.
+                This level doesn't really challenge you a whole lot.
+
+Inbetween Wave 7 & 8:  Upgrade your back Anti-Ninja to III and HTFFB.
+
+During Wave 8:  10 Chubby Devil I.  Shouldn't be too hard. Watch the kills.
+
+Inbetween Wave 8 & 9:  Upgrade your Sniper Ninjas to IV.  HTFFB.
+
+During Wave 9:  10 Winged Devil II.  With a Sniper at IV, you should 2-hit kill
+                them.  Remember if they misalign, to blow them back.
+
+Inbetween Wave 9 & 10:  At this point, you could get an A without upgrading any
+                        of the rest, so upgrade as you please.  I went with my
+                        Wee Ninja hut.
+
+During Wave 10:  10 Wee Devil II.  No problem at this point.
+
+Inbetween Wave 10 & 11:  You can upgrade the front Anti-Ninja if you want.
+                         HTFFB.
+
+During Wave 11:  12 Wee Devil II.  Still easy.
+
+Inbetween Wave 11 & 12:  I would advise having your back Anti-Ninja at IV.
+                         HTFFB.
+
+During Wave 12:  8 Chubby Devil II.  Very easy at this point.
+
+Inbetween Wave 12 & 13:  I maxed my Wee Ninja. You can do what you want. HTFFB.
+
+During Wave 13:  12 Wee Devil II.  EASY!!!!!
+
+Inbetween Wave 13 & 14:  You actually don't need to upgrade your Sniper Hut
+                         because it would kill at the same speed as a IV.
+
+During Wave 14:  10 Winged Devil II.  Remember to use the OMP if needed.
+
+Inbetween Wave 14 & 15:  IDK my BFF Jill?  Do what you want. You had the stuff
+                         to destroy this wave 5 waves ago.
+
+During Wave 15:  8 Chubby Devil II.  Just like 3 waves ago. E-Z!
+
+Using this strategy, you should finish the level in under 7 minutes with an A
+as well.  This level really didn't need a strategy, it was so easy.
+
+===============================
+Area 1 Level 4 - Commutersville
+===============================
+
+This is your first boss level. It isn't that hard, but the right preparation
+should make everything a walk in the park.  This is another one entrance one
+exit map, so the map is pretty easy to deal with.
+
+Detailed Step-by-Step Guide:
+
+Set-up:  On the left and right sides of the closest lots to the entrance, put  
+         an Anti-Ninja on each.  Below them both, put Wee Ninja huts (the one
+         below the left tower is across the street by dojo). HTFFB.
+
+During Wave 1:  8 Wee Devil I.  With 2 Antis, this should be pretty easy.
+
+Inbetween Wave 1 & 2:  Upgrade BOTH Anti-Ninja huts.  HTFFB.
+
+During Wave 2:  8 Chubby Devil I.  Now that your Anti-Ninjas are upgraded, this
+                should fly by pretty quick.
+
+Inbetween Wave 2 & 3:  Nothing. Do not upgrade the Wees. Heh, I said Wee.HTFFB.
+
+During Wave 3:  12 Wee Devil I.  During the Wave, make a Sniper Ninja to the
+                left of the left Anti-Ninja. Upgrade it once during the wave.
+
+Inbetween Wave 3 & 4:  Upgrade the Sniper Ninja again for the next wave. HTFFB.
+
+During Wave 4:  8 Winged Devil I.  With a Sniper Ninja III, this is pretty
+                easy.  If one slips, blow back.
+
+Inbetween Wave 4 & 5:  Upgrade the right Wee Ninja Hut. HTFFB.
+
+During Wave 5:  10 Wee Devil I.  Your left Wee Ninja shouldn't be even
+                targeting anything, so upgrade it during the fight to save
+                time.
+
+Inbetween Wave 5 & 6:  If your Wee was occupied with battle and you didn't
+                       upgrade it, then do it now. HTFFB.
+
+During Wave 6:  8 Chubby Devil I.  They shouldn't even pass your Antis, lest
+                alone your Wees.
+
+Inbetween Wave 6 & 7:  Upgrade your Sniper Hut one more time. Even though it
+                       isn't maxed, it should be the last time you need to
+                       upgrade it.  HTFFB.
+
+During Wave 7:  10 Wee Devil II. Despite their upgrade, they keep their
+                simplicity to defeat.
+
+Inbetween Wave 7 & 8:  Upgrade the two Anti huts. You can do it now or before
+                       wave 9. HTFFB.
+
+During Wave 8:  10 Winged Devil II. With two Sniper Ninja IVs firing at the
+                enemies, they don't stand a chance.
+
+Inbetween Wave 8 & 9:  Make sure your Antis are III and one of your Wees are
+                       III before the next wave. HTFFB.
+
+During Wave 9:  10 Wee Devil II. Still easy to wipe the floor with. To save
+                time, you can upgrade your Wee Ninja hut II to III.
+
+Inbetween Wave 9 & 10:  Upgrade the Wee if you haven't already. All of your
+                        huts should be III and your Sniper should be IV. HTFFB.
+
+During Wave 10:  10 Chubby Devil II. Your team of Antis should take care of the
+                 job pretty easily.
+
+Inbetween Wave 10 & 11: Upgrade your Antis to IV. HTFFB.
+
+During Wave 11:  15 Wee Devil II. First odd number for a wave.  This wave
+                 should be pretty easy despite the enhanced numbers.
+
+Inbetween Wave 11 & 12:  Upgrade both your Wee Devils to IV. Everybody now
+                         should be at IV.  Once you are ready, HTFFB. Here's
+                         Mister Boss!
+
+During Wave 12:  3 Super Wee Devil.  These guys may look tough, but trust me,
+                 they aren't as bad as they look. You should notice that they
+                 have a splash move as an attack. This may ending up to killing
+                 all 8 of your Ninjas at once if they fumble too much.  Since
+                 they are immune to wind, I recommend going to the Spot right
+                 next to the left Wee Ninja and build an Anti-Ninja and     
+                 constantly try to upgrade the Ninja. However odd as it sounds,
+                 if they kill your Ninjas, I would stop upgrading them and let
+                 them loose to finish off the Bosses. It isn't often where they
+                 are needed, but when they are, you will be glad you have them.
+
+Using this strategy, you should finish the level around 5 1/2 to 6 minutes with
+an A. This is the finish for Area 1.
+
+[WAULF]
+=============================
+  AREA  2 - THE TOWN SQUARE
+=============================
+
+This part isn't complete yet.  I've only been typing for 2 days, what do you 
+expect?  The update should cover all of this within the next week.
+
+[Tactz]
+=============================
+          CONTACTS
+=============================
+
+If there is any problem with my guide, or you have alternate solutions with 
+present a significantly better result than mine, please e-mail me at
+
+grand_skeym(at)hotmail(dot)com
+
+or just say something on the Ninjatown Message Boards.  If its about my guide,
+I'll be sure to check it out and answer your question.  If something ends up in
+my guide, I'll make sure to mention it down at this section. VVV
+
+[Tanks]
+=============================
+       SPECIAL  THANKS
+=============================
+
+I would like to thank the following people/things/inanimate objects.
+
+Gamefaqs for hosting this guide and giving me the copypasta for the legal. Heh,
+ironic isn't it?
+
+CJayC and SBAllen for creating and running this site.
+
+The developers of this game.
+
+Dutch_Inc for giving me inspiration to actually try to finish this guide.
+
+Nintendo for making a DS.
+
+All the other people who make FAQs, for it is you people who make my gaming 
+life so much easier.
+
+[lageL]
+=============================
+         LEGAL STUFF
+=============================
+
+This may be not be reproduced under any circumstances except for personal, 
+private use. It may not be placed on any web site or otherwise distributed 
+publicly without advance written permission. Use of this guide on any other web
+site or as a part of any public display is strictly prohibited, and a violation
+of copyright.
+
+As stated, as of this update, no other site besides GameFAQs has my permission
+to post this guide on there site YET! Albeit, if someone takes this version, 
+thats pretty stupid, as almost anybody can get A's on the sections I wrote so 
+far.
+
+If you are writing another FAQ for this game, if you want to use information 
+GIVE CREDIT WHERE IT IS DUE!
+
+
+
+
+
+The End!

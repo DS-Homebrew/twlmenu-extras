@@ -1,0 +1,5408 @@
+Pokemon Mystery Dungeon 2- Explorers of Darkness/Time
+
+                     FAQ/Walkthrough 
+
+          Made by: Carlos Knox (CarlosPit)
+
+                WalkThrough and FAQ
+
+           E-Mail: carlospit_faq@hotmail.com
+
+             © 2008 Carlos Knox (CarlosPit)
+
+                    Guide Version 1.50
+
+        Website: www.freewebs.com/gardeon
+
+-----------------------------------------------------
+
+PLEASE TAKE A MOMENT AND VISIT MY WEBSITE:
+
+WWW.FREEWEBS.COM/GARDEON
+
+
+AND REGISTER IN MY FORUMS:
+
+http://z10.invisionfree.com/Gardeon/index.php
+
+
+Do it please, it only takes a few moments.
+
+
+------------------------------------------------------
+
+Table of Contents:
+
+1.- Legal Info
+2.- Version History
+3.- Welcome to this FAQ
+4.- Allowed Sites/Banned Sites
+5.- Introduction to the game
+6.- My Game Info
+7.- Storyline
+~~~~~~7.1 Getting Started
+~~~~~~7.2 Chapter 1: Stormy Sea
+~~~~~~7.3 Chapter 2: The New Guild Recruits
+~~~~~~7.4 Chapter 3: The Scream
+~~~~~~~~~7.4.2 Boss Battle: Drowzee
+~~~~~~7.5 Chapter 4: Gatekeepers
+~~~~~~7.6 Chapter 5: The First Official Exploration
+~~~~~~7.7 Chapter 6: Team Skull
+~~~~~~7.8 Chapter 8: Groudon's Heart
+~~~~~~7.9 Chapter 9: The mystery of Fogbound Lake
+~~~~~~~~~7.9.2 Boss Battle: Groudon?
+~~~~~~7.10 Chapter 10: Dusknoir
+~~~~~~~~~7.10.2 Boss Battle: Luxray
+~~~~~~7.11 Chapter 11: Grovyle the Thief
+~~~~~~~~~7.11.2 Boss Battle: Mespirit
+~~~~~~7.12 Chapter 12: The only option
+~~~~~~~~~7.12.2 Boss Battle: Grovyle
+~~~~~~7.13 Chapter 13: Dusknoir's Secret
+~~~~~~7.14 Chapter 14: Into the Future
+~~~~~~~~~7.14.2 Boss Battle: Spiritomb
+~~~~~~7.15 Chapter 15: The secret of World's Paralysis
+~~~~~~7.16 Chapter 16: A new Dawn
+~~~~~~7.17 Chapter 17: The guild's crew
+~~~~~~7.18 Chapter 18: Lapras
+~~~~~~~~~7.18.2 Boss Battle: Kabutops + Omastar
+~~~~~~7.19 Chapter 19: To the Hidden Land
+~~~~~~~~~7.19.2 Boss Battle: Dusknoir
+~~~~~~7.20 Final Chapter: The Last Adventure
+~~~~~~~~~7.20.2 Final Boss: Primal Dialga
+8.- Post-Storyline
+~~~~~~8.1 Chapter 21: Guild Graduation
+~~~~~~~~~8.1.2 Boss Battle: Wigglytuff's Guild
+~~~~~~8.2 Chapter 22: Scizor The Explorer
+~~~~~~~~~8.2.2 Boss Battle: Frosslass
+~~~~~~8.3 Chapter 23: Manaphy
+~~~~~~~~~8.3.2 Boss Battle: Gyrados
+~~~~~~8.4 Chapter 24: The Aegis Cave
+~~~~~~~~~8.4.2 Boss Battle: Regice
+~~~~~~~~~8.4.3 Boss Battle: Regirock
+~~~~~~~~~8.4.4 Boss Battle: Registeel
+~~~~~~~~~8.4.5 Boss Battle: Regigigas
+~~~~~~8.5 Chapter 25: Azurill's Nightmare
+~~~~~~8.6 Chapter 26: Adventurers Again
+~~~~~~8.7 Chapter 27: Manaphy's Return
+9.- Gotta Recruit 'Em All!
+10.- Item List
+~~~~~~10.1 Held Items
+~~~~~~10.2 Evolution Items
+~~~~~~10.3 Throw Items
+~~~~~~10.4 Food
+~~~~~~10.5 Drinks
+~~~~~~10.6 Berries
+~~~~~~10.7 Gummies
+~~~~~~10.8 Orbs
+~~~~~~10.9 HMs
+~~~~~~10.10 Special Items
+
+11.- Wonder Mails
+12.- FAQ
+13.- Help me with the Guide :]
+14.- Contact Me!
+15.- Special Thanks
+
+
+
+*Note: To search for a specific thing use CTRL+F*
+
+
+
+--------------------------------------------------------------------------
+1.- LEGAL INFO
+--------------------------------------------------------------------------
+
+
+This guide was made by me, Carlos Knox aka CarlosPit. This guide can't be
+published in any website without my permission. If you want to use this
+Guide in your website, you MUST contact me first (Section 9). 
+It's nearly impossible that I deny your request if you follow these rules:
+
+- You can't print this guide if your intention is to sell it.
+- You can't modify any part of this guide. If you get the permission to use it, 
+   you MUST post it exactly as it was written.
+- Obviously, do not copy any part of my guide to put it in yours. Don't be 
+   a lazy ass and make it yourself ;D.
+
+If you agree with those 3 rules, you can do the following:
+
+- You can print it to have it next to you while you're playing PMD
+  or any other game
+- You can send it to a friend of yours so he can read it.
+
+
+--------------------------------------------------------------------------
+2.- VERSION HISTORY
+--------------------------------------------------------------------------
+Version 0.00 (5/1/08)
+   - Bought the game and checked it out.
+   - Took notes until chapter 2.
+
+Version 0.15 (5/2/08) (18 kb)
+   - Complete Sections: Legal Info, Welcome to this FAQ, Allowed Sites,
+                                  My Game Info.
+   - Walkthrough From Getting Started until the beggining of Chapter 4.
+   - Took notes until I killed Groudon.
+
+Version 0.25 (5/3/08) (31 kb)
+   - Made a Tiny FAQ and I made the Table of Contents look cooler.
+   - Checked some typos in the Walkthrough
+   - Worked on Chapter 4 and 5.
+   - Took notes until the appearance of Dusknoir.
+
+Version 0.30 (5/4/08) (35 kb)
+   - Typos
+   - Took notes until Chapter 16.
+   - Added one question to the FAQ
+   - Worked until Apple Woods. (Sorry for not working that much)
+
+Version 0.31 (5/5/08) (35 kb)
+   - Took notes until chapter 17.
+
+Version 0.35 (5/6/08) (44 kb)
+   - Added Special Thanks, One FAQ and Help me with this Guide sections.
+   - Bigger Table of Contents
+   - Worked until Chapter 8
+
+Version 0.40 (5/7/08) (47 kb)
+   - 5 More Allowed Sites
+   - Made a correction
+   - Worked all my way until Fogbound Lake
+
+Version 0.55 (5/12/08) (64 kb)
+   - Finished the Game
+   - Took Notes until the appearance of Manaphy
+   - Worked until Mespirit
+   - One more FAQ
+   - Finished the Table of Contents
+
+Version 0.60 (5/14/08) (66 kb)
+   - Worked Until Chapter 12
+   - Took Notes until defeating Darkrai
+   - Added 2 Faqs
+   - Some typos
+
+Version 0.67 (5/16/08) (70 kb)
+   - Worked Until Chapter 13
+   - Finished the Entire Game
+   - Got Master Rank
+   - Created my own Forum (Check it out and register)
+   - Recruited Darkrai (W00t)
+   - 1 more FAQ
+   - 1 more allowed site
+
+Version 0.75 (5/17/08) (78 kb)
+   - Worked until chapter 15
+   - Worked in my forum
+
+Version 0.80 (5/18/08) (83 kb)
+   - Worked until chapter 16
+   - Worked in my forum
+   - Added 2 FAQs
+
+Version 0.90 (5/19/08) (91 kb)
+   - Worked until Chapter 19
+   - Ascii
+
+Version 1.00 (5/22/08) (100 kb)
+   - Finished the storyline
+   - FIRST GUIDE WITH THE STORYLINE!
+   - Making a new Ascii
+
+Version  1.20 (6/1/08) (118 kb)
+   - Introduction to the Game.
+   - Wonder Mail Section Completed.
+   - Started the "Gotta Recruit 'em All" Section
+   - Worked until Chapter 22
+
+
+--------------------------------------------------------------------------
+3.- WELCOME TO THIS FAQ!
+--------------------------------------------------------------------------
+
+
+Hi guys! Let me introduce myself first. I'm Carlos Knox but mynickname is
+CarlosPit. I'm 15 and I live in Peru (That's why you may find some
+grammar mistakes in this guide). I'm a huge Pokemon Fan. I've played
+both Pokemon D/P and Mystery Dungeon Series. I love both of them.
+Since I enjoyed Blue Rescue Team a lot, I decided to buy this one.
+Pokemon Mystery Dungeon Explorers of Darkness. And, since there are
+no "Step by Step" guides, I decided to make one. In this one, you'll find
+what to do in each part of the game. So, please enjoy this walkthrough!
+
+Please, this is the First Time I'm going through the game, so be patient
+with me and with the updates, because while I play I have to take notes,
+so it takes long. But don't worry, I'll give my 100%.
+
+
+--------------------------------------------------------------------------
+4.- ALLOWED SITES/BANNED SITES
+--------------------------------------------------------------------------
+
+
+Allowed Sites:
+
+www.gamefaqs.com
+www.cheatcc.com
+www.neoseeker.com
+www.supercheats.com
+www.gamerevolution.com
+www.gamesradar.com
+www.cheatplanet.com
+www.mycheats.com
+www.pwnguide.com
+http://www.dragonpro.proboards45.com/index.cgi
+
+Banned Sites:
+
+
+--------------------------------------------------------------------------
+5.- INTRODUCTION TO THE GAME
+--------------------------------------------------------------------------
+
+
+Now I'm done with the Storyline, I'll make this section.
+
+If you have played Pokemon Mystery Dungeon: Blue/Red Rescue Team, you'll
+know the main problem. YOU ARE A POKEMON! Zomg how can this be? There
+must be a reason. Maybe you have a mission in this Pkmn world? Maybe you're
+like a God? Maybe you just had amnesia. Who knows? But in this new Pokemon
+World, everything is new to you. You don't know a single thing about this. You
+will also start noticing that your feelings are more like a Pokemon's one.
+
+Intrigued? Then go buy Pokemon Mystery Dungeon 2: Explorers of Darkness/Time
+
+
+--------------------------------------------------------------------------
+6.- MY GAME INFO
+--------------------------------------------------------------------------
+
+
+Main Pokemon---------------------Chimchar (Timatria)
+Partner---------------------------Piplup (Dinasty)
+Exploration Team Name------------HostleX
+Game Version--------------------Explorers of Darkness
+Favorite Character----------------Wigglytuff
+When did I buy it?-----------------May 1st
+
+
+--------------------------------------------------------------------------
+7.- STORYLINE
+--------------------------------------------------------------------------
+
+*Note: Instead of Saying "The Hero" I'll say YOU, cause in this
+game you're the hero.*
+
+      =============
+7.1 Getting Started
+      =============
+
+Turn on your Nintendo DS and choose New Game. Then you'll have
+to answer a questionaire, this will determine your personality. You'll
+also be asked to put your finger on the screen so they can detect
+your aura. Put either the tip of your finger or the stylus for about
+10 seconds and then stop. A Pokemon will be assigned according
+to your personality. If you don't like what you got, there's a nice
+guide in GameFaqs about Starter Pokemons. Anyway, back to MY
+guide, when you're happy with what you got as Starter, you'll need
+to choose a Partner. This Pokemon will help you during the story.
+Remember that you can't have two pokemons of the same type.
+IE: You can't be a Charmander and have Chimchar as your partner,
+since both of them are fire types. I chose Chimchar as Starter and
+Piplup as partner. But it's up to you.
+
+
+      ========================
+7.2  CHAPTER 1: STORMY SEA
+      ========================
+
+On the screen you'll see someone talking, suddenly the screen
+will turn white. When you have vision again, you'll see a rock that
+looks like a sharpedo. Then you'll see a quiet beach. Conclusion:
+you'll see pictures. Finally, when you stop watching images, you'll
+see your Main Pokemon at the shore of the beach. He can't even
+get up. After that, you'll see your Partner in front of a building. 
+He'll say something about being brave, and stand on a grate, but
+immediately step off. He's afraid of it for some reason. He feels
+dissapointed because he even had his personal treasure to give
+him courage. He's so dissapointed he leaves to his relax spot.
+What your partner didn't know, was that Zubat and Koffing were
+listening to everything he was saying and they heard about his
+personal treasure and they decide to get it.
+
+Again, you'll see some images. A beautiful beach and lots of
+bubbles, these are produced by Krabbies. Your partner 
+appears and says the reason why the Krabbies appeared, 
+which I can't remember at the moment 'cause I pressed A 
+before I took note.
+
+Your partner then realized there was something weird by
+the other side of the shore. When he goes to check, he found
+you! He asks if you're ok but you don't reply. You finally get up
+and your partner feels relieved. You ask yourself where are
+you, but you don't remember at all what happened. Your partner
+will introduce himself. He asks for your name. That's when you
+have to choose a nickname. I reccomend using a nickname
+because I don't think it would be nice if there existed a
+Pokemon with your name. I chose Timatria. You will also say
+that you're not a Pokemon! You're a human! When you tell this
+to your partner he thinks you're a liar but later he thinks you're
+saying the truth and he feels sorry for doubting. He also says
+that the Bad Pokemon number has increased lately. Suddenly,
+Zubat and Koffing hit your partner and his treasure fell in the
+ground.They pick it up and say your partner is way too
+coward to make a move and they take off. That treasure
+means everything to your partner so he wants it back and he
+asks you for help. Accept to his request and you'll head to
+your first dungeon of Explorers of Darkness.
+
+
+-----------BEACH CAVE--------------
+                         
+Floors: 
+
+4 (3 + Beach Cave Pit)  
+                         
+----------------------------------------------
+
+Client: Partner
+
+----------------------------------------------
+
+Pokemons: 
+
+Kabuto   
+Corsola
+Shellder
+Shellos
+
+----------------------------------------------
+
+Notes:
+
+*Easiest Dungeon In-Game
+*Wonder Tile: Heal Stat Changes
+*You can only carry 1 item
+*Kill 6+ foes = Level Up
+*Foes HP = Less than 20
+
+-----------------------------------------------
+
+MINI-BOSS BATTLE:
+
+Zubat + Koffing
+
+Location: Beach Cave Pit
+
+Strategy: It's fairly easy, just use
+attacks that inflict damage. You
+probably only have one attack that
+inflicts dmg (Pound, Scratch, etc).
+
+-----------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 5
+Dinasty = 5
+
+Level (OUT):
+
+Timatria = 6
+Dinasty = 6
+
+------------BEACH CAVE----------------
+
+
+When you reach Beach Cave Pit, you'll meet Zubat and Koffing.
+They'll keep calling your partner a coward. They intend to sell
+it. Want it back? Fight for it! After u beat them, they will return
+the treasure and run away. Your Partner will say thanks and you
+guys will return to the beach.
+
+Once you're there, your partner will explain you about the
+treasure he has. It's called Relic Fragment. He gives a LOT of
+information, so enjoy...
+
+He also tells you that he always wanted to be in an exploration
+team. He tried joining one, but he chickened out. He asks you
+what are you going to do. Let's see, you're a human in a Pkmn
+body... what are you supposed to do? Maybe a picnic? NO!
+You have no idea what to do! So, your Partner asks you if you
+want to form and exploration team with him. He has a lot of
+confidence. He's sure that team would pwn. If you decline,
+he will beg you. So just accept. As a matter of fact you only
+accept because you want to know why did you become a
+pokemon. Your partner says you gus have to go with
+Wigglytuff to sign up as exploration team. Training will be
+tough... But do your best!!
+
+
+"And so, Dinasty and Timatria formed and Exploration Team.
+This turned out to be their very first step into many fantastic
+realms of adventure that await their arrival"
+
+
+AND NOW ENJOY.............
+
+POKEMON MYSTERY DUNGEON EXPLORERS OF DARKNESS/TIME
+
+Starring: YOU
+
+:::Save Point:::
+
+
+      ====================================
+7.3  CHAPTER 2: THE NEW GUILD RECRUITS
+      ====================================
+
+You'll see Wigglytuff's guild as soon as you can see
+again. You must register there to have an Exploration Team.
+You gotta train until you become First Rate Explorers. Your
+Partner starts chickening out again, but he decides to be
+brave ´cause you're next to him now. He steps on the Grate
+and his footprints get scanned. He's still afraid, but he's
+allowed to go in.
+
+"Partner must step on the grave too"
+
+"..."
+
+"That's you idiot!"
+
+Uh... ok! Step on the grate, but they won't be able to
+be sure about which pokemon are you. But who cares...
+come on in! There's a hatch leading underground. You go
+down. Woah! So many Pokemons!! It's Wigglytuff's guild!
+You'll see a Chatot appear. He's Wigglytuff's right hand.
+He thinks you guys are salespersons. Your partner will
+clarify that you want to become an Exploration Team.
+He finds it weird 'cause usually young pokemons do not
+tend to make an Exploration Team because the training is
+tough... but I DON'T KNOW WHY... he changed his mind...
+and said training is a piece of cake. Oh well, who cares.
+You're about to meet the GuildMaster! Be Nice! Always
+say Please and Thanks!!
+
+You'll meet Wigglytuff and asks you the name you want
+for your Exploration Team. I chose HostleX ´cause... it
+sounds kewl. W/e you choose, it's going to be a good
+name for your partner. REMEMBER that the word TEAM
+is automatically put before your name, so don't make the
+silly mistake to choose "FlameTeam" as your team's
+name because it would be "Team FlameTeam". Ohhh,
+Blue Rescue Team Memories...
+
+Back to Explorers of Darkness... Once you say the
+name you want, your team will now be OFFICIAL!
+Yay! Now you will receive your Pkmn Exploration Team
+Kit which contains:
+
+-Explorer Badge: Team ID
+-Wonder Map: Just a Map, they added the word Wonder
+-Treasure Bag: It's the Bag where you carry the items
+              you get in dungeons. 16 Items max atm.
+
+Inside your Treasure Bag you'll find a rare item
+and a *Color* Bow which are pretty kewl items.
+
+
+CarlosPit Note: *Color* is decided depending on your
+aura color. Thanks Mipe for the correction.
+
+Now you're an official apprentice, you gotta train your ass off.
+After that, Chatot will show you guys your room and your ... wait
+...there's gotta be a mistake... WHAT? Those are our beds?!?!?!?
+What are we chickens? (Sorry Torchic). Oh well, as long as you're
+are inside the guild.
+
+While you're trying to sleep, your partner will start talking... a LOT.
+He says how cool it is that you guys are already in the guild bla
+bla bla. But you start wondering why did you become a Pkmn and
+what the hell you're doing there. You're too tired to think about it.
+
+::Save Point::
+
+TIP: From now on, you can save your game by climbing on your 
+       bed.
+
+
+Next Morning, an annoying voice will FORCE you to get up. It's 
+Loudred (Yesh, indeed. He's loud) Loudred say you guys better get
+up 'cause  Wigglytuff (From now on we'll call him WT), may sound 
+cool, but he can get mad. And, oh man, we don't want that right? So
+you better hurry!  After that you'll see like an assembly. After that
+the apprentices will start singing a tacky song. Now it's time to work!
+
+As soon as you try to go somewhere, Chatot will talk to you. And you
+will follow wherever he goes. He'll head to the Bulletin Board. He'll
+talk about the evil pokemons that are appearing in the world apparently
+'cause the time got whacked. That also caused a mass outbreak of
+mystery dungeons. Your partner will explain you what the Mystery
+Dungeons are. When he stops talking, Chatot will look for an easy job
+for you.
+
+Your first job is rescuing a pearl that belongs to Spoink. Your partner
+will think that it is way too lame, he wants to go for treasures. But do
+you think WT cares? No. You gotta go 'cause you're a rookie.
+
+
+
+----------DRENCHED BLUFF-------------
+                         
+Floors: 
+
+7 Floors
+                         
+----------------------------------------
+
+Client: Spoink
+
+----------------------------------------
+
+Pokemons: 
+
+Lileep
+Anorith
+Shellos
+Chingling
+
+----------------------------------------
+
+Notes:
+
+*Ancient Pkmns are found here.
+*You'll get several tips while you're here.
+*Good place to get a pair of lvls.
+*Gather some items.
+*Foes HP: 25-35
+
+----------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 6
+Dinasty = 6
+
+Level (OUT):
+
+Timatria = 8
+Dinasty = 8
+
+---------DRENCHED BLUFF----------------
+
+
+When you reach the seventh floor, you'll see the pearl and get it. Somehow,
+you're back in WT's guild again and have Chatot in front of you. Spoink will
+be very thankful and give you:
+
+-Protein
+-Calcium
+-Iron
+-3000 Coins
+
+Wow! 3000 Coins! Unfortunately, you won't get them! That's right! ALL THE
+MONEY goes to Wigglytuff. That big fat bastard... Well, let's be fair. You
+can keep 200 coins... yay...
+
+Then you'll see Chimecho announcing that the dinner's ready and you'll see
+a lot of munch munch munch...
+
+Again, when your trying to sleep, your partner will start talking alone. He'll
+say how cool it was when you got thanked by Spoink and then he'll finally
+fall asleep.
+
+
+
+
+      ========================
+7.4  CHAPTER 3: THE SCREAM
+      ========================
+
+Next Morning... Loudred Again
+
+::Save Point::
+
+Routine: Go out of the room! Sing the Tacky Song! Work time!
+
+Talk to Chatot and he will ask you guys to follow him. You guys will go to
+the bulletin board, but this time he heads to the Outlaw's Board. That
+means Bad Pokemons who are wanted. Before he assigns you a mission,
+Chatot will call Bidoof so he can give you guys a tour for you guys to know
+everything. 
+
+Bidoof will explain you everything about the Guild Room and the Treasure
+Town, but everything is even better explained in your Instruction Booklet.
+I will not cover this part. C'mon just read your Instruction Booklet... u lazy
+ass.
+
+Bidoof says he will be waiting you guys by the Outlaw Board. Before that,
+head to Kecleon's Brothers Shop. Talk to him and then close it. Don't buy.
+Marill Team (Azurill+Marill) will appear and buy an apple. Kecleon will tell
+you guys that their mother is sick. Immediately after that, Azurill appears
+again saying he found an extra apple in his bag and he can't afford it, but
+Kecleon is one nice Pokemon so he let Azurill keep it for free, but when
+Azurill is leaving he fall down and the extra apple too. You pick it up, but
+when you return it, you have a terrible headache. And you hear Azurill
+screaming...
+
+       " H - h - h... HELP!!"
+
+Unfortunately, you were the only one who listened it and Azurill was right
+in front of you, so you probably were daydreaming. Of course, you're
+prolly sleepy since Loudred woke you up so damn early right?
+
+When Azurill leaves, follow him and you'll see the Marill Team talking with
+a Drowzee that looks pretty cool and nice. Marill Team will explain you
+that they've lost an important item for them and Drowzee's going to help
+them find it. Cool!
+
+But when they are going to the montains to look for the item, Drowzee
+bumped with you and you had another vision...
+
+
+Drowzee: "Talking won't help you... you're going to get hurt now!"
+                              Azurill: "H... help!!"
+
+You tell your partner what you saw, but he convinces you that you
+probably were daydreaming again, since that Drowzee looked like a
+really kewl pokemon.
+
+What now? Oh yea... Bidoof... Zomg poor bidoof! He's still waiting! xD
+Hurry! To the Outlaw Board!!
+
+When you get to the Outlaw Board, Bidoof will ask you what kind of
+Outlaw you want. Your partner, showing how brave he is, asks for
+one that is not too scary...
+
+When Bidoof is about to choose one... the Outlaw Board flips, that
+means it's updating, so you'll have to wait a little bit. He'll explain that
+updating the board is Dugtrio's job and even though is not noticed,
+it's really important. When the update is over, your partner starts
+shivering out of nowhere... You know why? Do you? No Idea? Could it
+be? YES!! Drowzee! Outlaw!! Meanie!! Without thinking, you guys will
+run to save Azurill. When you're heading to the mountains, you'll meet
+with Marill., which is afraid because he got lost while they were exploring
+the mountains. He started calling Drowzee's and Azurill's names, but he
+got no reply. He'll show you where was the last time he saw them, so,
+are you ready? I hope you are 'casue it is rescue time!!!
+
+
+7.4.2 BOSS BATTLE: DROWZEE
+
+
+---------------------MT. BRISTLE------------------------
+                         
+Floors: 
+
+7 Floors
+                         
+----------------------------------------------------------------
+
+Pokemons: 
+
+Lileep
+Anorith
+Shellos
+Chingling
+
+----------------------------------------------------------------
+
+Notes:
+
+*Be level 7/8 when you go in
+*Be careful with quick attack
+*I was level 9 and my partner got pwned,
+ so check your partner too!
+*Foes HP: No more than 45
+
+-----------------------------------------------------------------
+
+BOSS BATTLE:
+
+Drowzee
+
+HP: No more than 100
+
+Strategy:
+
+If you have any seed that inflicts paralysis or
+make the foe sleep, USE IT! It would be really
+helpful! When he's asleep, use ONLY attacks
+that inflict damage. Make sure your partner
+too. If you follow this strategy, Drowzee'll
+be gone before you can say Carlos Knox!
+
+----------------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 8/9
+Dinasty = 8/9
+
+Level (OUT):
+
+Timatria = 10
+Dinasty = 10
+
+--------------------MT. BRISTLE-------------------------
+
+
+Drowzee will be very shocked when he see you guys, but your partner
+will start shivering so he realized he's afraid. He has no idea you guys
+kick his ass! He has no idea you guys are reading MY walkthrough! Ha!
+Pwned! 
+
+When Drowzee's pwned, you'll talk to Azurill to make sure he is fine. He is.
+When you're returning home, you'll meet Magnezone Team (Magnezone + 
+2 Magnemite). Magnezone is like the sheriff of that zone and the
+magnemites are holding Drowzee so he won't escape. They'll be very
+thankful and they'll say that the money will be sent to your Guild. Sniff,
+Bye Bye Money! When the Magnezone Team is gone, Marill Team will
+say thanks and give a big bug *Sniff Sniff* Love happy endings!
+
+
+         "Exploration Team Federation has sent a message...
+ Timatria's Team was awarded with an enlarged Treasure Bag!"
+
+
+You'll appear in the guild (How?) and Chatot will inform you guys that
+he received the money, 3000 Coins, but WT's part is 2700...
+
+So... 3000-27000= 300... Yay?
+
+But... how come you were able to predict what was going to happen?
+Are you an Alakazam? Weird...
+
+It's dark outside and you wanna sleep, but your talkative partner will
+start talking about the storm. Then he will ask you if you remember
+something before you were a Pokemon, but you don't. He thinks there's
+some kind of relation between your dream and you (Duh)
+
+Then he'll start talking about Time Gears. These are hidden in forests,
+underground caverns and even Volcanoes! They have an important
+function, which is protect time and keep time flowing properly in it's
+region. If one of this is taken away, time would probably stop running
+in that zone.
+
+You'll see a new image, a Pokemon, you know which one is it?
+Yup, Grovile (I don't know if it's always Grovile) and looks like he is
+going to steal a Time Gear! Was he able to steal it? We don't know...
+
+::Save Point::
+
+Wake Up, Routine, Hooray! Chatot will assign you a job. Go
+downstairs and check the Job/Outlaw Bulletin. Choose any job, I'm
+pretty sure the ones I get are not the same ones you get, but still,
+I'll post the ones I did and if I had any difficulties.
+
+*Reccomendation: Stay with Level C missions atm*
+
+*When I post 3 Missions, that means that in no more than 3 days
+you'll be able to go on with the storyline."
+
+Outlaw Hunt 1:
+
+Client: Magnezone
+Objective: Arrest Spinarak
+Spinarak's HP: Less than 150
+Dungeon: Drenched Bluff 
+Floor: 6
+Reward: 200 Coins
+Explorer Points: 20
+
+
+Outlaw Hunt 2:
+
+Client: Chingling
+Objective: Pwn Shellder
+Shellder's HP: Less than 160
+Dungeon: Drenched Bluff
+Floor: 4
+Reward: 200 Coins + Red Gummi
+Explorer Points: 20
+
+
+Outlaw Hunt 3:
+
+Client: Magnezone
+Objective: Pwn Shellos
+Shellos' HP: Less than 155
+Dungeon: Drenched Bluff
+Floor: 5
+Reward: 200 Coins + Gold Gummi
+Explorer Points: 20
+
+
+
+      =======================
+7.5  CHAPTER 4: GATEKEEPERS
+      =======================
+
+
+After sleeping and doing the rutine, Loudred will call you two guys, then
+Digglet ask you guys if you can do his Sentry Duty because he gotta help
+Dugtrio in his updating job. You obviously accept. The game is fairly easy,
+you get to see the footprint of a Pokemon in the upper screen of your DS.
+In the other screen you'll have 4 options and you gotta decide from which
+Pokemon those footprints belong. Consider it a Mini-Game 'cause if you
+don't do it ok, it's not important during the storyline. Still, try to do it ok
+because you can get nice items if you have more than 5k of score.
+
+More Info: Page 33 of your Instruction Booklet
+
+Sentry Duty #1.... Score: 4570
+
+Reward: 100 Coins and 1 Protein
+
+After one tough day of Sentry Duty, you'll go to eat and then sleep.
+
+... Loudred
+
+::Save Point::
+
+After doing the "Hooray!", Chatot will ask you to do look for a Job in
+the Outlaw Board or Recovery/Escort Board.
+
+
+Outlaw Hunt 4:
+
+Client: Lileep
+Objective: Pwn Geodude (Tough One)
+Geodude's HP: Less than 200
+Dungeon: Drenched Bluff
+Floor: 3
+Reward: 200 Coins + Reviver Seed
+Explorer Points: 20
+
+
+Outlaw Hunt 5:
+
+Client: Geodude
+Objective: Pwn Kabuto
+Kabuto's HP: Less than 195
+Dungeon: Drenched Bluff
+Floor: 5
+Reward: 200 Coins + Sky Gummi
+Explorer Points: 20
+
+
+By this time, you obviously have Bronze Rank already. What's good with this?
+You can now have up to 96 items in you Storage. Yay.
+
+      ===========================================
+7.6  CHAPTER 5: THE FIRST OFFICIAL EXPLORATION
+      ===========================================
+
+After you get up, Chatot will make an announcement for all the guild. He'll say
+that in a place named Treeshroud Forest, a Time Gear has been stolen. Chatot
+says that Magnezone has started the investigations because if one was stolen,
+than means many Time Gears can be stolen. Everyone seems worried about it.
+When all of them go to work, Chatot will assign you two guys your first official
+exploration. Apparently there's a waterfall nearby and he wants you to explore
+it. Yay! No time to lose! Well, we can make an exception for Chimecho. He'll
+call you when you go downstairs. He'll explain you that he has started an
+assembly, which means you can now recruit other Pokemon! So, your
+Exploration Team will be bigger and bigger! How does this works? When you
+defeat Pokemons, some of them will respect you and, therefore, will want to
+join your Exploration Team. You can either accept them or refuse to their
+request. He'll explain you the basics, even though I already did.
+
+Also, if you go to Treasure Town, you'll see that Marowak's Dojo is now open!
+Let's go take a look! Awww, Marowak has no clients at all... But YAY! Since
+you guys were his first clients, he will let you guys get in for free. Marowak
+will explain you that when you enter to his Practice Dungeons, you'll lose all
+the items that were in your inventory, so you should probably store them
+before you train. Coins are safe tho.
+
+Anyway... Let's head to Waterfall! Prepare your inventory. When you go there
+you'll see a big waterfall in front of you. It's soo strong you can't even stand
+close to it. Your partner tells you to try it but the waterfall is a strong one
+so you get pushed by it. After that, you have a vision. According to your 
+vision, if you jump towards the waterfall, you can trespass it and get
+to a hidden cave. Your partner trusts you, and there you go! Zomg!!!
+It was true! You get to a totally new Dungeon! Welcome to Waterfall Cave!
+
+
+------------------WATERFALL CAVE---------------------
+                         
+Floors: 
+
+8 Floors + Gem Zone
+                         
+-------------------------------------------------------
+
+Pokemons: 
+
+Tangela
+Whooper
+Lotad
+Grimer
+Barboach
+Psyduck
+Surskit
+Poliwag
+Whiscash
+
+-------------------------------------------------------
+
+Notes:
+
+*I recruited a Lvl 10 Tangela when I was there
+*Try not to use Fire-Attacks 'cause they are
+ not effective at all (Except Tangela).
+
+-------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 13
+Dinasty = 13
+
+Level (OUT):
+
+Timatria = 13
+Dinasty = 13
+Tangela = 11
+
+-----------------WATERFALL CAVE----------------------
+
+
+When you get to the Gem Zone (Name invented by me!), you'll see a giant
+gem stucked in the wall. Your partner thinks that if you guys take it, it would
+be awesome. He tries to get it but he can't because it's REALLY stucked.
+Your partner says you should give it a shot. You'll try to, but you have no
+success. After trying, you have ANOTHER vision. A Pokemon trying to get
+the gem but when the gem started moving, a giant wave came. As soon as
+you finish having your vision you'll see your partner saying "Hey! It's moving"
+... Damn it. A Huge wave is coming! You try to escape, but your legs are
+way too short, so the wave got you guys, but hey... at least now you
+know how it feels to fly. You'll land in a place called Hot Springs. These hot
+waters are good for you to recover yout tired muscles and creaky joins.
+Torkoal will show you were is Hot Springs located in the Wonder Map.
+You guys decide to stay there so you can recover.
+
+::Save Point::
+
+Back in the guild, you will explain what happened in the Waterfalls. Chatot
+considers it a MAJOR, HUGE discovery! You should be happy, but you're
+not, because you're still thinking in the vision you had. The shape of that
+Pokemon looked familiar... Yes... No doubt about it.. WIGGLYTUFF!
+You tell your partner that you had a vision where WT intended to take
+the gem. Your partner tells the same to Chatot and he thinks that has no
+sense at all Still, he decided to ask WT about it, even though he has no
+idea why would some rookies accept they were not the ones who
+discovered the dungeon. Oh well, immediately Chatot will say that,
+indeed, WT had already been there. Actually, WT said something like:
+"Yes, I think so... YOOOMTAH!!!!". We guess he tried to say yes.
+
+Time to sleep... or not? You're trying to sleep but your comprehensive
+partner will start talking. He says that his dream is to solve the mistery
+of his Relic Fragment. He also realizes that every time you had a vision,
+is because you touched it. But hey, it's true! Drowzee, the Waterfall, the
+Gem. Here's something tricky. You saw the future in Drowzee's case, but
+you saw the past in the Waterfall/Gem one. Weird huh? When you finally
+are about to sleep, Chatot will show up saying Wigglytuff wants to talk
+with you and your partner. Wigglytuff will tell you and your partner that he
+plans to make an expedition soon. Usually, rookies are not even
+considered in this expeditions, but you guys have done an awesome job,
+so they decide to take you guys in consideration. But, beware! You're
+still not in the expedition. You guys are candidates... so work your asses
+off the next few weeks.
+
+
+      =======================
+7.7  CHAPTER 6: TEAM SKULL
+      =======================
+
+Next Morning. Loudred.
+
+::Save Point::
+
+Chatot will inform all the guild that there's going to be the Lake Expedition.
+Everyone seems happy. Haha! Suckers! You guys already know :)
+Well, it's work time. So, let's check the Bulletin Board.
+
+Whn you go to the Job Board area, you'll see Koffing and Zubat. They are
+an exploration team... Team Skull! They wonder what the hell are you guys
+doing there, so you tell him you are a Exploration Team too. They want to
+talk alone with your partner. They keep telling your partner that he's a
+coward, but he tells them that they are here to train. Koffing and Zubat call
+their chief, Skuntank. That's right! Zubat + Koffing + Skuntank = Skull Team.
+Skuntank uses a weird attack (Let's call it the Stunky Attack), after making
+all the place suck, they leave. W/e they suck! Haha! Got it? They used an
+attack that sucked, so they suck! Haha! I'm funny?
+
+Anyway, let's continue. Job Time.
+
+Outlaw Hunt 6:
+
+Client: Magnezone
+Objective: Arrest Kabuto
+Spinarak's HP: Less than 225
+Dungeon: Mt. Bristle
+Floor: ?
+Reward: 200 Coins
+Explorer Points: 20-30
+
+
+Next Morning, Loudred.
+
+::Save Point::
+
+Hooray! Ok, are we done? Yay! Guess What? SENTRY DUTY! YAY!
+
+Sentry Duty #2: 3600 Points (I let my Little Cousin do it)
+So no reward... Boo
+
+Again, you'll go sleep. Next morning Loudred will wake you up.
+
+::Save Point::
+
+Chatot will announce that there are new allies in the guild. Guess who are
+they? Yesh... Team Skull. Theyll live with you guys for a few days until
+the expedition. After introducing theirselves, they will leave, but all the
+room starts smelling bad. It's a new day of work! But you guys give a
+lame hooray. Wigglytuff seems sad... oh no... COVER YOUR EARS!!!
+C'mon guys! Make a good Hooray!!
+
+
+Outlaw Hunt 7:
+
+Client: Geodude
+Objective: Pwn Lileep
+Lileep's HP: Less than 160
+Dungeon: Drenched Bluff
+Floor: 6
+Reward: Special Band
+Explorer Points: 20
+
+
+After doing a mission, you'll see a little conversation. It's Team Skull,
+they are trying to eat ALL the food! Noes!
+
+Next Morning... Loudred...
+
+::Save Point::
+
+Hooray! Ok guys, your mission today is: Gather some Perfect Apples.
+Why is that? Because for a "Weird" reason, all the Perfect Apples that
+were in the Kitchen dissapeared. So you guys must go to Apple Woods.
+
+
+------------------APPLE WOODS---------------------
+                         
+Floors: 
+
+12 + Deep Apple Woods
+                         
+----------------------------------------------------
+
+Pokemons: 
+
+Caterpie
+Burmy
+Budew
+Hoppip
+Oddish
+Weedle
+Paras
+Exeggutor
+Gloom
+Kakuna
+Beedril
+
+----------------------------------------------------
+
+Notes:
+
+*I recruited a Weedle and a Hoppip
+
+*Use fire attacks. They pwn anything in this dungeon.
+
+*Flying Attacks (Peck, Wing Attack) are also cool.
+
+*Team Skull followed you.
+
+*You can find Perfect Apples in Deep Apple Woods
+
+----------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 13
+Dinasty = 13
+Starly = 9
+
+Level (OUT):
+
+Timatria = 14
+Dinasty = 14
+Starly = 11
+Leafterz = 12
+-----------------APPLE WOODS----------------------
+
+
+When you get to Deep Apple Woods, you'll see a big tree with apples.
+You can't get them. Team Skull will arrive, don't worry, there won't be
+a Boss Battle. Skuntank will use a tackle against the tree so the Perfect
+Apples will drop. They will get them. Koffing and Skuntank will use a
+Double Skunty Attack. Gosh! You kinda faint. When you get up, Team
+Skull will be gone and so will the Perfect Apples. You have nothing else
+to do there. Just return home.
+
+When you inform Chatot that you couldn't get the Perfect Apples, he
+will get crazy and won't listen to your partner's explications. You 2
+guys are going bed without dinner! But that's not all, you'll go with Chatot
+to inform Wigglytuff that there are no more Perfect Apples for him. Gulp.
+
+Some seconds later, you'll be in Wigglytuff's office, of course, he's
+smiling!
+
+CarlosPit Note: I gotta admit, I didn't like Wigglytuff when I started the
+game, but he's probably my favorite character now! He's kewl!
+
+
+Ok... back to your Epic Story, Chatot will inform Wigglytuff that you guys
+didn't get any Perfect Apples. Wigglytuff won't be mad at all, since he
+thinks there are some more Perfect Apples in the kitchen...
+Uhh, when Chatot tells him that, as a matter of fact, there are no more
+Perfect Apples at all... Oh no... Oh no... COVER YOUR EARS!!!
+Fast!! Zomg... Guess who's comming to the rescue? That's right.
+Team Skull! Ugh... They will give a Perfect Apple to Wigglytuff,
+and you can't imagine how happy he looks. He's soo happy, but you
+guys are mad! Wigglytuff now consider Team Skull as childhood friends.
+You guys are sent to your room. You wonder why did Team Skull
+help you by giving Wigglytuff a Perfect Apple? Well, they don't care
+a tiny rat's ass about you... they want to earn Wigglytuff's trust so they
+can go to the expedition and then kick your ass.
+
+Next Morning... Loudred again.
+
+::Save Point::
+
+Chatot will announce that the expedition members will soon be known.
+So everyone will work a lot. It's working time! When everyone leaves,
+Chatot will want to talk with you and your partner. He explains you two
+that's going to be nearly impossible for you guys to be in the expedition.
+The reason? You failed a very important mission yesterday, so just don't
+get your hopes up.
+
+When Chatot tells you to go to work, you'll hear Bidoof calling you. he'll
+tell you to go to you "room". When you are there, you'll see Bidoof,
+Sunflora and Chimecho. What's going on? They have 2 apples for you!
+Yay!! Finally some food, you guys were starving!
+
+After eating those delicious apples, go outside and Croagunk will call
+you saying that his shop is now open. For more Info check your
+Instruction booklet.
+
+So... it's working time!
+
+
+Outlaw Hunt 8:
+
+Client: Magnezone
+Objective: Arrest Gloom
+Spinarak's HP: Less than 175
+Dungeon: Waterfall Cave
+Floor: 5
+Reward: Overheat
+Explorer Points: 30
+
+
+Dinner Time! 
+
+Next Morning, Loudrer as usual...
+
+::Save Point::
+
+Hooray! Job Time? Noes!! It's Sentry Duty time :D!
+
+
+Sentry Duty #3.... Score: 7745
+
+Reward: 400 Coins + Pecha Scarf + Reviver Seed + Max Elixir
+
+
+Munch Crunch Munch Crunch Munch Crunch Munch Crunch
+
+After a good dinner, a good nap. Next Morning...
+
+UP AT EM! IT'S MORNING!!
+
+::Save Point::
+
+Ugh, Bulletin Time
+
+
+Outlaw Hunt 9:
+
+Client: Surskit
+Objective: Arrest Nidorino
+Nidorino's HP: Less than 220
+Dungeon: Drenched Bluff
+Floor: 3
+Reward: 200 Coins + Gravelerock
+Explorer Points: 20
+
+
+Outlaw Hunt 10:
+
+Client: Magnezone
+Objective: Pwn Shellder
+Nidorino's HP: Less than 170
+Dungeon: Drenched Bluff
+Floor: 4
+Reward: 200 Coins + Gravelerock
+Explorer Points: 20
+
+
+Outlaw Hunt 11:
+
+Client: Tangela
+Objective: Pwn Anorith
+Nidorino's HP: Less than 150
+Dungeon: Drenched Bluff
+Floor: 5
+Reward: 200 Coins + Max Elixir
+Explorer Points: 20
+
+
+After a lot of work, it's finally Dinner Time! Before you start eating, Chatot
+has an announcement... The expedition members will be announced tomorrow.
+The moment has finally come, how do they expect you guys to sleep with all
+the anxiety? 
+
+You're such a good pal that you'd rather your partner to be chosen instead of
+ you, since you know he has given his 110%. You'll see another image,
+Grovyle stealing another Time Gear.
+
+Next Morning, Loudred...
+
+::Save Point::
+
+The moment of truth... So... the chosen ones are:
+
+-Team Skull
+-Loudred
+-Corpish
+-Bidoof
+-Sunflora
+-Chimecho
+-Croagunk
+-Digglet
+-Dugtrio
+-Your Partner
+-You
+
+
+That's right... ALL the guild is going. Isn't that great? Oh well, Wigglytuff
+seems to love it. It's time to get ready! Buy Reviver Seeds, Max Elixirs,
+Sleep Seeds, Big Apples, etc. You can't bring recruited members, so don't
+waste your time trying to bring someone. Store your coins with Duskull so
+you don't lose them.
+
+
+   "The Exploration Team Federation has sent a Message
+
+ Timatria's team was rewarded with a bigger treasure bag"
+
+
+Once you're all set, talk to Chatot.
+
+Objective: Exploration of Fogbound Lake
+
+Since you're such a big group, Chatot decides to separate you guys by groups.
+
+Group 1: Wigglytuff and Chatot
+Group 2: Sunflora, Digglet, Loudred and Croagunk
+Group 3: Dugtrio, Chimecho and Corpish
+Group 4: Team Skull
+Group 5: Your Partner, Bidoof and You.
+
+Anyone unhappy with the groups? Yesh, Wigglytuff! LOL! He says it's kinda
+boring being with Chatot.
+
+CarlosPit note: Wouldn't it be awesome having WT in your group? I'd love
+to know in which level WT is.
+
+Hooray!
+
+::Save Point::
+
+You'll be in the beggining of a cave. You'll see a Kanghaskan Statue, if you
+want to, you can use it to Save your Game or you can use it as storage.
+
+When you enter to the cave, your partner will say that you have two choices.
+
+Option 1: Craggy Coast
+Option 2: Missing Data (Didn't take note)
+
+Thing is like this, each time you have to choose between 2 options, you can
+either train or keep going with the storyline. The first one is used to continue
+with the storyline and the second one is the one used to train and gather
+some items you missed. 
+
+
+
+------------------CRAGGY COAST---------------------
+                         
+Floors: 
+
+10 Floors
+
+-------------------------------------------------------
+
+Pokemons:
+ 
+Gastrodon
+Spheal
+Dratini
+Krabby
+Wingull
+
+-------------------------------------------------------
+
+Notes:
+
+*Bidoof won't earn Exp. Points.
+
+-------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 14
+Dinasty = 14
+Bidoof = 14
+
+Level (OUT):
+
+Timatria = 14
+Dinasty = 15
+Bidoof = 14
+
+-----------------CRAGGY COAST----------------------
+
+
+
+Since your plan is not to go directly to the cave, but to meet in the base
+camp, your partner will decide to rest there.
+
+Next Morning
+
+Kanghaskan Statue, Save Point.
+
+
+Again you'll have 2 options...
+
+Option 1: Mt. Horn
+Option 2: Rock Path
+
+Just like I said before, go to Rock Path if you feel like training and go to
+Mt. Horn if you want to continue with the storyline.
+
+
+------------------MT. HORN---------------------
+                         
+Floors: 
+
+14/15 Floors
+
+------------------------------------------------
+
+Pokemons:
+ 
+Shroomish
+Ariados
+Natu
+Beautifly
+Aerodactyl
+Venomoth
+Pineco
+
+-------------------------------------------------
+
+Notes:
+
+*Aerodactyl will be a pain in the ass. He's tough.
+
+*If you have a Fire Pkmn, you'll pwn.
+
+
+-------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 14
+Dinasty = 15
+Bidoof = 16
+
+Level (OUT):
+
+Timatria = 15
+Dinasty = 15
+Bidoof = 16
+
+-----------------MT. HORN----------------------
+
+
+
+     ==============================
+7.8  CHAPTER 8: GROUDON'S HEART
+     ==============================
+
+You'll reach to the Base Camp. You think you were fast? No! You guys are
+the last ones! Boo! You find that place extremely familiar, but there's no
+time to lose... You must continue with the expedition. When everyone gathers,
+Chimecho will tell a legend he heard about Fogbound Lake. It is said that
+Fogbound Lake is the home of Uxie, one member of the Legendary Trio. Chimecho
+explained that Uxie tries to keep this place as a secret by cleaning their
+visitors memories. Uhh... wait a second...
+
+You? Familiar with the place? Erase Memories? Maybe... who knows...
+
+
+Fogbound Lake Missions:
+
+* Find a way to elminate the fog that is everywhere.
+* Find Fogbound Lake
+
+When everyone leaves, you have two options.
+
+- Foggy Forest (Continue with the storyline)
+- Forest Path (Level and gather some items)
+
+Whatever you choose, your find is going to find a weird shiny orb. It's red.
+What is it? Hmmm, who cares, maybe it's good money!
+
+
+CarlosPit Note: Forest Path has 6 Floors, where you can find; Linoone,
+Houndour, Dunsparce, etc.
+
+
+
+------------------FOGGY FOREST---------------------
+                         
+Floors: 
+
+11 Floors + Pond
+
+------------------------------------------------
+
+Pokemons:
+ 
+Shroomish
+Cherubi
+Zigzagoon
+Skiploom
+HootHoot
+Standler
+Buneary
+Noctowl
+Pinsir
+Smeargle
+
+-------------------------------------------------
+
+Notes:
+
+*The dungeon will have a Foggy Weather, which
+ means your hit % will decrease, so don't get
+ frustrated if you miss several hits.
+
+*You can't recruit in this dungeon if it's
+ your first time.
+
+*Bidoof will be gone
+
+
+-------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 15
+Dinasty = 15
+
+Level (OUT):
+
+Timatria = 15
+Dinasty = 15
+
+-----------------FOGGY FOREST----------------------
+
+
+When you reach the pond, you'll meet Corpish. Even though none of you have
+found a way to eliminate the fog, Corpish has found a statue of Groudon,
+the Continent Pokemon. It has an scription. It says that igning life to the
+statue will show the path to the treasure. Since you guys have no clue what
+does that means, your partner will ask you to touch the statue, for you to
+have a vision. It's worth a shot, isn't it?
+
+"It's here! It's here!"
+
+"Place the Drought Stone in groudon's heart"
+
+"That lifts the fog"
+
+"Very well done! Good Job Partner!"
+
+This time you didn't see anything, you only heard voices. But, Drought Stone?
+Could it be possible? Maybe... the red stone your partner found earlier?
+When your partner inserts the Red Stone in the little hole the Groudon Statue
+had in his heart, the fog will dissapear and you're now able to see clearly.
+Corpish is planning to tell everyone you guys solved the puzzle, so he leaves.
+Suddenly, the bad guys of the movie will show up. Yep, Team Skull. They are
+planning to pwn you guys but suddenly my favorite character arrives! That's
+right! Wigglytuff chasing his perfect apple! Obviously, Team Skull won't
+attack you guys. Wigglytuff will tell you two to go find out more about
+Fogbound lake. You'll leave and you'll see Team Skull preparing an attack
+to hurt Wiglytuff! Noess!
+
+
+
+     ============================================
+7.9  CHAPTER 9: THE MISTERY OF FOGBOUND LAKE
+     ============================================
+
+Save the Game. After entering to the cave, you'll see a little movie where
+you see Wigglytuff receiving Skuntank and Koffing's "Stunky Attack" Sniff,
+poor Wigglytuff...
+
+
+------------------STEAM CAVE------------------
+                         
+Floors: 
+
+8 Floors
+
+------------------------------------------------
+
+Pokemons:
+
+Slugma
+Snubull
+Kricketune
+Yanma
+Numel
+Magby
+Farfetch'd
+
+------------------------------------------------
+
+Notes:
+
+*I think it had foggy weather.
+
+*As you may've seen, most of the Pkmns here are
+ fire type, so a water type is perfect for this occasion.
+
+------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 15
+Dinasty = 15
+
+Level (OUT):
+
+Timatria = 16
+Dinasty = 16
+
+-----------------STEAM CAVE-------------------
+
+
+You'll then face a Kanghaskan Statue, so save your game in case you
+get pwned. 
+
+Keep on going, you're close.
+
+
+
+------------------UPPER STEAM CAVE---------------------
+                         
+Floors: 
+
+7 + Steam Cave Peak
+
+---------------------------------------------------------
+
+Pokemons:
+
+Volbeat
+Kricketune
+Magmar
+Grunbull
+Shuckle
+
+----------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 16
+Dinasty = 16
+
+Level (OUT):
+
+Timatria = 16
+Dinasty = 16
+
+-----------------UPPER STEAM CAVE----------------------
+
+
+Once you get to the peak, you'll listen to a mighty roar.
+
+CarlosPit note: GROOOOOOOOOOOOOOOOH!!!
+
+Then you'll see a little movie of your guild and Wigglytuff looking the
+Groudon Statue. Uh wait, Wigglytuff? Yay! He's fine! You'll also see
+Team Skull, they got pwned by Wigglytuff.
+
+Once the movie is over, you'll see yourself again. Oh yea, you'll also
+see Groudon, the Continent Pokemon. Guess what? He will challenge
+you to a battle! Yay! Boss Battle!!
+
+
+7.9.2 Boss Battle: Groudon?
+
+
+
+--------------------GROUDON------------------------
+
+HP: Missing Data
+
+
+CarlosPit Note: The (?) after groudon is not a typo.
+
+Strategy:
+
+I noticed something weird about this Groudon. He didn't use
+a single fire attack during my battle. I also noticed something
+weird about the turns.
+
+Instead of: YOU-PARTNER-GROUDON
+
+it's more like...
+
+YOU-PARTNER-YOU-PARTNER-GROUDON
+
+You'll receive some dmg after you attack Groudon. As I already
+said, you and your partner will be able to attack twice before he
+makes a move, so that's one BIG Adventage.
+
+-------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 8/9
+Dinasty = 8/9
+
+---------------------GROUDON-------------------------
+
+
+Once you're done with Groudon, you'll probably be thinking
+"Zomg I effin pwn, no one can beat me!! bring mewtwo!" ...
+Well, let's see if you knew what I'm about to say...
+
+GROUDON = ILLUSION
+
+That's right! You defeated nothing but a Groudon Illusion!
+
+Your partner will hear a voice, accusing you guys to go
+Fogbound Lake just for messing the place. Your partner will
+swear saying you guys are not intruders, you just want to know
+some answers. He realizes you're being honest so he shows up.
+
+It's Uxie, one member of the Legendary Trio. He will show you
+guys the Fogbound Lake, it's really beautiful. In the middle of it,
+you can see a Time Gear. You'll feel a weird sensation... Uxie is
+the guardian of the lake. A few seconds later, Wigglytuff will 
+arrive introducinghimself to Uxie. He seems pretty excited. Then,
+the whole guild will arrive. Wigglytuff asks Uxie to protect the Time
+Gear. Wigglytuff will also promise not to tell anyone about the lake.
+Guild Members? Time to get back to the guild...
+
+
+
+"And so... the guild's long and challenging expedition finally came
+ to an end. Wigglytuff and the members safely returned to the guild.
+ For Timatria and the Apprentices, going to the guild meant taking
+ up the standard training schedule. It was life as usual back to the
+ guild!"
+
+
+
+       ======================
+7.10  CHAPTER 10: DUSKNOIR
+       ======================
+Next Morning.... DAMN IT! Loudred is back! Yawn... Routine... Hooray!
+CHatot will be very happy 'cause everyone has a lot of energy. Suddenly,
+you'll hear Loudred screaming (Weird huh?). He's complaining 'cause Digglet
+can't identify a Pokemon's footprints. The Pokemon says he wants to talk with
+Wigglytuff and his name is... Dusknoir. You may wonder "Who the hell is
+Dusknoir?" Well, he's one of the best Explorers. He's so good he doesn't even
+needs a Exploration Team, he's solo. He's very wise. He has a lot of Pokemon
+Knowledge. Wigglytuff seems really friendly, but hey... he's always like
+that. WT introduces Dusknoir to all the guild. Dusknoir asks about the last
+expedition you guys had, but Wigglytuff says it was pretty useless because
+you found nothing. Yeah, he's keeping the promise.
+Dusknoir seems like a pretty kewl guy. Very humble. He's heading to Treasure
+Town...
+
+
+Ok, back to work. Your mission? Job/Outlaw Bulletin :)
+
+
+CarlosPit Note: If you talk to Drapion by the Job Bulletin he'll explain
+                you something about Zero Island.
+
+Job 1:
+Client: Granbull
+Objective: Deliver Totter Orb
+Dungeon: Foggy Forest 
+Floor: 7
+Reward: ? (Egg)
+Explorer Points: 50
+
+
+Job 2:
+Client: Yanma
+Objective: Rescue Yanma
+Dungeon: Foggy Forest 
+Floor: 11
+Reward: 300 Coins+ Sky Gummi
+Explorer Points: 50
+ 
+
+Once you complete 1 or 2 missions, after you go to sleep, you'll see a
+movie where Team Skull is outside WT's guild and they want revenge...
+you know, 'cause WT pwned them. They know they can't defeat Wigglytuff,
+so they're planning to hunt your asses down.
+
+Next Morning... Loudrd... Routine...Hooray...
+Chatot will ask you guys to go check if Kecleon is planning to sell
+Perfect Apples. When you reach Kecleon's Market, you'll see Dusknoir
+chatting with the Kecelon's brothers. Kecleon will ask your partner what
+does he wants, he'll reply that they are not planning to put Perfect Apples
+in stock. Awwts. Marril Brothers will appear, guess what? They're still
+looking for their Water Float. Team Skull was listening to everything and
+they say something about informing Skuntank. They'll leave and you have to
+return to the guild too! When you inform Chatot about the Perfect Apples,
+he'll be dissapointed. Oh well, bulletin time.
+
+
+
+Job 3:
+Client: Buneary
+Objective: Reach 10th floor
+Dungeon: Apple Woods
+Floor: 10
+Reward: Insomniscope
+Explorer Points: 50
+
+
+Job 4:
+Client: Shuckle
+Objective: Find Carnivine
+Dungeon: Apple Woods
+Floor: 12
+Reward: Embargo
+Explorer Points: 130
+
+
+
+By this time, you obviously have Silver Rank already. What's good with this?
+You can now have up to 200 items in you Storage. Plus, you'll get a weird
+item like Zinc or Iron, yay!
+
+
+
+During Dinner Time, Chatot will inform that ANOTHER TIME GEAR HAS BEEN STOLEN!
+It's the second Time Gear that has been stolen, so you guys better not tell
+anyone about the Time Gear Uxie is protecting.
+During the night your partner will start wondering why would someone want to
+steal them. He also wonders how's Uxie doing. Immediately after that, you'll
+see a movie. Groudon being defeated and Uxie saying he shouldn't have trusted
+us. Then you'll hear Grovyle saying no one told him about this Time Gear.
+He will take it.
+
+
+::Save Point::
+
+
+Morning! It's Working Time. When you guys are about to go work, Loudred will
+inform you that you have visitors. It's the Marill Bros. They found a scrap of
+paper at the beach.
+
+"The water float is now under our posession. Just try to take it from us! We'll
+ wait in the deepest part of Amp Plains."
+
+Amp Plains is a place where you can find lots of Electric Pokemons.So bring
+Reviver Seeds if needed. Of course you will go! C'mon! You're the hero of this
+story!
+
+
+------------------AMP PLAINS------------------
+                         
+Floors: 
+
+10 Floors
+
+------------------------------------------------
+
+Pokemons:
+
+Elekid
+Phanpy
+Mareep
+Plusle
+Shinx
+Girafarig
+Flaffy
+Yanmega
+
+------------------------------------------------
+
+Notes:
+
+*I recruited a Plusle, which has Helping Hand.
+ Goodie!
+
+*If you have the chance to recruit a Shinx, do it!
+
+------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 19
+Dinasty = 19
+
+Level (OUT):
+
+Timatria = 20
+Dinasty = 20
+Reddie = 21
+
+-----------------AMP PLAINS-------------------
+
+
+After reaching the 10th floor, you'll see a Movie. In it, Marill Team will be
+talking with Kecleon. Marill Team will be telling him how cool you guys are.
+Dusknoir will appear. When he is told that we are in Amp Plains he freaks out.
+Being in Amp Plains right now is dangerous! So he's going to save you!
+
+
+----------------FAR AMP PLAINS----------------
+                         
+Floors: 
+
+7 Floors + Amp Clearing
+
+------------------------------------------------
+
+Pokemons:
+
+Electrike
+Ampharos
+Flaffy
+Dodrio
+Tauros
+Electabuzz
+
+------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 20
+Dinasty = 20
+Reddie = 21
+
+Level (OUT):
+
+Timatria = 21
+Dinasty = 21
+Reddie = 22
+
+---------------FAR AMP PLAINS-----------------
+
+
+Your partner will start chickening out., but when he sees the water float he'll
+be relieved. But... you thought it was going to be that easy? Nooo!!
+
+Luxray and Luxios x7 !!!
+
+CarlosPit Note: Awwts! My favorite Pkmn! Oh well...
+
+
+7.10.2 Boss Battle: Luxray
+
+
+--------------------LUXRAY------------------------
+
+HP: 210
+
+Strategy:
+
+Sleep Luxray by either using a Sleep Seed or Sing. After
+that, get rid of the Luxios. They have less than 80 HP.
+After pwning the Luxios, Kill Luxray.
+
+---------------------------------------------------
+
+HostleX team:
+
+Level :
+
+Timatria = 21
+Dinasty = 21
+Reddie = 22
+
+---------------------LUXRAY-----------------------
+
+
+When you defeat them, Luxray will start charging a Super Attack, but when he's
+about to attack, Durknoir appears. He apologizes for your actions and explain
+that your intention wasn't to control their territory. Apparently, Luxray likes
+that place 'cause by that time of the year, there are Thunderstorms.
+
+You found the Water Float! But, who hid the Water Float there? Skull Team...
+They'll run because we have Dusknoir and he would pwn.
+
+Oh well, it's time to deliver that item.
+
+::Save Point::
+
+After giving the item, Marill Team will be very thankful. You'll start talking
+of one of your visions. You'll explain it to Dusknoir, in case he knows
+something about it. Dusknoir will explain you that the ability you have is
+called Dimensional Scream. You ask Dusknoir if he knows something else.
+
+Somehow, you will appear in the beach. You will tell Dusknoir your story. You
+know, Beach, Human, Pokemon, Sk... wait, Human? Dusknoir seems pretty
+shocked after hearing that. Dusknoir will ask you for your name, and when you
+say it, he'll have a weird expression in his face, but he denies knowing
+something about you. Dusknoir will explain you what does Dimensional Scream
+is. After it, you'll see lots of Pelipper flying and Bidoof will appear.
+Apparently there's an important announcement... so you guys better go.
+
+
+
+        ================================
+7.11  CHAPTER 11: GROVYLE THE THIEF
+        ================================
+
+
+Woah! Another Time Gear has been stolen! And guess which one... the one
+Uxie was protecting!! Noeess!! Dusknoir seems impressed 'cause WigglyTuff
+had told him that your guild found nothing in their expedition. WT explains
+Dusknoir that it was a promise you had made to Uxie. Apparently, Uxie was
+knocked, but he's ok now. Wigglytuff will start crying. Wigglytuff decides to
+to make an expedition to catch Grovyle. Let's get ready!!
+
+Get some Reviver Seeds, Max Elixirs, Huge Apples, Oran Berries and some
+Violent Seeds.
+
+When you're ready, go to see Chatot.
+
+Chatot will divide the guild by teams. Next Stop: Northern Desert.
+
+
+CarlosPit Note: Zomg Zomg! WT looks awesome when he's mad!
+
+
+---------------NORTHERN DESERT---------------
+                         
+Floors: 
+
+16 Floors
+
+------------------------------------------------
+
+Pokemons:
+
+Larvitar
+Cubone
+Sandshrew
+Carnivine
+Aron
+Cacnea
+Trapinch
+Lairon
+Rhyhorn
+Cacturne
+
+------------------------------------------------
+
+Notes:
+
+*I recruited a Cacnea.
+
+* If you have a grass type, you'll pwn.
+
+------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 21
+Dinasty = 21
+
+Level (OUT):
+
+Timatria = 22
+Dinasty = 22
+Manolito = 21
+
+--------------NORTHERN DESERT----------------
+
+
+When you reach the end of the Northern Desert, you'll see some quick sands.
+You'll also feel the same sensation you felt when you saw Fogbound Lake,
+but you decide to return since you had no choice. Back in the guild, no one
+found anything. Well, that's not truth, Bidoof took a little souvenir from the
+Crystal Cave. 
+
+::Save Point::
+
+While Chatot and Dusknoir are thinking in a strategy, they give you guys the
+freedom to go wherever you want to. Because of the sensation you felt, you
+want to return to the Quick Sands. When you return, it will be the same, you
+get to a point where you can't go farder. Those Quicksands... they MUST
+be the key! You tell your partner your idea, and he trusts you. Ready to
+jump? There we go!
+
+
+---------------QUICKSAND CAVE---------------
+                         
+Floors: 
+
+10 Floors
+
+------------------------------------------------
+
+Pokemons:
+
+Skorupi
+Sandslash
+Nincada
+Pupitar
+Vibraba
+Mawile
+
+------------------------------------------------
+
+Notes:
+
+* Weather: Sandstorm
+
+------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 21
+Dinasty = 21
+
+Level (OUT):
+
+Timatria = 22
+Dinasty = 22
+Manolito = 21
+
+----------------QUICKSAND CAVE----------------
+
+
+
+You'll face a Kanghaskan Statue, Save your game. 10 more floors to go!
+
+
+
+-------------QUICKSAND CAVE PIT-------------
+                         
+Floors: 
+
+10 Floors + Underground Lake
+
+------------------------------------------------
+
+Pokemons:
+
+Hippopotas
+Sandslash
+Tyranytar
+Mawile
+Skorupi
+Ninjask
+
+------------------------------------------------
+
+Notes:
+
+* Weather: Sandstorm
+
+------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 22
+Dinasty = 23
+
+Level (OUT):
+
+Timatria = 24
+Dinasty = 24
+
+
+--------------QUICKSAND CAVE PIT--------------
+
+
+When you get to the Underground Lake, you'll find Mespirit. He's another member
+of the Legendary Trio. Yup, it's Boss Time!
+
+
+7.11.2 Boss Battle: Mespirit
+
+
+--------------------MESPIRIT------------------------
+
+HP: 350-
+
+Strategy:
+
+Sleep Him and he's be a pushover. Nothing hard.
+
+---------------------------------------------------
+
+HostleX team:
+
+Level :
+
+Timatria = 24
+Dinasty = 24
+
+---------------------MESPIRIT-----------------------
+
+
+
+Once you defeat Mespirit, he'll try to stop you guys, because he thinks you're
+planning to steal the time gear. Apparently, Uxie used Telekinesis to talk with
+Mespirit and inform him/her that the Time Gear from Fogbound Lake was stolen
+by a thief. Grovyle will appear and immediately attacks you. You're weak at the
+moment so he'll pwn you and then pwn Mespirit. You'll try to stop him, but
+he will pwn you again. Now there's nothing to stop him, so he'll take the
+Time Gear. Mespirit will say he/she is sorry for doubting about you guys. But
+there's no time to talk! Run because the time is freezing here!
+
+
+
+        ===============================
+7.12  CHAPTER 12: THE ONLY OPTION
+        ===============================
+
+
+Magnezone will be in the guild, informing that Mespirit is ok. The guild will
+try to cheer you up by saying you guys did an awesome job and they agree that
+it would be easier if they had a clue. Dusknoir will say that you have a clue...
+
+
+CarlosPit Note: Pokemon Fans, little question. Who can tell me the 3 members
+of the Legendary Trio? Uxie, Mespirit and? Yes, Azelf! Good Job!
+
+
+So Azelf must be the guardian of another Time Gear. What else? Uxie and
+Mespirit were located in lakes... Both of them were in place where there's not
+supposed to be water. So check again everywhere! But before that, Dusknoir
+will ask Bidoof to bring the little souvenir he got from Crystal Cave. Reason?
+He wants you to try the Dimensional Scream. Bidoof accepts and gets the little
+crystal. When you touch it, you'll see Grovyle and Azelf, and Grovyle is about
+to take the Time Gear. But is it past or future? Who cares?!?!? It's the only
+option you have to capture Grovyle! Let's go for it and pray it was future!
+Oh yea, by the way, Wigglytuff is sleeping ^^ Time to go Crystal Cave!
+
+
+
+---------------CRYSTAL CAVE---------------
+                         
+Floors: 
+
+11 Floors
+
+------------------------------------------------
+
+Pokemons:
+
+Beldum
+Seviper
+Cranidos
+Donphan
+Shieldon
+Golem
+Graveler
+Wormadan
+
+------------------------------------------------
+
+Notes:
+
+* I got pwned... tough luck I found a monster house.
+
+------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 25
+Dinasty = 25
+
+Level (OUT):
+
+Timatria = 27
+Dinasty = 27
+
+----------------CRYSTAL CAVE----------------
+
+
+After 11 floors, you'll reach Crystal Cave Depth. there you will see 3
+huge crystals of different colors. Your partner will realize that when you
+touch them, the color changes. Check it out by yourself. As soon as you
+touch one, BANG! Dimensional Scream :]
+
+By the vision, you learn that you must make the 3 crystal have the same
+color.
+
+SAVE THE GAME
+
+Make all the crystals blue. An Ice cave will rise. What are you waiting
+for? Go in!
+
+
+---------------CRYSTAL CROSSING---------------
+                         
+Floors: 
+
+13 Floors
+
+------------------------------------------------
+
+Pokemons:
+
+Floatzel
+Wormadam
+Bagon
+Glameow
+Absol
+
+------------------------------------------------
+
+Notes:
+
+* You may find some monster houses.
+
+* You can recruit fairly easy here.
+
+------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 27
+Dinasty = 27
+
+Level (OUT):
+
+Timatria = 28
+Dinasty = 28
+Beldum = 23
+
+----------------CRYSTAL CROSSING----------------
+
+
+
+After these 13 floors, you will get to the Crystal Lake. Your partner will
+notice there are 2 pokemon in an island nearby. Go check! It's Azelf and
+Grovyle! So it was future huh... Grovyle is about to take the Time Gear,
+but Azelf had something planned and ice spikes appear and they make
+impossible to reach the Time Gear. Grovyle plans to attack Azelf when
+you arrive. Grovyle isn't happy... Boss Time
+
+
+7.12.2 Boss Battle: Grovyle
+
+
+
+
+--------------------GROVYLE------------------------
+
+HP: Less than 630
+
+Strategy:
+
+If you have a fire based move... Oh my Dear Riolu... use it!
+He's the toughest Pkmn you've found. According to my
+math, he should be lvl 35 more less.
+
+
+---------------------------------------------------
+
+HostleX team:
+
+Level :
+
+Timatria = 28
+Dinasty = 28
+
+---------------------GROVYLE-----------------------
+
+Even if you win, in the storyline it will appear as if he pwned you. You two
+are badly hurt and Grovyle is going to kill your partner when Dusknoir
+appears. Looks like Dusknoir knows Grovyle. When they're about to
+battle, Grovyle vanishes. Dusknoir vanishes too. Guild will arrive and they
+take you back to the guild 'cause you are badly hurt. You will wake up,
+Chimecho will realize that and he'll call everyone. Everyone seems happy.
+You will explain all of them that you think Dusknoir knows Grovyle. It is
+shocking for everyone. Magnamite will announce that Magnezone is with
+Dusknoir in Treasure Town, so time to go and it's also the end of this
+chapter ;D
+
+
+
+        ================================
+7.13  CHAPTER 13: DUSKNOIR'S SECRET
+        ================================
+
+When you get to Treasure Town, you'll see how the Legendary Trio meets
+again. Such an amazing moment *sigh*. Dusknoir has an announcement to
+make. Apparently, he and Grovyle are Pokemon from the future. He feels
+sorry for lying for such a long time. He also explains Grovyle's plan. His
+plan is to paralyze the world, which also would be the end of it, by
+stealing the Time Gears. Fortunately, Dusknoir and the Legendary Trio
+have come up with a plan.
+
+1 Million Dollar Plan: Spread a rumor where it is said that the Legendary
+Trio is going to seal a Time Gear so no one can steal it. That way,
+Grovyle will go to steal it asap and BANG! Dusknoir catches him.
+Of course Uxie, Mespirit and Azelf's lives would be in danger, but
+they agree with that.
+
+So, your job is... spreading the rumor. FINALLY AN EASY JOB!
+
+Still, we shouldn't make Grovyle suspicious so it's time to work.
+
+
+Job 5:
+Client: Zigzagoon
+Objective: Explore with him
+Dungeon: Craggy Coast
+Floor: 5
+Reward: 300 Coins + Royal Gummi
+Explorer Points: 50
+
+Job 6:
+Client: Shuckle
+Objective: Look for Spinarak
+Dungeon: Craggy Coast
+Floor: 9
+Reward: Special Band
+Explorer Points: 30
+
+
+You're about to sleep when your partner starts talking... nothing
+important though.
+
+::Save Point::
+
+There are no news about Dusknoir and the Legendary Trio... so keep
+working!
+
+
+Outlaw Hunt 12:
+
+Client: Magnezone
+Objective: Arrest Yanmega
+Nidorino's HP: Less than 195
+Dungeon: Mt. Bristle
+Floor: 5
+Reward: 250 Coins + Frustration
+Explorer Points: 30
+
+Outlaw Hunt 13:
+
+Client: Tauros
+Objective: Take Item from Trapinch
+Nidorino's HP: Less than 200
+Dungeon: Mt. Bristle
+Floor: 8
+Reward: Roayl Gummi
+Explorer Points: 30
+
+Again, your shy and quiet partner will start talking. Again, nothing important.
+He's just wondering how Dusknoir and the Trio is doing.
+
+::Save Point::
+
+Next morning, Chatot will say that there are still no news about them. A
+weird sound will start. Looks like Grovyle was caught by Dusknoir!
+Hooray! He's going to send Grovyle to the future, but he's returning too.
+Everyone to Treasure Town! Once there, you'll notice a dark hole in the
+middle of the town. It's a Dimensional Hole. Dusknoir arrives with Grovyle.
+Dusknoir trusts in the Legendary Trio with the Time Gears. He says good
+bye to everyone, but he calss you and your partner...
+
+It's the sad end... or is it?
+
+BANG! He grabs you guys and touches the Dimensional Hole. You're gone.
+
+
+::Save Point::
+
+
+      ==============================
+7.3  CHAPTER 14: INTO THE FUTURE
+      ==============================
+
+
+You'll wake up in a jail with your partner. Why are you there? What happened?
+Oh right... the Dimensional Hole... ZOMG! We're in the future!!
+
+CarlosPit Note: Holy sheezcakes!
+
+Go to the gate to realize that yes, you're locked...
+
+A few seconds after that, about 6 Sableye will appear and and blindfold you
+and your partner. When you regain the awesome gift of the sight, you'll
+notice that you, your partner and GROVYLE are tied to 3 poles. You'll talk
+to Grovyle, he'll inform you guys that those Sableyes are ready to pwn your
+tiny asses. Dusknoir and the Sableye appear. Indeed... he wants to eliminate
+you... How nice.
+
+Grovyle will ask you what can you do... the answer is... attack.
+
+So this is the new plan:
+
+2 Million Dollar Plan: When the Sableyes are about to pwn us with their Fury
+Swipes, you'll attack them.
+
+CarlosPit Note: WHAT IF THEY DON'T USE FURY SWIPES AT ALL?!?!?
+
+But... Grovyle was right... As soon as they start using Fury Swipes, you
+regain movement and attack them. When you're free, Grovyle uses a
+Luminous orb and then Poof... you're gone. Dusknoir and the Sableyes
+will leave the room and you'll appear again. Grovyle used Dig to hide you
+guys. No time to talk! Escape! Run! Run! Run!
+
+Finally, you'll leave the building and... WOAH... What the F... is this?
+Is that the future? There's no movement at all... no air... no morning.
+Sableyes are comming so you better keep running... You'll reach a cave.
+Grovyle will offer you guys to team up, but your partner declines because
+he thinks Grovyle is the bad guy... There's one question though...
+
+Why is the world paralyzed? Didn't you guys stop it?
+
+Woah... those damn Sableyes... Time to keep running. Grovyle will enter
+the cave, and you should do that too...
+
+Save/Take/Store by using the Kanghaskan Statue. Move on...
+
+
+---------------CHASM CAVE---------------
+                         
+Floors: 
+
+8 Floors
+
+------------------------------------------------
+
+Pokemons:
+
+Skarmory
+Ditto
+Drifloon
+Grumpig
+Magnemite
+Magnetone
+
+------------------------------------------------
+
+Notes:
+
+* No Dark Pkmn at all.
+
+* Recruit Level = Hard
+
+------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 28
+Dinasty = 28
+
+Level (OUT):
+
+Timatria = 29
+Dinasty = 29
+
+----------------CHASM CAVE----------------
+
+
+When you leave the cave, you'll see a fountain but it's not moving. Try to
+use your Dimensional Scream. TRY... because it won't work. Oh well,
+time to keep going.
+
+Again you'll see a Kanghaskan Statue. Use it if you need to.
+
+
+-------------------DARK HILL-------------------
+                         
+Floors: 
+
+15 Floors
+
+------------------------------------------------
+
+Pokemons:
+
+Gliscor
+Misdreavus
+Ghastly
+Banette
+Claydol
+Haunter
+Dusclops
+Gengar
+
+------------------------------------------------
+
+Notes:
+
+* Ghost Pokemon can tresspass walls.
+
+* Recruit Level: Very Hard
+
+------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 29
+Dinasty = 29
+
+Level (OUT):
+
+Timatria = 30
+Dinasty = 30
+
+--------------------DARK HILL--------------------
+
+
+Once you're done with Dark Hill, you'll reach a cliff. Your partner will
+start freaking out, so, since you're such a good friend, you're going
+to confort him... right? He'll ask you what to do.
+
+Answer is: Meet Grovyle
+
+After a long and nice converstation, you'll get to a cave.
+
+Use the Kanghaskan Statue if needed.
+
+
+---------------SEALED RUINS---------------
+                         
+Floors: 
+
+7 Floors
+
+------------------------------------------------
+
+Pokemons:
+
+Forretress
+Muk
+Shelgon
+Probopass
+Tangrowth
+Metang
+
+------------------------------------------------
+
+Notes:
+
+* Shelgon is probably the toughest Pkmn here
+
+* No Ghost Pkmn
+
+------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 30
+Dinasty = 30
+
+Level (OUT):
+
+Timatria = 31
+Dinasty = 31
+
+
+----------------SEALED RUINS----------------
+
+
+
+::Save Point::
+
+After saving your game, you'll see a little movie, with Grovyle as main star.
+He reaches an open place and hears some creepy voices. Who is it?
+
+Spiritomb...
+
+
+---------------DEEP SEALED RUINS---------------
+                         
+Floors: 
+
+6 Floors
+
+------------------------------------------------
+
+Pokemons:
+
+Probopass
+Forretress
+Tangrowth
+Shelgon
+
+------------------------------------------------
+
+Notes:
+
+* Easy Dungeon
+
+------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 31
+Dinasty = 31
+
+Level (OUT):
+
+Timatria = 31
+Dinasty = 31
+
+----------------DEEP SEALED RUINS----------------
+
+
+You'll see Grovyle with an aura around him... He warns you that there is
+a pokemon close... NEXT TO YOU!
+
+
+7.14.2 Boss Battle: Spiritomb
+
+
+--------------------SPIRITOMB------------------------
+
+HP: 450
+
+Strategy:
+
+Spiritomb can be rather annoying, since he has no weakness.
+Just use your strongest attack and try to inflict him as much
+dmg as possible.
+
+-----------------------------------------------------
+
+HostleX team:
+
+Level :
+
+Timatria = 31
+Dinasty = 31
+
+---------------------SPIRITOMB-----------------------
+
+
+After defeating him, the aura will be gone. Grovyle will explain that good
+Pokemon have become bad ones because the hostile enviroment. He'll
+ask your partner if he trusts him now, but your partner wil doubt.
+According to Grovyle, they can't be together if there is no trust. He's
+right... so your partner decides to trust him. Follow Grovyle
+
+::Save Point::
+
+
+       ===============================================
+7.15 CHAPTER 15: THE SECRET OF PLANET'S PARALYSIS
+       ===============================================
+
+
+Grovyle will start explaining that the reason of the planet's paralysis
+is the collapse of Temporal Tower, which is where Dialga, the Deity
+of Time lives. After the collapse of the Temporal Tower, Dialga lost
+almost all his reason, and now, governed by darkness, he's turned
+into Primal Dialga, a Pokemon that only seeks self preservation and
+has no emotion.
+
+Primal Dialga doesn't likes Grovyle 'cause he's trying to stop it by
+collecting the Time Gears. Looks like the only way to stop the tower
+collapse is to place the Time Gears there. Dusknoir is Primal Dialga's
+spy, but your partner doesn't believes that. Grovyle hasn't given up
+yet, so he wants to return to the past to collect the Time Gears. He
+must find Celebi to return to the past. Follow him. Destination?
+Dusk Forest! That's the place where Celebi, the Legendary Pokemon
+lives.
+
+Celebi was the one who enabled Grovyle to return to the past. Because
+of that, Celebi is now in trouble too, because she's affecting history.
+Oh well, let's hurry! There's a Kanghaskan statue is you need it. Your
+partner will STILL don't trust Grovyle, but you guys should focus on
+returning. You start feeling the same sensation that you had when you
+were going to meet Uxie. Anyway... let's go... ZOMG A SABLEYE!
+
+
+
+
+-----------------DUSK FOREST-----------------
+                         
+Floors: 
+
+9
+
+------------------------------------------------
+
+Pokemons:
+
+Jumpluff
+Mothim
+Mismagius
+Gabite
+
+------------------------------------------------
+
+Notes:
+
+* If you can, recruit the Gabite! Pretty impossible, but
+  if he asks you... ACCEPT!
+
+*Grovyle won't gain exp.
+
+------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 31
+Dinasty = 31
+Grovyle = 46
+
+Level (OUT):
+
+Timatria = 31
+Dinasty = 32
+Grovyle = 46
+
+------------------DUSK FOREST------------------
+
+
+
+When you get to Deep Dusk Forest, you won't see a single thing, so
+you're worried Celebi is not there. You'll hear a voice and Celebi will
+appear. Your partner will make fun of Celebi 'cause her appearance.
+Celebi gets angry, so your partner apologizes. Celebi accepts his
+aplogizes. You must find the passage of time. You two wonder what
+the f... is that. Grovyle and Celebi will explain that. There's a Kanghskan
+statue, so use it if needed.
+
+
+
+---------------DEEP DUSK FOREST---------------
+                         
+Floors: 
+
+12
+
+------------------------------------------------
+
+Pokemons:
+
+Rhydon
+Vulpix
+Steelix
+Hippowdon
+Aggron
+Leafeon
+
+------------------------------------------------
+
+Notes:
+
+*Celebi makes it way too easy!
+
+*Grovyle won't gain exp.
+
+*Celebi won't gain exp.
+
+------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 31
+Dinasty = 32
+Grovyle = 46
+Celebi = 45
+
+Level (OUT):
+
+Timatria = 32
+Dinasty = 32
+Grovyle = 46
+Celebi = 45
+----------------DEEP DUSK FOREST----------------
+
+
+After those 12 floors, you'll reach an open place where you can see the
+Passage of Time.  Celebi is the one who is supposed to open it, but when
+she's moving, you hear a voice. It's Dusknoir... he was following you guys.
+Actually, it's Dusknoir and the Sableye Squad. Grovyle tells you to get
+ready 'cause you'll fight, but Dusknoir introduces a new member to his
+team... Primal Dialga. Damn! Grovyle gives up, 'cause there's no way you
+can defeat him. One thing is to battle Dusknoir, but a totally different thing
+is to battle Primal Dialga. Fortunately... there's still a chance. When
+Grovyle traveled back in time, he traveled with someone else...
+a human... named... *your name*!
+
+CarlosPit Note: Holy Cow!
+
+Dusknoir tells Grovyle that you're that human he was talking about. Grovyle
+seems confused, since his partner was a human not a Pkmn. AGAIN,
+Dusknoir explains that you used to be a human. Dusknoir sends the
+Sableye Squad to attack you, but Celebi uses his time travel skill and
+warps you to to the Passage of Time. TIME to go back to our TIME.
+
+
+       =========================
+7.16 CHAPTER 16: A NEW DAWN
+       =========================
+
+You wake up at the beach. You guys made it! Back in your time! You probably
+want Grovyle to explainev everything, but where should you talk? Wigglytuff's
+Guild? Nay, remember that Grovyle, in this time, is a Wanted Outlaw. Thanks
+God your partner has a secret spot, which is by Sharpedo Bluff. It's your
+partner's house! He used to live there before you joined the guild. Anyway,
+Grovyle will start explaining everything, apparently, you and Grovyle were
+exploring the planet's paralysis, so you were looking for the location of the
+Time Gears in the past by using your Dimensional Scream.
+
+Note: The Dimensional Scream can only be used when your close to a trusted
+Pokemon Partner. 
+
+Grovyle will be happy that you're ok, 'cause even though you're different,
+he know's your still his human partner. You're his best friend. Oh well,
+it's late, so you guys better go to sleep! Tomorrow you have to go explore!
+
+3 Million Dollars Plan: Collect the Time Gears. The time will stop in the
+region where the TG is removed, but the time will be restored if the Temporal
+Tower doesn't collapse.
+
+::Save Point::
+
+Grovyle will wake up, but he won't see your partner. Grovyle will go outside
+and see your partner looking the sea. Your partner was thinking about lots of
+things. They will start talking untill the sun rises. It's time to collect
+those Time Gears. You should probably go to Treeshroud Forest first because
+there's no guardian there.
+
+
+-----------------TREESHROUD FOREST--------------------
+                         
+Floors: 
+
+20
+                         
+------------------------------------------------------
+
+Pokemons: 
+
+Kadabra
+Houndoom
+Ralts
+Cherrim
+Kirlia
+Vespiquen
+Alakazam
+Ninetales
+
+------------------------------------------------------
+
+Notes:
+
+*Longest Dungeon, but it should be rather easy
+because you have Grovyle with you.
+
+*If you don't have Fire-Type Pkmns in your team,
+I reccomend you taking at least one Reviver Seed.
+
+------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 32
+Dinasty = 32
+Grovyle = 46
+
+Level (OUT):
+
+Timatria = 33
+Dinasty = 33
+Grovyle = 46
+----------------TREESHROUD FOREST---------------------
+
+
+Once you're in Deep Treeshroud Forest, you'll notice that the time is not
+moving. Why not?!?!? The Time Gear is there! Apparently the time is not
+running because the Temporal Tower is already collapsing. So you must collect
+the Time Gears asap! Temporal Tower is located in Hidden Land, which is
+hidden FYI. So your mission will be to gather some information about Hidden
+Land while Grovyle collects the Time Gears.
+
+Time to start looking for it! Where? No idea...
+
+
+     =========================
+7.17 CHAPTER 16: A NEW DAWN
+     =========================
+
+Uhh... Back at Wigglytuff's. Scared? Nay. Digglet scans the footprints of
+your partner and he shocks. Zomg you guys are back! Everyone goes outside to
+say hi. Wigglytuff too. After telling your story to Chatot, he will not
+believe it. Sigh. Everyone is still thinking Dusknoir is the good guy because
+he was nice to them. Finally, Sunflora remembers when Dusknoir grabbed you
+and took you guys to the future. Everyone starts wondering why would he do
+that. After thinking a little about it, everyone believes you, even WT!
+Still, Chatot won't. But it won't take long, since Chatot always agrees with
+Wigglytuff. Chatot will give a lame excuse and start believing you. How to
+find out how to reach Hidden Land? If someone knows... it's Torkoal! Let's
+go!
+
+::Save Point::
+
+Going to Waterfall Cave. 9F = Hot Springs.
+
+Unfortunately, once you meet the old Torkoal, he won't help much since he
+doesn't remembers much. Only thing he knows is that you must show some proof.
+Oh well, too bad... Let's go back to the guild.
+
+::Save Point::
+
+Morning... Loudred...
+
+Just because you didn't find it on your first day it doesn't means you should
+give up! Keep looking!
+
+A few seconds later, Digglet will detect Torkoal's footprints. Yesh! He
+remembered some new things! That "proof" you need to show has a weird pattern
+which is hard to describe. Are you thinking the same I am? That's right! The
+Relic Fragment! Apparently, Wigglytuff and Chatot have already seen that logo
+before. Where was it? Brine Cave! But you guys must be careful... there's a
+strong Pokemon inside. One adventage? Good, old Chatot will be with you.
+
+Go to Treasure Town to get ready. Team Skull will meet Torkoal and talk with
+him. Before going to Brine Cave, we should see if Grovyle is back, so go to
+Sharpedo Bluff. Grovyle is not there, but there's a note. He's Ok, he has 3
+Time Gears already. Looks like Azelf cooperated and more people is trusting
+him. Still, he doesn't wants to be near Treasure Town because Dusknoir may
+return. He may go to Sharpedo Bluff or the beach tho. Since he's not in
+Sharpedo Bluff, you should check the beach. Let's go!
+
+
+     ==================
+7.18 CHAPTER 18: LAPRAS
+     ==================
+
+Go to the beach, no Grovyle! Awwwts! Check the sunset though! Your partner
+realizes that if the time stops, there won't be more sunsets. He's a genious!
+You start remembering old times, when you guys were nubcakes. Your partner
+will notice a Pokemon on the Sea. It's a Lapras. Oh well, time to return to
+the guild for dinner.
+
+Little Movie: Wigglytuff talking with Lapras. Seems like they know each other
+really well. 
+
+Next Morning... Loudred..
+
+::Save Point::
+
+Wigglytuff is not there, so Chatot (¿?) will lead us to Brine Cave...
+
+Objective: Reach the deepest part of Brine Cave.
+
+You'll team up with Chatot.
+
+
+--------------------BRINE CAVE-----------------------
+                         
+Floors: 
+
+10
+                         
+------------------------------------------------------
+
+Pokemons: 
+
+Omanyte
+Seel
+Krabby
+Gastrodon
+Pelipper
+Kingler
+Dewgong
+Staryu
+Dragonair
+
+------------------------------------------------------
+
+Notes:
+
+*Don't use water attacks... Damn Gastrodon
+
+*High Level Difficulty for Fire Users.
+
+------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 33
+Dinasty = 33
+Chatot = 36
+
+Level (OUT):
+
+Timatria = 33
+Dinasty = 33
+Chatot = 36
+-------------------BRINE CAVE------------------------
+
+
+Kanghaskan Statue. Chatot will inform you 2 that you guys are close...
+Suddenly, Team Skull appears and hit your partner. They get the Relic
+Fragment. Chatot goes after them... so now you're alone... Nice
+
+
+-----------------LOWER BRINE CAVE--------------------
+                         
+Floors: 
+
+20
+                         
+------------------------------------------------------
+
+Pokemons: 
+
+Dewgong
+Staryu
+Dragonair
+Gastrodon
+Walrein
+
+------------------------------------------------------
+
+Notes:
+
+*Same as Brine Cave
+
+------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 33
+Dinasty = 33
+Chatot = 36
+
+Level (OUT):
+
+Timatria = 34
+Dinasty = 34
+Chatot = 36
+----------------LOWER BRINE CAVE---------------------
+
+
+You'll get to a little Room, where you can see Team Skull all pwned. They
+give you the Relic Fragment. They weren't that bad... Go to the next room!
+Chatot is alone there!!
+
+Be careful... there're pokemon close... Look up!
+
+You'll see 1 Nasty Kabutops and 2 ugly Omastar...
+
+They'll go down and try to attack you, but Chatot protects you and he
+receives the attack. One Omastar remembers Chatot from the last expedition.
+Come on! Chatot is risking his life for you guys to have a chance! Don't
+mess it up!!
+
+
+7.18.2 Boss Battle: Kabutops
+
+
+--------------------KABUTOPS------------------------
+
+HP: Less than 380
+
+Strategy:
+
+Use a X-eye seed on Kabutops. While he's dancing,
+eliminate the 2 Omastar, they should suck. After
+pwning the Omastars, throw Gravelerocks at Kabutops
+if you don't have a long range attack. That should
+do it. Repeat the process.
+
+
+---------------------------------------------------
+
+HostleX team:
+
+Level :
+
+Timatria = 34
+Dinasty = 34
+
+---------------------KABUTOPS-----------------------
+
+
+After one tough battle, they'll leave. Go to check Chatot! OMG! He's badly
+hurt!! Wigglytuff and Grovyle will arrive and a second after them the whole
+guild. Everyone is worried about Chatot, looks like it's the second time
+he receives the impact to save a friend. First Time was with Wigglytuff.
+Chatot feels proud and then he faints. He's close to die... so he better
+return to the guild. Your Partner, Grovyle and you should keep going tho,
+otherwise Chatot's efforts would be useless. You'll reach a rocky section
+by the sea. On the wall, you'll see the Relic Fragment pattern. Your partner
+will place the Relic Fragment on the floor and the Pattern will start shining
+and a light will appear. Lapras will arrive. Apparently, he's the messenger
+of Hidden Land. Hidden Land is across the sea, so get on!
+
+
+      =================================
+7.19 CHAPTER 19: TO THE HIDDEN LAND
+      =================================
+
+
+To reach the Hidden Land, you must go through a gap of time. Want to know a lil
+bit about the expedition Chatot and WT had in Brine Cave? Looks like Chatot
+was the shield that protected Wigglytuff from being pwned. Still, WT is one
+tough Pokemon... so he defeated Kabutops and the Omastar. Since Chatot was
+badly hurt, Lapras helped him and Lapras made WT promise that he wouldn't
+reveal the Hidden Land. Now something about the Relic Fragment. It is said
+that it chooses someone with a good heart to be it's owner. That's your partner!
+By now you've probably reached the Hidden Land portal. Lapras will start flying
+and cross the sea of time. You'll reach Hidden Land and the first thing you'll
+notice is that the Temporal Towerr is located on the Sky! To reach it, you must
+have the Rainbow Stoneship, which can be found in the Old Ruins. I reccomend
+reaching level 36+ before going there. If you're not, return to Treasure Town by
+talking to Lapras.
+
+CarlosPit Note: I reached level 37 and Platinium Rank.
+
+-------------------HIDDEN LAND----------------------
+                         
+Floors: 
+
+15
+                         
+------------------------------------------------------
+
+Pokemons: 
+
+Tropius
+Bastiodon
+Garchomp
+Rampardos
+Magmortar
+Abmasnow
+Dragonite
+Manetric
+
+------------------------------------------------------
+
+Notes:
+
+*All-Type Dungeon!
+
+*Pray so you don't finish in a Monster House!
+
+*Reaching the 15th floor, you'll get to a SP
+
+*Yes, hardest dungeon until now
+
+*Grovyle will be with you
+
+*Grovyle won't earn exp.
+
+------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 37
+Dinasty = 37
+Grovyle = 46
+
+
+Level (OUT):
+
+Timatria = 37
+Dinasty = 37
+Grovyle = 46
+------------------HIDDEN LAND-----------------------
+
+
+You'll get to a Kanghaskan Statue. Use it if needed.
+
+
+-----------------HIDDEN HIGHLAND--------------------
+                         
+Floors: 
+
+10 + Old Ruins
+                         
+------------------------------------------------------
+
+Pokemons: 
+
+Purugly
+Garchomp
+Bastiodon
+Manetric
+Abmasnow
+
+------------------------------------------------------
+
+Notes:
+
+*Be careful of Monster Houses. Use a Pure Seed if needed.
+
+------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 37
+Dinasty = 37
+Grovyle = 46
+
+Level (OUT):
+
+Timatria = 37
+Dinasty = 37
+Grovyle = 46
+----------------HIDDEN HIGHLAND---------------------
+
+
+Once you reach the Old Ruins, you'll see images of Mew, Kyogre, Groudon, Palkia
+and Dialga. You'll notice that there's that weird pattern again. You'll get to a
+ place with a tablet. Something is written there, but it's in Unown Language...
+Oh no... what are you gus supposed to do now? Super Grovyle to the rescue!!!
+The inscription says "This is Rainbow Stoneship, put the Relic Fragment in 
+the hole"
+
+Hmmm, I'm pretty sure that's what said.
+
+When you're about to put the Relic Fragment in the hole, Dusknoir and Sableye
+Squad will appear. They take you to another yard where a Dimensional Hole is
+located.
+
+You know this time had to come right? Time to fight against all-mighty Dusknoir
+
+
+7.19.2 Boss Battle: Dusknoir
+
+
+--------------------DUSKNOIR------------------------
+
+HP: Less than 650
+
+Strategy:
+
+Sableyes are a pain in the ass too. They are 6! SIX!
+They have low HP tho, about 90 each one so you are probably
+able to OHKO them.
+
+Try to sleep, confuse or inflict any status to Dusknoir.
+
+
+---------------------------------------------------
+
+HostleX team:
+
+Level :
+
+Timatria = 37
+Dinasty = 37
+Grovyle = 46
+
+---------------------DUSKNOIR-----------------------
+
+
+After defeating Dusknoir, he won't accept it. He'll try to suck you guys with
+his stomach but you return his attack.
+
+After that attack, Dusknoir gets pwned by sure. The Saleye Squad will be afraid
+of you guys and they will return to the future by the dimensional hole. Grovyle
+will tell your partner to insert the Relic Fragment. Dusknoir will wake up
+and tells something you surely don't want to hear. Apparently, if you save the
+Temporal Tower, all the Pokemon from the future will dissapear. That includes
+Grovyle, Dusknoir, Celebi and you. You will realize that you have no choice.
+Grovyle will give a speech about your partner.
+
+::Save Point::
+
+Your partner will activate the Rainbow Stoneship. Dusknoir will surprise you by
+using an attack, but Grovyle becomes your shield. Grovyle will make Dusknoir
+go back to the future by going with him. Pretty sad moment. He'll give you the
+Time Gears he got and remember that you and your partner are the greatest
+combination... bye Grovyle! Thanks for everything!
+
+
+
+       =====================================
+7.20 FINAL CHAPTER: THE LAST ADVENTURE
+       =====================================
+
+
+Get on the Rainbow Stoneship. You'll start flying and you get to your destiny.
+Yes, Temporal Tower. You'll see a Kanghaskan Statue.
+
+READ THIS:
+
+You can return to Treasure Town, but if you do it, you'll have to get through
+Hidden Land again WITHOUT Grovyle.
+
+If you decide to return to Treasure Town, buy lots of Reviver Seeds, Berries
+and if you have a Brick Break, teach it to any of your Pokemon.
+
+You can also do missions. Once you're done, talk to Lapras. You can find him
+at the beach.
+
+
+
+
+-----------------TEMPORAL TOWER--------------------
+                         
+Floors: 
+
+13
+                         
+------------------------------------------------------
+
+Pokemons: 
+
+Solrock
+Porygon
+Lunatone
+Bronzor
+
+------------------------------------------------------
+
+Notes:
+
+*Be careful of Porygon. Discharge hurts all your members.
+
+*Ohter than Porygon, it's a fairly easy dungeon.
+
+------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 40
+Dinasty = 40
+
+Level (OUT):
+
+Timatria = 40
+Dinasty = 40
+----------------TEMPORAL TOWER---------------------
+
+
+Once you get to the Kanghaskan Statue, save your damn game!
+
+
+-----------------TEMPORAL SPIRE--------------------
+                         
+Floors: 
+
+10
+                         
+------------------------------------------------------
+
+Pokemons: 
+
+Salemence
+Porygon 2
+Bronzong
+Porygon Z
+
+------------------------------------------------------
+
+Notes:
+
+*Harder because of the Porygons
+
+*Salemence is hard to defeat.
+
+------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 41
+Dinasty = 40
+
+Level (OUT):
+
+Timatria = 40
+Dinasty = 41
+----------------TEMPORAL SPIRE---------------------
+
+
+When you reach to the Temporal Pinnacle, the sky will be full of thunders. Keep
+going until you see a pedestal. There's a big circular pattern with 5 holes.
+Yes, the Time Gears. When your partner is about to insert them, a thunder will
+fall and everything will be black. You'll hear a voice saying you wanna destroy
+the Temporal Tower, so you're going to be pwned.
+
+CarlosPit note: GROOOOOOOOOOOOOO!!!
+
+Primal Dialga'll appear. He just won't listen! Wait a second! That Primal Dialga
+is not as Dark as the one you saw in the future! There might be a chance!
+There's still hope! Fight! This is... SPARTA!!
+
+
+7.20.2 Final Boss: Primal Dialga
+
+
+
+------------------PRIMAL DIALGA----------------------
+
+HP: Less than 800
+
+Strategy:
+
+Use fighting moves or Ice moves. If you don't have Reviver
+seeds, I won't lie... it's going to be tough. Try using different
+seeds on him and use long range attacks. Be careful of
+Roar of time, since he can use ti anywhere and it'll cause
+major dmg on your Pokemon. He won't OHKO you unless it's
+a critical hit.
+
+
+---------------------------------------------------
+
+HostleX team:
+
+Level :
+
+Timatria = 40
+Dinasty = 41
+
+-------------------PRIMAL DIALGA---------------------
+
+
+When you pwn Dialga, he'll faint. You guys did it! Now go! Put the Time Gears
+in their place!! Done!! Zomg! The tremors won't stop! Why?!?!?
+
+Where you guys too late? Waaa!! Thunder!!
+
+...
+
+...
+
+...
+
+You'll wake up with your partner next to you, but where are you? Dialga has the
+answer. It's Temporal Tower. It hasn't collapsed. You saved it. Dialga's recover
+his reason. Time is running again! Temporal Tower is badly damaged, but it won't
+collapse.
+
+
+"The world's peace has been restored"
+
+You guys did it! It's time to return to Treasure Town!
+
+::Save Point::
+
+When you're returning, you'll feel your body really heavy. You know what is
+happening right? Could it be? Your time has arrived? Light'll start comming out
+from your body... yes... your time with your partner... is over... is it?
+
+I won't mess such an awesome ending. Enjoy!
+
+
+:::Congrats!! You finished the storyline!!:::
+
+
+
+Maybe right now you're really happy and don't want to be disturbed...
+BUT, my mission here is to inform you that there is a Post-Storyline! Happy?
+
+I AM!
+
+
+
+--------------------------------------------------------------------------
+8.- POST-STORYLINE
+------------------------------------------------------------------------
+
+
+"As a result of Timatria's and Dinasty's heroic actions, the destruction of the
+time was stopped and peace returned to the world of Pokemon. Of course,
+not everything returned to normal right away. Some Places remained where
+time was still out of control, but things were becoming better everywhere.
+As for Timatria and Dinasty... They returned to Wigglytuff's Guild and fell back
+                     into their daily routine of vigorous training.
+                       One morning, several months later..."
+
+
+       =====================================
+8.1   CHAPTER 21: FINALLY... GRADUATION
+       =====================================
+
+Zomg! It's your graduation day! Congratulations! Of course, you will graduate
+if you get through your last mission, which is investigating Luminous Spring,
+which is the place where Pokemon once went to Evolve.
+
+But apparently, is not that easy. Loudred failed the exam. LOL!
+
+Ok, what your're supposed to do is bringing the treasure, but a strong enemy
+lives there... and his name is... The Grand Master of All Bad Things!
+
+Go to Treasure Town so you can get ready. When you get there, you'll meet
+Teddiursa and Ursaring. You'll wonder where are they going, and it turns out
+that they are going to Mystifying Forest, which is the dungeon where the
+Luminous Spring is located. You warn them saying that in the Mystifying Forest
+lives the Grand Master of All Bad Things, but they will reply saying that they
+go there and play all the time. That's weird isn't it? Well, time to go there.
+
+
+----------------MYSTIFYING FOREST-------------------
+                         
+Floors: 
+
+18
+                         
+------------------------------------------------------
+
+Pokemons: 
+
+- Teddiursa
+- Raticate
+- Metapod
+- Nuzleaf
+- Stunky
+- Munchlax
+- Aipom
+- Roselia
+- Ivysaur
+- Flygon
+- Grotle
+- Nidoran (M)
+- Nidoran (F)
+- Bidoof
+- Bulbasaur
+- Scyther
+- Rattata
+- Kricketot
+- Wurmple
+- Weepinbell
+- Skuntank
+- Spearow
+- Seedot
+- Gulpin
+- Torterra
+
+------------------------------------------------------
+
+Notes:
+
+*So many different Pokemons!
+
+*Pretty... Large Dungeon.
+
+* You should be at least level 40.
+
+------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 40
+Dinasty = 40
+
+
+Level (OUT):
+
+Timatria = 41
+Dinasty = 41
+---------------MYSTIFYING FOREST--------------------
+
+
+After those 18 floors, you'll get to the Mystifying Forest Clearing. Once you're
+there, you'll meet with Teddiursa and Ursaring and it looks like they are going
+to Luminous Spring too! Yay!
+
+Go with them, BUT DON'T STEP ON THE TRAP!!
+
+You stepped on it right?
+
+You'll fall into a Dark Place... and you'll hear a voice.
+
+Holy Sheezcakes! It's the Grand Master of All Bad Things!! Am I right?
+
+No, I'm wrong... looks like it is Wigglytuff and the whole guild...
+
+How do I know that? Because Bidoof messed it up! Lol!
+
+Even Though you know that Wigglytuff is the one in there, he'll keep saying he's
+the Grand Master of All Bad Things and the clan members are like his minions.
+
+Time to Battle the Grand Master of All Bad Things!
+
+
+---------------WIGGLYTUFF'S GUILD-------------------
+
+Wigglytuff's HP: 800
+
+Strategy:
+
+You will not only fight against Wigglytuff, you'll fight against ALL
+the guild! That means Chatot, Sunflora, Loudred, etc. This can
+be pretty hard since you're only 2 and they are like 6. You may
+want to try using an X-Eye Seed against Wigglytuff, since It will
+make Wigglytuff start walking around the room, and since he has
+no long range attacks, he will be out of the battle for some turns.
+
+Most of the Guild Members will die with 1 attack, but Chatot will
+may be a little harder. Be careful of his Fury Attack.
+
+Try to use Fighting Moves against Wigglytuff. Fortunately, WT
+doesn't have strong attacks, so it shouldn't be THAT hard.
+
+
+---------------------------------------------------
+
+HostleX team:
+
+Level :
+
+Timatria = 41
+Dinasty = 41
+
+----------------WIGGLYTUFF'S GUILD------------------
+
+
+
+::Save Point::
+
+
+Meet with Ursaring and Teddiursa, there will be a box in front of you guys.
+Your partner will ask you to use your Dimensional Scream to find out if it's
+dangerous. After using it, you'll discover that Wigglytuff was the one who
+placed it there. Ok, so it's ok to open it. Try to guess what's inside. Let's
+see. What's the 1st thing you think about when I say Wigglytuff? That's right.
+A Perfect Apple! That actually suits Wigglytuff. A light will appear. It's the
+Luminous Spring! Teddiursa goes there and he evolves into a Ursaring. Cool!
+Your partner wants to evolve too, but nothing happens because there's a
+distortion of space going on with you and your partner. Soo... both of you guys
+can't evolve. Go back to the guild.
+
+Once you're back in the Guild, they will deny everything! But Congratz! You've
+graduated from the guild! You know what's the best part? They still keep most
+of your money! Yay! Oh yea, and there are no more obligated missions. 
+
+
+      "The Exploration Team Federation has send a message"
+
+"Timatria's Team was rewarded with an enlarged Treasure Bag!"
+
+"Also, as start-up for the newly affiliated team, the guild sent Team HostleX a
+                                whooping 10,000 coins."
+
+              "Congratulations Team HostleX! You graduated!"
+
+
+Some Things have changed now you've graduated. You can't use the room of
+your guild anymore, so you'll sleep in Sharpedo Bluff. Try going back to the
+guild and you'll meet Chimecho. He'll explain you that now you're in a 1st Rate
+Exploration Team, you can choose your own Team Leader, since it always
+were you. You can go now to Zero Isle, it's a pretty tough Dungeon so be
+ready if you're planning to go there.
+
+Ok now, go to the Marohwak Dojo, once there, you'll feel a tremor. Go inside
+the Dojo and you'll find a new Entrance. Inside it, there's a warp point that
+sends you to the Final Maze, which is not that hard, but it ain't easy either.
+
+Also, sometimes you visit the Bulleting Board, you'll see some jobs with
+"?????" as location, accept them to have new dungeons available.
+
+
+
+       ==================================
+8.2   CHAPTER 22: SCIZOR THE EXPLORER
+       ==================================
+
+
+There should be a Mr. Mime by the Kecleons Brothers Shop, talk to him. He'll
+explain you that there used to be a great explorer named Scizor. Once he went
+to a dungeon located in Blizzard Island, but he never returned. You can now
+go to Blizzard Island.
+
+
+
+-----------------BLIZZARD ISLAND--------------------
+                         
+Floors: 
+
+20
+                         
+------------------------------------------------------
+
+Pokemons: 
+
+- Delibird
+- Piloswine
+- Golduck
+- Marill
+- Azumarill
+- Vigoroth
+- Smoochum
+- Swablu
+- Piplup
+- Castform
+- Nosepass
+
+------------------------------------------------------
+
+Notes:
+
+*You can try to use a Fire Attack against the Ice Pkmn.
+
+*It may hail sometimes.
+
+*Be careful of traps.
+
+------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 41
+Dinasty = 41
+
+
+Level (OUT):
+
+Timatria = 43
+Dinasty = 43
+----------------BLIZZARD ISLAND---------------------
+
+
+After completing this dungeon, you will gain access to Crevice Cave.
+
+
+-------------------CREVICE CAVE----------------------
+                         
+Floors: 
+
+10
+                         
+------------------------------------------------------
+
+Pokemons: 
+
+- Glaceon
+- Golduck
+- Vigoroth
+- Altaria
+- Snovel
+- Azumarill
+- Slakoth
+- Mamoswine
+- Piloswine
+- Snorunt
+- Sneasel
+- Piplup
+
+
+------------------------------------------------------
+
+Notes:
+
+* It may Hail sometimes.
+
+* Mamoswine is HUGE! ;D
+
+------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 43
+Dinasty = 43
+
+
+Level (OUT):
+
+Timatria = 43
+Dinasty = 44
+-------------------CREVICE CAVE-----------------------
+
+
+
+Little Room with a Kanghaskan Statue. Use if needed.
+
+
+
+-----------------LOWER CREVICE CAVE--------------------
+                         
+Floors: 
+
+4
+                         
+---------------------------------------------------------
+
+Pokemons: 
+
+- Nosepass
+- Empoleon
+- Altaria
+- Azumarill
+- Glaceon
+- Mamoswine
+
+---------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 43
+Dinasty = 44
+
+
+Level (OUT):
+
+Timatria = 44
+Dinasty = 44
+
+----------------LOWER CREVICE CAVE---------------------
+
+
+When you get to the Crevice Cave Pit, you will see Scizor frozen. After that,
+you will hear a voice. It's Frosslass and he was the one who froze Scizor.
+
+Time to Battle!
+
+
+-------------------FROSSLASS-----------------------
+
+HP: 760
+
+Strategy:
+
+Oh Come On! You've defeated Primal Dialga, you've defeated
+the entire guild and you can't beat this Pushover? Oh That's
+impossible! He only has 760 HP so he shouldn't be tough at all.
+
+
+-----------------------------------------------------
+
+HostleX team:
+
+Level :
+
+Timatria = 44
+Dinasty = 44
+
+---------------------FROSLASS------------------------
+
+
+Once you defeat him, he'll dissapear and Scizor will be free. Scizor will
+remember what happened and he will introduce himself.
+
+Back in Treasure Town, Scizor will thank you guys again. He wants to give
+you a reward but he has no coins, but since you guys are an Exploration Team,
+he'll award you with the Secret Rank, he can do that because he is a Honorary
+Member of the Pokemon Exploration Team Federation.
+
+W00t! Secret Rank! What is it for? I don't know but it sounds awesome!!
+
+
+
+
+       ======================
+8.3   CHAPTER 23: MANAPHY
+       ======================
+
+
+Some days later, go talk to Sunflora. If I'm not wrong, she's in the guild. 
+She will say something about Surrounded Sea. It is said that there's
+something that should be explored. 
+
+Now you can go there! Surrounded Sea, here we go!
+
+
+
+-----------------SURROUNDED SEA--------------------
+                         
+Floors: 
+
+20
+                         
+------------------------------------------------------
+
+Pokemons: 
+
+- Starmine
+- Seedra
+- Kingdra
+- Wailmer
+- Corpish
+- Shellder
+- Remoraid
+- Slowking
+- Tentacruel
+- Horsea
+- Octillery
+- Finneon
+- Lapras
+- Clamperl
+- Wailord
+
+
+------------------------------------------------------
+
+Notes:
+
+* Avoid using Water Attacks. Finneon will absorb 'em
+
+* Bring at least 2 apples.
+
+* A Foe-Fear Orb would be cool in case you find a Monster House
+
+------------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 48
+Dinasty = 48
+Dialga = 48
+
+
+Level (OUT):
+
+Timatria = 49
+Dinasty = 49
+Dialga = 48
+-----------------SURROUNDED SEA---------------------
+
+
+Once you reach the floor number 20, you'll find a weird egg and 3 boxes.
+When you're done gathering those 4 items, step on the Warp Point to leave
+the dungeon.
+
+Next Morning, the egg will be glowing with a mystical light. Woah! It's moving!
+It's hatching! Yay! Wait. What the F.. is that? It's actually kinda cool! Since
+you guys have no idea what kind of pokemon it is, you should go talk to
+Chatot. He's one wise Pokemon. Chatot will explain you guys that the cute
+thingy that hatched from the egg is a Manaphy. Manaphy is an extremely rare
+Pokemon! All of a sudden, Manaphy will start crying. Maybe he's hungry? You
+should go get some Blue Gummies, since that's the favorite gummi for the
+Water-Type Pokemons. Blue Gummies can be found in Craggy Coast.
+
+Go to Craggy Coast and if God loves you, you will find a Blue Gummi, but if he
+REALLY loves you, you will find two. 
+
+Once you have the gummies, you must go back to the guild. After giving TWO
+Blue Gummies to Manaphy, he will be sattisfied and fall asleep. Let him sleep!
+You meanie!
+
+Next Morning, Manaphy will call you guys by your names. Zomg! How Cute!
+Well, what should we do with the "Goomi Dude" today? Maybe the beach?
+
+"And so, Manaphy, Timatria and Dinasty played until the sunset. That night.."
+
+
+Next Morning. Hi Mana...
+
+CarlosPit Note: LOL!
+
+Nooes! He's gone! Why God Why?!?!? Go to the beach!! While going there,
+you will meet Chatot. When you tell him that Manaphy is gone, he'll go look
+for him in the guild. You go to the beach. Once you reach the beach, you'll
+see Manaphy, but he will faint. He has a high fever. Chatot will appear and he
+will be mad! Looks like the only way to save him is going to Miracle Sea and
+meet Phione. He will give you the Phione Dew.
+
+
+
+-------------------MIRACLE SEA----------------------
+                         
+Floors: 
+
+18
+                         
+------------------------------------------------------
+
+Pokemons: 
+
+- Mantine
+- Gorebyss
+- Lanturn
+- Corpish
+- Finneon
+- Slowking
+- Luvdisc
+- Shellos
+- Mantyke
+- Sharpedo
+- Chinchou
+- Cloyster
+- Huntail
+- Slowbro
+
+
+----------------------------------------------------
+
+Notes:
+
+* Avoid using Water Attacks. Finneon will absorb 'em
+
+* Bring at least 2 apples.
+
+* A Foe-Fear Orb would be cool in case you find a Monster House
+
+----------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 49
+Dinasty = 48
+Dialga = 48
+
+
+Level (OUT):
+
+Timatria = 50
+Dinasty = 49
+Dialga = 49
+-------------------MIRACLE SEA----------------------
+
+
+
+You will find a Kanghaskan Statue. Save if needed.
+
+
+-----------------DEEP MIRACLE SEA--------------------
+                         
+Floors: 
+
+4
+                         
+------------------------------------------------------
+
+Pokemons: 
+
+- Finneon
+- Kingdra
+
+
+-----------------DEEP MIRACLE SEA---------------------
+
+
+When you get to the Miracle Seabeed, you will see lots of Phiones. They are
+singing and having fun! Some seconds laters, a Gyarados will appear. He wants
+the Phione Dew! He's such a bullie! Time to pwn him!
+
+
+
+-------------------GYARADOS-----------------------
+
+HP: 650
+
+Strategy:
+
+This is not a hard boss. He just looks ugly. That's it.
+Dragon, Lightning and Electric Attacks are reccomended.
+
+
+-----------------------------------------------------
+
+HostleX team:
+
+Level :
+
+Timatria = 50
+Dinasty = 50
+
+---------------------GYARADOS------------------------
+
+
+Once you pwn him, he'll run like a coward. As a reward, the Phione Clan will
+give you the Phione's Dew. You must give that the Manaphy!
+
+As soon as you give the Phione's Dew to Manaphy, he will feel better. Ok,
+so that's cool.
+
+Several days later, Manaphy will be fully recovered. It's time for Manaphy to go
+back to the sea. Walrein will take care of him so he should be ok.
+
+Bye Manaphy! Take Care! Don't forget to make your bed!
+
+Snnifle.
+
+
+
+       ============================
+8.4   CHAPTER 24: THE AEGIS CAVE
+       ============================
+
+
+After some days go to the guild. It's going to be empty. Go to the second floor
+to find the WHOLE guild around Medicham, Loppuny and Gardevoir. They're
+Team Charm. They are Treasure Hunters and they've reached the Master Rank.
+So, what the hell are they doing there? Who Knows? Wigglytuff will appear
+saying hi. Looks like Wigglytuff used to be a member of Team Charm!
+
+Apparently, on one of their expeditions, they found a Key and Wigglytuff kept
+it. That key fits somewhere in Aegis Cave and it is said that there's a big
+treasure there. Wigglytuff doesn't remembers about that key. Hmm. Team
+Charm is MAD because they put a lot of effort on getting that key. Soo,
+Team Charm decides to give Wigglytuff a gift. Let me guess. Perfect Apple?
+Zomg I was right! After receiving the Perfect Apple, Wigglytuff will remember
+where he left the key.
+
+"Yoooooooooooooo... TAH!!!!!!!!!!"
+
+There it is! One in shape of an Unown. You should join Team Charm while
+they explore the Aegis Cave!
+
+You better get ready! Get some Reviver Seeds.
+
+Go to the Aegis Cave and you'll meet with the guys and with the guild crew.
+
+-----------------------------------------------------------
+IMPORTANT NOTE:
+
+Let me help you save some time. You'll need the following rocks:
+
+One:
+
+*R
+*O
+*K
+*T
+*S
+*I
+*L
+
+Two:
+
+*C
+
+Three:
+
+*E
+
+------------------------------------------------------------
+
+
+Ok, so your first Dungeon: Ice Aegis Cave.
+
+CarlosPit Note: The Rocks can be obtained by defeating the Unowns.
+
+
+-----------------ICE AEGIS CAVE--------------------
+                         
+Floors: 
+
+3
+                         
+----------------------------------------------------
+
+Pokemons: 
+
+- Unown
+- Zubat
+
+
+-----------------------------------------------------
+
+Notes:
+
+* Easy Dungeon
+
+* You get an specific Rock Letter by Killing the Unown of the
+SAME letter.
+
+-----------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 48
+Dinasty = 48
+
+
+Level (OUT):
+
+Timatria = 49
+Dinasty = 49
+-----------------ICE AEGIS CAVE---------------------
+
+
+Ok after finding the 3 letters (I-C-E), you must get through the 3 floors and 
+read the inscription in the statue, close your eyes and be ready to party!
+
+
+8.4.2 Boss Battle: REGICE
+
+
+--------------------REGICE------------------------
+
+HP: Less than 650
+
+Strategy:
+
+Ok this ain't a hard Pokemon. You just have to inflict as
+much damage as you can. I mean, by this point, your Team
+prolly inflicts between 100 and 150 Damage by Hit. So in...
+4 turns more less, he should be pwned.
+
+
+---------------------------------------------------
+
+HostleX team:
+
+Level :
+
+Timatria = 50
+Dinasty = 50
+
+
+---------------------REGICE-----------------------
+
+
+After defeating the All Mighty Regice, a mysterious light will envelop you. A
+passage will now be open, so all you have to do is walking. You'll see a statue
+and, a few seconds later, Team Charm will appear. Looks like they're very
+proud of your team, but they still wanna reach the Treasure before you guys do!
+
+And we're off to the Regirock Cave!
+
+
+-----------------ROCK AEGIS CAVE--------------------
+                         
+Floors: 
+
+3
+                         
+----------------------------------------------------
+
+Pokemons: 
+
+- Unown
+- Golbat
+- Machoke
+
+
+-----------------------------------------------------
+
+Notes:
+
+* Easy Dungeon
+
+* You get an specific Rock Letter by Killing the Unown of the
+SAME letter.
+
+-----------------------------------------------------
+
+HostleX team:
+
+Level (IN):
+
+Timatria = 50
+Dinasty = 50
+
+
+Level (OUT):
+
+Timatria = 50
+Dinasty = 50
+-----------------ROCK AEGIS CAVE---------------------
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------
+9.- GOTTA RECRUIT 'EM ALL!
+--------------------------------------------------------------------------
+
+(S) = Starter
+(I) = Item Needed
+
+
+
+
+### - Pokemon - Dungeon / Evolution
+
+001 - Bulbasaur - (S) Mystifying Forest
+002 - Ivysaur - Mystifying Forest
+003.- Venasaur - Evolve From Ivysaur
+004 - Charmander - (S) Dark Crater
+005 - Charmeleon - Dark Crater
+006 - Charizard - Sky Rift
+007 - Squirtle - (S) End Lake
+008 - Wartortle - End Lake
+009 - Blastoise - End Lake
+010 - Caterpie
+011 - Metapod - Mystifying Forest
+012 - Butterfree
+013 - Weedle
+014 - Kakuna
+015 - Beedrill
+016 - Pidgey
+017 - Pidgeotto
+018 - Pidgeot
+019 - Ratatta
+020 - Raticate
+021 - Spearow
+022 - Fearow
+023 - Ekans
+024 - Arbok
+025 - Pikachu
+026 - Raichu
+027 - Sandshrew
+028 - Sandslash
+029 - Nidoran(F)
+030 - Nidorina
+031 - Nidoqueen
+032 - Nidoran (M)
+033 - Nidorino
+034 - Nidoking
+035 - Clefairy
+036 - Clefable
+037 - Vulpix
+038 - Ninetales
+039 - Jigglypuff
+040 - Wigglytuff
+041 - Zubat
+042 - Golbat
+043 - Oddish
+044 - Gloom
+045 - Villeplume
+046 - Paras
+047 - Parasect
+048 - Venonat
+049 - Venomoth
+050 - Digglet
+051 - Dugtrio
+052 - Meowth
+053 - Persian
+054 - Psyduck
+055 - Golduck
+056 - Mankey
+057 - Primeape
+058 - Growlithe
+059 - Arcanine
+060 - Poliwag
+061 - Poliwhirl
+062 - Poliwrath
+063 - Abra
+064 - Kadabra
+065 - Alakazam
+066 - Machop
+067 - Machoke
+068 - Machamp
+069 - Bellsprout
+070 - Weepinbell
+071 - Victreebel
+072 - Tentacool
+073 - Tentacruel
+074 - Geodude
+075 - Graveler
+076 - Golem
+077 - Ponyta
+078 - Rapidash
+079 - Slowpoke
+080 - Slowbro
+081 - Magnemite
+082 - Magneton
+083 - Farfetch'd
+084 - Doduo
+085 - Dodrio
+086 - Seel
+087 - Dewgong
+088 - Grimer
+089 - Muk
+090 - Shellder
+091 - Cloyster
+092 - Gastly
+093 - Haunter
+094 - Gengar
+095 - Onix
+096 - Drowzee
+097 - Hypno
+098 - Krabby
+099 - Kingler
+100 - Voltorb
+101 - Electrode
+102 - Exeggcute
+103 - Exxegutor
+104 - Cubone
+105 - Marowak
+106 - Hitmonlee
+107 - Hitmonchan
+108 - Lickitung
+109 - Koffing
+110 - Weezing
+111 - Rhyhorn
+112 - Rhydon
+113 - Chansey
+114 - Tangela
+115 - Kangaskhan
+116 - Horsea
+117 - Seadra
+118 - Goldeen
+119 - Seaking
+120 - Staryu
+121 - Starmie
+122 - Mr. Mime
+123 - Scyther
+124 - Jynx
+125 - Electabuzz
+126 - Magmar
+127 - Pinsir
+128 - Tauros
+129 - Magikarp
+130 - Gyarados
+131 - Lapras
+132 - Ditto
+133 - Eevee
+134 - Vaporeon
+135 - Jolteon
+136 - Flareon
+137 - Porygon
+138 - Omanyte
+139 - Omastar
+140 - Kabuto
+141 - Kabutops
+142 - Aerodactyl
+143 - Snorlax
+144 - Articuno
+145 - Zapdos
+146 - Moltres
+147 - Dratini
+148 - Dragonair
+149 - Dragonite
+150 - Mewtwo
+151 - Mew
+
+
+
+--------------------------------------------------------------------------
+10.- ITEM LIST
+--------------------------------------------------------------------------
+
+This was sent to my E-Mail. So Special Thanks to Yandry
+
+10.1: Held Items [hold]
+
+These items are to be held by you or your teammates.
+They either grant effects or stop effects from taking place.
+
+Amber Tear-Increases recruitment chances
+
+Blue Bow-Raises all stats by 1 
+
+Bounce Band-Thrown items bounce back to tosser
+
+Scarf-Raises Defense by 8 Detect Band-Raises evasion 
+
+Diet Ribbon-Makes belly empty faster 
+
+Dodge Scarf-Makes thrown items miss wearer 
+
+Friend Bow-Increases recruitment chances 
+
+Fuschia Bow-Raises all stats by 1 
+
+Goggle Specs-Makes traps and invisible Pokemon visible
+
+Golden Mask-Maxes out chance of recruiting.
+
+Green Bow-Raises all stats by 1 
+
+Heal Ribbon-Makes health regenerate faster, but belly empty faster too
+
+Joy Ribbon-Gives 5 EXP when you take damage
+
+Lockon Specs-Makes thrown items hit more often
+
+Minty Bow-Raises all stats by 1
+
+Miracle Chest-Increases EXP gained 
+
+Mobile Scarf-Allows wearer to walk on anything, or through walls
+
+No-Aim Scope-Tossed items fly randomly
+
+Orange Bow-Raises all stats by 1 
+
+Pass Scarf-Reflects attacks to adjacent Pokemon, friend or foe
+
+Patsy Band-Increase chance of receiving a critical hit
+
+Pecha Scarf-Prevents poison
+
+Persim Band-Immune to confused while held
+
+Pierce Band-Thrown items go though walls/enemies
+
+Pink Bow-Raises all stats by 1 
+
+Plain Ribbon-Does nothing 
+
+Power Band-Raises Attack by 12 
+
+Purple Bow-Raises all stats by 1 
+
+Racket Band-Wakes up sleeping Pokemon
+
+Red Bow-Raise all stats by 1
+
+Scope Lens-Boost Critical Hit chance
+
+Silver Bow-Raises all stats by 1 
+
+Sky Blue Bow-Raises all stats by 1 
+
+Sneak Scarf-Doesn't wake up sleeping Pokemon
+
+Stamina Band-Slows rate at which belly depletes 
+
+Tight Belt-Prevents belly from emptying
+
+Trap Scarf-Prevents traps from activating 
+
+Twist Band-Attack and Sp. Attack cannot be lowered 
+
+Violet Bow-Raises all stats by 1 
+
+Viridian Bow-Raises all stats by 1 
+
+Warp Scarf-Randomly warps user 
+
+Weather Band-Prevents weather effects from affecting wearer
+
+Whiff Specs-Thrown items always miss
+
+Wonder Chest-Increases EXP gained 
+
+X-Ray Specs-Displays items and foes on floor 
+
+Zinc Band-Raises Sp. Defense by 8
+
+
+
+
+10.2 Evolution Items [evolve]
+
+
+Evolution takes place at the Luminous Spring AFTER you beat the game.
+Until then, evolution cannot take place. 
+So when I say, "Evolves ______ into _______," you have to be in the Spring
+and give the item to the "voice." Also, these items are commonly found in 
+Kecleon shops in the pre-game dungeons, and the Wondermail ones. 
+They are less commonly found as wondermail rewards.
+
+
+
+Beauty Scarf-Evolves Feebas into Milotic
+
+Coronet Rock-Evolves Magneton into Magnezone and Nosepass into Probass
+
+Dawn Stone-Evolves Kirlia into Gallade, and Snorunt into Froslass
+
+Deepseascale-Evolves clamperl into Gorebyss
+
+Deepseatooth-Evolves Clamperl into Huntail
+
+Dragonscale-Evolves Seadra into Kingdra
+
+Dubious Disk-Evolves Porygon 2 into Porygon-Z
+
+Dusk Stone-Evolves Murkrow into Honchkrow and Misdreavus into Mismagius
+
+Electirizer-Evolves Electabuzz into Electivre
+
+Fire Stone-Evolves Eevee into Flareon, Vulpix into Ninetails and 
+                  Growlithe into Arcanine
+
+Frozen Rock-Evolves Eevee into Glaceon
+
+King's Rock-Evolves Slowbro into Slowking, and Poliwhirl into Politoed
+
+Leaf Stone-Evolves Gloom into Vileplum, Weepinbell into Victrible,
+                  Exeggcute into Executor and Nuzleaf into Shiftry
+
+Link Cable-Needed to evolve a number of different Pokemon
+
+Lunar Ribbon-Evolves Eevee into Umbreon, Sneasel into Weavile, 
+                      Chingling into Chimecho, and Gligar into Gliscor
+
+Magmarizer-Evolves Magmar into Magmortor
+
+Metal Coat-Evolves Scyther into Scizor and Onix into Steelix
+
+Moon Stone-Evolves Nidorina into Nidoqueen, Nidorano into Nidoking, 
+                    Clefairy into Clefable, Jigglypuff into Wigglytuff, 
+                    and Skitty into Delcatty
+
+Mossy Rock-Evolves Eevee into Leafeon
+
+Oval Stone-Evolves Happiny into Chansey
+
+Protector-Evolves Rhydon into Rhyperior
+
+Razor Claw-Evolves Sneasle into Weavile
+
+Razor Fang-Evolves Gligar into Gliscor
+
+Reaper Cloth-Evolves Dusclops into Dusknoir
+
+Shiny Stone-Evolves Togetic into Togekiss and Roselia into Roserade
+
+Sun Ribbon-Evolves Eevee into Espeon, Budew into Roselia, Happiny into
+                   Chansey, and Riolu into Lucario
+
+Sun Stone-Evolves Gloom into Belossom, and Sunkern into Sunflora
+
+Thunderstone-Evolves Pikachu into Raichu and Eevee into Jolteon
+
+Upgrade-Evolves Porygon into Porygon 2
+
+Water Stone-Evolves Poliwhirl into Poliwrath, Shellder into Cloyster, 
+                    Staryu into Starmie, Eevee into Vapreon, and Lombre into 
+                    Ludicolo
+
+
+
+10.3 Throw Items [throw]
+
+
+These items only serve one purpose: to be thrown at enemies and hit
+from a range. Very useful. Instead of listing what they do (since they all do
+ damage), I'll just list them and any special traits. 
+
+Geo Pebble - Deals a set 10 Damage
+
+Gravelrock - Deals a set 20 Damage
+Iron Thorn
+
+Rare Fossil - Deals a set 100 Damage
+Silver Spike
+
+
+
+10.4 Stick Food [food]
+
+
+These items are used to fill the Belly of a Pokemon so they don't
+starve to death. Some also even increase the size of the Belly!
+
+Apple-Fills belly by 50
+
+Big Apple-Fills belly by 100
+
+Golden Apple-Fills belly to max
+
+Grimmy Food-Fills belly by 33
+
+Huge Apple-Fills Belly to max
+
+
+
+10.5 Drinks [drink]
+
+
+These are basically your vitamins from the other games. Drink sparingly,
+as besides the Max Elixir, they are rare. The stat (not IQ) boosting ones
+give a stat boost of 3 to said stat.
+
+
+Calcium-Raises Sp. Attack
+
+Ginseng-Raises the power of your selected move (L+A) by 1,
+              or sometimes 3
+
+Iron-Raises Defense
+
+Max Elixir-Refills PP of all moves 
+
+Nectar-Raises IQ 
+
+Protein-Raises Attack
+
+Zinc-Raises Sp. Defense
+
+
+
+10.6 Berries/Seeds [plant]
+
+
+Berries are a wonderful food, and also have effects to help you.
+Seeds can be tossed for some damage, or eaten for special effects, 
+as well as refilling your belly a bit. For Seeds, if they give negative
+effects, eating them will give you the effect. That's never good. Instead,
+throw those seeds, and the target that gets hit will be affected by it.
+I will mark good and bad conditions with a [+] or [-], respectively.
+SO you want to use the [+] ones on yourself, and the [-]ones
+should be thrown.
+
+
+{{Berries}}
+
+Cheri Berry-Cures paralysis
+
+Chesto Berry-Gives Sleepless status, preventing you from going to sleep
+
+Oran Berry-Restores 100HP
+
+Pecha Berry-Curse Poison
+
+Rawst Berry-Curse Burn
+
+Sitrus Berry-Restores 100HP
+
+
+{{Seeds}}
+
+Blast Seed [?]-When eaten hits for 35 Damage in front. When thrown,
+                        does 25 Damage 
+
+Blinker Seed [-]-Cannot see items or other Pokemon 
+
+Doom Seed [-]-Lowers level by 1
+
+Eyedrop Seed [+]-Makes traps and invisble Pokemon visible
+
+Golden Seed [+]-Makes you gain 5 levels. 
+
+Heal Seed [+]-Removes all negative status effects 
+
+Hunger Seed [-]-Reduces max belly by 5
+
+Joy Seed [+]-Makes you gain 1 level
+
+Life Seed [+]-Gives +3 Max HP permanently
+
+Plain Seed-Does NOTHING
+
+Pure Seed [?]-Warps eater to stairs
+
+Reviver Seed [+]-Revives teammate when they faint
+
+Sleep Seed [-]-Puts eater to sleep
+
+Stun Seed [-]-Paralyzes eater
+
+Totter Seed [-]-Confuses Eater
+
+Quick Seed [+]-Raises speed
+
+Vanish Seed [+]-Makes you invisible
+
+Vile Seed [-]-Reduces Defense and Sp. Defense to 1
+
+Violent Seed [+]-Maxes out Attack and Sp. Attack
+
+Warp Seed [?]-Warps eater to random spot on the floor 
+
+X-Eye Seed [-]-Makes vision blurry
+
+
+
+10.7 Gummis [candy]
+
+
+Gummis are little treats for Pokemon. They come in many colors, and
+each type likes a specific color the most. When you give a Pokemon a
+Gummi, it raises their IQ. It raises it more if they like it. If in a Dungeon,
+you have a chance to increase a stat randomly by 1. In my travels, I have
+found they are most commonly found in Marine Resort, in assorted flavors.
+Final Maze also seems to have a semi-decent amount.
+
+
+Black Gummi-Favored by Dark-types
+
+Blue Gummi-Favored by Water-types
+
+Brown Gummi-Favored by Ground-types
+
+Clear Gummi-Favored by Ice-types
+
+Gold Gummi-Favored by Psychic-types
+
+Grass Gummi-Favored by Grass-types
+
+Gray Gummi-Favored by Rock-types
+
+Green Gummi-Favored by Bug-types
+
+Orange Gummi-Favored by Fighting-types
+
+Pink Gummi-Favored by Poison-types
+
+Purple Gummi-Favored by Ghost-types
+
+Red Gummi-Favored by Fire-types
+
+Royal Gummi-Favored by Dragon-types
+
+Silver Gummi-Favored by Steel-types
+
+Sky Gummi-Favored by Flying-types
+
+White Gummi-Favored by Normal-types 
+
+Wonder Gummi-Favored by all types
+
+Yellow Gummi-Favored by Electric-types
+
+
+10.8 Orbs [orbs]
+
+
+Orbs are magical little do-dads. They can do just about anything you
+can imagine that isn't overly cheap (sorry, no Floor Skip, Boss Destruction,
+or Catcher Orbs). Also, Orbs cannot be used in Boss Rooms so all you've
+got in those fights are Seeds and your raw power/skill (good things some
+orbs have Seed equivalents, like the Totter Orb/Seed). Orbs can be
+found in any dungeon, so I won't list locations unless I feel it's important.
+
+
+All-Hit Orb-Raises crit-hit chance
+
+All-Mach Orb-Raises speed for a short time
+
+Blowback Orb-Blows enemy backwards
+
+Cleanse Orb-Cleans up all sticky items
+
+Decoy Orb-Makes you the target of all attacks
+
+Drought Orb-Turns lava and water into walkable land
+
+Escape Orb-Escape from dungeon
+
+Evasion Orb-Raises evasion
+
+Fill-In Orb-Turns water into walkable land
+
+Foe-Fear Orb-Makes all enemies run in fear
+
+Foe-Hold Orb-Immobilizes foes until attacked
+
+Foe-Seal Orb-Foes cannot attack 
+
+Hail Orb-Makes it hail 
+
+Hurl Orb-Tosses enemy in front
+
+Identify Orb-Shows Pokemon that are holding items
+
+Invisify Orb-Makes you invisible 
+
+Itemizer Orb-Turns enemy into an item
+
+Lob Orb-Tosses enemy forward
+
+Longtoss Orb-Makes thrown items go farther
+
+Luminous Orb-Displays whole map
+
+Mobile Orb-Gives Mobile status, which lets you walk on/through everything
+
+Mug Orb-Damages enemy, and steals item
+
+One-Room Orb-Destroy all walls in room
+
+One-Shot Orb-May one-shot the enemy
+
+Petrify Orb-Immobilizes foes until attacked
+
+Pierce Orb-Thrown objects pierce walls and Pokemon
+
+Pounce Orb-Jumps forward until you hit something
+
+Radar Orb-Shows items and foes on floor
+
+Rainy Orb-Makes it rain
+
+Rebound Orb-Reflects damage back to attacker
+
+Rocky Orb-Damages foe, and makes it slower
+
+Rollcall Orb-Calls allies to surround you
+
+Sandy Orb-Makes a sandstorm
+
+Scanner Orb-Displays all items on floor
+
+See-Trap Orb-Shows traps in the room
+
+Stairs Orb-Displays stairs on map
+
+Shocker Orb-Confuses foes
+
+Sizebust Orb-Damages enemy, more damage for larger size
+
+Slow Orb-Foes in room are slowed
+
+Slumber Orb-Makes foes in room sleep
+
+Snatch Orb-All stat boosting effects affect you instead of intended target
+
+Spurn Orb-Warps all foes away 
+
+Stayaway Orb-Warps foes to stairs, and immobilizes them
+
+Sunny Orb-Makes it sunny
+
+Switcher Orb-Switches places with a random target ahead of you 
+
+Totter Orb-Confuses foes in room 
+
+Transfer Orb-Turns target into another Pokemon 
+
+Trapbust Orb-Destroys all traps in room 
+
+Trapper Orb-Sets a trap 
+
+Trawl Orb-Brings all items on floor to you 
+
+Two-Edge Orb-Reduces all enemies' HP to 1, and cuts your HP in half for
+         each enemy it affects
+
+Quick Orb-Raises all ally's speed
+
+Warp Orb-Warps enemy away
+
+
+10.9 HMs [moves]
+
+HMs are just like TMs, but they don't break. Below are locations of all HMs.
+HMs cannot be earned in dungeons. Also, this is how I will display HMs:
+
+Name - Type - PPAttack Power (AP) - Accuracy (Acc.)-Info
+
+They are ALL found in Marowak Dojo Final Maze, on random floors.
+Just gotta get lucky. 
+
+
+Cut - Normal - 10PP10 AP - 74 Acc.-Damages enemies all around you
+
+Defog - Flying - 12PP0 AP - 100 Acc.-Lowers Evasion of foes in room
+
+Fly - Flying - 12PP14 AP - 100 Acc.-Flies up, then next turn attacks
+
+Rock Climb - Normal - 14PP12 AP - 88 Acc.-May confuse target
+
+Rock Smash - Fighting - 99PP0 AP - Perfect Acc.-Destroys wall in front
+
+Strength - Normal - 12PP0 AP - 100 Acc.-Throws enemy
+
+Surf - Water - 11PP18 AP - 88 Acc.-Damage doubles if enemy used
+
+Dive Waterfall - Water - 12PP16 AP - 88 Acc.-May make foe cringe
+
+
+
+10.10 Special Items [!*!*!]
+
+You really can't use these items. They're like Key Items really.
+
+
+Key-Unlocks locked rooms
+
+Link Box-Use to link moves without the Electivre Shop
+
+Lost Loot-Sell for 4000 Poke
+
+Mystery Part-Makes legendaries appear in certain dungeons
+
+Secret Slab-Makes legendaries appear in certain dungeons
+
+Wonder Egg-Hatches into Manaphy
+--------------------------------------------------------------------------
+11.- WONDER MAILS
+--------------------------------------------------------------------------
+
+Here I'll post some Wonder Mails for you to unlock all the Dungeons.
+
+I'll also post some Wonder Mails for some Items you probably want to adquire
+since with them you can have a higher recruitment %.
+
+Notice that I'm getting most of this information from Drayano's guide. He
+was kind enough to let me use the information of his guide. Thanks a lot.
+
+To read Drayano's Legendary guide visit:
+
+http://www.gamefaqs.com/portable/ds/file/938931/52663
+
+
+
+=================
+ITEM PASSWORDS
+=================
+
+GOLDEN MASK
+--------------
+Client: Magnezone
+Objective: Arrest Venomoth.
+Place: Beach Cave B2F
+Restrictions: None
+Difficulty: D (15)
+Reward: Golden Mask
+Wonder Mail:
+@ Q Y P S J @ - N - J %
+T H 6 = 4 - S K 3 2 C R
+
+
+MYSTERY PART
+--------------
+Client: Hoothoot
+Objective: Prospect with Hoothoot.
+Place: Beach Cave B4F
+Restrictions: None
+Difficulty: D (15)
+Reward: ?????? (Information on the reward would be helpful.)
+Wonder Mail:
+# C 3 W P 4 & X 3 Q 8 6
+5 5 2 C & 6 K - 8 P P 5
+(Look with Hoothoot for a Mystery Part on B4F.)
+
+
+SECRET SLAB
+--------------
+Client: Houndoom
+Objective: Prospect with Houndoom.
+Place: Crevice Cave
+Restrictions: None
+Difficulty: *5 (500)
+Reward: 600 Poke + ?
+Wonder Mail:
+S = W 7 3 & 8 S 2 C S Q
+0 - 7 Y H P 3 + H 2 6 0
+
+
+
+=================
+DUNGEON PASSWORDS
+=================
+
+HAPPY OUTLOOK
+--------------
+Client: Cranidos
+Objective: Explore with Cranidos.
+Place: ???
+Restrictions: None
+Difficulty: *5 (500)
+Reward: 600 Poke
+Wonder Mail:
+9 2 M K Q F 2 X M # H Q
+9 T # 1 & K J # W 1 K 9
+
+MIDNIGHT FOREST
+---------------
+Client: Shroomish
+Objective: Explore with Shroomish.
+Place: ???
+Restrictions: With Poison-type partner
+Difficulty: *5 (500)
+Reward: TM64 Explosion
+Wonder Mail:
+X 7 = C J 8 + 3 F R W K
++ 9 1 9 H % 0 9 Y + F +
+
+SHIMMER HILL
+--------------
+Client: Magcargo
+Objective: Explore with Magcargo.
+Place: Shimmer Hill
+Restrictions: None
+Difficulty: *4 (400)
+Reward: ???
+Wonder Mail:
+M P 5 5 1 0 F 4 2 6 H T
+T P 1 S 4 F M F & K S J
+
+MT. MISTRAL
+------------
+Client: Yanma
+Objective: Explore with Yanma
+Place: Mt. Mistral
+Restrictions: None
+Difficulty: *5 (500)
+Reward: ???
+Wonder Mail:
+Q & + 2 % 1 C S S 1 X M
+W Y - 4 8 T 0 T C 2 0 Y
+
+
+
+-- FOR WONDER MAIL LEGENDARIES --
+==================================
+
+Each of these Wonder Mails will give you a letter that will tell you to hunt
+down a particular item.
+
+MT. AVALANCHE
+--------------
+Objective: Search for the Icy Flute!
+Amount of Floors: 19F / Peak
+Wonder Mail:
+4 M P = K 9 8 # C T % Y 
+R @ - - & P 7 % % K 8 6
+
+MYSTERY JUNGLE
+--------------
+Objective: Search for the Grass Cornet!
+Amount of Floors: 29F / Deep
+Wonder Mail:
+X % 8 S W Y Y + S - J F 
+P F H @ @ # # K 5 W 8 K
+
+BOTTOMLESS SEA
+--------------
+Objective: Search for the Aqua-Monica!
+Amount of Floors: B49F / Depths
+Wonder Mail:
+F N 0 1 H W N - 0 0 % F 
+8 6 7 8 + X Y @ & % # 3
+
+SHIMMER DESERT
+-----------------
+Objective: Search for the Earth Cymbal!
+Amount of Floors: 9F / Interior
+Wonder Mail:
+# & S 6 N Y 2 & Y J N = 
+1 P 5 7 F 0 M N M H 7 Y
+
+SKY STAIRWAY
+-------------
+Objective: Search for the Sky Melodica!
+Amount of Floors: 49F / Apex
+Wonder Mail:
+H W + 8 6 6 % T 5 S 5 1
++ J 5 Y 4 - K # H @ P -
+
+GIANT VOLCANO
+-------------
+Objective: Search for the Fiery Drum!
+Amount of Floors: 19F / Summit
+F H 0 T H Y N H R 0 Q F 
+8 6 N 8 + S Y @ & % Y N
+
+WORLD ABYSS
+--------------
+Objective: Search for the Rock Horn!
+Amount of Floors: B29F / Pit
+W N W Y J X T K & 5 C 1 
+4 N 3 - P 4 N M 8 K & C
+
+
+
+
+
+--------------------------------------------------------------------------
+12.- FAQ (FREQUENTLY ASKED QUESTIONS)
+--------------------------------------------------------------------------
+
+Q: Where can I talk about any of your guides?
+A: www.carlospit.co.nr
+
+Q: Any difference between Explorers of Time and Darkness?
+A: I think the Storyline doesn't changes, but the Pokemons
+    and their appearance % does. 
+
+Q: I always get the same Pokemon! Any help?
+A: Have u ever lied? lol. There's a nice guide in GameFaqs
+    so you know what to answer to be a certain pokemon.
+
+Q: How many Pkmns can I recruit in this game?
+A: Hmm, If I ain't wrong... 491. I'll soon release a section named
+    "You gotta Catch 'em All" where you can see all the locations.
+
+Q: How can I evolve my Pkmn?
+A: You can only evolve them after you finish the Storyline, you can
+    evolve them by going to Luminous Cave.
+
+Q: I'm playing Explorers of Darkness but I can't recruit Celebi!
+A: Your answer is there! You're playing Explorers of DARKNESS!
+     Explorers of Darkness allows you to recruit Mewtwo, not Celebi.
+
+Q: I'm playing Explorers of Time but I can't recruit Mewtwo!
+A: ... You're playing Explorers of TIME! This version allows you
+    to recruit Celebi, not Mewtwo.
+
+Q: Where can I find the latest version of this guide?
+A: www.gamefaqs.com
+
+Q: How to unlock Marine Resort?
+A: 5 days after Manaphy returns, he will say there's a place with a lot
+    of goommies. That's Marine Resort.
+
+Q: Where can I find Gummies?
+A: Blue = Craggy Coast
+    Anyone = Marine Resort
+
+Q: How to evolve my starters?
+A: You must defeat Darkrai, Recruit Palkia and unlock Marine Resort.
+
+Q: I saw Team Raider by the beach, what's going on with them?
+A: They like the beach, that's all. They won't do anything special.
+
+
+*If you have a good questions send it to carlospit_faq@hotmail.com
+ so I can add you to the special thanks section and add the question
+ to the FAQ.*
+
+
+--------------------------------------------------------------------------
+13.- HELP ME WITH THE GUIDE :]
+--------------------------------------------------------------------------
+
+What do I need to make this guide the best one out there?
+
+- Where does Chapter 7 starts
+
+- Where does Chapter 7 finishes
+
+- Your strategies on how to kill the Bosses.
+
+- Your Tips
+
+- Your Questions
+
+- If I miss any Pkmn.
+
+--------------------------------------------------------------------------
+14.- CONTACT ME!
+--------------------------------------------------------------------------
+
+If you have any doubt about the game, or you want to host this guide
+in your website, here's my info:
+
+Msn: carlospit_faq@hotmail.com
+Gmail: carlosk@mariareinamarianistas.net
+Skype: carlosknox
+GameFaqs/FaqsIgn/Supercheats/Neoseeker: CarlosPit
+
+If you just want to send me a mail saying "Thanks", do it please.
+A simple "Thanks" will make my day.
+
+Please, don't send me spam.
+
+I will answer ALL the questions, but please, first check the FAQ
+Section. If your question is a good one, I'll add you to the Special
+Thanks section and add your Question to the FAQ.
+
+Latest Version of this Walkthrough will be posted in GameFaqs.
+
+www.gamefaqs.com
+
+
+--------------------------------------------------------------------------
+15.- SPECIAL THANKS
+--------------------------------------------------------------------------
+
+- My Family, for being cool with me.
+
+- You, for reading it.
+
+- Nintendo, for creating this awesome game.
+
+- www.gamefaqs.com, for being the first site that hosted my guide.
+
+- Drayano, for letting me use a lot of information from his guide! Thanks a lot!
+
+- Mipe, for correcting me (Chapter 2)
+
+- Jesus, giving me this awesome life.
+
+
+© 2008 Carlos Knox (CarlosPit)
+

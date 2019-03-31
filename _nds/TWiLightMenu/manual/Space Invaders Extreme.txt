@@ -1,0 +1,705 @@
+Space Invaders Extreme (DS)
+FAQ v. 1.6
+(C) Grant Laughlin
+
+******************************************************************************
+
+Table of Contents
+
+- Acknowledgments
+- Version History
+- Unknown Items
+- Unlockable Features
+- General Tips
+- Basic Structure of the Game
+- Enemies
+- Weapons
+- Bonuses
+- Roulettes
+- Round Start and Fever Time
+- VS Play
+- Contact Information
+- Copyright and License Agreement
+
+
+
+*******************
+* Acknowledgments *
+*******************
+
+This document contains many discoveries, most of them by others before me. 
+I do not claim to be the first or only person to have noticed them, nor to
+have found all of the things here by myself. My thanks to all those who have
+shared their knowledge about the game.
+
+It also bears mentioning that all things that have been discovered were
+originally put there by the developers of the game. It's cleverly designed
+and intensely fun to play. Bravo.
+
+- Unlockable Features taken from GameFaqs.
+  - Thanks to Opticonal, discoinferno84, and ThePuppeteer.
+- Rainbow Bonus info from gs68.
+
+
+
+*******************
+* Version History *
+*******************
+
+Version 1 - July 31, 2008.
+
+Version 1.5 - August 1, 2008.
+- Added my friend code.
+- Detailed ROUND START info translated.
+- 20 waves per round confirmed.
+- Tons of info translated and corrected.
+
+Version 1.6 - August 2, 2008.
+- Rate & break details.
+- Shapes demystified.
+- Yellow UFO summoning.
+- General tips added.
+
+Version 1.7 - August 7, 2008.
+- A little clean-up.
+- Rainbow bonus info.
+
+
+*****************
+* Unknown Items *
+*****************
+
+- What are the bass, drum, chord (chrd), and lead on the top screen?
+- No regional differences... right? (I have the US version)
+- Better description for Flash shot.
+- Confirm causes for Color Change, Type Change, Flash shot, Roulette?
+- Endless mode confirmation?
+
+
+
+***********************
+* Unlockable Features *
+***********************
+
+- Extreme Mode: Complete Stage 5 (any difficulty) of arcade mode.
+  Extreme mode offers stages with increased difficulty.
+  
+- Stage Mode: Available after completing any stage.
+  All stages that you have completed will be available in stage mode.
+
+- Endless Mode: Complete all stages in arcade mode.
+  Play all stages successively without boss battles.
+  ***Needs confirmation. Might be PSP only.***
+  ***I have done this, but cannot access Endless Mode.***
+  ***May not exist, is listed for completeness.***
+
+
+
+****************
+* General Tips *
+****************
+
+- You can set your player stock to 5 in the options for Arcade Mode.
+
+- If you find the background distracting, you can turn it off or 
+    reduce its brightness in the options.
+
+- Fever times are an excellent way to skip the end of your current 
+    wave, and quickly mow down difficult waves in Arcade Mode.
+
+- If you're having difficulty beating a stage, try to beat the previous
+    waves without dying. This will allow you to start the difficult stage 
+    with a higher level, and possibly extra lives. (See bonuses)
+
+- If you're going for score, breaks and fever times are very important.
+    Along with keeping your score multiplier high. Destroying rows and
+    columns of invaders can give you an additional score boost.
+
+- For maximum point bonuses from fevers and breaks, try to get the more
+    difficult round starts, which have longer fever times and better weapons.
+
+- Against human opponents, the most annoying type of invaders to send are
+    usually reflect and assault. Also, consider the color of the invaders
+    you are sending. Bomb is great against reflect invaders, while laser
+    is weak against them. So when sending red invaders, avoid the blue
+    UFO. Blue invaders, on the other hand, are best sent with the blue UFO,
+    to avoid giving your opponent a useful weapon.
+
+- Also, watch the top screen. If possible, send a large group at a difficult
+    time, like when they've just started a wave.. Avoid sending an attack
+    when your opponent has almost finished his or her wave.
+
+
+
+
+*******************************
+* Basic Structure of the Game *
+*******************************
+
+The game consists of 5 stages, each composed of several 20 waves, and 
+followed by a special boss round. Stages have one 'extreme' version, and 
+one or more 'normal' versions that can be accessed via branching pathways 
+if you score well enough on the previous stage, as I hope the following 
+crude diagram will illustrate.
+
+                  5A
+             4A <
+        3A <      5B
+1 - 2 <      4B <
+        3B <      5C
+             4C <
+                  5D
+
+After completing a stage, you will be given a rank of D, C, B, A, or S.
+The requirement for a certain rank is simply a high enough score.
+
+                   S              A             B             C
+__________________________________________________________________
+Stage 1        1,200,000       950,000       750,000       550,000
+
+Stage 2        1,200,000     1,000,000       800,000       550,000
+
+Stage 3-A      1,200,000     1,000,000       800,000       550,000
+Stage 3-B      1,300,000     1,050,000       850,000       550,000
+
+Stage 4-A      1,200,000     1,000,000       800,000       550,000
+Stage 4-B      1,500,000     1,200,000       950,000       600,000
+Stage 4-C      1,600,000     1,300,000     1,000,000       700,000
+
+Stage 5-A      1,300,000     1,050,000       850,000       550,000
+Stage 5-B      1,300,000     1,050,000       850,000       550,000
+Stage 5-C      1,400,000     1,150,000       900,000       650,000
+Stage 5-D      1,450,000     1,250,000       950,000       700,000
+
+Total 5-A      5,750,000     4,800,000     3,900,000     3,000,000
+Total 5-B      6,250,000     5,200,000     4,200,000     3,200,000
+Total 5-C      6,750,000     5,600,000     4,500,000     3,400,000
+Total 5-D      7,000,000     5,900,000     4,700,000     3,500,000
+
+EXTRA STAGES        S             A             B             C
+__________________________________________________________________
+Stage 1        1,000,000       800,000       600,000       350,000
+Stage 2        1,000,000       800,000       600,000       350,000
+Stage 3        1,100,000       900,000       700,000       450,000
+Stage 4        1,400,000     1,150,000       900,000       650,000
+Stage 5        1,400,000     1,150,000       900,000       650,000
+Total          6,000,000     4,900,000     3,800,000     2,700,000
+
+If you had zero fever times for a stage, your rank will be decreased
+by one.
+
+You will not be given a choice of your next stage if you didn't achieve
+at least rank B.
+
+
+
+
+***********
+* Enemies *
+***********
+
+Enemies consist of invaders and UFOs.
+
+All invaders have a shape and a color, in addition to type.
+The colors are red, blue, green, white, and black. 
+
+The shape determines the point value of the invader. 
+- 100 pt. invaders look kind of like a mushroom cloud.
+- 200 pt. invaders look like they have arms, legs, and antennae.
+- 300 pt. invaders look like squid, and are slightly narrow.
+
+
+TYPE is one or more of the following:
+- Normal
+- Bomb
+- Armor - Has a white bar in front of it. There are two varieties:
+    Armor that takes 2 hits, and armor that takes 4 hits.
+- Reflect - Has a yellow, curved barrier in front of it. Two varieties:
+    Barrier type 1 is destroyed by, but reflects the first shot that hits it.
+    Barrier type infinity can only be destroyed by shooting it when its 
+        barrier opens, or by aiming at the exact center.
+    Both types are impervious to laser.
+- Color Change - Changes color.
+- Split - Comes in split-2 and split-3 types.
+- Assault - When hit once, will begin to fall. Comes in two varieties:
+    Direct assault invaders move straight down when hit.
+    Indirect assault invaders move in a stair-step pattern.
+- Huge - Takes 10 hits to kill.
+- Fast Shot - Fires a fast bullet.
+- Three-way - Fires a spread of three bullets at once.
+- Short Laser - Fires a short laser directly down.
+- Twin Laser - Fires two diagonal lasers.
+- Intruder - Enters from the side, and pauses to fire twin lasers.
+- Teleport - Teleports in front of the player before firing.
+- Dash - Moves in a circular pattern.
+- Micro - A very small invader.
+- Bound - Stuck inside a bubble, the first hit will send it careening.
+
+
+UFOs occasionally fly by, as well; usually they go by at the top of the 
+screen, above the invaders, but will, on some waves, fly by in the middle of 
+the screen. They are worth bonus points when shot, and some of these have 
+special properties.
+- White: No special properties.
+- Blue: Will charge up, and find a laser.
+- Green: Will add white invaders to the current wave.
+- Yellow: Will trigger the ROULETTE.
+- Red: Will trigger a ROUND START.
+- Flashing: Will trigger a ROUND START. Only appears when summoned.
+
+Shots fired by enemies are of various types, as well. There are normal shots,
+that either appear as squiggles or vertical lines, and diagonal shots. Both 
+can be shot down. Ball shots break into two diagonal shots when shot. Purple
+lasers are fired vertically and horizontally, and cannot be shot. Blue lasers
+are only fired downwards, and require charging before they are fired, but 
+cover the distance between the invader or UFO and the player instantly.
+
+
+
+***********
+* Weapons *
+***********
+
+Your normal shot's effectiveness depends on your level, which can be seen on
+the top screen. When you get enough points, you'll be promoted to the next
+level. 
+
+As your level increases, your shots will become faster and more powerful. 
+Plus, you'll be able to fire them faster, and you'll be able to have more on
+the screen at a time.
+
+If you die, your level will be decreased by two.
+
+Level  Score   Speed   On-Screen   Firing Delay   Shot Power 
+  1        0    1.00           1           0.25          1.0
+  2     100K    1.00           1           0.25          1.1
+  3     200K    1.17           1           0.25          1.2
+  4     500K    1.00           2           0.25          1.0
+  5     500K    1.00           2           0.25          1.1
+  6     500K    1.17           2           0.25          1.1
+  7     500K    1.17           2           0.25          1.2
+  8     500K    1.33           2           0.25          1.2
+  9     600K    1.17           2           0.17          1.3
+ 10     600K    1.33           2           0.17          1.3
+
+Speed is relative, as is shot power. Firing delay is in seconds.
+This information is from the official site. I have not confirmed it.
+
+
+If you destroy four invaders of the same color in a row, they will drop a 
+power-up. All power-ups are temporary, and are effective only until the meter
+on the left of the screen depletes. 
+
+RED:    "Bomb" Wider than normal shot, and has a blast effect. Kills 'reflect'
+        enemies instantly.
+GREEN:  "Broad" Several normal shots in a row.
+BLUE:   "Laser" Damages all enemies in a vertical line from the player.
+BLACK:  Provides the player with a shield. The player is invulnerable to 
+        normal shots and explosions while the shield is present. The player's 
+        shot is unmodified. The shield lasts longer than other power-ups.
+
+You can deactivate these power-ups by holding down L or R. You will lose all
+effects of the power-up by doing this, but the power-up's meter will not 
+deplete while it is deactivated.
+
+Extra powerful versions of these available by successfully completing a 
+ROUND START.
+
+One additional power-up is only available through the roulette, and is 
+seperate from other power-ups: Multi-player creates a 'shadow' player that 
+follows behind you, shooting one regular shot when the player shoots. This 
+shadow is unaffected by other power-ups, has no time-limit - it lasts until 
+you die. If you receive multi-player twice, there is no additional effect.
+
+There are also special weapons available by completing a ROUND START.
+These weapons will only be available for the duration of FEVER TIME.
+
+
+
+***********
+* Bonuses *
+***********
+
+First, notice that there is a 'rate' and a 'chain' on the top screen. The 
+'chain' is how many invaders and UFOs you've destroyed with less a delay
+of two seconds or less between kills.
+
+The 'rate' is a score multiplier. When it's bar becomes full, it goes up.
+
+If you rate is increased beyond 5x, it triggers a 'break.' Breaks last for 
+seven seconds, during which your score will be 10x. If you can complete a 
+ROUND START during a break, your fever time will last 150% as long as normal,
+which allows you to get super-jackpot UFOs. When a break ends, your rate
+is reset.
+
+
+1 COLUMN:                100 pts.
+2 COLUMNS:               250 pts.
+3 COLUMNS:             1,000 pts.
+4 COLUMNS:             7,500 pts.
+5 COLUMNS:            10,000 pts.
+    Awarded for clearing a column.
+    Must be 
+
+1 ROW:                   500 pts.
+2 ROWS:                2,500 pts.
+3 ROWS:               10,000 pts.
+
+SHOOT UFO QUICKLY:     5,000 pts.
+    For shooting a UFO within .8 
+    seconds of its appearance.
+
+SAME SHAPE x 10:       7,500 pts.
+SAME COLOR x 10:      10,000 pts.
+UFO x 10:             10,000 pts.
+
+PERFECT SHOOTING:     20,000 pts.
+
+NAGOYA ATTACK:        Points x 20
+    For shooting invaders on the
+    lowest part of the screen.
+
+RAINBOW BONUS:        10,000 pts.
+   During break, for shooting the last 100 pt invader that is leaving a trail.
+
+ALL LIGHTED:           EXTRA LIFE
+    Awarded if the three row lamps, 
+    five column lamps, and the same 
+    color and same shape lamp are lit.
+
+JACKPOT:              10,000 pts.
+SUPER JACKPOT:        20,000 pts.
+
+
+FEVER BONUS:  Enemies x 2000 pts.
+    Awarded at the end of a fever time.
+    If it was caused by ROUND 16,
+    the bonus will be 2750 each.
+
+STAGE END BONUS:  Seconds x 10,000 pts.
+    Awarded if you finish a stage
+    while still in fever time.
+
+BOSS BONUS:   1:      15,000 pts.
+              2:      20,000 pts.
+              3-A:    25,000 pts.
+              3-B:    30,000 pts.
+              4-A:    25,000 pts.
+              4-B:    30,000 pts.
+              4-C:    50,000 pts.
+              5-A:    30,000 pts.
+              5-B:    50,000 pts.
+              5-C:    75,000 pts.
+              5-D:   100,000 pts.
+              E-1:    20,000 pts.
+              E-2:    25,000 pts.
+              E-3:    45,000 pts.
+              E-4:    70,000 pts.
+              E-5:   125,000 pts.
+
+
+
+
+When you destroy an invader that is not white, that invader's color will be 
+recorded on the right hand side of the screen. If you destroy four invaders 
+of the same (non-white) color in a row, they will drop a power-up 
+corresponding to their color. If you destroy four RED, GREEN, or BLUE 
+invaders followed by a different-colored four RED, GREEN, or BLUE invaders, 
+it will summon a flashing UFO that will trigger a ROUND START if shot.
+
+If you shoot many enemies with your normal shot without missing, you will 
+receive a 'SNIPE COMMANDER' bonus. 
+
+CHANGE TO UFO: All Invaders will become UFO-shaped, and will drop power-ups 
+    if they are not white. Lasts for five seconds. Caused by shooting 100 pt. 
+    invaders without two of the same color in a row.
+
+COLOR CHANGE: All invaders will become the same color. Lasts for six seconds.
+    Caused by shooting 200 pt. invaders without shooting two of the same color
+    in a row.
+
+TYPE CHANGE: All invaders will become normal type. Caused by shooting 300 pt.
+    invaders without two of the same color in a row.
+
+FLASH SHOT: I haven't seen this.
+    Caused by shooting four 200 pt. invaders, followed by four 100 pt. 
+    invaders. Again, you must not shoot two of the same color in a row.
+
+ROULETTE: A yellow UFO will be summoned, which will allow access to the 
+    roulette. Caused by shooting four 300 pt. invaders, followed by four
+    200 pt. invaders, with no color repeats.
+
+
+
+
+*************
+* Roulettes *
+*************
+
+Roulettes are triggered by shooting yellow UFOs. What causes yellow UFOs to 
+appear is unknown.
+
+When roulette is triggered, the bottom screen is frozen, and the player is 
+given 10 seconds to fire a shot at a spinning wheel of invaders on the top 
+screen. Depending on what color of invader is shot, the player will receive 
+a bonus before resuming play on the bottom screen.
+- BLACK: No bonus.
+- WHITE: 100,000 points.
+- BLUE: Freeze. The invaders on the bottom screen are frozen for a short time.
+- YELLOW: Extra life.
+- GREEN: Multi-player power-up.
+- RED: Triggers a ROUND START.
+
+
+
+******************************
+* Round Start and Fever Time *
+******************************
+
+A ROUND START can be triggered by shooting a red invader during a roulette,
+or shooting a red or flashing UFO. Afterwards the player will be given a 
+certain challenge. This challenge is completely removed from the normal game:
+You will be not have any power-ups from the normal game, your level does not 
+apply, and you will not receive points for your score. On the other hand, 
+being hit will not result in your death, but only incur a time penalty for 
+your challenge.
+
+If you complete a ROUND START, the end of your previous wave will be skipped,
+and you will begin the next wave with your fever time weapon. If you fail a 
+challenge, you simply return to the previous wave as you left it.
+
+During fever time, UFOs that appear are Jackpot UFOs that will yield a large 
+point bonus. If you get a fever time during break, you can get Super-Jackpot 
+UFOs that are worth even more points.
+
+During fever time, no power-ups appear. If you die during fever time, it will 
+not end fever time, but your fever time meter will continue to decrease even 
+while the invaders stop and your new player appears.
+
+
+Round Time: The amount of time you'll be given to complete the round.
+    The first number is the time you'll be given the first time you are given 
+    that challenge. The second time, you'll receive the second time.
+    Subsequent times, you'll have the last number.
+Fever Time: The amount of time the succeeding fever time will last.
+    This is the basic amount. The full total will be:
+        Basic Amount + Rate x 1sec. + Remaining round time * 0.5 sec
+    If you get a fever time during a break, your time will be:
+        Basic Amount + 5 sec. + Remaining round time * .5 sec
+
+
+1) 4 Red, 4 Blue (Any shape)
+Name: ?
+Description: Normal invaders fall from the top screen. Your ship has momentum 
+    in this mode only. 
+Goal: Destroy 15 invaders.
+Round Time: 15 sec. / 14 sec. / 13 sec.
+Fever Time: 8 sec.
+Weapon: Double-fire Bomb
+
+2) 4 Green, 4 Blue (Any shape)
+Name: SHOOT UP FORMATION
+Description: Large groups of invaders appear on the top screen.
+Goal: Destroy 3 groups.
+Round Time: 20 sec. / 19 sec. / 18 sec.
+Fever Time: 9 sec.
+Weapon: Double-fire Broad-shot
+
+3) 4 Blue, 4 Green (Any shape)
+Name: ?
+Description: Invaders pour down from the top screen. 
+Goal: Destroy 12 invaders.
+Round Time: 13 sec. / 11 sec. / 10 sec.
+Fever Time: 9 sec.
+Weapon: Double-fire Broad-shot
+
+4) 4 Green, 4 Red (Any shape)
+Name: Snipe Commander?
+Description: Red UFOs and white invaders will travel diagonally down the 
+    screen, then back up again. 
+Goal: Shoot 8 Red UFOs.
+Round Time: 14 sec. / 13 sec. / 12 sec.
+Fever Time: 9 sec. 
+Weapon: Double-fire Broad-shot
+
+
+5) 4 Red, 4 Green (Any shape)
+Name: ?
+Description: Large numbers of burst invaders pour down from the top screen.
+    You have bomb.
+Goal: Destroy 32 invaders.
+Round Time: 16 sec. / 15 sec. / 14 sec.
+Fever Time: 9 sec.
+Weapon: Double-fire Bomb
+
+6) 4 Blue, 4 Red (Any Shape)
+Name: ?
+Description:  Groups of 5 UFOs will fly past, firing lasers. 
+Goal: Destroy 16 UFOs.
+Round Time: 15 sec. / 14 sec. / 13 sec. 
+Fever Time: 9 sec.
+Weapon: L-Laser
+
+7) 4 Red, 4 Blue (1 shape each)
+Name: 
+Description: Bomb invaders surrounded by normal invaders fall from the top 
+    screen.
+Goal: Destroy 10 bomb invaders.
+Round Time: 19 sec. / 17 sec. / 16 sec.
+Fever Time: 9 sec.
+Weapon: Triple-fire Bomb
+
+8) 4 Blue, 4 Green (1 shape each)
+Name: 
+Description: Huge invaders fall from the top of the screen while reflect 
+    invaders pass back and forth overhead. You have laser.
+Goal: Destroy 10 huge invaders.
+Round Time: 18 sec. / 16 sec. / 15 sec.
+Fever Time: 9 sec.
+Weapon: Mega Laser
+
+9) 4 Green, 4 Red (1 shape each)
+Name: SHOOT POPPING INVADERS ? 
+Description: Invaders hide in the space between screens, popping out
+    occasionally.
+Goal: Destroy 6 invaders.
+Round Time: 15 sec. / 14 sec. / 13 sec.
+Fever Time: 10 sec.
+Weapon: Triple-fire Broad-shot
+
+10) 4 Blue, 4 Red (1 shape each)
+Name: 
+Description: Red UFOs, each paired with a single white invader, float upwards.
+Goal: Destroy 8 UFOs.
+Round Time: 16 sec. / 15 sec. / 14 sec.
+Fever Time: 10 sec.
+Weapon: Short Laser
+
+11) 4 Green, 4 Blue (1 shape each)
+Name: 
+Description: A UFO hovers overhead. When shot, it drops yellow items.
+Goal: Collect 50 items.
+Round Time: 15 sec. / 14 sec. / 13 sec.
+Fever Time: 10 sec.
+Weapon: Triple-fire Broad-shot
+
+12) 4 Red, 4 Green (1 shape each)
+Name: 
+Description: Six UFOs circle overhead while invaders fall down.
+Goal: Destroy all UFOs.
+Round Time: 16 sec. / 14 sec. / 13 sec.
+Fever Time: 9 sec.
+Weapon: Triple-fire Bomb
+
+13) 4 Green + 4 Blue (All same shape)
+Name: 
+Description: Bomb invaders flanked by reflect invaders float upwards.
+Goal: Destroy 10 bomb invaders.
+Round Time: 19 sec. / 17 sec. / 14 sec.
+Fever Time: 11 sec.
+Weapon: Triple-fire Broad-shot + Multiplayer
+
+14) 4 Blue + 4 Red (All same shape)
+Name: 
+Description: Bomb invaders and reflect invaders fall downwards slowly.
+    You have L-Laser.
+Goal: Destroy 8 bomb invaders.
+Round Time: 20 sec. / 18 sec. / 17 sec.
+Fever Time: 10 sec.
+Weapon: T-Laser
+
+15) 4 Red + 4 Green (All same shape)
+Name: 
+Description: Many normal invaders fly left and right above you. You have bomb.
+Goal: Destroy all invaders.
+Round Time: 16 sec. / 14 sec. / 13 sec.
+Fever Time: 12 sec.
+Weapon: Big Bomb
+
+16) Encounter all prior 15 challenges, then have a new ROUND START.
+Name: SHOOT TWINS
+Description: Two huge invaders fire lasers at you.
+Goal: Destroy both huge invaders.
+Round Time: 21 sec. / 19 sec. / 17 sec.
+Fever Time: 12 sec.
+Weapon: Short Laser.
+*** All UFOs during this fever time will be super jackpot UFOs ***
+
+
+*** Double-fire X is like the normal X, except that you can have two shots 
+    on screen at once. 
+*** Triple-fire, similarly, allows for three shots on screen at a time.
+*** Big bomb and mega laser have drastically increased areas of effect.
+*** L-Laser turns to the left or right when it strikes an enemy.
+*** T-Laser branches to the left and right when it strikes an enemy.
+
+
+***********
+* VS Play *
+***********
+
+When you play against another human opponent, some elements of the game are 
+changed. You can no longer summon flashing UFOs, and the effect of UFOs is 
+different. Instead of providing you with bonuses, instead they serve to send 
+attacks at your opponent.
+
+When you shoot invaders, they will be placed in a line at the bottom of the 
+top screen. The next time you shoot a UFO, they will be sent to your 
+opponent's screen. Their color will be maintained, however their type will 
+depend on the color of UFO that you shot.
+
+They appear in this order.
+
+WHITE: Normal
+RED: Three Way
+GREEN: Armor
+BLUE: Reflect
+YELLOW: Assault
+
+If one player dies 3 times, then the other player is the winner. If not, 
+then after a period of time (?), the player with the higher score (?) will 
+be declared the winner.
+
+If you play via wi-fi connection, your wins (but not losses) will be tallied,
+and your rating will be modified with each win or loss. Your rating starts at
+5,000, and is increased with every win; decreased with every loss. If your 
+opponent is ranked above you, you will be rewarded more for a win, and 
+penalized less for a loss. The reverse is true if your opponent is ranked 
+below you.
+
+Opponents whose rank is much, much higher or lower than you will not be 
+provided through the wi-fi matching service. I don't know what the cut-off 
+or allowed difference is.
+
+My name online is 'GRANT.' Maybe I'll see you online!
+
+
+
+***********************
+* Contact Information * 
+***********************
+
+If you have any corrections or additions to this document, please send me an 
+email at this address, AFTER REMOVING THE Z.
+
+Zinvaders@matchpile.com
+
+Please put 'Space Invaders Extreme' in the subject line for prompt response.
+I will happily credit all those who send me information that I include.
+
+
+
+***********************************
+* Copyright and License Agreement *
+***********************************
+
+This document may not be reproduced under any circumstances except for personal
+or private use.  It may not be placed on any website or otherwise distributed
+publicy without advance written permission.  Use of this guide on any other
+website or as a part of any public display is strictly prohibited and is a
+violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+Copyright 2008 Grant Laughlin

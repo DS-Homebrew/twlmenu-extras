@@ -1,0 +1,503 @@
+----------------------------WORMS OPEN WARFARE 2------------------------------
+---------------------------------WALKTHROUGH----------------------------------
+
+I'm too lazy too download an ASCII program. Maybe in a later version. We'll
+see about it...
+
+Version History
+
+1.00 - 10/10/2007 - FAQ goes live on Gamefaqs, up to the first twenty missions
+ of the campaign mode.
+
+Future Editions:
+
+1.01 - Finished Campaign mode.
+1.02 - Labratory mode.
+1.03 - Weapons list and shop list.
+1.04 - Unlockables section added.
+1.05 - Customization modes and tutorials added.
+1.06 - FAQs added, tips and tricks, multiplayer. Most likely the final update. 
+
+Table of Contents
+
+I have implemented a rather easy to use Crtl+f function in my walkthrough.
+Just press Crtl+f and enter the letter code of the section you are looking for
+. Quite simple, no? I recommend copying and pasting the code instead of trying
+to type it, as some codes look very similar. I also find it works better and 
+easier if you just copy+paste the codes.
+
+1. Introduction........................................................(AAAAA)
+2. Controls............................................................(AAABA)
+3. Campaign Mode.......................................................(AABBA)
+	i - Mission 1.........................................................(AABBB)
+	ii - Mission 2........................................................(AABBC)
+	iii - Mission 3.......................................................(AABBD)
+	iv - Mission 4........................................................(AABBE)
+	v - Mission 5.........................................................(AABBF)
+	vi - Mission 6........................................................(AABBG)
+	vii - Mission 7.......................................................(AABBH)
+	viii - Mission 8......................................................(AABBI)
+	ix - Mission 9........................................................(AABBJ)
+	x - Mission 10........................................................(AABBK)
+	xi - Mission 11.......................................................(AABBL)
+	xii - Mission 12......................................................(AABBM)
+	xiii - Mission 13.....................................................(AABBN)
+	xiv - Mission 14......................................................(AABBO)
+	xv - Mission 15.......................................................(AABBP)
+	xvi - Mission 16......................................................(AABBQ)
+	xvii - Mission 17.....................................................(AABBR)
+	xviii - Mission 18....................................................(AABBS)
+	xix - Mission 19......................................................(AABBT)
+	xx - Mission 20.......................................................(AABBU)
+	xxi - Mission 21......................................................(AABBV)
+	xxii - Mission 22.....................................................(AABBW)
+	xxiii - Mission 23....................................................(AABBX)
+	xxiv - Mission 24.....................................................(AABBY)
+	xxv - Mission 25......................................................(AABBZ)
+	xxvi - Mission 26.....................................................(AABB1)
+	xxvii - Mission 27....................................................(AABB2)
+	xxviii - Mission 28...................................................(AABB3)
+	xxix - Mission 29.....................................................(AABB4)
+	xxx - Mission 30......................................................(AABB5)
+4. Laboratory Mode.....................................................(ABBBA)
+	a. - Blow..............................................................(ACBBA)
+		i - Test 1...........................................................(ACBBB)
+		ii - Test 2..........................................................(ACBBC)
+		iii - Test 3.........................................................(ACBBD)
+		iv - Test 4..........................................................(ACBBE)
+		v - Test 5...........................................................(ACBBF)
+		vi - Test 6..........................................................(ACBBG)
+		vii - Test 7.........................................................(ACBBH)
+	b. - Blast............................................................(ADBBA)
+		i - Test 1...........................................................(ADBBB)
+		ii - Test 2..........................................................(ADBBC)
+		iii - Test 3.........................................................(ADBBD)
+		iv - Test 4..........................................................(ADBBE)
+		v - Test 5...........................................................(ADBBF)
+		vi - Test 6..........................................................(ADBBG)
+		vii - Test 7.........................................................(ADBBH)
+	c. - Draw.............................................................(AEBBA)
+		i - Test 1...........................................................(AEBBB)
+		ii - Test 2..........................................................(AEBBC)
+		iii - Test 3.........................................................(AEBBD)
+		iv - Test 4..........................................................(AEBBE)
+		v - Test 5...........................................................(AEBBF)
+		vi - Test 6..........................................................(AEBBG)
+		vii - Test 7.........................................................(AEBBH)
+5. Weapons List........................................................(ABABA)
+	Bazooka...............................................................(ABABB)
+	Grenade...............................................................(ABABC)
+	Shotgun...............................................................(ABABD)
+	Homing Missile........................................................(ABABE)
+	Cluster Bomb..........................................................(ABABF)
+	Air Strike............................................................(ABABG)
+	Dragonball............................................................(ABABH)
+	Fire Punch............................................................(ABABI)
+	Kamikaze..............................................................(ABABJ)
+	Bunker Buster.........................................................(ABABK)
+	Sheep.................................................................(ABABL)
+	Super Sheep...........................................................(ABABM)
+	Mine..................................................................(ABABN)
+	Dynamite..............................................................(ABABO)
+	Uzi...................................................................(ABABP)
+	Prod..................................................................(ABABQ)
+	Banana Bomb...........................................................(ABABR)
+	Holy Hand Grenade.....................................................(ABABS)
+	Concrete Donkey.......................................................(ABABT)
+	Buffalo of Lies.......................................................(ABABU)
+	Sentry Gun............................................................(ABABV)
+	Jetpack...............................................................(ABABW)
+	Ninja Rope............................................................(ABABX)
+	Teleport..............................................................(ABABY)
+	Girder................................................................(ABABZ)
+	Pneumatic Drill.......................................................(ABAB1)
+	Blowtorch.............................................................(ABAB2)
+	Lightening Strike.....................................................(ABAB3)
+	Electromagnet.........................................................(ABAB4)
+	Parachute.............................................................(ABAB5)
+	Boomerang.............................................................(ABAB6)
+	Skip Go...............................................................(ABAB7)
+	Surrender.............................................................(ABAB8)
+6. Training Modes......................................................(BBBBA)
+	Tutorials.............................................................(BBBBB)
+		Tutorial 1...........................................................(BBBCB)
+		Tutorial 2...........................................................(BBBDB)
+		Tutorial 3...........................................................(BBBEB)
+	Shooting Range(s).....................................................(BBBBC)
+7. Unlockables.........................................................(BABBA)
+	Missions..............................................................(BABBB)
+		i - Mission U1.......................................................(BABCB)
+		ii - Mission U2......................................................(BABDB)
+		iii - Mission U3.....................................................(BABEB)
+		iv - Mission U4......................................................(BABFB)
+		v - Mission U5.......................................................(BABGB)
+	Labratory.............................................................(BABBC)
+		i - Blow U1..........................................................(BABCC)
+		ii - Blow U2.........................................................(BABCD)
+		iii - Blow U3........................................................(BABCE)
+		iv - Blast U1........................................................(BABCF)
+		v - Blast U2.........................................................(BABCG)
+		vi - Blast U3........................................................(BABCH)
+		vii - Draw U1........................................................(BABCI)
+		viii - Draw U2.......................................................(BABCJ)
+		ix - Draw U3.........................................................(BABCK)
+8. Customization.......................................................(BAABA)
+	Team Editor...........................................................(BAABB)
+	Flag Editor...........................................................(BAABC)
+	Landscape Editor......................................................(BAABD)
+	Scheme Editor.........................................................(BAABE)
+9. Shop List...........................................................(BBABA)
+10. FAQ................................................................(BAAAA)
+11. Legal Disclaimer...................................................(BBAAA)
+12. Contact Me.........................................................(BBBAA)
+
+S..E..C..T..I..O..N.. 1..(AAAAA) - I..N..T..R..O..D..U..C..T..I..O..N..
+
+Welcome to tinfoilman's FAQ/Walkthrough for the Nintendo DS game, Worms Open
+ Warfare 2! Glad to see you picked up such an excellent game, the latest in 
+the series from Team17. This quirky little title is a gigantic step up from 
+its predecessor, the original Open Warfare. Its also almost as good as the PC 
+editions, except its portable. This walkthrough will help you get through the 
+tough points in the game, in the Campaign mode, the Laboratory mode, even if 
+you are having troubles with the editor modes or with one of the weapons. Just
+ a note, this guide does not, NOT, contain any info on the puzzle mode, which 
+has already been covered in previous faq's. I might add one in later. Enough 
+talking, let's get into the nity-gritty of the FAQ.
+
+S..E..C..T..I..O..N.. 2..(AAABA) - C..O..N..T..R..O..L..S..
+
+M..O..V..E..M..E..N..T..
+
+- Directional Pad Left/Right = Move Worm Left/Right
+- "B" Button = Jump forward and up
+- "B" Button x2 = Backflip
+
+W..E..A..P..O..N..S..
+
+- Directional Pad Up/Down = Move Trajectory Up/Down
+- "X" Button = Changes fuse length (grenades), air strike trajectory, electro-
+magnet setting (repel or attract)
+- "Y" Button = Open Weapons Panel
+- "A" Button = Fire weapon (hold to increase distance), drop weapon (dynamite,
+ mine), place weapon (girder), or let weapon loose (sheep, buffalo of lies)
+- Touch Screen = (with stylus) set where homing target will end up (homing 
+missile, lightening strike, air strike)
+
+C..A..M..E..R..A../..O..T..H..E..R..
+
+- " L"/ " R" Buttons = Scroll camera left/right
+- Select Button = Changes top screen into mini-map
+- Start Button = Pause the action
+
+S..E..C..T..I..O..N.. 3..(AABBA) - C..A..M..P..A..I..G..N.. M..O..D..E..
+
+Are you sure your ready to tame the beast that's known as the campaign mode? 
+Ok, maybe it isn't that impossible. But I still recommend completing all the 
+tutorials, and maybe heading to the shooting range a couple of times to get 
+used to the weapons. But, if by now your a Worms veteran, good luck, and here 
+it is: The Campaign Mode Walkthrough!
+
+T..H..E.. P..I..R..A..T..E..S..'.. M..I..S..S..I..O..N..S..
+
+(AABBB) - Mission One:
+
+The first mission. This one is quite easy, in my opinion. I got it on my first
+ try, but if it takes you a couple, don't worry. Get your first worm of his 
+flag, to where the enemy is standing. Drop a dynamite to the left of the enemy
+ and move on to the hook. He should drop to about 30-40 damage. On your next 
+turn, lob a grenade at the enemy. If you don't kill him, continue this process
+ until you get to the first worm, where you can fire punch him.
+
+(AABBC) - Mission Two:
+
+On your first turn, drop down into the hole in front of you. Drop a dynamite, 
+and get as high up as you can. The enemy should perish from this. On your next
+ turn, move towards the remaining Pirate, and fire punch him, winning you the 
+match.
+
+(AABBD) - Mission Three:
+
+With your first worm, send the enemy in front of you flying with a firepunch, 
+vanquishing the foe. On your next move, grab the health pack, then head right,
+ ignoring the tunneled foe. Use a bazooka on the worm beside the oil-drum, 
+killing him or leaving him near dead. If he survives, he will kill your next 
+with a bazooka shot. Skip go with your fourth worm. The tunneled worm will 
+now teleport to the ledge the first worm was on. Knock him off with your first
+ worm, with your weapon of choice. With the second worm, dispose of the 
+previously tunneled worm, with a uzi or dynamite. If you haven't done so 
+before dispose of the second enemy worm, completing a victory!
+
+(AABBE) - Mission Four:
+
+Grab the health pack to your left. Return to the right, hopping over the mine,
+ not setting it off. Firepunch the enemy into the mine, and he will surely die
+. With your second worm, move to the left, and with your weapon of choice, 
+being wary of the mine, dispose of the next worm. Ninja rope over with your 
+third worm, and drop a dynamite, evacuating before it explodes. Another win!
+
+(AABBF) - Mission Five:
+
+ARRR!!! It'd be time to deal with Captain Plank! To start off, place a girder 
+facing 45 degrees to the left (like this: \), just above and to the right of 
+your worm. Hide under it for now. On your next go, backflip up the girder, 
+grabbing the blowtorch, and backflip onto the anchor top, grabbing the jetpack
+. Using the jetpack, move up and grab the next utility grate (rope) and up to 
+the next, another blowtorch. Use on of your blowtorches to burrow into the 
+circle area, where another blowtorch crate lies. On the next turn, blowtorch 
+out, grab the jetpack, and advance as far as you can leftward before time runs
+ out. On your final turn, jetpack up, grabbing the dynamite and girder along 
+the way, and reach the top of the barrel where the cap'n lies. Drop a dynamite
+ onto him, and flee to the right. He be sleeping with the fishes now! You are 
+now finished the Pirates missions! Great job!
+
+T..H..E.. W..O..R..L..D.. W..A..R.. O..N..E.. M..I..S..S..I..O..N..S..
+
+(AABBG) - Mission Six:
+
+Move to the left, collecting the dynamite crate. Get onto the pirate flag, and
+ lob a grenade at the nearest foe, retreating during your five-second 
+getaway. With your next worm, move left, and jetpack to the closest enemy, 
+and put a shotgun bullet in him, finishing him off. Shoot the oil drum nearest
+ to Sandbag after. Grab the utility crate near your final worm, and rope over 
+to the ladder area. With your second worm, put some uzi bullets in the foe, 
+and he should fall into the gap between the flower. Jetpack over with your 
+other worm, and drop a dynamite beside the enemy. Victory!
+
+(AABBH) - Mission Seven:
+
+Climb up the sword. Jetpack over to the right, grabbing another jetpack and a 
+homing missile. Use another jetpack, this time going up and to the right, and 
+grab a sheep and a utility crate. Climb up the slope to Dog Tag, and fire 
+punch him off the ledge. He should die from the damage and fall damage. Using 
+jetpack, get your other worm beside their next worm, Latrine, and fire punch 
+him as well, fleeing to shelter. On your next turn, with your first worm again
+, parachute down (if the wind is facing left), and lay a dynamite by Sandbag, 
+fleeing before it explodes. Hopefully your second worm can survive an aerial 
+strike, and if he does, use fire punch to finish Latrine off. On your final 
+turn, use fire punch once more to finish Sandbag off, claiming you a match.
+
+(AABBI) - Mission Eight:
+
+Using your ninja rope, get to the ledge above your first worm, and grab the 
+jetpack. Use it to go beside Dog Tag, and fire punch him into the drink. Drop 
+your second worm down to grab the rope crate, and jetpack all the way to your 
+first worm, and place a girder at a 45 degree angle facing left (Like this: \)
+. Skip go with your third worm, and on your first worm's turn, backflip up the
+ girder, and drop a grenade down the hole, retreating. Hopefully one of your 
+worms survives the air strike, blowtorch into his burrow. Skip go with your 
+third worm (the one on the flag) and on your next turn, drop a dynamite down 
+into Latrine's hole, finishing him off, for another winning mission for you!
+
+(AABBJ) - Mission Nine:
+
+With your first worm, progress through the previously blowtorched tunnel, and 
+lay a dynamite on the nearest victim worm, retreating into the tunnel. On your
+ next turn, test out your bazooka on the closest victim, Sandbag. With your 
+next worm, finish off Sandbag with a well-placed shotgun bullet, and use the 
+other bullet to pick off an otherwise-dangerous oil drum. Retreat into as much
+ cover as possible. With your first worm, finish off Latrine, with any weapon 
+of your choice. As your final turn, jetpack up near Trench, and send him 
+swimming with a fire punch. Game over for them Soldiers!
+
+(AABBK) - Mission Ten:
+
+Its time to face off with the "boss" of this level: Sargeant! Good think we 
+have a sheep with us, as he has 350 health points!!! Move right, over the 
+cannon thing, and hit him with a grenade. On your next move, move all the way 
+left, onto the boot, and fire a bazooka at him. Hopefully your first worm 
+survives one more attack, and unleash a sheep upon him, bringing him down to 
+around 220-240 health. Use a bazooka again on the Sargeant, and on your next 
+turn, lob a grenade at him, and hide behind the boot. Once he falls lower, and
+ a path to the lower level opens, fire punch him, then drop to the lower level
+, sacrificing a few health. From here on, fire bazookas until he is toast!
+
+Note: This level is the toughest to date so far, so don't fret if you don't 
+get it first try. My strategy might not always work for you, so you can try 
+alternative strategies. Best of luck to you!
+
+Good job on completing the World War I missions. Now, onto the World War II 
+missions!
+
+T..H..E.. W..O..R..L..D.. W..A..R.. 2.. M..I..S..S..I..O..N..S..
+
+(AABBL) - Mission Eleven:
+
+Lob a well-aimed grenade into the enemy above your first worm. Backflip onto 
+the next ledge, and lob another grenade, this time into Tally-Ho's area. 
+Retreat as close to that wall as possible. With your third worm, lay a 
+dynamite to the left of Good Show, and retreat to the left wall as far as 
+possible, taking minor damage from the explosion, but sending Good Show flying
+! Back to your first worm, ninja rope up if you have an opening, and use a 
+shotgun to finish him off; otherwise, lob another grenade in their, finishing 
+off Chocks Away. Retreat to as close to the cannon part as possible. Jetpack 
+into Tally-Ho's burrow on your next turn, and place a couple shotgun bullets 
+in him, terminating your foes!
+
+(AABBM) - Mission Twelve:
+
+Knock Tally-Ho into the drink by firing a bazooka sort of behind him, so he 
+flies forward, into the wall, bouncing into the drink. Retreat under your 
+tunnel. Move quick with your second worm. Ninja rope up to the weird object, 
+grabbing the airstrike on the way. Quickly use the airstrike onto the far worm
+ to send him into the drink. By this turn, What What will probably have killed
+ your first worm, so with your second worm, and now only worm, start lobbing 
+grenades at him, until reinforcements have arrived. Then, use the homing 
+missile to finish him off, and if you miss, start blowtorching through the 
+landscape below the tire. Once you have a full tunnel, walk down, and finish 
+What What off with what what? A bazooka.
+
+(AABBN) - Mission Thirteen:
+
+Jetpack up with your first worm. Grab the bunker buster, and jetpack back to 
+where you started. Aim the bunker buster at What What, finishing him off. On 
+your second worms turn, use the shotgun to finish the tunnel, and, setting off
+ the mine, waste the other, and retreat away from the foe. With your final 
+worm, ninja rope up and dispose of Chocks Away, and retreat as far as possible
+. With your first worm, jetpack up to Good Show, and fire punch him into the 
+drink. (Note: If you can only make it to Tally-Ho, dispose of him in similar 
+fashion, but it makes your life easier if you dispose of Good Show with your 
+first worm. I'd consider restarting if I didn't get to Good Show, as it 
+doesn't take too long to get to that point) As your final turn, use your 
+second worm to dispose of Tally-Ho, this time with a dragon ball. Victory!
+
+(AABBO) - Mission Fourteen:
+
+Jetpack beside What What, and, using a fire punch, nail Chocks Away, sending 
+him into the drink. Stay on What What! On your next move, grab the item crate 
+and jetpack up to the ledge that Good Show is on. Get to the top, and use a 
+shotgun to send him into a mine below. Moving quickly, clamber over to the 
+black cannon, and use the other bullet on Tally-Ho. (Note: If you don't kill 
+Good Show with your first bullet, use your other on him) Use your dynamite 
+next turn on What What. Set up a Sentry Gun by Tally-Ho next turn, which 
+should stop him from travelling far. With your first worm, send What What 
+flying with a fire punch, into the pond. Skip go with your second worm. With 
+your first worm again, set a mine by Tally-Ho, finishing him off.
+
+(AABBP) - Mission Fifteen:
+
+Halfway through the campaign! Its time to face-off against the Aces' boss, 
+Squadron Leader! Move quickly! Select your parachute and move right, 
+parachuting off. Move over the speaker system and parachute downwards again, 
+and twice more after that, grabbing the health pack along the way. Collect the
+ blowtorch by moving up the slope, and use it to enter the bunker, grabbing 
+all the goodies. If by chance, the foe doesn't kill your second worm, use your
+ newly-accquired dynamite to send him into the water. If not, exit the bunker 
+through the same way you entered, and use your jetpack (which has unlimited 
+fuel) to reach the summit, using your dynamite to send Squadron Leader packing
+! Sweet, sweet victory!
+
+T..H..E.. C..O..L..D.. W..A..R.. M..I..S..S..I..O..N..S..
+
+(AABBQ) - Mission Sixteen:
+
+Brr! Get used to this frosty landscape! For the next five missions, this cold 
+land is your home! From the ledge, drop a dynamite, and it'll land right by 
+Sputnik, who may survive sometimes. Ninja rope down to Curtain, and kill him 
+with some shotgun bullets (don't worry too much if he has a couple health left
+). Ninja rope down with your first worm, and put some shotgun bullets in 
+Hammer. Jetpack over with your other worm (or finish off Curtain) and shotgun 
+Hammer to his unfortunate (not really) doom. Dispose of Hammer, if you haven't
+ already, with your method of choice. Its now 2 on 1. Jetpack with your 
+current worm and fire punch him, dropping down off the ledge afterwards. 
+Jetpack with your other worm onto the same ledge, and finish off Sickle. 
+Another match claimed!
+
+(AABBR) - Mission Seventeen:
+
+Parachute down, grab the health pack, and firepunch Hammer down the slope, 
+into the mine, finishing him off. Jetpack up with your second worm, grabbing 
+the item crate along the way, and up to the big red floating thing. Knock 
+Curtain off of this, into the pond, with a fire punch. Hit Sickle with an air 
+strike from the left (this way: /), and on your next turn, if you have only 
+on worm left (which you probably will), teleport over to Sputnik, and use a 
+dragonball to send him swimming. Place a girder above your worm like this \, 
+not at a 45 degree angle but at a steeper slope. Backflip onto that, and onto 
+the ledge, then use the homing missile on Sickle to finish him off, if he's 
+not already dead. Note: You may lucky and Sickle doesn't kill your second worm
+. If so, consider yourself blessed, it makes this mission much easier! Just 
+drop down with a parachute, and dragonball Sputnik to his watery doom. Then, 
+on your next turn, skip go, and with the second worm once more, follow the 
+instructions with the girder, and launch the homing missile at Sickle. You may
+ also get even luckier and knock Sickle into the mine with your air strike, 
+finishing him off then. This mission can be very easy or somewhat difficult, 
+depending on your luck.
+
+(AABBS) - Mission Eighteen:
+
+Move left, hopping over the mine, and launch a bazooka, that'll either hit 
+Sputnik or hit Sickle into the lower level. If Sputnik sits on the mine and 
+takes damage, finish him off with a shotgun. With your first worm, hit the foe
+ closest with a bazooka, and on your next turn, finish him off, or attack the 
+other opponent. I find this level doesn't have a definitive strategy; just 
+attack the nearest enemy, retreat, and repeat until you are the victor. Good 
+luck! (If anyone has a good strategy, email it to me)
+
+(AABBT) - Mission Nineteen:
+
+Move to the right, to the edge of the tunnel. Backflip halfway up, and, 
+turning around, backflip once more. Moving quickly, drop a dynamite by Sputnik
+ and retreat under the red thing. Move quickly with your second worm, 
+backflipping twice up the slope, and grab the health pack. Use a jetpack to 
+fly over to Sickle at the far end of the landscape, using a firepunch to send 
+him swimming. On your next turn, move to where Sputnik hid, and finish him off
+ with a shotgun bullet or two. With your second worm, fire punch Hammer into 
+the drink like you disposed of Sickle, leaving them down to Curtain. Jetpack 
+over with your first worm to Curtain, and lay some shotgun bullets on him, 
+bringing him near-death. Teleport down to the blue-floating ledge with your 
+second worm. Since Curtain killed your first worm, dispose of him with your 
+second worm. Sweet, sweet salvation!
+
+(AABBU) - Mission Twenty:
+
+Time to face off with Secret Service! Move over the rocket, and grab the 
+girder pack and homing missile crate. Place a girder like this: \ (except not 
+quite so steep) before your turn ends. Move upwards using your girder, and 
+grab the blowtorch, using it to make your way through the red-thing. Jump down
+ quickly to grab the rope. Grab the dynamite on your next turn, and use the 
+homing missile to blow up the sentry gun (if you don't blow it up, restart). 
+Ninja rope over to the boss, and lay a dynamite down, retreating before the 
+explosion. Victory! Congrats on beating the Cold War Missions!
+
+This is all I have so far. I will finish it in the next update hopefully...
+
+S..E..C..T..I..O..N.. 1..1.. (BBAAA) - LEGAL DISCLAIMER
+
+Copyright 2007 Bradley Abbott.
+
+This may be not be reproduced under any circumstances except for personal, 
+private use. It may not be placed on any web site or otherwise distributed 
+publicly without advance written permission. Use of this guide on any other 
+web site or as a part of any public display is strictly prohibited, and a 
+violation of copyright. 
+
+All trademarks and copyrights contained in this document are owned by their 
+respective trademark and copyright holders.
+
+S..E..C..T..I..O..N.. 1..2.. (BBBAA) - C..O..N..T..A..C..T.. M..E..!..
+
+bmabbott4@hotmail.com <-- My e-mail address.
+
+Feel free to e-mail me under any of these circumstances:
+-You have a question that ISN'T answered in the walkthrough
+-You have a tip for a mission/mode you'd like put in (full credit is given)
+-You'd like to congratulate me on such a wonderful walkthrough (unlikely to 
+happen, but still)
+
+DO NOT e-mail me under any of these circumstances:
+- You want to chat
+- You have a question that is answered in the guide
+- You want to find out personal info about me
+
+Also, do NOT add me to your MSN, Facebook, Myspace, etc. I will ignore you, 
+block you, whatever.
+
+S..E..C..T..I..O..N.. 1..3.. (BBBBA) - C..R..E..D..I..T..S..
+
+-Nintendo
+-Team17
+-Two Tribes
+-THQ
+-My parents
+-Myself
+
+FIN.

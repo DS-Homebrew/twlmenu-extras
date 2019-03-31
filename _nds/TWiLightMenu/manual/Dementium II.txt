@@ -1,0 +1,1731 @@
+Guide Type     - Walk-through
+Game Title     - Dementium 2
+Platform       - Nintendo DS
+Date submitted - 04-13-10
+Version        - 1.1
+By             - obishawn
+
+
+
+
+
+This guide is still a work in progress, and that means
+more than just the addition of Chapter 5 and Survival
+Mode.  I need to go back through and list proper enemies
+names, fix a crap load of typos and fix some margin
+issues.
+
+But, the guide is very much usable as it is and I hope
+you can find it useful.
+
+
+
+
+__________________________________________________________
+
+Table of Contents
+
+__________________________________________________________
+
+To easily and quickly find anything in this guide,
+simply perform a search and enter the subject as you
+see it listed in the Contents, even if it is just the
+Roman numerals.
+
+I    - Introduction
+II   - Controls
+III  - Understanding Both Screens
+IV   - Weapons
+V    - Pick-Ups
+VI   - Enemies
+VII  - Walkthrough
+       Chapter 01 - Welcome Back
+                  - The Gnaw (Boss)
+
+       Chapter 02 - It's Spreading...
+                  - Wendigo Witch (Boss)
+
+       Chapter 03 - Too late for escape
+                  - Gorgamesh (Boss)
+
+       Chapter 04 - The Colossus
+                  - The Colossus (Boss)
+
+       Chapter 05 - Final Passage
+                  - ??????? (Boss)
+VIII - Survival Mode
+IX   - FAQ Update History
+X    - Credits, Thanks, & Hosts
+XI   - Contact Info
+
+
+
+  
+__________________________________________________________
+
+I - Introduction
+
+__________________________________________________________
+
+Welcome to Phase 2!!!
+
+
+If you enjoyed the first game, Dementium:The Ward, then
+you will love this sequel as it surpasses the first game
+and Moon, Renegade Kid's second game, by far.
+
+Ready yourself for even more atmosphere, scares, creepiness
+and really cool boss fights.  And if you haven't played
+Dementium:The Ward, then that's is fine.  You don't need
+a thorough knowledge of the game to enjoy this.
+
+If you just want a puzzle solution, do a search for any
+of the following key words:
+
+
+
+[Chapter 1 eyeballs]
+
+[Chapter 2 dials]
+
+[Chapter 3 NEWS]
+
+[Chapter 4 pipe puzzle]
+
+[Chapter 4 radio]
+
+
+
+
+
+
+
+__________________________________________________________
+
+II - Controls
+
+__________________________________________________________
+
+
+This guide is based on the default control setting, which 
+is Type1 1 and caters to right handed folks.
+
+TYPE 1 (Right handed) - "The right is right, right?"
+
+D-pad Up - Walk forward, double-tap and hold to run
+D-pad down - Back up
+D-pad left & right - Strafe
+
+L Shoulder Button - Use weapon
+
+R Shoulder Button - Not used
+
+Start - Options menu
+
+Touch Screen - Look & turn, aim, examine, take and use
+               objects, change weapons, access the
+               map, items and options
+
+
+TYPE 2 (Left handed) - "Lefties have rights too!"
+
+X - Walk forward, double-tap and hold to run
+B - Back up
+Y - Strafe left
+A - Strafe right
+
+L Shoulder Button - Not used
+
+R Shoulder Button - Use weapon
+
+Start - Options menu
+
+Touch Screen - Look & turn, aim, examine, take and use
+               objects, change weapons, access the
+               map, items and options
+
+
+
+
+
+
+
+
+
+__________________________________________________________
+
+III  - Understanding Both Screens
+
+__________________________________________________________
+
+
+Top Screen - 
+
+
+Sight - Used for aiming your currently equipped weapon
+Ammo  - Displays the remaining ammunition for the weapon 
+        currently equipped
+
+
+
+
+Bottom Screen - 
+
+
+Action window - As you encounter objects the actions you
+                can take appear here. Touch here to perform
+                the action.
+
+Health        - Just below the action button is your health
+                display.  Green is good, red is bad.
+
+Map button    - Tap to view the map. 
+
+                - Green arrow is your current position.
+                - Green doors are doors you can enter.
+                - Red doors are locked.
+                - White dots are save mirrors.
+
+Heart Monitor - Displays your health condition.
+
+                - Green  = good health
+                - Yellow = slightly wounded
+                - Red    = critically wounded
+
+Item button   - View the key items you have collected. 
+
+Flashlight Icon - Tap this to use or put away the flashlight
+                  once you obtain it.  The flashlight can
+                  be dual weilded with one-handed weapons.
+
+Reload icon - Tap this to relaod the gun you are currently
+              equipped with.
+
+Equipped Weapon Icon - Dead center at the bottom of the
+                       bottom screen is the weapon you are
+                       currently equipped with.  To switch
+                       weapons, touch the icon, then drag
+                       your stylus to the weapon of choice.
+                       You also use items, like the health
+                       pills this way.
+
+Options       - Go to and adjust the options menu.
+
+
+
+
+
+__________________________________________________________
+
+IV   - Weapons
+
+__________________________________________________________
+
+
+Shank - Found in Chapter 1, this is your most basic weapon.
+        It can be dual weilded with the flashlight.
+
+Revolver - Also found in Chapter 1, its a bit stronger than
+           the shank and can be used to attack enemies from
+           a distance.  Requires ammo, can be dual weilded
+           with the flashlight.
+
+Sledgehammer - Found in Chapter 1, this can be used as a
+               tool to break down boarded-up doors but also
+               as a weapon.  Hold the attack button for a
+               stronger blow.  Cannot be dual weilded with
+               the flashlight.
+
+Shotgun - Found in Chapter 2.  More powerful than the
+          revolver but can only hold two shells at a time.
+          Requires ammo and cannot be dual weilded with the
+          flashlight.
+
+Assault Rifle - Found in Chapter 3.  About as strong as
+                the revolver but has a rapid rate of fire.
+                Requires ammo and cannot be dual weilded
+                with the flashlight.
+
+
+
+Flamethrower - Found in Chapter 4, can be used as a tool
+               to burn the vines on ccertain doors.
+               Cannot be dual weilded with the flashlight.
+               Refill the fuel at propane tanks.
+
+Mysterious Relic - Boomerang-like weapon found in Chapter 4
+                   also works as a key for specific doors.
+                   Can be dual weilded with the flashlight.
+
+Nailgun - 
+
+Dynamite - Found in Chapter 4.  Used for powerful enemies.
+           Cannot be dual weilded with the flashlight.
+
+Buzzsaw - 
+
+
+
+
+
+__________________________________________________________
+
+V    - Pick-Ups
+
+__________________________________________________________
+
+
+Health Pills       - Recovers about half of your health
+
+Health Packs       - Recovers all of your health
+
+Adrenaline Syringe - Boosts motor functions
+
+Revolver ammo      - Extra ammo for the revolver
+
+Shotgun ammo       - Extra ammo for the shotgun
+
+Assault rifle ammo - Extra ammo for the assualt rifle
+
+
+
+
+
+
+
+__________________________________________________________
+
+VI   - Enemies
+
+__________________________________________________________
+
+
+
+Chest Maw - Zombie like humanoids with their chests ripped
+            open.
+
+
+Melee Guard / Rifle Guard - The guards of the prison. 
+
+
+Infantile Mollusca - slugs with teeth
+
+
+Leaper - crab head things
+
+
+Whisperers - black smoke / ghostly looking apparitions
+
+
+Aerial Hunter - flying flesh sack with buzz saw
+
+
+ROFL - fat clown pigs that laugh :)
+
+
+Wailer - male screaming head who spits black goop
+
+
+Slime Mine - floating flesh sack with chains, which explodes
+
+
+Screamer - flying female screaming head
+
+
+Gorgamesh - huge gorilla dude
+
+
+Reanimator - Green, reptilian looking beast, comes back to
+             life
+
+
+Flying Swarm - bugs in cloudy room in Mine
+
+
+
+
+
+
+Bosses - 
+________
+
+Chapter 1 - The Gnaw
+Chapter 2 - Wendigo Witch
+Chapter 3 - Gorgamesh
+Chapter 4 - Colossus
+Chapter 5 - ????????????
+
+
+
+__________________________________________________________
+
+VII - Walkthrough
+
+__________________________________________________________
+
+
+
+
+            __________________
+___________/ C H A P T E R  1 \___________________________
+
+"Welcome back"
+
+
+Bright Dawn Treatment Center
+____________________________
+
+
+
+After the opening scenes, you have control of William in
+his cell.  The game will give you a few quick commands
+about how to control William.  Before you examine the
+post card on the bed, take a second to look around.
+
+Your cell mate is mumbling strange things.  Approach the
+cell door and you can hear the guy in the cell arcoss the
+way yelling crazy things.  Jump on top of the toilet and
+look at the wall above the top bunck.  Sweet, a poster of
+a sexy woman!  Ok, you've done pretty much all you can do
+here now, so check out the post card.
+
+Whoa!  What just happened?  Welcome to the first of many
+trips into an alternate reality.  Is this twisted realm
+in William's head?  Or maybe he was dreaming before?  And
+what the hell is going on with the guy chained to the wall?
+
+Answers will come in time.  For now, approach the
+guillotine, duck down and pass under it.
+
+Ok, you are now out of your cell.  Take a look at the map.
+This handy device will be more of a guide to you than your
+own instinct to survive.  The path to the east is a dead
+end, so go west and follow the instructions to jump.
+
+When you land on the other side, you will find the Shank.
+This is your most basic weapon.  Now, follow the path of
+blood to the north.
+
+Your first chest maw!  These guys aren't too difficult but
+can become a nuisance if you face off against more than one
+at a time, especially only armed with the shank.  For now,
+just approach it and attack.  If you aren't fast enough, it
+will recover from your hit and swing back at you.  If you
+think you'll be too slow, use a strike and retreat method;
+hit it, then back up a few steps and hit it again.  You
+shouldn't have too much difficulty with it though.
+
+After you defeat that chest maw, another will appear.
+Dispatch it the same way.  Follow the path of blood.
+Nice, eh?
+
+Look in the nook just past the chain guy to find some
+Health Pills.  Be sure to pick them up.  The enemies have
+been easy so far, but you never know when you will need to
+recover your health.  The game will teach you how to use
+the pills. Only use the pills right now if your health is
+in the red. One dose should be plenty.
+
+Continue to travel north.  What was that?!  It looked like
+the Rancor, only smaller and faster.  Good thing it ran off.
+Oh, look, it left part of that guy's arm behind.
+
+Ok, you just warped back to the real world, or where ever 
+the prison is.  As luck would have it, you managed to appear
+on the other side of the bars.  Continue north and through
+the door.
+
+Immediately, a guard yells for you to get back into your
+cell and begins charging at you.  Guards are even easier
+than chest maws because they give you a sign before they
+attack.  Swing away at the guard.  When you hear him grunt
+and then his stun batton buzz, step back.  After he swings,
+step back up and hit him again. Repeat this until the
+guard is dead.
+
+Face north, the door to the east is actually an elevator,
+but it is out of commission, so continue north.  Notice
+the paper lying on the ground? Read it, then go through
+the door.
+
+Ah, a stair well.  Go down stairs and find the Health Pills
+on the floor. Now go east and through the door.
+
+The game will instruct you on how to run.  You can run in
+any direction, even backwards.  Keep this in mind, it will
+come in handy more than you might think.
+
+If you listen, you will hear radio chatter, that is your
+hint that guards are near by, so prepare yourself for
+another fight.
+
+Follow the corridor to the east and deal with the guards.
+At the intersection in the corridor, go through the double
+doors to the north.  On a table in the back of the room is
+a piece of paper, take a look at it.
+
+Before you leave the room, notice the boarded up doorway
+to the east?  Keep this place in mind, we will return here
+later with the ability to pass through.  For now, go back
+into the corridor.  All paths to the south are off limits,
+so go east.  Notice the paper on the bulletin board to
+your right?  When you're ready, go through the doors.
+
+There are a bunch of guys strapped down to beds and they
+all seem to be mumbling some strange things.  The third
+guy has got a few issues it seems, but the very last guy
+seems content.
+
+Notice the red swirl thing on the wall?  This is a mirror,
+a manual save point.  See how the area turns a hint of red
+as you approach it?  Keep this in mind, it will help you
+to locate mirrors later on in the game.  Saving also
+restores your health.
+
+There are two side rooms and a door leading out of this
+patient ward.  Check the side rooms first.  The first room
+has an Adrenaline Syringe.  When you use it, you will be
+able to move around a lot faster for a brief period of time.
+Don't use it right now.  It will come in handy soon enough.
+
+Notice the xrays on the wall?  There is something particular
+about the foot, its an easter egg.   That xray actually
+belongs to Jools Watsham from a foot injury he had last year
+(2009).
+
+The other side room, a restroom, has some more Health Pills.
+Score!  Now, save the game and then approach the doors
+leading south.
+
+[Chapter 1 eyeballs]
+
+This is the first of many puzzles.  Its a fairly simple slide
+puzzle.  Let's take a look at it first.  Notice the three
+Roman Numerals on the far right?  Now, see the objects that
+you slide?  They are jars with eye balls in them.  Nice.
+
+One jar has one eye ball, another has two and the other has
+three.  Our goal is to position each with the corresponding
+Roman Numeral.
+
+So, slide Eye Ball 1 all the way to the right side.
+
+Next, slide Eye Ball 2 to the middle area.
+
+Now, slide Eye Ball 1 to the middle area.
+
+Next, slide Eye Ball 3 to the far right.
+
+Now, slide Eye Ball 1 to the far left.
+
+Slide Eye Ball 2 to the far right.
+
+Now, slide Eye Ball 1 to the far right.
+
+Ta-da!
+
+
+
+B O S S   F I G H T
+___________________
+
+    The Gnaw
+
+
+A cut scene.  The Doctor mentions his saner half.  So is
+this his reality or yours?  We'll have to worry about that
+later, for now, you have to fight that Rancor wanna-be,
+the Gnaw.  Oh yeah, and all you have is the shank.
+
+
+The Gnaw will run around the arena, sometimes charging at
+you, sometimes jumping up to the cage work over head.
+
+When he charges you, side step as needed, but use every
+chance you get to strike at it with the shank.  Sometimes
+you will get a few hits in, sometimes it will run off before
+you can get a swing in.
+
+If it jumps to the cage work over head, prepare yourself for
+one of two things:
+
+1 - It will run around over head and try to drop on you.
+    Just keep an eye on it and don't be directly underneath
+    it when it falls, but be close enough to hit it when it
+    lands.
+
+2 - It will spew out eggs.  QUickly hit the eggs beore they
+    hatch.  If they do hatch, worms will come out and slowly
+    chase you.  Be sure to kill them if they hatch.  If you
+    don't, more will hatch and you will get overwhelmed by
+    them.
+
+Continue looking for opportunities to strike the Gnaw
+while keeping the eggs/worms at bay.  Don't forget to use
+pills, but only use them when your life is in the red so
+that you can get the most out of the pills.
+
+Also, don't forget your Adrenaline shot.  Now is a great
+time to use it if you think it will help.
+
+__________________________________________________________
+
+
+
+
+
+After defeating the boss, you will be alone in the large
+room, but the room the Doctor was in is now open.  Take a
+look inside.
+
+First thing you find in the room is the Revolver!  You will
+also find a keycard.  Use the save mirror, then return to
+the larger room and use the key card on the door.
+
+
+Great, your back in the twisted world.  Notice teh red seal
+on the door?  You will be trapped inside this area until you
+defeat all of the chest maws that spawn.
+
+If you notice, this room is the twisted version of the patient
+ward where the guys were tied to the beds yelling craziness.
+If you look into the side rooms, in the real world version of
+the rom, the side rooms were the restroom and the infirmary,
+you will find some revolver ammo.
+
+If you can, defeat the chest maws with the shank to save your
+ammo.  After the chest maws are dead and the red seal is gone,
+go through the door.
+
+You warp back into reality.  If you want, go back into the
+patient ward and save the game.
+
+Now that you have the keycard, you can proceed further into the
+prison.  Back out in the corridor outside of the patient ward,
+go to the intersection and head south to the barred gate.  Use
+the keycard to pass through.
+
+At the far south end of the corridor is another boarded up
+doorway.  The sign next to the door says it is a restroom.
+We'll come back here in a little bit, for now,go through the
+metal double doors on the west side of the corridor.
+
+Radio chatter, that means guards are near by.  sneak up behind
+this first guard and get the jump on him.  There is revolver
+ammo in the open cell across from the door you came through.
+
+Follow the path and when you round the corner, prepar to face
+three more guards.  All of the cells are locked and the few
+that are open don't have anything of value in them, so after
+defeating the guards, continue south and through the doors.
+
+In this room, you will find more worms.  You may want to use
+the revolver on them.  You can kill them with one swipe of the
+shank, but if you misjudge the needed distance, you can be too
+close and take damage, which isn't that big of a deal, but
+still...
+
+The door to the east is locked and the door to the south is
+boarded up, so try the door that leads behind the counter.
+
+Locked to.  Now what?  Jump the counter!  But be sure to grab
+the post card first.  A desk on the south side of the room has
+revolver ammo.  Exit the west door.
+
+You will immediately be attacked by two guards, but they
+should be no big deal for you by now.  Proceed noth up the
+corridor.  You will see another boarded up door way.  Man,
+when will get to access all of those rooms?  For now, take the
+doors to the west.
+
+As soon as you enter this room, you will upset a nest of bugs.
+Quickly run to the right.  Don't worry about the bugs.  They will
+scatter out and be less of a worry after you run off.  
+
+This room you've entered is actually a U-shaped corridor with
+cell doors on each side.  You ran right, wich is actually the
+north side of the U-shaped corridor.   Proceed all the way to
+the west end and exit the doors.
+
+YOu are now outside, but you are still confined to the prison.
+Stupid fence.  Go south and through the door.
+
+YOu are in a room with some kind of machinery... and worms.
+Take out the worms first.  There is something flashing on the
+south end of the room, go check it out, you'll have to jump
+the tables to get to it.
+
+Its the sledgehammer!  This is the item you need to beak down
+the boarded up door ways.  But, this is also a very effective
+weapon.  Take a minute to swing it.  Get used to the timing.
+
+It seems slow, and it is, but it is powerful.  If you hi an
+enemy with this, they will be hit so hard that you will have
+time to ready the hammer again before the enemy gets back up.
+The hammer is powerful and doesn't require ammo.  One more thing.
+
+Instead of pressing the attack button, hold it down.  When you
+hear William grunt, you will be able to devlier an even more
+powerful blow than by simply pressing attack.  Also, when you
+ready the hammer like this, you can walk, run and walk through
+doors as long as you are still holding down the attack button.
+The hammer is going to make your life a lot easier.
+
+Now, on the east side of the room is a boarded up door way.  Put
+your new hammer to use.  After knocking down the boards, look
+to the left.  Enter the cell with the two red X's on the doors.
+
+There is all kinds of writting on the walls and the poster of the
+sexy girl that we caught a glimpse of earlier.  Nice, she's a
+brunette!
+
+Ok, the reason we're here is to read the note left on the table.
+So, there is an escape tunnel.  Sounds dangerous.  He boarded up
+the tunnel entrance, but we have a hammer now, so that's no big
+deal.
+
+Go back into the U-shaped corridor and head east.  There's a new
+enemy.  They hop at you and damage you by bumping into you.
+Either shoot them or use the hammer, which ever you are more
+comfortable with.  If they look like they are about to jump at
+you before you can stop them, just step to the side, they will
+jump past where you were standing.  This should give you the time
+and space to prepare your attack.  Or, you could probably just
+run past them.
+
+Exit the east door.
+
+Ok, here is the second boarded up doorway we get to smash! (on the
+north end of the corridor).  There is a letter on the floor.
+Oh!  So those guys in the patient ward were speaking in Russian!
+There is some revolver ammo on the shelf next to one of the
+television sets.
+
+Ok, go south, through the door way that was boarded up, down the
+corridor to the door leading east, marked with an "office" sign.
+
+Jump the counter again and instead of busting down the boards on
+the door to the south, first go through the doors to the north.
+
+Proceed through the cell block to the other end and exit the doors
+leading east.
+
+Directly in front of you is a boarded up doorway, the restroom.
+Check the room for a Health Pack.  These bad boys restore your
+health completely.
+
+Now, back out in the corridor, head north, through the security
+gate, and north still through the double doors.   In the small
+office in the back of the room is a stash load of goodies!
+
+Now, go back out, through the security gate, into and through 
+the cell block and bck into the room with the counter that you
+have to jump.
+
+
+Pull out the hammer then bust down the boards on the door
+to the south.  Duck under the fallen duct work, grabbing the
+health pills as you go.  Go through the door to the south.
+
+There's a chest maw in this room, but the hammer will finish it
+off nicely.  There is a news paper on the table with a little bit
+of the hostpital's history.
+
+The door to the west is a stairwell.  At the bottom of the stair
+well is a save mirror.  Be sure to use it before going through
+the door to the north.
+
+Darkness.  You seem to be in a boiler room-like area.  Follow
+the path and you will come upon a flashlight!
+
+After you pick up the flashlight, somethind sinister will
+approach from the east.  Don't bother trying to fight it, you
+need to run from it.  More specifically, you need to lure it
+out of the path because it is blocking the way you need to go.
+
+Look at your map.  See how you are in a square area?  Walk around
+the area and lure the apparition to you.  Once the path behind it
+is clear, run past it.
+
+If it happens to catch you, you will be warped into a locked room
+inwhich chest maws will spawn and attack until you defeat them all.
+Then you will  reappear at the door just outside of the room with
+the save mirror.
+
+So, make it past the first ghostly figure and follow the path it
+was blocking.  After you follow the path for a few seconds, you
+will see another apparition.  Quickly take the right turn.  There
+will be another coming at you, take the path to the left.  Go
+straight and the path will split left and right.  Go right.  Keep
+going and you will appear in the path behind the apparition.  Now,
+go left and through the door.
+
+Its not over yet.  We have a little more running and dodging to do.
+To make things easier and put them in perspective, look at your map.
+The room you just entered is a retangular room.  You are on the
+south side and the exit you need is on the north. When you get to
+the first intersection, an apparition will be coming from the left,
+so run to the right.
+
+As you round the corner, you will see pipes that run cross-ways on
+the ground.  You will need to jump over them.  Jump the first one,
+then get against the left wall.  This will lure the approaching
+apparition to you and away from the exit.  When he is far enough
+away from the right wall, run to the exit.
+
+Follow the path, jumping pipes as needed.  When you round the next
+left, you will find another apparition coming at you but this time
+you are in a far narrower path.  Act quick.  Run towards the
+apparition then quickly dart to the left.  This will lead you right
+back around to the pipes you just jumped.  Check your map to orienate
+yourself.  When the path is clear, run west and to the door at the end.
+
+The path runs east and west.  At the east end, there is a door with
+a complicated lock requiring a dagger.  You have a shank, not a dagger,
+so this isn't the way to go.  Head west, following the path to the next
+room.
+
+You are in a room with some generators on the right.   At the far end
+is a door with some kind of growth on it that responds to your body
+heat.  But, you can't do anything with the door just yet.  Check your
+map.  There is a path to the north.  Look between the generators to
+find the path.
+
+Use the hammer to bust down the boards. This must be the escape tunnel
+that one letter referred to.  Kneel down and follow the tunnel.
+
+WHen you are able to stand up, the walls all look alike and the
+darkness doesn't help.  Refer to your map to make sure you are
+travelling in the correct direction.
+
+Watch out for the three chest maws.  You can switch to the hammer and
+just wait for them to come into view, then nail them.  Further up
+ahead is a side hopper, you may want to dual weild your revolver and
+flashlight for it.  Follow the path and step through the door.
+
+
+
+
+
+
+            ________________
+___________/C H A P T E R  2\_____________________________
+
+
+"It's spreading..."
+
+
+
+
+Pelf Village
+____________
+
+
+
+You're outside again, out of the prison.  You've made it!  You've
+escaped!  But the game is far from over.  In front of you on the
+fallen log is another post card.  After reading it, duck under
+the log to proceed.
+
+COntinue up the path.  When you reach the end, you can go either
+north or south.  North is a dead end, so... go south.
+
+The building on the east side of the road is a save area.  There
+is a piece of paper with a bit of information about the legend of
+the Wendigo Witch.  Next to teh old cash register, you will find
+some revolver ammo.  There is a letter tacked to the wall next to
+the door leading south.  After saving your game, go through the
+door.
+
+In the sky, in the distance off to the right, you will see a
+floating object.  This is an Aerial Hunter.  Equip the revolver
+and open fire.  You don't want that thing to get too close.  It will
+try to spit at you from above or drop down and hit you with its
+buzzsaw tail.  Show it no mercy.  After you kill it, it will expode
+and slugs will come from its body.  Deal with the slugs as you will.
+This area is open enough for you to just ignore and run past them.
+
+Now that the area is secure from aerial threats, go to the west.
+On the north side of the building, you can find some shotgun ammo!
+We don't have a shotgun yet, but its not far away!
+
+Stay on the west side of Pelf Village and travel south.  You will
+see a stair case that leads to a door of building, go inside.
+
+There area couple of chest maws here, which shouldn't be a problem
+for you.  There is some revolver ammo near the barrel against the
+stairs.  That is all you need from here, go back out into the
+village.
+
+On the east side of town there are two doors but both are locked,
+so head south to the next area.
+
+Before you is a frozen lake.  There is a residence built upon a
+pier.  Remove the chest maw and follow the walkway around the
+building to find the entrance.  Step inside.
+
+
+You should see some slugs, take them out. There is some more shotgun
+ammo on the fire place mantle.  Now, head upstairs.
+
+Take out the chest maw and look in the bedroom.  On the far wall is
+the shotgun!  Look under the side of the bed for some more shotgun
+ammo.  There is nothign else to do here, so leave the residence.
+
+See the "Keep Out" sign in front of you?  Ignore it and go that way.
+Turn right (north) and follow the path to the first barrel.  Just
+on the north side of the first barrel is a boarded up doorway.
+
+Inside, you will find a few chest maws and some slugs.  Take them out.
+On a table on the north side of the room is an adrenaline shot.
+Go through the door on the south.
+
+Defeat the chest maw, follow the path and enter the building.
+
+Directly ahead is a letter tacked to the wall.  After reading the
+letter, walk up the steps and examine the chest.  Its another
+puzzle.
+
+[Chapter 2 dials]
+
+Begin with the far right dial on the bottom. Begin turning all
+the dials until they all of the arrows point at each other.  Take
+the relic and go back to the main area of the Pelf Village.  Once
+outside of the room with the dial puzzle, you can jump the rail
+to get there faster.
+
+More Hoppers.  Kill them or run past them to the door on the east
+side of the village.  Now that you have the relic, examine the door
+to pass through.
+
+FOllow the path east, then south and into the cave.  When you exit
+the cave, enter the building to the north.
+
+Meet your first Spitter.  These crazy guys will keep their distance
+and then sometimes charge at you, but they spit the green balls
+of... something at you.  The best way of dealing with them is to
+use the Revolver.  They roll on the ground laughing after you damage
+them, which is kinda funny yet creepy in a Joker kind of way.
+
+SO kill the Spitter on the first floor, then slowly make your way
+up the stairs.  The Spitters up  there won't see you until you
+clear the railing.
+
+There is revolver ammo in the bathroom and health pills in the
+far bedroom.  After claiming the items, exit the door in the middle
+room to the south.
+
+Careful, there is an Aerial Hunter.  Either kill it or run from it.
+If you run, follow the trail of blood that leads south and enter the
+building.
+
+Take out the SPitters and the chest maw.  There is a key to room 302
+haning behind the counter, grab it.  Down the hall in room 102, you
+can find a heath pack.
+
+Head upstairs.  In room 201 is some revolver ammo.  Head up stairs 
+again.
+
+Deal with the enemies and use the key on room 302.
+
+There are dead enemies all over the place.  There is also a letter
+on the bed, examine it.
+
+Here Elizabeth gives you the code for the door in Pelf Village.  So,
+let's go back to that lock and see what is behind the door.
+
+Go back to the first flood of the hotel and exit the building.
+Follow the trail of blood.  When you reach the spot where the blood
+trail ends, jump down.  Face south, go through the cave and follow
+the path to the big door that leads to the other area of the Pelf
+Village.  Go through the door and the door with the lock we want
+is to your left (south).
+
+If you forgot the code, cycle through your items until you see the
+letter with the numbers.  I can't tell you what the numbers are
+because it is randomly generated each time a new game is started.
+
+Go down the stairs, mind the slugs, cross the room to the other
+stair way leading up.  After you go up the stairs, the room to the
+west holds some health pills near the sink.  Now, go up to the
+third floor.
+
+Enter the baby's room.  Notice the picture hanging above the crib?
+Just think William Redmoor, you had sex with one of those, but which?
+Grab the note on the crib.  The note instructs you to take the key.
+If you haven't seen the key yet, it is dangling from the baby's
+mobile above the bed.
+
+Now, leave the building the same way you came in, we've gotta go
+find the church.  Head east and through the door.  Follow the path,
+through the cave and into the building.  Up the stairs, into the
+middle room and out the door to the south.
+
+Instead of following the blood, this time, pass over the blood and
+follow the path between the buildings.  Enter the door to the west.
+
+Here is a new enemy, a floating head called a Wailer.  They are easy
+enough to kill, just shoot them with the revolver.  Side step the
+black smoke-looking stuff they spit at you.
+
+After entering the door, turn south and exit the door to the east.
+
+Jump down and go south through the doors.
+
+Follow the path south.  when you get to the gate, check the letter
+on the wall.  Go south, find Amanda, bring her to me.
+
+Ok, let's go south and through the door.
+
+To your right is a save mirror. Face south.  See the two pillars?
+There is a letteron the ground between the wall and the pillar on
+the right.  In the far south end, take either flight of stairs,
+they both lead to the same place.
+
+Before you continue going down, check out the second floor.  There
+is a shovel leaning against one of the pillars.  Bettre grab it.
+
+In the far south end of this floor are some graves.  They belong to
+the fine folks who made this ghastly game you are playing.  Dig
+them up, if you dare... 
+
+Continue going down to the last level.  One the far south end are
+more graves.  Dig up the middle grave.  You found a child's doll.
+
+YOu just got warped into the weird world.  Jumpers and chest maws
+are int he area and will attack you.  Kill them if you want, but it
+is actually easier to just run.  Head for teh stairs and just keep
+going up to the top level and through the door.
+
+The door behind you just sealed with the red runes.  That means you
+need ot kill all of the enemies in this area, so get to it.  There
+is some shotgun ammo in the north corner and revolver ammo in the
+south corner.  AFter the enemies are defeated, the door to the
+church (east) opens up.
+
+To your right is a save mirror.  In the south-west corner, you can
+find some shotgun ammo and behind the alter, there is some revolver
+ammo.
+
+Now examine the alter.
+
+
+
+B O S S   F I G H T
+___________________
+
+  Wendigo Witch
+
+
+The witch will come out of the darkness and charge at you.  If you
+aren't prepared, she will hurt you.  Look for red dots in the
+darkness, those are her eyes.
+
+Prepare your gun, whice ever you prefer.  I'm going with the revolver
+since I have more ammo for it.  When she appears, shoet her.
+
+When you see white waves on the side, I find the best thing to do is
+to run backwards (be sure to double tap the D-pad).  She will charge
+the position you were standing in.  So, after runing backwards, she
+will come into view.  Just pop a cap in her scraggly head.
+
+After a certain point, she will use some kind of magic that makes
+red lines appear on the floor.  When you see them, get moving
+(again, I prefer to run backwards, it lets you keep your eye on
+what is going on).
+
+Sometimes, she will make you drop your weapon.  Quickly pick it back
+up and be ready to shoot her.
+
+It is said that the dagger you just obtained works
+wonders against the witch, but good luck getting close
+enough to use it.  Timing will be critical.
+
+
+
+
+            __________________
+___________/ C H A P T E R  3 \___________________________
+
+
+"Too late for escape"
+
+
+
+Pelf Village
+____________
+
+
+
+You are now in the church.  Behind the alter is a post card,
+be sure to get it.  It has a combination you will need in
+just a bit.  There is nothign else in the church, so leave.
+
+Look at your map.  Go to the path that runs north and south
+and go north and through the door.
+
+Proceed north, up the ramps and into the building on the west.
+
+You get warped back into the alternet reality.  Defeat the
+spitters and chest maws.  Once you return to the real world,
+exit the northern door.
+
+Ok, teh place we need to go next is the door that had the
+dagger engraving and the Roman Numerals below it.  Remember
+where that is?  Good, go there.
+
+Don't remember where it is?  Fine.  I'll tell you.
+
+Go north until you see the trail of blood.  Follow it to the
+west, then jump down to the ground.  Face south, go through
+the cave and follow the path to the door.  You are now in
+the main part of Pelf Village.
+
+Look at your map (actually touch the map button).  See the
+white dot just to the north of you, go there.  Save the game
+and then exit this building through its west door.
+
+You will be warped back into the psycho realm.  Behind you is
+a shot of adrenaline.  Defeat the enemies.  Go back to save
+and restore your health, if you want.
+
+Once you are ready, take the path to the east, ducking under
+the fallen trees and back into the cave.  Make your way
+through the cave and into the generator room.  Go through
+the door to the east.
+
+
+
+
+Bright Dawn Boiler Room
+_______________________
+
+
+
+
+Follow the path and ignore the turn to the south.  Go to
+the door on the east side of the map.
+
+Here we are.  The door that requires the dagger and the
+combination.  Take a look in your item inventory to find
+the post card with the combination.  Write it down or
+commit it to memory, then examine the door.
+
+Touch the dagger and move it to the numbers on the post
+card wihtout lifting the stylus.
+
+More apparitions. 
+
+Look at your map.  See use the wider areas to avoid the
+ghosts and get around them and go through the door to the
+east.
+
+In this next area, the path is a bit wider and there are
+no side paths.  Hurryt to one side because one of the
+wraiths will be coming quickly.  When the path is open
+enough, run past it and through the east door.
+
+To the south are these weird floating sacks.  One shot
+from the revolver is all you need to remove them from
+your path.  But before you do, look at your map.  Run
+east a bit and take the door to the north.
+
+There are a few goodies to snag in here, some health
+pills and revolver ammo.  After obtainign them, go back
+out the door and head south.  Clear any of the sack
+things that are in your path.  Don't hang around too long
+or they will reappear.  Exit the southern door leading to
+the west.
+
+Make your way west and south, dealing with the enemies
+along the way.  Be sure to examine the post card before
+going through the door.
+
+
+
+Bright Dawn Treatmnet Center
+____________________________
+
+Ok, we're back in the prison and as you can see on your
+map, we are in the east wing.  Go up the stair well and 
+through the door.
+
+Use the save mirror.  Go west to find some shotgun ammo.
+After grabbing the ammo, go through the door to the north.
+You are in a prisoner visitation center.  The booth on
+the far end has some health pills and you can find some
+revolver ammo in the east room.  Now go back to the save
+room and go west.
+
+When you enter the room, guards will bumrush you.  You may
+want ot use a gun as it will take them down quicker.  Once
+it is safe, exit the north door.
+
+Deal with the Wailer and the chest maws, then follow the
+path of blood through the doors.
+
+Keep after the trail of blood, up the stairs and through
+the door.
+
+Check the letter on the floor, then check the four
+hanging bodies.  Each body has a number attached to their
+arm, you may want to write it down.  Have you figure out
+the code yet? Its a little tricky.  Your hint was on the
+piece of paper: follow the NEWS.
+
+I'm about to reveal the solution, so if you don't want it
+spoiled, skip the next paragraph.
+
+
+[Chapter 3 NEWS]
+
+
+SOLUTION:
+
+Look at the floor.  There is a circle of blood.  There is
+a "N" pointing at the north east corner of the room, but
+it is also pointing at a body.  Start with that body:
+
+North
+East
+West
+South
+
+Write the number down or commit it to memory.
+
+
+Now, go back down the stairs to the room where you fought
+the chest maws and head east to the red door.
+
+Before you try your code out on the red door, turn north
+and use your key card on the iron gate.  The door ahead of
+you requires something you do not yet have.  Read the note
+on the wall, the door leads to the guard tower.  Keep this
+place in mind as we will be coming back here later on. 
+Now, go back to the red door.
+
+
+Enter the code to proceed.
+
+Mind the slugs, just ahead of you on the floor is an
+assault rifle!   To safely kill the chest maws, approach
+the counter and hit them from over the counter with the
+hammer.  be sure to grab the rifle ammo.
+
+Proceed past the counter.  There are two ways to go; north
+through the double doors or east through the wooden door.
+For now, let's go north.
+
+There are Whisperers here, but easily avoidable for the
+most part since the room is so wide.
+
+Follow the trail of blood up the stairs and keep following
+it.  Once your path turns east, the trail of blood will
+turn off, but a Whisperer will be approaching, so keep
+running east around the perimeter.  Keep going until you
+see where the trail of blood ends.  Examine the remains to
+find the bones.  You can't do anything with this now, but
+we will need them in a bit.  Now, head back to where you
+found the assault rifle.  Once you get there, take the
+door to the east.
+
+That large beast that killed the guard and got gunend
+down is called a Gorgamesh.  Yes, "a Gorgamesh," not
+"the Gorgamesh."  You will encounter a few more and they
+won't be gunned down by guards.
+
+
+The restroom to the south has shotgun and revolver ammo.
+After grabbing the ammo, go through the east gate.  There
+is a rifle guard behind the turned-over desk.  After
+killing the rigfle guard, go through the door behind him
+(north door).
+
+There are a coule of letters talking about some great
+serpent called Malatesta, whatever all of that means.
+
+Check the table on the east side.  A cryptic poem...
+Maybe it will make sense later.  For now, go back to
+where you killed the rifle guard and go through the east
+doors.
+
+Before you move, stand still.  Using the flashlight,
+look around the room.  If you get close to the middle
+the bugs will attack you.  Keep your distance.  Walk the
+perimeter of the room, either direction to make it to the
+door across the way.
+
+Quickly kill the two guards.  The rifle guard is more of
+a threat, but the melee guard is running straight at you.
+There are some boxes to your right you can take cover
+behind.
+
+When you make it to where the guards were, you can go
+north or south.  For now, go north through the boarded up
+doorway.  In the last stall of the restroom is some valuable
+assault rifle ammo.
+
+After grabbing the ammo, go through the south door.
+
+There are a few Slime Mines here.  Keep your distance and
+put a bullet in each, then go through the west door.
+
+Nothing to see here, move along.
+
+There are three rifle guards here.  Slowly go around each
+corner to limit your exposure to them.  Check the post card
+and then duck under the door.  Use the save mirror and step
+through the door.
+
+Watch out for the Aerial Hunter above you.  Once it is dead,
+run to the west.  Find the grave and examine it.
+
+You're warped into the hellish realm.  Defeat the enemies,
+then grab the relic.  Now, go back into the north door,
+save and then begin making your way back.
+
+YOu will encounter a green reptilian looking creature,
+called a Reanimator.  You cannot currently kill it, but you
+still wound it enough to make it back off.  or you could
+just run.  
+
+If they come at you, try to go around.  If they spit their
+green fluid, try to side step it.  Keep going and you will
+enter the alternate reality again.  Kill all of the ROFLs.
+When you appear in the real world again, head back to the
+west.
+
+When you see the door with the yellow and blue runes, enter
+it and go to the table with the runes and examine it.
+
+Back in the hellish world.  Kill the enemies and make your
+way through the area, duckinng and jumping as needed.  You
+will come ot a large room and the Doctor will speak to you.
+After he does, walk towards the middle of the room.  A
+Gorgamesh will appear.
+
+
+
+
+
+
+B O S S   F I G H T
+___________________
+
+    Gorgamesh
+
+
+
+
+Now, you can run around the room shooting this thing and
+retreating until it dies, or you can go back to wards the
+direction you just came from.  You can't jump back up to
+the higher platforms, but you can go down either side of
+the platforms, a place that is too narrow for the
+Gorgamesh.  He can't reach you, so he can't hurt you.
+Now, just shoot him until he dies.
+
+If you want to conserve your amm, use the hammer.  Get
+close enough that the Gorgamesh will swing.  After he
+swings, step in and hit him with the hammer, then run
+backwards out of his range.  Repeat this process until it
+dies.
+
+Once it is dead, go through the door.
+
+
+
+            __________________
+___________/ C H A P T E R  4 \___________________________
+
+
+"The Colossus"
+
+
+Point Mine
+__________
+
+
+You appear outside of the guard tower (look up) with a
+bridge in front of you.  Head south across the bridge.
+The doors to the east are covered with the weird vines,
+so continue south and through the wooden double doors.
+
+Now you are in the mine.  Directly in front of you is an
+elevator.  Closer inspection reveals that you need a
+battery to operate it.  There's nothing else you can do
+here, so enter the building to the east.
+
+Check the bookshelf.  A book is missing.  There is a
+propane tank near by, we'll be able to make use of this
+in a little while, first we need some propane accessories.
+
+Head up the stairs, nothing to find here but a save mirror.
+After saving, exit the door to the south next to the
+mirror.
+
+[Chapter 4 pipe puzzle]
+
+Go west across the bridge and to the building.  There is a
+slide puzzle.
+
+First, slide the piece in the center all the way to the
+right.
+
+Next, slide the piece in the bottom right under the first
+piece so that the pipes line up.
+
+Now, slide the piece in the bottom center all the way up.
+
+Now, slide the "L" looking piece so that the pipes line
+up with the second piece you moved.
+
+Now, move the piece that is in the top center (the third
+piece you moved) to the left and out of the way.
+
+Now, slide the piece in the top right so that the pipes
+line up with the  other pipes.
+
+It should all be coming together now, but I'll continue
+anyway.
+
+Next, move the piece that is second from the left to line
+up with the pipes.
+
+Now, the piece in the top left, line it up.
+
+Finally, the last piece, slide it into place.
+
+If you are having trouble with it, here is what the final
+image should look like:
+
+http://i30.photobucket.com/albums/c346/obishawn/2010-05-05192906.jpg
+
+
+QUickly turn on your flashlight! Its another Gorgamesh!
+
+Don't attempt to fight it.  Make a hard right turn and run.
+When you get to the wall, turn and run along side the wall.
+When you get to the stairs, run up the stairs.
+
+You are now safe, but the Gorgamesh is still going to be
+a problem because you'll need to come through here a time
+or two more.
+
+He can't reach you, but your gunfire can reach him.  If
+you want to save ammo again, like you did with the last
+Gorgamesh you fought at the end of Chapter 3, while up
+stairs, run to the west wall.   The Gorgamesh will attempt
+to follow and go to the foot of the stairs.
+
+Now, just employ the same evade, attack, retreat method
+you used at the end of Chapter 3, if you used it.  Other-
+wise, just shoot the thing.
+
+Once it is dead, go back downstairs and to the south wall
+to find a shot of adrenaline.  Now go look behind the
+stairs to find some shotgun ammo.
+
+Upstairs, behind the bar, you can find some health pills.
+If you feel like you need it, go back to the save mirror
+and save your game, then come back upstairs and out the
+west door.
+
+Deal with the enemies, then hed west between the buildings
+and turn north to find shotgun ammo.  When you're ready
+enter the building to the south.
+
+QUickly turn on your flashlight.  A Reanimator is rapidly
+approaching.  Run to the left, grabbing the shotgun ammo.
+This will lure the Reanimator to you, now run around it.
+Round the corner and climb the ladder.
+
+Shoot the Slime Mine to quickly eliminate it as a problem.
+Head west then north across the bridge.  When you get
+close to the other side, you'll hear another Slime Mine.
+Take it out.  Now, go to the west.  Do not continue north
+into the building.  Ride the elevator.
+
+Go south and into the building.
+
+Screamers.  You should be able to avoid them, but if they
+spot you, they will attack.  Be quick with the pistol.
+Check the south side for soem revolver ammo.
+
+Run around the corner and to the back.  Over to your right,
+you should see an item on the ground, go grab it.  You now
+have the Fumigator.  Just a little ahead of you is a
+health pack too!
+
+Now, go out of the building, back to the lift and down.
+Go east across the bridge, then north into the building.
+
+The place is filled with a toxic gas and enemies.  The
+fumigator will take care of the gas, but I suggest just
+running from the enemies.  There is an item you need here,
+so don't just run aimlessly.  Make a hard left and jump
+the beds as you make your way to the back of the room.
+
+On the bed in the north west corner is a red book, grab
+it then make a hasty retreat outside.
+
+Go south along the bridge, then east.  When you get on
+top of the building, do not take the ladder, simply jump
+down to the ground below.  If you take the ladder, you'll
+have to endure the Reanimator again.
+
+Once on the ground, go east and into the building.
+
+Down stairs and out the east door.
+
+Run south, then east over the bridge then enter the
+building.  Save if you wish, then go downstairs and
+check the bookcase again.
+
+Now you've got the flamethrower!  Not only is this a
+tool to remove the vines off of the doors, but it is an
+effective weapon, especially against the indestructible
+Reanimators - its the only thing that can kill them!
+
+Now, you can make use of the propane bottles you will
+sometimes see in areas to refil the lighter.
+
+
+Go north and out of the building.  Keep going north and
+through the doors.  You are back outside of the mine and
+near the guardtower.  We can't get intot he guardtower
+just yet, so go east.  Use the flamethrower to kill the
+Reanimators.  Side step their green spit and kill them
+with fire!  Also, use the flamethrower on the door to the
+east to clear it of vines.
+
+Follow the path to the railcar, dealing with the enemies
+along the way.  Once you reach the railcar, activate it.
+
+Proceed into the building and up the stairs.  Behind the
+barrels are some health pills.  There is also some
+revolver ammo near the wood heater.  Go through the door.
+
+There is an Aerial Hunter and a Reanimator, but they
+shouldn't be a problem for you anymore.
+
+There is a post card on one of the posts of the building
+to the north.  After getting the postcard, enter the
+building.
+
+Take out the chest maws, then slowly go upstairs.  There,
+you will find a Wailer.  It is much like a Screamer, but
+it will spew black goo at you.  Treat it much the same
+ways as a Screamer, rapid shots from the revolver.
+
+Once the Wailer is out of the way, examine the radio.
+
+
+[Chapter 4 radio]
+
+
+First, turn the left knob to turn it on.  Now, with the
+right knob set to channel I, slowly spin the tuner to
+find a radio station.
+
+The broadcast said to check channel II for emergency
+traffic.  Set the right knob to channel II, then spin
+the tuner to find the next broadcast.
+
+You are back in the hellish nightmare, get to killing!
+Go outside and up the ramp.  There is a door here, open it.
+Walk through the meat hooks...
+
+And now you're back in the real world.  Go straight ahead
+and check the sink.  Its full of acid.  Go down the stairs
+to the west side of the room and out the south door.
+
+The path is pretty linear, just follow it, dealing with
+the Reanimators along the way.
+
+Ignore the boat and follow the peir around to the small
+building on the other side.  Inside you will find Acid
+Neutralizer.  Hmmm, I wonder what you do with THAT?
+
+There is also a save mirror in the room.
+
+Now, follow the path all the way back to the sink filled
+with acid and use the neutralizer in it.  Examine the
+sink again to obtain the key.  It has a nautical keychain,
+so maybe it will work on that ship.  Run back to the ship
+and try it out.
+
+Go into the ship and grab the battery.  See the guy
+hanging there?  Does he look familiar? If you've played
+Dementium:The Ward, he should...
+
+You get warped back into the nightmare.  Begin making
+your way back like you are going to the sink again in
+the real world.
+
+Once you warp back, enter the door in front of you.  Up
+the stairs and out the door to the north.
+
+Jump down and run east and through the door.
+
+Down the stairs and to the reailcar, take a ride.
+
+Follow the path and out the door.
+
+Run north and through the door.
+
+Before activating the elevator, go into the building and
+save your game.
+
+Ride the lift down.  Now the steady roaring is much
+louder, much closer.  Its just beyond that door.  Let's
+go.
+
+
+
+
+
+B O S S   F I G H T
+___________________
+
+     Colossus
+
+
+This fight is epic!  The Colossus will chase you and if it
+gets close enough, it will kill you.  You must run, and
+run fast.  You will need to jump and duck to make it
+through the obstacle course like rooms.  And when you
+reach the door at the end, open it and start all over
+again.
+
+Along the way, you will see dynamite.  Be sure to grab it.
+It appears in your weapon inventory, not your items, so
+don't worry about extra space.  Equip the dynamite and
+after you've ran a bit, giving you a safe enough distance
+from the Colossus, turn around and throw it on the ground
+towards the boss.
+
+Keep this up until it is dead.  This is actually an easy
+fight, the problem comes from your ability to jump an
+duck when needed.  If you've been using the option to
+touch the jump icon to jump, you may want to switch it
+to the double tap option, as it makes the retreating
+much easier.
+
+After he dies, he leaves behind a relic, grab it.
+
+
+
+
+
+
+
+
+            __________________
+___________/ C H A P T E R  5 \___________________________
+
+
+"Final Passage"
+
+
+
+Coming in an update soon.
+
+
+
+
+__________________________________________________________
+
+VIII - Survival Mode
+
+__________________________________________________________
+
+Coming in an update soon.
+
+__________________________________________________________
+
+IX - FAQ Update History
+
+
+__________________________________________________________
+
+
+05-13-10 -
+
+ - Submitted the 4th chapter and puzzle keywords
+
+
+05-12-10 -
+
+ - Submitted the first 3 chapters to GameFAQs.com
+
+
+05-7-10 -
+
+ - Completed the game, began the walkthrough
+
+
+05-4-10 - 
+
+ - Bought the game
+
+
+
+
+__________________________________________________________
+
+X - Credits, Thanks, & Hosts
+
+__________________________________________________________
+
+
+
+
+Renegade Kid - 
+
+ - A huge shout goes out to you guys, you have really out
+   done yourselves with this game.
+
+
+CjayC -
+
+ - Its GameFAQs, yo.
+
+
+
+
+
+
+
+Sites that have obtained permission to use this guide are:
+
+Gamefaqs - (http://www.gamefaqs.com)
+
+
+
+__________________________________________________________
+
+XI - Contact Info
+
+__________________________________________________________
+
+
+
+If you need to contact me for any reason, feel free to
+do so by sending an email to
+
+obishawn@hotmail.com
+
+Just make sure you identify this game in the subject
+so I won't mistake your mail for spam.  All comments are
+welcome.
+
+Or send me a message on Backloggery.com - 
+
+http://backloggery.com/obishawn
+
+
+
+
+
+END OF GUIDE

@@ -1,0 +1,2459 @@
+
+Guide Type     - Walk-through
+Game Title     - Dementium: The Ward
+Platform       - Nintendo DS
+Date submitted - 01-12-08
+Version        - 1.4
+By             - obishawn
+
+
+
+In this update:
+
+01-12-08 - v1.4
+
+ - Added a few tips from:
+   Grant O, Sean, Shannon, The Ace, D W
+   
+ - Chrissy, Michael, nikruss added to the thanks list
+
+  
+
+
+If you feel like you have a better strategy for any of the
+boss fights, by all means, send them my way, I will add
+them to the guide and give you full credit for it.
+
+Be sure to give me a name so that I can give you your due
+credit.
+
+At the time of this submission, there is now a Boss Guide
+up at GameFAQs.com and I highly recommend you take a look
+at it.  Sure, I have covered the bosses in this guide and
+some people have now offered their advice which is posted
+in each bosses' respective section, but you never know
+who will have the one tip that will make your game easier.
+
+
+
+You may not have read the introduction and you may in fact
+be skipping over this part and if you are, well, that's
+too bad.  A glitch has been discovered that lets you have
+the zooming function of a sniper rifle with any of the
+guns.
+
+Equip the sniper rifle once it is out of ammo.  Begin
+firing the gun.  While you are firing it, tap on the
+weapon you want to use a scope with. And that is all
+there is to it!
+
+A big thanks to Chas Brother for submitting that to the
+guide.  If Chas did discover that, I don't mean to rob
+his credit.  I had seen it posted on the GameFAQs message
+boards once before, but didn't copy the info or remember
+how to do it.  I don't know who discovered it, but Chas
+made me aware of it.
+
+__________________________________________________________
+
+Table of Contents
+
+__________________________________________________________
+
+To easily and quickly find anything in this guide,
+simply perform a search and enter the subject as you
+see it listed in the Contents, even if it is just the
+Roman numerals.
+
+I    - Introduction
+II   - Controls
+III  - Understanding Both Screens
+IV   - Weapons
+V    - Pick-Ups
+VI   - Enemies
+VII  - Walkthrough
+       Chapter 01 - The Admittance
+       Chapter 02 - The Rooftop
+       Chapter 03 - The Infant Ward
+       Chapter 04 - The Cleaver
+                    - Boss 1
+       Chapter 05 - The Courtyard
+       Chapter 06 - The Electric Buzz-saw
+                    - Boss 2
+       Chapter 07 - The Main Security Room
+       Chapter 08 - The Flashback
+                    - Boss 3
+       Chapter 09 - The Hole in the Wall
+       Chapter 10 - The Torn Photograph
+       Chapter 11 - The Guard Tower
+       Chapter 12 - The Cleaver's Return
+                    - Boss 4
+       Chapter 13 - The Door with no Handle
+       Chapter 14 - The Wheelchair's Return
+                    - Boss 5
+       Chapter 15 - The First Encounter
+       Chapter 16 - The Final Encounter
+                    - Boss 6
+VIII - FAQ Update History
+IX   - Credits, Thanks, & Hosts
+X    - Contact Info
+  
+__________________________________________________________
+
+Introduction
+
+__________________________________________________________
+
+
+
+You wake up alone, in the dark, only to find yourself in a
+mysterious, derelict hospital that appears to be frozen in
+time.
+
+Confronted by the deadly, grotesque surgical experiments
+that wander the halls, a series of challenging puzzles and
+a cast of peculiar characters, you must face your deepest 
+fears, unlock the mysteries of the hospital, and escape 
+with your life.
+
+
+
+Things you should know - 
+
+ - If all you need from this guide is a puzzle solution,
+   just use the search feature (ctrl-F) as I go into
+   detail about how to solve the puzzles in the
+   walkthrough.
+
+ - This guide is NOT spoiler free, but it is as spoiler
+   free as possible in regard to the plot.  The are
+   spoilers mostly for the scary moments.  If you don't
+   want those moments ruined, then I do not recommend
+   looking at the walk-through portion of this guide.
+
+   If you need help with puzzles, then perform a search
+   for that particular puzzle.
+
+ - You cannot carry extra ammo with you, only what will
+   fit in a gun.
+
+ - You cannot carry extra health with you either, but you
+   can usually find just enough lying around, but the
+   thing is you have to look.
+
+ - Enemies usually respawn if you go back into a
+   previously visited room.  From what I've seen, health
+   and ammo do not.
+
+ - Most open closets hold health or ammo. Be sure to check
+   them when you find them.
+
+ - After I guide you to a map, I will then revert to using
+   directions:
+
+             North - Up
+             South - Down
+             East - Right
+             West - Left
+
+   If we go through a chapter and I didn't guide you to a
+   map that is because there either wasn't one or I just
+   couldn't find it and believe me, I searched quite
+   thoroughly.
+
+ - Some people have stepped up and offered some additional
+   information in an attempt make this guide more helpful.
+   Their contribution is book-ended by a line of "******."
+
+
+ - And just for fun, there are four movie references in
+   this guide.  See if you can guess which movie each
+   reference comes from.  (Ctrl-F: movie reference.  See
+   the end of the guide for the answers.)
+
+
+
+
+__________________________________________________________
+
+II - Controls
+
+__________________________________________________________
+
+This guide is based on the default control setting, which 
+is Type1 1 and caters to right handed folks.
+
+TYPE 1 (Right handed) - "The right is right, right?"
+
+D-pad Up - Walk forward, double-tap and hold to run
+D-pad down - Back up
+D-pad left & right - Strafe
+
+L Shoulder Button - Use weapon
+
+R Shoulder Button - Toggle between the flashlight and the
+                     previous weapon
+
+Start - Options menu
+
+Touch Screen - Look & turn, aim, examine, take and use
+               objects, change weapons, access the notepad,
+               map, items and options
+
+
+TYPE 2 (Left handed) - "Lefties have rights too!"
+
+X - Walk forward, double-tap and hold to run
+B - Back up
+Y - Strafe left
+A - Strafe right
+
+L Shoulder Button - Toggle between the flashlight and the
+                     previous weapon
+
+R Shoulder Button - Use weapon
+
+Start - Options menu
+
+Touch Screen - Look & turn, aim, examine, take and use
+               objects, change weapons, access the notepad,
+               map, items and options
+     
+__________________________________________________________
+
+III  - Understanding Both Screens
+
+__________________________________________________________
+
+
+Top Screen - 
+
+
+Sight - Used for aiming your currently equipped weapon
+Ammo  - Displays the remaining ammunition for the weapon 
+        currently equipped
+
+
+
+
+Bottom Screen - 
+
+
+Notepad       - Once acquirred, use it to keep notes
+
+Action window - As you encounter objects the actions you
+                can take appear here. Touch here to perform
+                the action.
+
+Map           - Tap to view the map.  A map can only be
+                view once it is found.
+
+                - White arrow is your current position.
+                - Yellow doors are doors you have entered.
+                - Red doors are locked.
+
+Heart Monitor - Displays your health condition.
+
+                - Green  = good health
+                - Yellow = slightly wounded
+                - Red    = critically wounded
+
+Items         - Store, access, and use your items. 
+
+Health        - Displays your current health. You have
+                ten green dots indicating your remaining
+                health.
+
+Options       - Go to the options menu.
+
+                - Control Type - Choose between a right
+                                 or left handed control 
+                                 setup.
+
+                - Y Axis Invert - Set your axis preference.
+
+                - Brightness - Choose between three levels
+                               of brightness.
+
+                - Heartbeat - During the game, you can hear
+                              your heart beating, here you
+                              control the volume.
+
+                - Music - Choose between 3 volume levels
+                          of sound.
+
+                - Quit - Allows you to save your game and
+                         quit.
+
+
+Weapon Icons  - Tap a slot to equip a weapon in your 
+                inventory 
+
+
+
+
+_________________________________________________________
+
+IV - WEAPONS
+__________________________________________________________
+
+Flashlight - Chapter 1: The Admittance
+
+While not a true weapon, it is placed among the weapons on
+the touch screen. Its primary use is to obviously light
+your path but it can also be used to deter the roaches!
+
+
+
+Nightstick - Chapter 1: The Admittance
+
+Some guard was nice enough to die and leave this behind.
+It is your basic melee weapon and used as a fallback
+option when the ammo is too low.
+
+
+
+Pistol - Chapter 2: The Rooftop
+
+A standard 9mm handgun with a 24 round clip. Not terribly 
+powerful, but is better than the nightstick in that you
+can defend yourself from a distance.
+
+
+
+Shotgun - Chapter 4: The Cleaver
+
+A weapon that packs a punch. Much better than the pistol,
+the shotgun can hold 16 shells.
+
+
+
+Electric buzz-saw - Chapter 6 - The Electric Buzz-saw
+
+It is a close range weapon and it makes a lot of noise
+but it will also make short work of whatever gets in your
+way. Just hold the attack button down for continuous use.
+You can now officially retire the nightstick.
+
+
+
+Machinegun - Chapter 07 - The Main Security Room
+
+An automatic that packs a punch, literally.  Watch that
+it doesn't kick you back too far when you use it.
+
+
+
+.357 revolver - Chapter 09 - The Hole in the Wall
+
+Slow but powerful.
+
+
+
+Sniper Rifle - Chapter 11 - The Guard Tower
+
+Equip the sniper rifle to use it. UP and down on the D-pad
+lets you zoom in and out, L fires.  It can hold up to 16
+rounds of ammo.  The gun comes equipped with a nightvision
+scope.
+
+
+__________________________________________________________
+
+V - PICK-UPS
+__________________________________________________________
+
+Health - 
+
+A bottle of pills that will replenish two green health 
+dots per bottle.
+
+
+
+9mm Ammo - 
+
+Bullets for the handgun. One box provides 8 rounds.
+
+ 
+
+Shotgun Ammo - 
+
+Shells for the shotgun. 
+
+ 
+
+Machinegun Ammo - 
+
+Rounds for the machinegun.  One clip provides ten rounds.
+
+
+
+Magnum ammo - 
+
+Rounds for the .357 revolver.  One box holds 6 rounds.
+
+
+
+Sniper Ammo - 
+
+Rounds for the sniper rifle.  One box contains 4 rounds.
+
+
+__________________________________________________________
+
+Enemies
+__________________________________________________________
+
+The following is the list of enemies in the game.  I will
+try to detail characteristics and strategies for killing
+them.
+
+If there are official names for these guys, I am unaware,
+but I will describe them the best I can so you will know
+exactly which enemy I'm talking about.
+
+Freaks - 
+
+These are the first enemies you encounter, and you will
+encounter many more before the game is over.  They are
+humanoid with an exposed heart.  Target the heart when you
+fight these since that is its weak spot.
+
+I call these guys freaks in stead of zombies because to me
+they really don't classify as your stereotypical zombie.
+These guys are more akin to the infected in the 28
+Days/Weeks Later movies.  They don't want to eat you, they 
+just want to kill you.  Isn't that nice of 'em?
+
+
+
+Roaches -
+
+Not terribly formidable, but numerous.  Keep your distance
+if possible.  The flashlight can be used to drive them
+away from you.
+
+
+
+Worms -
+
+You first see these in Chapter 3 - The Infant Ward.  They
+usually come from the duct work.  Don't waste too much
+ammo on these things as they usually can be ran past.
+
+
+
+Banshees -
+
+Holy terrors.  You are not equipped to properly fight the
+banshees when you first encounter them.  These things are
+the flying heads that scream as they patrol which ever
+room they are in.  I suggest running from them until you
+get your hands on the buzzsaw.
+
+
+
+Crawlers -
+
+These are like the freaks in that they too are humanoid,
+but these guys have no legs.  They are the evil version of 
+Lt. Dan.  They can crawl on floors, walls or ceilings, so
+be sure to check every where in the rooms where you hear
+them scream.
+
+Be careful when fighting them though.  If you blast their 
+heads off, their torsos will continue to spout green
+fluid at you.  Attack with something fast and powerful and
+preferably from a distance.  The buzzsaw is generally
+ineffective against them.
+
+
+
+Flying insects -
+
+The polar opposites of the roaches.  Like the roaches,
+they move en mass, but in stead of being driven away by
+the flashlight, they are drawn to it.  Be sure to shut it
+off when you are near them.
+
+
+
+Green worms - 
+
+These are like the regular worms but they are harder to
+kill.
+
+
+
+
+BOSSES - 
+
+
+
+Cleaver - 
+
+One hand is a meat cleaver, the other has a syringe.  He
+will hit you with the cleaver to injure and stun you and
+shoot some kind of fluid at you from a distance with the
+syringe.
+
+
+
+Gatlingun Wheelchair Guy -
+
+He likes to keep his distance, so if you get too close, he
+will flee from you.  Don't let him get still though, once
+he does, he will ready his gatlin gun and fire at you.
+
+
+
+Green Mouth Room -
+
+Such a creepy room.  Several mouths are positioned on the
+walls, emitting some foul green fluid and generating
+green worms. 
+
+
+
+Boss 6 - 
+
+I don't want to spoil this for you . . . 
+
+__________________________________________________________
+
+
+Dementium: The Ward Walkthrough
+
+
+CHAPTER 1 - The Admittance
+
+__________________________________________________________
+
+
+Once you have control, follow the on-screen prompts.  This
+first Chapter acts as a tutorial, yet it is still a part
+of the story.  The controls are covered in a previous
+portion of this guide and as you play the game you will be
+instructed as well, so I will not go over them in the
+walkthrough unless it seems necessary.
+
+Do what the screen says and get adjusted to the controls.
+Take a look around the room.  Notice the osculating fan in
+the corner?  The rain outside the windows?  The way the 
+room slights up from the lightning flashes? How about that
+music?  This game has set a nice, dark atmosphere.
+
+Look around the room until you find the hallway.  Proceed
+towards the door.  Stop to check out the flashing thing on
+the floor, it is the notepad.  This will come in handy in 
+just a minute. Head out of the door.
+
+Now you are in the hallway, it is dark and there is an
+announcement saying to evacuate the building.  Explore all
+you want, but there are only so many places you can go 
+right now, all the doors are locked. Notice the clipboard
+hanging by the door to the room you just came out of?
+
+Turn right and head down the hallway.  Examine the news-
+paper on the floor.  "Man brutally murders wife?"  The
+notepad said, "Why did you do it?"  Are both of these 
+referring to you?
+
+Just past the newspaper is a room on the right, go in.  On
+the wall is a number written in blood, "081399," better 
+mark it down on your notepad, it might come in handy later.
+Head back to the hallway.
+
+Turn right and go straight.  What the crap was that!?!
+The blood trail begins in the room with the number.  The
+clipboard doesn't have a name for her.
+
+Make a left turn and proceed down the hallway.  Notice the
+flashing object on the cart?  It's a flashlight!  Nice!
+Tap it on the screen to equip it and use the L shoulder
+button to turn it on or off. Don't worry about battery
+life, they won't run out.
+
+There is nothing behind the counter, so make a left and 
+head towards the red door. There is a keypad, try entering
+the code you found scribbled on the wall.
+
+An alarm and a dead guy, this doesn't bode well. Look past
+the dead guy, it is a nightstick.  Finally, something to
+defend yourself with!
+
+Take a look in the room to the left, inside you will find
+the 7th floor map!  Now you can get an idea of where you
+are at and where you are going.
+
+Look past the computer monitors, in that cage.  SHOTGUN!!
+Damn!  It's locked.
+
+Head back out into the hallway and follow the path.  As it
+makes a right turn, you will hear a new noise, doesn't
+sound too friendly.  Use the R shoulder button to quickly
+switch between the flashlight and nightstick. 
+
+Ease forward and look in the closets in the hall. What the
+hell is that thing?  Beat it down with the nightstick, be
+quick or you will take some damage.  Or, you could just
+run right past it.  It will chase you for a bit, but you
+should be able to out run it.
+
+Continue down the hall.  As it turns to the left, there 
+will be a closet directly in front of you, look inside for
+some health pickups.  Continue down the hallway.
+
+To your left are some restrooms and to your right the
+Patient Ward.  There is a message written on the men's
+restroom mirror.  I don't recommend entering the women's
+restroom. Huh, I wonder if curiosity will get the better
+of you...  From the hallway, open the door to the Patient
+Ward.
+
+As you make your way through the room, you notice the dead
+bodies scattered about.  Listen for that creepy breathing
+noise the freaky guys make. If you hear it, one of them
+rose from the floor and is about to attack you.  For best
+results, just run through this room to the other side and
+through the door.  If you want to though, you may find it
+safer to approach the bodies on the floor and begin
+beating them with the nightstick.
+
+In the next room, you can find some health pick-ups behind
+the counter, but that is all there is here, keep going.
+
+After you enter the next room, roaches will come out and 
+attack you.  you can't defeat them, so just run past them
+(double-tap up on the D-pad) or you can use the flashlight 
+to drive them back into the shadows. After entering the 
+room, turn left. At the end of the hallway the path is
+blocked, so head through the doors.
+
+It's a stairwell.  Can't go down, so proceed upwards.
+There's a sign saying "ROOF ACCESS."  When you reach the
+top of the stairs, you will be at the door leading to the 
+roof, step outside.
+
+
+__________________________________________________________
+
+CHAPTER 2 - The Rooftop
+
+__________________________________________________________
+
+
+Great, rain.  Follow the path and as you round the corner
+you will probably hear more freaks climbing over the fence.
+The chances of you getting ambushed and out numbered are
+pretty good here, so I recommend just running.  Sure, you
+will probably take a little bit of damage, but it won't be
+near as bad as fighting the bad guys. Once your reach the
+part where the path way declines, the enemies won't chase
+you past that.
+
+
+****************************
+
+Tip provided by: eric
+
+Roof—the reason I am emailing is to point out the you
+don’t have to run thru the roof—it is safer but you can
+take those guys out when they climb up no problem
+
+All you have to do is walk and when you hear them just
+turn to face them with the night stick and head in
+swinging—you can actual connect while they are still
+climbing and get a good hit or two in before they have
+time to face you—in all I think there was three climbers
+and I got hit once—its not perfect like the pistol kills
+but if you don’t want to just run but rather fight this
+is effective--  eric
+
+
+*********************************
+
+As you proceed across the roof top, you will see a trail 
+of blood.  It is difficult to tell if it is leading to or 
+coming from the small building to the left, but take your
+chances and enter it anyway.
+
+Let this be a reminder to you to always watch your back.
+Look!  That guy dropped his pistol!  Get it!  That's much
+better than the nightstick!  Don't just shoot the freak,
+aim for his exposed heart, that is his weak spot. Obi-wan
+would be proud! (Episode III reference) Before you leave,
+check the back of the room for some more ammo and a few
+pill bottles.
+
+After you finish up in this room, head back out on the 
+rooftop and follow the blood trail.  I still recommend
+running to the next door. Again, you may get attacked a
+time or two, but just keep running.  You will see a
+solitary freak in the path ahead of you.  Quickly dispatch
+him with your pistol then enter the door. If you somehow
+got turned around , just remember to follow the blood
+trail.
+
+Another stairwell.  There are three bottles of pills in
+the corner on the floor to replenish any health you may
+have lost, but be quick! As you approach the steps leading
+down, you'll face roaches once again. Just run downstairs.
+
+Ignore the first set of double doors, running past them to
+the second set of double doors.  You can't go any further
+down, the path is blocked.  Step through the double doors.
+
+
+
+__________________________________________________________
+
+CHAPTER 3 - The Infant Ward
+
+__________________________________________________________
+
+There's that little girl you saw earlier.  Where'd she run
+off to?
+
+Damn, more creepy hallways. Watch out as you begin walking
+down the corridor.  A freak will burst out of the first
+room to the right.  Look at the clipboard on the wall,
+"Jools Watsham."  You just killed Jools, the lead guy of
+Renegade Kid, the producers of this game!  Good thing he
+completed the game before you off'ed him.
+
+Inside Jools' room you will find some ammo, grab it if you
+need it.
+
+Back out in the hallway, across from Jools' room is the
+room of Greg Hargrove, Jools' partner (in the non-gay way).
+As a matter-of-fact, all of the clipboards in this hallway
+bear the names of the guys that helped to get this game
+made, see the back of the games booklet for more info.
+
+As you make your way down the corridor, you will get 
+ambushed two more times.  After dispatching the freaks,
+raid their rooms for extra ammo.
+
+The path to the left is the way that little girl ran to.
+You can hear her crying, but the path is blocked.  Go 
+through the double doors at the end of the hall.
+
+An operating room.  There is some health to the right on
+the counter.  Go through the door on the left wall, you
+know, the one with blood all over it, not the nice, clean,
+safe-looking door (its locked anyway). 
+
+Before you move into range and the freaks become aware of
+you; there are health pick-ups in the open closets.  You
+cannot enter the door directly across from you, and the 
+left path is blocked.  Either kill or run past the freak
+and go right and through the door.
+
+You just stepped into a hallway that looks like a waiting
+room.  Notice the yellow door to your left?  We'll be
+coming back here in a minute.  For now though, go right 
+and into the waiting area.  On the first chair you come to
+you will find the map for this floor. Continue down the
+corridor.  At the end will be a freak aimlessly pacing the
+floor.  I suggest ignoring him and running to the door on
+the left.
+
+Proceed through the hallway.  There will be a freak in a
+closet to the right, but he is easily bypassed.  Wait!
+Look in the incubators!  What the hell?  Those certainly
+aren't human babies. Keep going down the hallway, ignoring
+the door on the right, it is locked, round the corner and
+step through the door.
+
+Head right.  The closet on the right has some ammo.  There
+are some more of those worm things, keep going. At the end
+of the hall will be a door with a picture of a rainbow
+some kid colored. Before you step through the door, look
+at the chair just to the right.  On it is a book, examine
+it.  It is a piano book with this image:
+
+
+
+   C#  D#      F#  G#   A#
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+| C | D | E | F | G | A | B |
+|   |   |   |   |   |   |   |
+
+Now, step into the room. In here you will find health and 
+ammo, take what you need.  In the back of the room is a
+small piano with the word "DEAD" written on the wall above
+it.  Is it a trap?  One way to find out! Examine the piano
+and play the notes D,E,A,D.  Look, the top of the piano
+opened!  Check inside.  You got a keycard.  Cool.  This is
+what you need to go through the yellow doors like you saw
+earlier.
+
+Backtrack to the door I said to remember.  The worms will 
+burst out of the incubators and attack you.  They crawl 
+along the floor and walls as they approach.  Treat them 
+like the Flood in Halo, fire at them while retreating.
+
+For now though, I recommend just running.  Once you step
+through the yellow door, you should find enough health to
+replace what you may have lost.  This will also reserve
+your ammo.
+
+After stepping through the yellow door, check the security
+room to the right for some ammo and that health I told you
+about.
+
+Proceed down the corridor.  After it turns to the right,
+you will see the path ahead blocked off, so keep following
+the open path.  Check the closets for pick-ups and keep
+your ears open for freaks.  You can actually run past them
+if that is your preferred method.
+
+Look at your map, this area makes a "figure 8," only 
+square, like on a digital clock.  You need to get to the
+yellow door on the other side of the blockage.
+
+
+_______________________Y_
+__S___   __*__   _____  |
+      | |    |   |    | |
+      | |    |   |    | |
+      | |____|   |____| |
+      |_________________|
+
+"S" is where you started from.  "*" is the blockage. And
+"Y" is the yellow door.  Once you turn right at the
+blockage you can take either way to get to the door.
+
+After stepping through the yellow door, you will see some
+ammo ahead of you.  Don't grab it just yet. As you round
+the corner worms will drop from the air conditioning 
+duct-work.  Take them out with the pistol, then replenish
+your ammo. As you go down the hall, there will be a couple
+of freaks in the closets, either kill them or run past
+them.  Step through the next yellow door.
+
+You will have to do some fighting in this hallway.  Behind
+the counter is some ammo, but don't get it yet unless you 
+absolutely need it.  Turn to face the hallway.
+
+If you try to run, towards the end of the hall, worms will
+drop out of the duct-work again, and this time they will
+hit you and slow you down, which will give the freaks you
+just evaded the time they need to catch up with you and
+join the attack.  Slowly make your way down the hall,
+taking the enemies out one at a time and picking up the
+pick-ups as you go.  After you clear the hall of nasties, 
+go back and get the ammo if you left it there, then exit 
+the door at the end of the hall.
+
+As soon as you enter this small room, worms will drop out 
+of the duct-work like before.  Just run past them to the
+double doors directly in font of you.
+
+You are in a Patient Ward like you saw in Chapter 1, this
+time, it is a haven - no enemies and some recovery items!
+Before you go through the double doors at the other end of
+the Ward, equip your pistol. Enter the next room with your
+pistol in hand, not your flashlight.
+
+Quickly take out the freak, now the room is secured.  You
+can find some ammo in the corner of the room.  Go out the 
+glass double doors.  
+
+You are in a skywalk.  There are two flying enemies just
+ahead that will soon notice you and begin attacking you.
+It takes 6 bullets to put one of these guys down, so
+unless you are a really good shot, firing at them is a 
+waste of time and ammo, and even a waste of life.  I died
+several times trying to fight my way past them. So, as you
+no doubt have guessed, I recommend running for your dear
+sweet life!
+
+Run past them and take the path to the right.
+
+
+*******************************
+
+Tip provided by: Xieyi21
+
+I managed to found out another way to take care of the
+banshees that you had specified
+ 
+Jus need to equip with the pistol and when you hear them
+coming then shoot straight at their face for about 5 to 6
+ rounds, they will then escape away. They will not come
+back for a while makes it easier to walk pass the area
+without getting hurt by running away by them
+ 
+hope them helps in your walkthrough.
+ 
+
+***************************
+
+
+If you managed to kill the flying monstrosities, take your
+time and in stead of going to the right, go straight. Sure,
+the path has been destroyed, but with the flashlight
+equipped, you will be able to see that you are in fact on
+a skywalk, connecting two buildings and that there are 7
+floors.
+
+After exiting to the right, you will be in a long,
+straight pathway.  Here you will find recovery items and
+chances are, you will need them.  Make sure your health is
+as good as you can get it before you go through the doors
+at the end of the walkway.
+
+There are two more flying banshees here. What ever you do,
+make sure you turn left.  The path to the right is a dead 
+end, and quite literally.  So run to the left and go 
+through the doors.
+
+
+__________________________________________________________
+
+CHAPTER 4 - The Cleaver
+
+__________________________________________________________
+
+Make your way down the corridor. What is it about a little
+girl singing that is so damn eerie?  The first path to the 
+right holds some ammo and behind the counter is some more 
+ammo and health.
+
+Proceed down the path across from the counter.  There is
+that girl again!  Why did she point?  Keep going.  Worms
+will pop out of the sidewall vents and from an overhead
+vent.  Deal with them and go through the door.
+
+To your right, on top of a cart is the map. You can either
+go straight or take a left.  Both lead to the same place
+but I find the left path to be easier.  Which ever way you
+take, go slow and easy and take the enemies out as quickly 
+as possible.
+
+If you went straight, it connects to the left path, so
+once you are in that hallway, turn right.  If you took the
+left door in the room where you found the map, just keep
+going straight.  Round the corner to the left at the end
+of the hall, and keep going to the exit.
+
+You are now in a morgue. There are dead bodies and roaches
+every where.  Don't worry, these dead guys will not rise
+to attack you.  You can find some recovery items in the
+closets and once you are done, exit the door at the other
+end of the room.
+
+You are in another area with a security room. Check inside
+for anything you can salvage.  There is a piece of paper
+on the counter top, it reads:
+
+Perhaps you seek the truth
+The truth is all lies
+Purloined of their youth
+Count the dead men's eyes
+
+ . . . Ok?  Probably some weird "artsy-fartys" guy wrote
+that.  Anyway.  Look, there is another cabinet with a 
+shotgun inside.  Examine it. Whoa! There is a combination
+lock, but what is the combination?  Maybe that poem had
+the answer.
+
+Perhaps you seek the truth
+The truth is all lies
+Purloined of their youth
+Count the dead men's eyes
+
+No numbers in it, but it said to count the dead mens eyes.
+What dead men? Those you saw in the morgue? Give it a try.
+Go back and count the dead guys and then enter the number 
+of eyes to unlock the cabinet.
+
+
+The answer is:
+
+
+
+
+
+
+
+0
+1
+2
+
+
+SWEET! Now you've got a shotgun!  Now you can step through
+that yellow door and deal with anything!
+
+Make your way down the hall.  Watch out!  This freak spits
+at you!  Now they attack from a distance too!?!
+
+Take the wooden door on your right, the path ahead is
+locked and blocked.
+
+In the room past the wooden door, you'll find some shotgun
+and pistol ammo.  Part of the wall has been busted down,
+that is your pathway.  Run to the right and go through the 
+door at the end.
+
+What is that sound? Scraping? Metal on metal?  Maybe some 
+one sharpening something?  Check the closets for pick-ups,
+then go through the clean door.
+
+The path ahead is blocked, so take the only other option.
+
+Up ahead is another blood trail, follow it to the right.
+Before you go through the double doors, take the path to
+the right.  At the end, you will find some very valuable
+pick-ups. After you get them, go through the double doors.
+
+
+BOSS 1 - 
+
+
+Ok, that thing doesn't look too friendly and it is coming
+your way.  Hit it with your shotgun. It will try to squirt
+some kind of fluid at you, so side step it.
+
+Your shotgun blasts will hurt it, but it will still
+probably run up to you and hit you.  You will fall to the 
+ground a bit stunned. The Cleaver will walk away from you.
+
+Use this time to recover and get into a better firing
+position.  Continue the pattern of firing and retreating
+and dodging his attacks when you can.  Also watch out for
+worms that will be in the room.
+
+Once he falls, follow the blood trail out the other end of
+the room.
+
+**********************************************************
+
+The following boss tip provided by: XenomorphNL
+
+boss 1: the cleaver.
+ 
+your hit and run technique is good, used it myself as well
+when i first encountered the cleaver.
+ 
+but instead of firing your shotgun-shells into his body,
+its better to fire them to his mouth. the damage will be
+much greater in that way!
+
+**********************************************************
+
+so with the first boss, the cleaver. i found a clever and
+slightly cheating way to do it.
+
+-Once you enter the room and the little movie segment
+plays, shoot him and move to the right as close to the
+wall as you can. this SHOULD make him not be able to get
+to you its almost short of blocking him so you can shoot
+away and i think only his green stuff will shoot at you.
+BTW shooting him in the mouth does massive damage to him.
+
+:) hope it helps all
+
+- Shannon
+
+**********************************************************
+
+When you enter the room to fight the cleaver. wait until
+he shoots his green stuff at you when he does side step
+right and wait in the corner to the right of the door you
+came in from. He will get stuck on the corner and won't
+shoot his green stuff at you but you have a perfect shot
+at his head.
+ 
+- The Ace
+
+**********************************************************
+
+Ahead of you is some health, grab it then step into the 
+elevator.  Approach the buttons and "Use" them.  Touch the 
+flashing button.
+
+
+
+
+__________________________________________________________
+
+CHAPTER 5 - The Courtyard
+
+
+__________________________________________________________
+
+Head out of the elevator, down the hall and through the
+doors.
+
+Cool, you're outside, no more creepy hallways.  Go down
+the steps.  Is that Jane Doe from earlier?  So she didn't
+get chopped up!  She dropped a key, go get it.
+
+Before you head down the steps, there is a door to your
+left.  It is unlocked and leads to the roof of that small 
+building.  Once you reach the top, you will find a door
+with a keypad.  The code you found earlier will not work
+here, you'll have to find another.
+
+Back in the courtyard, go down the steps and through the 
+iron gate.
+
+You are in another courtyard.  At the top of the steps,
+stop and look to the left.  You will see a set of double
+glass doors, double wooden doors, and a single metal door.
+
+Go in the single metal door.  Another stairwell to the
+roof.  Check it out.
+
+On the rooftop, there is another door with a keypad and
+you still don't have the code.  But look at your feet,
+there is a picture of a woman with the number 31
+scratched into it.  "31" isn't the code for the door
+either.  Head back down to the courtyard.
+
+The double glass doors looks like they lead back into the
+hospital, so let's try the wooden doors.
+
+It is a chapel.  To your left is a book with the original
+title scratched out and "3rd Floor West Building" written
+beneath it.  You don't know what this means yet, but keep
+it filed in the back of your mind.  You may even want to
+write that down in the notepad.
+
+Head up the isle and look in the first pew on your left,
+another book.  Its title has been scratched out too with
+Guard Tower written beneath it.
+
+Go up and behind the pulpit.  There is an open photo album
+with a picture missing.  The part of the picture you found
+earlier fits there, but it seems there are two missing
+parts.  You'll have to return here once the others are
+located to complete the image.
+
+Head back out to the courtyard and through the double
+glass doors.
+
+Go around the corner and head towards the elevator. There
+is another part of that picture here on the floor.  After
+taking in picture, set into the elevator, approach the
+control panel and press the flashing button.
+
+
+
+__________________________________________________________
+
+CHAPTER 6 - The Electric Buzz-saw
+
+
+__________________________________________________________
+
+Step off the elevator.  The path is blocked on all sides
+except the left path.  If you look past the blockade to
+the right, you will see a yellow door.  You can't reach it
+yet though.  Turn to the left and be sure to snag the map
+off of the table.
+
+In this room, there are two yellow doors that lead to the
+right.  It doesn't matter which you take, they both lead
+to the same place.  There is health scattered around the
+room.  Once you are finished scavenging the room, go to
+the yellow door in the south west corner of the room.
+
+Across the hall is a wooden door, quickly enter to avoid
+the worms.  Inside is a briefcase but you need three keys
+to open it.  Look around the rest of the room. On the desk
+is what looks like a journal entry.  Just who are the
+different pronouns referring to?
+
+On the floor is another journal entry.  Experiments? Think
+it is referring to the monsters you've been fighting?  If
+so, then what do you think it is talking about in 
+reference to the cures?  Cures for what?  And who is this
+"He?"
+
+Go in the restroom and look by the sink, another entry.
+
+Step out of the restroom and you will see another note on
+the chair.  It mentions a bronze key, possibly one of the
+keys needed to open that briefcase.  Might want to check
+the men's room by the staff lounge.
+
+Go through the busted wall.  On the restroom floor is
+another note, this one about the silver key.  So, we need
+to look for the office near the central walkway.
+
+Look at all of the blood in that last stall.  Either some
+one got killed on the pot or ate some really bad Taco Bell.
+What am I saying, there's no such thing as bad Tace Bell!
+Exit the restroom through the main door (not through the
+broken wall).
+
+You will encounter a new enemy here.  These humanoids
+with no legs, just torso, will come crawling at you, and
+will spit at you when in range.  After you deal with the
+three crawlers, go left (west on the map).  Peek into the
+open rooms to look for health or ammo, then go through the
+double doors at the end of the hall.
+
+You are in a stairwell, go down. It is blocked, but there
+lies the golden key!  The way upstairs has been blocked as
+well, so head back out into the 5th floor hallway.
+
+Defeat the crawlers again, then go straight and through
+the double doors marked "Staff Only."
+
+Grab health from the closet if you need it then step
+through the yellow door.
+
+Turn left and go through that yellow door.
+
+The security room has plenty of ammo, make sure to max out
+your guns, then go through the white door.
+
+We don't know where the staff lounge is yet, but the
+central walkway is down the hall to your right.
+
+You are back in the room that the elevator is in, this
+time you are on the other side of the blockage.  A look
+around this rooms reveals it to be a dead end, though you
+can find recovery items in the closets. Once you are
+through here, exit the north west door.
+
+There are worms, but you can avoid them.  Go through the
+door directly across from you.
+
+Go straight then hang a right at the end of this hall.
+Follow it around to the next junction.  You will see some
+double doors in front of you and a single door to your
+left.  Take the double doors, they are marked "Lounge."
+This sounds like one of the places we want to be.
+
+Avoid the roaches and go left.  Step through the double
+doors at the end of the south end of the lounge.
+
+Ah, a men's room and a lady's room.  The note for the
+bronze key said to check the men's room.  Watch out for
+the roaches and check the middle stall.  You now have the 
+gold and bronze keys.  One more to go.  If the roaches
+hurt you, check the lady's room for some health, then go
+back into the lounge.
+
+Shoot straight across the lounge and through the north
+exit double doors. The flying bugs in this room are drawn
+to your flashlight.  Quickly shut it off to avoid taking
+damage.  Make your way to the other door.
+
+The path to the left leads to a stairwell, but there is a
+blockade set up.  You can find some recovery items though.
+
+Watch out for crawlers.  When the hall branches left or
+right, go left and through the yellow door.  The right
+path is a dead end.
+
+Simply run through this room, avoiding the worms, to the
+other end.
+
+Straight ahead is a dead end, blocked off.  The wooden
+door to your right leads to pick-ups.  Once you are
+finished gathering goodies, head to the east across from
+the wooden door.
+
+BOSS 2
+
+This guy may be handicapped but he can still kick your ass.
+Look at your map.  Use the path of the outer perimeter to
+approach the gatlin-gun-wheel-chair-guy.
+
+As soon as the cut scene is over, dash to the right and
+make your way to him.  he sees that you ware getting too
+close, so he will flee from you.  Chase him down, firing
+as often as you can.  Only use the flashlight it he gets
+far from you.  There is enough light when you are within
+range.
+
+When he gets far away enough from you, he will turn to 
+face you and start shooting.  When he does, take the path
+around the outside again to get close to him.
+
+Repeat the process of cat-and-mouse and sneaking around to
+his side, firing off a round as often as you can.  Once
+he is down, orenintate yourself by looking at the map and
+take the east exit. 
+
+
+********************************
+
+
+The following boss tip provided by: XenomorphNL
+
+
+boss 2: 
+
+mister "i'm-handicapped-but-i'll-shoot-yer-eye-out".
+ 
+multiple times i've tried to find the weak spot of this
+boss, but now í've got it:
+ 
+you might want to try this:
+ 
+ 
+             ]* [
+             ]  [
+             ]  [
+             ]  [
+   ---------     ------------
+     >>>>>>>>>>>>>>>>>>>
+     <<<<<<<<<<<<<<<<<<<
+    ---------     ------------
+             ]  [
+             ]  [
+             ]  [
+ 
+he:*
+the way you walk: >/<
+ 
+run up and down the hallway, so that he fires his gun
+empty on you. when you've done this 3/2 times or so,
+he'll reload. then run to him and start shooting 1 bullet.
+íf you hit him he'll get hit, and after that he'll start
+reloading again. so he can't drive away when you
+approach. then you'll be standing in front of him. guess
+what comes next? yup, a nice and clean headshot! use this
+technique until he's dead.
+ 
+ 
+ - XenomorphNL
+
+******************************************* 
+
+
+
+
+The following boss tip provided by:  Ron W
+
+*******************************************
+
+
+You start in the room like this:
+^ - you
+* - enemy
+ 
+_____|  |_____
+|            |
+|  ___* ___  |
+|  | |  | |  |
+|  |_|  |_|  |
+|            |
+|  ___  ___  |
+|  | |  | |  |
+|  |_|  |_|  |
+|            |
+|_____  _____|
+     |^ |
+
+You want to get yourself into a position like this:
+
+_____|  |_____
+|            |
+|  ___* ___  |
+| >| |  | |  |
+|  |_|  |_|  |
+|            |
+|  ___  ___  |
+|  | |  | |  |
+|  |_|  |_|  |
+|            |
+|_____  _____|
+     |  |
+
+or this:
+
+_____|  |_____
+|            |
+|  ___* ___  |
+|  | |  | |  |
+|  |_|  |_|  |
+|    ^       |
+|  ___  ___  |
+|  | |  | |  |
+|  |_|  |_|  |
+|            |
+|_____  _____|
+     |  |
+
+
+Basically positioning yourself close enough so that he
+tries to shoot at you, but behind the wall where his shots
+won't hit you.
+
+Make sure you are not too far away, like this:
+
+_____|  |_____
+|            |
+|  ___* ___  |
+|  | |  | |  |
+|  |_|  |_|  |
+|            |
+|  ___  ___  |
+|  | |  | |  |
+|  |_|  |_|  |
+|    ^       |
+|_____  _____|
+     |  |
+
+or he won't shoot at you.
+
+After five bursts of gunfire, he will begin reloading.
+That is your chance to run up to him and unload one
+shotgun blast to his head.  Only one though because you
+cannot hurt him while he is still flashing red from the
+first shot, so any other shots are wasted.
+ 
+From there, he will ride off to another intersection,
+and you begin the process again.
+
+ - Ron W
+
+*******************************************
+
+After exiting through the east door, the way to the left
+is blocked.  So head down the hallway to the wooden door
+at the end.
+
+This is the office near the walkway that the one note
+referred to.  Grab whatever health and ammo you may need 
+and look in the restroom to find the silver key near the
+sink.
+
+Step back out into the hallway.  Now ask yourself, do I
+really want to backtrack all the way to that briefcase? 
+Because if you don't, the exit to CHAPTER 7 is just up 
+ahead.  If you want to back track, then read on, if not,
+then skip ahead to the triple asterisk (***).  But it is
+well worth the effort to look in the briefcase.
+
+Use your map to find your way back to the briefcase.  The
+yellow doors are the opened paths that you can take.  It
+really isn't as confusing as it may seem.  Return to and
+pass through the Staff Lounge. In the Lounge, take the door
+in the middle of the room.
+
+Once you get to the very center of the mp, head south to
+the next intersetion.  Go west through the door and you
+will see the lady's room to your left.
+
+Go back through the hole in the wall and into the office.
+Locate the briefcase and open it.  you now have the
+electric buzz-saw!
+
+Now make your way back to the office where you got the 
+silver key, well, not to the office, but that hallway.
+
+
+***
+
+Go through the yellow door.  You are back in the room with
+the elevator, but you cannot go far. Take the double glass
+doors to your left.
+
+You are on another skywalk and there are two screaming
+banshee that will soon be on you.  You have a shotgun this
+time and it only takes two direct hits to kill them or you
+could just run.  Either way, take the left exit, the part
+of the skywalk that heads north.  After you step through
+the doors, it is quite safe.  Go to the left and through
+the double doors to find recovery items.  Once you have
+your fill, go back to the skywalk and take the double 
+doors at the north east part of the map.
+
+
+
+
+__________________________________________________________
+
+CHAPTER 7 - The Main Security Room
+
+
+__________________________________________________________
+
+You are in some sort of lobby.  To your right are some
+restrooms.  The lady's room is empty and surprisingly NOT
+bloody.  There is some health pick-ups in the men's room
+but you probably won't need them.
+
+Go through the double doors.
+
+You are in some kind of shopping area.  The first set of 
+doors to your right are locked.  Go into the next room on 
+the right.  On the bottom of the shelf to your left is the
+5th floor map.  Ignore the door in the back for now.
+
+The last store on the right is Deuncil Drug where you can 
+find some health.  
+
+I do not recommend going east through the double doors.
+That path is the long way to the same hallway you will
+reach by going through the back door of the room where you
+found the map. 
+
+I have gone east and it simply isn't worth the time, 
+health, or ammo.  there are no other paths to take (after 
+going east) or things to get other than health and ammo.
+
+Go back to the room where you found the map and exit 
+through the door in the back.  You are a some storage room.
+Go deeper into the room, passing through the hole in the
+wall and out the door leading south.
+
+There are crawlers in this hallway. They seem to stay just
+out of range of the buzzsaw, so switch to the shotgun.
+
+The path leading east will just bring you back to the
+double doors in front of Deuncil Drug, so do not go that 
+way.  Turn to the right (west) and through the door.
+
+There is nothing in either of the restrooms, so just go
+through the yellow door.
+
+Looking at your map, there are two exits to this room, one
+to the east and one to the south, go south.
+
+Just ahead are some red double doors marked Security and
+locked with a keypad.  You don't have the combination, but
+a poem to the right of the door reads:
+
+A  dead end is not what you've found
+Instead a riddle you may have missed
+Take some time to look around
+Someone's office may have the list
+
+Ok, so this gives us a goal; find an office and look for
+the combination.  Look at your map. The map shows five
+offices on the south east section of the building. We're
+going to head east down the hallway.
+
+Towards the end, it will branch off to the left, go
+straight through the white door.
+
+Don't bother with the wooden door here, it is locked,
+just keep going.
+
+The path in front of you is blocked, so head east.  The
+hallway is shaped like a backwards "L."  Round the corner
+and head north until you see a wooden door on the left,
+go in.
+
+On a chair in front of you is a note that reads:
+
+1. Wooden Chairs
+2. Paintings
+3. Computer Monitor
+4. Clock
+5. Trash Cans
+6. Newspaper Pages
+
+Look around the room and count how many you see of each
+item on the list.
+
+1. Wooden Chairs - 3
+2. Paintings - 2
+3. Computer Monitor - 1
+4. Clock - 1
+5. Trash Cans - 2
+6. Newspaper Pages - 3
+
+There's your code, 321123
+
+Go back out into the hallway.  All other paths are locked
+or blocked, so use your map and go back to the security
+doors.  Enter the code then step through the doors.
+
+Head to the right and check the cabinets.  Booya!  "Now I
+have a machinegun. Ho ho ho."  "Say hello to my little
+friend!" (Two Movie References)
+
+Search the room for more machinegun ammo, then exit the
+room through either door heading south.
+
+You'll be in a hallway with some worms.  Deal with them
+as you see fit then exit through the door at the end of 
+the hall.
+
+The door to the left (north) is locked so just keep going
+through the wooden door.
+
+Look at your map.  The room on the south east corner is
+locked, so don't bother running over there.  Head north up
+the hallway.  If you need some health, the double doors to
+the right (east) leads to a blocked off stairwell, but
+there are some health pick ups here.
+
+Continue north up the hallway and exit through the white
+door.
+
+All of the doors are locked.  One office to the right is
+open and holds some shotgun ammo, only go after it if you
+need it, otherwise, just run to the yellow door.
+
+You are now in the Cafeteria.  Look at your map. The north
+exit leads to a stairwell, that is your destination.  You
+can explore the cafeteria if you like but there is nothing 
+to find.
+
+In the stairwell, the path up is blocked, so obviously,
+go down.  Exit to the 4th floor.
+
+
+__________________________________________________________
+
+CHAPTER 8 - The Flashback
+
+
+__________________________________________________________
+
+Directly ahead of you is an old gramophone, examine it.
+It seems to still work.
+
+The clean door to the left is locked, so take the bloody 
+door.
+
+Here is a new enemy, a green worm. There is nothing in
+this room, so run across it to the double doors.
+
+This room doesn't have anything either.  Just make your
+way through the mess of beds and out the door on the other 
+side.
+
+The wooden door is locked, so take the bloody door to the 
+left.
+
+Take the first door on the left, all others are locked or
+blocked.
+
+Watch out for the crawlers, then exit the double doors.
+
+Go down the hallway.  On the left, in a chair, is the
+gramophone record, take it. Then keep going past the chair
+and around the corner to the left. Step through the door.
+
+Take out the crawlers then go through the bloody door.
+
+The door in front of you is locked, so go out the right
+door.
+
+You are back in the room with the beds, go right through
+the double doors.
+
+Run straight across the room and through the doors.
+
+Place the record on the gramophone. Is this the flashback?
+There is Jane Doe again and the little girl.  Just what
+are we seeing here?
+
+You can now go through the door across from the gramophone.
+
+BOSS 3 - 
+
+On the walls and ceiling are mouth-like things that spew 
+forth worms.  Attack each mouth until it stops pulsating,
+it will also not produce any more worms.  As you attack a
+mouth, it will flash red.  After you destroy it, it will
+fade to black.
+
+Make your way around the area attacking and destroying
+each mouth and run from or fight off the worms as
+necessary.
+
+Try to take out the ones on the ceiling first using your
+guns.  If you run out of ammo, the buzzsaw cannot reach
+the mouths on the ceiling and then you will be stuck with
+no way to reach them.
+
+**********************************************************
+
+Grant O
+
+Here's a simple way to get a good start on the CHAPTER 8
+boss. Its best that you first have full health before
+entering. Also, like the other bosses don't hit them when
+they flash red (otherwise it'll waste amo). Use the
+machine gun and then the shotgun (I found the shotgun
+only takes 3 bullets to kill each tree mouth), and then
+need be the handgun (which I only needed a few on the
+very last mouth).
+
+First stay in the corner where the door is and take out
+the tree mouth things that are closest to you. This way,
+obviously you won't have to worry about a bunch of worms
+coming up on you. 
+
+Next, take out every single other tree thing that you can
+see (even the furthest ones) with your back at the door,
+while killing any worm that comes close (at this point
+you can even kill them from a good distance, while
+waiting for a mouth to stop flashing red). Just keep your
+back against the door and stand there shooting at the ones
+even in the far distance with the machine gun. They will
+still go dead after a few each. 
+
+After that I managed to finish the room going in a
+clockwise direction. Although I just barely managed to
+get through, I had only lost one health dot killing the 
+first several with the strategy I mentioned. 
+
+**********************************************************
+
+
+
+once the room is cleared, go through the wooden door.
+
+On a chair in front of you is the 4th floor map.  The only
+exit from this room is in the south east corner, step
+through the door.
+
+Round the corner to the right and run straight for the
+wooden door at the end of the hall.
+
+Round the corner to the right.  The wooden door to the
+left is an office with health and ammo. From the hallway,
+head north through the door.  Keep following the path
+until you reach an intersetion.
+
+There will be a door across from a counter, the door will
+be locked, so keep heading west.
+
+In the room with the flying bugs, the door leading south
+is locked, so continue west.
+
+Keep running west.  there is nothing in this room and no
+other paths to take, head for the skywalk.
+
+There are two banshees on the skywalk.  You now have the
+means and experience to deal with these things.  The door
+to the north is locked, so go straight across the skywalk.
+
+
+
+
+__________________________________________________________
+
+CHAPTER 9 - The Hole in the Wall
+
+
+__________________________________________________________
+
+The only available path is to the right, so step through
+the double doors.
+
+Great, banshees in the hospital now.  Make your way across
+the room through the other double doors.
+
+The door to the skywalk is locked, so take the wooden door.
+
+The room straight ahead and in the alcove on the right
+leads to an office, inside is the map.  There is also some 
+health and ammo in the restroom and closet.  Head back out
+into the lobby area.
+
+Go south down the hallway, stopping in the other office 
+for some ammo, if you need it.  Then head south again
+through the gray door.
+
+Only go through the door on the left heading east if you
+have become good at killing banshees.  Two guard the
+corridor, of which at the other end is ammo and health,
+but that is all.  You really don't need to go that way, so
+take the door to the right (west).
+
+Follow the hallway.  It will lead you to another hallway
+that goes from east to west.  Some of the clipboards
+deviate from the typical clinical diagnosis and have
+more humorous conditions. Search the rooms for pick-ups and
+once you are done in this hall, head out the double doors
+to the west.
+
+Follow the hall until it intersects.  On the wall, written
+in blood is a message saying "If You Dare."  Approach the
+metal box and examine it.  Seems you need something to 
+improve your grip.  Apparently, this level activates the
+door on the east.  So go through the door on the west.
+
+Follow the hallway north and go through the door marked
+"staff only."
+
+In the closet to your immediate left is a glove, take it
+then return to the metal box.  Move the lever, then go
+through the door.
+
+The walls in this room generate green worms.  Consult 
+your map to orientate your self then exit through the
+south door.
+
+Ahead of you on the floor is a .357 revolver!  Don't miss
+that!
+
+The only open path is to the west, so go that way.
+
+Head down the hallway. Look in the closets for magnum ammo.
+At the end of the hall, exit the north door towards the
+stairwell.
+
+Go down the stairs and through the door to the 3rd floor.
+
+
+
+__________________________________________________________
+
+CHAPTER 10 - The Torn Photograph
+
+
+__________________________________________________________
+
+Proceed down the hallway.  The rooms to your left all
+contain pick-ups of a various nature, grab what you need.
+
+After turning the corner, at the end of the hall are two
+doors, one to the right and one to the left. There is also
+a 3rd floor map located on the counter top between the
+doors.  Once you are finished here, take the west doors.
+
+Watch out for the banshee in this hall, don't forget that
+the buzzsaw can really even the odds for you against those
+things.  There's nothing to be found here so just go up
+the hallway and exit the north door.
+
+The way west is blocked, so head east.  Watch out for the 
+green worms, they're not ripe yet. (Movie Reference)  Turn
+your light off before entering the next room, there are
+flying insects.
+
+There is nothing to be had in this room, so from the door,
+go towards the left (east on the map) and out the double
+white doors.
+
+There are a couple of Crawlers in this hallway. All the of
+doors are locked, so follow the hallway to the northeast
+exit.
+
+In this room the way south is locked, so keep going east.
+
+Oooo, that eerie laughter again.  There are a few pick-ups
+in this room, once you have them, take the south exit.
+
+There are a few Freaks lying on the floor.  Take them out
+before they can get up, then just keep following the path.
+
+There are two Crawlers in this T-intersetion of a room and
+nothing in either closet.  The north door is locked, so
+take the south door.
+
+On the floor straight ahead of you is a flashing object,
+go see what it is. It is the last piece of the torn photo.
+Now we can complete the picture.
+
+Step into the elevator (same hallway, east side) and 
+activate the panel, touching the flashing button.
+
+
+__________________________________________________________
+
+CHAPTER 11 - The Guard Tower
+
+
+__________________________________________________________
+
+Follow the path and out the double doors.
+
+You are back in the courtyard.  Return to the church and
+place the three picture pieces in the book on the pulpit.
+
+There is someone with their face scratched out, Jane Doe,
+that woman that dropped the key earlier, and that little
+girl you've been seeing.  There is also a date - 10/31/07.
+That is the same date that was on your clipboard outside
+of the room you woke up in.
+
+Leave the church.  Back out in the courtyard, turn right 
+and go around the corner.  Go through the gray door and up
+the stairs.
+
+Once you reach the roof, try entering the date in the
+keypad.  Bingo!
+
+you are inside the guard tower.  To your right, past the
+dead guy is the last weapon, the sniper rifle!
+
+You could have skipped ahead earlier and looked here for
+the code to get into the guard tower and had the sniper 
+rifle much earlier and it may have even helped you, but I
+didn't mention it because that wasn't the correct sequence
+of the game and you would have robbed yourself of the
+challenge of NOT having the rifle.
+
+Next time you play, remember this.  If you pick it up in
+Chapter 5, then you will be able to use it against the
+Gatlingun-Wheelchair-Boss, which will make that fight 
+much easier.
+
+Exit the tower out of the opposite door that you entered.
+Down the stairs and back into the courtyard, then go to
+right and take the elevator.
+
+
+
+__________________________________________________________
+
+CHAPTER 12 - The Cleaver's Return
+
+
+__________________________________________________________
+
+BOSS 4
+
+After the doors open, the Cleaver will be coming straight
+at you from down the hall.  Whip out the sniper rifle and
+tag that fool in the head.  Wait until he stops flashing
+red before shooting again as he is not vulnerable when
+flashing.  He will again attempt to hit you with the green
+whatever from his syringe, just side step it.  This fight
+should be simpler than before.
+
+You may not want to hang out in the elevator.  The room
+you are in makes a giant figure 8. Lure the Clever towards
+you, then put some distance between you and keep tagging
+him. You will probably run out of sniper ammo, so be ready
+to fall back to one of your other guns.
+
+
+**********************************************************
+
+"I'm sure many have told you this, but the thing is you do
+not want to leave the elevator. Back yourself as far as
+you can into one of the corners. He'll come teeth nashing
+close, but he won't be able to attack you."
+
+- Grant O
+
+**********************************************************
+
+I have a tip or hint or whatever you want to call it to
+help your readers with the Cleaver the second time around.
+ 
+When you first get to him you'll still be in the elevator.
+Move back so your back is against the far wall of the
+elevator, shine your flashlight on the Cleaver (without
+moving) and he will start walking towards you. Eventually
+he will get stuck in the door of the elevator and will not
+be able to hit you. Switch to your shotgun and blow his 
+brains out with about 6-7 shots. Its real easy =D
+
+
+- Sean.
+
+**********************************************************
+
+You do want to stay in the back of the evelevator
+ 
+shine your flashlight on him(so he won't shoot acid from
+the needle) and wait for him to run into the elevator
+ 
+he can't attack you he just runs in place because he is 2
+big to get into the elevator
+ 
+stay in the back or he will cut you with the butchers
+knife
+ 
+just keep shooting him until he dies he'll just run in
+place while you shoot him eventully he'll die
+ 
+ - D W
+
+**********************************************************
+
+
+After the fight, put the counter to your left, then exit
+the door at the end of the hall.
+
+Keep going straight, the first room has some health 
+pick-ups, then pass through the second room.  Follow the
+hallway, make the right turn then through the door.
+
+There are banshees in this next hall.  The wooden door on 
+your right is an office with some health and 9mmm ammo.
+Follow the hall, it will make a right turn, then come to
+a T-intersection.  Look to your right to find the map!
+Now exit the south door.
+
+There is some sniper ammo in the wheel chair in front of
+you.  After snagging that, take the east door.
+
+Look at your map. The room you are in is in the shape of a
+backwards "L." The office in the southeast corner has some
+health.  The doors to the stairwell are locked, but the
+office just north of the stairwell has some magnum ammo.
+Back in the hallway, turn off your light then exit the 
+door to the north.
+
+There are two offices off of this hall but one is empty
+and the other is blocked, so just run past the bugs and
+through the yellow door.
+
+Run straight ahead and across the cafeteria, taking out
+the banshees as needed, then exit the door to the north.
+In the cafeteria, ignore the other doors and don't look
+in the kitchen.  The kitchen is empty and the middle doors
+leading west is the long way to where we're heading.
+
+The path to the stairs is block, so head west.
+
+Keep going west (straight) and into the Patient Ward.
+
+Handle the three Crawlers, then keep going west.
+
+There's some health in the foyer, after grabbing that,
+head out to the skywalk.
+
+Prepare to take out a couple of banshees, then take the
+door to the south.  (The west door is locked).
+
+After passing through the corridor running south, turn
+back to the west.  Watch for more banshees.
+
+
+
+__________________________________________________________
+
+CHAPTER 13 - The Door with no Handle
+
+
+__________________________________________________________
+
+Walk forward down the hall.  There will be a yellow door
+on your right, ignore it for now.  Follow the path as it
+turns to the left.  Just ahead you will see a box on the
+floor.  After examining the box, you see that a special
+four letter word is required to open it.  There must be a
+clue some where.  Ah!  there is a piece of paper right 
+beside the box that reads:
+
+It could be random
+That might be true
+But, I don't think so
+It brought me to you
+
+Hidden in the code
+It's easy to see
+Just remember that
+Ten equals E
+
+Ten equals E?  The code on the box is AULA.  Hmmm, still
+doesn't make sense, maybe there is another clue somewhere.
+Search the rest of this area to find some pick-ups, then
+go back to and through the yellow door.
+
+All of the doors in this hallway are locked, so just run
+to the double doors at the end of the hall.
+
+To your left is a wooden door and on it are scratched:
+11, 6, 25, 10.  Four numbers, four letters for the
+special word.
+
+In reality, five equals E but according to the poem, Ten
+equals E.  So they added 5.  In reality one equals A, so
+add five and six equals A.  Seven equals B, eight equals C
+and so on.
+
+11 would equal F
+6  would equal A
+25 would equal T
+10 would equal E
+
+Enter "FATE."  Now you have the door handle!  Return to
+the wooden door with the numbers scrawled on it.
+
+After watching the news story, go across the room and
+through the double doors.
+
+Another surgery room, exit the bloody double doors.
+
+Fight your way to the door on the right.
+
+The wooden door is locked, so take another right.
+
+Kill the Crawlers, follow the hallway, take the yellow
+door.
+
+All of the doors in this hallway are locked but one, take
+a right down the branching hall and go straight to the
+door at the end.
+
+Does this receptionist area seem especially bloody to you?
+Enter the lounge through the double doors.
+
+Watch for the green worms. Skip the doors to the left,
+they are locked and go directly to the doors across the
+room.
+
+Directly across from you is the lady's room, there is some
+health in there, and one freak as well.  The hallway leads
+left, watch for the flying insects.  Run past them and
+through the door at the end of the hall.
+
+Banshees.  The hall leads to the right, keep following it
+until you can go left, then go through the door.
+
+The doors to your left and front are both locked so head
+right, all the way to the end of the hall and through
+the door.
+
+Bugs, mind the light.  The door left is locked, the path
+straight is blocked, so go right.
+
+Take out the banshees and worms, check the open rooms for
+pick-ups, then exit the double doors leading to the stairs.
+
+Follow the stairs to the first floor and step through the
+doors.
+
+
+
+__________________________________________________________
+
+CHAPTER 14 - The Wheelchair's Return
+
+
+__________________________________________________________
+
+In this first room, there are pick-ups a-plenty.  Raid
+the place, turn your light off and once you are ready step
+through the metal door.
+
+Don't move!  Equip the sniper rifle and get one good head
+shot!  He will run, er, roll off after you hit him.  Give
+chase!  Don't use your flashlight to find him.  Keep your
+distance and look down the long hallways with the sniper
+rifle.  If he sees your flashlight's beam, you give away
+your position and he will open fire.
+
+As he runs, check each hallway with the scope to see if he
+stopped at the end.  Once you locate him, pop him in the
+head, paint the walls with his brains. (Movie Reference)
+
+Keep up this pattern and do not fire unless the reticule
+is red.  With about 8-10 shots, he will fall.  If you find
+that you don't have enough sniper ammo, try to sneak up on
+him from the side, then pop out from around the corner and
+unload on him with whatever you have (Shotgun, machinegun,
+magnum).
+
+Once he falls, step through the metal door.
+
+Follow the hall, dealing with the freaks as needed.  The
+door at the end of the hall is locked, but just to the
+left is an unlocked door.
+
+Watch for the crawlers in this hall.  Follow the path and
+through the door at the end.
+
+Watch for the bugs, then take a right and through the
+double doors.
+
+Another banshee hallway.  Duck into the side rooms for
+pick-ups and cover.  Run straight down the hall, do not
+take the left.  Both doors lead to the same place, but the
+left path is the longer way.
+
+There are crawlers in this area.  Follow the path, when it
+branches, do not go left through the double doors, that
+leads you right back to the banshee hallway.  The hallway
+past the right door is blocked, a dead end, so go straight.
+
+The first door to your left is an office with flying bugs
+and health.  The other office on the left is empty of any
+thing, so once the path opens up, go to the right.  Step
+through the wooden door with your gun/saw in hand.
+
+Quickly take out the freak then go through the white
+double doors on the right.
+
+Run past the bugs and to the double doors on the other 
+side of the room.
+
+Up and to the left, take the doors to the skywalk.
+
+As you have probably guessed, there are banshees out here.
+The door to the left is locked, so just keep running to
+the other end.
+
+
+__________________________________________________________
+
+CHAPTER 15 - The First Encounter
+
+
+__________________________________________________________
+
+
+Proceed forward until you see the counter, there is a map
+waiting for you.  Search the room for pick-ups, just
+watch for the bugs on the west side of the room.  Once you
+have all that you need, exit the door on the west.
+
+Get past the freak, then through the door.
+
+After killing the crawler, head north.
+
+Make your way through the very linear maze, then exit the
+door in the northwest corner.
+
+Follow the path, again linear, and head out of the north
+east door.
+
+The door to the stairs is locked, so go right (south).
+
+Prepare yourself for a banshee, then proceed south.
+
+Watch for the crawlers.  The door to the right (west) is
+locked, so keep going south.
+
+The west door is still locked, so keep going south.
+
+The first door to your right is locked, as is the first
+office to your left, the next office is empty.  Man-handle
+the freaks and keep going south.
+
+Mr. Redmoor?  Is that you? Well who was that guy in black?
+It will all be over soon?
+
+Look up ahead where that guy was standing, a note.  So the
+little girl's name is Amanda. And so maybe you didn't kill
+her Mommy, Jane Doe.
+
+After grabbing all of the pick-ups you need out of this
+hall, step through the door leading east to the stairwell.
+
+Follow the stairs down and through the basement doors.
+
+
+__________________________________________________________
+
+CHAPTER 16 - The Final Encounter
+
+
+__________________________________________________________
+
+
+Ironic that you are in the basement and no longer need the
+flashlight. Follow the path. For several rooms, it doesn't
+deviate, no other paths to take.  You will eventually come
+to a T-intersection.  When you do, go left.
+
+Keep following the path. Like before, it will remain
+linear for many rooms.  When you come to another
+T-intersection it doesn't matter which way you go.  It
+makes a circle that meets up at the door to the path.
+
+Keep following the path, dealing with enemies as they come.
+Again, it will stay straight for a long time, then branch.
+This next branch though is just another circle path within
+the room.  Pick-ups line the floor.  Grab what you need,
+then step through the door.
+
+BOSS 6
+
+Run and gun, run backwards that is.  Hit him whenever
+possible but watch for when he flashes red.  Wait for the
+flashing to stop before you fire at him again or else you
+will just waste ammo.
+
+Periodically, he will use some kind of ability to grab you.
+You will know he is doing it when you see white around the
+edges of the screen. You can still hurt him, but you cannot
+break away from his grip.*
+
+*I read on the Gamefaqs message boards that once he grabs
+you, if you shoot his hands he will release you.
+
+I found that the sniper rifle does the most damage to him
+(head shots) but it might be a bit tedious to set up the
+shot.
+
+This is the last boss of the game, there is no reason to
+conserve ammo, so just hit him with what you can and try
+to keep your distance.
+
+
+*****************************
+
+
+Boss tip provided by: Arkrex 
+
+Anyway, regarding you strategy for the final boss, it
+seems a bit empty, so I thought I'd lend you my fail-proof
+strategy.
+ 
+Hit him up with the shotgun at a distance, never letting
+him get too close, nor too far away.  That way, when he
+eventually tries to levitate you, you can switch to the
+revolver and blast away at his hands easily (massive
+damage).  Switch back to the shotgun once he puts you
+down again (the spread prevents him from dodging the
+blasts) and rinse and repeat until he's a goner.
+
+
+*****************************
+
+
+Enjoy the ending.
+
+
+
+
+
+
+__________________________________________________________
+
+
+XV  -   FAQ  UPDATE HISTORY
+
+__________________________________________________________
+
+01-12-08 - v1.4
+
+ - Added a few tips from:
+   Grant O, Sean, Shannon, The Ace, D W
+   
+ - Chrissy, Michael, nikruss added to the thanks list
+
+12-05-07 - v1.3
+
+ - Boss 2 tip provided by Ron W
+ - Zooming Glitch info given by Chas Brother
+
+11-21-07 - v1.2
+
+ - Performed a long over-due spell check
+ - Boss tips provided by:
+
+   XenomorphNL
+   Arkrex
+   eric
+   Xieyi21
+
+ - Granted hosting requests by:
+
+   Gamefaqs           - (http://www.gamefaqs.com)
+   Cheat Code Central - (http://www.cheatcc.com)
+   Super Cheats       - (http://www.supercheats.com)
+   Games Radar        - (http://gamesradar.com)
+   Cheat Planet       - (http://cheatplanet.com)
+
+11-06-07 - v1.1
+
+ - Submitted the completed guide
+ - Granted hosting request by:
+
+   Super Cheats       (http://www.supercheats.com)
+   Cheat Code Central (http://www.cheatcc.com)
+
+11-02-07 - v1.0
+
+ - Submitted a rough and incomplete version of the guide.
+
+10-28-07 -
+
+ - Bought the game, began the guide.
+
+
+__________________________________________________________
+
+
+XVI  -  CREDTIS, THANKS & HOSTS
+
+__________________________________________________________
+
+CjayC - 
+
+ - Without you none of this would exist in its current
+   form.
+
+Watsham, Hargrove, & Renegade Kid - 
+
+ - Thank you so much for this game.  I have enjoyed it
+   thoroughly.  I'm looking forward to more from you guys.
+
+ - XenomorphNL, Arkrex, eric, Xieyi21, Ron W, Grant O -
+ - Sean, Shannon, The Ace, D W                                  -
+
+   It is the input from guys like you that make the guide
+   better and helpful.  Thank you for your tips and
+   suggestions.
+
+ - Maryn, hardangelfan, Chrissy, Michael, nikruss -
+
+   Thank you for both the kind words and for making the
+   effort to let me know.  I am very pleased that this
+   guide was able to be a service to you.
+
+Sites that have obtained permission to use this guide are:
+
+Gamefaqs           - (http://www.gamefaqs.com)
+Cheat Code Central - (http://www.cheatcc.com)
+Super Cheats       - (http://www.supercheats.com)
+Games Radar        - (http://gamesradar.com)
+Cheat Planet       - (http://cheatplanet.com)
+
+__________________________________________________________
+
+
+X  -  CONTACT INFO
+
+__________________________________________________________
+
+
+
+If you need to contact me for any reason, feel free to
+do so by sending an email to
+
+obishawn@hotmail.com
+
+Just make sure you identify this game in the subject
+so I won't mistake your mail for spam.  All comments are
+welcome.
+
+Be sure to check out metroidmetal.com for some free 
+rocking remixed MP3s of your favorite Metroid melodies.
+
+
+Movie Reference answers - 
+
+"Now I have a machinegun. Ho ho ho." 
+
+ - Die Hard 1, Hans Gruber 
+
+"Say hello to my little friend!" 
+
+ - Scarface, Tony Montana
+
+"Watch out for the green worms, they're not ripe yet."
+
+ - A Fish Called Wanda, Otto
+
+"Once you locate him, pop him in the head, paint the walls
+ with his brains."
+
+ - Fight Club, the Narrator
+
+The Obi-Wan/Episode III reverence doesn't count because
+there wasn't a direct quote to the movie, just a mimicing
+of Grevious' death at the hands of Obi-Wan.
+
+
+
+END OF GUIDE

@@ -1,0 +1,1245 @@
+
+        F I N A L   F A N T A S Y   C R Y S T A L   C H R O N I C L E S
+
+                             R i n g   o f   F a t e s
+
+
+                                 FAQ/Walkthrough
+                               by Seph /sephirosuy
+
+-------------------------------------------------------------------------------
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+
+ ~Reference site (including some video):
+http://sephirosuy.blogspot.com/2008/03/ffccrof-game-guides.html
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+-------------------------------------------------------------------------------
+
+ <Message for readers>
+
+    Many guides selling at the online market-places like Ebay are actually
+   stole from GameFAQs (except the original author who decided to sell it),
+   So why would you buy it when you can read this document here for free?
+
+-------------------------------------------------------------------------------
+
+This guide is written and compiled by sephirosuy / Seph
+
+You may not copy or reproduce ANY PART of it under any circumstances except
+for personal, private use. It may not be placed on any web site or otherwise
+distributed publicly without advance written permission. Use of the guide on
+any other web site or as a part of any public display is strictly prohibited,
+and a violation of copyright.
+
+Please ask for permission by contacting me first before using this document
+for any reason, probably I have no problem of giving permission as long as
+you give me proper credit and not editing the guide, that's easy enough.
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+
+  O--------O
+  |  MENU  |
+  O--------O
+
+ 1. INTRO ........... sep01
+
+ 2. BASIC ........... sep02
+
+ 3. WALKTHROUGH ..... sep03
+
+ 4. EXTRAS .......... sep04
+
+ 5. MAGICS .......... sep05
+
+ 6. CONTACT ......... sep06
+
+
+
+===============================================================================
+--------------
+|  1. INTRO  |-----------------------------------------------------------------
+--------------
+===============================================================================
+
+sep01
+
+Thanks for clicking on the guide.
+This FAQ/Walkthrough is for Final Fantasy Crystal Chronicles: Ring of Fates,
+based on Japanese version which released in August 23th 2007
+
+English isn't my first language and my writing skill is not good at all,
+so I write this guide in a simple style as easier people can understand.
+Not much explainations in the walkthrough, but might still contain a little
+spoiler of the game.
+
+A little bit more informations of this game can be found here:
+http://sephirosuy.blogspot.com/2008/03/ffccrof-game-guides.html
+
+
+UPDATE NOTE:
+
+  version 0.1 - 28 Aug 2007
+  Walkthrough covered to PART 7/11
+
+  version 0.2 - 03 Sep 2007
+  Walkthrough done.
+  Covered some basic and extras of the game.
+
+  version SEP - 09 Sep 2007
+  Magics section added.
+  More informations in Extras section.
+
+  version SEP - 10 Sep 2007
+  Corrections
+
+  version 0.3 - 12 Mar 2008
+  Minor revision to match with US version.
+
+  version SEP - 25 Mar 2008
+  Some corrections and little details on certain parts.
+
+
+
+===============================================================================
+--------------
+|  2. BASIC  |-----------------------------------------------------------------
+--------------
+===============================================================================
+
+sep02
+
+ -------------
+ << Control >>
+ -------------
+
+ A = Attack/Examine/Confirm
+ B = Jump/Cancel
+ X = Cast magic
+ Y = Lift & throw
+ L = Set magic trap
+ R = Use ability
+ 
+
+ ---------------
+ << Play Mode >>
+ ---------------
+
+ Single Player
+   - Storyline game
+   - Control more than one story character
+
+ Multiplayer
+   - Character selection
+   - Control one character and able to host or join game (up to 4 players)
+   - Save Crystal in the dungeon works as check point
+   - Quests available
+
+
+ ----------------
+ << Race Stats >>
+ ----------------
+
+-------------------------------------------------------------------------------
+|   Race         |  Cravate     |  Yuke         |  Selkie      |  Lilty       |
+|----------------|--------------|---------------|--------------|--------------|
+| Attack Speed   |  Fast        |  Normal       |  Slow        |  Normal      |
+| Combat Range   |  Short       |  Short/Normal |  Long        |  Short       |
+| Endurance      |  Normal      |  Low          |  Low         |  High        |
+| Ability Type   |  Attack      |  Tactical     |  Attack      |  Tactical    |
+| Others         |  -           |  Easy Stun*   |  Double Jump |  Easy Stun   |
+-------------------------------------------------------------------------------
+*hit with the staff.
+
+
+ ---------------------
+ << Dungeon Objects >>
+ ---------------------
+
+ Key and panel
+   - A basic lock. Normally players have to find the key (blue) and put it
+     onto the panel.
+   - Some of them in the game are hidden, players will have to clear all
+     monsters or certain requirements in order to appear the key.
+   - Another type is something like an empty pedestal which needs a Magicite
+     as its key. Magicite should match to the colour of the panel.
+
+ Switches
+   - While going through the game, we will see some different type of switch,
+     and they have different way to be operate.
+   - EX: Normal switch (a lever) needs a physical attack, magic switch needs
+     the magic attack according to the switch colour, target switch needs a
+     shot from Seikie race and so on.
+
+ Buttons
+   - Button functions as switch too, it's for operating or unlocking certain
+     objects for further use.
+   - For normal button, players can simply jump up to press it. But there's
+     few different buttons in the game require slam attack (jump and hold A),
+     all character jump on the button or pressing more than one button in the
+     same time to operate the objective.
+
+ Magic Head
+   - The most common thing we will see in the game when Alhanarlem is joined
+     the party. Only his ability can use the Magic Head.
+   - Normally it's use for raising new path to the destination.
+   - When preparing Alhanarlem's ability (press R with Alhanarlem), the screen
+     will display the possible blocks that can be raised.
+   - Another common usage is to light up the magic candles which are also
+     use for unlocking certain objects.
+
+
+
+===============================================================================
+--------------------
+|  3. WALKTHROUGH  |-----------------------------------------------------------
+--------------------
+===============================================================================
+
+sep03
+
+o----------o
+|  PART 1  |
+o----------o
+
+
+#=Home
+
+~Once you gain control of the character, you may find the first Save Crystal
+on the left, beside the house.
+
+~Talk to the Mog, then go up the stairs.
+
+~After the scene, take the right path to the cavern.
+
+
+#=Hill Caves
+
+~Lift the key by pressing Y button and throw it to the panel to open the door.
+
+~Next area, the Mog will explain some basic in the battle, have some trainning
+here since the monsters are easy. After all, stand on the button to unlock the
+next door.
+
+~Push down the block, go up and stand on the button, so the boulder will push
+down a new path. Follow the path to next area.
+
+~Hit the switch in the middle to open the doors to right. Left path leads to
+Save Crystal if you want to save, also talk to the Mog beside. Afterwards go
+top right area from the switch.
+
+~Here you need to jump from the treasure chest to upper layer. Destroy the
+spikes to inner area. Keep going until you get back to the same place, and
+you will find the key and the button to release the ladder. Put the key to
+the left panel.
+
+~Move left to the Save Crystal area. Push down the first block, and then the
+second block to press the button. You can save your game before moving on.
+
+~Next area, stand on the button on the top to unblock the boulder. Go down
+the new path and clear all monsters for the key, put it to the panel.
+
+(You will see a red panel thing call Magic Switch which need to be operated
+ by magic, so you can back here for the secret when you're able to use magic.)
+
+~BOSS: Tomb Scorpion
+Attack and run, be sure you dodge its laser which can only shoot its front
+and its crystal tail attack. Hit it somemore right after its attack.
+
+
+===============================================================================
+
+o----------o
+|  PART 2  |
+o----------o
+
+
+#=Home
+
+~Head to top left corner for a scene.
+
+~When you appear in the house, talk to Yuri's father (Ratov) twice.
+
+~After the scene, you may leave for the world map through the left exit.
+In the world map, choose to enter the town.
+
+
+#=Rebena Te Ra
+
+~Go left and talk to the guy in blue.
+
+~Talk to the magic shop keeper on the upper area, learn how to use magic.
+
+~Back to middle area for a scene.
+
+~After, move to bottom right exit.
+
+
+#=The Abandoned Town
+
+~Use Fire magic to hit the magic switch at bottom right.
+
+~Area 2, go top left and use Blizzard Magicite to unlock the door which leads
+to previous area.
+
+~Light up the candle with Fire magic to unlock the door below, then take it
+to area 3.
+
+~This area you can find some red-blue switches, basically you need to hit the
+switch once whenever you find it in order to continue your route. Start from
+right side, kill the monsters for the key, put it onto the panel.
+
+~Area 4, Save Crystal and a Mog are here. Use magic to the switches
+accordingly to advance.
+
+~Area 5, jump into the well. Kill all monsters inside there and then use the
+plat to return to upper area. Cast Fire to the magic switch, jump and attack
+on the button to operate it (jump and hold A).
+
+~Area 6, use Fire magic to light up all candles so you can reach to top right
+corner. Fill the Magicites to the panels accordingly to unlock the gates. The
+left gate leads to your next destination.
+
+~You will back to the first area in the bottom corner. Hit the magic switch
+with Blizzard. Stand on the block and you should see the key while moving,
+take it and fill into the panel on the upper area to unlock the door. Enter
+that room for a scene.
+
+~BOSS: Behemoth
+It has very slow movement, so you can easily dodge all its attack. Likewise,
+don't always stay in front of it.
+
+
+===============================================================================
+
+o----------o
+|  PART 3  |
+o----------o
+
+#=Home
+
+~Go into the house beside Save Crystal and talk to everyone. A scene will
+occur when you leave the house.
+
+~Exit the village to the left path. Choose the new location.
+
+
+#=Mount Vaal
+
+~As you enter this place with Alhanarlem, the Mog will explain the basic of
+tag team actions and abilities of Yuke.
+
+~Advance to next area, go right to area 3. You can find 2 Moogle Seeds around,
+lift them up. (get more to obtain Drop of Stamina which can increase max HP)
+
+~On the way, you need alot helps from Alhanarlem to operate the Magic Head
+to get further area. Move left through the blocks to reach 2F.
+
+~First area of 2F can find a Moogle Seed in the top corner, two paths to the
+left. The first path brings you to 3F and another is the Save Crystal room
+with a Mog inside, and also some Magicites treasure, so be sure you enter
+the the second path first.
+
+~3F, raise the blocks by using Alhanarlem. Next area will be 4F.
+
+~Lift up all Moogle Seeds around until the bigger one in the middle. Now
+prepare for a boss fight. You may raise the blocks connecting to both sides
+for more spaces to run during the fight.
+
+~BOSS: Wyvern
+Using Yuri is hard to hit the crystal of the boss which is its weak spot, and
+the boss is always flying, so can't really get a good combo chain on the boss.
+So I recommend you control Alhanarlem for this fight. Keep jumping and attack
+can easily hit the crystal when it descents. But be steady to jump up on its
+head once its slam the ground, if you get it right, you can stomp the crystal
+many times until it uses the next attack. Try jump again if its next move is
+same.
+
+
+#=Home
+
+~You appear in the village, talk to everyone around, then talk to Yuri's 
+father twice to trigger a scene.
+
+~Back into the house.
+
+
+===============================================================================
+
+o----------o
+|  PART 4  |
+o----------o
+
+#=World Map
+
+~Your next destination is Mount Vaal again. However, you can go back to
+Rebena Te Ra for shopping, technically you may reach to the shops even the
+guards are blocking in many ways.
+
+
+#=Mount Vaal
+
+~From area 2 of 1F, turn left to 2F.
+
+~Next area, have some jumping tests here to reach the upper exit at left.
+
+~3F, push the stand at left to right. Jump up to right area and clear all
+monsters. Continue to upper area. As for the Magic Head on the lower area,
+you can back here when Alhanarlem is with you, it leads to a Drop of Skill
+item (increase max SP).
+
+~4F, pull the block behind the bulletin board, take the path hiding in the
+back.
+
+~Next area, move away the blocking wall to find the Save Crystal.
+Don't forget to speak with the Mog before leaving.
+
+~BOSS: Magician
+Dodge his magic before starting your attacks, try lure him to cast in the
+further area, then use your special ability (press R) to chain him before he
+can recover. If you have Ethers, spend some to restore your SP and use more
+special ability to finish him off earlier.
+
+
+===============================================================================
+
+o----------o
+|  PART 5  |
+o----------o
+
+#=World Map
+
+~Enter Rebena Te Ra town and talk to the Yuke near the entrance. After this,
+go top right area and talk the the guards twice for the scene. Buy some better
+items/equipments before leaving. Make sure you have some Clear Magicites.
+
+~Enter the new location, Ravine Forest.
+
+
+#=Ravine Forest
+
+~Go pass the entrance area, then take the bottom right path in the area 1.
+
+~Area 2, you will see some wooden nets blocking the way, use Fire magic to
+burn it. Head to top right corner.
+
+~Area 3, go up to the plank in the middle area, hit the switch to rotate the
+plank, now you need to go top left. Beware of the red grass which can inflict
+Poison when you touch it.
+
+~Area 4 will meet Gnash, help him to defeat the monster and he will join the
+party, then follow up with the explaination from Mog, kupo. Use Gnash double
+jump to the exit at left.
+
+~Area 5, hit the switch to operate the plank so you can reach to opposite
+side. Now you should go the top left path to the save room, if you take the
+other path, you will need to go a very long way to return.
+
+~In the save room, save your game of cause . Also talk to the Mog to obtain
+another Mog Stamp. Afterwards, follow the path to down.
+
+~Area 6, shoot the switch right in the front to release the umbrella-flower
+at the plank. You need all 4 of them to be release, and near the plank you
+can find another one. Now move to the bottom exit.
+
+~Area 7, follow the pointer to up and you will back to area 6. Shoot another
+switch to release the flower before jumping down.
+
+~Head back to the save room and return to area 5.
+
+~Area 5, follow the pointer to top right, shoot the switch and take the plank
+to bottom left path.
+
+~Next area, shoot the switch to rotate the plank. When everyone stand on the
+plank, shoot the switch again to reach the left path.
+
+~Area 6 again, you should able to find the last switch on the right. Shoot it
+to release the last flower. Take the flowers plank to the top.
+
+~BOSS: Ochu
+Quite easy, control Yuri to deal combo hits. When it shows the crystal, jump
+on the leaf and hit the crystal a few time, be sure you get further when it's
+going to twirl. And Fire seems dealing better damage to this boss.
+
+
+===============================================================================
+
+o----------o
+|  PART 6  |
+o----------o
+
+#=Rebena Te Ra
+
+~Speak to the guards at top right, enter the castle and watch a scene.
+
+~Buy the necessarity from the shops before leaving.
+
+~Choose the new location in the World Map.
+
+
+#=Rera Ciel
+
+~Let Gnash to jump over the gap and then summon the allies (press L).
+Some rare items are at the back wall, have a look by using Gnash. Save your
+game before moving.
+
+~Down to the water area B1F and you need Gnash to shoot the switch.
+
+~Next, use Alhanarlem's ability to raise the bridge. Push in the beam in the
+corner to drain the water so you can reach B2F.
+
+~Next area, have Alhanarlem to cast the block from the Magic Head, stand on
+the block with Gnash and you can get some items on the top. After that,
+stand on the button to uncover the switch then shoot it to unlock the gate.
+
+~Enter the room on the bottom for a scene.
+
+~Now you control Meeth, follow the instruction to learn use of her ability.
+First use Pot Action (hold A) to get pass the hole, then the spikes area.
+Lower area, use Pot Action to dash over the other side, and later do the same
+thing to destroy the wall.
+
+~Next step, defeat the enemy, cast a pot on the button to raise the block and
+thengo down to bottom. Here you will learn how to create a Magicite, because
+the pedestal is Fire elemental, so you can only create the Fire Magicite.
+
+~Once you've done, put the Fire Magicite to the panel, then go to the warp
+point for a scene.
+
+~Back to previous room and save your game.
+
+~Use the same warp point to return the lower area, go down the stairs.
+
+~B7F you can see the waterfall blocking your way. Now follow the other path
+to the area above. Put the Fire and Blizard Magicites to the panels to stop
+water falling. Back down and be ready for the boss battle, get full of
+Blizard Magicite.
+
+~BOSS: Giant Fish
+I suggest to control Alhanarlem, jump and attack can easily hit on the its
+crystal. You should use L button to warp your allies since the attack of the
+boss can hit a large area and dealing great damage, or cast Blizard to freeze
+the boss when it's closing. Needless to say, hit as much as possible when the
+boss is frozen.
+
+~After the battle, move to the only way to escape.
+
+~You will appear in a crystal room. Now talk to everyone again and again
+until Gnash show to the warp. Use the Warp point the leave.
+
+
+===============================================================================
+
+o----------o
+|  PART 7  |
+o----------o
+
+#=World Map
+
+~Enter castle of Rebena Te Ra town (top right). Talk to the Yuke twice.
+Head to left door and find the emperor in the room above, talk to him.
+
+~After the scene, you will come to a new location.
+
+
+#=Sinners' Island
+
+~First area, Save Crystal can be found in the left corner. Find another Mog
+around the middle for the Mog Stamp. Some Moogles on the top are shops now,
+you can buy something from them.
+
+~Area 2, move Meeth to the Blue Tile at right and put a pot on it (press R).
+Stand on the pot to move high. Obtain the key and then put a pot (hold A) on
+the button to operate the floating plate, so you can reach to left. Fill in
+the panel witht the key to next area.
+
+~Area 3, you need Meeth's pot on the Blue Tile as well. Make your way to
+the right path.
+
+~Area 4, shoot the balloon and put the key to the panel.
+
+~Area 5, put the Fire, Thunder and Blizzard Magicites accordingly to unseal
+the path to next area. Don't forget obtain the items in the right corner.
+
+~Area 6, press the button on the plate to get high. Jump to the second plate
+and press the button and you can see the key tied on the  balloon, shoot it
+down. Move left to the stairs, defeat the Bomb up there and the Green Tile
+will appear. Put a pot on it with Meeth (press R) and lift it to jump further
+until the plate over the other side. From the Blue Tile, you can find another
+Green Tile above it, use Meeth's Pot to fly over to the right to get some rare
+items. Lastly, put to key on the panel at left to unlock the path below.
+
+~Next area is a save room, but no Mog here.
+
+~Area 7, you must defeat all monsters here. Blue Tile appears, let Meeth
+brings the party. Magic Head appears, use Alhanarlem to cast the plant and
+climb up. After, use the second Magic Head to create the block. Keep killing
+monsters until the balloon show up, shoot it to operate the plate. Lastly the
+Green Tile, use Meeth to create a winged pot and fly over to the warp point.
+
+~BOSS: Dragon Rider
+Attack everywhere as you can. When the rider dismount from his dragon, cast a
+Blizzard to freeze him and hit him more, or you may ride the dragon for help.
+After defeating him, you have to kill the dragon too. Use more Blizzard as
+well, its weakness is on its tail. Funny thing is its crystal tail gets alot
+damage, the dragon will need to rest, so you can simply knock it down by
+hitting and keep chaining its tail.
+
+
+===============================================================================
+
+o----------o
+|  PART 8  |
+o----------o
+
+#=??? (Hades)
+
+~Buy some better equipments from the shops. I recommend increase the pocket
+of Blizzard and Cure Magicite. Save your game and leave.
+
+~Area 1 B8F, have Meeth to collect some useful elements from the pedestal.
+Move right will see the monster apppear like shadow, cast Cure to make him
+appear as usual. Use Blizzard when they come in group. After defeating all
+monsters around, you can see the block appear on the top which leads to the
+next area.
+
+~Area 2 B7F, take exit at right corner.
+
+~Area 3, let Meeth flies over the other side from the Green Tile. Move to
+left and control Gnash to shoot the switch at the bottom, jump to the block
+and back previous area.
+
+~Area 2, use the Magic Head below to raise the block, so in case if you
+drop down you can back here easier. Use the yellow Magic Head to light up
+all 3 candles for building up the first half of the bridge in the middle.
+
+~Follow the upper platform to the left way and get pass the Green Tiles
+with Meeth to reach the exit to down.
+
+~Couldn't find the path? Check this video:
+http://www.youtube.com/watch?v=CbOAlwGDD-4
+
+~Area 4, shoot the switch, move to middle and fill the panels with Magicites
+accordingly to unlock the Yellow, Blue and Red doors. You must go through all
+these doors to area 5 and light up the candle, be sure the last door
+you take is Red (bottom).
+
+~Afterwards, you may back to area 2 again through area 5, but first you have
+to defeat all monsters.
+
+~Area 2, raise the block with the Magic Head. Light up all 3 candles by using
+the other Magic Head for building up second half of the bridge. Go through the
+bridge to next area.
+
+~Area 6, a Save Crystal can be used here. Besides, talk to the Mog near the
+stairs for a Mog Stamp. If you got all Mog Stamps from the beginning to here,
+the racing game should be unlocked now.
+
+~Follow the only path here will reach to the battle.
+
+~BOSS: Death God
+The first boss is easy, since he only attack your leader, so control Gnash
+to lure him around, shoot him in a distance. Second boss, control Yuri to
+close combat. Always attack from his back can avoid from getting damage, and
+your 3rd and 4th hit stays a change to hit the crystal.
+
+~After the fight, you will back the Rera Ciel again.
+
+
+===============================================================================
+
+o----------o
+|  PART 9  |
+o----------o
+
+#=Rera Ciel
+
+~Save Crystal and the Moogle shops are all here. Jump over the entrance to
+find a Mog for Mog Stamp. The wall at the back has some items as well.
+
+~In the first area encounter monsters, you must clear all them to unlock the
+panel. Put a Fire Magicite on the panel to reach bottom.
+
+~Next area, go down and shoot the balloon it to drop the Thunder Magicite.
+When the water is drained, run to the plate at right corner, then wait for
+the water to brings you up.
+
+~Next you can find the Save Crystal. Push the beam near the Save Crystal to
+unlock the elevator, take it to lower floor.
+
+~Now you should appear on B3F. First of all, make sure take the Pocket Raise
+item on opposite of the direction you came. 
+
+~Check the top area (before you push the beam in the other room at the back),
+where you can see a plate on the water, use Meeth to create a pot and let Gnash
+put it on the plate, stand on the pot so Gnash can reach to the higher area.
+Summon your allies, lets Meeth roll into the small path, push the beam in the
+end to drain water. (by going through this way you can find some items)
+
+Note:
+ If you play Multiplayer mode without an ally, and you're not using Selkie,
+ you can first jump to the plate floating on the water, then throw out some
+ items and overlap them, jump on these overlap'd items so you reach to the
+ higher area.
+
+~Now you can reach to the B5F elevator. Take it to lower floor.
+
+~B7F, you need 2 keys to go next area. Use Meeth's Pot Action to destroy to
+wall. Go up to B6F and push down both blocks. Other side, use Meeth's the fly
+from the Green Tile to obtain the first key, put it to the panels. Make your
+way to shoot the switch with Gnash. Go find the Magic Head near the top exit
+and use it to raise the block. Now let Meeth roll into the small path to other
+side, take the exit in the end.
+
+~Next, toss a Thunder Magicite into the water to hit the magic switch.
+A Save Crystal appear once you have pushed the beam. Now you may obtain
+the remaining key.
+
+~Go next room for a scene.
+
+~BOSS: Giant Fish
+Same place and same boss. You can toss a Thunder Magicite around the magic
+switch (in the water) to drain the water. After that, you can jump down to
+fight it. For a fast win, throw out a Fire Magicite, and use Alhanarlem to
+spread it onto the boss. Beware when you leave the plate because the boss
+has a skill can attack everywhere except the plate area, and remember the
+water will refill after a moment.
+
+~After this, go any exit to leave.
+
+
+===============================================================================
+
+o-----------o
+|  PART 10  |
+o-----------o
+
+#=Existence of the Crystal/Rebena Te Ra
+
+~Go upstairs enter the room for scene, another fight is awaiting.
+
+~BOSS: Death God
+This is stronger than before, but using the same tactic would not get any
+problems to defeat him. Control Yuri and keep hitting him from the back,
+jump and run to avoid getting damaged when he face to you.
+
+~After the scene, talk to the emperor 3 times to leave.
+
+~Get better items from the shop, full fill Blizzard Magicite, of cause you must
+have some other Magicites as well.
+
+~Head to the left path.
+
+
+#=The Crystal Temple
+
+~Talk to the emperor when you ready to fight.
+
+~BOSS: Chaspel
+Make sure dodge his magic attack, once it's done, attack till he starts the
+next move. Later he will spread out his fake bodies, now don't bother to find
+out his real body, keep attacking with the help of Blizzard magic. Another
+strategy is very agressive, you can actually beat this boss before he spreads
+the shadows out.
+
+~Check this video if you're interesting on this strategy:
+http://www.youtube.com/watch?v=GmMfNaUKqws
+
+~Next area, take the left path.
+
+~2F, kill all monsters in both areas to operate the plate and button.
+
+~Inner area call all your allies to stand on the button which looks bigger.
+
+~Now go bottom right and defeat the boss you fought in the first dungeon.
+
+~Inner area, kill all monsters and then use Meeth to roll pass the net. Next
+step is press the buttons on the left. Now have Alhanarlem raise the floating
+blocks on the top from the Magic Head. Jump pass the blocks to reach the exit.
+
+Since many people asking "what's that block?" here's the screenshot.
+http://i157.photobucket.com/albums/t43/sephirosuy/screenshot/ffccblocklt6.jpg
+
+~Next area has full of poison, you can put Meeth's pot on the tile to raise the
+protection. To reach next area, head to the left part.
+
+~3F, throw out a Thunder Magicite, use Alhanarlem's Magic Tail to spread it
+on both magic switches. Because you must hit them is the same time only will
+unlock the gate.
+
+~Next area, hitting the switch will change the laser gate, so hit the switches
+to get further, then hit the next switch and forward. In the middle, jump up to
+the left wall, pull out the block. Near the gate, throw out a Fire Magicite and
+Blizzard Magicite, have Alhanarlem spread the Fire magic to the red switch and
+then Blizzard magic to blue switch (must do it fast).
+
+ *(optional room)
+  As for the buttons around the second switches, you and lift and throw the
+  blocks for help. Once you've pressed all buttons, the floating plate will
+  descent and you can take it to higher area which leads to a pedestals room.
+
+~Next area, clear all monsters for the key. Jump and hold A to slam the button,
+the switches appear. Lets Gnash shoot both switches from the second pillar,
+the candles appear. Throw out a Fire Magicite and use Alhanarlem's Magic Tail
+to light them up.
+
+~You reach another poison room. Defeat all monsters for the the key, put it
+onto the panel. As mentioned before you have to pull the block in the laser
+gates room, if you didn't make it, the path to the panel is blocked. However
+you can go back there from the previous room. After the panel, you can press
+the switch to stop the poison. Next, put Meeth's pot on the tile and take it
+to higher area.
+
+~5F, use the Save Crystal here. Talk to the Mog to collect Mog Stamp as well.
+After, move to the left path to next area.
+
+~Press the button to operate the plate. Go right by taking the block and you
+can see many candles and a Magic Head. Use Alhanarlem to light up all candles
+while standing on the moving block, this will operate the stages rotation.
+Jump pass the rotating stages to lower area, press the button under water to
+release a boulder, push down to the water to press another switch, the key
+appears. Take the key to the panel.
+
+ *Now you can back to the beginning area by using the rope for some rare items.
+
+~Next area, have Gnash jump to the middle first, then summon your allies,
+change Alhanarlem to raise the block by using the Magic Head. Now jump to
+right and defeat the monster for the key. You can summon Alhanarlem to the
+right and raise the moving block as well. Put the key on the panel to next
+area.
+
+ *If you're having problem in jump to the middle area while holding the key,
+  you can try jump and throw it to the standing place (middle area), even if
+  you can't reach it, probably the key is threw to the place, but you have to
+  sacrifice some HP.
+
+~Next place, what you can do is throw a block on any glyphes and to operate
+the warp in the middle. You can back to previous places by using this. As for
+reaching to you next destination is put the blocks to cover each glyph, and
+the warp will take you to the next battle.
+
+~BOSS: Pope Galdes
+This boss deals large damage, so make sure to dodge his attacks. Control Yuri
+for the whole battle. Basically keep moving your character to the back of the
+boss should be fine. Everytime the boss starts his move will probably turn
+his face to you, once he lock the target on your position, move to his back
+again and keep on attack.
+
+
+===============================================================================
+
+o-----------o
+|  PART 11  |
+o-----------o
+
+#=Rebena Te Ra
+
+~After alot of scenes, you gain control of Yuri.
+
+~Move to the left where you went to the Crystal Temple.
+
+~Once Yuri reached it, you will need to move Alhanarlem, Gnash and Meeth as
+well. Each of them will face a boss.
+
+
+#=The Lunar Temple
+
+~Enter the temple one by one, take the warp point in front.
+
+~BOSS: Ochu  (Alhanarlem only)
+For an easy win, take down the 2 plants for some possible useful Magicite.
+If they drop the Fire Magicite, throw it to the crystal seed or perform
+Magic Tail to deal large damage. Before the petals recover the seed, freeze
+it by Blizzard so you can give it more damage. Repeat the steps when it's
+recovered.
+
+~BOSS: Behemoth  (Meeth only)
+Attack the boss from the side and back, run when it face to you. Blizzard
+can be alot helps for this. When the boss is down, jump on it and stomp its
+crystal.
+
+~BOSS: Wyvern  (Gnash only)
+I believe Gnash has no problem on this fight. Pay attention to the slam move,
+you can jump on its head and stomp the crystal. If you made it right, you can
+repeat many time as long as you jump from the slam move.
+
+~Before you fight the next boss with Yuri, you can back to Rebena town for
+ordering a Light Blade for him (Orihalcum x1, Holy Orb x2). Because you
+could get Holy Sphere from the bosses, and it's probably the strongest weapon
+so far.
+
+~BOSS: Dragon  (Yuri)
+Attack from the side and back. The most effective spot it the crystal tail,
+and its movement is very slow.
+
+~After all, the party regroup again. Head to the back of the next warp point
+to find a Mog for Mog Stamp. Take the warp point to the final battle.
+
+~Enter the warp point, watch some scenes and following the final battle.
+
+~BOSS: Pope Galdes (section 1)
+The bombs are unlimited here, so don't need to care them. Immediately destroy
+the crystal and jump to next area, destroy the second crystal and jump to last
+area, and now the real battle begins. The boss and his crystals immune to many
+magic at most time, so focus on physical attacks. Be sure you pay attention on
+their magic attacks, hit and run is not a bad idea. Destroy the crystal which
+is blocking and annoying, but remember you7 main target is still the boss.
+
+~BOSS: Pope Galdes (section 2)
+This time is more powerful, the boss now can deal great damage with most of his
+moves, but most are only hit the front. Keep attacking from the back and simply
+press L summon your allies to avoid from getting hit. His weak spot is a little
+higher from your standing distance, to hit it easier, you can stand on his ring
+with Yuri and perform a great combo.
+
+~After defeating the boss, end this by casting  Fire, Blizzard, Thunder and
+Cure to the circles with each person one cast. That's mean you must have all
+allies alive to do this. If this cannot be done within time limit, the boss
+will revive again with full HP.
+
+~Finally the last battle is ended. Go back to the village to see the ending.
+
+END
+
+
+===============================================================================
+---------------
+|  4. EXTRAS  |----------------------------------------------------------------
+---------------
+===============================================================================
+
+sep04
+
+ -------------------
+ << New Game Plus >>
+ -------------------
+
+2nd Round : Beat the game once. (start the game from the saved file)
+
+  - Unlock Yuri's Village in Multiplayer mode.
+  - Start with all items and characters' level in the 1st round.
+  - Enemies become stronger and drop better items.
+  - Items in the treasure chests have been changed.
+  - New dungeon become available after Mount Vaal event.
+     - A secret boss is awaiting!
+
+
+3rd Round : Beat the 2nd Round game.
+
+  - Start with all items and characters' level in the 2nd round.
+  - Enemies become much more stronger.
+  - Equipments Shop starts selling Rail Jacket.
+     - ATK +100
+     - DEF +100
+     - MAG +100
+     - HP Regen 3
+     - SP Regen 3
+     - Impact Plus 3
+
+
+
+ ------------------------
+ << Multiplayer Stuffs >>
+ ------------------------
+
+Difficulty:
+ - Hard : Clear all stages on Normal mode.
+ - Very Hard : Clear all stages on Hard mode.
+
+  NOTE: To access the Hard mode, you must enter the castle in Rebena Te Ra,
+        talk to the emperor and then go upstairs, defeat the boss up there.
+        Now return to the Valley of Heroes/Hill Caves, the Hard and Very Hard
+        modes should be available. You must beat the first stage to unlock
+        the Hard and Very Hard mode for next stage, beat the second stage
+        to unlock Hard and Very Hard mode for third stage and so on...
+
+
+
+Quests:
+ - Boss Rush : Clear The Crystal Temple Normal mode.
+ - Boss Ruuush! : Clear The Crystal Temple Hard mode.
+ - Boooss Ruuuuuush! : Clear The Crystal Temple Very Hard mode.
+
+  NOTE: Some additional quests have been added for North America version.
+        But don't ask me what quests because I only have the Japanese version.
+
+
+
+ ----------------
+ << Mog Staffs >>
+ ----------------
+
+Mog Paint : Collect Mog Stamps through Single and Multiplayer.
+            Once it's avail, you will see the option when talking to the Mog.
+            Edit the appearance of the Moogle.
+
+Racing Game : Obtain 9 Mog Stamps to unlock it. Speak with the Mog to play.
+             (Personally, I got 7 from Single and 2 from Multiplayer.)
+
+    A = Accelerator
+    B = Break
+    L = Use Magicite
+    R = Look behind
+   <- = Turn left
+   -> = Turn right 
+
+
+
+ ----------------------
+ << Moogle Locations >>
+ ----------------------
+
+Other than Mog Paint and Racing Game, the Moogles will award the players
+who works hard to collect the Mog Stamp. Player will be awards with a lot of
+materials when collected 18 Mog Stamps, and Ultima Silk when complete the
+collection of Mog Stamp, which is a very rare material for ordering Recipe.
+
+NOTE:
+Some of the stamps can be obtained from the different Mog, of cause only one
+will be receive, this also means some of the Moogles giving the same stamp as
+other; And Moogles are supposed to give the appointed stamp, but after some
+discussions with other players, some of them are actually giving random stamps.
+So I can't really tell the location for the appointed stamps because they
+MIGHT give a random stamp that's missing in the collection.
+
+Here's a list of Moogle locations, to fully collect all stamps, you must at
+least play the game twice, because there's a few can only be obtain in the
+2nd Round or 3rd Round gameplay. (Some Moogles give more stamp when you meet
+with them in the different round).
+
+
+Hill Caves
+ - Single; entrance (event).
+ - Single; Save Crystal area.
+ - Multi; Save Crystal area.
+
+The Abandoned Town
+ - Single; Save Crystal area.
+ - Multi; Save Crystal area (bottom side near the door)
+
+Mount Vaal
+ - Single; Save Crystal cave.
+ - Multi; Save Crystal cave.
+
+Mount Vaal second visit
+ - Single; Save Crystal area.
+
+Ravine Forest
+ - Single; Save Crystal area.
+ - Multi; Save Crystal area (behind the tree at right).
+
+Rera Ciel
+ - Single; Meeth's room.
+ - Multi; Meeth's room (on the bookcase).
+
+Sinners' Island
+ - Single; Save Crystal area.
+
+??? (Hades)
+ - Single; second Save Crystal area.
+ - Multi; Save Crystal area, on the pillar (top left).
+
+Rera Ciel second visit
+ - Single; on top of the entrance.
+ - Multi; B2F the room before elevator.
+
+The Crystal Temple
+ - Single; Save Crystal area.
+ - Multi; Save Crystal area.
+
+The Lunar Temple
+ - Single; the room right after the battle with 4 bosses.
+
+River Belle
+ - Single; first area top right.
+ - Multi; second area inner side.
+
+-------------------------------------------------------------------------------
+
+
+
+===============================================================================
+---------------
+|  5. MAGICS  |----------------------------------------------------------------
+---------------
+===============================================================================
+
+sep05
+
+ -----------------
+ << Basic Magic >>
+ -----------------
+
+-------------------------------------------------------------------------------
+ Magic   | Effect                                   | Require Magicite
+---------|------------------------------------------|--------------------------
+Fire     | Deals fire damage and burns enemy        | Fire
+Blizzard | Deals ice damage and freezes enemy       | Blizzard
+Thunder  | Deals thunder damage and paralyzes enemy | Thunder
+Cure     | Restores target's HP                     | Cure
+Raise    | Revives KO'd target                      | Raise
+Clear    | Removes bad status and restores some SP  | Clear
+-------------------------------------------------------------------------------
+
+
+
+ ------------------------
+ << Magic Combinations >>
+ ------------------------
+
+NOTE:
+Most magics can simply casted whenever the required magics are combined, but
+some of them cannot. Let say Fira and Fira +1; Fira release when 2 Fire are
+mix with each other. For Fira +1, you must set a target Fire first (press L
+while holding X), then move the second Fire and set it at the same spot, now
+press L to release Fira +1 instead of Fira. Of cause "+1" is better than
+normal Fira.
+
+Whichever list as "Trapping" piling type is how you cast Fira +1
+
+As for Firaga +1, you can't just set 4 Fire together, because it needs
+two Fira +1, so you must set a Fira +1 and then mix with another existing
+Fira +1. And I'll list this as (2)(2) = (Fira +1) + (Fira +1)
+
+*Or veiw the second list for details.
+
+
+===============================================================================
+|            |                  Require Magicite                   |  Piling  |
+|   Magic    |-----------------------------------------------------|   Type   |
+|            |  Fire  |  Bliz. |  Thun. |  Cure  | Raise  | Clear  |          |
+|=============================================================================|
+|  Fira      |   x2   |    -   |    -   |    -   |    -   |    -   |          |
+|  Fira+1    |   x2   |    -   |    -   |    -   |    -   |    -   | Trapping |
+|  Firaga    |   x3   |    -   |    -   |    -   |    -   |    -   |          |
+|  Firaga+1  | (2)(2) |    -   |    -   |    -   |    -   |    -   | Trapping |
+|  Firaja    |   x4   |    -   |    -   |    -   |    -   |    -   |          |
+|-----------------------------------------------------------------------------|
+| Blizzara   |    -   |   x2   |    -   |    -   |    -   |    -   |          |
+| Blizzara+1 |    -   |   x2   |    -   |    -   |    -   |    -   | Trapping |
+| Blizzaga   |    -   |   x3   |    -   |    -   |    -   |    -   |          |
+| Blizzaga+1 |    -   | (2)(2) |    -   |    -   |    -   |    -   | Trapping |
+| Blizzaja   |    -   |   x4   |    -   |    -   |    -   |    -   |          |
+|-----------------------------------------------------------------------------|
+| Thundara   |    -   |    -   |   x2   |    -   |    -   |    -   |          |
+| Thundara+1 |    -   |    -   |   x2   |    -   |    -   |    -   | Trapping |
+| Thundaga   |    -   |    -   |   x3   |    -   |    -   |    -   |          |
+| Thundaga+1 |    -   |    -   | (2)(2) |    -   |    -   |    -   | Trapping |
+| Thundaja   |    -   |    -   |   x4   |    -   |    -   |    -   |          |
+|-----------------------------------------------------------------------------|
+|  Cura      |    -   |    -   |    -   |   x2   |    -   |    -   |          |
+|  Cura+1    |    -   |    -   |    -   |   x2   |    -   |    -   | Trapping |
+|  Curaga    |    -   |    -   |    -   |   x3   |    -   |    -   |          |
+|  Curaga+1  |    -   |    -   |    -   | (2)(2) |    -   |    -   | Trapping |
+|  Curaja    |    -   |    -   |    -   |   x4   |    -   |    -   |          |
+|-----------------------------------------------------------------------------|
+|  Arise     |    -   |    -   |    -   |    -   |   x2   |    -   |          |
+|  Arise+1   |    -   |    -   |    -   |    -   |   x2   |    -   | Trapping |
+|-----------------------------------------------------------------------------|
+| Cleara     |    -   |    -   |    -   |    -   |    -   |   x2   |          |
+| Cleara+1   |    -   |    -   |    -   |    -   |    -   |   x2   | Trapping |
+| Clearaga   |    -   |    -   |    -   |    -   |    -   |   x3   |          |
+| Clearaga+1 |    -   |    -   |    -   |    -   |    -   | (2)(2) | Trapping |
+| Clearaja   |    -   |    -   |    -   |    -   |    -   |   x4   |          |
+|-----------------------------------------------------------------------------|
+|  Gravity   |   x1   |   x1   |   x1   |    -   |    -   |    -   |          |
+|  Graviga   |   x2   |   x2   |   x2   |    -   |    -   |    -   | Trapping |
+|-----------------------------------------------------------------------------|
+|  Barrier   |   x1   |    -   |    -   |    -   |    -   |   x1   |          |
+|  Barriega  |   x2   |    -   |    -   |    -   |    -   |   x2   | Trapping |
+|-----------------------------------------------------------------------------|
+|  Slow      |    -   |   x1   |    -   |    -   |    -   |   x1   |          |
+|  Slowga    |    -   |   x2   |    -   |    -   |    -   |   x2   | Trapping |
+|-----------------------------------------------------------------------------|
+|  Haste     |    -   |    -   |   x1   |    -   |    -   |   x1   |          |
+|  Hastega   |    -   |    -   |   x2   |    -   |    -   |   x2   | Trapping |
+|-----------------------------------------------------------------------------|
+|  Holy      |    -   |    -   |    -   |   x1   |   x1   |   x1   |          |
+|  Holyga    |    -   |    -   |    -   |   x2   |   x2   |   x2   | Trapping |
+|-----------------------------------------------------------------------------|
+|  Quake     |   x1   |    -   |   x1   |   x1   |    -   |   x1   |          |
+|  Quakega   |   x1   |    -   |   x1   |   x1   |    -   |   x1   | Trapping |
+|-----------------------------------------------------------------------------|
+|  Bio       |   x1   |   x1   |    -   |   x1   |   x1   |    -   |          |
+|  Bioga     |   x2   |   x2   |    -   |   x2   |   x2   |    -   | Trapping |
+|-----------------------------------------------------------------------------|
+|  Meteor    |    -   |   x1   |   x1   |    -   |   x1   |   x1   |          |
+|  Meteorga  |    -   |   x2   |   x2   |    -   |   x2   |   x2   | Trapping |
+|-----------------------------------------------------------------------------|
+|  Ultima    |   x1   |   x1   |   x1   |   x1   |    -   |   x1   |          |
+|  Ultimaga  |   x2   |   x2   |   x2   |   x2   |    -   |   x2   | Trapping |
+-------------------------------------------------------------------------------
+
+
+ -------------------------
+ << Trapping Magic List >>
+ -------------------------
+
+===============================================================================
+|  Magic      |  Require Magic Trap                                           |
+===============================================================================
+|  Fira+1     |  (Fire)       + (Fire)                                        |
+|  Firaga+1   |  (Fira+1)     + (Fira+1)                                      |
+|-----------------------------------------------------------------------------|
+|  Blizzara+1 |  (Blizzard)   + (Blizzard)                                    |
+|  Blizzaga+1 |  (Blizzara+1) + (Blizzara+1)                                  |
+|-----------------------------------------------------------------------------|
+|  Thundara+1 |  (Thunder)    + (Thunder)                                     |
+|  Thundaga+1 |  (Thundara+1) + (Thundara+1)                                  |
+|-----------------------------------------------------------------------------|
+|  Cura+1     |  (Cure)       + (Cure)                                        |
+|  Curaga+1   |  (Cure+1)     + (Cure+1)                                      |
+|-----------------------------------------------------------------------------|
+|  Arise+1    |  (Raise)      + (Raise)                                       |
+|  Cleara+1   |  (Clear)      + (Clear)                                       |
+|  Clearaga+1 |  (Cleara+1)   + (Cleara+1)                                    |
+|-----------------------------------------------------------------------------|
+|  Barrierga  |  (Fira+1)     + (Cleara+1)                                    |
+|  Slowga     |  (Blizzara+1) + (Cleara+1)                                    |
+|  Hastega    |  (Thundara+1) + (Cleara+1)                                    |
+|-----------------------------------------------------------------------------|
+|  Graviga    | (Fira+1)     + (Blizzara+1)  + (Thundara+1)                   |
+|  Holyga     | (Cura+1)     + (Arise+1)     + (Cleara+1)                     |
+|-----------------------------------------------------------------------------|
+|  Quakega    | (Fira+1)     + (Thundara+1)  + (Cura+1)   + (Cleara+1)        |
+|  Bioga      | (Fira+1)     + (Blizzara+1)  + (Cura+1)   + (Arise+1)         |
+|  Meteorga   | (Blizzara+1) + (Thundara+1)  + (Arise+1)  + (Cleara+1)        |
+|-----------------------------------------------------------------------------|
+|  Ultimaga   | (Fira+1) + (Blizzara+1) + (Thundara+1) + (Cura+1) + (Cleara+1)|
+-------------------------------------------------------------------------------
+
+
+
+===============================================================================
+----------------
+|  6. CONTACT  |---------------------------------------------------------------
+----------------
+===============================================================================
+
+sep06
+
+<< Contact >>
+
+Sephirosuy (name at GameFAQs)
+sephiroth_y@yahoo.com
+
+
+Please properly write down your message or I won't reply you.
+Mails that're blank, flaming, virus, spam, question about the information
+covered in the FAQ will be ignored as well. Lastly, please write down the
+game tittle on your topic, sometimes I don't even know which game were you
+asking.
+
+To read all my latest guides and other contributions,
+please visit the URL below.
+
+http://www.gamefaqs.com/features/recognition/59418.html
+http://sephirosuy.blogspot.com/
+
+
+-------------------------------------------------------------------------------
+===============================================================================
+ COPYRIGHT (C) 2007 by sephirosuy
+ All Right Reserved

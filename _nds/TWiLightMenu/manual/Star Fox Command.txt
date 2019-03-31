@@ -1,0 +1,2952 @@
+   ___________                                ____________
+  /         /__________   _______ ________    |          /_________ ___      __
+ /     ____/ |        /   /     / \   __  \   |    _____/ |       / \  \    / /
+ \     \     |_     _/   / /\   |  |  |_|  |  |    |___   |  __   |  \  \  / /
+  \     \      |   |    / /__\  |  |      /   |        |  |  | |  |   \  \/ /
+   \     \     |   |   /  ____  |  |  __  \   |    ____|  |  | |  |    >   <
+ ___\     \    |   |  /  /   |  |  |  | \  \  |   |       |  |_|  |   /  /\ \
+/          \   |   | /  /    |  |  |  |  \  \ |   |       |       |  /  /  \ \
+\__________/  /____|/__/     |__|  |__|   \__\|___|       |_______| /  /    \_\
+                      _____________                                /  /
+         _--------````             ``````````--------_____________/  /
+        /_____  ______  __________ __________  ____  __ __ _____    /
+       / | __/ /  _  / /  _   _  //  _   _  / / [] \ | \| ||  _ \  /
+      /  | |_  | |_| | | | | | | || | | | | | |  _  || _  || |_| |/
+     /   |___| |_____| |_| |_| |_||_| |_| |_| |__||_||_|\_||____//
+    /_______------_____                                         /
+                       '''''--------______________--------``````
+
+
+Star Fox: Command Walkthrough
+Written by: Black Turtle- blackturtle2112@gmail.com
+
+If you see any errors, even spelling mistakes, please email me to let me know.
+Any additional questions will also be answered through email.
+
+
+================================Table of Contents==============================
+
+1. Version History
+2. Introduction
+3. Controls
+4. General Tips and Strategies
+5. Character Guide
+6. Enemy Guide
+7. Boss Guide
+8. Multiplayer Guide
+9. Walkthrough
+    9.i) Training Level 1
+    9.ii) Training Level 2
+    9.iii) Training Level 3
+    9.iv) Training Level 4
+    9.1) Ending #1: Emperor Anglar (Default Path)
+         8.11) Mission 1: The Adventure Begins!
+         8.12) Mission 2: Reunion with Slippy
+         8.13) Mission 3: Fog of War
+         9.14) Mission 4: Oikonny Strikes Back!
+         9.15) Mission 5: Beneath the Waves
+         9.16) Mission 6: We Meet Again
+         9.17) Mission 7: The Anglar Emperor
+    9.2) Ending #2: Pigma's Revenge
+         9.21) Mission 1: The Adventure Begins! 2
+         9.22) Mission 2: Falco to the Fore!
+         9.23) Mission 3: Falco's Decision
+         9.24) Mission 4: Pigma's Revenge
+    9.3) Ending #3: Lucy and Krystal
+         9.31) Mission 1: The Adventure Begins! 2
+         9.32) Mission 2: Reunion with Slippy 2
+         9.33) Mission 3: Fog of War 2
+         9.34) Mission 4: Oikonny Strikes Back!
+         9.35) Mission 5: Father and Daughter
+         9.36) Mission 6: Lucy and Krystal
+    9.4) Ending #4: Good-bye, Fox
+         9.41) Mission 1: The Adventure Begins! 2
+         9.42) Mission 2: Reunion with Slippy 2
+         9.43) Mission 3: Fog of War 2
+         9.44) Mission 4: Oikonny Strikes Back!
+         9.45) Mission 5: Father and Daughter
+         9.46) Mission 6: Andross' Legacy
+         9.47) Mission 7: Good-bye, Fox
+10. Endings
+11. FAQs
+12. Legal Information
+14. Thank-yous
+
+
+==============================1. Version History==============================
+
+Version 0.1: Submitted August 31, 2006- First version of the guide,
+Introduction, Controls, General Tips and Strategies, Training Missions and 
+First Playthrough finished. Character section and Enemy section started
+
+Version 0.25: Submitted September 1, 2006- Added some enemies, bosses, FAQs,
+credits, endings 2 and 3. Fixed the bottom of my maps. Apparantly GameFAQs 
+doesn't use Unicode, so my overscores came out as question marks. Fixed a 
+couple of minor erors throughout the guide. Added ASCII banner to the top. 
+Cleaned up enemy section by arranging them in alphabetical order. Added sites
+with permission to host the guide
+
+Version 0.4: Submitted September 6, 2006- Some more enemies, bosses and pilots
+added. Ending #4 also added. I realized that I forgot to put the multiplayer
+guide in the last version so I added it here. More polishing.
+
+
+================================2. Introduction===============================
+
+Years ago, a scientist named Dr. Andross became obsessed with controlling the
+Lylat system. He launched wave after wave of attack fighters from the remote 
+planet of Venom and ordered them to strike Planet Corneria -- the heart of the 
+Lylat system.
+
+However, four brave pilots who made up a squadron known as Star Fox finally put
+an end to the doctor's mad ambitions. Andross himself was defeated by the
+leader of Star Fox, a brilliant pilot named Fox McCloud.
+
+In the time that followed, Venom became known as a quarantine planet. Due to
+that reputation -- and the frequent patrols carried out by members of the 
+Cornerian military -- it has been years since anyone set foot on the planet's 
+surface.
+
+But after a period of quiet, Venom struck back with devastating attacks on the 
+Lylat system. Any and all attempts at resistance were brushed aside, and soon
+all cities came under the grip of this new, terrifying enemy.
+
+The occupiers were known as the Anglars, and operated under the control of the
+Anglar Emperor. Their headquarters were located in the toxic Venom Sea, a vast
+ocean so inhospitable that it was believed no living thing could survive there.
+
+The members of Star Fox, the heroic and famous squadron that had come to Lylat's
+aid in her hour of need, had disbanded. Each pilot was living a new life, and it
+would prove a difficult task to bring the former team members back together.
+
+Fox McCloud, the team's leader was wandering the galaxy with his friend ROB, a
+navigation robot that he inherited after his father's passing. Fox used this
+time to tie up a few loose ends and also ponder the course his life had taken.
+
+The Cornerian military hero General Pepper fell ill, and could no longer lead as
+he once did. He recommended that Peppy Hare, Star Fox team member and father
+figure to Fox, be promoted and given command of all Cornerian forces.
+
+Brash pilot Falco Lombardi lived as a loner. He drifted from job to job,
+searching for the same thrill he felt as a member of Star Fox. But his 
+existence was mostly an empty one... something that annoyed him more than he 
+would admit.
+
+The technical brains behind the team, and Fox's closest friend, was the good
+natured Slippy Toad. Slippy met and fell in love with a girl named Amanda, and
+decided to leave the world of flying and start a new life with his beloved 
+fiancee.
+
+Star Wolf, the true rivals of Star Fox, continued to be involved in dirty 
+dealings. Their work soon caught the attention of the Cornerian military, who 
+put a massive bounty on their heads.
+
+And finally, Krystal. The lone female of the group, she had fought beside Fox
+and fell in love with him -- much against her better judgement and professional
+concern. Her love was returned, however, and the two promised to remain together
+always.
+
+But Fox was quite wary of the danger that haunted pilots in the elite Star Fox
+squadron, and he eventually forced Krystal to leave the team. Heartbroken and
+ashamed, she fled from Fox and vanished soon after. No one knows what became of
+her...
+
+Now, the past has come to haunt them all. Unwilling or unable to face his former
+team, Fox has chosen to take on the entire Anglar armada by himself. Can he do
+it? Will the team put aside their differences and reunite? All Lylat waits for
+the answers...
+
+==================================3. Controls===================================
+
+Menu Mode:
+
+Touch Pad:
+
+- Use your stylus to navigate through the menus by touching the desired button
+on the touch pad
+
+
+
+Map Mode:
+
+L, R, A, B, X, Y and D-Pad:
+
+- Used to bring up the end of turn button
+- Also used to cancel end of turn
+
+Touch Pad:
+
+- Used to bring up ship statistics for enemies or friendlies
+- Used to clear Fog of War at the beginning of each turn
+- Click on a friendly ship and drag the stylus along the desired flight path
+- Click on the Great Fox and drag the stylus to an enemy formation to launch
+missiles if any are in stock
+- Double tap when all desired strategic moves have been made
+
+Start:
+
+- Pauses the game and brings up the in-game menu
+
+
+
+Dog-fighting Mode:
+
+L, R, A, B, X, Y and D-Pad: 
+
+- Fire lasers. Hold to charge lasers for some ships.
+
+Touch Pad: 
+
+- The stylus will control the majority of your ship's functions. Slide
+the stylus across the pad to steer the ship. 
+- Double tap the top half of the pad
+to boost, and double tap the bottom half to brake. 
+- Quickly slide the stylus from left to right to execute a barrel roll, perhaps 
+the most important manouver in the game.
+- Tap the loop button on the touch pad to execute a loop
+- Tap the u-turn button to perform a u-turn
+- Drag the B onto the radar section of the map to drop a Nova Bomb at that
+location. Alternatively, you can double tap the B to drop a bomb in front of
+your ship
+
+Start:
+
+- Pauses the game and brings up the in-game menu
+
+
+=========================4. General Tips and Strategies=========================
+
+Basics:
+
+Battles are divided into 2 parts, strategy on Map Mode, and dogfighting in
+battle mode. During each "turn", you are given the ability to move each of your
+fighters a certain distance on the map, with the object being to intercept
+enemy fighters and missiles before hitting Great Fox, and to reclaim allied
+bases from enemy Motherships. After moves have been made by you and the
+computer, any encounters will be listed and you can choose the order in which to
+fight them.
+
+On the map, you can see bases and enemy icons. Your squadron is represented by
+small versions of their ships and typically start near the Great Fox. Enemy
+ships are represented by small red dots. Red boxed areas represent impassable
+terrain which can't be flown over, but missiles may be shot over them. You will
+see small arrows next to enemy blips, representing their speed. One < is a
+slower enemy that won't move as far per turn. Two << are faster enemies that can
+move a fair distance in one turn. Three <<< are very fast enemies that you
+should watch for.
+
+Enemy missiles are represented by large red missiles, which have a dotted line
+in the path of their trajectory. When strategy choices are made and entered, the
+missile will end up at the end of that dotted line unless you intercept it along
+it's path. Missiles will be launched occasionally from enemy missile launchers.
+
+Enemy Motherships have attacked and occupied many allied bases. They can either
+produce new units, or launch missiles at Great Fox. Taking these bases gives you
+additional turns to accomplish the mission with. Enemy controlled bases are
+shown with red pyramids, and friendly, unoccupied bases are shown with blue
+pyramids.
+
+Powerups are littered across the map. Circles made up of triangles pointing
+inward are Supply items. They recharge your shields. Yellow missiles allow you
+to stock Great Fox with missiles which allow you to wipe out a group of enemy 
+fighters without having to dogfight them. 
+
+The other part is battle mode, which is the result of an encounter. In this 
+mode, you fly your ship around a small area which has enemy units all around.
+There are also missile encounters, which have you fly through a series of 
+beacons to destroy an enemy missile before it hits Great Fox.
+
+You will have a timer which represents the fuel used when dogfighting. As you
+encounter more enemies and spend more time dogfighting, you lose fuel. If you
+run out of fuel, you lose a fighter. Killing 5 enemies or flying through rings
+while in battle help replenish your fuel and there are often fuel powerups on
+the map screen
+
+
+Defeating Enemy Motherships:
+
+First, you must clear the area of core enemies. These are shown on the screen
+before you enter the engagement. Watch out for the beam shot from the
+Mothership, as it can cause quite a bit of damage.
+
+After defeating core enemies and acquiring their cores, ROB will message you 
+saying that you must fly through the beacons and execute a roll to destroy the 
+Mothership. Make sure to fly through each of the red boxes and perform a barrel
+roll before hitting the Mothership. I find it easier to roll at the beginning
+of the sequence, because rolling here doesn't deplete your boost gauge, and the
+first few beacons are easier to fly through.
+
+Flying through the crosshairs of the red squares gives you 1 extra second to 
+your timer for each beacon.
+
+
+Destroying Enemy Missiles:
+
+To catch the fast moving missiles, you need to follow in the missile's "slip
+stream", the area of space where the missile has passed through, in order to
+catch it. Fly through the red squares until you are within range of the missile.
+
+Once in range, either lock-on until the bracket turns into a diamond, or fire
+away if your ship has no lock-on feature. Be careful to continue flying through
+the red boxes as you shoot the missile down. Hurry up though, because each red
+box increases your speed, and soon it will be nearly impossible to hit each box.
+
+If you fail to catch the missile, it gets an extra boost of distance to the
+Great Fox, so be careful not to lose track of it.
+
+
+
+===============================5. Character Guide===============================
+
+This section is incomplete right now
+
+This game took a step away from the previous Star Fox games by letting you fly
+as many different characters. Their profiles can be viewed in-game after you fly
+a mission using that character and complete the game with any ending after that
+mission.
+
+
+-----------------------------------Fox McCloud----------------------------------
+
+"The leader of the Star Fox squadron. His bravery and sense of justice is 
+strong, although he can be too serious at times.
+
+Ship: Arwing II
+Laser: Single
+Lock: Single
+Bomb: 2
+Shield: 6 squares
+Boost: 4 squares
+Time Bonus: 2 seconds
+
+Fox McCloud is the main character of the Star Fox series. He made his debut on
+the SNES in 1993 and has starred in 3 other Star Fox games (64, Adventure and
+Assault) as well as being a fighter in both Super Smash Bros. games.
+
+He was orphaned as a teenager when his father, James McCloud died fighting the
+forces of the evil Andross with Pigma Dengar and Peppy Hare as the original Star
+Fox team. Pigma betrayed James and Peppy, but Peppy managed to escape and took
+care of Fox. After that, Fox took the reigns of the Star Fox team by recruiting
+Slippy Toad and Falco Lombardi. They took on and defeated Andross' forces in
+the original Star Fox.
+
+Star Fox 64 was a remake of the original game which helped expand on the story
+and include the rival squadron Star Wolf.
+
+Fox's GameCube debut took place 8 years after the events of Star Fox 64. After
+4 years an incident on Titania saw Andross reincarnated and Falco left the 
+group. 4 years after that, the events of Star Fox Adventure took place, with
+Fox and company saving the planet Sauria from Andross' evil scheme. Krystal
+joined the team, and Falco came back during these events and the group was
+once again a force to be reckoned with
+
+Shortly after, Andrew Oikonny rounded up the remainder of Andross' army in a
+last ditch effort to conquer Lylat, starting off the second GameCube title
+Star Fox Assault. Fox would soon discover that Oikonny was the least of their
+troubles after discovering a new alien threat that had the potential to
+destroy civilization entirely! Star Fox eventually defeated the Aparoid queen
+with the help of Star Wolf, but payed the price of losing their flagship, the
+Great Fox.
+
+In the years following the Aparoid invasion, the Star Fox team gradually
+started to break up, with Falco heading off on his own again, Peppy
+replacing General Pepper as leader of the Cornerian army, Slippy finding
+a soul mate in Amanda and Krystal being kicked out of the group by Fox to
+keep her away from the dangers of the job. This is where we begin Command.
+
+Fox's ship is a good choice as it is versatile. It is a very average ship, which
+means that it can be used effectively for a variety of tasks. His single laser
+is pretty weak, so charged shots are the way to go. He has pretty decent shields
+and a large boost gauge. He can also hold 2 bombs. Fox is suited best to fast
+enemies, and enemies that shoot alot of lasers and require alot of rolling.
+
+-----------------------------------Slippy Toad----------------------------------
+
+"A member of the Star Fox team, and Fox's close friend. Known for his brains
+rather than his flying, he develops most of the team's weapons."
+
+Ship: Bullfrog
+Laser: Dual Plasma
+Lock: N/A
+Bomb: 3
+Shield: 8 squares
+Boost: 2 squares
+Time Bonus: 2 seconds
+
+Slippy is a veteran of the Star Fox team, and has been in it since Fox took 
+over. He isn't the greatest pilot, but is good in a scrap. His main
+contribution to the team has been his technical skills. He functions as the
+team's mechanic and weapons developer. He designed the Landmaster tank and the
+Blue Marine submarine.
+
+He is a loyal friend to Fox, and always willing to help out. Sometimes his
+eagerness to please gets him in trouble, but his friends are always there to
+bail him out. He recently fell in love with Amanda, and is planning to marry 
+her.
+
+Slippy's ship is a powerful, but slow ship that can take a beating, but can't
+get away from one. His plasma guns more than make up for his lack of laser as
+they really pack a punch. He also has a capacity for 3 bombs, which makes him an
+ideal choice against slow-moving enemies or bosses. Be careful of his low boost
+bar, as it means that you only have a limited barrel roll.
+
+
+---------------------------------Falco Lombardi---------------------------------
+
+"A member of Star Fox. He's brash and headstrong, but his peerless piloting
+makes him irreplaceable"
+
+Ship: Sky Claw
+Laser: Single
+Lock: Multi
+Bomb: 1
+Shield: 4 squares
+Boost: 4 squares
+Time Bonus: 3 seconds
+
+Falco has been in Star Fox since Fox took over the group, and has been a key
+asset to the group since then. His piloting skills are on par with Fox's, but
+his brash, headstrong nature make him a bit of a liability. He has been in all
+of the Star Fox games, and also made an appearance in Super Smash Bros. Melee.
+
+Falco's ship is best suited to taking out groups of enemies. It's multi-lock
+makes up for the lack of bombs and firepower, and can make short work out of
+swarming enemies. His boost also makes him a good choice against nimble enemies.
+
+
+-------------------------------------Krystal------------------------------------
+
+"A former member of Star Fox. She's strong and kind, but at times too stubborn
+for her own good."
+
+Ship: Cloud Runner
+Laser: Twin
+Lock: Single
+Bomb: 1
+Shield: 6 squares
+Boost: 3 squares
+Time Bonus: 2 seconds
+
+Krystal made her first appearance in Star Fox Adventures as a powerful yet kind
+telepath who wanted to help the dinosaurs living on Sauria. She met Fox and soon
+fell in love with him. She replaced Peppy as the fourth pilot in Star Fox
+Assault and worked with the group for some time, before Fox forced her to quit
+in order to keep her out of harms way. Krystal felt hurt and angry by this and
+disappeared. She has a friendship with Lucy, and has Panther of Star Wolf
+vying for her affections whenever they meet.
+
+Krystal's ship is a good multi-purpose fighter, with average stats. Her twin
+lasers and single lock allow her to take out a variety of enemy ships and her
+above average shield can help her get through these encounters.
+
+
+-----------------------------------Lucy Hare------------------------------------
+
+"Only daughter of peppy Hare. She doted on her father and longed to be a pilot.
+Currently teaches astrophysics on Fichina."
+
+Ship: Sky Bunny
+Laser: Dual Plasma
+Lock: Single
+Bomb: 1
+Shield: 4 squares
+Boost: 3 squares
+Time Bonus: 2 seconds
+
+Lucy makes her Star Fox debut here. She is the daughter of original Star Fox
+member Peppy Hare. Her mother died when she was young, and she longed to follow
+in her father's footsteps. When she grew older, she gave up that dream and began
+teaching astrophysics on the planet Fichina. She is friends with Krystal.
+
+The Sky Bunny is probably my favourite ship. It has the Bullfrog's strongest
+asset, Plasma guns, but avoids the Bullfrog's greatest weaknesses by including
+a single lock and better boosts. It only has 1 bomb though, so you need to use
+bombs wisely with her.
+
+
+-------------------------------------Amanda-------------------------------------
+
+"Slippy's girlfriend. The met two years ago, and she fell in love with Slippy at
+first sight. Or so the story goes..."
+
+Ship: Tadpole
+Laser: Single
+Lock: Multi
+Bomb: 1
+Shield: 6 squares
+Boost: 2 Squares
+Time Bonus: 2 seconds
+
+This is Amanda's first appearance. She met Star Fox member Slippy Toad and fell
+in love with him shortly after. Right now they are engaged and planning to get
+married soon.
+
+The Tadpole is similar to Falco's ship, except trading low shields and high
+boost for higher shields and low boost. It is best used against enemies that
+attack in groups.
+
+
+----------------------------------Katt Monroe-----------------------------------
+
+"A former colleague of Falco, she's still smitten with him. Katt secretly wants
+to join Star Fox so she can be near him."
+
+Ship: Cat's Paw 2
+Lock: Single
+Bomb: 2
+Shield: 4 squares
+Boost: 3 squares
+Time Bonus: 2 seconds
+
+Katt made her debut in Star Fox 64, helping out the team in a couple of crucial
+missions. She's known Falco for a long time and seems to follow him around. Katt
+was responsible for finding out about the project designed to reincarnate 
+Andross and contacted Falco for assistance 4 years after the events of Star Fox
+64. She's resourceful and playful with Falco, constantly toying with him and
+teasing him.
+
+The Cat's Paw 2 is nowhere near as sleak as the original, but still performs
+nicely. The stats are for the most part, extremely average, making it one of the
+most balanced fighters in the game. Having 2 bombs is nice. Her curve shots are
+unique in that they home slightly when fired at an enemy. This makes her a good
+choice against fast moving enemies that like to evade.
+
+
+----------------------------------Peppy Hare------------------------------------
+
+"A general in the Cornerian forces. He's a former member of Star Fox and father
+figure to Fox. He was great friends with Fox's father."
+
+Ship: Arwing
+Laser: Twin
+Lock: Single
+Bomb: 2
+Shield: 6 squares
+Boost: 4 squares
+Time bonus: 3 seconds
+
+Peppy is one of the original members of Star Fox. He and James McCloud were best
+friends. When Pigma betrayed them, Peppy escaped Andross' wrath to return to
+Corneria and take care of James' son Fox. Peppy was a mentor to Fox as he grew
+up, and joined the new Star Fox in order to continue teaching Fox how to be a
+great pilot.
+
+Peppy was an extremely skilled and valuable member of the team during the Lylat
+wars. He was the experienced member of the group and would always offer advice
+to the other pilots. After the Lylat wars, he retired as a pilot in order to
+take a tactical role aboard Great Fox for the team. During the Aparoid invasion,
+Peppy saved General Pepper after his infested ship was shot down by Fox and was
+about to crash land. Peppy then played a key role in the destruction of the
+Aparoid queen by crashing the Great Fox into the force field protecting the
+queen as it was about to close, destroying the original Great Fox. He survived
+the crash and escaped with ROB in one of Great Fox's escape pods.
+
+Peppy's Arwing is very similar to Fox's, but it features twin lasers all the
+time and a 3 second time bonus instead of 2. The twin lasers all Peppy to do 
+more damage against heavy enemies than Fox.
+
+
+-----------------------------------Bill Grey------------------------------------
+
+"A pilot who plays a vital role in the Cornerian forces. A childhood friendship
+with Fox led Bill to also become a pilot."
+
+Ship: Cornerian Fighter
+Laser: Twin
+Lock: N/A
+Bomb: 2
+Shield: 6 squares
+Boost: 3 squares
+Time Bonus: 3 seconds
+
+Bill also made his debut in Star Fox 64 as the leader of the Cornerian army 
+group based on the planet Katina. Fox and his crew helped Bill fight off an
+invasion from Venom and Bill repayed the favour by helping Fox in other missions
+against Andross. Bill is an ace pilot and natural leader who always pays back
+his debts and is more than willing to help out a friend in need.
+
+The Cornerian Fighter is actually pretty crappy. Like the Bullfrog, it can't
+lock on, but unlike the Bullfrog, it doesn't have enough firepower to be really
+effective. His higher shielding makes up for this though. My advice would be to
+try and get behind an enemy and just plug away with the twin lasers.
+
+
+===================================6. Enemies===================================
+
+The enemy list is incomplete right now.
+
+Below are the given stats, and a quick synopsis on all of the core enemies found
+through the game
+
+
+Ammonite I- Weapon [][][]
+            Shield [][][][][][][][]
+
+These guys are like flying shrimp of some kind. They fly around aimlessly until
+you get close, then they open up their shells and shoot lasers at you. Watch
+your boost meter as you're barrel rolling, and be ready to pull away when it's
+about to run out.
+
+
+Angel Fish- Weapon [][][][]
+            Shield [][][]
+
+These guys fly in groups of 3. Try to get in behind them and let loose with 
+lasers. Otherwise, they are easy prey for bombs. They shoot lasers in any 
+direction.
+
+
+Assault Laser- Weapon [][]
+               Shield [][][][][][][][]
+
+These guys can be a pain as well. Their attacks consist of throwing about 6
+bombs in the air that creat a pillar of fire, much like the Bomber Birds. Watch
+out for these pillars and avoid as necessary
+
+
+Balloonist- Weapon [][][][]
+            Shield [][][][][][][][]
+
+Basically a box being supported by several balloons. Have someone with 
+multilock tear through this enemy by targetting all the balloons. Alternatively
+just fire away at the ballons
+
+
+Bee Fighter- Weapon[][][][]
+             Shield[][][][][][][][]
+
+This version of the Bee Fighter launches a large ring of energy towards you.
+Fly through the middle of the ring to avoid damage.
+
+
+Bee Fighter II- Weapon [][][]
+                Shield [][][][][][][][]
+
+This thing will fly backwards as you approach it, and when it lifts up its 
+stinger, you know it's going to attack. Attack the stinger to kill it, and
+when the stinger is pointed at you, do a barrel roll.
+
+
+Bomber Bird- Weapon [][][]
+             Shield [][][][]
+
+Bomber Birds will carry beneath them, 2 orbs, which create large towers of fire
+when dropped. If you're behind a Bomber Bird, expect them to drop these orbs
+and avoid them when you see the orbs dropped. After they drop their payload,
+they will always turn left. Use this to your advantage and take them out.
+
+
+Bozoid- Weapon [][][][]
+        Shield [][][][][][][][]
+
+Stronger version of the Assault Laser, use the same tactics.
+
+
+Commander- Weapon [][]
+           Shield [][]
+
+The Commanders are a little bit more difficult than the Swarm Fighters, mainly
+because they are stronger, and aren't grouped closely together. The best trick
+is to get behind one and let loose with charged shots while avoiding fire from
+the rest of them.
+
+
+Devil Shark- Weapon [][][][]
+             Shield [][][][][][][][]
+
+Devil Worm- Weapon [][]
+            Shield [][][][][][][][]
+
+Just blast away at the head while avoiding it's shots and being careful not to
+crash into the tail.
+
+
+Elite Fighter- Weapon [][]
+               Shield [][][]
+Elite Fighters can shoot in any direction, but are pushovers. Just lock on and
+fire when fully charged.
+
+
+Fire Wheel- Weapon [][][]
+            Shield [][][][][][][][]
+
+Fire Wheels will open up when approached, then fly in front of you while turning
+3 lines of fireballs and bouncing up and down. Then they will close and try to
+crash into you. They have alot of health, so fully charged shots are your best
+bet.
+
+
+Flash Bomber- Weapon [][][][][]
+              Shield [][][][][][][]
+
+These guys are slow, and their only attack is dropping 3 mines as you're chasing
+them. Just lock on to them from a distance and you can destroy them before they
+even have a chance to drop the mines.
+
+
+Flip Bots- Weapon [][][]
+           Shield [][][]
+
+Pretty basic enemy, beasically a Commander that can perform loops. If you're
+chasing one and it pulls a loop, either brake or loop to stay on its tail.
+
+
+Giant Spindly Fish- Weapon [][][][]
+                    Shield [][][][][][][][]
+
+These guys are a major pain, and I suggest missiling them if you can. They have
+6 fins which shoot lasers at you, 3 on top and 3 on the bottom. It takes 2 bombs
+to kill 1 of them, and charge shots don't work. If you can, try to take Slippy
+against these guys or someone else with powerful single shots. Barrel roll alot.
+
+
+Invader III- Weapon [][][][]
+             Shield [][][]
+
+These guys fly around in groups of 5. They shoot lasers in all directions. Try
+to use charge shots from a distance against these guys, or use a bomb if need
+be.
+
+
+Jellyfish- Weapon [][][]
+           Shield [][][][]
+
+The Jellyfish are relatively easy to beat. They come in large groups of 5, and
+stay together making them easy targets. They shoot lasers at you from any
+direction so don't forget to barrel roll.
+
+
+King Dodora- Weapon [][][][]
+             Shield [][][][][]
+
+Same as the regular Dodora, except stronger. Will also cause stone pillars to
+rise out of the sand if you are chasing it.
+
+
+Mega Spindly Fish- Weapon [][][][][]
+                   Shield [][][][][][][][]
+
+Similar to the Giant Spindly Fish, but stronger. I recommend you missile them
+whenever humanly possible. If you are forced to fight, I reccomend attacking
+the fins on its top and bottom from the side.
+
+
+Moras- Weapon [][][][]
+       Shield [][][][][]
+
+Node- Weapon [][][]
+      Shield [][][][][][][]
+
+An orb that flies around with a trail of tiny orbs behind it. Drop a bomb on
+this sucker and watch the screen fill up with powerups from the little things.
+Then just attack the head with lasers while avoiding it's ring lasers.
+
+
+Puffer- Weapon [][]
+        Shield [][][]
+
+These guys are pretty weak. They like to fly around in swarms and shoot lasers
+at you. Blast away with lasers, multi-lock or bombs to dispatch them quickly.
+
+
+Pylon- Weapon [][]
+       Shield [][]
+
+You may remember these guys from the original Star Fox. The trick here is to
+take out one of the three parts at a time. This is best done by using charged
+shots.
+
+
+Shuriken- Weapon []
+          Shield [][][][][][][]
+
+Don't let the lack of firepower fool you, these guys can be a pain. Watch out
+for their rear-mounted lasers and barrel roll when needed
+
+
+Spin Devil- Weapon [][][][][][]
+            Shield [][][][][][][]
+
+Stationary enemy that shoots a series of beams out of it's 8 parts. 2 bombs will
+take it out. Otherwise, use someone with multi-lock, or just pound away at them.
+
+
+Spinning Cores- Weapon [][][]
+                Shield [][][][][][][][]
+
+
+Starfish- Weapon [][]
+          Shield []
+
+The Starfish enemies are pretty easy to take out. Lock on, and wait for them to
+open up their tentacles, then release your charged shot to finish them off.
+
+
+Swarm Fighter- Weapon [][]
+               Shield []
+
+These guys tend to fly in groups, making them easy targets for a barrage of
+lasers or charged shots. They have one laser cannon on the front and a
+relatively slow speed.
+
+
+Todora- Weapon [][][]
+        Shield [][][][][][][][]
+
+
+Web Ship- Weapon [][][]
+          Shield [][][][][][][][]
+
+Web Ships only have one attack, and that is to create a trail of plasma behind
+them as they move. Just be careful to avoid flying directly behind them and you
+should be fine
+
+
+Web Ship II- Weapon [][][][][][][]
+             Shield [][][][][][][][]
+
+Just like the Web Ship 1, except it can move up and down making it a tougher
+target. Attack from the side for best results.
+
+
+=================================7. Boss Guide==================================
+
+This section is currently incomplete
+
+Arrow Head (Asteroid Belt):
+
+- Choose a pilot that has the most bombs and shields
+- Drop the bombs onto the Arrow Head to easily take out the tail parts
+- Now just pound the crap out of the head while dodging the attacks to win.
+
+
+Arrow Head (Venom):
+
+- Little bit harder this time
+- Will fly into the tubes on the ceiling and floor occasionally
+- Attack the pieces of the snake between the head and tail
+- Destroyed pieces will fall to the ground and start shoot at you
+- Once all middle pieces are destroyed, the head will attract them around
+it. Just fire away at the head while dodging the attacks
+- For an easier time, use a bomb on it as it is entering/leaving a tube
+
+
+Death Crab:
+
+- Choose whoever has the most health/bombs
+- In The first part of the battle, the crab is on the ground. Drop all of your 
+remaining bombs and shoot the pincers
+- Next, the crab starts flying. Now you must take out its legs and pincers
+- Avoid his ring lasers by either dodging or barrel rolling
+- He also has an attack similar to the Assault Laser, where he launches several
+bombs in the air that create towers of fire that do heavy damage
+- After all the legs and pincers are shot off, attack the crab's face for 
+massive damage until he goes down
+
+
+Emperor Anglar:
+
+- Anglar is protected by a forcefield generated by 3 orbs
+- His attack is a stream of shots that can be easily deflected
+- Shoot the orbs until they turn grey
+- Anglar will charge up a shot and you need to roll and reflect this
+shot back to him
+- After the reflected shot hits him, his antenna will turn red. Get
+as many shots on it as you can
+- When at half his life, he will swim offscreen, leaving the orbs
+to be destroyed. During this phase, large solid beams will fly in from
+every direction
+- After the 3 orbs are destroyed, Anglar returns to the screen and
+uses some attacks he seems to have learned from Andross
+- First he will suck in air. Use your brakes to avoid being eaten
+- After he sucks in, he will blow out debris that can be deflected with
+your roll
+- During this time, just pound away at his head until he dies
+
+
+Grunner:
+
+- Pick whoever has the most health and has a charger on their lasers
+- Grunner itself has no attacks. Rather, he calls up a pair of pillars that
+shoot rocks at you and create an electrical barrier between them
+- The best method is to have someone with a charge ability fly behind Gunner
+and above the range of the stone towers' electrical barriers.
+- You can only hurt him from behind
+
+
+Pigma Dengar:
+
+- He can be a confusing boss at first
+- He is composed of 4 cubes and a central orb protected by the cubes
+- Each time you shoot one of the cubes, the face changes
+- The pattern goes Red-Yellow-Green-Pigma
+- The object is to make all 4 squares compose Pigma's face to reveal the orb
+- The Red face launches multiple pillars of flames
+- The Green face launches 3 volleys of 6 missiles. Shoot them down or boost away
+- The Yellow face shoots a barrage of fireballs
+- When all 4 are Pigma's face, the cubes move away and reveal the orb, but not
+before a laser image of Pigma's face is launched at you. Shoot the orb while
+avoiding the laser-face
+- Lather, rinse, repeat
+
+
+Splitter:
+
+- Choose whoever has the most health
+- This boss has 3 sections
+- You need to kill the sections one at a time
+- It has a beam similar to that on Motherships that will attack below it
+- It launches a barrage of slow moving shots periodically
+- Get behind it and shoot the flashing part on the rear piece while barrel
+rolling to deflect the shots
+- Repeat for the other 2 parts
+- Use charged shots unless you are using Lucy
+
+Star Wolf:
+
+- Choose someone with alot of health and preferably someone who can charge
+- Try to focus on one enemy at a time
+- If you see an oppurtunity to use a bomb, take it
+- Watch out for the mines they drop
+- Shoot the mines to get additional fuel if needed
+- If you have one on your tail, loop or barrel roll
+- Keep one eye on the radar to prevent one of them from getting behind you
+
+
+===============================8. Multiplayer Guide=============================
+
+
+Here are some tips to help you climb the ranks of Nintendo's Wi-Fi ladder:
+
+- Items are a good thing. In any 3 or 4 person game, try to grab items as they
+appear. Plasma guns should be your first priority.
+- Never go head to head with someone that has plasma guns. Similarly, if you 
+have them and a decent amount of health, feel free to go head to head.
+- Cloaking is an excellent way to sit back and watch as other people kill each-
+other, then swoop in for the star
+- Bombs have a large number counting down above them and create a loud noise
+when dropped, but can be an excellent tool against dogfighting enemies that may
+be too occupied to notice
+- Remember, in multiplayer games, your own bombs will hurt you if you are in
+range
+- Keep track of the messages ROB gives you. They will tell you who picks up what
+items, who gets kills, and who is in the lead. Try to target the person in the
+lead to prevent them from scoring.
+- Don't waste your boost meter by rushing towards an enemy. Save at least half
+your meter for rolling at all times.
+- Don't kill someone unless you are sure that you will get the star.
+- Only loop and u-turn when you are as high as you can fly. This makes you a
+more difficult target as you perform the manouver.
+
+
+==================================9. Walkthrough================================
+
+Each mission in my walkthrough is broken into 3 parts. The first part is a
+detailed map which describes enemy locations, powerup locations and natural
+obstacles. Here is a legend for the various symbols used in my maps:
+
+Great Fox- Represents the starting location of the Great Fox
+
+(Character Name)- Represents the starting location of the specified character
+
+E (1, 2, 3 etc.)- Represents a group of enemy craft that are detailed on the
+outside of the map
+
+EB (1, 2, 3 etc.)- Represents an enemy controlled base that will produce new
+enemy ships if left in enemy hands. Reclaim these to recieve additional turns.
+Every time you finish a mission with extra turns, they are added to a counter.
+After 5 extra turns, you recieve an extra ship (1-up).
+
+RL (1, 2, 3 etc.)- Represents an enemy controlled base that will launch rockets
+at the Great Fox. They operate the same way as enemy bases do.
+
+C (1, 2, 3 etc.)- C represents friendly bases. While moving on the map, you can
+fly over these cities, and gain a large distance bonus to continue your flight
+path. These can be extremely important in some missions
+
+EM (1, 2, 3 etc.)- Represents enemy missiles that are on the map at mission 
+start. Additional missiles created during the missions are unlabelled due to the
+randomness of their appearance
+
+S (1, 2, 3 etc.)- Show the location of Supply power-ups, which replenishes the
+shields of whoever picks them up
+
+F (1, 2, 3 etc.)- Represents the location of Fuel-Cell power-ups, which add +25
+to your timer when picked up
+
+M (1, 2, 3 etc.)- Represents the location of Missile power-ups, which add 1 
+missile to the Great Fox's arsenal. A maximum of 3 missiles can be held at once
+
+. - Areas covered in .'s represent places on the map that are shrouded by the 
+fog of war. You cannot see enemies or powerups that are surrounded by this fog 
+unless you uncover them using your Fog Dispersal Device or have one of your
+characters move through the fog.
+
++ - Areas with + signs represent Asteroid fields. These fields hinder your
+movement on the map by severly decreasing your distance as you pass through 
+them. Try to avoid getting stuck in an asteroid field and leaving the Great Fox
+open to enemy attacks
+
+= - Areas covered by = signs are "No-fly zones", areas where enemy or friendly
+ships cannot pass through. Missiles can pass over these zones, so watch out.
+You will have to fly around these zones
+
+The second part is a turn by turn walkthrough of the mission, which will give
+you a rough idea of how to succeed. Keep in mind that there are some variables,
+such as enemy ship and missile launches from occupied bases, that may make your
+mission play out differently than mine did. This is just meant as a guide and
+won't be 100% accurate every time.
+
+The third part is a brief synopsis of how to successfully complete the combat
+portions of each mission.
+
+
+=========================9.1) Ending 1 (Default Path)===========================
+
+You start the game by reading the Prologue, which gives you an idea of the 
+current state of the Lylat system, and Team Star Fox's former members.
+
+Fox decides to help out the citizens of Lylat by taking out the Anglar threat by
+himself. ROB sets course for Corneria, but asks Fox if he wants to do some
+training first. I recommend you accept the training offer as the controls can be
+quite awkward at first.
+
+
+=====================9.i) Level 1: Controlling the Fighter======================
+
+Just fly through the rings in any order to complete this mission. It helps give
+you a feel for the stylus controls of the game.
+
+
+=======================9.ii) Level 2: Combat Techniques=========================
+
+Thirty weak fighters occupy this stage. They tend to group together making them
+easy targets. Take this oppurtunity to get used to firing controls, charge shots
+and bomb usage. Don't forget the ever mighty barrel roll.
+
+
+=========================9.iii) Level 3: Barrel Rolls===========================
+
+Here you have 5 turret towers scattered across the map. This level teaches you
+how to attack stationary targets, and the importance of the barrel roll. As you
+approach the enemy turrets, barrel roll to deflect their shots and attract
+their cores. Just open up with your lasers to destroy them. If you want, you
+can use your 2 bombs to destroy the turrets from a very safe distance. It will
+help you to learn bomb usage. I also recommend that you play around learning the
+advanced flight manouvers such as boosting, braking u-turning and looping.
+
+
+========================9.iv) Level 4: The Time System==========================
+
+This level teaches you the basics of the time system by pitting you against 15
+weak fighters with only a certain time limit. Here you will learn tricks to
+increase your fuel for other encounters, such as flying through loops for
+bonuses or getting a bonus for every 5 enemies killed.
+
+TRAINING COMPLETE!
+
+After training, ROB states that you have arrived at Corneria and are ready to
+take the fight to the Anglar forces
+
+
+=====================9.11) Mission 1: The Adventure Begins!=====================
+
+Planet: Corneria
+Characters: Fox
+
+Your first combat mission is a fairly simple one, designed to give you a feel
+for the controls and command system.
+
+______________________________________________
+|                                            |E1- 4 Commander <
+|                          E1                |E2- 3 Swarm Fighter <
+|                                            |E3- 3 Swarm Fighter <<
+|                                            |
+|                                E2          |
+|                                            |
+|                                            |
+|                                            |
+|                                            |
+|                                            |
+|                                            |
+|                                            |
+|                                            |
+|                                            |
+|          Fox                            E3 |
+|Great Fox                                   |
+|                                            |
+|____________________________________________|
+
+Turn 1:
+
+- Fly towards E3
+- All 3 enemy groups will fly towards Great Fox
+
+Turn 2: 
+
+- Fly Northwest
+- E3 and E2 will engage Fox
+
+Turn 3:
+
+- Fly towards E1 and engage
+
+Combat tips:
+
+- This level is easy as there are no secondary enemies
+- Against the Swarm Fighters, just charge up and release on approach and finish
+off the remainder
+- Against the Commanders, try to get behind them and fire off charged shots.
+Barrel roll if necessary.
+- Remember to barrel roll after killing enemies to attract powerups and cores
+
+MISSION COMPLETE!
+
+Back aboard the Great Fox, you discover that the Anglar ships are made of chrome
+and aluminum, perfectly designed to function in the acidic Sea of Venom. Fox
+decides that he needs help, so he contacts Slippy. After some catching up,
+Slippy decides to help Fox out.
+
+
+=======================9.12) Mission 2: Reunion With Slippy=====================
+
+Planet: Corneria
+Characters: Fox, Slippy (arrives during turn 3)
+
+This mission has you starting off with impassable terrain between you and Great
+Fox. Enemy ships will beat you to the Great Fox, unless the Great Fox fights 
+back. This mission teaches you how to use missile powerups to your advantage.
+______________________________________________
+|                                            |E1- 6 Swarm Fighters <<<
+|                 E2                         |E2- 3 Commanders <<<
+|                   F1    M4            E4   |E3- 9 Swarm Fighters << 
+|            E1                   E3         |E4- 2 Flash Bombers <<<
+|                                            |E5- 10 Puffers <<
+|                M3     ===           S1     |
+|                      =====                 |
+|                     ======                 |
+|              M2    ====                 E5 |
+|                   =====                    |
+|                   ====                     |
+|            M1    ====                      |
+|                  ====                      |
+|                 ====                Slippy |
+|                ====                        |
+|          Fox  ====       Great Fox         |
+|               ====                         |
+|____________________________________________|
+
+
+Turn 1:
+
+- Have Fox move to M2 by going through M1
+- All enemies will close in on Great Fox
+
+Turn 2:
+
+- Launch missiles at E4 and E5
+- Move Fox to M4 going through M3 and F1
+- Remaining enemies will move towards Great Fox
+
+Turn 3:
+
+- Launch missiles at E3 and E2
+- Slippy joins the fray. Have him engage the last group of enemies
+
+Combat Tips:
+
+- You should only have to fight once here, and it's just a group of 6 Swarm
+Fighters
+- Slippy's lasers can't charge, but pack more of a punch than Fox's
+ 
+MISSION COMPLETE!
+
+After clearing Mission 2, you learn from Slippy that our old pal Peppy Hare has
+been named as General of the Cornerian army, replacing General Pepper who is
+confined to a sick bed. ROB interrupts saying that an emergency message has
+been sent by someone named Lucy, who Slippy explains is Peppy's daughter. You
+set course for the planet Fichina to help Lucy out.
+
+When you arrive at Fachina, you learn a little bit about Lucy, including how she
+was a tomboy as a child and is now teaching astrophysics. You also learn that
+she was good friends with Krystal before Fox cuts the conversation short.
+
+
+=========================9.13) Mission 3- Fog of War============================
+
+Planet: Fichina
+Characters: Fox, Slippy
+
+In this mission, you are introduced to the "Fog of War", which is a cloud of 
+fog that obscures your radar and hides enemies and powerups.
+______________________________________________
+|                                      ......|E1- 2 Shurikens <<
+|                        ........      ......|E3- 1 Assault Laser <<<
+|        Slippy         ....M.....  E3   ... |E3- 4 Bomber Birds <<<
+|                        ........            |B1- Enemy base defended by a
+|  Great Fox                                 |Mothership and 2 Shurikens
+|             ====                           |
+|             =====                          |
+|  Fox        ====                           |
+|                                            |
+|             ..........=====.......         |
+|            ...F........===== ......        |
+|               ..          E2               |
+|     .........                              |
+|    ..S...........            ..............|
+|    ................          ....B1........|
+|    ..E1.  .........        .S..............|
+|    ...............         ................|
+|____________________________________________|
+
+Turn 1:
+
+Uncover the missile, E1 group and Boss using your fog dispersal device (drag the
+stylus over the fog in the areas I've shown).
+- Send fox through the Fuel Cell toward E2's flightpath. Intercept and destroy
+this group
+- Send Slippy in the dirction of that Missile
+- E1 can be left alone for now
+- E2 will intercept Fox
+- E3 will head in Slippy's direction
+- Boss will create more Fog
+
+Turn 2:
+
+- Uncover anything you feel you need to see but make sure to uncover the base
+- Have Slippy pick up the Missile and attract E3
+- Send Fox on a straight line in the direction of the base
+- E1 will move towards the Great Fox, but will not reach it.
+- E3 will engage Slippy
+- Boss will produce another group enemies
+
+Turn 3:
+
+- Launch your missile at E1
+- Uncover the base
+- Send Fox straight for the enemy base
+- Fox will engage E4, then fight the Mothership
+
+Combat advice:
+
+- This map features many different extra enemies, including those barrier
+creating enemies, boats with a laser mounted, laser turrets and these weird 
+bubble shooting octopi
+- As usual, focus mainly on eliminating the enemies with the cores in them
+- Against the Shurikens, watch out for their rear laser and barrel roll as
+needed
+- Against the Bomber Birds, just watch out for the column of fire as they drop
+their bombs. Try to keep a bit of distance and use charged lasers
+- Against the Assault Laser, watch out for the columns of fire as they launch
+their scatter bombs. Once again try to keep a distance
+- In the engagement with the Mothership, destroy the Shurikens protecting it,
+get their cores, then follow the red boxes to the Mothership and execute a quick
+Barrel Roll as you are about to hit it. That is how to defeat the boss.
+
+
+BOSS! Star Wolf:
+
+After you clear the level, Star Wolf and his gang will arrive. They think you're
+after the hefty bounty on their heads and will engage you. Choose one person to
+fight Star Wolf with. Pick whoever has more shield.
+
+Star Wolf advice:
+
+- Try to focus on one enemy at a time
+- If you see an oppurtunity to use a bomb, take it
+- Watch out for the mines they drop
+- If you have one on your tail, loop or barrel roll
+- If you are running out of fuel, shoot some of the mines for additional
+powerups
+
+After battle, Lucy boards Great Fox and asks whether Peppy got her message or 
+not. Fox explains that they intercepted the message and Slippy reassures her 
+that Peppy will not go down so easily. Lucy then tells Fox that she knows who's
+responsible for the invasion of Fichina: Andrew Oikonny, former member of Star
+Wolf and nephew of the late Andross. You then find out that Oikonny is working
+on a dangerous super weapon.
+
+Slippy suggests that you visit his father in the asteroid field.
+
+Choose option 1 to fight Oikonny now. Option 2 is locked.
+
+
+=====================9.14) Mission 4- Oikonny Strikes Back!=====================
+
+Planet: Fichina
+Characters: Fox, Slippy and Lucy
+
+Oikonny messages you saying that he's ready to exact his revenge for all the
+times you've foiled him in the past. Fox taunts Oikonny and Oikonny cuts the
+transmission.
+
+______________________________________________
+|..................E2........................|E1- 1 Assault Laser<
+|.F1.....M2..............................B2..|E2- 2 Web Ships <
+|.........============.......................|E3- 3 Shuriken <<<
+|...B1.......................................|B1- Enemy base defended by a
+|.......................................E3...|Mothership and 2 Web Ships
+|............................................|B2- Enemy base defended by a
+|..............X.............................|Mothership and 3 Shurikens
+|............................................|B3- Enemy base defended by a
+|               ============.................|Mothership and 3 Bomber Birds
+|               .............................|
+| Lucy          .............................|
+|               ..........F2..........B3.....|
+|       Fox       ...........................|
+|                   ..===========............|
+|                      ......................|
+| Great Fox  Slippy    .M1.............S..E1.|
+|                      ......................|
+|____________________________________________|
+
+Turn 1:
+
+- Uncover B1, M and E1 using your fog dispersal machine
+- Move Slippy towards M1
+- Move Fox up between the two impassible areas at point X
+- Move Lucy straight to B1 to destroy the Mothership and liberate the base
+- E1 will engage Slippy
+- E2 will move towards Lucy
+
+Turn 2:
+
+- Uncover E3, F2 and B2
+- Move Slippy to F2
+- Move Fox closer to B2 where he will attract E3 which is 3 Shurikens
+- Have Lucy pick up F1, M2 and head towards B2 between the top impassable zone
+and the top of the map
+- E2 will engage Lucy
+- E3 will engage Fox
+
+Turn 3:
+
+- Uncover E5, B3 and B2
+- Send Fox to B2
+- Fire a missile at any enemies if you wish
+- Send Slippy to B3
+
+BOSS! Death Crab:
+
+Oikonny decides to finally fight his own battle, and comes out with the Anglar 
+superweapon, the Death Crab. Don't be too scared though, this boss isn't so 
+tough.
+
+- Choose whoever has the most health/bombs
+- the first part of the battle, the crab is on the ground. Drop all of your 
+remaining bombs and shoot the pincers
+- Next, the crab starts flying. Now you must take out its legs and pincers
+- Avoid his ring lasers by either dodging or barrel rolling
+- After all the legs and pincers are shot off, attack the crab's face for 
+MASSIVE DAMAGE!
+
+After Oikonny is defeated, you return to Great Fox to celebrate the liberation 
+of Fachina. Slippy compliments Lucy's flying and Lucy chides Fox for "Really
+screwing up" with Krystal. Lucy then leaves to find her father on Corneria.
+
+Slippy asks Fox to visit the ocean planet Aquas so he can pick up his fiancee.
+ROB then gets a message saying that the sunken city on Aquas is under attack. 
+Fox sends out a message to Falco Lombardi to meet them at Aquas. You leave for
+Aquas.
+
+When you arrive at Aquas, Slippy tries to contact Amanda but fails. He begins
+to worry until Falco arrives and teases him. Faclo says he has interesting
+information but they decide to clear the area first.
+
+
+=======================9.15) Mission 5- Beneath the Waves=======================
+
+Planet: Aquas
+Characters: Fox, Slippy, Falco, Amanda (comes during turn 2)
+
+This mission introduces you to enemy rockets. You have to intercept them before
+they can reach Great Fox.
+______________________________________________
+|...E2....F1.............=========...........|E1- 12 Jellyfish <<<
+|...===.........RL1........=====......RL3....|E2- 2 Giant Spindly Fish <<
+|...===................F2....==.............=|RL1- Enemy base defended by a 
+|.............===========.................===|Mothership and a Manta Ray
+|...................=====.EM1....E1.......===|RL2- Enemy base defended by a
+|......................==.....C1........=====|Mothership and 3 Puffers
+|..........==.......M1..===..................|RL3- Enemy base defended by a
+|..........==.................======.........|Mothership and 3 arm-thingies
+|..........==.................======.........|
+|          ===.......==.......==.............|
+|          ==       ===......===.S1.....RL2..|
+|          ==       ==      ==...............|
+|          ==               =========........|
+| Fox        Falco          =========........|
+|                           .................|
+| Great Fox       Slippy     ........Amanda..|
+|                            ................|
+|____________________________________________|
+
+Turn 1: 
+
+- Uncover RL1, RL2, E2 and M1
+- Move Falco towards the missile upgrade
+- Have Fox intercept E2
+- Move Slippy towards the City
+- EM1 will move closer to Great Fox
+- E2 will engage Fox
+- E1 will move towards Great Fox
+- If you have a missile from last mission, I suggest using it on E2, as the
+Giant Spindly Fish can be a pain to kill
+
+Turn 2:
+
+- Uncover what needs to be uncovered
+- Have Fox pick up F1 and move towards the Rocket Launching base RL1
+- Have Falco pick up M1 and intercept any missiles shot by RL1
+- Have Slippy intercept EM1
+- Reclaim RL2 with Amanda
+- E1 will engage Slippy
+
+Turn 3:
+
+- Uncover the important locations
+- Have fox take out RL1
+- Move Amanda towards RL3
+- Falco and Slippy are on anti-missile duty
+
+Turn 4:
+
+- Pick up F2 with Fox
+- Take out RL3 with Amanda
+- Falco and Slippy will take care of any more stray missiles
+
+Combat Tips:
+
+- Giant Spindly fish are a royal pain. They take alot of hits, and can dish out
+a good laser barrage. Avoid fighting them by using missiles from Great Fox if
+you can. If not, try to do as much damage as you can using bombs and attack the
+fins where they connect to the body
+- Against the Jellyfish, just go in guns a blazin' or use a bomb to wipe out the
+whole group if you're feeling lazy
+- The Puffers will fall easily to fully charged shots. Try to kill them with
+one charged shot to avoid damage entirely.
+- The Manta Ray can be easily destroyed by just pounding on where its tail meets
+it's body
+- When chasing missiles, remember that you have to shoot them once you get close
+enough. Don't miss any beacons or else you'll lose track of the missile. For
+chargers, just try to get a full charge while paying attention to the missile.
+For Slippy, just let loose on the missile and watch it go down quickly.
+
+MISSION COMPLETE!
+
+After the battle, Slippy and Amanda have an emotional reunion. Falco decides to
+tell Fox the important news he had before the battle. Now here's a bit of a
+shocker, Krystal has joined up with Star Wolf! Not only that, but they are
+planning to take Venom by themselves!
+
+Peppy then sends a transmission stating that a large Anglar armada is heading
+to Corneria and is planning to cut through the Asteroid Belt. You set a course
+for Sector Z to intercept this fleet.
+
+When you arrive at Sector Z, ROB informs you that there are multiple Anglar
+fighters on the scanners. Krystal then transmits that she's safe. Fox asks her
+to meet up and help take out the Anglar fleet.
+
+
+==========================9.16) Mission 6: We meet Again========================
+
+Planet: Sector Z
+Characters: Fox, Falco, Slippy and Krystal
+
+In this level, you have to watch out for the asteroid field (+ on my map). If
+you pass through it, it will slow you down and you won't be able to cover as
+much distance.
+______________________________________________
+|                                         F2 |E1- 4 Ammonite 1s <<<
+|                                  RL1       |E2- 1 Bozoid <<
+|   E1                  ==========           |E3- 1 Spin Devil <<<
+|                       ========             |E4- 9 Angel Fish <<<
+|         Krystal     Slippy                 |RL1- Enemy rocketlauncher defended
+|   M1            Great Fox   Fox            |by Mothership and 10 fighters
+|                     Falco                  |RL2- Enemy rocketlauncher defended
+|          =                                 |by Mothership and 10 Invader IIIs
+|          ==                                |RL3- Enemy rocketlauncher defended
+|            ===                        E4   |by a Mothership and Bee Fighter II
+|      E2     ==========                     |
+|                                        S1  |
+|                                            |
+|                   E3   + + + +   EM1       |
+|                       + + + +     RL2      |
+|   RL3                                      |
+|                        F1                  |
+|____________________________________________|
+
+
+Turn 1:
+
+- No fog of war in this level!
+- Send Krystal to E1 through M1
+- Send Fox to E4
+- Send Slippy towards RL1
+- Send Falco towards E3
+- E1 will engage Krystal
+- E2 will move towards Krystal
+- E3 will engage Falco
+- E4 will engage Fox
+
+Turn 2:
+
+- Have Krystal move by E2 then continue towards RL3
+- Keep Falco near Great Fox and fend off any missiles
+- Send Fox towards RL2 through S1
+- Move Slippy towards Great Fox to help with missiles after collecting F2
+- Falco will engage EM1
+- E2 will engage Krystal
+
+Turn 3:
+
+- Have Fox pick up F1
+- Have Krystal hit RL3
+- Falco and Slippy should take care of any stray missiles
+
+Combat Tips:
+
+- Against Angel Fish, just try to get behind a group of 3 and fire away
+- Against the Spin Devil, just launch 2 bombs at it as it will not move
+- Against the Ammonites, be very careful to watch your boost meters and pull
+away when your barrel roll runs out. Krystal's ship is pretty weak here.
+- Against the Bozoid, use the same tactics you used against the Assault Lasers,
+attack them from behind, but watch out for the towers of fire
+- Against the fighters at RL1, attack them and take out a group of them at once
+- Against the dancers at RL2, use lock-on shots to waste the groups of enemies,
+or use bombs if you're having trouble
+- Against the bee machine at RL3, attack the "stinger". When it lifts the
+stinger up, that means it is going to attack with a barrage of shots. Barrel 
+roll to avoid damage.
+
+MISSION COMPLETE!
+
+After the mission, Krystal and Fox settle their differences and agree that 
+Krystal should help with the fighting. Krystal tells about how her and the Star
+Wolf team attacked the Anglar HQ on Venom and how the sea corroded their ships.
+They agree that they should end the conflict by taking out the Anglar Emperor.
+You set course for the Anglar armada which is in the Asteroid belt.
+
+You are shown a scene where Emperor Anglar and one of his men are discussing the
+destruction of their unit in Sector Z and their future plans. They decide to
+wait in the Asteroid Belt for Star Fox before advancing on Corneria.
+
+Back on the Great Fox, the crew prepares for battle
+
+
+=============================9.16) Mission 6: Anglar===========================
+
+Planet: Asteroid Belt
+Characters: Fox, Slippy, Falco and Krystal
+
+This is the final level of the first mission path. Not too challenging either.
+If you have any missiles going into this level, feel free to use them at your
+discretion.
+
+______________________________________________
+|                      ..+.+.................|E1- 9 Angel Fish <<
+|RL1        S1        ..+.+........RL2.......|E2- 1 Spin Devil <<<
+|                    ..===..........EM1......|E3- 1 Devil Worm
+|                  ...=====..................|EB1- Enemy base defended by mother
+|               .E1....===...................|ship and 3 Flash Bombers
+|             .....F1........................|RL1- Enemy rocketlauncher defended
+|            ............+.M1+.+.........F1..|by Mothership and 3 Ammonite 1s
+|           .===........+.+.+.+........E3....|RL2- Enemy rocketlauncher defended
+|          .=====......+.+.+.+...............|by Mothership and 2 Pylons
+|          ..===.......E2....................|
+|           ..................===....+.+.+.+.|
+|            ................=====..+.+.+.+.+|
+| Falco            ...........===....+.+.+.+.|
+|     Fox                   EB1  ...         |
+|         Slippy                             |
+|            Krystal                         |
+|Great Fox                                   |
+|____________________________________________|
+
+Turn 1:
+
+- Defog the things show on my map
+- Send Falco to attack RL1
+- Have Fox move up towards E1 and S1
+- Send Slippy towards E2
+- Get Krystal to wipe out EB1
+- E1 will engage Fox
+- E2 will engage Slippy
+- E3 will move towards Slippy
+- EM1 will move towards Great Fox
+
+Turn 2:
+
+- Defog what needs to be defogged
+- Send Falco to pick up S1, then move to intercept any missiles
+- Send Slippy to EM1
+- Send Krystal to help out Slippy
+- Send Fox to pick up F1 and move towards RL2
+- E3 should engage Krystal
+
+Turn 3
+
+- Send whoever's closest to take out RL2
+- Have everyone else fly missile defense
+
+Combat Tips:
+
+- The Angel Fish can be easily destroyed by luring them towards you and dropping
+a bomb
+- Use lock-on shots against the Ammonites
+- Just drop 2 bombs on the Spin Devil
+- Against the enemies at EB1, just use charge shots to easily wipe them out
+- The Devil Worm is actually pretty easy. Just aim for the head and fire away.
+Wath out for its shots and barrel roll accordingly.
+- EB1's defenders can be easily taken out with charged shots
+- RL1's defenders can be destroyed by using charged shots when the shells open
+- RL2's defenders can be destroyed by using charged shots.
+
+BOSS! Arrow Head:
+
+Anglar has decided to take things into his own hands and took his personal ship 
+out to fight you himself.
+
+- He's actually pretty easy. Take someone in who has a few bombs, try to drop
+the bombs in his path and most of the tail parts will be destroyed. Repeat
+if necessary
+- Now just pound the crap out of the head while dodging the attacks to win.
+
+MISSION COMPLETE!
+
+After defeating the final boss of the first path, Star Wolf contacts you
+expressing his anger that you were the ones who took out Emperor Anglar. Falco
+assures Wolf that the bounty will be removed from their heads. They reassure
+Krystal that they got away from Venom safely, although Panther is disappointed
+that she left. They say goodbye and leave.
+
+Peppy then sends a congratulatory message to Fox, telling him that he is a great
+leader like his father.
+
+THE END OF PATH 1
+
+Now that you have beaten Path 1, you can take any other path as you choose.
+
+
+==================================9.2) Ending 2=================================
+
+This path follows the choice made after the first mission of whether to hook up
+with Slippy, or find Falco. Choose to find Falco to follow this path.
+
+
+====================9.21) Mission 1- The Adventure Begins! 2====================
+
+Planet: Corneria
+Characters: Fox
+
+After beating the game the first time, each subsequent playthrough will result
+in this mission being played first
+______________________________________________
+|                                F1          |E1- 9 Swarm Fighters <<
+|                    EB1              EB2    |EB1- Enemy base defended by a
+|               ====                         |Mothership and 2 Starfish 
+|               ====                E1       |EB2- Enemy base defended by a
+|                ======                      |Mothership and 4 Commanders
+|                  ====                      |
+|                  ====               S1     |
+|                  ====                      |
+|                  ====                      |
+|                  ====                      |
+|                  ====                      |
+|                  ====                      |
+|                                            |
+|                                            |
+|                                            |
+|                                            |
+| Great Fox  Fox                             |
+|____________________________________________|
+
+
+Turn 1:
+
+- Send Fox north, along the west side of the no-fly zone and to EB1
+- E1 will fly towards Great Fox
+- EB1 and EB2 may create additional enemies
+
+Turn 2:
+
+- Have Fox attack EB1
+- Any enemy created at EB1 will engage Fox
+- E1 and any enemy created at EB2 will move towards Great Fox
+
+Turn 3:
+
+- Fly through EB1 and cut off E1 and any enemy from EB2
+- E1 will engage Fox
+
+Turn 4:
+
+- Fly towards EB2, attracting any enemies that may be there
+
+Turn 5:
+
+- Fly through S1 and attack EB2
+
+Combat Tips:
+
+- Nothing you haven't seen before. Use the same tactics as last time
+- Watch out for the city buildings at EB2
+
+MISSION COMPLETE!
+
+ROB gives his explanation on the enemy ships while Fox ponders his next move.
+Choose option 3, "Where is Falco?"
+
+You arrive at Katina and Falco talks with ROB. He decides that he's going to
+help liberate Katina, with or without Fox.
+
+
+=======================9.22) Mission 2: Falco to the Fore!======================
+
+Planet: Katina
+Characters: Falco, Bill (arrives turn 3)
+
+This mission isn't that bad. You are given 3 missile powerups, so either use or
+save them at your discretion
+______________________________________________
+|                                            |E1- 2 Flip Bots <<<
+|     E4                            EB1      |E2- 4 Spinning Cores <<<
+| M3                          F1             |E3- 12 Swarm Fighters <<
+|            ======                          |E4- Todora
+|  RL1       ======                          |EB1- Enemy base defended by a
+|           =====                            |Mothership and 2 Web Ships
+|Bill      =====                             |RL1- Enemy rocketlauncher defended
+|          ====                              |by a Mothership and 3 Commanders
+|         ====                       M2      |
+|    E3  ====                                |
+|        ====                     C1         |
+|        ====   E1                           |
+|E2 F2   ====                                |
+|        ====                                |
+|        ====                  M1     Falco  |
+|  F1    ====                                |
+|        ====                      Great Fox |
+|____________________________________________|
+
+Turn 1:
+
+- Move Falco to M1, then down a bit to attract E1
+- E1 will engage Falco
+- Other enemies will move toward Great Fox
+- EB1 and RL1 may launch additional enemies/missiles
+
+Turn 2:
+
+- Move Falco through C1 and M2 to reach EB1
+- All enemies/missiles move towards Great Fox
+
+Turn 3:
+
+- Move Falco through the now friendly EB1 to intercept the enemies
+- Fire missiles if the enemies are too close
+- Bill from Star Fox 64 will appear near RL1 to give you a hand
+- Send Bill to pick up M3 and attack RL1
+- E2, E3 and E4 may engage Falco
+
+Turn 4:
+
+- Mop up any enemies or missiles
+- Pick up F1 and F2 with Bill by going through RL1
+
+Combat Tips:
+
+- Not much new here
+- Flip Bots like to pull loops when you get behind them, so either slow down
+or do a loop yourself
+- Bill's ship doesn't have a lock-on, so beware
+
+MISSION COMPLETE!
+
+After battle you recieve a transmission from Star Wolf. It seems as though they
+are determined to fly through Sector X and attack Venom themselves. Krystal is
+with them
+
+You arrive at the Asteroid Belt to find that Star Wolf has already headed to
+Sector X. You recieve word that Fox is headed to Aquas, but before you leave,
+Falco decides to wipe out the enemies in the belt.
+
+
+========================9.23) Mission 3: Falco's Decision=======================
+
+Planet: Asteroid Belt
+Characters: Falco
+
+______________________________________________
+|                                            |E1- 9 Angel Fish <<
+|            Falco        RL1        RL2     |E2- 2 Pylons <<<
+| Great Fox                                  |E3- 1 Spin Devil <<
+|                    M1                      |RL1- Enemy rocketlauncher defended
+|                                            |by a Mothership and 3 Ammonites
+|  M3      ===               M2         F2   |RL2- Enemy rocketlauncher defended
+|           ====                             |by a Mothership and 6 dual ships
+|            =====                      E2   |RL3- Enemy rocketlauncher defended
+|               ======                       |by a Mothership and 2 ???
+|  + + + + + +     =====                     |
+| + + + F1 + +        ===              E3    |
+|  + + + + +            ===                  |
+|                                            |
+|                                            |
+|  E1                                        |
+|                                            |
+|              RL3                           |
+|____________________________________________|
+
+
+Turn 1:
+
+- Move Falco to RL1 through M1
+- All enemies will move towards Great Fox
+- One of the rocket launchers may shoot a missile towards Great Fox
+- E2 should engage Falco
+
+Turn 2:
+
+- Send Falco through M1 to engage E3
+- RL2 and RL3 may launch missiles
+- Shoot E1 with a missile
+
+Turn 3:
+
+- Katt will arrive to give Falco a hand
+- Have her intercept any missiles from RL3, or head to RL3
+- Move Falco through M2 to attack RL2
+
+Turn 4:
+
+- Have Falco pick up F2, then head towards Great Fox
+- Have Katt assault RL3 or intercept any missiles
+
+Turn 5:
+
+- Finish off if needed
+
+Combat Tips:
+
+- Once again not much to say
+- Katt's weapon is a single Plasma shot, but it has homing abilities
+
+MISSION COMPLETE!
+
+Back on the Great Fox, ROB suggests you rendezvous with Fox at Aquas, Here you
+must choose whether to go on to ending 2, or to meet back up with the original
+path at Aquas. Choose to Search for Krystal to continue on to this ending.
+
+You arrive at Sector X to find a nasty surprise, Pigma Dengar, member of the
+original Star Fox team with James McCloud and Peppy Hare. Apparantly he
+survived his battle with Star Fox during Star Fox Assault and is looking for
+revenge.
+
+=======================9.24) Mission 4: Pigma's Revenge=========================
+
+Planet: Sector X
+Characters: Falco
+
+There are alot of enemies on this map. Don't venture too far from the Great Fox
+witout making sure that it is safe. This is the last mission on this path, so
+feel free to use missiles liberally.
+______________________________________________
+|                 S1                         |E1- 1 Node <<
+|                        EM2  E5             |E2- 1 Bozoid << 
+| E2           + +                           |E3- 1 Bee Fighter II <<
+|             + +                            |E4- 4 Ammonite Is << 
+|           + +                      F2      |E5- 15 Invader IIIs
+|        + + +                               |
+|       + + +                                |
+|      + M2 +                 E3     +       |
+|       + + + E1                    + +      |
+|        + +                       + + +     |
+|                                 + + +      |
+|                                + + +       |
+|       M1           F1         + + +     EM1|
+|                              + + +         |
+|  Falco               M3     + + +          |
+|                        + + + +          E4 |
+|    Great Fox                               |
+|____________________________________________|
+
+Turn 1:
+
+- Fly through M1, then across the path between E1 and Great Fox
+- E1 will engage Falco
+- All enemies and missiles will move toward Great Fox
+
+Turn 2:
+
+- Fire a missile at E3 and E2 if you have one
+- Collect M3 and intercept EM1 with Falco
+- E4 will engage Falco
+- E2, E5 and EM2 will move towards Great Fox
+
+Turn 3:
+
+- Laucn a missile at E2 if you haven't already
+- Katt arrives
+- Have Katt intercept EM1 while Falco takes out E5
+- E5 will engage Falco
+
+Combat Tips:
+
+- Against the node, take advantage of Falco's multilock
+- Use bombs against the Invader IIIs if you have any
+
+BOSS! Pigma Dengar:
+
+- He can be a confusing boss at first
+- He is composed of 4 cubes and a central orb protected by the cubes
+- Each time you shoot one of the cubes, the face changes
+- The pattern goes Red-Yellow-Green-Pigma
+- The object is to make all 4 squares compose Pigma's face to reveal the orb
+- The Red face launches multiple pillars of flames
+- The Green face launches 3 volleys of 6 missiles. Shoot them down or boost away
+- The Yellow face shoots a barrage of fireballs
+- When all 4 are Pigma's face, the cubes move away and reveal the orb, but not
+before a laser image of Pigma's face is launched at you. Shoot the orb while
+avoiding the laser-face
+- Lather, rinse, repeat
+
+END OF PATH 2!
+
+Back on Great Fox, Falco recieves word from Fox that the Anglar forces were
+destroyed without Falco's help. Fox then invites Falco to Slippy and Amanda's
+wedding on Aquas. Enjoy ending #2
+
+
+===================================9.3) Ending 3================================
+
+
+This path will follow the original game's path to after you defeat Oikonny at
+Fichina, then will split from the main path there. This route follows Lucy after
+the liberation of Fichina.
+
+
+====================9.31) Mission 1- The Adventure Begins! 2====================
+
+Planet: Corneria
+Characters: Fox
+
+After beating the game the first time, each subsequent playthrough will start 
+with this mission
+______________________________________________
+|                                F1          |E1- 9 Swarm Fighters <<
+|                    EB1              EB2    |EB1- Enemy base defended by a
+|               ====                         |Mothership and 2 Starfish 
+|               ====                E1       |EB2- Enemy base defended by a
+|                ======                      |Mothership and 4 Commanders
+|                  ====                      |
+|                  ====               S1     |
+|                  ====                      |
+|                  ====                      |
+|                  ====                      |
+|                  ====                      |
+|                  ====                      |
+|                                            |
+|                                            |
+|                                            |
+|                                            |
+| Great Fox  Fox                             |
+|____________________________________________|
+
+
+Turn 1:
+
+- Send Fox north, along the west side of the no-fly zone and to EB1
+- E1 will fly towards Great Fox
+- EB1 and EB2 may create additional enemies
+
+Turn 2:
+
+- Have Fox attack EB1
+- Any enemy created at EB1 will engage Fox
+- E1 and any enemy created at EB2 will move towards Great Fox
+
+Turn 3:
+
+- Fly through EB1 and cut off E1 and any enemy from EB2
+- E1 will engage Fox
+
+Turn 4:
+
+- Fly towards EB2, attracting any enemies that may be there
+
+Turn 5:
+
+- Fly through S1 and attack EB2
+
+Combat Tips:
+
+- Nothing you haven't seen before. Use the same tactics as last time
+- Watch out for the city buildings at EB2
+
+MISSION COMPLETE!
+
+ROB gives his explanation on the enemy ships while Fox ponders his next move.
+Choose option 1, "Contact Slippy"
+
+You contact Slippy from the Great Fox and get him to meet up with you.
+
+
+======================9.32) Mission 2: Reunion With Slippy======================
+
+Planet: Corneria
+Characters: Fox, Slippy (arrives during turn 3)
+
+This mission is similar to the first playthrough, except there is a rocket base
+and some changes to the enemies. Use similar tactics.
+______________________________________________
+|                                            |E1- 2 Starfish <<<
+|              E1               RL1          |E2- 12 Swarm Fighters <<<
+|                   F1    M4  E3             |E3- 5 Commanders <<<
+|                   E2                       |E4- 5 Puffers <<<
+|                                            |E5- 1 Flash Bomber <<
+|                M3     ===           S1     |RL1- Enemy rocketlauncher defended
+|                      =====                 |by a Mothership and 4 Commanders
+|                     ======                 |
+|              M2    ====                 E4 |
+|                   =====                    |
+|                   ====                     |
+|            M1    ====                      |
+|                  ====                      |
+|  E5             ====                Slippy |
+|                ====                        |
+|          Fox  ====       Great Fox         |
+|               ====                         |
+|____________________________________________|
+
+
+Turn 1:
+
+- Have Fox move to M2 by going through M1
+- All enemies will close in on Great Fox
+- RL1 may launch a missile
+
+Turn 2:
+
+- Launch missiles at E3 and E4
+- Move Fox to M4 going through M3 and F1
+- Remaining enemies will move towards Great Fox
+
+Turn 3:
+
+- Launch missiles at E1 and E2
+- Slippy joins the fray. Have him intercept any missiles heading towards Great
+Fox
+- Send Fox to attack RL1
+- E5 will head towards Great Fox
+
+Turn 4:
+
+- Engage E5 with Fox
+
+Combat Tips:
+
+- Take care to destroy any missiles the first time through
+- Flash Bombers are slow. Charge to max and fire from a distance for an easy win
+ 
+MISSION COMPLETE!
+
+Listen to Slippy's introduction of Lucy and update on Peppy, then choose option
+1, "Set Course for Fachina"
+
+After arriving at Fichina, listen to the conversation, then prepare to enter
+battle.
+
+=========================9.33) Mission 3- Fog of War 2==========================
+
+Planet: Fichina
+Characters: Fox, Slippy
+
+Unlike last mission, Fog of War on additional playthroughs is totally different.
+______________________________________________
+|      =====   ..................E3..S1....==|E1- 1 Fire Wheel <<<
+|       ===    ............................==|E2- 1 Web Ship <<<
+|               ..E1...................EB1...|E3- 2 Shurikens <<<
+|       ====    ..............           ====|E4- 1 Assault Laser
+|       =====================          ======|EB1- Enemy base defended by a
+| Fox   ======================         ======|Mothership and 2 Shurikens
+|            ..............===...........====|RL1- Enemy base defended by a
+|Great Fox   .......M1.....===........RL1....|Mothership and 3 Bomber Birds
+|            ..............===...............|
+|       =========..........====..E4......====|
+|Slippy =========..........====........======|
+|       =========..........====........======|
+|             ......................     ====|
+|             .......E2.............  F1     |
+|            ==.....................         |
+|          =======................F2.    ====|
+|        ================.............   ====|
+|____________________________________________|
+
+Turn 1:
+
+- Uncover key locations with the fog dispersal device
+- Send Fox towards E1
+- Send Slippy towards E2
+- E1 will engage Fox and E2 will engage Slippy
+- EB1 and RL1 may produce enemies/rockets
+
+Turn 2:
+
+- Send Slippy to M1 and have him intercept any missiles
+- Send Fox towards EB1
+- E3 will engage Fox
+
+Turn 3:
+
+- Send Slippy to engage E4
+- Send Fox to attack EB1
+
+Turn 4:
+
+- Have Slippy pick up F1 and F2
+- Send Fox to attack RL1
+- If there are any missiles, have Slippy take them out
+
+Combat Tips:
+
+- The only new enemy here is the Fire Wheel. It shoots 3 lines of fireballs in
+3 directions. Take it out using charged shots.
+
+BOSS! Star Wolf:
+
+- Same as the last time
+- If you're short on fuel, shoot a few of their mines to get a fuel cell powerup
+
+MISSION COMPLETE!
+
+Back on the Great Fox, Lucy mentions that Andrew Oikonny is in charge of the
+Fichina invasion. Choose option 1 to continue on this path
+
+
+=====================9.34) Mission 4- Oikonny Strikes Back!=====================
+
+Planet: Fichina
+Characters: Fox, Slippy and Lucy
+
+This time, the mission is exactly as it was in the first path
+______________________________________________
+|..................E2....S2..................|E1- 1 Assault Laser<
+|.F1.....M2..............................B2..|E2- 2 Web Ships <
+|.........============.......................|E3- 3 Shuriken <<<
+|...B1.......................................|B1- Enemy base defended by a
+|.......................................E3...|Mothership and 2 Web Ships
+|............................................|B2- Enemy base defended by a
+|..............X.............................|Mothership and 3 Shurikens
+|............................................|B3- Enemy base defended by a
+|               ============.................|Mothership and 3 Bomber Birds
+|               .............................|
+| Lucy          .............................|
+|               ..........F2..........B3.....|
+|       Fox       ...........................|
+|                   ..===========............|
+|                      ......................|
+| Great Fox  Slippy    .M1......E1.....S1....|
+|                      ......................|
+|____________________________________________|
+
+Turn 1:
+
+- Uncover B1, M and E1 using your fog dispersal machine
+- Move Slippy towards M1
+- Move Fox up between the two impassible areas at point X
+- Move Lucy straight to B1 to destroy the Mothership and liberate the base
+- E1 will engage Slippy
+- E2 will move towards Lucy
+
+Turn 2:
+
+- Uncover E3, F2 and B2
+- Move Slippy to F2
+- Move Fox closer to B2 where he will attract E3 which is 3 Shurikens
+- Have Lucy pick up F1, M2 and head towards B2 between the top impassable zone
+and the top of the map
+- E2 will engage Lucy
+- E3 will engage Fox
+
+Turn 3:
+
+- Uncover E5, B3 and B2
+- Send Fox to B2
+- Fire a missile at any enemies if you wish
+- Send Slippy to B3
+
+BOSS! Death Crab:
+
+- Same as last time
+- Fuel shouldn't be a problem since killing any of his legs will award you with
+a fuel cell
+
+After battle, watch or skip the dialogue, then choose to unlock option 2, "Check
+out Corneria" to continue the path with Lucy.
+
+Lucy arrives at Corneria to discover that the planet is under Anglar control.
+She is worried about her father, Peppy.
+
+
+=====================9.35) Mission 5- Father and Daughter=======================
+
+Planet: Corneria
+Characters: Lucy
+
+Holy missiles Batman! This map is covered with missile powerups, and plenty of
+enemies to use them on.
+______________________________________________
+|                                            |E1- 12 Swarm Fighters <
+|E8                            Great Fox     |E2- 6 Swarm Fighters <
+|             =======         M1             |E3- 2 Elite Fighters <
+|             ========                  Lucy |E4- 5 Puffers <
+|   ====  E7    ========                     |E5- 10 Commanders <
+|   ======     M10  ======                   |E6- 2 Starfish <
+|    ====== F1         =====                 |E7- 2 Flash Bombers <
+|      ====    C3     ======          M2     |E8- 5 Puffers <
+|       ====           ===                   |
+|        ====     M7            C1           |
+|          =====         M4                  |
+|          =====     E3                      |
+|           ==== M8               M3         |
+|  E6              C2      M5                |
+|                                            |
+|          E5    M9             E2           |
+|    EM1                E4         M6 E1     |
+|____________________________________________|
+
+Turn 1:
+
+- If you have any missiles, use them now on E1, E2 or E3
+- Move Lucy to M1, C1, M2 and stop at M3
+- All enemies and rockets will move towards Great Fox
+
+Turn 2:
+
+- Fire missiles at the three closest enemies
+- Move Lucy through M4, M5, C1 and stop at M8, which should also be where the
+enemy missile will be
+- E4 and E5 will engage Lucy
+
+Turn 3:
+
+- Fire missiles at the 3 remaining enemies
+
+Combat Tips:
+
+- Against E4, just use a bomb when the Puffers are in range
+- Against E5, attack and kill the Commanders easily with Lucy's regular shots
+when close and charged shots when far
+
+MISSION COMPLETE!
+
+Back on the Great Fox, Peppy decides to scold his daughter for being reckless.
+He then mentions his late wife Vivian. He then says that he has important news
+for Fox. He tells ROB to send a message to Fox to meet him at Titania. He tells
+Lucy to stay and protect Corneria. Choose Option 2 "Say farewell to Peppy".
+
+Peppy leaves, and ROB warns Lucy that the Anglar are attacking the area again.
+She calls for reinforcements, but the Cornerian army isn't prepared for battle.
+
+However, Krystal, Katt and Amanda answer the call and all join the battle.
+
+=======================9.36) Mission 6- Lucy and Krystal========================
+
+Planet: Corneria
+Characters: Lucy, Katt, Krystal and Amanda
+
+This mission lets you take control of the 4 ladies in this game and is fairly
+easy too.
+______________________________________________
+|E2..............       EM1                  |E1- 10 Puffers <<
+|...............                     F1      |E2- 12 Swarm Fighters <<
+|........F1....                              |E3- 2 Starfish <<
+|............    M1                          |RL1- Enemy rocketlauncher defended
+|......RL1..                                 |by a Mothership and 2 Elite
+|.........                                   |Fighters
+|......         Krystal                      |RL2- Enemy rocketlauncher defended
+|....       Lucy              ===............|by a Mothership and 2 Starfish
+|..            Great Fox     ====........E3..|
+|         M2          Katt   ====............|
+|               Amanda      ====.............|
+|                          ====..........M3..|
+|                        =====..S1...........|
+|      F2              ======.........RL2....|
+|                     ======.................|
+|                          ..................|
+|  E1                     ...................|
+|____________________________________________|
+
+Turn 1:
+
+- Uncover everything under the fog
+- Move Krystal to intercept EM1
+- Move Lucy through M2 and attack RL2
+- Move Amanda to F2
+- Move Katt to the south of the no-fly zone
+- E1 will engage Amanda
+- RL1 or RL2 may launch a missile
+
+Turn 2:
+
+- Launch a missile at E2
+- Have Lucy pick up F1 and M1
+- Have Amanda take out any missiles that may have launched
+- Have Katt attack RL2
+- Get Krystal to pick up F1 and engage E3
+
+Combat Tips:
+
+- Another easy level
+- Against the Puffers, use a bomb for an easy win
+
+BOSS! Splitter:
+
+After winning the battle, an Anglar pilot arrives with a new superweapon
+
+- Choose whoever has the most health
+- This boss has 3 sections
+- You need to kill the sections one at a time
+- It has a beam similar to that on Motherships that will attack below it
+- It launches a barrage of slow moving shots periodically
+- Get behind it and shoot the flashing part on the rear piece while barrel
+rolling to deflect the shots
+- Repeat for the other 2 parts
+- Use charged shots unless you are using Lucy
+
+MISSION COMPLETE!
+
+PATH 3 COMPLETED!
+
+After the battle, Lucy says her thanks and Krystal introduces her to Amanda and
+Katt. You then recieve a message from Peppy that him and Fox were successful at
+Venom.
+
+
+==================================9.4) Ending 4=================================
+
+
+This ending follows Peppy and the rest of the crew as they attack Venom after
+Peppy is found by Lucy. Choose to "Head for Titania" to acquire this ending.
+
+
+====================9.41) Mission 1- The Adventure Begins! 2====================
+
+Planet: Corneria
+Characters: Fox
+
+After beating the game the first time, each subsequent playthrough will start 
+with this mission
+______________________________________________
+|                                F1          |E1- 9 Swarm Fighters <<
+|                    EB1              EB2    |EB1- Enemy base defended by a
+|               ====                         |Mothership and 2 Starfish 
+|               ====                E1       |EB2- Enemy base defended by a
+|                ======                      |Mothership and 4 Commanders
+|                  ====                      |
+|                  ====               S1     |
+|                  ====                      |
+|                  ====                      |
+|                  ====                      |
+|                  ====                      |
+|                  ====                      |
+|                                            |
+|                                            |
+|                                            |
+|                                            |
+| Great Fox  Fox                             |
+|____________________________________________|
+
+
+Turn 1:
+
+- Send Fox north, along the west side of the no-fly zone and to EB1
+- E1 will fly towards Great Fox
+- EB1 and EB2 may create additional enemies
+
+Turn 2:
+
+- Have Fox attack EB1
+- Any enemy created at EB1 will engage Fox
+- E1 and any enemy created at EB2 will move towards Great Fox
+
+Turn 3:
+
+- Fly through EB1 and cut off E1 and any enemy from EB2
+- E1 will engage Fox
+
+Turn 4:
+
+- Fly towards EB2, attracting any enemies that may be there
+
+Turn 5:
+
+- Fly through S1 and attack EB2
+
+Combat Tips:
+
+- Nothing you haven't seen before. Use the same tactics as last time
+- Watch out for the city buildings at EB2
+
+MISSION COMPLETE!
+
+ROB gives his explanation on the enemy ships while Fox ponders his next move.
+Choose option 1, "Contact Slippy"
+
+You contact Slippy from the Great Fox and get him to meet up with you.
+
+
+======================9.42) Mission 2: Reunion With Slippy======================
+
+Planet: Corneria
+Characters: Fox, Slippy (arrives during turn 3)
+
+This mission is similar to the first playthrough, except there is a rocket base
+and some changes to the enemies. Use similar tactics.
+______________________________________________
+|                                            |E1- 2 Starfish <<<
+|              E1               RL1          |E2- 12 Swarm Fighters <<<
+|                   F1    M4  E3             |E3- 5 Commanders <<<
+|                   E2                       |E4- 5 Puffers <<<
+|                                            |E5- 1 Flash Bomber <<
+|                M3     ===           S1     |RL1- Enemy rocketlauncher defended
+|                      =====                 |by a Mothership and 4 Commanders
+|                     ======                 |
+|              M2    ====                 E4 |
+|                   =====                    |
+|                   ====                     |
+|            M1    ====                      |
+|                  ====                      |
+|  E5             ====                Slippy |
+|                ====                        |
+|          Fox  ====       Great Fox         |
+|               ====                         |
+|____________________________________________|
+
+
+Turn 1:
+
+- Have Fox move to M2 by going through M1
+- All enemies will close in on Great Fox
+- RL1 may launch a missile
+
+Turn 2:
+
+- Launch missiles at E3 and E4
+- Move Fox to M4 going through M3 and F1
+- Remaining enemies will move towards Great Fox
+
+Turn 3:
+
+- Launch missiles at E1 and E2
+- Slippy joins the fray. Have him intercept any missiles heading towards Great
+Fox
+- Send Fox to attack RL1
+- E5 will head towards Great Fox
+
+Turn 4:
+
+- Engage E5 with Fox
+
+Combat Tips:
+
+- Take care to destroy any missiles the first time through
+- Flash Bombers are slow. Charge to max and fire from a distance for an easy win
+ 
+MISSION COMPLETE!
+
+Listen to Slippy's introduction of Lucy and update on Peppy, then choose option
+1, "Set Course for Fachina"
+
+After arriving at Fichina, listen to the conversation, then prepare to enter
+battle.
+
+=========================9.43) Mission 3- Fog of War 2==========================
+
+Planet: Fichina
+Characters: Fox, Slippy
+
+Unlike last mission, Fog of War on additional playthroughs is totally different.
+______________________________________________
+|      =====   ..................E3..S1....==|E1- 1 Fire Wheel <<<
+|       ===    ............................==|E2- 1 Web Ship <<<
+|               ..E1...................EB1...|E3- 2 Shurikens <<<
+|       ====    ..............           ====|E4- 1 Assault Laser
+|       =====================          ======|EB1- Enemy base defended by a
+| Fox   ======================         ======|Mothership and 2 Shurikens
+|            ..............===...........====|RL1- Enemy base defended by a
+|Great Fox   .......M1.....===........RL1....|Mothership and 3 Bomber Birds
+|            ..............===...............|
+|       =========..........====..E4......====|
+|Slippy =========..........====........======|
+|       =========..........====........======|
+|             ......................     ====|
+|             .......E2.............  F1     |
+|            ==.....................         |
+|          =======................F2.    ====|
+|        ================.............   ====|
+|____________________________________________|
+
+Turn 1:
+
+- Uncover key locations with the fog dispersal device
+- Send Fox towards E1
+- Send Slippy towards E2
+- E1 will engage Fox and E2 will engage Slippy
+- EB1 and RL1 may produce enemies/rockets
+
+Turn 2:
+
+- Send Slippy to M1 and have him intercept any missiles
+- Send Fox towards EB1
+- E3 will engage Fox
+
+Turn 3:
+
+- Send Slippy to engage E4
+- Send Fox to attack EB1
+
+Turn 4:
+
+- Have Slippy pick up F1 and F2
+- Send Fox to attack RL1
+- If there are any missiles, have Slippy take them out
+
+Combat Tips:
+
+- The only new enemy here is the Fire Wheel. It shoots 3 lines of fireballs in
+3 directions. Take it out using charged shots.
+
+BOSS! Star Wolf:
+
+- Same as the last time
+- If you're short on fuel, shoot a few of their mines to get a fuel cell powerup
+
+MISSION COMPLETE!
+
+Back on the Great Fox, Lucy mentions that Andrew Oikonny is in charge of the
+Fichina invasion. Choose option 1 to continue on this path
+
+
+=====================9.44) Mission 4- Oikonny Strikes Back!=====================
+
+Planet: Fichina
+Characters: Fox, Slippy and Lucy
+
+This time, the mission is exactly as it was in the first path
+______________________________________________
+|..................E2....S2..................|E1- 1 Assault Laser<
+|.F1.....M2..............................B2..|E2- 2 Web Ships <
+|.........============.......................|E3- 3 Shuriken <<<
+|...B1.......................................|B1- Enemy base defended by a
+|.......................................E3...|Mothership and 2 Web Ships
+|............................................|B2- Enemy base defended by a
+|..............X.............................|Mothership and 3 Shurikens
+|............................................|B3- Enemy base defended by a
+|               ============.................|Mothership and 3 Bomber Birds
+|               .............................|
+| Lucy          .............................|
+|               ..........F2..........B3.....|
+|       Fox       ...........................|
+|                   ..===========............|
+|                      ......................|
+| Great Fox  Slippy    .M1......E1.....S1....|
+|                      ......................|
+|____________________________________________|
+
+Turn 1:
+
+- Uncover B1, M and E1 using your fog dispersal machine
+- Move Slippy towards M1
+- Move Fox up between the two impassible areas at point X
+- Move Lucy straight to B1 to destroy the Mothership and liberate the base
+- E1 will engage Slippy
+- E2 will move towards Lucy
+
+Turn 2:
+
+- Uncover E3, F2 and B2
+- Move Slippy to F2
+- Move Fox closer to B2 where he will attract E3 which is 3 Shurikens
+- Have Lucy pick up F1, M2 and head towards B2 between the top impassable zone
+and the top of the map
+- E2 will engage Lucy
+- E3 will engage Fox
+
+Turn 3:
+
+- Uncover E5, B3 and B2
+- Send Fox to B2
+- Fire a missile at any enemies if you wish
+- Send Slippy to B3
+
+BOSS! Death Crab:
+
+- Same as last time
+- Fuel shouldn't be a problem since killing any of his legs will award you with
+a fuel cell
+
+After battle, watch or skip the dialogue, then choose to unlock option 2, "Check
+out Corneria" to continue the path with Lucy.
+
+Lucy arrives at Corneria to discover that the planet is under Anglar control.
+She is worried about her father, Peppy.
+
+
+=====================9.45) Mission 5- Father and Daughter=======================
+
+Planet: Corneria
+Characters: Lucy
+
+Holy missiles Batman! This map is covered with missile powerups, and plenty of
+enemies to use them on.
+______________________________________________
+|                                            |E1- 12 Swarm Fighters <
+|E8                            Great Fox     |E2- 6 Swarm Fighters <
+|             =======         M1             |E3- 2 Elite Fighters <
+|             ========                  Lucy |E4- 5 Puffers <
+|   ====  E7    ========                     |E5- 10 Commanders <
+|   ======     M10  ======                   |E6- 2 Starfish <
+|    ====== F1         =====                 |E7- 2 Flash Bombers <
+|      ====    C3     ======          M2     |E8- 5 Puffers <
+|       ====           ===                   |
+|        ====     M7            C1           |
+|          =====         M4                  |
+|          =====     E3                      |
+|           ==== M8               M3         |
+|  E6              C2      M5                |
+|                                            |
+|          E5    M9             E2           |
+|    EM1                E4         M6 E1     |
+|____________________________________________|
+
+Turn 1:
+
+- If you have any missiles, use them now on E1, E2 or E3
+- Move Lucy to M1, C1, M2 and stop at M3
+- All enemies and rockets will move towards Great Fox
+
+Turn 2:
+
+- Fire missiles at the three closest enemies
+- Move Lucy through M4, M5, C1 and stop at M8, which should also be where the
+enemy missile will be
+- E4 and E5 will engage Lucy
+
+Turn 3:
+
+- Fire missiles at the 3 remaining enemies
+
+Combat Tips:
+
+- Against E4, just use a bomb when the Puffers are in range
+- Against E5, attack and kill the Commanders easily with Lucy's regular shots
+when close and charged shots when far
+
+MISSION COMPLETE!
+
+Back on the Great Fox, Peppy lectures Lucy and says that he must find Fox to
+help him. Choose "Head to Titania to follow Peppy as he meets up with Fox and
+the crew.
+
+Peppy catches up to Fox to inform him that Andross had developed a device to
+terraform Venom to make it a more hospitable place, and hid the device on
+Titania. Peppy points out that this device would be the only way to survive in
+the currently acidic Venom sea.
+
+========================9.46) Mission 6: Andross' Legacy========================
+
+Planet Titania
+Characters: Fox, Falco, Slippy and Peppy
+
+Fox's original crew reunites. This mission relies heavily on the use of the
+allied bases to quickly reach the enemy bases.
+______________________________________________
+|.........................EM2................|E1- 3 Balloonists <<
+|.RL1......F2.........EB2.       ............|E2- 1 King Dodora <<<
+|..EM1.E2.....==========.   E1    ...........|EB1- Enemy base defended by a
+|............============   C2     ..........|Mothership and 1 Fire Wheel
+|...       ..============         ...........|EB2- Enemy base defended by a
+|..         ..==========         ............|Mothership and 1 stingray
+|.    C4     ...======..M1...................|RL2- Enemy rocketlauncher defended
+|..         F1............===== .............|by a Mothership and 2 wide ships
+|...       ..............=======..........===|RL2- Enemy rocketlauncher defended
+|.RL2.======....EB1......=======........  ===|by a Mothership and 4 MiniGrunners
+|....========...........  =====              |
+|    ========                                |
+|     ======       ===      C1               |
+|                ========               Falco|
+|=======         ============    Slippy      |
+|=======    C3  =============   Fox          |
+|=======        =============Peppy  Great Fox|
+|____________________________________________|
+
+Turn 1:
+
+- Uncover the enemy bases
+- Send Fox to RL2 through C1 and C3
+- Send Peppy to EB1 through C1
+- Send Falco North through C1 towards C2 to intercept EM1
+- Send Slippy through C1 and C2 to attack EB2
+- E1 will engage Falco or Slippy
+- All enemies and missiles will head towards Great Fox
+
+Turn 2:
+
+- Defog anything on the map that remains
+- Send Fox to RL1 through C4
+- Send Peppy to intercept E2 and EM1
+- Send Falco to pick up M1 and intercept any other missiles there may be
+- Send Slippy to RL1 through EB2 and F2
+
+Combat Tips:
+
+- Use bombs against the King Dodora before using lasers
+- The mini Grunners go down easily to bombs
+- The ships at RL1 shoot the ground with lasers causing towers of fire. Charge
+shots from the side work best on them
+
+After the map is cleared, you recieve a message from the ghost of Andross
+saying that you will never retrieve the device from his bio weapon. A boss fight
+begins with his bio weapon.
+
+BOSS! Grunner:
+
+- Pick whoever has the most health and has a charger on their lasers
+- Grunner itself has no attacks. Rather, he calls up a pair of pillars that
+shoot rocks at you and create an electrical barrier between them
+- The best method is to have someone with a charge ability fly behind Gunner
+and above the range of the stone towers' electrical barriers.
+- You can only hurt him from behind
+
+MISSION COMPLETE!
+
+After completing the mission, your team taunts Andross as they pick up the
+device.
+
+Back on board Great Fox, the team ponders how the device works and decides that
+it is the only way to complete their mission. Fox then announces that this will
+be his final mission, so he can spend the rest of his life with Krystal.
+
+You arrive at Venom and watch a short dialogue between Emperor Anglar and his
+henchman Zazan where they discuss how to fight back the invasion mounted by
+Star Fox. Fox then gives the final order to launch and the battle begins.
+
+
+=======================9.47) Mission 7: Good-bye, Fox===========================
+
+Planet: Venom
+Characters: Fox, Falco, Slippy and Peppy
+
+
+This is a fairly straight forward level with 4 characters.
+______________________________________________
+|.......====..E3.............................|E1- 2 Bee Fighters <<<
+|.RL2...====.....RL1....E1...............EB2.|E2- 1 Mega Spindly Fish <<
+|.......====.............................E2..|E3- 2 Web Ship IIs <<<
+|........====.........=====..................|EB1- Enemy base defended by a
+|..........====.......=====.S1..====.........|Mothership and 6 Dual Fighters
+|.......F1...==.......=====.....====.........|EB2- Enemy base defended by a
+|...............................====.........|Mothership and an Anglar ace
+|...====..................EB1...====.........|RL1- Enemy rocketlauncher defended
+|EM1=====.......................====.........|by a Mothership and Anglar ace
+|....=====.....................=====.........|RL2- Enemy rocketlauncher defended
+|......====.......====......======...........|by 2 Bee Fighters
+|......====.......====.....=====.............|
+|..M2..====.....  ====     =====.............|
+|....=====         M1      =====  ..====.....|
+|...=====                          .====.....|
+|.........Peppy           Slippy    ====.....|
+|.........  Fox Great Fox Falco     .........|
+|____________________________________________|
+
+Turn 1:
+
+- Defog the enemy bases/rocket launchers and E2
+- Send Peppy to M1 and wait for EM1 to pass the no-fly zone
+- Have Fox move towards RL2
+- Send Falco to attack EB1
+- Send Slippy east then north towards EB2
+- E1 will engage Falco
+- E2 will engage Slippy unless destroyed
+- Enemy bases may produce enemies/missiles
+
+Turn 2:
+
+- Defog what's needed
+- Send Fox to attack RL2
+- Send Falco to RL1
+- Have Slippy attack EB2
+- Have Peppy intercept EM1
+- Enemy bases may produce enemies/missiles
+
+Turn 3:
+
+- Finish off any enemies/missiles that remain
+
+Combat Tips:
+
+- Against the two Anglar aces, you may start to run short on fuel
+- They fight similarly to the Star Wolf characters
+- Shoot their mines for extra fuel, and used charged shots/plasma shots
+to take them down
+
+BOSS! Arrow Head:
+
+- Little bit harder this time
+- Will fly into the tubes on the ceiling and floor occasionally
+- Attack the pieces of the snake between the head and tail
+- Destroyed pieces will fall to the ground and start shoot at you
+- Once all middle pieces are destroyed, the head will attract them around
+it. Just fire away at the head while dodging the attacks
+- For an easier time, use a bomb on it as it is entering/leaving a tube
+
+After the Arrow Head is destroyed, Emperor Anglar himself will escape
+through one of the tubes.
+
+BOSS! Emperor Anglar:
+
+- Anglar is protected by a forcefield generated by 3 orbs
+- His attack is a stream of shots that can be easily deflected
+- Shoot the orbs until they turn grey
+- Anglar will charge up a shot and you need to roll and reflect this
+shot back to him
+- After the reflected shot hits him, his antenna will turn red. Get
+as many shots on it as you can
+- When at half his life, he will swim offscreen, leaving the orbs
+to be destroyed. During this phase, large solid beams will fly in from
+every direction
+- After the 3 orbs are destroyed, Anglar returns to the screen and
+uses some attacks he seems to have learned from Andross
+- First he will suck in air. Use your brakes to avoid being eaten
+- After he sucks in, he will blow out debris that can be deflected with
+your roll
+- During this time, just pound away at his head until he dies
+
+MISSION COMPLETE!
+
+After the battle, the team shares an emotional goodbye. ROB locates Krystal on
+Sauria, and Fox takes off to catch up with her.
+
+PATH 4 COMPLETE!
+
+
+===================================10. Endings==================================
+
+Ending 1: Emperor Anglar
+
+"The members of Star Fox had reunited once more! Again they put differences to 
+one side and took the fight to the enemy. And when the dust cleared, peace had 
+once again returned to Lylat. Yet Fox is still troubled by complicated
+feelings...
+
+Months pass. One dark day, Krystal makes a startling confession: "I'm sorry,
+Fox! I can't do this anymore. I'm going back to be with Panther and the rest of
+Star Wolf." Fox was overcome with grief and begged Krystal to stay... but her
+mind was set.
+
+Once again, Fox McCloud was forced to wander the world alone... and unloved. But
+Krystal has no such regrets. She is perhaps the toughest of all the pilots, and
+she proves it by starting a new life in the elite Star Wolf squadron..."
+
+After viewing the ending, you are presented with the Key of Destiny, which 
+allows you to unlock other paths and endings.
+
+
+Ending 2: Pigma's Revenge
+
+"Falco is consumed with rage. If all had gone to plan, he, Fox, and all the rest
+would be heroes, writ large upon a galactic stage, reveling in endless 
+retellings of their voctory. Instead, fate has seen fit to ostracize Falco from
+the Star Fox squadron.
+
+And then, just when things were bleakest, Falco got a message from Katt Monroe.
+'Forget those losers! Grab a couple of friends and form a new squad!' Falco was
+usually too stubborn to heed advice, but this message came at the right time.
+
+Falco took Katt up on her offer, and they went hunting for a third pilot,
+eventually finding their man--an elite Cornerian pilot named Dash! Together the
+three of them formed Star Falco, a unit that rivaled even Star Fox."
+
+
+Ending 3: Lucy and Krystal
+
+"With the battle over and the day won, the entire team chips in to prepare a
+huge celebratory feast. Everyone stays up eating and drinking and telling
+stories long into the night.
+
+Peppy and Lucy slip away to reminisce about Vivian Hare, the wife and mother
+they lost to illness many years ago. Bringing up memories both joyful and
+bittersweet, father and daughter sit and talk until the morning light.
+
+And Krystal and Fox, reunited after so long, are finally able to speak of their
+true feelings for each other. With new hope for the future, and a pledge of
+eternal love from Fox, Krystal decides to rejoin team Star Fox."
+
+
+Ending 4: Good-bye, Fox
+
+"The Star Fox members vote to disband the squadron, and Fox promises to spend
+his days living a quiet life with Krystal. But if a new threat threatens the
+peace, will Fox keep his promise? To never fight again is a hard thing to ask of
+a warrior...
+
+Their son, Marcus, grows into a fine young pup, and the Fox family enjoys a
+happy life together. Marcus enters the Cornerian Academy and follows his 
+father's path. The apple does not fall far from the tree, as Marcus is gifted
+with unbelievable flying skill.
+
+Marcus soon forms an elite squadron to defend peace wherever it is threatened.
+He teams up with Slippy's son and Peppy's granddaughter, and tracks down
+legendary pilot Falco Lombardi. And with that, a new Star Fox is born"
+
+
+
+========================11. Frequently Asked Questions==========================
+
+Q: Are other ships available in Wi-Fi and Download play?
+A: Right now it seems as though only Fox's Arwing is available in multiplayer
+games.
+
+Q: I'm writing a FAQ. Can I use _________ from your FAQ in mine?
+A: No. Nothing in this FAQ took very much work, so you have no excuse not to
+do your own ___________.
+
+Q: How do you stop rolling/boosting/braking?
+A: Just tap the screen to stop whatever manouver you are in.
+
+
+============================12. Legal Information===============================
+
+This guide is the copywrite of Black Turtle. All Star Fox characters and games
+are the property of Nintendo.
+
+If you wish to post this guide on your website, please email me at 
+blackturtle2112@gmail.com. I will more than likely give you permission to post
+my guide, but it will also give me a way to contact you if/when I update it so
+that your site will have the most recent version.
+
+A list of sites allowed to post this guide is found here:
+
+www.gamefaqs.com
+www.neoseeker.com
+www.cheatcc.com
+www.1up.com
+www.supercheats.com
+www.gamerhelp.com
+
+If you see any site not listed here which has this guide posted, please let me
+know.
+
+
+================================13. Thank yous==================================
+
+Nintendo- for releasing such a great game and for providing me with countless
+hours of entertainment over the years
+
+CJayC- for starting up and maintaining such an awesome site (what FAQ is
+complete without this?)
+
+My little brother- for begging for the original Star Fox for Christmas back
+in the SNES days and getting me into such a great series
+
+Ben the bear- for being my inspiration. OH BOY BEN THE BEAR!
