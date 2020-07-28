@@ -9,3 +9,4 @@ This is a repository to host extra files for TWiLightMenu++
 ## Theme Credits:
 - Vulpes-Vulpeos: Uploading a Pico-8 theme, a Monster Hunter Generations theme and a Nintendo DS-Like theme
 - Pk11: 3DS Theme stuff
+- TomRannd: simpleR4 themes
