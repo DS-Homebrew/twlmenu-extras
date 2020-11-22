@@ -1,0 +1,38 @@
+name: Update UniStore
+
+on:
+ push:
+   branches: [ master ]
+   paths: [ unistore/generate.py, "_nds/TWiLightMenu/*menu/themes/*.7z", .github/workflows/update.yml ]
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    container: devkitpro/devkitarm
+
+    steps:
+    - uses: actions/checkout@v1
+    
+    - name: Install packages
+      run: |
+        echo deb http://deb.debian.org/debian stable main contrib non-free >> /etc/apt/sources.list
+        sudo apt-get update
+        sudo apt-get install python3-pip -y
+        pip3 install -r source/requirements.txt
+
+    - name: Run generate.py
+      run: |
+        export PATH=$PATH:/opt/devkitpro/tools/bin
+        cd unistore
+        python3 generate.py ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Push changes
+      uses: github-actions-x/commit@v2.6
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: 'master'
+        commit-message: 'Update sources'
+        force-add: 'false'
+        files: unistore
+        name: TWLBot
+        email: flamekat54@aol.com 
