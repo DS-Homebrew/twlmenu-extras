@@ -15,33 +15,6 @@ if(sys.version_info.major != 3):
 	print("This is Python %d!\nPlease use Python 3!" % sys.version_info.major)
 	exit()
 
-# Convert names to lowercase alphanumeric + underscore and hyphen
-def webName(name):
-	name = name.lower()
-	out = ""
-	for letter in name:
-		if letter in "abcdefghijklmnopqrstuvwxyz0123456789-_.":
-			out += letter
-		elif letter == " ":
-			out += "-"
-	return out
-
-# Convert names to lowercase alphanumeric + underscore and hyphen
-def byteCount(bytes):
-	if(type(bytes) != int):
-		bytes = int(bytes)
-
-	if bytes == 1:
-		return "%d Byte" % bytes
-	elif bytes < (1 << 10):
-		return "%d Bytes" % bytes
-	elif bytes < (1 << 20):
-		return "%d KiB" % (bytes // (1 << 10))
-	elif bytes < (1 << 30):
-		return "%d MiB" % (bytes // (1 << 20))
-	else:
-		return "%d GiB" % (bytes // (1 << 30))
-
 def getTheme(path):
 	if "3dsmenu/" in path:
 		return "3DS"
