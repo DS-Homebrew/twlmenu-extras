@@ -37,6 +37,14 @@ def getDefaultIcon(path):
 		return 2
 	return -1
 
+def lastUpdated(sevenZip):
+	latest = None
+	for item in sevenZip.list():
+		if latest == None or item.creationtime > latest:
+			latest = item.creationtime
+
+	return latest
+
 # Read version from old unistore
 unistoreOld = {}
 if os.path.exists("twlmenu-themes.unistore"):
@@ -90,7 +98,10 @@ for skin in files:
 
 	info = {}
 	icon = None
+	updated = datetime.datetime.utcfromtimestamp(0)
 	with py7zr.SevenZipFile(skin) as a:
+		updated = lastUpdated(a)
+
 		meta = a.read(["meta/info.json", "meta/icon.png"])
 		if "meta/info.json" in meta:
 			info = json.load(meta["meta/info.json"])
@@ -121,7 +132,7 @@ for skin in files:
 				"icon_index": len(icons) - 1 if icon else getDefaultIcon(skin),
 				"description": info["description"] if "description" in info else "",
 				"license": info["license"] if "license" in info else "",
-				"last_updated": datetime.datetime.utcfromtimestamp(os.path.getmtime(skin)).strftime("%Y-%m-%d at %H:%M (UTC)")
+				"last_updated": updated.strftime("%Y-%m-%d at %H:%M (UTC)")
 			},
 			info["title"] if "title" in info else skinName: [
 				{
