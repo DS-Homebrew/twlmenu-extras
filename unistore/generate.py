@@ -47,20 +47,20 @@ def lastUpdated(sevenZip):
 
 # Read version from old unistore
 unistoreOld = {}
-if os.path.exists("twlmenu-themes.unistore"):
-	with open("twlmenu-themes.unistore", "r", encoding="utf8") as file:
+if os.path.exists("twlmenu-skins.unistore"):
+	with open("twlmenu-skins.unistore", "r", encoding="utf8") as file:
 		unistoreOld = json.load(file)
 
 # Create UniStore base
 unistore = {
 	"storeInfo": {
-		"title": "TWiLight Menu++ Themes",
+		"title": "TWiLight Menu++ Skins",
 		"author": "DS-Homebrew",
-		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/twlmenu-themes.unistore",
-		"file": "twlmenu-themes.unistore",
-		"sheetURL": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/twlmenu-themes.t3x",
-		"sheet": "twlmenu-themes.t3x",
-		"description": "A collection of themes for TWiLight Menu++\nfrom DS-Homebrew/twlmenu-extras on GitHub\n\n(The 'Console' is the theme in TWiLight)",
+		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/twlmenu-skins.unistore",
+		"file": "twlmenu-skins.unistore",
+		"sheetURL": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/twlmenu-skins.t3x",
+		"sheet": "twlmenu-skins.t3x",
+		"description": "A collection of skins for TWiLight Menu++\nfrom DS-Homebrew/twlmenu-extras on GitHub\n\n(The 'Console' is the theme in TWiLight)",
 		"version": 3,
 		"revision": 0 if ("storeInfo" not in unistoreOld or "revision" not in unistoreOld["storeInfo"]) else unistoreOld["storeInfo"]["revision"]
 	},
@@ -87,7 +87,7 @@ header = None
 if len(sys.argv) > 1:
 	header = {"Authorization": "token " + sys.argv[1]}
 
-# Get theme files
+# Get skin files
 files = [f for f in glob.glob("../_nds/TWiLightMenu/*menu/themes/*.7z")]
 
 # Generate UniStore entries
@@ -161,12 +161,12 @@ with open(os.path.join("temp", "icons.t3s"), "w", encoding="utf8") as file:
 	file.write("--atlas -f rgba -z auto\n\n")
 	for icon in icons:
 		file.write(icon + "\n")
-os.system("tex3ds -i " + os.path.join("temp", "icons.t3s") + " -o " +"twlmenu-themes.t3x")
+os.system("tex3ds -i " + os.path.join("temp", "icons.t3s") + " -o " +"twlmenu-skins.t3x")
 
 # Increment revision if not the same
 if unistore != unistoreOld:
 	unistore["storeInfo"]["revision"] += 1
 
 # Write unistore to file
-with open("twlmenu-themes.unistore", "w", encoding="utf8") as file:
+with open("twlmenu-skins.unistore", "w", encoding="utf8") as file:
 	file.write(json.dumps(unistore, sort_keys=True))
