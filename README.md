@@ -12,6 +12,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these themes for e
 - Pk11: Adding UniStore generation
 
 ## Theme Credits:
-- Vulpes-Vulpeos: Uploading a Pico-8 theme, a Monster Hunter Generations theme and a Nintendo DS-Like theme
 - Pk11: 3DS Suicune theme and DSi Switch themes
 - TomRannd: simpleR4 themes
+- Void: Dark 3DS theme
+- Vulpes-Vulpeos: Uploading a Pico-8 theme, a Monster Hunter Generations theme and a Nintendo DS-Like theme
