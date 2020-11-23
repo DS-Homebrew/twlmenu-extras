@@ -60,7 +60,7 @@ unistore = {
 		"file": "twlmenu-themes.unistore",
 		"sheetURL": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/twlmenu-themes.t3x",
 		"sheet": "twlmenu-themes.t3x",
-		"description": "A collection of themes for TWiLight Menu++",
+		"description": "A collection of themes for TWiLight Menu++\nfrom DS-Homebrew/twlmenu-extras on GitHub\n\n(The 'Console' is the theme in TWiLight)",
 		"version": 3,
 		"revision": 0 if ("storeInfo" not in unistoreOld or "revision" not in unistoreOld["storeInfo"]) else unistoreOld["storeInfo"]["revision"]
 	},
@@ -125,7 +125,7 @@ for skin in files:
 		unistore["storeContent"].append({
 			"info": {
 				"title": info["title"] if "title" in info else skinName,
-				"version": info["version"] if "version" in info else "",
+				"version": info["version"] if "version" in info else "v1.0.0",
 				"author": info["author"] if "author" in info else "",
 				"category": info["categories"] if "categories" in info else [],
 				"console": getTheme(skin),
