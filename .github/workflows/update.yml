@@ -31,7 +31,7 @@ jobs:
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         push-branch: 'master'
-        commit-message: 'Update sources'
+        commit-message: 'Update UniStore'
         force-add: 'false'
         files: unistore
         name: TWLBot
