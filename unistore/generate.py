@@ -144,7 +144,7 @@ for skin in files:
 				{
 					"type": "extractFile",
 					"file": "sdmc:/" + skinName + ".7z",
-					"input": skinName,
+					"input": skinName + "/",
 					"output": "sdmc:/" + skin[3:-3] + "/",
 					"message": "Extracting " + info["title"] if "title" in info else skinName + "..."
 				},
