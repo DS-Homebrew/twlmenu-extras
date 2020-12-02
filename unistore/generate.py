@@ -97,29 +97,40 @@ for skin in files:
 		continue
 
 	info = {}
-	icon = None
 	updated = datetime.datetime.utcfromtimestamp(0)
+	skinName = skin[skin.rfind("/")+1:-3]
+
 	with py7zr.SevenZipFile(skin) as a:
 		updated = lastUpdated(a)
 
-		meta = a.read(["meta/info.json", "meta/icon.png"])
-		if "meta/info.json" in meta:
-			info = json.load(meta["meta/info.json"])
-		if "meta/icon.png" in meta:
-			icon = Image.open(meta["meta/icon.png"])
+	if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "info.json")):
+		with open(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "info.json")) as file:
+			info = json.load(file)
 
 	if not "unistore_exclude" in info or info["unistore_exclude"] == False:
 		# Make icon for UniStore
-		if icon:
-			if not os.path.exists("temp"):
-				os.mkdir("temp")
+		iconExists = False
+		if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png")):
+			with Image.open(open(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png"), "rb")) as icon:
+				iconExists = True
+				if not os.path.exists("temp"):
+					os.mkdir("temp")
 
-			icon.thumbnail((48, 48))
-			icon.save(os.path.join("temp", str(iconIndex) + ".png"))
-			icons.append(str(iconIndex) + ".png")
-			iconIndex += 1
+				icon.thumbnail((48, 48))
+				icon.save(os.path.join("temp", str(iconIndex) + ".png"))
+				icons.append(str(iconIndex) + ".png")
+				iconIndex += 1
 
-		skinName = skin[skin.rfind("/")+1:-3]
+		screenshots = []
+		if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "screenshots")):
+			dirlist = os.listdir((os.path.join(skin[:skin.rfind("/")], "meta", skinName, "screenshots")))
+			dirlist.sort()
+			for screenshot in dirlist:
+				if screenshot[-3:] == "png":
+					screenshots.append({
+						"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[3:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/screenshots/" + screenshot,
+						"description": screenshot[:screenshot.rfind(".")].capitalize().replace("-", " ")
+					})
 
 		# Add entry to UniStore
 		unistore["storeContent"].append({
@@ -129,8 +140,9 @@ for skin in files:
 				"author": info["author"] if "author" in info else "",
 				"category": info["categories"] if "categories" in info else [],
 				"console": getTheme(skin),
-				"icon_index": len(icons) - 1 if icon else getDefaultIcon(skin),
+				"icon_index": len(icons) - 1 if iconExists else getDefaultIcon(skin),
 				"description": info["description"] if "description" in info else "",
+				"screenshots": screenshots,
 				"license": info["license"] if "license" in info else "",
 				"last_updated": updated.strftime("%Y-%m-%d at %H:%M (UTC)")
 			},
