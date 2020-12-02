@@ -15,5 +15,6 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 ## Theme Credits:
 - Pk11: 3DS Suicune skin and DSi Switch skins
 - TomRannd: simpleR4 skins
+- Vague Rant: Various GBA borders
 - Void: Dark 3DS skin
 - Vulpes-Vulpeos: Uploading a Pico-8 skin, a Monster Hunter Generations skin and a Nintendo DS-Like skin
