@@ -3,7 +3,7 @@ name: Update UniStore and pages
 on:
  push:
    branches: [ master ]
-   paths: [ unistore/generate.py, "_nds/TWiLightMenu/*menu/themes/*.7z", .github/workflows/update.yml ]
+   paths: [ generate.py, "_nds/TWiLightMenu/*menu/themes/*.7z", .github/workflows/update.yml ]
 
 jobs:
   run:
@@ -18,7 +18,7 @@ jobs:
         echo deb http://deb.debian.org/debian stable main contrib non-free >> /etc/apt/sources.list
         sudo apt-get update
         sudo apt-get install python3-pip -y
-        pip3 install -r unistore/requirements.txt
+        pip3 install -r requirements.txt
 
     - name: Run generate.py
       run: |
