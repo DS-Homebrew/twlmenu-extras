@@ -6,7 +6,7 @@ description: ''
 downloads:
   Snow hill:
     size: 94414
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/s/TWiLightMenu/r4menu/themes/Snow
+    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Snow
       hill.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png

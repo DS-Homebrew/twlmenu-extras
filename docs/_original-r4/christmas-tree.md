@@ -6,7 +6,7 @@ description: ''
 downloads:
   Christmas tree:
     size: 131649
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/s/TWiLightMenu/r4menu/themes/Christmas
+    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Christmas
       tree.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png

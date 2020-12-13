@@ -6,7 +6,7 @@ description: ''
 downloads:
   Blue moon:
     size: 51527
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/s/TWiLightMenu/r4menu/themes/Blue
+    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Blue
       moon.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png

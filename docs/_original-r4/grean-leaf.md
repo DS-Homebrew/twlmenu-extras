@@ -6,7 +6,7 @@ description: ''
 downloads:
   Grean leaf:
     size: 117093
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/s/TWiLightMenu/r4menu/themes/Grean
+    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Grean
       leaf.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png

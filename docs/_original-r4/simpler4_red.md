@@ -6,7 +6,7 @@ description: ''
 downloads:
   simpleR4_red:
     size: 8084
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/s/TWiLightMenu/r4menu/themes/simpleR4_red.7z
+    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/simpleR4_red.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
 last_updated: 2020-10-12 at 04:02 (UTC)

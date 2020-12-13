@@ -9,7 +9,7 @@ description: TWiLight Menu++'s default 3DS skin, light version
 downloads:
   light:
     size: 2359863
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/s/TWiLightMenu/3dsmenu/themes/light.7z
+    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/light.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/3ds.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/3ds.png
 last_updated: 2020-07-20 at 02:08 (UTC)
@@ -17,11 +17,11 @@ layout: app
 license: ''
 screenshots:
 - description: App list
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/s/TWiLightMenu/3dsmenu/themes/meta/light/screenshots/app-list.png
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/light/screenshots/app-list.png
 - description: Per game settings
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/s/TWiLightMenu/3dsmenu/themes/meta/light/screenshots/per-game-settings.png
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/light/screenshots/per-game-settings.png
 - description: Rotating cubes
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/s/TWiLightMenu/3dsmenu/themes/meta/light/screenshots/rotating-cubes.png
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/light/screenshots/rotating-cubes.png
 systems:
 - 3DS
 title: Default Light
