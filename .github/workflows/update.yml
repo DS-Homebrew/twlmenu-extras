@@ -32,6 +32,6 @@ jobs:
         push-branch: 'master'
         commit-message: 'Update UniStore and pages'
         force-add: 'false'
-        files: unistore
+        files: [unistore, docs]
         name: TWLBot
         email: flamekat54@aol.com 

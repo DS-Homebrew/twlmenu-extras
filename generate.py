@@ -125,11 +125,11 @@ for skin in files:
 		if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png")):
 			with Image.open(open(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png"), "rb")) as icon:
 				iconExists = True
-				if not os.path.exists("temp"):
-					os.mkdir("temp")
+				if not os.path.exists(os.path.join("unistore", "temp")):
+					os.mkdir(os.path.join("unistore", "temp"))
 
 				icon.thumbnail((48, 48))
-				icon.save(os.path.join("temp", str(iconIndex) + ".png"))
+				icon.save(os.path.join("unistore", "temp", str(iconIndex) + ".png"))
 				icons.append(str(iconIndex) + ".png")
 				iconIndex += 1
 
