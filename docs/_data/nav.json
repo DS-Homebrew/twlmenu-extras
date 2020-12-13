@@ -1,0 +1,18 @@
+[
+	{
+		"title": "Home",
+		"url": "/"
+	},
+	{
+		"title": "3DS",
+		"url": "/3ds"
+	},
+	{
+		"title": "DSi",
+		"url": "/dsi"
+	},
+	{
+		"title": "Original R4",
+		"url": "/original-r4"
+	}
+]

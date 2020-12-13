@@ -1,4 +1,4 @@
-name: Update UniStore
+name: Update UniStore and pages
 
 on:
  push:
@@ -23,7 +23,6 @@ jobs:
     - name: Run generate.py
       run: |
         export PATH=$PATH:/opt/devkitpro/tools/bin
-        cd unistore
         python3 generate.py ${{ secrets.GITHUB_TOKEN }}
 
     - name: Push changes
@@ -31,7 +30,7 @@ jobs:
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         push-branch: 'master'
-        commit-message: 'Update UniStore'
+        commit-message: 'Update UniStore and pages'
         force-add: 'false'
         files: unistore
         name: TWLBot

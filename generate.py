@@ -9,11 +9,23 @@ from PIL import Image, ImageDraw
 import py7zr
 import sys
 import urllib.parse
+import yaml
 
 # No py 2
 if(sys.version_info.major != 3):
 	print("This is Python %d!\nPlease use Python 3!" % sys.version_info.major)
 	exit()
+
+# Convert names to lowercase alphanumeric + underscore and hyphen
+def webName(name):
+	name = name.lower()
+	out = ""
+	for letter in name:
+		if letter in "abcdefghijklmnopqrstuvwxyz0123456789-_.":
+			out += letter
+		elif letter == " ":
+			out += "-"
+	return out
 
 def getTheme(path):
 	if "3dsmenu/" in path:
@@ -72,13 +84,13 @@ icons = []
 iconIndex = 0
 
 # Make 3DS, DSi, R4 icons
-for file in ["icons/3ds.png", "icons/dsi.png", "icons/r4.png"]:
-	with Image.open(open(file, "rb")) as icon:
-		if not os.path.exists("temp"):
-			os.mkdir("temp")
+for file in ["3ds.png", "dsi.png", "r4.png"]:
+	with Image.open(open(os.path.join("unistore", "icons", file), "rb")) as icon:
+		if not os.path.exists(os.path.join("unistore", "temp")):
+			os.path.join("unistore", "temp")
 
 		icon.thumbnail((48, 48))
-		icon.save(os.path.join("temp", str(iconIndex) + ".png"))
+		icon.save(os.path.join("unistore", "temp", str(iconIndex) + ".png"))
 		icons.append(str(iconIndex) + ".png")
 		iconIndex += 1
 
@@ -88,7 +100,7 @@ if len(sys.argv) > 1:
 	header = {"Authorization": "token " + sys.argv[1]}
 
 # Get skin files
-files = [f for f in glob.glob("../_nds/TWiLightMenu/*menu/themes/*.7z")]
+files = [f for f in glob.glob("_nds/TWiLightMenu/*menu/themes/*.7z")]
 
 # Generate UniStore entries
 for skin in files:
@@ -168,17 +180,45 @@ for skin in files:
 			]
 		})
 
+	# Website file
+	web = unistore["storeContent"][-1]["info"].copy()
+	web["layout"] = "app"
+	web["updated"] = updated.strftime("%Y-%m-%dT%H:%M:%SZ")
+	web["systems"] = [web["console"]]
+	web["downloads"] = {skinName: {
+		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[3:],
+		"size": os.path.getsize(skin)
+		}}
+	if web["icon_index"] != -1:
+		if web["icon_index"] < 3:
+			web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/" + ["3ds", "dsi", "r4", "ak"][web["icon_index"]] + ".png"
+		else:
+			web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[3:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/icon.png"
+		web["image"] = web["icon"]
+		web.pop("icon_index")
+	if "title" in web:
+		if not os.path.exists(os.path.join("docs", "_" + webName(web["console"]))):
+			os.mkdir(os.path.join("docs", "_" + webName(web["console"])))
+		with open(os.path.join("docs", "_" + webName(web["console"]), webName(web["title"]) + ".md"), "w", encoding="utf8") as file:
+			file.write("---\n" + yaml.dump(web) + "---\n")
+
+	for category in web["category"]:
+		if not os.path.exists(os.path.join("docs", webName(web["console"]))):
+			os.mkdir(os.path.join("docs", webName(web["console"])))
+		with open(os.path.join("docs", webName(web["console"]), category + ".md"), "w", encoding="utf8") as file:
+			file.write(f"---\nlayout: cards\ntitle: {getTheme(skin)} - {category}\nsystem: {webName(web['console'])}\ncategory: {category}\n---")
+
 # Make t3x
-with open(os.path.join("temp", "icons.t3s"), "w", encoding="utf8") as file:
+with open(os.path.join("unistore", "temp", "icons.t3s"), "w", encoding="utf8") as file:
 	file.write("--atlas -f rgba -z auto\n\n")
 	for icon in icons:
 		file.write(icon + "\n")
-os.system("tex3ds -i " + os.path.join("temp", "icons.t3s") + " -o " +"twlmenu-skins.t3x")
+os.system("tex3ds -i " + os.path.join("unistore", "temp", "icons.t3s") + " -o " + os.path.join("unistore", "twlmenu-skins.t3x"))
 
 # Increment revision if not the same
 if unistore != unistoreOld:
 	unistore["storeInfo"]["revision"] += 1
 
 # Write unistore to file
-with open("twlmenu-skins.unistore", "w", encoding="utf8") as file:
+with open(os.path.join("unistore", "twlmenu-skins.unistore"), "w", encoding="utf8") as file:
 	file.write(json.dumps(unistore, sort_keys=True))

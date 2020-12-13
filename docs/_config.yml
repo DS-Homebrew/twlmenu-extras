@@ -1,0 +1,15 @@
+title       : "TWiLight Menu++ skins"
+description : "A collection of skins for TWiLight Menu++ from DS-Homebrew/twlmenu-extras on GitHub"
+repo        : "DS-Homebrew/twlmenu-extras"
+color       : "#da4a53"
+image       : "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/dsi.png"
+
+collections:
+  3ds:
+    output: true
+  dsi:
+    output: true
+  original-r4:
+    output: true
+  # wood-ui:
+  #   output: true
