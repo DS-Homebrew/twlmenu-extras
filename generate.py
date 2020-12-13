@@ -87,7 +87,7 @@ iconIndex = 0
 for file in ["3ds.png", "dsi.png", "r4.png"]:
 	with Image.open(open(os.path.join("unistore", "icons", file), "rb")) as icon:
 		if not os.path.exists(os.path.join("unistore", "temp")):
-			os.path.join("unistore", "temp")
+			os.mkdir(os.path.join("unistore", "temp"))
 
 		icon.thumbnail((48, 48))
 		icon.save(os.path.join("unistore", "temp", str(iconIndex) + ".png"))
