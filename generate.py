@@ -140,7 +140,7 @@ for skin in files:
 			for screenshot in dirlist:
 				if screenshot[-3:] == "png":
 					screenshots.append({
-						"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[3:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/screenshots/" + screenshot,
+						"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/screenshots/" + screenshot,
 						"description": screenshot[:screenshot.rfind(".")].capitalize().replace("-", " ")
 					})
 
@@ -161,7 +161,7 @@ for skin in files:
 			info["title"] if "title" in info else skinName: [
 				{
 					"type": "downloadFile",
-					"file": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + urllib.parse.quote(skin[3:]),
+					"file": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + urllib.parse.quote(skin),
 					"output": "sdmc:/" + skinName + ".7z",
 					"message": "Downloading " + info["title"] if "title" in info else skinName + "..."
 				},
@@ -169,7 +169,7 @@ for skin in files:
 					"type": "extractFile",
 					"file": "sdmc:/" + skinName + ".7z",
 					"input": skinName + "/",
-					"output": "sdmc:/" + skin[3:-3] + "/",
+					"output": "sdmc:/" + skin[:-3] + "/",
 					"message": "Extracting " + info["title"] if "title" in info else skinName + "..."
 				},
 				{
@@ -186,14 +186,14 @@ for skin in files:
 	web["updated"] = updated.strftime("%Y-%m-%dT%H:%M:%SZ")
 	web["systems"] = [web["console"]]
 	web["downloads"] = {skinName: {
-		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[3:],
+		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin,
 		"size": os.path.getsize(skin)
 		}}
 	if web["icon_index"] != -1:
 		if web["icon_index"] < 3:
 			web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/" + ["3ds", "dsi", "r4", "ak"][web["icon_index"]] + ".png"
 		else:
-			web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[3:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/icon.png"
+			web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/icon.png"
 		web["image"] = web["icon"]
 		web.pop("icon_index")
 	if "title" in web:
