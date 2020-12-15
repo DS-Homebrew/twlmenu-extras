@@ -37,14 +37,14 @@
 							</div>
 						{% endif %}
 						
-						{% if page.system == "3ds" %}
-							{% assign cards = site["3ds"] %}
-						{% elsif page.system == "dsi" %}
-							{% assign cards = site.dsi %}
+						{% if page.system == "nintendo-3ds" %}
+							{% assign cards = site.nintendo-3ds %}
+						{% elsif page.system == "nintendo-dsi" %}
+							{% assign cards = site.nintendo-dsi %}
 						{% elsif page.system == "r4-original" %}
 							{% assign cards = site.r4-original %}
 						{% elsif page.title == "Home" %}
-							{% assign cards = site["3ds"] | concat: site.dsi | concat: site.r4-original | uniq %}
+							{% assign cards = site.nintendo-3ds | concat: site.nintendo-dsi | concat: site.r4-original | uniq %}
 						{% endif %}
 
 					{% assign cards = cards | sort: "updated" | reverse %}

@@ -29,11 +29,11 @@ def webName(name):
 
 def getTheme(path):
 	if "3dsmenu/" in path:
-		return "3DS"
+		return "Nintendo 3DS"
 	elif "akmenu/" in path:
 		return "Wood UI"
 	elif "dsimenu/" in path:
-		return "DSi"
+		return "Nintendo DSi"
 	elif "r4menu/" in path:
 		return "R4 Original"
 	return ""

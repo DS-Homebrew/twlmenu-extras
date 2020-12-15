@@ -5,9 +5,9 @@ color       : "#da4a53"
 image       : "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/dsi.png"
 
 collections:
-  3ds:
+  nintendo-3ds:
     output: true
-  dsi:
+  nintendo-dsi:
     output: true
   r4-original:
     output: true
