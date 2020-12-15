@@ -9,7 +9,7 @@ collections:
     output: true
   dsi:
     output: true
-  original-r4:
+  r4-original:
     output: true
   # wood-ui:
   #   output: true

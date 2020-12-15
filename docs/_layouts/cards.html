@@ -41,10 +41,10 @@
 							{% assign cards = site["3ds"] %}
 						{% elsif page.system == "dsi" %}
 							{% assign cards = site.dsi %}
-						{% elsif page.system == "original-r4" %}
-							{% assign cards = site.original-r4 %}
+						{% elsif page.system == "r4-original" %}
+							{% assign cards = site.r4-original %}
 						{% elsif page.title == "Home" %}
-							{% assign cards = site["3ds"] | concat: site.dsi | concat: site.original-r4 | uniq %}
+							{% assign cards = site["3ds"] | concat: site.dsi | concat: site.r4-original | uniq %}
 						{% endif %}
 
 					{% assign cards = cards | sort: "updated" | reverse %}

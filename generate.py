@@ -35,7 +35,7 @@ def getTheme(path):
 	elif "dsimenu/" in path:
 		return "DSi"
 	elif "r4menu/" in path:
-		return "Original R4"
+		return "R4 Original"
 	return ""
 
 def getDefaultIcon(path):

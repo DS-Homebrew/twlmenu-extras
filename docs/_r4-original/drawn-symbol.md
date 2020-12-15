@@ -1,7 +1,7 @@
 ---
 author: ''
 category: []
-console: Original R4
+console: R4 Original
 description: ''
 downloads:
   Drawn symbol:
@@ -15,7 +15,7 @@ layout: app
 license: ''
 screenshots: []
 systems:
-- Original R4
+- R4 Original
 title: Drawn symbol
 updated: '2020-10-12T04:02:53Z'
 version: v1.0.0

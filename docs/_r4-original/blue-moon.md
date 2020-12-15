@@ -1,12 +1,13 @@
 ---
 author: ''
 category: []
-console: Original R4
+console: R4 Original
 description: ''
 downloads:
-  simpleR4_red:
-    size: 8084
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/simpleR4_red.7z
+  Blue moon:
+    size: 51527
+    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Blue
+      moon.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
 last_updated: 2020-10-12 at 04:02 (UTC)
@@ -14,8 +15,8 @@ layout: app
 license: ''
 screenshots: []
 systems:
-- Original R4
-title: simpleR4_red
-updated: '2020-10-12T04:02:56Z'
+- R4 Original
+title: Blue moon
+updated: '2020-10-12T04:02:53Z'
 version: v1.0.0
 ---
