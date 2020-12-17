@@ -3,3 +3,7 @@ Thumbs.db
 
 unistore/temp
 *_site
+*.sass-cache
+*.jekyll-cache
+*.jekyll-metadata
+*Gemfile.lock
