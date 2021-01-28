@@ -2,5 +2,6 @@
 	"title": "Default Light",
 	"author": "RocketRobz",
 	"description": "TWiLight Menu++'s default 3DS skin, light version",
-	"categories": ["default", "light", "white"]
+	"categories": ["default", "light", "white"],
+	"version": "v1.0.1"
 }

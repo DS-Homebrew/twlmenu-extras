@@ -2,5 +2,6 @@
 	"title": "Default Yellow",
 	"author": "RocketRobz",
 	"description": "TWiLight Menu++'s default DSi skin in yellow",
-	"categories": ["default", "yellow"]
+	"categories": ["default", "yellow"],
+	"version": "v1.0.1"
 }

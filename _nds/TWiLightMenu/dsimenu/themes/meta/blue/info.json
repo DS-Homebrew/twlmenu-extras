@@ -2,5 +2,6 @@
 	"title": "Default Blue",
 	"author": "RocketRobz",
 	"description": "TWiLight Menu++'s default DSi skin in blue",
-	"categories": ["default", "blue"]
+	"categories": ["default", "blue"],
+	"version": "v1.0.1"
 }

@@ -2,5 +2,6 @@
 	"title": "Default Green",
 	"author": "RocketRobz",
 	"description": "TWiLight Menu++'s default DSi skin in green",
-	"categories": ["default", "green"]
+	"categories": ["default", "green"],
+	"version": "v1.0.1"
 }

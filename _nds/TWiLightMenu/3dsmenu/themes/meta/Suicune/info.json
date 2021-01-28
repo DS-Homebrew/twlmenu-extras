@@ -2,5 +2,6 @@
 	"title": "Pokémon - Suicune",
 	"author": "Pk11",
 	"description": "Minimalistic Suicune skin with Eusine's theme",
-	"categories": ["pokemon", "simple", "minimalist"]
+	"categories": ["pokemon", "simple", "minimalist"],
+	"version": "v1.0.1"
 }

@@ -2,5 +2,6 @@
 	"title": "Default White",
 	"author": "RocketRobz",
 	"description": "TWiLight Menu++'s default DSi skin in white",
-	"categories": ["default", "light", "white"]
+	"categories": ["default", "light", "white"],
+	"version": "v1.0.1"
 }
