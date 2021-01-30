@@ -1,5 +1,5 @@
 ---
 layout: cards
-title: DSi
+title: Nintendo DSi
 system: nintendo-dsi
 ---
