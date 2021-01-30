@@ -9,12 +9,12 @@ console: Nintendo DSi
 description: Simple skin designed after the Nintendo Switch's Basic Dark theme
 downloads:
   Switch - Basic Dark:
-    size: 9161
+    size: 9173
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Switch
       - Basic Dark.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Switch%20-%20Basic%20Dark/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Switch%20-%20Basic%20Dark/icon.png
-last_updated: 2020-11-24 at 00:24 (UTC)
+last_updated: 2021-01-28 at 04:08 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -27,6 +27,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Switch - Basic Dark
-updated: '2020-11-24T00:24:56Z'
-version: v1.1.0
+updated: '2021-01-28T04:08:37Z'
+version: v1.1.1
 ---

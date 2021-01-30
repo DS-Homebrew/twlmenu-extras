@@ -8,11 +8,11 @@ console: Nintendo 3DS
 description: Minimalistic Suicune skin with Eusine's theme
 downloads:
   Suicune:
-    size: 919107
+    size: 919286
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Suicune.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Suicune/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Suicune/icon.png
-last_updated: 2020-07-20 at 02:08 (UTC)
+last_updated: 2021-01-28 at 04:04 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -25,6 +25,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: "Pok\xE9mon - Suicune"
-updated: '2020-07-20T02:08:24Z'
-version: v1.0.0
+updated: '2021-01-28T04:04:29Z'
+version: v1.0.1
 ---

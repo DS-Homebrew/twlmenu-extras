@@ -11,7 +11,7 @@ downloads:
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/pink.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/pink/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/pink/icon.png
-last_updated: 2020-07-20 at 02:10 (UTC)
+last_updated: 2021-01-28 at 04:02 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -24,6 +24,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Default Pink
-updated: '2020-07-20T02:10:37Z'
-version: v1.0.0
+updated: '2021-01-28T04:02:30Z'
+version: v1.0.1
 ---
