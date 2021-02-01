@@ -15,7 +15,13 @@ image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/
 last_updated: 2021-01-31 at 17:20 (UTC)
 layout: app
 license: ''
-screenshots: []
+screenshots:
+- description: App list
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Windows%2095/screenshots/app-list.png
+- description: Per game settings
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Windows%2095/screenshots/per-game-settings.png
+- description: Select menu
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Windows%2095/screenshots/select-menu.png
 systems:
 - Nintendo DSi
 title: Windows 95
