@@ -1,5 +1,5 @@
-Pillow==7.2.0
-py7zr==0.11.0
+Pillow==8.1.2
+py7zr==0.14.1
 python-dateutil==2.8.1
-PyYAML==5.3.1
+PyYAML==5.4.1
 rfeed==1.1.1
