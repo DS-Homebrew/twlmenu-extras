@@ -50,7 +50,7 @@ layout: compress
 						{% elsif page.system == "unlaunch" %}
 							{% assign cards = site.unlaunch %}
 						{% elsif page.title == "Home" %}
-							{% assign cards = site.nintendo-3ds | concat: site.nintendo-dsi | concat: site.r4-original | uniq %}
+							{% assign cards = site.nintendo-3ds | concat: site.nintendo-dsi | concat: site.r4-original | concat: site.unlaunch | uniq %}
 						{% endif %}
 
 					{% assign cards = cards | sort: "updated" | reverse %}
@@ -59,8 +59,8 @@ layout: compress
 							{% for app in cards limit: page.limit %}
 								{% if page.category == Nil or app.categories contains page.category %}
 								<div class="col mb-3 {% if page.limit == 4 and forloop.index == 4 %}d-md-none d-xl-block{% endif %}">
-										<div class="card h-100" data-title="{{ app.title | escape}}" data-author="{{ app.author | escape}}" data-description="{{ app.description | escape }}" data-updated="{{ app.updated }}">
-											<a class="flex-grow-1" href="{{ app.url }}">
+										<div class="card h-100" data-title="{{ app.title | escape}}" data-author="{{ app.author | escape }}" data-description="{{ app.description | escape }}" data-updated="{{ app.updated }}">
+											<a class="flex-grow-1" href="{{ app.url | remove: ".html" }}">
 												{% if app.image %}
 													<div class="card-header card-image-header">
 														<img class="card-image" src="{{ app.image }}" alt="{{ app.title | escape }}">
@@ -70,7 +70,7 @@ layout: compress
 														<img class="card-image" src="{{ app.icon }}" alt="{{ app.title | escape }}">
 													</div>
 												{% endif %}
-												<div class="card-body" style="height: 100%;">
+												<div class="card-body">
 													<div>
 														<h4 class="card-title text-center {% if app.author %}mb-0{% endif %}">{{ app.title | escape }}</h4>
 														{% if app.author %}
