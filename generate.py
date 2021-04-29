@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import datetime
+import git
 import glob
 import io
 import json
@@ -36,6 +37,8 @@ def getTheme(path):
 		return "Nintendo DSi"
 	elif "r4menu/" in path:
 		return "R4 Original"
+	elif "unlaunch/" in path:
+		return "Unlaunch"
 	return ""
 
 def getDefaultIcon(path):
@@ -101,6 +104,7 @@ if len(sys.argv) > 1:
 
 # Get skin files
 files = [f for f in glob.glob("_nds/TWiLightMenu/*menu/themes/*.7z")]
+files += [f for f in glob.glob("_nds/TWiLightMenu/unlaunch/backgrounds/*.gif")]
 
 # Generate UniStore entries
 for skin in files:
@@ -110,54 +114,68 @@ for skin in files:
 
 	info = {}
 	updated = datetime.datetime.utcfromtimestamp(0)
-	skinName = skin[skin.rfind("/")+1:-3]
+	skinName = skin[skin.rfind("/")+1:skin.rfind(".")]
 
-	with py7zr.SevenZipFile(skin) as a:
-		updated = lastUpdated(a)
+	if skin[-2:] == "7z":
+		with py7zr.SevenZipFile(skin) as a:
+			updated = lastUpdated(a)
+	else:
+		updated = datetime.datetime.utcfromtimestamp(git.Repo(".").blame("HEAD", skin)[0][0].committed_date)
 
 	if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "info.json")):
 		with open(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "info.json")) as file:
 			info = json.load(file)
+	elif os.path.exists(os.path.join(skin[:skin.rfind("/")], "_meta.json")):
+		with open(os.path.join(skin[:skin.rfind("/")], "_meta.json")) as file:
+			j = json.load(file)
+			if skinName in j:
+				info = j[skinName]
 
-	if not "unistore_exclude" in info or info["unistore_exclude"] == False:
+	screenshots = []
+	if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "screenshots")):
+		dirlist = os.listdir((os.path.join(skin[:skin.rfind("/")], "meta", skinName, "screenshots")))
+		dirlist.sort()
+		for screenshot in dirlist:
+			if screenshot[-3:] == "png":
+				screenshots.append({
+					"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/screenshots/" + screenshot,
+					"description": screenshot[:screenshot.rfind(".")].capitalize().replace("-", " ")
+				})
+	elif skin[-3:] == "gif":
+		screenshots.append({
+			"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin,
+			"description": skinName.capitalize().replace("-", " ")
+		})
+
+	skinInfo = {
+		"title": info["title"] if "title" in info else skinName,
+		"version": info["version"] if "version" in info else "v1.0.0",
+		"author": info["author"] if "author" in info else "",
+		"category": info["categories"] if "categories" in info else [],
+		"console": getTheme(skin),
+		"icon_index": getDefaultIcon(skin),
+		"description": info["description"] if "description" in info else "",
+		"screenshots": screenshots,
+		"license": info["license"] if "license" in info else "",
+		"last_updated": updated.strftime("%Y-%m-%d at %H:%M (UTC)")
+	}
+
+	if (not "unistore_exclude" in info or info["unistore_exclude"] == False) and (not getTheme(skin) == "Unlaunch"):
 		# Make icon for UniStore
-		iconExists = False
 		if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png")):
 			with Image.open(open(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png"), "rb")) as icon:
-				iconExists = True
 				if not os.path.exists(os.path.join("unistore", "temp")):
 					os.mkdir(os.path.join("unistore", "temp"))
 
 				icon.thumbnail((48, 48))
 				icon.save(os.path.join("unistore", "temp", str(iconIndex) + ".png"))
 				icons.append(str(iconIndex) + ".png")
+				skinInfo["icon_index"] = iconIndex
 				iconIndex += 1
-
-		screenshots = []
-		if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "screenshots")):
-			dirlist = os.listdir((os.path.join(skin[:skin.rfind("/")], "meta", skinName, "screenshots")))
-			dirlist.sort()
-			for screenshot in dirlist:
-				if screenshot[-3:] == "png":
-					screenshots.append({
-						"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/screenshots/" + screenshot,
-						"description": screenshot[:screenshot.rfind(".")].capitalize().replace("-", " ")
-					})
 
 		# Add entry to UniStore
 		unistore["storeContent"].append({
-			"info": {
-				"title": info["title"] if "title" in info else skinName,
-				"version": info["version"] if "version" in info else "v1.0.0",
-				"author": info["author"] if "author" in info else "",
-				"category": info["categories"] if "categories" in info else [],
-				"console": getTheme(skin),
-				"icon_index": len(icons) - 1 if iconExists else getDefaultIcon(skin),
-				"description": info["description"] if "description" in info else "",
-				"screenshots": screenshots,
-				"license": info["license"] if "license" in info else "",
-				"last_updated": updated.strftime("%Y-%m-%d at %H:%M (UTC)")
-			},
+			"info": skinInfo,
 			info["title"] if "title" in info else skinName: [
 				{
 					"type": "downloadFile",
@@ -181,21 +199,22 @@ for skin in files:
 		})
 
 	# Website file
-	web = unistore["storeContent"][-1]["info"].copy()
+	web = skinInfo.copy()
 	web["layout"] = "app"
 	web["updated"] = updated.strftime("%Y-%m-%dT%H:%M:%SZ")
 	web["systems"] = [web["console"]]
-	web["downloads"] = {skinName: {
+	web["downloads"] = {skin[skin.rfind("/") + 1:]: {
 		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin,
 		"size": os.path.getsize(skin)
 		}}
-	if web["icon_index"] != -1:
-		if web["icon_index"] < 3:
-			web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/" + ["3ds", "dsi", "r4", "ak"][web["icon_index"]] + ".png"
-		else:
-			web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/icon.png"
-		web["image"] = web["icon"]
-		web.pop("icon_index")
+	if skin[-3:] == "gif":
+		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin
+	elif web["icon_index"] < 3:
+		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/" + ["3ds", "dsi", "r4", "ak"][web["icon_index"]] + ".png"
+	else:
+		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/icon.png"
+	web["image"] = web["icon"]
+	web.pop("icon_index")
 	if "title" in web:
 		if not os.path.exists(os.path.join("docs", "_" + webName(web["console"]))):
 			os.mkdir(os.path.join("docs", "_" + webName(web["console"])))

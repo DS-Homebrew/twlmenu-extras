@@ -1,0 +1,250 @@
+{
+	"aurora": {
+		"title": "Aurora",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"b-52_crash": {
+		"title": "B-52 Crash",
+		"author": "nocash",
+		"description": "Default bottom screen background in Unlaunch v1.5 - v1.7",
+		"categories": ["default"]
+	},
+	"bamboo": {
+		"title": "Bamboo",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"bars": {
+		"title": "Bars",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"beach": {
+		"title": "Beach",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"black": {
+		"title": "Black",
+		"author": "Pk11",
+		"description": "Just pure black",
+		"categories": ["simple"]
+	},
+	"boeing_b-50": {
+		"title": "Boeing B-50",
+		"author": "nocash",
+		"description": "Default top screen background in Unlaunch v1.5 - v1.7",
+		"categories": ["default"]
+	},
+	"bridge": {
+		"title": "Bridge",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"cave": {
+		"title": "Beach",
+		"author": "SleepyLark",
+		"categories": ["kirby"]
+	},
+	"circles": {
+		"title": "Circles",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"city": {
+		"title": "City",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"cork": {
+		"title": "Cork",
+		"author": "SleepyLark",
+		"categories": ["vista"]
+	},
+	"default": {
+		"title": "Vista Default",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"desert": {
+		"title": "Desert",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"field": {
+		"title": "Field",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"fish": {
+		"title": "Fish",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"flower": {
+		"title": "Flower",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"grass": {
+		"title": "grass",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"green": {
+		"title": "Grass",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"herzogin_cecilie": {
+		"title": "Herzogin Cecilie",
+		"author": "nocash",
+		"description": "Default bottom screen background until Unlaunch v1.5",
+		"categories": ["default"]
+	},
+	"king": {
+		"title": "King Dedede",
+		"author": "SleepyLark",
+		"categories": ["kirby"]
+	},
+	"knight": {
+		"title": "Meta Knight",
+		"author": "SleepyLark",
+		"categories": ["kirby"]
+	},
+	"leaf": {
+		"title": "Leaf",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"light": {
+		"title": "Light",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"logon": {
+		"title": "Log On",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"mario-bros": {
+		"title": "Mario Bros.",
+		"author": "SleepyLark",
+		"categories": ["mario"]
+	},
+	"mario": {
+		"title": "Mario",
+		"author": "SleepyLark",
+		"categories": ["mario"]
+	},
+	"mojave_gray": {
+		"title": "Mojave (Gray)",
+		"author": "Pk11",
+		"description": "macOS Mojave's default background in grayscale",
+		"categories": ["macos"]
+	},
+	"mojave": {
+		"title": "Mojave",
+		"author": "Pk11",
+		"description": "macOS Mojave's default background",
+		"categories": ["macos"]
+	},
+	"mountain": {
+		"title": "Mountain",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"palm": {
+		"title": "Palm",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"people": {
+		"title": "People",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"purple": {
+		"title": "Purple",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"river": {
+		"title": "River",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"rocks": {
+		"title": "Rocks",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"safari-pink": {
+		"title": "Safari Pink",
+		"author": "Pk11",
+		"description": "Pink new tab background from Safari 14",
+		"categories": ["macos"]
+	},
+	"school": {
+		"title": "School",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"seats": {
+		"title": "Seats",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"sky": {
+		"title": "Sky",
+		"author": "SleepyLark",
+		"categories": ["kirby"]
+	},
+	"stars": {
+		"title": "Stars",
+		"author": "SleepyLark",
+		"categories": ["kirby"]
+	},
+	"sunset": {
+		"title": "Sunset",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"sweet": {
+		"title": "Sweet",
+		"author": "SleepyLark",
+		"categories": ["kirby"]
+	},
+	"tree": {
+		"title": "Tree",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"twig": {
+		"title": "Twig",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"vangogh": {
+		"title": "Vangogh",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"wind": {
+		"title": "Wind",
+		"author": "SleepyLark",
+		"categories": ["kirby"]
+	},
+	"wood": {
+		"title": "Wood",
+		"author": "SNBeast",
+		"categories": ["vista"]
+	},
+	"yosemite-3": {
+		"title": "Yosemite 3",
+		"author": "Pk11",
+		"description": "A default background of macOS Yosemite",
+		"categories": ["macos"]
+	}
+}

@@ -47,6 +47,8 @@ layout: compress
 							{% assign cards = site.nintendo-dsi %}
 						{% elsif page.system == "r4-original" %}
 							{% assign cards = site.r4-original %}
+						{% elsif page.system == "unlaunch" %}
+							{% assign cards = site.unlaunch %}
 						{% elsif page.title == "Home" %}
 							{% assign cards = site.nintendo-3ds | concat: site.nintendo-dsi | concat: site.r4-original | uniq %}
 						{% endif %}
