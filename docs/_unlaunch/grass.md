@@ -19,7 +19,7 @@ screenshots:
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/unlaunch/backgrounds/grass.gif
 systems:
 - Unlaunch
-title: grass
+title: Grass
 updated: '2020-10-27T05:38:59Z'
 version: v1.0.0
 ---
