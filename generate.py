@@ -120,7 +120,9 @@ for skin in files:
 		with py7zr.SevenZipFile(skin) as a:
 			updated = lastUpdated(a)
 	else:
-		updated = datetime.datetime.utcfromtimestamp(git.Repo(".").blame("HEAD", skin)[0][0].committed_date)
+		updated = datetime.datetime.utcfromtimestamp(int(git.Repo(".").git.log(["-n1", "--pretty=format:%ct", "--", skin])))
+
+	created = datetime.datetime.utcfromtimestamp(int(git.Repo(".").git.log(["--pretty=format:%ct", "--", skin]).split("\n")[-1]))
 
 	if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "info.json")):
 		with open(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "info.json")) as file:
@@ -201,6 +203,7 @@ for skin in files:
 	# Website file
 	web = skinInfo.copy()
 	web["layout"] = "app"
+	web["created"] = created.strftime("%Y-%m-%dT%H:%M:%SZ")
 	web["updated"] = updated.strftime("%Y-%m-%dT%H:%M:%SZ")
 	web["systems"] = [web["console"]]
 	web["downloads"] = {skin[skin.rfind("/") + 1:]: {
