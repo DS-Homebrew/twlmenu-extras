@@ -3,6 +3,7 @@ author: Pk11
 category:
 - macos
 console: Unlaunch
+created: '2020-10-27T05:38:59Z'
 description: macOS Mojave's default background in grayscale
 downloads:
   mojave_gray.gif:

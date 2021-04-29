@@ -5,6 +5,7 @@ category:
 - light
 - white
 console: Nintendo 3DS
+created: '2020-06-01T23:44:11Z'
 description: TWiLight Menu++'s default 3DS skin, light version
 downloads:
   light.7z:

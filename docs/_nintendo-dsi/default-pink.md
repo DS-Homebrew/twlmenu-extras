@@ -4,6 +4,7 @@ category:
 - default
 - pink
 console: Nintendo DSi
+created: '2020-06-01T23:44:11Z'
 description: TWiLight Menu++'s default DSi skin in pink
 downloads:
   pink.7z:

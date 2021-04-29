@@ -4,6 +4,7 @@ category:
 - light
 - simple
 console: Nintendo DSi
+created: '2021-02-01T20:13:12Z'
 description: A Windows 95 skin for DSi.
 downloads:
   Windows 95.7z:

@@ -3,6 +3,7 @@ author: Pk11
 category:
 - macos
 console: Unlaunch
+created: '2020-10-27T23:08:44Z'
 description: A default background of macOS Yosemite
 downloads:
   yosemite-3.gif:

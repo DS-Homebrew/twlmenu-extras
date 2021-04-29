@@ -5,6 +5,7 @@ category:
 - simple
 - minimalist
 console: Nintendo 3DS
+created: '2020-06-01T23:44:11Z'
 description: Minimalistic Suicune skin with Eusine's theme
 downloads:
   Suicune.7z:

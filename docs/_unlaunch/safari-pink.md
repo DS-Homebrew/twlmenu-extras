@@ -3,6 +3,7 @@ author: Pk11
 category:
 - macos
 console: Unlaunch
+created: '2020-10-27T23:08:44Z'
 description: Pink new tab background from Safari 14
 downloads:
   safari-pink.gif:
