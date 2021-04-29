@@ -6,7 +6,7 @@ category:
 console: Nintendo DSi
 description: TWiLight Menu++'s default DSi skin in red
 downloads:
-  red:
+  red.7z:
     size: 18146
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/red.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/red/icon.png

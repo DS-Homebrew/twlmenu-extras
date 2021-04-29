@@ -4,7 +4,7 @@ category: []
 console: R4 Original
 description: ''
 downloads:
-  Cherry blossoms:
+  Cherry blossoms.7z:
     size: 181965
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Cherry
       blossoms.7z

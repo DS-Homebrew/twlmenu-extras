@@ -7,7 +7,7 @@ category:
 console: Nintendo 3DS
 description: TWiLight Menu++'s default 3DS skin, light version
 downloads:
-  light:
+  light.7z:
     size: 2360183
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/light.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/3ds.png

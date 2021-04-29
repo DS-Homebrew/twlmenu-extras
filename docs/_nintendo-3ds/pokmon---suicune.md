@@ -7,7 +7,7 @@ category:
 console: Nintendo 3DS
 description: Minimalistic Suicune skin with Eusine's theme
 downloads:
-  Suicune:
+  Suicune.7z:
     size: 919286
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Suicune.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Suicune/icon.png

@@ -6,7 +6,7 @@ category:
 console: Nintendo DSi
 description: A Windows 95 skin for DSi.
 downloads:
-  Windows 95:
+  Windows 95.7z:
     size: 360209
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Windows
       95.7z

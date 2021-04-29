@@ -4,7 +4,7 @@ category: []
 console: R4 Original
 description: ''
 downloads:
-  Fall trees:
+  Fall trees.7z:
     size: 159808
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Fall
       trees.7z

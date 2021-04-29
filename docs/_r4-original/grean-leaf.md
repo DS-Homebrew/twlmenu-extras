@@ -4,7 +4,7 @@ category: []
 console: R4 Original
 description: ''
 downloads:
-  Grean leaf:
+  Grean leaf.7z:
     size: 117093
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Grean
       leaf.7z

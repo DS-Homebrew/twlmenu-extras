@@ -6,7 +6,7 @@ category:
 console: Nintendo DSi
 description: TWiLight Menu++'s default DSi skin in green
 downloads:
-  green:
+  green.7z:
     size: 18788
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/green.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/green/icon.png

@@ -7,7 +7,7 @@ category:
 console: Nintendo 3DS
 description: TWiLight Menu++'s default 3DS skin, dark version
 downloads:
-  dark:
+  dark.7z:
     size: 33187
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/dark.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/dark/icon.png

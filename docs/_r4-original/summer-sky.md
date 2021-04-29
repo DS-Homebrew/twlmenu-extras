@@ -4,7 +4,7 @@ category: []
 console: R4 Original
 description: ''
 downloads:
-  Summer sky:
+  Summer sky.7z:
     size: 85872
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Summer
       sky.7z

@@ -8,7 +8,7 @@ category:
 console: Nintendo DSi
 description: Simple skin designed after the Nintendo Switch's Basic Light theme
 downloads:
-  Switch - Basic Light:
+  Switch - Basic Light.7z:
     size: 9183
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Switch
       - Basic Light.7z

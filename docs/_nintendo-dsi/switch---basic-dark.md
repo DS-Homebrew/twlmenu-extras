@@ -8,7 +8,7 @@ category:
 console: Nintendo DSi
 description: Simple skin designed after the Nintendo Switch's Basic Dark theme
 downloads:
-  Switch - Basic Dark:
+  Switch - Basic Dark.7z:
     size: 9173
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Switch
       - Basic Dark.7z

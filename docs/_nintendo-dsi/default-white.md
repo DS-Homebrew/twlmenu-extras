@@ -7,7 +7,7 @@ category:
 console: Nintendo DSi
 description: TWiLight Menu++'s default DSi skin in white
 downloads:
-  white:
+  white.7z:
     size: 18279
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/white.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/dsi.png

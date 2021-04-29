@@ -4,7 +4,7 @@ category: []
 console: R4 Original
 description: ''
 downloads:
-  Drawn symbol:
+  Drawn symbol.7z:
     size: 37982
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Drawn
       symbol.7z

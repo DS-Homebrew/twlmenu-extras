@@ -4,7 +4,7 @@ category: []
 console: R4 Original
 description: ''
 downloads:
-  simpleR4_red:
+  simpleR4_red.7z:
     size: 8084
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/simpleR4_red.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
