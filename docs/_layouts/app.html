@@ -92,7 +92,7 @@ layout: compress
 												{% endif %}
 											{% endfor %}
 											<span class="text-nowrap">
-												<a class="btn btn-primary m-1 {% if itemQR %}btn-with-qr{% endif %}" href="{{ item[1].url }}">Download {{ item[0] }}</a>
+												<a class="btn btn-primary m-1 {% if itemQR %}btn-with-qr{% endif %}" href="{{ item[1].url }}" download>Download {{ item[0] }}</a>
 												{% if itemQR %}
 													<a class="btn btn-primary qr-link btn-qr" href="{{ itemQR[1] }}" role="button" data-bs-toggle="modal" data-bs-target="#modal" data-name="{{ itemQR[0] }}" data-path="{{ itemQR[1] }}">
 														<i class="fa fa-qrcode" aria-hidden="true"></i>
@@ -131,7 +131,7 @@ layout: compress
 													{% endif %}
 												{% endfor %}
 												<span class="text-nowrap">
-													<a class="btn btn-secondary m-1 {% if itemQR %}btn-with-qr{% endif %}" href="{{ item[1].url }}">Download {{ item[0] }}</a>
+													<a class="btn btn-secondary m-1 {% if itemQR %}btn-with-qr{% endif %}" href="{{ item[1].url }}" download>Download {{ item[0] }}</a>
 													{% if itemQR %}
 														<a class="btn btn-secondary qr-link btn-qr" href="{{ itemQR[1] }}" role="button" data-bs-toggle="modal" data-bs-target="#modal" data-name="{{ itemQR[0] }}" data-path="{{ itemQR[1] }}">
 															<i class="fa fa-qrcode" aria-hidden="true"></i>
@@ -171,7 +171,7 @@ layout: compress
 													{% endif %}
 												{% endfor %}
 												<span class="text-nowrap">
-													<a class="btn btn-dark m-1 {% if itemQR %}btn-with-qr{% endif %}" href="{{ item[1].url }}">Download {{ item[0] }}</a>
+													<a class="btn btn-dark m-1 {% if itemQR %}btn-with-qr{% endif %}" href="{{ item[1].url }}" download>Download {{ item[0] }}</a>
 													{% if itemQR %}
 														<a class="btn btn-dark qr-link btn-qr" href="{{ itemQR[1] }}" role="button" data-bs-toggle="modal" data-bs-target="#modal" data-name="{{ itemQR[0] }}" data-path="{{ itemQR[1] }}">
 															<i class="fa fa-qrcode" aria-hidden="true"></i>
