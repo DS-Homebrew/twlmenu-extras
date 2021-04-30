@@ -225,10 +225,10 @@ for skin in files:
 			file.write("---\n" + yaml.dump(web) + "---\n")
 
 	for category in web["category"]:
-		if not os.path.exists(os.path.join("docs", webName(web["console"]))):
-			os.mkdir(os.path.join("docs", webName(web["console"])))
-		with open(os.path.join("docs", webName(web["console"]), category + ".md"), "w", encoding="utf8") as file:
-			file.write(f"---\nlayout: cards\ntitle: {getTheme(skin)} - {category}\nsystem: {webName(web['console'])}\ncategory: {category}\n---")
+		if not os.path.exists(os.path.join("docs", webName(web["console"]), "category")):
+			os.makedirs(os.path.join("docs", webName(web["console"]), "category"))
+		with open(os.path.join("docs", webName(web["console"]), "category", category + ".md"), "w", encoding="utf8") as file:
+			file.write(f"---\nlayout: cards\ntitle: {getTheme(skin)} - {category}\nsystem: {webName(web['console'])}\ncategory: {category}\n---\n")
 
 # Make t3x
 with open(os.path.join("unistore", "temp", "icons.t3s"), "w", encoding="utf8") as file:

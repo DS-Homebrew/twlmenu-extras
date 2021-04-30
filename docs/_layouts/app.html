@@ -47,13 +47,13 @@ layout: compress
 										<small class="text-muted">
 											Theme:
 											{% for system in page.systems %}
-												<a href="/{{ system }}">{{ system }}</a>{% if forloop.last == false %},{% endif %}
+												<a href="/{{ system | downcase | replace: " ", "-" }}">{{ system }}</a>{% if forloop.last == false %},{% endif %}
 											{% endfor %}
 											{% if page.categories %}
 												<br>
 												Categories:
 												{% for category in page.categories %}
-													<a href="/{{ page.collection }}/{{ category }}">{{ category }}</a>{% if forloop.last == false %},{% endif %}
+													<a href="/{{ page.collection }}/category/{{ category }}">{{ category }}</a>{% if forloop.last == false %},{% endif %}
 												{% endfor %}
 											{% endif %}
 											{% if page.created != "---" %}
