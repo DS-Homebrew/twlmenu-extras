@@ -1,5 +1,5 @@
-# TWiLightMenu++ Extras
-This is a repository to host extra files for TWiLightMenu++
+# TWiLight Menu++ Extras
+This is a repository to host extra files for TWiLight Menu++
 
 ## UniStore
 Scan this QR code in Universal-Updater to add a UniStore with these skins for easy installation:
