@@ -30,6 +30,11 @@
 		"author": "Pk11",
 		"description": "Just pure black",
 		"categories": ["simple"]
+	"bliss": {
+		"title": "Bliss",
+		"author": "spellboundtriangle",
+		"description": "Based on Windows XP",
+		"categories": ["windows"]
 	},
 	"boeing_b-50": {
 		"title": "Boeing B-50",
@@ -131,6 +136,10 @@
 	"mario-bros": {
 		"title": "Mario Bros.",
 		"author": "SleepyLark",
+		"categories": ["mario"]
+	"mkds": {
+		"title": "Mario Kart DS",
+		"author": "spellboundtriangle",
 		"categories": ["mario"]
 	},
 	"mario": {
