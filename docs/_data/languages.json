@@ -55,12 +55,7 @@
 		"dir": "ltr",
 		"crowdin": "pl"
 	},
-	"Português (Brasil)": {
-		"id": "pt-BR",
-		"dir": "ltr",
-		"crowdin": "pt"
-	},
-	"Português (Portugal)": {
+	"Português": {
 		"id": "pt-PT",
 		"dir": "ltr",
 		"crowdin": "pt"
@@ -86,6 +81,31 @@
 	},
 	"中文 (繁體)": {
 		"id": "zh-TW",
+		"dir": "ltr"
+	},
+	"Crowdin In-Context": {
+		"id": "ic-IC",
+		"dir": "ltr",
+		"hide": true
+	},
+	"Bahasa Indonesia": {
+		"id": "id-ID",
+		"dir": "ltr"
+	},
+	"Nederlands": {
+		"id": "nl-NL",
+		"dir": "ltr"
+	},
+	"Ελληνικά": {
+		"id": "el-EL",
+		"dir": "ltr"
+	},
+	"Svenska": {
+		"id": "sv-SE",
+		"dir": "ltr"
+	},
+	"Norsk": {
+		"id": "no-NO",
 		"dir": "ltr"
 	}
 }

@@ -38,7 +38,7 @@ function loadHead(lang) {
 	}
 
 	if(languageID == "ic-IC") {
-		_jipt.push(['project', 'universal-db']);
+		_jipt.push(['project', 'ds-homebrew-wiki']);
 		_jipt.push(['escape', function() {
 			delete localStorage.language;
 			location.reload();
@@ -99,7 +99,7 @@ function loadLang(initing) {
 		}
 	}
 
-	document.getElementById("translate-on-crowdin").href = `https://${i18n[languageID].crowdin || "www"}.crowdin.com/project/universal-db`;
+	document.getElementById("translate-on-crowdin").href = `https://${i18n[languageID].crowdin || "www"}.crowdin.com/project/ds-homebrew-wiki`;
 }
 
 function getLang() {

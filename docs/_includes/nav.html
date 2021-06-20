@@ -40,12 +40,14 @@
 					{% assign languages = site.data.languages | sort %}
 					{% for item in languages %}
 						{% if site.data.i18n contains item[1].id %}
-							<li><a class="dropdown-item {% if item[1].id == "en-US" %}active{% endif %}" href="javascript:setLang('{{ item[1].id }}')" lang="{{ item[1].proper-id | default: item[1].id }}" data-lang="{{ item[1].id }}" dir="{{ item[1].dir }}">{{ item[0] }}</a></li>
+							{% unless item[1].hide %}
+								<li><a class="dropdown-item {% if item[1].id == "en-US" %}active{% endif %}" href="javascript:setLang('{{ item[1].id }}')" lang="{{ item[1].proper-id | default: item[1].id }}" data-lang="{{ item[1].id }}" dir="{{ item[1].dir }}">{{ item[0] }}</a></li>
+							{% endunless %}
 						{% endif %}
 					{% endfor %}
-					<!-- <li><hr class="dropdown-divider"></li> -->
-					<!-- <li><a class="dropdown-item i18n innerHTML-translate-here" href="javascript:setLang('ic-IC')" accesskey="t">Translate here</a></li> -->
-					<!-- <li><a id="translate-on-crowdin" class="dropdown-item i18n innerHTML-translate-on-crowdin" href="https://crowdin.com/project/TODO" accesskey="c">Translate on Crowdin</a></li> -->
+					<li><hr class="dropdown-divider"></li>
+					<li><a class="dropdown-item i18n innerHTML-translate-here" href="javascript:setLang('ic-IC')" accesskey="t">Translate here</a></li>
+					<li><a id="translate-on-crowdin" class="dropdown-item i18n innerHTML-translate-on-crowdin" href="https://crowdin.com/project/ds-homebrew-wiki" accesskey="c">Translate on Crowdin</a></li>
 				</ul>
 			</div>
 		</div>
