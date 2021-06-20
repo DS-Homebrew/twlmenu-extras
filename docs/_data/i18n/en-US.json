@@ -72,8 +72,8 @@
 	"previous": "Previous",
 	"next": "Next",
 	"welcome": "TWiLight Menu++ Skins!",
-	"home-1": "Here you can find all the skins for TWiLight Menu++ from the [DS-Homebrew/twlmenu-extras](https://github.com/DS-Homebrew/twlmenu-extras) repository.",
-	"home-2": "To make your own skins, there's a [wiki page on how to make Nintendo DSi / Nintendo 3DS skins](https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins). For Original R4 skins simply edit the images from an existing skin.",
-	"home-3": "If you want your skin added here, make a pull request on the GitHub repository or send it and ask on the [DS⁽ⁱ⁾ Mode Hacking Discord server](https://discord.gg/yD3spjv).",
+	"home-1": "Here you can find all the skins for TWiLight Menu++ from the <a href=\"https://github.com/DS-Homebrew/twlmenu-extras\">DS-Homebrew/twlmenu-extras</a> repository.",
+	"home-2": "To make your own skins, there's a <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\">wiki page on how to make Nintendo DSi / Nintendo 3DS skins</a>. For Original R4 skins simply edit the images from an existing skin.",
+	"home-3": "If you want your skin added here, make a pull request on the GitHub repository or send it and ask on the <a href=\"https://discord.gg/yD3spjv\">DS⁽ⁱ⁾ Mode Hacking Discord server</a>.",
 	"last-updated-skins": "Last updated: "
 }
