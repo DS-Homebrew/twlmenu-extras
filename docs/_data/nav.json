@@ -5,18 +5,23 @@
 	},
 	{
 		"title": "Nintendo 3DS",
-		"url": "/nintendo-3ds"
+		"url": "/nintendo-3ds",
+		"key": "3"
 	},
 	{
 		"title": "Nintendo DSi",
-		"url": "/nintendo-dsi"
+		"url": "/nintendo-dsi",
+		"key": "i"
 	},
 	{
 		"title": "R4 Original",
-		"url": "/r4-original"
+		"url": "/r4-original",
+		"key": "r"
 	},
 	{
 		"title": "Unlaunch Backgrounds",
-		"url": "/unlaunch"
+		"system-title": "Unlaunch",
+		"url": "/unlaunch",
+		"key": "u"
 	}
 ]

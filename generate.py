@@ -38,7 +38,7 @@ def getTheme(path):
 	elif "r4menu/" in path:
 		return "R4 Original"
 	elif "unlaunch/" in path:
-		return "Unlaunch"
+		return "Unlaunch Backgrounds"
 	return ""
 
 def getDefaultIcon(path):

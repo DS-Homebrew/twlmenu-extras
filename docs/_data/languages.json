@@ -1,0 +1,91 @@
+{
+	"Dansk": {
+		"id": "da-DK",
+		"dir": "ltr",
+		"crowdin": "da"
+	},
+	"Deutsch": {
+		"id": "de-DE",
+		"dir": "ltr",
+		"crowdin": "de"
+	},
+	"English": {
+		"id": "en-US",
+		"dir": "ltr"
+	},
+	"Español": {
+		"id": "es-ES",
+		"dir": "ltr",
+		"crowdin": "es"
+	},
+	"Français": {
+		"id": "fr-FR",
+		"dir": "ltr",
+		"crowdin": "fr"
+	},
+	"עברית": {
+		"id": "he-IL",
+		"dir": "rtl"
+	},
+	"Magyar": {
+		"id": "hu-HU",
+		"dir": "ltr",
+		"crowdin": "hu"
+	},
+	"Italiano": {
+		"id": "it-IT",
+		"dir": "ltr",
+		"crowdin": "it"
+	},
+	"日本語": {
+		"id": "ja-JP",
+		"dir": "ltr",
+		"crowdin": "ja"
+	},
+	"한국어": {
+		"id": "ko-KR",
+		"dir": "ltr"
+	},
+	"Lietuvių": {
+		"id": "lt-LT",
+		"dir": "ltr"
+	},
+	"Polski": {
+		"id": "pl-PL",
+		"dir": "ltr",
+		"crowdin": "pl"
+	},
+	"Português (Brasil)": {
+		"id": "pt-BR",
+		"dir": "ltr",
+		"crowdin": "pt"
+	},
+	"Português (Portugal)": {
+		"id": "pt-PT",
+		"dir": "ltr",
+		"crowdin": "pt"
+	},
+	"Русский": {
+		"id": "ru-RU",
+		"dir": "ltr",
+		"crowdin": "ru"
+	},
+	"Türkçe": {
+		"id": "tr-TR",
+		"dir": "ltr",
+		"crowdin": "tr"
+	},
+	"Украïнська": {
+		"id": "uk-UA",
+		"dir": "ltr",
+		"crowdin": "uk"
+	},
+	"中文 (简体)": {
+		"id": "zh-CN",
+		"dir": "ltr"
+	},
+	"中文 (繁體)": {
+		"id": "zh-TW",
+		"dir": "ltr"
+	}
+}

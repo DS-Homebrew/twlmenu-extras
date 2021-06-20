@@ -19,24 +19,25 @@ layout: compress
 						{{ content }}
 
 						{% if page.description %}
-							<div class="alert alert-secondary mb-4">
+							<div class="alert alert-secondary mb-4 i18n innerHTML-catdesc-{{ page.category }}">
 								{{ page.description | escape }}
 							</div>
 						{% endif %}
 						
 						{% if page.system %}
-							<div class="d-none script-show">
+							<div class="d-none">
+								{% include script-show.html %}
 								<div class="mb-3">
-									Sort:
-									<button id="sort-title" class="btn btn-outline-secondary" onclick="sort('title')">Title</button>
-									<button id="sort-author" class="btn btn-outline-secondary" onclick="sort('author')">Author</button>
-									<button id="sort-description" class="btn btn-outline-secondary" onclick="sort('description')">Description</button>
-									<button id="sort-updated" class="btn btn-outline-secondary" onclick="sort('updated')">Date Updated</button>
-									<button id="sort-direction" class="btn btn-outline-secondary float-right" onclick="toggleSortDirection()">Ascending</button>
+									<span class="i18n innerHTML-sort">Sort:</span>
+									<button id="sort-title" class="btn btn-outline-secondary i18n innerHTML-title" onclick="sort('title')">Title</button>
+									<button id="sort-author" class="btn btn-outline-secondary i18n innerHTML-author" onclick="sort('author')">Author</button>
+									<button id="sort-description" class="btn btn-outline-secondary i18n innerHTML-description" onclick="sort('description')">Description</button>
+									<button id="sort-updated" class="btn btn-outline-secondary i18n innerHTML-date-updated" onclick="sort('updated')">Date Updated</button>
+									<button id="sort-direction" class="btn btn-outline-secondary float-end i18n innerHTML-ascending data-ascending-ascending data-descending-descending" onclick="toggleSortDirection()" data-ascending="Ascending" data-descending="Descending">Ascending</button>
 								</div>
 								<div class="input-group mb-3">
-										<label for="search" class="input-group-text">Search:</label>
-									<input id="search" class="form-control" type="text" placeholder="Search by title or description" onkeyup="search(event.srcElement.value);">
+									<label for="search" class="input-group-text i18n innerHTML-search">Search:</label>
+									<input id="search" class="form-control i18n placeholder-search-by-title-desc" type="text" placeholder="Search by title or description" onkeyup="search(event.srcElement.value);" accesskey="/">
 								</div>
 							</div>
 						{% endif %}
@@ -53,24 +54,24 @@ layout: compress
 							{% assign cards = site.nintendo-3ds | concat: site.nintendo-dsi | concat: site.r4-original | concat: site.unlaunch | uniq %}
 						{% endif %}
 
-					{% assign cards = cards | sort: "updated" | reverse %}
+						{% assign cards = cards | sort: "updated" | reverse %}
 
 						<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-4" id="card-container">
 							{% for app in cards limit: page.limit %}
 								{% if page.category == Nil or app.categories contains page.category %}
-								<div class="col mb-3 {% if page.limit == 4 and forloop.index == 4 %}d-md-none d-xl-block{% endif %}">
-										<div class="card h-100" data-title="{{ app.title | escape}}" data-author="{{ app.author | escape }}" data-description="{{ app.description | escape }}" data-updated="{{ app.updated }}">
+									<div class="col mb-3 {% if page.limit == 4 and forloop.index == 4 %}d-md-none d-xl-block{% endif %}">
+										<div class="card h-100" data-title="{{ app.title | escape}}" data-author="{{ app.author | escape}}" data-description="{{ app.description | escape }}" data-updated="{{ app.updated }}">
 											<a class="flex-grow-1" href="{{ app.url | remove: ".html" }}">
 												{% if app.image %}
 													<div class="card-header card-image-header">
-														<img class="card-image" src="{{ app.image }}" alt="{{ app.title | escape }}">
+														<img class="card-image" src="{{ app.image }}" alt="{{ app.title | escape }}" loading="lazy">
 													</div>
 												{% else if app.icon %}
 													<div class="card-header card-image-header">
-														<img class="card-image" src="{{ app.icon }}" alt="{{ app.title | escape }}">
+														<img class="card-image" src="{{ app.icon }}" alt="{{ app.title | escape }}" loading="lazy">
 													</div>
 												{% endif %}
-												<div class="card-body">
+												<div class="card-body" dir="ltr">
 													<div>
 														<h4 class="card-title text-center {% if app.author %}mb-0{% endif %}">{{ app.title | escape }}</h4>
 														{% if app.author %}
@@ -80,36 +81,36 @@ layout: compress
 													</div>
 												</div>
 											</a>
-											{% if app.version or app.qr.size == 1 %}
+											{% if app.version or app.qr.size == 1 or app.prerelease.qr.size == 1 %}
 												<div class="card-footer b-0">
-													<div class="row">
-														<div class="{% if app.qr.size == 1 %}col-10{% else %}col-12{% endif %}">
-															<small class="text-muted">
-																{% unless page.system %}
-																	Theme: {{ app.systems | join: ", "}}
-																	<br>
-																{% endunless %}
-																{% if app.version %}
-																	Version: {{ app.version }}
-																{% endif %}
-																{% if app.updated != "---" %}
-																	{% if app.version %}<br>{% endif %}
-																	Last updated: <time datetime="{{ app.updated }}" title="{{ app.updated | date: '%Y-%m-%d at %H:%M' }}">{{ app.updated | date: "%Y-%m-%d" }}</time>
-																{% endif %}
-															</small>
-														</div>
-														<div class="col-2">
-															{% if app.qr.size == 1 %}
-																{% for qr in app.qr %}
-																	<p class="text-right">
-																		<a class="qr-link" href="{{ qr[1] }}" role="button" data-bs-toggle="modal" data-bs-target="#modal" data-name="{{ qr[0] }}" data-path="{{ qr[1] }}">
-																			<i class="fa fa-qrcode pointer" aria-hidden="true"></i>
-																		</a>
-																	</p>
-																{% endfor %}
-															{% endif %}
-														</div>
+													<div class="position-absolute end-3">
+														{% if app.qr.size == 1 %}
+															{% for qr in app.qr %}
+																<a class="card-qr i18n ariaLabel-show-qr-for" href="{{ qr[1] }}" target="_blank" role="button" data-bs-toggle="modal" data-bs-target="#modal" data-name="{{ qr[0] }}" data-path="{{ qr[1] }}" aria-label="Show QR Code for {{ qr[0] }}">
+																	<svg class="icon icon-qr_code" aria-hidden="true"><path d="M 0,6.2346667 H 6.2346667 V 0 H 0 Z M 1.568,1.568 H 4.6666667 V 4.6666667 H 1.568 Z M 0,14 H 6.2346667 V 7.7653332 H 0 Z M 1.568,9.3333333 H 4.6666667 V 12.432 H 1.568 Z M 7.7653333,0 V 6.2346667 H 14 V 0 Z M 12.432,4.6666667 H 9.3333333 V 1.568 H 12.432 Z m 0,7.7653333 H 14 V 14 H 12.432 Z M 7.7653333,7.7653332 h 1.568 v 1.5680001 h -1.568 z m 1.568,1.5680001 H 10.901333 V 10.901333 H 9.3333333 Z m -1.568,1.5679997 h 1.568 v 1.531445 h -1.568 z m 1.568,1.530667 H 10.901333 V 14 H 9.3333333 Z m 1.5679997,-1.530667 h 1.531445 v 1.531445 h -1.531445 z m 0,-3.1359998 h 1.531445 V 9.3333333 H 10.901333 Z M 12.432,9.3333333 H 14 v 1.5679997 h -1.568 z"></path></svg>
+																</a>
+															{% endfor %}
+														{% elsif app.prerelease.qr.size == 1 %}
+															{% for qr in app.prerelease.qr %}
+																<a class="qr-link i18n ariaLabel-show-qr-for" href="{{ qr[1] }}" target="_blank" role="button" data-bs-toggle="modal" data-bs-target="#modal" data-name="{{ qr[0] }}" data-path="{{ qr[1] }}" aria-label="Show QR Code for {{ qr[0] }}">
+																	<svg class="icon icon-qr_code" aria-hidden="true"><path d="M 0,6.2346667 H 6.2346667 V 0 H 0 Z M 1.568,1.568 H 4.6666667 V 4.6666667 H 1.568 Z M 0,14 H 6.2346667 V 7.7653332 H 0 Z M 1.568,9.3333333 H 4.6666667 V 12.432 H 1.568 Z M 7.7653333,0 V 6.2346667 H 14 V 0 Z M 12.432,4.6666667 H 9.3333333 V 1.568 H 12.432 Z m 0,7.7653333 H 14 V 14 H 12.432 Z M 7.7653333,7.7653332 h 1.568 v 1.5680001 h -1.568 z m 1.568,1.5680001 H 10.901333 V 10.901333 H 9.3333333 Z m -1.568,1.5679997 h 1.568 v 1.531445 h -1.568 z m 1.568,1.530667 H 10.901333 V 14 H 9.3333333 Z m 1.5679997,-1.530667 h 1.531445 v 1.531445 h -1.531445 z m 0,-3.1359998 h 1.531445 V 9.3333333 H 10.901333 Z M 12.432,9.3333333 H 14 v 1.5679997 h -1.568 z"></path></svg>
+																</a>
+															{% endfor %}
+														{% endif %}
 													</div>
+													<small>
+														{% unless page.system %}
+															<span class="i18n innerHTML-theme">Theme: </span>{{ app.systems | join: ", "}}
+															<br>
+														{% endunless %}
+														{% if app.version %}
+															<span class="i18n innerHTML-version">Version: </span>{{ app.version }}
+														{% endif %}
+														{% if app.updated != "---" %}
+															{% if app.version %}<br>{% endif %}
+															<span class="i18n innerHTML-last-updated">Last updated: </span><time datetime="{{ app.updated }}" title="{{ app.updated | date: '%Y-%m-%d at %H:%M' }}">{{ app.updated | date: "%Y-%m-%d" }}</time>
+														{% endif %}
+													</small>
 												</div>
 											{% endif %}
 										</div>
@@ -125,10 +126,9 @@ layout: compress
 
 	{% include footer.html %}
 
-	<script src="/assets/js/modal.js"></script>
-	<script src="/assets/js/search.js"></script>
 	{% include common-js.html %}
-	<script src="/assets/js/rescript.js"></script>
+	<script src="/assets/js/search.js"></script>
+	<script src="/assets/js/modal.js"></script>
 	{% if page.system %}
 		<script src="/assets/js/sort.js"></script>
 	{% endif %}
