@@ -1,9 +1,3 @@
----
----
-
-@import url("light.css");
-@import url("dark.css") (prefers-color-scheme: dark);
-
 // For the bottom aligned footer
 html, body {
 	height: 100%;
@@ -11,38 +5,37 @@ html, body {
 body {
 	display: flex;
 	flex-direction: column;
+	font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
 }
-.content {
-	flex: 1 0 auto;
-}
+
 footer {
 	flex-shrink: 0;
 	padding-top: 20px;
 }
 
 body {
-	color: var(--main-color);
-	background-color: var(--main-bg);
+	color: $main-color;
+	background-color: $main-bg;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color: var(--header-color);
+	color: $header-color;
 }
 
 h2 {
-	border-bottom: 1px solid var(--borders);
+	border-bottom: 1px solid $borders;
 }
 
 blockquote {
-	color: var(--blockquote-color);
+	color: $blockquote-color;
 	margin-bottom: 20px;
 	padding: 0 0 0 20px;
-	border-left: 3px solid var(--borders);
+	border-left: 3px solid $borders;
 }
 
 code, tt {
-	color: var(--code-color);
-	background-color: var(--code-bg);
+	color: $code-color;
+	background-color: $code-bg;
 	padding: 3px;
 	border-radius: 0.25rem;
 	white-space: nowrap;
@@ -54,29 +47,46 @@ li > p {
 
 // .a is for making other things look like <a>s
 a, .a {
-	text-decoration: underline;
+	text-decoration: none;
 	text-decoration-thickness: 1px;
-	color: inherit;
-	font-weight: bold;
+	color: $a-color;
 	cursor: pointer;
 }
 a:hover, .a:hover {
-	color: var(--a-color);
-	text-decoration-thickness: 1px;
+	text-decoration: underline;
 }
 
 a.clean {
 	text-decoration: none;
 }
 
+footer a {
+	color: inherit;
+	font-weight: bold;
+	text-decoration: underline;
+}
+footer a:hover {
+	color: inherit;
+	opacity: 50%;
+}
+
 small {
 	font-size: 75%;
-	color: var(--small-color);
+	color: $small-color;
 }
 
 img {
 	max-width: 100%;
 	height: auto;
+}
+
+.content {
+	flex: 1 0 auto;
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+	padding-left: 0.75rem;
+	padding-right: 0.75rem;
 }
 
 .btn, .btn a {
@@ -85,32 +95,32 @@ img {
 
 // Override bootstraps primary color
 .bg-primary {
-	background-color: var(--primary)!important;
+	background-color: $primary!important;
 }
 .btn-primary, .btn-primary:focus {
-	color: var(--nav-link-color);
-	background-color: var(--primary)!important;
-	border-color: var(--primary)!important;
+	color: $nav-link-color;
+	background-color: $primary!important;
+	border-color: $primary!important;
 }
 .btn-primary:hover, .btn-primary:active {
-	color: var(--nav-link-color)!important;
+	color: $nav-link-color!important;
 	opacity: 0.8;
 }
 .btn-outline-primary {
-	color: var(--primary);
-	border-color: var(--primary);
+	color: $primary;
+	border-color: $primary;
 }
 .btn-outline-primary:hover, .btn-outline-primary:active {
-	background-color: var(--primary)!important;
-	border-color: var(--primary)!important;
+	background-color: $primary!important;
+	border-color: $primary!important;
 }
 .text-primary {
-	background-color: var(--primary)!important;
+	background-color: $primary!important;
 }
 
 // Override the secondary text color
 .btn-outline-secondary {
-	color: var(--main-color);
+	color: $main-color;
 }
 
 .btn-dark:hover, .btn-dark:active {
@@ -122,24 +132,24 @@ img {
 }
 
 .alert-secondary {
-	color: var(--code-color);
-	background-color: var(--code-bg);
-	border-color: var(--code-bg);
+	color: $code-color;
+	background-color: $code-bg;
+	border-color: $code-bg;
 }
 
 // Override the dark text too
 .text-dark {
-	color: var(--dark)!important;
+	color: $dark!important;
 }
 
 // And the light bg
 .bg-light {
-	background-color: var(--light)!important;
-	border-color: var(--light-border)!important;
+	background-color: $light!important;
+	border-color: $light-border!important;
 }
 
 .bg-light::placeholder {
-	color: var(--light-placeholder);
+	color: $light-placeholder;
 }
 
 // No underline on navbar links
@@ -154,23 +164,40 @@ img {
 
 // Override nav-link color
 .navbar .nav-link {
-	color: var(--nav-link-color)!important;
+	color: $nav-link-color!important;
 }
 .navbar .nav-link:hover {
-	color: var(--nav-link-color-hover)!important;
+	color: $nav-link-color-hover!important;
 }
 
 // And the active nav-link color
 .navbar .nav-link.active {
-	color: var(--nav-link-color-active)!important;
+	color: $nav-link-color-active!important;
 }
 .navbar .nav-link.active:hover {
-	color: var(--nav-link-color-hover)!important;
+	color: $nav-link-color-hover!important;
+}
+
+// Fixes for navbar on older browsers
+html[dir=ltr] .navbar-toggler {
+	position: absolute;
+	right: 0.75rem;
+	top: 0.5rem;
+}
+
+html[dir=rtl] .navbar-toggler {
+	position: absolute;
+	left: 0.75rem;
+	top: 0.5rem;
+}
+
+.navbar {
+	min-height: 3.5rem;
 }
 
 // Make dropdowns site-colored and animated
 .dropdown-menu, .dropdown .hover-content {
-	background-color: var(--primary);
+	background-color: $primary;
 	-webkit-transition: 300ms ease;
 	transition: 300ms ease;
 	display: block;
@@ -192,15 +219,19 @@ img {
 	visibility: visible;
 }
 
+.navbar-toggler:hover+.navbar-collapse.hover-content, .navbar-collapse.hover-content:hover {
+	display: block;
+}
+
 .dropdown-item {
-	color: var(--nav-link-color);
+	color: $nav-link-color;
 }
 .dropdown-item.active {
 	background-color: unset;
 }
 .dropdown-item:hover, .dropdown-item:active, .dropdown-item:focus {
-	background-color: var(--dropdown-item-bg-hover);
-	color: var(--nav-link-color-hover);
+	background-color: $dropdown-item-bg-hover;
+	color: $nav-link-color-hover;
 }
 
 // Make images smaller
@@ -272,14 +303,16 @@ html[dir=rtl] {
 
 // Input box
 .input-group-text {
-	color: var(--light-placeholder);
-	background-color: var(--light);
-	border-color: var(--light-border);
+	color: $light-placeholder;
+	background-color: $light;
+	border-color: $light-border;
 }
 .form-control, .form-control:focus, .form-control::placeholder {
-	color: var(--light-placeholder);
-	background-color: var(--light);
-	border-color: var(--light-border);
+	color: $light-placeholder;
+	background-color: $light;
+	border-color: $light-border;
+	display: inline;
+	min-width: 50%!important;
 }
 
 // Cards
@@ -290,10 +323,11 @@ html[dir=rtl] {
 .card a {
 	text-decoration: none;
 	font-weight: normal;
+	color: inherit;
 }
 
-.card a:hover h4, .card a:hover small {
-	color: inherit;
+.card a:hover {
+	opacity: 50%;
 }
 
 .card-footer a {
@@ -312,11 +346,11 @@ html[dir=rtl] {
 }
 
 .card {
-	background-color: var(--card-background);
+	background-color: $card-background;
 }
 
 .card-header, .card-footer {
-	background-color: var(--card-edges-background);
+	background-color: $card-edges-background;
 }
 
 .pointer {
@@ -324,7 +358,7 @@ html[dir=rtl] {
 }
 
 .card-qr {
-	color: var(--small-color);
+	color: $small-color;
 }
 
 .card-qr:hover {
@@ -336,17 +370,17 @@ html[dir=rtl] {
 }
 
 .modal-content {
-	background-color: var(--main-bg);
+	background-color: $main-bg;
 }
 .modal-header {
-	border-bottom: var(--modal-borders);
+	border-bottom: $modal-borders;
 }
 .modal-footer {
-	border-top: var(--modal-borders);
+	border-top: $modal-borders;
 }
 
 .carousel-label {
-	background-color: var(--carousel-caption-bg);
+	background-color: $carousel-caption-bg;
 	border-radius: 10px;
 }
 
@@ -406,5 +440,28 @@ html[dir=rtl] {
 	}
 	.dropdown-item:hover {
 		background-color: inherit;
+	}
+}
+
+@media only screen and (min-width: 576px) {
+	// Fix nav on old browsers that don't support flex
+	.navbar-expand-sm .navbar-collapse {
+		display: block;
+	}
+
+	nav {
+		.navbar-brand, .navbar-toggler, .navbar-collapse, .navbar-nav, li.nav-item, .dropdown {
+			display: inline-block;
+		}
+	}
+
+	html[dir=ltr] .lang-select-dropdown, .navbar-toggler {
+		position: absolute;
+		right: 0.75rem;
+	}
+
+	html[dir=rtl] .lang-select-dropdown, .navbar-toggler {
+		position: absolute;
+		left: 0.75rem;
 	}
 }

@@ -4,6 +4,9 @@ repo        : "DS-Homebrew/twlmenu-extras"
 color       : "#da4a53"
 image       : "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/dsi.png"
 
+sass:
+  sass_dir: _sass
+
 collections:
   nintendo-3ds:
     output: true
