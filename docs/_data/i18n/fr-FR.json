@@ -1,5 +1,5 @@
 {
-	"site-title": "TWiLight Menu++ Skins",
+	"site-title": "Thèmes TWiLight Menu++",
 	"title-home": "Accueil | TWiLight Menu++ Skins",
 	"title-nintendo-3ds": "Nintendo 3DS | TWiLight Menu++ Skins",
 	"title-nintendo-dsi": "Nintendo DSi | TWiLight Menu++ Skins",
@@ -65,9 +65,9 @@
 	"downloads": "Téléchargements",
 	"download-name": "Téléchargement ${name}",
 	"update-notes": "Notes de mise à jour",
-	"prereleases": "Prereleases",
+	"prereleases": "Pré-versions",
 	"nightlies": "Nightlies",
-	"nightly-desc": "Commit/beta builds, potentially unstable but have the latest updates",
+	"nightly-desc": "Commit / version bêta, potentiellement instable mais avec les dernières mises à jour",
 	"download-page": "Page de téléchargement",
 	"screenshots": "Captures d'écran",
 	"previous": "Précédent",
