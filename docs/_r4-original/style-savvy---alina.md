@@ -1,10 +1,13 @@
 ---
-author: RocketRobz
+author: Rocket Robz
 category:
+- fashion
 - style-savvy
+- style-boutique
+- girls-mode
 console: R4 Original
 created: '2021-07-28T07:25:18Z'
-description: ''
+description: 'Featuring Alina (aka Alinatron) from Style Savvy: Styling Star'
 downloads:
   Style Savvy - Alina.7z:
     size: 156114
