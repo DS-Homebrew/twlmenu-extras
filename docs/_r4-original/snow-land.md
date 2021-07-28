@@ -14,7 +14,11 @@ image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unist
 last_updated: 2020-09-07 at 06:22 (UTC)
 layout: app
 license: ''
-screenshots: []
+screenshots:
+- description: File list
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Snow%20land/screenshots/file-list.png
+- description: Main menu
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Snow%20land/screenshots/main-menu.png
 systems:
 - R4 Original
 title: Snow land

@@ -1,13 +1,10 @@
 ---
-author: Rocket Robz
+author: RocketRobz
 category:
-- fashion
 - style-savvy
-- style-boutique
-- girls-mode
 console: R4 Original
 created: '2021-07-28T07:25:18Z'
-description: 'Featuring Angelique Noir from Style Savvy: Styling Star'
+description: ''
 downloads:
   Style Savvy - Angelique.7z:
     size: 147800
@@ -19,10 +16,10 @@ last_updated: 2021-07-28 at 07:33 (UTC)
 layout: app
 license: ''
 screenshots:
+- description: File list
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Style%20Savvy%20-%20Angelique/screenshots/file-list.png
 - description: Main menu
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Style%20Savvy%20-%20Angelique/screenshots/main-menu.png
-- description: Title list
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Style%20Savvy%20-%20Angelique/screenshots/title-list.png
 systems:
 - R4 Original
 title: Style Savvy - Angelique
