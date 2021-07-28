@@ -1,6 +1,7 @@
 {
 	"title": "Style Savvy - Rosie",
-	"author": "RocketRobz",
-	"categories": ["style-savvy"],
+	"author": "Rocket Robz",
+	"description": "Featuring Rosie Mayfield from Style Savvy: Styling Star",
+	"categories": ["fashion", "style-savvy", "style-boutique", "girls-mode"],
 	"version": "v1.0.0"
 }
