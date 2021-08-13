@@ -257,5 +257,11 @@
 		"author": "Pk11",
 		"description": "A default background of macOS Yosemite",
 		"categories": ["macos"]
+	},
+	"zztscroll": {
+		"title": "ZZT Scroll",
+		"author": "spellboundtriangle",
+		"description": "A background inspired by the scroll item in Tim Sweeney's ZZT",
+		"categories": ["zzt"]
 	}
 }
