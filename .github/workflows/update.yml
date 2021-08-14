@@ -20,6 +20,9 @@ jobs:
         sudo apt-get install python3-pip -y
         pip3 install -r requirements.txt
 
+    - name: Delete old pages
+      run: rm -rf docs/_nintendo-3ds/* docs/_nintendo-dsi/* docs/_r4-original/* docs/_wood-ui/* docs/_unlaunch-backgrounds/* docs/nintendo-3ds/category/* docs/nintendo-dsi/category/* docs/r4-original/category/* docs/wood-ui/category/* docs/unlaunch-backgrounds/category/*
+
     - name: Run generate.py
       run: |
         export PATH=$PATH:/opt/devkitpro/tools/bin
