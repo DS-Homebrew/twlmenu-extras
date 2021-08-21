@@ -251,6 +251,7 @@ with open(os.path.join("unistore", "twlmenu-skins.unistore"), "w", encoding="utf
 	file.write(json.dumps(unistore, sort_keys=True))
 
 # Write output file
-os.makedirs(os.path.jon("docs", "data"))
+if not os.path.exists(os.path.join("docs", "data")):
+	os.makedirs(os.path.join("docs", "data"))
 with open(os.path.join("docs", "data", "full.json"), "w", encoding="utf8") as file:
 	file.write(json.dumps(output, sort_keys=True, ensure_ascii=False))
