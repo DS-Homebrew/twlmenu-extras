@@ -66,6 +66,9 @@ if os.path.exists("twlmenu-skins.unistore"):
 	with open("twlmenu-skins.unistore", "r", encoding="utf8") as file:
 		unistoreOld = json.load(file)
 
+# Output JSON
+output = []
+
 # Create UniStore base
 unistore = {
 	"storeInfo": {
@@ -230,6 +233,8 @@ for skin in files:
 		with open(os.path.join("docs", webName(web["console"]), "category", category + ".md"), "w", encoding="utf8") as file:
 			file.write(f"---\nlayout: cards\ntitle: {getTheme(skin)} - {category}\nsystem: {webName(web['console'])}\ncategory: {category}\n---\n")
 
+	output.append(web)
+
 # Make t3x
 with open(os.path.join("unistore", "temp", "icons.t3s"), "w", encoding="utf8") as file:
 	file.write("--atlas -f rgba -z auto\n\n")
@@ -244,3 +249,7 @@ if unistore != unistoreOld:
 # Write unistore to file
 with open(os.path.join("unistore", "twlmenu-skins.unistore"), "w", encoding="utf8") as file:
 	file.write(json.dumps(unistore, sort_keys=True))
+
+# Write output file
+with open(os.path.join("docs", "data", "full.json"), "w", encoding="utf8") as file:
+	file.write(json.dumps(output, sort_keys=True, ensure_ascii=False))
