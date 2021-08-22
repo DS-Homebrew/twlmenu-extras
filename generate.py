@@ -24,7 +24,7 @@ def webName(name):
 	for letter in name:
 		if letter in "abcdefghijklmnopqrstuvwxyz0123456789-_":
 			out += letter
-		elif letter == ". ":
+		elif letter in ". ":
 			out += "-"
 	return out
 
