@@ -9,7 +9,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 ## Repository Credits
 - [NightScript](https://github.com/NightYoshi370): Organizing everything
 - [FlameKat53](https://github.com/FlameKat53): Adding ReadME's to skins that do not have one
-- [RocketRobz](https://github.com/RocketRobz): Author of TWiLightMenu++
+- [Rocket Robz](https://github.com/RocketRobz): Author of TWiLightMenu++
 - [Pk11](https://github.com/epicpkmn11): Adding UniStore generation
 
 ## Theme Credits:
@@ -17,7 +17,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - [Emran_Ahmed](https://github.com/Emran54320): Unlaunch Call of Duty: Modern Warfare 2 background
 - [Equillun](https://github.com/Equillun): DSi Windows 95 skin
 - [Pk11](https://github.com/epicpkmn11): 3DS Suicune skin DSi Switch skins, Unlaunch Black, macOS, and Safari Pink backgrounds
-- [RocketRobz](https://github.com/RocketRobz): R4 Style Savvy skins, DSi Default skins, and 3DS Default Light skin
+- [Rocket Robz](https://github.com/RocketRobz): R4 Style Savvy skins, DSi Default skins, and 3DS Default Light skin
 - [SkyLark](https://github.com/SleepyLark): Unlaunch Cork and various Kirby/Mario backgrounds
 - [SNBeast](https://github.com/SNBeast): Unlaunch Windows Vista backgrounds
 - [spellboundtriangle](https://github.com/spellboundtriangle): Unlaunch Bliss, Mario Kart DS, ZZT, and old Unlaunch backgrounds
