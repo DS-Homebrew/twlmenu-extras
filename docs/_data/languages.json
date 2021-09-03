@@ -27,6 +27,10 @@
 		"id": "he-IL",
 		"dir": "rtl"
 	},
+	"العربية": {
+		"id": "ar-SA",
+		"dir": "rtl"
+	},
 	"Magyar": {
 		"id": "hu-HU",
 		"dir": "ltr",
@@ -55,7 +59,12 @@
 		"dir": "ltr",
 		"crowdin": "pl"
 	},
-	"Português": {
+	"Português (Brasil)": {
+		"id": "pt-BR",
+		"dir": "ltr",
+		"crowdin": "pt"
+	},
+	"Português (Portugal)": {
 		"id": "pt-PT",
 		"dir": "ltr",
 		"crowdin": "pt"
@@ -106,6 +115,10 @@
 	},
 	"Norsk": {
 		"id": "no-NO",
+		"dir": "ltr"
+	},
+	"Română": {
+		"id": "ro-RO",
 		"dir": "ltr"
 	}
 }
