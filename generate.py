@@ -117,11 +117,13 @@ for skin in files:
 
 	info = {}
 	updated = datetime.datetime.utcfromtimestamp(0)
+	inFolder = False
 	skinName = skin[skin.rfind("/")+1:skin.rfind(".")]
 
 	if skin[-2:] == "7z":
 		with py7zr.SevenZipFile(skin) as a:
 			updated = lastUpdated(a)
+			inFolder = skinName in a.getnames()
 	else:
 		updated = datetime.datetime.utcfromtimestamp(int(git.Repo(".").git.log(["-n1", "--pretty=format:%ct", "--", skin])))
 
@@ -191,7 +193,7 @@ for skin in files:
 				{
 					"type": "extractFile",
 					"file": "sdmc:/" + skinName + ".7z",
-					"input": skinName + "/",
+					"input": (skinName + "/") if inFolder else "",
 					"output": "sdmc:/" + skin[:-3] + "/",
 					"message": "Extracting " + info["title"] if "title" in info else skinName + "..."
 				},
