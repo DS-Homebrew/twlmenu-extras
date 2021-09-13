@@ -2,7 +2,7 @@
 	"aurora": {
 		"title": "Aurora",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"b-52_crash": {
 		"title": "B-52 Crash",
@@ -13,17 +13,17 @@
 	"bamboo": {
 		"title": "Bamboo",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"bars": {
 		"title": "Bars",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"beach": {
 		"title": "Beach",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"black": {
 		"title": "Black",
@@ -46,7 +46,7 @@
 	"bridge": {
 		"title": "Bridge",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"cave": {
 		"title": "Cave",
@@ -56,57 +56,62 @@
 	"circles": {
 		"title": "Circles",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"city": {
 		"title": "City",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
+	},
+	"clay-shooting": {
+		"title": "Duck Hunt: Clay Shooting",
+		"author": "Egehan64",
+		"categories": ["games", "nes"]
 	},
 	"codmw2": {
 		"title": "Call Of Duty : Modern Warfare 2",
 		"author": "Emran_Ahmed",
-		"categories": ["call-of-duty","games"]
+		"categories": ["call-of-duty", "games"]
 	},
 	"cork": {
 		"title": "Cork",
 		"author": "SleepyLark",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"default": {
 		"title": "Vista Default",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"desert": {
 		"title": "Desert",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"field": {
 		"title": "Field",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"fish": {
 		"title": "Fish",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"flower": {
 		"title": "Flower",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"grass": {
 		"title": "Grass",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"green": {
 		"title": "Green",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"herzogin_cecilie": {
 		"title": "Herzogin Cecilie",
@@ -127,22 +132,22 @@
 	"leaf": {
 		"title": "Leaf",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"light": {
 		"title": "Light",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"logon": {
 		"title": "Log On",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"mario-bros": {
 		"title": "Mario Bros.",
 		"author": "SleepyLark",
-		"categories": ["mario"]
+		"categories": ["mario", "nes"]
 	},
 	"mkds": {
 		"title": "Mario Kart DS",
@@ -152,7 +157,7 @@
 	"mario": {
 		"title": "Mario",
 		"author": "SleepyLark",
-		"categories": ["mario"]
+		"categories": ["mario", "nes"]
 	},
 	"mojave_gray": {
 		"title": "Mojave (Gray)",
@@ -169,32 +174,32 @@
 	"mountain": {
 		"title": "Mountain",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"palm": {
 		"title": "Palm",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"people": {
 		"title": "People",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"purple": {
 		"title": "Purple",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"river": {
 		"title": "River",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"rocks": {
 		"title": "Rocks",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"safari-pink": {
 		"title": "Safari Pink",
@@ -205,12 +210,12 @@
 	"school": {
 		"title": "School",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"seats": {
 		"title": "Seats",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"sky": {
 		"title": "Sky",
@@ -225,7 +230,7 @@
 	"sunset": {
 		"title": "Sunset",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"sweet": {
 		"title": "Sweet",
@@ -235,17 +240,17 @@
 	"tree": {
 		"title": "Tree",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"twig": {
 		"title": "Twig",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"vangogh": {
 		"title": "Vangogh",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"wind": {
 		"title": "Wind",
@@ -255,7 +260,7 @@
 	"wood": {
 		"title": "Wood",
 		"author": "SNBeast",
-		"categories": ["vista","windows"]
+		"categories": ["vista", "windows"]
 	},
 	"yosemite-3": {
 		"title": "Yosemite 3",
