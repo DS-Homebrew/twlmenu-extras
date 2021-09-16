@@ -98,19 +98,19 @@ layout: compress
 															{% endfor %}
 														{% endif %}
 													</div>
-													<small>
+													<dl style="small">
 														{% unless page.system %}
-															<span class="i18n innerHTML-theme">Theme: </span>{{ app.systems | join: ", "}}
+															<dt class="i18n innerHTML-theme">Theme</dt>: <dd>{{ app.systems | join: "</dd>, <dd>"}}</dd>
 															<br>
 														{% endunless %}
 														{% if app.version %}
-															<span class="i18n innerHTML-version">Version: </span>{{ app.version }}
+															<dt class="i18n innerHTML-version">Version</dt>: <dd>{{ app.version }}</dd>
 														{% endif %}
 														{% if app.updated != "---" %}
 															{% if app.version %}<br>{% endif %}
-															<span class="i18n innerHTML-last-updated">Last updated: </span><time datetime="{{ app.updated }}" title="{{ app.updated | date: '%Y-%m-%d at %H:%M' }}">{{ app.updated | date: "%Y-%m-%d" }}</time>
+															<dt class="i18n innerHTML-last-updated">Last updated</dt>: <dd><time datetime="{{ app.updated }}" title="{{ app.updated | date: '%Y-%m-%d at %H:%M' }}">{{ app.updated | date: "%Y-%m-%d" }}</time></dd>
 														{% endif %}
-													</small>
+													</dl>
 												</div>
 											{% endif %}
 										</div>
