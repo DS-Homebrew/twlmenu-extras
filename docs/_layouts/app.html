@@ -4,7 +4,7 @@ layout: compress
 
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-{% include head.html%}
+{% include head.html %}
 
 <body>
 	<div class="content">
@@ -43,30 +43,28 @@ layout: compress
 											</div>
 										</div>
 									{% if page.website %}</a>{% elsif page.source %}</a>{% endif %}
-									<div class="card-footer">
-										<small>
-											<span class="i18n innerHTML-theme">Theme: </span>
-											{%- for system in page.systems -%}
-												<a href="/{{ system | downcase | replace: " ", "-" }}">{{ system }}</a>{% if forloop.last == false %},{% endif %}
+									<dl class="card-footer small">
+										<dt class="i18n innerHTML-theme">Theme</dt>: 
+										{%- for system in page.systems -%}
+											<dd><a href="/{{ system | downcase | replace: " ", "-" }}">{{ system }}</a></dd>{% if forloop.last == false %},{% endif %}
+										{% endfor %}
+										{% if page.categories %}
+											<br>
+											<dt class="i18n innerHTML-categories">Categories</dt>: 
+											{%- for category in page.categories -%}
+												{%- assign cat = category | prepend: "cat-" -%}
+												<dd><a href="/{{ page.collection }}/category/{{ category }}" class="i18n innerHTML-cat-{{ category }}">{{ site.data.i18n.en-US[cat] | default: category }}</a></dd>{% if forloop.last == false %},{% endif %}
 											{% endfor %}
-											{% if page.categories %}
-												<br>
-												<span class="i18n innerHTML-categories">Categories: </span>
-												{%- for category in page.categories -%}
-													{%- assign cat = category | prepend: "cat-" -%}
-													<a href="/{{ page.collection }}/category/{{ category }}" class="i18n innerHTML-cat-{{ category }}">{{ site.data.i18n.en-US[cat] | default: category }}</a>{% if forloop.last == false %},{% endif %}
-												{% endfor %}
-											{% endif %}
-											{% if page.created != "---" %}
-												<br>
-												<span class="i18n innerHTML-created">Created: </span><time datetime="{{ page.created }}" title="{{ page.created | date: '%Y-%m-%d at %H:%M' }}">{{ page.created | date: "%Y-%m-%d" }}</time>
-											{% endif %}
-											{% if page.license_name %}
-												<br>
-												<span class="i18n innerHTML-license">License: </span>{{ page.license_name }}
-											{% endif %}
-										</small>
-									</div>
+										{% endif %}
+										{% if page.created != "---" %}
+											<br>
+											<dt class="i18n innerHTML-created">Created</dt>: <dd><time datetime="{{ page.created }}" title="{{ page.created | date: '%Y-%m-%d at %H:%M' }}">{{ page.created | date: "%Y-%m-%d" }}</time></dd>
+										{% endif %}
+										{% if page.license_name %}
+											<br>
+											<dt class="i18n innerHTML-license">License</dt>: <dd>{{ page.license_name }}</dd>
+										{% endif %}
+									</dl>
 								</div>
 								<div class="text-center pt-3">
 									{% if page.source %}
@@ -104,8 +102,8 @@ layout: compress
 										
 										{% if page.version and page.downloads %}
 											<br>
-											<small>
-												<span class="i18n innerHTML-version">Version: </span>{% if page.download_page %}<a href="{{ page.download_page }}">{% endif %}{{ page.version }}{% if page.download_page %}</a>{% endif %}
+											<dl class="small">
+												<dt class="i18n innerHTML-version">Version</dt>: <dd>{% if page.download_page %}<a href="{{ page.download_page }}">{% endif %}{{ page.version }}{% if page.download_page %}</a>{% endif %}</dd>
 												{% if page.update_notes %}
 													<button class="btn btn-outline-secondary btn-sm i18n innerHTML-update-notes" data-bs-toggle="modal" data-bs-target="#modal" data-name="{% if page.version_title %}{{ page.version_title }}{% else %}{{ page.version }}{% endif %}" data-content="{{ page.update_notes | escape }}">Update notes</button>
 												{% elsif page.version_title %}
@@ -113,9 +111,9 @@ layout: compress
 												{% endif %}
 												<br>
 												{% if page.updated != "---" %}
-													<span class="i18n innerHTML-last-updated">Last updated: </span><time datetime="{{ page.updated }}" title="{{ page.prerelease.updated | date: '%Y-%m-%d at %H:%M' }}">{{ page.updated | date: "%Y-%m-%d at %H:%M" }}</time>
+													<dt class="i18n innerHTML-last-updated">Last updated</dt>: <dd><time datetime="{{ page.updated }}" title="{{ page.prerelease.updated | date: '%Y-%m-%d at %H:%M' }}">{{ page.updated | date: "%Y-%m-%d at %H:%M" }}</time></dd>
 												{% endif %}
-											</small>
+											</dl>
 										{% endif %}
 									</div>
 								</div>
@@ -143,8 +141,8 @@ layout: compress
 			
 											{% if page.prerelease.version %}
 												<br>
-												<small>
-													Version: {% if page.prerelease.download_page %}<a href="{{ page.prerelease.download_page }}">{% endif %}{{ page.prerelease.version }}{% if page.prerelease.download_page %}</a>{% endif %}
+												<dl class="small">
+													<dt>Version</dt>: <dd>{% if page.prerelease.download_page %}<a href="{{ page.prerelease.download_page }}">{% endif %}{{ page.prerelease.version }}{% if page.prerelease.download_page %}</a>{% endif %}</dd>
 													{% if page.prerelease.update_notes %}
 														<button class="btn btn-outline-secondary btn-sm" data-bs-toggle="modal" data-bs-target="#modal" data-name="{% if page.prerelease.version_title %}{{ page.prerelease.version_title }}{% else %}{{ page.prerelease.version }}{% endif %}" data-content="{{ page.prerelease.update_notes | escape }}">
 															Update notes
@@ -152,9 +150,9 @@ layout: compress
 													{% endif %}
 													<br>
 													{% if page.prerelease.updated != "---" %}
-														Last updated: <time datetime="{{ page.prerelease.updated }}" title="{{ page.prerelease.updated | date: '%Y-%m-%d at %H:%M' }}">{{ page.prerelease.updated | date: "%Y-%m-%d at %H:%M" }}</time>
+														<dt>Last updated</dt>: <dd><time datetime="{{ page.prerelease.updated }}" title="{{ page.prerelease.updated | date: '%Y-%m-%d at %H:%M' }}">{{ page.prerelease.updated | date: "%Y-%m-%d at %H:%M" }}</time></dd>
 													{% endif %}
-												</small>
+												</dl>
 											{% endif %}
 										</div>
 									</div>
@@ -183,9 +181,7 @@ layout: compress
 			
 											{% if page.nightly.download_page %}
 												<br>
-												<small>
-													<a class="i18n innerHTML-download-page" href="{{ page.nightly.download_page }}">Download page</a>
-												</small>
+												<a class="i18n innerHTML-download-page small" href="{{ page.nightly.download_page }}">Download page</a>
 											{% endif %}
 										</div>
 									</div>
@@ -205,11 +201,13 @@ layout: compress
 										<div class="col-12">
 											<h2 class="i18n innerHTML-screenshots">Screenshots</h2>
 											<div id="screenshotCarousel" class="carousel carousel-dark-when-light slide mb-3" data-bs-ride="carousel">
-												<ol class="carousel-indicators">
-													{% for ss in page.screenshots %}
-														<li data-bs-target="#screenshotCarousel" data-bs-slide-to="{{ forloop.index0 }}" class="{% if forloop.first %}active{% endif %}"></li>
-													{% endfor %}
-												</ol>
+												{% if page.screenshots.size != 1 %}
+													<ol class="carousel-indicators">
+														{% for ss in page.screenshots %}
+															<li data-bs-target="#screenshotCarousel" data-bs-slide-to="{{ forloop.index0 }}" class="{% if forloop.first %}active{% endif %}"></li>
+														{% endfor %}
+													</ol>
+												{% endif %}
 												<div class="carousel-inner">
 													{% for ss in page.screenshots %}
 														<div class="carousel-item mt-2 mb-2 {% if forloop.first %}active{% endif %}">
@@ -220,14 +218,16 @@ layout: compress
 														</div>
 													{% endfor %}
 												</div>
-												<a class="carousel-control-prev" href="#screenshotCarousel" role="button" data-bs-slide="prev">
-													<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-													<span class="visually-hidden i18n innerHTML-previous">Previous</span>
-												</a>
-												<a class="carousel-control-next" href="#screenshotCarousel" role="button" data-bs-slide="next">
-													<span class="carousel-control-next-icon" aria-hidden="true"></span>
-													<span class="visually-hidden i18n innerHTML-next">Next</span>
-												</a>
+												{% if page.screenshots.size != 1 %}
+													<a class="carousel-control-prev" href="#screenshotCarousel" role="button" data-bs-slide="prev">
+														<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+														<span class="visually-hidden i18n innerHTML-previous">Previous</span>
+													</a>
+													<a class="carousel-control-next" href="#screenshotCarousel" role="button" data-bs-slide="next">
+														<span class="carousel-control-next-icon" aria-hidden="true"></span>
+														<span class="visually-hidden i18n innerHTML-next">Next</span>
+													</a>
+												{% endif %}
 											</div>
 										</div>
 									</div>
