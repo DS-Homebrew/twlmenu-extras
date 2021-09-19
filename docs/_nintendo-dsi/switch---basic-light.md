@@ -5,6 +5,7 @@ category:
 - light
 - simple
 - minimalist
+color: '#979797'
 console: Nintendo DSi
 created: '2020-11-22T06:23:23Z'
 description: Simple skin designed after the Nintendo Switch's Basic Light theme

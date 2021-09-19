@@ -6,6 +6,7 @@ category:
 - minimalist
 - monochrome
 - kyurem
+color: '#4d5852'
 console: Nintendo 3DS
 created: '2021-08-14T03:41:19Z'
 description: Monochromatic theme based on the fused forms of Kyurem

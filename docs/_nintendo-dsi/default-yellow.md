@@ -3,6 +3,7 @@ author: RocketRobz
 category:
 - default
 - yellow
+color: '#dfd9c8'
 console: Nintendo DSi
 created: '2020-06-01T23:44:11Z'
 description: TWiLight Menu++'s default DSi skin in yellow

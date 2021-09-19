@@ -6,6 +6,7 @@ category:
 - botw
 - link
 - green
+color: '#6a8685'
 console: Nintendo 3DS
 created: '2021-09-04T00:20:48Z'
 description: Blue, green and golden colors, a landscape of Hyrule and a familiar tune

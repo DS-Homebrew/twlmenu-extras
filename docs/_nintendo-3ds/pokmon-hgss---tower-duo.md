@@ -7,6 +7,7 @@ category:
 - lugia
 - gold
 - silver
+color: '#c0b490'
 console: Nintendo 3DS
 created: '2021-08-17T23:19:30Z'
 description: Marvelous llustrations of Ho-oh and Lugia accompany the gold and silver

@@ -4,6 +4,7 @@ category:
 - default
 - dark
 - black
+color: '#7c4748'
 console: Nintendo 3DS
 created: '2020-11-23T02:43:34Z'
 description: TWiLight Menu++'s default 3DS skin, dark version

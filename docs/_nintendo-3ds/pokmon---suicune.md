@@ -4,6 +4,7 @@ category:
 - pokemon
 - simple
 - minimalist
+color: '#87adb3'
 console: Nintendo 3DS
 created: '2020-06-01T23:44:11Z'
 description: Minimalistic Suicune skin with Eusine's theme
