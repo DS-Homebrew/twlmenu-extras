@@ -167,6 +167,8 @@ for skin in files:
 		"last_updated": updated.strftime("%Y-%m-%d at %H:%M (UTC)")
 	}
 
+	color = None
+
 	if (not "unistore_exclude" in info or info["unistore_exclude"] == False) and (not getTheme(skin) == "Unlaunch"):
 		# Make icon for UniStore
 		if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png")):
@@ -216,7 +218,8 @@ for skin in files:
 	web["created"] = created.strftime("%Y-%m-%dT%H:%M:%SZ")
 	web["updated"] = updated.strftime("%Y-%m-%dT%H:%M:%SZ")
 	web["systems"] = [web["console"]]
-	web["color"] = color
+	if color:
+		web["color"] = color
 	web["downloads"] = {skin[skin.rfind("/") + 1:]: {
 		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin,
 		"size": os.path.getsize(skin)
