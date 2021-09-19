@@ -180,6 +180,11 @@ for skin in files:
 				skinInfo["icon_index"] = iconIndex
 				iconIndex += 1
 
+				color = icon.copy().convert("RGB")
+				color.thumbnail((1, 1))
+				color = color.getpixel((0, 0))
+				color = f"#{color[0]:02x}{color[1]:02x}{color[2]:02x}"
+
 		# Add entry to UniStore
 		unistore["storeContent"].append({
 			"info": skinInfo,
@@ -211,6 +216,7 @@ for skin in files:
 	web["created"] = created.strftime("%Y-%m-%dT%H:%M:%SZ")
 	web["updated"] = updated.strftime("%Y-%m-%dT%H:%M:%SZ")
 	web["systems"] = [web["console"]]
+	web["color"] = color
 	web["downloads"] = {skin[skin.rfind("/") + 1:]: {
 		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin,
 		"size": os.path.getsize(skin)
