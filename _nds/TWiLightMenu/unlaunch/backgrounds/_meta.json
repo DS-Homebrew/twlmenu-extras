@@ -252,6 +252,11 @@
 		"author": "SNBeast",
 		"categories": ["vista", "windows"]
 	},
+	"win31boot": {
+		"title": "Windows 3.1 Bootscreen",
+		"author": "guest123guest",
+		"categories": ["windows"]
+	},
 	"wind": {
 		"title": "Wind",
 		"author": "SleepyLark",
