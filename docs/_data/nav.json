@@ -19,6 +19,12 @@
 		"key": "r"
 	},
 	{
+		"title": "Fonts",
+		"system-title": "Font",
+		"url": "/font",
+		"key": "f"
+	},
+	{
 		"title": "Unlaunch Backgrounds",
 		"system-title": "Unlaunch",
 		"url": "/unlaunch",

@@ -37,6 +37,8 @@ def getTheme(path):
 		return "Nintendo DSi"
 	elif "r4menu/" in path:
 		return "R4 Original"
+	elif "extras/fonts/" in path:
+		return "Font"
 	elif "unlaunch/" in path:
 		return "Unlaunch"
 	return ""
@@ -50,6 +52,8 @@ def getDefaultIcon(path):
 		return 1
 	elif "r4menu/" in path:
 		return 2
+	elif "extras/fonts/" in path:
+		return 3
 	return -1
 
 def lastUpdated(sevenZip):
@@ -90,7 +94,7 @@ icons = []
 iconIndex = 0
 
 # Make 3DS, DSi, R4 icons
-for file in ["3ds.png", "dsi.png", "r4.png"]:
+for file in ["3ds.png", "dsi.png", "r4.png", "font.png"]:
 	with Image.open(open(os.path.join("unistore", "icons", file), "rb")) as icon:
 		if not os.path.exists(os.path.join("unistore", "temp")):
 			os.mkdir(os.path.join("unistore", "temp"))
@@ -107,6 +111,7 @@ if len(sys.argv) > 1:
 
 # Get skin files
 files = [f for f in glob.glob("_nds/TWiLightMenu/*menu/themes/*.7z")]
+files += [f for f in glob.glob("_nds/TWiLightMenu/extras/fonts/*.7z")]
 files += [f for f in glob.glob("_nds/TWiLightMenu/unlaunch/backgrounds/*.gif")]
 
 # Generate UniStore entries
