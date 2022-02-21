@@ -53,7 +53,7 @@ layout: compress
 						{% elsif page.system == "unlaunch" %}
 							{% assign cards = site.unlaunch %}
 						{% elsif page.title == "Home" %}
-							{% assign cards = site.nintendo-3ds | concat: site.nintendo-dsi | concat: site.r4-original | concat: site.unlaunch | uniq %}
+							{% assign cards = site.nintendo-3ds | concat: site.nintendo-dsi | concat: site.r4-original | concat: site.font | concat: site.unlaunch | uniq %}
 						{% endif %}
 
 						{% assign cards = cards | sort: "updated" | reverse %}

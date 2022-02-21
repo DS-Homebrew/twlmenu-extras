@@ -11,7 +11,7 @@ layout: compress
 		<description>{{ site.description }}</description>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<language>en-us</language>
-		{% assign apps = site.nintendo-3ds | concat: site.nintendo-dsi | concat: site.r4-original | concat: site.unlaunch | uniq | sort: "updated" | reverse %}
+		{% assign apps = site.nintendo-3ds | concat: site.nintendo-dsi | concat: site.r4-original | concat: site.font | concat: site.unlaunch | uniq | sort: "updated" | reverse %}
 		{% for app in apps limit: 4 %}
 			<item>
 				<title>{{ app.title }} updated to {{ app.version | default: "new version" }}</title>
