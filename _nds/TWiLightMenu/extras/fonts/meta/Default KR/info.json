@@ -1,0 +1,7 @@
+{
+	"title": "Default KR",
+	"author": "Nintendo, Google",
+	"description": "The default font but with more Hangul (Noto Sans KR)",
+	"categories": ["default", "noto", "korean"],
+	"version": "v1.0.0"
+}

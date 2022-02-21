@@ -2,6 +2,6 @@
 	"title": "Noto Sans SC",
 	"author": "Google",
 	"description": "A Simplified Chinese font from Noto Sans SC",
-	"categories": ["noto"],
+	"categories": ["noto", "chinese", "chinese-simplified"],
 	"version": "v1.0.0"
 }
