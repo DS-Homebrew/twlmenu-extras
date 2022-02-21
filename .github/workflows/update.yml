@@ -3,7 +3,7 @@ name: Update UniStore and pages
 on:
   push:
     branches: [ master ]
-    paths: [ generate.py, "_nds/TWiLightMenu/*menu/themes/**", "_nds/TWiLightMenu/unlaunch/backgrounds/**", .github/workflows/update.yml ]
+    paths: [ generate.py, "_nds/TWiLightMenu/*menu/themes/**", "_nds/TWiLightMenu/unlaunch/backgrounds/**", "_nds/TWiLightMenu/unlaunch/extras/fonts/**", .github/workflows/update.yml ]
   workflow_dispatch:
 
 jobs:
