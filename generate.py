@@ -66,8 +66,8 @@ def lastUpdated(sevenZip):
 
 # Read version from old unistore
 unistoreOld = {}
-if os.path.exists("twlmenu-skins.unistore"):
-	with open("twlmenu-skins.unistore", "r", encoding="utf8") as file:
+if os.path.exists(os.path.join("unistore", "twlmenu-skins.unistore")):
+	with open(os.path.join("unistore", "twlmenu-skins.unistore"), "r", encoding="utf8") as file:
 		unistoreOld = json.load(file)
 
 # Output JSON
