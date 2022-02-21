@@ -2,6 +2,8 @@
 author: Google
 category:
 - noto
+- chinese
+- chinese-simplified
 color: '#e6e6e6'
 console: Font
 created: '2022-02-20T19:15:17Z'
