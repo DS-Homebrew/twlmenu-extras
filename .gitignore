@@ -7,3 +7,4 @@ unistore/temp
 *.jekyll-cache
 *.jekyll-metadata
 *Gemfile.lock
+*__pycache__

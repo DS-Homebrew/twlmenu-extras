@@ -3,14 +3,15 @@
 import datetime
 import git
 import glob
-import io
 import json
 import os
-from PIL import Image, ImageDraw
 import py7zr
 import sys
 import urllib.parse
 import yaml
+
+from bannergif import bannergif
+from PIL import Image
 
 # No py 2
 if(sys.version_info.major != 3):
@@ -161,9 +162,20 @@ for skin in files:
 					"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/screenshots/" + screenshot,
 					"description": screenshot[:screenshot.rfind(".")].capitalize().replace("-", " ")
 				})
-	elif skin[-3:] in ("gif", "png", "bin"):  # Unlaunch bg or icon
+	elif skin[-3:] in ("gif", "png"):  # Unlaunch bg or icon
 		screenshots.append({
 			"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin,
+			"description": skinName.capitalize().replace("-", " ")
+		})
+	elif skin[-3:] == "bin":  # banner.bin icon
+		if not os.path.exists(os.path.join(skin[:skin.rfind("/")], "gif")):
+			os.mkdir(os.path.join(skin[:skin.rfind("/")], "gif"))
+
+		gifPath = os.path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
+		bannergif(skin, gifPath)
+
+		screenshots.append({
+			"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + gifPath,
 			"description": skinName.capitalize().replace("-", " ")
 		})
 
@@ -191,10 +203,12 @@ for skin in files:
 			iconPath = os.path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png")
 		elif skin[-3:] == "png":
 			iconPath = skin
+		elif skin[-3:] == "bin":
+			iconPath = os.path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
 
 		if iconPath:
 			with Image.open(iconPath) as icon:
-				if skin[-3:] != "png":
+				if skin[-3:] not in ("png", "bin"):
 					icon.thumbnail((48, 48))
 
 				icon.save(os.path.join("unistore", "temp", str(iconIndex) + ".png"))
@@ -246,6 +260,8 @@ for skin in files:
 		}}
 	if skin[-3:] in ("gif", "png"):
 		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin
+	elif skin[-3:] == "bin":
+		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + os.path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
 	elif web["icon_index"] < 3:
 		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/" + ["3ds", "dsi", "r4", "ak"][web["icon_index"]] + ".png"
 	else:
