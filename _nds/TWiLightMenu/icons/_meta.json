@@ -1,0 +1,82 @@
+{
+	"default-a26": {
+		"title": "Default Atari 2600",
+		"author": "Rocket Robz",
+		"categories": ["default", "atari-2600"]
+	},
+	"default-gb": {
+		"title": "Default Game Boy",
+		"author": "Rocket Robz",
+		"categories": ["default", "game-boy"]
+	},
+	"default-gba": {
+		"title": "Default Game Boy Advance",
+		"author": "Rocket Robz",
+		"categories": ["default", "gba"]
+	},
+	"default-gbamode": {
+		"title": "Default GBA Mode",
+		"author": "Rocket Robz",
+		"categories": ["default", "gba"]
+	},
+	"default-gg": {
+		"title": "Default Game Gear",
+		"author": "Rocket Robz",
+		"categories": ["default", "game-gear"]
+	},
+	"default-int": {
+		"title": "Default Intellivision",
+		"author": "Rocket Robz",
+		"categories": ["default", "intellivision"]
+	},
+	"default-m5": {
+		"title": "Default Sord M5",
+		"author": "Rocket Robz",
+		"categories": ["default", "sord-m5"]
+	},
+	"default-md": {
+		"title": "Default Mega Drive",
+		"author": "Rocket Robz",
+		"categories": ["default", "mega-drive"]
+	},
+	"default-nes": {
+		"title": "Default NES",
+		"author": "Rocket Robz",
+		"categories": ["default", "nes"]
+	},
+	"default-ngp": {
+		"title": "Default Neo Geo Pocket",
+		"author": "Rocket Robz",
+		"categories": ["default", "neo-geo-pocket"]
+	},
+	"default-pce": {
+		"title": "Default PC Engine",
+		"author": "Rocket Robz",
+		"categories": ["default", "pc-engine"]
+	},
+	"default-plg": {
+		"title": "Default PLG",
+		"author": "Rocket Robz",
+		"categories": ["default", "plg"]
+	},
+	"default-sg": {
+		"title": "Default SG-1000",
+		"author": "Rocket Robz",
+		"categories": ["default", "sg-1000"]
+	},
+	"default-sms": {
+		"title": "Default Master System",
+		"author": "Rocket Robz",
+		"categories": ["default", "master-system"]
+	},
+	"default-snes": {
+		"title": "Default SNES",
+		"author": "Rocket Robz",
+		"categories": ["default", "snes"]
+	},
+	"default-ws": {
+		"title": "Default WonderSwan",
+		"author": "Rocket Robz",
+		"categories": ["default", "wonderswan"]
+	}
+}
