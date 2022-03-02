@@ -18,5 +18,7 @@ collections:
   #   output: true
   font:
     output: true
+  icon:
+    output: true
   unlaunch:
     output: true

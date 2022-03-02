@@ -25,6 +25,12 @@
 		"key": "f"
 	},
 	{
+		"title": "Icons",
+		"system-title": "Icon",
+		"url": "/icon",
+		"key": "c"
+	},
+	{
 		"title": "Unlaunch Backgrounds",
 		"system-title": "Unlaunch",
 		"url": "/unlaunch",

@@ -39,6 +39,8 @@ def getTheme(path):
 		return "R4 Original"
 	elif "extras/fonts/" in path:
 		return "Font"
+	elif "icons/" in path:
+		return "Icon"
 	elif "unlaunch/" in path:
 		return "Unlaunch"
 	return ""
@@ -54,6 +56,8 @@ def getDefaultIcon(path):
 		return 2
 	elif "extras/fonts/" in path:
 		return 3
+	elif "icons/" in path:
+		return 4
 	return -1
 
 def lastUpdated(sevenZip):
@@ -112,10 +116,14 @@ if len(sys.argv) > 1:
 # Get skin files
 files = [f for f in glob.glob("_nds/TWiLightMenu/*menu/themes/*.7z")]
 files += [f for f in glob.glob("_nds/TWiLightMenu/extras/fonts/*.7z")]
+files += [f for f in glob.glob("_nds/TWiLightMenu/icons/*.png")]
+files += [f for f in glob.glob("_nds/TWiLightMenu/icons/*.bin")]
 files += [f for f in glob.glob("_nds/TWiLightMenu/unlaunch/backgrounds/*.gif")]
 
 # Generate UniStore entries
 for skin in files:
+	print(skin)
+
 	# Skip Wood UI for now
 	if(getTheme(skin) == "Wood UI"):
 		continue
@@ -130,9 +138,9 @@ for skin in files:
 			updated = lastUpdated(a)
 			inFolder = skinName in a.getnames()
 	else:
-		updated = datetime.datetime.utcfromtimestamp(int(git.Repo(".").git.log(["-n1", "--pretty=format:%ct", "--", skin])))
+		updated = datetime.datetime.utcfromtimestamp(int(git.Repo(".").git.log(["-n1", "--pretty=format:%ct", "--", skin]) or 0))
 
-	created = datetime.datetime.utcfromtimestamp(int(git.Repo(".").git.log(["--pretty=format:%ct", "--", skin]).split("\n")[-1]))
+	created = datetime.datetime.utcfromtimestamp(int(git.Repo(".").git.log(["--pretty=format:%ct", "--", skin]).split("\n")[-1] or 0))
 
 	if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "info.json")):
 		with open(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "info.json")) as file:
@@ -153,7 +161,7 @@ for skin in files:
 					"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/screenshots/" + screenshot,
 					"description": screenshot[:screenshot.rfind(".")].capitalize().replace("-", " ")
 				})
-	elif skin[-3:] == "gif":
+	elif skin[-3:] in ("gif", "png", "bin"):  # Unlaunch bg or icon
 		screenshots.append({
 			"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin,
 			"description": skinName.capitalize().replace("-", " ")
@@ -176,12 +184,19 @@ for skin in files:
 
 	if (not "unistore_exclude" in info or info["unistore_exclude"] == False) and (not getTheme(skin) == "Unlaunch"):
 		# Make icon for UniStore
+		if not os.path.exists(os.path.join("unistore", "temp")):
+			os.mkdir(os.path.join("unistore", "temp"))
+		iconPath = None
 		if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png")):
-			with Image.open(open(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png"), "rb")) as icon:
-				if not os.path.exists(os.path.join("unistore", "temp")):
-					os.mkdir(os.path.join("unistore", "temp"))
+			iconPath = os.path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png")
+		elif skin[-3:] == "png":
+			iconPath = skin
 
-				icon.thumbnail((48, 48))
+		if iconPath:
+			with Image.open(iconPath) as icon:
+				if skin[-3:] != "png":
+					icon.thumbnail((48, 48))
+
 				icon.save(os.path.join("unistore", "temp", str(iconIndex) + ".png"))
 				icons.append(str(iconIndex) + ".png")
 				skinInfo["icon_index"] = iconIndex
@@ -229,7 +244,7 @@ for skin in files:
 		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin,
 		"size": os.path.getsize(skin)
 		}}
-	if skin[-3:] == "gif":
+	if skin[-3:] in ("gif", "png"):
 		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin
 	elif web["icon_index"] < 3:
 		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/" + ["3ds", "dsi", "r4", "ak"][web["icon_index"]] + ".png"

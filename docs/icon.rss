@@ -5,13 +5,13 @@ layout: compress
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>{{ site.title }}</title>
+		<title>Icons | {{ site.title }}</title>
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ page.url | absolute_url }}" rel="self" type="application/rss+xml" />
 		<description>{{ site.description }}</description>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<language>en-us</language>
-		{% assign apps = site.nintendo-3ds | concat: site.nintendo-dsi | concat: site.r4-original | concat: site.font | concat: site.icon | concat: site.unlaunch | uniq | sort: "updated" | reverse %}
+		{% assign apps = site.icon | uniq | sort: "updated" | reverse %}
 		{% for app in apps limit: 4 %}
 			<item>
 				<title>{{ app.title }} updated to {{ app.version | default: "new version" }}</title>
