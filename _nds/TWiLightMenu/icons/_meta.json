@@ -9,6 +9,11 @@
 		"author": "Rocket Robz",
 		"categories": ["default", "game-boy"]
 	},
+	"default-gbc": {
+		"title": "Default Game Boy Color",
+		"author": "Rocket Robz",
+		"categories": ["default", "game-boy", "gbc"]
+	},
 	"default-gba": {
 		"title": "Default Game Boy Advance",
 		"author": "Rocket Robz",
