@@ -104,7 +104,12 @@ layout: compress
 													</div>
 													<small>
 														{% unless page.system %}
-															<span class="i18n innerHTML-theme">Theme: </span>{{ app.systems | join: ", "}}
+															<span class="i18n innerHTML-theme">Theme: </span>
+															{% for system in app.systems %}
+																{%- assign systemId = system | downcase | replace: " ", "-" -%}
+																<span class="i18n innerHTML-{{ systemId }}">{{ system }}</span>
+																{%- unless forloop.last -%}, {% endunless %}
+															{% endfor %}
 															<br>
 														{% endunless %}
 														{% if app.version %}
