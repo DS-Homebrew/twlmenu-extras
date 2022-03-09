@@ -2,6 +2,6 @@
 	"title": "Rune Factory 3",
 	"author": "Shiori",
 	"description": "Feel the Sharance town vibes in your 3ds menu.",
-	"categories": ["Rune Factory", "Shin Bokujou Monogatari", "Sharance Tree", "Sharance Village"],
+	"categories": ["rune-factory", "shin-bokujou-monogatari", "sharance-tree", "sharance-village"],
 	"version": "v1.0.0"
 }
