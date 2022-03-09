@@ -1,10 +1,10 @@
 ---
 author: Shiori
 category:
-- Rune Factory
-- Shin Bokujou Monogatari
-- Sharance Tree
-- Sharance Village
+- rune-factory
+- shin-bokujou-monogatari
+- sharance-tree
+- sharance-village
 color: '#8e8c6c'
 console: Nintendo 3DS
 created: '2021-09-20T15:38:47Z'
