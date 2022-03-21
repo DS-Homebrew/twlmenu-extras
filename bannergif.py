@@ -27,7 +27,10 @@ THE SOFTWARE.
 from PIL import Image
 import struct
 
-def bannergif(input, output):
+
+def bannergif(input: str, output: str) -> None:
+	"""Extracts a DS(i) ROM's icon to an image"""
+
 	with open(input, "rb") as banner:
 		# Load banner data
 		bitmaps = []
@@ -128,4 +131,3 @@ def bannergif(input, output):
 
 		# Save output image
 		images[0].save(output if output else "output.gif", save_all=True, append_images=images[1:], duration=delays, loop=0, optimize=False)
-

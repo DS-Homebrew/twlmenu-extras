@@ -1,25 +1,21 @@
 #!/usr/bin/env python3
 
-import datetime
 import git
-import glob
 import json
-import os
-import py7zr
-import sys
 import urllib.parse
 import yaml
 
 from bannergif import bannergif
+from datetime import datetime
+from glob import glob
+from os import listdir, makedirs, mkdir, path, system
 from PIL import Image
+from py7zr import SevenZipFile
 
-# No py 2
-if(sys.version_info.major != 3):
-	print("This is Python %d!\nPlease use Python 3!" % sys.version_info.major)
-	exit()
 
-# Convert names to lowercase alphanumeric + underscore and hyphen
-def webName(name):
+def webName(name: str) -> str:
+	"""Convert names to lowercase alphanumeric + underscore and hyphen"""
+
 	name = name.lower()
 	out = ""
 	for letter in name:
@@ -29,7 +25,10 @@ def webName(name):
 			out += "-"
 	return out
 
-def getTheme(path):
+
+def getTheme(path: str) -> int:
+	"""Gets the theme of a skin based on its path"""
+
 	if "3dsmenu/" in path:
 		return "Nintendo 3DS"
 	elif "akmenu/" in path:
@@ -46,7 +45,10 @@ def getTheme(path):
 		return "Unlaunch"
 	return ""
 
-def getDefaultIcon(path):
+
+def getDefaultIcon(path: str) -> int:
+	"""Gets the default icon of a skin based on its path"""
+
 	if "3dsmenu/" in path:
 		return 0
 	elif "akmenu/" in path:
@@ -61,16 +63,21 @@ def getDefaultIcon(path):
 		return 4
 	return -1
 
+
 def lastUpdated(sevenZip):
+	"""Gets the latest date from the items in a 7z"""
+
 	latest = None
 	for item in sevenZip.list():
-		if latest == None or item.creationtime > latest:
+		if latest is None or item.creationtime > latest:
 			latest = item.creationtime
 
 	return latest
 
 
 def downloadScript(skin: str, inFolder: bool) -> list:
+	"""Makes a script to download the specified skin"""
+
 	skinName = skin[skin.rfind("/") + 1:skin.rfind(".")]
 
 	if skin.endswith(".7z"):
@@ -78,17 +85,17 @@ def downloadScript(skin: str, inFolder: bool) -> list:
 			{
 				"type": "downloadFile",
 				"file": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + urllib.parse.quote(skin),
-				"output": "sdmc:/" + skinName + ".7z"
+				"output": f"/{skinName}.7z"
 			},
 			{
 				"type": "extractFile",
-				"file": "sdmc:/" + skinName + ".7z",
+				"file": f"/{skinName}.7z",
 				"input": (skinName + "/") if inFolder else "",
-				"output": "sdmc:/" + skin[:-3] + "/"
+				"output": f"/{skin[:-3]}/"
 			},
 			{
 				"type": "deleteFile",
-				"file": "sdmc:/" + skinName + ".7z"
+				"file": f"/{skinName}.7z"
 			}
 		]
 	else:
@@ -96,15 +103,15 @@ def downloadScript(skin: str, inFolder: bool) -> list:
 			{
 				"type": "downloadFile",
 				"file": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + urllib.parse.quote(skin),
-				"output": "sdmc:/" + skin
+				"output": "/" + skin
 			}
 		]
 
 
 # Read version from old unistore
 unistoreOld = {}
-if os.path.exists(os.path.join("unistore", "twlmenu-skins.unistore")):
-	with open(os.path.join("unistore", "twlmenu-skins.unistore"), "r", encoding="utf8") as file:
+if path.exists(path.join("unistore", "twlmenu-skins.unistore")):
+	with open(path.join("unistore", "twlmenu-skins.unistore"), "r", encoding="utf8") as file:
 		unistoreOld = json.load(file)
 
 # Output JSON
@@ -132,26 +139,21 @@ iconIndex = 0
 
 # Make 3DS, DSi, R4 icons
 for file in ["3ds.png", "dsi.png", "r4.png", "font.png"]:
-	with Image.open(open(os.path.join("unistore", "icons", file), "rb")) as icon:
-		if not os.path.exists(os.path.join("unistore", "temp")):
-			os.mkdir(os.path.join("unistore", "temp"))
+	with Image.open(open(path.join("unistore", "icons", file), "rb")) as icon:
+		if not path.exists(path.join("unistore", "temp")):
+			mkdir(path.join("unistore", "temp"))
 
 		icon.thumbnail((48, 48))
-		icon.save(os.path.join("unistore", "temp", str(iconIndex) + ".png"))
+		icon.save(path.join("unistore", "temp", str(iconIndex) + ".png"))
 		icons.append(str(iconIndex) + ".png")
 		iconIndex += 1
 
-# Auth header
-header = None
-if len(sys.argv) > 1:
-	header = {"Authorization": "token " + sys.argv[1]}
-
 # Get skin files
-files = [f for f in glob.glob("_nds/TWiLightMenu/*menu/themes/*.7z")]
-files += [f for f in glob.glob("_nds/TWiLightMenu/extras/fonts/*.7z")]
-files += [f for f in glob.glob("_nds/TWiLightMenu/icons/*.png")]
-files += [f for f in glob.glob("_nds/TWiLightMenu/icons/*.bin")]
-files += [f for f in glob.glob("_nds/TWiLightMenu/unlaunch/backgrounds/*.gif")]
+files = [f for f in glob("_nds/TWiLightMenu/*menu/themes/*.7z")]
+files += [f for f in glob("_nds/TWiLightMenu/extras/fonts/*.7z")]
+files += [f for f in glob("_nds/TWiLightMenu/icons/*.png")]
+files += [f for f in glob("_nds/TWiLightMenu/icons/*.bin")]
+files += [f for f in glob("_nds/TWiLightMenu/unlaunch/backgrounds/*.gif")]
 
 # Generate UniStore entries
 for skin in files:
@@ -162,31 +164,31 @@ for skin in files:
 		continue
 
 	info = {}
-	updated = datetime.datetime.utcfromtimestamp(0)
+	updated = datetime.utcfromtimestamp(0)
 	inFolder = False
-	skinName = skin[skin.rfind("/")+1:skin.rfind(".")]
+	skinName = skin[skin.rfind("/") + 1:skin.rfind(".")]
 
 	if skin[-2:] == "7z":
-		with py7zr.SevenZipFile(skin) as a:
+		with SevenZipFile(skin) as a:
 			updated = lastUpdated(a)
 			inFolder = skinName in a.getnames()
 	else:
-		updated = datetime.datetime.utcfromtimestamp(int(git.Repo(".").git.log(["-n1", "--pretty=format:%ct", "--", skin]) or 0))
+		updated = datetime.utcfromtimestamp(int(git.Repo(".").git.log(["-n1", "--pretty=format:%ct", "--", skin]) or 0))
 
-	created = datetime.datetime.utcfromtimestamp(int(git.Repo(".").git.log(["--pretty=format:%ct", "--", skin]).split("\n")[-1] or 0))
+	created = datetime.utcfromtimestamp(int(git.Repo(".").git.log(["--pretty=format:%ct", "--", skin]).split("\n")[-1] or 0))
 
-	if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "info.json")):
-		with open(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "info.json")) as file:
+	if path.exists(path.join(skin[:skin.rfind("/")], "meta", skinName, "info.json")):
+		with open(path.join(skin[:skin.rfind("/")], "meta", skinName, "info.json")) as file:
 			info = json.load(file)
-	elif os.path.exists(os.path.join(skin[:skin.rfind("/")], "_meta.json")):
-		with open(os.path.join(skin[:skin.rfind("/")], "_meta.json")) as file:
+	elif path.exists(path.join(skin[:skin.rfind("/")], "_meta.json")):
+		with open(path.join(skin[:skin.rfind("/")], "_meta.json")) as file:
 			j = json.load(file)
 			if skinName in j:
 				info = j[skinName]
 
 	screenshots = []
-	if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "screenshots")):
-		dirlist = os.listdir((os.path.join(skin[:skin.rfind("/")], "meta", skinName, "screenshots")))
+	if path.exists(path.join(skin[:skin.rfind("/")], "meta", skinName, "screenshots")):
+		dirlist = listdir((path.join(skin[:skin.rfind("/")], "meta", skinName, "screenshots")))
 		dirlist.sort()
 		for screenshot in dirlist:
 			if screenshot[-3:] == "png":
@@ -200,10 +202,10 @@ for skin in files:
 			"description": skinName.capitalize().replace("-", " ")
 		})
 	elif skin[-3:] == "bin":  # banner.bin icon
-		if not os.path.exists(os.path.join(skin[:skin.rfind("/")], "gif")):
-			os.mkdir(os.path.join(skin[:skin.rfind("/")], "gif"))
+		if not path.exists(path.join(skin[:skin.rfind("/")], "gif")):
+			mkdir(path.join(skin[:skin.rfind("/")], "gif"))
 
-		gifPath = os.path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
+		gifPath = path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
 		bannergif(skin, gifPath)
 
 		screenshots.append({
@@ -226,24 +228,24 @@ for skin in files:
 
 	color = None
 
-	if (not "unistore_exclude" in info or info["unistore_exclude"] == False) and (not getTheme(skin) == "Unlaunch"):
+	if ("unistore_exclude" not in info or info["unistore_exclude"] is False) and (getTheme(skin) != "Unlaunch"):
 		# Make icon for UniStore
-		if not os.path.exists(os.path.join("unistore", "temp")):
-			os.mkdir(os.path.join("unistore", "temp"))
+		if not path.exists(path.join("unistore", "temp")):
+			mkdir(path.join("unistore", "temp"))
 		iconPath = None
-		if os.path.exists(os.path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png")):
-			iconPath = os.path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png")
+		if path.exists(path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png")):
+			iconPath = path.join(skin[:skin.rfind("/")], "meta", skinName, "icon.png")
 		elif skin[-3:] == "png":
 			iconPath = skin
 		elif skin[-3:] == "bin":
-			iconPath = os.path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
+			iconPath = path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
 
 		if iconPath:
 			with Image.open(iconPath) as icon:
 				if skin[-3:] not in ("png", "bin"):
 					icon.thumbnail((48, 48))
 
-				icon.save(os.path.join("unistore", "temp", str(iconIndex) + ".png"))
+				icon.save(path.join("unistore", "temp", str(iconIndex) + ".png"))
 				icons.append(str(iconIndex) + ".png")
 				skinInfo["icon_index"] = iconIndex
 				iconIndex += 1
@@ -269,12 +271,12 @@ for skin in files:
 		web["color"] = color
 	web["downloads"] = {skin[skin.rfind("/") + 1:]: {
 		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin,
-		"size": os.path.getsize(skin)
-		}}
+		"size": path.getsize(skin)
+	}}
 	if skin[-3:] in ("gif", "png"):
 		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin
 	elif skin[-3:] == "bin":
-		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + os.path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
+		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
 	elif web["icon_index"] < 3:
 		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/" + ["3ds", "dsi", "r4", "ak"][web["icon_index"]] + ".png"
 	else:
@@ -282,36 +284,36 @@ for skin in files:
 	web["image"] = web["icon"]
 	web.pop("icon_index")
 	if "title" in web:
-		if not os.path.exists(os.path.join("docs", "_" + webName(web["console"]))):
-			os.mkdir(os.path.join("docs", "_" + webName(web["console"])))
-		with open(os.path.join("docs", "_" + webName(web["console"]), webName(web["title"]) + ".md"), "w", encoding="utf8") as file:
+		if not path.exists(path.join("docs", "_" + webName(web["console"]))):
+			mkdir(path.join("docs", "_" + webName(web["console"])))
+		with open(path.join("docs", "_" + webName(web["console"]), webName(web["title"]) + ".md"), "w", encoding="utf8") as file:
 			file.write("---\n" + yaml.dump(web) + "---\n")
 
 	for category in web["category"]:
-		if not os.path.exists(os.path.join("docs", webName(web["console"]), "category")):
-			os.makedirs(os.path.join("docs", webName(web["console"]), "category"))
-		with open(os.path.join("docs", webName(web["console"]), "category", category + ".md"), "w", encoding="utf8") as file:
+		if not path.exists(path.join("docs", webName(web["console"]), "category")):
+			makedirs(path.join("docs", webName(web["console"]), "category"))
+		with open(path.join("docs", webName(web["console"]), "category", category + ".md"), "w", encoding="utf8") as file:
 			file.write(f"---\nlayout: cards\ntitle: {getTheme(skin)} - {category}\nsystem: {webName(web['console'])}\ncategory: {category}\n---\n<div class=\"alert alert-secondary mb-4\"><span class=\"i18n innerHTML-category\">Category: </span><span class=\"i18n innerHTML-cat-{category}\">{category}</span></div>\n")
 
 	output.append(web)
 
 # Make t3x
-with open(os.path.join("unistore", "temp", "icons.t3s"), "w", encoding="utf8") as file:
+with open(path.join("unistore", "temp", "icons.t3s"), "w", encoding="utf8") as file:
 	file.write("--atlas -f rgba -z auto\n\n")
 	for icon in icons:
 		file.write(icon + "\n")
-os.system("tex3ds -i " + os.path.join("unistore", "temp", "icons.t3s") + " -o " + os.path.join("unistore", "twlmenu-skins.t3x"))
+system("tex3ds -i " + path.join("unistore", "temp", "icons.t3s") + " -o " + path.join("unistore", "twlmenu-skins.t3x"))
 
 # Increment revision if not the same
 if unistore != unistoreOld:
 	unistore["storeInfo"]["revision"] += 1
 
 # Write unistore to file
-with open(os.path.join("unistore", "twlmenu-skins.unistore"), "w", encoding="utf8") as file:
+with open(path.join("unistore", "twlmenu-skins.unistore"), "w", encoding="utf8") as file:
 	file.write(json.dumps(unistore, sort_keys=True))
 
 # Write output file
-if not os.path.exists(os.path.join("docs", "data")):
-	os.makedirs(os.path.join("docs", "data"))
-with open(os.path.join("docs", "data", "full.json"), "w", encoding="utf8") as file:
+if not path.exists(path.join("docs", "data")):
+	makedirs(path.join("docs", "data"))
+with open(path.join("docs", "data", "full.json"), "w", encoding="utf8") as file:
 	file.write(json.dumps(output, sort_keys=True, ensure_ascii=False))
