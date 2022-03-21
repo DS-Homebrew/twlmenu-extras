@@ -69,6 +69,38 @@ def lastUpdated(sevenZip):
 
 	return latest
 
+
+def downloadScript(skin: str, inFolder: bool) -> list:
+	skinName = skin[skin.rfind("/") + 1:skin.rfind(".")]
+
+	if skin.endswith(".7z"):
+		return [
+			{
+				"type": "downloadFile",
+				"file": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + urllib.parse.quote(skin),
+				"output": "sdmc:/" + skinName + ".7z"
+			},
+			{
+				"type": "extractFile",
+				"file": "sdmc:/" + skinName + ".7z",
+				"input": (skinName + "/") if inFolder else "",
+				"output": "sdmc:/" + skin[:-3] + "/"
+			},
+			{
+				"type": "deleteFile",
+				"file": "sdmc:/" + skinName + ".7z"
+			}
+		]
+	else:
+		return [
+			{
+				"type": "downloadFile",
+				"file": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + urllib.parse.quote(skin),
+				"output": "sdmc:/" + skin
+			}
+		]
+
+
 # Read version from old unistore
 unistoreOld = {}
 if os.path.exists(os.path.join("unistore", "twlmenu-skins.unistore")):
@@ -224,26 +256,7 @@ for skin in files:
 		# Add entry to UniStore
 		unistore["storeContent"].append({
 			"info": skinInfo,
-			info["title"] if "title" in info else skinName: [
-				{
-					"type": "downloadFile",
-					"file": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + urllib.parse.quote(skin),
-					"output": "sdmc:/" + skinName + ".7z",
-					"message": "Downloading " + info["title"] if "title" in info else skinName + "..."
-				},
-				{
-					"type": "extractFile",
-					"file": "sdmc:/" + skinName + ".7z",
-					"input": (skinName + "/") if inFolder else "",
-					"output": "sdmc:/" + skin[:-3] + "/",
-					"message": "Extracting " + info["title"] if "title" in info else skinName + "..."
-				},
-				{
-					"type": "deleteFile",
-					"file": "sdmc:/" + skinName + ".7z",
-					"message": "Deleting " + skinName + ".7z..."
-				}
-			]
+			info["title"] if "title" in info else skinName: downloadScript(skin, inFolder)
 		})
 
 	# Website file
