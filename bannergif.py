@@ -107,7 +107,7 @@ def bannergif(input: str, output: str) -> None:
 		for i, frame in enumerate(animation):
 			# Animation ends when the animation u16 is 0, since it's split here
 			# for ease of use checking just the duration should be fine
-			if frame["duration"] == 0:
+			if frame["duration"] == 0 and i > 0:
 				break
 
 			# 32x32 Paletted image
