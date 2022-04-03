@@ -83,5 +83,14 @@
 		"title": "Default WonderSwan",
 		"author": "Rocket Robz",
 		"categories": ["default", "wonderswan"]
-	}
+	},
+	"voltwhite2": {
+		"title": "Pokémon Volt White 2",
+		"author": "Allinxter",
+		"categories": ["pokemon", "drayano", "volt", "white", "voltwhite"]
+	},
+	"blazeblack2": {
+		"title": "Pokémon Blaze Black 2",
+		"author": "Allinxter",
+		"categories": ["pokemon", "drayano", "blaze", "black", "blazeblack"]
 }
