@@ -206,7 +206,8 @@ for skin in files:
 			mkdir(path.join(skin[:skin.rfind("/")], "gif"))
 
 		gifPath = path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
-		bannergif(skin, gifPath)
+		with open(skin, "rb") as f:
+			bannergif(f, gifPath)
 
 		screenshots.append({
 			"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + gifPath,
