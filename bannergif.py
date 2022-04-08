@@ -32,9 +32,22 @@ For more information, please refer to <http://unlicense.org/>
 
 from argparse import ArgumentParser, FileType
 from io import SEEK_CUR
-from libscrc import modbus
 from PIL import Image
-from struct import unpack
+from struct import pack, unpack
+
+
+# GBATEK swiCRC16 pseudocode
+# https://problemkaputt.de/gbatek-bios-misc-functions.htm
+def crc16(data):
+	crc = 0xFFFF
+	for byte in bytearray(data):
+		crc ^= byte
+		for i in range(8):
+			carry = (crc & 0x0001) > 0
+			crc = crc >> 1
+			if carry:
+				crc = crc ^ 0xA001
+	return pack("<H", crc)
 
 
 def bannergif(rom, output):
@@ -46,7 +59,7 @@ def bannergif(rom, output):
 	if version & 0x100:
 		rom.seek(0x1240)
 		data = rom.read(0x1180)
-		if dsiChecksum != modbus(data):
+		if dsiChecksum != crc16(data):
 			print("Warning: DSi icon checksum failed, using DS icon")
 			version &= ~0x100
 
