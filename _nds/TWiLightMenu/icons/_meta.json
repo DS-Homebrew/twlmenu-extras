@@ -143,5 +143,45 @@
 		"title": "The Legend of Zelda: The Minish Cap",
 		"author": "NandoLawson",
 		"categories": ["gba", "zelda"]
+	},
+	"pixelgb": {
+		"title": "Pixel Game Boy",
+		"author": "Allinxter",
+		"categories": ["pixel", "game-boy",]
+	},
+	"pixelgba": {
+		"title": "Pixel Game Boy Advance",
+		"author": "Allinxter",
+		"categories": ["pixel", "game-boy-advance"]
+	},
+	"pixelgbc": {
+		"title": "Pixel Game Boy Color",
+		"author": "Allinxter",
+		"categories": ["pixel", "game-boy-color"]
+	},
+	"pixelgg": {
+		"title": "Pixel Game Gear",
+		"author": "Allinxter",
+		"categories": ["pixel", "game-gear"]
+	},
+	"pixelmd": {
+		"title": "Pixel Mega Drive",
+		"author": "Allinxter",
+		"categories": ["pixel", "mega-drive"]
+	},
+	"pixelnes": {
+		"title": "Pixel NES",
+		"author": "Allinxter",
+		"categories": ["pixel", "nes"]
+	},
+	"pixelsms": {
+		"title": "Pixel Master System",
+		"author": "Allinxter",
+		"categories": ["pixel", "master-system"]
+	},
+	"pixelsnes": {
+		"title": "Pixel SNES",
+		"author": "Allinxter",
+		"categories": ["pixel", "snes"]
 	}
 }
