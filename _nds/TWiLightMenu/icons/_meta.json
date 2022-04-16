@@ -147,7 +147,7 @@
 	"pixelgb": {
 		"title": "Pixel Game Boy",
 		"author": "Allinxter",
-		"categories": ["pixel", "game-boy",]
+		"categories": ["pixel", "game-boy"]
 	},
 	"pixelgba": {
 		"title": "Pixel Game Boy Advance",
