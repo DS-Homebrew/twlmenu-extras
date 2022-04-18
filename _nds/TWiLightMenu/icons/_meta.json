@@ -93,6 +93,96 @@
 		"title": "Pokémon Blaze Black 2",
 		"author": "Allinxter",
 		"categories": ["pokemon", "drayano", "blaze", "black", "blazeblack"]
+	},
+	"Mario Kart - Super Circuit": {
+		"title": "Mario Kart: Super Circuit",
+		"author": "NandoLawson",
+		"categories": ["gba", "Mario"]
+	},
+	"Mario Party Advance": {
+		"title": "Mario Party Advance",
+		"author": "NandoLawson",
+		"categories": ["gba", "Mario"]
+	},
+	"Mother 3": {
+		"title": "Mother 3",
+		"author": "NandoLawson",
+		"categories": ["gba", "mother", "earthbound"]
+	},
+	"Pokémon Emerald Version.gba": {
+		"title": "Pokémon Emerald Version",
+		"author": "NandoLawson",
+		"categories": ["gba", "pokemon"]
+	},
+	"Pokémon FireRed Version": {
+		"title": "Pokémon FireRed Version",
+		"author": "NandoLawson",
+		"categories": ["gba", "pokemon"]
+	},
+	"Pokémon LeafGreen Version": {
+		"title": "Pokémon LeafGreen Version",
+		"author": "NandoLawson",
+		"categories": ["gba", "pokemon"]
+	},
+	"Pokémon Ruby Version": {
+		"title": "Pokémon Ruby Version",
+		"author": "NandoLawson",
+		"categories": ["gba", "pokemon"]
+	},
+	"Pokémon Sapphire Version": {
+		"title": "Pokémon Sapphire Version",
+		"author": "NandoLawson",
+		"categories": ["gba", "pokemon"]
+	},
+	"Rayman Advance": {
+		"title": "Rayman Advance",
+		"author": "NandoLawson",
+		"categories": ["gba", "rayman"]
+	},
+	"The Legend of Zelda - The Minish Cap": {
+		"title": "The Legend of Zelda: The Minish Cap",
+		"author": "NandoLawson",
+		"categories": ["gba", "zelda"]
+	},
+	"pixelgb": {
+		"title": "Pixel Game Boy",
+		"author": "Allinxter",
+		"categories": ["pixel", "game-boy"]
+	},
+	"pixelgba": {
+		"title": "Pixel Game Boy Advance",
+		"author": "Allinxter",
+		"categories": ["pixel", "game-boy-advance"]
+	},
+	"pixelgbc": {
+		"title": "Pixel Game Boy Color",
+		"author": "Allinxter",
+		"categories": ["pixel", "game-boy-color"]
+	},
+	"pixelgg": {
+		"title": "Pixel Game Gear",
+		"author": "Allinxter",
+		"categories": ["pixel", "game-gear"]
+	},
+	"pixelmd": {
+		"title": "Pixel Mega Drive",
+		"author": "Allinxter",
+		"categories": ["pixel", "mega-drive"]
+	},
+	"pixelnes": {
+		"title": "Pixel NES",
+		"author": "Allinxter",
+		"categories": ["pixel", "nes"]
+	},
+	"pixelsms": {
+		"title": "Pixel Master System",
+		"author": "Allinxter",
+		"categories": ["pixel", "master-system"]
+	},
+	"pixelsnes": {
+		"title": "Pixel SNES",
+		"author": "Allinxter",
+		"categories": ["pixel", "snes"]
 	}
 	"Cocoto - Kart Racer": {
 		"title": "Cocoto: Kart Racer",

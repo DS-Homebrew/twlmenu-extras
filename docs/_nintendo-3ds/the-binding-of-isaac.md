@@ -11,16 +11,16 @@ category:
 color: '#7c5636'
 console: Nintendo 3DS
 created: '2022-04-08T05:53:13Z'
-description: "Skin contains images with cartoony grotesque physique and blood.  Follow\
+description: "Skin contains images with cartoony grotesque physique and blood. Follow\
   \ Isaac into the basement to face deranged enemies, find lost brothers and sisters,\
   \ face his fears, and play Mario Kart, Pok\xE9mon and Tetris on his old DS."
 downloads:
   TBOI.7z:
-    size: 2396593
+    size: 2398151
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/TBOI.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/TBOI/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/TBOI/icon.png
-last_updated: 2022-04-08 at 05:24 (UTC)
+last_updated: 2022-04-16 at 02:18 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -35,6 +35,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: The Binding of Isaac
-updated: '2022-04-08T05:24:28Z'
-version: v1.0.0
+updated: '2022-04-16T02:18:10Z'
+version: v1.0.1
 ---
