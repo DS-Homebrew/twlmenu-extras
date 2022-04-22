@@ -2,7 +2,7 @@
 author: NandoLawson
 category:
 - gba
-- Metroid
+- metroid
 color: '#7c5038'
 console: Icon
 created: '2022-04-18T08:37:05Z'

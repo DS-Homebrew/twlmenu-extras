@@ -2,7 +2,7 @@
 author: NandoLawson
 category:
 - gba
-- Harvest Moon
+- harvest-moon
 color: '#c7baa4'
 console: Icon
 created: '2022-04-18T08:37:05Z'

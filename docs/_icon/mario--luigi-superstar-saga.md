@@ -2,7 +2,7 @@
 author: NandoLawson
 category:
 - gba
-- Mario
+- mario
 color: '#9c8f7f'
 console: Icon
 created: '2022-04-18T08:37:05Z'
