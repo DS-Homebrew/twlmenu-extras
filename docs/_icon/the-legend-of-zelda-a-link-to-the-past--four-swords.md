@@ -2,7 +2,7 @@
 author: NandoLawson
 category:
 - gba
-- Zelda
+- zelda
 color: '#567971'
 console: Icon
 created: '2022-04-18T08:37:05Z'
