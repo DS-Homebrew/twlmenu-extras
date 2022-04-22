@@ -1,6 +1,7 @@
 ---
 author: Allinxter
 category:
+- nds
 - pokemon
 - drayano
 - blaze
