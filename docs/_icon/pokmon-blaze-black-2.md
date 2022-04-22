@@ -6,7 +6,7 @@ category:
 - blaze
 - black
 - blazeblack
-color: '#58403b'
+color: '#3e5c78'
 console: Icon
 created: '2022-04-03T01:58:24Z'
 description: ''
@@ -26,5 +26,5 @@ systems:
 - Icon
 title: "Pok\xE9mon Blaze Black 2"
 updated: '2022-04-22T01:30:13Z'
-version: v1.0.0
+version: v1.1.0
 ---
