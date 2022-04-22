@@ -33,7 +33,7 @@ For more information, please refer to <http://unlicense.org/>
 from argparse import ArgumentParser, FileType
 from io import SEEK_CUR
 from PIL import Image
-from struct import pack, unpack
+from struct import unpack
 
 
 # GBATEK swiCRC16 pseudocode
