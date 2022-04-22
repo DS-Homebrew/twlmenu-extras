@@ -47,7 +47,7 @@ def crc16(data):
 			crc = crc >> 1
 			if carry:
 				crc = crc ^ 0xA001
-	return pack("<H", crc)
+	return crc
 
 
 def bannergif(rom, output):
