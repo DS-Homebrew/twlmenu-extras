@@ -87,13 +87,13 @@
 	"voltwhite2": {
 		"title": "Pokémon Volt White 2",
 		"author": "Allinxter",
-		"categories": ["pokemon", "drayano", "volt", "white", "voltwhite"],
+		"categories": ["nds", "pokemon", "drayano", "volt", "white", "voltwhite"],
 		"version": "v1.1.0"
 	},
 	"blazeblack2": {
 		"title": "Pokémon Blaze Black 2",
 		"author": "Allinxter",
-		"categories": ["pokemon", "drayano", "blaze", "black", "blazeblack"],
+		"categories": ["nds", "pokemon", "drayano", "blaze", "black", "blazeblack"],
 		"version": "v1.1.0"
 	},
 	"Mario Kart - Super Circuit": {
@@ -270,5 +270,10 @@
 		"title": "The Legend of Zelda: The Minish Cap",
 		"author": "NandoLawson",
 		"categories": ["gba", "zelda"]
+	},
+	"beebzDS": {
+		"title": "beebzDS",
+		"author": "spellboundtriangle",
+		"categories": ["nds", "homebrew"]
 	}
 }
