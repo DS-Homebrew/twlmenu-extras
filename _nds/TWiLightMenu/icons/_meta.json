@@ -281,4 +281,69 @@
 		"author": "spellboundtriangle",
 		"categories": ["nds", "homebrew", "mario"]
 	}
+	"Advance Wars 2 - Black Hole Rising": {
+		"title": "Advance Wars 2: Black Hole Rising",
+		"author": "NandoLawson",
+		"categories": ["gba", "Advance Wars"]
+	}
+	"Advance Wars": {
+		"title": "Advance Wars",
+		"author": "NandoLawson",
+		"categories": ["gba", "Advance Wars"]
+	}
+	"F-Zero - Maximum Velocity": {
+		"title": "F-Zero: Maximum Velocity",
+		"author": "NandoLawson",
+		"categories": ["gba", "f-zero"]
+	}
+	"Fire Emblem": {
+		"title": "Fire Emblem",
+		"author": "NandoLawson",
+		"categories": ["gba", "fire emblem"]
+	}
+	"Kirby & the Amazing Mirror": {
+		"title": "Kirby & the Amazing Mirror",
+		"author": "NandoLawson",
+		"categories": ["gba", "kirby"]
+	}
+	"Mario vs. Donkey Kong": {
+		"title": "Mario vs. Donkey Kong",
+		"author": "NandoLawson",
+		"categories": ["gba", "mario", "Donkey Kong"]
+	}
+	"Sonic Advance": {
+		"title": "Sonic Advance",
+		"author": "NandoLawson",
+		"categories": ["gba", "sonic"]
+	}
+	"Super Mario Advance 2 - Super Mario World": {
+		"title": "Super Mario Advance 2: Super Mario World",
+		"author": "NandoLawson",
+		"categories": ["gba", "mario"]
+	}
+	"Super Mario Advance 3 - Yoshi's Island": {
+		"title": "Super Mario Advance 3: Yoshi's Island",
+		"author": "NandoLawson",
+		"categories": ["gba", "mario", "yoshi"]
+	}
+	"Super Mario Advance 4 - Super Mario Bros. 3": {
+		"title": "Super Mario Advance 4: Super Mario Bros. 3",
+		"author": "NandoLawson",
+		"categories": ["gba", "mario"]
+	}
+	"Super Mario Advance": {
+		"title": "Super Mario Advance",
+		"author": "NandoLawson",
+		"categories": ["gba", "mario"]
+	}
+	"WarioWare, Inc. - Minigame Mania": {
+		"title": "WarioWare, Inc.: Minigame Mania",
+		"author": "NandoLawson",
+		"categories": ["gba", "wario"]
+	}
+	"Domo-Kun no Fushigi Terebi": {
+		"title": "Domo-Kun no Fushigi Terebi",
+		"author": "NandoLawson",
+		"categories": ["gba"]
+	}
 }
