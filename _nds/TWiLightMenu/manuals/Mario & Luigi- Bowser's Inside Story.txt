@@ -1,0 +1,6630 @@
+Mario and Luigi: Bowser's Inside
+Story Walkthrough Written by:
+Megawolf (Matthew Pruett)
+Version: 0.50 Date: 10/5/2009
+
+---Table of Contents------------
+
+ 0. Version History
+ 1. Introduction
+ 2. Basic Info
+  2.1 Controls
+  2.2 Stats
+  2.3 Menu Items
+  2.4 Leveling Up
+  2.5 Status Effects
+  2.6 Equipping
+ 3. Background Story
+ 4. Character Intros
+ 5. Walkthrough
+  5.1 The Blorbs
+  5.2 A Nasty Surprise
+  5.3 Blocks, Flames, & Dogs
+  5.4 Over the Wigglers and Thro
+  5.5 To The Castle!
+  5.6 Falling Stars
+  5.7 The Hunt For a Cure
+ 6. Attack List
+  6.1 Mario / Luigi
+ 7. Item List
+  7.1 Normal Items
+  7.2 Key Items
+ 8. Gear List
+  8.1 Mario / Luigi
+   8.1.1 Wear
+   8.1.2 Socks
+   8.1.3 Gloves
+   8.1.4 Boots
+   8.1.5 Treasure
+  8.2 Bowser
+   8.2.1 Shells
+   8.2.2 Bands
+   8.2.3 Fangs
+   8.2.4 Rings
+  8.3 Badges
+   8.3.1 Mario
+   8.3.2 Luigi
+ 9. Enemy List
+  9.1 Inside Bowser
+  9.2 Outside Bowser
+ 10. Boss List
+  10.1 Mario / Luigi
+  10.2 Bowser
+ 11. Mini Games
+  11.1 Inside Bowser
+  11.2 Giant Bowser
+ 12. Optional Stuff
+  12.1 Ranks
+  12.2 Attack Pieces
+  12.3 Chakroad Spots
+  12.4 Cholesteroad Challenges
+   12.4.1 Endless Mode
+   12.4.2 Juuuuump Mode
+   12.4.3 99 Block
+  12.5 Madame Broque Challenges
+  12.6 Guantlet Classes
+  12.7 Bean Checklist
+  12.8 Blitties
+  12.9 Stache / Horn Levels
+ 13. Shop List
+  13.1 Item Shops
+  13.2 Gear Shops
+ 14. Special Thanks
+ 15. Contact Info
+ 16. Frequently Asked Questions
+ 17. Legal
+
+
+---(0. Version History)---------
+
+
+v0.50: This is the first version
+I uploaded to GameFAQs. The
+walkthrough is
+ about half done, and nearly all
+ come!
+
+
+---(1. Introduction)------------
+
+
+Hello, and welcome to my guide
+for Mario and Luigi: Bowser's
+Inside Story for Nintendo DS. I
+intend for this to be a
+comprehensive walkthrough of the
+game, so I have included a list
+of attacks, beans, items,
+enemies, and bosses in addition
+to the walkthrough.
+
+I will try to keep the
+walkthrough as spoiler free as
+possible, but there are sure to
+be a few. If you are worried
+about spoiling the story, please
+wait until you beat the game
+before reading this guide. If
+you aren't worried about that,
+feel free to read the entire
+thing if you want to!
+
+For completionists, I have noted
+in the walkthrough when new
+items, gear, etc. appear. If you
+need to get to a particular part
+of the guide quickly, use a find
+box coupled with the above table
+of contents to navigate.
+
+
+---(2. Basic Info)--------------
+
+The subsections contained in
+this section basically describe
+how to play the game.
+
+---2.1 Controls-----------------
+
+
+Here, you will find the basic
+controls that you will use over
+the course of the game. Some of
+the actions won't be available
+to you at the beginning, so you
+will have to earn them before
+they become available. I will
+mark these actions with a '*'.
+There is a potential for
+spoilers in this section.
+
++++Menu Controls++++++++++++++++
+
+Control Pad: Move option
+selector A/X Buttons: Accept
+current selection B/Y Buttons:
+Go back L/R Buttons: Scroll text
+forward / backwards Start
+Button: Close menu (starts game
+on main menu) Select Button: Not
+used Touch Screen: Not used Mic:
+Not used
+
++++Field Controls (Mario and Lui
+
+Control Pad: Move A Button:
+Mario Jump / Mario Hammer* /
+Spin Jump* / Talk / Examine B
+Button: Luigi Jump / Mini Mario*
+/ Dig* X/Y Buttons: Switch to
+Bowser (Only works inside
+Bowser) L Button: Reset action
+commands R Button: Switch action
+commands Start Button: Open menu
+Select Button: View map Touch
+Screen: Not used Mic: Not used
+
++++Battle Controls (Mario and Lu
+
+Note: The controls listed may
+not pertain to special attacks
+Control Pad: Select action block
+A Button: Accept action block
+for Mario / Control Mario B
+Button: Accept action block for
+Luigi / Control Luigi X/Y
+Buttons: Not used L Button:
+Cancel R Button: Not used Start
+Button: Not used Select Button:
+Not used Touch Screen: Not Used
+Mic: Not used
+
++++Field Controls (Bowser)++++++
+
+Control Pad: Move A/B Buttons:
+Switch to Mario Bros. (Only
+works when they are inside
+Bowser) X Button: Punch / Spike
+ball* Y Button: Flame breath /
+Body slam* L Button: Reset
+action commands R Button: Switch
+action commands Start Button:
+Open menu Select Button: View
+map Touch Screen: Not used Mic:
+Not used
+
++++Battle Controls (Bowser)+++++
+
+Control Pad: Select action block
+A/B Buttons: Not used X/Y
+Buttons: Accept action block /
+Control Bowser L Button: Cancel
+R Button: Not used Start Button:
+Not used Select Button: Not used
+Touch Screen: Used for special
+attacks Mic: Not used
+
++++Giant Battle Controls (Bowser
+
+Control Pad: Not used A/B
+Buttons: Not used X/Y Buttons:
+Not used L/R Buttons: Not used
+Start Button: Not used Select
+Button: Not used Touch Screen:
+Select action / Punch Mic: Flame
+breath
+
+
+---(2.2 Stats)------------------
+
+
+In this area, I will list what
+each stat means on the character
+info screen.
+
+Name: This is the name of the
+character you are looking at. It
+will
+   either be Mario, Luigi, or Bo
+
+LV: This is your current level.
+The higher it is, the stronger
+you
+   are.
+
+HP: Health Points. If you have
+ever played any other RPG, you
+know
+   what these are. Basically, th
+   if you don't want to see a ga
+
+SP: Special Points. You need
+these to execute special
+attacks.
+
+POW: Attack power. Higher
+numbers mean more damage dealt.
+
+DEF: Defense. Higher numbers
+mean you take less damage.
+
+SPEED: The speed of your
+character. This determines who
+gets to attack
+   first in battle. Higher numbe
+
+STACHE / HORN: This affects the
+number of LUCKY strikes you get
+in battle and
+   how high your chances are at 
+
+RANK: This is your current rank.
+These increase as you level, and
+    carry various benefits.
+
+EXP: Your current amount of
+experience points.
+
+NEXT LV: The amount of EXP you
+need before you go up another
+level.
+
+
+---(2.3 Menu Items)-------------
+
+
+These are the items on the menu
+you can access in the game.
+
+ITEMS: Displays a list of the
+items you have acquired in the
+game.
+  Eventually, it also lists how 
+  area.
+
+GEAR: Displays the gear you have
+equiped on each character.
+
+INFO: Displays detailed
+information about each character
+you control.
+
+BADGES: This is where you set
+what badges Mario and Luigi
+equip. This menu is
+  locked until you get your firs
+
+SPECIALS: Displays a list of
+your current special attacks and
+allows you to
+  practice with them. This is lo
+  piece.
+
+MAP: Views the map of the
+current area as well as the
+world map. The area
+  map can also be viewed by pres
+
+
+---(2.4 Leveling Up)------------
+
+
+After Mario, Luigi, or Bowser
+gains enough EXP, they will
+level up! Leveling Up gives
+various stat boosts, and after
+enough levels, will cause your
+rank to increase. When you Level
+Up, you will also get to play a
+small minigame to earn extra
+stat points!
+
+Basically, this is a roulette
+game. Press the indicated button
+to stop the wheel and claim your
+bonus. Careful, though. If you
+constantly boost one stat, your
+bonuses will get smaller. To
+prevent this, try to balance
+your bonuses across different
+stats!
+
+
+---(2.5 Status Effects)---------
+
+
+Every so often, you will come
+across a status effect that
+affects you or an enemy. They
+are listed here along with their
+effects.
+
+Poison: Mario Brothers only.
+This status effect causes Mario
+or Luigi to
+   take damage at the beginning 
+   this will turn purple. Poison
+
+Sick: This is Bowser's
+equivalent of poison. It does
+the same thing to
+   him, but he turns light-blue 
+
+Burn: Same as Poison or Sick,
+but also prevents whatever is
+affected
+   from doing anything until it 
+   attacks.
+
+Fury: Bowser only. If Bowser
+gets hit enough times in a
+single fight, HE
+   WILL HAVE FURY! Fury causes h
+   causes his defense to lower a
+   fury, and it wears off after 
+
+POW Up: Gives a temporary boost
+to POW stat.
+
+POW Down: This causes whatever
+is affected by it to have a
+lower POW stat
+   until it wears off.
+
+DEF Up: Gives a temporary boost
+to DEF stat.
+
+DEF Down: Same as POW Down, but
+for Defense.
+
+Dizzy: Similar to burn, but
+causes no damage. Usually
+brought on by
+ attacks that target the head.
+
+Off Balance: Similar to dizzy,
+but does not last as long.
+
+
+---(2.6 Equipping)--------------
+
+
+As you progress through the
+game, you will need to equip new
+clothes and accessories on you
+characters. Changing your
+equipables can do anything from
+a simple stat boost to giving
+you immunity to status effects.
+When you just start out, you
+will only be able to equip one
+item per character. As your rank
+increases, you will eventually
+be able to equip three. However,
+you can only equip one item of
+each type on each character.
+This means that, if Mario is
+already wearing one HP Socks,
+you can't put EXP Socks on him
+until you take the HP Socks off.
+
+
+---(3. Background Story)--------
+
+
+The Mushroom Kingdom is
+suffering from a strange new
+affliction: The Blorbs! This
+disease causes all affected by
+it to swell up into a balloon
+shape and roll away. The cause
+and cure are unknown, and more
+Toads are becoming Blorbed every
+day. Alarmed at this strange
+malady, Princess Peach calls an
+Emergency meeting at her castle
+to decide what to do...
+
+
+---(4. Character Intros)--------
+
+
+This is a list of introductions
+written by me for several of the
+main characters in this game. I
+am not going to attempt to cover
+minor characters or characters
+that are not introduced early in
+the story.
+
+
+Mario: Everyone's favorite
+plumber! Mario has saved the
+Mushroom Kingdom countless times
+and is always ready for
+anything. He has a kind heart
+and will readily risk his life
+to save others. When Peach
+called a meeting at the castle,
+she requested that Mario attend
+to help solve the problem of the
+Blorbs.
+
+
+Luigi: Mario's lesser known
+brother. Luigi is friendly, has
+a luxurious mustache, and is a
+bit more timid than his brother.
+However, his timidness will not
+stop him from helping Mario when
+he is needed! When Mario is
+called to Peach's castle, Luigi
+tags along to see if he can
+help, too.
+
+
+Princess Peach: The benevolent
+ruler of the Mushroom Kindom.
+She cares deeply for her loyal
+subjects, the Toads, and is
+troubled by their new sickness.
+Always the target of kidnappings
+by Bowser, Mario has saved her
+from his clutches countless
+times.
+
+
+Toadsworth: Princess Peach's
+advisor. He has been guarding
+and watching over her since she
+was a baby and has panic attacks
+any time she goes missing.
+
+
+Starlow: A representative of the
+Star Sprites who watch over the
+Mushroom Kingdom. She has a
+chipper and peppy personality
+and does not like being ordered
+to do things. Peach requested
+her presence at the meeting to
+try to solve the problem of the
+Blorbs. In the game, she
+functions as a sort of guide and
+gives hints and tips along the
+way.
+
+
+Bowser: The self-proclaimed
+"King of Awesome" and ruler of
+the Koopas. Bowser's primary
+goal in life is to kidnap Peach
+and rule the Mushroom Kingdom
+with an iron grip. His plans are
+constantly foiled by Mario and
+"green-stache," so Bowser hates
+the two of them with a burning
+passion. Always believing he is
+more important than he actually
+is, he angrily storms into
+Peach's castle when he learns of
+a meeting he wasn't invited to.
+After another defeat at the
+hands of Mario, he is thrown out
+of the castle and into a forest.
+In the forest, he is tricked by
+a shady mushroom merchant...
+
+
+Fawful: The vengeful, furious,
+hilarious antagonist of the
+game. In the original Mario and
+Luigi: Superstar Saga, he was a
+minion of Cackletta. After a
+crushing defeat at the hands of
+the Mario Brothers, he spent the
+next several years in the sewers
+under the Mushroom Kingdom
+plotting his revenge.
+Accompanied by his right-hand
+pig, Midbus, Fawful rises once
+again to seize power.
+
+
+Midbus: Fawful's right-hand pig
+and ever-present bodyguard. Not
+much is known about Midbus' past
+or why he joined Fawful, but he
+is completely loyal. He often
+confronts Bowser so Fawful won't
+have to.
+
+
+---(5. Walkthrough)-------------
+
+
+OK, this is probably the reason
+you're here. Remember, even
+though I'm trying to keep this
+as spoiler free as possible, you
+are bound to see some if you
+read this. Before we begin, I
+would like to share a few tips
+that will help you progress in
+the game.
+
+1. Use the save blocks! Any time
+   you see one of these, you
+   should hit it.
+It may be a while before you get
+a chance to hit another one, so
+don't pass them up!
+
+2. Don't avoid enemies! Unlike
+   most RPGs, the Mario RPG
+   series has no random
+battles. Instead, you enter
+battles by coming into contact
+with enemies in the field. The
+only time you should skip enemy
+encounters is if you are low on
+battery or time and need to get
+to a save block fast or if the
+enemy you are about to fight
+will provide an insignificant
+amount of experience.
+
+3. Never run from fights! If you
+   run from a fight. you will
+   lose coins and
+miss out on valuable experience
+points. If you have been
+following tip #2 above, there
+should never be an instance
+where you need to run from a
+fight.
+
+Now that I've mentioned those,
+on with the walkthrough!
+
+
+---(5.1 The Blorbs)-------------
+
+
+Every good RPG needs an
+introductory sequence, and this
+one is no different! When the
+cut scene is over, you will be
+given control of the Mario
+Brothers. Take the action-icon
+tutorial offered by the Toad if
+you need it. Otherwise, skip it.
+It doesn't offer any other
+critical information. When you
+are ready, exit the room through
+the door to the north.
+
+As soon as you enter the room,
+another Toad will talk to you.
+Feel free to wander around this
+room and talk to anyone you want
+to. Before you leave this room,
+get everything out of the four
+blocks floating in the room. To
+get the contents of a box,
+simply jump while under it and
+hit it with your fist or head.
+The box in the northeast corner
+of the room contains 10 coins,
+but you will have to jump
+repeatedly to get them all. If
+you take too long, you won't get
+them all. It's not a big deal if
+you don't get some of them, but
+remember for future blocks that
+this same thing can occur. After
+you hit all the blocks, exit
+through the doorway at the
+north.
+
+Now, you are in Peach's throne
+room. In this room, there are
+more Toads to talk to, another
+floating block, and a new block
+that has many colors and a large
+"S" on it. This is a save block.
+Any time you want to save your
+game, you should hit one of
+these. There will be times when
+you can save in other ways, but
+save blocks are the most common.
+The other block contains a
+medium-sized coin worth 5 small
+coins. Grab that, and hit the
+save block. As a general rule of
+thumb, you should save any time
+you see one of these. There is a
+Blorbed Toad blocking the exit
+to the northwest, so we can't
+leave that way. Instead, take
+the exit to the northeast.
+
+After another brief cutscene,
+it's time for your first (and
+easiest) boss battle!
+
+===New Attack===================
+
+Jump: A basic jump attack
+
+================================
+
+===Boss: Bowser (Tutorial)======
+
+This is a pretty basic fight.
+Toadsworth will offer you
+tutorials in how to fight.
+Listen if you need them, skip
+them if you don't. Defeat Bowser
+by jumping on his head until he
+collapses.
+
+================================
+
+After the fight and another
+cutscene, you will switch to
+controlling Bowser. There is
+nothing you can do in this area
+right now, so go south.
+
+As soon as you enter this area,
+you will be told how to smash
+rocks. Use the X Button and
+smash the rocks as you make your
+way to the exit leading south in
+the southeast corner. There is
+another exit leading east, but
+we should ignore that for now
+since there is nothing we can do
+there at this time.
+
+As with the previous area, you
+will be instructed on a new
+action when you enter this area.
+This time, it's fire breath.
+Press Y and burn the trees as
+you make your way to the east
+exit in the southeast corner.
+
+In this area, proceed east and
+watch the cutscenes.
+
+
+---(5.2 A Nasty Surprise)-------
+
+
+***Trash Pit********************
+
+Welcome to the Trash Pit. There
+is nothing to do in this area,
+so proceed to the right to exit.
+
+In this next area, you will need
+to jump over some pits of slime
+to get to the far upper-right
+side. If you fall in any of
+them, you will be returned to
+the pipe above the entrance to
+the area. About midway through
+the area and above a platform,
+you will see a question mark
+block. Hit it repeatedly to get
+10 coins. There is another block
+in the alcove at the lower-right
+side of the room that contains 3
+mushrooms. Near the exit at the
+upper-right, you will see a new
+type of block that sort of looks
+like it has a face. That is an
+Emoglobin. Emoglobins provide
+hints, tips, and sometimes the
+ability to heal your HP and SP
+and save the game. Jump and hit
+one to activate it. After using
+the Emoglobin to save, exit to
+the right.
+
+===New Item=====================
+
+Mushroom: Restores 30 HP
+
+================================
+
+When you enter the next room,
+you will see a cutscene and a
+familiar face. When the cutscene
+is over, walk over to the pipe
+at the far right side of the pit
+and jump on it. Once on top of
+the pipe, press down to rocket
+yourself into a ! block and
+activate another pipe. Do the
+same thing on top of this new
+pipe to activate yet another
+pipe. Finally, enter the third
+pipe to begin your first fight
+inside Bowser.
+
+===New Enemy====================
+
+Goombule: A Goomba-like enemy
+that exists inside Bowser.
+
+================================
+
+Most enemies have the potential
+to drop items when defeated.
+This is random and not
+guaranteed to occur. When a new
+enemy will drop an item that has
+not been introduced yet, I will
+note it below the enemy.
+
+===New Item Drop================
+
+Syrup Jar: Restores 10 SP
+
+================================
+
+After the fight is over, Mario
+will have a short conversation
+with Starlow. When that's done,
+use the platforms on the right
+to hop up to the exit.
+
+In the next room, use the
+Emoglobin to save and proceed
+upwards. Kill any enemies you
+encounter along the way. You can
+get an advantage in the battle
+by jumping on the enemies before
+the battle instead of running
+into them. After you jump up a
+few platforms, you will be able
+to go right or left. Going left
+only takes you to a single
+Goombule. Kill that if you want,
+then head right and get the
+coins out of the blocks.
+Afterwards, fall into the hole
+and take the pipe leading left.
+
+In the room the pipe leads you
+to, you will see a new type of
+Emoglobin. This one can
+completely refill your HP and
+SP, but you can't use it to
+save. Use it if you need to,
+then follow the path leading to
+the left. This path zig-zags
+downward and eventually ends in
+an exit on the left. Be sure to
+get the coins and mushroom out
+of the blocks along the way.
+
+In this next room, you will
+encounter another cutscene and
+Luigi will join your party! And,
+you get to fight another group
+of group of Goombules. Starlow
+will teach you how to do a first
+strike and how to control Luigi.
+Defeat the enemies like you have
+been, and an pipe will appear on
+the left side of the room.
+Before you go in there, though,
+Starlow will show you how to use
+the menu. If you want, she will
+also show you how to use items.
+Since you now have access to the
+menu, you can see that you have
+some things that didn't show up
+before...
+
+===Item=========================
+
+1-Up Mushroom: Revives a fallen
+bro with half HP.
+
+===Gear=========================
+
+Thin Wear:     Basic overalls
+
+================================
+
+Afterwards, Starlow will offer a
+tutorial on how to use the map.
+Accept or decline, and head
+through the pipe to the left of
+the room.
+
+In here, save at the Emoglobin
+and proceed to the right. Kill
+the enemies as you go, and get
+the 1-Up Mushrooms out of the
+block next to the exit on the
+far right.
+
+In the next room, go down the
+steps and talk to the Emoglobin
+if you want to. It will tell you
+how to better move around with
+Mario and Luigi if you want. It
+just tells you how to properly
+jump as the duo, so you don't
+have to listen if you already
+know how. Before you leave the
+room, head up the platforms in
+the middle of the area to get 3
+more Mushrooms. When you are
+ready, hop across the pits and
+leave through the exit on the
+right.
+
+Here, you will find an elevator
+platform (Metroid, anyone?)that
+will take you upwards. To make
+the elevator work, have the Bro
+whose block is lit up jump. Do
+this repeatedly, and you will
+eventually be able to leave
+through the top right exit.
+
+Proceed to the right in the next
+room, and you will come to a box
+with a picture of a hammer on
+it. We can't do anything with it
+for now, so save at the
+Emoglobin and proceed through
+the middle right exit.
+
+In the next area, you will see
+yet another new type of block:
+an attack piece block! Each of
+these blocks contains one or
+more attack pieces. Collect all
+10 in an area for a new special
+attack! After you get the attack
+piece, grab the 3 Syrup Jars out
+of the ? block and head through
+the right exit.
+
+In the next room, there are 8
+more attack pieces. You won't be
+able to go any further until you
+get them all, so do that.
+Afterward, head through the door
+on the top left.
+
+In this room, collect the final
+attack piece. Congratulations,
+you have earned your first
+special attack!
+
+===New Special Attack===========
+
+Green Shell: An attack where the
+Bros. kick a green shell back
+and forth between them. Costs 3
+SP to use.
+
+================================
+
+Watch the demo or practice your
+new attack, if you like. When
+you are finished, exit the menu
+to enter a battle against some
+enemies and try out your new
+attack!
+
+===New (one-time) Enemy=========
+
+Elite Goombule: Looks like a
+blue Goombule, but wears a
+helmet that stops
+    damage from jumps. Kill it w
+
+================================
+
+When the fight is over, head
+through the exit on the left to
+go back to the room with the
+hammer box.
+
+In here, hit the ! block, watch
+the scene, and get your new
+hammers!
+
+===New Key Item=================
+
+Hammers: Allows Hammer attack
+and is used to smash stuff.
+
+================================
+
+Watch the tutorial about how to
+use them, and smash the boxes to
+continue to the exit on the
+lower right.
+
+Fall down into the pit. If you
+need to get back up for any
+reason, you can use the pipe you
+land near. For now, though, you
+should proceed right and whack
+the thing sticking out of the
+wall with your newly acquired
+hammers. This will cause a door
+to open above you, and an egg
+will roll out of it. Whack the
+egg with a hammer to trigger a
+battle with a new type of enemy.
+
+===New Enemy====================
+
+Spike Blop: A green blob with
+spikes on its head. Don't jump
+on it; doing so
+   will only hurt you!
+
+===New Attack===================
+
+Hammer: The current Bro will
+swing a hammer backwards and
+strike an enemy.
+   Useful for enemies that can't
+   to strike, but don't overchar
+
+================================
+
+This is another tutorial battle
+set up to teach you how to use
+the hammers in combat. Starlow
+will show you how to attack /
+defend with the hammers, but you
+can skip her tutorials if you
+want to. When the fight is over,
+a pipe will appear from the
+ground. Use it to get to the
+ledge above and go through the
+exit at the top right.
+
+In here, grab the coins from the
+block and proceed to the right.
+You can get first strikes on the
+Spike Blops in this room, but
+don't jump on them! You will
+take damage just like you do in
+battle! Instead, hit them with
+your hammer. This rule applies
+to any enemy that can't be
+jumped on, so watch out! At the
+right end of the room, there is
+a block that contains 3 Syrup
+Jars. Grab them and head through
+the exit to get out of the Trash
+Pit!
+
+Now, you will be looking at a
+"world map" of Bowser. There's
+not much available right now,
+but more areas will open up
+later. To continue the story,
+need to go to the Funny Bone.
+You could also visit the
+Challenge Node, but there's
+nothing that you can do there
+right now. For now, you should
+go to Toad Square.
+
+***Toad Square******************
+
+This is, basically, a "town"
+area inside Bowser. Here, you
+will find a couple shops, be
+able to fully restore your HP
+and SP, and talk to a few Toads
+about what's going on.
+
+===New Item Shop================
+
+Toad Square Item Shop: The Item
+Shop in Toad Square. See the
+Shops section for
+           inventory!
+
+===New Items====================
+
+Nut: Restores 20 HP to both
+Bros. Refreshing Herb: Cures
+status effects
+
+===New Gear Shop================
+
+Toad Square Gear Shop: The Gear
+Shop in Toad Square. See the
+Shops section for
+           inventory!
+
+===New Gear=====================
+
+Picnic Wear: Better than Thin
+Wear Leisure Wear: Better than
+Picnic Wear Gall Socks: Makes
+enemies 50% more likely to
+target you Starched Socks:
+Boosts your defense by 10% HP
+Socks: Boosts your HP by 20%
+
+================================
+
+When you are done with
+everything in here, exit the way
+you came in and head to the
+Funny Bone.
+
+***Funny Bone*******************
+
+This is a really small area that
+we will only need to use once.
+After you enter the room, head
+to the far right side and whack
+the protrusion with a hammer.
+Then, hit it again. Finally, hit
+it a third time and take control
+of Bowser!
+
+***Cavi Cape********************
+
+===Gear=========================
+
+Shabby Shell: A basic shell for
+Bowser.
+
+================================
+
+You are now in a large,
+cavernous room. There is nothing
+to do here for now, so head
+through the exit to the east.
+
+When you enter this next room,
+Starlow will show you how to
+switch between the Mario
+Brothers and Bowser. Note that,
+if you are in an area as the
+Mario Bros. and switch to
+Bowser, it will usually reset
+the position of the Brothers to
+the beginning of the area. After
+the tutorial, smash the rocks
+and head toward the door at the
+north end. The door is closed,
+so we need to open it. Time a
+punch so that you hit one of the
+falling balls to do so, and head
+north.
+
+In the next area, head west to
+have Bowser uncover a startling
+truth, then go north again.
+
+This next area has a save block,
+so use that and walk onto the
+grey, cheese- like block and
+ride it to the east, smashing
+rocks as you go. If you fall
+off, walk back up the ramp and
+try again. Smash the block to
+get 3 Hot Drumsticks and head
+east to get out of the cave.
+
+===New Item=====================
+
+Hot Drumstick: Restores 80 HP to
+Bowser.
+
+================================
+
+In this next area, head east to
+trigger a cutscene and a boss
+battle!
+
+===New Attack===================
+
+Punch: Bowser's basic melee
+attack. Bowser will walk up to
+an enemy and begin
+ charging a punch. Press X as he
+ force. Overcharge it, though, a
+
+===Boss: Midbus (Tutorial)======
+
+This is a basic tutorial fight
+to teach you how to use Bowser.
+It only lasts for a few turns,
+so don't worry about how much
+damage you take. The first
+attack he will use is a roll. As
+he nears Bowser, press X to
+knock him away. Throughout the
+battle, Fawful will give Midbus
+advice. Try to use Fawful's
+advice for your advantage, but
+make sure you do the opposite of
+anything he directly says to
+you. There is no way to dodge
+Midbus' bouncing slam attack.
+The battle will end after he
+does it.
+
+================================
+
+After the fight, continue onward
+to the east.
+
+===New Enemies==================
+
+Chuboomba: A fat Goomba with a
+huge lollipop on its back. Borp:
+A little, purple blob that can
+not fight Bowser. If Bowser
+kills it,
+  it yields 1 coin.
+
+================================
+
+In this area, head a little to
+the east and kill the Borp for
+some coins. Small enemies in the
+field will be instantly KO'd by
+Bowser, so don't be afraid to
+run over them! You won't get any
+EXP for this, but you will gain
+a few coins. Punch the block for
+10 more coins, then walk toward
+the south. Punch the block in
+the southwest area for 2 more
+Hot Drumsticks, then head
+through the southwest path.
+
+In here, follow the sloping path
+downward. There is a block on
+the path with five coins in it,
+and a block hidden behind a
+boulder with a Hot Drumstick. We
+can't go past the trees that
+border the southwest portion of
+this area yet, so head along the
+southeast path.
+
+===New Chakroads================
+
+Cavi Cape Exit: Warps you to the
+exit of Cavi Cape. Cavi Cape
+Cave: Warps you to the room
+where the falling balls were.
+
+================================
+
+In this next area, you will
+uncover your first Chakroads and
+learn how to use them. Chakroads
+will be really handy later in
+the game. When the sequence is
+over, head east.
+
+In this tiny area, walk into the
+cave.
+
+The path leading north won't
+take you anywhere yet, and you
+can't use the huge button in
+your current state. So, head
+through the southeast exit and
+enter Plack Beach.
+
+---(5.3 Blocks, Flames, & Dogs)-
+
+***Plack Beach******************
+
+As soon as you enter the area,
+you will see a normal block and
+a save block. Smash the normal
+block for 2 Hot Drumsticks and
+save at the save block. When you
+are ready, head along the north
+path.
+
+===New Enemy====================
+
+Drillbit Crab: A hermit crab
+with a drill for a shell. It can
+not fight Bowser.
+   Yields 5 coins if killed by B
+
+================================
+
+You can't go past the trees in
+the middle of this area yet, so
+you will need to take the long
+way around the rock structure.
+Head east, and hop on the raft.
+Punch the wall to your left to
+sail east into the next area.
+
+In this next area, you will keep
+going until you hit a wall at
+the far east. Punch the southern
+block here, and get ready. You
+need to hit the east set of
+blocks near the coins to get
+back to the path, but the raft
+doesn't stop for you. Punch the
+wall while you are moving! If
+you miss it, punch your way
+around and try again.
+
+===New Enemy====================
+
+Toothy: A column of teeth that
+roams Plack Beach. Looks like
+the
+    cactus enemies from previous
+
+===New Item Drop================
+
+Fiery Drumstick: Restores 150 HP
+to Bowser.
+
+================================
+
+Now, you will be back in the
+area with the rock structure,
+but you will be on the other
+side. The west exit has nothing
+for Bowser, so ignore that for
+now. Smash the block for 10
+coins and head to the north.
+
+As soon as you enter this area,
+a cutscene will start. When you
+get control again, you will be
+playing as the Mario Bros.
+Select Arm Center from the map
+and get ready for a minigame.
+
+***Arm Center*******************
+
+This is another tiny area in
+Bowser. Whack the cannon with a
+hammer to start the game. Mario
+and Luigi will have to hit a
+ball of light into Bowser's
+muscles to power them up. Mario
+should hit it if it's orange;
+Luigi should hit it if it's
+green. If you miss a swing, you
+will lose some coins. When the
+game is over, you will go back
+to controlling Bowser.
+
+***Plack Beach******************
+
+Bowser will walk ove to Broque
+Monsieur and receive an awesome
+new block!
+
+===New Key Item=================
+
+Vacuum Block: Allows Bowser to
+control the power of the Vacuum
+Shroom and use
+   in battle!
+
+================================
+
+And, of course, Broque Monsieur
+gives you a tutorial on how to
+use your new power in the form
+of a tutorial boss battle
+
+===New Attack===================
+
+Vacuum: Not really an attack so
+much as a feature of Bowser.
+Bowser can inhale
+  small enemies and take things 
+  that are inhaled will be sent 
+
+===Boss: Broque Monsieur========
+
+Before the fight really starts,
+Broque Monsieur will give you a
+retry clock. Fight him like you
+would anyone else. Have Bowser
+punch him, or you can inhale him
+and let the Mario Brothers deal
+with him. The only real attack
+he uses is to grow with a Mega
+Mushroom and rush toward you.
+Just punch him to stop the
+attack and then hit him some
+more for free coins. Any time
+you hit him, he will drop one
+coin.
+
+===New Item=====================
+
+Retry Clock: Allows you to retry
+a battle with full HP / SP if
+you lose.
+
+================================
+
+When the fight is over, you can
+head to the west for some extra
+experience if you want. Whether
+or not you do, though, you will
+need to go to the north in this
+room to continue on.
+
+In the area directly north of
+the Broque Monsieur fight, smash
+the block for 3 Hot Drumsticks
+and go north, again.
+
+Partially obscured by the trees
+in the center of this area,
+there is a block that contains
+another Hot Drumstick. Grab
+that, then head north again.
+
+The next area has quite a bit of
+scenery that Bowser can't do
+anything with, but there is a
+save block. Save, and continue
+north once more...
+
+After a brief cutscene in the
+next area, you will get to fight
+another boss.
+
+===Boss: Sea Pipe Statue========
+
+This is your first real boss
+fight. You won't be able to do
+any damage to the statue by
+attacking it directly, but the
+Stone Blooper on top of it is
+vulnerable. When you start the
+fight, inhale the Stone Blooper
+and have the Mario Brothers deal
+with it. After it takes enough
+damage, it will fly toward one
+of the Brothers. Smack it with a
+hammer to send it flying out of
+Bowser and into the statue's
+base! Afterward, Bowser can
+punch the Stone Blooper for
+added damage. Repeat this
+process until the boss is dead.
+Of course, you should dodge its
+attacks as best as you can.
+Detailed information about the
+boss' attacks can be found in
+section 10.2.
+
+This boss may drop a 1-Up
+Deluxe.
+
+===New Item Drop================
+
+1-Up Deluxe: Revives a fallen
+Bro with full HP.
+
+================================
+
+After the fight, the statue will
+return to normal and the Mario
+Brothers will be able to access
+a new area inside Bowser.
+
+On a side note, you can now
+access your first challenge in
+the Challenge Node.
+
+===New Cholesteroad Challenge===
+
+Green Shell: This challenges you
+to kick a green shell back and
+forth
+    between Mario and Luigi as m
+    missing. B Rank score is 100
+    Rank, you will get a Challen
+
+===New Challenge Gear===========
+
+Challenge Medal: This medal
+increases all the stats of the
+enemies, but also
+    makes them drop more coins. 
+     fights or more money!
+
+================================
+
+Whether or not you choose to
+take it on is up to you. When
+ready, head to the Pump Works.
+
+***Pump Works*******************
+
+In this area, swim up and over
+the wall and head right.
+
+===New Enemies==================
+
+Bubble Blooper: A Blooper that
+has been filled with water. They
+only appear
+ the Pump Works is underwater.
+
+Dried Blooper: A Bubble Blooper
+that has lost all of its water
+content. They
+    only appear when Pump Works 
+
+================================
+
+Save at the save block, and
+continue along the path. Swim up
+and get the 3 Mushrooms out of
+the ? block, then press down on
+the orange pipe to go to a new
+room.
+
+There is a lone ? block in this
+room. Hit it, and it will
+multiply into a pattern of red
+and green blocks. Memorize the
+order, then hit the blocks in
+the order they appeared. Mario
+should hit the red ones; Luigi
+needs to hit the green. If you
+mess up, you will have to start
+over. Do it successfully, and
+you will get the first attack
+piece of the area! When you're
+done, head back into the pipe to
+go back to the room with the
+save block.
+
+As soon as you emerge from the
+pipe, swim up to get a Retry
+Clock from the ? block over your
+head and continue through the
+exit on the right.
+
+Grab the Attack Piece as soon as
+you enter this room, and keep
+heading right. When you come to
+a hole in the floor, drop into
+it and move Bowser away from the
+statue to drain the area of
+water. Then, whack the button to
+your left with a hammer to open
+a door to the right. Bowser will
+need to drink water again before
+you can get past the bone, but
+make sure you are out of the
+area with the first button to
+keep from getting trapped,
+first. You will need to drain
+the area again to hit the other
+button, but you should go into
+the pipe on the right, first.
+This will take you to the lower
+part of this room where you can
+get a Mushroom and some coins
+out of a couple of ? boxes.
+After you grab those, head left
+to go into the lower part of the
+room you were just in.
+
+In here, grab the coins and 1-Up
+Mushroom out of the three ?
+boxes and proceed to the left.
+Hit the button on the wall to
+open a path leading back to the
+upper area, then swim up through
+it and head right into the room
+with the moving bones again.
+
+Proceed to the right side of the
+room again and swim up onto the
+bone next to movable bone. Drain
+the area, then hit the button
+with a hammer. Drop into the
+hole, then fill the area with
+water again so you can get past
+the movable bone. After that,
+swim over to the pipe that just
+appeared and go down it.
+
+When you emerge from the pipe,
+you will be in a room with a
+large door. We need to get a key
+item before we can open it, so
+don't worry about it for now.
+Save at the Save Block and
+continue to the right.
+
+===New Enemy====================
+
+Protobatter: Looks like a
+caveman with a spiked club. It
+grows when it is
+   attacked.
+
+================================
+
+In here, swim up the into the
+alcove above the entrance for
+two more Attack Pieces. After
+getting them, drop back down
+again and continue to the right.
+Swim up and around the wall. You
+can go to the left if you want
+some extra experience, but when
+you are ready, you should swim
+up to the exit on the right and
+grab the fifth Attack Piece
+before leaving.
+
+There's nothing to do in this
+next room yet, so just keep
+swimming to the right until you
+go through one of the exits.
+
+In here, swim to the right and
+hit the pink ! block to
+deactivate the gate. Go right,
+again.
+
+As soon as you enter this room,
+grab the sixth Attack Piece.
+Proceed along the platforms t
+the right until you come to an
+alcove above the exit. Hit the ?
+block here for 5 coins. Then,
+drop down and head through the
+exit on the right.
+
+When you enter this room, swim
+up high and get the syrup jar
+out of the ? block. The scary-
+looking worm thing in this room
+is called a Chombone. You may
+have seen one a few rooms ago,
+but this is the first time you
+will use one for something. Hit
+the button on the right wall to
+make an object float out of the
+floor. Push it from the right
+side, and it will float into the
+Chombone's mouth. The Chombone
+will leap out and smash through
+the bone that was keeping you
+from going further down. Now
+that that's out of the way, drop
+into the hole and hit the ?
+block to start a memory game
+like the one you played for the
+first Attack Piece in this area.
+Complete it to get the seventh
+Attack Piece, and head right.
+
+Drain the water in this room,
+then keep going right. A
+cutscene will start, and you
+will learn the Mini Mario
+technique! Make Mario tiny, and
+proceed left to hit the switch
+on the wall. Another short
+cutscene will happen. When it's
+over, make Mario normal sized
+and hit the switch on the wall
+to your right to open a path
+through the floor. Have Bowser
+drink water to fill the area
+again, then proceed through the
+opening. Swim and hit the ?
+block for a Nut, then drop down
+and make Mario tiny to send him
+through the narrow space. Make
+Mario go to the right. There is
+a ? block here that contains a
+Picnic Wear. Grab that, then go
+up and hit the button to open
+the path on the lower left side
+of the room. Take Mario back to
+Luigi, make him normal sized,
+save at the Save Block, and head
+through the bottom left exit.
+
+When you enter this room, swim
+all the way up to get some coins
+out of a ? block. Then, drop
+back down and go left to get the
+eighth Attack Piece. Go upwards
+and get a Mushroom out of the
+block to your right, then head
+through the left exit.
+
+There are two Chombones in this
+room. One will let you get an
+Attack Piece, and the other will
+help you progress through the
+area. Hit the button to the left
+to release another object from
+the floor, then push it to the
+right to feed the Chombone. Fall
+down into the hole it opens up
+to get the ninth Attack Piece,
+then swim back up and repeat the
+process for the Chombone on the
+left. Drop down the new hole,
+and use Mini-Mario to go through
+the narrow passage and hit the
+button. Change Mario back, then
+swim up and go through the path
+you just opened up.
+
+Grab the final Attack Piece for
+a new Special Attack!
+
+===New Special Attack===========
+
+Fire Flower: Mario and Luigi
+will each get a Fire Flower and
+hold a fireball.
+   Press the button of the broth
+   fire at random enemies. At th
+   may be able to throw firebsal
+May cause burns to your enemies.
+
+================================
+
+Now, advance to the left and hit
+the button on the wall to
+release a giant object. Swim up
+after it, but there's a wall
+stopping you from feeding it to
+the giant Chombone. Push it left
+and follow it into the next
+room.
+
+In here, push the object as far
+left as you can so that it stops
+over top of the cannon. Then,
+drain the area so that the
+object falls into the cannon.
+Fill the area again, then send
+Mini-Mario into the area with
+the button. Grab te coins out of
+the block, then hit the button
+to fire the cannon. Make Mario
+normal again, and continue into
+the room on the right you were
+just in.
+
+The object became stuck on a lip
+attached to some bones! Swim
+around it and push it to the
+left to feed the giant Chombone
+and open the path to the item
+that acts as a key for the big
+DNA door from earlier. Follow
+the path, and grab the Stingler!
+
+===New Key Item=================
+
+Stingler: An item that might
+shock something. Where should
+you use it?
+
+================================
+
+Now that you have the Stingler,
+it's time to head back to that
+DNA door to see what's inside.
+Swim back up and head to the
+left to re-enter the cannon
+room.
+
+There's a ? block in this room,
+but we can't get it from here.
+Head left again.
+
+Drop down, then swim up and
+around the wall to get to the
+passage that leads to that ?
+block I just talked about. Make
+Mario mini, and send him in.
+
+Hit the ? block for a Fighter
+Wear!
+
+===New Gear=====================
+
+Fighter Wear: This pair of
+overalls has less defense than
+the Leisure Wear, but
+    gives a small POW boost.
+
+================================
+
+Now, send Mario back to the left
+to reunite with Luigi.
+
+Make Mario normal again, then
+follow the path all the way down
+to the bottom left exit.
+
+Save at the Save Block again,
+then press up on the door to use
+the Stingler to open it and head
+through it to leave the Pump
+Works and open new areas in
+Bowser.
+
+The area you need to go to now
+is the Flame Pipe. Move the
+Brothers there, and enter the
+area.
+
+***Flame Pipe*******************
+
+This area is pretty small; there
+are only two rooms. In this
+first room, climb up to the top
+of the area and send Mini-Mario
+through the passage so he can
+hit the button on the left wall
+and remove the barrier. Then,
+send him back, make him normal,
+and head right.
+
+Climb up to the top of this new
+room to start a cutscene and a
+boss fight!
+
+===Boss: Scutlet================
+
+This bug is blocking the great
+Bowser's flame pipe! Squash it
+to restore Bowser's flaming
+awesomeness!
+
+This will be your first real
+boss fight as the Bros. It's not
+too hard, but don't let your
+guard down. It only has three
+attacks, and none of them are
+too hard to dodge. Pay attention
+to the eyes. It attacks whoever
+its looking at. Toward the end
+of the fight, it will start
+getting two attacks per turn,
+but that just means you can deal
+more damage from counterattacks.
+
+================================
+
+After another brief cutscene,
+you will switch back to (the now
+flame-enabled) Bowser.
+
+***Plack Beach******************
+
+Burn the trees in the area with
+the Y Button to try out your new
+power. You can head south to use
+the save block if you want, but
+come back here and go east when
+you are ready.
+
+Flame the trees, then proceed
+east to start another cutscene
+and tutorial boss fight.
+
+===New Attack===================
+
+Flame: Bowser unleashes his
+flame breath upon the enemy.
+This attack hits all
+ enemies on the bottom screen an
+ Press and hold X when Bowser re
+ amount of damage.
+
+===Boss: Broggy=================
+
+This is a tutorial fight to
+teach you how to use Flame
+Breath in battle and defend with
+your shell. Broggy isn't too
+tough, but you can't attack him
+head on. Flame him to get him to
+expose his back, then punch him
+to inflict massive damage. Just
+like Broque Monsieur, he will
+drop one coin for each time he
+is hit.
+
+================================
+
+After the fight, go south a bit
+and get 5 coins and a Hot
+Drumstick out of the blocks.
+Then, go east and flame the
+trees so you can go north.
+
+Save at the Save Block, then
+proceed north into Dimble Wood.
+
+---(5.4 Over the Wigglers & Thro
+
+
+***Dimble Wood******************
+
+===New Enemy====================
+
+Treevil: An evil tree that roams
+Dimble Wood. It throws branches
+at its foes,
+  and is weak to fire attacks. S
+  branches that Bowser can inhal
+
+================================
+
+Burn the trees to the west and
+get 50 coins out of the block.
+Then, go a little ways north and
+get 2 Hot Drumsticks out of
+another block. Afterwards,
+proceed along the north path.
+
+Punch the head on the Wiggler
+stone in here and memorize the
+combination it displays. Flame
+the bushes next to the stone for
+some coins, then head east.
+
+Here, punch the body segments on
+the Wiggler statue in the order
+the stone in the previous room
+displayed to activate it. On my
+playthrough, the order was:
+
+1, 3, 2, 4
+
+Go east a bit and burn the
+bushes for a couple more coins,
+then hit the block for 50 more.
+When you are finished, head back
+west.
+
+Head north a bit through the
+newly opened passageway to reach
+a new store!
+
+===New Item Shop================
+
+Monsieur Broque's Item Shop:
+This is the only item shop that
+will do business
+          with Bowser.
+
+===New Gear Shop================
+
+Broggy's Gear Shop: Broggy sells
+gear to Bowser. This is the only
+       gear shop that will sell 
+
+===New Gear=====================
+
+Special Shell: Better than the
+Shabby Shell Safety Shell:
+Better than the Special Shell
+
+================================
+
+Monsieur Broque also offers
+information about battles. When
+you try to leave, he will call
+you back and explain about
+Blitties. After that, head
+north.
+
+Burn the tree and head west.
+
+Smash the blocks in this area as
+you make your way around the
+pillars and to the west. Burn
+the bushes at the end for a
+couple of coins, then take the
+ramp down into the next area.
+
+===New Enemy====================
+
+Scutlet: A smaller version of
+the Scutlet boss that the Mario
+Brothers had to
+  fight in Bowser's Flame Pipe. 
+  Bowser kills it.
+
+================================
+
+Use the Vacuum on a Treevil in
+this area to get your first
+Blitty!
+
+===New Key Item=================
+
+Blitty: A Blitty from a monster.
+
+===New Blitty===================
+
+Blitty #3: Gotten by using
+Vacuum on a Treevil.
+
+================================
+
+Proceed to the west, torching
+everything in your path. Burn
+the bushes for coins, then get a
+Retry Clock out of the block in
+the southwest corner. Once
+you're done with that, head west
+again.
+
+In this area, stand on the
+yellow pad and flame the fuse to
+send Bowser flying three screens
+to the east.
+
+There's a save block here that
+you can use if you want. Torch
+the tree next to it to reveal
+another Chakroad!.
+
+===New Chakroad=================
+
+Dimble Wood: A Chakroad that
+transports you into the middle
+of Dimble Wood.
+
+================================
+
+Now, it's time for a bit of
+backtracking to get some nice
+equipment. Step into the
+Chakroad, and select Cavi Cape
+Cave.
+
+***Cavi Cape********************
+
+When you reappear, you will be
+in the area directly east of the
+cave Bowser woke up in. Head
+north one screen.
+
+Remember that flimsy-looking
+material that blocked the west
+exit of this area because Bowser
+couldn't torch it? Not a
+problem, now! Flame that thing
+and go through the exit.
+
+There are two blocks in this
+area. One contains the Judge
+Shell, and the other contains
+Red-hot Fangs.
+
+===New Gear=====================
+
+Judge Shell: Better than the
+Safety Shell. Free, too! Red-hot
+Fangs: Boosts the strength of
+Bowser's Flame attack by 20%
+
+================================
+
+Head east one screem then north
+one screen to get to a Save
+Block. Use it if you want, then
+head east two screens.
+
+Use Vacuum on a Chuboomba for
+another Blitty!
+
+===New Blitty===================
+
+Blitty #1: Gotten by using
+Vacuum on a Chuboomba.
+
+================================
+
+Head south one screen, then
+torch the trees in the southwest
+corner of this area to open a
+path to a new area of the map.
+
+In the southwest and northwest
+corners of this area, there are
+two boxes that each contain some
+coins. Grab those, then head
+back the way you came in.
+
+Head east two screens, enter the
+cave, then go through the
+southeast exit to get to Plack
+Beach.
+
+***Plack Beach******************
+
+Use the Save Block if you need
+to, then burn the trees to
+reveal another Chakroad. Then,
+head north one screen.
+
+===New Chakroad=================
+
+Plack Beach: Takes you to the
+entrance to Plack Beach near
+Cavi Cape.
+
+================================
+
+You don't need to use the raft
+any more, so burn the tree on
+the west side of the stone wall
+for a shortcut. Use Vacuum on a
+Toothy to get another Blitty!
+
+===New Blitty===================
+
+Blitty #2: Get this by having
+Bowser use his Vacuum on a
+Toothy
+
+================================
+
+Head north two screens, then
+burn the trees in the northeast
+corner of the area to access a
+new part of the map.
+
+Go all the way east to reach
+another raft. Punch around on it
+to reach a shore, then hop off
+and head west.
+
+Punch the block in this area for
+50 coins, then head east again,
+take the raft back, and head
+west to get back on the main
+path.
+
+Burn the trees again, then
+follow the path back into Dimble
+Wood.
+
+***Dimble Wood******************
+
+Head north two screens to get
+back to where you were before we
+started backtracking. You can
+drop off the Blitties at
+Monsieur Broque's shop on your
+way if you want, but he won't
+give you anything yet. When you
+are ready, head north again.
+
+There's nothing in this next
+room except for a couple of
+Treevils, so head north again.
+
+A cutscene will start as soon as
+you enter this area. When it's
+done, burn the nearby bushes for
+a couple of coins and head
+north.
+
+Press X on the giant Wiggler
+statue in this area to cause
+Bowser's Arm Center to react,
+then send the Mario Brothers
+over there to help out.
+
+***Arm Center*******************
+
+Hammer the button next to the
+cannon to start the Arm Center
+mini game.Play the mini game
+just like last time. The only
+difference is that it will be a
+bit faster. When you finish, you
+will be in control of Bowser in
+Dimble Wood again.
+
+***Dimble Wood******************
+
+Head east one screen.
+
+===New Enemy====================
+
+Trashure: A treasure box enemy
+that attacks by throwing stuff.
+Don't avoid the
+  Mushrooms or coins it throws a
+  stuff! After a certain amount 
+  you will be able to inhale coi
+  run away.
+
+===New Blitty===================
+
+Blitty #4: Get this by using
+Vacuum on a Trashure.
+
+================================
+
+Use Vacuum on the Trashure in
+this room to obtain the 4th
+Blitty, then head back to
+Monsieur Broque's shop for a
+Block Band.
+
+===New Gear=====================
+
+Block Band: Gives a 20% DEF
+boost to Bowser when equipped.
+This is a reward for
+   giving 4 Blitties to Monsieur
+
+================================
+
+Afterwards, head back to the
+area with the Wiggler bridge,
+cross the bridge, and head
+south.
+
+Punch the cage full of Goombas
+until it breaks to earn Bowser's
+first Special Attack!
+
+===New Special Attack===========
+
+Goomba Storm: Goombas will rush
+toward an enemy. Touch them with
+the stylus to
+   set them on fire and deal add
+    May inflict burn status.
+
+================================
+
+A battle will start against a
+couple of Treevils to give you a
+chance to practice your new
+move. When it's over, head
+north.
+
+Cross the bridge, then go north
+again. Before you go through the
+north exit, there is a bush that
+you can burn for 10 coins. Torch
+that, and go north again.
+
+Burn the bushes when you enter
+this area for 11 coins, then
+torch the trees and get a Syrup
+Jar out of the block behind
+them. Go a little east and burn
+another bush for another coin
+and get the Hard Ring out of the
+block.
+
+===New Gear=====================
+
+Hard Ring: Boosts Bowser's
+defense by %20.
+
+================================
+
+The west exit won't take us
+anywhere right now, so head
+north.
+
+Hit the block in this area for
+10 coins, then go north again.
+
+Save at the Save Block if you
+want, then head north once more.
+
+A cutscene will start as soon as
+you enter this area. When it's
+over, head along the path to the
+east.
+
+There are stone columns blocking
+all paths in this area except
+for the one leading south, so go
+that direction.
+
+Flame the bush near the bridge
+here for 10 coins, then cross
+it. On the other side, there is
+a Wiggler stone similar to the
+one you saw in the first part of
+Dimble Wood. Punch the head, and
+memorize the order of the
+flashes. The south path won't
+take us anywhere we need to go
+yet, so head east.
+
+Just like last time, there's
+another Wiggler statue here.
+However, the body segments are
+in reverse order compared to the
+stone in the last area. Punch
+the body segments in the correct
+order. On my playthrough, it
+was:
+
+4, 1, 3, 2
+
+Head west one screen to get back
+to the last area, then cross the
+bridge and head north.
+
+You will see a patch of carrots
+in this area, but there's
+nothing you can do with them.
+Head east.
+
+There's nothing more than a bit
+of nice scenery and a few
+monsters in this area, so head
+east again.
+
+As you enter this area, a
+cutscene will start. After that,
+go south a bit and smash the
+block for a Retry Clock. Then,
+head north.
+
+Save at the Save Block, then
+head north again.
+
+Walk up to the huge carrot in
+the ground to start another
+cutscene and control Mario and
+Luigi again. Send them back to
+the Arm Center once more.
+
+***Arm Center*******************
+
+Whack the button to start the
+mini game again. This time,
+however, the cannon will fire
+several balls at once. Remember
+the order, and use rhythm to
+smack them back and power Bowser
+up. When it's over, there will
+be another cutscene, and you
+will need to send Mario and
+Luigi to the Gut Check area in
+Bowser.
+
+***Gut Check********************
+
+Walk up to the cannon in this
+room to start the Gut Check mini
+game. Tap the chunks of carrot
+with the stylus to break them
+up. If an enzyme appears when
+you break a chunk, tap it to
+break up several other chunks!
+
+Keep an eye on Bowser while he
+is eating. If his mouth flashes,
+remember which chunk of carrot
+falls at that time. Tap that
+chunk to reveal a super-enzyme
+that will break a LOT of carrot
+chunks!
+
+After the practice session, send
+the Brothers back to the cannon
+to start things for real. If you
+fail, you will have to try
+again.
+
+When the game is over, you will
+be in control of Bowser again.
+
+***Dimble Wood******************
+
+Wiggler will give you an
+opportunity to save. You should
+probably do that. When you are
+ready, talk to Wiggler to start
+a boss fight!
+
+===Boss: Wiggler================
+
+This is kind of an interesting
+fight. Before you can deal any
+damage, you will need to turn
+his body segments yellow by
+attacking them. Then, you can
+hurt him by punching his face.
+After a few turns of yellow-
+mode, Wiggler will go back to
+normal and you will have to
+start the process over again.
+
+Occasionally, a couple of Leaf
+Guys will fly in carrying a
+giant turnip. Inhale them to
+drop the turnip on Wiggler and
+turn him completely yellow. The
+Brothers will have to defeat
+them, then. If you don't inhale
+them, they will drop the turnip
+on Bowser.
+
+================================
+
+After the fight, Wiggler will
+give you the Banzai Bill!
+
+===New Key Item=================
+
+Banzai Bill: This landed in the
+Wigglers' fields several years
+ago. Fire it at
+   the castle!
+
+================================
+
+Head south, use the Save Block,
+then head south again.
+
+A cutscene will start. When it's
+over, send the Brothers to the
+Nerve Cluster.
+
+***Nerve Cluster****************
+
+Advance to the right in here to
+trigger another boss battle!
+
+===Boss: Durmite================
+
+This worm was hiding inside the
+giga-carrot. It's not too tough,
+but feel free to check the
+bosses section for detailed
+information.
+
+If it eats a Bro, it will
+probably fire him above the
+other Bro's head. Don't jump.
+
+===New Gear Drop================
+
+POW Gloves: Raises attack power
+by 10%. Dropped by Durmite.
+
+===New Guantlet Class===========
+
+Durmite X: This is the first
+class of the Guantlet in the
+Challenge Node.
+   Costs 200 coins to attempt. M
+ Recommended level: 18 and up.
+
+================================
+
+After the fight, continue to the
+right.
+
+Nothing to do in this room, so
+go right again.
+
+Step onto the blue floor to be
+sent into the pit. A cutscene
+will start, and Bowser will
+learn how to do the Sliding
+Haymaker.
+
+***Dimble Wood******************
+
+Move Bowser a bit south and talk
+to the tiny Wiggler. Then, smash
+into all the boulders with your
+new move to clear them out. Go
+through the northwest exit.
+
+Nothing to do here but fight
+Trashures. Go west again.
+
+Smash the columns to clear the
+way to the west exit, then head
+west once more to get back to
+the cannon.
+
+A cutscene will start when you
+enter this area. When it's over,
+you will be in control of Mario
+and Luigi. Send them to Rump
+Command, quickly!
+
+***Rump Command*****************
+
+Use the Save Globin in here to
+save your game, then walk to the
+boats to learn about Bowser's
+condition and how to help him.
+Board the boats, and begin the
+mini game.
+
+Starlow will give you a tutorial
+on how to do this. Focus on
+shooting the balls with the
+correct Brother, and try not to
+get hit. When the meter fills
+up, you will need to shoot at a
+large, blue ball several times.
+This one can be shot by both
+Brothers. It will also try to
+shoot back at you, so watch out!
+
+After you win, you will be in
+control of Giant Bowser.
+
+***Dimble Wood******************
+
+===Giant Bowser Battle==========
+
+Bowser's Castle
+
+This is a fight against Bowser's
+Fawfulized castle. You will be
+offered a tutorial that explains
+how to fight. Take it if you
+need to, don't if you already
+know how.
+
+The Castle takes the same amount
+of damage from punches and
+flames, so use whatever you are
+more comfortable with. If
+Spinies come out of the front,
+flame them before trying to
+punch it to avoid taking damage.
+
+===New Item Drop================
+
+Star Candy: Completely restores
+HP and SP.
+
+================================
+
+When the fight's over, Bowser
+will return to normal size. Head
+north into Bumpsy Plains.
+
+---(5.5 To The Castle!)---------
+
+
+***Bumpsy Plains****************
+
+There are several boulders
+blocking your path in this room.
+Use the Sliding Haymaker to
+clear them out, then save at the
+Save Block. Head north.
+
+===New Enemies==================
+
+Flifit: An enemy that lives in
+Bumpsy Plains and looks like a
+Sunflower.
+   Vacuum it to drain it of its 
+   watered.
+
+Lakitu King: A Lakitu with a
+crown on its head. This enemy
+never appears in the
+   field, but it may appear alon
+   to the Brothers!
+
+Sneed: A baby Flifit that looks
+like a sunflower seed. It can't
+fight
+   Bowser. If Bowser kills it, i
+
+===New Blitty===================
+
+Blitty #5: Get this by vacuuming
+a Flifit.
+
+===New Gear=====================
+
+Gold Ring: This has no use
+except for selling. Dropped by
+Lakitu King.
+
+================================
+
+Vacuum the first Flifit you see
+in this area for the fifth
+Blitty. The bushes in the
+northern part of this area
+contain a few coins. When you
+are ready, go to the west.
+
+Smash the block in this area to
+reveal a new Chakroad.
+
+===New Chakroad=================
+
+Lake-Plain Border: This Chakroad
+is a warp to Bumpsy Plains.
+
+================================
+
+After you activate it, go east
+again.
+
+You can go to the north if you
+want some experience, but
+there's nothing else there. When
+you are ready, go south.
+
+On the east side of this area,
+there is a raft. Hop on it, and
+punch around until you get to
+the area to the north.
+
+Continue punching, and you will
+get to an island. Break the
+block for a Safety Ring.
+
+===New Gear=====================
+
+Safety Ring: Boosts Bowser's HP
+by 20%.
+
+================================
+
+Take the raft back, and head
+through the northeast exit.
+
+There are a couple of bushes in
+this area with coins hidden in
+them. After you get them, go up
+the ramp and use the Sliding
+Haymaker to cross the gaps. Hit
+the block west of the north exit
+for 50 coins, then go north.
+
+Go up the ramp to your east and
+burn the bush for a few coins.
+Then, use the Sliding Haymaker
+to cross the gap and reach the
+exit. Go into the cave to enter
+Bowser Path
+
+***Bowser Path******************
+
+Use the Save Block in here. The
+funny TV-looking block in here
+is actually a remote Monsieur
+Broque shop. You can buy stuff
+from it as well as get your HP
+and SP restored. There are some
+new gear and items in there, so
+be sure to check it out. While
+you're at it, the item shop in
+Toad Square also has some new
+stuff.
+
+===New Gear in Shop=============
+
+Armored Shell: Better than the
+Judge Shell. Lucky Band: Doubles
+your chance of getting a lucky
+hit. Iron Fist Band: Increases
+the power of Bowser's Punch by
+20%.
+
+===New Item in Shops============
+
+Super Mushroom: Heals 60 HP
+Supersyrup Jar: Restores 20 SP
+Super Nut: Heals 40 HP to both
+Brothers
+
+================================
+
+When you are ready, go north.
+
+Head up the ramp to the east. At
+the top of the ramp, break the
+block for some coins. Then,
+cross the gaps and continue to
+the east.
+
+===New Enemies==================
+
+Chain Chawful: A Fawfulized
+Chain Chomp. If you inhale the
+Fawful clone off of
+    its head, it will leave.
+
+Fawful Guy: A Fawfulized Shy
+Guy. It is too small to fight
+Bowser. It will
+   yield 10 coins if Bowser kill
+
+===New Blitty===================
+
+Blitty #6: Obtained by vacuuming
+a Chain Chawful.
+
+================================
+
+There is a Chain Chawful in this
+area. Use Vacuum on it to get
+the sixth Blitty. The conveyors
+around here will push you in
+whatever direction they are
+rolling. You can use the Sliding
+Haymaker to clear them faster.
+The block in the southeast part
+of this area contains a Power
+Band.
+
+===New Gear=====================
+
+Power Band: Boosts Bowser's POW
+by 10%.
+
+================================
+
+Go through the northeast exit.
+
+Free the Shy Guys in the
+southeast part of this area for
+a new special attack!
+
+===New Special Attack===========
+
+Shy Guy Squad: A squad of Shy
+Guys will appear, and Bowser
+will roll into a
+   ball. Move the stylus across 
+   them push him further into it
+   is up, Bowser will fly toward
+       Costs 8 SP to use.
+
+================================
+
+Go through the northeast exit to
+get out of the cave.
+
+===New Enemy====================
+
+Fawfulcopter: A remote UFO used
+by Fawful to spy and
+communicate. It appears
+   alongside Chain Chawfuls outs
+   the Brothers deal with it. If
+     Chawfuls to the fight.
+
+================================
+
+You can take the southeast exit
+as soon as you enter if you want
+a view of the castle, but when
+your are done, you should cross
+the bridge to the north and go
+through the northeast exit.
+
+Ignore the path to the north,
+and go through the southeast
+exit.
+
+A cutscene will start as soon as
+you enter this area. Looks like
+you won't be able to enter the
+castle, yet. Save at the Save
+Block, and continue east.
+
+Nothing to do in this area. Go
+east, again.
+
+Cross the bridge to the south,
+and go through the southwest
+exit.
+
+Go a bit west to start a
+cutscene. When it's over, send
+Mario and Luigi to the Arm
+Center.
+
+***Arm Center*******************
+
+Whack the button, then play a
+more complicated version of the
+rhythm game you played the last
+time you were here. When it's
+over, you will be in control of
+Bowser again.
+
+***Bowser Path******************
+
+Go one screen east, take the
+northwest exit, then head west
+again to get back to the castle.
+
+Save at the save block again,
+then go north to get to the
+door. Before you go through it,
+burn the Fawful poster on the
+east side with the flap coming
+loose to reveal a path you can
+use later. Head through the
+door.
+
+***Bowser Castle****************
+
+You will be greeted by a few
+Goombas when you enter. Talk to
+the various minions in the
+lobby. Then, head west.
+
+Talk to the minions in here,
+too. Then, head east.
+
+The door at the north end of the
+room will open. You can go east
+and talk to more minions, if you
+want. When you are ready, go
+through the door.
+
+Save at the Save Block, then
+continue along the path. Take
+the first west path you see to
+come to a block with 2 Fiery
+Drumsticks. Then, take the next
+east path to get to a block with
+a Supersyrup Jar. Head north.
+
+Proceed to the north to learn
+that you have nowhere to sit.
+Then, walk up to the stage to
+completely establish that there
+are no open seats left. Walk
+back to the center of the room
+to start a cutscene. When it's
+over, a boss battle will start.
+
+===Boss: Midbus=================
+
+This is no tutorial battle!
+Midbus means business, this
+time. This fight takes place in
+front of a live audience. If you
+land solid hits, you will be
+given coins. If Midbus lands
+solid hits, he will be given
+coins and food. Vacuum the food
+to restore your HP and stop him
+from recovering. If you vacuum a
+ham, you will also get a POW Up
+status effect.
+
+===New Item Drop================
+
+TNT Drumstick: Heals 280 HP for
+Bowser.
+
+================================
+
+After you win, Bowser will be
+treated to the magic feast of
+honor. Eat the 6 delicious
+dishes to trigger another
+cutscene. When it's over, it
+will be Mario and Luigi's turn.
+Send them to the Flab Zone.
+
+***Flab Zone********************
+
+Climb up to the top of this room
+and go to the left. Hit the ?
+block for a Retry Clock, then
+use the Save Block on the right
+and go through the exit on the
+right.
+
+===New Enemies==================
+
+Tenderling: A piece of meat that
+has a bone sticking through it.
+It attacks by
+   rolling.
+
+Calorite: Looks like a flame
+holding sticks. Don't jump on
+it!
+
+================================
+
+Grab the first Attack Piece as
+you enter this room. You can
+bounce high on the bouncy floors
+if you time your button presses
+correctly, but it's difficult.
+Bounce into the ? block for some
+coins. As you reach the end of
+the bouncy floor, bounce into
+the other ? block for a Super
+Mushroom. Go right, again.
+
+A cutscene will happen as you
+try to proceed in this room.
+When it's over, continue through
+the exit on the right.
+
+Another cutscene will trigger as
+you enter this room. When it's
+over, you will have your first
+badges!
+
+===New Badges===================
+
+Good Badge: A badge for Luigi.
+This causes your meter to rise
+when you pull
+    off any Good to Excellent st
+    badges, but also the easiest
+
+Mushroom Badge: A badge for
+Mario. This causes the Brothers
+to be healed when
+       the badge is used.
+
+================================
+
+You will get a tutorial on how
+to use the badges. When it's
+over, climb up the flab to the
+left and cross the bridge to
+avoid the mucous pit. Then, head
+right again.
+
+This area is the entrance of a
+maze of pipes. There's some good
+stuff hidden in here, so we will
+be going to all the rooms. Start
+by entering the green pipe in
+the upper right.
+
+The two blocks at the top of
+this room contain a Super
+Mushroom and 5 coins. Upon
+hitting the block in the lower
+right, a challenge will start.
+You will have to hit hit it with
+a Brother, then it will fly to
+the other. Hit it again, and it
+will fly back again. Continue
+this process until the counter
+reaches 0 to get 4 more Attack
+Pieces. The block will speed up
+as it is hit. After you get
+them, go through the green pipe
+on the lower right.
+
+Drop down to the bouncy floor
+and bounce high to reveal some
+invisible blocks. Keep revealing
+them until you have a complete
+path. Then, go back up there and
+hit the three blocks for a Super
+Nut, POW Boots, and 10 coins.
+
+===New Gear=====================
+
+POW Boots: Gives a 10% boost to
+POW.
+
+================================
+
+After you get those, go through
+the red pipe on the lower left.
+
+Heading along the platforms to
+the left, you will see 2 blocks
+that contain a Supersyrup Jar
+and some coins. Get those, then
+drop down and head to the right.
+The blue Emoglobin in here is
+called a Nutsoglobin. He will
+offer to show you the correct
+way if you can answer his
+questions. Talk to him, and use
+the information below to pass
+the quiz.
+
+Bowser's body is normal His
+throat is kind of dry His head
+feels fuzzy He's paranoid, and
+other places are feeling kind of
+weird His stomach is gurgly and
+hot because of the giga-carrot
+He doesn't want to talk about it
+anymore because his whole body
+could shut down
+
+Bowser's castle is the best
+castle ever made It is powerful
+and awe-inspiring It's like
+looking at Bowser The best part
+is a treasure chamber underneath
+it He took the treasure by force
+It sleeps like a giant, golden
+baby Fawful remodeled the whole
+thing Fawful turned his military
+training facility into Fawful
+Theater When Bowser gets out, he
+will make it the Bowser Theater
+
+If you miss a question, you will
+have to fight an enemy. When you
+win, you will be given 50 coins
+and told the correct path.
+However, we want to explore this
+place. Go through the green pipe
+at the lower right.
+
+Suspended above each floating,
+bouncy platform in this room is
+a ? block. The left one holds
+coins, the right one holds a
+Syrup Jar. Get those, then go
+back through the green pipe you
+used to get in here.
+
+Hop up to the red pipe on the
+upper right, and go in it.
+
+Talk to the Nutsoglobin in here,
+and use the information from
+before coupled with the new
+information below to pass his
+test.
+
+Fawful is a cooking prodigy His
+flavors are unbelievable Bowser
+liked his General Fawful's Spicy
+Chicken the best Inside the
+spice was delicacy and body
+Bowser could eat it forever The
+flavors in Fawful's cake blew
+Bowser's mind The cake had rich
+cream and fluffy sponge
+exploding like a taste volcano
+Bowser was shocked that a guy
+that weird had such skills
+
+Bowser is not a fan of Chippy
+She is always yapping about
+stuff She comes off kinda
+superior Bowser doesn't even
+know what she is He wants to
+know where she is, just once He
+can't complain, though, because
+she's in there fixing him up He
+will have her work for a few
+more shifts
+
+When you pass the quiz,
+Nutsoglobin will give you 100
+coins and tell you that the
+correct path is through the
+green pipe on the top right.
+However, we are going through
+the red pipe on the bottom
+right.
+
+Save at the Save Block, then hit
+the ? block to start another
+block challenge like before.
+Complete it for 4 more Attack
+Pieces. Just 1 more! Go down the
+green pipe on the right side.
+
+Jump as soon as you come out of
+the pipe to reveal two hidden
+blocks. Then, advance to the
+left. Jump across the gap, then
+jump again on the ledge to
+reveal two more hidden blocks.
+Then, Whack the bump sticking
+out of the ground to release a
+puff of air and learn the Spin
+Jump. Follow the tutorial to
+learn how to use it. Use the
+whirlwind to cross the gap, then
+fall into the mucous pit. You
+will land on top of the second
+set of hidden blocks. Spin Jump
+across the gap and walk into the
+wall to enter a hidden room.
+
+The two ? blocks in this room
+contain an Ultra Nut and EXP
+Socks.
+
+===New Item=====================
+
+Ultra Nut: Heals 80 HP to both
+Brothers.
+
+===New Gear=====================
+
+EXP Socks: Boosts EXP gained by
+30% if the wearer takes no
+damage in a fight.
+
+================================
+
+Go left to get back to where you
+were after getting the stuff out
+of the blocks.
+
+Cross the gaps and go all the
+way left. Hit the Attack Piece
+block for the final Attack Piece
+of this area and a new special
+attack!
+
+===New Special Attack===========
+
+Jump Helmet: Luigi will wear a
+helmet with a spring platform,
+and Mario
+    will try to jump on it repea
+    Mario, and press A as Mario 
+    Press A as Mario lands on th
+    further. This attack costs 6
+
+===New Cholesteroad Challenge===
+
+Juuuuump Mode: This is the Jump
+Helmet Cholesteroad challenge.
+Unlike other
+    challenges, this one doesn't
+    time goes on. Collect red ti
+    avoid the blue ones that dec
+    yellow timer, time will free
+      disappear for a bit.
+
+    If you get an A Rank on this
+    Boots.
+
+===New Gear=====================
+
+Daredevil Boots: Causes you to
+deal 2x damage with all attacks,
+but a single
+    hit will knock you out.
+
+================================
+
+You can also do a new
+Cholesteroad challenge now, but
+I recommend waiting until after
+you finish the Flab Zone. Go
+down the green pipe.
+
+Drop into the bouncy floor of
+this area and bounce near the
+middle to reveal four hidden
+blocks. Then, climb up the
+platforms to the right. There
+are two blocks up here that have
+5 coins and a 1-Up Mushroom in
+them. Grab those, then cross the
+gaps to the left and go down the
+red pipe.
+
+Make Mario mini and send him
+into the corridor on the right.
+Navigate your way to the top,
+then bounce around until you
+reveal 7 hidden blocks. Bounce
+up to them, then hit the button
+on the wall. Take Mario back to
+Luigi and make him normal again.
+Then, jump on the newly revealed
+bouncy floor to be rocketed to
+the top of the room. Talk to the
+Nutsoglobin up here for another
+quiz, and use the information
+from before as well as the new
+info below to answer the
+questions.
+
+Bowser is immobile Even if he
+wants to do evil, he can't move
+He won't strut out in front of
+Peach and everyone like this
+Especially not Mario Bowser
+really doesn't want Mario to see
+him like this That'd be insane
+If Bowser fights Mario in this
+condition, he will just pancake
+him into dust Not a bad evil
+plan
+
+Bowser has a few solid ideas
+about how to KO Fawful His
+current plan is to get up on
+Fawful Theater again and fight
+him He will throw stuff at
+Bowser, but Bowser will laugh
+and inhale him Fawful might try
+to escape on his flying thingie
+However, the Paratroopa Squadron
+will blast him out of the sky as
+he flees Fawful uses a lot of
+weird machines But, Bowser will
+just use his Bob-omns to blow
+them up But, first, Bowser has
+to escape from the floor That's
+a problem
+
+After you win, you will be given
+200 coins and told that the
+correct path is through the red
+pipe. We're done exploring, so
+take his advice and go down the
+red pipe.
+
+The first ? block you see in
+this room holds coins. The
+second holds a Supersyrup Jar.
+The third holds more coins. Use
+a Spin Jump on the platform at
+the end to get to cross the gap,
+then go down the green pipe.
+
+The left block in here contains
+a Supersyrup Jar and the one on
+the right has 2 Super Mushrooms.
+Save at the Save Block, and head
+right.
+
+Proceed up the platform, and use
+the Spin Jump on the group of
+enemies to disperse them. Then,
+fight another boss!
+
+
+===Boss: Alpha Kretin===========
+
+This fight is divided into two
+parts. In the first part, you
+will have to destroy several
+small parts. The orange parts
+can only be harmed by Mario; the
+green can only be damaged by
+Luigi. In the second part, you
+will have to deal with one true
+enemy and several fakes. The
+real one will swap places with
+the fakes, so make sure you
+remember which is which!
+
+If you take too long on the
+second part, you will have to
+repeat the first part.
+
+See the Bosses section for
+detailed info.
+
+===New Item Drop================
+
+Max Syrup Jar:  Recovers 40 SP.
+
+===New Guantlet Challenge=======
+
+Alpha Kretin X: This is the
+second guantlet challenge. It's
+a powered up
+    version of Alpha Kretin. Cos
+     Recommended level: 22.
+
+================================
+
+After the fight, proceed to the
+exit on the right.
+
+You'll get another cutscene as
+you try to progress in this
+room. When it's over, climb up
+the platforms. Hit the ? block
+for 100 coins, then head right
+again.
+
+Another cutscene will start as
+you enter this room. After it
+ends, you will be in control of
+Bowser.
+
+
+---(5.6 Falling Stars)----------
+
+
+***Tunnel***********************
+
+Save at the Save Block, and be
+sure to check out Monsieur
+Broque's shop. There's some new
+gear available. Also, there is a
+new challenge in the Challenge
+Node.
+
+===New Gear in Shop=============
+
+Vampire Band: On punch attacks,
+restores 8% of Bowser's HP.
+
+Glutton Ring: Allows Bowser to
+eat two Drumsticks at once.
+
+===New Challenge================
+
+99 Block: This is a VERY tough
+challenge. The 99 Block is
+located in the
+   upper part of the Challenge N
+   challenge like the ones in th
+   to 99. It continually speeds 
+   very tricky to keep it going 
+
+   If you successfully complete 
+   double your coins. You don't 
+   best to save it for when you 
+   bonus will only be given out 
+
+================================
+
+The pipe leads to a dead end, so
+go along the path to the
+southeast.
+
+Flame the bomb to blow up the
+wall, then use the Sliding
+Haymaker to cross the gap and go
+east.
+
+===New Enemies==================
+
+Choomba: A train-like mecha-
+Goomba. It attacks by charging
+toward Bowser. If
+  there are Coalbits on the scre
+  up.
+
+Coalbit: A lump of coal with
+pinchers. Inhale them to send
+them to Mario and
+  Luigi. If you don't, they will
+  can only be fought alongside C
+  by fire.
+
+===New Blitty===================
+
+Blitty #7: Gotten by vacuuming a
+Choomba.
+
+================================
+
+Drop down and go down the ramp.
+Use Vacuum on the Choomba in
+here for a Blitty. Smash the
+boxes near here to reveal
+another Chakroad.
+
+===New Chakroad=================
+
+Underground Tunnel: This warps
+you to the first part of the
+Tunnel.
+
+================================
+
+The pipe in here will take you
+back to the first room, so
+ignore it for now. Head through
+the west exit at the top of the
+ramp.
+
+Flame the bomb, then head west
+again.
+
+Punch the block you see as you
+enter this room for 5 coins,
+then go a bit west and smash
+another for Special Fangs.
+
+===New Gear=====================
+
+Special Fangs: Boosts Bowser's
+max SP by 20%.
+
+================================
+
+Go down the ramp and smash the
+block in the southwest corner
+for a few more coins, then go
+through the southeast exit.
+
+The two blocks on the north side
+of this room contain 10 coins
+and a Supersyrup Jar. Grab
+those, then go down the first
+ramp. On the far east side of
+this platform is another block
+with 10 coins. Go down the
+remaining ramps and through the
+southeast exit.
+
+Go all the way east in this area
+to get to a strange machine and
+a block. Break the block to get
+10 coins, then press the button
+on the machine to make it
+release a bomb. Light the fuse
+on the bomb and immediately
+punch it to blow open a hole in
+the wall to the west. Then,
+release another bomb. Light the
+fuse, then punch it when the
+countdown reaches 3 to blow open
+another hole. Finally, release
+and flame another bomb and punch
+it when the countdown is at 2 to
+open the last hole. Go through
+the westernmost one.
+
+The boxes on the north side of
+this room contain a Rock Shell
+and 100 coins.
+
+===New Gear=====================
+
+Rock Shell: Better than the
+Judge Shell, but not as good as
+the Armored Shell.
+
+================================
+
+Go back into the room with the
+machine, and go in the hole on
+the east side.
+
+Break the block in here for a
+Cheap Ring.
+
+===New Gear=====================
+
+Cheap Ring: Reduces the SP cost
+of a random special attack by
+30%.
+
+================================
+
+Go back to the room with the
+bomb machine again, and this
+time go in the middle hole.
+
+Smash the block you see as you
+enter this room for 50 coins.
+Then, break the boulders to
+continue. Flame the bomb to the
+north to create a shortcut back
+to the start. If you want, you
+can take the shortcut back to
+use the Save Block before
+continuing. When you are ready,
+walk up the ramp, and cross the
+gap to the south. Keep crossing
+gaps and work your way around to
+the exit at the northeast
+corner. Go through it.
+
+A cutscene will start as you
+enter this room. When it's over,
+send Mario and Luigi to the Leg
+Outpost.
+
+***Leg Outpost******************
+
+A tutorial will start as you
+enter this area. Follow it to
+learn how to play this mini
+game. When Mario is on the
+bottom, stomp with A. When Luigi
+is on the bottom, stomp with B.
+If they split up, stomp with
+both buttons. Hold the buttons
+for a bit before releasing to
+increase the power of the stomp.
+
+The mini game is timed. You will
+have 1 minute and 30 seconds to
+finish it. If you don't, you
+will lose 50 coins and have to
+start over. When you reach the
+end, you will be in control of
+Bowser again.
+
+***Toad Town********************
+
+You are now in the caves beneath
+Toad Town. Walk into the
+doorway.
+
+Step into the center of the
+platform to start a cutscene.
+When it's over, send the
+Brothers to the Pipe Yard.
+
+***Pipe Yard********************
+
+Hop over the fallen red pipe to
+the left and go down the purple
+pipe.
+
+***Toad Town********************
+
+Congratulations! You have just
+left Bowser's body and are in
+the same caves he collapsed in.
+Use the Save Block, and head
+west.
+
+===New Enemy====================
+
+Nooz: These enemies look like
+the noses of Mario and Luigi.
+This enemy may drop
+ a Happy Charm.
+
+===New Gear=====================
+
+Happy Charm: Boosts your chance
+of getting a lucky hit by 50%.
+
+================================
+
+Walk into the east yellow pipe.
+
+You are now out of the caves.
+Hop up the steps and go west.
+
+Hit the ? block on the west side
+of this area for up to 100
+coins, then go down the steps
+and head east.
+
+Hit the ? block in here for a
+Thrift Charm.
+
+===New Gear=====================
+
+Thrift Charm: Reduces the SP
+cost of a random special attack
+by 40%.
+
+================================
+
+Go west again, and head back up
+the steps. Use the Spin Jump on
+the air blowing out of the
+ground near the bridge to be
+shot into the air. Continue to
+use it on the other pocket up
+here, and make your way to the
+pipe on the west.
+
+Do the same thing in this area
+to make your wau to the pipe
+leading east at the top.
+
+Go east a bit and hit the blue
+shell block to release blue
+shells flying across the
+Mushroom Kingdom. Some blue
+paratroopas will teach you how
+to use them. When Mario has a
+blue shell, whack him with
+Luigi's hammer to send him
+flying forward. Use this to hit
+the paratroopas and earn another
+special attack.
+
+===New Special Attack===========
+
+You Who Cannon: Mario and Luigi
+will multiply and jump into
+several barrels.
+    Remember their positions! As
+    button of the Bro within to 
+
+    To make it easier to remembe
+    try to memorize the position
+    pattern. If a cannon lifts t
+    press the other button!
+
+This attack costs 7 SP per use.
+
+===New Cholesteroad Challenge===
+
+Yoo Who Cannon: This will test
+your mastery of the Yoo Who
+Cannon special
+    attack as well as your eye s
+    yourself. Like all Cholester
+    to unimaginable levels as yo
+    calm, and feel free to read 
+    Cholesteroad section further
+
+    If you get an A rank, you wi
+      a pair of Bro Socks.
+
+===New Gear=====================
+
+Bro Socks: Boosts your DEF by
+100% if you are holding a KO'd
+Brother.
+
+================================
+
+Work your way back to the pipe
+and go back through it. Head
+west.
+
+Go into the doorway to see
+Bowser and start a short
+cutscene. When it's over, you
+will be back outside the room.
+Go east one screen and head
+north.
+
+===New Enemy====================
+
+Fawflant: A Fawfulized ant. It
+has a drill on its abdomen that
+can poison.
+
+================================
+
+Cross the bridge and head a bit
+north to get to two ? blocks
+that contain a Super Nut and up
+to 50 coins. Continue working
+your way around and head north.
+
+Hit the Shell Block in here to
+get a Shell, then go down the
+steps. Don't jump, or you will
+lose it. Have Luigi whack Mario
+with the hammer when he is
+facing the switch that looks
+like a faucet to rotate the
+bridge. Cross over to the other
+side and whack the northwest and
+southeast switches to make a
+bridge near the Toad at the
+entrance of this area. Hit the !
+block to activate the first of
+three lights above the north
+door, then cross your new bridge
+and go through the exit at the
+southwest.
+
+Kill the enemies in this room,
+then circle around to the
+northwest corner to hit a ?
+block containing 50 coins. Then,
+go back to the southwest corner
+and get the Shell. Go back to
+the block you just passed
+hovering above the water and
+send Mario into it with the
+hammer for 100 more coins. Then,
+hit the ! block on the east side
+of the area to light up the
+second light. Go through the
+northeast exit.
+
+Grab the Shell from the block,
+and hit the switch to make a
+bridge back to the main part of
+the room. Go back to the three
+switches on the east side of the
+area and hit all of them to
+rotate the bridges so you can
+get to the last ! block. Hit it,
+then go through the door that
+opens to the north.
+
+Save at the Save Block, then
+talk to the Toads to the north.
+Surprise! They are actually
+Fawflants! Defeat them, then
+watch the cutscene. When it's
+over, go up the path to the east
+to get up to 100 coins from the
+block. Go west.
+
+Hop up the platforms and Spin
+Jump across the gap to get to a
+pair of blocks that contain a
+Star Candy and up to 50 coins.
+Then, go back to the east and
+head through the open door to
+the north.
+
+There are two ? blocks in this
+room. The one on the west
+contains 2 Super Mushrooms and
+the one on the east has 50
+coins. Grab them, and head
+north.
+
+This room has a lot of ? blocks.
+Hit the block above the platform
+to the east for 50 coins, then
+hop up the platforms to the
+north and Spin Jump across to
+the tall, eastern platform and
+hit the block there for 50 more.
+Spin Jump back, then Spin Jump
+into the gap in the wall and hit
+the block for a Supersyrup jar.
+Spin Jump out of the gap and go
+to the platform to the west.
+Repeat the process in the next
+gap for another Supersyrup Jar
+from the block in there, then
+Spin Jump back out and go to the
+next west platform. Cross the
+gap to the far western platform
+and hit the ? blocks there for
+100 coins and a pair of Coin
+Socks.
+
+===New Gear=====================
+
+Coin Socks: Increases the coins
+earned in battle by 50% if the
+wearer takes no
+    damage during the fight.
+
+================================
+
+Finally, go east.
+
+The 2 blocks above the ramp at
+the east end of this area
+contain a total of 60 coins.
+After you get them, go through
+the pipe to get to the main part
+of Toad Town.
+
+
+---(5.7 The Hunt For a Cure)----
+
+
+Coming soon!
+
+
+---(6. Attack List)-------------
+
+
+---(6.1 Mario / Luigi)----------
+
+
+++++++++++++++++++++++++++++++++
+
+Jump: This is a basic jump
+attack. Press the action button
+just before landing to deal
+extra damage and initiate a
+second jump. Press the action
+button again just before landing
+a second time to stomp and do
+even more damage. ***CAUTION***
+Jumping on enemies that use
+their heads to damage you will
+do no damage to the enemy.
+Instead, you will receive 1 HP
+of damage!
+
+++++++++++++++++++++++++++++++++
+
+Hammer: This is a basic hammer
+attack. After you select your
+target, Mario or Luigi will run
+up to it and begin charging
+their strike. Press the action
+button to make them strike when
+the hammer is at full power, but
+don't wait too long or the
+hammer's head will fall off and
+you won't do much damage. This
+attack is useful for attacking
+enemies that can't be harmed by
+jumping. The Hammer may inflict
+dizzy status on your foes.
+
+++++++++++++++++++++++++++++++++
+
+Green Shell: Mario and Luigi
+will kick a Green Shell back and
+forth between them. Press the A
+or B Button as the shell gets
+close to Mario or Luigi to make
+them kick it again and deal more
+damage! Acquired in Trash Pit.
+Requires 3 SP per use.
+
+++++++++++++++++++++++++++++++++
+
+Fire Flower: Mario and Luigi
+will each get a Fire Flower and
+fireballs. Press the button of
+the brother with the big
+fireball to make him throw fire
+at random enemies. At the end of
+the attack, Mario and Luigi may
+both have big fireballs, so
+press A and B together
+repeatedly for masive damage.
+Acquired in Pump Works. Requires
+4 SP per use. This attack may
+inflict burn status.
+
+++++++++++++++++++++++++++++++++
+
+Jump Helmet: Luigi will wear a
+springboard helmet, and Mario
+will jump on it. Move Luigi so
+he is under Mario, and press A
+as Mario lands to power the
+attack up. Press A again as
+Mario lands on the enemy to do
+massive damage. Acquired in Flab
+Zone. Requires 6 SP per use. As
+with other jumping attacks, you
+should not use this against
+enemies that use their head to
+attack.
+
+++++++++++++++++++++++++++++++++
+
+Yoo Who Cannon: A bunch of
+barrels will fall down, and
+Mario and Luigi will pop out of
+them. Memorize their positions!
+As the barrels lift, press the
+button of the Brother that's in
+the barrel.
+
+To make memorization easier,
+only pay attention to the
+Brother with the easier to
+remember pattern. If a barrel
+lifts that doesn't match the
+pattern, press the other button!
+
+This attack costs 7 SP per use.
+
+++++++++++++++++++++++++++++++++
+
+
+---(6.2 Bowser)-----------------
+
+
+++++++++++++++++++++++++++++++++
+
+Punch: Bowser will walk toward
+the enemy and begin charging a
+punch. Press X as he finishes
+charging to punch the enemy with
+full strength. If you
+overcharge, though, Bowser will
+fall on the enemy and not do
+much damage.
+
+++++++++++++++++++++++++++++++++
+
+Vacuum: Bowser will try to
+inhale any enemy onscreen. Press
+X to make him inhale better.
+Most enemies can not be inhaled,
+but the Vacuum Block will flash
+when you have an opportunity.
+This can be used to collect
+Blitties, but the Vacuum Block
+won't give you any hints about
+those.
+
+If an enemy is inhaled, it will
+be sent to fight the Mario
+Brothers in Bowser's gut.
+
+++++++++++++++++++++++++++++++++
+
+Flame: Bowser will begin
+charging his flame breath. When
+he is at full charge, press and
+hold X to make him spit it at
+the enemy. This is an attack
+that hits all the enemies on the
+bottom screen, and it has the
+potential to inflict burn
+status. The longer X is held
+down, the more damage the flame
+will deal.
+
+++++++++++++++++++++++++++++++++
+
+Goomba Storm: Goombas will rush
+toward the specified enemy.
+Light them on fire by tapping
+them with the stylus to power
+them up! Acquired in Dimble
+Wood. Requires 6 SP per use. May
+inflict burn status.
+
+++++++++++++++++++++++++++++++++
+
+Shy Guy Squad: A bunch of Shy
+Guys will appear and use rubber-
+band action to launch the ball-
+morphed Bowser into an enemy.
+Slide the stylus across Bowser
+from right to left while they
+are readying the attack to power
+it up. Acquired in Bowser Path.
+Requires 8 SP per use.
+
+++++++++++++++++++++++++++++++++
+
+
+---(7. Item List)---------------
+
+
+---(7.1 Normal Items)-----------
+
+
+I'm listing the normal items
+that you can use from the Items
+menu, here. I will also list who
+can use the items if it's not
+already in the description.
+
+
+Mushroom: Restores 30 HP (Bros).
+Sells for 1 coin.
+
+Super Mushroom: Restores 60 HP
+(Bros). Sells for 5 coins.
+
+Hot Drumstick: Restores 80 HP to
+Bowser. Sells for 2 coins.
+
+Fiery Drumstick: Restores 150 HP
+to Bowser. Sells for 7 coins.
+
+TNT Drumstick: Restores 280 HP
+to Bowser. Sells for 15 coins.
+
+Nut: Restores 20 HP to both
+Bros. Sells for 5 coins.
+
+Super Nut: Restores 40 HP to
+both Bros. Sells for 20 coins.
+
+Ultra Nut: Restores 80 HP to
+both Bros. Sells for 40 coins.
+
+Syrup Jar: Restores 10 SP
+(Anyone). Sells for 3 coins.
+
+Supersyrup Jar: Restores 20 SP
+(Anyone). Sells for 8 coins.
+
+Max Syrup Jar: Restores 40 SP
+(Anyone). Sells for 25 coins.
+
+Star Candy: Fully Restores HP &
+SP (Anyone). Sells for 50 coins.
+
+1-Up Mushroom: Revives a fallen
+Bro with half HP. Sells for 6
+coins.
+
+1-Up Deluxe: Revives a fallen
+Bro with full HP. Sells for 25
+coins.
+
+Refreshing Herb: Cures status
+effects (Anyone). Sells for 1
+coin.
+
+Retry Clock: Restarts battle
+from the beginning. Sells for 1
+coin.
+
+
+---(7.2 Key Items)--------------
+
+
+++++++++++++++++++++++++++++++++
+
+Hammers: Hammers found in the
+Trash Pit. Use 'em to whack and
+break
+  stuff!
+
+Notes: These are the hammers you
+get early in the game. They
+enable hammer
+  attacks in battle and are used
+  game.
+
+++++++++++++++++++++++++++++++++
+
+Vacuum Block: A rare block from
+Broque Monsieur. In battle,
+Bowser inhales
+   stuff!
+
+Notes: The Vacuum Block allows
+Bowser to control the powers
+granted to
+   him by the Vacuum Shroom. He 
+   eat things on the battlefield
+   Blitties!
+
+++++++++++++++++++++++++++++++++
+
+Blitty: A Blitty from a monster.
+
+Notes: There are 15 Blitties
+scattered around the Mushroom
+Kingdom. Each one has a
+different description, and
+Monsieur Broque will reward you
+for collecting them for him. Use
+Bowser's Vacuum on monsters to
+collect Blitties!
+
+++++++++++++++++++++++++++++++++
+
+Stingler: An item that might
+shock something. Where should
+you use it?
+
+Notes: This is the key to the
+DNA door in Pump Works.
+
+++++++++++++++++++++++++++++++++
+
+Banzai Bill: An enormous, black,
+shiny weapon. If it's launched
+at tou, you're
+   toast!
+
+Notes: You get this for
+defeating Wiggler. Use it with
+the cannon to fire
+  at Bowser's captured castle.
+
+++++++++++++++++++++++++++++++++
+
+
+---(8. Gear List)---------------
+
+
+This is where you will find a
+list of the gear in the game
+along with what attributes each
+one has. Gear is listed in the
+order that it appears in the
+inventory.
+
+
+---(8.1 Mario / Luigi)----------
+
+
+---(8.1.1 Wear)-----------------
+
+
+++++++++++++++++++++++++++++++++
+
+Fighter Wear
+
+HP:     +0
+SP:     +0
+POW:    +5
+DEF:    +30
+SPEED:  +0
+STACHE: +0
+
+No special effect
+
+Get From: ? Block in Pump Works
+in room with cannon Sell Value:
+37 Coins
+
+++++++++++++++++++++++++++++++++
+
+Leisure Wear
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +30
+SPEED:  +0
+STACHE: +0
+
+No special effect
+
+Get From: Toad Square Gear Shop
+Sell Value: 50 coins
+
+++++++++++++++++++++++++++++++++
+
+Picnic Wear
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +15
+SPEED:  +0
+STACHE: +0
+
+No special effect
+
+Get From: Toad Square Gear Shop
+Sell Value: 7 coins
+
+++++++++++++++++++++++++++++++++
+
+Thin Wear
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +5
+SPEED:  +0
+STACHE: +0
+
+No special effect
+
+Get From:   You start with this
+Sell Value: 1 coin
+
+++++++++++++++++++++++++++++++++
+
+
+---(8.1.2 Socks)----------------
+
+
+++++++++++++++++++++++++++++++++
+
+HP Socks
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +0
+SPEED:  +0
+STACHE: +0
+
+20% HP Booster: Raises maximum
+HP. Get From: Toad Square Gear
+Shop Sell Value: 75 coins
+
+++++++++++++++++++++++++++++++++
+
+Starched Socks
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +0
+SPEED:  +0
+STACHE: +0
+
+10% DEF Booster: Raises defense.
+Get From: Toad Square Gear Shop
+Sell Value: 62 coins
+
+++++++++++++++++++++++++++++++++
+
+Coin Socks
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +0
+SPEED:  +0
+STACHE: +0
+
+No Damage Coin Booster: Gives
+1.5x coins for no-damage wins.
+Get From: ? Block at end of
+caves under Toad Town. Sell
+Value: 250 coins
+
+++++++++++++++++++++++++++++++++
+
+EXP Socks
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +0
+SPEED:  +0
+STACHE: +0
+
+No Damage EXP Booster: Gives
+1.3x EXP for no-damage wins. Get
+From: Hidden room in pipe maze
+of Flab Zone. Sell Value: 375
+coins
+
+++++++++++++++++++++++++++++++++
+
+Bro Socks
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +0
+SPEED:  +0
+STACHE: +0
+
+100% DEF Burden Booster: Raises
+defense while holding a KO'd
+bro. Get From: A Rank on Yoo Who
+Cannon Cholesteroad challenge.
+Sell Value: 1 coin
+
+++++++++++++++++++++++++++++++++
+
+Gall Socks
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +0
+SPEED:  +0
+STACHE: +0
+
+50% Target Booster: Makes foes
+more likely to attack you. Get
+From: Toad Square Gear Shop Sell
+Value: 12 coins
+
+++++++++++++++++++++++++++++++++
+
+
+---(8.1.3 Gloves)---------------
+
+
+++++++++++++++++++++++++++++++++
+
+POW Gloves
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +0
+SPEED:  +0
+STACHE: +0
+
+10% POW Booster: Raises power.
+Get From:        Durmite
+Sell Value:      100 Coins
+
+++++++++++++++++++++++++++++++++
+
+
+---(8.1.4 Boots)----------------
+
+
+++++++++++++++++++++++++++++++++
+
+POW Boots
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +0
+SPEED:  +0
+STACHE: +0
+
+10% POW Booster: Raises power.
+Get From: ? Block in pipe maze
+of Flab Zone. Sell Value: 200
+coins
+
+++++++++++++++++++++++++++++++++
+
+Daredevil Boots
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +0
+SPEED:  +0
+STACHE: +0
+
+Double Dare Dealer: 2x attack
+power, but a hit KOs you! Get
+From: A Rank on Juuuuump Mode in
+Cholesteroad. Sell Value: 500
+coins
+
+++++++++++++++++++++++++++++++++
+
+
+---(8.1.5 Treasure)-------------
+
+
+++++++++++++++++++++++++++++++++
+
+Happy Charm
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +0
+SPEED:  +0
+STACHE: +0
+
+1.5x Luck Booster: Increases
+rate of lucky hits. Get From:
+Nooz in caves of Toad Town Sell
+Value: 125 Coins
+
+++++++++++++++++++++++++++++++++
+
+Thrift Charm
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +0
+SPEED:  +0
+STACHE: +0
+
+Random 40% SP Shrinker: Reduces
+a random attack's SP cost. Get
+From: ? block west of Toad Town
+Sell Value: 250 Coins
+
+++++++++++++++++++++++++++++++++
+
+Challenge Medal
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +0
+SPEED:  +0
+STACHE: +0
+
+Challenge Modifier: Foes power
+up but drop 1.5x more coins. Get
+From: A Rank on Green Shell
+challenge in Cholesteroad. Sell
+Value: 1 Coin
+
+++++++++++++++++++++++++++++++++
+
+Gold Ring
+
+HP:     +0
+SP:     +0
+POW:    +0
+DEF:    +0
+SPEED:  +0
+STACHE: +0
+
+Collectible: Useless, but worth
+lots of coins. Get From: Dropped
+by Lakitu King in Bumpsy Plains.
+Sell Value: 200 coins.
+
+++++++++++++++++++++++++++++++++
+
+
+---(8.2 Bowser)-----------------
+
+
+---(8.2.1 Shells)---------------
+
+
+++++++++++++++++++++++++++++++++
+
+Armored Shell
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +130
+SPEED: +0
+HORN:  +0
+
+No special effect.
+
+Get From:   Broggy's Gear Shop
+Sell Value: 400 coins.
+
+++++++++++++++++++++++++++++++++
+
+Rock Shell
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +90
+SPEED: +0
+HORN:  +0
+
+No special effect.
+
+Get From:   Block in Tunnel
+Sell Value: 250 coins.
+
+++++++++++++++++++++++++++++++++
+
+Judge Shell
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +75
+SPEED: +0
+HORN:  +0
+
+No special effect
+
+Get From: Block in room in Cavi
+Cape behind flammable material.
+Sell Value: 200 Coins.
+
+++++++++++++++++++++++++++++++++
+
+Safety Shell
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +60
+SPEED: +0
+HORN:  +0
+
+No special effect
+
+Get From:   Broggy's Gear Shop
+Sell Value: 100 Coins
+
+++++++++++++++++++++++++++++++++
+
+Special Shell
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +40
+SPEED: +0
+HORN:  +0
+
+No special effect
+
+Get From:   Broggy's Gear Shop
+Sell Value: 50 Coins
+
+++++++++++++++++++++++++++++++++
+
+Shabby Shell
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +20
+SPEED: +0
+HORN:  +0
+
+No special effect
+
+Get From:   You start with this.
+Sell Value: 7 coins
+
+++++++++++++++++++++++++++++++++
+
+
+---(8.2.2 Bands)----------------
+
+
+++++++++++++++++++++++++++++++++
+
+Power Band
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +0
+SPEED: +0
+HORN:  +0
+
+10% POW Booster: Raises power.
+Get From: Block in area with
+first Chain Chawfuls in Bowser
+Path. Sell Value: 250 coins.
+
+++++++++++++++++++++++++++++++++
+
+Iron Fist Band
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +0
+SPEED: +0
+HORN:  +0
+
+Punch Pumper: Increases punch
+power 20%. Get From: Broggy's
+Gear Shop Sell Value: 100 coins
+
+++++++++++++++++++++++++++++++++
+
+Lucky Band
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +0
+SPEED: +0
+HORN:  +0
+
+Double Luck Booster: Increases
+rate of lucky hits. Get From:
+Broggy's Gear Shop Sell Value:
+50 coins
+
+++++++++++++++++++++++++++++++++
+
+Vampire Band
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +0
+SPEED: +0
+HORN:  +0
+
+HP Punch Restorer: Restores HP
+8% on punch attacks. Get From:
+Broggy's Gear Shop Sell Value:
+500 coins
+
+++++++++++++++++++++++++++++++++
+
+Block Band
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +0
+SPEED: +0
+HORN:  +0
+
+20% DEF Booster: Raises defense.
+Get From: Turning 4 Blitties in
+to Monsieur Broque Sell Value: 1
+coin
+
+++++++++++++++++++++++++++++++++
+
+
+---(8.2.3 Fangs)----------------
+
+
+++++++++++++++++++++++++++++++++
+
+Special Fangs
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +0
+SPEED: +0
+HORN:  +0
+
+20% SP Booster: Raises maximum
+SP. Get From: Block in Tunnel
+Sell Value: 250 coins
+
+++++++++++++++++++++++++++++++++
+
+Red-hot Fangs
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +0
+SPEED: +0
+HORN:  +0
+
+Fire Stoker: Raises flame power
+20%. Get From: Block in room in
+Cavi Cape hidden behind
+flammable material. Sell Value:
+125 Coins
+
+++++++++++++++++++++++++++++++++
+
+---(8.2.4 Rings)----------------
+
+
+++++++++++++++++++++++++++++++++
+
+Hard Ring
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +0
+SPEED: +0
+HORN:  +0
+
+20% DEF Booster: Raises defense.
+Get From: Block in Dimble Wood
+in area north of Wiggler bridge.
+Sell Value: 100 coins
+
+++++++++++++++++++++++++++++++++
+
+Safety Ring
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +0
+SPEED: +0
+HORN:  +0
+
+20% HP Booster: Raises maximum
+HP. Get From: Block on island in
+Bumpsy Plains. Sell Value: 250
+coins
+
+++++++++++++++++++++++++++++++++
+
+Glutton Ring
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +0
+SPEED: +0
+HORN:  +0
+
+Drumstick Gobbler: Lets you eat
+two drumsticks at once. Get
+From: Broggy's Gear Shop Sell
+Value: 375 coins
+
+++++++++++++++++++++++++++++++++
+
+Cheap Ring
+
+HP:    +0
+SP:    +0
+POW:   +0
+DEF:   +0
+SPEED: +0
+HORN:  +0
+
+Random 30% SP Shrinker: Reduces
+a random attack's SP cost. Get
+From: Block in Tunnel Sell
+Value: 150 coins
+
+++++++++++++++++++++++++++++++++
+
+
+---(8.3 Badges)-----------------
+
+These are the badges that Mario
+and Luigi can acquire. Mario's
+badges affect what effect the
+badges produce. Luigi's badges
+affect the strength of the
+effect as well as how easy it is
+to fill the meter.
+
+When the meter is full, you can
+use the effect of the badges by
+tapping the meter.
+
+
+---(8.3.1 Mario)----------------
+
+
+++++++++++++++++++++++++++++++++
+
+Mushroom Badge
+
+Description: This badge heals
+the Brothers.
+
+Combinations-
+
+Mushroom + Good = Good-Excellent
+strikes boost meter. Restores
+20% of both
+    bros' HP.
+
+++++++++++++++++++++++++++++++++
+
+
+---(8.3.2 Luigi)----------------
+
+
+++++++++++++++++++++++++++++++++
+
+Good Badge
+
+Description: This badge is the
+weakest of Luigi's badges, but
+the easiest to
+   use. Any attack with at least
+   meter.
+
+Combinations-
+
+Good + Mushroom = Good-Excellent
+strikes boost meter. Restores
+20% of both
+    bros' HP.
+
+++++++++++++++++++++++++++++++++
+
+
+---(9. Enemy List)--------------
+
+
+Here, I will list the various
+enemies you will encounter. As
+far as I know, there is no name
+for their attacks. Because of
+this, I have tried to assign
+names to each of them. There may
+be some inaccuracies in the
+there. If you have more accurate
+information, please contact me!
+
+Enemies are listed in the order
+they appear.
+
+
+---(9.1 Inside Bowser)----------
+
+
+++++++++++++++++++++++++++++++++
+
+Goombule
+
+HP:    8
+EXP:   3
+Coins: 2
+Drops: Mushroom, Syrup Jar
+Found: Trash Pit, Pump Works
+
+Description: These are enemies
+you fight early in the game.
+They are very weak
+   and shouldn't pose much of a 
+between a Goomba and an amoeba.
+
+Attacks-
+
+Charge: The Goombule will run
+toward one of the Bros. and
+pause a short
+    distance away. Then, it will
+       land on its head!
+
+Rolling Charge: The Goombule
+will charge towards Mario or
+Luigi and pause
+    between them. If it lifts th
+    Mario. If it lifts the leg o
+    Then, it will roll toward it
+    it!
+
+++++++++++++++++++++++++++++++++
+
+Elite Goombule
+
+HP: 16 EXP: 4 Coins: 2 Drops:
+N/A Found: Trash Pit (One-time
+encounter)
+
+Description: A blue Goombule
+with a helmet on its head. These
+guys are only
+   fought while Starlow teaches 
+   can't hurt them with jumps, s
+   take them out.
+
+Attacks-
+
+Charge: The Elite Goombule will
+run toward one of the Bros,
+pause, then charge
+  into them. Jump on them or ove
+  damage from counterattacks.
+
+++++++++++++++++++++++++++++++++
+
+Spike Blop
+
+HP:    12
+EXP:   5
+Coins: 3
+Drops: Syrup Jar, 1-Up Mushroom
+Found: Trash Pit, Pump Works
+
+Description: A green glob with
+spikes on its head. It looks
+similar to the
+   Spiny enemies found in other 
+   won't hurt it and you will ta
+
+Attacks-
+
+Charge: The Spike Blop will
+charge into a Bro. Swing the
+hammer at it to
+   stop it!
+
+Spike Drop: The Spike Blop will
+jump onto the ceiling and move
+toward one of
+   the Bros. When it is over the
+   towards them. Time an attack 
+
+++++++++++++++++++++++++++++++++
+
+Bubble Blooper
+
+HP:    25
+EXP:   10
+Coins: 4
+Drops: Mushroom
+Found: Pump Works (Wet)
+
+Description: A Blooper that is
+full of water. They only appear
+when the Pump
+   Works is underwater. Attacks 
+   turn into a Dried Blooper if 
+
+Attacks-
+
+Roll: The Bubble Blooper will
+jump in the air and land in
+front of one of the
+ Bros. Then, it will roll toward
+
+Jump: The Bubble Blooper will
+leap high in the air (higher
+than Roll), and
+ bounce when it lands. Then, it 
+ it with the hammer as it gets c
+
+++++++++++++++++++++++++++++++++
+
+Dried Blooper
+
+HP:    25
+EXP:   10
+Coins: 4
+Drops: Unknown
+Found: Pump Works (Dry)
+
+Description: Looks like a normal
+Blooper, but wafer-thin. These
+only appear if
+   Pump Works dries up. It will 
+   Pump Works is underwater.
+
+Attacks-
+
+Paper Drift: The Dried Blooper
+will jump over Mario or Luigi
+and begin to drift
+   toward the ground like a piec
+   hits! Depending on the height
+   immediately or drift once bef
+   may knock you off balance.
+
+++++++++++++++++++++++++++++++++
+
+Protobatter
+
+HP:    35
+EXP:   15
+Coins: 5
+Drops: Syrup Jar, Nut
+Found: Pump Works
+
+Description: Looks like a
+caveman with a spiked club. It
+will grow when it is
+ attacked, increasing it's POW.
+
+Attacks-
+
+Cloud Shot: The Protobatter will
+spit a cloud out of its mouth
+and bat it with
+   its club toward its target. H
+   close!
+
+++++++++++++++++++++++++++++++++
+
+Tenderling
+
+HP:    45
+EXP:   30
+Coins: 12
+Drops: 1-Up Mushroom
+Found: Flab Zone
+
+Description: Looks like a piece
+of meat with a bone sticking out
+of its sides.
+
+Attacks-
+
+Roll: The Tenderling will walk
+toward its target, jump at the
+same height as
+  Mario or Luigi's head, then ro
+
+Bounce: The Tenderling will walk
+toward its target as if it would
+roll, but it
+  will jump higher into the air.
+  jump!
+
+++++++++++++++++++++++++++++++++
+
+Calorite
+
+HP:    85
+EXP:   40
+Coins: 20
+Drops: Refreshing Herb
+Found: Flab Zone
+
+Description: Looks like a flame
+with a face. It holds a stick in
+each hand.
+   Don't jump on it! If a Tender
+   Calorite may eat it to produc
+
+Attacks-
+
+Flame Broil: The Calorite will
+toss the sticks into its head,
+then it will roll
+   vertically along the ground t
+   attention to how many times i
+   each set of sticks it throws,
+   before ending its attack.
+
+++++++++++++++++++++++++++++++++
+
+
+---(9.2 Outside Bowser)---------
+
+
+++++++++++++++++++++++++++++++++
+
+Chuboomba
+
+HP: 50 EXP: 15 Coins: 4 Drops:
+Hot Drumstick Found: Cavi Cape,
+Plack Beach (Only alongside
+Toothy enemies)
+
+Description: A fat Goomba with a
+huge lollipop on its back. If
+Bowser inhales
+   the lollipop, he will recover
+   away crying.
+
+Attacks-
+
+Charge: The Chuboomba will
+charge into its target. Bowser
+should punch
+   it when it gets close. The Ma
+   head.
+
+Cough, Charge: The Chuboomba
+will cough, then it will charge
+at its target. It
+   will pause near its target to
+   the attack. Bowser should pun
+   it.
+
+++++++++++++++++++++++++++++++++
+
+Borp
+
+HP: 100 EXP: 220 Coins: 40
+Drops: Super Mushroom,
+Refreshing Herb Found: Cavi Cape
+
+Description: A small, purple
+blob with plus signs over the
+main part of its
+   body. This enemy can only be 
+  kills it, it yields 1 coin.
+
+Attacks-
+
+Air Puff: The Borp will inhale
+air and spit it at the Bros. It
+will spit air as
+  many times as it inhales. Jump
+    inflict POW Down status.
+
+++++++++++++++++++++++++++++++++
+
+Drillbit Crab
+
+HP:    115
+EXP:   240
+Coins: 45
+Drops: Super Mushroom, Big Shell
+Found: Plack Beach
+
+Description: A hermit crab with
+a shell on its back. It can only
+be fought by
+   the Mario Bros. Don't jump on
+   Bowser kills it, it yields ??
+
+Attacks-
+
+Drill Charge: The Drillbit Crab
+will point its shell forward and
+rush toward
+    one of the Bros. Before the 
+    depending on if it is target
+    down is Luigi. Whack it with
+
+Look Out Below: The Drillbit
+Crab will lean a direction, then
+burrow into the
+    ground. It will reappear und
+    it once when the dust appear
+    its second target. If it lea
+    go toward Mario. If it leans
+    to Luigi.
+
+++++++++++++++++++++++++++++++++
+
+Toothy
+
+HP: 28 EXP: 18 Coins: 5 Drops:
+Hot Drumstick, Fiery Drumstick
+Found: Plack Beach
+
+Description: A tall, column of
+teeth that roams Plack Beach. It
+looks like the
+   cactus enemies from previous 
+   from attacks to the head. If 
+   head are destroyed, it will r
+   Bowser inhales the body porti
+   boost.
+
+Attacks-
+
+Charge: The Toothy will move
+toward its target, pausing at a
+close
+   distance, and will crash into
+   to stop it and knock its head
+
+Virus Spit: This attack is only
+used when the Toothy's head is
+on the ground.
+   It will spit something that l
+   at its target, and the virus 
+   jump on it to avoid taking da
+   or Luigi, pay attention to th
+   before running at its target,
+   jump over you.
+
+++++++++++++++++++++++++++++++++
+
+Treevil
+
+HP:    95
+EXP:   30 (35 if eyes are red)
+Coins: 8 (10 if eyes are red)
+Drops: Hot Drumstick, Syrup Jar
+Found: Dimble Wood
+
+Description: Looks like a tree
+with eyes. The eyes are usually
+blue, but you
+   will sometimes find a red-eye
+   Bowser can inhale the fruit t
+     to fire based attacks.
+
+Attacks-
+
+Branch Toss: The Treevil will
+toss a branch along the ground.
+As Bowser, punch
+  the branch to knock it away.
+
+Branch Lob: The Treevil will lob
+a branch high into the air. As
+Bowser, duck
+ to your shell to avoid damage.
+
+++++++++++++++++++++++++++++++++
+
+Trashure
+
+HP:    147
+EXP:   40
+Coins: 15
+Drops: ?
+Found: Dimble Wood
+
+Description: A treasure box that
+throws things at you. After
+about 100 HP of
+   damage, the lock will come of
+   the coins. This enemy will ru
+
+Attacks-
+
+Random Junk: The lock on the
+Trashure will reach inside and
+throw stuff at you.
+   If it throws a Scutlet, a ham
+   counterattack. If it throws a
+   you for free HP or money. If 
+   will recover.
+
+++++++++++++++++++++++++++++++++
+
+Flifit
+
+HP:    108
+EXP:   50
+Coins: 20
+Drops: Hot Drumstick, Syrup Jar
+Found: Bumpsy Plains
+
+Description: An evil sunflower
+that spits Sneeds. If its petals
+are vacuumed
+   off, it will be disabled unti
+   to fire.
+
+Attacks-
+
+Sneed Shot: The Flifit will spit
+a Sneed toward Bowser. Punch it
+to knock it
+   back! If it hits you, duck in
+   If this attack is successfull
+   born.
+
+Sneed Spit: The Flifit will spit
+a Sneed onto the ground. The
+Sneed will bounce
+   toward Bowser, so duck to avo
+   different sound than Sneed Sh
+   happen.
+
+++++++++++++++++++++++++++++++++
+
+Lakitu King
+
+HP: 90 EXP: 35 Coins: 20 Drops:
+Gold Ring Found: Bumpsy Plains
+(Alongside Flifit)
+
+Description: A Lakitu with a
+crown on its head. It only
+appears alongside other
+   enemies. Vacuum it to send it
+
+Attacks-
+
+Freebies: The Lakitu King will
+throw stuff at the brothers.
+Usually, he will
+  throw coins. If he does, let t
+    a spike ball, dodge it!
+
+++++++++++++++++++++++++++++++++
+
+Chain Chawful
+
+HP:    165
+EXP:   75
+Coins: 30
+Drops: ?
+Found: Bowser Path
+
+Description: A Fawfulized Chain
+Chomp. You can inhale the Fawful
+clone in its
+   head if it pokes out. If you 
+   normal and leave.
+
+Attacks-
+
+Rush: The Chain Chawful will
+make several motions, then rush
+toward you. Pay
+ attention to the order of its a
+ will jump and Bowser will need 
+ need to punch.
+
+++++++++++++++++++++++++++++++++
+
+Fawfulcopter
+
+HP: 32 EXP: 40 Coins: 20 Drops:
+Super Mushroom Found: Bowser
+Path (Alongside Chain Chawful)
+
+Description: These are the UFOs
+that Fawful uses to spy and
+communicate. It
+   doubles as an alert system fo
+   captures it. Inhale it to sen
+
+Attacks-
+
+ALERT!: Not really an attack.
+The Fawfulcopter will flash its
+light and send
+  off an alert. If it does this 
+  will join the fight.
+
+++++++++++++++++++++++++++++++++
+
+Choomba
+
+HP:    250
+EXP:   120
+Coins: 50
+Drops: Fiery Drumstick
+Found: Tunnel
+
+Description: A large, mechanical
+Goomba that acts like a train.
+It will attack
+   Bowser by rushing toward him.
+may eat them to power itself up.
+
+Attacks-
+
+Charge: The Choomba will step
+back and release several puffs
+of smoke. The
+  smoke will form into shells an
+  Then, the Choomba will charge 
+  duck for each shell.
+
+++++++++++++++++++++++++++++++++
+
+Coalbit
+
+HP:    35
+EXP:   30
+Coins: 15
+Drops: ?
+Found: Tunnel
+
+Description: A live lump of coal
+with pinchers. They serve as
+fuel for the
+   Choombas. Inhale them to stop
+   may randomly run away if it i
+   damageds by fire.
+
+Attacks-
+
+Pincher Train: The Coalbits will
+line up, point their pinchers
+upward, and run
+   toward Mario or Luigi. Jump t
+
+++++++++++++++++++++++++++++++++
+
+Nooz
+
+HP: 60 EXP: 50 Coins: 25 Drops:
+Super Mushroom, Happy Charm
+Found: Toad Town
+
+Description: An enemy that looks
+like the nose of Mario or Luigi.
+Occasionally,
+   they may switch colors and ha
+   power while the Luigi types h
+
+Attacks-
+
+Sing: The Nooz will sing and
+call another Nooz to the battle.
+
+Launch: If there are both types
+of Nooz on screen, a Luigi type
+may launch a
+  Mario type into the air. If it
+  Mario and try to land on his h
+  Luigi. Smack them with hammers
+
+Puff: The Nooz will stand in
+front of the Brothers, inhale
+air, and blow it
+  at them. Watch the direction i
+  Jump to avoid!
+
+++++++++++++++++++++++++++++++++
+
+Fawflant
+
+HP:    100
+EXP:   70
+Coins: 30
+Drops: ?
+Found: Toad Town
+
+Description: These Fawfulized
+ants have drills on their
+abdomens. They love to
+   attack in groups, and may poi
+
+Attacks-
+
+Drill Charge: The Fawflant uses
+this attack when there are no
+other Fawflants
+   around. It will move up and d
+   then it will charge toward th
+
+Drill Rush: This attack is used
+if there are multiple Fawflants.
+All the
+   Fawflants will attack simulta
+   getting drilled!
+
+++++++++++++++++++++++++++++++++
+
+
+---(10. Boss List)--------------
+
+
+Same deal as the enemy list.
+There may be some inaccuracies,
+and attack names are not
+official. Again, if you have
+accurate information, please
+don't be afraid to send me an
+email stating corrections!
+
+
+---(10.1 Mario / Luigi)---------
+
+
+++++++++++++++++++++++++++++++++
+
+Bowser (Tutorial)
+
+HP:    35
+EXP:   N/A
+Coins: N/A
+Drops: N/A
+
+Description: Bowser get's to
+play the role of tutorial boss
+in this game.
+   Since he's fought so early, d
+
+Attacks-
+
+Flame Puff: Bowser will blow a
+puff of flame at you. Jump over
+it as it gets
+   close!
+
+++++++++++++++++++++++++++++++++
+
+Scutlet
+
+HP:    280
+EXP:   200
+Coins: 50
+Drops: 1-Up Deluxe
+
+Description: This is a huge
+version of the Scutlets that
+live in Dimble Wood.
+   It's blocking Bowser's flame 
+   restore his awesome fire brea
+ It will use her to attack you.
+
+Attacks-
+
+Starlow Throw: The Scutlet will
+look at its target,
+   throw Starlow into the air ab
+   her with a hammer before she 
+   After the attack is over, the
+
+Lick: The Scutlet will stick out
+its tongue at whoever it is
+looking
+   at and try to eat Mario or Lu
+   counterattack.
+
+Drifting Fall: The Scutlet will
+be launched high in the air by
+the fire in
+   Bowser's flame pipe. Then, it
+   Jump on or over it to avoid t
+   you off balance.
+
+++++++++++++++++++++++++++++++++
+
+Durmite
+
+Durmite HP:     327
+Durmite EXP:    300
+Durmite Coins:  120
+Straw HP:       16
+Straw EXP:      0
+Straw Coins:    0
+Biffidus HP:    10
+Biffidus EXP:   0
+Biffidus Coins: 0
+
+Drops: POW Gloves
+
+Description: This bug looks like
+a Wiggler and was living inside
+the giga-
+   carrot. Occasionally, it will
+   Destroy the straw to keep it 
+   a group of Biffidus (the whit
+
+Attacks: Durmite-
+
+Charge: The Durmite will store
+up power, then charge toward one
+of the
+  Brothers. Smack it with the ha
+  time or a fast one, so watch o
+
+Web: The Durmite will stick a
+web out of its mouth and swing
+it back and
+  forth. Jump over it to avoid i
+  will be eaten and fired at the
+  rear, jump over him as he come
+  front, don't jump. This attack
+
+Spear: If Biffidus are on
+screen, the Durmite may eat
+them. If it does, it
+  will fire their spears at Mari
+
+Attacks: Biffidus-
+
+Rush: The Biffidus will point
+its spear forward and rush
+toward one of the
+  Bros. Jump to avoid!
+
+++++++++++++++++++++++++++++++++
+
+Alpha Kretin
+
+Alpha Kretin HP: 20
+Beta Kretin HP:  385
+
+EXP:   700
+Coins: 200
+Drops: Max Syrup Jar
+
+Description: This group of globs
+attacked Princess Peach. When
+you first fight
+   it, you will have to destroy 
+   have to destroy the core Beta
+
+   During the Alpha Kretin stage
+   by Mario. The green ones can 
+will change as they take damage.
+
+   In the Beta Kretin stage, the
+   several fakes. Pay attention 
+   fakes is a waste of time. Aft
+   reform into another Alpha Kre
+ repeat the Alpha Kretin Stage.
+
+Attacks: Alpha Kretin-
+
+Energy Ball: The Alpha Kretin
+will fire balls of energy at
+Mario and Luigi. Pay
+   attention to the order that t
+   since that will tell you the 
+   targeted in. This attack can 
+
+Attacks: Beta Kretin-
+
+Lightning Bolt: The Beta Kretin
+will multiply itself and fire
+lightning bolts
+    back and forth between itsel
+    one jumps, that means it wil
+  be hit. Jump over the bolts!
+
+++++++++++++++++++++++++++++++++
+
+
+---(10.2 Bowser)----------------
+
+
+++++++++++++++++++++++++++++++++
+
+Midbus (Tutorial)
+
+HP: Unknown (The fight ends
+before you can find out) EXP:
+N/A Coins: N/A Drops: N/A
+
+Description: Midbus is Fawful's
+right-hand pig. In this fight,
+he basically
+   gets to (sort of) teach Bowse
+   win the fight, so just deflec
+   it ends.
+
+Attacks-
+
+Roll: Midbus will roll toward
+Bowser. Quickly press X as he
+gets close to punch him and
+knock him back.
+
+Bouncing Slam: Midbus will
+bounce on the ground a couple of
+times, then he will
+   slam Bowser from above. There
+   battle, and the fight will en
+
+++++++++++++++++++++++++++++++++
+
+Broque Monsieur
+
+HP: 160 EXP: 30 Coins: 0 (He
+will drop one additional coin
+for each time he is hit in
+battle) Drops: N/A
+
+Description: This is a tutorial
+battle to show you how to
+properly use the
+   Vacuum Block. If you attack h
+   and use Green Shell against h
+
+Attacks-
+
+Mushroom: Broque Monsieur will
+hit a ? block and a mushroom
+will pop out.
+   He will then recover 30 HP. S
+   way and the Mushroom will go 
+
+Mega Mushroom: Broque Monsieur
+will eat a Mega Mushroom and
+charge into you.
+   Punch him as he gets close, a
+   this opportunity to hit his h
+
+Coin Block: Broque Monsieur will
+punch a ? block like he does for
+his other
+   attacks, but sometimes he wil
+   powerup.
+
+++++++++++++++++++++++++++++++++
+
+Sea Pipe Statue
+
+Sea Pipe Statue HP:  N/A
+Sea Pipe Statue EXP: 120
+Stone Blopoer HP:    320
+Stone Blooper EXP:   30
+
+Coins: 50 Drops: Hot Drumstick,
+1-Up Deluxe
+
+Description: This is a
+Fawfulized version of the Sea
+Pipe Statue on Plack
+   Beach. It takes no damage fro
+   Blooper on its head is vulner
+  fight it as the Mario Bros.
+
+Attacks: Sea Pipe Statue-
+
+Blooper Shot: The Sea Pipe
+Statue will point its arm toward
+Bowser and fire the
+   Stone Blooper at him. Punch a
+   back!
+
+Blooper Lob: The Sea Pipe Statue
+will point its arm above
+Bowser's head and
+   fire the Stone Blooper out of
+   over Bowser's head and reappe
+   where it will make a slow des
+   gets close!
+
+Attacks: Stone Blooper-
+
+Drill: The Stone Blooper will
+turn itself upside down and
+drill into Bowser,
+  damaging him. There is nothing
+
+Drop: The Stone Blooper will
+jump a few times and try to land
+on the head of
+  Mario or Luigi. Hit it with a 
+
+Rocket: After the Stone Blooper
+takes enough hits, it will flash
+red and fly
+  toward one of the Bros. Hit it
+  Bowser. If you miss, it will t
+
+++++++++++++++++++++++++++++++++
+
+Broggy
+
+HP: 198 EXP: 60 Coins: 0
+(Increases by 1 each time he is
+hit) Drops: N/A
+
+Description: This is a basic
+tutorial fight to teach you how
+to use Bowser's
+   flame breath. and defend with
+   turn around, then punch his b
+   Broque Monsieur, he will drop
+
+Attacks-
+
+Pounce: Broggy will leap high in
+the air and try to land on
+Bowser. Then, he
+  will make a second attack from
+  the first attack, then listen 
+  the second part.
+
+Charge: Broggy will lean
+forward, then charge at Bowser.
+Punch him to counter!
+
+++++++++++++++++++++++++++++++++
+
+Wiggler
+
+Wiggler HP:     540
+Wiggler EXP:    340
+Wiggler Coins:  150
+Leaf Guy HP:    57
+Leaf Guy EXP:   20
+Leaf Guy Coins: 0
+
+Drops: 1-Up Deluxe
+
+Description: Wiggler is angry
+about that giga-carrot! Before
+you can deal any
+   damage, you will need to turn
+   attacking each segment, then 
+   Wiggler's face. Occasionally,
+   the top screen. Vacuum them t
+   Wiggler yellow.
+
+Attacks: Wiggler-
+
+Grow 'N Throw: Wiggler will pull
+out a watering can and water the
+ground. Then,
+   he will pull what grows out a
+   a Leaf Guy, duck. If he throw
+
+CHARGE!: Wiggler will rush
+toward Bowser. As he approaches,
+punch him 3
+   times. Then, duck to finish t
+
+Round & Round: Wiggler will run
+around Bowser in a circle. Punch
+his flashing
+   face to send him away. If you
+   after 6 circles. You can use 
+   change Wiggler's body segment
+   right.
+
+Attacks: Leaf Guy-
+
+Turnip Drop: This is the only
+attack they will use against
+Bowser. If you
+   don't inhale them, they will 
+    is no way to dodge this.
+
+Copter: The Leaf Guys will fly
+toward the Brothers. Hit them
+with the
+   hammers!
+
+++++++++++++++++++++++++++++++++
+
+Midbus
+
+HP:    950
+EXP:   550
+Coins: 300
+Drops: TNT Drumstick
+
+Description: This is no tutorial
+battle. This time, Midbus means
+business. The
+   fight takes place in front of
+   reward well done hits and dod
+   to Midbus, vacuum it away to 
+   recovering. If you vacuum a h
+
+Attacks-
+
+Ball & Chain: Midbus will
+diasappear offscreen and
+reappear swinging a ball
+   and chain. As he nears you, d
+   he will throw the ball at Bow
+      it goes high, duck.
+
+Bouncing Slam: This is the same
+attack he used to end the last
+fight you had
+   with him. This time, however,
+   front of you, punch him befor
+   down on top of you, duck. You
+   watching the top screen as he
+
+Wind Up: Midbus will inhale air
+and walk toward Bowser. After a
+set
+   amount of time, he will unlea
+   him repeatedly! After you sto
+   bounces toward you to deal da
+
+++++++++++++++++++++++++++++++++
+
+
+---(11. Mini Games)-------------
+
+
+There are several mini games in
+Bowser that you will have to
+play to power him up throughout
+the game. They are listed here
+along with tips for how to win
+them.
+
+Although the Giant Bowser fights
+are technically boss battles, I
+have listed them here since they
+are so mini game-ish.
+
+
+---(11.1 Inside Bowser)---------
+
+
+++++++++++++++++++++++++++++++++
+
+Arm Center: This is a rhythm-
+type game where Mario and Luigi
+have to hit balls of light with
+their hammers. Mario hits the
+orange balls, Luigi hits the
+green ones. The balls have to be
+hit in the order they are fired,
+and the orange ones make a
+different sound from the green
+ones. Pay attention to the
+order, and you should be fine.
+
+The first time you play this
+game, however, you will only
+bounce a single ball of light
+back and forth. It will change
+color periodically, so be sure
+to hit it with the right Bro!
+
+++++++++++++++++++++++++++++++++
+
+Gut Check: You will only play
+this game once. Bowser will eat
+chunks of carrot, and you need
+to tap them with the stylus to
+break them up. There is a
+1-minute time limit, so work
+quickly! If you tap a chunk and
+a circle appears, tap it to
+break up several other chunks.
+
+Keep an eye on the top screen
+when Bowser is eating. When
+Bowser's mouth flashes, remember
+which chunk falls. That chunk
+will contain a super-enzyme that
+will break up a lot of carrot!
+
+++++++++++++++++++++++++++++++++
+
+Rump Command: You will need to
+play this game any time that
+Bowser is about to die out of
+battle. Basically, you will
+shoot colored balls as Mario and
+Luigi aboard the Boats of
+Revival. Mario shoots the red,
+Luigi shoots the green. If you
+shoot one with the wrong
+Brother, the ball will rocket
+toward you. Your boats can only
+take three hits before they go
+down, so watch out!
+
+Occasionally, you will see a
+large, blue ball. Shoot it with
+both Brothers!
+
+When the meter is filled, you
+will have to shoot a huge blue
+ball. This one will shoot back
+at you, so be careful! You can
+repel the shots by shooting them
+with the appropriate Brother.
+
+++++++++++++++++++++++++++++++++
+
+Leg Outpost: This is kind of
+like the Spin Pipe special move.
+Mario and Luigi will spin around
+in the air and land on Bowser's
+muscles. Press the button of the
+Bro on the bottom to stomp and
+power Bowser up. Hold the button
+in for a bit for more power. If
+Mario and Luigi split up, press
+both buttons to stomp both
+muscles.
+
+++++++++++++++++++++++++++++++++
+
+
+---(11.2 Giant Bowser)----------
+
+
+Bowser will turn giant at
+certain points in the game. When
+he does, he will have to take on
+some giant enemies. When he
+does, you will need to turn the
+DS on it's side. Here's how to
+play as him.
+
+Before I go into detail about
+specific fights, I'll list some
+basic moves.
+
+Punch: This is one of Bowser's
+basic attacks. Slide the stylus
+quickly
+   from the left side of the scr
+   used in defense.
+
+Flame: Another of Bowser's basic
+attacks. Inhale until you get
+the
+   message to blow, then blow ai
+   until the attack ends. Stay a
+   screen. If you get too close,
+
+Fireball: This is only used in
+defense. Enemies will fly toward
+Bowser. Tap
+   the screen to fire at them! D
+   do, the fireballs will be too
+
+Refreshroom: If you collect a
+Refreshroom in battle, you can
+use it to recover
+      half of your health.
+
+++++++++++++++++++++++++++++++++
+
+Bowser's Castle
+
+This is Bowser's Fawfulized
+castle. Punches and Flames do
+the same amount of damage to it,
+so use whatever you are most
+comfortable with.
+
+EXP:   380
+Coins: 200
+Drops: Star Candy
+
+Attacks-
+
+Slam: The Castle will fly
+towards Bowser and try to slam
+into him.
+     Punch it and deflect!
+
+Shy Guy Copters: Several Shy Guy
+Copters will fly out of the
+castle. They will
+    shoot at Bowser with metal b
+    fireballs!
+
+Spiny Shield: Several Spinies
+will come out of the castle and
+sit in front
+    of it. You won't be able to 
+ Use Flame breath to burn them!
+
+++++++++++++++++++++++++++++++++
+
+
+---(12. Optional Stuff)---------
+
+
+The stuff listed here is, for
+the most part, optional. You
+will automatically get most of
+this stuff as you go through the
+game, but this area is here in
+case you missed it or are
+looking for a specific item.
+
+
+---(12.1 Ranks)-----------------
+
+These are the ranks you earn
+over the course of the game.
+Each rank except for the first
+one carries a bonus with it.
+
+++++++++++++++++++++++++++++++++
+
+Mario / Luigi-
+
+Mushroom Rank: Available at LV
+1. No special reward. Shell
+Rank: Available at LV 6. Allows
+2 gear pieces to be equipped.
+Flower Rank: Available at LV 12.
+Allows 3 gear pieces to be
+equipped.
+
+++++++++++++++++++++++++++++++++
+
+Bowser
+
+Bronze Boss Rank: Available at
+LV 1. No special reward. Silver
+Boss Rank: Available at LV 10.
+Allows 2 gear pieces to be
+equipped.
+
+++++++++++++++++++++++++++++++++
+
+
+---(12.2 Attack Pieces)---------
+
+
+++++++++++++++++++++++++++++++++
+
+Trash Pit Attack Pieces-
+
+#1: In the middle of the room
+with the two pits after the room
+with the
+ hammer box.
+#2-#9: Scattered around the room
+immediately after piece #1.
+
+#10: In plain sight in the room
+after pieces #2 - #9
+
+Reward: Green Shell
+
+++++++++++++++++++++++++++++++++
+
+Pump Works Attack Pieces-
+
+#1: Acquired by completing a
+memory puzzle in the room you go
+to by entering
+ the orange pipe in the first Sa
+
+#2: Found on the left side of
+the room directly right of the
+room with the
+ first Save Block.
+
+#3-#4: In an alcove above the
+left entrance of the room to the
+right of the
+ DNA door.
+
+#5: In the same room as #3 & #4,
+but over the exit on the right
+side of the
+ area.
+
+#6: In the room directly after
+the room with the giant ???, you
+will see
+   this as soon as you enter.
+
+#7: In the lower right corner of
+the room where the Emoglobin
+tells you
+ about Chombones. You have to pl
+
+#8: In an alcove on the lower
+left side of the room you enter
+after saving
+ Toadsworth.
+
+#9: In the room left of #8, feed
+the Chombone on the right to
+reveal a path
+ leading to this.
+
+#10: Near the lower right
+entrance in the room where you
+get the Stingler.
+
+Reward: Fire Flower
+
+++++++++++++++++++++++++++++++++
+
+Flab Zone Attack Pieces-
+
+#1: In plain sight at the left
+entrance of the second room.
+
+#2-#5: Complete the block
+challenge in the lower right
+corner of the room you
+ get to by taking the green pipe
+
+#6-#9: Complete the block
+challenge in the room in the
+pipe maze with a Save
+ Block after the second Nutsoglo
+
+#10: On the left side of the
+room where you learn the Spin
+Jump.
+
+Reward: Jump Helmet
+
+++++++++++++++++++++++++++++++++
+
+Toad Town Attack Pieces-
+
+#1-#10: All the attack pieces
+are given to you when you get
+the Blue Shells.
+
+Reward: Yoo Who Cannon
+
+++++++++++++++++++++++++++++++++
+
+
+---(12.3 Chakroad Spots)--------
+
+
+Cavi Cape Exit: In a rock in the
+area with the huge hole in the
+ground.
+
+Cavi Cape Cave: In a rock in the
+area where you have to open a
+gate by
+     punching a falling ball. Th
+     found the Chakroad for Cavi
+
+Plack Beach: Located in a tree
+at the entrance near Cavi Cape.
+
+Dimble Wood: In a tree one
+screen north of the shops.
+
+Lake-Plain Border: In a block on
+the west side of Bumpsy Plains.
+
+Underground Tunnel: In a box in
+one of the early rooms of the
+Tunnel.
+
+
+---(12.4 Cholesteroad Challenges
+
+Before I list any of these, I
+need to make a disclaimer. The
+challenges in here are TOUGH!
+They are not necessary for
+beating the game, and I am not
+responsible for any damage done
+to you, your game system, your
+surroundings, or anything else
+if you attempt them. You have
+been warned.
+
+---(12.4.1 Endless Mode)--------
+
+General Endless Mode Tips:
+
+#1: Don't look at the score
+counter! #2: Don't look at the
+Cholesterons! #3: As the pace
+increases, so will your pulse.
+Don't panic!
+
+++++++++++++++++++++++++++++++++
+
+Green Shell
+
+B Rank: 100, Prize: 50 Coins A
+Rank: 150, Prize: 250 Coins +
+Challenge Medal
+
+Tips: This is your first
+Cholesteroad challenge, but
+don't expect it to be
+ easy! As with all of them, a si
+ gets to Mario or Luigi, never b
+ speed as time goes on, but you 
+
+++++++++++++++++++++++++++++++++
+
+Yoo Who Cannon
+
+B Rank: 80, Prize: 100 Coins A
+Rank: 120, Prize: 500 Coins +
+Bro Socks
+
+Tips: This challenge could
+either be easy for you or hard
+depending on how fast
+ your eyes are. At the later sta
+ as fast as a flicker of light a
+ individually.
+
+ Pay attention to one character.
+ that is easiest to follow. If a
+ button of the Bro inside. If a 
+ hold the other button.
+
+ Don't wait for the barrel to fi
+ At the later stages, you will o
+ once the barrel finishes rising
+
+ Don't try to guess which barrel
+ yourself pressing the wrong but
+
+++++++++++++++++++++++++++++++++
+
+
+---(12.4.2 Juuuuump Mode)-------
+
+
+This is the Jump Helmet's
+Cholesteroad Challenge. Use the
+Jump Helemt to try to advance as
+far as possible! Grab the red
+timers to increase time, avoid
+the blue ones because they
+decrease time. If you can find a
+yellow timer, time will freeze
+and the blue timers will
+disappear for a bit.
+
+B Rank: 30, Prize: 100 Coins A
+Rank: 60, Prize: 500 Coins +
+Daredevil Boots
+
+Tips: Don't worry too much about
+the timer. You are a lot more
+likely to fail
+ from missing a jump than you ar
+ control how high or far Mario j
+ lands on the back of the platfo
+ lands on the front, he will jum
+ combination with pressing the A
+ blue ones.
+
+ Keep your focus on Mario, not L
+ will move Luigi almost by insti
+ though.
+
+ Unlike other challenges, this o
+ time goes on. Just stay calm an
+ if you can endure.
+
+
+---(12.4.3 99 Block)------------
+
+
+OK, so this isn't really a
+Cholesteroad Challenge. It's
+equally frustrating, though, so
+I'm putting it here.
+
+The 99 Block is located on the
+top floor of the Challenge Node
+after you clear the Flab Zone.
+It's similar to the block
+challenges in that area, but it
+challenges you to hit it 99
+times. This is a LOT harder than
+it sounds, but you will be
+rewarded with the ability to
+double your coins once you
+complete it. The coin doubling
+doesn't have to be done
+immediately after clearing the
+challenge, and it only works
+once. Save it for when you have
+a lot of coins to get a lot
+more!
+
+One of the most important things
+to remember about the 99 Block
+is that Luigi is taller than
+Mario. You will need to make him
+jump slightly later than Mario
+does. The speed will continue to
+increase throughout the
+challenge. As it does, your
+pulse will probably speed up as
+well. Try to stay calm and focus
+on the timing. Try to time your
+jumps so that the block is hit
+by your fist, not your head.
+
+After the block hits about 75 it
+won't speed up any more. At this
+point, it's all about how calm
+you can stay and how well you
+can keep up the rhythm. It's
+bery easy to jump early at this
+stage, but don't do it!
+
+If you find yourself frustrated
+at this, take a deep breath and
+take a break from it. You can do
+it with enough practice and
+patience, but don't stress
+yourself.
+
+When you finally win, treat
+yourself to a soda or something.
+You've earned it.
+
+
+
+---(12.5 Madame Broque Challenge
+
+
+Coming soon!
+
+
+---(12.6 Guantlet Classes)------
+
+
+The Guantlet consists of several
+"classes" where you fight
+tougher versions of previous
+bosses. They must be cleared
+within a certain number of
+turns, and cost a set amount of
+coins to attempt until you clear
+them.
+
+++++++++++++++++++++++++++++++++
+
+Class 1: Durmite X
+
+Cost:   200 Coins
+Turns:  5
+Level:  18
+Reward: ?
+
+HP: ?
+
+Description: This is a tougher
+version of Durmite. The attacks
+are the same, but they are much
+stronger.
+
+++++++++++++++++++++++++++++++++
+
+Class 2: Alpha Kretin X
+
+Cost:   400 Coins
+Turns:  15
+Level:  22
+Reward: ?
+
+HP: ?
+
+Description: Like Alpha Kretin /
+Beta Kretin, but much tougher.
+
+++++++++++++++++++++++++++++++++
+
+
+---(12.7 Bean Checklist)--------
+
+
+Coming soon!
+
+
+---(12.8 Blitties)--------------
+
+
+There are 15 Blitties scattered
+around the Mushroom Kingdom.
+Collect them and give them to
+Broque Monsieur for rewards! To
+collect Blitties, have Bowser
+use Vacuum on the soecified
+monster.
+
+#1: Inside a Chuboomba in Cavi
+Cape or Plack Beach. #2: Inside
+a Toothy in Plack Beach. #3:
+Inside a Treevil in Dimble Wood.
+#4: Inside a Trashure in Dimble
+Wood. #5: Inside a Flifit in
+Bumpsy Plains. #6: Inside a
+Chain Chawful in Bowser Path.
+#7: Inside a Choomba in the
+Tunnel.
+
+Rewards-
+
+4 Blitties:  Block Band
+
+
+---(12.9 Stache / Horn Levels)--
+
+
+As the Mario Brothers and Bowser
+increase their lucky attributes,
+they will earn special scratch
+cards when they buy stuff. As
+your stat raises, you will get
+better cards.
+
+++++++++++++++++++++++++++++++++
+
+Mario and Luigi
+
+NOTE: Mario and Luigi's levels
+are determined by the average of
+their two
+ stats.
+
+LV 1: 0 - 49: 20 boxes, low
+chance of winning LV 2: 50 - ??:
+15 boxes, medium chance of
+winning
+
+++++++++++++++++++++++++++++++++
+
+Bowser
+
+LV 1: 0 - 39: 20 boxes, low
+chance of winning LV 2: 40 - 54:
+15 boxes, medium chance of
+winning LV 3: 55 - MAX: 10
+boxes, high chance of winning
+
+++++++++++++++++++++++++++++++++
+
+
+---(13. Shop List)--------------
+
+
+This is where the various shops
+are listed. Shops may not
+contain their entire inventories
+the first time you enter them.
+They gain more items as you
+progress through the game. If an
+item you want is not available
+yet, try coming back to the shop
+at a later point in the game.
+
+
+---(13.1 Item Shops)------------
+
+
+++++++++++++++++++++++++++++++++
+
+Toad Square Item Shop
+
+Mushroom             5
+Super Mushroom      20
+Ultra Mushroom      40
+Max Mushroom        60
+Syrup Jar           15
+Supersyrup Jar      35
+Ultrasyrup Jar      60
+Max Syrup Jar      100
+1-Up Mushroom       25
+1-Up Deluxe        100
+Nut                 20
+Super Nut           80
+Ultra Nut          160
+Refreshing Herb      5
+
+++++++++++++++++++++++++++++++++
+
+Monsieur Broque's Item Shop
+
+Hot Drumstick       10
+Fiery Drumstick     30
+TNT Drumstick       60
+Syrup Jar           15
+Supersyrup Jar      35
+Ultrasyrup Jar      60
+Max Syrup Jar      100
+Refreshing Herb      5
+
+++++++++++++++++++++++++++++++++
+
+
+---(13.2 Gear Shops)------------
+
+
+++++++++++++++++++++++++++++++++
+
+Toad Square Gear Shop
+
+Picnic Wear         30
+Leisure Wear       200
+Gall Socks          50
+Starched Socks     250
+HP Socks           300
+
+++++++++++++++++++++++++++++++++
+
+Broggy's / Monsieur Broque's
+Gear Shop
+
+Special Shell      200
+Safety Shell       400
+Armored Shell     1600
+Dream Shell       2400
+Lucky Band         200
+Iron Fist Band     400
+Vampire Band      2000
+Hunter Band       2500
+Glutton Ring      1500
+Peace Ring        2000
+Fill-up Ring      3000
+
+++++++++++++++++++++++++++++++++
+
+
+---(14. Special Thanks)---------
+
+
+Jesus: Without Him, I would have
+no hope.
+
+God: Without Him, I would not
+exist.
+
+My dog, Lana: For always being
+there for me when I need her.
+
+My family: For putting up with
+me all these years.
+
+Nintendo: For publishing this
+amazing game.
+
+Alpha Dream: For developing this
+amazing game.
+
+GameFAQs: For giving me the
+opportunity to write this guide.
+
+The good community at the
+GameFAQs boards: For providing
+me and others with on-demand
+answers to questions commonly
+(and not so commonly) asked. You
+don't know how much you have
+helped me and so many others.
+Thanks!
+
+BlazeKey: For pointing out that
+you can access Cholesteroad
+after the Sea Pipe Statue.
+
+You: For taking the time to read
+my guide. Thanks!
+
+If I have forgotten anyone,
+please contact me so I can add
+you to the list. I try to list
+everyone, but I'm only human.
+Sorry.
+
+
+---(15. Contact Info)-----------
+
+
+Got some information for my
+guide? Then, you've come to the
+right place! I'm always happy to
+improve this in some way, so
+feel free to contact me if you
+can help!
+
+If you need to contact me for
+any reason, I can be reached at:
+
+megamannut-at-yahoo-dot-com
+
+Obviously, you should replace
+"-at-" with "@" and "-dot-" with
+"." I just don't like spam-
+bots...
+
+Make sure you include something
+in your subject line stating
+that the email is about this
+guide. I don't want to
+accidentally overlook anything.
+
+
+---(16. Frequently Asked Questio
+
+
+Coming soon!
+
+
+---(17. Legal)------------------
+
+
+The following sites can post my
+guide:
+
+GameFAQs
+GameSpot
+
+If you see it on any others,
+please let me know so I can take
+appropriate action. I'll add you
+to the special thanks list, and
+you will be helping me keep
+enthusiasm for writing more
+guides in the future.
+
+If you would like to post my
+guide on your website, send me
+an email asking for permission.
+There's a good probability I'll
+agree, I just want to know where
+it's going.
+
+Mario, Luigi, Bowser, and all
+other Nintendo trademarks are
+owned by Nintendo. I do not own
+any part of them.
+
+This guide Copyright 2009
+Matthew Pruett

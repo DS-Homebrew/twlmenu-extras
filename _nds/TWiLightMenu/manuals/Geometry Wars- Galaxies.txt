@@ -1,0 +1,3597 @@
+================================
+
+
+  ,---.                    |    
+  |  _.,---.,---.,-.-.,---.|--- 
+  |   ||---'|   || | ||---'|    
+  `---'`---'`---'` ' '`---'`---'
+             `---'
+         /)          ,
+  _   _   // _  __/       _  _
+(_/_(_(_(/_(_(_ /(___(__(/_/_)_
+       .-/             /
+     (_/
+
+
+--.--
+  |
+  |
+  |  ntentions..................
+--'--
+Here's what I intend to do with
+this guide (in short).
++ Provide basic game info
++ Provide information on drones
++ Provide information on enemies
++ Provide information on all Gal
++ Provide some strategies on lev
+  (the reader) on really good st
+
+Let us begin then...
+
+*** This FAQ was written with th
+    I find that the Wii version 
+    graphics and more powerful p
+    screen action! So, let it be
+................................
+
+ *******************************
+ **                             
+    *** Searching:              
+    *** I have implemented the c
+    *** into this guide. Next to
+    *** contents you'll find a "
+    *** you copy this code, hit 
+    *** code you can use your br
+    *** locate that section of t
+    *** there to make your use o
+ **                             
+ *******************************
+
+.---.            .--.
+  |             :
+  |       .-.   |
+  | able (   )f :    ontents....
+  '       `-'    `--'
+I. Basic Info___________________
+    a. Controls.................
+    b. Game Modes...............
+    c. Gameplay.................
+    d. Tips and Tricks..........
+II. Drones______________________
+    a. Attack...................
+    b. Defend...................
+    c. Collect..................
+    d. Snipe....................
+    e. Sweep....................
+    f. Ram......................
+    g. Turret...................
+    h. Bait.....................
+III. Enemies____________________
+    a. Classic Enemy Types......
+  i. Wanderer...................
+  ii. Grunt.....................
+  iii. Weaver...................
+  iv. Spinner...................
+  v. Tiny Spinner...............
+  vi. Gravity Well..............
+  vii. Proton...................
+  viii. Snake...................
+  ix. Repulsor..................
+  x. Mayfly.....................
+    b. New Enemy Types..........
+  i. Mutator....................
+  ii. Mutated...................
+  iii. UFO......................
+  iv. Generator.................
+  v. Black Hole.................
+  vi. Asteroids.................
+  vii. Cell Mass................
+  viii. Dart....................
+  ix. Neutron...................
+  x. NUFO.......................
+  xi. Wormhole..................
+  xii. Meteor...................
+  xiii. Mine Layer..............
+  xiv. Flipper..................
+IV. Galaxies and Planets________
+________________________________
+____[#GALAX]
+    a. Alpha....................
+    b. Beta.....................
+    c. Gamma....................
+    d. Delta....................
+    e. Epsilon..................
+    f. Zeta.....................
+    g. Eta......................
+    h. Theta....................
+    i. Kappa....................
+    j. Lambda...................
+V. Versions_____________________
+VI. About Me and this Guide_____
+________________________________
+____[#ABOUT]
+VII. Credits____________________
+................................
+
+ o------------------------------
+ |/                             
+ |                              
+ 0______________________________
+ \                              
+ o------------------------------
+   __________
+__/ Controls \__________________
+If you've played the Xbox Live
+Arcade game Geometry Wars: Retro
+Evolved you know about the
+simple to use dual-joystick
+controls, but obviously the DS
+(nor the Wii, if you're playing
+that version) have dual
+joysticks, so there have been
+some changes in the controls. I
+think these make the game a
+little more difficult to get
+used to than the 360 version,
+but despite the learning curve
+they work fairly well.
+
+*correction* - if you have the C
+actually use it and then you
+have that Dual Joystick style
+control. Thanks to Kilroy84 for
+pointing this out.
+
+    o===========================
+    |                    In Menu
+    o--------------o------------
+    | Control Pad  |         Cha
+    o--------------o------------
+    |      A       |            
+    o--------------o------------
+    |      B       |            
+    o===========================
+
+    o===========================
+    |                    In Game
+    o--------------o------------
+    | Control Pad  |            
+    o--------------o------------
+    |  A, B, X, Y  |        Firi
+    o--------------o------------
+    |   Stylus     |        Firi
+    o--------------o------------
+    |   L or R     |            
+    o===========================
+
+This is the default set up, the
+controls can be swapped around
+in options to change the stylus
+to movement and to swap the
+control pad and face buttons for
+lefty's.
+
+   ____________
+__/ Game Modes \________________
+The Games main mode is
+"Galaxies" (as the name
+implies), but it is not the only
+mode. There are a few Multi-
+Player modes along with the
+original version of the game,
+Retro Evolved.
+
+~~~~ Galaxies ~~~~ In Galaxies
+mode you will be traveling to
+different Galaxies battling in
+each ones various planets to
+gain medals and collect Geoms.
+Although the Medals don't really
+have an effect on the game, each
+planet has a Bronze, Silver and
+Gold medal available for scoring
+so many points.
+
+Each enemy also drops Geoms in
+this mode that can be used for
+many things. I explain Geoms in
+more depth down below, but
+you'll be using these to unlock
+new Drones, new Planets and new
+Galaxies.
+
+This is essentially the
+"adventure" mode of Geometry
+Wars: Galaxies (if you didn't
+notice by the name).
+
+
+~~~~ Multi-Player ~~~~
+Unfortunately I don't know
+anyone else who owns this game I
+can play it with. Please feel
+free to send me info to put here
+about multiplayer modes.
+
+Score! Got emails about multi-
+player! Here's what I've learned
+from them: First and foremost,
+just to note, it's not online
+multi-player. Local only. Just
+to clear up any questions anyone
+may have. On the plus side of
+that, it is download and play
+compatible apparently (which I
+never even thought to try...)
+and you get all the same
+multiplayer things you would
+give if both people had the
+game.
+
+Co-op: This mode allows two
+people to play together in a
+large square arena against the
+normal horde of enemies. Lives
+and bombs are shared between
+both ships in this mode.
+
+Simultaneous: In this mode both
+players play in their own arena
+and it's a game of who can last
+the longest. When one player
+destroys enemies they will be
+given to the opponent to deal
+with. Similar to the way
+multiplayer Tetris works where
+deleting rows gives them to your
+opponents (if you've played
+that).
+
+Vs: In this mode one player is
+the ship fighting off enemies
+and the other player is sending
+in the enemies. There are eight
+enemies you can place down:
+Wanderers, Grunts, Weavers,
+Spinners, Gravity Wells,
+Repulsors, Mayflies and Protons.
+
+(copy and pasted straight from
+email...)
+
+You have a certain number you
+can place that goes up the
+longer the game goes on. I call
+this number the "Pinwheel
+Count", becasue first, the
+wanderers look like pinwheels
+and I tend to call the enemies
+by their shapes, and second,
+placing enemies detracts from
+your overall count.
+
+You can get up to a maximum of
+100 Wanderers, and then 50
+Grunts. However, each Grunt is
+worth two Wanderers, so your
+count of Wanderers will go down
+by 2.
+
+So I have a "pinwheel count" of
+100. I place a Wanderer, and
+then I have 99.
+
+When my opponent destroys this
+wanderer, I get it back in my
+count, and I'll be at 100 again.
+
+The trick, then, is to manage
+your pinwheel count by using the
+different enemy types as you
+attempt to overwhelm your
+opponent. Clearly, using simply
+Wanderers will not be much
+threat! So, mix it up by
+throwing out some grunts, the
+diamonds. They will actively
+chase your opponent.
+
+You can also see a miniature
+version of your opponent's
+screen on your bottom screen.
+This is how you know where to
+palce what. Know that he can't
+see the entirety of his screen
+like you can see it, so if you
+know what the field of vision
+is, you can pull tricks like
+placing the repulsors (magnets)
+in the corners of the screen so
+he won't see them get ready to
+attack.
+
+You win if your enemies destroy
+your opponent three times. He
+wins if he scores 50,000 points.
+There's a maximum of a 10x
+multiplier, so do what you can
+to make sure he doesn't reach
+it, or he'll put a big dent in
+the score he needs to win.
+
+(end paste)
+
+~~~~ Retro Evolved ~~~~ This is
+what I would call the "classic"
+mode. It is a reproduction of
+the game that was released on
+the Xbox Live Arcade. It
+features one large square area
+and a ton of enemies for you to
+see how long you can last up
+against.
+
+
+   __________
+__/ Gameplay \__________________
+
+~~~~ Basic Info ~~~~ For those
+new to the Geometry Wars games,
+here's what it's all about.
+
+You have full control of a ship
+with a 360 degree shooting
+angle. You can shoot in any
+direction despite the direction
+you are moving in. Most enemies
+die in 1 hit as do you. Most
+levels give you 3 lives before
+you lose, but some only give you
+one.
+
+The game thrives off of the
+arcade style logic of "how many
+points can you get this time?"
+There's no real end to any
+level, it's all about endurance.
+
+Galaxies twists up the formula
+by pitting you in many different
+sized and shaped rooms while
+forcing you to fight off
+hundreds and thousands of
+different enemies.
+
+Defeated enemies drop Geoms
+which you can collect and are
+good for all sorts of different
+reasons. But I explain these
+reasons below in the Geoms
+section, so read there for more
+info.
+
+There's a bit more going on, but
+I'll talk about everything
+individually in the following
+sections so just keep reading.
+
+~~~~ Geoms ~~~~ Galaxies
+introduces a form of "currency"
+to Geometry Wars called Geoms.
+As you defeat enemies they will
+drop these Geoms that usually
+either look like diamonds or
+bold plus signs. They dissapear
+after a short time of being on
+screen and collecting them
+allows you to buy new drones,
+new planets and new galaxies.
+
+Collecting Geoms also gives you
+gun upgrades and extra
+lives/bombs while in levels. Any
+level that starts you with 1
+life, you cannot gain bombs or
+extra lives in (as far as I've
+noticed). However, any level
+that starts you wtih 3 live and
+3 bombs at set increments of
+Geoms you can gain +1 of each.
+
+Yet another perk to Geoms is
+your score mutliplier. Each
+enemy has a base amount of
+points it will give you for
+defeating it. However, with each
+Geom you collect your mutiplier
+increases up to a max of 150x.
+It will stay at this point as
+long as you are alive, but once
+you die you'll be back to 1x.
+
+After you've bought all the
+galaxies, planents and drones
+collecting geoms really serves
+no purpose except for the extra
+lives/bombs in those levels.
+
+I've been sent these numbers
+that I want to share:
++ at 350 geoms is your first gun
++ at 5000 geoms is an extra life
++ at 7500 geoms is an extra bomb
+
+~~~~ Lives ~~~~ Pretty
+straightforward, each level has
+a set number of lives you start
+with. If you lose them all, the
+level ends, as long as you have
+one, you keep going.
+
+You don't have health so running
+into any enemy will cause you to
+die and lose a life. You can get
+more lives as mentioned above in
+the Geoms section.
+
+~~~~ Bombs ~~~~ Most levels give
+you some bombs to start with.
+Using a bomb clears the screen
+of all enemies, but gives you no
+points for those enemies. From
+what I've noticed, bombs do not
+clear Asteroids from the screen,
+but will clear all other enemy
+types.
+
+Although it sounds like a waste
+of precious points to use bombs
+to kill off the enemies and get
+no points, keep in mind that if
+you have a 150x multiplier and
+you die, you're going to lose a
+lot more points building back up
+that mutliplier than if you had
+just bombed the screen to save
+yourself. Bombs should be used
+when you get caught in a corner
+and can't get out.
+
+~~~~ Gun ~~~~~ At the beginning
+of a stage your gun fires out 2
+shots. There are no bullet
+amounts that you can run out or
+anything, it's a constant steady
+fire in whatever direction you
+choose. After collecting X
+number of Geoms (I don't know
+the exact number) you will
+upgrade to a higher level gun.
+There are 2 higher level guns
+that will randomly swap between
+each other throughout the rest
+of the stage.
+
+One has 3 rapid fire shots, the
+other has 5 slower shooting
+shots. Both have their
+advantages and disadvantages,
+but it's not really worth
+discussing since you don't have
+control over which one you'll
+have when. But you will never
+downgrade back to the 2 shot gun
+after upgrading to one of the
+higher level ones, thats for
+sure.
+   _________________
+__/ Tips and Tricks \___________
+I reference a few things over
+and over again throughout this
+FAQ so I figured why not just
+move them all up to here in case
+you are just looking for some
+general info and not anything
+level specific. So, here is what
+I call "Tips and Tricks" and
+please feel free to send me any
+of your tips or general
+strategies so that I can add
+them here. After all, the more
+the merrier.
+
+~~~~ The Circle Method ~~~~ To
+Geometry Wars veterans this is
+like second nature, but to new
+comers this can be a very
+helpful strategy to get used to
+and you'll see that I reference
+it in probably half of the
+planets.
+
+The general thought behind this
+strategy is that none of the
+enemies are very smart and they
+are all after you. So, if you
+just continue to fly in big
+clockwise or counter-clockwise
+circles around the edges of the
+level (but not to close to the
+edges) then everything will
+gather up behind you in one
+giant cluster.
+
+As you circle be sure to be
+shooting straight ahead so that
+you don't run into anything,
+then when you have a little
+breathing room, turn around
+quickly and fire off some shots
+in the mass to eliminate some of
+those enemies. Master this and
+you have mastered Retro Evolved
+mode along with having a much
+easier time in many of the
+planets.
+
+~~~~ Have Faith ~~~~ Another
+thing that is hard for new
+comers to Geometry Wars (and was
+definitely hard for me) is to
+have faith in your little ships
+guns. If you fly straight into a
+mass of pretty much any enemy,
+no matter how many, as long as
+you are shooting straight ahead
+where you're flying you aren't
+going to get hurt and you're
+going to destroy everything.
+
+I think it's easy to want to
+stray away from the big clusters
+of enemies because they can be
+fairly intimidating, but try it
+out a few times and just "have
+faith".
+
+~~~~ Watch the Edge ~~~~ Most
+enemies will spawn around the
+edges so try not to ever sit to
+close to them. Enemies *will*
+spawn on top of you and you will
+die from it. Often with
+Asteroids you'll get a second
+chance because as long as your
+shooting they seem to take their
+first explode if they spawn on
+top of you, but you won't be so
+lucky with regular enemies. So
+beware not to sit to close to
+the walls.
+
+~~~~ Stay out of Corners ~~~~
+Okay, initially I chose to take
+a stand that corners were bad,
+but maybe they aren't so much
+after all. There are a few
+levels where I definitely use
+them to my advantage even though
+for the most part I don't like
+them. Depending on the types of
+enemies that are around I find
+that often if I put myself in a
+corner I get stuck and can't get
+out.
+
+So, while I personally try to
+stay out of corners, Kilroy84
+has emailed me and says that
+putting himself in a corner
+allows him to identify who is
+where and then prioritize what
+he wants to do.
+
+I guess the most I can say here
+is judge the level layout and
+the types of enemies that are
+around as to whether you should
+use the corners or stay away
+from them.
+
+~~~~ Saving Grace ~~~~ Bombs are
+your saving grace. Don't forget
+you have them! It's easy to
+forget you have them and it's
+also easy to want to stray away
+from using them because of the
+fact that the enemies they take
+out aren't worth any points. But
+think of it this way, if you die
+with a 150x multiplier you are
+back to a 1x multiplier. Then it
+takes at least the next 149
+enemies to get back to the 150x
+multiplier that you were at.
+
+So, if you are in a life-death
+situation drop a bomb! It'll
+clear the whole screen and give
+you a second to regain your
+ground.
+
+Another use I have for bombs is
+sometimes when I get a bunch of
+them built up I like to destroy
+a bunch of enemies and then drop
+one so that I have a chance to
+collect all the geoms,
+especially if there are Mutators
+around who drop the nice big
+geoms.
+
+
+ o------------------------------
+ |/                             
+ |                              
+ 0______________________________
+ \                              
+ o------------------------------
+New to Galaxies is the idea of
+Drones. Whether you want it or
+not, they are here to assist you
+in each level. They are
+literally a sort of helper bot
+that flies along with you
+through each level and each one
+has a different specialty. Some
+are better for different levels,
+but each has it's advantage.
+Hopefully in the section about
+each planet I can give you some
+helpful info about which ones to
+use where, but here let's just
+look at what each one does.
+
+As you play levels the drones
+will gain experience and every
+100 exp they will level up. (not
+positive, but) I assume that
+leveling up increases each ones
+specialty and makes it smarter
+or better in a helpful sort of
+way. Yeah, that's kind of vague,
+but it's probably true.
+
+I've decided that I will give
+each one a "Usefulness" rating
+between 1 to
+5. In general each one does have
+   a purpose, but for scoring
+   Gold
+medals there are some that
+really stand above the rest.
+This is soley my opinion so
+ignore it if you want, but if
+you're stuck on which one to use
+maybe my votes will point you in
+the right direction.
+
+** For more in depth info on dro
+   While I am trying to cover th
+   out if that is what you want 
+    ________
+___/ Attack \___________________
+Cost: 0 Geoms Behavior: Attacks
+in the same direction you are
+shooting. Usefulness Rating: 5
+    ________
+___/ Defend \___________________
+Cost: 3,500 Geoms Behavior:
+Travels behind you shooting
+backwards. Usefulness Rating: 5
+    _________
+___/ Collect \__________________
+Cost: 14,500 Geoms Behavior:
+Flys around collecting geoms
+around you. Usefulness Rating: 2
+
+*I just want to note here that I
+while I'm not going to change
+it, because these were my
+opinions. May it be known that
+this drone can be helpful in
+quickly upping your multiplier*
+    _______
+___/ Snipe \____________________
+Cost: 28,000 Geoms Behavior:
+This Drone literally picks out
+targets and then snipes them. It
+  shot will also pierce through 
+Usefulness Rating: 2
+    _______
+___/ Sweep \____________________
+Cost: 57,000 Geoms Behavior:
+Flys in circles around your ship
+and if enemies run into it they
+  die. This becomes extremely af
+Usefulness Rating: 4
+    _____
+___/ Ram \______________________
+Cost: 90,000 Geoms Behavior:
+Finds enemies around you and
+rams into them to kill them.
+Usefulness Rating: 1
+    ________
+___/ Turret \___________________
+Cost: 150,000 Geoms Behavior:
+Positions itself and shoots in
+circles around it for a time.
+Usefulness Rating: 4
+   ______
+__/ Bait \______________________
+Cost: 300,000 Geoms Behavior:
+Literally acts as a bait to the
+enemies. Usefulness Rating: 1
+
+As I said, there's a great FAQ
+with detailed info on all these
+so I'm being purposefully vague
+here, check it out if you need
+more depth on Drones.
+
+ o------------------------------
+ |/                             
+ |                              
+ 0______________________________
+ \                              
+ o------------------------------
+There are two "categories" of
+enemies in this game. "Classic
+enemies" refers to enemies from
+the original Geometry Wars game,
+and "New Enemies" are enemies
+new to Galaxies. Doesn't make
+any difference if you haven't
+played the XBLA game, but if you
+have and wanna know about the
+new enemies they are broken up
+in this way.
+
+They all have a fairly basic
+look and behavior, but I'll try
+and give a little description of
+both so you can get an idea of
+how they act. I'll also put the
+color each enemy is (which will
+hopefully help avoid confusion
+between 2 similarly shaped
+enemies) and a "strategy" for
+killing them. There isn't really
+a strategy to most enemies, but
+I don't know what else to call
+this.
+
+: note : Thanks to Kevin for
+sending me the Base points and
+Geoms for the enemies!
+   _____________________
+__/ Classic Enemy Types \_______
+________________________________
+____[#CLASS] ~~~~ Wanderer ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~[#CLWAN] Look: Kinda
+like a propeller Color: Purple
+Base Points: 25 Geoms Dropped:
+10 Behavior: As the name
+implies, they kinda just wander
+around with no real
+  set path. They are pretty slow
+   the most basic of enemies.
+Strategy: Just shoot 'em. They
+only take one hit so you can fly
+straight at
+  them while shooting and you'll
+
+~~~~ Grunt ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
+LGRU] Look: Diamond Color: Blue
+Base Points: 50 Geoms Dropped:
+20 Behavior: Heads straight for
+your ship, nothing special.
+Strategy: Just shoot 'em. Yeah,
+I said it for wanderer's to.
+
+  Fun fact: I've been told that 
+  around (for literally, like 2 
+  the point where they become fa
+
+~~~~ Weaver ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
+LWEA] Look: Diamond in a Square
+Color: Green Base Points: 100
+Geoms Dropped: 50 Behavior:
+Annoying! These guys will avoid
+your shots and then work their
+way
+  at you.
+Strategy: Kilroy84 has pointed
+out an important point on
+Weavers so I am
+  revising the strategy here. Th
+  every shot, whether it is dire
+  "Turret Drone" style sweep the
+  infinitely. However, a direct 
+  them to dodge and will kill th
+  other misguided shots around t
+
+  It's also helpful to get these
+  where to dodge.
+
+~~~~ Spinner ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
+LSPI] Look: X in a Square Color:
+Pink Base Points: 100 Geoms
+Dropped: 0 Behavior: These guys
+come straight for you, but
+release 3 Tiny Spinners after
+  being destroyed.
+Strategy: It only takes 1 shot
+to beat these guys, and they
+behave just as
+  the grunts, however, you want 
+  because of the Tiny Spinners t
+  then slightly back off (if you
+  these little guys, or just mak
+  don't give the little ones a c
+
+~~~~ Tiny Spinner ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
+LTIN] Look: Tiny version of the
+Spinners...literally Color: Pink
+Base Points: 50 Geoms Dropped:
+10 Behavior: Another really
+annoying one, they do a circular
+pattern while
+  moving towards you. Can be ver
+  enemies on screen and you aren
+Strategy: These guys only come
+from defeating Spinners, and
+you'll more than
+  likely destroy the first one w
+  But the other two you really h
+  catch you off guard. It's usua
+  defeating a Spinner and spray 
+  these guys; or plow straight t
+  shots behind you to hopefully 
+
+~~~~ Gravity Well ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
+LGWE] Look: Big Circle Color:
+Red Base Points: ? Geoms
+Dropped: ? Behavior: Harmless
+until shot, but after one shot
+starts sucking in any
+  enemies (or you) that get to c
+  swells up until it can't hold 
+  several protons out.
+
+  Often these can become hard to
+  enemies into orbit around them
+  explode they push enemies away
+Strategy: There are two ways to
+go about these: First is the way
+I like,
+  when you see one go straight t
+  don't have to worry about it e
+  once and let it fill up a bit 
+  makes it shrink in size slight
+  up with stuff it will be worth
+  when it's empty, but you also 
+
+~~~~ Proton ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
+LPRO] Look: Small Circle Color:
+Blue Base Points: ? Geoms
+Dropped: ? Behavior: Fast and
+head straight for you. Strategy:
+These guys won't come out unless
+you let a Gravity Well explode,
+  but when they do watch out bec
+  will come out at a time. They 
+  catch you off guard due to the
+
+~~~~ Snake ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
+LSNA] Look: Like a snake! Color:
+Yellow body, Blue head Base
+Points: 150 Geoms Dropped: 50
+Behavior: These guys snake
+around in funky patterns, real
+long bodies. Strategy: Getting
+in between a handful of these
+can be a real headache and
+  can call for a good bombing du
+  defeat them by shooting them i
+  will do nothing, but running i
+
+  I've been told by a few people
+  of these snakes. So that's som
+  (haven't tried this) I've been
+  blind spot that allows you to 
+  move at all) and they will not
+  this will only be of assistanc
+
+~~~~ Repulsor ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
+LREP] Look: Like your ship with
+a shield in front Color: Red
+Base Points: ? Geoms Dropped: ?
+Behavior: These guys will head
+at you and follow you around.
+However, their
+  ability to turn is much worse 
+  stop, turn, and then start mov
+Strategy: You can't hit these
+guys straight on due to their
+shield, but if
+  do a quick circle around them 
+  stop to get back on track and 
+  them. Like the Snakes, several
+  calls for a good bombing in my
+  some practice.
+
+~~~~ Mayfly ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
+LMFL] Look: Small Triangles
+Color: Blue Base Points: ? Geoms
+Dropped: ? Behavior: These are
+like a flocking type enemy. They
+always come in packs
+  and travel on a fairly quick p
+Strategy: With these guys you
+really want to shoot straight
+into them and
+  fly in the same direction. Bec
+  you want to cut straight throu
+  around and cut through it agai
+  first time) because they trave
+  around you easy if you aren't 
+   _________________
+__/ New Enemy Types \___________
+
+~~~~ Mutator ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
+EMUT] Look: All Ziggity Zaggety
+(yeah..) Color: Blue Base
+Points: ? Geoms Dropped: ?
+Behavior: Float around and
+occasionally spawns mutateds
+Strategy: I'm not sure I
+completely understand this
+enemy, but from what
+  I've picked up they just kind 
+  random intervals will spawn ou
+  They can be an annoying enemy 
+  the fact that they spawn other
+  are one of the few enemies tha
+
+  Okay, from what I've gathered 
+  another enemy spawn Mutateds. 
+  latch onto another enemy and t
+  handful of Mutateds to deal wi
+  careful when there are Cell Ma
+  they will latch on and just ke
+  over.
+
+~~~~ Mutated ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
+EMTD] Look: Kinda like a
+Biohazard symbol Color: Blue
+Base Points: ? Geoms Dropped: ?
+Behavior: Quick moving and head
+for you. Similar to the
+Mayflowers or Protons. Strategy:
+These guys spawn from the
+Mutators so the quicker you can
+take
+  those out the less of these yo
+  killing them though I recommen
+  while shooting at them because
+  swarm.
+
+~~~~ UFO ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
+EUFO] Look: A big Eye Color: Red
+Base Points: 5000 Geoms Dropped:
+0 Behavior: Fly in and out at
+random times on certain levels
+Strategy: Defeat it if you see
+it because it's worth good
+points. Normally
+  doesn't stick around long thou
+
+~~~~ Generator ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
+EGEN] Look: Double ringed circle
+with enemy symbol in the middle
+Color: Red when releasing
+enemies, Blue when vulnerable
+Base Points: 150(ish?) Geoms
+Dropped: 100 Behavior: These
+guys have 2 states to them, when
+they are red they will
+  release a constant flow of ene
+  based on the level you are on,
+  general, but are *usually* one
+  After they have released a num
+  for awhile and do nothing. Aft
+  red and repeat.
+Strategy: You can only defeat
+these when they are blue and I
+recommend you
+  get rid of them as quickly as 
+  I like to sit kind of close to
+  the enemies quickly then when 
+
+~~~~ Black Hole ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
+EBLA] Look: A big swirling
+vortex, usually in the center of
+a planet. Color: Blue Base
+Points: 0 Geoms Dropped: 0
+Behavior: Switches between a
+clockwise and counter-clockwise
+pull. Creates
+  a swirling effect on the plane
+  trying to swim upstream and th
+  On planets that have these the
+Strategy: These cannot be
+defeated, so there really isn't
+much strategy
+  to be said here. I recommend f
+  the enemies are coming at you 
+
+~~~~ Asteroids ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
+EAST] Look: Bigger versions of
+normal enemies Color: Orange
+Base Points: ? Geoms Dropped: ?
+Behavior: Just float around,
+then explode into two smaller
+versions of
+  themselves, then those each ex
+  that the resemble. When they e
+
+  Here are some numbers (thanks 
+  - Grunt Asteroids spawn somewh
+  - Wanderer Asteroids spawn bet
+Strategy: These guys can be
+overwhelming if to many get on
+screen because
+  after you fight a few you'll s
+  asteroid you see, you've got s
+  hands. But they won't do anyti
+  want to kind of corner them (i
+  shots on them steady so that a
+  all of the enemies that come o
+
+  Watch out for when these explo
+  they can push a lot of enemies
+  of enemies).
+
+~~~~ Cell Mass ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
+ECEL] Look: Kind of like frog
+eggs all bunched together Color:
+Beige Base Points: ? Geoms
+Dropped: ? Behavior: None
+Strategy: These guys really
+don't do anything, they are just
+there to be
+  an obstacle in your way and ca
+  of them all bunched together. 
+  bunches of them here and there
+  get rid of them every now and 
+  and become to overwhelming.
+
+  These often appear on levels t
+  are an easy target for the Mut
+  Mutateds from.
+
+~~~~ Dart ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
+EDAR] Look: Like a paper
+airplane Color: Red Base Points:
+? Geoms Dropped: ? Behavior:
+Slightly hard to describe, but
+they kind of zig-zag around.
+Strategy: These guys are really
+easy to run into because of
+their pattern.
+  Where most enemies you can jus
+  the ones around you won't hit 
+  front of you, with the pattern
+  the ones around you to hit you
+  off for a second and defeat th
+
+~~~~ Neutron ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
+ENEU] Look: A Circle with 3
+smaller attached circles Color:
+Blue Base Points: ? Geoms
+Dropped: ? Behavior: Fast and
+head straight for you, but kind
+of surround you at the
+  same time. Slow when turning a
+Strategy: These guys are almost
+like bigger protons, except they
+appear at
+  any time like other normal ene
+  flying backwards a bit because
+  ship slighlty. Flying backward
+  front of you so you can take t
+
+  Similar to Repulsors, circling
+  to turn around can be extremel
+
+~~~~ NUFO ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
+ENUF] Look: Smaller eyes Color:
+Orange Base Points: 500 Geoms
+Dropped: 0 Behavior: These guys
+will be floating around various
+levels in huge packs.
+  They can't hurt you, but are w
+  They do try to avoid your shot
+  but since they don't move very
+Strategy: Just fly into a pack
+of them without shooting then
+fire a handful
+  of shots in various directions
+  them when you see them because
+  them. They are worth grabbing 
+  easy points.
+
+~~~~ Wormhole ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
+EWOR] Look: Blue hole that has
+that effect like when you shoot
+Gravity Wells. Color: Blue Base
+Points: 0 Geoms Dropped: 0
+Behavior: Just sit there and
+look like they are sucking in
+although they
+  have no pull.
+Strategy: Cannot be defeated,
+ues them to transport from one
+to the other.
+
+~~~~ Meteor ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
+EMET] Look: Squares/Diamonds
+depending on falling angle
+Color: Red Base Points: ? Geoms
+Dropped: ? Behavior: Some levels
+literally have Meteor showers in
+which tons of meteors
+  fall across the screen in diff
+  and you will have to destroy t
+  the whole screen, or a decent 
+  "shower".
+Strategy: Just aim in the
+opposite direction they are
+falling and shoot. You
+  will destroy the ones that are
+  If there are a lot of enemies 
+  try to be shooting in the oppo
+  matter which way you are flyin
+
+~~~~ Mine Layer ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
+EMIN] Look: A Jaggedy type
+circle Color: Blue, mines are
+little green circles Base
+Points: n/a Geoms Dropped: n/a
+Behavior: These guys fly around
+laying mines on the ground and
+then setting
+  them off. To be honest, I've n
+  don't even know if they can ha
+  but you can definitely run int
+Strategy: You can't kill these
+guys, but the mines do indeed
+have a purpose.
+  If you kill enemies by setting
+  each enemy they kill, but the 
+  you some huge points if you ki
+  each when you have a 150x mult
+  this info!
+
+  Following strategy sent in cou
+  Basically, any level with a Mi
+  because this "enemies" actuall
+  The only way that it can harm 
+  really shouldn't do because it
+  DS version with the toned down
+  totally harmless, you can sit 
+  and it won't harm you at all, 
+  are over top of one when it go
+
+  A mine layer will lay about 6-
+  keep moving around, but won't 
+  the ones that are already out 
+  fly over it (completely over i
+  1.5 seconds later that mine wi
+to any other mines within range.
+
+  So, where this really comes in
+  and your getting rocked just f
+  take care of this guys really 
+  set off one of these mines in 
+  packed and your bound to not o
+  millions of points from it.
+
+  Another good use of them is no
+  stand type of thing. If your a
+  around try to set them off to 
+
+  The rate that Mines are laid i
+  to be any way to speed it up. 
+  let it lay it's mines and leav
+  use them or have no other choi
+
+  That's all there is to it! Dri
+  chain reaction of all that are
+  clearing and insane point grab
+
+~~~~ Flipper ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
+EFLI] Look: Square Color: Blue
+Base Points: n/a Geoms Dropped:
+n/a Behavior: These are
+basically moving boundries in
+the middle of the playing
+  field. You'll know them by the
+  they will flip and move their 
+  you won't die by running into 
+  walls. But they do block your 
+    them to defeat enemies.
+Strategy: As I said, you can't
+kill them, so there's really no
+strategy here.
+
+ o------------------------------
+ |/                             
+ |                        Galaxi
+ 0______________________________
+ \                              
+ o------------------------------
+*in the following synopis the wo
+sorry in advance for the
+inconsitancy of use*
+
+Galaxies is broken down into
+Galaxies and planets. Each one
+plays a little differently from
+the last, well, for the most
+part. At the beginning of the
+game the first Galaxy and the
+first 3 planets are open for you
+to explore. From there on you'll
+need to use the Geoms you
+collect in the levels to buy new
+galaxies and planets to play in.
+
+After playing each planet, if
+you did well enough you will be
+rewarded a medal. There are 3
+medals in each planet: Bronze,
+Silver and Gold. Each planet has
+a different point requirement
+for each medal.
+
+Most planets will start you with
+3 lives and 3 bombs and you can
+gain more lives and bombs by
+collecting a certain number of
+geoms. However, some levels will
+start you with only 1 life and
+no bombs, in these levels you
+are limited to one life and no
+bombs.
+
+Whenever you choose a planet you
+will then be given the choice of
+which drone you would like to
+take with you for the current
+run. The drone you choose has no
+effect on the medals or geoms in
+the level, but is really up to
+your personal preference of
+which one you like the most.
+Only the drone you use in that
+level will gain experience from
+that level.
+
+I think that's all the basics
+let's take a further look at
+each galaxy and planet.
+
+: note : All costs are referring
+to Geoms, all medals are
+referring to
+ points earned in a single run
+: note : I was going to list the
+enemy types that you will find
+in each
+  level, however, most levels se
+  more and more points, so some 
+  others would be incomplete if 
+  I decided to leave that out.
+: note : On some of the funny
+shaped levels I'll try and Ascii
+draw the
+  layouts, but some are to funny
+basic, so no drawings for those.
+    _______
+___/ Alpha \____________________
+Cost: 0
+Planets: 3
+    1. Trainer Eis
+  o-| I-n-f-o |-o
+  Cost: 0
+  Bronze: 600,000
+  Silver: 2,500,000
+  Gold: 6,000,000
+  Layout: Very small rectangle, 
+  Recommended Drone: Any
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Essentially this is meant to b
+  you're new to the series this 
+  and try and get used to the co
+  constantly from the corners of
+
+  This is also a pretty good sta
+  it's easy difficulty.
+
+    2. Trainer Duo
+  o-| I-n-f-o |-o
+  Cost: 0
+  Bronze: 400,000
+  Silver: 1,750,000
+  Gold: 6,000,000
+  Layout: Larger square grid, no
+  Recommended Drone: Any
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Yet another training level. Sl
+  not to far in. You'll be faced
+  a million points in. Just keep
+  play the game here, it's a goo
+  handle lots of enemies at the 
+
+    3. Claeis
+  o-| I-n-f-o |-o
+  Cost: 0
+  Bronze: 600,000
+  Silver: 2,500,000
+  Gold: 6,000,000
+  Layout: Large Diamond
+  Recommended Drone: Any
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This planet is the last of the
+  like the last one tilted 45 de
+  takes even longer to up it's d
+   ______
+__/ Beta \______________________
+Cost: 10,000
+Planets: 4
+    1. Maseis
+  o-| I-n-f-o |-o
+  Cost: 0
+  Bronze: 3,000,000
+  Silver: 8,500,000
+  Gold: 20,000,000
+  Layout:
+  ______________________
+  /                      \
+   |                        \
+  |                         |
+   \__                     /
+  \___________________/
+   Recommended Drone: Defend
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This level will be your first 
+  overwhelming at first. At the 
+  have 1 or 2 asteroids on scree
+  for there to be quite a few mo
+  Wanderers spawning regularly. 
+  short you'll want to work up a
+  left and right as much as poss
+
+  Since on the left and right th
+  asteroids wedged into, your be
+  directions so that they explod
+  enemies are all bunched up wit
+  very quick and easily.
+
+  Keep in mind as well that you 
+  be afraid to use them in a sit
+  out as well for the Spinner As
+  there will be a lot of Tiny Sp
+  get the main Spinners defeated
+  destroy those Asteroids you ca
+
+    2. Claduo
+  o-| I-n-f-o |-o
+  Cost: 860
+  Bronze: 2,000,000
+  Silver: 5,000,000
+  Gold: 11,000,000
+  Layout: Large Square, no obsta
+  Recommended Drone: Turret, Att
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  I recommend the 3 drones above
+  defeat enemies and this level 
+  are so many enemies here is be
+  this planet. Mainly Grunt and 
+  are 3 or 4 of them on screen a
+  in a sea of 100+ Wanderers. Gr
+  can actually be a lot of fun t
+  numbers it's nice to have a dr
+  watch your back and fend off t
+
+  There's really not to much str
+  just that there are a ton of e
+  stay close to an edge (but not
+  spawned on top of you) and sho
+  to clear out lots of enemies w
+  then when a lot of enemies get
+  through them all shooting to a
+  until I have a comfortable spo
+  this one.
+
+  Also keep an eye out for Gravi
+  screen that you can't see beca
+  it, it doesn't take much time 
+  of the number of enemies spawn
+
+    3. Sureis
+  o-| I-n-f-o |-o
+  Cost: 875
+  Bronze: 400,000
+  Silver: 1,850,000
+  Gold: 5,000,000
+  Layout: Large Octagon
+  Recommended Drone: Defend or T
+  Starting Lives: 1
+  Initial Bombs: 0
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Once again because there are n
+  of open space I'm recommending
+  fend off enemies. Since you on
+  the list and I highly recommen
+  and can get that one you don't
+
+  This level starts off with a b
+  Grunts right from the beginnin
+  there is a decent amount of ro
+  careful with only 1 life and n
+  circular in shape it's really 
+  alternating shots between stra
+
+  Flying in circles will cause e
+  just kinda linger chase you so
+  of your ship you can shoot at 
+  serious points. Defend helps o
+  shooting behind you so you onl
+
+    4. Bateis
+  o-| I-n-f-o |-o
+  Cost: 1,775
+  Bronze: 3,500,000
+  Silver: 7,000,000
+  Gold: 14,000,000
+  Layout: Rectangle with zig-zag
+     ______________________
+     \                    /
+     /                    \
+     \                    /
+     /                    \
+     \                    /
+     /                    \
+     \/\/\/\/\/\/\/\/\/\/\/
+  Recommended Drone: Turret or A
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This level is what I call wave
+  kind of randomly spawning all 
+  set up in waves. A line of ene
+  then another, etc. Throughout 
+  here and there, but for the mo
+  from the top.
+
+  This leaves the obvious strate
+  I like to do is kinda linger i
+  from left to right while shoot
+  waves appear. This makes it pr
+  when they come out. You have t
+  spawning enemies though becaus
+  for them to kill you if you ar
+
+  Not to long in you'll also fin
+  bottom. When this happens you'
+  priority so do you don't get c
+
+  The many creveces in this scre
+  but bad for getting yourself t
+  decides it's going to spawn th
+  you don't put yourself in one.
+  level so watch out for them an
+  playing this one for a short t
+ of how to take care of things.
+   _______
+__/ Gamma \_____________________
+Cost: 30,000
+Planets: 5
+    1. Flieis
+  o-| I-n-f-o |-o
+  Cost: 0
+  Bronze: 2,000,000
+  Silver: 5,500,000
+  Gold: 12,500,000
+  Layout: Small Octagon with sev
+  Recommended Drone: Sweep or Sn
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This stage is really tiny and 
+  to defeat the enemies because 
+  enemies can move through them.
+  stage for how small it is and 
+  don't help any.
+
+  I recommend the sweep drone a 
+  because all the flippers stop 
+  only going to help so much, bu
+  anything that gets to close to
+  constantly. I think that the s
+  which is why I recommend it, b
+  someone wanted to double check
+
+  Being another circular level I
+  around this one like the other
+  flippers I do a lot more targe
+  The Generators are a for sure 
+  go straight for them and take 
+  things around.
+
+    2. Vareis
+  o-| I-n-f-o |-o
+  Cost: 2,150
+  Bronze: 5,000,000
+  Silver: 9,000,000
+  Gold: 33,000,000
+  Layout: Open Square with angle
+  Recommended Drone: Defend, Tur
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This level is a huge cluster o
+  are tons of tons of enemies. T
+  drone that can help you attack
+  aren't any Generators to watch
+  of other basic enemies.
+
+  The best strategy in my opinio
+  this one. It's held true for R
+  in this game, but it's really 
+  strategy. Just keep going in c
+  behind you shooting straight a
+  behind you when you get the ch
+
+  Keep your eyes out for the Sna
+  coming out not far in. Good ne
+  number of enemies in this leve
+  and extra bombs.
+
+    3. Mineis
+  o-| I-n-f-o |-o
+  Cost: 3,200
+  Bronze: 5,000,000
+  Silver: 15,000,000
+  Gold: 50,000,000
+  Layout: Large octagon with Min
+  Recommended Drone: Defend or S
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Ahh, the mine layers. I don't 
+  just kind of fly around laying
+  them, they will cost you your 
+  mines really do any harm. You 
+  reasons, I consider them to be
+  for them.
+
+  This level once again has a lo
+  more Geoms to gain bombs or li
+  gaining to many throughout pla
+  one. On a more positive note, 
+  quicker on this one that the 3
+
+  There are a lot of Darts and G
+  basic enemies in this level so
+  your playing based on the type
+  The Defend will help a lot wit
+  also like sweep because bullet
+  sweep is also protecting close
+  strategy though. I recommend t
+  and keep the number of Darts a
+  as they are probably the most 
+
+    4. Batduo
+  o-| I-n-f-o |-o
+  Cost: 9,300
+  Bronze: 2,500,000
+  Silver: 6,000,000
+  Gold: 16,500,000
+  Layout: Jagged edged Octagon
+  Recommended Drone: Turret or S
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Lots of Spinners in this level
+  comfortably. Most of the enemy
+  or all sides of your ship at t
+  having to cut through enemies 
+  screen off. These Spinners can
+  to the Tiny Spinners that they
+
+  I'm not really sure what to re
+  just cut back and forth throug
+  yourself out of the creveces, 
+  the middle areas.
+
+    5. Orbeis
+  o-| I-n-f-o |-o
+  Cost: 25,750
+  Bronze: 1,000,000
+  Silver: 2,500,000
+  Gold: 6,000,000
+  Layout:
+  Recommended Drone:
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  ...black hole level...
+   _______
+__/ Delta \_____________________
+Cost: 50,000
+Planets: 6
+    1. Clatris
+  o-| I-n-f-o |-o
+  Cost: 0
+  Bronze: 1,500,000
+  Silver: 3,500,000
+  Gold: 7,000,000
+  Layout: Large Hexagon
+  Recommended Drone: Defend, Tur
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Pretty standard level. The hex
+  the Octagon, you have no reaso
+  bottom corners so it's basical
+
+  If you've been following this 
+  probably predict the strategy 
+  jumped into this level I'll st
+
+  Go in circles, let the enemies
+  out when you get the chance. D
+  it shoots behind you while you
+  to because it'll clear out a l
+
+  There are a particularly large
+  keep your eyes out for them an
+  encounter Mutator's though the
+  really are.
+
+    2. Masduo
+  o-| I-n-f-o |-o
+  Cost: 3,500
+  Bronze: 6,000,000
+  Silver: 11,000,000
+  Gold: 27,500,000
+  Layout:
+    ____________      ______
+   /            \____/      \
+  |                          \
+  \                          |
+   |                        /
+   /                        |
+   \________________________/
+  Recommended Drone: Attack or S
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This is another claustrophobic
+  Bronze medal is pretty slow an
+  Asteroid at a time; general ru
+  take 'em out quick. I recommen
+  always have double the fire po
+  recommend defend or turret bec
+  level like this is an asteroid
+  enemies at you while you are d
+  then you end up with enemies o
+
+  After the bronze medal this le
+  though because generators star
+  Wells. The Generators like to 
+  of them at the same time so do
+  them as quick as possible beca
+  of enemies along with the incr
+
+  Keep the Asteroids cornered no
+  and don't let one side build u
+  because then you won't even be
+  side. Try to keep your destruc
+  should be able to rack up some
+
+    3. Zooeis
+  o-| I-n-f-o |-o
+  Cost: 4,525
+  Bronze: 200,000
+  Silver: 650,000
+  Gold: 2,500,000
+  Layout:
+  /\__________________/\
+  \                    /
+  |   __        __   |
+  |  |__|  /\  |__|  |
+  |   __   \/   __   |
+  |  |  |      |  |  |
+  |  |__|      |__|  |
+  |   __   /\   __   |
+  |  |__|  \/  |__|  |
+  / __________________ \
+  \/                  \/
+  Recommended Drone: Sweep
+  Starting Lives: 3
+  Initial Bombs: 0
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Now, lets look at the layout o
+  first off, and all of those bl
+  your way. You can't pass throu
+  can the enemies. So you've got
+  Enemies like to spawn from all
+  generators like to appear some
+
+  Because the enemies in this ga
+  you can use all of the boundri
+  enemies appear in the middle a
+  under one of the side blocks s
+  kind of struggle their way aro
+  hit right when they get around
+  mind.
+
+  The problem is that large mass
+  specifically - more than one c
+  out for those guys while deali
+  it doesn't sound like it would
+  care of the corner spawning gu
+  corridor. It's such a tight sp
+  from the side as long as you k
+
+  When Generators appear in the 
+  do a quick run through there a
+  shoot back towards the middle 
+  probably get in a pretty decen
+
+  I recommend the Sweep drone be
+  anythings tried to get you fro
+  good chance of taking it out. 
+  useless with all these obstacl
+
+    4. Fliduo
+  o-| I-n-f-o |-o
+  Cost: 5,225
+  Bronze: 2,300,000
+  Silver: 4,750,000
+  Gold: 9,000,000
+   Layout: Flipper obstacles
+   _____
+  |     |
+  |__   |__
+   |     |
+   |__   |__
+    |     |
+    |_____|
+  Recommended Drone: Defend or S
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This is officially a level tha
+  circles because the layout sim
+  basically play this level in q
+  own quadrent.
+
+  The enemies in this level sort
+  enemies, or very few enemies f
+  (probably wanderer) spawns fro
+  some generators and random spa
+
+  During the down times I like t
+  quadrents killing off the NUFO
+  appear. Then when the mass wan
+  out around there and take them
+  to the neighboring one to see 
+  there is something, I deal wit
+
+  Whenever Generators appear I h
+  were mass wanderer spawn point
+  generate along with the Genera
+
+  It's a pretty slow paced level
+  it's shape the defense drone i
+  be shooting through all of the
+
+    5. Battris
+  o-| I-n-f-o |-o
+  Cost: 9,000
+  Bronze: 3,000,000
+  Silver: 5,500,000
+  Gold: 19,000,000
+  Layout: A jig-jagged square
+   /\/\/\/\/\/\/\
+   \            |
+   /            |
+   \            |
+   /            |
+   \/\/\/\/\/\/\/
+  Recommended Drone: Defend or T
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Very similar to the last level
+  90 degrees. Enemies like to ap
+  head left. So, what works for 
+  me and hang out near the left 
+  bottom type movements. Keep a 
+  like to appear in line with th
+
+  Keep an eye to your backside t
+  mischievious beings. If that d
+  Bateis in the Beta galaxy beca
+  Maybe that strategy will help 
+
+    6. Surpente
+  o-| I-n-f-o |-o
+  Cost: 36,250
+  Bronze: 800,000
+  Silver: 2,500,000
+  Gold: 6,500,000
+  Layout:
+  Recommended Drone:
+  Starting Lives: 1
+  Initial Bombs: 0
+
+  o-| S-t-r-a-t-e-g-y |-o
+  ...i hate 1 life levels, strat
+   _________
+__/ Epsilon \___________________
+Cost: 90,000
+Planets: 7
+    1. Roceis
+  o-| I-n-f-o |-o
+  Cost: 0
+  Bronze: 1,000,000
+  Silver: 2,250,000
+  Gold: 5,000,000
+  Layout:
+  Recommended Drone:
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  ...1 life level, ugh...
+
+    2. Varduo
+  o-| I-n-f-o |-o
+  Cost: 4,575
+  Bronze: 1,250,000
+  Silver: 3,400,000
+  Gold: 8,250,000
+  Layout:
+   __/\__
+  |      |
+  /        \
+  \        /
+  |__  __|
+   \/
+  Recommended Drone: Turret or D
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This planet has a lot of empty
+  when the mass tons of enemies 
+  the standard enemies are here 
+  Weavers and Gravity Wells. Sta
+
+  Try to keep moving in circles 
+  you while taking out the ones 
+  when you have some breathing r
+  due to the sheer amount of roo
+  number of foes it can be hard 
+  lives and bombs.
+
+    3. Minduo
+  o-| I-n-f-o |-o
+  Cost: 6,675
+  Bronze: 5,000,000
+  Silver: 25,000,000
+  Gold: 50,000,000
+  Layout: Mine layers
+   _________________
+   /                 \
+     /                   \
+     \                   /
+   \_________________/
+
+  Recommended Drone:
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Alright, since I've had some v
+  Mine Layers I now understand w
+  There are a few Mine Layers yo
+  in to, but mainly your going t
+  some huge points. If you've re
+  enemies section you're good to
+  me give you a short run down h
+
+  As I said there are a few Mine
+  your going to want to avoid fl
+  be very useful to you after a 
+  It takes a bit of time for the
+  level, but use the early ones 
+  NUFO's start pouring on screen
+up start setting off the mines.
+
+  To set off a mine just fly com
+  COMPLETELY) and this will star
+  and every enemy killed by a mi
+  good mine explosions and you'l
+
+    4. Loseis
+  o-| I-n-f-o |-o
+  Cost: 8,750
+  Bronze: 1,250,000
+  Silver: 4,250,000
+  Gold: 10,000,000
+  Layout:
+_________________   ____________
+   |      _____      |_|   ____ 
+   |     |_    |      ____|    |
+   |       |   |     |____     |
+   |___    |___|          |_____
+ |____________________________|
+
+  Recommended Drone: Sweep or De
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This is a fun chaotic level he
+  around and the enemies spawn q
+  planet spawns a lot of Grunts 
+  take care of, but be weary of 
+
+  I like to treat this level lik
+  During the early parts you can
+  because it's not to hectic yet
+  probably want to get in the ha
+
+  I go across the top from right
+  side then run across the botto
+  both sides are ever clear and 
+  then take the time to clear th
+  this pattern because the top a
+  you can't really get hit on an
+  up and you'll rack up all your
+
+  As far as Drones go the Sweep 
+  it can sweep through the bound
+  boundry thing if you sit on th
+  to the left and there are enem
+  without you even having any ri
+
+    5. Surduo
+  o-| I-n-f-o |-o
+  Cost: 9,775
+  Bronze: 1,000,000
+  Silver: 3,000,000
+  Gold: 8,000,000
+  Layout:
+   _______  _______
+   /       \/       \
+  |                  |
+   \                /
+   /                \
+  |                  |
+   \_______/\_______/
+  Recommended Drone: Defend or T
+  Starting Lives: 1
+  Initial Bombs: 0
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Another 1 life level, this one
+  bad. The circle method implies
+  this point in the game just lo
+  previous planets and read up o
+
+  The little peaks that stick ou
+  circling around because you ne
+  from the edges at all times. B
+  feel for the area. Lot's of Gr
+  no real tricky enemies and the
+  immensely.
+
+    6. Battetra
+  o-| I-n-f-o |-o
+  Cost: 18,200
+  Bronze: 2,500,000
+  Silver: 5,500,000
+  Gold: 20,000,000
+  Layout: Kinda along these line
+   /\/\/\/\
+   /        \
+   \        /
+   /        \
+   \/\/\/\/\/
+  Recommended Drone: Defend, Tur
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This level can be very difficu
+  the annoying enemies. Lots of 
+  Neutrons. All together these c
+  don't have a ton of room and y
+  through packs of spinners whic
+
+  However, it is do-able as long
+  drone that will be attacking w
+  a plus becasue you need all th
+  never want to find yourself su
+  boundries there's really nowhe
+
+  If you ever get surround don't
+  if you've got Snakes and Neutr
+  most dangerous to have togethe
+  to kill.
+
+  I don't actually do much circl
+  a lot more straight path cutti
+  to cut through the thin areas 
+  then turn around and kill as m
+  cutting again. If you want to 
+  the Attack or Turret drones ov
+  facing the enemies more than s
+
+    7. Clahex
+  o-| I-n-f-o |-o
+  Cost: 38,500
+  Bronze: 1,000,000
+  Silver: 4,250,000
+  Gold: 11,500,000
+  Layout: Upside down Triangle
+  Recommended Drone: Defend or T
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This can be a tricky level to 
+  triangle. The Defense drone wi
+  following the edges of the pla
+  behind you and more than likel
+  by your Drones fire.
+
+  However, there are a ton of en
+  really enough alone to pass so
+  well. What I like to do is sti
+  clockwise fashion but try to a
+  left and right ones. I'm decen
+  break towards the bottom to cl
+  are to small to sit in and to 
+  like to take this level one pa
+
+  For the most part you'll be se
+  pretty easy to take care of. B
+  spawn points when they decide 
+  get yourself killed. You'll wa
+  Gravity Well's that appear bec
+  isn't a ton of room to run and
+   ______
+__/ Zeta \______________________
+Cost: 145,000
+Planets: 7
+    1. Vartris
+  o-| I-n-f-o |-o
+  Cost: 0
+  Bronze: 2,000,000
+  Silver: 6,000,000
+  Gold: 18,750,000
+   Layout: A giant plus sign
+  Recommended Drone: Sweep or De
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Being a plus sign there is no 
+  it became more of a push throu
+  your life. Which suprisingly w
+  you'll receive the silver meda
+  Weavers and Darts to adding Re
+  of throws everything off. Not 
+need to fend off at this point.
+
+  At this time is when you'll be
+  you out because when the Meteo
+  going to want to either try to
+  other Meteor Shower levels you
+  them the whole time, but this 
+  enough space to do that so you
+
+  Trying to perpindicular with i
+  way of defending yourself agai
+  fending off the enemies in you
+  a ton when flying with it beca
+  behind you, however Sweep is a
+ swarmed it can be a huge help.
+
+  Not really a whole lot I can h
+  pretty tough for me to. It's a
+  amount of tough enemies. Hopef
+  out.
+
+    2. Mastris
+  o-| I-n-f-o |-o
+  Cost: 12,500
+  Bronze: 6,000,000
+  Silver: 12,750,000
+  Gold: 25,000,000
+  Layout:
+   _________
+   /         \_______
+  /                   \
+  |                    |
+  |__                 /
+   \__             |
+    \___________/
+
+
+  Recommended Drone: Attack or S
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Another claustrophobic Asteroi
+  Let's cover the basics first. 
+  where we aren't shooting so we
+  killed behind us. We want a dr
+  on what we are focusing on or 
+  Sweep drone.
+
+  We want to corner the Asteroid
+  enemies are concentrated when 
+  them fast. Don't let one side 
+evenly disperse your attacking.
+
+  Now, this area in perticular i
+  literally nowhere to run. On t
+  enemies (Grunts a lot of the t
+  no matter if there are Asteroi
+  to make sure you are ready to 
+  on the Asteroids because this 
+  battle (but a fun one!)
+
+    3. Zooduo
+  o-| I-n-f-o |-o
+  Cost: 12,750
+  Bronze: 180,000
+  Silver: 800,000
+  Gold: 3,250,000
+  Layout:
+   /\_____________/\
+   \    __    __   /
+   |  / /    \ \  |
+   |  \/  /\  \/  |
+   |      \/      |
+   |    /\  /\    |
+   |    \/  \/    |
+   |  /\  /\   /\ |
+   |  \_\ \/  /_/ |
+   /  ____________  \
+   \/              \/
+  Recommended Drone: Sweep or De
+  Starting Lives: 3
+  Initial Bombs: 0
+
+  o-| S-t-r-a-t-e-g-y |-o
+  First off, I apologize for the
+  looks pretty bad, but point is
+  of objects in our way so we wa
+  through them and give us a bit
+  attacking drone will be stoppe
+  to no good.
+
+  If you've already played some 
+  this one you should have a goo
+  haven't, I'll give you the low
+
+  Stick to the outside edges as 
+  there are a lot of enemies com
+  The areas are so thin that it'
+  you from the sides, or even fo
+  need an escape route jet throu
+  sides and then start looping a
+
+  Since the A.I. isn't super int
+  advantage by hanging out under
+  the enemies are coming from th
+  slowly inch around it and you 
+  where they will appear killing
+  corner.
+
+  Most spawns come from the 4 co
+  at times, this includes some G
+  likes to release a lot of Spin
+  Spinners, but like I said, the
+  getting you here in these cons
+  where there movement pattern c
+
+  Just keep moving at a steady p
+  If Sweep doesn't work out for 
+  cover your backside well when 
+
+    4. Flitris
+  o-| I-n-f-o |-o
+  Cost: 13,500
+  Bronze: 550,000
+  Silver: 4,400,000
+  Gold: 12,000,000
+  Layout: Lots of Flippers
+   _______  _______
+   /       \/       \
+  |                  |
+   \                /
+   /                \
+  |                  |
+   \_______/\_______/
+  Recommended Drone: Sweep or De
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  I'm a little weary to put Defe
+  of all the Flippers it's shots
+  to far into this planet Meteor
+  you start getting Meteor Showe
+  this is when Defend will reall
+  is an excellent choice as well
+  out and see which method works
+
+  This planet has a lot of Wande
+  around, not to forget the Mete
+  types of enemies aren't normal
+  Flippers added in your path is
+  pay a lot of attention to wher
+  caught behind a flipper in the
+  kinda funny).
+
+  The best strategy I can think 
+  with what the Meteors do. Try 
+  them your focus while taking o
+  take out enemies while avoidin
+
+  The enemies themselves really 
+  you've faced way worse in say 
+  practicing how to deal with th
+
+    5. Surtris
+  o-| I-n-f-o |-o
+  Cost: 13,500
+  Bronze: 1,000,000
+  Silver: 2,500,000
+  Gold: 6,000,000
+  Layout:
+  Recommended Drone:
+  Starting Lives: 1
+  Initial Bombs: 0
+
+  o-| S-t-r-a-t-e-g-y |-o
+  ...i hate 1 life planets, stra
+
+    6. Batpente
+  o-| I-n-f-o |-o
+  Cost: 26,350
+  Bronze: 1,500,000
+  Silver: 4,500,000
+  Gold: 14,250,000
+  Layout:
+   /\/\/\/\
+  |        |
+  |        |
+  |        |
+   \/\/\/\/
+  Recommended Drone: Attack, Tur
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  You may recognize the layout o
+  and realize that it is yet ano
+  there are 2 flat sides! Yeah, 
+  planet is also smaller than th
+  however, I think it actually m
+  at least for awhile.
+
+  You will get waves of all the 
+  Weavers, Grunts, Neutrons, Sna
+  hidden Gravity Wells you love 
+
+  You're going to want to do all
+  everything as quickly as possi
+  stay in there as close as poss
+  things out, but collect the Ge
+  a lot with the wave stages is 
+  they all fall where the next w
+  enough you will be able to des
+  you'll especially want to try 
+  they drop the big Geoms.
+
+  Up until you reach the Gold me
+  with waves from one side at a 
+  periodically, but it won't be 
+  the middle till you know what 
+  to town on the wave. Never str
+
+  After you get the Gold Medal y
+  crazy waves from both sides at
+  what to tell you to help you o
+
+    7. Virduo
+  o-| I-n-f-o |-o
+  Cost: 49,500
+  Bronze: 625,000
+  Silver: 1,250,000
+  Gold: 4,500,000
+  Layout:
+   ______
+   /      \__
+   /          \
+  |            \
+  |    _        |
+  /    | \       |
+  /      \/        \
+  |                  |
+  |                  |
+  \__               /
+   \___          /
+    \________/
+  Recommended Drone: Defend or S
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  I had some trouble getting int
+  I think it's because of the Ce
+  enemy because they just hang o
+  want to take care of them, don
+  Mutators will give you a lot m
+
+  There isn't a ton of enemies i
+  give you a lot of trouble if y
+  that Generators can. Speaking 
+  this level as well, but they a
+  care of them as you come acros
+
+  The Mutators though like to ru
+  because of that one island in 
+  much, but I found it in my way
+  Mutateds and Gravity Well expl
+
+  As I said, I wasn't very good 
+  strategy to share, but taking 
+  for the Gravity wells is key. 
+  have to help out here.
+
+   _____
+__/ Eta \_______________________
+Cost: 200,000
+Planets: 8
+    1. Flitetra
+  o-| I-n-f-o |-o
+  Cost: 0
+  Bronze: 1,500,000
+  Silver: 4,750,000
+  Gold: 9,000,000
+  Layout: Puzzle piece with lots
+   __    __
+   __|  |__|  |__
+  |__          __|
+   __|        |__
+  |__    __    __|
+   |__|  |__|
+  Recommended Drone: Sweep or ma
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Ugh, the flippers! So many of 
+  places to get stuck in and a l
+  that can cause it to be quite 
+  Darts, which are unpredictable
+  later on which just don't help
+
+  I recommend Sweep as usual for
+  through the flippers. I'm also
+  reason, however, I don't use i
+  testing to figure out how it w
+
+  Strategy wise you need to be a
+  like to spawn in real big pack
+  few times I was hanging out in
+  Darts. So be aware of that and
+  getting cornered because with 
+  backed into one and then get k
+  lingering around.
+
+  I like to kind of treat the mi
+  area and cut through it a lot 
+  everything piled in there. Of 
+  the enemies that spawn around 
+  get everything kind of coralle
+  of having stuff everywhere att
+  time. This level can be fairly
+  flippers, but with some practi
+
+    2. Losduo
+  o-| I-n-f-o |-o
+  Cost: 0
+  Bronze: 1,250,000
+  Silver: 3,500,000
+  Gold: 9,500,000
+  Layout:
+ _______              ________
+/       \____________/        \
+   /                            
+  |         ___        __       
+  |        /  /        \ \      
+   \___    \ /          \/     _
+    \          __          /
+      \       /  \       /
+        \     \__/     /
+         |            |
+         |            |
+          \          /
+      \______/
+  Recommended Drone: Defend or S
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This level isn't to bad, the s
+  a lot so always be aware of wh
+  a lot of circling then hanging
+  very unnerving at times.
+
+  Because of the straightaways d
+  through the middle I recommend
+  coming from behind you. There 
+  (and the number only increases
+  with a lot of enemies. The Spi
+  because it's so easy to get co
+  that you'll often end up getti
+  cornered.
+
+  I tried to play the level from
+  one and taking care of it and 
+  didn't have one in site I woul
+  edge of this planet taking out
+  planets that have boundries I 
+  middle because it's to easy to
+
+  So, basically the circle metho
+  or Sweep for when things get t
+
+    3. Mintris
+  o-| I-n-f-o |-o
+  Cost: 22,550
+  Bronze: 5,000,000
+  Silver: 25,000,000
+  Gold: 55,000,000
+  Layout: Funky shape with sever
+   __    __
+  /  \__/  \
+  |          \
+  |           \
+  \__         \__
+   \__         \
+    \         \__
+    |            \
+    \            \
+    |            |
+    \           |
+    |           |
+     \        _/
+     \______/
+  Recommended Drone: Sweep
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Alright, Mine Layer strategy a
+  you'll have a Gold in no time.
+  Mine Layers to get the full st
+
+  Take out the early enemies to 
+  Mine Layers lay their mines ou
+  really start building up. When
+  screen is getting full drive C
+  chain reaction of all the mine
+  enemies and give you DOUBLE po
+
+    4. Mastetra
+  o-| I-n-f-o |-o
+  Cost: 22,735
+  Bronze: 4,500,000
+  Silver: 9,250,000
+  Gold: 20,000,000
+  Layout:
+     _____________________
+  /                     \_____
+ \                           \
+ _\        _____              \
+/         /     \              |
+\         \_____/          ___/
+   \                       /
+     \____________________/
+   Recommended Drone: Attack
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This stage is a crazy hectic A
+  Asteroid stages like to be. Ho
+  switched to the Attack Drone a
+is why I recommend only it here.
+
+  This Asteroid stage is more he
+  the fact that it likes to spaw
+  with spawning a lot of Asteroi
+  on the right side to destroy t
+  to keep them really focus when
+
+  You'll get a lot of Neutron As
+  very hard to deal with if you 
+  destroy them because the Neutr
+  use the Attack drone and just 
+  to the top left, down and back
+  everything in yoru path and yo
+
+  It's crazy and chaotic, but it
+
+    5. Clatetra
+  o-| I-n-f-o |-o
+  Cost: 23,800
+  Bronze: 1,000,000
+  Silver: 3,250,000
+  Gold: 7,500,000
+  Layout:
+  _________________
+  /                 \
+  /                   \
+  \                   /
+  \_________________/
+  Recommended Drone: Defend, Att
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This is a good old fashioned h
+  no tricks or traps here, but y
+  classic enemies: Weavers, Grun
+  plenty of Generators upping th
+
+  The Circle Method in short: Mo
+  fashion around the screen shoo
+  enemies gather behind you and 
+  room turn around and destroy t
+  This method works great, but I
+  this level was the Mutateds.
+
+  Mutadeds are very hard to see 
+  level and I often ran into the
+  there which of course resulted
+  sure how to tell you to avoid 
+  as a warning to you.
+
+  Any Drone that is helping you 
+  because of the volume of enemi
+  go to town.
+
+    6. Vireis
+  o-| I-n-f-o |-o
+  Cost: 33,825
+  Bronze: 1,750,000
+  Silver: 5,000,000
+  Gold: 30,000,000
+  Layout:
+        ________________
+     ___/                \
+    /                     |
+    /                      |
+   /                       |
+   |                        |
+   |         ______         |
+    \_______/      \_______/
+
+  Recommended Drone: Attack or T
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This level is extremely claust
+  annoying enemies like Mutators
+  is best to do is to position y
+  or left corner and keep your f
+  Enemies will spawn in these co
+  and most of the time when they
+  for the other side.
+
+  Switching sides periodically w
+  middle and attack in this fash
+  I recommend bringing the attac
+  your firepower on the mass and
+  with my back to a wall it does
+  wall. The Turret can be of hel
+  middle and starts taking enemi
+  time when it's relocating make
+  bit.
+
+  Essentially your going to want
+  Asteroid level because there a
+  enemies in a small area. Keep 
+  that appear in the middle beca
+  When I see these appear is ano
+  side being sure to take it out
+  because they like to appear ab
+  together.
+
+  Stay focused on keeping the en
+  your attack power on them. It'
+  you hit 30,000,000.
+
+    7. Bathex
+  o-| I-n-f-o |-o
+  Cost: 56,500
+  Bronze: 1,750,000
+  Silver: 4,500,000
+  Gold: 11,000,000
+  Layout:
+    /\
+   _|  |_
+   _/      \_
+  /          \
+  _|            |_
+  /                \
+  \_              _/
+  |            |
+  \_        _/
+   \_    _/
+   |  |
+    \/
+
+
+  Recommended Drone: Defend or A
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  _STRATEGY__
+  Right when you spawn something
+  you, this can be overwhelming 
+  seconds of invincibility at th
+  top or the bottom and move out
+
+  Now, this level likes to const
+  usuals to: Wanderers, Weavers,
+  Towards the Gold Medal point o
+  occasional Snake and a handful
+  to get really annoying, but up
+
+  You'll notice the 4 peaks in t
+  were key to my survival. I oft
+  but in this level I find that 
+  helps to corner yourself so yo
+  coming from the sides, however
+  in these peaks so you have to 
+  much time to form an escape pl
+
+  So, there were about 3 things 
+  and foremost was the circle me
+  inside part of this level is t
+  care of the enemies. As usual 
+  recommend the defend Drone to 
+  around.
+
+  This planet really doesn't hav
+  the big mass you accumulate be
+  up I like to take a break in o
+  towards the middle. This cause
+  into my guns and makes them ea
+  though, you need to keep a clo
+  peak.
+
+  When they spawn I just jet out
+  start circling again, or I jus
+  for a short time.
+
+  When the Repulsors start comin
+  want to back off the peak stra
+  them and they find your peak y
+  to run and it's either going t
+
+    8. Surtetra
+  o-| I-n-f-o |-o
+  Cost: 70,500
+  Bronze: 350,000
+  Silver: 750,000
+  Gold: 5,000,000
+  Layout:
+  Recommended Drone:
+  Starting Lives: 1
+  Initial Bombs: 0
+
+  _STRATEGY__
+  ...1 life level...
+   _______
+__/ Theta \_____________________
+Cost: 300,000
+Planets: 9
+    1. Lostris
+  o-| I-n-f-o |-o
+  Cost: 0
+  Bronze: 2,250,000
+  Silver: 3,250,000
+  Gold: 11,250,000
+  Layout:
+     ____
+   ____/    \____
+   /               \
+   /     _     _     \
+     |     / |   |  \    |
+     |    /  |   |   \   |
+    /    |__/     \__|    \
+   |      ___      __      |
+    \    |   \    /  |    /
+     |    \  |   |   /    |
+      \    \_|   |__/    /
+   \____      _____/
+    \____/
+  Recommended Drone: Sweep
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  _STRATEGY__
+  This is a pretty low key level
+  spawns and then an increasing 
+  on. As you can see by the layo
+  ring so we'll want to keep wit
+  sweep that is going to help pr
+
+  Lots of Darts, Spinners and We
+  annoying because they'll get t
+  blockades and when you get aro
+  side. This level seems like it
+  gone before it spawns more so 
+  really slow.
+
+  But keep with the circle metho
+  the middle as much as possible
+  it's really easy to get ambush
+
+    2. Vartetra
+  o-| I-n-f-o |-o
+  Cost: 0
+  Bronze: 3,000,000
+  Silver:    7,000,000
+  Gold: 20,000,000
+  Layout:
+   _______  _______
+   /       \/       \
+  |                  |
+   \                /
+   /                \
+  |                  |
+   \_______/\_______/
+  Recommended Drone: Your favori
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  _STRATEGY__
+  This is a pretty fun level and
+  fast. At the beginning you'll 
+  Weavers, but not to far in a M
+  will change.
+
+  Now, if you look at the explan
+  the Enemies Section ( [#ENEMI]
+  give us some great Mine Layer 
+  goes on more Mine Layers will 
+  oppurtunity for big points.
+
+  Alright, so basically here's h
+  The Drone you choose to bring 
+  because we are really going to
+  points. As enemies spawn you a
+  of circling so that they colle
+  right over some mines (you'll 
+  let the points flow in. If you
+  will make more sense to you th
+  is written there so I'm not go
+
+  Now, what we need to watch out
+  appearing up near 20k. You'll 
+  you do Repulsor's any other ti
+  for this level, but I'm giving
+  quite obnoxious when 4 or 5 st
+  the clutter.
+
+  This level is seriously all ab
+  your advantage.
+
+    3. Poreis
+  o-| I-n-f-o |-o
+  Cost: 42,550
+  Bronze: 1,000,000
+  Silver: 2,500,000
+  Gold: 6,000,000
+  Layout: B = Box/boundry, W = W
+ _____________   ______________
+|           b  |_| b        w  |
+|              b               |
+|           b      b           |
+|              b               |
+|           b      b           |
+|              b               |
+|           b      b           |
+|              b               |
+| w         b   _  b           |
+|______________| |_____________|
+
+  Recommended Drone: Attack or D
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This is an interesting level a
+  with Wormholes up to this poin
+  should be definition though in
+  other. In this level thats a g
+  is not much fun to navigate th
+  there are plenty of boxes ther
+  through a little maze.
+
+  I recommend bringing in the at
+  of Asteroids like to appear. T
+  you spend to much time on one 
+  go to the other side and find 
+  Most of the time they are just
+  but you want to try and spread
+  level so one side doesn't get 
+
+  Be aware that enemies can go t
+  out to close to it may not be 
+  Enemies will not purposefully 
+  will try and traverse through 
+  Wormhole for escape when you n
+
+  Not to far in the level Snakes
+  can be decently annoying with 
+  you'll need to take care of th
+  Defend Drone would probably be
+  concerned with getting overwhe
+  Repulsor's. If all else fails 
+
+  One final note is that when yo
+  the temporary invincibility yo
+  that to your advantage if you 
+
+    4. Flipente
+  o-| I-n-f-o |-o
+  Cost: 43,625
+  Bronze: 2,000,000
+  Silver: 6,000,000
+  Gold: 12,000,000
+  Layout: Lots of flippers, B = 
+   ____________
+  ___|            |___
+  |       b    b       |
+  |                    |
+  |       b    b       |
+  |___              ___|
+   |____________|
+  Recommended Drone: Sweep or De
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This planet isn't to bad, the 
+  stuck behind the flippers. Wha
+  a point to get in there way at
+  I actually got them all pushed
+  level and then I just did U pa
+  the right, bottom and left qua
+  time.
+
+  I recommend the sweep Drone be
+  stuck behind them it just may 
+  part you've got a lot of stand
+  constant flow so this level di
+  worry about.
+
+    5. Rocduo
+  o-| I-n-f-o |-o
+  Cost: 53,675
+  Bronze: 1,200,000
+  Silver: 2,600,000
+  Gold: 5,000,000
+  Layout:
+    _______________________
+   /                       \
+   |                        \
+  |     /\                   \
+ |     \/                    |
+  |            /\            /
+   \           \/           |
+   /                       /
+   |                       /
+    \_____________________/
+   Recommended Drone: Defend
+  Starting Lives: 1
+  Initial Bombs: 0
+
+  o-| S-t-r-a-t-e-g-y |-o
+  One of the easier single life 
+  constant Meteor Showers to wat
+  all Darts as far as other enem
+  to help take care of the Meteo
+care of enemies and vice versa.
+
+  There are two blockades in the
+  pretty decent amount of space 
+  as with other Meteor Shower le
+  the shower and it'll never bot
+  enemies as you do it, but ther
+  on this planet.
+
+    6. Orbduo
+  o-| I-n-f-o |-o
+  Cost: 54,700
+  Bronze: 1,000,000
+  Silver: 2,500,000
+  Gold: 4,250,000
+  Layout: The slashes in the mid
+    are also some little triangl
+    but they would have made the
+  awkward so I left them out.
+   _
+   |  \____________
+   \               \
+   |     /     \   \
+   |    /       \   |
+   |                |
+   |                |
+   |    \       /   |
+   \    \     /    |
+    \____________  \
+              \_|
+  Recommended Drone: Attack, Def
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Black Hole levels all seem the
+  boring. You can't really do mu
+  pull from the Black Hole so I 
+  bottom and face "upstream" or 
+  Hole so that the enemies are a
+  behind. With this one in perti
+  the left blocade and shoot up 
+  will ever get to you from that
+  things coming down on top of y
+  especially).
+
+  To me though there's nothing m
+  better idea, by all means, sen
+
+    7. Clapente
+  o-| I-n-f-o |-o
+  Cost: 65,950
+  Bronze: 2,500,000
+  Silver: 6,250,000
+  Gold: 18,000,000
+   Layout: Really big square
+  Recommended Drone: Attack or D
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Nothing I say here is really g
+  because there are no boundries
+  those wonderful enemies here t
+  Gravity Wells, Mutators, Gener
+  worst of all, Repulsors. The R
+  in. Circle Method applies, but
+  can give.
+
+    8. Bathepta
+  o-| I-n-f-o |-o
+  Cost: 97,900
+  Bronze: 2,000,000
+  Silver: 6,250,000
+  Gold: 19,000,000
+  Layout: Kinda like a Cog
+  Recommended Drone: Attack or D
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This is a pretty hard level be
+  really isn't much room to move
+  avoid the Tiny Spinners and Re
+  Circle Method, but the spawns 
+  it really isn't a very easy me
+
+  The reason I recommend the Att
+  these crazy spawns. It's up to
+  focus on doubling the attack w
+  attack to the front and back a
+  are equally helpful, but eithe
+  difficult.
+
+  About the time of the Silver m
+  coming out just as the last fe
+  annoying with all the Tiny Spi
+  crazy from all the Spinners yo
+
+  I didn't have a ton of luck an
+  get up to the Silver Medal, bu
+  I took in the Attack Drone per
+  to the bottom while I was invi
+  out the Darts. From here I hun
+  when the bunches of enemies wo
+  of them and drive straight thr
+  the opposite corner and then t
+ I could to repeat the process.
+
+  When the Repulsor's started co
+  them and keep up the same stra
+  back to the other side they wo
+  take them out in a quick sweep
+  bit, this stage won't be easy 
+
+    9. Varpente
+  o-| I-n-f-o |-o
+  Cost: 123,500
+  Bronze: 2,000,000
+  Silver: 5,250,000
+  Gold: 13,000,000
+  Layout: A big Cog (I know I sa
+    but this one literally is a 
+  Recommended Drone: Defend or A
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This planet has a lot more roo
+  a lot easier to navigate aroun
+  similar in design. It's got 8 
+  shape and you are going to wan
+  same reason I've always preach
+
+  This planet has plenty of room
+  to gather enemies and let the 
+  annihilate yourself. Now, I'm 
+  said and tell you that you may
+  peaks to get in line with the 
+  circling) and then head straig
+  But I still stand firmly on th
+  out in those areas.
+
+  With the Defend drone at your 
+  pretty easy time. I didn't do 
+  this planet or else I'd write 
+  over doubled the Gold Medal ju
+  care of things as they come. A
+  good friends with your Defend 
+  it to your advantage.
+
+   _______
+__/ Kappa \_____________________
+Cost: 550,000
+Planets: 8
+    1. Virtris
+  o-| I-n-f-o |-o
+  Cost:
+  Bronze: 1,000,000
+  Silver: 4,500,000
+  Gold: 9,000,000
+  Layout:
+   _____________
+   /             \
+   /               \
+   |            /\   \
+   \           \/    |
+   |                |
+   |        /\     /
+   |        \/    |
+   /              /
+   \_____________/
+  Recommended Drone: Attack or D
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  The layout of this level just 
+  trust me that it won't let you
+  worry about here, just a slew 
+  want to watch for Gravity Well
+  can both cause problems. But r
+  is going to be on the Mutators
+
+  As you circle around don't let
+  the Mutaters can make a real m
+  Also, because there isn't a to
+  to do when a mass of enemies b
+  the direction that I'm circlin
+  take them out.
+
+  The other little trick I like 
+  around one of the middle bound
+  masses get stuck inside of the
+  focus on taking out the Genera
+  you should be fine here.
+
+    2. Zootris
+  o-| I-n-f-o |-o
+  Cost:
+  Bronze: 300,000
+  Silver: 800,000
+  Gold: 3,500,000
+  Layout: This level has to much
+    offhand that it's got A LOT 
+  Recommended Drone: Sweep
+  Starting Lives: 3
+  Initial Bombs: 0
+
+  o-| S-t-r-a-t-e-g-y |-o
+  There isn't much breathing roo
+  of enemies to push you around 
+  with tight levels bring in the
+  With most I also recommend sta
+  enemies build up there that yo
+  choice but to get in there and
+
+  Almost all the enemies spawn s
+  you'll get some out of the cor
+  you don't let them spawn on to
+  appear in the middle to so if 
+  wave after wave you may want t
+  take out.
+
+  Not to far into the level you'
+  tight Meteor Showers. Literall
+  Don't be afraid, because they 
+  be able to just to hang out by
+  completely avoid it because th
+  screen.
+
+  Main strategy I like to go for
+  The enemies have to filter the
+  so use this to your advantage.
+  openings firing shots into it 
+  to it they'll just get blown u
+
+  If you hang out by one of the 
+  then enemies will filter down 
+  kill them twice as fast. If yo
+  start getting to close just ba
+  care of them or relocate to an
+  with you you'll also be in luc
+  (even if they are behind a bou
+
+  So, use all these boundries to
+  filter in to where you want th
+  in the middle areas just get i
+  out then retreat back to the s
+
+    3. Roctris
+  o-| I-n-f-o |-o
+  Cost: 55,000
+  Bronze: 800,000
+  Silver: 1,600,000
+  Gold: 4,000,000
+  Layout:
+    __________
+   /          \____
+   /                \
+      |                  \
+     |         __        \
+     |        /  \        |
+     |        \   \       |
+      \        \__/      /
+       \__              |
+    \          __/
+    \________/
+   Recommended Drone: Defend
+  Starting Lives: 1
+  Initial Bombs: 0
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Alright, as 1 life level's alw
+  here's what happens. The level
+  Meteor Showers come. You get a
+  most part that is all you real
+  little ways in you actually st
+  opposite sides at the same tim
+  starts getting really tricky b
+  showers at the same time while
+
+  Defend is pretty much indispos
+  the Meteor showers on one side
+  the other side. Just watch the
+  can make them a little harder 
+  Grunt or Wanderer. But really 
+  planet.
+
+    4. Lostetra
+  o-| I-n-f-o |-o
+  Cost: 70,000
+  Bronze: 1,500,000
+  Silver: 4,500,000
+  Gold: 9,500,000
+  Layout: Big square with lots o
+  Recommended Drone: Defend or A
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This levels got some crazy bou
+  a big square so treat it like 
+  to all of the weird boundries 
+  plenty of space to move around
+  far between (minus the Generat
+
+  So, I basically went with the 
+  outside edge and then whenever
+  got empty I went through one o
+  those enemies.
+
+  Often Generators will spawn on
+  be sure to get over there and 
+  they spawn or take them out. T
+  on this planet due to the boun
+  cornered and if you get corner
+  you can't kill them and won't 
+  problem that occurs is that yo
+  from destroying Generators spa
+
+  As long as your careful though
+  and keep enemies out of your d
+  trouble taking care of this pl
+
+    5. Surhex
+  o-| I-n-f-o |-o
+  Cost: 97,500
+  Bronze: 300,000
+  Silver: 1,000,000
+  Gold: 3,000,000
+  Layout:
+   __/\__
+  |      |
+  /        \
+  \        /
+  |__  __|
+   \/
+  Recommended Drone: Defend or S
+  Starting Lives: 1
+  Initial Bombs: 0
+
+  o-| S-t-r-a-t-e-g-y |-o
+  This is a small stage Neutron 
+  many of the stages like this t
+  enough Geoms to get upgraded t
+
+  I'm torn between whether I do 
+  to be honest because most of t
+  the Sweep taking care of enemi
+  general strategy with the Nuet
+  slow is to position myself in 
+  coming for me do a little "c" 
+  keep shooting towards where I 
+  sweep. It's not perfect, but i
+
+  I'm really quite bad at this s
+  have to tell you. It takes con
+  keep practicing and you should
+
+    6. Maspente
+  o-| I-n-f-o |-o
+  Cost: 107,500
+  Bronze: 8,000,000
+  Silver: 17,000,000
+  Gold: 22,500,000
+  Layout:
+   _______
+  /       \______
+  |                \__
+  \                  \
+   \__                |
+   \__             |
+    \            |
+    \__________/
+
+   Recommended Drone: Attack
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+  Another Asteroid level only th
+  Snakes and a handful of Repuls
+  relatively small even compared
+  levels, but the same rules app
+  the sides to keep them concent
+  your focus evenly over both si
+  up more than the other. Bring 
+  everything out twice as fast a
+  take care of them then go back
+
+  That's it in a nutshell, if yo
+  back to some of the earlier As
+  rules apply.
+
+    7. Orbtris
+  o-| I-n-f-o |-o
+  Cost: 155,000
+  Bronze: 1,000,000
+  Silver: 3,250,000
+  Gold: 7,000,000
+  Layout:
+  Recommended Drone:
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+
+
+    8. Flihex
+  o-| I-n-f-o |-o
+  Cost: 200,000
+  Bronze: 1,500,000
+  Silver: 3,250,000
+  Gold: 7,250,000
+  Layout:
+  Recommended Drone:
+  Starting Lives: 3
+  Initial Bombs: 3
+
+  o-| S-t-r-a-t-e-g-y |-o
+
+   ________
+__/ Lambda \____________________
+Cost: $40 - Connect to Wii game
+to unlock this galaxy Planets: 7
+My DS doesn't seem to want to
+connect to my Wii, sooo I'll
+have this posted up as soon as I
+can get that worked out.
+
+
+ o------------------------------
+ |/                             
+ |                              
+ 0______________________________
+ \                              
+ o------------------------------
+Most people put this at the
+beginning, but I figure that no
+one really cares to read each
+versions updates, so I put it
+down here near the bottom. If
+you're reading it, rock on.
+
+~~~~ Version 1.1 __ June 21,
+2008 ~~~~ So you can see this
+guide hasn't been updated in
+about 6 months now, and
+throughout that time a lot of
+people have sent me a lot of
+info that I haven't gotten
+around to adding. So, here it
+is, all the emails I've gotten
+and useful info added in. Sorry
+for the delay, enjoy it, keep
+sending it.
+
+~~~~ Version 0.81 __ January 10,
+2008 ~~~~ : Had some spacing
+issues for some reason, fixed em
+: Had "Droid" where it should
+have been "Drone", fixed :
+Revised Weaver Strategy :
+Revised thoughts on "Stay away
+from corners" : Snipe Drone info
+confirmed
+
+~~~~ Version 0.8 __ January 9,
+2008 ~~~~ : Up to Lambda Galaxy
+mostly finished (minus some
+single life levels) : Had some
+killer Mine Layer strategies
+sent in and added : Costs of
+most planets added : Tips and
+Tricks added
+
+~~~~ Version 0.7 __ January 8,
+2008 ~~~~ : Some more planets
+done in Galaxy "Eta" : Some
+basic info put up : Some extra
+enemy stats put up
+** Progress has been halted for 
+   pts on planet Vireis in Eta a
+   and find out if you can get o
+   findings as soon as I'm done.
+
+~~~~ Version 0.6 __ January 7,
+2008 ~~~~ : Up through galaxy
+"Eta" mostly completed
+
+~~~~ Version 0.5 __ January 5,
+2008 ~~~~ : Basic info and data
+for everything in the game.
+
+ o------------------------------
+ |/                             
+ |                      About Me
+ 0______________________________
+ \                              
+ o------------------------------
+First and foremost thanks to
+anyone reading this guide
+especially those of you who have
+wandered down to this section to
+read more about me. I love
+playing games and I also love
+making games. I haven't made any
+official games yet, but I'm
+working on it. I am a programmer
+and I love working with
+Microsoft's XNA, but I also love
+doing web programming.
+
+I run a website at
+http://www.awesomeghost.com.
+It's basically a blog site now
+days. It's been through a lot of
+changes and updates. I want to
+get more tutorial type articles
+posted up, mainly for XNA stuff,
+but I like talking about games
+and life to.
+
+I don't have a lot of time to
+make guides being as I am going
+to school and also working on
+making games and websites. Guide
+writing is very time consuming
+and there are a number of people
+who write more in depth guides
+than I do and get them posted a
+lot quicker than I do so there's
+really no point in me trying
+most of the time. However,
+Galaxies didn't have a guide
+when I started this one (a full
+guide that is) so I decided to
+put some effort into one and
+post it up.
+
+It's a really fun game to play
+and I'm getting close to have
+Gold Medals on all planets so I
+felt qualified enough to write
+up some info about the game.
+Hopefully some of you reading
+this can contribute some great
+strategies to really mold this
+into a really awesome guide. I
+don't think I have the best
+strategies, but maybe I actually
+know more than I realize.
+
+If you'd like to give some
+feedback or send a contribution
+feel free to do so. You can
+contact me at:
+ahhsumx@gmail.com. Just make
+sure you write something about
+Geometry Wars in the title of
+the email or I may delete it
+without even looking at it.
+
+For now, enjoy this guide, enjoy
+this game, check out my site and
+send me some awesome strategies
+to post in here. Thanks!
+
+ o------------------------------
+ |/                             
+ |                              
+ 0______________________________
+ \                              
+ o------------------------------
+Thanks to everyone reading.
+
+Thanks to GameFaqs for hosting.
+
+Thanks to Kuju and Sierra for
+making Geometry Wars: Galaxies.
+
+Thanks to everyone who is
+sending me emails helping with
+contributions.
+
+Don't post this guide on your
+personal site; contact me if you
+want to do so.
+
+This guide is copyright me,
+ahhsumx, it is my work, but you
+are free to use it for your own
+enjoyment.
+
+Guide started: January 5, 2008
+Finished: January 10, 2008

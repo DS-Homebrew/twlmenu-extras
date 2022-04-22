@@ -1,0 +1,4282 @@
+ _______________________________
+|                           Fina
+|                            DS 
+|                              1
+| Not-Even-Pretending-to-be-
+Spoiler-Free Guide by
+Moogle_Warrior |
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+________
+Contents\_______________________
+To find something specific, use
+CTRL+F and paste in the shortcut
+(with brackets)
+    0. Introduction [INTR]
+    1. Version History [VERS]
+    2. Characters [CHAR]
+    3. Begginer's Guide [GAME]
+  a. Battle [BATL]
+  b. Magic System [MSYS]
+  c. Job System [JSYS]
+  d. Mognet [MAYL]
+    4. Walkthrough [FIII]
+    5. Extras [EXTR]
+    6. Frequently Asked Question
+    7. Contact Me [KUPO]
+    8. Legal Stuff [LEGL]
+    9. Thanks [TTFN]
+___________________
+[INTR] Introduction\____________
+
+Myself:
+
+Hello, my name, for all intents
+and purposes, is Moogle_Warrior.
+This is my second guide for
+GameFAQs. My other guide is for
+Tales of Phantasia, which is on
+hiatus due to a tragedy. My
+narrations through the guide are
+split into paragraphs by step,
+so you don't need to scan
+through a huge paragraph to find
+where you're stuck. I also add a
+crapload of commentary, which
+apparently makes for an
+interesting read. Just don't
+read ahead, as spoilers are
+often the best way to explain
+where to go next.
+
+Everything you wanted to know
+but were afraid to ask about
+Final Fantasy III:
+
+Final Fantasy III. It would be
+no exaggeration to say that the
+series would be nowhere without
+it. Just about every basic
+element of other FF games comes
+from FFIII. It also wasn't until
+1990, the year FFIII was
+released in Japan, that Square
+had the funds to export one of
+it's best-sellers, Final
+Fantasy. Final Fantasy II was
+also being translated for a
+later release. Then the Super
+Famicom happened, launching
+Nintendo into the realm of
+16-bit. Final Fantasy II and
+possibly III were cancelled in
+the US and FFIV was released
+instead, as, ironically, Final
+Fantasy II. The fifth
+installment in the quickly
+growing series was also never
+released stateside, but the
+sixth was released as Final
+Fantasy III a few years later.
+By the time they reached the
+seventh, Square decided to redo
+the numbering and release Final
+Fantasy VII as... Final Fantasy
+VII.
+
+There is a point to this tale.
+
+Suddenly, there was a huge hole
+in a series many gamers had
+grown up with. As a solution,
+when Final Fantasy I and II were
+remade for the WonderSwan Color,
+an abysmal failure of a handheld
+that never had much popularity.
+Those versions were ported to
+Sony's new PlayStation as a
+compilation called Final Fantasy
+Origins, which was released in
+the US with proper titles. A
+little while before, IV, V, and
+VI were re-released on
+compilation discs as well, but
+only as ports of the original
+SFC versions. If you know how to
+count, you'll see the gap.
+
+Final Fantasy III, being the
+power-hungry beast that it is,
+was too difficult to port
+without a complete reprogram,
+due to coding that only ran on
+the Famicom. The WonderSwan port
+was abandoned, so the possible
+PSX port also died before
+conception. The end result was
+that FFIII was never going to be
+ported to a new system, which
+wasn't a problem in Japan, it
+was a beloved classic.
+
+2004, Nintendo announces the DS,
+it's latest handheld. The now
+merged Square-Enix jumps on the
+bandwagon and announces Final
+Fantasy III. No more news until
+2005, when the development
+progress is slowly revealed,
+full 3D, not sprite based. Fans
+go wild. "Finally! Kefka in 3D!"
+More news. The original FFIII,
+not FFVI which was released as
+FFIII the first time. It is
+revealed to be a complete
+reprogram, with extra storyline
+elements and four hero
+characters with distinct
+personalities. Time passes
+slowly as fans anticipate a
+release...
+
+2006, August 24, released in
+Japan. The entire country stops
+and runs to the nearest game
+store.
+
+2006, November 14, released in
+the US. Reviewers expect the
+Hope Diamond but get a different
+kind of gem. Sucks to be them.
+You, however, assuming you
+actually have the game now, are
+in for one of the greatest RPGs
+of all time.
+______________________
+[VERS] Version History\_________
+
+In the next release:
+-Boss stats
+-Formatting adjustments (for com
+
+4/19/07 1.1 Full Walkthrough+ -
+It's been put off long enough
+-Minor ammendments to some secti
+-A few more typos fixed (I'll ne
+-Sunken Cave optional level walk
+-Troll Tales Episode 2 added to
+-Game Systems section replaced w
+
+1/6/07 1.0 Full Walkthrough -
+Happy New Year -Main Guide
+complete -Minor section updates
+-FC-DS changes guide complete (a
+-ALL TYPOS CORRECTED This marks
+the completion of the guide.
+
+11/26/06 0.75 Release two-and-a-
+half -Sections revised slightly
+with -No progress on the guide,
+yet.. -Extra rules added to the
+"Conta
+
+11/23/06 0.7 Second Release -
+Happy Thanksgiving -Minor text
+clean-up in the Prol -Complete
+guide up until the Cav -More
+Characters added -Partial Job
+descriptions and re -Most Shops
+have been listed -FC to DS
+changes section added, -Minor
+corrections to the above
+
+11/18/06 0.1 Initial Release
+-Basic formatting
+-Complete Prologue guide
+-Partial character list
+_________________
+[CHAR] Characters\______________
+
+The Heroes: Descriptions are
+from the manual.
+
+Luneth: An orphan raised by Nina
+and Elder Topapa in the village
+of Ur. Adventurous by nature,
+his curiosity gets the better of
+him as he tumbles into a hole
+created by the great
+earthquake...
+
+Arc: Another orphan raised by
+Topapa and Luneth's best friend.
+Unlike Luneth, he prefers
+reading over gamboling in the
+wild. His studies endow him with
+great knowledge that more than
+makes up for his shyness.
+
+Refia: Raised in Kazus by the
+mythril smith Takka, whose
+rigorous training led her to run
+away from home...again.
+
+Ingus: A loyal soldier of King
+Sasune's army, he narrowly
+escaped the Djinn's curse. His
+primary concern is finding the
+missing Princess Sara.
+
+Additional Party Members:
+
+Sara: The princess of Sasune,
+the small kingdom Ur is in.
+Abilities: Casts Cure Casts Aero
+
+Cid: A maker of Airships, friend
+to King Argus Abilities: Casts
+Fire Attacks
+
+Desch: An adventurer who travels
+the continent. He can only
+remember his name. Abilities:
+Casts Thundara Attacks
+
+Aria: A priestess of the Temple
+of Water Abilities: Casts
+Protect Casts Cura
+
+Alus: The ten-year-old prince of
+Saronia Abilities: Casts Aero
+Casts Confuse
+
+Doga:
+One of Noah's three apprentices
+Abilities:
+Casts Flare
+Casts Firaga
+
+Unei: An apprentice of Noah,
+master of the land of dream
+Casts Haste Casts Holy
+________________________
+[GAME] Begginner's Guide\_______
+
+Battle System_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [BATL] Final Fantasy
+III has the most straightforward
+battle system in RPG history.
+Your party stands at one end,
+the monsters at the other, and
+each participant's
+speeddetermines the turn order.
+Unlike Square's later turn-based
+game, Treasure of the Rudras,
+there is no indicator of turn
+order, so you just have to
+guess.
+
+Boss AI: They have a new (or
+perhaps old) trick in the
+remake, multiple attacks per
+turn. These can be either a
+physical attack and a spell, a
+special attack and a spell, or
+two physical attacks. They
+cannot use a special attack or
+magic twice per round. If they
+could, the game would be nearly
+impossible. (See section The
+Final Battle)
+
+DS Version Tweaks:
+ - Less monsters. The original v
+   the DS it's only 3 (except fo
+ - Stylus Targetting. The stylus
+   list, then select the enemy y
+   selection box around the mult
+ - Enemies can target someone wh
+   Phoenix Down on Arc only to h
+   after).
+
+Magic System_ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[MSYS] Final Fantasy
+III uses an archaic magic system
+that debuted in the original
+Final Fantasy. Rather than
+having a single stat for MP
+(like every other RPG in the
+history of gaming, except D&D)
+each magic-uysing character has
+one MP value for each spell
+level. This means that even
+running of castings of Cure, you
+can still cast Thunder because
+it's at a different spell level.
+Note that a higher spell level
+does not always mean that a
+spell is stronger.
+
+Magic Types:
+    -White Magic has mostly spel
+ minimum of attack spells.
+    -Black Magic has mostly spel
+ status.
+    -Summon Magic has different 
+ to spells from the other two ty
+
+For a character to use a
+specific spell, they must have
+both the ability to cast that
+magic type and at least one MP
+for the spell's level.
+
+Job System_ _ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[JSYS] Final Fantasy
+III allows you to change the Job
+of your characters, a system
+that has been ripped off in many
+RPGs since. Jobs change the
+abilities and stats of each
+character.
+
+A Balanced Party: Ideally, a
+party should consist of two
+fighters and two mages. The Red
+Mage class counts as both.
+Basically, you always need
+someone who can cast White Magic
+and someone who can cast Black
+Magic.
+
+Job Levels: From what I can
+tell, Jobs gain levels based on
+the number of battles they're
+used in. The number of battles
+needed goes up with each level,
+and the slower a Job develops,
+the longer it can take for it to
+level up. The earliest Jobs
+level up the fastest, while
+later Jobs can take a while to
+level up.
+
+The Jobs: Recommended jobs are
+starred (*).
+
+Default:
+Freelancer
+   Pros: Equip most everything
+  Basic L.1 Magic
+   Cons: Low MP
+   The Freelancer class is what 
+   Red Mage class does everythin
+
+First Set (Wind Crystal):
+Warrior
+   Pros: High attack/defense
+   Cons: No exclusive weapons/ar
+   Since fighter classes aren't 
+   downside to this class, excep
+   exclusive to specific classes
+Monk
+   Pros: No weapons necessary
+   High damage from back row
+   Cons: Pitiful defense/m-defen
+   The Monk is what I call a bac
+   damage from the back row than
+   Magic defense, however, is th
+   death to Monks.
+*White Mage
+   Pros: High MP
+   Cons: Low defense
+  Weak attack (compared to warri
+   The White Mage heals. That's 
+   either row, and White Magic i
+   status attacks don't work all
+   high MP for seven levels of m
+   of the game. The spell Aero i
+   it is only useful against fly
+   undead enemies, but why use C
+   boss fight?
+Black Mage
+   Pros: High MP
+   Cons: Low defense/attack
+   The black mage can do lots of
+   an enemy with, it's gone. Onl
+   hard sometimes to last long e
+*Red Mage
+   Pros: Extremely similar to Wa
+  5 levels of White and Black Ma
+   Cons: Low MP
+  Few exclusive items
+   The Red Mage, starting out, i
+   do everything a Mage does wit
+   6 spells until much later in 
+   Mage stops getting armor upgr
+   Red Mage in my party, however
+Thief
+   Pros: Steal items
+Unlock doors without Magic Keys
+   Cons: Low attack and defense
+   From Michael Gilliam:
+   While the thief seems to be a
+   I used the thief until Job Cl
+   butt in a boss battle.  While
+   the thief was getting 30-34 h
+   is disadvantaged by his lack 
+   problem there are boomerangs 
+   a defense bonus.
+   NOTE: The Thief character has
+  the unlocking ability to work.
+
+Second Set (Fire Crystal):
+*Knight
+   Pros: Upgrade of Warrior
+  L1 White Magic
+  Exclusive armor
+  Takes damage for allies
+   Cons: Takes damage for allies
+   The knight is like a Warrior,
+   leap into harm's way. It gets
+   Fighter classes come along la
+   when the best weapons are all
+   he takes when Defending someo
+Scholar
+   Pros: Scan enemies
+  L3 White/Black Magic
+  Double item damage
+   Cons: Low attack/defense
+  Very low MP
+   The Scholar is necessary for 
+   useless. It can double the da
+   many of those, anyway.
+Geomancer
+   Pros: Terrain command
+  High-ish attack
+   Cons: Pitiful defense
+   Another high-damage, low defe
+   Terrain command, though which
+   only downside to Terrain is t
+   low defense makes it hard to 
+Ranger
+   Pros: Ranged attack (same dam
+   Cons: Needs ammo to attack
+   I never used the Ranger. Ther
+   have four party members.
+
+Third Set (Water Crystal):
+Viking
+   Pros: Highest defense
+  Exclusive armor
+   Cons: Slow development
+   I never used the Viking, eith
+   balanced party, and the two b
+*Dragoon
+   Pros: High attack/defense
+  Exclusive (and really good) ar
+   Equip highest-level armor
+  Jump command makes user untarg
+   Cons: Jump command makes user
+   The Dragoon is awesome, and a
+   and fast without Jump, and Ju
+   hit by enemies. The flipside 
+   healed while Jumping.
+*Dark Knight
+   Pros: High attack/defense
+  Exclusive weapons/armor (exclu
+  Do MAJOR damage to all enemies
+   Cons: Souleater costs HP
+  Souleater is slow
+   The Dark Knight can do all so
+   kill enemies in one hit if yo
+   is that doing so costs about 
+   a Blood Sword, though, and it
+Evoker
+   Pros: Summon spells
+  Same MP for L2-L5
+   Cons: Low attack/defense
+  Summons (except Titan) can do 
+   Summons can do either major d
+   Other than the coin flipping 
+   seeing as its stats are no be
+Bard
+   Pros: Status attacks
+   Cons: Low attack/defense
+   From Stephen Matthews:
+   The Bard isn't terribly handy
+   your party with the melodies 
+   those are overshadowed by the
+   Its attack power is negligibl
+   variation of Attack Power bet
+   every job level, I'd avoid th
+
+Fourth Set (Earth Crystal):
+Black Belt
+  Pros: Huge attack combo
+  Cons: Low defense
+	  Lousy armor
+  I tried having a Black Belt br
+  capable of equipping Crystal M
+  ultimate armor.
+*Devout
+  Pros: Funky (but high) MP
+  Nekomimi!
+  Cons: Punching bag
+  The Devout is the upgrade to t
+  compared to other mage Jobs. I
+  for many casts of Curaga, whic
+Magus
+Pros: Funkier MP than the Devout
+  Cons: Seriously, it's a mage, 
+  The Magus is the Black Mage up
+  Devout, which makes no sense a
+  completely different in terms 
+  and Sage are better choices fo
+*Summoner
+  Pros: High Summons
+  Cons: Low attack/defense
+  The Summoner, contrary to its 
+  Summons. This means Odin becom
+  power.
+Sage
+  Pros: All Black/White Magic
+  Cons: Lower MP than Devout or 
+  Sssssslllllooooowwwwwwww......
+  The Sage can cast both Black a
+  better than the Devout, right?
+  handful of Jobs that recieves 
+  slow, slow final boss is faste
+*Ninja
+  Pros: Huge attack combo
+	  Same weapons as Dark Knight
+  Cons: Rebalanced from the orig
+Only slightly better armor than
+Black Belt
+  Originally, the Ninja was the 
+  Weapon or Armor, including exc
+  however have the Throw command
+  game with the right items.
+
+Mognet_ _ _ _ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[MAYL] In every town
+you'll find a Moogle standing
+around. What can this Moogle do
+for you? Not much, unless you
+have friends.
+
+Getting Started: First off, you
+need a wireless router with an
+open connection available. Then,
+the easy part, talk to a moogle
+and select "Address Book", then
+"View Friend Code". It will
+connect to the WFC and register
+a Friend Code for you, which it
+will display. The code serves as
+your address in Mognet. There is
+an annoying catch to friend
+codes that, while it keeps you
+safe from stalkers, also makes
+connecting with people you know
+in real life a chore.
+
+Sending Mail: Step 1: Register a
+friend's code Step 2: Connect to
+the WFC at the same time as said
+friend to confirm codes Step 3:
+Select "Send Mail" to "A Distant
+Friend" Step 4: Write the
+message, and send it Step 5:
+Call them up or e-mail them to
+check their Mognet inbox, which
+ruins the
+  point but gets them their mail
+
+Communicating with NPCs: You can
+send 1 letter per hour (you
+don't get to write it) and
+you'll get only 1 reply until
+you start using Mognet with real
+people. "Use this gimmicky
+system or we won't give you
+Ultima Weapon!" Bastards.
+Eventually, your correspondence
+with NPCs will net you some
+short side quests and a bonus
+boss or two. You can also start
+getting the Ultimate Equipment
+for Jobs you've mastered.
+
+I will never write guides for
+the side quests. Tough. I also
+will not give out my friend code
+to strangers (meaning you,
+readers, sorry), beause the
+system doesn't work that way.
+__________________
+[FIII] Walkthrough\_____________
+
+  Prologue: The Four Warriors As
+ A. Crystal Cave................
+ B. Wind Crystal................
+ C. Ur..........................
+ D. Kazus.......................
+ E. Cid's Airship...............
+ F. Castle Sasune...............
+ G. Sealed Cave.................
+  Chapter 1: The Journey Begins.
+ A. Castle Sasune...............
+ B. Kazus.......................
+ C. Canaan......................
+ D. Dragon's Peak...............
+ E. Tozus.......................
+ F. Tozus Tunnel................
+ G. Vikings' Cove...............
+ H. Nepto Temple................
+   Chapter 2: Desch's Destiny...
+ A. Vikings' Cove...............
+ B. Tokkul......................
+ C. Village of the Ancients.....
+ D. Living Woods................
+ E. Castle Argus................
+ F. Gulgan Gulch................
+ G. Tower of Owen...............
+   Chapter 3: The Crystal of Fir
+ A. Gysahl......................
+ B. Dwarven Hollows.............
+ C. Subterranean Lake...........
+ D. Dwarven Hollows.............
+ E. Molten Cave.................
+ F. Fire Crystal................
+   Chapter 4: The Tyrant and the
+ A. Dwarven Hollows.............
+ B. Castle Hein.................
+ C. Castle Argus................
+ D. Canaan......................
+   Chapter 5: The Outside World.
+ A. Wrecked Ship................
+ B. Temple of Water.............
+ C. Cave of Tides...............
+ D. Water Crystal...............
+   Chapter 6: The Man in Gold...
+ A. Amur........................
+ B. Sewers......................
+ C. Goldor Manor................
+   Chapter 7: Siege From Within.
+ A. Duster......................
+ B. Saronia.....................
+ C. Dragon Spire................
+ D. Saronia.....................
+   Chapter 8: The Apprentices of
+ A. Replito.....................
+ B. Doga's Manor................
+ C. Cave of the Circle..........
+ D. Temple of Time..............
+ E. Unei's Shrine...............
+ F. Ancient Ruins...............
+ G. Falgabard...................
+ H. Cave of Shadows.............
+ I. Doga's Grotto...............
+   Chapter 9: Eureka, The Forbid
+ A. Earth Crystal...............
+ B. Ancient's Maze..............
+ C. Eureka, The Forbidden Land..
+   Chapter 10: This is the Last 
+ A. Crystal Tower...............
+ B. World of Darkness...........
+ C. Final Battle................
+ D. Epilogue....................
+   Master Summons (and more!)...
+ A. Odin, the Sealed Knight.....
+ B. Leviathan, the Sea King.....
+ C. Bahamut, King of Dragons....
+ D. Sunken Cave.................
+
+        _______________
+________________________________
+  The Four Warriors Assemble|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Crystal Cave_ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[STRT] This is an
+extremely linear level, but
+whatever.
+
+Immediately after hitting New
+Game, Luneth will plummet
+straight down onto the lower
+screen. You'll be prompted to
+enter his name. Afterwards,
+he'll run forward and be
+attacked by Goblins. This is a
+basic battle, you can just
+attack them and they'll die.
+
+Move up and snag the two chests
+on either side. Continue upward
+and Luneth will spot a strange
+rock. Yeah, it's strange, it's
+sparkling... Press A on it and
+it'll remove the right wall.
+Continue through and snag the
+Longsword in the chest. Then
+head through the door.
+
+Once again, there is a chest to
+each side. One has a potion and
+the other has an Antarctic Wind,
+save it for later. Move up and
+take the right fork first.
+You'll find an odd-colored
+spring. What to do: drink it!
+Note: please do not drink funny-
+colored water in reality, you'll
+get Hepatitis or something.
+
+Now go back and head left. Go
+through the door to the next
+area.
+
+Wind Crystal_ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[WIND] All you can do
+is move up. You'll be ambushed
+by an evil creature; Boss time!
+
+Boss: Land Turtle
+My Level: 2
+Rewards: 500 gil
+  20 exp
+All you can do here is attack
+and heal when you hit critical.
+You should only need 1 potion.
+
+After you beat it, Text will
+start appearing on the upper
+screen. Luneth will, of course,
+look up to read it. Oy. He'll
+turn around and figure out the
+Crystal's talking to him. After
+some talk about darkness and
+equilibrium, he'll be told to
+find the others who share his
+destiny. He'll then be warped
+out of the level.
+
+Dazed and confused, you'll find
+yourself to the world map. SAVE!
+Head south and enter the
+village.
+
+Ur_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[BABL] Weapon Store:
+Armor Store:
+  Dagger                 60     
+  Longsword             100     
+  Staff                  40     
+  Bow                   100     
+  Wooden Arrow            4
+
+Item Store: Magic Store:
+  Potion                 50     
+  Eyedrops               40
+  Antidote               80
+
+Inn price: Free
+
+Talk to the old guy to the left.
+The Elders are looking for you.
+Head through the door and go
+into the back room. Talk to the
+old guy there. More stuff about
+destiny. Now you can go outside
+and explore the village.
+
+There are a few potions in the
+well, and there is a storehouse
+to the north along a path with
+monsters. Inside the storehouse,
+yet another old guy will tell
+you how to identify switches.
+Use the switch he points out for
+you and head up the stairs to a
+bunch of chests. Loot away.
+
+Now head back into town and take
+the east path. You'll get a
+scene and be able to name Arc.
+Or just call him Arc like
+everyone else. If you have to
+change his name, call him
+"Target" because even the
+enemies pick on him.
+
+The three punks will run away,
+obviously in fear of Luneth's
+feminine charm, er, menacing
+presence... Arc will run off,
+too.
+
+Leave town and head to the town
+further south.
+
+Kazus_ _ _ _ _ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [GOST] You'll meet Arc
+and he'll join the party. Now
+explore this strange town, just
+don't enter the cave n back.
+You'll die. Really quickly and
+really painfully.
+
+Talk to the people/ghosts in
+town. They’re cursed: all they
+are now is an outline. The
+blacksmith will say something
+about his daughter, but the Inn
+is where the real excitement is.
+
+Talk to the guy by the bar.
+He'll introduce himself as Cid.
+Know what that means? He'll tell
+you that his airship is in the
+desert to the west.
+
+Leave town and head west.
+
+Cid's Airship_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [AIRS] Talk to the
+girl by the steering wheel.
+She'll introduce herself as
+whatever rude name you give her,
+but let's just call her Refia.
+Luneth will ask her to make a
+mythril ring, but little truant
+girl Refia didn't study that
+far. Oh well.
+
+"Slacking off saved her from the
+curse, so maybe that 'luck' will
+rub off on us!"
+
+Luneth... Anyway, grab the wheel
+and prepare to start flying.
+Yes, this is the earliest you
+get the Airship in any Final
+Fantasy game. Not like you can
+do much with it, though. Fly
+west and land at the castle.
+
+Castle Sasune_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [KING] Walk up and
+talk to the guard, who'll mope
+on about the curse. He'll
+arrange an audience with the
+king. Head up and through the
+doors to the king's chamber.
+You'll have plenty of time to
+loot later.
+
+Run up and talk with the king,
+who'll babble more about Djinn's
+curse. The guard will call your
+party younglings (he's not much
+older...). Ingus, that's his
+name, will accompany you brave
+souls. Objections?
+
+"Of course not! His sword is
+with twice that of these two."
+
+Refia's turn. Tension mounts...
+The king will say something
+about a hidden passage and a
+skeleton...key. Now you can go
+around looting. There are too
+many chests to list here, so
+just use the trick you learned
+from that old guy in Ur (Which
+old guy?...) and look for
+cracked ceiling tiles, which
+designate hidden passages.
+
+The East Tower has a bow and
+some arrows, and the West Tower
+has enemy encounters and a
+really good sword, which you'll
+have to fight a tough enemy for.
+You can, however, get *really*
+good experience form the
+monsters, so run around in
+circles on the first floor for
+some easy levels.
+
+You can also head back to Ur to
+equip. I'd recommend it. When
+you're done, fly the airship
+over the lake and enter the
+cave. You should be at least
+level 5.
+
+Sealed Cave_ _ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [JINN] Now, a real
+dungeon. Start off by heading
+south along the beaten path. The
+south fork leads to a Potion and
+the east path continues the
+level. The next fork north leads
+tom another Cure spell. Equip it
+to whomever. Continue along and
+go down the stairs.
+
+The next area has another chest
+and two skeletons. Zoom in and
+hit the switch in the sparkly
+pile of bones. Go through the
+passageway and meet Princess
+Sara, who decides to come with
+you.
+
+"No harm will come to Lady Sara
+as long as I live and breathe."
+
+Well, that settles it then. You
+now have your first guest
+character.
+
+Continue down the stairs and
+follow the path. The south fork
+leads to another Antarctic Wind.
+Continue on the linear path
+until you see a red platform up
+ahead. Prepare your party for a
+scene and a boss.
+
+Sara will use her ring to seal
+off Djinn... Or not.
+
+Boss: Djinn
+My Level: 6
+Rewards: 1400 gil
+  50 exp
+Start out by casting Blizzard
+(if you have it) and using the
+two Antarctic Winds you've been
+saving. If that doesn't kill
+him, his attacks (he has two per
+turn) are Fire and regular
+physical attacks. Heal if
+necessary.
+
+Once you beat him, Sara will
+seal him in the ring and your
+band of three merry men and one
+woman will be warped to the
+crystal.
+
+After a brief scene about
+destiny, a Moogle will come on
+screen and describe the job
+system. I won't tell you what
+jobs to choose, for a full guide
+to job changing, see the Jobs
+section. ________________
+________________________________
+      The Journey Begins|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ Walk your newly-
+jobbed selves to Ur and equip
+properly, then head to Sasune.
+
+Castle Sasune_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [SARA] Sara will greet
+you at the castle entrance.
+You'll follow her inside and
+she'll unceremoniously chuck the
+ring into the spring.
+
+After an audience with the king
+you’ll be presented with a
+canoe. And not just any old
+canoe, a magical folding canoe.
+Next time just leave them as
+outlines. Sheesh.
+
+Now you can go to the east tower
+and fight a miniboss for a
+Wightslayer, which does double
+damage to undead. Only Red Mages
+can equip it, though. You can
+also go talk to Sara for a scene
+between her and Ingus.
+
+Despite that scene, she'll
+cheerfully wave as you depart.
+Then take your canoe across the
+lake and retrieve your airship.
+Fly it to Kazus.
+
+Kazus_ _ _ _ _ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [RFIA] Weapon Store:
+Armor Store:
+  Mythril Rod           400     
+  Mythril Knife         500     
+  Mythril Sword         500     
+  					  Mythril Gloves        1
+					  Mythril Bracers	      120
+
+Item Store: Magic Store:
+  Potion                50      
+  Eyedrops              40      
+  Antidote              80      
+
+Inn price: Free
+
+Takka will be pacing at the
+entrance when you arrive. He'll
+drag Refia off home.
+
+Head to the Inn for now and talk
+to Cid again. He'll join the
+party with the request that you
+bring him home to Canaan. If you
+talk to him with Y, he'll
+mention that Takka can build a
+ram for the airship. Go visit
+Takka and Refia for a scene.
+
+Takka will return and announce
+that it's completed. Board your
+airship to run into Refia,
+who'll chew you out for being
+late. The expression on Luneth's
+face is priceless. It will be
+revealed that all four heroes
+are orphans. Rather, Luneth, Arc
+and Refia are orphans while
+Ingus "has no parents".
+
+Fly the airship into the rock.
+Boom! Walk southeast to the next
+village, Canaan.
+
+Canaan_ _ _ _ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[CIDH]
+
+ Weapon Store:                Ar
+  Mythril Rod            400    
+  Mythril Knife          500    
+  Mythril Sword          500    
+  Great Bow             1200    
+  Iron Arrow               8    
+
+Item Store: Magic Store:
+  Potion                50      
+  Eyedrops              40      
+  Antidote              80      
+  Echo Herbs            100     
+  Gold Needle           100
+
+Inn price: 40
+
+Cid will leave the party,
+telling you to find King Argus
+if you want a new one.
+
+Explore the village. Enter the
+house adjoining the Inn and talk
+to Salina, the girl crying on
+the bed. Luneth and Refia will
+decide to go to the mountain and
+bring back this Desch guy.
+
+Enter the house to the far
+northwest. It's Cid's house.
+He'll wish he had an Elixir for
+his wife. leave and go up the
+stairs at the northeast end of
+town. Wade through the pond,
+down the waterfall, and along
+the stream to reach a chest.
+Open it to receive an Elixir.
+Bring it to Cid's wife. Cid'll
+let you access his old hangar,
+which you can loot.
+
+After you've talked to everyone,
+healed up, and equipped, head
+off to Dragon's Peak. This time
+I'd recommend level 9 or so,
+though you're probably only
+about level 7 by this point...
+
+Dragon's Peak_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [BHAM] Make your way
+up the linear path. Be wary of
+the enemies here, as they can
+petrify with a single hit. Be
+sure to snag Aero from the chest
+at the second fork. When you
+reach the end, Bahamut will snag
+you and plop you in his nest.
+
+After you land, go talk to the
+guy in blue. He'll introduce
+himself as Desch, after first
+mocking your capture. You'll
+then wind up in a boss fight
+against Bahamut.
+
+Boss: Bahamut
+My Level: irrelevant
+Rewards: who knows?
+  who cares?
+RUN AWAY! USE THE FRIGGIN RUN
+COMMAND! RUN! One of your party
+members will get hit and most
+likely get knocked out. The
+escape will still be successful.
+
+After running like the yellow
+cowards you are, Desch will give
+you the Mini spell. He'll also
+join the party. He'll be with
+you for a while. You'll all jump
+off the cliff.
+
+Once on the World Map, head into
+the first forest you see. You
+can heal up here, were you not
+already. Talk to the gnome and
+he'll tell you how to reach
+Tozus. Head south and to the
+southern end of the forest, then
+shrink yourself and wander
+around for a bit to reach Tozus.
+
+Tozus_ _ _ _ _ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [MIDG] Item Stores:
+Magic Store:
+  Potion                 50     
+  Eyedrops               40     
+  Antidote               80     
+					  Thunder               700
+   Poison                700
+   Blind                 700
+  Gnomish Bread          150    
+
+Inn price: 80
+
+The first thing you'll be
+reminded of is The Minish Cap.
+Tozus is tiny. Really tiny.
+
+What you'll want to do first is
+check your stats as a gnome. All
+at 1 except Intellect and Mind.
+What that means: you've gotta be
+mages when mini. That's the only
+way to survive. Equipment
+doesn't matter much, your
+defense is either 1 or 0.
+
+If you haven't already, go and
+buy 99 potions. You'll never use
+them all, so you won't have to
+buy as many in the future.
+
+Go into the northwest house and
+give an antidote to Doctor
+Shelco. He'll open a path for
+you. You can and should snag
+Cura from a vase by the new
+path. Go down when you're ready.
+
+Tozus Tunnel_ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[SMAL] Now, for the
+first of many of what I call
+Mini Mazes, as you must be Mini
+to explore them. Hah. It's not
+an affectionate term.
+Fortunately, this one's fairly
+short. There will be others.
+
+Just run on through both areas.
+as long as everyone has spells
+you should be fine.
+
+When you reach the world map,
+don't undo Mini just yet. Just
+head into the cave to reach the
+Viking's Cove.
+
+Vikings' Cove_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [VIKS] Item Store:
+Magic Store:
+  Potion                 50	  Fi
+  Eyedrops               40	  Bl
+  Antidote               80	  Sl
+  Echo Herbs            100	  Th
+  Gold Needle           100	  Po
+   Blind                  700
+   Mini                  1000
+
+Inn price: 40
+
+The Vikings have a problem. It's
+big and scary and goes by the
+name of Nepto. As Warriors of
+the Light, their problem is your
+problem.
+
+Head through the Cove and talk
+with the boss. Hell offer the a
+ship as a reward for defeating
+the Nepto Dragon.
+
+Take him up on his offer, head
+to the world map and go north to
+the Nepto Temple. You can
+alternately get on the boat now
+and fight Nepto, but it won't be
+pretty.
+
+Nepto Temple_ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[NEPT] Enter the temple
+and approach the statue. One of
+the ruby eyes is missing. Go in
+through the mouth.
+
+Follow the path until you reach
+a hole. Go town it and grab
+Shell Armor and a Shell Helm, or
+just go down the second hole.
+Snag a Serpent Sword from the
+chest and continue going down.
+
+Head to the end of the hallway
+and grab the eye. Or you could,
+but there’s a giant rat in the
+way. Or is it a normal rat and
+you're just tiny...
+
+Boss: Giant Rat
+My Level: 10
+Rewards: 1500 gil
+  300 exp
+Cut loose with Level 2 magic
+like Thunder and Aero. When you
+run out of that, switch to Fire
+and Blizzard. His attacks can
+inflict poison and he can cast
+Fire.
+
+One he's beaten, you'll snag the
+Nepto Eye. You'll also be fully
+healed for the run out. Yes, you
+have to leave manually this
+time.
+
+Put the eye where it belongs.
+Nepto will thank you and give
+you the Water Fang. You may now
+return triumphantly to the
+Vikings' Cove. UnMini your
+party, too.
+        ________________
+________________________________
+        Desch's Destiny|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Vikings' Cove_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [STRK] The Boss will
+formally give you the Enterprise
+as thanks. Yay. Go rest up and
+restock, then head out to the
+sea.
+
+Talk to his wife, she'll name
+their children after you...
+
+Anyway, board the Enterprise and
+sail around the cape, landing by
+the town.
+
+Tokkul_ _ _ _ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[RUIN] You know what
+that song means... This town has
+a problem, too. Try talking to
+either of those people out
+front.
+
+You'll get the same basic
+response: "No! Don't eat me!" as
+they flee in terror. Go through
+the door. A kid will flee form
+you, and his mother will beg you
+to spare him. They really have
+the wrong idea.
+
+Things will get cleared up and
+the townsfolk will explain their
+dire plight. Head into the other
+open house and speak with the
+elder. You can then go into the
+fire place and... loot! You
+horrible person, taking what's
+openly offered to you.
+
+This town's pretty dead, so
+cross the desert to the village
+of the Ancients, on the edge of
+the world. Yup, FFIII's so old
+they still thought the world was
+flat when they made it...
+
+Village of the Ancients_ _ _ _ _
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _ _ _ _______
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [CTRA] Weapon Store:
+Armor Store:
+  Serpent Sword         1500	  S
+  Fire Staff            3500	  F
+  Ice Staff             3500	  H
+  Light Staff           3500	  K
+  Killer Bow            4000	  M
+  Fire Arrow             150
+  Ice Arrow              150
+  Light Arrow            150
+
+Item Store: Magic Store:
+  Potion                 50	  Si
+  Hi-Potion             600	  Fi
+  Gold Needle           100	  Bl
+  Maiden's Kiss         100	  Th
+  Echo Herbs            150	  Cu
+  Mallet                100	  Te
+  Eye Drops              40	  Bl
+  Antidote               80
+
+Inn price: 120
+
+Finally, a town that doesn't
+come with its own problem.
+Equipment's not bad, either. The
+people here will quite cheerful
+explain what the hell's been
+going on. Other than that, the
+place's optional.
+
+You can take the kid up on his
+offer and ride a chocobo around
+the continent, but all you'll
+get is a Gnomish Bread, which
+doesn't do much as of yet. When
+you're done with civilization,
+hop on a chocobo or walk up the
+path north of the desert and
+enter the Living Woods.
+
+Living Woods_ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[FAER] The fairies here
+will talk about their cursed
+tree and the wizard Hein (he's
+called Hyne in FF8). They will
+explain how to defeat him, but
+you can't just yet.
+
+You've done all you can here.
+Board your boat and sail north
+to Castle Argus.
+
+Castle Argus_ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[EMPT] Change one of
+your characters to Thief class
+for this area and have them
+lead. The locked doors can be
+easily unlocked by a Thief. All
+this place is is one huge area
+for you to loot. You won't be
+able to equip much of it yet,
+but it's still good to have.
+
+When you're done, head northwest
+by land, through the small
+valley and enter the Gulgan
+Gulch.
+
+Gulgan Gulch_ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[SEER] Go down the
+stairs in the center and talk
+with the Gulgan standing in the
+middle of the ring. He'll give
+you the scroll for Toad. There
+are two Staves and a Mage Robe
+in the back room if you don't
+have them already.
+
+Go reequip in the Village of the
+Ancients if you'd like, then go
+to the Tower of Owen when you're
+ready. It's the tower at the end
+of the northeast peninsula.
+
+Tower of Owen_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [TOUR] The monsters
+here are nasty in that "We love
+status ailments" way.
+
+Starting out, head south, west,
+then north at the first fork.
+Make a right and continue on
+until you reach a dead end. A
+scene. Now you have to turn into
+Toads, so use that new spell you
+got. Head forward to dive to the
+next area.
+
+Press Y for the greatest
+dialogue in the game, as Toads
+of course.
+
+On the other side, unToad your
+party and continue forward.
+You'll be welcomed warmly, but
+keep going anyway. Go up the
+stairs.
+
+On the second floor, go alaong
+the walkway and to the left. Go
+up the stairs to the next floor.
+
+Just follow the path on the
+third floor. What looks like a
+path to treasure leads to
+nothing. Go up the stairs to
+floor four.
+
+On this floor, walk forward a
+ways and you'll get another
+message from the beyond. On the
+other side of the walkway, the
+left path leads to some stairs
+and the right path goes to a
+chest with a Spark Dagger.
+
+Floor five, now. Another
+message. A hidden switch along
+the top wall opens a path below
+it. follow it and go up the
+stairs.
+
+Another floor, another linear
+path. Just go up the stairs at
+the end.
+
+Floor seven! Right leads to some
+chests and left goes to the way
+up.
+
+Eighth floor, still no progress.
+Follow the walkway to a fork.
+right goes to a chest with Sonic
+Knuckles, but the Monk still
+does better unarmed. Left leads
+around to yet another set of
+stairs.
+
+Go up and head to the left.
+Follow the path down and go
+right for a Salamand Sword and
+left for Flame Mail and a path
+down. Follow it, snag the chest
+if you want, and go up the
+stairs.
+
+Last floor, I promise. Heal up
+and go forward when ready.
+Medusa will say something about
+tower destruction and Xande.
+Boss time.
+
+Boss: Medusa
+My Level: 14
+Rewards: 2600 gil
+  420 exp
+Cut loose with spells like Aero
+and Fira. You can use some
+attack items, but make sure to
+keep one of each element for
+later. She'll use physical
+attacks, Stare, and Blizzara.
+Like most bosses, she attacks
+twice per turn.
+
+After she's defeated, Desch will
+remember. He'll also jump into
+the furnace.
+        ________________
+________________________________
+The Crystal of Fire| ¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯ Desch's last message was to
+go to the dwarves' island. Do so
+after you land on your boat. It
+lies to the northwest of the
+tower, you'll see it on the map.
+You can also visit Gysahl, an
+optional village to the far east
+on a small peninsula. By east, I
+mean, east edge of the map east.
+
+Gysahl_ _ _ _ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[SHEP] Item Stores:
+Magic Store:
+  Gysahl Greens         150	  To
+   Mini                  1000
+  Magic Key             100	  Br
+   Shade                 3000
+   Libra                 3000
+   Confuse               3000
+   Silence               3000
+
+Inn price: 120
+
+The first thing that hits you
+about this place: SHEEP! Another
+good old-fasioned optional town,
+but they sell Level 4 magic
+here, as well as Gysahl Greens,
+which have a nefarious purpose
+you probably don't need yet, but
+I'll explain it anyway:
+
+In any chocobo forest, using
+Gysahl Greens on the tree in the
+center calls the Fat Chocobo
+(who shows up on the game logo
+in the main DS menu...) who can
+compensate for your lack of
+inventory space by storing items
+for you. As for HOW and WHERE
+the items are stored...
+
+THere is also a man in a secret
+room in the pub who will let you
+view the Bestiary and your
+Acievements.
+
+Buy many Greens, get your new
+spells, and head to the dwarves'
+island. There are two caves,
+enter the south one first.
+
+Dwarven Hollows_ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [LALI] Weapon Store:
+Armor Store:
+  Tyrfing			1500    Ice Armor   
+  Fire Staff	      3500    Ice H
+  Ice Staff 		3500    Ice Shield
+  Diamond Bell		4500    Mage Rob
+  Iron Arrow               8    
+  Fire Arrow              10
+
+Item Store: Magic Store:
+  Potion                 50     
+  Hi-Potion             600
+  Gold Needle           100
+  Maiden's Kiss         100
+  Echo Herbs            150
+  Mallet                100
+  Eye Drops              40
+  Antidote               80
+
+Inn price: 80
+
+You know that song... It's
+problem time. Go down the stairs
+and talk with the dwarf by the
+altar.Apparently, someone took
+the Horn of Ice. You'll be asked
+to go into the lake and get it.
+
+Before you do anything drastic,
+go inside the rooms to the north
+and buy new equipment. You'll
+need it.
+
+When all's said and done, take
+the west stairs down, turn into
+frogs and in you go.
+
+Subterranean Lake_ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [LOCH] Enemy note:
+Bombs! And they hurt, lots.
+
+Once you're inside, unToad and
+follow the path to the end. Go
+through the "door" to the next
+area. In the next area, just go
+continue forward and go down the
+stairs.
+
+This area's fairly linear, too.
+Just follow the path along the
+bridges and go up the stairs
+when you reach them. Be sure to
+snag the chests, as a few of
+them have Gold Needles.
+
+Keep following the path until
+you see a pile of gold. Heal up
+and go forward to encounter
+Gutsco, the rogue.
+
+Boss: Gutsco
+My Level: 15
+Rewards: 3500 gil
+  576 exp
+Mercifully, all he starts out
+with are physical attacks. Cut
+loose with high level spells and
+heal often. He'll Cure himself
+as his health gets low, but you
+do more damage than he can heal.
+He'll also start casting Mini,
+but you can cure that easily
+enough with Mallets or Mini
+again.
+
+Arc will grab the Horn of Ice
+and Gutsco will vanish. Weird.
+Now you can run out or just use
+teleport. You may notice an
+extra shadow following you.
+Curiouser and curiouser.
+
+Dwarven Hollows_ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [HOHO] Talk to the
+elder, who'll drop the ward so
+you can put the horn back on the
+altar. Put it back, and Gutsco
+will materialize and take both
+horns.
+
+Aww, now you have to get them
+again. Leave the Hollows when
+you're ready and enter the cave
+to the north.
+
+Molten Cave_ _ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [MAGM] Another day,
+another linear-as-hell cave
+level. Follow the path until it
+forks. Yes, lava constitutes a
+fork in the road. You can ignore
+it to reach a dead end and an
+Antarctic Wind, or you can walk
+across molten rock in your
+travel-worn shoes. Excuse me,
+wade through molten rock.
+
+The lava hurts you by the
+second, so run down and take the
+right fork for an Antarctic
+Wind, and the left for stairs
+down to another lava pit. Joy.
+
+Run through this pit and take
+the lower path for a Freezing
+Blade and the left path for a
+scenic trip past a lavafall and
+more forks. South leads to a Hi-
+Potion (whee...), north leads to
+a Phoenix Down (WHEE!), and west
+leads to the way down.
+
+MORE LAVA! Just run through,
+snag the chests if you want. The
+second one has another Phoenix
+Down. Hit the switch on the
+Overt Rock to open a path. Go
+through for...
+
+An empty room. Use the
+opportunity to heal and go
+through the door to...
+
+Fire Crystal_ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[FIRE] Gutsco will be
+waiting for you. Don't be
+alarmed by his shaking the
+ground with every step, just
+take him out.
+
+Boss: Salamander
+My Level: 17
+Rewards: 3700 gil
+  686 exp
+This guy's a pain. After the
+first round, have someone heal
+the party every single round.
+Attack him with small stuff like
+Blizzard, Advance, and
+Retaliate. After about 6 or 7
+turns, when he should be about
+half dead, unload with Blizzara
+and Antarctic Winds. After about
+3000 damage, he'll fall. A Red
+Mage works well here because
+they have the M-Def to survive
+his Fire Breath attack, and the
+Magic to do 600 damage per
+Blizzara. You'll probably only
+have one or two party members
+left at the end.
+
+Once he's gone for good, you'll
+receive the Horns of Ice. The
+crystal will grant you four
+additional Jobs as well.
+
+Once you've equipped your new
+classes (a Scholar is mandatory
+for the trials ahead, or at
+least Libra), return to the
+dwarves.
+        ________________
+________________________________
+    The Tyrant and the Tree|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Dwarven Hollows_ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [LAHO] The Dwarf Elder
+will give you a Magic Key. Woo.
+If you have a Thief, it's
+useless. You'll get a double
+reward from the Treasury Guard,
+though: access, and, I kid you
+not, a once-in-a-lifetime look
+at the dwarven moonwalk. The
+treasury has equipment for your
+new classes, so gear up.
+
+After you've robbed them blind,
+leave town. A man from Tokkul
+will tell you with his dying
+breath that the village is in
+danger, and that a Scholar can
+see Hein's weakness. Sail for
+Tokkul.
+
+Save outside the village. Upon
+entering, the party will be
+captured and taken to Castle
+Hein.
+
+Castle Hein_ _ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [HYNE] You'll regain
+control inside the "castle". A
+somewhat secret passage to the
+right will take you to King
+Argus' cell. Talk to him. He'll
+ask you to defeat Hein, so it's
+a good thing that task was
+already on the Agenda of the
+Light.
+
+Continue to the right. Talk with
+both soldiers, the one furthest
+right will attack you. Once he's
+disposed of, continue out the
+open cell door and into the next
+one. A dying soldier will give
+you Mini (which you should
+already have). Use it and enter
+the hole. You can also heal on
+the pot next to it.
+
+UnMini yourselves on the other
+side, and make your way down the
+hallway. You'll come to a room
+with many paths. East leads to a
+dead end, southeast leads to
+Holy Arrows, northwest leads to
+two Phoenix Downs, southwest to
+another dead end, and west to
+the door to the next area.
+
+This are has two paths north.
+The right path is a dead end
+with another Phoenix Down, and
+the left goes to the next area.
+
+In this area, you'll find rooms
+with various and sundry
+treasures (Gil and attack
+items). Take either path north
+and go through the top door.
+
+Grab the chest north for a Royal
+Sword. Go through the west door.
+Continue through this
+unremarkable area to reach the
+outside of the tree.
+
+Follow the branch up, snagging
+the Phoenix Down along the way,
+and go through the door.
+
+This area's a complicated maze.
+West leads to an Elixir, and
+east leads to another fork. At
+that fork, north leads to a Rune
+Bow and west leads to the next
+area.
+
+In this area, heal up and walk
+onto the ominous platform when
+you're ready. Now you get to
+meet Hein. Time to die!
+
+Boss: Hein
+My Level: 19
+Rewards: 4300 gil
+  866 exp
+Have your Scholar study Hein
+once he uses Barrier Shift. When
+you know his weakness, use the
+corresponding Attack Item to
+deal major damage. A Scholar can
+do 1700 damage with a well-aimed
+item. He'll shift Barriers every
+third round, so you'll only have
+two rounds in a row to attack
+him at any given time.
+
+Hein will fall over and die, and
+the tree will thank you in a
+split-screen dialogue. The tree
+will return to the Living Woods
+and you'll get the Fang of Wind.
+
+You will be commanded to leave
+the Floating Continent and
+return to the Surface World. How
+to do that? Go ask Argus. You
+can also return to Tokkul, but
+there's nothing of plot
+importance there.
+
+Castle Argus_ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[EOTW] Go inside and
+talk to King Argus at his round
+table. He'll give you the Wheel
+of Time, which has nothing to do
+with the never-ending epic by
+Robert Jordan.
+
+Take it to Cid in Canaan.
+
+Canaan_ _ _ _ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[FLYF] Talk to Cid.
+He'll upgrade the Enterprise to
+an Airship, but it can only land
+in water. He'll also tell you a
+story:
+
+It was a day like any other,
+until darkness engulfed the
+world and his airship crashed.
+The only survivors were himself
+and four children, you can guess
+who.
+
+It's time to fly off and see
+what's become of the world. The
+Enterprise's little landing
+quirk won't be a problem...
+        ________________
+________________________________
+Aria, the Maiden of Water| ¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯ You'll reach the
+surface after short scene.
+It's... flooded in really cool
+looking water. On the Famicom,
+that was all just the same old
+Ocean tile. Go SquEnix visual
+staff. welcome to the real World
+Map.
+
+You'll see a few islands on the
+upper screen map. Fly to the
+small on e to the north. Note
+that it's actually faster to go
+to the southeast, the world is
+round. You'll see a wrecked
+ship. Go pay a visit.
+
+Wrecked Ship_ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[ARIA] Another
+unfamiliar song will play. Head
+into the cabin and down the
+stairs. Snag a Zeus' Wrath and a
+Blood Sword form the chests and
+approach the old man. You'll
+meet Aria, called Elia in the
+fan-translation of the original.
+
+Use a healing item on her.
+She'll wake up and ask you to
+bring her to the Temple of
+Water. It's that Temple on the
+large island to the south.
+
+Temple of Water_ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [KRBY] Take Aria up
+the central hall and through the
+door. She'll grab the Crystal
+Shard off the altar. Now you'll
+have to go to the Cave of Tides,
+your next Crystal Cave.
+
+Cave of Tides_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [TIDE] Follow the path
+down and around and Aria will
+open the Sealed Portal. Head
+through the door to enter the
+real level. Head along the
+loooong bridge and go through
+the south door.
+
+Follow the path along the bridge
+and go down the stairs. Follow
+the path until it splits. the
+south path leads to a dead end
+and west leads to another south
+path. Follow it to another set
+of stairs down.
+
+In this area, you'll see a
+bridge and stairs up to another
+bridge. Take the upper looooonng
+path to the Blizzaga spell, and
+the lower path to stairs down,
+again.
+
+Down the stairs, you'll be in an
+area flooded with shallow water.
+Follow the path around and climb
+up the stairs. Heal, and step in
+the door.
+
+Water Crystal_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [WATR] Approach the
+crystal. Aria will restore the
+light of the crystal using the
+Shard. As Luneth and co. walk
+away to prepare their part of
+the ritual, Aria will shout and
+shove Luneth. You'll see a
+serious look on Luneth's face as
+the Boss fight starts.
+
+Boss: Kraken My Level: 22
+Rewards: 5500 gil 1320 exp This
+guy doesn't hit much harder than
+the enemies outside, but he
+single- and multi-casts
+Blizzara, which can quickly
+become a pain. He also casts
+Blind on all party members, but
+that's not much of an issue when
+you're using spells. Being an
+octopus, Lightning attacks work
+extremely well, especially Zeus'
+Wraths in the hands of a
+Scholar. As long as you keep
+your party healed, he should
+fall easily.
+
+Ariaaaaa... After receiving the
+power of water, an earthquake
+will occur. The water covering
+the world will recede, and an
+old woman will implore you to
+seek out Doga, as he is the only
+one who can help you defeat
+Xande.
+        ________________
+________________________________
+        The Man in Gold|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Amur_ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[AWAK] Weapon Store:
+Armor Store:
+  Battleaxe        7400         
+  Main Gauche      7000         
+  Thunder Spear    8000         
+  Selene Bow      16000         
+  Boomerang        9000         
+  Iron Arrow          8         
+  Holy Arrow         10         
+  Madhura Harp    10000         
+
+Item Store:					Magic Store:
+  Potion           50           
+  Hi-Potion       600
+  Gold Needle     100
+  Echo Herbs      100
+  Gysahl Greens   150
+  Eye Drops        40
+  Antidote         50
+
+Inn price: 200
+
+The party will awaken, after
+three days, in Amur. All you can
+do now is explore.
+
+Not much to do here, except the
+usual: shop, loot, harass the
+natives. You can go upstairs in
+the Inn and play the Piano to
+get the enter Pub to dance.
+
+By interrogating the people
+here, you'll learn that Goldor,
+some greedy bastard, locked up
+your ship so you couldn't get to
+his crystal. Intrigued? You'll
+also learn about the bottomless
+swamp, the location of the shoes
+that can cross it, and who has
+the key to said location. Your
+next stop is the village
+entrance.
+
+Talk to the woman standing
+there, a scene will occur.
+Apparently, there are four old
+guys who are going around
+calling themselves the legendary
+warriors. As legendary warriors
+themselves, Luneth and co. are
+quite offended.
+
+Follow them in the direction
+they ran and enter the large
+house. Talk to the elder inside.
+The four old guys will be
+watching and head off to the
+sewers ahead of you. "Good luck,
+and mind the stench." The sewer
+entrance is in the southeast
+corner of town.
+
+Sewers_ _ _ _ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[FOUR] This level
+involves a lot of wading, so I
+hope you don't mind wet
+polygons. Wade across the stream
+and go down the stairs on the
+other side.
+
+Walk down and wade across to the
+platform. Follow it and wade
+across to the next platform.
+Pass the stairs down and grab
+the chest for Cat Claws, or just
+head down to the next floor.
+
+Follow the path (I say that a
+lot) and cross the bridge for a
+scene. The Four Old Guys will be
+surrounded by Gigantoads. You'll
+have to fight all four off at
+once, the largest enemy party
+yet. Afterwards, they'll realize
+that they aren't the warriors of
+legend. No, really? Head down to
+the next floor.
+
+On this floor, you'll se a door
+to the side and a bridge
+opposite it. The first door has
+a Diamond Bell and a Hammer, and
+the door across the bridge has
+Kaiser Knuckles, Power Bracers,
+and a Poison Dagger. Follow the
+platform until you see stairs
+up. Go inside and head east for
+another scene.
+
+Delilah will try and fake you
+out by tossing a fake pair of
+Levigrass shoes, but the FOG
+will warn you before the bomb
+explodes. They'll convince
+Delilah to give you the real
+shoes. One of the FOG will
+Teleport you out.
+
+For once you don't have to fight
+a Boss. Nice, isn't it? Leave
+town and head south, continuing
+along the coast until you see a
+swamp. Cross it and enter Goldor
+Manor.
+
+Goldor Manor_ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[GOLD] This place... is
+SOLID GOLD! It's also the most
+confusing maze in the game.
+While I may have listed chests
+in the past, this are is too
+confusing to explain them with
+any accuracy, there aren't too
+many, anyway.
+
+The first area has four locked
+doors and a large door at the
+top. Head up the central aisle
+and enter the locked door on the
+top right. All other doors and
+paths are dead ends. If you
+don't have a key, switch someone
+temporarily to the thief job to
+open it.
+
+In this area, head left and up
+and through the side door.
+Follow the hallway around and go
+through the door.
+
+Ignore the path up and head west
+until you hit the wall. Head
+down and continue heading west
+as far as you can go. Head up
+and climb the large staircase to
+the next area.
+
+Heal up and head into the large
+room to meet Goldor.
+
+Boss: Goldor
+My Level: 24
+Rewards: 9900 gil
+  2186 exp
+Minor note: this guy's armor
+makes him immune to magic, so
+any Attack Items or high-level
+spells you may have been saving
+are useless against him. His
+defense against physical
+attacks, however, is pitiful.
+Hit him hard with skills like
+Jump and Souleater, with two
+characters reserved for healing
+and Hi-Potions. He has the
+standard two moves per round,
+and he has a high critical
+ratio. His spells are just Blind
+and Confuse, which won't affect
+you that much. He'll
+occasionally cast Thundara as
+well. I had to use a few Phoenix
+Downs. Alternately, if you still
+have a Geomancer, Terrain is
+physical, not magical, so it
+does damage as normal.
+
+Sore loser Goldor will destroy
+the crystal upon his defeat. Oh
+crap, there goes the
+neighborhood. And the world.
+Maybe. Grab the key and Teleport
+out. Free your airship and fly
+around for a while.
+        ________________
+________________________________
+       Siege From Within|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ Fly to the
+northwest and land by the small
+island. Enter the town of
+Duster.
+
+Duster_ _ _ _ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[BARD] Weapon Store:
+Armor Store:
+  Diamond Bell           4500   
+  Madhura Harp          10000   
+  Loki Harp	            10000   
+  Lamia Harp            12000   
+  Dream Harp            12000
+
+Item Store: Magic Store:
+  Hi-Potion			600			N/A
+  Gold Needle		100
+  Maiden's Kiss		100
+  Echo Herbs		100
+  Mallet			100
+  Eye Drops			 40
+  Antidote			 80
+  Gysahl Greens		150
+
+
+	Inn price: 320
+
+Duster is a town of bards, so
+what kind of equipment will you
+find here? Bard equipment (And
+Geomancer stuff they forgot to
+change).
+
+You can also talk to the bards
+as a sort of mini sound-test.
+Nothing good, though. The
+information, though (for the
+most part) will be useful.
+Later. When you're done here,
+fly further northwest and over
+the large city you'll see.
+
+Fly towards the castle and
+you'll be shot down.
+
+Saronia_ _ _ _ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [CVIL] It's a good
+thing our intrepid heroes are
+old hands at surviving airship
+crashes. They couldn't have
+picked a better spot to crash,
+either: the middle of a CIVIL
+WAR! It's a stalemate, though,
+so just walk south to the world
+map.
+
+It's a sort of world map,
+anyway. The world's all there,
+but you're stuck inside the city
+walls. I'll briefly describe
+each section of town:
+
+Northwest: The Saronia Library
+and magic shop are here; both
+are closed. The Inn, however, is
+open for business. I won't try
+to explain why the inn is open
+when the city gates are tightly
+shut to outsiders.
+
+Southwest: A man in the
+southeast house will call the
+fat chocobo free of charge, so
+be sure to swap around items.
+Unfortunately, the Armor Shop is
+closed, "by royal decree". What,
+does the king *want* the economy
+to crash? The Revification
+Spring is in this district as
+well.
+
+Southeast: The Dragon Spire is
+here, as well as a pair of
+chocobos you can catch to make
+traveling the large city less of
+a pain.
+
+Northeast: The Weapon shop here
+is open for business! It only
+has two weapons though. The
+second weapon shop and both
+magic shops are closed.
+
+When you're all done, or even
+before, enter the northeast
+building of the southwest
+district. You'll fight three
+Gold Knights and rescue the
+young prince, Alus. Don't take
+him to the castle yet; you're
+not ready for the trials ahead.
+For the moment, you'll want to
+go to the Dragon Spire.
+
+Dragon Spire_ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[DRAG] Make your way up
+the tower, fighting the enemies
+and reaping the benefits of more
+money and experience. You'll
+eventually come to the top
+floor.
+
+The left path leads to two sets
+of Dragon Mail, a Thunder Spear,
+and a Phoenix Down. The right
+path leads to one set of Dragon
+Mail, but two Dragon Helms.
+Dilemma: Three armors, four
+helms.
+
+Saronia_ _ _ _ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [NEMO] An old guy in
+the southwest district will give
+you a Wind Spear, and another
+will give you a fourth Dragon
+Mail, but you'll still need
+three more Spears, which you can
+get form the weapon shop in the
+northeast district.
+
+Hunt around in the forest
+outside town until the job
+transition phase wears off, then
+head for the castle. You'll be
+greeted with open arms and taken
+inside.
+
+A short scene between Arc and
+Alus will occur, then the king
+will try and kill his own son.
+After some extra mayhem, and the
+arrival of Gigameth, you'll
+enter a boss fight.
+
+Boss: Garuda
+My Level: 26
+Rewards: 10200 gil
+  2200 exp
+JUMP! He can kill you all in one
+hit if he wants to. Some
+characters may KO, but KEEP
+JUMPING. He'll die quickly.
+
+After he's dead, the king will
+be, too. Alus, being the heir,
+will become king.
+
+Talk to him upstairs in his room
+and he'll grant you permission
+to loot the castle. There's a
+secret passage along the east
+wall of the first room you were
+in, follow it to a buttload of
+chests and a second passage to
+even more chests.
+
+Now go outside and enter the
+building to the right. Talk to
+someone inside, and they’ll give
+you the Nautilus, the fastest
+Airship in the world (and the
+series...).
+        ________________
+________________________________
+The Apprentices of Noah| ¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯ You can hop on and head
+to Dalg now, or you can go
+shopping in the city, your
+choice. There is one town to
+stop by first, to the northwest
+of Saronia.
+
+Replito_ _ _ _ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [SUMN] Item Store:
+Magic Store: Hi-Potion 600
+Escape 100 Gold Needle 100 Icen
+7000 Echo Herbs 100 Spark 7000
+Eye Drops 40 Heatra 7000
+Antidote 80 Hyper 7000
+Ottershroom 2000 Gysahl Greens
+150 Gnomish Bread 200
+
+	Inn price: 200
+
+The Gulgan here will give you
+more plot details. The Magic
+shop sells summons, so be sure
+to stop by if you have an
+Evoker.
+
+Leave town and head to the south
+continent. You'll be able to fly
+up the valley and through the
+complex maze. There are random
+encounters here, even on your
+airship. Take the left fork and
+land at Doga's Manor.
+
+Doga's Manor_ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[DOGA] Item Store:
+Magic Store: Hi-Potion 600
+Firaga 10000 Gold Needle 100 Bio
+10000 Maiden's Kiss 100 Warp
+10000 Echo Herbs 100 Aeroga
+10000 Mallet 100 Stona 10000 Eye
+Drops 40 Haste 5000 Antidote 80
+Curaga 5000 Gysahl Greens 150
+Raise 5000
+
+Kupo! Kupopo! You'll be seized
+by moogles shortly after you
+enter. Doga will come shortly
+afterwards and greet you as if
+he didn't try to detain you.
+He'll reveal who's calling the
+darkness: Xande. Of course, you
+know that name by now.
+
+Magus Noah, upon his death,
+granted his three apprentices
+their own gift. Doga gained his
+magical power, Unei acquired the
+world of dreams, and Xande got
+mortality. He was a little
+miffed, so he summoned darkness
+and stopped time.
+
+After the explanation, Doga will
+join the party. You must escort
+him to the Cave of the Circle.
+Head to the end of the hallway,
+up the stairs, and into a rather
+decorated room. Hit the switch
+on the top right candle to open
+a door next to it.
+
+Go inside and shrink yourselves,
+then enter the small hole. Mini
+Maze time.
+
+Cave of the Circle_ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[TINY] Actually, this
+place is extremely linear. Just
+keep heading left along the
+straight path, warping to the
+next area as necessary, and
+you'll eventually reach an area
+that screams Boss Fight! No boss
+fight, Doga will just cast a
+spell to make the Nautilus
+seaworthy. He'll then tell you
+to seek Noah's Lute underwater
+at Cape Twin Horn.
+
+Sail to the bay south of
+Saronia, and press B to land in
+the water. You won't land,
+rather, you'll keep going and be
+able to "fly" underwater. You
+can also go to Doga's Village,
+where you can buy spells from
+level 3 to level 7. You can get
+there through the narrow
+underwater passage on the
+eastern edge of Dalg.
+
+Temple of Time_ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[LUTE] It's annoying,
+but you'll need to be about
+level 32 to survive the enemies
+here. That, or have really high
+defense. I was only about level
+28 after waltzing through the
+last area, and the enemies here
+are merciless. My Dragoon with a
+defense of 75 was taking 200-500
+damage a hit.
+
+The locked doors contain a
+Diamond Helm and Diamond
+Bracers. Grab them if you want.
+The southwest corner has stairs
+to the flooded section. Wade
+north along the east wall and
+climb the stairs. Head east and
+down to the next floor.
+
+Snag the Defender from the chest
+and head down again.
+
+Behemoths! Entirely too hard and
+not even worth the experience.
+Three Chimera Mages are easier
+and more worth the effort.
+
+Anyway, head east and down the
+stairs, then follow the east
+wall to dry land. Alternately,
+the west platform has another
+locked door with Diamond Gloves
+and a Behemoth Knife. Go inside
+the east locked door and head
+down the stairs.
+
+Head down the many stairs and
+wade south, heading east once
+you reach dry land. Go inside
+the locked door, snag the Lute
+off the altar, and Teleport out.
+
+Fly northeast from the bay, make
+a left at the forest, and land
+in front of the cave.
+
+Unei's Shrine_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [UNNE] Walk up and
+press A in front of the sleeping
+Unei. She'll wake up, stretch,
+and join the party. She'll also
+give you the Fang of Fire.
+
+Fly along the coast and through
+the complicated river maze. Land
+off to the side of the swamp and
+cross it to the cave.
+
+Ancient Ruins_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [WHAL] A few monsters
+in this here cave have the
+abilities Multiply and Divide.
+Multiply creates a duplicate at
+equal HP, and Divide halves the
+user's HP and creates a
+duplicate at half HP. The
+monsters Divide whenever they
+are hit, so if you manipulate it
+right, you can force them to
+divide into nearly endless
+copies, and reap the EXP reward
+for doing so. Souleater works
+well here.
+
+Once inside, talk with the
+Scholars and learn their plight.
+A cave in. This doesn't pose
+much of a challenge to Unei, who
+will clear it in one blast.
+
+Continue deeper inside and go
+through the first door you come
+across for a spiffy new set of
+Reflect Mail. Go through the
+second for a hallway and another
+roomful of Scholars. You'll also
+find three doors.
+
+In the first (on the far right)
+you can buy Diamond armor and
+new Robes (at last!). In the
+second, you can buy Defenders,
+Blood Lances, and Medusa Arrows.
+The third is an Inn/Item Shop.
+Now if only they had a save
+point to go with it.
+
+When you're done looting the
+ruins, head down the stairs to
+the south. Or you could Teleport
+out, save, retrace your steps,
+then go down the stairs. Your
+call.
+
+Head down the long hallway and
+take the north branch when it
+presents itself, follow it until
+the path turns right, then
+follow that and go down the
+stairs. The other side rooms
+have miscellaneous treasures,
+mainly Black Belt stuff.
+
+Head down this short hallway and
+go down the stairs again. Repeat
+the process of linear-path-
+following in the next area.
+
+In this next area, don't attack
+the Zombie Dragons with Blood
+weapons, the effect reverses,
+they heal 200 points and you
+take 1500 (or whatever) damage.
+Repeat the above process here.
+
+At long last, you'll reach a
+hangar of sorts. Board the ship
+you find here. Unei will explain
+how the ship works, then leave.
+Many places are open to you,
+now. One of which is Falgabard,
+a town of Dark Knights.
+
+Falgabard_ _ _ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [KNGT] Weapon Store:
+Armor Store:
+  Ashura		16000			  Demon Mail	2
+  Yoichi Bow	42000			  Demon Shi
+  Yoichi Arrow	  500
+  Demon Axe 	40000
+
+Item Store:					Magic Store:
+  Hi-Potion		 600			  (All L3)		
+  Gold Needle	 100
+  Echo Herbs	 100
+  Eye Drops 	  40
+  Antidote		  50
+  Ottershroom	2000
+  Gysahl Greens	 150
+  Gnomish Bread	 200
+
+The cave here gives a sampling
+of what the enemies are like in
+the next mandatory area. There
+are side areas with easier
+monsters to cut your teeth on
+before you venture into the dark
+depths.
+
+After you've finished leveling,
+enter this small cave and grab a
+Blessed Hammer and some Dark
+Knight equipment from the
+various chests. You'll also find
+a Kotetsu, a better sword than
+the Ashura you can buy in
+stores.
+
+If you've finished looting,
+Teleport or walk out, board the
+invincible, and take it to the
+west continent. If you use
+Sight, you'll notice a cave
+north of Amur. Fly there, using
+the Invincible's Overdrive to
+cross the mountains along the
+rudimentary maze. Disembark in
+front of the cave and enter it.
+
+Cave of Shadows_ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [DARK] A Dark Knight
+by the entrance will warn you of
+the monsters inside. A solution:
+equip your Dark Knight (you
+should have one) with a Kotetsu
+and an Ashura (or two Ashuras)
+and have them attack enemies
+while the other party members
+Guard. The DK will probably kill
+enemies in one hit (15, rather
+:).
+
+Duplicating Enemies (all others
+can be attacked normally):
+Valefor Haniel Vassago
+
+Anyway, on with the cave. As you
+enter, head east through the
+fake wall and snag the Black
+Musk from the chest. Go back the
+way you came and follow the
+south path, snagging the Dark
+Claws along the way, and talking
+to the Dark Knight by the
+stairs.
+
+He'll give you another Kotetsu.
+Equip it to your Dark Knight if
+you wish. (You could have a 4 DK
+party here, but the equips are
+expensive and it is no longer as
+vital as it used to be.) Go down
+the stairs to the next area.
+
+At the risk of sounding
+repetitive, follow the path
+until you reach a whole in the
+wall. Follow the invisible
+walkway, grab the Lilith's Kiss
+if you wish, then head south
+along another invisible path.
+Head west and go along the sort
+invisible path to stairs down.
+
+Go south through this wide
+corridor, ignoring the hidden
+path, and follow it around to
+another false wall and more
+stairs down.
+
+This next area starts a rather
+complicated invisible path maze.
+Go east, then south at the first
+fork to Genji Gloves and the
+stairs down.
+
+Go along the invisible path at
+the southwest corner of the
+room, then take the invisible
+path at the south end of the
+room it leads to. Once again,
+the south end of the room has an
+invisible path. Follow it, then
+take the path west to another
+room, then take the south path
+in the opposite corner. You'll
+come to stairs down.
+
+In this area, take the invisible
+path to the east, follow the
+corridor down, then go west to a
+Kiku-Ichimonji and more stairs
+down.
+
+Snag the Genji Shield from the
+chest and take the path east,
+ignoring the rest of the
+hallway. Head south along the
+next hallway and go along the
+invisible path west at the end.
+You'll find... more stairs!
+
+Now you can follow along the
+elaborate bridge to a Genji Helm
+and a door. Go inside, heal up,
+and grab the Fang of earth! Or
+not...
+
+Boss: Hecatonchier My Level: 39
+Rewards: 8000 gil 2600 exp Jump
+and Odin are quite effective
+here, as is your Dark Knight
+with an attack of
+220. All he'll do is attack
+     twice per turn. Lame.
+     Assuming you're doing at
+     least
+3000 damage per attack, Jump,
+etc., he'll drop in three or so
+rounds of combat. Lameoid.
+
+Now use Teleport and return to
+Doga's Manor. You’ll have to go
+fetch the Nautilus first,
+though. As you enter the Manor,
+Doga will open a gate for the
+party to enter.
+
+Doga's Grotto_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [GADO] Yay! Filler
+level! I hope you saved before
+entering, though. It's not easy.
+For your own sake, please do not
+read the boss descriptions just
+yet. Don't say I didn't warn
+you.
+
+Finally, they really start
+playing with the 3D aspect of
+levels. This one slopes gently
+downward. Anyway, follow the
+path until you reach stairs
+down.
+
+In this next area, grab the
+freebie chest with 10000 Gil and
+continue following the path
+down. Grab the next freebie,
+10000 more Gil, and go down the
+stairs.
+
+Take the west path, and snag the
+Rising Sun, Lust Dagger, and
+White Musk from the chests in
+the small room. Continue down to
+. Lastly, grab the Chocobo's
+Wrath from the chest and head
+down the stairs.
+
+Grab the Phoenix Down and work
+your way down this latest windy
+path. Grab the next Phoenix Down
+and enter the room at the end.
+
+Heal up and walk up the path to
+meet Doga and Unei. They will
+tell you of the weapons sealed
+in Eureka, and the method of
+repairing the key. How? A chain
+of boss fights.
+
+Boss: Doga My Level: 40 Rewards:
+12000 gil 3400 exp Start out by
+using Protect on your party
+members (use the Defender, it's
+cheaper). Use the usual high-
+damage attacks that you used
+against Whatshisbucket (the last
+boss), they'll do even more
+damage now. Doga will use Drain
+and Blizzaga as well as physical
+attacks. Drain can sting,
+especially if he uses it twice.
+
+After a hard battle, Unei will
+fight you next. She'll use a
+line that showed up later in
+FF9, but it's translated
+differently this time.
+
+Boss: Unei My Level: 40 Rewards:
+12600 gil 4000 exp She'll use
+Tornado along with her physical
+attacks, which can reduce it's
+target's health to 1. She'll
+also cast Protect on herself.
+She has much less health than
+Doga, though.
+
+They'll then give you the Eureka
+key and tell you of Xande's
+stronghold, the Syrcus (ouch,
+translation...) Tower. Bonus!
+They'll have their Light's
+identified Luneth: Courage, Arc:
+Kindness, Refia: Affection,
+Ingus: Determination.
+
+You can now Teleport out and
+save.
+        ________________
+________________________________
+  The Forbidden Land, Eureka|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ Go back to the
+Invincible (You'll want it's
+functions, trust me) and fly to
+the eight statues north of Amur.
+Land, walk past each pair,
+they'll vanish because of your
+Fangs, then fly north and east
+to a rather impressive looking
+tower. Heal up, give unnecessary
+items to the Fat Chocobo, save,
+and enter the Ancients' Maze.
+
+This level's so short I won't
+even give it a section. Just
+head up and through the door
+to...
+
+Earth Crystal_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [ERTH] It's a Crystal!
+Wooohooo, new jobs! New boss,
+too.
+
+Boss: Titan My Level: 41
+Rewards: 13500 gil 6900 exp Yay,
+a recolor of that Hecatonchier
+(Thank God for Ctrl+C) guy. He
+hits much harder, though... His
+near-death spell is Quake, but
+that shouldn't do too much with
+his low Magic stat. If Odin used
+Protective Light, just bounce an
+-aga off your party to negate
+its effects. He's easier than
+Doga.
+
+The Crystal will bless you with
+its light and tell you to stop
+Xande's nefarious plan. Weren't
+you going to, anyway?
+
+What the HELL? You get Ninja and
+Sage from a crystal? Welcome to
+broken-dom.
+
+Go out, save, play with your new
+toys, and re-enter the Maze.
+
+Ancients' Maze_ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[MAZE] From the
+entrance, take the right path
+and go up, snag the Elixir, and
+head through the door.
+
+Go left here and grab the
+Crystal Shield and Lilith's Kiss
+from the Chests. Head right
+again, go up and around, and
+snag the Crystal Mail from the
+chest. Head up and grab the
+White Musk, then go right along
+the path, snagging the Crystal
+Gloves, until you reach the next
+area.
+
+Grab the Crystal Helm from the
+chest to the right, then follow
+the path south to a fork. Go
+south to a trio of chests, with
+a Break Blade, a Phoenix Down,
+and a Chocobo's Wrath. Go back
+north and follow the east path
+to a Dual Haken and the next
+area.
+
+Follow the windy path, snagging
+the Phoenix Down and Protect
+Ring along the way, and go
+through the door.
+
+A fork! Not really. Head north
+to the end of either path (they
+merge again at the end) and snag
+the Holy Lance. Once again
+either path will do, go around
+and grab the Hellish Claws from
+the chest.
+
+Go up and exit to the World Map.
+Finally!
+
+Enter the tower and head up the
+stairs to the next room. Press A
+on the door to initiate a short
+scene, and open the door to:
+
+The Forbidden Land, Eureka_ _ _
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ ______
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[ERKA] If you've played
+the original, you know: this
+place is massive. But my God
+does it look awesome now.
+
+Head west along the path and
+Grab the Fuma Garb and Chocobo's
+Wrath from the chests on the
+outcropping. Go around to the
+other side and grab the White
+Musk and Elixir. Follow the path
+south to the next area.
+
+Head east to a room and grab the
+Chocobo's Wrath, Phoenix Down,
+and White Musk from the chests.
+You can go south and to the left
+above the rock formation to a
+chest with a Ribbon, but its
+guarded. Head back west to
+another room with a white musk.
+Go south and take the west path
+when you reach it. Go down the
+stars and snag a Shuriken, then
+go back up and take the east
+path down to the next area.
+
+Head south and take the west
+fork when it presents itself.
+Grab the Elixir and head back
+and south, grabbing the Shuriken
+and Phoenix Down from the chests
+and going down to the next area.
+
+Follow the path here until you
+see a round killing thing (never
+mind...) on an altar, grab it to
+fight a boss.
+
+Boss: Amon My Level: 44 Rewards:
+20350 gil 6700 exp Hi-Potion
+Hyne refight! You don't
+necessarily need a Scholar, just
+be sure to use Libra whenever he
+Barrier Shifts. Same basic
+strategy applies: hit him with
+everything you've got. He'll go
+down fairly easily.
+
+Take your Moonring Blade and
+continue down the path. Grab the
+Phoenix Down and go down to the
+next area.
+
+In this area, head down and take
+the west fork to an Omnirod (93
+attack! For a MAGE!!!) and the
+east fork to a sword and another
+boss.
+
+Boss: Kunoichi My Level: 44
+Rewards: 14500 gil 7300 exp Ow
+she hits hard. And she can
+attack three times per round. A
+Knight is really useful here,
+especially with a full Diamond
+set, as it can take 50 damage
+for someone who would take 500.
+In addition to attacks, she'll
+also cast Aeroga, which stings.
+Don't be afraid to go wild with
+spells, you'll be fully healed
+afterwards.
+
+The Masamune is a really
+powerful sword. And it's purple.
+What's there not to like?
+Backtrack to the center path and
+follow it to the stairs down.
+
+Follow the path around this
+area, go past the stairs, and
+take the sword on the altar
+here. After the boss, of course.
+
+Boss: General My Level: 44
+Rewards: 15600 gil 7500 exp This
+guy is strictly physical. He
+hits hard, though, but it's
+nothing your healer can't
+handle. Later on, he'll start
+casting Bio, but he's got the
+usual physical-boss aptitude for
+it.
+
+Head on to the next area.
+
+Pick your poison, two items, two
+bosses. To the east we have
+Ragnarok:
+
+Boss: Guardian My Level: 45
+Rewards: 16500 gil 7900 exp
+W00t, a guy with Reflect. It's
+good thing Summon Spells can't
+be Reflected, isn't it?
+Unfortunately, his attacks
+Confuse in addition to hurting.
+Stick to the usual hit-it-hard-
+until-it-stops-moving plan, but
+avoid using any Black magic,
+unless you'd like to eat it.
+He'll occasionally use Tornado
+followed by a physical attack,
+which is just plain mean, but a
+Knight can handle it.
+
+The Ragnarok is even better than
+Excalibur, but only by a little
+bit. There's still another boss,
+though:
+
+Boss: Scylla My Level: 45
+Rewards: 16200 gil 7700 exp
+Crap, this weird dog-headed
+thing has Flare. And Holy. Which
+both will kill a Fighter
+character in one hit. Add -agas
+and a high physical attack, and
+you've got the toughest boss in
+Eureka. Did I mention her attack
+PETRIFIES? Welcome to old
+school. I guess she was supposed
+to be fought before Guardian.
+Whatever.
+
+The Elder Staff... is awesome.
+It casts Cura. You know what
+that means.
+
+You have now cleared Eureka,
+mostly. One final area remains,
+and it lies at the other end of
+that warp.
+
+Wheee! Stores and healing
+springs, as well as two Elixirs
+and Surikens. The summons can be
+bought even if you haven't
+defeated those bosses, which is
+broken and wrong, but I'm not
+paid to criticize them. I'm not
+paid period, so:
+
+SHAME ON YOU, SQUARE-ENIX. YOU
+LAZY BUMS.
+
+Magic Stores: Armor and Weapon
+Store:
+  Flare		60000			  Shuriken  	65
+  Death     	60000			  Crystal S
+  Meteor    	60000			  Crystal M
+  Tornado   	60000			  Crystal G
+  Arise		60000			  Crystal Helm	
+  Holy		60000			  Apollo Harp	60
+
+  Catastro		40000
+  Leviath		50000
+  Bahamur		60000
+
+When you're done, teleport out.
+
+       _________________
+________________________________
+    This is the Last Battle|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ Save, for the
+last time, and enter the Syrcus
+Tower.
+
+Crystal Tower_ _ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [SYLX] This place is
+too much of a maze to describe
+chest locations in text alone,
+so I'll just describe the path
+through the area.
+
+Go north up the stairs, then
+take a left and go north to a
+sealed door. Your Syrcus Key
+will react and open the way.
+Climb up to the next area.
+
+Follow the path down and go up
+the stairs. Head east and up the
+next set of stairs. Follow the
+east wall south to more stairs
+and the door to the next area.
+
+Go east along the path, through
+the concealed archway, and along
+to stairs up.
+
+Head up the stairs, then south
+along the other set, turning wet
+by the chest. Follow the
+invisible path to a mirror-image
+of the path you were on before.
+Follow it to stairs down.
+
+Follow the path up to a higher
+level, and go north around the
+hole in the center. Go up to the
+next area.
+
+Enter the room in the center to
+reach the next floor.
+
+Go east here and follow the
+windy path around to the bottom
+of the area, then go up to the
+next area. Go north here to the
+next area again.
+
+Guess what? Go north here to the
+next area, then go up the stairs
+to yet another door to the next
+area.
+
+In this room, approach the
+mirror in the center to meet
+Xande, in person this time. Or
+not. You'll be cursed instead.
+Doga will speak to you and go to
+find the five people who can
+break the curse. He'll retrieve
+Sara, Cid, Desch (yup, he's
+alive), One of the F.O.G., and
+Alus. Of course, he'll spin it
+differently each time. That guy
+should be in advertising.
+
+They'll come and save you, and
+the party will enter the mirror
+to stop Xande.
+
+Heal up, this begins a point of
+no return. Everything you do
+here will never be saved, so
+make sure you're prepared before
+you reach this point.
+
+Head up and a scene will begin
+automatically.
+
+Boss: Xande My Level: 48
+Recommended Level: 53 Rewards:
+25000 gil (Oh the irony... No
+stores...) 8500 exp Cut loose
+with everything. He has -agas,
+Haste, and semi-powerful
+physical attacks. He also has
+basically nil defense. When he's
+closer to dead, he'll also use
+Meteor. He's probably the
+toughest boss you've fought yet.
+At level 53, however, he's a
+piece of cake and will probably
+die before using Meteor.
+
+Xande will die, but the Cloud of
+Darkness will still be summoned.
+Damn, she uses the royal "we".
+
+Final Boss: Cloud of Darkness,
+2x Tentacle My Level: 48
+Rewards: Death is its own reward
+You can't win here, don't even
+bother. You'll fight for a bit,
+then BAM! Particle beam. 9999
+damage. You're dead. She's the
+Final Boss, but this isn't the
+Final Battle just yet.
+
+In an event that was COMPLETELY
+ripped off in FFIV, your past
+allies will revive the party so
+they can fight the good fight
+once more.
+
+"You are our only hope. You must
+bring balance between light and
+darkness!"
+
+In the original beta of FFIII,
+there was a save point here. The
+testers thought that would make
+it too easy, so no such luck.
+It's gone, dying now means
+restarting the Syrcus Tower.
+When you're mentally prepared
+(you're already healed), go
+forth to the last level. Don't
+die.
+
+World of Darkness_ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [YAMI] This is it, the
+last level. It's not terribly
+long once you know what to do.
+There are five paths, four lead
+to bosses, and the fifth leads
+to certain death. All the chests
+here, four in total, contain
+Ribbons, but you'll have to
+fight a Zande's Clone for each.
+I wouldn't recommend it at this
+stage, as dying means restarting
+the Crystal Tower from the
+beginning. At least that's what
+I said before learning that our
+lovely Final Boss now has status
+magics. Cow.
+
+Southeast warp: Take either path
+east or west, and follow it to a
+branch north that leads to a
+warp. Step on it to go to... A
+Crystal? This is the World of
+Darkness, parallel to the World
+of Light. Two worlds, two sets
+of crystals. Another thing FFIV
+ripped off. Go up to the crystal
+to fight a boss.
+
+Boss: Ahriman My Level: 49
+Recommended Level: Rewards:
+66666 gil (What's with all the
+Gil? You can't use it for
+anything.) 16666 exp (Nice.) In
+addition to having the worlds
+longest attack animation, he
+casts Curaja. Bastard. He's got
+Quake and the -agas, too, but
+they don't do much. He has loads
+of health, but that's about it.
+You'll be fully healed after, so
+cut loose.
+
+A Warrior of the Dark will
+appear and explain the balance
+of Light and Dark. He'll "join
+you" for the final battle. Walk
+your way out and take another
+path.
+
+Southwest warp:
+
+Take the first path to the left
+of the center and head north.
+Warp to the next Crystal Room.
+Of course, there's another boss,
+too.
+
+Boss: Echidna My Level: 50
+Rewards: 66666 gil 16666 exp
+Yay, she casts Death and Drain
+and can inflict Silence with her
+attacks. Isn't this going to be
+fun? And did I mention Tornado
+and Quake? She'll start using
+Meteor when she's almost dead.
+Once again she has entirely too
+much health, but you don't need
+to hold back any.
+
+Another Warrior of the Dark,
+another bit of backstory. Walk
+out again and choose another
+path.
+
+Northwest warp:
+
+Just follow the path to the end,
+taking the right fork when you
+reach it. You'll be in another
+Crystal room. With another boss.
+
+Boss: Cerberus My Level: 50
+Rewards: 66666 gil 16666 exp
+Three heads, three attacks per
+round. Other than that, he's
+pretty unremarkable. He's got
+-agas, but they're Fighter
+-agas. Once again he's a boss
+with too much health.
+
+Yet another Warrior of the Dark.
+He'll explain the conflict of
+Hope versus the Void. Yeah, you
+Hope you can slaughter the CoD.
+Walk your way out again.
+
+Northeast warp:
+
+Just follow this long path to
+its end for another Crystal room
+with another boss.
+
+Boss: Two-Headed Dragon My
+Level: 51 Rewards: 66666 gil
+16666 exp He/she/it hits really
+hard. It also enjoys attacking
+the same person twice in a row.
+All it does is attack, though
+it's attacks can silence. Cut
+loose as usual.
+
+One last Warrior of the Dark,
+one last bit of back info. Walk
+your way out again.
+
+Center warp:
+
+This is it, the last leg of your
+journey. Follow the path along
+the narrow beam of light to a
+warp.
+
+Hear that song, this is it. Heal
+up and approach the top of the
+room.
+
+The Final Battle_ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[KUMO] Final encounter.
+The Cloud of Darkness
+(henceforth Kumo-chan, don't
+ask) will taunt you, the Dark
+Warriors will weaken her, and
+the last battle will begin. She
+gets so pissed briefly that she
+slips up and uses a singular
+pronoun.
+
+Last Battle: Cloud of Darkness,
+2x Tentacle My Level: 55+
+Rewards: 79000 gil 37499 exp End
+of Game I'll start with her
+attack first. This is a long
+section. One Tentacle will
+Protect and Haste her, while the
+other uses Bad Breath. She will
+attack you and occasionally use
+Particle Beam, which is much
+weaker than before, though it
+quickly becomes her favorite toy
+as her health decreases.
+
+She is the toughest boss in the
+game, which is why they saved
+her for last.
+
+Since the 90s, there has been
+the standard approach to
+fighting her: 2 Sages, and 2
+Ninjas. This approach now fails
+dismally. Reason: Sages suck.
+That's right, the ultimate magic
+class is now trash, courtesy of
+it being slower than molasses in
+January. Sure, Kumo-chan is
+slow, but she's still faster
+than a Sage.
+
+In the remake, the Devout Job is
+much better for white magic, and
+can handle more Curajas without
+recovering MP. Since Curaja is a
+much more powerful; spell, and
+characters have less HP, you'll
+only need one. You can also have
+a Knight, in full Crystal armor,
+equipped with an Aegis shield in
+place of a weapon so it can
+avoid all status ailments and
+use attack items and Elixirs as
+needed. The battle will be
+longer but you're more likely to
+survive. The other two
+characters should be a Ninja
+spamming Shuriken and some other
+class that can deal major damage
+(I had a Summoner with Bahamur).
+
+Epilogue_ _ _ _ _ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[FINI] A nifty
+starfield effect on the lower
+screen will probably distract
+you from the extra backstory on
+the top screen. Hope! Yes, hope.
+
+The four heroes will
+miraculously warp to the World
+of Light, and a tearful reunion
+will ensue. Your various
+companions will be returned home
+in the airships, first the
+Invincible, then the Nautilus.
+Cid and Desch will both return
+to Cannan, and TWO couples will
+be reunited. Remember Salina?
+
+Sara will stay with the party
+(Ingus) just a little bit
+longer, and the party will
+return to Ur. A Dancer will try
+to give Ingus a thank-you kiss.
+Like Sara's gonna let that
+happen.
+
+A new day will dawn, and the
+credits will roll. Save
+afterwards if you want to keep
+all the money and experience you
+got (but say goodbye to all the
+Shuriken you threw...). There'll
+also be three stars in the
+bottom-right corner, but I don't
+know exactly what they mean
+beyond "Yay! You beat it!" Maybe
+they unlock more Mognet stuff.
+       __________________
+________________________________
+Master Level Summons and MORE!| 
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ This section
+describes all the original bonus
+dungeons from the Famicom FFIII.
+I probably won't write anything
+on the Wi-Fi extra quests any
+time soon. DO NOT e-mail me
+about them.
+
+Odin, the Sealed Knight_ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [ODIN] Fly to the
+southeast corner of Saronia with
+the Nautilus and submerge. Enter
+the cave there for a brief area
+with an optional boss.
+
+Walk north and go through the
+door. Follow the long platform
+and go through the door at the
+end.
+
+Take the right path here for a
+Golem Staff, a Rune Bell, and an
+Aegis Shield. Take the left path
+for Reflect Mail (woo...) a
+Heavy Lance, and stairs up.
+Climb up the stairs in this
+small antechamber to arrive at
+Saronia Castle.
+
+Talk to the scary knight to
+enter a boss fight.
+
+Boss: Odin
+My Level: 36
+Rewards: 16800 gil
+  5000 exp
+This guy's got really low
+defense, so use physical attacks
+and powerful spells (-agas and
+the Titan summon). He attacks
+twice each turn, one did about
+300 damage to my Dragoon with
+full Diamond armor. Eventually,
+he'll pull out his almost-dead
+skill, Zantetsuken, which does
+massive damage (about 1000) to
+all party members, which can
+wipe you out if you don't stay
+close to fully healed. If you
+get lucky, he won't even get a
+chance to use it. If you get
+unlucky, he'll use it twice.
+
+After accepting defeat, he'll
+give you his summon spell, the
+Level 6 Catastro.
+
+Leviathan, the Sea King_ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [LVIA] Fly back to the
+Floating Continent (which takes
+a while on the slow Invincible).
+South of the Gulgan Gulch is a
+lake. Using the Invincible's
+Overdrive, cross the mountains
+south of it, then land and take
+your canoe out to that big
+monster.
+
+Monsters here = major
+experience. More experience than
+Odin major. You'll be leveling
+up in no time, though they do
+get a bit ugly in the damage
+department at times. I wouldn't
+recommend fighting the boss
+until much later, though.
+
+Follow the route southeast from
+the entrance, and snag the
+Attack Items and Phoenix Down
+from the chests, then head north
+to three Hi-Potions and an
+Elixir. Head down the stairs.
+
+Follow this path and grab the
+north and south chests for a
+White Musk, an Aegis Shield, a
+Platinum Hammer, a Bacchus's
+Cider, and a Turtle Shell. Head
+south and down the stairs.
+
+This next area has a few forks.
+The northeast path leads to
+another platinum Hammer, Reflect
+Mail, a Black Hole, and a Black
+Musk. The southwest path leads
+to a Lilith's Kiss and a Raven’s
+Yawn. The northeast path leads
+to stairs down, again. You can
+fight the boss now, but I
+wouldn't recommend it unless you
+have at least 2000 HP.
+
+Boss: Leviathan My Level: 45
+Rewards: 16100 gil 5000 exp Just
+hit him with every lightning-
+type attack you have. He'll
+physical attack until halfway
+through, when he'll add Tsunami
+to the mix. It won't kill you at
+a high level, but it hurts.
+
+Bahamut, King of Dragons_ _ _ _
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+_ _ _ _ _ ______
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[BHAM] Fly west from
+Gysahl, over Tozus, and use the
+Invincible to cross the
+mountains. Enter the cave there
+for another short level.
+
+The east and west forks from the
+central platform lead to some
+chests. Take the south fork to
+the stairs down, then just work
+your way through this linear
+cave. I had a section typed up,
+but then WordPad crashed.
+
+Heal up, and approach the exit
+to fight Bahamut.
+
+Boss: Bahamut My Level: 47
+Rewards: 16500 gil 5000 exp He's
+not invincible this time. In
+fact, he's quite vincible, so
+hit him with everything you've
+got to shoot down flying
+enemies. Aeroga does massive
+damage here. He'll just attack
+regularly, and only about as
+hard as Leviathan. He probably
+also casts Mega Flare, but I
+don't know for sure.
+
+You'll now have the final summon
+spell, Bahamur. You'll have to
+walk your way out of the cave,
+though.
+
+The Sunken Cave_ _ _ _ _ _ _ _ _
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ [LOST] There's one
+last bonus dungeon I completely
+forgot to mention, mostly
+because of its complete lack of
+remarkable features. I'm
+referring to the Sunken Cave, a
+tiny little hole under some
+island. You'll find it under the
+island at the southeast corner
+of the map.
+
+Starting off, just follow the
+path down to the next floor.
+
+The east branch leads to a chest
+with Tiger Claws. He short
+branch west has a chest with a
+Chakram. The southwest path
+leads to a Dual Tomahawk and the
+southeast path leads to the way
+down.
+
+Head south across the bridge to
+a fork. South leads to an
+Ancient Sword and another
+bridge, which leads to a
+Cognitome, a Diamond Helm, Metal
+Knuckles, and a Diamond Sheild.
+The west fork leads to an Air
+Knife, Diamond Mail, a Loki
+Harp, and Diamond Bracers. South
+from there leads to a Phoenix
+Down, an Elixir, and Diamond
+Gloves.
+
+That's all, but they're all
+pretty useful if you get them
+early on. I went here at Level
+55, after beating the game, and
+was less than impressed.
+__________________
+[EXTR] Extra Stuff\_____________
+
+FC to DS Changes_ _ _ _ _ _ _ _ 
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
+¯ ¯ ¯ ¯ ¯[FCDS] I was asked to
+list what noticeable changes
+were made in the remaking
+process, so here is list. If I
+don't mention something here,
+that means it hasn't changed.
+
+-A 3-minute FMV intro has been a
+
+-The ending lines of the Gulgan 
+ intro segment
+
+-At the start of the game, Lunet
+
+-The four Warriors have distinct
+
+-Chests here and there have diff
+
+-A Quicksave feature has been ad
+ saving like in I&II Advance)
+
+-Enemy party size has been reduc
+ maximum of three enemies per ra
+
+-Enemy difficulty has increased 
+
+ENemy turns are no longer
+calculated alonside player turns
+(see Battle section)
+
+-Monsters give more experience a
+
+-The Crystal Chambers have been 
+
+-The Wind Crystal does not grant
+ defeated
+
+-A scene in Ur introducing Arc h
+
+-Topapa has a few extra lines ex
+
+-The scene at the Kazus entrance
+
+-The Blacksmith in Kazus now com
+
+-A scene in Cid's Airship introd
+
+-The background music for the Ai
+ has been extended
+
+-The lone guard at Sasune has be
+ him has been added
+
+-The romance between Sara and a 
+
+-The Djinn is fought without the
+
+-The party no longer leaves Seal
+ Crystal and separated from her
+
+-The party receives Jobs from th
+
+-The Thief Job is now received f
+
+-A moogle shows up briefly expla
+
+-The Capacity system has been re
+
+-The party now meets up with Sar
+
+-The scenes involving the Airshi
+ Refia
+
+-Dragon's peak now has cliffs
+
+-The Tozas theme has been slight
+
+-The Tozas Map (and all Mini-exc
+ longer appear mini on them
+
+-The spell Sight now shows area 
+ instead of showing a zoomed out
+
+-The Fat Chocobo theme is somewh
+
+-The Geomancer Job is now receiv
+
+-The Living Forest map has a gia
+
+-A secret room has been added to
+
+-An area of Hein's Castle has be
+
+-A scene with Cid explaining the
+
+-A scene with the four leaving t
+
+-The flooded surface world now h
+
+-Aria's theme has been extended
+
+-The Magic Knight job has become
+ weaknesses
+
+-The Black Belt job is not obtai
+ have not been changed to reflec
+
+-You cannot board you ship after
+ sail a short distance before th
+
+-The Saronia theme is somewhat e
+
+-Every level after Goldor's Mano
+
+-The Submarine theme is slightly
+
+-The Underwater Cave theme has a
+
+-Falgabard has been changed to a
+ Knights...)
+
+-Doga has a few more lines, desc
+
+-The Ninja and Sage Jobs are obt
+
+-The Syrcus (Sylx) Tower is now 
+
+-The Eureka theme has a longer i
+
+-Shuriken are no longer equipabl
+
+-You can now buy the three highe
+ your inventory XD
+
+-The party is fully healed after
+
+-The sped up version of the CoD'
+ Dark show up
+
+-The Cloud of Darkness is accomp
+
+-The Cloud of Darkness now has a
+
+-The Nautilus no longer has long
+
+-The player is allowed to save a
+
+-The Onion Knight Job is acquied
+
+-Miscillaneous side quests are u
+
+________________________________
+[IFAQ] Frequently Asked Question
+s\______________________________
+________________ Someone
+mentioned I sounded like an
+asshole in the FAQ section. It's
+called sarcasm. I am happy to
+assist people when they have
+questions, but sometimes the
+answers are already in the
+guide, and sending me an email
+asking a question I've already
+answered is a waste of my time
+and yours.
+
+Steps to finding a solution to a
+problem: 1. Read the manual 2.
+Read the in-game help text (i.e.
+The description for Mini says
+that it
+  shrinks AND unshrinks the targ
+4. Check the guide, including
+sections before the spot where
+you have
+  trouble
+3. Check the forums, someone may
+have asked your question and
+gotten a
+  reply
+	5. Ask me
+
+With all those said:
+
+Q: Where do I get the [such and
+such] Job? A: Look at the Jobs
+Section. I'd post exactly where
+you get each job before I
+   actually got to that part of 
+   locations from the Famicom re
+
+Q: HELP MEEEE!!!!! I don't know
+how to change Jobs! How do I
+change Jobs? A: I was shocked
+and appalled by the number of
+times I got this question. I
+   really thought it was self-ex
+   first have gotten the first s
+
+Q: I ran out of Phoenix Down.
+Where can I get more? A: If
+you've snagged every chest in
+every dungeon and ran out, I'd
+say you're
+   pretty much screwed. I can't 
+   chests you've gotten. However
+   option of stealing them off t
+   this requires access to Drago
+
+   To conserve Phoenix Down:
+-NEVER use Phoenix Downs when
+you're in a random encounter.
+Just don't.
+ You can always redo the level, 
+-NEVER sell them, even if you
+need the 1 gold you get from the
+sale. -NEVER use too many
+against one boss. Sure you win,
+but at what cost? -Make sure you
+aren't too underleveled. If the
+monsters kill you in one hit, go
+level up somewhere else.
+
+Q: How do weapons that cast
+spells work? A: Use the Item
+command (in battle) and select
+that weapon as if it were any
+   other attack item. You can us
+   same effect as if that charac
+
+Q: How do I board/disembark from
+the Enterprise? A: Just walk
+into it to board (you may have
+to try a different angle) and
+sail
+   into the shore to disembark. 
+
+Q: How do I cast Mini?
+A: Menu ->
+   Magic ->
+   [White Mage, Red Mage, Schola
+   LV.2 ->
+   Mini ->
+   All Party Members
+   You need at least 1 MP at spe
+
+Q: Where is [such and such
+location]? I can't find it! A:
+The magic Sight marks all
+locations on your map
+temporarily. If you're
+   looking for a dungeon, fly ar
+   haven't visited yet. This can
+   overworld, and underwater.
+
+Q: Tell me what Jobs to use.
+A: No.
+
+Q: Why haven't you updated yet?
+A: I have this annoying thing
+called a life. As devoted as I
+am to Final Fantasy
+   III, sometimes there are more
+   a while, it means I'm having 
+
+Q: What does [this word] mean?
+A: Oy. This is why God invented
+the Dictionary, my friend. Worst
+case scenario:
+   Google it.
+
+And a recent biggie: Q: Can I
+have your friend code? A: NO. I
+don't want to, and it wouldn't
+work anyway due to the
+ingeniously
+   crafted friend code system th
+   which is nearly impossible wi
+   room. Or you could use AIM, b
+
+_________________
+[KUPO] Contact Me\______________
+
+...If you feel it absolutely
+necessary. E-mail me if you have
+questions, would like to submit
+any extra info I may have
+glossed over, or if I just plain
+screwed up. I won't be offended.
+Do not send me the locations of
+treasure chests I ignored in the
+guide unless it's something
+*really* good. I probably won't
+reply (I'll just update the
+guide with your contribution)
+unless you have a question too
+unique for the FAQ section.
+
+New rule: Don't ask me about
+glitches. I don't know. SquEnix
+is generally pretty good about
+playtesting and debugging,
+unlike some developers I know
+of. <cough>Konami, I love you to
+death, but...</cough>
+
+If you find something odd:
+Great!
+
+Ah, yes. READ THE FAQ BEFORE
+SENDING ME E-MAILS!!!! Duh.
+That's what it's there for.
+Also, read the section of the
+main walkthrough that pertains
+to the area in which you are
+stuck. If you need to find out
+what to do when you run out of
+keys, try searching with
+keywords like "unlock" or "key".
+You'll come across a section
+describing the Thief's ability
+to "unlock" doors without
+"key"s. Isn't Ctrl+F great?
+
+Do not send me spelling
+corrections or offers for free
+medication.
+
+New rule Final Mix: Don't make
+demands, it's irritating
+
+E-mail:
+MoogleWarriorVII@yahoo.com
+
+Put 'FF3 Guide' or something of
+the sort in the header or I toss
+it as spam.
+
+Don't use a subject line like
+"You messed up", 'cause that's
+just insulting.
+
+Also, don't send mail like this:
+Troll Tales (Episode 1):
+
+"hey, I'm writing about that
+guide you posted on
+gamespot.com, for FFIII for DS.
+It sucks...seriously u need to
+use better grammar. just delete
+the whole thing, it sucks. no
+ones even gonna use it after
+reading the first sentence. what
+a dumb ass."
+  --"Jon Rosenberg" <respectandt
+
+You shall be remembered for all
+time as a moron. Something tells
+me that if the irony in that
+username isn't intentional, then
+it's a divine message.
+
+I'll have you know that English
+is my primary language, I live
+in the US, and 'u' is not a
+pronoun.
+
+Troll Tales (Episode 2):
+
+"hey, I'm writing about that
+guide you posted on
+gamespot.com, for FFIII for DS.
+It sucks...seriously u need to
+use better grammar. just delete
+the whole thing, it sucks. no
+ones even gonna use it after
+reading the first sentence. what
+a dumb ass.
+
+P.S. I know that "u" is not a
+pronoun"
+   --<SkatrElementJ@aol.com> (J 
+
+If you know that "u" is not a
+pronoun, why do you insist on
+copying such an abhorrent email
+word for word (or Ctrl+C-ing
+it)? Please stop stalking me.
+Don't make me go all Al Franken
+on you.
+
+For the record, the guide's on
+GameFAQs, and GameSpot likes to
+copy from their sibling site
+(that's CNET!).
+
+To all GameSpot users looking to
+change the world: Break the
+stereotype. Show us your mastery
+of the English language. Show us
+that you aren't a bunch of
+ignorant trolls.
+
+Contributors (The first people
+to send me any particular
+tidbit): Daniel Li - For sending
+me some actually useful info
+Stephen Matthews David Roy Derek
+Choi Michael Gilliam The seventy
+thousand people who told me
+where the fourth Dragon Mail was
+_________________
+[LEGL]Legal Stuff\______________
+
+Final Fantasy III is (c)1990,
+2006 Square-Enix Co., Ltd.
+
+This guide is (c)2006 Justin
+Reviea (myself), exclusively for
+GameFAQs, and, because they’re
+the same network, GameSpot.
+
+Do not print the guide and then
+toss it. Love it and treasure it
+as an heirloom to be passed down
+to later generations. Obviously
+I can't enforce that. Just play
+nice out of courtesy to the
+author, okay?
+_____________
+[TTFN] Thanks\__________________
+
+Thanks to...
+
+GameFAQs, the only walkthrough
+site anyone can remember.
+
+Hironobu Sakaguchi, for reasons
+I shouldn't have to explain.
+
+Kenji Terada, you wrote them
+better than Nojima, and they
+didn't even credit you this
+time.
+
+Aria, you will always have a
+place in my heart.
+
+Doga, for the moogles.
+
+That's about it.
+

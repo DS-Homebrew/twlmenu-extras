@@ -1,0 +1,1476 @@
+ 888    d8P   d8b           888
+ 888   d8P    Y8P           888
+ 888  d8P                   888
+   888d88K      888  888d888  88
+   8888888b     888  888P"    88
+   888  Y88b    888  888      88
+   888   Y88b   888  888      88
+   888    Y88b  888  888      88
+   .-.             .    .-.     
+   `-..-.. ..-,.-. |_,  `-..-.. 
+   `-'`-|'-'`'-`-`-' `  `-'`-|'-
+================================
+FAQ/Walkthrough written by
+DbZ_Smash Copyright (C) 2007
+DbZ_Smash Version 0.6
+================================
+      -Table of Contents-
+================================
+-Version History                
+-Introduction                   
+-Controls                       
+-Abilities                      
+-Characters                     
+-Walkthrough                    
+  -Prologue                     
+  -Prism Plains                 
+  -Nature Notch                 
+  -Cushy Cloud                  
+  -Jam Jungle                   
+  -Vocal Volcano                
+  -Ice Island                   
+  -Secret Sea                   
+  -Gamble Galaxy                
+-Treasures                      
+-Extras                         
+  -Sub-Games                    
+  -Extra                        
+-Legal Stuff, Contact Info, and 
+
+
+================================
+Version History                 
+================================
+
+Version 0.6 (8/7/07): Covers up
+to Vocal Volcano.
+
+Version 0.5 (8/1/07): Covers up
+to Jam Jungle. Fixed some minor
+typos
+
+Version 0.2 (7/31/07): First
+version, covers Prism Plains.
+
+
+================================
+Introduction                    
+================================
+
+Kirby Squeak Squad is a
+platformer for the Nintendo DS.
+It was released in the US on
+December 6, 2006. It was
+developed by Flagship and
+Published by Nintendo and HAL
+Laboratory. This is my first FAQ
+on GameFAQs.
+
+
+================================
+Controls                        
+================================
+
+D-Pad: Left and right to move,
+double tap to run
+ Up to jump/fly
+ Down to crouch/drop through flo
+
+A: Jump/fly
+
+B: Inhale/exhale/use ability
+
+Y: Jump/fly
+
+X: Release ability
+
+Start: Pause
+
+Select: Release ability/exit
+level when pasued
+
+L: N/A
+
+R: N/A
+
+Touchscreen: Minigames/mixing or
+using items in Kirby's belly
+
+
+================================
+Abilities                       
+================================
+
+Wheel - "I ride like the Wind.
+FAST! TOO FAST!"
+
+B: Dash. You can ride on water
+water dashing.
+
+Dash + A: Jump
+
+Scroll Ability: If you dash
+through fire, you will become
+fire elemental,
+  and the same goes for snow.
+
+-----
+
+Hammer - "INSTANT K.O. It's
+almost unfair.
+
+B: Vertical smash
+
+B in the air: You do a flip with
+the hammer out
+
+Dash + B: You do a spin with the
+hammer out
+
+Up + B: Swing the hammer up
+
+Scroll ability: Press and hold B
+to make a bigger stronger smash
+
+-----
+
+Hi-Jump - "JUMP and SMASH!"
+
+B: Do a Hi-Jump
+
+Scroll ability: Makes the Hi-
+Jump stronger
+
+-----
+
+Cupid - "Fire pointy arrows."
+
+B: Shoot an arrow
+
+Hold B and release: Shoot an
+arrow further
+
+Hold B (longer) and release:
+Shoot 3 arrows far
+
+Up/Down + B: Aim arrow up or
+down
+
+Scroll Ability: Dash + B: Shoot
+3 arrows forward
+
+-----
+
+Magic - "Gather 'round and look
+closely! Nothing in my hand!
+Nothing in my
+  sleeve!"
+
+B: Let 3 birds fly out in 3
+directions
+
+Right/Left + B: Shoot 3 cards
+forward
+
+Up + B: Let out Jack in the Box
+
+Scroll ability: Hold B: You will
+do a roulette and lose your
+ability
+
+-----
+
+Ninja - "<INSERT JAPANESE
+CHARACTER HERE>"
+
+B: Throw ninja star
+
+Left/Right + B: Slash
+
+Down + B in the air: Kick
+downwards
+
+Left/Right + B near an enemy:
+Ninja drop
+
+B while on wall: Throw ninja
+star
+
+Scroll ability: Hold B and
+release: Fire attack
+
+-----
+
+Bubble - "Mysterious bubbles can
+capture so much."
+
+B: Shoot bubbles
+
+Up/Down + B: Aim bubbles
+
+Scroll Ability: Left/Right + B:
+Shoot a bubble which can capture
+an enemy
+    and turn it into a star
+
+-----
+
+Spark - "CHARGE!"
+
+B: Spark attack
+
+Tab D-Pad wildly + B: Stronger
+spark attack
+
+Scroll Abilities: Tap D-Pad
+wildly + B: Even stronger spark
+attack
+
+     Tap D-Pad wildly + Left/Rig
+
+-----
+
+Animal - "You love dirt!  DIG!
+  Sweet Dirt!  DIG!
+  DIG!  DIG!  DIG!
+    Can't dig everywhere..."
+
+B:  Claw attack
+
+Dash + B:  Jump attack
+
+B in diggable spots: Dig
+
+Scroll Ability: B +
+Left/Right/Down: Drill attack
+
+-----
+
+Metal - "Be careful. You can't
+get hurt, but dont get mad if
+you break stuff.
+  It's not perfect, OK?"
+
+Down + B in the air: Ground
+pound
+
+Scroll ability: B: Turn into
+metal ball. You can roll down
+slopes.
+
+-----
+
+Fighter - "Go for it!
+  CHAMPION"
+
+B: Rapid jabs
+
+B ~ B: Rapid jabs ~ Kick
+
+B ~ B ~ B: Rapid jabs ~ Kick ~
+Punch
+
+B in the air: Spin kick
+
+Down + B in the air: Downwards
+kick
+
+Hold B and release: Blast attack
+
+Left/Right + B: Spin kick
+
+Dash + B: Flip kick
+
+Up + B: Uppercut
+
+Left/Right + B near an enemy:
+Ninja drop
+
+Scroll ability: Hold B (longer)
+and release: Charged blast
+attack
+
+-----
+
+Sword - "CUT"
+
+B: Slash attack
+
+B ~ B: Slash attack ~ Multiple
+slashes
+
+B ~ B ~ B: Slash attack ~
+Multiple slashes ~ Finishing
+slash
+
+Down + B: Forward thrust
+
+Up + B: Final cutter
+
+B in the air: Spin attack
+
+Scroll ability: You can mix the
+sword ability with fire, ice, or
+spark to make
+    fire, ice, or thnder swords.
+    in water, and they all have 
+    sword, just with the element
+
+-----
+
+U.F.O. - "Wow! I'm so lucky I
+copied a UFO! I can do four
+moves. It all depends on how
+long you hold B"
+
+B: Beam attack
+
+Hold B and release: Laser attack
+
+Hold B (longer) and release:
+Charged laser attack
+
+Hold B (even longer) and
+release: Super charged laser
+attack
+
+Scroll ability: A spark will
+rotate around you, and hurt any
+enemies it touches
+
+-----
+
+Laser - "OPTICAL WEAPON ARMED
+  It's rumored to be a bigger be
+
+B: Laser attack
+
+Scoroll ability: Hold B and
+release: Charged laser attack
+
+-----
+
+Parasol - "The sun shines on
+this parasol of mine. Where I
+walk, enemies balk,
+  and I float gently down..."
+
+B: Swing the parasol
+
+Hold B and release: Swing the
+parasol and spin it
+
+Scroll Ability: When you spin
+the parasol, stars will shoot
+out a little
+
+-----
+
+Cutter - "Remote Cutter
+  BOOMERANG"
+
+B: Throw the cutter forward
+
+Up/Down + B: Aim the cutter up
+or down
+
+Scroll ability: The cutter will
+be bigger
+
+-----
+
+Sleep - "-DO NOT DISTURB-
+  I need by beauty rest."
+
+No buttons: Sleep. You will lose
+the ability when you wake up
+
+Scroll ability: When you sleep,
+you will recover health
+
+-----
+
+Bomb - "HOLD
+  B
+  THROW!!"
+
+B: Take out a bomb
+
+B ~ B: Take out a bomb ~ Throw
+the bomb
+
+B ~ Up/Down + B: Take out a bomb
+~ Throw the bomb up or down
+
+B ~ Down + A: Take out a bomb ~
+Slide and place bomb down
+
+Down + B: Drop a bomb
+
+B ~ Dash + B: Take out a bomb ~
+Throw the bomb forward
+
+Scroll ability: You can mix the
+bomb ability with ice or spark
+to make ice or
+    thunder bombs.  They both ha
+    bomb
+
+-----
+
+Beam - "This beam's like a whip!
+Wha-pssssshh!
+ Beam it!  Beam it!  Beam it!"
+
+B: Beam attack
+
+Scroll ability: Makes the beam
+attack stronger
+
+-----
+
+Fire - "Hot! So hot! Too hot to
+touch!"
+
+B: Breathe fire
+
+Dash + B: Fireball attack
+
+Scroll ability: B + Up/Down: Aim
+fire breath up or down
+
+-----
+
+Tornado - "Spin spin spin spin
+spin
+    Spinspinspin
+   Spinspinspinspin
+    AAAAAUGGHH!"
+
+B: Tornado attack
+
+Hold B: Do a tornado attack and
+lift into the air
+
+Scroll ability: If you do a
+tornado attack into fire or
+snow, it will gain its
+       elemental ability
+
+-----
+
+Ice - "First I'll freeze 'em
+then I'll kick 'em along!
+            BRRRR!"
+
+B: Ice breath
+
+Scroll ability: B + Up/Down: Aim
+ice breath up or down
+
+-----
+
+Throw - "Try throwing enemies
+straight!"
+
+B: Inhale then grab an enemy
+
+B ~ B: Grab an enemy ~ Throw the
+enemy forward
+
+B ~ Up/Down + B: Grab an enemy ~
+Throw the enemy up or down
+
+Scroll ability: When you throw
+an enemy, they will have an aura
+around them
+
+-----
+
+Ghost - "I will possess...
+  I will control...
+  I'm a spooky soul
+ I'm not scary, though. Right?"
+
+B: Possess an enemy (doesn't
+work on bosses or minibosses)
+
+Ability scroll: N/A
+
+-----
+
+Triple Star - "What else needs
+saying?
+    TRIPLE STAR
+      That's what you are.
+           Amazing!"
+
+B: Triple Star attack
+
+B in the air: Triple Star air
+attack
+
+Ability Scroll: N/A
+
+
+================================
+Characters                      
+================================
+
+Kirby - "The little pink
+puffball with the gigantic
+appetite is once agin the star
+of the show. This time around,
+Kirby's taking his copy
+abilitieson the road in search
+of his stolen strawberry
+shortcake."
+
+King Dedede - "From his castle
+high atop the mountains, King
+Dedede rules over all of Dream
+Land. Is he responsible for the
+theft of Kirby's cake? Only time
+will tell..."
+
+The Squeaks - "This gang of
+intergalactic thieves possesses
+wide-ranging abilities, which
+they use to hunt down and
+capture treasures of all shapes
+and sizes. Daroach is the
+leader, Spinni is the speed,
+Storo is the muscle, Doc is the
+brains, and the yellow, blue,
+and green Squeakers are the
+henchmen."
+
+
+================================
+Walkthrough                     
+================================
+********************************
+Prologue                        
+********************************
+Early afternoon in Dream Land...
+
+It's so peaceful that the clouds
+are even drowsy.
+
+And now it's Kirby's favorite
+time of the day-snack time.
+
+Today's yummy snack is a sweet,
+fluffy slice of strawberry
+shortcake!
+
+Time to dig in...
+
+WHOA! The cake that Kirby was
+about to eat has suddenly
+vanished!
+
+That scrumptious berry-topped
+slice of mouth-watering
+goodness...
+
+No doubt about it! This must be
+the work of that greedy King
+Dedede!
+
+Well, there's no time to waste!
+Gotta get that cake back!
+
+And that's how Kirby's latest
+fantastic adventure begins...
+
+********************************
+Prism Plains                    
+********************************
+
+1-1 - There are no chests in
+this level Room 1: Run through
+the room, and when you see the
+waddle doo, copy it. Room 2:
+Destroy all of the enemies and
+blocks that you come across. If
+you get
+  hurt, you might wanna get the 
+Room 3: Jump up the platforms
+(or fly) to the top of the room.
+Don't forget to
+  get the 1-up.
+Room 4: Run through the room and
+get the Maxim Tomato if you need
+to. Destroy
+  the bomb block and enter the l
+-----
+
+1-2 - There is 1 chest in this
+level Room 1: Get the sword in
+the bubble and go through the
+door Room 2: Use the sword to
+cut the grass. Get the cherries
+if you need helath. Room 3: Get
+the 2 bubbles at the top of the
+room. Mix them together to make
+a
+  Maxim tomato, which you can sa
+  the next room.
+Room 4: Go down the room and
+defeat the enemy if you have an
+ability, otherwise
+  copy the enemy's abilty.
+Room 5: Fly up to the platform
+and grab the treasure chest.
+Kill any enemies
+  in your way, and finish the le
+-----
+
+1-3 - There are 2 chests in this
+level Room 1: Copy the fire
+enemy's ability. Burn all of the
+grass in the room, one
+  hides a door which leads to a 
+  enemies next to it.
+Room 2: Go through the room
+killing enemies, and get the
+fire bubble if you
+   don't have any abilities.
+  Miniboss Battle: Mr Frosty.  U
+  throw ice and charge at you.  
+  him when he charges at you.  H
+Room 3: Go through the room
+killing the enemies, but do not
+try to absorb them,
+  because they will attack you w
+Room 4: Run through the level
+and destroy the blockwhen you
+get to the second
+  invincible enemy.  Copy the an
+  and the chest.
+Room 5: When you grab the chest
+in this room, one of the Squeak
+Squad members
+  will chase you, and in this ca
+  if he hits you, you will lose 
+  of it.  Get to the big door to
+-----
+
+1-4 - There are 3 chests in this
+level Room 1: Jump on the
+warpstar Room 2: Copy the
+penguin's ability and get the
+cherries Room 3: Run through the
+room, freezing any enemies in
+your way. Room 4: Run until you
+get to the big swordsman.
+Destroy the blocks on the
+  ceiling to reveal a chest.  Cl
+Room 5: Hit the switch to get a
+lollipop. Use the invimcibility
+to run through
+  the enemies.  Grab the chest b
+  have invincibility, you get ru
+Room 6: Get the fire bubble
+before you grab the chest. Once
+you grab the
+  chest, you will have to fight 
+  him with the fire breath, and 
+-----
+
+1-EX - There are 2 chests in
+this level Room 1: Copy the
+ninja's ability (if you have
+none) and attack any enemies.
+Room 2: Kill just about every
+enemy that crosses your path
+Room 3: When you get to the end
+of the room, Destroy the blocks
+tha thide the
+  doorway.
+Room 4: Go up through the room,
+and choose the left path when
+you have to. The
+  doorway contains a chest
+Room 5: Go through the room
+killing enemies Room 6: When you
+grab the chest, Doc will start
+chasing you, so run to the top
+  right of the room to escape (o
+-----
+
+1-5 - There is 1 chest in this
+level Room 1: Fly to the very
+top of the room and break the
+barrel to find a chest.
+  Hit the switch and finish the 
+-----
+
+1-Boss - King Dedede First of
+all, get the two bubbles at the
+top of the room. Ice and fire
+work good because you can corner
+him and just keep attacking with
+the ice/fire breath and he won't
+move. He is not very hard to
+defeat.
+
+
+********************************
+Nature Notch                    
+********************************
+
+2-1 - There are 3 chests in this
+level Room 1: Copy the flying
+enemy's ability. Go down and
+kill enemies in your way.
+  Destroy the blocks on the lowe
+  door.
+Room 2: Run through the room
+killing enemies that are in your
+way. Nothing
+  special in this room.
+Room 3: Jump in the cannon and
+when you have to choose between
+paths, choose
+  the right path.  The barrel re
+  door.
+Room 4: Go through the room
+until you see the bomb blocks.
+Destroy the first 2
+  to get past them, but fly over
+  get the chest.
+Room 5: When you get the big
+chest, Spinni will start chasing
+you. You can
+   fight him, or you can run.
+-----
+
+2-2 - There are 2 chests in this
+level Room 1: Grab the cutter
+bubble and enter the doorway.
+Room 2: Go all the way down to
+the bottom of the room, killing
+any enemies that
+  block your path.
+Room 3: You can destroy the bomb
+block to get to the door and get
+a Kirby
+  bubble if you want.  Go up awh
+  Behind it is a doorway which l
+  platform, and go down to the b
+  through the doorway.
+Room 4: Run through the room as
+fast as you can, and get to
+Storo before he
+  goes into the castle.  You mig
+  switch and go through the door
+-----
+
+2-3 - There are 3 chests in this
+level Room 1: Nothing here, so
+just go through the doorway.
+Room 2: Get the wheel and press
+B to ride through the whole
+level, killing
+  everything in sight.
+Room 3: When you get the big
+chest, Doc will start chasing
+you. Use the
+  wheel's ability to go thorugh 
+  on water.
+Room 4: Get the bubble ability
+and go on the platform. Aim the
+ability to hit
+  the bomb block and get the che
+Room 5: Miniboss battle: Gao
+Gao. He's not very hard to
+  defeat.  Use your ability on h
+  just dodge his attacks, inhale
+  can copy his ability if you wa
+  some items, but other than tha
+Room 6: Use the scroll ability
+(assuming you have it already)
+to dig easily
+  into the ground.  The chest is
+  can get some other items if yo
+Room 7: When you enter the room,
+Doc will start chasing you.
+After yo go up the
+  ladder, go left, up, left, dow
+  right, up, then go right to th
+-----
+
+2-4 - There is 1 chest in this
+level Room 1: Go under that
+platofrm to dodge the first
+boulder, then fly over the
+  second one.
+Room 2: Hit the bomb block,
+which lets the boulder go, then
+go down. Hit the
+  next bomb block to let the bou
+boulder does, to get the chest.
+-----
+
+2-5 - There are 3 chests in this
+level Room 1: Copy one of the
+fire enemy's ability and go
+through the room killing
+  enemies.
+Room 2: Get the ice ability and
+use it on the fire to get to the
+platform and
+  get the item in the barrel.
+Room 3: Go thorugh the room
+until you see a doorwy. Use the
+ice ability to
+  put out the flames so you can 
+   Go to the end of the room.
+Room 4: Miniboss battle: Big
+Metalum. Inhale the rocks that
+  fall from the ceiling, and thr
+  after about 10 hits.  Copy his
+  find a chest in the barrel.
+Room 5: Go through the room
+killing any enemies, and then go
+through the door. Room 6: Spinni
+will take the chest. Get to him
+before he gets to the castle,
+ or you will gave to fight him.
+-----
+
+2-EX - There are chests in this
+level Room 1: Copy the fire
+enemy's ability and burn
+anything you come across. Room
+2: Go up the ladders, and kill
+enemies.
+  Miniboss battle: Bonkers.  If 
+  have an ability, use it on him
+  them at him.  Copy his ability
+  the wooden stump and reveal a 
+  ladder and hit the metal block
+  right, and take the bottom doo
+Room 3: Go thorugh the path,
+killing enemies in your way,
+then hit the barrel
+  at the end of the room to get 
+Room 4: Hit the switch as fast
+as you can, so that the golden
+Waddle Dee
+  doesn't fall.  Kill the golden
+Room 5: Use the lollipop in this
+room, and then run to Storo, and
+if you still
+  have invincibility, you can ru
+-----
+
+2-Boss - Mrs. Moley Use the
+fire/ice breath to defeat the
+boss easily. If she jumps up
+from the background, keep
+running away from the shadow.
+She shouldn't be too hard to
+defeat.
+
+
+********************************
+Cushy Cloud                     
+********************************
+3-1 - There are 3 chests in this
+level Room 1: Go through the
+room killing enemies. Copy one
+of the enemy's ability. Room 2:
+Go down the room killing enemies
+that cross your path. Room 3:
+Release any ability that you
+have and copy the laser ability.
+The
+  lasers will bounce off slopes.
+  shoot the block, then shoot th
+  When you hear the bomb go off 
+  the Kirby bubble and drop thor
+  are massive amounts of blocks,
+  The top right has a room with 
+  bubble, which then leads to th
+   straight to the next room.
+Room 4: Kill the enemies, climb
+down the ladder, and copy the
+fire enemy's
+  ability.  Do the fireball atta
+Room 5: Kill the Squeaker that
+holds the chest. Spinni will
+start chasing you,
+  so run to the right, and go in
+-----
+
+3-2 - There are 2 chests in this
+level Room 1: Copy the penguins
+ability, and kill enemies. Get
+the bubble in the middle of the
+room, if you want. Room 2: Jump
+into the water and hit the bomb
+block from underneath. Go into
+  the door to get a 1-up and a c
+Room 3: Miniboss battle: Boxy.
+If you have an ability, use it
+on it,
+  otherwise, Hit it with the sta
+  abillity.
+Room 4: Run through the room,
+and kill enemies that cross your
+path. Room 5: Grab the chest
+before Doc does. Run to the
+right side of the room to
+  finish.
+-----
+
+3-3 - There are 3 chests in this
+level Room 1: Just grab the
+cutter ability. Room 2: Run
+through the room, killing
+enemies. Room 3: Grab the
+parasol, and fly up, and destory
+the blocks on the upper left
+  part of the room.
+Room 4: Run until you see one of
+the guys with the cutter. Copy
+his ability
+  and destroy the blocks below h
+  to cut the rope as fast as you
+  falling.  Kill the Waddle Dee 
+Room 5: Run up, kiling any
+enemies that stand in your way.
+When you see a
+  switch, go next to the stone, 
+  ability), Aim the cutter down 
+  chest.  Stro will appear.  Hit
+  to the end.
+-----
+
+3-4 - There are 3 chests in this
+level Room 1: Run through the
+room and kill enemies to get to
+the door. Room 2: Get the fire
+ability, burn the rope, and get
+in the cannon. Burn
+  through the clouds to get the 
+Room 3: Fly up and get on the
+warpstar. There is also a ?
+bubble on the other
+  side.
+Room 4: Run throigh the room,
+and when you get to the door,
+burn through the
+ cloud and get the UFO ability.
+Room 5: Run through the room,
+killing enemies, until you see
+the chest. DON'T
+  hit the first bomb block.  Go 
+  jump to the platform and use t
+   and quickly get the chest.
+Room 6: Storo will get the
+chest. Race him to the end, and
+hit him to get the
+  chest and run away.
+-----
+
+3-EX - There are 3 chests in
+this level Room 1: Get the beam
+ability and hit the bomb block.
+Room 2: Keep going up the
+ladders, killing enemies. When
+you get to the top,
+  you can go left to get a one u
+  with the beam, to get a chest 
+  up the next ladder, then when 
+  one, then go through the door 
+  Spinni will chase you into the
+Room 3: Run away from Spinni,
+and hit the switches to make the
+spikes go away.
+-----
+
+3-5 - There is 1 chest in this
+level Room 1: Get the spark
+ability. If you use the spark on
+the cloud, the cloud
+  spark.  Jump form cloud to clo
+Room 2: Hop on the clouds to go
+up, while using the spark. Room
+3: Race the cloud which holds
+the chest. The cloud will stop,
+and drop
+  the chest in a pit.  Get the c
+-----
+
+3-Boss - Mecha Kracko GET THE
+TORNADO ABILITY. Trust me, it
+really helps. Just press B and
+follow the cloud around. This
+boss has 2 life bars, and 2
+attack patterns. First, it will
+go up and down across the
+screen. Hit it with the tornado
+attack. When you deplete its
+first life bar, its attack
+pattern will change. He will
+start dropping enemies, and put
+gaps in the floor, to make it
+harder to chase him. If you use
+the tornado attack, it should be
+very easy to defeat.
+
+
+********************************
+Jam Jungle                      
+********************************
+
+4-1 - There are 3 chests in this
+level Room 1: Get the cutter
+ability and chop up bushes to
+reveal hidden items.
+  When you see a bridge, aim the
+  1-up.  When you see a switch, 
+  the cutter down to hit the swi
+Room 2: Miniboss battle: Bow
+Fighter. If you still have the
+cutter, or any
+  other ability, use it.  If not
+  very hard.  Just keep your dis
+Room 3: Get the hi-jump ability.
+Jump your way through the blocks
+to get to
+  the top.
+Room 4: Get teh laser ability.
+Go until you see blocks high up
+on the
+  ceiling.  Use the laser to bou
+  When there are spikes blocking
+  to hit the block.  Get the che
+Room 5: Go down the room,
+killing enemies. Room 6: Get the
+fire ability, and burn the
+bushes to find the big chest.
+  Doc will chase you, so escape 
+-----
+
+4-2 - There are 2 chests in this
+level Room 1: Go through the
+room, killing enemies. You can
+get the fire ability to
+ burn through the metal blocks.
+Room 2: Go up through the room,
+killing enemies. Nothing
+special. Room 3: Hit any flames
+you see, to burn the part of the
+level. When you see a
+  bush, burn (or slash) it, so t
+Room 4: You'll have to race
+Spinni to a chest that is on a
+moving platform.
+  grab it before he does, and ru
+-----
+
+4-3 - There are 3 chests in this
+level Room 1: Go through the
+door. Room 2: Hit the bomb block
+to let boulders go. Run into the
+ditch to dodge the
+  boulder, then run to the right
+  start taking you to the next r
+Room 3: Burn the bomb block and
+take the to door. Go through the
+room, and
+  at the end, go up.
+Room 4: Go through the room,
+lighting candles with the fire
+ability. When you
+  get close to the door, go left
+Room 5: The Doc will take the
+chest, so get the wheel ability,
+and chase him.
+  Hit him, and he'll drop the ch
+that you can reach the end door.
+-----
+4-4 - There are 3 chests in this
+level Room 1: Get the spark
+ability. Run through the room,
+killing enemies. Little
+  sparks will go along the groun
+  ability.  Hit the switch to go
+   go back to the other door.
+Room 2: Go through the room,
+straight to the door. Room 3:
+Get the metal ability to roll
+down the room and take the right
+path. Room 4: Kill (or inhale)
+the golden Waaddle Dee before it
+gets to the end of
+  the room.
+Room 5: Hit the switch and go
+through, then hit the bomb
+block.
+  Miniboss battle: Buboo:  Inhal
+  After a few hits, Bubbo will f
+  Run to the door.  You can get 
+  Get the fire ability to burn t
+  the door.
+Room 6: Go up and either burn
+the blocks to the left or go up
+to get to the
+  door. You will have to go thro
+Room 7: Grab the chest, then run
+to the door. Room 8: You will
+fight Storo here.
+-----
+
+4-EX - There are 3 chests in
+this level Room 1: Go through
+the doorway, Room 2: Fly ALL THE
+WAY up to get to the door at the
+top of the room. Room 3: Hit a
+switch and run past the falling
+rocks, and then do that again.
+Room 4: Go down the level,
+killing enemies, and take the
+left path to find a
+  chest.
+Room 5: Go down, then right,
+then hit a switch to disable
+spikes and get a
+  chest.  Hit the bomb block and
+Room 6: Fly over the boulders,
+then keep going up. When you see
+a boulder at
+  the top, go to the side, becau
+  rolling on.
+Room 7: Hit the switch to make a
+chest appear. Spinni will chase
+you. Run and
+  go through the door.\
+Room 8: This is actually room 1
+again. Just go down into the
+door that you saw
+ before to complete the level.
+-----
+
+4-5 - There is chest in this
+level Room 1: Get the bubbles
+that are in the room. Room 2:
+You should the wheel ability
+from another level, then ride
+through the
+  bomb block, and get the chest 
+-----
+
+4-Boss - Yadogaine Use the
+tornado ability to demolish this
+guy. Just press B and aim for
+him. Don't stay on him for too
+long, or else you might get
+hurt. It will constantly move
+forward, so you should keeping
+moving. Try to dodge that rocks
+that fall from the ceiling.
+
+
+********************************
+Vocal Volcano                   
+********************************
+
+5-1 - There are 3 chests in this
+level Room 1: In here, you can
+get the fire ability and burn
+the rope, and get in the
+  cannon, where you can get a Ma
+  also just take the door.  They
+Room 2: You can get the throwing
+ability, which will be used in
+the next room. Room 3: Grab the
+block and throw it at the
+switch, if you want to get a ?
+  bubble.  Grab one of thw sword
+  deactivate the spikes.  At the
+Room 4: Keep going up until you
+see a stone wall with a chest
+behind it.
+  Inhale an enemy, and shoot it 
+  wall.
+Room 5: A squeaker will start
+with the chest. Grab it before
+it runs away and run to the end
+of the level.
+-----
+
+5-2 - There are 3 chests in this
+level Room 1: Dodge the fire and
+lava, and go to the end of the
+room. Room 2: Go up until you
+see a waterfall of lava with a
+hest behind it. Get an
+  ability such as the fire, wher
+Hit he switch and get the chest.
+Room 3: Fly through the room,
+dodging the flying enemies. Room
+4: Go up and left to the door.
+Hit the switches to the right
+and get the
+  chest.  Hit the switch at the 
+Room 5: Get the beam ability and
+hit the switch. Spinni will
+start chasing
+  you.  The door is at the top r
+-----
+
+5-3 - There are 3 chests in this
+level Room 1: Get any ability
+you want. I would suggest the
+cutter because you can
+  keep your distance.
+Room 2: Miniboss battle:
+Bonkers. If you have the cutter,
+keep throwing it at
+  him, and dodge his attacks.  H
+  you have, and copy his.
+Room 3: Hit the wooden stump to
+get the chest. Room 4: Miniboss
+battle: Gao Gao. He will spin at
+you and jump on you while
+  spinning.  The best thing to d
+  back at him.  Copy his ability
+Room 5: Dig to the chest and get
+the cherries if needed. Room 6:
+Miniboss battle: Big Metalum. He
+will walk, and rocks will fall
+from
+  ceiling.  He will also roll at
+  When he's defeated, copy his a
+Room 7: Get do the rock attack
+on the metal spikes, and get the
+chest. Room 8: You will fight
+Storo. There are no blocks in
+this room. Inhale and
+  shoot the stars at him.
+Room 9: Enter the door.
+-----
+
+5-4 - There are 3 chests in this
+level Room 1: Go up to the top
+left of the room and copy the
+animal ability. You can
+  dig to get the cherries and th
+Room 2: Get the ice ability and
+cool down the fires, and get
+moving to the next
+  room.
+Room 3: Go up to the door,
+freezing enemies that cross your
+path. Room 4: Go through the
+room until you see 2 blocks at
+the top of the room.
+  Destroy them and go through th
+  It will make the golden Waddle
+  and grab the chest.
+Room 5: When you hit the switch,
+you have to run as fast as you
+can to get the
+  chest.  Kill and dodge enemies
+Room 6: When you enter this
+room, Doc will take the chest.
+Get the ice ability
+  and cool down the flames to ge
+  your prize.
+-----
+
+5-EX - There are 3 chests in
+this level Room 1: There are 5
+doorways you can take. Go
+through them in the order that I
+  list them.
+Bottom Right: Hit the switch and
+quickly get past the gate. Try
+not to get
+   burned.
+Middle: Use the ice ability to
+freeze all of the lava and fire.
+The chest is
+  in the top right part of the r
+  ladder, get the hammer ability
+Top Left: Hit the first stump,
+then go down. Hit the stump on
+the right to
+  clear the path.  Hit the stump
+  the far right.  Break the barr
+   to get the cupid ability.
+Top Right: Spinni will take the
+chest. Chase him to the hideout
+and battle him
+  to get the chest.
+-----
+
+5-Boss - Bohboh This boss get be
+very annoying. He will fly back
+and forth, dropping fireballs.
+He will also try to dash forward
+and try to grab Kirby, or he'll
+fly back and forth, just trying
+to hit Kirby. Use the hi-jump
+ability that you get, to damage
+him easily. The hi-jump ability
+is very good because he is
+airborne for most of the fight.
+Defeat him to claim your chest.
+The ice ability will only cool
+down the lava for a few seconds.
+
+
+********************************
+Ice Island                      
+********************************
+Coming Soon!
+
+
+********************************
+Secret Seas                     
+********************************
+Coming Soon!
+
+
+********************************
+Gamble Galaxy                   
+********************************
+Coming Soon!
+
+
+================================
+Treasures                       
+================================
+Coming Soon!
+
+
+================================
+Extras                          
+================================
+********************************
+Sub-Games                       
+********************************
+
+Speedy Teatime
+
+You'll face Storo in a contest.
+You have to eat a certain amount
+of cake Storo does. Don't tap
+the screen before the lid comes
+off the plate, or else you won't
+get a chance to eat the cake.
+Don't the bombcakes, or else
+you'll lose a turn.
+
+Smash Ride
+
+Kirby and Spinni will both be on
+stars. You have to hit Spinni
+(or the Squeakers) off the edge.
+Slide the touchscreen to make
+Kirby move. You can You can tap
+and hold Kirby to do a charged
+attack. Whoever has the most
+points at the end of the gam
+wins.
+
+Treasure Shot
+
+Slide the touchscreen to get
+ckae and cherries. Don't get
+bombs or you'll be hurt for a
+few seconds. Get more points
+than Doc and you'll win the
+game.
+
+Boss Endurance
+
+You unlock this by beating the
+game. You have to face all of
+the bosses consecutively, with 1
+life and 1 maxim tomato. This is
+VERY hard, considering the
+amount of health you have.
+
+
+********************************
+Extra                           
+********************************
+
+Extra mode is the same thing as
+the regular story mode, except
+that you are timed, and you
+cannot save. If you get a
+gameover, you'll have to start
+all over again, from the
+beginning. I haven't gone
+through it yet (I don't have the
+time), but I would think that
+it's not much harder than story
+mode.
+
+
+================================
+Legal Stuff, Contact Info, and
+Special Thanks [LSCI]
+================================
+********************************
+Legal Stuff
+********************************
+
+This guide is authorized to
+appear on the following
+websites:
+
+  GameFAQs
+  Neoseeker
+  1up.com
+  faqs.ign.com
+  supercheats.com
+
+Only when credited to me. If you
+would like to put this guide on
+your website, e-mail me at
+DbZ_Smash@yahoo.com. Don't post
+the guide without my
+authorization.
+
+The copyrights of this game
+belongs to the developers and
+whoever else helped create the
+game. This guide is copyrighted
+Ray Spataro aka DbZ_Smash. Do
+not make any changes to this
+guide or distrubite this guide
+for profit.
+
+********************************
+Contact Info
+********************************
+
+You can e-mail me at
+DbZ_Smash@yahoo.com. Put the
+game's title in the subject so I
+know what it is. Comments and
+comstructive criticism is
+appreciated, but stupid e-mails
+will just be deleted.
+
+********************************
+Special Thanks
+********************************
+
+Special thanks goes to Nintendo,
+Hal Laboratory, and Flagship for
+making the game, GameFAQs for
+hosting this FAQ/Walkthrough,
+ASCII Generator for the ASCII
+art, and YOU for reading this
+guide.

@@ -1,0 +1,5703 @@
+================================
+    KINGDOM HEARTS 358/2 DAYS (J
+  FAQ/Walkthrough Version 1.3
+       Author: Mogg 13-42
+     Email: thaei@yahoo.com
+================================
+
+________________________________
+
+This FAQ is (c)2009 Mogg 13-42.
+No part of this document may be
+used for anything profitable,
+either electronic or mechanical.
+Likewise, never try to rip it
+off! You may print a part of
+this FAQ or all of it provided
+that it's only for personal use.
+One more thing, if you wish to
+post this guide on your site
+just send me an e-mail and ask
+for my permission.
+________________________________
+
+________________________________
+
+Note to JWPce users : Please set
+your word processor's "line
+width" to 79
+     characters per line, and us
+     preserve this FAQ's formatt
+________________________________
+
+
+================================
+Table of Contents
+================================
+
+I.   Game Mechanics             
+
+ - Controls                     
+ - Menu Translations            
+
+II.  Walkthrough                
+
+ - Day 07  : Number 14          
+ - Day 08  : Reward             
+ - Day 09  : Those Without Heart
+ - Day 10  : The Nonexistent One
+ - Day 11  : Keyblade           
+ - Day 12  : The Sealed World   
+ - Day 13  : The Meaning of Batt
+ - Day 14  : Friend             
+ - Day 15  : Mission            
+ - Day 22  : Like a Silent Perso
+ - Day 23  : Those Left Behind  
+ - Day 24  : Voice              
+ - Day 25  : Two Keys           
+ - Day 26  : Annihilation       
+ - Day 51  : The Awaited One    
+ - Day 71  : Reunion            
+ - Day 72  : Change             
+ - Day 73  : Promise            
+ - Day 74  : One More Friend    
+ - Day 75  : Best Friend        
+ - Day 94  : Heart              
+ - Day 95  : Nobody             
+ - Day 96  : Xion's Keyblade    
+ - Day 97  : Starting           
+ - Day 117 : Secret             
+ - Day 118 : Boredom            
+ - Day 119 : Accomplishment     
+ - Day 149 : Separate Expectatio
+ - Day 150 : Anxiety            
+ - Day 151 : Anguish            
+ - Day 152 : Switch             
+ - Day 171 : Love               
+ - Day 172 : The Sound of Waves 
+ - Day 173 : Lies               
+ - Day 193 : Memory             
+ - Day 194 : Daily Return Home  
+ - Day 224 : Disaster           
+ - Day 225 : Serenity           
+ - Day 255 : One Long Day       
+ - Day 256 : Report             
+ - Day 277 : Search             
+ - Day 296 : Confession         
+ - Day 297 : Touch              
+ - Day 298 :                    
+ - Day 299 : Sora               
+ - Day 300 : Stalemate          
+ - Day 301 : A Place with No One
+ - Day 321 : The Fading Power   
+ - Day 322 : Scheme             
+ - Day 352 : Sun                
+ - Day 353 : Determination      
+ - Day 354 : Truth              
+ - Day 355 : Unreachable Words  
+ - Day 357 : Tears              
+ - Day 358 : Wish               
+
+III. Sidequests                 
+
+ - Unlockable Characters        
+ - Trial Missions               
+ - Free Gift Items              
+
+IV.  Game List                  
+
+ - Panel Synthesis              
+ - Enemy Drop List              
+
+V.   Extra                      
+
+ - Frequently Asked Questions   
+ - Credits                      
+
+================================
+I. Game Mechanics               
+================================
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Controls                        
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+--------------
+Field Controls
+--------------
+
+D-Pad : Move character. L :
+Switch pages in main menu. R :
+Rotate camera; Switch pages in
+menu screen. A : Confirm
+selection. B : Cancel selection;
+Jump. X : Open ability window
+(menu screen). Y : Display panel
+slots window. Select : Camera
+zoom in or zoom out. Start :
+Open main menu screen.
+
+---------------
+Battle Controls
+---------------
+
+D-Pad : Move character. L : Open
+magic shortcut menu. R : Rotate
+camera; Target lock (tap twice).
+A : Confirm selection B : Jump X
+: Cycle between commands Y : Use
+eqquiped ability Select : Camera
+zoom in or zoom out. Start :
+Pause game
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Menu Translations [01-02]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+----------------
+Main Menu Screen
+----------------
+
+Panel Slot       [パネルスロット]
+Hologram Mission [ホログラムミッション]
+Report           [レポ一ト]
+Tutorial         [チュ一トリアル]
+Config           [コンフィグ]
+Save             [セ一ブ]
+Back to Title    [タイトルヘもどる]
+
+Below is a brief explanation for
+each option.
+
+Panel Slot - Opens the panel
+window where you can equip
+items, weapons
+  accessories, abilities, etc.
+Hologram Mission - Allows access
+to previously cleared missions.
+Report - View various documents
+in the game. This option
+    contains Roxas' Diary, Enemy
+Tutorial - The tutorial files
+that you've already seen are
+    compiled here; they can be r
+Config - Adjust certain game
+settings. Save - Saves the game.
+Back to Title - Return to title
+screen.
+
+------------------------
+Story Mode Config Screen
+------------------------
+
+Tab 1 Options:
+
+Control Type : Type A** Type B**
+Camera Follow : Auto Manual
+Camera Speed : Slow Normal Fast
+
+For Type A controls, the R
+button deals with everything
+concerning the camera, and the L
+button opens the shortcut menu.
+For Type B controls, the L and R
+buttons are used to manage the
+camera; must hold L and R
+buttons to open the shortcut
+menu.
+
+Tab 2 Options:
+
+Camera Left/Right : Normal
+Reverse Camera Up/Down : Normal
+Reverse Command List : Restore**
+Memory**
+
+For the Command List, Restore
+puts the cursor back over the
+attack command when you cancel
+an action, while Memory retains
+it on the command you picked
+before the action was cancelled.
+
+Tab 3 Options: This edit the
+settings of your AI-controlled
+ally.
+
+Attack : Same Enemy Diff. Enemy
+Don't Attack Magic : Attack Main
+Restore Main No Support
+
+================================
+II. Walkthrough                 
+================================
+
+I'm going keep this guide
+spoiler free, so I won't be
+discussing any events relating
+to the story. You can skip
+cutscenes by pressing start then
+pick the second option ("Skip").
+As for missions, you can quit by
+pausing the game and picking the
+second option ("Retire"). You'll
+be taken back to headquarters
+when you do so.
+
+Anyway, you'll be asked to
+select your desired difficulty
+setting when you start a new
+game in Story Mode. The choices
+are as follows: Beginner Mode
+[ビギナ一モ一ド]; Standard Mode
+[スタンダ一ドモ一ド]; and Proud Mode
+[プラウドモ一ド]. After that, pick the
+left option to confirm.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 07: Number 14               
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Try to get a hang of the
+controls before you do anything
+else. Once ready, talk to Axel
+and say "yes" (first option) for
+a cutscene.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 08: Reward                  
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Rewards
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potion    [ポーション]
+Moonstone [ムーンストーン]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potion    [ポーション]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This day begins with a very
+brief tutorial on how to save
+your game -- simply open the
+main menu, then choose save (2nd
+to the last option). You may
+save anytime when you're in HQ,
+but you won't be able to do so
+while you're in the middle of a
+mission, so you'll have to
+complete whatever it was you
+were doing then return home
+first. Anyway, feel free to talk
+to the other guys if you like.
+When you're all set to proceed,
+talk to Saix (the guy with blue
+hair) and choose the first
+option.
+
+Mission 01 - Twilight Town
+
+In Twilight Town, follow Axel
+for a tutorial (remember that
+you can also control the camera
+through the touchscreen). Your
+goal for this mission is to
+locate a treasure chest. Now,
+head for the upper central area
+and activate the switch. This
+should unlock a nearby gate.
+Make your way up along the
+eastern path. Another tutorial
+will be given, this time about
+"Area Blocks". Basically, any
+area that has nothing to do with
+your current mission will be
+sealed off.
+
+When you regain control, go
+further up to find your
+treasure; it contains a POTION
+[ポーション]. Go back to the dark
+portal, examine it, and pick the
+first option to go home.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 09: Those Without Hearts
+02-03]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Rewards
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potion        [ポーション]
+Blazing Shard [燃え上がるかけら]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The "Reports" option will now be
+accessible in the main menu; you
+can view Roxas' Diary and the
+Enemy Report from there. Talk to
+the other organization members
+if you wish to. Otherwise, just
+go talk to Saix for the next
+mission.
+
+Mission 02 - Twilight Town
+
+Marluxia will be joining you
+this time. Three separate groups
+of Heartless will appear in
+between dialogues. Simply kill
+off everything to clear this
+mission.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 10: The Nonexistent Ones
+[02-04]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Rewards
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potion        [ポーション]
+Blazing Shard [燃え上がるかけら]
+Fire          [ファイア] x3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potion    [ポーション]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nothing much to do here, so just
+talk to Saix for your mission.
+
+Mission 03 - Twilight Town
+
+Your goal for this one is to
+defeat 7 Heartless. The mission
+completes once you've done that,
+and you can go back home. Though
+you might want to stick around
+and defeat every single
+Heartless in the area to max out
+the mission gauge. Doing so will
+give you greater experience
+points as well as better
+rewards.
+
+There is a chest with a POTION
+[ポーション] just down the stairs to
+the east of your portal. Don't
+forget to claim that one before
+leaving.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 11: Keyblade                
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Rewards
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potion    [ポーション]
+Ether     [エーテル]
+Libra     [ライブラ]
+Moonstone [ムーンストーン]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ether     [エーテル] x3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You will be able to access the
+"Panel Slot" option in the main
+menu now. So open it and equip
+the 3 Fire spells you got from
+the previous mission. You may
+want to bring along some Potions
+as well. Take note that you must
+fill the panel tiles with the
+stuff you want to take with you.
+Otherwise, you won't be able to
+use them at all, and you can't
+access those panels in the
+middle of a mission either.
+
+Also, to assign shortcut buttons
+to magic spells, open the magic
+command menu, pick a spell, hold
+L to open the shortcut menu,
+then press the button you wish
+to use as a shortcut to the
+spell. Once you're ready talk to
+Saix.
+
+Mission 04 - Twilight Town
+
+You may want to experiment with
+your new magic. Choose Magic
+[まほう] from the command menu
+(press X to cycle between
+commands), then choose the spell
+you want to cast; though you
+only have Fire right now, so
+there's not much choice to make.
+Kill off the Heartless with
+magic or normal attacks to clear
+the mission. Don't forget to
+collect the ETHERS from the
+chests around the area as well.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 12: The Sealed World [02-06]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Rewards
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Blazing Shard [燃え上がるかけら]
+Fire          [ファイア]
+Dodge Roll    [ドッジロール]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If Roxas happened to gain level,
+and you're wondering why his
+level didn't increase, press Y
+to access the panel menu. Notice
+that there is now an LV tile in
+your inventory. You must equip
+that one in order for the level
+up to take effect. Talk to Saix
+for the next mission.
+
+Mission 05 - Twilight Town
+
+This one requires you to
+investigate, and so you'll have
+to look out for clues. A "?"
+will appear over Roxas' head
+whenever you're near a
+suspicious spot. Look around the
+area until the green target
+marker appears to examine the
+clue. The clue locations are
+listed below.
+
+* The clothing stall just some w
+* The jewelry shop to the southw
+* The ground further north of th
+* The stall directly north of th
+
+A short event will occur after
+this. When prompted for a
+response, pick the first option
+twice. Time to look for the next
+set of clues.
+
+* The vents at the southeast cor
+* The vents of the upper east bu
+* The stone wall "staircase" eas
+
+The mission should be complete
+now, but there are a couple more
+clues to find. Here are the
+locations.
+
+* From your portal, go south the
+* The wall at the northeast-most
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 13: The Meaning of Battle
+[02-07]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Rewards
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Skill Gear  [スキルギア]
+Fire Recipe [ファイアレシピ]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Equip Dodge Roll; to use it in
+battle, hold any button on the
+d-pad and press Y. You know the
+drill to proceed to your next
+mission.
+
+Mission 06 - Twilight Town
+
+Defeat the Mega Shadow using
+either normal attacks or limit
+break. To use a limit break: Get
+your HP down to critical and the
+word "Limit" will appear
+somewhere near your HP gauge.
+When this happens, highlight the
+attack command and hold "A". A
+short sequence will play, then
+press A again when you regain
+control to unleash the attack.
+The Mega Shadow should fall
+rather quickly.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 14: Friend                  
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~ Mission Rewards ~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potion [ポーション] Blazing Shard
+[燃え上がるかけら] Reflect Guard
+[リフレトガード 2] Shining Light Shard
+[光かがやくかけら] Moonstone [ムーンストーン] ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potion    [ポーション]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The "Hologram Missions" option
+will now be accessible. From
+there, you can play previously
+cleared missions again. Talk to
+Larxene for a POTION [ポーション],
+then to Saix for your next
+mission.
+
+Mission 07 - Twilight Town
+
+Simply kill all the Heartless to
+clear this mission. Go ahead and
+try to max out the mission gauge
+when possible.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 15: Mission                 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~ Mission Rewards ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Potion [ポーション] x4 Blazing
+Shard [燃え上がるかけら] x3 Fire Recipe
+[ファイアレシピ] x2 Fire [ファイア] Hi-
+Potion [ハイポーション] Shining Light
+Shard [光かがやくかけら] Moonstone
+[ムーンストーン] ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cure All [オールキュア]
+Ether    [エーテル]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Talk to Zexion first for a CURE
+ALL [オールキュア], then to Marluxia
+for an ETHER [エーテル]. After that,
+talk to Saix for some new
+missions. There will be 3 in
+total. The first 2 will be in
+Twilight Town and the last one
+will be in The World that Never
+Was. I'll be covering them in
+order from 8 to 10.
+
+Mission 08 - Twilight Town
+
+Your goal here is to eliminate
+all Surveillance Heartless in
+the town. The target's picture
+is displayed at the bottom
+screen. Just go through the
+accessible areas and you'll
+eventually get to a spot where
+all 4 of your targets are
+located. Kill all of them to
+finish this mission.
+
+Mission 09 - Twilight Town
+
+You need to kill all the Weed
+Plant Heartless, which can be
+found at the Mansion Gates. Once
+you get back to the Tram
+Station, you'll receive a
+warning about the presence of an
+extra powerful Heartless. You
+need to kill that one to max out
+the mission gauge.
+
+The Rolling Soldier has a lot of
+HP. Hit it a few times then roll
+away as the enemy spins. It will
+have a brief stun period after
+this. So you can land some free
+hits. Keep repeating this until
+it dies.
+
+Mission 10 - The World That
+Never Was
+
+This one is simple. Kill as many
+Dusks as you can in 60 seconds.
+That should do it for this
+mission.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 22: Like a Silent Person
+[02-10]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~ Mission Rewards ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Potion [ポーション] x2 Blazing
+Shard [燃え上がるかけら] x2 Magic
+Frequency 2+ [魔法回数2プラス]
+Moonstone [ムーンストーン] ~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potion     [ポーション] x2
+Armed Gear [アームドギア]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Mission 11 - Twilight Town
+
+From the starting point, grab
+the a couple of POTIONS [ポーション]
+then continue to the next area.
+At the Underground Concourse,
+head south along the right path
+first to find one more POTION.
+Next, hop onto the higher
+platform near the bottom of the
+area. Activate the switch here
+and go through the nearby gate.
+Jump off to the lower section to
+grab an ARMED GEAR [アムードギア] from
+the chest. Now, continue along
+the west path and press the next
+switch. Proceed to the next
+area.
+
+The Guardian Heartless you're
+seeking should be here. Kill off
+all the Surveillance first
+before dealing with your main
+target. Just side step when you
+see the creature prepare to fire
+a giant beam.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 23: Those Left Behind
+[02-11]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ Mission Rewards ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Fire
+Recipe [ファイアレシピ] x2 Moonstone
+[ムーンストーン] x2 Mark of Decision
+[決意のしるし] ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Blazing Shard [燃え上がるかけら]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A new entry will be added to
+Roxas' diary. Equip the link
+panel you got from the previous
+mission. Notice that there is a
+number on the link panel (2).
+This means that any magic spell
+you place in the tiles within
+the link panel's covered area
+will be multiplied by 2. So if
+you place 3 Fire spells in
+there, you'll get to cast Fire 6
+times instead of just 3.
+
+Also, the circled number at the
+end of the link panel's name
+indicates the panel's total link
+area (this one says 4, so it
+covers 4 tiles). Talk to Demyx
+for a BLAZING SHARD, then to
+Saix for your next mission.
+
+Mission 12 - Twilight Town
+
+Your target is the Poison Plant,
+which is waiting at the Tunnel
+(south exit of the Underground
+Concourse. It is very weak to
+Fire and even gets burned
+sometimes. Cast Fire on it a few
+times to get this done quickly.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 24: Voice                   
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~ Mission Rewards ~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potion [ポーション] x2 Blazing Shard
+[燃え上がるかけら] x2 Moonstone
+[ムーンストーン] x2 Skill Gear +
+[スキルギア+] ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Power Unit L [パワーユニット L]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Mission 13 - Twilight Town
+
+The mission area here is really
+small -- your targets are
+waiting at the next area. But
+before you go, turn around first
+and grab a POWER UNIT L [パワーユニット
+L] from the treasure chest.
+Continue on to the Sandlot. The
+Deserters have very little HP,
+but they move fast, so time your
+attacks carefully.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 25: Two Keys                
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Rewards
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potion      [ポーション] x2
+Blizzard    [ブリザド] x2
+Frost Shard [凍てつくかけら]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potion    [ポーション] x3
+Moonstone [ムーンストーン] x2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Put on the new Skill Gear you
+received from the previous
+mission, then place the Power
+Unit within the weapon's link
+area. That should give you a bit
+of boost in attack power. Talk
+to Xaldin for a MOONSTONE, then
+to Saix.
+
+Mission 14 - Twilight Town
+
+Your goal for this mission is to
+defeat Darkside. Open the
+treasure chests containing
+POTIONS along the way. As for
+Darkside, just jump and hit
+whatever body part you can
+reach. Its attacks are quite
+easy to avoid, and does not do
+much damage even if you do get
+hit.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 26: Annihilation [02-14]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~ Mission Rewards ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~ Potion [ポーション] Blizzard
+[ブリザド] Ability Unit L [アビリティユニット
+L] Shining Light Shard
+[光かがやくかけら] ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hi-Potion    [ハイポーション]
+Cure All     [オールキュア]
+Potion       [ポーション] x3
+Ominous Gear [オミナスギア]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You'll get one additional panel
+slot as a reward for clearing
+the previous mission. Talk to
+Xaldin twice to get a HI-POTION,
+then to the floating moogle at
+the lobby to access the shop,
+where you will see these
+options: Buy [かう], Sell [うる],
+Panel Synthesis [パネル合成], Quit
+[やめる].
+
+You can purchase stuff through
+the "Buy" tab using Heart
+Points. The "Panel Synthesis"
+tab lets you create new
+items/equipment by expending a
+specific amount of synth items
+and of course munny. The items
+needed for synthesis are
+displayed on the top screen. Buy
+the Slot Unlock [スロット開放] and
+Level Up [LVアップ] at the shop.
+Talk to Saix for your next
+mission.
+
+Mission 15 - Agrabah
+
+This will be your very first to
+Agrabah, and this is another one
+of those missions that requires
+you to investigate. You start
+out at the Palace Gates; grab a
+CURE ALL [オールキュア] from the chest
+to the west of your portal.
+
+Again, a "?" will appear over
+Roxas' head whenever you're
+close to a suspicious area. Look
+around there until the green
+target marker appears, then you
+can check the clue.
+
+* The first clue is the small sa
+* Check the large gates then att
+* Check the wooden planks near t
+* The empty stall southeast of t
+* The colorful plates at the sou
+
+Hop up the higher platform at
+the southeast corner and make
+your way around to a treasure
+chest with a POTION [ポーション].
+There is also a chest with an
+OMINOUS GEAR [オミナスギア] here,
+which you can't get until later.
+
+* Check the platform near the ch
+* The sand incline next to the d
+* The colorful plates at the sta
+* The sand spot next to the stal
+* Attack the lone crate to push 
+  the top. Check the rope on the
+* The discolored wall near the r
+
+After the last clue, make your
+way to the end and hit the lever
+there. This will open the south
+gate. Take that one out to the
+Palace Gates.
+
+* The sand dune at the southeast
+* The barred door at the central
+* Go further west from the last 
+
+Make your way up to the
+northeast corner to find a chest
+with a POTION [ポーション]. Next hop
+onto the green awning and
+navigate along the upper level
+to the southwest for another
+POTION [ポーション]. Return to the
+Palace Gates for a scene. You
+can't go through the main exit,
+so go back to the Bazaar and go
+through the northeast exit at
+the upper level.
+
+The mission completes after the
+event between Aladdin and
+Jasmine. You can go back home
+now, but there are a few more
+clues to find.
+
+* The first one is the massive d
+* The wooden planks near the Baz
+* Head to the Plaza and check th
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 51: The Awaited One [02-15]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~ Mission Rewards ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~ Cure All [オールキュア] Shining
+Light Shard [光かがやくかけら] x8
+Blazing Shard [燃え上がるかけら] x2
+Frost Shard [凍てつくかけら] x4
+Moonstone [ムーンストーン] x2 ~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Treasures ~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~ Potion
+[ポーション] x3 Ether [エーテル] x3 Armed
+Gear + [アムードギア+] Diamond
+[ダイヤモンド] Cure All [オールキュア] Slot
+Unlock [スロット開放] Blazing Shard
+[燃え上がるかけら] ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+When you finally regain control
+of Roxas after all the
+cutscenes, talk to Demyx twice
+to get a Shining Light Shard
+[光かがやくかけら]. New entries will be
+added to Roxas' Diary as well.
+Talk to Saix and he'll have 4
+new missions for you. I'll cover
+them in order from 16 to 19.
+
+Mission 16 - Agrabah
+
+Your goal is to kill all 7 Fire
+Plants -- there are 2 at the
+Palace Gates; 2 at the Bazaar,
+and 3 at the Palace Walls .
+Begin by picking up the ARMED
+GEAR + [アームドギア+] from a chest at
+the gates, then move on to the
+next area. There, grab take the
+POTION [ポーション] and ETHER [エーテル]
+from both chests.
+
+Come back later when you have
+High Jump to claim a DIAMOND
+[ダイヤモンド] from a chest in the
+Bazaar.
+
+For the targets at the Palace
+Walls, you'll have to kill the
+Barrier Master first, since it
+casts Protect on the plants. Hit
+it to knock the book away then
+spam the creature with magic.
+Take out the flowers afterwards.
+
+Back at base, talk to Saix and
+he'll give you a LV2+ [LV2プラス]
+link panel. All the level up
+panels you place in the link
+area will boost your level by 2.
+
+Mission 17 - Twilight Town
+
+Continue onwards for 2 screens
+to the Tram Station. There, look
+around the area for a CURE ALL
+[オールキュア] and BLAZING SHARD
+[燃え上がるかけら]. Don't attack the
+Tail Bunker head on; try to go
+around behind it and attack the
+tail.
+
+Mission 18 - Agrabah
+
+Look around the Palace Walls for
+2 treasures: POTION [ポーション] and
+ETHER [エーテル]. Collect the
+emblems in every area. Try to
+kill enemies first to make the
+emblems glow before you collect
+them. That should fill the
+mission gauge faster.
+
+Mission 19 - Agrabah
+
+Collect a POTION [ポーション] and
+SLOT UNLOCK [スロット開放] at the
+Bazaar, along with an ETHER
+[エーテル] at the Palace Gates. Kill
+all the Deserters at the Palace
+Gates to clear mission.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 71: Reunion                 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Rewards
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ether [エーテル] x2
+Iron  [アイアン]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hi-Potion [ハイポーション]
+Cure All  [オールキュア] x2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The "Trial Mission" tab will now
+be accessible in the Hologram
+Missions menu Fulfill special
+conditions for each mission in
+trial mode, to earn trial
+symbols, which you can present
+for free items via the Free
+Gifts tab in the shop. You can
+exchange crowns for items there
+too. Crowns can only be obtained
+by completing missions in
+Mission Mode with 2 or more
+players.
+
+Now, talk to Xigbar for a HI-
+POTION [ハイポーション], then to Saix.
+
+Mission 20 - Twilight Town
+
+Destroy the Shadow Blocks (giant
+purple orbs) scattered around
+Twilight Town. Use magic to hit
+the ones that are positioned in
+high spots. Lock on first and
+find a better angle before you
+cast a spell.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 72: Change                  
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Rewards
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potion      [ポーション]
+Iron        [アイアン] x2
+Cure        [ケアル] x2
+Magic Lv2 + [魔法Lv2プラス]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~ Mission Treasures ~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Potion [ポーション] x2 Shining Light
+Shard [光かがやくかけら] Iron [アイアン] x2 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~
+
+Mission 21 - Agrabah
+
+Grab the POTION [ポーション] in the
+Palace Gates. Time for a bit of
+spying mission until Pete finds
+the secret passage to the Cave
+of Wonders.
+
+Your goal is to follow Pete
+around, making sure he doesn't
+step out of the blue zone; you
+must not step into his territory
+(red zone) either. You will hear
+a "squeak" if you fail. The best
+way to do this is to follow
+behind him as close as you can,
+being careful not to step into
+the red zone. This will make
+sure you don't get caught in the
+red when he suddenly turns
+around. Do this for a while
+until Pete reaches the Plaza.
+
+A dialogue between Axel and
+Roxas should occur. When Pete
+leaves, go back to the Bazaar
+for a POTION [ポーション], then pick
+up the SHINING LIGHT SHARD
+[光かがやくかけら] at the Palace Walls.
+Follow Pete into the new
+passage. You should emerge at
+the entrance to the Cave of
+Wonders. Grab the POTION [ポーション]
+and proceed into the cave.
+
+Inside, go find the lone crate
+and push it close to the bronze
+statue. Climb to the higher
+platform and hit the lever to
+open an exit. Now, start hitting
+the gold statue to push it
+towards the north wall, then
+move your crate next to the gold
+statue. Use these as a makeshift
+staircase to get atop the wall.
+Don't forget to kill all the
+Heartless that you see. Continue
+to the next area.
+
+Clear the area of enemies and a
+Large Body will appear. Get rid
+of that one to complete the
+mission. Head to the northeast
+corner of the area and hit the
+swith there. This should get the
+platforms moving. Use these
+platforms to reach the higher
+exit to the west. Grab an IRON
+[アイアン] from the chest and
+continue to the next area.
+
+In this room, check the lower
+area for a chest with an IRON
+[アイアン]. The switch opens the
+gate directly ahead, which you
+can't access yet. So just into
+the pit. You'll end up on the
+upper level of the very first
+area of the cave. Clear all the
+Heartless to max out the mission
+gauge. Grab a POTION [ポーション]
+from the treasure chest here. Go
+on home.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 73: Promise                 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~ Mission Rewards ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Ether [エーテル] Shining Light
+Shard [光かがやくかけら] x2 Frost Shard
+[凍てつくかけら] Backpack [バックパック] ~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Guard Up L [ガードアップ L]
+Potion     [ポーション]
+Ether      [エーテル]
+Hi-Potion  [ハイポーション]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The new link panel you got
+raises the level of all spells
+within the link area to 2, and
+multiplies their level with the
+number of spells in the link
+area. So if you put 2 Fire
+spells in there, you get to cast
+2 shots of level 4 Fire spells.
+
+Talk to Xaldin; he wants to
+trade his Frost Shard to Blaze
+Shard. Give him one if you like.
+Talk to Saix and leave for
+Beast's Castle.
+
+Mission 22 - Beast's Castle
+
+At the bridge, open both chests
+for a GUARD UP L [ガードアップ L].
+Continue into the Couartyard.
+Look around the area for 2
+chests with a POTION [ポーション] and
+ETHER [エーテル]. Now, move the
+statues into their spots until
+they click into place. Go
+through the new exit.
+
+You'll now be at Entrance Hall
+2F. Go along around the area and
+activate the switches along the
+way to proceed. One of the
+hallways has a chest with a HI-
+POTION [ハイポーション]. Jump into the
+hole at the center of the
+balcony to drop down to the
+first floor. Move forward a bit
+for a scene then kill your
+target, the Sergeant Heartless.
+Once done, check the massive
+door to unlock it. Make your way
+back to the portal at the
+bridge.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 74: One More Friend [02-19]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ Potion
+[ポーション] x3 Blazing Shard
+[燃え上がるかけら] Frost Shard [凍てつくかけら]
+Air Slide [エアスライド] ~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Hi
+Ether [ハイエーテル] Ether [エーテル]
+Blazing Shard [燃え上がるかけら] x2
+Moonstone [ムーンストーン] x2 Cure
+Recipe [ケアルレシピ] ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+
+Talk to Axel for a HI ETHER
+[ハイエーテル] then speak to Saix.
+
+Mission 23 - Twilight Town
+
+You will be starting out at the
+Back Alley. Open the chest near
+your portal for an ETHER [エーテル].
+Take the east exit to the
+Sandlot for a scene with Hayner.
+Your next objective is to
+investigate the Tunnel at the
+Underground Concourse. But first
+head to the Station Heights via
+the north exit (from the
+Sandlot). Grab a BLAZING SHARD
+[燃え上がるかけら] from the chest there.
+
+Next, head over to the Tram
+Station and search the area for
+3 treasures -- 2 MOONSTONES
+[ムーンストーン] and a BLAZING SHARD
+[燃え上がるかけら]. Return to the Back
+Alley and take the northwest
+exit into the Underground
+Concourse. Make your way to the
+south exit into the Tunnel.
+There is a CURE RECIPE [ケアルレシピ]
+treasure in the concourse too.
+
+You'll meet Pence in the Tunnel.
+After the dialogue, head to the
+Sandlot for the next scene. Now,
+go to the Usual Spot (west exit
+in Back Alley). There, check the
+green drum for a scene. When you
+regain control, return to the
+Tunnel and talk to Pence one
+more time.
+
+He will ask 3 questions, which
+you must answer correctly in
+order to proceed: Question 1:
+Option 3; Question 2: Option 2;
+Question 3: Option 3. Now, head
+to the Tram Station and take the
+east exit into the Forest.
+
+In this area, look for a tree
+that has leaves falling from it.
+Attack the tree to trigger an
+event, then proceed to the
+Mansion Gates.
+
+You have to defeat the Vanish
+Lizard now. It has the ability
+to make itself invisible from
+time to time. Move around as
+much as you can at this point to
+avoid being caught by its tongue
+or its laser beam. The creature
+usually reappears after it fires
+the laser. Try to stay away from
+its tail, since it can blind you
+when swiped.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 75: Best Friend [02-20]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~ Mission Rewards ~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Blizzard [ブリザド] Frost Shard
+[凍てつくかけら] x2 Potion [ポーション] x2
+Ether [エーテル] Cure [ケアル] Air Arts
+[エアアーツ] Fire Recipe [ファイアレシピ]
+Shining Light Shard [光かがやくかけら]
+Fire [ファイア] Iron [アイアン] x2 Hi
+Potion [ハイポーション] Combo Arts
+[コンボアーツ] ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Treasures ~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~ Cure All
+[オールキュア] Potion [ポーション] x11 Hi
+Potion [ハイポーション] x2 Ether [エーテル]
+x3 Iron [アイアン] Moonstone
+[ムーンストーン] Blazing Shard
+[燃え上がるかけら] Frost Shard [凍てつくかけら]
+x3 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~
+
+To use the Air Slide, press B
+while in midair. Talk to Xion to
+get a CURE ALL [オールキュア]. Talk to
+Saix for the next set of
+missions. As always, I'll be
+covering them in order from
+24-28.
+
+Mission 24 - Agrabah
+
+You will start from the Palace
+Gates. Grab the POTION [ポーション]
+from the chest there; and
+another POTION at the Baazar.
+Continue on to the Palace Walls
+and save Abu from the army of
+Scarlet Tangos. Pick up an ETHER
+[エーテル] from the treasure chest
+afterwards. Head to the Cave of
+Wonders through the secret
+passage that Pete opened
+earlier.
+
+Inside, use the makeshift
+staircase you built during your
+very first visit to this cave,
+to climb atop the north wall.
+Examine the panel there and Xion
+will put the gem in. Continue on
+to the next screen. Here, open
+the chest at the southeast
+corner of the room for a POTION
+[ポーション]. Next, head to the
+northeast corner and hit the
+switch there.
+
+Use the moving platforms to
+reach top of the northeast
+pillar. Examine the block and
+attack it. Now, head towards the
+west exit via the platforms.
+Grab another POTION from the
+chest near the exit. Jump into
+the pit in the next room. You'll
+be at the upper level of the
+first area. Find the block here
+and attack it. Examine the "?"
+areas here as well.
+
+Now, make your way back to the
+room above you (the one you just
+jumped from). Once there, go to
+the lower level and attack the
+last block. A bridge will form
+leading to the exit directly
+ahead. Hit the cylinder switch
+to open the gate. Quickly cross
+the bridge to the exit.
+
+You'll be in the Hidden Chamber
+now. Grab another POTION and
+check the statue. Defeat Pete
+after dialogue. Mission
+complete. Go home.
+
+Mission 25 - Twilight Town
+
+You'll be at the Tram Station in
+Twilight Town. Your goal will be
+to collect the emblems scattered
+all over the area, to fill the
+mission gauge. Grab them while
+they're glowing to fill the
+gauge faster. You can make the
+emblems glow by defeating
+enemies; grab an emblem to make
+the others glow too. There are
+two chests in the area with a
+MOONSTONE [ムーンストーン] and a
+BLAZING SHARD [燃え上がるかけら].
+
+Mission 26 - Agrabah
+
+There are 2 chests at the Palace
+Gates containing POTIONS
+[ポーション]; the ones at the Bazaar
+has a POTION and an IRON [アイアン];
+while the 2 at the Palace Walls
+has another POTION and a HI
+POTION [ハイポーション].
+
+Your goal here is to destroy all
+the Shadow Blocks (large purple
+orbs) scattered all over every
+accessible area. You won't be
+able to see the targets from the
+ground, so find a high spot and
+survey the area. Use magic to
+hit the ones that are too far
+away.
+
+Mission 27 - Beast's Castle
+
+This mission requires you to
+investigate. You start out at
+Entrance Hall 2F. Grab a FROST
+SHARD [凍てつくかけら] at the end of
+long the hallway going west
+Below is a list of suspicious
+spots in the area.
+
+* One of the crates at long hall
+* The stained glass at the cente
+
+Jump through the hole in the
+wall down to 1st floor of
+Entrance Hall. Grab the ETHER
+[エーテル] here and start checking
+for clues.
+
+* Check the locked door to the r
+* The claw marks at southwest wa
+
+Continue out to the Courtyard
+afterwards. Pick up the POTION
+[ポーション] and HI POTION [ハイポーション].
+There are a couple of clues to
+find.
+
+* Check the northwest statue.
+* The foot prints next to the no
+
+Head to the Entrance Hall and go
+upstairs to the West Hall. Here,
+you must avoid being spotted by
+the candle, so try to stay clear
+of the red zone. There's a chest
+next to the staircase leading to
+the West Wing. Make your way to
+the northeast exit. Check the
+mop and bucket along the way to
+the northeast exit.
+
+In the next room, kill all the
+Heartless and grab the FROST
+SHARD [凍てつくかけら]. Time to look
+for the last 2 clues. Check the
+footprints and the open door at
+the end of the hall for a scene.
+When prompted for a response,
+pick either one of the two
+options for both. Mission clear.
+
+Before you go home, head to
+Entrance Hall (1F) and check all
+4 locked doors at the sides.
+This will max out the mission
+gauge.
+
+Mission 28 - Beast's Castle
+
+Explore all accessible areas and
+kill all the Heartless that you
+see until you max out the
+mission gauge. Pick up a POTION
+[ポーション] and FROST SHARD
+[凍てつくかけら] at the Courtyard.
+There's an ETHER [エーテル] at the
+Entrance Hall.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 94: Heart                   
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Rewards ~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~ Draw
+[ドロー] Blazing Shard [燃え上がるかけら]
+x2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Frost Shard [凍てつくかけら]
+Potion      [ポーション] x2
+Combo Arts  [コンボアーツ]
+Brave Gear  [ブレイブギア]
+Ether       [エーテル]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Mission 29 - Beast's Castle
+
+You'll be starting out at the
+West Wing this time. Grab the
+FROST SHARD [凍てつくかけら] here and
+exit to the next area. Again,
+avoid being spotted by the
+candle and dash for the exit
+across the hall. The candle will
+be turning much faster this time
+so be careful. Try to sneak over
+to the southeast portion of the
+hall to find 2 more treasure
+chests containing COMBO ARTS
+[コンボアーツ] and BRAVE GEAR [ブレイブギア]
+
+In the dungeon, open both chests
+for 2 POTIONS [ポーション]. Climb to
+the upper level and exit to the
+north. In the next room. follow
+the path to a chest with an
+ETHER [エーテル]. Continue on and
+you'll eventually meet up with
+your target, the Neo Shadow.
+Kill it to clear the mission.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 95: Nobody                  
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~ Mission Rewards ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Frost Shard [凍てつくかけら] Hi Potion
+[ハイポーション] Ability Unit L
+[アビリティユニット L] ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Iron [アイアン] Potion [ポーション] x3 Hi
+Potion [ハイポーション] Ether [エーテル]
+Blizzard Recipe [ブリザドレシピ] ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Finish the trial mode for
+mission 16 with at least 1 trial
+symbol and talk to Xaldin for an
+IRON [アイアン]. Talk to Saix for
+your next mission.
+
+Mission 30 - Agrabah
+
+Your goal here is kill all the
+Heartless in each accessible
+area. Some of them don't appear
+right away, so you may have run
+around for a bit until they
+appear. There are 2 chests with
+a POTION [ポーション] and HI POTION
+[ハイポーション] at the Palace Walls; a
+POTION [ポーション] and ETHER [エーテル]
+at the Bazaar; another POTION
+[ポーション] and BLIZZARD RECIPE
+[ブリザドレシピ] at the Palace Gates.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 96: Xion's Keyblade [02-23]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~ Mission Rewards ~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Expansion Pack [拡張パック] Shining
+Light Shard [光かがやくかけら] Frost
+Shard [凍てつくかけら] ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Air Arts    [エアアーツ]
+Ether       [エーテル] x6
+Frost Shard [凍てつくかけら]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Xaldin wants to trade his AIR
+ARTS [エアアーツ] for a Moonstone. Go
+ahead and give him one. Now,
+talk to Saix for the next quest.
+
+Mission 31 - Beast's Castle
+
+You'll be at Beast's Castle
+again. And Roxas, being the
+gentleman that he is gives his
+keyblade to Xion, and grabs a
+stick to replace his weapon.
+Don't worry, you can still
+damage enemies with the stick,
+though it is weaker and has far
+shorter range than the keyblade.
+
+Anyway, start by heading east
+for an ETHER [エーテル] and continue
+out to the West Hall; pick up
+the FROST SHARD [凍てつくかけら] here.
+Head to the Entrance Hall. Avoid
+being seen by the clock and grab
+2 ETHERS [エーテル] from the chests.
+Kill both Sergeants and enter
+the central door up the stairs
+to the Ballroom. You'll find 3
+ETHERS [エーテル] in this room.
+
+Kill the Heartless to finish the
+mission. Your stick is really
+weak so you might want to
+consider going for magics here.
+A high level Fire spell is
+really effective. The creature's
+bite can inflict Silence though.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 97: Starting                
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~ Mission Rewards ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~ Gear Parts ver.1 [ギアパーツ
+ver.1] Moonstone [ムーンストーン] Aero
+[エアロ] Fire Recipe [ファイアレシピ]
+Blazing Shard [燃え上がるかけら] x2
+Frost Shard [凍てつくかけら] x2 Cure
+[ケアル] Shining Light Shard
+[光かがやくかけら] Frost Shard [凍てつくかけら]
+Blizzard Recipe [ブリザドレシピ] Bronze
+[ブロンズ] ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~ Mission Treasures ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Rune Arts [ルーンアーツ] Potion
+[ポーション] x11 Blizzard Recipe
+[ブリザドレシピ] x2 Hi Potion [ハイポーション]
+x3 Iron [アイアン] x2 Shining Light
+Shard [光かがやくかけら] Backpack
+[バックパック] Slot Unlock [スロット開放]
+Ether [エーテル] ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+
+Equip the new link panel you got
+from the previous mission. Add
+backpack panels in the link
+area. Demyx wants to trade his
+RUNE ARTS [ルーンアーツ] for your
+Shining Light Shard. Go ahead
+and give him one. Now, collect
+all 7 treasures in mission 29,
+and speak to Axel. He tells you
+go talk to Saix. Do so to unlock
+a new mission (mission 35).
+
+Mission 32 - Agrabah
+
+Collect the POTION [ポーション] at
+the Palace Gates; a BLIZZARD
+RECIPE [ブリザドレシピ] at the Bazaar,
+and another POTION [ポーション] at
+the Palace Walls. From the
+Palace Walls, head out to the
+Ruins. There, ignore the Antlion
+for a bit and search the area
+for 3 treasure chests containing
+POTION, HI POTION [ハイポーション] and
+IRON [アイアン].
+
+For the Antlion, chase it down
+and attack it while it moves
+around in the sand. It
+occasionally pops out to fire
+sand in your direction. Go
+around the projectile and
+continue attacking. Keep doing
+this until you get the boss' HP
+down to 2 1/2 bars. The Antlion
+will be flying at this point and
+be protected by Aero at the same
+time.
+
+Lock on to the target and run as
+far from it as you can, to avoid
+being hit by the blocks that it
+throws. Now, move in and hit the
+blocks back at the Antlion. This
+will penetrate the barrier. It
+takes about 4 hits from the
+blocks to knock the boss out,
+after which you get some free
+hits before the target wakes up.
+Keep repeating the process until
+it dies.
+
+The boss also fires a massive
+laser beam that can be tough to
+avoid. The best way to deal with
+this is to take cover behind the
+largest ruined structure you can
+find, when you see the Antlion
+prepare to fire.
+
+Mission 33 - The World That
+Never Was
+
+Destroy all the pots/jars in the
+room to clear this mission. One
+of the jars contains a HI POTION
+[ハイポーション] and another a POTION
+[ポーション]. About 5 jars contain
+Samurai nobodies. They can be
+tough to kill once several of
+them begin to gang up on you.
+
+So either take them on one at a
+time (avoid releasing others
+when your current target is not
+dead), or lure them away from
+the jars then run back and
+finish what you came here to do.
+
+Mission 34 - Agrabah
+
+Back to Agrabah again. The
+chests at the Palace Gates and
+Bazaar both contain POTIONS
+[ポーション]. You can als grab a
+BACKPACK [バックパック] from one of
+the chests at Bazaar. The chests
+in the Palace Walls has an IRON
+[アイアン] and a POTION [ポーション].
+Your goal for this mission is to
+eliminate 4 Aerial Masters.
+
+There is 1 at the Palace Walls
+and 3 at the Ruins. The 4
+treasure chests at the Ruins
+contain 2 POTIONS [ポーション]
+SHINING LIGHT SHARD [光かがやくかけら],
+and an ETHER [エーテル].
+
+Mission 35 - Beast's Castle
+
+Off to Beast's Castle now. Kill
+Heartless to fill the mission
+gauge. Take note that Shadows
+don't count. The West Hall has 2
+treasure chests with BLIZZARD
+RECIPE [ブリザドレシピ] and POTION
+[ポーション]; the ones in the Dungeon
+has POTION [ポーション] and a SLOT
+UNLOCK [スロット開放]; and finally the
+lone chest at the West Wing has
+a HI POTION [ハイポーション].
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 117: Secret                 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Rewards
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thunder       [サンダー] x2
+Thunder Shard [とどろくかけら]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ Mission Treasures ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~ Power
+Arts [パワアーツ] Thunder Shard
+[とどろくかけら] Gear Parts v1 [ギアパーツ
+ver.1] ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~
+
+Demyx wants to trade his POWER
+ARTS [パワアーツ] for your Iron. Go
+ahead and give him one. Speak to
+Saix and he'll boost your rank
+from Novice to Rookie, so there
+will be plenty of new stuff to
+buy and at the shop. Xion will
+also be a playable character in
+Mission Mode.
+
+Buy a Backpack [バックパック], Level
+Up [LVアップ], Thunder [サンダー],
+Range Up [レンジアップ], and Reraise
+[リレイズ]. A Blizzard Charm
+[ブリザドチャーム] or Flower Charm
+[フラワーチャーム] are quite nice too.
+
+Feel free to pick up whatever
+else you may need, since you
+should have accumulated plenty
+of Heart Points by now.
+
+Mission 36 - Olympus Coliseum
+
+This is your first visit to
+Olympus Coliseum. Starting from
+the Coliseum Gates, defeat all
+the Heartless dealing with the
+trumpets first then take out the
+Aiming Cannons. Grab a THUNDER
+SHARD [とどろくかけら] from the chest
+there. Below is a list of clues
+for this area.
+
+* The large board and all 3 post
+* One of the gaps on the southwe
+* The massive statues next to th
+* The closed door at the bottom 
+
+Proceed to the Lobby now. There
+is a GEAR PARTS VER.1 [ギアパーツ
+ver.1] in the treasure chest
+here. The things to check in
+this room are:
+
+* All the trophies on both sides
+  response, pick the 1st option 
+
+Once you've checked everything,
+talk to Phil to start your
+training. All you have to do is
+smash the barrels and pick up
+the orbs that appear for points.
+Perform continuous chain attacks
+to maximize the amount of orbs
+from each barrel. Try to score
+100 or more points here to claim
+a small reward a little later in
+the game. Mission clear.
+
+There are some more stuff to
+check to max out the mission
+gauge.
+
+* Both gold trophies in the lobb
+* The large statue to the right 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 118: Boredom                
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+No official missions this time
+since its your day off. Watch
+the scenes and Hayner will
+eventually let you take a crack
+at their "performance".
+
+Mission 37 - Twilight Town
+
+Hit the ball and keep it in the
+air for as long as you can. The
+minigame ends once the ball hits
+the ground. Try to score at
+least 50 or higher, for a minor
+reward later in the game.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 119: Accomplishment [02-27]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Rewards ~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~ Thunder
+Recipe [サンダーレシピ] Aerora Recipe
+[エアロラレシピ] Thunder [サンダー] Gear
+Parts v1 [ギアパーツ ver.1] Guard
+Arts [ガードアーツ] x2 Rune Arts
+[ルーンアーツ] Cure Recipe [ケアルレシピ] x2
+Thunder Shard [とどろくかけら] x6 Aero
+[エアロ] Gale Shard [吹きすさぶかけら] ~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~ Mission Treasures ~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gale Shard [吹きすさぶかけら] Air Up
+[エアアップ] Hi Potion [ハイポーション]
+Elixir Recipe [エリクサーレシピ] Ether
+[エーテル] Gear Parts v1 [ギアパーツ
+ver.1] x2 Thunder Shard
+[とどろくかけら] Tech Gear + [テックギア+]
+Aero Recipe [エアロレシピ] x3 Thunder
+Recipe [サンダーレシピ] x2 Cure Recipe
+[ケアルレシピ] ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
+
+Max out the mission gauge from
+Days 97-100 and talk to Xaldin.
+He will give you a GALE SHARD
+[吹きすさぶかけら]. Next, link 2 unit
+panels to your equipped weapon,
+the talk to Luxord. This unlocks
+a new mission.
+
+Mission 38 - Beast's Castle
+
+This will be another
+investigation quest. Starting
+from the Entrance Hall, grab an
+AIR UP [エアアップ] and a HI POTION
+[ハイポーション].
+
+* Check one of the doors to the 
+* Examine one of the pillars in 
+
+Moving on to the Courtyard, pick
+up an ELIXIR RECIPE [エリクサーレシピ]
+and ETHER [エーテル]. Time to check
+some things now.
+
+* The cracks on the ground near 
+* The floor in front of the exit
+* The footprints neare the north
+
+Proceed to Entrance Hall 2F then
+into the upper level of the
+Ballroom.
+
+* Check the railing on the upper
+* The floor at the center of the
+* The door to the north of the r
+
+Return to the Entrance Hall and
+continue up to the East Wing.
+There, grab a GEAR PARTS v1
+[ギアパーツ ver.1] from the chest,
+then check the sofa and the door
+at the end of the hall. You'll
+be prompted for a response when
+you check the door. Pick 1st
+option for a scene.
+
+Back to previous area and up to
+West Hall. Avoid being seen by
+the candle, then start checking
+some more stuff.
+
+* The mop and bucket next to the
+* The floor atop the staircase.
+
+Continue into the West Wing and
+pick up the HI POTION [ハイポーション].
+Check the room at the end of the
+hall for another scene. Pick
+either options as responses for
+both prompts. Mission clear, but
+there are a few more clues to
+find to max out the mission
+gauge.
+
+* Check Beast's room again, then
+* The broken statue and the garg
+* Check Belle's room at East Win
+
+Mission 39 - Olympus Coliseum
+
+Once again, defeat all the
+Heartless at the Coliseum Gates,
+and Phil will appear asking you
+to deal with the Heartless in
+the Arena. This creature is very
+similar to a Large Body. but it
+has lots of HP and has a really
+nasty spin attack after getting
+up from a knock down.
+
+Lock on to it and attack the
+head, which can be tough to hit
+since its real tiny compared to
+the body. The best time to
+strike is after the creature
+executes a move.
+
+There's a THUNDER SHARD
+[とどろくかけら] treasure at the Lobby,
+along with a TECH GEAR +
+[テックギア+] and AERO RECIPE
+[エアロレシピ] at the Coliseum Gates.
+Talk to Phil at the Lobby to
+start your training.
+
+This one is pretty much the same
+as the previous training
+session. Perform continuous
+chain attacks on the barrels to
+maximize the orbs. Kill as many
+Soldier Heartless as you can to
+fill the mission gauge. Try to
+score 130 points or higher for a
+minor reward later on in the
+game.
+
+Mission 40 - Olympus Coliseum
+
+Collect 2 AERO RECIPES [エアロレシピ]
+and a CURE RECIPE [ケアルレシピ] from
+the treasure chests then proceed
+to the Arena and kill all the
+Deserters. The Soldiers drop
+Guard Arts, so be sure to kill
+them too. Use the barrels to
+defeat the targets instantly
+when you can.
+
+Mission 41  - Olympus Coliseum
+
+There is a THUNDER RECIPE
+[サンダーレシピ] treasure at the
+Coliseum Gates; The chests at
+the Arena contain another
+THUNDER RECIPE [サンダーレシピ] and
+GEAR PARTS v1 [ギアパーツ ver.1].
+
+Hopefully you have a Fire Charm
+and an Ability Unit equipped
+before coming here. You can't
+damage the Morning Star while
+spinning, so wait for it to stop
+then attack. Use the barrels to
+score instant kills on the
+Aiming Cannons. They drop Gear
+Parts v1, so do take them out.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 149: Separate Expectations
+[02-28]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ Level 2 Plus
+[LV2プラス 6] Gale Shard [吹きすさぶかけら]
+Slide Dash [スライドダッシュ] ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Bronze
+[ブロンズ] Cure Recipe [ケアルレシピ]
+Blizzard Recipe [ブリザドレシピ] Gale
+Shard [吹きすさぶかけら] ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+
+Score at least 100 or more on
+Mission 36 training session,
+then talk to Xaldin for a BRONZE
+[ブロンズ]. Speak to Saix for next
+mission.
+
+Mission 42 - Halloween Town
+
+This will be your first visit to
+Halloween Town. Start by picking
+up the CURE RECIPE [ケアルレシピ] next
+to your portal. Continue on into
+Guillotine Square afterwards.
+Search the area for A treasure
+chests with BLIZZARD RECIPE
+[ブリザドレシピ]. Now, take the
+northeast exit to the Graveyard.
+Grab the GALE SHARD [吹きすさぶかけら]
+there.
+
+Kill all the Heartless you can
+find to fill the mission gauge
+and clear this mission. Max it
+out if possible since this
+mission is quite easy.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 150: Anxiety                
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ Mission Rewards ~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~ Fira
+[ファイラ] Thunder Shard [とどろくかけら]
+x2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Bronze
+[ブロンズ] Aero Recipe [エアロレシピ]
+Elixir Recipe [エリクサーレシピ] Cure
+Recipe [ケアルレシピ] ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+
+No bonus items to get on base so
+just talk to Saix for your next
+quest.
+
+Mission 43 - Beast's Castle
+
+Open both chests at the
+Courtyard for BRONZE [ブロンズ] and
+AERO RECIPE [エアロレシピ]. Proceed to
+Entrance Hall 2F from the
+Courtyard and grab the ELIXIR
+RECIPE [エリクサーレシピ] there. Head
+for the Ballroom next and
+eliminate the Mega Shadow. Leave
+the room through the bottom door
+and head up to the East Wing;
+pick up a CURE RECIPE [ケアルレシピ]
+there. Turn back and head for
+the West Hall.
+
+Take note that the Mega Shadows
+drop Combo Arts, so try to kill
+as many as you can to stock the
+item for synthesis. Kill the
+Dark Follower.
+
+This creature is a purple
+Darkside; the moves are the same
+too. Attack whichever part you
+can hit. The white heat seeking
+orbs can blind you, while the
+dark ones makes you weigh a ton
+and keep you from jumping.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 151: Anguish                
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ High Jump
+[ハイジャンプ] Fira Recipe [ファイラレシピ]
+Sense Unit L [センスユニット L] ~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Guard
+Arts [ガードアーツ] Hi Potion
+[ハイポーション] Thunder Recipe
+[サンダーレシピ] ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+Collect a total of 130 or more
+treasures and talk to Axel twice
+for a GUARD ARTS [ガードアーツ]. Talk
+to Saix for your next quest.
+
+Mission 44 - Twilight Town
+
+For this mission, you have to
+collect the emblems and defeat
+Avalanche to fill the mission
+gauge. As stated before, you
+have to kill enemies to make the
+emblems glow, then collect them.
+This fills the gauge faster.
+
+There is a HI POTION [ハイポーション]
+treasure at the Back Alley and a
+THUNDER RECIPE [サンダーレシピ] at the
+Tunnel. Avalanche is waiting at
+the Sandlot. This boss is very
+weak to fire, so cast Fira as
+much as you can to end the
+battle quickly.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 152: Switch                 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~ Mission Rewards ~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thunder Recipe [サンダーレシピ] Gale
+Gem [吹きすさぶ魔石] x2 Gear Parts v1
+[ギアパーツ ver.1] x2 Elixir Recipe
+[エリクサーレシピ] Hi Potion [ハイポーション]
+Thunder [サンダー] Blizzara [ブリザラ]
+Thunder Shard [とどろくかけら] x2 Rune
+Arts [ルーンアーツ] Blizzard Recipe
+[ブリザドレシピ] Cure [ケアル] Bronze
+[ブロンズ] ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ Mission Treasures ~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Combo Arts [コンボアーツ] Hi Potion
+[ハイポーション] x2 Phantom Gear
+[ファントムギア] Gale Shard [吹きすさぶかけら]
+x2 Cure Recipe [ケアルレシピ] x2
+Bronze [ブロンズ] x2 Thunder Shard
+[とどろくかけら] Iron [アイアン] Blizzard
+Recipe [ブリザドレシピ] x3 Slot Unlock
+[スロット開放] Fire Recipe [ファイアレシピ]
+Potion [ポーション] x2 Thunder Recipe
+[サンダーレシピ] Gear Parts v1 [ギアパーツ
+ver.1] Elixir Recipe [エリクサーレシピ] 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~
+
+Speak to Xaldin for a COMBO ARTS
+[コンボアーツ], then to Saix for 4 new
+missions. As always, I'll be
+covering them in order from
+45-48. After completing 1
+mission, score 50 or more points
+in mission 37 and talk to Luxord
+twice to unlock a new mission
+(#49).
+
+Mission 45 - Halloween Town
+
+Check behind your portal for a
+chest with a PHANTOM GEAR
+[ファントムギア]. Continue on to the
+Guillotine Square. There, search
+the area for 2 chests with a HI
+POTION [ハイポーション] and GALE SHARD
+[吹きすさぶかけら]. Head to the
+Graveyard for another GALE SHARD
+[吹きすさぶかけら].
+
+You'll be playing a minigame in
+the Graveyard. Pick up a bone
+and feed it to Zero; he will
+then lead you to the Heartless'
+hiding spot. Press A when the
+green target marker appears and
+the enemies will pop out. Keep
+doing this until you max out the
+mission gauge.
+
+Mission 46 - Olympus Coliseum
+
+Collect the CURE RECIPE [ケアルレシピ]
+and BRONZE [ブロンズ] at the
+Coliseum Gates, and the THUNDER
+SHARD [とどろくかけら] at the Lobby.
+Talk to Phil to start your
+training. Kill as many Heartless
+as you can here to fill the
+mission gauge. Use the barrels
+to score instant kills.
+
+Mission 47 - Wonderland
+
+This will be your very first
+visit to Wonderland. When you
+regain control after the scenes,
+check behind your portal for an
+IRON [アイアン]. Proceed to the
+Bizzare Room now. There are 2
+chests here containing a
+BLIZZARD RECIPE [ブリザドレシピ] and
+SLOT UNLOCK [スロット開放].
+
+Kill all the Heartless and a
+Vanish Lizard will appear.
+You've fought this creature
+before, so you pretty much know
+what to do. If you get caught by
+the tongue, quickly tap A to
+escape.
+
+Mission 48 - Agrabah
+
+There are BLIZZARD RECIPE
+[ブリザドレシピ] and Aero Recipe
+[エアロレシピ] treasures at the Palace
+Walls; another BLIZZARD RECIPE
+and FIRE RECIPE [ファイアレシピ] at the
+entrance to the Cave of Wonders.
+Enter the cave.
+
+Grab one more BLIZZARD RECIPE
+[ブリザドレシピ] inside. Kill the Large
+Body and the Solid Armor. The
+latter Heartless is your main
+target. Dealing with these
+things should be easier, now
+that you have the High Jump
+ability. Mission accomplished;
+go on home.
+
+Mission 49 - Beast's Castle
+
+There are plenty of treasures to
+collect here: Entrance Hall:
+POTION [ポーション]; Ballroom: HI
+POTION [ハイポーション]; East Wing:
+THUNDER RECIPE [サンダーレシピ];
+Dungeon: GEAR PARTS v1 [ギアパーツ
+ver.1], POTION [ポーション]. West
+Hall: ELIXIR RECIPE [エリクサーレシピ].
+West Wing: BRONZE [ブロンズ].
+Bridge: CURE RECIPE [ケアルレシピ].
+
+Kill all the Heartless you can
+find to fill the mission gauge.
+Max it out when you can then
+return home.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 171: Love                   
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ Cura [ケアルラ]
+Rune Arts + [ルーンアーツ+] Bronze
+[ブロンズ] ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Hi
+Potion [ハイポーション] Cure Recipe
+[ケアルレシピ] Bronze [ブロンズ] Ether
+[エーテル] ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+
+Mission 50 - Beast's Castle
+
+Pick up a HI POTION [ハイポーション]
+and CURE RECIPE [ケアルレシピ] at the
+Ballroom, then a BRONZE [ブロンズ]
+and an ETHER [エーテル] at the
+Entrance Hall. Head out to the
+Couartyard for a brief scene and
+continue to the bridge to face
+your "unknown" target, the
+Demon's Fortress.
+
+I'd recommend stocking up on
+high level magic spells before
+coming here. Start throwing
+spells when the bottom half of
+the tank opens. It can pull out
+several types of weapons from
+its bottom half -- a Cannon: you
+may attack from the side, just
+dont stand in front of the
+barrel. Hammer: I suggest
+throwing spells from a distance.
+Rolling balls of explosives: Run
+far away and move away from its
+path.
+
+When the laser cannon appears,
+move in and hit it with all you
+got. This is the softest target
+so you can inflict the largest
+amount of damage on it. But
+don't get too carried away,
+since the whole tank will charge
+forward when the cannon is done
+storing energy.
+
+Avoid the projectiles being
+thrown by the Heartless above
+the tank. You can also attack
+the cover but your attacks will
+be weaker. You can also use
+Reflect Guard to deflect the
+shots from the cannon and kill
+off the Heartless on top of the
+tank.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 172: The Sound of Waves
+[02-33]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ Dodge Roll 3
+[ドッジロール 3] Gear Parts v1 [ギアパーツ
+ver.1] Bronze [ブロンズ] ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~ Mission Treasures ~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shining Light Gem [光かがやく魔石] x2
+Aero Recipe [エアロレシピ] Cure Recipe
+[ケアルレシピ] Dark Ingot [ダークインゴット] ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~
+
+Talk to Saix and he'll promote
+you to Agent. New items will be
+available at the shop, and Riku
+becomes a playable character in
+Mission Mode as well. Buy a
+Magic Lv3 (4)[魔法LV3プラス 4], Limit
+Up [リミットアップ] and an Auto Lock On
+[オートロックオン]. A Knight Defense
+[ナイトディフェンス] is a great ring
+upgarade, so go on and buy that
+as well.
+
+Mission 51 - Wonderland
+
+Your goal for this mission is to
+find all 5 Pink Concerto
+Heartless.
+
+Pick up a SHINING LIGHT GEM
+[光かがやく魔石] from the chest behind
+your portal then continue to the
+Bizzare Room and drink the
+potion. Grab another SHINING
+LIGHT GEM [光かがやく魔石] and an AERO
+RECIPE [エアロレシピ] from both
+treasure chests in this room.
+Exit out to the garden
+afterwards.
+
+Jump onto one of the walls here
+to find a HI POTION [ハイポーション].
+Proceed further into the Queen's
+Castle and take the south exit
+to Lotus Forest. The Cheshire
+Cat will appear and give a bit
+of hint as to where you can find
+your target. Examine the large
+flowers in the forest (2 yellow,
+1 blue, 1 red), and a Pink
+Concerto will appear for each.
+
+Hop along the upper levels of
+this area for a couple of
+treasure chests containing a
+CURE RECIPE [ケアルレシピ] and DARK
+INGOT [ダークインゴット].
+
+Head back to the Queen's Castle
+and attack the weight next to
+the throne until it reaches the
+bottom, to reveal the last Pink
+Concerto.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 173: Lies                   
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~ Mission Rewards ~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fire [ファイア] Blazing Gem
+[燃え上がる魔石] Fira [ファイラ] Luck Arts
+[ラックアーツ] Cura Recipe [ケアルラレシピ]
+Bronze [ブロンズ] Gale Shard
+[吹きすさぶかけら] x2 Frost Gem [凍てつく魔石]
+Shining Light Gem [光かがやく魔石] Dark
+Ingot [ダークインゴット] Gear Parts v2
+[ギアパーツ ver.2] ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~ Mission Treasures ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Shining Light Gem [光かがやく魔石]
+Thunder Recipe [サンダーレシピ] x2 Gale
+Shard [吹きすさぶかけら] x2 Frost Gem
+[凍てつく魔石] Blazing Gem [燃え上がる魔石]
+x2 Blizzara Recipe [ブリザラレシピ]
+Recovery Up [リカバリーアップ] Gear
+Parts v2 [ギアパーツ ver.2] Cura
+Recipe [ケアルラレシピ] Fire Recipe
+[ファイアレシピ] Cure Recipe [ケアルレシピ]
+Recovery Up L [リカバリーアップ L] ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~
+
+Start the day by linking 3 unit
+panels to your equipped weapon
+and talk to Axel twice to unlock
+a new mission. Next, synthesize
+a Chrono Gear (weapon) since
+you're required to make
+something out of the following
+items: Gear Parts ver.1, Rune
+Arts, and Bronze. Once done,
+speak to Luxord and he'll give
+you a SHINING LIGHT GEM
+[光かがやく魔石]. Talk to Saix for new
+quests.
+
+Mission 52 - Halloween Town
+
+Open the chest at the starting
+point for a THUNDER RECIPE
+[サンダーレシピ]. Get a GALE SHARD
+[吹きすさぶかけら] and FROST GEM
+[凍てつく魔石] at the Guillotine
+Square. Continue on to the
+Graveyard and grab the BLAZING
+GEM [燃え上がる魔石] and BLIZZARA
+RECIPE [ブリザラレシピ]. Now, hit the
+explosive pumpkins towards the
+unlit lanterns to light them.
+Once both are lit, the coffin
+opens an exit to a new area.
+
+Here, open the treasure chest
+for a GALE GEM [吹きすさぶ魔石], then
+light all the lanterns to open
+the next exit. Take that one to
+the Curly Hill. Search the area
+for a BLAZING GEM [燃え上がる魔石] and
+THUNDER RECIPE [サンダーレシピ]. Defeat
+Lock, Shock, and Barrel which
+should be quite easy since all 3
+of them have fairly little HP.
+
+Most of the balloons contain
+Heartless, so pop those and kill
+whatever appears to fill the
+mission gauge. Zero will be here
+too; pick up the bones and feed
+him. He'll lead you to the
+Heartless' hiding spots. Keep
+doing this unil you max out the
+mission gauge.
+
+Mission 53 - Neverland
+
+Your mission is to search for
+Wave Crest on the small island.
+After the scene with Smee and
+Captain Hook, defeat all the
+Heartless that appear then move
+forward for the next scene.
+You'll eventually gain the
+ability to glide (press B to
+descend and Y to ascend).
+
+Notice that some parts of the
+island have holes on them. What
+you need to do is hop into these
+holes and check the stuff at the
+bottom. Some enemies will appear
+once you do. Kill them and grab
+an item from the hole.
+
+Wave Crest appears when you
+examine the hole on the tall
+stone "island" to the east on
+the water. This creature is an
+upgarded version of the Tail
+Bunker that you fought back in
+Twilight Town early in the game.
+Cast Fira spells when possible,
+then fly above the target and
+attack from there. If you have a
+limit available, then by all
+means, use it.
+
+Mission 54 - Halloween Town
+
+Grab the GALE SHARD [吹きすさぶかけら]
+from the chest at the starting
+point. Dual Blade awaits you at
+the Guillotine Square, but
+before you fight him, search the
+area for a chest containing a
+RECOVERY UP [リカバリーアップ].
+
+The Dual Blade is an upgraded
+and larger version of the
+Rolling Soldier. Hit it with
+combos until you see it charge
+up. Move away at this point
+since the creature will use both
+of its blade next. When it
+jumps, it'll create a large
+shockwave on landing. Avoid
+getting caught by this since it
+can take away a huge chunk of
+your HP.
+
+Mission 55 - Wonderland
+
+Your goal for this mission is to
+collect the emblems (displayed
+on the bottom screen). Defeat
+enemies or collect other emblems
+to make the targets glow before
+you grab them. This fills the
+mission gauge faster.
+
+Check behind your portal for a
+chest with GEAR PARTS v2 [ギアパーツ
+ver.2]. Continue to the Bizzare
+Room and pick up a FIRE RECIPE
+[ファイアレシピ] and a CURA RECIPE
+[ケアルラレシピ]. The chests o the
+upper sections of Lotus Forest
+has a CURE RECIPE [ケアルレシピ]. Head
+to the Tea Party Garden next for
+a RECOVERY UP L [リカバリーアップ L].
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 193: Memory                 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Rewards
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thundara       [サンダラ]
+Level 2 Plus 6 [LV2プラス]
+Blizzara       [ブリザラ]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Wide
+Arts [ワイドアーツ] Gear Parts v2
+[ギアパーツ ver.2] Thunder Recipe
+[サンダーレシピ] x2 Slot Unlock
+[スロット開放] ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+
+Build something from a Moonstone
+and Guard Arts (Just Guard) then
+talk to Xaldin for a WIDE ARTS
+[ワイドアーツ]. Speak to Saix for your
+next quest.
+
+Mission 56 - Twilight Town
+
+Your objective is to search for
+and kill both Heat Saber and
+Destroyer, but go hunt some
+treasures first before you go.
+The chest at the Back Alley
+contains a GEAR PARTS v2 [ギアパーツ
+ver.2]; the one at the Station
+Heights has a THUNDER RECIPE
+[サンダーレシピ]. There are two more
+chests at the Station Plaza with
+another THUNDER RECIPE [サンダーレシピ]
+and a SLOT UNLOCK [スロット開放].
+
+The Heat Saber awaits at the
+Sandlot. Deal with the Barrier
+Master first; knock the book
+away and spam the "user" with
+magic. As for the main target,
+cast Blizzara and if you have
+limit breaks available then use
+it. Try to avoid its dive attack
+as much as you can, as this
+deals massive damage. Head to
+the Station Plaza afterwards.
+
+For the Destroyer, its body will
+always be open to attack, but
+the arms constantly fire laser
+beams, which have great
+firepower. Stay away from the
+laser's path at all costs; try
+to stay between the arms.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 194: Daily Return Home
+[02-36]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~ Mission Rewards ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Blizzara [ブリザラ] Gear Parts v2
+[ギアパーツ ver.2] Dark Ingot
+[ダークインゴット] x2 Cure [ケアル] Cura
+Recipe [ケアルラレシピ] Thunder Gem
+[とどろく魔石] Moonstone [ムーンストーン]
+Power Arts [パワアーツ] Combo Arts
+[コンボアーツ] x3 Wide Arts [ワイドアーツ]
+Gale Shard [吹きすさぶかけら] ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~ Mission Treasures ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Bronze [ブロンズ] Shining Light
+Gem [光かがやく魔石] x2 Dark Ingot
+[ダークインゴット] x3 Aero Recipe
+[エアロレシピ] Hi Potion [ハイポーション]
+Thunder Recipe [サンダーレシピ] Gear
+Parts v2 [ギアパーツ ver.2] Frost
+Shard [凍てつくかけら] x2 ~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Start the day by talking to Xion
+for a BRONZE [ブロンズ]. Next,
+defeat 30 or more enemies with
+your limit break, then speak to
+Xigbar to unlock a new mission.
+Chat with Saix for your next 4
+quests.
+
+Mission 57 - Wonderland
+
+Head to the Bizarre Room and
+claim the SHINING LIGHT GEM
+[光かがやく魔石] and DARK INGOT
+[ダークインゴット] from both chests.
+Grab the HI POTION [ハイポーション] at
+the next screen, and continue
+further into the Queen's Castle.
+Pick up another SHINING LIGHT
+GEM [光かがやく魔石] and DARK INGOT
+[ダークインゴット] here. Go back to the
+previous area and enter the
+maze.
+
+You need to sneak past the
+guards here as you search the
+area for a trio of Commander
+Heartless. There are also 2
+chests with one more DARK INGOT
+[ダークインゴット] and an AERO RECIPE
+[エアロレシピ]. Defeat the 3
+Commanders to finish the
+mission.
+
+Mission 58 - Neverland
+
+Your objective is to locate and
+defeat a total of 3 Flying Arts.
+What you must do is the same as
+what you did during your first
+visit. Hop into the holes and
+examine the stuff inside. Kill
+the Heartless that appear. Claim
+the item in the hole afterwards.
+Keep doing this until you
+eliminate all 3 Flying Arts.
+Hook's ship will fire its
+cannons from time to time. That
+deals massive damage so try to
+avoid being hit as much as
+possible.
+
+Mission 59 - Twilight Town
+
+You must collect 3 Shining Light
+Shards to complete this quest.
+There is a THUNDER RECIPE
+[サンダーレシピ]; the one at the
+Station Heights contains a GEAR
+PARTS v2 [ギアパーツ ver.2]. Head to
+the Tram Station and search for
+Guardian enemies; they are the
+only ones that drop the item you
+want.
+
+Mission 60 - Neverland
+
+Hunt down Avalanche and cast
+Fira on it. Hopefully it ends up
+getting burned. That will make
+things easier. The best time to
+attack is after the creature
+executes a move. Limit Breaks
+are still the best way to go.
+There are 2 chests with FROST
+SHARDS [凍てつくかけら] in this area
+too.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 224: Disaster [02-37]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ Firaga
+[ファイガ] Cura Recipe [ケアルラレシピ]
+Gale Gem [吹きすさぶ魔石] ~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Dark
+Ingot [ダークインゴット] Thunder Gem
+[とどろく魔石] Thunder Shard [とどろくかけら]
+Slot Unlock [スロット開放] ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Find all the hidden Heartless in
+mission 52 (max out the mission
+gauge), and talk to Demyx for a
+DARK INGOT [ダークインゴット].
+
+Mission 61 - Olympus Coliseum
+
+Pick up a THUNDER GEM [とどろく魔石]
+and a THUNDER SHARD [とどろくかけら]
+from the chests at the Coliseum
+Gates. Next, head to the Lobby
+and grab the SLOT UNLOCK
+[スロット開放]. Talk to Phil to start
+your training.
+
+Win 4 rounds of battle at the
+Arena; use the barrels to kill
+targets instantly. You get to
+fight Xaldin after that. Just
+get him down to half HP, and
+Guard Armor appears after a
+brief dialogue.
+
+Cast Thunder or jump to hit its
+head, until it separates into 3
+parts. When that happens, take
+out the arms first, then the
+feet. Keep repeating the process
+until both the arms and legs are
+gone. The body should be quite
+easy to destroy once alone, so
+finish it off quickly.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 225: Serenity [02-38]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ Combo Arts +
+[コンボアーツ+] Guard Arts + [ガードアーツ+]
+Diamond [ダイヤモンド] x2 Moonstone
+[ムーンストーン] Rune Arts + [ルーンアーツ+]
+Last Recipe [ラストレシピ] Combo Arts
+++ [コンボアーツ++] Silver [シルバー] ~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~ Mission Treasures ~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Blizzard Recipe [ブリザドレシピ] x2
+Blizzara Recipe [ブリザラレシピ] Blaze
+Gem [燃え上がる魔石] Silver [シルバー] x2
+Gale Gem [吹きすさぶ魔石] Thunder
+Recipe [サンダーレシピ] Diamond
+[ダイヤモンド] x2 Aero Recipe [エアロレシピ]
+x3 Cure Recipe [ケアルレシピ] Hi
+Potion [ハイポーション] Gale Crystal
+[吹きすさぶ結晶] Gear Parts v3 [ギアパーツ
+ver.3] ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+Saix will promote you to Expert
+when you talk to him. This
+unlocks new stuff at the shop;
+Donald will also be a playable
+character in Mission Mode. Now,
+get at least 1 trial symbol in
+mission 58 trial, then talk to
+Axel to unlock a new mission
+(#63). Next, collect all the
+treasures in mission 51, then
+speak to Demyx for another new
+quest (#64).
+
+Mission 62 - Halloween Town
+
+Head to the Guillotine Square
+and pick up a BLIZZARA RECIPE
+[ブリザラレシピ] and a BLIZZARD RECIPE
+[ブリザドレシピ] from both treasure
+chests. Proceed to the Graveyard
+for a BLAZE GEM [燃え上がる魔石]. Off
+to the next screen for another
+BLIZZARD RECIPE [ブリザドレシピ]. Kill
+the army of Ghosts here and move
+on to a new area.
+
+At the Moonlight Hill, pick up a
+couple of SILVERS [シルバー], then
+hit the pumpkin bombs towards
+the unlit lanterns, to light
+them and open a new exit. Grab
+the GALE GEM [吹きすさぶ魔石] and
+THUNDER RECIPE [サンダーレシピ] here.
+Now, examine the lone baloon to
+find your target.
+
+The Ghost will mostly stay high
+above you, so jump and hit it
+with a long string of air
+combos. It is also quite
+vulnerable to fire, especially
+when it gets burned. The
+creature will constantly attempt
+to grab you as well, which saps
+your health rapidly if it
+succeeds.
+
+After beating the ghost, head
+back to your portal and kill the
+???? that appears. It drops a
+Gear Parts v3. Mission complete.
+
+There are also hidden Heartless
+in some areas, which you must
+find in order to unlock a
+mission later in the game. The
+locations are:
+
+* Check one of the pair of orang
+  Guillotine Square. The one to 
+* The lamp next to the door lead
+* Head to Curly Hill, climb atop
+* One of the grave stones at the
+
+Mission 63 - Wonderland
+
+Your goal here is to destroy all
+the Shadow Blocks scattered all
+over Wonderland. Collect a
+DIAMOND [ダイヤモンド] and AERO RECIPE
+[エアロレシピ] at the Bizarre Room;
+then another set of DIAMOND
+[ダイヤモンド] and AERO RECIPE
+[エアロレシピ] at the Maze Entrance;
+you get a CURE RECIPE [ケアルレシピ]
+and a HI POTION [ハイポーション] at the
+Lotus Forest, and finally, there
+is a GALE CRYSTAL [吹きすさぶ結晶] at
+the Tea Party Garden.
+
+Mission 64 - Neverland
+
+The target, Emerald Serenade,
+does nothing other than fly
+around in circles. But the
+problem is it's very difficult
+to hit especially if you're not
+used to the controls when
+flying. Hope that Axel manages
+to hit it with a Fire spell and
+burn it. If you're going to
+attack, do it from a very close
+range. Or find out the path the
+creature usually uses, then wait
+there, and attack it when it
+passes by.
+
+The treasures here are GEAR
+PARTS v3 [ギアパーツ ver.3] and an
+AERO RECIPE [エアロレシピ]. Check each
+"island" to find the chests.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 255: One Long Day [02-39]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ Level 3 Plus
+[LV3プラス 4] Gear Parts v2 [ギアパーツ
+ver.2] Rune Arts + [ルーンアーツ+] ~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Air
+Slide [エアスライド 5] Diamond
+[ダイヤモンド] x2 Cura Recipe
+[ケアルラレシピ] x2 Hi Potion [ハイポーション]
+Aero Recipe [エアロレシピ] ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Mission 65 - Wonderland
+
+Make your way to the Maze
+Entrance for a chest with an AIR
+SLIDE [エアスライド 5] and proceed to
+the Queen's Castle for a scene
+then return to the previous
+screen and into the maze. What
+you must do is find the 4
+switches to activate the lamps
+in the Bizarre Room.
+
+Once again, you need to sneak
+past the guards. Start by going
+west to find the first switch,
+but before that, there is a
+chest with a CURA RECIPE
+[ケアルラレシピ] near the entrance.
+After activating the first
+switch, proceed through the west
+exit to the next screen.
+
+There, head to the southeast
+corner for a DIAMOND [ダイヤモンド].
+From there, head left and up to
+the second switch; to the
+northwest of that is another
+CURA RECIPE [ケアルラレシピ]. From the
+second switch, go east, north,
+then east to the third switch.
+All guards will leave
+afterwards. Head east from the
+third switch for a HI POTION
+[ハイポーション]. Take the northeast
+exit back to the previous area.
+
+The fourth and last switch is
+just to the east then north of
+the first one. You were not able
+to activate this earlier due to
+a guard blocking it. There is
+another treasure chest to the
+northwest of the 4th switch.
+Head to the northeast corner of
+the area for a DIAMOND [ダイヤモンド].
+
+With all the lamps now on, head
+back to the Bizarre Room to meet
+your target, the Next Shadow.
+Kill it to clear this mission.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 256: Report                 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ Curaga
+[ケアルガ] Power Arts + [パワアーツ+]
+Silver [シルバー] x2 Rune Arts +
+[ルーンアーツ+] Thunder Gem [とどろく魔石]
+Fire Recipe [ファイアレシピ] Blizzard
+Recipe [ブリザドレシピ] Curaga Recipe
+[ケアルガレシピ] ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Silver
+[シルバー] x3 Gale Gem [吹きすさぶ魔石]
+Thundaga Recipe [サンダガレシピ]
+Blazing Crystal [燃え上がる結晶] Frost
+Gem [凍てつく魔石] Premium Orb
+[プレミアムオーブ] Aero Recipe [エアロレシピ]
+x2 Air Up L [エアアップ L] Aerora
+Recipe [エアロラレシピ] Hi Potion
+[ハイポション] x4 Hi Ether [ハイエーテル] x2
+Glide Up L [グライドアップ L] Blizzard
+Recipe [ブリザドレシピ] x2 ~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Talk to Luxord for a Combo Arts
+++, telling you to build
+something from it and a Diamond.
+Go synthesize an Auto Dodge and
+speak to Luxord again. He'll
+then give you a SILVER [シルバー].
+You have 3 new quests from Saix.
+
+Mission 66 - Halloween Town
+
+Take a look behind your portal
+to find a SILVER [シルバー].
+Continue on to the Guillotine
+Square, kill all the ????
+enemies and search the area for
+a GALE GEM [吹きすさぶ魔石]. Next stop
+is the Graveyard; hop into the
+coffin to the next screen. Grab
+the THUNDAGA RECIPE [サンダガレシピ].
+Proceed to the Moonlight Hill;
+climb the ladder there to
+another area.
+
+Collect a SILVER [シルバー], BLAZING
+CRYSTAL [燃え上がる結晶], FROST GEM
+[凍てつく魔石], then take the exit
+leading to the sewer. Grab a
+PREMIUM ORB [プレミアムオーブ] from the
+chest in this room. Defeat
+Parasite Grave.
+
+It's best to stay clear of the
+grave for now, and focus on
+taking out all the ????
+surrounding the boss. Once
+you've done that, the grave will
+collapse and you can move in to
+attack it. It will recover after
+a while when the ???? are
+revived. The ???? will
+constantly try to swallow you
+and have the grave spit you out.
+This move does massive damage so
+try to avoid getting eaten as
+much as possible.
+
+Make quick work of the ????s by
+casting high level Thundara
+spells. Use limit break + final
+limit attacks when it becomes
+available during the time when
+the grave is out cold.
+
+Mission 67 - Wonderland
+
+Claim a couple of AERO RECIPES
+[エアロレシピ] from the chests in the
+Bizarre Room and Maze Entrance.
+There's an AIR UP L [エアアップ L] at
+the Maze Entrance as well. The
+one at the Queen's Castle has an
+AERORA RECIPE [エアロラレシピ]. Get a
+HI POTION [ハイポション] and HI ETHER
+[ハイエーテル] at Lotus Forest, plus
+another HI POTION [ハイポション] at
+the Tea Party Garden. The
+target, Emerald Serenade is in
+the Lotus Forest.
+
+This round against the Serenade
+will be somewhat easier. Don't
+bother chasing after it.
+Instead, just wait at a spot the
+creature frequents and attack it
+when it passes by.
+
+Mission 68 - Agrabah
+
+Collect a GLIDE UP L [グライドアップ L]
+and a HI POTION [ハイポション] at the
+cave entrance. There's another
+HI POTION [ハイポション] and a HI
+ETHER [ハイエーテル] at the Palace
+Gates, and a BLIZZARD RECIPE
+[ブリザドレシピ] at the Bazaar. The
+first area in the cave also has
+a BLIZZARD RECIPE.
+
+Simply kill as many Heartless as
+you can to fill the mission
+gauge and finish this quest.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 277: Search                 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~ Mission Rewards ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Shining Light Crystal
+[光かがやく結晶] Shining Light Gem
+[光かがやく魔石] Blazing Gem [燃え上がる魔石]
+Gear Parts v2 [ギアパーツ ver.2]
+Aerora Recipe [エアロラレシピ] Gale Gem
+[吹きすさぶ魔石] Combo Arts + [コンボアーツ+]
+Thunder Gem [とどろく魔石] Power Arts
++ [パワアーツ+] ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Thundara Recipe [サンダラレシピ] Hi
+Potion [ハイポション] Hi Ether
+[ハイエーテル] Slot Unlock [スロット開放]
+Thunder Recipe [サンダーレシピ] ~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Find and defeat all the hidden
+Heartless in mission 62, then
+talk to Demyx to unlock a new
+mission (#71). Speak to Saix
+afterwards.
+
+Mission 69 - Wonderland
+
+There is a treasure chest behind
+your portal with a THUNDARA
+RECIPE [サンダラレシピ]. Off to the
+next screen and look on top of
+the fireplace to find 2 treasure
+chests with a HI POTION [ハイポション]
+and a HI ETHER [ハイエーテル]. Time to
+deal with the Breed Performer.
+
+There are two of these things
+here, and each of them must die
+shortly after the other.
+Otherwise, the dead one will be
+revived with full HP. So attack
+both targets until each of them
+has a tiny chunk of health left
+then you can finish them off. It
+will be a good idea to equip
+something that boosts your
+resistance to fire as well.
+
+Mission 70 - Beast's Castle
+
+Grab the SLOT UNLOCK [スロット開放] at
+the Ballroom then head out to
+the Entrance Hall, and kill all
+the Deserters to finish this
+mission. There is an Invincible
+enemy waiting by your portal.
+Defeat it if you want.
+
+Mission 71 - The World That
+Never Was
+
+All you need to do here is
+survive for 2 minutes against
+Dusk and Samurai Nobodies. Cast
+Thundara or Thundaga as a form
+of shield if the enemies begin
+to gather around you.
+
+Mission 72 - Halloween Town
+
+The treasure chest behind your
+portal has a THUNDER RECIPE
+[サンダーレシピ] Defeat as many
+Heartless as you can at the
+Guillotine Square to fill the
+mission gauge. The Dual Blade is
+weak to ice by the way.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 296: Confession [02-42]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ Mission Rewards ~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~ Magic Unit
+L [マジックユニット] Combo Arts ++
+[コンボアーツ++] Thunder Crystal
+[とどろく結晶] ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Gear
+Parts v3 [ギアパーツ ver.3] Fire
+Recipe [ファイアレシピ] ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+
+Saix will promote you to Master.
+In addition to the new
+merchandise at the shop, Goofy
+also becomes a playable
+character in Mission Mode.
+
+Mission 73 - Olympus Coliseum
+
+Pick up a GEAR PARTS v3 [ギアパーツ
+ver.3] and FIRE RECIPE [ファイアレシピ]
+at the Coliseum Gates. Head to
+the Lobby and talk to Phil to
+begin battle This will be a
+five-rounder. Use the barrels to
+score instant kills on enemies,
+without going near any of the
+targets.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 297: Touch                  
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ Mission Rewards ~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~ Thunder
+Crystal [とどろく結晶] Aeroga Recipe
+[エアロガレシピ] Gear Parts v4 [ギアパーツ
+ver.4] Adamantite [アダマンタイト] High
+Jump 3 [ハイジャンプ 3] ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Aero
+Recipe [エアロレシピ] Magic Lv4 Plus
+[魔法LV4プラス] Gear Parts v4 [ギアパーツ
+ver.4] ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+
+Mission 74 - Twilight Town
+
+Talk to Saix and he'll ask if
+you're prepared. Say "yes" (top
+choice). Watch the story events
+for a while, and you'll
+eventually regain control of
+Roxas in Twilight Town. Hunt
+down and "defeat" the
+"mysterious" or ???? hooded man.
+Open the chest near your portal
+for an AERO RECIPE [エアロレシピ] and
+another one with MAGIC LV4 PLUS
+[魔法LV4プラス].
+
+Continue to the Underground
+Concourse and search the area
+for a GEAR PARTS v4 [ギアパーツ
+ver.4]. Follow the target around
+(represented with a yellow dot
+on the map; attack him if you
+want. Keep doing this until the
+final cutscene plays. The
+mission ends after this.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 298:                        
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ Mission Rewards ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Gear
+Parts v3 [ギアパーツ ver.3] x2 Frost
+Crystal [凍てつく結晶] ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Fire
+Recipe [ファイアレシピ] Gear Parts v4
+[ギアパーツ ver.4] ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+
+Mission 75 - Twilight Town
+
+There's a chest with a FIRE
+RECIPE [ファイアレシピ] at the Back
+Alley. Proceed to the Sandlot
+and defeat an army of Mega
+Shadows, then head to the Tram
+Station afterwards. Look around
+the area for a GEAR PARTS v4
+[ギアパーツ ver.4]. This mission is
+similar to the previous one. Go
+after the hooded figure and
+attack her. Keep doing this
+until the final cutscene plays.
+The mission ends after that.
+
+The Storm Bomb enemies in this
+mission drop Combo Arts ++, so
+try to defeat as many as you can
+to stock up on the said item.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 299: Sora                   
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ Rune Arts +
+[ルーンアーツ+] x2 Glide Up L [グライドアップ
+L] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Gold
+[ゴールド] Curaga Recipe [ケアルガレシピ]
+Frost Crystal [凍てつく結晶] ~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Equip 4 unit panels into your
+weapon and talk to Xaldin for a
+GOLD [ゴールド]. Not much else to
+do, so talk to Saix for your
+next mission.
+
+Mission 76 - Neverland
+
+The first area has 2 chests with
+a CURAGA RECIPE [ケアルガレシピ] and
+FROST CRYSTAL [凍てつく結晶]. Search
+for and destroy all the Shadow
+Blocks you can find to fill the
+mission gauge.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 300: Stalemate [02-46]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ Level 3 Plus
+[LV3プラス] Thundaga Recipe
+[サンダガレシピ] Gold [ゴールド] ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Mission 77 - Neverland
+
+You must regain the ability to
+fly before you can do anything
+else. Take the nearby exit to
+the pirate ship. There, head to
+the Captain's Quarters for a
+scene, then enter the room after
+Hook and Smee leave.
+
+After saving Tinkerbell, get off
+the ship and return to the
+previous screen. There, fly to
+the island marked with a red
+star on the map. Land and hit
+the surface with you keyblade to
+start digging. Some events
+follow. Now, head to where Smee
+and Hook are for the next event.
+The target, Tail Mirage appears
+and the digging duo will run
+off.
+
+Try to hit the creature from
+behind on any body part you can
+reach, as long as the boss is
+facing away from you. It simply
+teleports when you attack it
+head on, so it's pointless to
+try and hit it from that angle.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 301: A Place with No One
+[02-47]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~ Mission Rewards ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~ Blizzaga [ブリザガ] Power Arts
++ [パワーアーツ+] Silver [シルバー] Frost
+Crystal [凍てつく結晶] x3 Mythril
+[ミスリル] x2 Adamantite [アダマンタイト]
+x2 Shining Light Crystal
+[光かがやく結晶] Shining Light Gem
+[光かがやく魔石] Luck Arts [ラックアーツ]
+Power Arts ++ [パワアーツ++] Rune
+Arts ++ [ルーンアーツ++] ~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Hi
+Ether [ハイエーテル] x2 Thunder
+Crystal [とどろく結晶] Thunder Recipe
+[サンダーレシピ] Diamond [ダイヤモンド] x3
+Gale Crystal [吹きすさぶ結晶] Blizzaga
+Recipe [ブリザガレシピ] Slot Unlock
+[スロット開放] ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+
+Achieve an "All Clear" status
+from Day 256 through 275 then
+talk to Xaldin to unlock a new
+mission. Speak to Saix for your
+next 4 quests.
+
+Mission 78 - Neverland
+
+Once again, approach the digging
+Smee and Hook; watch their
+treasure hunt be interrupted by
+yet another Heartless -- the Sky
+Ruler.
+
+I strongly recommend equipping a
+ring that boosts your resistance
+to Ice (a Blizzard Charm works
+perfectly). This boss will fly
+around the area, shooting ice
+orbs from its tail, and produce
+ice pillars from the water. The
+tail is the only part that you
+can lock on to, so follow the
+creature and attack the tail
+when you get close enough.
+Getting magic spells to find
+their mark is difficult, so just
+stick to normal attacks.
+
+Avoid the orbs and pillars and
+keep attacking until one section
+of the tail falls off. Once,
+this happens, the boss gets mad
+and try to slam into you several
+times. Stay under wing level to
+avoid the attack. Rinse and
+repeat until the whole tail is
+decimated.
+
+At this point, it will be
+shooting projectiles for a
+while, then stop to use its
+rapid fire attack. Fly under the
+creature towards its middle and
+attack the heart. The Sky Ruler
+will eventually stop shooting
+and stay in one spot to cool
+off. Take this chance to land a
+series of combos, then fly away
+before the target can swipe you
+with its claws.
+
+Mission 79 - Halloween Town
+
+Proceed to the Guillotine
+Square, clear the area of
+Heartless, and search for a
+treasure chest containing a HI
+ETHER [ハイエーテル]. Off to the
+Graveyard then hop into the
+coffin to the next screen. Pick
+up a THUNDER CRYSTAL [とどろく結晶]
+here. Now, go on to the Curly
+Hill and defeat some more
+Heartless. Take the east exit
+first afterwards.
+
+Grab the HI ETHER [ハイエーテル] in
+this area then return to the
+previous screen, climbing up the
+ladder to the west. Pick up the
+THUNDER RECIPE [サンダーレシピ]. Defeat
+all the minor Heartless and your
+real target, the Gold Reaper
+appears. It's just another
+variation of the Rolling
+Soldier, and is weak to Fire.
+Cast Firaga and hope that it
+gets burned.
+
+Mission 80 - Beast's Castle
+
+Your goal in this mission is
+simple: Smash at least 15 pots
+to fill the mission gauge to its
+desired point. Of course you can
+break the remaining ones to max
+out the gauge if you like. Some
+of the pots contain Living Pod
+enemies, which will definitely
+kill Roxas if they grab him, so
+watch out. There are also Hi
+Potions in some of the pots.
+
+Mission 81 - Wonderland
+
+Your target here is the Emerald
+Serenade, which is an enemy that
+I learned to dislike not long
+after our first meeting. It will
+be moving around the maze
+constantly, so you might want to
+wait at a spot where you can
+land the most hits on the
+creature when it passes by.
+
+There are 6 treasure chests in
+this mission as well. The 3 at
+the first area contain: DIAMOND
+[ダイヤモンド], GALE CRYSTAL
+[吹きすさぶ結晶], BLIZZAGA RECIPE
+[ブリザガレシピ]. The 3 in the 2nd are
+has 2 DIAMONDS and a SLOT UNLOCK
+[スロット開放].
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 321: The Fading Power
+[02-48]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ Dash Up L
+[ダッシュアップ L] Thunder Gem [とどろく魔石]
+Thunder Shard [とどろくかけら] ~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Gold
+[ゴールド] Sense Unit L [センスユニット L]
+Hi Potion [ハイポション] Hi Ether
+[ハイエーテル] Aerora Recipe [エアロラレシピ]
+Adamantite [アダマンタイト] ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Xaldin will give you something
+for scoring 150 or more points
+in mission 46 training session.
+I haven't cleared that one yet,
+so I can't tell you what the
+item is. Anyway, talk to Saix
+for your next quest.
+
+Mission 82 - Agrabah
+
+Before heading into the Cave of
+Wonders, check the other areas
+for loots first -- Palace Gates:
+GOLD [ゴールド]; Bazaar: Sense Unit
+L [センスユニット L]; Palace Walls: HI
+POTION [ハイエーテル]; Ruins: HI ETHER
+[ハイエーテル]. Head into the cave
+once you have everything.
+
+There, pick up another GOLD
+[ゴールド] then go through the east
+exit to the Secret Basement. Hop
+onto higher ground to find an
+AERORA RECIPE [エアロラレシピ]. Attack
+the huge gold statue and 4
+crates will drop from above.
+Push these crates onto the 3
+switches on the lower area. This
+opens a new exit. Take that one
+to the lamp room.
+
+Grab one more GOLD [ゴールド] and an
+ADAMANTITE [アダマンタイト] from the 2
+chests, then approach the locked
+door up ahead for some scenes.
+The Spike Roller will appear.
+Just watch it spin for a while
+until an event occurs. Mission
+complete, you can go home now.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 322: Scheme                 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~ Mission Rewards ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Aeroga
+Recipe [エアロガレシピ] Blazing Crystal
+[燃え上がる結晶] Orichal [オリハル] Firaga
+Recipe [ファイガレシピ] Mythril [ミスリル]
+x2 Blizzaga Recipe [ブリザガレシピ]
+Blizzara Recipe [ブリザラレシピ] Combo
+Arts ++ [コンボアーツ++] Curaga Recipe
+[ケアルガレシピ] x2 Anklyte [アンカライト]
+Thunder Crystal [とどろく結晶] Diamond
+[ダイヤモンド] ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Elixir
+Recipe [エリクサーレシピ] Aeroga Recipe
+[エアロガレシピ] Blazing Crystal
+[燃え上がる結晶] Hi Ether [ハイエーテル]
+Elixir [エリクサー] x4 Firaga Recipe
+[ファイガレシピ] Slot Unlock [スロット開放]
+Blizzara Recipe [ブリザラレシピ] Fira
+Recipe [ファイラレシピ] Gale Crystal
+[吹きすさぶ結晶] Thundaga Recipe
+[サンダガレシピ] x2 Thunder Crystal
+[とどろく結晶] Hi Potion [ハイポーション]
+Fire Recipe [ファイアレシピ] ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Start the day by talking to Xion
+for an ELIXIR RECIPE [エリクサーレシピ].
+Next, collect all the treasures
+in mission 82 then speak to
+Luxord to unlock 2 new missions
+(#84 and #87).
+
+Mission 83 - Beast's Castle
+
+Before proceeding to complete
+your objective, search the
+castle for loots first -
+Courtyard: AEROGA RECIPE
+[エアロガレシピ]; West Hall: BLAZING
+CRYSTAL [燃え上がる結晶]; Bridge: HI
+ETHER [ハイエーテル]. The Entrance
+Hall 2F, Dungeon, West Wing, and
+East Wing all have an ELIXIR
+[エリクサー] each. Continue with the
+mission once you have
+everything.
+
+Head to the Ballroom first for a
+scene with Belle, then take a
+peek into Beast's room in the
+West Wing for the next event.
+Off to the East Wing next and
+finally, head back to your
+portal to find Xaldin there.
+
+Mission 84 - Olympus Coliseum
+
+Pick up a FIRAGA RECIPE
+[ファイガレシピ] at the Coliseum Gates,
+and go all the way into the
+Arena to fight the Burning Ball.
+This is just a modified Morning
+Star. Wait for it to stop
+spinning then attack or cast
+high level ice magic. You can
+also use the barrels to stop it
+from spinning.
+
+Mission 85 - Wonderland
+
+Look behind your portal to find
+a SLOT UNLOCK [スロット開放], then go
+claim a FIRA RECIPE [ファイラレシピ] at
+the Bizarre Room. Next, the maze
+entrance has a GALE CRYSTAL
+[吹きすさぶ結晶] and HI POTION
+[ハイポーション].
+
+Simply kill as many Heartless as
+you can to fill the mission
+gauge. This can take quite a
+while, so it's alright to not
+max out the gauge.
+
+Mission 86 - Neverland
+
+This is another one of those
+"collect emblems" to fill the
+gauge mission. You should know
+the drill here, when the glow
+fades, grab an emblem to make
+the rest glow again. There's a
+FIRE RECIPE [ファイアレシピ] here too.
+
+Mission 87 - Halloween Town
+
+Head to the Guillotine Square
+and claim 2 THUNDAGA RECIPES
+[サンダガレシピ] then dash for the
+Graveyard to get the THUNDER
+CRYSTAL [とどろく結晶]. Go back to the
+previous area and kill all 3
+Windstorms to complete quest.
+
+The best way to deal with these
+things when they gather together
+in one place is to just unleash
+limit breaks with final limits
+to damage all 3 of them at once,
+Keep doing this until your limit
+gauge dries up.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 352: Sun                    
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ Level 4 Plus
+[LV4プラス] Blizzaga Recipe
+[ブリザガレシピ] ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mission Treasures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Slot Unlock [スロット開放]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Talk to Xigbar after defeating
+50 enemies with the final limit
+for a reward. I didn't meet the
+requirements for this one so I
+can't tell you what the item is.
+Speak to Saix for your next
+mission.
+
+Mission 88 - Halloween Town
+
+Take a look behind your portal
+for a chest with SLOT UNLOCK
+[スロット開放]. Continue to the
+Graveyard to meet the "Ogre".
+Chip off a few bars from its
+health and an event plays.
+Mission complete.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 353: Determination [02-51]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ Orichal
+[オリハル] Diamond [ダイヤモンド] Premium
+Orb [プレミアムオーブ] ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Hi
+Ether [ハイエーテル] x3 Potion [ポーション]
+Hi Potion [ハイポーション] Gear Parts
+v4 [ギアパーツ ver.4] x2 ~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+
+The treasures in this area are
+-- Back Alley: HI ETHER
+[ハイエーテル]; Usual Spot: HI POTION
+[ハイポーション]; Station Heights: GEAR
+PARTS v4 [ギアパーツ ver.4]; Tram
+Station: HI ETHER, GEAR PARTS
+v4, POTION; Underground
+Concourse: HI ETHER. Your goal
+is to locate and defeat 6 major
+Heartless. That should be enough
+to clear this quest.
+
+The locations of the 6 targets
+are as follows: #1: Sandlot. #2:
+Tram Station. #3: Underground
+Concourse. #4: Tunnel. #5:
+Station Plaza. #6: Old Mansion.
+#7: Station Plaza.
+
+For the 7th Heartless, Debris
+Flow, equip a ring that raises
+your fire resistance like Fire
+Charm. That should reduce damage
+from its fireball attack. Glide
+to avoid the fireballs. The
+massive shockwave can be avoided
+by gliding. Also, never ever
+land in the center of the
+shockwave blast, since that
+deals massive, and I mean
+massive damage to Roxas.
+
+Again, it is not required of you
+to kill the 7th Heartless. But
+you will have to defeat it if
+you want to unlock Sora in
+Mission Mode.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 354: Truth                  
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ Mission Rewards ~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~ Sense Unit
+L [センスユニット L] Power Arts ++
+[パワアーツ++] Blazing Crystal
+[燃え上がる結晶] ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~ Rune
+Arts ++ [ルーンアーツ++] Luck Arts
+[ラックアーツ] x2 Potion [ポーション] Hi
+Potion [ハイポーション] x2 Adamantite
+[アダマンタイト] ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+Talk to Xaldin and he'll give
+you a Combo Arts ++. Use that
+together with an Adamantite -- a
+Dodge Combo fits the bill. Talk
+to Xaldin afterwards for a LUCK
+ARTS [ラックアーツ]. Next, speak to
+Luxord for a RUNE ARTS ++
+[ルーンアーツ++]. Talk to Saix for the
+last time.
+
+Mission 90 - Agrabah
+
+Collect the treasures in the
+cave before you proceed with the
+quest. Cave Entrance: POTION
+[ポーション]; Valley of Stone: HI
+POTION [ハイポーション].
+
+Next, head to the Secret
+Basement and take the LUCK ARTS
+[ラックアーツ]. Defeat all the
+Heartless in this room to
+proceed. Continue on to the lamp
+room. Grab the HI POTION
+[ハイポーション] and ADAMANTITE
+[アダマンタイト] in here, then defeat
+the blue large body. Mission
+complete.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 355: Unreachable Words
+[02-53]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Mission Rewards ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~ Aerora
+Recipe [エアロラレシピ] Last Recipe
+[ラストレシピ] ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~ Mission Treasures ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Thundara Recipe [サンダラレシピ] Aerora
+Recipe [エアロラレシピ] ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+
+Mission 91 - The World that
+Never Was
+
+This will be the last time
+you'll be seeing this castle, so
+make absolutely sure that you
+have everything you need.
+Otherwise, go visit the moogle.
+Once you're ready, really ready,
+save your game, talk to Axel and
+pick the first option. A long
+dialogue follows.
+
+Its time to bid this place
+goodbye. Start by taking the
+east exit to the next room and
+follow the path all the way to
+an area with 2 treasure chests.
+Grab the THUNDARA RECIPE
+[サンダラレシピ] and AERORA RECIPE
+[エアロラレシピ]. After that, go north,
+taking the elevator down to
+another floor. There, head south
+and you'll run into Saix.
+
+As expected, he refuses to just
+let you by, so you'll have to
+make him move by force. Saix
+receives a great defensive boost
+while glowing and he also dishes
+out a series of rather nasty
+combos in this state. Try to get
+behind him by dodge rolling or
+gliding then counter with your
+own combos. You can also block
+the attack with Reflect Guard
+(hold Y on ground).
+
+Eventually, the glow fades and
+he will be incapacitated for
+some time. Take this chance to
+nail him with your best combos,
+and if you have limit breaks
+available then by all means use
+it. Having the Reraise panel
+equipped will save you in case
+Roxas dies, but that will only
+work once during battle.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 357: Tears                  
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Mission 92 - Twilight Town
+
+When you regain control of
+Roxas, head to the Station
+Plaza. You can access the menu
+screen at this point, so go
+ahead and save your game.
+Examine the glass doors and
+choose the first option to
+proceed. Prepare for a four-
+round boss fight after some
+cutscenes.
+
+Round 1
+
+Your opponent should be easy
+enough on round 1, so try to
+save the curative spells for
+later encounters, unless of
+course you have a lot. Just hack
+her down and she will teleport
+you both to a new battle zone.
+
+Round 2
+
+For round 2, most of her attacks
+are still physical in nature.
+Try to get behind her with Dodge
+Roll or whatever else when she
+does the 3-hit combo and counter
+with your own from there. She
+also uses Aero to pin you down
+then performs a single cleaving
+attack. Jumping is fairly
+effective in avoiding this move.
+The nastiest move in her list is
+the heat seeking projectiles.
+Glide away from her and stay out
+of range until the missiles fade
+away. She usually uses the move
+3 times consecutively.
+
+Round 3
+
+The only effective method that I
+found against this form is to
+execute air combos then allow
+her to damage you until your
+limits become usable. Use limit
+breaks and follow through with
+final limits. She heals massive
+amounts of health to herself
+when her HP gets down to a
+certain point. So take her out
+before she gets a chance to use
+it.
+
+Round 4
+
+She's grown really huge now and
+most of her attacks are magic-
+based. The Full Circle accessory
+helps a whole lot in damage
+reduction. Try to stay airborne
+as much as you can, then glide
+towards her and attack. If she
+blows you off, just fly back and
+continue attacking.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Day 358: Wish                   
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Mission 93 - The World that
+Never Was
+
+You get to control a dual-
+weilding Roxas for the first
+time here. You will appreciate
+the great boost in Roxas' attack
+power here. Sweep the area clean
+of all Heartless and keep moving
+forward until you reach the
+battle zone. You'll be treated
+to a very very familiar event
+before the final showdown....
+deep dive, anyone?
+
+You can use Reflect Guard to
+block your opponent's combos
+then counter with your own. His
+combos are not that strong, so
+its alright to get caught by it,
+just don't let it happen too
+often.
+
+--------------------------------
+You'll be allowed to save your
+game after the ending credits.
+Though there is no new game
+plus, you'll be allowed to play
+through all the missions in the
+game anytime when you load your
+cleared game save.
+
+You'll also be able to access
+"Theater Mode" in the title
+screen. This lets you view all
+the movie sequences in the game.
+--------------------------------
+
+================================
+III. Sidequests                 
+================================
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Unlockable Characters [03-01]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Below is a list of all
+unlockable characters in Mission
+Mode, along with the
+requirements to unlock them.
+
+Character : Xion Condition :
+Unlocked when Saix promotes you
+to Rookie (Day 117).
+
+Character : Riku Condition :
+Unlocked when Saix promotes you
+to Agent (Day 172).
+
+Character : Donald Condition :
+Unlocked when Saix promotes you
+to Expert (Day 225).
+
+Character : Goofy Condition :
+Unlocked when Saix promotes you
+to Master (Day 296).
+
+Character : Dual-Wielding (DW)
+Roxas Condition : Beat the game,
+load your cleared game save, and
+buy the Zero
+   Gear [ゼロギア] weapon from the m
+   that, equip it and link 3 abi
+Note : DW Roxas is only playable
+in Mission Mode.
+
+Character : King Mickey
+Condition : Beat the game with
+all missions unlocked, load your
+cleared
+   game save, and buy the "Retur
+     from the moogle shop.
+
+Character : Sora Condition :
+Beat the game with all missions
+unlocked and 100% complete
+   (mission gauge maxed out). Lo
+   buy the "Soul of Sora" [ソラの魂]
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Trial Missions                  
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+You can only get a maximum of 3
+trial symbols for each trial
+mission, which means you cannot
+obtain symbols by doing the same
+mission over and over, after
+receiving the full reward from
+it once. You can then present
+the symbols at the moogle shop
+to get free items.
+
+These missions are unlocked by
+collecting one of the blue
+badges in each story mission:
+試練の証 unlocks the "normal" trial
+missions, while the 試練皆伝の証
+unlocks SP trial missions. The
+red badge unlocks missions that
+can be played in Mission Mode.
+Below is a list of special
+conditions that must be followed
+to successfully obtain symbols
+for each trial mission.
+
+Twilight Town Missions
+
+Mission 07 : Complete quest at
+the fastest possible time.
+Mission 08 : Complete quest at
+the fastest possible time.
+Mission 09 : Complete quest
+having collected as much munny
+as you can. Mission 11 :
+Complete quest with the fewest
+number of jumps. Mission 14 :
+Complete quest at the fastest
+possible time. Mission 17 :
+Complete quest at the fastest
+possible time. Mission 20 :
+Complete quest at the fastest
+possible time. Mission 25 :
+Complete quest at the fastest
+possible time. Mission 44 : Max
+out the mission gauge (for best
+results). Mission 56 : Complete
+quest at the fastest possible
+time. Mission 59 : Complete
+quest at the fastest possible
+time. Mission 74 : Complete
+quest at the fastest possible
+time. ** Mission 75 : Complete
+quest at the fastest possible
+time. ** Mission 89 : Complete
+quest without taking damage (for
+best results). Mission 92 :
+Complete quest at the fastest
+possible time.
+
+The World That Never Was
+Missions
+
+Mission 10 : Complete quest
+without using A (attack) button.
+Mission 33 : Complete quest at
+the fastest possible time.
+Mission 71 : Complete quest
+having collected as much munny
+as you can. Mission 91 :
+Complete quest at the fastest
+possible time. ** Mission 93 :
+Complete quest making sure that
+all your attacks hit. **
+
+Agrabah Missions
+
+Mission 16 : Max out the mission
+gauge (for best results).
+Mission 18 : Complete quest at
+the fastest possible time.
+Mission 19 : Complete quest at
+the fastest possible time.
+Mission 21 : Complete quest at
+the fastest possible time.
+Mission 26 : Complete quest with
+the fewest number of jumps.
+Mission 30 : Max out the mission
+gauge (for best results).
+Mission 32 : Complete quest at
+the fastest possible time.
+Mission 34 : Complete quest at
+the fastest possible time.
+Mission 48 : Complete quest at
+the fastest possible time.
+Mission 48 : Complete quest at
+the fastest possible time.
+
+Beast's Castle Missions
+
+Mission 22 : Complete quest at
+the fastest possible time.
+Mission 28 : Complete quest
+without taking damage (for best
+results). Mission 29 : Complete
+quest at the fastest possible
+time. Mission 31 : Complete
+quest at the fastest possible
+time. Mission 35 : Complete
+quest at the fastest possible
+time. Mission 43 : Complete
+quest at the fastest possible
+time. Mission 50 : Complete
+quest at the fastest possible
+time. Mission 70 : Complete
+quest at the fastest possible
+time. Mission 80 : Max out the
+mission gauge (for best
+results).
+
+Olympus Coliseum Missions
+
+Mission 39 : Complete quest with
+the fewest number of jumps.
+Mission 40 : Complete quest at
+the fastest possible time.
+Mission 41 : Complete quest at
+the fastest possible time.
+Mission 61 : Complete quest
+without taking damage (for best
+results). Mission 73 : Complete
+quest at the fastest possible
+time. Mission 84 : Complete
+quest without taking damage (for
+best results).
+
+Halloween Town Missions
+
+Mission 42 : Complete quest at
+the fastest possible time.
+Mission 54 : Complete quest at
+the fastest possible time.
+Mission 62 : Complete quest at
+the fastest possible time. **
+Mission 66 : Complete quest at
+the fastest possible time.
+Mission 72 : Complete quest at
+the fastest possible time.
+Mission 79 : Complete quest at
+the fastest possible time.
+Mission 87 : Complete quest at
+the fastest possible time.
+
+Wonderland Missions
+
+Mission 55 : Complete quest at
+the fastest possible time.
+Mission 57 : Complete quest at
+the fastest possible time.
+Mission 63 : Complete quest at
+the fastest possible time. **
+Mission 69 : Complete quest
+without taking damage (for best
+results). ** Mission 81 :
+Complete quest at the fastest
+possible time. Mission 85 :
+Complete quest at the fastest
+possible time. **
+
+Neverland Missions
+
+Mission 60 : Complete quest at
+the fastest possible time.
+Mission 76 : Complete quest at
+the fastest possible time.
+Mission 77 : Complete quest at
+the fastest possible time.
+Mission 78 : Complete quest at
+the fastest possible time.
+Mission 79 : Complete quest
+without using A (attack) button.
+
+Some missions will also have
+restrictions to make it more
+challenging.
+
+--------------------------------
+** M62: Roxas' health gradually 
+** M63: Roxas' health gradually 
+** M69: Roxas' health gradually 
+** M74: Roxas' health gradually 
+** M75: Roxas' health gradually 
+** M85: Roxas' health gradually 
+** M91: Roxas' health gradually 
+** M93: Curative spells/items un
+--------------------------------
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Free Gift Items                 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+You can obtain items for free at
+the shop via the Free Gifts tab,
+when you collect a certian
+amount of trial symbols and
+crowns. Some items require you
+to reach a specific rank to be
+unlocked. The list below follows
+this format -- # of symbols/
+crowns -> Prize.
+
+-------------------
+Trial Symbol Prizes
+-------------------
+
+-------------------------------o
+005 -> Slot Unlock | 110 ->
+Haste Up L | 010 -> Haste | 120
+-> Rising Gear | 015 -> Casual
+Gear | 130 -> Slot Unlock | 020
+-> Fire (x3) | 140 -> Level Up |
+025 -> Cure (x3) | 150 -> Glide
+5 | 030 -> Slot Unlock | 160 ->
+Omega Gear | 035 -> Thunder (x3)
+(Rookie) | 170 -> Glide Up L
+(Legend) | 040 -> Wild Gear + |
+180 -> Level 2+ 6 (Legend) | 045
+-> Fira (x3) (Rookie) | 190 ->
+Slot Unlock (Legend) | 050 ->
+Slot Unlock | 200 -> Haste Up L
+(Legend) | 060 -> Thundara (x3)
+(Agent) | 210 -> Level Up
+(Legend) | 070 -> Phantom Gear +
+| 220 -> Level 3+ 4 (Legend) |
+080 -> Slot Unlock | 230 ->
+Level Up (Legend) | 090 -> Level
+Up | 240 -> Slot Unlock (Legend)
+| 100 -> Haste 3 | 255 -> Ultima
+Weapon (Legend) |
+-------------------------------o
+
+-------------------
+Crown Symbol Prizes
+-------------------
+
+--------------------------------
+001 -> Slot Unlock | 085 -> Slot
+Unlock (Master) | 002 -> Brave
+Gear + | 090 -> Mega Potion
+(x10) | 005 -> Potion (x10) |
+100 -> Mega Ether (x10) | 008 ->
+Ether (x10) | 110 -> Ultimate
+Gear (Master) | 010 -> Crime
+Gear + | 120 -> Last Elixir (x5)
+| 015 -> Blizzard (x3) | 130 ->
+Aeroga (Master) | 020 -> Slot
+Unlock (Rookie) | 140 -> Premium
+Orb | 025 -> Aero (x3) (Rookie)
+| 150 -> Dash Up L (Legend) |
+030 -> Cure All (x10) | 160 ->
+Crimson Blood (Legend) | 035 ->
+Cura (x2) (Rookie) | 170 ->
+Power Unit L (Legend) | 040 ->
+Blizzara (x2) (Rookie) | 180 ->
+Pandora Gear (Legend) | 045 ->
+Slot Unlock (Agent) | 190 ->
+Magic Unit L (Legend) | 050 ->
+Hi Potion (x10) | 200 -> Rune
+Ring (Legend) | 055 -> Hi Ether
+(x10) | 220 -> Level 4+ 3
+(Legend) | 060 -> Mystery Gear |
+240 -> Guard Unit L (Legend) |
+065 -> Slot Unlock (Expert) |
+260 -> Level 2+ 6 (Legend) | 070
+-> Elixir (x10) | 280 -> Slot
+Unlock (Legend) | 075 -> Limit
+Recover (x5) | 358 -> Master
+Circle (Legend) | 080 -> Aerora
+(x3) (Expert) | |
+--------------------------------
+
+================================
+IV. Game List                   
+================================
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Panel Synthesis                 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+This feature allows you to build
+new abilities, equipments, and
+items. You New panels become
+available as soon as you obtain
+new synth items or when Saix
+promotes Roxas to a higher rank
+at specific points in the game.
+
+================================
+Item Synth
+================================
+
+--------------------------------
+Product : Hi Potion [ハイポーション]
+Synth Items : Potion 2x [ポーション]
+Price : 800
+--------------------------------
+Product : Mega Potion [メガポーション]
+Synth Items : Hi Potion 2x
+[ハイポーション] Price : 1500
+--------------------------------
+Product : Hi Ether [ハイエーテル]
+Synth Item : Ether 2x [エーテル]
+Price : 1200
+--------------------------------
+Product : Mega Ether [メガエーテル]
+Synth Item : Hi Ether 2x
+[ハイエーテル] Price : 1800
+--------------------------------
+Product : Limit Recover
+[リミットレカバー]
+
+Synth Item : Moonstone 1x
+[ムーンストーン]
+ S Light Shard   1x [光かがやくかけら]
+ Blazing Shard   1x [燃え上がるかけら]
+
+Price       : 2000
+--------------------------------
+Product : Elixir [エリクサー]
+
+Synth Item : Elixir Recipe 1x
+[エリクサーレシピ]
+  Hi Potion       1x [ハイポーション]
+  Hi Ether        1x [ハイエーテル]
+ S Light Shard   1x [光かがやくかけら]
+
+Price       : 1600
+--------------------------------
+Product : Last Elixir [ラストエリクサー]
+
+Synth Item : Elixir Recipe 1x
+[エリクサーレシピ]
+  Mega Potion     1x [メガポーション]
+  Mega Ether      1x [メガエーテル]
+ S Light Shard   1x [光かがやくかけら]
+
+Price       : 2500
+--------------------------------
+
+================================
+Magic Synth
+================================
+
+--------------------------------
+Product : Fire [ファイア]
+
+Synth Item : Fire Recipe 1x
+[ファイアレシピ]
+ Blazing Shard   2x [燃え上がるかけら]
+
+Price       : 700
+--------------------------------
+Product : Blizzard [ブリザド]
+
+Synth Item : Blizzard Recipe 1x
+[ブリザドレシピ]
+  Frost Shard     2x [凍てつくかけら]
+
+Price       : 1200
+--------------------------------
+Product : Thunder [サンダー]
+
+Synth Item : Thunder Recipe 1x
+[サンダーレシピ]
+ Thunder Shard    2x [とどろくかけら]
+
+Price       : 1400
+--------------------------------
+Product : Aero [エアロ]
+
+Synth Item : Aero Recipe 1x
+[エアロレシピ]
+ Gale Shard      2x [吹きすさぶかけら]
+
+Price       : 1400
+--------------------------------
+Product : Cure [ケアル]
+
+Synth Item : Cure Recipe 1x
+[ケアルレシピ]
+ S Light Shard   2x [光かがやくかけら]
+
+Price       : 1600
+--------------------------------
+Product : Fira [ファイラ]
+
+Synth Item : Fire Recipe 1x
+[ファイアレシピ]
+   Fire            1x [ファイア]
+  Blazing Gem     2x [燃え上がる魔石]
+
+Price       : 1000
+--------------------------------
+Product : Blizzara [ブリザラ]
+
+Synth Item : Blizzara Recipe 1x
+[ブリザラレシピ]
+   Blizzard        1x [ブリザド]
+  Frost Gem       2x [凍てつく魔石]
+
+Price       : 1300
+--------------------------------
+Product : Thundara [サンダラ]
+
+Synth Item : Thundara Recipe 1x
+[サンダラレシピ]
+   Thunder         1x [サンダー]
+  Thunder Gem     2x [とどろく魔石]
+
+Price       : 1400
+--------------------------------
+Product : Aerora [エアロラ]
+
+Synth Item : Aero Recipe 1x
+[エアロレシピ]
+    Aero            1x [エアロ]
+  Gale Gem        2x [吹きすさぶ魔石]
+
+Price       : 1600
+--------------------------------
+Product : Cura [ケアルラ]
+
+Synth Item : Cure Recipe 1x
+[ケアルレシピ]
+    Cure            1x [ケアル]
+  S Light Gem     2x [光かがやく魔石]
+
+Price       : 2000
+--------------------------------
+Product : Firaga [ファイガ]
+
+Synth Item : Firaga Recipe 1x
+[ファイガレシピ]
+  Fira              1x [ファイラ]
+ Blazing Crystal   2x [燃え上がる結晶]
+
+Price       : 1400
+--------------------------------
+Product     : Blizzaga
+
+Synth Item : Blizzaga Recipe 1x
+[ブリザガレシピ]
+   Blizzara        1x [ブリザラ]
+  Frost Crystal   2x [凍てつく結晶]
+
+Price       : 2000
+--------------------------------
+Product : Thundaga [サンダガ]
+
+Synth Item : Thundaga Recipe 1x
+[サンダガレシピ]
+   Thundara        1x [サンダラ]
+  Thunder Crystal 2x [とどろく結晶]
+
+Price       : 2000
+--------------------------------
+Product     : Aeroga
+
+Synth Item : Aeroga Recipe 1x
+[エアロガレシピ]
+   Aerora          1x [エアロラ]
+  Gale Crystal    2x [吹きすさぶ結晶]
+
+Price       : 2000
+--------------------------------
+Product : Curaga [ケアルガ]
+
+Synth Item : Curaga Recipe 1x
+[ケアルガレシピ]
+   Cura            1x [ケアルラ]
+  S Light Crystal 2x [光かがやく結晶]
+
+Price       : 2600
+--------------------------------
+
+================================
+Ability Synth
+================================
+
+--------------------------------
+Product : Dodge Rush L [ドッジラッシュ]
+
+Synth Item : Moonstone 2x
+[ムーンストーン]
+  Combo Arts      3x [コンボアーツ]
+  Power Arts +    2x [パワアーツ+]
+ Premium Orb     1x [プレミアムオーブ]
+
+Price       : 4500
+--------------------------------
+Product : Just Guard L [ジャストガード]
+
+Synth Item : Moonstone 2x
+[ムーンストーン]
+  Guard Arts      2x [ガードアーツ]
+
+Price       : 3300
+--------------------------------
+Product : Guard Counter L
+[ガードカウンンター]
+
+Synth Item : Moonstone 2x
+[ムーンストーン]
+  Guard Arts      3x [ガードアーツ]
+  Guard Arts +    2x [ガードアーツ+]
+
+Price       : 4500
+--------------------------------
+Product : Guard Back [ガードバック]
+
+Synth Item : Moonstone 2x
+[ムーンストーン]
+  Guard Arts      3x [ガードアーツ]
+  Just Guard L    1x [ジャストガード]
+
+Price       : 4500
+--------------------------------
+Product : Fire Guard L [ファイアガード]
+
+Synth Item : Moonstone 2x
+[ムーンストーン]
+  Guard Arts      3x [ガードアーツ]
+ Blazing Shard   3x [燃え上がるかけら]
+  Rune Arts       3x [ルーンアーツ]
+
+Price       : 4500
+--------------------------------
+Product : Blizzard Guard L
+[ブリザドガード]
+
+Synth Item : Moonstone 2x
+[ムーンストーン]
+  Guard Arts      3x [ガードアーツ]
+  Frost Shard     3x [凍てつくかけら]
+  Rune Arts       3x [ルーンアーツ]
+
+Price       : 4500
+--------------------------------
+Product : Quick Recovery
+[クイックリカバリー]
+
+Synth Item : Moonstone 2x
+[ムーンストーン]
+  Rune Arts       2x [ルーンアーツ]
+
+Price       : 4500
+--------------------------------
+Product : Thunder Guard
+[サンダーガード]
+
+Synth Item : Diamond 1x [ダイヤモンド]
+  Guard Arts +    1x [ガードアーツ+]
+  Thunder Gem     3x [とどろく魔石]
+  Rune Arts +     2x [ルーンアーツ+]
+
+Price       : 6800
+--------------------------------
+Product : Aero Guard [エアロガード]
+
+Synth Item : Diamond 1x [ダイヤモンド]
+  Guard Arts +    1x [ガードアーツ+]
+  Gale Gem        3x [吹きすさぶ魔石]
+  Rune Arts +     2x [ルーンアーツ+]
+
+Price       : 6800
+--------------------------------
+Product : Guard Bonus [ガードボナス]
+
+Synth Item : Moonstone 2x
+[ムーンストーン]
+  Adamantite      1x [アダマンタイト]
+  Luck Arts       1x [ラックアーツ]
+
+Price       : 8800
+--------------------------------
+Product : Round Guard [ラウンドガード]
+
+Synth Item : Moonstone 2x
+[ムーンストーン]
+  Guard Arts +    1x [ガードアーツ+]
+
+Price       : 4500
+--------------------------------
+Product : Auto Guard [オートガード]
+
+Synth Item : Adamantite 1x
+[アダマンタイト]
+  Guard Arts +    1x [ガードアーツ+]
+  Round Guard     1x [ラウンドガード]
+
+Price       : 8800
+--------------------------------
+Product : Air Revenge [エアリベンジ]
+
+Synth Item : Diamond 1x [ダイヤモンド]
+  Combo Arts +    3x [コンボアーツ+]
+
+Price       : 6800
+--------------------------------
+Product : Dodge Combo [ドッジコンボ]
+
+Synth Item : Adamantite 1x
+[アダマンタイト]
+  Combo Arts +    1x [コンボアーツ+]
+
+Price       : 8800
+--------------------------------
+Product : Auto Dodge [オートドッジ]
+
+Synth Item : Diamond 1x [ダイヤモンド]
+ Combo Arts ++   1x [コンボアーツ++]
+
+Price       : 6800
+--------------------------------
+Product : Slide Guard [スライドガード]
+
+Synth Item : Diamond 1x [ダイヤモンド]
+  Guard Arts +    1x [ガードアーツ+]
+  Wide Arts +     2x [ワイドアーツ+]
+
+Price       : 6800
+--------------------------------
+Product : Guard Escape
+[ガードエスケープ]
+
+Synth Item : Diamond 1x [ダイヤモンド]
+  Guard Arts +    1x [ガードアーツ+]
+  Air Arts +      2x [エアアーツ+]
+
+Price       : 6800
+--------------------------------
+Product : Air Attack [エアアタック]
+
+Synth Item : Moonstone 2x
+[ムーンストーン]
+   Air Arts        2x [エアアーツ]
+
+Price       : 4500
+--------------------------------
+Product : Reflect Dodge
+[リフレクトドッジ]
+
+Synth Item : Diamond 1x [ダイヤモンド]
+  Wide Arts +     3x [ワイドアーツ]
+
+Price       : 6800
+--------------------------------
+Product : Homing Glide
+[ホミンググライド]
+
+Synth Item : Adamantite 1x
+[アダマンタイト]
+  Air Arts ++     2x [エアアーツ++]
+ Wide Arts ++    2x [ワイドアーツ++]
+
+
+Price       : 8800
+--------------------------------
+Product : Glide Attack
+[グライドアタック]
+
+Synth Item : Adamantite 1x
+[アダマンタイト]
+  Air Arts ++     2x [エアアーツ++]
+ Combo Arts ++   2x [コンボアーツ++]
+  Wide Arts       5x [ワイドアーツ]
+
+Price       : 8800
+--------------------------------
+Product : Air Impact [エアインパクト]
+
+Synth Item : Adamantite 1x
+[アダマンタイト]
+ Power Arts ++   2x [パワーアーツ++]
+
+Price       : 8800
+--------------------------------
+Product : Levitate [レビテト]
+
+Synth Item : Adamantite 1x
+[アダマンタイト]
+  Air Arts ++     2x [エアアーツ++]
+
+Price       : 8800
+--------------------------------
+
+================================
+Weapon Synth
+================================
+
+--------------------------------
+Product : Chrono Gear 3 [クロノギア
+3]
+
+Synth Item : Gear Parts v1 3x
+[ギアパーツ ver.1]
+  Rune Arts       2x [ルーンアーツ]
+   Bronze          1x [ブロンズ]
+
+Price       : 2000
+--------------------------------
+Product : Fearless Gear +
+[フィアレスギア+ 3]
+
+Synth Item : Gear Parts v1 3x
+[ギアパーツ ver.1]
+   Power Arts      2x [パワアーツ]
+   Bronze          2x [ブロンズ]
+
+Price       : 2000
+--------------------------------
+Product : Dual Gear 4 [デュアルギア 4]
+
+Synth Item : Gear Parts v1 3x
+[ギアパーツ ver.1]
+  Combo Arts      3x [コンボアーツ]
+   Bronze          2x [ブロンズ]
+
+Price       : 4600
+--------------------------------
+Product : Elegant Gear 4
+[エレガントギア 4]
+
+Synth Item : Gear Parts v1 3x
+[ギアパーツ ver.1]
+   Air Arts        2x [エアアーツ]
+   Bronze          2x [ブロンズ]
+
+Price       : 3700
+--------------------------------
+Product : Ominous Gear 4 [オミナスギア
+4]
+
+Synth Item : Gear Parts v1 3x
+[ギアパーツ ver.1]
+  Wide Arts       2x [ワイドアーツ]
+   Bronze          2x [ブロンズ]
+
+Price       : 3700
+--------------------------------
+Product : Glory Gear + 4 [グローリギ+
+4]
+
+Synth Item : Gear Parts v2 4x
+[ギアパーツ ver.2]
+   Power Arts      3x [パワアーツ]
+ Dark Ingot      1x [ダークインゴット]
+
+Price       : 4600
+--------------------------------
+Product : Dual Gear ++ 5
+[デュアルギア++ 5]
+
+Synth Item : Gear Parts v2 4x
+[ギアパーツ ver.2]
+  Combo Arts      5x [コンボアーツ]
+ Dark Ingot      1x [ダークインゴット]
+
+Price       : 7800
+--------------------------------
+Product : Phantom Gear ++ 5
+[ファントムギア++ 5]
+
+Synth Item : Gear Parts v2 4x
+[ギアパーツ ver.2]
+  Rune Arts +     2x [ルーンアーツ+]
+ Dark Ingot      1x [ダークインゴット]
+
+Price       : 7800
+--------------------------------
+Product : Crisis Gear 5 [クライシスギア
+5]
+
+Synth Item : Gear Parts v2 4x
+[ギアパーツ ver.2]
+  Rune Arts +     2x [ルーンアーツ+]
+  Power Arts +    2x [パワアーツ+]
+ Dark Ingot      1x [ダークインゴット]
+
+Price       : 7800
+--------------------------------
+Product : Hazard Gear 5 [ハザードギア
+5]
+
+Synth Item : Gear Parts v3 4x
+[ギアパーツ ver.3]
+  Rune Arts +     2x [ルーンアーツ+]
+  Wide Arts +     2x [ワイドアーツ+]
+   Silver          2x [シルバー]
+
+Price       : 7800
+--------------------------------
+Product : Crisis Gear + 5
+[クライシスギア+ 5]
+
+Synth Item : Gear Parts v3 4x
+[ギアパーツ ver.3]
+  Rune Arts +     2x [ルーンアーツ+]
+  Power Arts +    2x [パワアーツ+]
+   Silver          2x [シルバー]
+
+Price       : 11700
+--------------------------------
+Product : Valiant Gear 5
+[ヴァリアントギア 5]
+
+Synth Item : Gear Parts v3 4x
+[ギアパーツ ver.3]
+  Combo Arts +    2x [コンボアーツ+]
+  Power Arts +    2x [パワアーツ+]
+   Silver          2x [シルバー]
+
+Price       : 7800
+--------------------------------
+Product : Raging Gear + 5
+[レイジングギア+ 5]
+
+Synth Item : Gear Parts v3 4x
+[ギアパーツ ver.3]
+  Combo Arts +    2x [コンボアーツ+]
+  Air Arts +      2x [エアアーツ+]
+   Silver          2x [シルバー]
+
+Price       : 7800
+--------------------------------
+Product : Pandora Gear + 5
+[パンドラギア+ 5]
+
+Synth Item : Gear Parts v4 4x
+[ギアパーツ ver.4]
+  Luck Arts       2x [ラックアーツ]
+ Premium Orb     1x [プレミアムオーブ]
+   Mythril         2x [ミスリル]
+
+Price       : 19500
+--------------------------------
+Product : Omega Gear 6 [オメガギア 6]
+
+Synth Item : Gear Parts v4 4x
+[ギアパーツ ver.4]
+ Rune Arts ++    3x [ルーンアーツ++]
+  Power Arts ++   3x [パワアーツ++]
+   Mythril         2x [ミスリル]
+
+Price       : 30000
+--------------------------------
+Product : Ultimate Gear + 6
+[アルティメトギア 6]
+
+Synth Item : Gear Parts v4 4x
+[ギアパーツ ver.4]
+ Combo Arts ++   3x [コンボアーツ++]
+  Power Arts ++   3x [パワアーツ++]
+   Orichal         2x [オリハル]
+
+Price       : 30000
+--------------------------------
+
+================================
+Ring Synth
+================================
+
+--------------------------------
+Product : Magic Ring [マジックリング]
+
+Synth Item : Moonstone 1x
+[ムーンストーン]
+   Iron            3x [アイアン]
+
+Price : 3600 Effect : Magic +3;
+Defense +6; Ether Up.
+--------------------------------
+Product : Fencer Ring [フェンサリング]
+
+Synth Item : Iron 3x [アイアン]
+  Moonstone       1x [ムーンストーン]
+ S Light Shard   2x [光かがやくかけら]
+
+Price : 3600 Effect : HP +20;
+Defense +8; Potion Up Lv.1
+--------------------------------
+Product : Fire Charm [ファイアチャーム]
+
+Synth Item : Iron 3x [アイアン]
+  Moonstone       1x [ムーンストーン]
+ Blazing Shard   2x [燃え上がるかけら]
+   Air Arts        2x [エアアーツ]
+
+Price : 3600 Effect : Defense
++8; Fire resistance +30%; Magic
+Guts.
+--------------------------------
+Product : Strike Ring [ストライクリング]
+
+Synth Item : Iron 4x [アイアン]
+   Bronze          3x [ブロンズ]
+  Moonstone       1x [ムーンストーン]
+  Combo Arts      3x [コンボアーツ]
+
+Price : 4500 Effect : Defense
++10; Critical rate +5; Critical
+correction +5.
+--------------------------------
+Product : Lucky Ring [ラッキリング]
+
+Synth Item : Iron 4x [アイアン]
+   Bronze          3x [ブロンズ]
+  Moonstone       1x [ムーンストーン]
+  Guard Arts      2x [ガードアーツ]
+
+Price : 4500 Effect : Defense
++16; Prize Up Lv2; Heart Bonus.
+--------------------------------
+Product : White Ring [ホワイトリング]
+
+Synth Item : Iron 4x [アイアン]
+   Bronze          3x [ブロンズ]
+  Moonstone       1x [ムーンストーン]
+   Power Arts      4x [パワアーツ]
+
+Price : 4500 Effect : Magic +4;
+Defense +12; Prize Up Lv2.
+--------------------------------
+Product : Assault Ring [アサルトリング]
+
+Synth Item : Dark Ingot 2x
+[ダークインゴット]
+  Moonstone       1x [ムーンストーン]
+
+Price : 5900 Effect : Defense
++18; Combo Jump; Combo Guard.
+--------------------------------
+Product : Thunder Charm
+[サンダーチャーム]
+
+Synth Item : Dark Ingot 2x
+[ダークインゴット]
+  Moonstone       2x [ムーンストーン]
+  Thunder Gem     2x [とどろく魔石]
+   Air Arts        4x [エアアーツ]
+
+Price : 5900 Effect : Defense
++14; Lightning resistance +30%;
+Magic Guts.
+--------------------------------
+Product : Recovery Ring
+[リカバリーリング]
+
+Synth Item : Dark Ingot 2x
+[ダークインゴット]
+  Moonstone       2x [ムーンストーン]
+  Combo Arts +    1x [コンボアーツ+]
+
+Price : 5900 Effect : HP +40;
+Defense +16; Energy Barrier;
+Potion Up Lv1.
+--------------------------------
+Product : Energy Ring [エナジリング]
+
+Synth Item : Dark Ingot 2x
+[ダークインゴット]
+  Moonstone       2x [ムーンストーン]
+ Combo Arts ++   1x [コンボアーツ++]
+
+Price : 5900 Effect : Magic +6;
+Defense +16; Energy Force; Ether
+Up.
+--------------------------------
+Product : Double Up [ダブルアップ]
+
+Synth Item : Silver 1x [シルバー]
+  Diamond         1x [ダイヤモンド]
+  Luck Arts       1x [ラックアーツ]
+
+Price : 6800 Effect : Defense
++18; Exp Lv.2.
+--------------------------------
+Product : Storm Eye [ストームアイ]
+
+Synth Item : Silver 1x [シルバー]
+  Diamond         1x [ダイヤモンド]
+  Gale Gem        2x [吹きすさぶ魔石]
+
+Price : 6800 Effect : Defense
++18; Wind & Ice resistance +30%;
+Magic Guts.
+--------------------------------
+Product : Faerie Circle
+[フェアリサークル]
+
+Synth Item : Silver 1x [シルバー]
+  Diamond         1x [ダイヤモンド]
+  Wide Arts +     2x [ワイドアーツ+]
+  Air Arts +      2x [エアアーツ+]
+
+Price : 6800 Effect : Defense
++20; Space, Shadow, and Time
+resistance +30%
+--------------------------------
+Product : Full Circle [フルサークル]
+
+Synth Item : Silver 1x [シルバー]
+  Diamond         1x [ダイヤモンド]
+  Guard Arts      2x [ガードアーツ]
+  Guard Arts +    1x [ガードアーツ+]
+
+Price : 6800 Effect : Defense
++20; All resistance +20%.
+--------------------------------
+Product : Charge Ring [チャジリング]
+
+Synth Item : Gold 1x [ゴールド]
+  Diamond         1x [ダイヤモンド]
+  Full Circle     1x [フルサークル]
+
+Price : 8800 Effect : Defense
++26; Potion Up Lv.1; Ether Up
+Lv.1.
+--------------------------------
+Product : Eternal Ring
+[エターナルリング]
+
+Synth Item : Gold 1x [ゴールド]
+  Diamond         2x [ダイヤモンド]
+ Recovery Ring   1x [リカバリーリング]
+
+Price : 8800 Effect : HP +30;
+Attack +4; Defense +28; Long
+Chain.
+--------------------------------
+Product : Camine Blight
+[カーマインブライト]
+
+Synth Item : Gold 1x [ゴールド]
+  Adamantite      1x [アダマンタイト]
+  Power Arts ++   2x [パワアーツ++]
+  Anklyte         2x [アンカライト]
+
+Price : 8800 Effect : Attack +8;
+Defense +30; Fire Power.
+--------------------------------
+Product : Frozen Blight
+[フロズンブライト]
+
+Synth Item : Diamond 2x [ダイヤモンド]
+   Gold            1x [ゴールド]
+ Rune Arts ++    2x [ルーンアーツ++]
+
+Price : 8800 Effect : Magic +8;
+Defense +30; Blizzard Power.
+--------------------------------
+Product : Save Ring [セイヴリング]
+
+Synth Item : Gold 1x [ゴールド]
+  Diamond         2x [ダイヤモンド]
+  Guard Arts +    1x [ガードアーツ+]
+
+Price : 8800 Effect : Defense
++30; Potion Lv2.
+--------------------------------
+Product : Moonstrike [ムーンストライク]
+
+Synth Item : Mythril 2x [ミスリル]
+  Adamantite      4x [アダマンタイト]
+ Premium Orb     1x [プレミアムオーブ]
+
+Price : 10100 Effect : Defense
++30; Critical Rate +10; Critical
+Correction +10.
+--------------------------------
+Product : Protect Ring [プロテスリング]
+
+Synth Item : Mythril 2x [ミスリル]
+  Adamantite      4x [アダマンタイト]
+ Guard Arts ++   2x [ガードアーツ++]
+
+Price : 10100 Effect : Defense
++30; Defender.
+--------------------------------
+Product : Mighty Crown
+[マイティクラウン]
+
+Synth Item : Mythril 2x [ミスリル]
+  Adamantite      4x [アダマンタイト]
+ Combo Arts ++   2x [コンボアーツ++]
+
+Price : 10100 Effect : HP +80;
+Defense +30; All Resistance
++10%; Exp Up Lv1.
+--------------------------------
+Product : Three Stars [スリースターズ]
+
+Synth Item : Mythril 2x [ミスリル]
+  Adamantite      4x [アダマンタイト]
+  Luck Arts       4x [ラックアーツ]
+
+Price : 10100 Effect : Defense
++30; Potion Up Lv1; Luck Up; Exp
+Lv1.
+--------------------------------
+Product : Emperor Crown
+[エンペラークラウン]
+
+Synth Item : Mythril 2x [ミスリル]
+  Adamantite      4x [アダマンタイト]
+  Anklyte         2x [アンカライト]
+ Premium Orb     1x [プレミアムオーブ]
+
+
+Price : 14500 Effect : HP +100;
+Defense +10; Guts; Final Magic.
+--------------------------------
+Product : Curse of Witch
+[カースオブウィッチ]
+
+Synth Item : Mythril 2x [ミスリル]
+  Adamantite      4x [アダマンタイト]
+ Guard Arts ++   2x [ガードアーツ++]
+ Premium Orb     1x [プレミアムオーブ]
+
+Price : 14500 Effect : Attack
++20; Defense +10; Crisis Half;
+Elemental Curse.
+--------------------------------
+Product : Extreme [エクストリーム]
+
+Synth Item : Orichal 1x [オリハル]
+  Moonstone       8x [ムーンストーン]
+ Dark Ingot      4x [ダークインゴット]
+  Luck Arts       4x [ラックアーツ]
+
+Price       : HP 1 Exp High Up.
+--------------------------------
+Product     : 時空のゆらめき
+
+Synth Item : Orichal 1x [オリハル]
+  Moonstone       8x [ムーンストーン]
+ Combo Arts ++   3x [コンボアーツ++]
+  Air Arts ++     3x [エアアーツ++]
+
+Price : 12500 Effect : Defense
++30; Space resistance 100%.
+--------------------------------
+Product     : 疾風のつばき
+
+Synth Item : Orichal 1x [オリハル]
+  Moonstone       8x [ムーンストーン]
+  Gale Crystal    2x [吹きすさぶ結晶]
+ Gale Shard      5x [吹きすさぶかけら]
+
+
+Price : 12500 Effect : Defense
++30; Wind resistance +100%.
+--------------------------------
+Product     : 氷雪ほほえみ
+
+Synth Item : Orichal 1x [オリハル]
+  Moonstone       8x [ムーンストーン]
+  Frost Crystal   2x [凍てつく結晶]
+  Frost Gem       3x [凍てつく魔石]
+
+Price : 12500 Effect : Defense
++30; Ice resistance 100%.
+--------------------------------
+Product     : 大地のかなしみ
+
+Synth Item : Orichal 1x [オリハル]
+  Moonstone       8x [ムーンストーン]
+ Eternal Ring    1x [エターナルリング]
+
+Price : 12500 Effect : Defense
++30; Earth resistance 100%.
+--------------------------------
+Product     : 夢幻のいぎない
+
+Synth Item : Orichal 1x [オリハル]
+  Adamantite      4x [アダマンタイト]
+  Charge Ring     1x [チャージリング]
+
+Price : 12500 Effect : Defense
++30; Shadow resistance 100%.
+--------------------------------
+Product     : 円月のためいき
+
+Synth Item : Orichal 1x [オリハル]
+  Diamond         6x [ダイヤモンド]
+ Strike Ring     1x [ストライクリング]
+
+Price : 12500 Effect : Defense
++30; Moon resistance 100%.
+--------------------------------
+Product     : 紅運のなみだ
+
+Synth Item : Orichal 1x [オリハル]
+  Diamond         6x [ダイヤモンド]
+  Blazing Crystal 2x [燃え上がる結晶]
+  Blazing Gem     3x [燃え上がる魔石]
+
+Price : 12500 Effect : Defense
++30; Flame resistance 100%.
+--------------------------------
+Product     : 大海のうねり
+
+Synth Item : Orichal 1x [オリハル]
+  Diamond         6x [ダイヤモンド]
+  Storm Eye       1x [ストームアイ]
+
+Price : Defense +30; Water
+resistance 100%.
+--------------------------------
+Product     : 悠久のしじま
+
+Synth Item : Orichal 1x [オリハル]
+  Adamantite      4x [アダマンタイト]
+ Faerie Circle   1x [フェアリサークル]
+
+Price : 12500 Effect : Defense
++30; Time resistance 100%.
+--------------------------------
+Product     : 聖花のうれい
+
+Synth Item : Orichal 1x [オリハル]
+  Moonstone       8x [ムーンストーン]
+  Double Up       1x [ダブルアップ]
+
+Price : 12500 Effect : Defense
++30; Flower resistance 100%.
+--------------------------------
+Product     : 雷鳴のとどろき
+
+Synth Item : Orichal 1x [オリハル]
+  Moonstone       8x [ムーンストーン]
+  Thunder Crystal 2x [とどろく結晶]
+  Thunder Gem     3x [とどろく魔石]
+
+Price : 12500 Effect : Defense
++30; Lightning resistance 100%.
+--------------------------------
+Product     : 光芒のごがれ
+
+Synth Item : Orichal 1x [オリハル]
+  Moonstone       8x [ムーンストーン]
+ Emperor Crown   1x [エンペラークラウン]
+  S Light Gem     3x [光かがやく魔石]
+
+Price : 12500 Effect : Defense
++30; Light resistance 100%.
+--------------------------------
+Product     : 虚無のかなた
+
+Synth Item : Orichal 1x [オリハル]
+  Adamantite      4x [アダマンタイト]
+ Frozen Blight   1x [フロズンブライト]
+
+Price : 12500 Effect : Defense
++30; Nothing resistance 100%.
+--------------------------------
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Enemy Drop List                 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The numbers next to an enemy
+name is its entry number in the
+enemy report. There are no
+actual numbers written there, so
+you have to count manually. One
+last thing, only synth item
+drops are listed here.
+
+----------------------o---------
+Elixir Recipe | Last Recipe |
+Blazing Shard |
+----------------------o---------
+(03) Giga Shadow | (03) Giga
+Shadow | (02) Mega Shadow | (18)
+Bulk Vendor | (26) Detonator |
+(05) Scarlet Tango | (19) Rare
+Vendor | | (13) Fire Plant |
+(64) Roll Soldier | | (16)
+Possessor |
+     |                        | 
+     |                        | 
+----------------------o---------
+Blazing Gem | Blazing Crystal |
+Frost Shard |
+----------------------o---------
+(01) Shadow | (05) Scarlet Tango
+| (18) Bulk Vendor | (13) Fire
+Plant | (16) Possessor | (33)
+Bubble Beat | (28) Sergeant |
+(19) Rare Vendor | (36) Large
+Armor | (32) Flare Note | | (51)
+Ice Cube |
+     |                        | 
+     |                        | 
+----------------------o---------
+Frost Gem | Frost Crystal |
+Thunder Shard |
+----------------------o---------
+(14) Blizzard Plant | (12) Weed
+Plant | (42) Mad Bull | (24)
+Skate Bomb | (33) Bubble Beat |
+(45) Neo Shadow | (52) Snow
+Crystal | (51) Ice Cube | (56)
+Huge Cannon | (54) Ice Cannon |
+(52) Snow Crystal | (61) Leer
+Ghost | (71) Avalanche | | (77)
+Behind Lizard |
+----------------------o---------
+Thunder Gem | Thunder Crystal |
+Gale Shard |
+----------------------o---------
+(31) Loudness | (16) Possessor |
+(07) Stripe Aria | (36) Solid
+Armor | (61) Leer Ghost | (17)
+Massive Possessor | (61) Leer
+Ghost | (68) Blitz Spear | (27)
+Deserter | (65) Dual Blade | |
+(47) Air Battler |
+----------------------o---------
+Gale Gem | Gale Crystal |
+Shining Light Shard |
+----------------------o---------
+(02) Mega Shadow | (47) Air
+Battler | (21) Guardian | (20)
+Surveillance | (72) Wave Crest |
+(27) Deserter | (80) Invincible
+| (74) Wind Storm | (28)
+Sergeant |
+     |                        | 
+     |                        | 
+----------------------o---------
+Shining Light Gem | Shining
+Light Crystal | Gear Parts Ver.1
+|
+----------------------o---------
+(10) Turquoise March | (10)
+Turquoise March | (53) Aiming
+Cannon | (22) Destroyer | (44)
+Trick Monkey | (57) Morning Star
+| (44) Trick Monkey | (55)
+Thread Launcher | |
+(72) Wave Crest       |         
+----------------------o---------
+Gear Parts Ver.2 | Gear Parts
+Ver.3 | Gear Parts Ver.4 |
+----------------------o---------
+(06) Gray Caprice | (07) Stripe
+Aria | (31) Loudness | (26)
+Detonator | (65) Dual Blade |
+(59) Burning Ball | (44) Trick
+Monkey | (77) Behind Lizard | |
+(70) Tail Bunker | (95) ???? | |
+----------------------o---------
+Combo Arts | Combo Arts + |
+Combo Arts ++ |
+----------------------o---------
+(02) Mega Shadow | (14) Blizzard
+Plant | (25) Storm Bomb | (45)
+Neo Shadow | (47) Air Battler |
+(29) Soldier |
+(64) Roll Soldier     |         
+----------------------o---------
+Guard Arts | Guard Arts + |
+Guard Arts ++ |
+----------------------o---------
+(29) Soldier | (27) Deserter |
+(46) Next Shadow | (34) Barrier
+Master | (28) Sergeant | (80)
+Invincible | (38) Solid Armor |
+(46) Next Shadow | |
+----------------------o---------
+Rune Arts | Rune Arts + | Rune
+Arts ++ |
+----------------------o---------
+(08) Sapphire Elegy | (08)
+Sapphire Elegy | (08) Sapphire
+Elegy |
+     |                        | 
+----------------------o---------
+Power Arts | Power Arts + |
+Power Arts ++ |
+----------------------o---------
+(36) Large Body | (49) Flying
+Arts | (40) Mad Dog |
+(41) Biting Dog       |         
+(66) Heat Saber       |         
+----------------------o---------
+Air Arts | Air Arts + | Air Arts
+++ |
+----------------------o---------
+(06) Gray Caprice | (06) Gray
+Caprice | (06) Gray Caprice |
+(21) Guardian | (09) Pink
+Concerto | (62) Garry Ghost |
+(48) Aerial Master | (62) Garry
+Ghost | |
+----------------------o---------
+Wide Arts | Wide Arts + | Wide
+Arts ++ |
+----------------------o---------
+(09) Pink Concerto | (02) Mega
+Shadow | (67) Gold Reaper | (43)
+Cymbal Monkey | (17) Massive
+Possessor | (82) Dusk |
+     | (48) Aerial Master     | 
+----------------------o---------
+Luck Arts             | Iron    
+----------------------o---------
+(07) Stripe Aria | (18) Bulk
+Vendor | (07) Stripe Aria | (19)
+Rare Vendor | (34) Barrier
+Master | (23) Minute Bomb | (73)
+Tail Mirage | (40) Mad Dog |
+(40) Mad Dog |
+     | (43) Cymbal Monkey     | 
+     | (76) Vanish Lizard     | 
+----------------------o---------
+Dark Ingot | Silver | Gold |
+----------------------o---------
+(02) Mega Shadow | (11) Emerald
+Serenade | (11) Emerald Serenade
+| (30) Commander | (43) Cymbal
+Monkey | (54) Ice Cannon |
+     |                        | 
+----------------------o---------
+Mythril | Anklite | Orichal |
+----------------------o---------
+(39) Ground Armor | (53) Aiming
+Cannon | (38) Solid Armor | (77)
+Behind Lizard | (56) Huge Cannon
+| |
+----------------------o---------
+Moonstone | Diamond | Adamantite
+|
+----------------------o---------
+(01) Shadow | (42) Mad Bull |
+(15) Poison Plant | (04) Yellow
+Opera | (48) Aerial Master |
+(69) Stregus Blade |
+(15) Poison Plant     |         
+(21) Guardian         |         
+----------------------o---------
+Premium Orb           |
+----------------------o
+(50) Sky Grappler     |
+(75) Debris Flow      |
+----------------------o
+
+================================
+V. Extra                        
+================================
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Frequently Asked Questions
+[05-01]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+--------------------------------
+Q: How do I know if I managed to
+100% a particular mission?
+
+A: All the missions that are
+100% complete (max mission
+gauge) will be
+   displayed in the Hologram Mis
+   while the incomplete ones are
+--------------------------------
+Q: Secret Reports? Where are
+they?
+
+A: Once you beat the game,
+access Roxas' Diary under
+Reports tab, then
+   hold the A button over an ent
+   Fully completing story missio
+   secret reports for viewing.
+--------------------------------
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Credits                         
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+* Many thanks to the web masters
+* Many thanks to Wilco Groenendi

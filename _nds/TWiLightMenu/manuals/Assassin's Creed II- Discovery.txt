@@ -1,0 +1,3365 @@
+________________________________
+
+   A S S A S S I N ' S  C R E E 
+________________________________
+
+ F A Q / W A L K T H R O U G H
+________________________________
+
+    K A T A S T R O P H I E
+________________________________
+
+
+
+================================
+       TABLE OF CONTENTS
+================================
+
+
+Introduction and Copyright
+
+
+--------------------------------
+				   GAMEPLAY
+--------------------------------
+
+	Controls.......................
+	Elements.......................
+	Skills.........................
+
+--------------------------------
+				  WALKTHROUGH
+--------------------------------
+
+Memory Block 1 Go to the
+Thieves' Guild..................
+...............[W001] Find Chris
+toffa...........................
+...............[W002] Return to
+the Thieves Guild...............
+...............[W003]
+
+Memory Block 2 Meet Santangel
+and Christoffa..................
+..........[W004] Find
+Christoffa's Atlas..............
+....................[W005]
+  Bring the Atlas to the Harbour
+
+Memory Block 3 Find the
+Assassin's Guild................
+................[w007] Escape
+the Ambush......................
+..................[W008]
+Assassinate Gaspar Martinez.....
+.........................[W009]
+Rescue the Assassin.............
+.........................[W010]
+
+  Memory Block 4
+Find Pedro Liorente.............
+.........................[W011]
+Rescue the Captured Assassin....
+.........................[W012]
+Rescue the Last Captured Assassi
+n........................[W013]
+Assassinate Pedro Liorente......
+.........................[W014]
+Return to Sanchez...............
+.........................[W015]
+
+Memory Block 5 Eliminate the
+Templar Presence................
+...........[W016] Save the Civil
+ians............................
+...........[W017] Survive the Am
+bush............................
+...........[W018] Assassinate
+the Templar Spy.................
+.............[W019] Report the
+Spy's Death.....................
+..............[W020] Enter
+Granada City....................
+...................[W021]
+
+Memory Block 6 Infiltrate
+Alhambra Palace.................
+..............[W022] Find King M
+uhammed.........................
+..............[W023] Escape the 
+Tower...........................
+..............[W024] Open the
+Palace Gates....................
+................[W025] Stop the
+Burning of the City.............
+................[W026]
+
+Memory Block 7 Protect Civilians
+From Inquisitors................
+.......[W027] Assassinate Juan
+de Marillo......................
+........[W028] Find Christoffa..
+................................
+........[W029]
+
+Memory Block 8 Rid the Palace of
+Inquisitors.....................
+.......[W030] Rescue Rapheal San
+chez............................
+.......[W031] Infiltrate
+Torquemada's Dwelling...........
+..............[W032] Assassinate
+Tomas Torquemada................
+.............[W033]
+
+--------------------------------
+				    EXTRAS
+--------------------------------
+
+	Gamescript.....................
+Challenge Missions..............
+..........................[E002]
+	Unlockables....................
+
+--------------------------------
+              MISC
+--------------------------------
+
+Version History.................
+..........................[M001]
+	Contact Me.....................
+
+
+
+
+
+
+
+
+    ============================
+   //
+================               I
+	                               
+    ============================
+
+
+Been a while since I made a
+guide, I just had an itch I
+needed to scratch and luckily
+I've been Assassin's Creed
+obsessed lately.
+
+After playing Assassin's Creed 2
+for the PS3 I was hooked on it,
+the story had a hold on me and
+the mystery around it is
+amazing. So I move on to the DS
+game so it can satify my
+appetite for more Assassin's
+Creed. Hope you enjoy it.
+
+I chose to do a gamescript
+because I enjoyed the story of
+Assassins Creed. For people who
+don't have a DS but would still
+like to know the story, the
+gamescript is there for you.
+Gamescripts are not something
+I'll be likely to do again.
+
+      ___________________
+
+           Copyright
+      ___________________
+
+This may be not be reproduced
+under any circumstances except
+for personal, private use. It
+may not be placed on any web
+site or otherwise distributed
+publicly without advance written
+permission. Use of this guide on
+any other web site or as a part
+of any public display is
+strictly prohibited, and a
+violation of copyright.
+
+
+
+
+
+    ============================
+   //
+================                
+	                               
+    ============================
+
+
+      ___________________
+
+            Controls
+				     [GOO1]
+      ___________________
+
+  ______________________________
+ / Basic Controls \             
+[------------------]------------
+[ Move ] Control pad (Left or
+Right) ]
+[------------------]------------
+[ Jump             ] B          
+[------------------]------------
+[ Attack           ] Y          
+[------------------]------------
+[ Block            ] R          
+[------------------]------------
+[ Stealth Mode ] Hold L, move
+camera with left or right when
+hanging. ]
+[------------------]------------
+[ Objectives       ] Select     
+[------------------]------------
+[ Restart Mission ] Start and
+pick which one. ]
+[ Quit             ]            
+[------------------]------------
+ \_________________]____________
+
+  ______________________________
+ / Advanced Controls \          
+[---------------------]---------
+[ Climb Walls ] When near a wall
+press Up on the control pad,
+hold Up ]
+[                     ] to keep 
+[---------------------]---------
+[ Hang ] When near a ledge press
+Down on the control pad ]
+[---------------------]---------
+[ Roll ] Hold Down and press B ]
+[---------------------]---------
+[ Wall Jump ] When hanging from
+a wall press B ]
+[---------------------]---------
+[ Long Jump ] While running down
+slope press B right before the
+edge ]
+[                     ] of the g
+[---------------------]---------
+[ Hide ] Press X when prompted
+to hide in haystacks ]
+[---------------------]---------
+[ Stealth Kills ] While holding
+L sneak up behind an enemy and
+attack ]
+[---------------------]---------
+[ Hault Ledge Climb ] Hold L
+while climbing to not climb over
+the ledge ]
+[---------------------]---------
+[ Running Roll ] While running
+press Down on the contol pad ]
+[---------------------]---------
+ \____________________]_________
+
+
+
+      ___________________
+
+            Elements
+				     [GOO2]
+      ___________________
+
+  ______________________________
+ / Mission Types \              
+[-----------------]-------------
+[ Normal ] Normal missions
+require no specific things to
+do, the only ] [ ] way to fail
+these missions is to die. ]
+[-----------------]-------------
+[ Stealth ] Get spotted more
+than 4 times and you fail the
+mission. ]
+[-----------------]-------------
+[ Chase ] Priority of the
+mission is to run to your
+destination. ]
+[-----------------]-------------
+[ Time Based ] When a time-
+critical mission is given, a
+timer will appear ] [ ] on the
+top screen. Accomplish the
+mission objectives before] [ ]
+the timer runs out, or memory
+synch will be lost and the ] [ ]
+mision will be restarted. ]
+[-----------------]-------------
+ \________________]_____________
+
+  ______________________________
+ /     Others      \            
+[-------------------]-----------
+[ Wanted Posters ] Wanted
+posters will appear in exterior
+environments. ] [ ] To rip them
+down, move close to them and
+press the X ] [ ] button.
+Ripping down wanted posters will
+improve ] [ ] synchronicity with
+ancestral memories giving more
+life. ]
+[-------------------]-----------
+[ Completion Rating ] After you
+finish a sequence your progress
+through that ] [ ] stage is
+tallied up. Number of kills,
+damage and the time] [ ] it took
+to finish grants you a rank and
+points to unlock ]
+[                   ] additional
+[-------------------]-----------
+[ Challenge Missions] Collect
+map scrolls to unlock challenge
+missions. ]
+[-------------------]-----------
+[ Switches ] Switches can open
+doors in the environment. To
+activate ] [ ] a switch, move
+close to it and press the X
+button. ]
+[-------------------]-----------
+[ Guard Captains ] Strong foes,
+stealth is recommended for
+dispatch. ]
+[ (Armored)         ]           
+[-------------------]-----------
+ \__________________]___________
+
+
+			      ___________________
+
+             Skills
+				     [GOO3]
+      ___________________
+
+  ______________________________
+ /                 \            
+[-------------------]-----------
+[ Combo Attack ] Press the Y
+button to attack. Press the Y
+Button again ] [ ] when the
+swords clash to break your
+opponent's guard. ] [ ] Press
+the Y Button several times after
+a successful ] [ ] strike to
+perform a combo attack. ]
+[-------------------]-----------
+[ Counter Attack ] Hold the R
+Button to block and press the Y
+button just ] [ ] before an
+opponent strikes to counter
+their attack. ] [ ] Be careful;
+an improperly times counter-
+attack will leave]
+[                   ] you vulner
+[-------------------]-----------
+[ Dodging ] Rolling can be used
+to dodge attacks. ]
+[                   ]           
+[-------------------]-----------
+[ Ledge Kill ] While on a ledge,
+press the Y button while a guard
+is ] [ ] nearby to pull him off
+the ledge. Unlocked in memory ]
+[                   ] block 3.  
+[-------------------]-----------
+[ Throwing Knives ] Unlocked in
+memory block 4. Press A to
+throw. ]
+[-------------------]-----------
+[ Block Arrows ] Unlocked in
+memory block 5. Press R at the
+exact moment ] [ ] an arrow
+comes in contact. ]
+[-------------------]-----------
+ \__________________]___________
+
+
+
+
+
+    ============================
+   //
+================              W 
+	                               
+    ============================
+
+      ___________________
+
+   M E M O R Y  B L O C K  1
+      ___________________
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Go to the Thieves' Guil
+~~~~~~~~~~~~~~~~ Mission Type:
+Normal
+
+     Enemies: 16
+
+       Completion Rating
+-Finish under 2:00min -Kill 8 or
+more Enemies -Take less than 12
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Start by heading to the right,
+climbing the buildings and
+gaining momentum to be able to
+jump accross the building tops.
+If you have enough speed you
+will be able to make a farther
+jump getting the waypoint and
+falling into the haystack below.
+Look at the map and time it
+right to sneak up and kill the
+soldier.
+
+Continue to the right and you
+will be presented with two
+paths.
+
+Ground Path 1 (Kills 3)
+_______________________
+
+Roll under the ledge, sneak up
+to the soldier and kill him.
+There are two more soldiers just
+do the same thing and pay
+attention to your map. Climb up
+the building and you will meet
+your contact.
+
+Roof Path  2 (No Kills)
+_______________________
+
+Wall jump the two walls and make
+your way to the top of the
+building. Keep running right to
+build up speed to be able to
+leap across each building
+leading you to your destination.
+
+Continue onwards but don't be to
+hasty. You'll find a soldier on
+top of a ledge, make sure you
+hold down L so that you don't
+climb over the ledge. When his
+back is turned shank him.
+Another soldier is just past him
+so do what you need to do and
+continue on. Another two paths.
+
+Roof Path (Kills 3)
+___________________
+
+Make sure to get a running start
+and perform a long jump to reach
+the other side. Keep running and
+jumping from building to
+building and you'll end up on
+the ground with some soldiers.
+Dispatch them and continue.
+
+Ground Path 2 (Kills 9)
+_______________________
+
+Drop down from the ledge and
+silently kill off each soldier
+till you reach the end of the
+bridge.
+
+Climb up the building
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  //    Find Christoffa [W002]
+~~~~~~~~~~~~~~~~ Mission Type:
+Stealth
+
+     Enemies: 14
+
+       Completion Rating
+-Finish under 2:30min -Stealth
+Kill 5 or more Enemies -Take 4
+or less damage
+~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Head to the right (only real way
+to go) and hide in the haystack
+until you feel it's right to
+jump out and attack. Continue on
+and you'll come across two
+paths.
+
+Ground Path (Kills 6)
+_____________________
+
+Hang onto the ledge and wait
+till the guard turns his back,
+then do the old blade in the
+face. Continue on and you'll
+come to an area with 3 haystacks
+and 2 soldiers. After that head
+to the checkpoint.
+
+Continue forward and roll under
+the gap leading to a soldier.
+You'll come across another gap
+with two soldiers guarding, time
+it right and slay them. After
+that climb up the building and
+onto your objective.
+
+Roof Path (Kills 6)
+___________________
+
+Climb to the top of the building
+and hang on the ledge. Take out
+the two guards then keep running
+and you'll kill two more leading
+up to a checkpoint.
+
+Jump over to the next building
+and take out the guard keep
+following the path which leads
+to another guard and into the
+checkpoint.
+
+You'll be presented with a small
+scene and be prompted to fight a
+guard.
+
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Return to the Thieves' 
+~~~~~~~~~~~~~~~~ Mission Type:
+Chase
+
+     Enemies: 0
+
+       Completion Rating
+-Finish under 1:00min -No kills
+-Take 8 or less damage
+~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Just run to the left this time,
+making sure to time your jumps
+at the end of the edges to get
+maximum distance.
+
+
+      ___________________
+
+   M E M O R Y  B L O C K  2
+      ___________________
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Meet Santangel and Chri
+~~~~~~~~~~~~~~~~ Mission Type:
+Normal
+
+     Enemies: 15
+
+		     Wanted Posters: 3
+
+       Completion Rating
+-Finish under 2:00min -Kill 12
+or more Enemies -Take less than
+4 damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+As you follow the path you'll
+come to two paths, one up on the
+rooftops and the other on the
+ground.
+
+Ground Path (11 Kills, 2 Wanted
+Posters)
+________________________________
+
+There are some haystacks and
+soldiers, hide and kill is the
+game here. After the third gap
+you roll after it, theres a
+[WANTED POSTER] immediately
+after, it's easy to miss since
+you are running quick. It's a
+pretty linear path at the end,
+climb up the side of the
+building with the waypoints to
+reach a [WANTED POSTER]. Jump on
+the wall and climb up to reach
+your destination.
+
+Rooftop Path (3 Kills 1 Poster)
+_______________________________
+
+Make your way across and right
+by the soldier is a [WANTED
+POSTER] kill the soldier and
+take the poster. If you continue
+on this path you'll come across
+two more soldiers and the wanted
+poster mentioned in the ground
+path. There's nothing on the
+higher points just some running
+if you feel not like killing
+today. It will take you straight
+to your objective.
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Find Christoffa's Atlas
+~~~~~~~~~~~~~~~~ Mission Type:
+Stealth
+
+     Enemies: 26
+
+		     Wanted Posters: 3
+
+       Completion Rating
+-Finish under 7:30min -Stealth
+kill 16 or more Enemies -Take
+less than 4 damage
+~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+After killing the first soldier
+you'll come to a split path, one
+up one down.
+
+Ground Path (6 Kills, 3 Wanted
+Posters)
+________________________________
+
+After you pass the bridge and
+roll under the gap there will be
+a [WANTED POSTER] right after on
+the wall. After that continue on
+and kill the next soldier,
+another gap to roll under and
+another [WANTED POSTER] to pick
+up. Then you'll reach the
+checkpoint.
+
+Pretty linear path, take out
+guards get the [WANTED POSTER]
+after the second guard after the
+gap. Once you reach the end of
+this scale the big wall, take
+out the guard and enter the
+checkpoint.
+
+Rooftop Path (5 Kills)
+______________________
+
+If you follow the waypoints it
+will lead you to some guards
+then the checkpoint.
+
+Keep following the roof path and
+it will lead you to the next
+checkpoint.
+
+Inside Hostel (15 Kills)
+________________________
+
+Very linear but watch where you
+going so as to not get spotted.
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Bring the Atlas to the 
+~~~~~~~~~~~~~~~~ Mission Type:
+Chase
+
+         Enemies: A lot
+
+		     Wanted Posters: 3
+
+       Completion Rating
+-Finish under 3:30min -Kill 3 or
+more Enemies -Take less than 20
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+RUN FOR YOUR LIFE! Try to get
+the long jumps if possible.
+After you exit the Hostel and
+continue on, you will come to a
+gap and there will be a [WANTED
+POSTER] for you to get, you need
+to kill the soldier so it will
+prompt you to press X. Continue
+onwards on the ground and you'll
+end up on the rooftop. Make the
+long jump and collect another
+[WANTED POSTER]. After that,
+jump down and continue on ground
+to find another [WANTED POSTER].
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Find the Assassin's Gui
+~~~~~~~~~~~~~~~~ Mission Type:
+Normal
+
+     Enemies: 30
+
+		     Wanted Posters: 2
+
+       Completion Rating
+-Finish under 4:00min -Kill 20
+or more Enemies -Take less than
+16 damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+From the beginning you have a
+split path this time left and
+right. Amazing.
+
+Right Path (14 Kills)
+__________
+
+If you look up a bit you'll see
+a [WANTED POSTER] to get it,
+continue right and climb up the
+wall. Head right on the roof and
+kill the guard. Now turn left
+and do a long jump to the other
+side. Drop down the ledge and
+rip the poster off. Continue
+heading right. A couple of
+guards will be here but there
+backs will be turned and you and
+slient kill them all before they
+turn around. Head up to find
+your contact and she'll tell you
+that there is a secret on the
+tallest building in town. If you
+continue heading right you'll
+find some more guards.
+
+Left Path (11)
+_________
+
+You'll find a standalone guard
+to take out then there will be a
+soldier not moving. To avoid
+confrontation climb the
+building, take out the archers
+and head behind the soldier and
+give him the old hand blade. You
+should meet you contact after a
+you've bloodied up your hands a
+bit. Before you do head more to
+the left and climb on the roof
+with theh soldier on it. Get a
+running jump and jump to the
+right off the roof to grab the
+pole. Swing up to and you'll see
+a [WANTED POSTER] by the archer.
+
+Now follow your map and you'll
+reach a place where you get
+ambuhed by four soldiers.
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ //    Escape the Ambush [W008]
+~~~~~~~~~~~~~~~~ Mission Type:
+Chase
+
+         Enemies: A lot
+
+		     Wanted Posters: 1
+
+       Completion Rating
+-Finish under 3:00min -Kill 4 or
+more Enemies -Take less than 12
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Start by heading to the left and
+jump onto the building with the
+orange top, if you continue
+you'll be on a pole, drop from
+the pole and continue left.
+Climb up the ledge where the
+archer is to find a [WANTED
+POSTER]
+
+Follow the roof top path and
+land those long jumps. The
+sewers are pretty linear should
+be easy to find your way.
+
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Assassinate Gaspar Mart
+~~~~~~~~~~~~~~~~ Mission Type:
+Stealth
+
+     Enemies: 15
+
+		     Wanted Posters: 3
+
+       Completion Rating
+-Finish under 2:00min -Stealth
+kill 5 or more Enemies -Take no
+damage -Get spotted 1 or less
+times ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you head left and go to
+ground level you'll come across
+a [WANTED POSTER]
+
+
+Head right and you'll come
+across a [WANTED POSTER] under
+an archway. Continue right
+killing as you go. La la la. As
+you come to the soldiers on the
+roof, as you pass the first one,
+there is a [WANTED POSTER] by
+the second one in a gap.
+Continue and you'll meet your
+target.
+
+
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// Rescue the Assassin [W010]
+~~~~~~~~~~~~~~~~ Mission Type:
+Time
+
+         Enemies: A lot
+
+		     Wanted Posters: 0
+
+       Completion Rating
+-Finish under 1:45min -Kill 2 or
+more Enemies -Take 12 or less
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Pretty much the same thing as a
+chase mission but its timed.
+Stick to the rooftops and you'll
+rescue your buddy in no time.
+
+
+
+
+      ___________________
+
+   M E M O R Y  B L O C K  4
+      ___________________
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// Find Pedro Liorente [W011]
+~~~~~~~~~~~~~~~~ Mission Type:
+Normal
+
+     Enemies: 0
+
+		     Wanted Posters: 2
+
+       Completion Rating
+-Finish under 1:00min -Kill 0
+Enemies -Take 0 damage
+~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To your left will be a [WANTED
+POSTER] rip it down. Continue to
+your right and you will see a
+cutscene.
+
+After the scene head down and
+rip off the [WANTED POSTER]
+before you enter the area with
+Pedro.
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Rescure the Captured As
+~~~~~~~~~~~~~~~~ Mission Type:
+Normal
+
+     Enemies: 16
+
+		     Wanted Posters: 0
+
+       Completion Rating
+-Finish under 4:00min -Kill 10
+or more Enemies -Take 16 or less
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This area is kind of big. Start
+by heading to the left and drop
+down using the polls. Continue
+down and locate the left most
+assassin.
+
+Head to the right and drop down,
+take out the guard and roll
+under the gap. Fall down again
+and roll under the next gap.
+Fall once more but not all the
+way, land on the middle platform
+and roll under the gap. Now wall
+jump up to where the guard is,
+slay him and rescue your friend
+on the right.
+
+Head to the left and wall jump
+up. Head to the right and get
+some speed to jump off the edges
+and reach the next platforms, do
+this three times and you'll come
+to another assassin.
+
+Now run to the left and jump off
+to reach the platform, keep
+heading left using the poles to
+ascend and you'll make it to the
+last assassin.
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Rescure the Last Captur
+~~~~~~~~~~~~~~~~ Mission Type:
+Stealth
+
+     Enemies: 14
+
+		     Wanted Posters: 0
+
+       Completion Rating
+-Finish under 3:30min -Stealth
+kill 10 or more Enemies -Take 4
+or less damage
+      -Get spotted 1 or less tim
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It's quite a linear path, follow
+right and stealth kill the
+soldiers along the way and
+you'll reach the checkpoint.
+Head up the wall and continue
+right, keep climbing the walls
+and heading right and you'll
+reach your destination.
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Assassinate Pedro Liore
+~~~~~~~~~~~~~~~~ Mission Type:
+Stealth
+
+     Enemies: 25
+
+		     Wanted Posters: 2
+
+       Completion Rating
+-Finish under 3:30min -Stealth
+kill 10 or more Enemies -Take 4
+or less damage
+      -Get spotted 1 or less tim
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Head right and roll under to
+initiate a cutscene. After the
+scene climb up the building with
+the soldier on it and retrieve
+the [WANTED POSTER]. Continue
+right and kill soldiers a long
+the way while being sneaky of
+course. Then you should reach
+your checkpoint.
+
+Head right and under the gap to
+get another [WANTED POSTER]. Now
+roll back under the gap and head
+up to the rooftops. Jump from
+top to top and use the poles
+then you should be on the ground
+again next to a [WANTED POSTER].
+Scale the builing to the right
+and you will come across more
+poles, take your time and swing
+from each one till you reach
+your destination.
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ //    Return to Sanchez [W015]
+~~~~~~~~~~~~~~~~ Mission Type:
+Time
+
+         Enemies: A lot
+
+		     Wanted Posters: 0
+
+       Completion Rating
+-Finish under 2:00min -Kill 2 or
+more Enemies -Take 16 or less
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The game gives you a set plan
+based on the rooftops. There are
+some poles to swing from and
+long distance jumps, try to
+utilize them and you'll finsh
+the stage in record time.
+
+
+      ___________________
+
+   M E M O R Y  B L O C K  5
+      ___________________
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Eliminate the Templar P
+~~~~~~~~~~~~~~~~ Mission Type:
+Normal
+
+     Enemies: 15
+
+		     Wanted Posters: 3
+
+       Completion Rating
+-Finish under 2:00min -Kill 10
+or more Enemies -Take 4 or less
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Head to the right and you'll
+jump over a hill leading to the
+town. Keep going until your
+under the arch to get a [WANTED
+POSTER]. Now climb the roof and
+take out the archers. Make your
+way to the first templar and
+stab him in the back. Climb over
+the hill and run to the right.
+When you reach the next city
+area keep to the ground and
+continue on. Past the two guards
+there will be a [WANTED POSTER]
+to rip off. The next templar is
+right after.
+
+As you reach the next are it
+will be guarded with a spear
+soldier, take him out and the
+next guard and rip off the
+[WANTED POSTER] that was next to
+the spear soldier. Continue on
+and the next two templars await
+you.
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// Save the Civillians [W017]
+~~~~~~~~~~~~~~~~ Mission Type:
+Normal
+
+     Enemies: 15
+
+		     Wanted Posters: 0 or 3
+
+       Completion Rating
+-Finish under 2:00min -Kill 8 or
+more Enemies -Take 12 or less
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It's the same level as the
+mission you did before. If you
+didn't get the wanted posters
+before you can get them again.
+Just run,stab,and save the
+people.
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// Survive the Ambush [W018]
+~~~~~~~~~~~~~~~~ Mission Type:
+Normal
+
+     Enemies: 35
+
+		     Wanted Posters: 2
+
+       Completion Rating
+-Finish under 4:30min -Kill 20
+or more Enemies -Take 20 or less
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+An interesting mission, it makes
+you fight a lot of enemies. Head
+down into the pit to take out 7
+guards then the gate will open
+on the right side. Make sure to
+rip the [WANTED POSTER] on the
+left side when you dispatch of
+all the guards.
+
+Stick to the ground and you'll
+come across another [WANTED
+POSTER]. After that just contiue
+the path scaling the mountain
+and reach your pit stop.
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Assassinate the Templar
+~~~~~~~~~~~~~~~~ Mission Type:
+Stealth
+
+     Enemies: 10
+
+		     Wanted Posters: 1
+
+       Completion Rating
+-Finish under 1:30min -Stealth
+kill 3 or more Enemies -Take 4
+or less damage -Get spotted once
+or zero times
+~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+you have to do a couple of long
+jumps first and after that keep
+to the highest points on the
+map. Don't bother going to
+ground level. You'll soon reach
+your target. Before you kill him
+head to the left a bit and there
+will be a [WANTED POSTER] on a
+ledge. After that just throw a
+blade at the spy when he's not
+in your map, or you can try to
+fight him if you think you're
+good enough.
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Report the Spy's Death 
+~~~~~~~~~~~~~~~~ Mission Type:
+Stealth
+
+     Enemies: 10
+
+		     Wanted Posters: 0
+
+       Completion Rating
+-Finish under 2:00min -Stealth
+kill 5 or more Enemies -Take 4
+or less damage -Get spotted once
+or zero times
+~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Only one path to take and it's
+full of enemies. Look at your
+map and strike when they are not
+looking and be on your merry
+way.
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// Enter Granada City [W021]
+~~~~~~~~~~~~~~~~ Mission Type:
+Stealth
+
+     Enemies: 15
+
+		     Wanted Posters: 0
+
+       Completion Rating
+-Finish under 3:30min -Stealth
+kill 10 or more Enemies -Take 4
+or less damage -Get spotted once
+or zero times
+~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Head onwards and climb up top to
+pass the guard below. Continue
+on and climb the wall to hang
+onto the ledge. When the guard
+comes near, press Y to grab him
+and throw him down to the ground
+below. The game gives a path for
+the rooftops, time your jumps
+and make it to each platform,
+soon you'll reach the
+checkpoint.
+
+Use the right wall and scale
+down, making sure to stop when
+the archers are in your range.
+Make it to the bottoma and climb
+the right wall to trigger a
+cutscene. You will regain
+control again. Use the ground
+path to avoid the guard or kill
+him when his back is turned.
+Climb up the next wall paying
+attention to the archers vision.
+Once on top assassinate the
+guard waiting for you there.
+Head onwards jumping on the
+platforms and reaching your
+final checkpoint.
+
+
+      ___________________
+
+   M E M O R Y  B L O C K  6
+      ___________________
+
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Infiltrate Alhambra Pal
+~~~~~~~~~~~~~~~~ Mission Type:
+Stealth
+
+     Enemies: 15
+
+		     Wanted Posters: 3
+
+       Completion Rating
+-Finish under 2:30min -Stealth
+kill 8 or more Enemies -Take 4
+or less damage -Get spotted once
+or zero times
+~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Head up the structure and
+dispatch the archers. Follow the
+waypoint up and across the roof
+to hit the switch and
+assassinate the spear soldier.
+Head through the gate and climb
+up the wall to hang from the
+ledge. Grab the soldier on top
+and throw him down. Climb up a
+bit more and jump to the left
+platform, you will find a
+[WANTED POSTER]. Climb up the
+left wall, take out the guard
+and hit the switch.
+
+Head to the right and take out
+the guards. Climb up the right
+wall and jump onto the left
+platform to get a [WANTED
+POSTER]. Now jump down and
+you'll land in a hay stack. Time
+it right and get out to kill the
+archer. Activate the switch, get
+the [WANTED POSTER] and head to
+the checkpoint.
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// Find King Muhammed [W023]
+~~~~~~~~~~~~~~~~ Mission Type:
+Stealth
+
+     Enemies: 16
+
+		     Wanted Posters: 0
+
+       Completion Rating
+-Finish under 3:30min -Stealth
+kill 10 or more Enemies -Take 4
+or less damage -Get spotted once
+or zero times
+~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It's a straightforward path,
+just make sure to look at your
+map to see the enemies
+viewpoint, strike when they're
+not looking and you will make it
+to the checkpoint with ease.
+
+Same thing as last, a
+straghtforward path with some
+enemies, but they are easy to
+take out.
+
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ //    Escape the Tower [W024]
+~~~~~~~~~~~~~~~~ Mission Type:
+Chase
+
+     Enemies: 0
+
+		     Wanted Posters: 0
+
+       Completion Rating
+-Finish under 30sec
+~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Climb down the tower and enter
+the checkpoint...That was a
+waste.
+
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Open the Palace Gates [
+~~~~~~~~~~~~~~~~ Mission Type:
+Chase
+
+     Enemies: 20
+
+		     Wanted Posters: 2
+
+       Completion Rating
+-Finish under 2:30min -Kill 4 or
+more enemies -Take 24 or less
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Run till you finsh jumping from
+the poles then go down to the
+bottom level to get a [WANTED
+POSTER]. Continue on using the
+roof path since it's safer and
+once you reach the second pole
+section, climb down the wall to
+find a [WANTED POSTER] After
+that continue the path to reach
+the checkpoint. Once there kill
+the two waves of guards dn
+you're done.
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Stop the Burning of the
+~~~~~~~~~~~~~~~~ Mission Type:
+Time
+
+     Enemies: 25
+
+		     Wanted Posters: 4
+
+       Completion Rating
+-Finish under 3:00min -Kill 20
+or more enemies -Take 8 or less
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+After you kill the first guard
+you can see a [WANTED POSTER] on
+the right ledge. Another [WANTED
+POSTER] is after the pole
+section. After you kill the
+third guard, climb up the left
+ledge and pick up the [WANTED
+POSTER]. As you make your way to
+the last guard the [WANTED
+POSTER] can be found on the
+ledge on left side before the
+final guard.
+
+
+
+      ___________________
+
+   M E M O R Y  B L O C K  7
+      ___________________
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Protect Civilians From 
+~~~~~~~~~~~~~~~~ Mission Type:
+Normal
+
+     Enemies: 30
+
+		     Wanted Posters: 3
+
+       Completion Rating
+-Finish under 4:00min -Kill 20
+or more enemies -Take 16 or less
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Kill the soldiers and scale the
+wall to the right leading to the
+rooftops. Continue till you
+reach the first civilian, if you
+head left you will find a
+[WANTED POSTER]. Rescue the
+civilian and head to the next
+one. You'll find the next
+[WANTED POSTER] on your way.
+After that head up to the
+rooftops to find the next
+civilian. At the last civilian
+head to the left to activate a
+switch, head to the left gate
+and get another [WANTED POSTER]
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Assassinate Juan De Mar
+~~~~~~~~~~~~~~~~ Mission Type:
+Stealth
+
+     Enemies: 20
+
+		     Wanted Posters: 0
+
+       Completion Rating
+-Finish under 3:30min -Stealth
+kill 12 or more enemies -Take no
+damage -Get spotted once or less
+time ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Start by heading up to the
+higher level and at the edge of
+ylast platform hang off. Look
+down on the map and drop down
+when the guard is not looking to
+kill him. Continue on and you'll
+make it to an area where you can
+choose to head on top or coninue
+on ground level. Ground level
+has more enemies and higher
+level has more jumps. Either way
+will take you to the checkpoint.
+
+From here theres a lot of drops
+but it'll lead you to your
+destination. Just with some
+having more guards. Keep to the
+top if you want less
+confrontation. After the scene
+head towards your target and
+assassinate him.
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  //    Find Christoffa [W029]
+~~~~~~~~~~~~~~~~ Mission Type:
+Chase
+
+     Enemies: 20
+
+		     Wanted Posters: 3
+
+       Completion Rating
+-Finish under 1:30min -Kill no
+enemies -Take 15 or less damage
+~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Follow the path and you should
+come across a roof top with a
+rising arc to jump from. You'll
+land on a wall, climb it and
+enter the hallway. In here
+you'll have to run from or fight
+2 armored soldiers but there is
+a [WANTED POSTER] in the middle
+so as you see the scene when
+they come in tap X so you get
+the poster and can avoid
+fighting them. As you continue
+on you will find another long
+jump path. Don't do the long
+jump, instead fall down and head
+to the left to see a [WANTED
+POSTER]. It might be heavily
+guarded so you have to fight a
+little.
+
+Now head back up, if you can and
+you'll come across another long
+jump. Don't jump, just go down
+and get another [WANTED POSTER].
+Keep going right to get a map
+scroll, this will initiate a
+armored soldier coming after
+you. Kill him and scale the
+right wall. It will lead you to
+a running path on the fields and
+to Christoffa.
+
+
+
+
+
+
+      ___________________
+
+   M E M O R Y  B L O C K  8
+      ___________________
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Rid the Palce of Inquis
+~~~~~~~~~~~~~~~~ Mission Type:
+Normal
+
+     Enemies: 8
+
+		     Wanted Posters: 0
+
+       Completion Rating
+-Finish under 3:30min -Kill 6 or
+more enemies -Take 20 or less
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Not a hard mission, the
+inquisitors are easy to locate
+just find them and slay them.
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Rescue Raphael Sanchez 
+~~~~~~~~~~~~~~~~ Mission Type:
+Chase
+
+     Enemies: 20
+
+		     Wanted Posters: 3
+
+       Completion Rating
+-Finish under 5:30min -Kill 15
+or more enemies -Take 48 or less
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It's a big area but a
+straightforward path you'll find
+the wanted posters on your way.
+Inside the building you navigate
+towards Sanchez and have to kill
+an armored soldier.
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Infiltrate Torquemada's
+~~~~~~~~~~~~~~~~ Mission Type:
+Stealth
+
+     Enemies: 15
+
+		     Wanted Posters: 0
+
+       Completion Rating
+-Finish under 4:00min -Stealth
+kill 10 or more enemies -Take 4
+or less damage -Get spotted
+twice or less
+~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It's a linear path and the
+waypoints tell you where to go.
+At the end you have to scale the
+large building and then do a
+long jump over to the other
+side.
+
+
+
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   //    Assassinate Tomas Torqu
+~~~~~~~~~~~~~~~~ Mission Type:
+Normal
+
+     Enemies: 50
+
+		     Wanted Posters: 0
+
+       Completion Rating
+-Finish under 15:00min -Kill 30
+or more enemies -Take 80 or less
+damage ~~~~~~~~~~~~~~~~~~~~
+               //
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You have to hit switches to open
+the gates to continue. Start by
+running and jumping to your
+right. The switch will be right
+next to you. Kill the guard and
+head down and through the gate.
+Now you have to go down but if
+you fall you will die. Hang down
+and try to climb down, when you
+reach the bottom there will be a
+gate at the left, remember that.
+Head to the right, follow the
+path to the switch and go back
+through the gate. Now for here
+stay on the upper levels and
+you'll make your way to the pole
+room. What to do here is swing
+to the platform and hold R so
+that you block when you land.
+This is to prevent the spear
+soldier from knocking you down.
+Kill him then leap to the next
+pole. Do this again until you
+reach the top, you should grab
+the ledge immediately tap Y so
+that you perform a ledge
+takedown on that annoying
+archer, then hit the switch.
+Head all the way back down and
+to the right to go through the
+gate.
+
+Might want to save your knives
+for the last switch. Roll under
+the first gap then climb the
+next wall to the top. Kill the
+archer on top and continue
+right. Once you reach the end
+with the locked gate climb up
+the wall and to the top, Make
+your way to the left using your
+throwing knives to take out
+those guards to make things
+easier. You'll come to the
+switch, activate it and head on
+through the gate and into the
+checkpoint.
+
+Here climb up the left wall and
+make your way up taking out the
+guards that get in your way. In
+the large hall way go to the far
+right and climb the wall. Jump
+over to the highest pole and
+follow that path. At the end
+you'll be in a room with some
+guards, if you don't want to
+fight roll under them and head
+to the switch on the far left.
+Take out the spear soldier and
+head back to the gate.
+
+
+
+
+    ============================
+   //
+================                
+	                               
+    ============================
+
+
+
+      ___________________
+
+           Gamescript
+				     [E001]
+      ___________________
+
+
+
+Memory Block 1: Go to the
+Thieves' Guild
+________________________________
+
+Venice, Italy
+
+Ezio: "My name is Ezio Auditore
+da Firenze..."
+
+"It has been fifteen years since
+the Spaniard, Rodrigo Borgia,
+murdered my family and drove me
+into exile..."
+
+"Since that time I have suffered
+graetly but learned a great deal
+more..."
+
+"I am an Assassin... as my
+father and grandfathers were
+before me."
+
+"Complled by duty to my order, I
+have set aside my search for the
+Spaniard to recover an ancient
+artifact recently stolen from
+us. My thirst for vengance is
+strong... but my responsibility
+to the Assassins is stronger
+still."
+
+Civillian : "Antonio's been
+asking for you, Ezio... You
+should talk to him."
+
+
+
+Antonio: "Ezio! I have been
+singing your praises to this
+gentleman. He has a
+  proposition for you."
+
+Luis Santangel: "I represent a
+man who has come to Venezia on a
+foolish errand.
+    I fear his life is in danger
+    counsel."
+
+Ezio: "And you want me to
+protect him?"
+
+Luis Santangel: "It would ease
+my mind. Antonio claims you are
+the deadliest man
+    in Italia."
+
+Ezio: "That's true, But I am not
+a hired blade."
+
+(Starts to walk away)
+
+Antonio: "Ezio, let the man
+round out his request..."
+
+Luis Santangel: "The gentleman I
+represent has organized a
+meeting with someone
+    called The Spainiard..."
+
+Antonio: "You see, Ezio...the
+Spaniard has come to us!"
+
+Ezio: "All right, I will protect
+your friend, but not his
+business."
+
+Luis Santangel: "If that is what
+it takes to keep Christoffa from
+harm, so be
+    it."
+
+
+Memory Block 1 : Find Christoffa
+________________________________
+
+Christoffa: "What is the meaning
+of this delay? The Spaniard
+promised me an
+   hour of his time."
+
+Guard: "Apologies, Master
+Christoffa, but the Spaniard's
+plans have changed. All
+  he requires is proof of your d
+
+(Ezio comes in and kills the
+guard)
+
+Christoffa: "Ah! Fortune favors
+me. Unless you mean me harm as
+well."
+
+Ezio: "A friend of yours sent me
+to guard you."
+
+Christoffa: "Luis Santangel...he
+cautioned me againse this
+meeting, but I
+   wouldn't listen."
+
+Ezio: "How did you find the
+Spaniard? He isn't one to make
+many public
+ appearances."
+
+Christoffa: "It was he who found
+me actually. He caught wind of
+my planned
+   expedition West, and expresse
+   was to be out first of many. 
+   askew."
+
+Soldiers: "There he is! Get
+him!"
+
+Ezio: "Run! I will draw them
+away."
+
+
+Memory Block 1: Return to the
+Thieves' Guild
+________________________________
+
+(Chase scene)
+
+Ezio: "That shook then. I should
+be safe. As for Christoffa's
+safety...perhaps I should check
+back with Antonio."
+
+(Change scene to Antonio and
+Ezio)
+
+Ezio: "The meeting was a trap."
+
+Antonio: "Hm..Santangel's
+intuition proved correct."
+
+Ezio: "It seems so. Where is
+he?"
+
+Antonio: "He asked that you meet
+him in the Gardens District,
+should anything go
+  wrong."
+
+Ezio: "I'll go, but with
+caution."
+
+(Walks away)
+
+"Antonio, who are these two
+men?"
+
+Antonio: "I don't know.
+Santangel contacted teh thieves'
+guild from Espana. When
+  we met,he explained his plight
+
+Ezio: "I'm flattered, but let's
+not turn this into a habit."
+
+(Dashes off)
+
+
+Memory Block 2 : Meet Santangel
+and Christoffa
+________________________________
+
+Luis Santangel: "Ezio thank you
+for all you have done."
+
+Ezio: "I'm glad to see you safe,
+Christoffa, but I am not here to
+further your
+ interests. I have questions of 
+
+Christoffa: "I won't have many
+answers. Borgia was merely a
+financial
+   opportunity. I didn't know hi
+
+Luis Santangel: "But you may
+have another chance to find him.
+Tell him,
+    Christoffa..."
+
+Christoffa: "The Spaniard
+discovered out lodgings. Our
+hostel is crawling with
+   his soldiers. They are search
+   containing maps charting a We
+
+Luis Santangel: "We are prepared
+to leave Italia for good, but
+not without that
+    Atlas. In the wrong hands, i
+
+Ezio: "Va bene. But this will be
+my final favor."
+
+Luis Santangel: "Thank you Ezio.
+We will wait for your return in
+the harbor
+    district."
+
+Memory Block 2 : Bringing the
+Atlus to the Harbour
+________________________________
+
+Ezio: "The atlas..no mistaking
+that for anything else."
+
+Guard: "I found him!"
+
+(Scidaddles)
+
+Brining the Atlas to the Harbout
+
+Christoffa: "Ah, there he is! Do
+you have the Atlas! Show it!
+
+Ezio: "Take it and go. Borgia's
+soldiers are combing the
+streets."
+
+Luis Santangel: "A few maps are
+missing...but the Piri Rels map
+remains. We are sastified."
+
+Ezio: "Gentlemen, if you return
+to Italia in the future, bring
+your own
+ protection."
+
+Luis Santangel: "We would have
+done so, but there are no more
+men in Espana of your skill. Not
+since a group of Assassins were
+imprisoned by Tomas Torquemada's
+inquisitors."
+
+Ezio: "Wait! What do you know of
+the Assassins?"
+
+Luis Santangel: "I am a well
+connected man, Ezio, with a
+great number of friends sadly
+the inquistion has made a recent
+habit of arresting them."
+
+Christoffa: "Luis, our ship is
+waiting!"
+
+Luis Santangel: "Be well, Ezio,
+May you find everything you
+seek."
+
+Ezio: "Distressing news,
+Antonio. My search for the Apple
+of Eden will have to
+ be postpponed. I'm going to bar
+
+Antonio: "I've heard rumors of
+some turmoil there. What's
+wrong?
+
+Ezio: "Santangel claims that a
+number of Assassins have been
+jailed. I feel it
+ is my duty to help them."
+
+Antonio: "A noble cause, I will
+put you in contact with my
+people there. They should be of
+some help."
+
+
+Memory Block 3 : Find the
+Assassin's Guild
+________________________________
+
+Barcelona, Spain
+
+Ezio: "Antonio gave me the names
+of two contacts. One of them
+should be able to
+ provide me with information."
+
+Contact Number 1: "Find the
+tallest building in town.
+There's a secret door on the
+roof."
+
+Contact Number 2: "Yes there;s a
+thieves' guild nearby. Somewhere
+in the center of town."
+
+Ezio: "Empty, as I feared. Now
+my only recourse is with the
+inquisitors
+ themselves."
+
+(Guards attack)
+
+Guard: "Halt! These premises are
+the property of the church!"
+
+
+Memory Block 3 : Escape the
+Ambush
+________________________________
+
+(After chase scene)
+
+Raphael Sanchez: "How strange to
+meet a gentleman leaping through
+these sewers. Are you on the
+run, or just recreatng?"
+
+Ezio: "Step aside stranger.
+
+Rapheal Sanchez: "You bear the
+mark of the Assassins.. and from
+the cut of your outfit I'd say
+you were...Venetian?
+
+Ezio: "No, Florentine. What do
+you know of the Assassins?"
+
+Rapheal Sanchez: "Only tat I am
+one of them, sir. My name is
+Rapheal Sanchez. I arrived here
+this morning, bound to the same
+errand as you."
+
+Ezio: "Do you know who betrayed
+us to the inquisitors?"
+
+Rapheal Sanchez: "Not yet, but
+we know the name of the
+Inquisitor Prosecutor
+responsible for their arrests.
+Gaspar Martinez."
+
+Ezio: "I'd like to meet this
+Prosecutor."
+
+Rapheal Sanchez: "Good find me
+again wen you're finshed with
+him."
+
+
+Memory Block 3 : Assassinate
+Gaspar Martinez
+________________________________
+
+Ezio: "I hope we can speak
+without interruption, Gaspar.
+Who gave you the names
+ of the imprisoned Assassins?"
+
+Gaspar Martinez: "What do you
+mean "Assassins"? Our dungeons
+are for heretics, not medieval
+phantoms."
+
+Ezio: "No... your purge was to
+systematic to be a coincidence."
+
+Gaspar Martinez: "Whoever those
+men claim to be, it won't matter
+after today. A public burning is
+about to commence for one of
+them. A willful young man."
+
+Ezio: "If he dies, I will keep
+that fire burning until this
+town is a cinder."
+
+(Kills him)
+
+Ezio: "What's this? A list? Six
+names...they may be Assassins
+too...when Sanchez
+ and I cross paths again, I will
+
+Memory Block 3 Rescue the
+Assassin
+________________________________
+
+Ezio: "Steady now. Are you all
+right?"
+
+Assassin: "I will be once I
+leave this place."
+
+Rapheal Sanchez: "There he is!
+Out man of action. Thank you for
+your help."
+
+Ezio: "We cut it close, Rapheal.
+And may yet have more work. Look
+here, I
+ found a troubling list."
+
+Rapheal Sanchez: "I know these
+men. But they are not local.
+They live in Zaragosa, in the
+kingdom of Aragon."
+
+Ezio: "The Inquisitor carried
+this."
+
+Rapheal Sanchez: "Then it is
+safe to assume these men are
+also targets."
+
+Ezio: "Zaragosa will be my next
+stop. Will you come?"
+
+Rapheal Sanchez: "I will.
+Although my skills as a fighter
+are dwindling. I know the town
+well and could serve as your
+guide."
+
+Assassin: "Stay safe
+gentlement."
+
+
+Memory Block 4: Find Pedro
+Liorente
+________________________________
+
+Zaragosa, Spain
+
+Rapheal Sanchez: "Seek out the
+Inquisitor's Calificador, Pedro
+Liorente. His tribunal meets in
+a building on the far side of
+town."
+
+Ezio: "You're not coming?"
+
+Rapheal Sanchez: "Oh,no, I'm too
+well known here. If a tragedy
+sould befall Pedro, I'll need an
+alibi."
+
+(Searching)
+
+Pedro Liorente: "Tomas
+Torqumada! An unexpected but
+welcom visit."
+
+Torquemada: "I require neither
+your blessing nor your premissio
+to enter here, Pedro. How is our
+prisoner?"
+
+Pedro Liorente: "A staunch one.
+He refuses to convert or
+confess."
+
+Torquemada: "Most who are
+brought here feel they have
+God's protection, no matter what
+their faith...and yet they
+always tremble with fright. But
+you... You dismiss the idea of
+God altogether, and yet you show
+   no fear."
+
+(Soldier kills assassin)
+
+Torquemada: "Remarkable...
+Rodrigo Borgia was right to have
+me arrest you and your
+cohorts...your lack of faith is
+a disease. Let the heretic
+   bleed."
+
+(Torquemada leaves)
+
+(Ezio arrives)
+
+Ezio: "Already dead...so it was
+The Spaniard himself who had
+these men arrested
+ and branded heretics. I won't a
+ man's fate."
+
+
+Memory Block 4: Rescue the
+Captured Assassins
+________________________________
+
+(After saving assassins)
+
+Pedro Liorente: "What in God's
+name is going on here! Four
+escaped heretics!"
+
+Guard: "We did not anticipate
+such an organized resistance,
+your Holiness."
+
+Pedro Liorente: "You assumed the
+people of Zaragoza would shrug
+off the random imprisonment of
+six eminent men?"
+
+Guard: "We accused them of
+countless heresies, Pedro.
+Publicly!"
+
+Pedro Liorente: "Your duties do
+not end with their improsonment!
+They begin there! Whoever freed
+those four men will certainly be
+looking for the last. Guard out
+prisoner at all costs, or
+Torquemada will personally
+supervise your disemboweling."
+
+
+Memory Block 4: Assassinate
+Pedro Liorente
+________________________________
+
+Rapheal Sanchez: "Ezio, the
+shadows of my city are moving
+again! How many of our brothers
+were you able to find?"
+
+Ezio: "Five or six. An
+Inquisitor named Torquemada
+murdered one before I could
+ reach him."
+
+Rapheal Sanchez: "That would be
+Tomas Torquemada, the King's
+Grand Inquisitor... he must be
+here to speak with Pedro
+Liorente.
+
+Ezio: "I saw them together. It
+appears heir orders to arrest
+the assassins came
+ directly from Rodrigo Borgia hi
+
+Rapheal Sanchez: "Just as we
+suspected: contact between the
+Templars and the Inquisitors.
+Both these men must be stopped.
+Pedro will be easy to find here
+in Zaragoza. But locating
+Torquemada may take some time."
+
+Ezio: "I'm a patient mand,
+Sanchez."
+
+(Meets Pedro)
+
+Pedro Liorente: "What's this?
+You're not allowed in here!"
+
+Ezio: "Excuse my intrusion, but
+I was told you might how to get
+me in contact
+ with the Templars."
+
+Pedro Liorente: "The Templars?
+Surely you're joking young man.
+The Templars were digraced and
+disbanded two centuries ago.
+Rumors of their continued
+activities are as reliable as
+fairly tales."
+
+Ezio: "That's a shame,
+Padre...if they don't exist,
+they won't be able to save
+ you."
+
+(kills Pedro)
+
+
+Memory Block 4: Return to
+Sanchez
+________________________________
+
+Ezio: "Pedro is dead, but I have
+neither seen nor heard any sign
+of Torquemada."
+
+Rapheal Sanchez: "I guessed you
+wouldn't. It's a pity the Queen
+failed to mention to me that her
+dear Grand Inquisitor was in
+town."
+
+Ezio: "You have spoken with
+Queen Isabella?"
+
+Rapheal Sanchez: "I work for
+her, Ezio. As her treasurer.
+While you were out freeing our
+brothers, I was attending a
+finance meeting."
+
+Ezio: "An Assassin embedded in
+the monarchy's highest
+ranks...fascinating."
+
+Rapheal Sanchez: "We have one of
+her ears, and it may be that the
+Templars have the other.
+Naturally Isabella and King
+Ferdinand are ignorant of our
+infiltration. Come, I will tell
+you more on the road to
+Granada."
+
+Ezio: "I have freed those I came
+to rescue. I should be returning
+to Italia."
+
+Rapheal Sanchez: "Ezio, I beg
+you to stay and help me. We are
+on the fringe of
+ 		  a grand Templar scheme. Com
+
+Memory Block 5: Eliminate the
+Templar Presence
+________________________________
+
+Granda, Spain
+
+Rapheal Sanchez: "...and so,
+spurred by their desire to see
+the kingdom of Espana united by
+a single faith, the Inquisitors
+convincced the Queen and King to
+drive out the remaining moors.
+This is why war rages here in
+Granada. The place of Alhambra
+and the city surrounding it are
+the last Moorish strongholds on
+the continent."
+
+Ezio: "It sounds like the battle
+is already won."
+
+Rapheal Sanchez: "One would
+think...but for some reason the
+Moors continue to fight. Perhaps
+King Muhammed XII has a death
+wish. Hold... we have reached
+the outskirt of the city. It is
+a disputed territory and still
+quite dangerous."
+
+Ezio: "What is out course?"
+
+Rapheal Sanchez: "We'll do a
+sweep of the area, and eliminate
+all threats. We must make it
+safe for the civillians to move
+about."
+
+
+Memory Block 5: Save the
+Civillians
+________________________________
+
+Rapheal Sanchez: "We have
+quelled the worst violence, but
+the pockets of resistance
+remain. Bands of lawless
+soldiers are harassing
+civillians. We cannot let this
+city descend into anarchy. When
+you are certain the civillians
+are sage, meet me in the chapel
+at the center of the village."
+
+
+Memory Block 5: Survive the
+Ambush
+________________________________
+
+Ezio: "Luis Santangel? This is
+an unusual coincidence."
+
+Luis Santangel: "Not a
+coincidence at all, Ezio.
+Sanchez sent word that you might
+be joining us. We Assassins run
+in close circles, after all."
+
+Rapheal Sanchez: "The world is
+not so large as it feels, is
+it?"
+
+Luis Santangel: "Wherever you
+go, you are bound to find one of
+us working in secret...in the
+court of a monarch, for
+instance."
+
+Ezio: "Both of you work for
+Isabella and Ferdinand?"
+
+Rapheal Sanchez: "It has taken
+many years and reluctant
+converstions to gain their
+confidence. But it has been
+necessary. The King and Queen
+are easily swayed by pious
+blather."
+
+Luis Santangel: "There will be
+time later to explain out
+purpose in graeter detail, but
+we have need of your skills now.
+A Templar Spy is passing false
+information to King Muhammed
+inside the city. encouraging him
+to continue the fight. Find the
+secret passage the spy is using
+before killing him."
+
+Rapheal Sanchez: "If this war
+does not end swiftly, the
+Templars will continue to use
+the chaos to their advantage."
+
+
+Memory Block 5: Assassinate the
+Templar Spy
+________________________________
+
+(Locates spy and hides)
+
+Guard: "You there. Open the gate
+to the catacombs."
+
+Guard 2: "Off to counsel King
+Muhammed, are you? I don't
+understand that fool. Why does
+he keep us fighting this
+pointless war?"
+
+Guard: "Are you being
+insubordinate Soldier? just open
+the damn gates!"
+
+Guard 2: "Yes sir!"
+
+Guard: "Ha ha. The poor lad's
+got no idea does he?"
+
+Guard 3: "And it had better stay
+that way. If anyone knew we were
+prolonging this war
+deliberately, it would alter the
+Queen's tactics. By God, you
+Templars convolute even the
+simplest plans."
+
+
+Memory Block 5: Report the Spy's
+Death
+________________________________
+
+Luis Santangel: "Our Assassin
+returns...did you find the spy?"
+
+Ezio: "I did...I overheard him
+talking about keeping Espana
+embroiled in this
+ war deliberately."
+
+Luis Santangel:
+"Interesting...first they seek
+Christoffa's map, then they come
+to Espana to evacerbate a war
+that does not concern them."
+
+Rapheal Sanchez: "We have
+suspected for some time that the
+Templars were planning their own
+expedition west. This may be
+their way of delaying
+Christoffa's journey."
+
+Ezio: "That atlas must contain
+wonders to inspire such broad
+schemes."
+
+Luis Santangel: "Indeed. But we
+will not know how true they are
+until Christoffa has set sail.
+And that won't happen until this
+war is over."
+
+Rapheal Sanchez: "I fear
+something terrible has happened
+to King Muhammed. He was once an
+ally to the Assassins...but we
+have not heard from him in many
+months. Find him if you can, if
+the Templars havn't already."
+
+Ezio: "I'll enter through the
+catacombs. The Templar Spy
+preferred that route."
+
+
+Memory Block 5: Enter Granada
+City
+________________________________
+
+Ezio: "Explosions from above...
+has the siege started again?"
+
+
+Memory Block 6: Infiltrate
+Alhambra Palace
+________________________________
+
+Alhambra, Spain
+
+Ezio: "The city is under siege
+and everything is locked down...
+this won't be
+ easy."
+
+
+Memory Block 6: Find King
+Muhammed
+________________________________
+
+(locates the king)
+
+Guard: "I must apologize,
+Boabdil, for putting your
+beautiful city through such
+hardship."
+
+Muhammad XII: "I am King
+Muhammad of Nasrid, usurper.
+Untie me!"
+
+Guard: "I will regret the
+destruction of Alhambra palace.
+Unfortunately, the Spanish siege
+must continue until Granada is
+dust, and the Queen is
+penniless."
+
+Muhammad XII: "My dilike of
+Isabella pales in comparison to
+the hatred I feel for you and
+your Templar stoogies."
+
+Guard: "Hold on to that anger.
+It may comfort you in your final
+hours."
+
+(Ezio kills guard)
+
+Muhammad XII: "Peace be upon
+you, sir. For whom do you work?"
+
+Ezio: "Luis Santangel sent me to
+find you. He assumed you were
+dead, or had gone
+ mad."
+
+Muhammed XII: "I am happy to
+admit to neither. The Assassins
+and I haven't always seen eye to
+eye, but I have been grateful
+for their aid over the years."
+
+Ezio: "We need to end this war.
+As much as it may pain you, your
+time in Espana
+ is at its end."
+
+Muhammed XII: "TOo many missteps
+and misunderstandings to
+repair... yes, I agree. What
+shall we do?"
+
+Ezio: "I will cross the city and
+open the gates, carrying word of
+your
+ abdication. Stay here until the
+
+
+Memory Block 6: Open the Palace
+Gates
+________________________________
+
+Rapheal Sanchez: "War is ended,
+and a concilatory King Muhammad
+is in a meeting with the Queen
+to discuss terms."
+
+Christoffa: "Oh, I have been
+waiting for this moment, Luis!
+Do you feel it, the tide
+shifting beneath us?"
+
+Luis Santangel: "Patiencem
+Christoffa. It will take some
+time for Isabella to entertain
+thoughts of spending money on
+you."
+
+Christoffa: "I have been waiting
+SIX YEARS for an answer from the
+Queen. If she cannot indulge me
+now, I will indulge other
+offers!"
+
+Luis Santangel: "Christoffa,
+don't be foolish. We're close!"
+
+Christoffa: "We've been close
+for too long, Luis, it's now or
+never."
+
+Luis Santangel: "Damn him, it's
+too soon to go begging for money
+from a war war weart monarch."
+
+Civilian: "Help! We need
+soldiers! Mobs are trying to
+burn the city down!"
+
+Rapheal Sanchez: "Ezio, this is
+more Templar meddling."
+
+
+Memory Block 6: Stop the Burning
+of the City
+________________________________
+
+Rapheal Sanchez: "Wars never end
+abruptly, do they?"
+
+Ezio: "They never end at all,
+Sanchez. It just appears that
+way when the body
+ count is low."
+
+Rapheal Sanchez: "You have given
+us an advantage. And when we
+secure a mandate for
+Christoffa's voyage, you will
+have given us hope as well."
+
+Ezio: "My understanding is still
+cloudy. Hope for what exactly?"
+
+Rapheal Sanchez: "Most men stoke
+their imagination of what lies
+beyond the ocean sea with
+stories of quick routes to
+Cipango and Cathay...But
+Christoffa's maps tell another
+tale, one the Templars know
+quite well...legends of an
+intermediate land as large as
+our own."
+
+Ezio: "Another continent?"
+
+Rapheal Sanchez: "A new world,
+Ezio..."
+
+(Skip to luis)
+
+Ezio: "How are you holding up,
+Luis?"
+
+Luis Santangel: "My patience is
+thin, Torquemada has already
+dispatched an inquisitor to
+round up heretics for trial in
+Granada."
+
+Ezio: "Torquemada should be
+arrested for the abuses!. Surely
+the Queen would
+ side with you if the truth were
+
+Luis Santangel: "No, she would
+never believe such charges.
+Torquemada has been Isabella's
+confessor since she was a young
+woman."
+
+Rapheal Sanchez: "Besides, it
+would be unwise to allow such
+turmoil to disrupt our plans for
+Christoffa."
+
+Ezio: "Hold fast, gentleman. I
+will try to calm this chaos."
+
+
+Memory Block 7: Protect
+Civilians From Inquisitors
+________________________________
+
+(after saving civilians)
+
+Ezio: "Inquisitor soldiers are
+out in full force, meting out
+blind punishments
+ for invisible offences."
+
+Rapheal Sanchez: "Ezio, find the
+Inquisitor in charge of this
+operation. Eliminate him when he
+is alone, in secret, otherwise
+the violence will redouble and
+we will lost our advantage."
+
+
+Memory Block 7: Assassinate Juan
+De Marillo
+________________________________
+
+(locates target)
+
+Torquemada: "The Queen let the
+Moor King live? Isabella's heart
+is not hard enough to do lasting
+good for Espana. When the time
+is right, I will give her
+counsel. Espana must be unified.
+One people, one faith."
+
+Juan de Marillo: "Until then,
+Tomas...?"
+
+Torquemada: "Round up all who do
+not profess allegiance to the
+pope and expel them. If they
+resist, you are free to do as
+you will.
+
+Juan de Marillo: "Yes Tomas. God
+be with you."
+
+Torquemada: "And you, Juan de
+Marillo. May he guide your every
+step."
+
+Juan de Marillo: "Round up your
+best men and prepare for a sweep
+of the city."
+
+
+Memory Block 7: Find Christoffa
+_______________________________
+
+Queen Isabella: "Santangel, who
+is out guest?"
+
+Ezio: "I am Ezio Auditore, a
+Florentine by birth, and a
+wayfarer by trade."
+
+Luis Santangel: "He is a friend,
+Queen Isabella. It was Ezio who
+brokered King Muhammad's
+surrender."
+
+Queen Isabella: "Ezio
+Auditore... it seems the whole
+of Espana owes you a great
+debt."
+
+Ezio: "I wonder if Christoffa
+Corombo might profit a little
+from my royal
+ largess."
+
+Queen Isabella: "I wish I could
+vivify his withering dream, but
+out funds are still scarce. Take
+comfort knowing that the King of
+France has made him a recent
+offer."
+
+Luis Santangel: "He cannot be
+serious!"
+
+Queen Isabella: "Well he
+certainly thought it was
+genuine, He left for Paris this
+morning."
+
+Luis Santangel: "Oh, that fool!
+Ezio...he is still in great
+danger."
+
+Ezio: "I will find him."
+
+Luis Santangel: "Bring him back
+here, And tell him... tell him
+the Queen has had a change of
+heart."
+
+(finds Christoffa)
+
+Ezio: "Christoffa, halt! You're
+in great danger."
+
+Christoffa: "Do not interfere,
+Ezio! I've quite enough
+counseling from your quarter!
+
+(Guard comes)
+
+Christoffa: "Help!"
+
+(Ezio kills guard)
+
+Christoffa: "Has the world gone
+so mad that a simple adventurer
+cannot go but
+ 	     a few weeks without being
+
+Ezio: "Christoffa, you are no
+simple adventurer."
+
+Christoffa: "Unfortunately only
+you and the King of France
+recognize this."
+
+Ezio: "King Charles hasn't the
+mettle to back you...this is a
+Templar frick."
+
+Christoffa: "Have you any proof
+of your outrageous claim?"
+
+Ezio: "I don't need any.
+Santangel has assured me that
+Isabella has had a change
+ of heart."
+
+Christoffa: "Good God, how I
+loath these games! Lead the way,
+Ezio...
+
+(Goes back to Luis and Isabella)
+
+Queen Isabella: "A fascinating
+proposal, Luis. And one I would
+gladly accept were Christoffa to
+return."
+
+Christoffa: "And return he has!
+What's the good news?"
+
+Luis Santangel: "Inspiring words
+and a few bags of coin have
+changed the Queen's mind.
+Prepare to set sail,
+Christoffa."
+
+Ezio: "How many bags of coin did
+it require?"
+
+Queen Isabella: "Your friends
+have agreed to cover half of the
+total costs, Christoffa."
+
+Christoffa: "Praise you Luis,
+you find and gracious man."
+
+Rapheal Sanchez: "Soon we will
+be praising you, my friend. For
+all the wonders you will find
+and report to the world."
+
+Luis Santangel: "But let all
+rejoicing wait until we have
+seen your crosstrees clip below
+horizon."
+
+Christoffa: "Yes, Santangel.
+Caution! Yours has saved me from
+myself more times thatn I should
+admit. Come gentlemen. Let us
+celebrate!"
+
+
+Memory Block 8: Rid the Palace
+of Inquisitors
+________________________________
+
+Zaragoza, Spain
+
+Luis Santangel: "I just received
+word... Christoffa has set sail
+from Palos with three ships and
+his precious atlas."
+
+Ezio: "I am honored to have
+helped you all, and wish I could
+be here to welcome
+ him home, but conflicts of my o
+
+Luis Santangel: "Of course. The
+search for your stolen artifact
+continues."
+
+Civilian: "Luis! You must hide!
+Torquemada has dispatched guards
+to arrest you."
+
+Luis Santangel: "Contemptible
+man! He already forced a
+conversion from me... now I
+suspect the Templars are feeding
+him orders."
+
+Ezio: "Revenge for spoiling
+their war, I suppose. Stay here,
+Lusi. I'll handle
+ this."
+
+(after killing Inquisitors)
+
+Luis Santangel: "This was no
+arrest. They intended to murder
+me! I'm certain they will be
+after Sanchez in due course."
+
+Ezio: "I won't let that happen."
+
+Luis Santangel: "Once Sanchez is
+safe, find Torquemada and bring
+him to justice."
+
+Ezio: "Is that wise? You said
+yourself that Torquemada was off
+limits."
+
+Lusi Santangel: "Just choose
+your best judgement...and let no
+one see you."
+
+
+Memory Block 8: Rescue Rapheal
+Sanchez
+________________________________
+
+Rapheal Sanchez: "Ah..you have a
+knack for timing. One minute
+more and I'd have beem dead, or
+worse... We riled up the
+Templars and now they\re oopenly
+sending Inquisitors to imprison
+us."
+
+Ezio: "Revenge by proxy. It's
+time to find Torquemada and end
+this."
+
+Rapheal Sanchez: "Before you do
+anything rash, make him talk.
+Find out how close to the
+Templars he really is."
+
+
+Memory Block 8: Assassinate
+Tomas Torquemada
+________________________________
+
+Ezio: "You are a vile and
+pitiful man, Torquemada. And
+your alliance with the
+ Spaniart has disqualified you f
+
+Torquemada: "You dare to lecture
+me? I am the hammer of heretics,
+the light of Espana, the honor
+of my order. I follow none but
+God's command."
+
+Ezio: "All lies. Rodrigo Borgia
+is an unbeliever like me, and
+yet you lavish
+ him with favors."
+
+Torquemada: "A fantastic tale,
+and a spurious one. Borgia is
+one of three Papal candiadtes
+this year. And he is as devoted
+to God as I am.
+
+Ezio: "There's no better hiding
+place than in the shadow of
+virtue. You are as
+ blind to his evil as you are to
+
+Torquemada: "So what will you do
+with me, heathen? Murder me?
+Slit my throat and bathe in my
+blood?"
+
+Ezio: "No...I prefer a quick,
+clean kill."
+
+(Gate drops preventing Ezio from
+reaching Torquemada)
+
+Torquemada: "Guards!"
+
+Ezio: "You will discover the
+truth about Rodrigo Borgia in
+time. But by then
+ it will be too late."
+
+(Skips to Assassins)
+
+Ezio: "Forgive me, my friends.
+Torquemada escaped. But not
+before enlightening
+ me on one or two points. He is 
+
+Luis Santangel: "What of his
+connection to the Spaniard?"
+
+Ezio: "He admires Rodrigo
+Borgia, but I do not believe
+Torquemada is a Templar
+ himself. Merely a credulous old
+ Torquemada's death would have c
+
+Luis Santangel: "We will work
+hard to distance him from the
+Queen, while we
+    protect ourselves from the I
+
+Ezio: "Best of luck, my new
+friends. And send me wod when
+Christoffa returns."
+
+Rapheal Sanchez: "He has
+promised to write me the moment
+he arrives. I will forward a
+copy of any letter he sends."
+
+Ezio: "I look forward to it..."
+
+(Ezio walks away)
+
+(Credits)
+
+
+
+
+      ___________________
+
+       Challenge Missions
+				     [E002]
+      ___________________
+
+Note: I am missing some here (ok
+a lot) if you have information
+about the rest email me and I'll
+include it in the guide. I will
+give you full credit of course.
+
+Challenge 3:
+____________
+
+Location: 4-3 Rescue the Last
+Captured Assassin
+
+From the start of the stage:
+
+-Head all the way to the right
+-Climb up and jump onto the seco
+-Head all the way to the left
+-Climb up to the top
+-Drop down in the gap to the lef
+-Once down head all the way to t
+-Climb up
+-Head to the left
+-Drop down
+-All the way to the left wall
+-Climb up to the top
+-Now keep heading right and you 
+
+
+Challenge 7:
+____________
+
+Location: 7-1 Protect Civilians
+From Inquisitors
+
+Head to the right and climb up
+the wall, then head to the left
+and jump onto the wooden
+platforms. On the second
+platform hang from the edge and
+drop down to where the archer
+is. The map scroll will be there
+also.
+
+
+Challenge 8:
+____________
+
+Location: 7-3 Find Christoffa
+
+After the second long jump,
+climb down and head to the right
+it'll be at the very end.
+
+
+
+
+      ___________________
+
+          Unlockables
+				     [E003]
+      ___________________
+
+Unlockables can be accessed
+through the main menu of the
+game by going to "Animus Hacks".
+In order to use unlockables you
+must gather Sync points which
+you get from beating the
+missions in game. You get ranked
+during the completion and
+depening on the rank the higher
+the points. Max points for each
+mission is 100.
+
+You can only select one
+unlockable to use at a time.
+
+  ______________________________
+ / Unlockables    \             
+[------------------]------------
+[ Faster Synch ] Allows Ezio to
+recover HP much faster [ 300 ]
+[ Regen            ]            
+[------------------]------------
+[ Antonio Disguise ] Look like
+Antonio [ 600 ]
+[------------------]------------
+[ No Radar Mode ] You have no
+Radar/Map, makes it harder [ 900
+]
+[------------------]------------
+[ Fast Wall Climb ] Climb walls
+much faster [ 1300 ]
+[------------------]------------
+[ Spanish Assassin ] Look like a
+Spanish Assassin [ 1700 ]
+[ Disguise         ]            
+[------------------]------------
+[ Hard Mode ] It's hard mode,
+yay [ 2100 ]
+[------------------]------------
+ \_________________]____________
+
+
+
+
+
+
+    ============================
+   //
+================                
+	                               
+    ============================
+
+
+
+      ___________________
+
+        Version History
+				     [M001]
+      ___________________
+
+V E R S I O N  1.00
+___________________
+
+January 11, 2010
+
+-Finished up to memory block 3
+-Made templates
+-Added more aesthetic values
+
+January 12, 2010
+
+-Finished memory block 4
+-Added another skill
+-Added more to gamescript
+
+January 13, 2010
+
+-Finshed up to Granada City
+
+January 14, 2010
+
+-Didn't work on it
+
+January 15, 2010
+
+-Finished memory block 6
+-Finished memory block 7
+
+January 16, 2010
+
+-Finished up to last mission in 
+-Finished walkthrough
+-Added unlockables
+-Put more detail in boxes
+-Found more challenges
+-Found more wanted posters
+
+      ___________________
+
+           Contact Me
+				     [M002]
+      ___________________
+
+Email : ultima_6@hotmail.com
+
+Have questions? I wanna answer
+them. Have criticisms? I wanna
+hear them. Don't be fraid it's
+all good.
+
+
+
+
+Z MMMMMMMMM
+ZZZZZZZZZZZZZZZZZZZZZZZZZM ZZZ
+MMMMMMMMM
+ZZZZZZZZZZZZZZZZZZZZZZZM ZZZZ
+MMMMMMMMM8
+ZZZZZZZZZZZZZZZZZZZZZM ZZZZZZ
+MMMMMMMMM ZZZZZZZZZZZZZZZZZZZZM
+ZZZZZZZ MMMMMMMMMM
+ZZZZZZZZZZZZZZZZZZM ZZZZZZZZZ
+MMMMMMMMM ZZZZZZZZZZZZZZZZZM
+ZZZZZZZZZZ: MMMMMMMMMM
+ZZZZZZZZZZZZZZZM ZZZZZZZZZZZZ
+MMMMMMMMM ZZZZZZZZZZZZZZM
+ZZZZZZZZZZZZZZ =MMMMMMMMM
+ZZZZZZZZZZZZM ZZZZZZZZZZZZZZZ
+MMMMMMMMM8 7ZZZZZZZZZZM
+ZZZZZZZZZZZZZZZZZ MMMMMMMMM
+ZZZZZZZZZM ZZZZZZZZZZZZZZZZZZ
+MMMMMMMMMM ZZZZZZZM
+ZZZZZZZZZZZZZZZZZZZZ MMMMMMMMM
+ZZZZZZM ZZZZZZZZZZZZZZZZZZZZZ
+MMMMMMMMMM ZZZZM
+ZZZZZZZZZZZZZZZZZZZZZZZ
+MMMMMMMMM ZZZM
+ZZZZZZZZZZZZZZZZZZZZZZZZZ
+MMMMMMMMM ZM MMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

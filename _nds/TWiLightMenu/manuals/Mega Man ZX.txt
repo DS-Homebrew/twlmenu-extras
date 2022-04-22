@@ -1,0 +1,3371 @@
+Document: FAQ/Walkthrough for
+Mega Man ZX Author:
+AscendedPikachuZero
+(apzags001@sanbrunocable.com)
+
+Legal Garbage Mega Man ZX and
+all content therein copyright
+Capcom This guide is copyrighted
+to the author
+
+If you wish to post this guide
+on your site, you notify me
+FIRST. I will find you if you
+have put this on your site
+without my authorization.
+
+Table of Contents
+Controls [NEWB]
+Biometal Report [MEGA]
+Walkthrough [JUMP]
+"Catch the Maverick" [SECA]
+"Locate Giro" [SECB]
+"Pass the Test" [SECC]
+Guardian HQ [SECX]
+"Troop Reinforcement" [SECD]
+"Search the Plant" [SECE]
+"Find the Survivors" [SECF]
+"Fight the Mavericks" [SECG]
+"Secure the Biometal" [SECH]
+"Protect HQ" [AHOY]
+"Save the People" [SECI]
+"Recover the Disk" [SECJ]
+"Attack the Excavators" [SECK]
+"Protect the Lab" [SECL]
+"Stop the Dig" [SECM]
+"Repel the Army" [SECO]
+"Destroy Model W" [EVIL]
+Overfiend's Legacy [SECN]
+Courier Requests [GIRO]
+Upgrades and Goodies [ITEM]
+Disk Database [DISK]
+Prairie's Report [CIEL]
+World Map [MAPS]
+
+
+Controls [NEWB]
+
+Moving: Press left or right to
+move in that direction. Easy to
+remember and effective, since a
+moving target is harder to hit.
+Stay still against Pseudoroids,
+and you'll be a smear on the
+wall in no time flat.
+
+Jumping: By default, press B to
+jump. Jumping not only allows
+you to cross gaps and scale
+short bumps in the road, it also
+helps you avoid enemy shots and
+some smaller enemies.
+
+Climbing: Press up to grab a
+ladder, then press up or down to
+climb it. You can drop onto a
+ladder by simply pressing down
+if you're atop it.
+
+Dropping: Press down and jump to
+drop from a surface. The
+platform you're on cannot be
+solid, though.
+
+Doors: Open doors by walking up
+to them. For those in the
+background, press Up to enter
+them. This is a basic Zero
+mechanic, for those who have
+only played Classic or X games.
+
+Crawling [Hu]: Press down to
+crouch, then left or right to
+crawl. This allows you access to
+places you can't get to
+otherwise.
+
+Dash >Hu<: Press L to dash by
+default. You can use this to
+speed up your movement.
+
+Scale >Hu<: Press and hold the
+control pad towards a wall to
+grab it. You'll slide down, so
+you should jump back up. For
+those who only played Classic
+games, this is a basic X/Zero
+mechanic, so don't forget it!
+Just remember not to try it on a
+spiked wall.
+
+Attack >Hu<: Press Y or R by
+default to attack. Y is for the
+prime weapon and R for the sub
+weapon. Hold the button to
+charge it up.
+
+MEGA System: Press X by default
+to access the MEGA system. You
+can switch with A or X, and
+cancel with B.
+
+OIS [HX][FX][LX][PX][OX]: Press
+A to activate Overdrive. See
+each individual model in the
+Biometal report for more
+information.
+
+
+Biometal Report [MEGA]
+
+Human [Hu]
+Weapons: None
+Element: None
+Where Found: Initial
+
+Human form is the base form you
+have. You start the game with
+it, obviously. As useless as it
+seems, it still has purpose.
+First, you can crawl around.
+This allows you to get to places
+other forms can't access.
+Second, people in Area C will
+talk to you more favorably
+compared to other forms. Third,
+some Mechaniloids will not want
+to kill you on sight. Other than
+that, don't use it unless you
+need to crawl.
+
+Model X [X]
+Weapons: X Buster
+Element: None
+Where Found: A-1
+
+Model X is pretty damn good even
+if it does have basic
+maneuverability. It clearly
+dominates in terms of average
+damage output - launching the
+two charge shots back to back
+causes more damage than all
+other non-element attacks on its
+own. There are some drawbacks;
+you can only fire straight, and
+you lose Model X after the
+battle in D-2 unless you've
+already seen both characters
+through to the end at least on
+Normal.
+
+Model ZX [ZX]
+Weapons: ZX Saber, ZX Buster
+Element: None
+Where Found: D-2
+
+Model ZX is a hybrid model
+capable of both ranged and melee
+combat. Unless you've beaten the
+game with both characters at
+least on normal, it'll be your
+bread-and-butter form. At ranged
+combat it's inferior to X, but
+the saber hits a little above
+and below you when used. You can
+hold up to perform a spinning
+attack while in midair.
+
+Model HX [HX]
+Weapons: HX Saber, HX Gladius
+Element: Thunder
+Where Found: E-7
+
+Model HX is useful for melee
+combat, but its mobility is
+second to none. It's a form
+you'll be using throughout the
+entire game, so get used to it.
+
+Shockwave: Use the Saber, then
+the Gladius, then the Saber
+again in quick order to unleash
+a small shockwave from the two
+swords. Air Dash: It's simple;
+press dash in midair to dash
+horizontally. Sky Boost: Hold up
+while air dashing to boost
+upward. Nice for getting around
+some of those annoying edges.
+Descend: Press jump in midair to
+slow your descent. This allows
+you to stretch your horizontal
+distance considerably. Thunder
+Saber: Initiate OIS to electrify
+your weapons. You can use the
+electric sabers to power some
+devices - the cars in C-1 for
+example. Ball Lightning: Charge
+either saber and release to
+launch a ball lightning
+projectile that seeks out nearby
+foes. Whirlwind: Charge either
+saber to max and hold up while
+releasing to launch a whirlwind
+that batters foes. Enemy
+Analyzer: The touch screen shows
+the appearance and remaining
+energy of the last enemy you
+struck. It also reveals the
+Biometal frame location on a
+Pseudoroid in red.
+
+Model FX [FX]
+Weapons: FX Busters (L/R)
+Element: Fire
+Where Found: G-5
+
+Model FX is a ranged combat
+model. It's used to break just
+about anything at a distance,
+but it has melee uses as well.
+
+Megaton Crash: Charge and
+release next to an object to
+damage and/or break it. You can
+do this even without FX energy.
+Fire Blaster: Initiate OIS to
+superheat your shots. You can
+use these shots to break ice
+easily. Fireball: Charge and
+release away from an object to
+shoot a fireball that moves
+straight ahead. Fire Wave:
+Charge to max and hold down
+while releasing to unleash a
+wave of fire that moves along
+the ground. Doesn't go far,
+though. Buster Edit: You can use
+the touch screen while the
+game's paused to set a path for
+the buster.
+
+Model LX [LX]
+Weapons: LX Halberd
+Element: Ice
+Where Found: F-5
+
+Model LX seems lackluster on
+land, but it's in water that it
+dominates. Whenever you must
+immerse yourself over your head
+in water, LX is the form to use.
+
+Water Dash: This is LX's
+equivalent of an air dash. You
+can use it to move just about
+anywhere in water. Swim: Press
+jump while waterborne or water
+dash to swim. You can move
+freely in any body of water.
+Whirling Lance: This is LX's
+attack while swimming. Attack
+repeatedly to continue spinning
+the blade and mince your
+enemies. Ice Lance: Initiate OIS
+to supercool the halberd. This
+can freeze quite a number of
+enemies. Glacier: Charge and
+release to create a block of
+ice. You can use it to attack or
+as a platform to access a
+variety of things. Seiryuu:
+Charge to max and hold up while
+releasing to launch a frosty
+dragon from the lance. The
+dragon will seek anything nearby
+and freeze it solid. Item
+Scanner: The touch screen
+reveals the location of one
+nearby item no matter where it
+is. Use it in tandem with PX to
+find out just where the item is.
+
+Model PX [PX]
+Weapon: PX Kunai Launcher
+Element: None
+Where Found: H-4
+
+Model PX is an underappreciated
+model, but it has enough uses in
+its own right. Don't ever forget
+you have it.
+
+Hanging Edge: Press and hold up
+to cling to any ceiling, and
+then double tap up to flip onto
+a platform. Darkvision: Model PX
+has a larger light radius in the
+dark parts of Area I. Make use
+of this knowledge. Shadow Dash:
+Initiate OIS and dash for this
+ability. As long as you're
+dashing only, you are
+invulnerable to attack. Useful
+for dodging some nasty hazards
+and enemies. Fuuma Star: Charge
+and release to launch a large
+shuriken at an enemy. It will
+return to you after a set
+distance, slicing up anything in
+its path. Chameleon Veil: Charge
+to max and press up while
+releasing to create a barrier
+that repels small arms fire.
+Radarscope: The touch screen
+shows the true layout of the
+upper screen. If you're looking
+for a hidden passage, this is
+the biometal to turn to.
+
+Model OX [OX]
+Weapon: OX Saber, OX Buster
+Element: None
+Where Found: N-1
+
+To get Model OX, find the
+Mysterious Rock in the Archives
+of Area N after defeating Omega,
+then turn it in to Fleuve after
+smashing Model W. There's a
+reason it's reserved for after
+the end of the game; it's that
+damn powerful.
+
+Technical Prowess: Activate OIS
+to unleash a multitude of
+techniques! The following assume
+you have OIS on. Flame Fang:
+Press up and saber to perform a
+flaming slash. Spark Wave: Press
+down and saber to launch an
+energy wave from your saber.
+North Wind: Press saber in
+midair to launch frosty waves
+from your saber. Earthbreaker:
+Press down and buster to knock
+four rocks off the ground at the
+enemy. Phoenix Spark: Press down
+and release a buster charge to
+emit multiple energy bursts.
+Light Wave: Press down and
+release a max buster charge to
+fill the screen with light
+waves, ripping apart anything in
+their path.
+
+
+Walkthrough [JUMP]
+
+Once you've picked a character,
+just watch the story. Your
+chosen character and Giro are
+atop a cliff with a decent view
+of the Slither Inc. head office.
+Apparently, Slither Inc. helped
+the country recover over time,
+but they couldn't save your
+mother during an incident ten
+years ago. At this point, the
+two of you are delivering a
+package for the Guardians. You
+don't know what this package is,
+but you soon find out it's worth
+more than you anticipated as a
+squad of Galleons open fire on
+you, knocking you off a cliff
+with the cargo.
+
+After taking a ride to the
+ground, you recover and find the
+package near you. Giro gives you
+orders to protect it at all
+costs. You get over to it, only
+to meet up with two soldiers and
+a young woman. Fortunately, the
+woman orders the soldiers to
+stand down. After some
+discussion, it seems they came
+over to investigate the attack
+that you were a part of. Before
+you get much more out of her, a
+snake Mechaniloid appears and
+attacks the soldiers, knocking
+them out.
+
+The woman insists on keeping the
+package, but the snake
+Mechaniloid wants it, too. Since
+you're caught in the middle, you
+have a hard time figuring out if
+it's worth it. That's when the
+package forces its hand.
+"Biolink established. MEGA
+System Online." With those
+words, you transform and pop a
+plasma shot at the snake's face,
+forcing it to retreat. After a
+bit more dicussion, the woman
+introduces herself as Prairie,
+and you set forth to kick some
+ass.
+
+"Catch the Maverick" [SECA]
+Client: Prairie
+Destination: Area A-2
+Award: None
+
+A-1 This is where you start.
+This whole area is to get you
+accustomed to the controls, so
+take advantage of it. Just move
+to the right and blast anything
+that happens to fall in your
+path. You don't need to climb
+anything, so don't try. Whenever
+I say "move and maul", that
+means to go to the right and
+destroy anything in your path.
+There's a yellow door at the top
+on the right end of the area,
+but you don't have access to
+that. Let it be for now.
+
+A-2 Another area, just move and
+maul. As you get closer to the
+end, you run into your Maverick.
+Ready? When a boss comes up,
+I'll tell you when the prime
+attack times are - when you
+should strike the boss. I'll
+also show you what their attacks
+are and how best to dodge them.
+
+BOSS: Giga Aspis
+2 layers
+
+Acid Spit: Giga Aspis' crystals
+will shimmer red and then it
+spits acid. Stay on one side
+when it does this - either next
+to it or on the other side of
+the screen - and dash to the
+other side when it actually
+spits. Rock Toss: Giga Aspis
+will retreat and smash its tail,
+knocking rocks into the air. You
+can jump over them or destroy
+them. If you were me, jump them
+and counter when it returns.
+Rush: Giga Aspis will rush right
+at you. Simply dash under it to
+the middle of the screen and
+again to get out from under its
+tail. As it returns to the
+field, blast it with a max
+charge.
+
+Giga Aspis is a pansy made to
+look tough. If you know what to
+do - and you should - you should
+be able to take it down really
+quickly. If for some reason you
+lose all your lives to this boss
+even on Easy mode, return the
+game to the store - you just
+plain suck. Of course, if you're
+playing Hard mode, that's
+another story...
+
+
+Now that you've taken out the
+trash, you should move on to the
+Transerver straight ahead. That
+was the initial rendezvous point
+that Prairie set for the
+delivery. Once there, you'll
+find three Guardian soldiers and
+a queer (odd, not gay) little
+man right at the transerver. The
+soldiers go to help Prairie and
+the little man talks to you
+where he is. Prairie mentions
+his name (Fleuve) and tells him
+to let you go help Giro, who
+seems to be under attack in Area
+B. You now have two new missions
+- "Locate Giro" [SECB] and "Pass
+the Test" [SECC]. I'll see you
+at whatever section you choose.
+From the Transerver exit, go to
+the door atop the hill for B-1
+[SECB] or go straight ahead for
+C-1 [SECC].
+
+Remember, Transervers and
+Terminals are two different
+things. Both allow you to accept
+and report missions and save
+data; only Transervers can send
+you between regions in the blink
+of an eye, but you need more
+than one active Transerver to
+gain that kind of access.
+
+"Locate Giro" [SECB]
+Client: Prairie
+Destination: Area B-1/B-2
+Award: 250 EC
+
+On the other side of A-2, climb
+up the hill near the Valkyraffe
+and go into the door at the top.
+From C-1, go into the
+Transerver.
+
+B-1 You get a message from
+Prairie about finding out what's
+causing the Maverick outbreaks.
+Move and maul, and you'll find a
+computer chip on the way.
+Prairie will want a look at
+that, so grab as many as you
+can. You can actually miss three
+chips if you come here from the
+B-2 Transerver and go straight
+to the boss, so remember that.
+
+B-2 More move and maul. Just
+kill anything in your path on
+your way through. If you want,
+you can drop down and save your
+progress at the Transerver
+before facing the boss, who's
+further to the right.
+
+BOSS: Rayfly
+2 layers
+
+Cargo Drop: Rayfly will open its
+doors and drop three crates. I
+doubt it's worth staying under
+the doors for long, so MOVE!
+Plasma Ball: The two blue crates
+will fire plasma at you. Dash
+under it or jump over it to
+dodge. Reprise by shooting the
+red container in the stack.
+
+This boss is impossible to
+damage with weapons alone, so
+instead use the crates it drops
+as weapons. There's a red crate
+in the stack; if you shoot it,
+it'll cause the boxes above it
+to launch up and nail Rayfly for
+16 damage, while the ones below
+it are destroyed. All the boxes
+will be destroyed when the red
+crate lands. You need to do this
+four times to immobilize Rayfly.
+
+
+Once Rayfly's immobilized, Giro
+jumps in and chops it down in
+one stroke. Yes, that's Giro,
+dipstick, using the power of
+Model Z. Anyway, with Giro on
+his way back to Guardian HQ, the
+mission's complete, so return to
+the Transerver and report
+completion.
+
+"Pass the Test" [SECC]
+Client: Prairie
+Destination: Area C-1/C-2
+Award: 200 EC
+
+From A-2, go due right and
+through the door. From B-2, go
+through the Transerver.
+
+C-1 This is a peacable area in
+the middle of the country. In
+any case, you can do this entire
+form with Hu, so switch back for
+a risk-free mission. The gist is
+that you need to find four
+members of the Guardians in the
+city and send them back to
+Guardian HQ.
+
+Oeillet: Inside the first actual
+door in C-1. You can't miss her.
+Carrelet: You'll find him in the
+next actual door. You'll have to
+crawl to get to him. Congre:
+You'll find him in the last door
+of C-1. Stay human to avoid the
+Patrollaurs and to keep him from
+panicking. Thon: He's in C-2
+underneath a group of pillars.
+You'll have to crawl to get to
+him.
+
+Once you've found them all,
+Prairie will tell you to find
+the proof. You'll find it
+further down near the C-2
+Terminal. Get the Stuffed Animal
+and make your report.
+
+Guardian HQ [SECX]
+
+Once you've done both missions,
+Fleuve will tell you to find a
+Transerver and go to Area X-1.
+Do so. On a side note, you can
+get Bread from Lucia in C-1
+Residential.
+
+X-1 Surprised? Guardian HQ is
+actually an airship! The
+Guardians need to be able to
+move quickly, so they need the
+airship to accomplish this. In
+any case, you can talk to
+everyone on the ship now. You
+can also buy an E Tank - a relic
+from the Classic series that
+refills your health to max - for
+200 EC. You can only carry one,
+but it's a lifesaver until you
+get Sub Tanks. On Hard Mode,
+it'll be the only lifesaver you
+get until you complete Area L.
+
+You can talk to Prairie in the
+Command Room in X-2 to learn
+more about what's going on and
+to advance the story, and then
+Fleuve for more story
+advancement. Get ready to fight;
+you've got a mission as soon as
+you're done talking to him.
+Mavericks are approaching Area
+D, and the Guardians are
+mobilizing to deal with the
+threat. Giro, Fleuve, and
+Prairie advise against you going
+after them, but you go anyway.
+
+"Troop Reinforcement" [SECD]
+Client: Prairie
+Destination: Area D-1/D-2
+Award: None
+
+D-1 Giro moves out ahead and
+it's your job to follow him.
+Move and maul, dropping into the
+pit after the second Capsule
+Shooter to grab a Disk and, more
+importantly, a Life Up.
+
+D-2 Move and maul. You'll find
+two King Flyers there, just like
+you would Bee Bladers. This
+whole section was modeled after
+the first stage in Mega Man X,
+so people who played that know
+exactly what to expect. And at
+the end of a stage is Giro, as
+well as Serpent and two
+accomplices. Giro is awfully
+battered, and it only gets
+worse; Serpent uses Model W to
+take control over Giro before he
+and his buddies leave. You have
+no choice now; you have to fight
+Giro.
+
+BOSS: Giro (Model Z)
+2 layers
+
+Dash Strike: Giro will dash
+towards you. You can jump over
+him. Jumping Strike: Giro will
+jump upward and slash on his way
+down. Dash under him. Light
+Wave: Giro stabs his sword into
+the ground and sends light beams
+upward. Dash towards a beam
+after it's passed in front of
+you, and not a moment before.
+Saber Smash: Giro will smash his
+saber into the ground, knocking
+chunks of the ground up. You can
+blast them and him in one shot.
+Z-Divide: Giro will jump up to
+one corner, then move in a Z
+pattern. Start at the corner
+opposing him, then dash-jump
+over him when he dashes at you.
+
+Giro is a bit overwhelming, but
+he's deceptively easy. Watch his
+attack patterns and reprise
+after each one. There's no time
+he's invulnerable, so hammer
+into him.
+
+
+After taking all that abuse,
+Giro gets smacked down by
+Serpent. Serpent explains
+himself, and you predictably
+blast at him, only for
+Prometheus to repel your attack,
+and then he smacks you down
+himself. He then has Pandora
+pull the password data out of
+the two of you so he can use it
+for Project Haven. It doesn't
+sound promising. With Serpent
+gone, Giro tells you that you
+have to continue on in his
+place, and his last wish is for
+Model Z to assist you. He then
+degrades into a Cyber-elf and
+vanishes. The Galleons swarm you
+and prepare to fire, and that's
+when you link up with Model Z,
+forming Model ZX. However,
+Serpent and his buddies get
+away, and you need to get your
+butt back to Guardian HQ.
+
+Back at Guardian HQ, Prairie
+drops a bombshell; Model W can
+corrupt machines and humans
+alike. It's the source of the
+Maverick outbreaks. However,
+Serpent only has the Biometal at
+hand. The Model W Core is sealed
+away, but it's likely Serpent is
+going to try to access and
+awaken it. Its location is still
+unconfirmed, but you need the
+Biometal passwords to get to it.
+You have models X and Z, whereas
+Serpent has the other four. You
+have to go get them now so you
+can intercept Serpent and,
+hopefully, thwart his ambitions.
+
+Anyway, you can get a W Tank by
+abusing the doll in Prairie's
+room, and Smelling Salts from
+Scombresoce for 10 EC. Also,
+Carrelet will give you the
+Eraser chip if you pester him.
+When you're ready to go, Prairie
+will give you a Yellow Card Key
+so you can access the mission
+zones. All mission zones are
+behind a yellow door, so don't
+forget it.
+
+You now have four missions:
+"Search the Plant" [SECE], "Find
+the Survivors" [SECF], "Fight
+the Mavericks" [SECG], and
+"Secure the Biometal" [SECH]. Go
+to their respective sections for
+more information.
+
+"Search the Plant" [SECE]
+Client: Prairie
+Destination: Area E-7
+Award: 200 EC, Green Card Key
+
+Area E is easy, as is its boss,
+so it's a good area with which
+to start. From the C-2 terminal,
+go due right until you reach the
+fountain, then jump across it to
+the yellow door. Area E is
+beyond that.
+
+E-1 This is another move and
+maul section. Just kill
+everything in sight as you go.
+With some good shots, you can
+kill the Web Bolts before they
+can attack you.
+
+E-2 There are some rotating
+electric crosses. Move with
+them, and hit a switch to
+reverse some of them so you can
+go all the way through.
+
+E-4 Oh, how I HATE Energy
+Cannons. Avoid them as needed,
+then cross the gears to the
+other side. Bust the Bolt Faces
+and go through to the door.
+
+E-3 Traverse the conveyor belts
+and kill the Galleons on the
+way. At the end you can kill the
+power, making this place so much
+easier. Return to E-4 and keep
+moving. At the conveyor belts on
+the bottom, you'll find a Bolt
+Face guarding a Sub Tank. Get
+it!
+
+E-6 It's a Crushpactor! They're
+not so bad; just go forth and
+slaughter! Remember, be where
+the roller is not, and watch for
+the laser! From there, return to
+E-4 through the other door and
+move on to E-5.
+
+E-5 Cyber-elves! They're using
+Cyber-elves to power the
+factory! You've got to stop this
+atrocity now! Move and maul, but
+when you get to the falling
+platforms, dash-jump to get a
+Secret Disk and a Life XL
+pickup. Life XL pickups refill
+all your life, but if you have
+something in the Sub Tank, use
+it to max your current life out
+so it loads the tank to
+capacity. Drop down and make the
+rest of the trip to E-7.
+
+E-7 Hivolt's here, and he's
+quite chatty. He thinks he can
+get away with it because he's
+going to kill you. Show him how
+wrong he is.
+
+BOSS: Pseudoroid H Hivolt
+Raptoroid 2 layers Element:
+Thunder Biometal Frame: Wings
+
+Thunder Claw: Hivolt's claws
+become electrically charged. You
+can jump through the gap the
+shots make and dash close to his
+claw so he goes over you, or you
+can become human and crouch to
+dodge the whole thing. Remote
+Claw: He sets two claws at the
+corners of the field. Jump to
+avoid whatever shots threaten to
+hit you, and dodge however else
+you can. Triple Slash: Hivolt
+slashes three times, emitting a
+wave after the third. Jump to
+dodge it and don't reprise.
+Laser Wave: Hivolt flies to the
+top of the screen, firing
+tracking beams. At first, be
+where the beams are not. Then go
+to where they once were. Rush:
+Hivolt will rush at you. Jump
+over him. Thunder Arc: He'll arc
+thunder on the ground. This is a
+rare attack, but it can be
+avoided by being behind him when
+he uses it.
+
+Despite his big talk, Hivolt's a
+pansy. Aim for his legs and
+blast the heck out of him,
+making certain to hit him when
+he returns to the field after
+his attacks. Don't waste time,
+just get in there and fight. If
+you have LX, the fight becomes
+sickeningly easy - you can
+debilitate him in just about any
+case, ending him before he can
+even damage you.
+
+
+Now that Hivolt's taking a dirt
+nap, Model H thanks you for his
+freedom. However, he's been
+split into two, and the other
+password is with another
+Pseudoroid. Anyway, make your
+report, but you might want to
+check out E-8 first. It's
+entirely optional, but go ahead
+and do it anyway. You can also
+disable the fountain at C-2 for
+easy Transerver access.
+
+With that out of the way, you
+unlock a new mission in Area I
+now that you have a Green Card
+Key. Of course, now would not be
+the best time to pursue it; it
+can be difficult.
+
+Another thing: based on how many
+times you abused the Biometal
+frame, you will get a Biometal
+piece of a level between 1 and
+4. The more you abuse the frame,
+the lower the level you'll get,
+but the more damage you do to
+the Pseudoroid. So if you want
+it easy, abuse the weak point,
+but otherwise just stay clear.
+If you do damage the Biometal
+piece, you can have Fleuve
+repair it. It costs 40 for
+Lv1->Lv2, 100 for Lv2->Lv3, and
+200 for Lv3->Lv4. That's on
+Easy. Multiply by 5 for Normal
+and 50 for Hard. That's a LOT of
+E-Crystals. As a side note, you
+get a plushie of a Pseudoroid if
+you get a Lv4 finish on it.
+Later on, after [AHOY],
+PSeudoroids will regenerate
+based on who you killed first in
+a group of five. So if you're
+not willing to spend E-Crystals
+to repair a Biometal frame, you
+can always aim for a higher
+level finish against that
+Pseudoroid. The capacity for
+energy is based on the highest
+level of repair or acquisition,
+so you won't lose capacity for a
+poorer performance.
+
+"Find the Survivors" [SECF]
+Client: Prairie
+Destination: Area F
+Award: 200 EC, Blue Card Key
+
+To get to Area F, go to B-2,
+either through D-1 or through
+the B-2 transerver. From there,
+go to B-1 and then B-3.
+
+B-3 You can climb up the wall
+with HX for 32 E-Crystals and a
+Retry. There's also a Life XL,
+but you need human form to get
+to it. Anyway, move and maul
+your way up to the entrance to
+F-1.
+
+F-1 This is the area where the
+distress signal's coming from,
+but you need to get closer to
+its source. Move and maul as
+usual. Remember, this place is
+cold, so HX might not be the
+best choice.
+
+F-2 This is an underwater area.
+Remember that to avoid getting
+unnecessarily bogged down. The
+Galleon Divers can be busted by
+breaching the air pipes. There
+are some ice blocks denying your
+access to the upper areas.
+You'll need FX to break through
+those, I'm afraid.
+
+F-3 This is where the signal is
+coming from, but there's nobody
+here. Climb upwards and find the
+source, as well as another
+Crushpactor wanting to turn you
+into a greasy pancake. Pop it
+like its brother and move on to
+the terminal where the signal's
+coming from. By the way, there
+are some ice blocks on the floor
+that you need FX to destroy.
+
+With the Crushpactor needing
+recycling, it seems there's
+nobody at the distress beacon
+point, but there is a disk
+there. Upon further examination,
+it's from the first commander's
+recon unit! Vent's story
+mentions that it was on Model W
+and that one man went on to
+decimate the squad - Aile's
+story mentions all that, plus
+that one man was Serpent! Well,
+we know how Serpent got his
+hands on Model W now... there's
+a door leading deeper. You don't
+know the code, but Prairie's
+going to hack her way in and
+find out. She'll have it
+unlocked by the time you arrive.
+
+F-4 Another underwater area, and
+this one has spikes. Be very
+careful here. There's a data
+disk here that you need LX to
+get. You'll be getting LX REAL
+soon.
+
+F-5 Another boss coming up from
+the shape of the shutters.
+Lurerre wants you dead to keep
+the data on that disk from
+leaking out. You're taking that
+thing with you, and she isn't
+gonna get in your way... right?
+
+BOSS: Pseudoroid L Lurerre
+Abysroid 2 layers Element: Ice
+Biometal Frame: Lure head
+
+Ice Shards: Lurerre will fire
+ice shards at you. You can jump
+over them. Snowflake: Lurerre
+will launch a spiked ball of ice
+that drops snowflakes. These
+form frosty spikes that are
+dangerous - not lethal - to
+touch. You can bust them,
+however. Ice Beam: Lurerre fires
+a thick ice beam. Stick to the
+back and jump all the way over
+it. Fish Missile: Lurerre will
+raise her fish body up and have
+it fire a missile at you while
+she rains ice shards on you. You
+can damage the fish without
+damaging the Biometal, so do it!
+Fish Rush: She'll disappear and
+her fish will rush you. Get to
+the left end of the arena to
+dodge it! You can damage the
+fish head as it rushes you, too!
+
+Lurerre isn't that hard to deal
+with - the spot on her head is
+small, but if she's throwing ice
+shards it can be easy to hit
+that spot. Watch your attacks
+and counter accordingly.
+Remember that whole fish head is
+vulnerable, so attack it when it
+emerges.
+
+
+Once Lurerre goes belly-up,
+Model L thanks you for springing
+her. Again, half the password,
+and the other one that has it is
+elsewhere - probably with the
+missing half of the data. Model
+L manages to learn that someone
+actually bested Model Z, and
+that drives it to cooperate with
+you. Anyway, get your prize and
+the Blue Card Key, which allows
+you to go to Area J for "Recover
+the Disk" [SECJ]. Don't go there
+yet; it's a little tough for you
+now.
+
+"Fight the Mavericks" [SECG]
+Client: Prairie Destination:
+Area G Award: 200 plus 50 per
+civilian after that (Max of
+400), Red Card Key.
+
+You need to get to Area G for
+this one, and the only way is
+through Area D. The game forced
+you back to base before you
+could get to the Transerver, so
+you'll have to hike all the way
+through Areas D-1 and D-2 again.
+Go through the Transerver to get
+to Area D-3.
+
+D-3 There's no way to the upper
+area, but you'll have to come
+here later anyway. For now, just
+cut through and move on to Area
+G-1.
+
+G-1 The whole area is on fire!
+Rush on through, killing
+anything in sight! Remember, HX
+is the form to use, but watch
+the energy levels and fill up if
+you're getting low. Otherwise,
+move and maul. Maquereau will
+have you go in to rescue
+civilians and even Guardians
+trapped inside.
+
+G-2/G-3/G-4 The whole room is on
+fire, so watch your step and use
+HX judiciously. Remember that
+civilians will panic unless
+you're human when you talk to
+them. Remember that to minimize
+the time spent here. Work from
+B-1 up and rescue everyone you
+can. Once you get eight, you
+gain access to the 8th floor,
+but you should rescue the others
+anyway.
+
+G-5 Move across the rooftops,
+but try to conserve health.
+You'll need it for who's at the
+other end of this madness.
+
+BOSS: Pseudoroid F Fistleo
+Predatoroid 2 layers Element:
+Fire Biometal Frame: Head
+
+Burning Rush: He'll rush at you,
+setting the ground ablaze. Avoid
+this. Light Spark: He'll set
+three light sparks - one on his
+hands, and two where you are.
+You can strike his back twice
+during this if you can get
+there. Aura: He'll heal himself
+during this time. Strike him in
+the back if you have a chance to
+interrupt. Block Buster: He'll
+knock blocks from the ceiling
+and then rush through him. You
+can attack his back afterwards,
+but make it quick. Counter
+Stance: If you get near him when
+his back is turned, he'll grab
+you and throw you around. Wait
+it out. Blazing Rush: He'll jump
+to the wall and rush, leaving
+four fireballs behind him. Dodge
+them by air dashing through the
+gap he leaves behind.
+
+Fistleo is a pain because of the
+Biometal frame and the few
+chances you have to hit his
+back. Still, avoid his attacks
+and wait for your opportunity to
+strike. His healing makes it
+even more annoying because it
+reverses the damage you do to
+him. You can use regular slashes
+to save energy and undo the
+damage he recovers.
+
+
+Anyway, with Fistleo's ninth
+life expiring, Model F thanks
+you and wants to get to kicking
+more ass. Again, he's been split
+in half, and another Pseudoroid
+has the other half of his data.
+In any case, get your reward and
+the Red Card Key. The Transerver
+is also the sprinkler controls,
+so use those to clean up the
+mess Fistleo made. Again,
+another mission comes up now
+that you have your card key, and
+this one you MUST ignore. It
+will eat an unprepared player
+alive.
+
+"Secure the Biometal" [SECH]
+Client: Prairie
+Destination: Area H-4
+Award: 200 EC, Purple Card Key
+
+Remember Area A-1? That yellow
+door atop the hill on the right?
+That's where you need to go. It
+leads to A-3.
+
+A-3 Move and maul. There's only
+one non-yellow door you can take
+because you don't have the
+purple keycard. You can try for
+an apple by smashing the tree
+with FX, but it doesn't always
+drop.
+
+H-1 An amusement park. Your
+character will freak for a
+moment here. Anyway, move and
+maul.
+
+H-2 Giant Mettaur! Smash it in
+the face, and be quick about it!
+
+After a talk with Prairie, it's
+time to continue onward. It
+seemed that this wasn't just a
+Maverick attack, but THE attack
+which kacked your mom ten years
+back. In any case, go to H-3.
+
+H-3 You can get a candy here if
+you're lucky. In any case, climb
+up, proceed onward, and get past
+the blimp room. I hope you got a
+bit of focus after this manic
+stage...
+
+H-4 ...because you've got a
+Pseudoroid right around the
+corner!
+
+BOSS: Pseudoroid P Purprill
+Mandroid 2 layers Biometal
+Frame: Arms
+
+Bomb Launch: Purprill will
+launch three bombs and then
+grapple the rope above him. The
+bombs' explosions linger, so
+stay clear. Mine Toss: Purprill
+will toss mines. They will
+detonate after a while, so leave
+them be. Rush: Purprill will
+rush towards your side, jump on
+the wall, then jump off and
+hang. Shoot his legs now! Blade
+Spin: Purprill will roll up and
+spin at you. He'll bounce off
+the walls on the way up and on
+the way down, but one variant
+has him sticking in the wall and
+drilling out rocks! Get clear!
+
+Purprill can be almost
+everywhere at once, but as long
+as you don't surrender to panic,
+you'll have this fight soon
+enough. Remember, his big
+frickin' arms are where the
+Biometal frame is, so don't
+shoot unless they're away from
+his body. When he's hanging,
+that is the best time to strike.
+
+
+"Drowning in his own power...
+what an appropriate end for a
+low-life that wanted it so
+badly." Damn, Model P says some
+of the coolest stuff. In any
+case, his loyalty to his cause
+means he's joining up with you,
+but his data is split like all
+the rest. "As long as that
+Pseudoroid is operational, you
+will never reach Model W."
+Predictably enough, he's right.
+In any case, report mission
+completion. There's a new
+mission, but you might want to
+wait on it.
+
+"Protect HQ" [AHOY]
+
+With four Pseudoroids down,
+Slither Inc. needs a way to slow
+you down, and what better way
+than to kill two birds with one
+bomb? He plans to take out the
+Guardian HQ and everyone
+onboard! Get your ass back there
+A.S.A.NOW!
+
+Everyone's gone into hiding or
+manning the turrets, leaving
+Prairie and the operators in the
+control room. And sure enough,
+they need you to help them take
+out the enemy as they try to
+board the ship. Go up to deck
+and put the irate back into
+those pirates! I find that PX
+kills the transports real fast.
+
+WARNING: Once you take out the
+warship, you will not be able to
+save until the danger has
+passed. You have been warned.
+
+OK, so those two bitches
+Prometheus and Pandora are
+aboard, as are an assload of
+Galleons. Let none survive! If
+you need to restore your Sub
+Tanks, make certain to do it
+before going to L1. The enemy
+will blow holes in the bottom,
+and if you fall, not even HX can
+save you from that height.
+Speaking of HX, you'll love it
+for the next fight, but you'll
+auto-switch to ZX once you enter
+the room.
+
+BOSS: Prometheus
+2 layers
+Element: Fire
+
+Pandemonium: Prometheus will set
+a series of explosions off in
+the arena, trailing down one
+wall, across the floor, and up
+the other. Dodge it. Chaos
+Flame: Prometheus will create
+four flames which shoot their
+own shots at you. They do this
+four times before Prometheus
+leaves, but you can damage him
+during this time with HX's OIS,
+and does it damage him badly!
+Dark Tempest: Prometheus will
+rush you and emit a shockwave
+from his scythe, and then rise
+up while spinning it. You can
+stop him for a moment with your
+Buster to get around him.
+
+Once Prometheus has been punked,
+he'll talk some more. In Aile's
+story, he'll claim that she's
+part of the game now, and that
+Model W will be waiting with
+open arms when she comes.
+
+Prairie comes in and brings you
+back to the command center. She
+then explains herself. To Aile,
+she says that she was originally
+ordered by Sis to watch over
+those who survived the Maverick
+raids. She doubted the order
+until she saw Giro use Model Z
+himself. That's as much as she
+knows.
+
+In any case, you have new
+missions and some new things to
+get, too. Go for it!
+
+"Save the People" [SECI]
+Client: Prairie
+Destination: Area I-3
+Award: 200 EC
+
+Trans to E-7 and jump inside
+I-1.
+
+I-1 It's raining, and Prairie
+tells you what you need to know.
+The weather should suggest that
+strong winds will come into
+play. You'll see where, though.
+In any case, move and maul.
+There's a weak spot in the
+spiked wall on the other side,
+but you miss a ton of stuff if
+you take that route. Take it on
+the way back; I'll explain why.
+
+I-2 There are two routes: right
+and down. Go down for now. On
+the way, switch to PX; things
+are going to get a bit dark
+here. PX can see further in the
+dark, and Radarscope tells you
+the rest. Move and maul, baby.
+
+I-4 There's a miniboss in this
+area. Switch to FX and align
+your shots as follows. (U=Up,
+D=Down, F=Forward) Arm 1: UUUF
+Arm 2: DF
+
+This way, you'll always hit the
+face of the miniboss unless it's
+going to swoop at you. Dash
+under it when it prepares to
+swoop, dodge the lasers, and
+shoot like a maniac the rest of
+the time from the opposite
+corner of the miniboss.
+
+With it toast, move and maul.
+That simple. You can grab a
+couple of disks with HX and a
+little electricity, but just be
+careful of the spikes.
+
+I-3 Drop down and load up your
+Sub Tanks, then switch to LX and
+prepare for battle.
+
+BOSS: Pseudoroid H Hurricaune
+Wolveroid 2 layers Element:
+Thunder Biometal Frame: Head and
+neck
+
+Drill Wind: Hurricaune will jump
+into the air, then slowly
+descend with a hurricane. If
+allowed to land, she'll spread
+electricity through the ground.
+On the way down is a PRIME
+opportunity for LX to attack.
+Twister: Hurricaune will prepare
+two twisters and send them
+forward. You can dash-jump off a
+wall over them, or dash under
+some of them. Sonic Slicer:
+Hurricaune will shoot a sonic
+blade that splits into two when
+it hits a wall. Dash-jump over
+this or dash under it. If she
+has her back exposed and you can
+get behind her, STRIKE! Cyclone:
+Hurricaune will get into the
+center of the arena and form a
+strong whirlwind, launching
+energy waves from the center.
+Jump over the bottom waves only,
+and don't grab a wall! Don't
+attempt to counter, either.
+
+Hurricaune talks big, but she's
+a wuss underneath it when you
+bring LX to bear. Strike where I
+tell you to, and this is over
+before you know it.
+
+
+With Hurricaune toast, Model H
+will be complete, but he doesn't
+have the password ready. Don't
+worry; with all the data put
+together, he'll have it ready
+before you have to face Model W.
+In any case, retreat and go
+through the door where the
+Galleons are floating. You will
+also note, if this is your fifth
+Pseudoroid, one of the others
+has resurrected. You can fight a
+Pseudoroid again to get a Lv4
+finish if you didn't already do
+so. It's a good idea to go for
+that, trust me.
+
+Back at I-1, move and maul for
+two chambers, then crawl out the
+passage and return to I-2. Now
+take the top route. You'll see a
+spiked path; you'll need HX to
+fly through it, so do it
+carefully.
+
+I-5 Remember that Diadrake
+miniboss you fought earlier?
+This is another version. Use Arm
+1 to shoot its face and Arm 2 to
+shoot down the missiles it
+fires, as well as its tail if it
+dislodges. After it croaks, move
+and maul onward until you reach
+a platform that's unpowered -
+the kind a Platform Cannon would
+ride. Once there, charge HX to
+max and hold up while releasing
+to send the platform upward.
+Once it lands, do it again and
+grab the Life Up. From there, go
+straight ahead and onward, past
+Hurricaune's remains, and pop
+the lock to complete the
+mission.
+
+Once you return to town, check
+on Leonardo and he'll hand over
+an Absorber chip if you pester
+him. He's in the building right
+next to the fountain in C-2.
+
+"Recover the Disk" [SECJ]
+Client: Prairie
+Destination: Area J-5
+Award: 200 EC
+
+You'll have to trek to Area A-4
+from the A-2 Transerver, so hop
+to it! It's the only way into
+Area J, since it doesn't have a
+Transerver. In Area A-1, at the
+far right, there's a door
+between two mounds. Drop there
+and enter.
+
+A-4 There's a way up and a crawl
+hole up ahead. Take the crawl
+hole.
+
+J-1 You get a report from
+Prairie, but what's more
+important is the fact that this
+entire zone is waterlogged. This
+makes it ideal for LX! Take it
+for a test drive here!
+
+Anyway, you'll come to a four-
+way split, including the way you
+came from, to the left. Up is a
+Terminal, down is a Life Up, and
+right is J-2.
+
+J-2 Ride the waters using LX and
+move carefully through here.
+It's an aquatic move and maul,
+but the spikes warrant caution.
+
+J-3 There's a miniboss here.
+Stand atop the boss and strike
+it with your halberd whenever it
+attacks. It'll be over soon
+enough.
+
+There are a variety of items
+here you can get, but many are
+protected by spikes. Be careful.
+And you know what's coming next
+once you get to the door...
+
+J-5 You've found the Data Disk
+and the Pseudoroid guarding it!
+He thinks people don't deserve
+to know what's on that disk.
+Well, he may be right... but not
+for the right reasons!
+
+BOSS: Pseudoroid L Leganchor
+Gelroid 2 layers Element: Ice
+Biometal Frame: Upper head
+
+Frost Eel: He'll launch these
+out of his mouth. Just blast the
+face anyway. Searchlight: He'll
+use this to seek you out and
+then shoot harpoons if he spots
+you. Keep moving. Harpoons:
+He'll launch his harpoons into
+the ground and freeze it a bit.
+You can't climb the walls
+anymore, but you don't have to.
+Whirlpool: He'll spin whirlpools
+to try to suck you in. Mash the
+control pad if you get sucked in
+to break free. Dive: He'll dive
+underwater, knocking water up on
+the walls. He only does this if
+you're above the surface, but
+you don't even HAVE to see this
+attack.
+
+This is clearly the easiest
+Pseudoroid to 4-rank. Simply go
+into OIS long enough to shoot
+his head from below. Repeat that
+when he can take damage again
+and it'll all be over real soon.
+
+
+A complete Model L and the Data
+Disk is in your hands. This
+fills in the gaps from the other
+one and explains that Serpent
+survived the attacks as well.
+Now you need to get back to J-1
+to file your report. Move
+further on and proceed through
+the doors, picking up the Life L
+if you need it. Now go through
+J-4 to J-2 and from there to J-1
+and make your report.
+
+"Attack the Excavators" [SECK]
+Client: Prairie
+Destination: Area K-4
+Award: 200 EC
+
+You need to get to C-3 and go to
+Area K from there. Nothing much
+to see in C-3, really.
+
+K-1 OK, there are geysers here,
+some with platforms, some
+without. If you're caught
+between a platform and the
+ground, I hope you enjoy being
+two-dimensional, as that means
+instant death. Basically, this
+place is one giant death trap.
+Tread lightly. Once you reach
+the door and the giant geyser,
+prepare for a mini-boss in K-2.
+
+K-2 The miniboss dies all too
+fast from an OIS Whirlwind, but
+he's easy otherwise. That's it
+for this area. You fall down
+once it's dead, though.
+
+K-3 Maquereau tells you that
+there's a device to control the
+lava flow in this region. You
+might want to look into it. Go
+up to K-5 if you want to find
+it, otherwise go to K-4 by going
+straight.
+
+K-5 You're right inside a
+volcanic tunnel, and the lava's
+chasing right after you! Climb
+up like there's no tomorrow, and
+whatever you do, DON'T STOP!
+
+Through the door and back in
+K-1, drop into the first pit and
+you'll find a door to the
+controls. Set the flow to Slow
+to make things easier, but by no
+means easy. Remember, contact
+with lava is fatal. There's a
+shutter here, but that's for the
+Sub Tank, and I'll cover that in
+its proper section. For now,
+take the trolley back, jump in
+the hole, and go to K-4.
+
+K-4 More lava! Remember, contact
+is fatal, so dash all the way to
+the right and don't stop for
+anything until you reach the
+boss shutters!
+
+After all that, you face the
+boss. He's no fun, I'll tell you
+now.
+
+BOSS: Pseudoroid F Flammole
+Moleroid 2 layers Element: Fire
+Biometal Frame: Arms
+
+Flamethrower: Flammole will
+launch a stream of flame at you.
+Dash jump over it off a wall.
+Fireblast: Flammole will shoot
+four balls of molten lava. Avoid
+them. Dig: Flammole will dig.
+One variation has him moving
+back and forth through the
+ground. The other has him moving
+up and down, burrowing from
+ceiling and floor. Dodge the
+first by hanging on the wall and
+the second by moving back and
+forth. Shoot his legs when he
+goes into the ground and not a
+second before. Eruption:
+Flammole will strike the ground
+thrice, the first two with one
+arm and the last with both.
+Wall-jump to dodge the first two
+and stay perfectly still to
+dodge the third.
+
+Just like with Purprill,
+Flammole's arms are the Biometal
+frame. Time your attacks to
+avoid hitting them - when he's
+drilling up and down is ideal,
+but you can skim his back if
+you're a good shot. X is a good
+form, but ZX will do as well.
+
+
+With Flammole dead, you now have
+a complete FX. Move on to the
+transerver to report completion.
+If you want, you can do missions
+in this area, but be ready for
+some hair-yanking moments.
+
+"Protect the Lab" [SECL]
+Client: Prairie
+Destination: Area L-4
+Award: 200 EC
+
+To get to Area L, you need to
+trans to A-2 and go through the
+Powmettaur in H-2. The purple
+door there leads to L-1.
+
+Area L is a plain rush - go
+through and kill everything in
+sight. Remember that the blue
+arrays reverse controls and stop
+jamming, while the red arrays
+jam your weapons. And what do
+you know... the boss has the
+data you came to grab! Another
+reason to kill him!
+
+BOSS: Pseudoroid P Protectos
+Goreroid 2 layers Biometal
+Frame: His belly
+
+Missiles: He'll launch four
+micro missiles which seek you.
+They're insignificant. Plasma
+Bombs: He'll shoot three plasma
+bombs on each side of him. Blue
+explode horizontally, red
+explode vertically, and green
+vanish only to explode later.
+You can attack him by standing
+where a red or green is, but
+make certain you can get his
+face. Stomp: He'll drop down
+from the top in an attempt to
+stomp you. Watch out! Nuke:
+He'll launch a nuke and then
+hole up. Get behind him to avoid
+the blast! Barrier: He'll erect
+a barrier to protect himself.
+Shoot at his feet to dispel it
+without risk.
+
+Protectos is a big softy
+underneath his hardened
+exterior. Whenever he's moving,
+shoot him in the face with X,
+ZX, or even PX (lowest level,
+lest you risk hitting the
+Biometal frame). FX can hit him
+no matter where he is with some
+clever buster editing. Watch him
+when he launches the nuke, and
+be patient above all else.
+
+
+"O, how the mighty have fallen.
+Strong armor is nothing compared
+to the power of will." Yep,
+Model P has some of the best
+quotes. In any case, he's
+complete, and now you have a
+data disk. Vent's disk has more
+info on Model W, while Aile's is
+a message meant for her from the
+first commander. The data's
+corrupt now, but you'll get to
+restore it back at Guardian HQ.
+
+"Stop the Dig" [SECM]
+Client: Prairie
+Destination: Area M
+Award: 200 EC
+
+With all the Pseudoroids smashed
+and the Biometals reassembled,
+it's time to return to HQ, where
+Prairie will have finished
+decoding that disk that you
+found on Protectos' remains. The
+passwords will be reassembled
+after you finish receiving the
+message. In any case, you now
+have a new mission - to
+intercept Slither Inc., who is
+currently digging in Area M for
+Model W. Remember Area A-4? Go
+back to the crawl hole, except
+go up this time. You'll find the
+door to Area M soon.
+
+M-1 "I am the wind that blows
+through the sky, Ventus Airus."
+"I am the water that flows
+across the land, Glacius
+Passio." "I am the fire that
+brings heat to all life, Flamma
+Wies." "I am the shadow that
+never leaves the side of
+justice, Umbra Profess." "I am
+the light that illuminates all
+possibilities, Lumine
+Infinitus..." "I am the courage
+that fights for believes,
+Fortitude Creed..."
+
+With those six, the lock is
+open. Go forth and kill another
+flier boss. From there, move and
+maul.
+
+M-2 More move and maul, except
+you can use HX to fly over the
+spikes or FX to bust the blocks.
+In any case, the second room
+requires LX to navigate.
+
+M-3 Not much further... just
+move and maul. Beyond the door
+is a bragging Serpent and...
+
+BOSS: Pandora
+2 layers
+Element: Variable
+
+Thunderspark: Pandora shoots
+electric sparks at you. It's
+possible to dodge them, but be
+quick to attack or she'll get
+going with it, and that's a
+pain. She's weak to Ice in this
+state. Ride: She'll ride her
+staff like a broomstick. Dodge
+it with some clever footwork.
+Frost Jar: She'll form a jar out
+of ice and slide it across the
+room. Avoid it by staying on the
+walls, attack while she's
+forming it. She's weak to Fire
+in this state. Ice Bit: She'll
+use the two bits on her head to
+shoot you with ice shards. Abuse
+them until they leave you alone.
+Thunder Bit: She'll use the two
+bits to form an electric column.
+Counter by striking them before
+they electrocute you to death!
+
+
+It seems Pandora distracted you
+long enough for Serpent to
+extract the Model W Core.
+Fighting is breaking out in Area
+O, so get back to HQ ASAP!
+There's a whole other area
+beyond, but I'll cover it after
+the game.
+
+"Repel the Army" [SECO]
+Client: Prairie
+Destination: Area O
+Award: None
+
+Trans to D-2 and go to D-3 from
+there. There was a ladder
+leading up that was retracted
+earlier, but it's extended now.
+Climb up and prepare to fight.
+
+O-1 Prairie radios you again -
+for the last time - and it's
+time to get rolling. I hope you
+have PX ready to roll, because
+Slither Inc. has a dropship
+waiting for you.
+
+O-2 You'll find Galleon Burners
+that are a serious threat, so
+take them out on your way to the
+Transerver. From there, go
+forward and take out a
+Tentalamia, and keep going until
+you reach the end for more
+garbage from P&P.
+
+BOSS: Pandora/Prometheus Tag
+Team 3 layers Element: Variable
+
+Pandora and Prometheus have all
+the attacks from before, so
+there's nothing new to see here.
+There is one where Pandora uses
+her bits to shoot both elements
+at you, and Prometheus dives
+down and scatters fire
+afterwards. Other than that, all
+old hat. Take 'em down.
+
+Prairie gives you one last
+speech before sending you off on
+the final mission. Take the time
+to prepare; it's a doozy.
+
+"Destroy Model W" [EVIL]
+Client: Prairie
+Destination: Area D-4/D-5
+Award: Game Clear
+
+Return to the place where you
+fought Giro. That's the entrance
+to Slither Inc.'s main office.
+Get ready for a fight; it's
+going to be one grueling march
+all the way to the top.
+
+D-4 Move and maul, making your
+way to the lift. Once you're
+there, there's no route back.
+Ascend and kill everything in
+your path.
+
+The first door is where you
+switch to LX; I like to call it
+Harpuia's Floor, since
+everything here is a H
+Pseudoroid. Kill them both the
+same way you did before and move
+on. At the top of this lift,
+switch to FX; this is
+Leviathan's floor for the same
+reason the one below was
+Harpuia's floor.
+
+Beyond that room is a lobby, so
+kill everything to build your
+Sub Tanks; the next two are
+brutal. First is Fefnir's floor,
+and then there's Phantom's
+floor. Before you go into the
+last telepod chamber, you can
+climb up and pick up a Life L
+and Retry if you need them.
+
+D-5 We're in the home stretch.
+Move on forward and kill
+everything. Don't forget to max
+your Sub Tanks; it all ends
+here.
+
+BOSS: Serpent (Model W)(Phase 1)
+3 layers
+
+V-Shot: Serpent fires five
+bullets in a V formation - one
+going at you to pin you, the
+other coming down to strike.
+Dash-jump off a wall for the
+first variant, dash away from
+the second. Power Orb: Serpent
+charges an energy orb and fires
+it at you. You can abuse it to
+purify its polarity, and use it
+to damage Serpent instead.
+Slide: He slides, Classic style.
+Stay clear. Dark Boost: He
+performs a nasty uppercut like a
+Shouryuken. You can dodge this,
+but he does pull it out
+suddenly. Dark Kick: OK, did
+Capcom play Super Smash
+Brothers? After he teleports,
+Serpent does a Falcon Kick to
+your head with this. Dash away
+once you see him warp out. Dark
+Aura: Yes, just like you, he has
+an Overdrive. This amplifies his
+attacks and remains throughout
+the battle. Stay alert.
+
+After breaking Serpent, he
+claims that hate is the true
+power to drive Model W, and
+then, like every other final
+boss in Mega Man history,
+transforms into a larger - and
+more grotesque - form. The
+difference between them and
+Serpent is that Serpent does it
+in full-on anime form. It's not
+over yet, bucko; not by a
+longshot.
+
+FINAL BOSS: Serpent (Model
+W)(Phase 2) 1 layer per form, 3
+forms
+
+Crystal Smash (1/3): Serpent
+forms a crystal and smashes it
+with his hand. Dodge the shards.
+The advanced form uses a larger
+crystal and spreads more shards,
+and you must dodge the hands as
+well. Meteors (1/2): Serpent
+drops four meteors and leaves
+behind two will-o-wisps from
+each, each closing in on you.
+They're fragile, however. Plasma
+Sphere (1/2): Serpent will shoot
+plasma spheres that split into
+fragments when they hit the
+ground or an attack. They
+fragments go diagonally, so stay
+horizontal and you're clear.
+Dark Matter (2/3): Serpent forms
+a vortex to suck in dark matter,
+and then spews it back out. It
+doesn't damage, but it slows
+your movement so you are more
+susceptible to attack. It melts
+right off the Chameleon Veil,
+however. Tracker (2/3): Serpent
+fires two tracking beacons. An
+energy chain will drain life
+from you if one of them hits, so
+get clear! Doom Nail (3):
+Serpent fires energy balls from
+his nails. Avoid them by jumping
+or dashing.
+
+With that, it's over. Sit back
+and enjoy the end of the story.
+But it's not over yet...
+
+Hard Mode: You unlock this after
+beating the game once on Normal.
+Retain X: If you beat the game
+with both characters at least on
+Normal, you can retain Model X
+after obtaining ZX.
+
+Save your game and see what the
+Area N has to offer!
+
+Overfiend's Legacy [SECN]
+
+This is an optional area you can
+investigate, but it has some
+neat stuff in it. From the M-3
+Transerver, go due right into
+N-1.
+
+You have to destroy some Relic
+Bosses to acquire the Mysterious
+Rock that is Biometal O. For one
+of the doors before the vault,
+you need Mega Man Zero 3 in the
+GBA slot; the other requires
+Mega Man Zero 4. To get Biometal
+O, you can either destroy the
+eight Relic Bosses in the Zero
+Chambers or you can destroy
+Omega. Take your pick. For those
+without both games, you don't
+have a choice.
+
+RELIC BOSS: Deathtanz Mantisk
+2 layers
+
+Rolling Sickle: DM will launch a
+scythe into the wall, and it
+rolls around back to him. Jump
+it and reprise. Thousand Slash:
+DM will fire a laser into the
+air, dislodging a rock. He'll
+then slice it up, sending it at
+you. You can bust the rock and
+damage him if you're good
+enough. Sickle Launch: DM will
+fire his arm at you, then reel
+it back in extended. You can
+attack him. Leaping Slash: DM
+will jump onto a wall, then drop
+onto you with a fast slash. Dash
+behind him and counter!
+
+RELIC BOSS: Devilbat Schilt
+2 layers
+Element: Thunder
+
+Bolt Launch: DB will fire
+electric balls at you that
+bounce off the walls. Stay high
+to dodge. Bat Launch: DB will
+fire bats out of his cape. Get
+behind him to dodge, but shoot
+his face first. Thunder Smash:
+DB will fire a bolt down that
+splits into electric balls that
+speed across the floor and
+walls. Jump over them. Sonic
+Wave: DB will fire sonic waves
+from his cloak. He can be struck
+at this time.
+
+RELIC BOSS: Childre Inarabbita
+2 layers
+Element: Ice
+
+Torpedo Launch: CI will launch
+torpedoes at you. You can attack
+him during this time. Frost
+Dive: CI will climb the walls
+and dive after you once
+offscreen. Prepare to dodge and
+reprise once he lands. Fragment
+Bomb: CI will climb the walls
+and leave fragment bombs that
+rain debris, complicating
+movements. Throw Blade: CI will
+launch a large ice blade from
+his head and ears. Jump to
+dodge.
+
+RELIC BOSS: Blazin Flizard
+2 layers
+Element: Fire
+
+Frill Launch: BF will launch his
+frill around the room. Look out
+for it and attack. Fire Shot: BF
+will launch three balls of fire
+into the air. Dash away or get
+on the wall to dodge. Spread
+Fire: BF will spray fire around
+the room. Dodge it by jumping
+between the lines. Flamethrower:
+BF will spray fire from his arm.
+You can't shoot through it, but
+you can nail him from behind.
+
+RELIC BOSS: Pegasolta Eclair
+2 layers
+Element: Thunder
+
+Thunder Beam: PE will fire a
+thunder beam after charging up.
+Dash under it on the lower
+platform to dodge. Thunder Shot:
+PE will fire two bolts down at
+the ground. If both are on solid
+ground, they'll fire an energy
+bolt to link them together. You
+can dodge this by jumping over
+the first shot. Rush: PE will
+rush you in a zig-zag pattern.
+The third rush determines how to
+dodge, but reprise as he does
+it. Thunder Stab: PE will charge
+and retreat, then rush you. You
+can't attack him in this state.
+Pounce: PE will try to pounce on
+you. Dash away to dodge it.
+
+RELIC BOSS: Sol Titanion
+2 layers
+Element: Fire
+
+Twin Wing: ST will launch her
+wings to try to damage you. Blue
+zip towards your corner and then
+rush up or back; red fly in a
+curved pattern. Try to jump over
+them. Flamethrower: ST will use
+a flamethrower to set you on
+fire. Dash underneath it when it
+wanes. Fire Bomb: ST will set
+fire bombs on the ground. You
+can bust them through saber or
+dashing buster attacks. Blast
+Shot: ST will fire a ball of
+energy at you which splits into
+six parts. Jump over it to
+dodge.
+
+RELIC BOSS: Fenri Lunaedge
+2 layers
+Element: Ice
+
+Ice Wave: FL will throw an ice
+wave on the way up, two as he
+goes to the other wall, and a
+fourth on the way down. Tricky
+to dodge. Roll: FL will roll up
+and bounce around. Dash under
+him. Frozen Image: FL will
+create frosty afterimages of
+himself to slash at you. You can
+bust them with a powerful
+attack. Ice Blade: FL will throw
+two large blades on the floor
+and ceiling. Go over to dodge
+the first, then under for the
+second.
+
+RELIC BOSS: Noble Mandrago
+2 layers
+
+Regen: NM will recover health
+between attacks. Attack her with
+something hard afterwards. Seed
+Shot: NM will fire seeds at you.
+They do hurt, but what they can
+grow into is a bit more
+dangerous. Shoot them when they
+do sprout. Burrow: NM will dig
+into the ground. She spits honey
+as she emerges. If you get
+tagged, you become slippery and
+attract bee mechaniloids. It can
+be easily dodged. Spin: NM will
+spin around. One variant is
+ground only, the other goes up
+to strike from above. Dash under
+the second variant, but get up
+on the wall to be safe from
+both.
+
+Now, for those of you who want
+to fight Omega for kicks, or you
+don't have the games to get the
+Mysterious Rock, then head down
+the path below the Transerver
+door. Kill all enemies and
+carefully traverse the path made
+for you by the warp panels. On
+the way there and on the way
+back, you'll need HX to make
+this a safer trip. It's by no
+means safe, as the second half
+is a spike pit. Once you're
+through, prepare yourself.
+
+RELIC BOSS: Omega
+3 layers
+
+Hell Combo: Omega will dash at
+you, striking seven times on
+contact. If he touches you on
+Hard Mode with this, you're
+dead. Dash-jump over him to
+dodge this, or use PX's Shadow
+Dash. Heaven Splitter: Omega
+will perform a rising slash
+similar to Zero's throughout the
+X and Zero series. It's easy to
+dodge if you see it coming.
+Abyss Wave: Omega will jump and
+perform a spinning slash,
+emitting blades from the saber.
+Get clear. Tri-Combo: The
+infamous three-slash saber combo
+is used here. Stay clear to
+avoid it, because it will stop
+you cold. Saber Smash: Omega
+will smash the ground with his
+saber, causing rocks to fall.
+Look out. Shockwave: Omega will
+strike the ground with his fist,
+sending a shockwave at you.
+Dodge the bolts by moving away
+and jumping through the gaps.
+Recover: Omega emits a column of
+beams that restores his health.
+The column is harmless, but this
+is an annoyance. Buster Combo:
+Omega will use Zero's combo from
+X2 and X3 - two Buster shots
+followed by a Saber blade.
+
+However you slice it, Omega is
+tough. It's best if you buster
+him to death; HX, LX, and melee
+ZX are a path to suicide unless
+you use charged attacks in melee
+and ranged attacks almost
+exclusively the rest of the
+time. He will recover a lot;
+that's a given. Still, if you
+persevere, you will beat a boss
+that is almost as tough as
+Serpent himself. Good luck!
+
+Courier Requests [GIRO]
+
+"Find the Flower"
+Client: Michelle
+Requisite: Model HX
+Destination: Area A-1
+Award: 200 EC
+
+If you're doing this just after
+you get HX, you can grab a Sub
+Tank in A-2 on the way. Anyway,
+go to the far left of A-1, climb
+up, and go back right. If you
+see a purple thorny bush, drop
+on its left side and the
+flower's right there. Bring it
+to Michelle and go get your
+money.
+
+"Trim the Weeds"
+Client: Congre
+Requisite: Model HX, Aile only
+Destination: Area C-2
+Award: 200 EC
+
+Congre was supposed to pull
+those weeds atop the news
+building in Area C-2, but he's
+scared of heights. I tell ya,
+he's a panophobe. In any case,
+get there and chop the weeds up
+for an easy 200 EC. Not bad for
+a day's work.
+
+"Find the Boy"
+Client: Karen
+Requisite: Model FX
+Destination: Area G/1-G/2
+Award: 400 EC
+
+You need to find five kids. In
+order, talk to Kenny in 7F, the
+one in 5F, the one out the
+window in 7F, the one in the
+niche in B1, and then go outside
+and scale the wall as HX to find
+the last one. Once you find them
+all, report the mission's
+completion. Talk to Kenny (he's
+where you found Oeillet during
+the test) with armor and he'll
+hand you the Frog chip! Not bad.
+
+"Quiz Partner"/"Another Quiz"
+Client: Yu Requisite: Model FX,
+Vent only Destination: Area C-3
+Award: 50 EC, Pink Crystal for
+second
+
+The questions are simple enough.
+The name of the game is Dribble
+Trouble, and the tree is an
+Apple tree. You get a Pink
+Crystal after that. Now, once
+you rescue Jack from Hurricaune,
+hand him the Pink Crystal for an
+Ice Boots chip.
+
+"Purify the Lakes"
+Client: Thon
+Requisite: Repel Prometheus
+Destination: Area B-4
+Award: 300 EC
+
+There are boxes of neutralizer
+scattered around the area.
+Attacks will push them in, so
+PX's weapons are superior in
+this respect. Push them all in
+for a clear.
+
+"Find Mushroom" Client: Arcia
+Requisite: Repel Prometheus,
+Aile Only Destination: Area A-2
+Award: 200 EC, Ice Boots chip
+
+You'll find a mushroom shortly
+after arrival. That's well
+enough until you realize
+Mushroom's the name of her BIRD!
+That's right, Capcom pulled a
+fast one on you! In any case,
+make your way through towards
+the Whirling 44s. There should
+be a bird fluttering around that
+region, so grab it when
+possible. Bring it back for a
+sweet 200 EC and an even sweeter
+Ice Boots chip!
+
+"Sending a Letter"/"Sending
+Another Letter"/"Yet Another
+Letter"/"Not Another
+Letter"/"Guess What? A
+Letter"/"One More
+Letter"/"Deliver a Reply"
+Client: Truite (Last one is
+Melody) Requisite: Complete HX
+Destination: Area C-2 (Last one
+is Area X-1) Award: 100 EC + 50
+cumulative per letter, 100 EC
+for Melody's
+
+All you have to do is deliver
+letters to Melody to complete
+the mission. It's short and a
+bit annoying, but watch your
+wallet fatten! For Melody's
+letter, deliver it to Truite.
+
+"Find the Pearl"
+Client: Raven
+Requisite: Complete LX
+Destination: Area F-2
+Award: 300 EC
+
+In F-2, you'll find a bunch of
+clams. The one with the Cold
+Pearl is through a path only LX
+can traverse. Once you get the
+Cold Pearl, give it to Raven to
+complete the mission.
+
+"Find the Purse"
+Client: Luca
+Requisite: Complete LX
+Destination: Area B-2
+Award: 100 EC
+
+You remember where E-17 was
+found, right? It's right there.
+Go get it.
+
+"Gather the Screws"
+Client: Anguille
+Requisite: Complete FX
+Destination: Area K-3/K-4/K-5
+Award: 200 EC, Wind Boots chip
+
+It's OK to come back from the
+Transerver for this; that makes
+it easier to do the job. You
+can't get the Sub Tank this way,
+but whatever. The screws are in
+the following locations.
+
+Behind the rusted blocks in K-4
+(use FX to bust) Next to the
+lava in K-4 In lava in K-3,
+below where E-43 is found (use
+PX to hang) Near a chain
+launcher in K-5 Left side, top
+of the shaft in K-5
+
+Once you have them all, return
+them to Anguille to earn your
+fee and a Wind Boots chip!
+
+"Find the Rock"
+Client: Silure
+Requisite: Complete FX
+Destination: Area K-1
+Award: 200 EC
+
+Remember where E-22 is? It's
+there. Get it and bring it back.
+
+"Smash the Rock" Client: Silure
+Requisite: Find the Special Rock
+in the previous mission
+Destination: Area E-4 Award: 300
+EC, Extender Chip
+
+You remember the Sub Tank in
+Area E-4? Below that's a
+crusher. You must have the power
+on for this, so watch it. Hand
+the rock to Oeillet and she'll
+smash it open to reveal...
+CERATANIUM! Grab it and bring it
+back to Silure and he'll send
+you an Extender Chip on top of
+the 300 EC fee!
+
+"Clean the Room" Client: Robert
+Requisite: All Complete
+Biometals Destination: Area C-1
+Award: 200 EC
+
+All you have to do is bounce the
+balls into the bottom area. It's
+a little harder than it looks,
+but it's easy enough.
+
+"Deliver the Aid Kit"
+Client: Muguet
+Requisite: Complete PX
+Destination: Area L-1/L-2/L-3
+Award: 150 EC
+
+"Deliver the Energy Pack"
+Client: Rose
+Requisite: Complete PX
+Destination: Area L-1/L-2/L-3
+Award: 150 EC
+
+All you have to do is bust
+crates in Area L to find these
+and bring them back. These two
+are special in that they take
+place in the same area,
+alternate with each other
+(Muguet->Rose->Muguet, et al),
+are infinitely repeatable, and
+at the end of the third run for
+Rose, she'll add a Sub Tank on
+top of that!
+
+Upgrades and Goodies [ITEM]
+
+Life Ups (None in Hard) D-1:
+It's behind a sealed door. Drop
+into the pit near the second
+Capsule Shooter to find it. F-2:
+Break the ice with FX, then
+create a platform with LX. Ride
+the platform to the top of the
+water, then dash jump to the
+Life Up. Alternately, you can
+take damage and dash across the
+spikes like a madman. I-5: Power
+an unpowered platform with HX's
+Whirlwind twice, riding it the
+second time up. Alternately, you
+can take damage and climb the
+edge, but it's risky. J-1:
+Through the down path, there's a
+door leading to a room with a
+spiked floor. Water dash over to
+the Life Up.
+
+Sub Tanks E-4: It's on the lower
+level at the conveyor belts,
+guarded by a Bolt Face. A-2:
+It's high above the entrance
+from A-1. You'll need HX to get
+it. K-1: It's a good idea to
+slow down the lava flow first.
+Now rush into K-4 and run over
+to the rusted blocks, smashing
+them with FX before the lava
+reaches you! Use PX to find a
+secret door, then go down and
+press the button. From there,
+make your way back to the main
+route and hide in the boss
+shutters for a moment, then
+retreat to K-5 and climb back
+up. The door above the trolley's
+been unlocked, so go through it
+and traverse the boiling water
+to get a Sub Tank. X-1: Deliver
+three Energy Kits to Rose and
+she'll add this in. It's the
+only one you get in Hard, so
+you'll have to use E Tanks to
+substitute.
+
+Upgrade Chips Absorber: Pester
+Leonardo after rescuing him at
+I-3. This chip neutralizes all
+knockback. It's great for Aile!
+Eraser: Pester Carrelet after
+getting ZX. This allows you to
+slice bullets out of the air.
+It's a basic chip, but it's very
+effective for what it does.
+Extender: This extends the
+period of time you remain
+invulnerable after a hit. It's
+not much, but every moment
+counts. Featherweight: Bar will
+hand this over if you pester him
+after repelling Prometheus. It
+will allow you to walk safely
+across fragile surfaces. Frog:
+Speak to Kenny with armor after
+rescuing him during "Find the
+Boy" and he'll cough it up. This
+will increase traction on walls,
+making you slide down slower. It
+won't let you grip ice, however.
+Ice Boots: Arcia gives this out
+when you return Mushroom to her,
+or Jack gives it to you in
+exchange for a Pink Crystal.
+This chip allows you to move
+unimpaired on icy surfaces. You
+can't grip icy walls, however.
+Quick Charger: Once you have all
+complete Biometals, pester
+Fleuve to get this chip. It
+reduces charge time in half.
+Wind Boots: Return Anguille's
+screws to get this chip. It
+gives you added traction in the
+face of strong winds. It doesn't
+work when jumping, however.
+
+Goodies Orange: Max gives you
+one if you pester him. It
+restores 4 life. Candy: A random
+pickup from the crane game. It
+restores 4 life. Bread: Lucia
+gives some out when you pester
+her. It restores 6 life. E Tank:
+Cedre sells these for 200 EC. It
+restores 32 life. W Tank: You
+get this from abusing Prairie's
+doll. It restores 32 energy to
+all Biometal fragments. Smelling
+Salts: Scombresoce sells these
+for 10 EC. They dispel the
+effects of the satellite arrays
+in Area L.
+
+Disk Database [DISK]
+
+[B-01] Rayfly Where Found: B-2 -
+After Rayfly, above the door
+leading towards D-1. [B-02]
+Omega Where Found: N-1 - Near
+the bottom of the first area.
+[B-03] Giga Aspis Where Found:
+A-2 - It's literally right next
+to the Transerver door. You
+can't miss it. [B-04] Giro
+(Model Z) Where Found: D-2 -
+Outside the Transerver [B-05]
+Serpent (1st Form) Where Found:
+D-4 - Hanging in a chandelier.
+[B-06] Serpent (2nd Form) Where
+Found: D-5 - Inside a hidden
+passage after the two Whirling
+44s. [B-07] Purprill Where
+Found: H-4 - Knock out the Carom
+and Sky Boost up there. [B-08]
+Hivolt Where Found: E-8 - It's
+at the far end. [B-09]
+Hurricaune Where Found: I-3 -
+It's above the door leading back
+to I-1. [B-10] Pandora Where
+Found: M-3 - Outside the boss
+shutters behind some foreground
+debris. [B-11] Fistleo Where
+Found: G-5 - Break the blocks
+with FX and enter the hidden
+room. [B-12] Flammole Where
+Found: K-4 - Behind the three
+lava columns [B-13] Protectos
+Where Found: L-4 - Under a sled
+where the bombs are falling.
+[B-14] Prometheus Where Found:
+O-2 - It's on the way. [B-15]
+Lurerre Where Found: F-4 - In a
+spike-guarded alcove. You'll
+need a Glacier to get there.
+[B-16] Leganchor Where Found:
+J-5 - In the Energy Cannon
+gauntlet.
+
+[M-01] Diadrake Where Found: I-4
+- First spiked path above the
+unpowered lifts. [M-02] Orehawk
+Where Found: M-1 - First door
+past Orehawk. [M-03] Deluxe
+Galleon Wing Where Found: O-1 -
+In a gap beneath an Angle
+Cannon. [M-04] King Flyer Where
+Found: D-2 - After the first
+King Flyer. [M-05] Crushpactor
+Where Found: E-5 - Near the Life
+XL pickup. [M-06] Steephinx
+Where Found: I-5 - After killing
+Steephinx, move to the right.
+You can't miss it. [M-07]
+Tentalamia Where Found: J-3 -
+Navigate the spike pit to get
+it. [M-08] Powmettaur Where
+Found: H-3 - Behind the broken
+Met helmet. [M-09] Lava Demon
+Where Found: K-3 - To the left
+of where you land.
+
+[E-01] Eyeballoon Where Found:
+A-1 - Through the door blocked
+by the thorny bush near the
+Miracle Flower. [E-02]
+Frostybear Where Found: F-3 -
+Break the ice shortly below the
+computer room with FX, then find
+it at the back of the cave.
+[E-03] Angle Cannon Where Found:
+I-1 - In the dark path above one
+of the doors. [E-04] Web Bolt
+Where Found: E-1 - Next to one
+of the transformers. [E-05]
+Rattrap Where Found: L-3 - Near
+the end. [E-06] Energy Cannon
+Where Found: D-3 - In a pit
+between two Energy Cannons.
+Don't fall all the way in!
+[E-07] Shrimpstroke Where Found:
+J-2 - Use HX to circumvent the
+spike bed above the Galleon
+Divers. [E-08] Electric Dart
+Where Found: E-4 - Behind a Bolt
+Face near the door to E-3.
+[E-09] Auto Counter ECO Where
+Found: G-2 - 1F inside. [E-10]
+Auto Counter POP Where Found:
+H-3 - Behind a Carom. [E-11]
+Cutting Gyro Where Found: B-4 -
+All the way at the far end.
+[E-12] Capsule Shooter Where
+Found: D-1 - In a pit near the
+Life Up. [E-13] Galleon Wing
+Where Found: I-5 - Beyond the
+Life Up. [E-14] Galleon Shroud
+Where Found: I-4 - Second spiked
+path above the unpowered lifts.
+[E-15] Galleon Diver Where
+Found: F-2 - Near the start of
+the underwater mini-maze. [E-16]
+Galleon Burner Where Found: G-2
+- Above 8F [E-17] Galleon Hunter
+Where Found: B-2 - Above a pair
+of Whirling 44s. [E-18] Galleon
+Sledder Where Found: L-1 - Ride
+a jet sled to the disk. [E-19]
+Platform Cannon Where Found: D-1
+- In a pit after the Life Up. Be
+careful not to fall into the
+abyss! [E-20] Carom Where Found:
+A-4 - At the top of the area.
+[E-21] Crickaleep Where Found:
+E-4 - Behind a cluster of junk
+below the door to E-6. [E-22]
+Sci-sensor Where Found: K-1 -
+Above the door to the geyser in
+K-2, in a niche. [E-23] Spi-King
+Where Found: I-5 - Behind an
+active Platform Cannon platform.
+[E-24] Springer Where Found: B-1
+- Above the door leading to E-2.
+[E-25] Chain Anchor Where Found:
+K-5 - Halfway up the shaft
+[E-26] Beanball Where Found: K-4
+- Come back from the next area
+to get it. [E-27] Sphenalauncher
+Where Found: A-2 - Sky Boost and
+use the Hanging Edge to climb up
+to the ledge where this is
+housed. [E-28] Tornado Fencer
+Where Found: B-2 - It's due left
+of the Transerver door in plain
+sight. [E-29] Valkyraffe Where
+Found: A-2 - Right behind the
+Valkyraffe on the left after
+exiting the Transerver. [E-30]
+Pattrolaur Where Found: C-2 -
+Outside the Transerver. [E-31]
+Bambooloss Where Found: A-1 -
+Use HX to cross the gap to the
+right of where the game started.
+[E-32] Bee Rockets Where Found:
+G-5 - On the way across the
+rooftops. [E-33] Whirling 38
+Where Found: I-2 - Along the
+spiked path on the high road.
+[E-34] Whirling 44 Where Found:
+I-2 - Take the low road, and
+it's in the dark area. [E-35]
+Fire Dart Where Found: K-3 -
+It's in the spiked shaft. [E-36]
+Buoybuoy Where Found: J-3 - Use
+a Glacier to get up to it. It's
+above a spiked wall. [E-37]
+Shock Face Where Found: E-5 -
+Break the blocks behind the Life
+XL with FX to get it. [E-38]
+Heat Face Where Found: G-1 -
+Atop a building. Air dash and
+hover from a nearby building and
+scale the rest of the way
+across. [E-39] Frozen Face Where
+Found: F-1 - Behind a pair of
+bustable crates near the start.
+[E-40] Fly Chopper Where Found:
+D-2 - After the first King
+Flyer. [E-41] Batty Where Found:
+L-2 - Ride another sled to the
+platform. [E-42] Presto Cannon
+Where Found: O-1 - It's on the
+way. [E-43] Hover Cannon Where
+Found: K-3 - It's atop a
+platform over the lava. [E-44]
+Bora Bora Where Found: F-2 -
+Near the end of the underwater
+mini-maze. [E-45] Marine General
+Where Found: F-4 - Lower half of
+the area, beyond metal boxes.
+Watch the spikes! [E-46]
+Mechadragon Where Found: A-3 -
+Atop a branch on the way [E-47]
+Remettaur Where Found: H-1 -
+Hanging from a balloon. [E-48]
+Moth Queen Where Found: F-3 -
+Next to the door leading to the
+Crushpactor. [E-49] Releaf Where
+Found: C-3 - It's above the
+entrance. [E-50] Warp Prism
+Where Found: M-1 - Through the
+door above the entrance to M-2.
+
+[O-01] Hareng Where Found: X-1 -
+L2, third door. [O-02] Anguille
+Where Found: X-1 - It's to the
+left of the Transerver door.
+[O-03] Operators Where Found:
+X-2 - In the command center.
+[O-04] Guardians Where Found:
+X-1 - L2, second door. [O-05]
+Carrelet Where Found: X-1 - L2,
+first door. [O-06] Congre Where
+Found: X-1 - L4, first door.
+[O-07] Sardine Where Found: X-1
+- L1, next to the boy. [O-08]
+Silure Where Found: X-1 - It's
+to the right of the Transerver
+door. [O-09] Giro Where Found:
+A-1 - Left from the starting
+point, you'll find this in a
+small tunnel you can crawl into.
+[O-10] Scombresoce Where Found:
+X-1 - L3, all the way to the
+right. [O-11] Cedre Where Found:
+X-3 - In the engine room. [O-12]
+Serpent Where Found: D-2 - Near
+Slither Inc. [O-13] Truite Where
+Found: X-1 - It's right next to
+the elevator on L4. [O-14] Thon
+Where Found: X-1 - It's on deck.
+[O-15] Fleuve Where Found: X-1 -
+It's in the lab. [O-16] Prairie
+Where Found: X-2 - It's in
+Prairie's room. [O-17] Stuffed
+Animal Where Found: C-2 - Dash-
+jump, air-dash, and hover down
+to the Game and Data building to
+get it. [O-18] Townspeople Where
+Found: C-2 - Through a path in
+the news station. [O-19] Muguet
+Where Found: X-1 - L4, second
+door. [O-20] Rose Where Found:
+X-1 - It's at the end of L4.
+
+Prairie's Report [CIEL]
+
+WARNING: All of this is Spoiler
+material for the Zero and ZX
+series! Read at your own peril!
+
+Aile
+
+-] Fistleo hints in his conversa
+-] Aile tells Purprill that this
+-] Prometheus claims that Aile i
+-] Prairie mentions that her ord
+Maverick raids - reasons for
+those orders became apparent
+when she saw Giro transform for
+the first time. -] The data in
+Aile's story goes prolonged
+exposure to Model W. They say he
+was a survivor of a Maverick
+raid, like Vent, Aile, and Giro.
+-] The final report left behind
+the ability to control the
+Biometal - and that the ones who
+can control Models X and Z also
+have the power to unleash Model
+W. -] Prometheus and Pandora
+claim must fight until one is
+left standing, and that that one
+has the right to rule the world.
+-] Serpent's last words indicate
+her veins.
+
+Vent
+
+-] Fistleo says that Serpent vol
+game. -] Purprill explains to
+Vent tha ago until Serpent
+modified him. -] Prometheus
+claims that the cr doing -
+Prairie knows this person as her
+sister. -] Prairie talks to Vent
+in deta was a scientist who
+protected them when nobody else
+would. -] The final report left
+behind Biometal W and the
+Ragnarok crisis. -] Prometheus
+and Pandora claim -] Serpent
+explains that the vic Cyber-
+elves to help power Model W,
+like the victims of the detainee
+camp at Area I.
+
+Coincidence? I think not! These
+events link right to the Mega
+Man Zero series - let's start
+with the basics. "Sis", as
+Prairie calls her, is actually
+Dr. Ciel. Near the climax of the
+war, the madman behind Model W -
+Dr. Weil - had the space station
+Ragnarok built. Dr. Weil fused
+with Ragnarok, but lost a fight
+to Zero. The shattered remains
+of Ragnarok achieving
+atmospheric re-entry are a
+memory Prairie refuses to
+surrender. Biometal Model W is
+actually Weil's consciousness
+sealed within the remains of
+Ragnarok. It seems the bastard
+avoided death yet again.
+
+In the aftermath of the war,
+Ciel founded the Guardians to
+root out the source of the
+Maverick program and destroy it.
+During this time, she conducted
+research on a form of conscious
+material she would coin
+"Biometal". She was accompanied
+by members of the former
+resistance movement against Neo
+Arcadia and some volunteers, one
+of which was Serpent. During
+research on Biometal Model W,
+Serpent was overcome with a
+desire for power and slaughtered
+the entire recon unit. In
+response, Ciel used her research
+and the remains of the four X
+Guardians to create Biometals F,
+H, L, and P, but she didn't have
+samples or remains of X or Zero,
+so she made Biometals X and Z
+from her research on Model W;
+anyone who can use either X or Z
+can also use W.
+
+Since Ciel was a conventional
+human, she passed on, either KIA
+or through the passage of time.
+Prairie took over in her place
+to continue the fight. To blend
+in with the Reploids of today
+with their finite lifespans,
+Prairie likely changed her
+appearance and name. Now think,
+how many Reploids at the time
+carry around dolls, especially
+those made by Dr. Ciel? The
+answer is simple: Alouette.
+
+From what is gathered, Purprill
+may have been in charge of the
+Mavericks that attacked the park
+ten years ago, when Vent/Aile
+lost their parents. The
+Mavericks involved in the raids
+at Area H may have been made
+into Pseudoroids to amplify
+their powers, while the spirits
+of the victims - the Cyber-elves
+- were kept as food for Model
+W.. The Pseudoroids all tie into
+Project Haven; the grand plan of
+Model W to resurrect itself.
+While Serpent was busy with his
+own dig into the ruins, the
+Pseudoroids would cause calamity
+in other regions. The data for
+the Serpent Report was split
+between Lurerre and Leganchor so
+people wouldn't learn the truth
+about his insanity; Hurricaune
+would round up civilians and
+give them grave fear before
+killing them; Cyber-elves are
+made from the deaths of Reploids
+and now modified Humanoids.
+Hivolt would regulate the flow
+of Cyber-elves into the Slither
+Inc. head office for use with
+Model W. Purprill would deny
+access to the lab at Area L via
+the amusement park at Area H
+while Protectos would steal the
+data regarding Model W and
+Ciel's final message. Flammole
+would be given orders to dig at
+a falsified location to agitate
+the volcano, and Fistleo would
+cause havoc to search out other
+Mega Men. When you put it all
+into perspective, the whole
+thing is one elaborate plan by
+Model W - or, should we say, Dr.
+Weil - to become exultant and
+manifest a new body. Prometheus
+and Pandora are simply there to
+spread this message of
+destruction, to find vessels
+suitable for such a purpose.
+
+
+In the ancient days, before the
+Maverick Wars, there were two
+scientists, Dr. Thomas Light and
+Dr. Albert Wily. Both were
+genius robotics experts in their
+time, but while Tom used his
+genius to better humanity, Al
+used his to attempt to conquer
+the world. The advanced robot,
+Rock, was modified into Mega Man
+to combat robots built by Tom
+that Wily altered. After the
+first wave, Wily made more
+dangerous robots in an attempt
+to destroy Mega Man. One of his
+own creations, Bass, went rogue
+when he realized Wily was using
+him as a tool for his own glory.
+In their final days, the two
+geniuses built their last
+machines; Tom's was the alpha
+Reploid, X. Wily's final
+creation was Zero, based off the
+stolen data on X's schematics.
+Wily issued Zero a viral program
+that, if Wily were to perish,
+would cause Zero to awaken and
+eradicate all life from the
+world as one last twisted act of
+revenge.
+
+
+Later, Dr. Cain awakened X and
+used his data to create the
+first Reploids. However, one
+Reploid went Maverick and killed
+three humans before it was
+destroyed. The Maverick Hunters
+were established from there on
+out, and Sigma took charge
+during this time. Sigma
+valiantly fought Mavericks until
+he was dispatched to fight a red
+Maverick that killed anything in
+sight - Zero. During the battle,
+Sigma destroyed Zero and
+contracted the Maverick code
+into himself. Zero was repaired
+by Dr. Cain during this time.
+Sigma went Maverick himself and
+broke away, taking a majority of
+the Reploids with him. The
+recommissioned Zero fought
+alongside X many times,
+destroying Sigma as he emerged
+time and again. During this
+time, Dr. Cain suffered from
+harsh mental degeneration, and
+required an implant to keep from
+suffering total brain death.
+Some time after he got the
+implant, he contracted the
+Maverick program himself. He
+retreated to keep himself from
+going mad in the public scene
+while the program began to
+spread into his organic brain.
+And it became his doom.
+
+In the aftermath of the Eurasia
+and Gate incidents, the
+scientists of the time designed
+the Cyber-elves to help contain
+the Maverick outbreak. One such
+Cyber-elf, the Mother Elf, was
+used to neutralize the program
+in all Reploids. Dr. Cain - who
+now emerged under the name Dr.
+Weil - took control of the
+Mother Elf and reprogrammed her,
+transforming her into the Dark
+Elf. Dr. Weil used his retained
+genius to fully repair Zero's
+old body - the one that was
+destroyed after the Eurasia
+incident - and give it a new
+consciousness, Omega. Weil then
+used the Dark Elf to control the
+world's Reploids, with only X
+and Zero capable of effectively
+fighting back. This became known
+as the Elf Wars, and decimated
+75% of the world's population in
+its flames. Omega was horribly
+damaged, and Weil was executed,
+his mind transferred into an
+artificial prison and launched
+up into space with Omega's
+remains. The Dark Elf's location
+was unknown, and the only person
+capable of understanding it was
+Zero. Zero, believing he may
+still lose himself to the
+Maverick program, had himself
+sealed away for a whole century,
+leaving X to deal with this
+threat alone.
+
+
+X constructed the utopian
+domain, Neo Arcadia, and four
+Guardians were made from his DNA
+program - the Sage Guardian,
+Harpuia; the Fairy Guardian,
+Leviathan; the Fighting
+Guardian, Fefnir; and the Shadow
+Guardian, Phantom. They ruled
+Neo Arcadia with compassion
+towards humanity until the Dark
+Elf returned, remotely
+controlled by Dr. Weil. The
+fighting was quelled, but
+realizing the danger the Dark
+Elf possessed, X sacrificed his
+body to seal it away and watched
+from beyond as a Cyber-elf. The
+budding genius, Dr. Ciel, made a
+copy body for X to move into,
+but it activated of its own
+volition - whether Copy X was
+self-aware or a puppet of Weil
+from his orbital detention
+center is unknown, but Copy X
+behaved like a tyrant compared
+to the original; the fact that
+an energy crisis had appeared
+made the situation no better for
+the Reploids of Neo Arcadia. Dr.
+Ciel organized the Resistance
+from the Reploids Copy X decreed
+as Mavericks, but they continued
+to lose battle after battle
+until Ciel entered the forbidden
+land and her Cyber-elf, Passy,
+awoke Zero from his stasis.
+
+Zero then fought to protect the
+Reploids in the Resistance, and
+killed both Phantom and Copy X
+while the Resistance fled to a
+base removed from Neo Arcadia.
+Elpizo took charge and led
+Operation "Righteous Strike"
+which ended in disaster. It was
+during this time that Elpizo
+became tempted by the Baby
+Elves, Crea and Prea, and sought
+to awaken the Dark Elf. He
+accomplished this, destroyed X's
+body, and lost himself to the
+Dark Elf in the aftermath,
+eventually being killed at
+Zero's hands. With the Dark Elf
+loose, Dr. Weil intentionally
+crashed his prison into the snow
+fields, and Ciel and Zero went
+to investigate.
+
+Onboard the wrecked craft was
+the battle reploid Omega, which
+made a mess of both Leviathan
+and Fefnir and, later, Harpuia.
+Weil then used a restored Copy X
+to rule Neo Arcadia with an iron
+fist, seizing the Dark Elf with
+Omega and seizing the nation
+after machinating a
+confrontation between Zero and
+Copy X. During this time, X had
+informed Harpuia of the true
+nature of this battle, while
+Phantom spread the news to the
+Leviathan and Fefnir. In the
+end, all three Guardians were
+restored, and they helped to
+contain Omega as the Dark Elf's
+program began to decay, the
+routines added by Weil going
+first. With Omega destroyed, the
+Mother Elf died off rapidly.
+
+Weil took complete control over
+Neo Arcadia, having everyone who
+opposed his iron-fisted regime
+destroyed in as swift a manner
+as possible. Many humans fled
+the once utopian city, moving in
+flocks towards areas where they
+hoped they could find salvation.
+One such group, led by the rogue
+reporter Neige, fled to Area
+Zero. Dr. Weil learned that Area
+Zero - the site in the Maverick
+Wars that the space colony
+Eurasia crashed - was a domain
+outside his influence, and one
+that signified hope for humanity
+to escape his sovereign
+authority, so he sent the
+Einherjar and Craft to endanger
+it while he built the space
+satellite, Ragnarok, to
+annihilate all life on earth,
+including Area Zero. The
+Einherjar were defeated by Zero,
+and in his last moments Craft
+destroyed the cannon control
+systems to keep Weil from firing
+it again. Frustrated, Weil
+changed the orbit path so it
+would descend on a collision
+course with Area Zero. Zero
+forced his way onboard and
+fought Weil to the end. As
+Ragnarok broke apart, it fell
+into the atmosphere and landed
+in a concentrated plot near Area
+Zero. And while Zero was
+destroyed from re-entry, enough
+of Weil remained so it could
+oversee the aberrations that
+plague the world. Out of Zero's
+remains whatever machines were
+loyal to Weil managed to make a
+new Omega, but it wouldn't
+animate until it came fully
+online; eventually, there was no
+need for it to animate, and it
+was left in the void of the
+Ragnarok ruins without soul or
+purpose.
+
+While this may seem like
+conjecture, much of it is based
+on actual records. It is but one
+way to view history. What is
+reality? That is for you to
+decide.
+
+
+World Map [MAPS]
+
+DMNO
+
+    J-4                         
+   /   \                        
+J-5 J-2 H-4--H-3 L-1 L-3
+   \   /   \  +       + |      \
+    J-3     J-1----\    |       
+        |    |        |
+N-1     M-2        |     \      
+   *   /   \   /--A-4     A-3---
+    M-3     M-1      \   /      
+   A-1                   F-4
+K-4     K-2        +     \   *  
+*  \   /   \   /--C-3     A-2   
+    K-3     K-1      \   /   \  
+ \   /          C-1     B-1     
+ K-5      *   /   *   /   \   /
+      C-2     B-2     B-3
+    /   +   /
+    /     D-1
+  /         \               *
+E-1           D-2     O-1---O-2
+      \         /   *   /
+   E-3     E-2   D-4     D-3
+    \   /         \       \
+    E-4           D-5     \
+   /   \                   \
+E-6     E-5                 G-1
+     /                   /
+   E-7                 G-2      
+  /   *               /   \     
+  E-8     I-1         G-4     G-
+   /   \           \            
+   |     I-2         G-5        
+     |    /   \           *
+   | I-4     I-5
+   |    \   /
+   \----I-3*
+
++: Terminal (Between two areas i
+*: Transerver (Between two areas

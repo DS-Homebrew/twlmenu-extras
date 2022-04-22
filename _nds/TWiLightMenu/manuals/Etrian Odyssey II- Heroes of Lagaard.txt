@@ -1,0 +1,2610 @@
+ _____ _        _               
+|  ___| |      (_)             |
+| |__ | |_ _ __ _  __ _ _ __   |
+|  __|| __| '__| |/ _` | '_ \  |
+| |___| |_| |  | | (_| | | | | \
+\____/ \__|_|  |_|\__,_|_| |_|  
+    __/ |              __/ |
+    |___/              |___/
+ _   _                          
+| | | |                         
+| |_| | ___ _ __ ___   ___  ___ 
+|  _  |/ _ \ '__/ _ \ / _ \/ __|
+| | | |  __/ | | (_) |  __/\__ \
+\_| |_/\___|_|  \___/ \___||___/
+
+
+ _                              
+| |                             
+| |     __ _  __ _  __ _  __ _ _
+| |    / _` |/ _` |/ _` |/ _` | 
+| |___| (_| | (_| | (_| | (_| | 
+\_____/\__,_|\__, |\__,_|\__,_|_
+   __/ |
+   |___/
+ _    _       _ _    _   _      
+| |  | |     | | |  | | | |     
+| |  | | __ _| | | _| |_| |__  _
+| |/\| |/ _` | | |/ / __| '_ \| 
+\  /\  / (_| | |   <| |_| | | | 
+ \/  \/ \__,_|_|_|\_\\__|_| |_|_
+             __/ |
+             |___/
+
+
+--------------------------------
+Table of Contents
+--------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~Part 1~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+1.0.Introduction................
+......[INTR] 2.0.Story..........
+...................[STRY] 3.0.Te
+rms.............................
+[TERM] 4.0.Version
+Update....................[VRUP]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~Part 2~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+1.0.Walkthrough
+
+Floor 01........................
+......[FL01] Floor 02...........
+...................[FL02] Floor 
+03..............................
+[FL03] Floor 04.................
+.............[FL04] Floor 05....
+..........................[FL05]
+Floor 06........................
+......[FL06] Floor 07...........
+...................[FL07] Floor 
+08..............................
+[FL08] Floor 09.................
+.............[FL09] Floor 10....
+..........................[FL10]
+Floor 11........................
+......[FL11] Floor 12...........
+...................[FL12] Floor 
+13..............................
+[FL13] Floor 14.................
+.............[FL14] Floor 15....
+..........................[FL15]
+Floor 16........................
+......[FL16] Floor 17...........
+...................[FL17] Floor 
+18..............................
+[FL18] Floor 19.................
+.............[FL19] Floor 20....
+..........................[FL20]
+Floor 21........................
+......[FL21] Floor 22...........
+...................[FL22] Floor 
+23..............................
+[FL23] Floor 24.................
+.............[FL24] Floor 25....
+..........................[FL25]
+Floor 26........................
+......[FL26] Floor 27...........
+...................[FL27] Floor 
+28..............................
+[FL28] Floor 29.................
+.............[FL29] Floor 30....
+..........................[FL30]
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~Part 3~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+1.0.Quests......................
+........[QEST]
+2.0.Legal.......................
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~Part 1~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+--------------------------------
+1.0.Introduction................
+........[INTR]
+--------------------------------
+
+This is my Etrian Odyssey 2
+Heroes of Lagaard Walkthough. Is
+is the sequel to one of my
+favourite games. This walkthorgh
+was made to help YOU, the reader
+in the game. Like my Walkthrough
+for the original, I will keep it
+simple and only tell the one way
+to go. This game is better
+without a walkthrough's help,
+you should explore on your own.
+If you have an questions about
+the game then you can send me an
+e-mail. Make the subject
+relating to the game or face
+risk of it being deleted. My
+e-mail is below.
+
+contributer_hangid@hotmail.com
+
+--------------------------------
+2.0.Story.......................
+--------------------------------
+
+*TAKEN DIRECTLY FROM SITE*
+
+When civilization sunk beneath
+the seven seas, deep forests
+spread across the five remaining
+islands.
+
+Only the chosen ones escaped the
+waters in their castle
+stronghold.
+
+Eventually, the waves overtook
+even the last five islands...
+
+And the castle was all that
+remained.
+
+After the passing of ages the
+people of the floating castle
+have chosen to descend upon
+their mother soil.
+
+These are the chronicles of the
+land of High Lagaard.
+
+
+--------------------------------
+3.0.Terms.......................
+--------------------------------
+
+In my walkthrough I use terms to
+make it easiar for you (and me)
+to get through the floor. Some
+examples are like "all the way"
+or "around the corner". I have a
+list of my terms and their
+meanings.
+
+
+=============
+List of terms
+=============
+ ___________________
+|Around the corner  |
+|All the way        |
+|Compass directions |
+|# Spaces           |
+|Ignore Passage     |
+|Turn around        |
+ ___________________
+
+
+=================
+Around the corner
+=================
+This means when there is a "U"
+shaped type of formation in the
+path it means to go from either
+side of the "U" shaped formation
+to the other. Here is an ASCII
+picture showing it.
+
+O=You X=Destination
+
+|X|  |O|
+|^|  |v|
+|^|__|v|
+|<<<<<<|
+
+Or
+______
+<<<<<<|
+____|^|
+O>>>>>|
+______
+
+===========
+All the way
+===========
+
+This means to go one from end of
+a passage all the way to the
+other end ignoring all passages.
+Sometimes I will say all the
+until _____. This is a map
+showing it:
+
+O=You X=Destination
+
+________________________________
+O>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>X
+________________________________
+
+==================
+Compass directions
+==================
+
+On a compass you have eight
+different derections. I use
+these some times. North will
+always be the top. On the top of
+your map where you the grid
+numbers, that is north. This is
+the compass:
+
+ N
+  NW/ \NE
+   W| |E
+  SW\_/SE
+ S
+
+N=North
+NE=North East
+E=East
+SE=South East
+S=South
+SW=South West
+W=West
+NW=North West
+
+=================
+# spaces or steps
+=================
+
+This means to go a number
+spaces. An example would be, go
+right 5 spaces or steps. A space
+or step is moving one tile.
+
+==============
+Ignore Passage
+==============
+
+This simply means when you're
+walking to ignore the passage I
+am talking about. I may tell you
+to ignore 1 or more passages
+depending on the situation. Some
+I tell you to ignore because
+they have no value and some I
+tell you to ignore because they
+are for later.
+
+
+--------------------------------
+4.0.Version Update..............
+........[VRUP]
+--------------------------------
+
+0.07
+
+-Outline for Walkthrough done
+-Finished 01F
+-Finished 02F
+-Some Quests added
+
+0.10
+
+-Finished 03F
+-More quests added
+
+0.13
+
+-Finished 04F
+-More quests added
+
+0.20
+
+-Finished 05F
+-Finished 06F
+-More quests added
+
+0.23
+
+-Finished 07F
+-More quests added
+
+0.40
+
+-Finished 08F
+-Finished 09F
+-Finished 10F
+-Finished 11F
+-Finished 12F
+
+0.50
+
+-Finished 13F
+-Finished 14F
+-Finished 15F
+-More quests added
+
+0.56
+
+-Finished 16F
+-Finished 17F
+
+0.66
+
+-Finished 18F
+-Finished 19F
+-Finished 20F
+
+0.80
+
+-Finished 21F
+-Finished 22F
+-Finished 23F
+-Finished 24F
+
+0.93
+
+-Finished 25F
+-Finished 26F
+-Finished 27F
+-Finished 28F
+-More Quests added
+
+1.00
+
+-Finished 29F
+-Finished 30F
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~Part 2~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+--------------------------------
+1.0.Walkthrough
+--------------------------------
+
+All floors will have the
+following setup:
+
+--------------------------------
+Floor **........................
+......[FL**] [Floor title]
+--------------------------------
+
+New monsters: Monsters that have
+never been encountered on a
+floor before this one.
+
+Monsters on Floor: All monsters
+that can be encountered on the
+floor.
+
+FOES: Foes that can be
+encountered on the floor
+
+Bosses: Bosses that can be
+ecountered on the floor
+
+
+When you first start the game,
+select the New Game option to
+begin. Read the text. If you
+have a password from the
+previous game, enter it in here
+for a few extras. Head into the
+Explorer's Guild to get started.
+You'll see some guy in armour
+and he'll give you the option to
+start a guild. Accept it.
+
+First, you have to select a name
+for your guild. Once you're done
+that, you can recruit people
+into your guild. Select the
+register option to create your
+characters. You can have up to
+30 guild members but only 5 can
+come into battle at once. You
+should register atleast 5 at
+right now.
+
+When you have all your members
+created select the Formation
+option and choose which 5 party
+members you want in your party.
+Make sure you read the character
+description to find which line
+your character is better suited.
+When you're done here leave.
+
+First head to the Flaus Inn and
+save your game. After saving
+leave and head to the Duke's
+Palace. You'll meet some old guy
+and he'll give you a mission to
+map out the first floor. Select
+the Forest Entrance option. Then
+select the Yggdrasil Labyrinth.
+
+--------------------------------
+Floor 01........................
+......[FL01] An invitation
+upwards
+--------------------------------
+
+New monsters: Hedgehog, Woodmai,
+Mole, Crawler
+
+Monsters on Floor: Hedgehog,
+Woodmai, Mole, Crawler
+
+FOES:
+
+Bosses: N/A
+
+Head forward until you meet up
+with a knight. The knight will
+take to another place in which
+you must map out the area. He'll
+give you a brief lesson of how
+to create maps. Everytime you
+walk make sure you put walls
+around. Walk forward and then
+head left.
+
+Ignore the passage map the
+corner and then go back down to
+the ignored passage. Go down the
+passage and the turn left and go
+forward. Open the chest to get a
+Nectar and then go back to the
+entrance of the passage. Head
+south all the way and make sure
+you map the area.
+
+Head west and ignore the
+passage. Place a door down and
+enter the room. Map the room and
+then leave it. Head back to the
+ignored passage. Go up the
+passage and then go down the
+first passage. Go back to the
+entrance of this passage and
+then head north.
+
+Map out this little space and
+then go leave by the hallway on
+the west side. From the first
+tile of the hallway, go west 6
+spaces and then all the way
+south. If you have completed the
+map properly the knight will let
+you pass. If he rejects it,
+double check for small mistakes.
+Return to town and report your
+results at the Duke's Palace.
+
+Do anything you want while at
+town (save, heal, revive dead
+characters) and then head back
+to the Labyrinth. Go north into
+the clearing and take the hall
+on the left. Go all the west
+ignoring all the passages. Head
+north and take the first passage
+you see. Go down the passage and
+go through the door.
+
+You'll get a warning about a
+powerful enemy. It's that orange
+ball, they are known as F.O.E.'s
+and will be seen more during the
+game. Just go around it and
+through the door. Make sure to
+open the secret passage in the
+bottom right corner. Go forward
+and take the first passage. Go
+up the passage and then left all
+the way. Mark the stairs and go
+up.
+
+
+--------------------------------
+Floor 02........................
+......[FL02] Hazardous Habitat
+--------------------------------
+
+New monsters: Venomfly, Cactoid
+
+Monsters on Floor: Venomfly,
+Woodmai, Cactoid, Mole,
+Hedgehog, Crawler
+
+FOES: 6 Furyhorn
+
+Bosses: N/A
+
+When you get down head all the
+way west and go through the
+door. Head south all the way.
+Move in a square to get around
+the Furyhorn. Go through the
+door on the south of this room.
+Move forward and go through the
+door past the Furyhorn. Head all
+the way south and then all the
+way west. Head south and then
+west again and then up the
+stairs.
+
+
+--------------------------------
+Floor 03........................
+......[FL03] Field of mortal
+peril
+--------------------------------
+
+New monsters: Ladybug, Redhorn
+
+Monsters on Floor: Hedgehog,
+Crawler, Cactoid, Ladybug,
+Redhorn, Woodmai, Venomfly
+
+FOES: 4 Furyhorn, 5 Stalkers
+
+Bosses: N/A
+
+Head east then south then east
+again until you meet up with a
+wolf. It point north so go that
+way. Head 4 spaces north and
+then 2 spaces east. You'll meet
+some guy and he'll explain about
+Geomagentic fields. Walk up to
+the Geomagnetic field and
+activate it. Take a step north
+and head east.
+
+Go south all the way and then
+east. Head all the way north,
+than all the way east and then
+all the way south. Then go
+through the door. You'll get a
+warning about a strong monster
+about. Just head all the way
+north and then all the way east
+and through the door.
+
+In this next part you must avoid
+the F.O.E. Take 1 step north, 2
+steps west, 1 step south, 3
+steps west, 3 steps east, 2 step
+north, 2 steps west, 1 step
+south and then all the way west.
+Now head all the way north and
+all the way east.
+
+Go south, then east then all the
+way north. Head west then south
+and then west until you get to a
+door. Go through the door. Go
+north and go through another
+door. Go north a space then
+east, then 1 space south then
+one step east again. Now head
+all the way south then another
+step east then all the way south
+again.
+
+Head all the way east until you
+get to a passage. Face south and
+then activate the passage. Head
+north and you'll meet up with
+Flausgul. He'll say to go back
+to the Duke's Palace. You'll
+find out that some guards have
+not returned from the forest and
+you have to find out why.
+
+Head back to where Flausgul was.
+He'll let you pass through to
+the next room. In this next room
+you must find guards. Head all
+the way east then all the way
+north until you get to a
+passage. Go down the passage
+then north and then east.
+Nothing here except a "Chop"
+item point.
+
+Head back to the entrance of the
+passage and head north. Head
+west all but remember the door
+you pass. Now head south until
+you get to a passage. Go into
+the passage, head north and go
+through the door. You'll meet
+with a knight and he'll say some
+stuff. Head back to the Duke's
+palace.
+
+Report your results and now you
+have a new objective. You have
+to take down Chimaera. Head back
+to the door that you ignored in
+that large room. Go through the
+door and head 1 step north. Head
+all the way west, 1 step south,
+all the way west, 1 step north
+and all the way west. Head up
+the stairs.
+
+
+--------------------------------
+Floor 04........................
+......[FL04] A soaring shadow
+above
+--------------------------------
+
+New monsters: Kingmai, Evil Eye,
+Roller
+
+Monsters on Floor: Kingmai, Evil
+Eye, Venomfly, Ladybug, Redhorn,
+Roller, Woodmai, Mole
+
+FOES: 5 Slaveimps
+
+Bosses: N/A
+
+Head forward until you get you
+get to a passage. Head south and
+then all the way west. Go south
+again and then west again. Go
+all the way around the corner
+and then all the way around the
+corner again. Head all the way
+east and then all the way north.
+
+Go all the way east until you
+get to a passage. Go down the
+passage and then all the way
+east. Go south and then all the
+way east again. Go north and
+then east and then north again.
+Head east and then north again.
+Head all the way east and then
+all the way north until you get
+to a second passage.
+
+Go all the way down the passage
+and then all the way south. Go
+down the passage on the west. Go
+south, then east and then
+through the door. Go all the way
+west and up the stairs to 05F.
+
+--------------------------------
+Floor 05........................
+......[FL05] The King's Roar
+Sounds
+--------------------------------
+
+New monsters: Hypnowl, Cubegel,
+Rafflesia
+
+Monsters on Floor: Woodmai,
+Hypnowl, Cubegel, Rafflesia,
+Cactoid, Hedgehog, Evil Eye
+
+FOES: 6 Slaveimps, 2 Furyhorns
+
+Bosses: Chimaera
+
+When you get down take three
+steps south and one step west.
+Activate the Geomagnetic field.
+Go 1 step east and then all the
+way south. Head all the way west
+and then south. Head west until
+you get to a passage. Go up the
+passage and through the door.
+
+Head all the way north and then
+4 steps west. Afterwards head
+all the way north and down the
+passage on the right. Go around
+the corner and then all the way
+west. Head north, then 1 steep
+east then north again. Head all
+the way east, through the door
+and all the way east again.
+
+Go one step north and then all
+the way esat until you get to a
+passage. Go all the way south
+and then all the way east. Go
+all the way south and then all
+the way east, through the door
+and all the way east again. Go
+all the way south and then all
+the way west until you get to a
+passage.
+
+Go down the passage, all the way
+east, all the way south, 2 steps
+west and then 1 steps north.
+You'll get a warning about a
+trail of blood. Go all the way
+north and into the crevice.
+You'll meet up with Flausgul's
+wolf and you find out that
+Flausgul has died. Remember this
+place.
+
+Go 1 step east and then 3 steps
+south. Head all the way east and
+all the way south. Go all the
+way east, all the way north and
+then 1 step west. Face north and
+open the secret passage. Head
+all the way east and then north.
+Through this door is Chimaera,
+the boss of this stratum, so be
+prepared. Go all the way north
+to fight him.
+
+Name: Chimaera Description: A
+horror born of fusing other
+animals together. It attracts
+monsters and blocks traveler's
+way. HP: 1400 AT: 22 DF: 22
+Skills: Pile, Blaze, 2-hit
+Strategy: He has 6 Slaveimps
+that will come to help in the
+fight. If one does join you
+should kill it because it can
+heal him and attack you. His
+skills can hit very hard. Make
+sure you have the best armour
+you can get because there are no
+effective ways to decrease the
+damage he gives. Make sure to
+save your TP for him.
+
+When you kill him go through the
+door behind him and head up the
+stairs to the north. The purple
+light is a Geomagnetic Field. Go
+back to town and report your
+results at the Duke's Palace.
+Now go back to the spot where
+you met Kurogane the dying wolf.
+He'll give you a Trust Band.
+Take this to the Explorer's
+guild to unlock the beast class.
+
+--------------------------------
+Floor 06........................
+......[FL06] Vale of Hidden
+Threats
+--------------------------------
+
+New monsters: Moa, Mystue,
+Frilzard, Bigcap
+
+Monsters on Floor: Moa, Mystue,
+Frilzard, Bigcap
+
+FOES: 4 Tri-Gourds
+
+Bosses: N/A
+
+From the Geomagnetic Field, go
+all the way south and all the
+way east. Go north, then east
+and then north again. Go all the
+way west and then all the way
+north. Go all the way west, all
+the way south, all the way west
+again ann then all the way south
+again. Go through the door.
+
+Go all the way east, all the way
+south and through the door. Go
+east, then north then east until
+you get to a passage. Go 3
+spaces west and face north to
+open a shortcut. Head all the
+way east and then south. Head 3
+spaces east and up the stairs.
+
+--------------------------------
+Floor 07........................
+......[FL07] The balance of Pain
+and Fear
+--------------------------------
+
+New monsters: Gigaboar, Fangleaf
+
+Monsters on Floor: Moa, Mystue,
+Frilzard, Bigcap, Gigaboar,
+Fangleaf
+
+FOES: 1 Tri-Gourd, 3 Redwoods
+
+Bosses: N/A
+
+When get down go south and then
+all the way east. Next, head all
+the way north. Those vines are
+damage tiles. Head west until
+you get to a passage. Go up the
+passage until you get to another
+passage. Go down that passage
+and head north. Go up the
+stairs.
+
+--------------------------------
+Floor 08........................
+......[FL08] Fire-Cloaked
+Demon's Den
+--------------------------------
+
+New monsters: Garauchi,
+Firezard, Tortmail
+
+Monsters on Floor: Mystue,
+Frilzard, Bigcap, Gigaboar,
+Fangleaf, Garauchi, Firezard,
+Tortmail, Moa
+
+FOES: 4 Razekings, 3 Firekings
+
+Bosses: Salamox
+
+When you get down, head 2 steps
+south and then 3 steps west.
+Activate the Geomagnetic Pole
+and head back to town. Go to the
+Duke's Palace. You'll find out
+that you need to find a Fire
+Plume for the Duke. Accept the
+mission and head back to 08F.
+
+From the stairs head south until
+you get to a second passage. Go
+down the passage. Open the door.
+At the level you're probably on,
+Salamox will be impossible to
+beat, so follow these
+instructions. One step east, 2
+steps north, 2 steps west, 2
+steps east, 4 steps south, 2
+steps west, 2 steps north and 3
+steps west.
+
+Get the Fire Plume and if you
+don't have a warp wire head 1
+step east, face south and go
+through the one-way passage.
+When you get back to town, go to
+the Duke's palace. Report your
+results. Head back to 08F. From
+the stairs, head all the way
+south until you get to a third
+passage.
+
+Go down the passage. Go one step
+down and all the way west and
+through the door. Continue going
+all the way west and then go all
+the way north until you get to a
+passage. Head down the passage
+and up the stairs.
+
+
+--------------------------------
+Floor 09........................
+......[FL09] The Unopened
+Crimson Jaws
+--------------------------------
+
+New monsters: Gryphon, Actaeon
+
+Monsters on Floor: Mystue,
+Frilzard, Bigcap, Gigaboar,
+Fangleaf, Garauchi, Firezard,
+Tortmail, Gryphon, Actaeon
+
+FOES: 4 Firekings, 1 Razeking
+
+Bosses: N/A
+
+Head all the way north and then
+all the way west until you get
+to a passage. Head 2 steps south
+and 2 steps east. Head all the
+way south and 2 steps west. Head
+2 steps south and then all the
+way east. Head one step south, 1
+step east and all the way south.
+
+Go 1 step east and all the way
+south. Head all the way west
+until you get to a passage. Go
+up the passage and then all the
+way west. Head south and down
+the stairs. Head north and go 4
+steps east. Head all the way
+north and then 4 steps east.
+
+Head all the way north and then
+4 steps west. Head north and up
+the stairs. Head all the way
+north, 1 step west and all the
+way north. Head all the way east
+and one step south. Head all the
+way east and then all the way
+south. Head 6 steps east.
+
+Head all the way north and then
+all the way west. Head one step
+south and then all the way west
+until you get to stairs. Head up
+the stairs to get to 10F.
+
+--------------------------------
+Floor 10........................
+......[FL10] The Hellion's
+Domain
+--------------------------------
+
+New monsters: Red Gel, Addleowl,
+Poseidon
+
+Monsters on Floor: Mystue,
+Gigaboar, Fangleaf, Garauchi,
+Firezard, Tortmail, Gryphon,
+Actaeon, Moa, Red Gel, Addleowl,
+Poseidon
+
+FOES: 4 Trigourds, 4 Razekings,
+3 Redwoods
+
+Bosses: Hellion
+
+Head all the way south and then
+all the way east. Head all the
+way south and then 1 step east.
+You'll meet with a War Magus and
+a Gunner. They won't let you
+pass until you accept the
+Extinguish the Hellion mission
+from the Duke's Palace.
+
+From where you met the two
+explorers, go through the door
+and head 11 steps west. Head
+south and go through the door.
+Head all the way south and then
+all the way east. Head 1 step
+east and then south. Go through
+the door. Head south and then
+west.
+
+Head 1 step north, 2 steps west,
+2 steps south and 3 steps west.
+Head all the way north, 1 step
+east and then all the way north
+again. Head one step west and 1
+step north. Head 3 steps west
+and then through the door. Head
+all the way south and fight the
+Hellion. When you kill him head
+south and up the stairs.
+
+Name: Hellion Description: A
+demon that protects the Auburn
+Thicket. It's scorching breath
+turns away intruders. HP: 2100
+AT: 40 DF: 40 Skills: Roar,
+Inferno, Embrace Strategy: Try
+using Ice attacks against him.
+Inferno is really the only
+problem damage-wise. Make sure
+you heal when you need to and
+try to come with your entire
+party with thier Force attacks
+ready.
+
+
+--------------------------------
+Floor 11........................
+......[FL11] A Trap of Ice and
+Snow
+--------------------------------
+
+New monsters: Snowsoul, Fishman,
+Moriyana, Sleipnir
+
+Monsters on Floor: Snowsoul,
+Fishman, Moriyana, Sleipnir
+
+FOES: 6 Darksoars
+
+Bosses: N/A
+
+Head 1 step north, 2 steps east
+and 2 steps west. Head all the
+way east and all the way north.
+Head west and then all the way
+around the corner. Go west and
+go around the corner. Go around
+the corner again and then all
+the way north. Go east and
+through the door.
+
+Head 1 step east and 2 steps
+north. Head all the way east, 2
+steps south, 2 steps east, 2
+steps north and then all the way
+east. Head south and through the
+door. Head 1 step east and all
+the way south. Head around the
+the corner twice and then all
+the way west.
+
+Head south until you get to a
+passage. Go down the passage and
+go all the way south. Head all
+the way west and then 3 steps
+north. Face west and activate
+the secret passage. Go south and
+then up the stairs.
+
+--------------------------------
+Floor 12........................
+......[FL12] Daunting Frozen
+Path
+--------------------------------
+
+New monsters: Snowzard, Clawbug
+
+Monsters on Floor: Moriyana,
+Sleipnir, Snowzard, Clawbug
+
+FOES: 4 Helldras
+
+Bosses: N/A
+
+On this floor and others in this
+stratum, the floor is iced. I
+won't always say to slide so
+just act like they're normal
+tiles. Head all the way west and
+then north. Head all the way
+east and then all the way south.
+Head all the way east and then
+all the way north. Go through
+the door.
+
+You can't continue until you get
+a mission from the Duke's
+Palace. The mission is that you
+have to collect 4 Snow Blooms on
+12F. Go back to where the guard
+stopped you. Go 1 step north and
+then 2 steps west. Head all the
+way north and then east. Go
+through the door and go all the
+way east.
+
+In order to get he Snow Blooms
+it has to be nightime. If it's
+not, just move back and forth
+until it it is. From where the
+guard was, head all the way
+north, all the way west and then
+1 step south. Slide on the ice
+on the east and then go 4 steps
+east. Head all the way north and
+get the Snow Bloom.
+
+Head all the way south and then
+5 steps west (including the ice
+tile) and then all the way
+south. Head all the way east and
+through the door. Head all the
+way north and then east. Go
+through the door and then all
+the way east. Pluck the Snow
+Bloom.
+
+Head back to where the guard was
+and then head all the way north.
+Head all the way west and then
+slide on the ice to the north
+and then all the way east. Head
+4 steps north and then all the
+way east. Go through the door
+and then head south. Get the
+Snow Bloom and head back to town
+and report you're results.
+
+Back from where the guard was.
+Head 1 step west and then all
+the way north. Go all the way
+west and then 2 steps south.
+Head all the way east and then
+all the south. Head all the way
+west and then all the way north.
+Head all the way east and then
+all the way south.
+
+Go through the door. When you go
+through the door, you'll meet up
+with the Gunner and War Magus
+from before. They'll warn you
+about thier friend who turned
+evil. When you're done head 1
+step south and then head west.
+Go through the door and then all
+the way west and then up the
+stairs.
+
+--------------------------------
+Floor 13........................
+......[FL13] The Heart's Gordian
+Knot
+--------------------------------
+
+New monsters: Hugecrab, Wolf
+
+Monsters on Floor: Hugecrab,
+Wolf, Clawbug, Snowzard,
+Sleipnir
+
+FOES: 4 Armoths, 1 Darksoar
+
+Bosses: Drake
+
+Go south and 2 steps east. Go
+north and only slide on the
+first set of ice tiles. Go east
+and then all the way north. Go
+all the way east and then all
+the way south. Go east and then
+all the way north. Go all the
+way east and then all the way
+north.
+
+Go west and go around the corner
+until you get to a set of tile.
+Go all the way west and then all
+the way south. Go all the way
+west, all the way south and then
+1 step west. Go 2 steps south, 2
+steps west, 1 step south and
+then all the way west. Go
+through the door.
+
+Go all the way west and then all
+the way north. Go through the
+door and all the way north. Go
+all the way east, all the way
+north and through the door. Go
+all the way east, all the way
+north and through the door. Go
+all the way south and then all
+the way east.
+
+Go 2 steps north and then all
+the way east. Go south and then
+all the way west. Head all the
+way south. Mark the stairs and
+go up them.
+
+--------------------------------
+Floor 14........................
+......[FL14] Allure of the Ice
+Princess
+--------------------------------
+
+New monsters: Blue Gel, Redfish
+
+Monsters on Floor: Snowsoul,
+Fishman, Clawbug, Wolf,
+Moriyana, Blue Gel, Redfish
+
+FOES: 5 Darksoars, 4 Helldras
+
+Bosses: N/A
+
+Go 1 step north and then all the
+way west. Go through the door.
+You'll meet up with the Gunner
+from before. He'll just say some
+stuff. Head 2 steps west and
+then north. Go through the door
+and head all the way north. Head
+1 step north, 1 step east and
+through the door.
+
+Head 3 steps east and then go 6
+steps north. Go all the way west
+and through the door. Head all
+the way west and then 2 steps
+south. Head all the way and then
+north until you get to a
+passage. Go all the way west
+until you get to a door. Go
+through the door and go all the
+way south. Go through the door,
+1 step south, 1 step east and up
+the stairs.
+
+--------------------------------
+Floor 15........................
+......[FL15] Gateway to Sorrow
+--------------------------------
+
+New monsters: Snowbird, Nastue,
+Warbull
+
+Monsters on Floor: Snowsoul,
+Moriyana, Clawbug, Wolf, Blue
+Gel, Red Fish, Hugecrab,
+Snowbird, Nastue, Warbull
+
+FOES: 3 Helldras, 5 Armoths, 5
+Darksoars
+
+Bosses: Scylla, Artelind,
+Wilhelm
+
+Head 2 steps west and then
+south. If it's not night time
+you have wait until it is to
+pass. If you activated the
+Geomagnetic Pole, go back to
+town and nap at the Inn. Cross
+the ice and then go south. Go
+all the way east and go through
+the door.
+
+Go south and go through the
+door. Go all the way south, all
+the way west and then all the
+way north until you get to a
+passage (there is an ice tile in
+which in needs to be night to
+cross). Go 2 steps west and then
+all the way north. Go north and
+you'll meet up with Artelind and
+Wilhelm.
+
+Name: Artelind Description: One
+of the Guild Esbat. This young,
+but skilled, War Magus is among
+the most talented in the
+Dukedom. HP: 1900 AT: 48 DF: 55
+Skills: Poison, Thread, Cage
+Strategy: Artelind is with
+Wilhelm in the fight. You should
+go after her first because her
+attacks are more annoying. They
+have almost the same stats
+except for thier HP, in which
+they she has more.
+
+Name: Wilhelm Description: One
+of Guild Esbat. An old man know
+as Der Freischutz, he acts as
+Artelind, guardian. HP: 1700 AT:
+48 DF: 55 Skills: Fireshot,
+Iceshot, Voltshot Strategy:
+Wilhelm is with Aretelind in the
+fight. His attacks are
+elementally varied, so watch out
+for that.
+
+
+When you've killed them head
+north and go through the door.
+Go 1 step north and then all the
+way west. Head all the way north
+until you get to a door. Go
+through the door. Go all the way
+east and then around the corner.
+Go 5 steps east.
+
+Head all the way south and then
+all the way east. Go 3 steps
+north and then through the door.
+Go 2 steps east and then all the
+way north. Go 5 steps east and
+then all the way south. After
+you kill Scylla, go all the way
+south, all the way east and up
+the stairs.
+
+Name: Scylla Description: A
+beautiful ice monster that
+inhabits the Frozen Grounds. The
+love in her heart froze long
+ago. HP: 3100 AT: 55 DF: 60
+Skills: Cry Soul, Six Sins,
+Tentacle Strategy: Try using
+fire elemental attacks on
+Scylla. If you didn't use your
+force points on Wilhelm and
+Artelind you should use them
+now.
+
+--------------------------------
+Floor 16........................
+......[FL16] Echoing Leaden
+Footsteps
+--------------------------------
+
+New monsters: Killpion, Spider,
+Raicho, Waspior
+
+Monsters on Floor: Killpion,
+Spider, Raicho, Waspior
+
+FOES: 6 Shelltors, 1 Voltking,
+
+Bosses: N/A
+
+Head all the way west and
+through the door. Head all the
+way west again and through the
+door. Go 1 step west, 1 step
+north and through the door. Go 1
+step north and 1 step west. Go
+through the door and then all
+the way west. Go all the way
+south and then 1 step west.
+
+Go all the way south again and
+then 2 steps east. Go all the
+way south, all the way east, all
+the way south again, 1 step east
+and through the door. Go all the
+way east, all the way north, all
+the way east, 1 step north and
+then 3 steps east. Open the
+passage to the north and then
+all the way south and up the
+stairs.
+
+--------------------------------
+Floor 17........................
+......[FL17] Forest of Weeping
+Bounties
+--------------------------------
+
+New monsters: Rainbug, Windsnip
+
+Monsters on Floor: Raicho,
+Rainbug, Windsnip, Spider
+
+FOES: 11 Flygourds
+
+Bosses: Dragon
+
+Head 1 step north and 1 step
+west. Head all the way north and
+then 3 steps west. Head north
+and then up the stairs.
+
+--------------------------------
+Floor 18........................
+......[FL18] Sting that Fells
+the Fragile
+--------------------------------
+
+New monsters: Big Moth, Diatrima
+
+Monsters on Floor: Rainbug,
+Spider, Windsnip, Waspior
+
+FOES: 2 Flygourds, 5 Voltkings,
+1 Shelltor
+
+Bosses: N/A
+
+Go 1 step down, all the way
+west, all the way north and then
+2 steps east. Go all the way
+north, all the way west, all the
+way south, all the way west, all
+the way north, all the way west
+and then through the door. Go 1
+step west, 1 step south and then
+through the door.
+
+Go all the way south, 1 step
+west, 2 steps south and then all
+the way east. Go all the way
+south, 2 steps west and then
+through the door. Go all the way
+west, 1 step south, 1 step west
+and then go 6 steps south. Go
+all the way west, 1 step north,
+all the way east, all the way
+north, all the way east and then
+south and down the pit.
+
+Head all the way east until you
+get to a passage. Go north and
+then up the stairs. Go 6 steps
+south, all the way west and
+through the door. Go all the way
+east and through the door. Go
+all the way west and up the
+stairs.
+
+--------------------------------
+Floor 19........................
+......[FL19] The Painted
+Phantasms
+--------------------------------
+
+New monsters: Glowbird, Wrathbud
+
+Monsters on Floor: Glowbird,
+Wrathbud, Bigmoth, Rainbug
+
+FOES: 10 Cocatris
+
+Bosses: N/A
+
+Go all the way west, all the way
+north and then ride the
+platform. Go 2 steps north, all
+the way west and then ride the
+platform. Go all the way west
+and ride the platform. Go all
+the way west, all the way north
+and the ride the platform.
+
+Go all the way west and ride the
+platform. Go all the way south
+and then all the way west. Ride
+the platform. Go all the way
+south, all the way east and then
+ride the platform. Go 1 step
+north, 1 step east and then
+across the platform. Go 1 step
+east and then up the stairs.
+
+--------------------------------
+Floor 20........................
+......[FL20] An eternal winged
+war
+--------------------------------
+
+New monsters: Petaloid, Raven,
+Venombug
+
+Monsters on Floor: Petaloid,
+Raven, Venombug, Wrathbud,
+Waspior
+
+FOES: 1 Voltking, 6 Cocatris, 2
+Shelltors
+
+Bosses: Harpuia
+
+Go all the way north and you'll
+meet up with some guy with
+wings. He won't let you pass
+until you get a mission from
+Duke's Palace. You'll talk to
+him again. Go through the door.
+Go all the way north, all the
+way east and through the door.
+
+Go all the way east, all the way
+south and through the secret
+passage. Go all the way east, 3
+steps north, all the way east,
+all the way north, all the way
+west, 2 steps north, all the way
+east, all the way north and
+through the secret passage.
+
+Go all the way north, all the
+way west and through the secret
+passage. Go all the way south,
+all the west, 1 step south, all
+the way west, all the way north,
+all the way east, all the way
+north and through the secret
+passage. Go 1 step north, all
+the way west and through the
+door.
+
+Go all the way west and through
+the door. Go all the way west,
+all the way south and through
+the secret passage. Go 1 step
+south, 3 steps east, 4 steps
+south, all the way west, all the
+way north, all the way west, all
+the way north and through the
+secret passage.
+
+Go all the way west, all the way
+south, all the way east, 2 steps
+south and through secret
+passage. Go all the way south,
+all the way east, 1 step south
+and through the secret passage.
+Go 1 step north, 2 steps east
+and then through the door. Go
+all the way north to Harpuia.
+When you defeat her, go north
+and up the stairs.
+
+Name: Harpuia Description: The
+queen of the skies, whose
+strange harmonies inexorably
+lure explorers to their doom.
+HP: 4000 AT: 62 DF: 40 Skills:
+Claw, Feather, Shriek Strategy:
+Harpuia can hit moderately hard.
+She doesn't have that high stats
+and only has 4000HP. Just try
+hitting with your hardest attack
+and come with Force ready.
+
+--------------------------------
+Floor 21........................
+......[FL21] An evil-eyed door
+--------------------------------
+
+New monsters: Gold Gel, Woodbat,
+Mandrake, Nitemare
+
+Monsters on Floor: Gold Gel,
+Woodbat, Mandrake, Nitemare
+
+FOES: 4 Deathmen
+
+Bosses: N/A
+
+Go 5 steps north and all the way
+west (even along the belt). Go 1
+step south and across the
+conveyor belt. Go all the way
+south and then east, across 2
+conveyer belts. Go 4 steps east
+and across the conveyer belt. Go
+1 step north and all the way
+west.
+
+Go 1 step north and 3 steps
+west. Go all the way north and
+then 2 steps west. Go all the
+way north and then 2 steps east.
+Activate the shortcut to the
+north. Head all the way south
+and up the stairs.
+
+--------------------------------
+Floor 22........................
+......[FL22] The serpent's
+narrow path
+--------------------------------
+
+New monsters: Nozuchi, Ebonwing,
+King Gel
+
+Monsters on Floor: Gold Gel,
+Woodbat, Mandrake, Nitemare,
+Nozuchi, Ebonwing, King Gel
+
+FOES: 5 Evildras
+
+Bosses: N/A
+
+Go 1 step north and all the way
+west. Go all the way south and
+then all the way west. Go all
+the way south and then all the
+way east. Go 1 step south and
+then all the way east. Go 1 step
+north and then all the way east.
+Go north and then go across 2
+conveyer belts. Go 3 steps
+north, west and then across the
+belt. Go 1 step west, go all the
+way north and up the stairs.
+
+--------------------------------
+Floor 23........................
+......[FL23] A crazed black
+beast
+--------------------------------
+
+New monsters: Gemzard, Steelgun
+
+Monsters on Floor: Mandrake,
+Ebonwing, Gemzard, Steelgun
+
+FOES: 3 Deathmen, 3 Beamedge, 1
+Guardian, 2 Stireyes
+
+Bosses: Colossus
+
+Go south and through the door.
+Go 1 step south and all the way
+east. Go all the way south and
+all the way east. Go 4 steps
+south and then 3 steps east. Go
+all the way south and then 3
+steps west. Go all the way
+south, all the way west, through
+the door, 3 steps west, all the
+way north, through the door, all
+the way north, through the door,
+all the way north, kill the boss
+and then up the stairs.
+
+Name: Colossus Description: An
+ancient Labyrinth guardian that
+now rests in the floating
+castle. It has no weakness' HP:
+4500 AT: 77 DF: 80 Skills:
+Destroy, Horns, Brandish
+Strategy: Once again, not a lot
+of HP. Can hit pretty hard and
+its skills are pretty dangerous.
+Like every boss, come with force
+skills ready.
+
+--------------------------------
+Floor 24........................
+......[FL24] The dark eyes see
+all
+--------------------------------
+
+New monsters: Gigantue,
+Defender, Armorman
+
+Monsters on Floor: Gigantue,
+Defender, Armorman, Ebonwing,
+Nozuichi, Steelgun, Gemzard
+
+FOES: 8 Stireyes, 2 Evildras
+
+Bosses: N/A
+
+Head all the way west until you
+get to a second door. Go all the
+way north and go through the
+door. Go all the way north, all
+the way east, all the way north,
+all the way east, 2 steps north,
+all the way west, all the way
+south, 3 steps west, all the way
+north and down the stairs.
+
+Go all the way east, all the way
+south until a passage, down the
+passage, around the corner, all
+the way south and up the stairs.
+Go 1 step north, all the way
+east, across the belt, all the
+way south until a belt, all the
+way west, 4 steps south, all the
+way west, all the way north and
+up the stairs.
+
+Go all the way south and up the
+stairs. Go all the way east
+until you get to a second
+passage. Go 2 steps down, all
+the way east and through the
+door. Go all the way east, all
+the way north, all the way east,
+4 steps north, all the way east,
+all the way south, all the way
+east, all the way south and down
+the stairs.
+
+Go all the way north and down
+the stairs. Go 1 step west,
+across the belt, all the way
+west, all the way south, all the
+way west, all the way north
+until you're 2 steps away from a
+belt, all the way east, across
+the belt, 1 step east and up the
+stairs.
+
+Go all the way north, around the
+corner, all the way west, all
+the way north, 1 step east and
+up the stairs. Head all the way
+south, through the door, 3 steps
+west, through the door, 1 step
+north, all the way east, all the
+way north.
+
+All the way east, all the way
+south, all the way west, all the
+way south and then around the
+corner all the way until you're
+1 step away from a wall. Go all
+the way north and up the stairs.
+
+--------------------------------
+Floor 25........................
+......[FL25] The Overlord of
+Daybreak
+--------------------------------
+
+New monsters: Tortion
+
+Monsters on Floor: Woodbat, King
+Gel, Gemzard, Armorman,
+Defender, Tortion, Gold Gel,
+Nozuchi, Steelgun
+
+FOES: 7 Dinilochs, 3 Evildras, 4
+Deathmen, 1 Stireye
+
+Bosses: Overlord, Overlord
+
+Go all the way west, 2 steps
+south and through the door. Go
+all the way west, all the way
+south and through the door. Go
+all the way around the corner
+and through the door. Go all the
+way south and through the door.
+Go around the corner until you
+get to a passage, go down the
+passage and through the door.
+
+Go 1 step south and then all the
+way west. Go all the way north,
+all the way west, all the way
+north, all the way east and
+through the door. Go all the way
+north, around the corner and
+through the door. Go all the way
+east, all the way north and then
+all the way east.
+
+Go all the way north, all the
+way east, all the way south and
+then all the way east. Go all
+the way south, all the way east,
+all the way south again and then
+all the way east. Go 3 steps
+south and then all the way east.
+Go all the way south and then
+all the way east.
+
+Go all the way south, all the
+way west until you get to a
+passage, up the passage and
+through the door. Go all the way
+east, all the way north and
+through the door. Go 2 steps
+west and then all the way north.
+Go through the door. When you
+kill the first overlord walk
+forward to take on the second
+one. Enjoy the ending, but there
+is more!
+
+Name: Overlord Description:
+Known as the Heavenly Majesty
+and the Overlord both, he has
+cast off his human form. HP:
+5000 AT: 70 DF: 70 Skills:
+REPAIR, MACV, AACV Strategy: He
+has an OK amount of HP. It's
+your choice on which form to use
+your force on, but using on the
+second is reccomended
+
+Name: Overlord Description: The
+Overlord's true form, appearing
+with overwhelming power before
+the explorers HP: 8000 AT: 75
+DF: 75 Skills: Sunlight,
+Voltrain, Ice Rain Strategy:
+Overlord has varied attacks with
+all elements. He can hit harder
+than his first form and also has
+more HP.
+
+--------------------------------
+Floor 26........................
+......[FL26] A Sealed, Distorted
+Corridor
+--------------------------------
+
+New monsters: Kingcap, Gorezard,
+Bloodman, Oldcrab
+
+Monsters on Floor: Kingcap,
+Gorezard, Bloodman, Oldcrab
+
+FOES: 14 Asterios'
+
+Bosses: Golem (on B27, but is
+enountered through progress of
+26F)
+
+Before you try advancing through
+26F you beat the quests
+Rendering Assistance, The Second
+Grail and Blood for the Grail.
+Go all the way south, all the
+way east, all the way north, 2
+steps west, all the way north, 1
+step west, all the way north and
+then up the stairs.
+
+Go all the way north. Canaan
+will do and say some stuff. Go
+all the way north. You pick up a
+sword but it drops lower. After
+that the Golem appears.
+
+Name: Golem Description: A
+mysterious artificial being
+sleeping within the forest. No
+one knows why it was built. HP:
+6000 AT: 80 DF: 90 Skills:
+Reflect, Hammer, Hammers
+Strategy: You're going to want
+to a Troubador or War Magus with
+Erasure because Golem uses a lot
+skills to help him. He has high
+physical restiance. Try using
+OHKO against him. Hammer and
+Hammers can both hit hard, but
+hammers can hit your entire
+party.
+
+When you kill him, go to C3 of
+01F and pick up the sword. Go
+back to the stairs to B27F and
+head all the way south and enter
+the portal. Go all the way
+north, all the way west and
+through the portal. Go all the
+way north, all the way east, all
+the way north and through the
+portal.
+
+Go all the way south, all the
+way east and through the portal
+to the south. Go all the way
+west, all the way north, 1 step
+east, 2 steps north, 2 steps
+east and through the portal to
+the north. Go all the way around
+the corner, 3 steps west, all
+the way south and up the beam.
+
+--------------------------------
+Floor 27........................
+......[FL27] Imprisoned by God's
+Keys
+--------------------------------
+
+New monsters: Sickwood, Trihorn
+
+Monsters on Floor: Oldcrab,
+Sickwood, Gorezard, Trihorn,
+Kingcap
+
+FOES: 2 Asterios, 5 Riptors
+
+Bosses: Golem
+
+Go all the way north and up the
+stairs.
+
+--------------------------------
+Floor 28........................
+......[FL28] The Child Loathed
+by Heaven
+--------------------------------
+
+New monsters: Ebonail, Carbuncl
+
+Monsters on Floor: Kingcap,
+Gorezard, Bloodman, Trihorn,
+Sickwood, Ebonail, Carbuncl, Old
+Crab
+
+FOES: 2 Riptors
+
+Bosses: Briareus
+
+Go all the way south, all the
+way east, all the way south, all
+the way east, all the way south,
+all the way east, all the way
+south, all the way west, all the
+way south, 1 step west and
+through the passage to the
+south. Go around the corner, all
+the way west, all the way north
+and all the way west.
+
+All the way north, all the way
+west, all the way north, all the
+way west, all the way north and
+through the passage to the east.
+Go around the corner, all the
+way south and all the way east 3
+times, all the way south and
+then through the passage to the
+south.
+
+Go all the way east, all the way
+south and through the passage to
+the east. Go all the way south,
+all the way east, around the
+corner, all the way east and all
+the way north 2 times, 1 step
+east and through the passage to
+the north. Go 2 steps west and
+through the passage to the
+north.
+
+Go all the way north and all the
+way east 3 times, 1 step north
+and through the passage to the
+east. Go 2 steps north and
+through the passage to the east.
+Go 2 steps north and through the
+passage to the east. Go all the
+way north, all the way west, 3
+steps north, all the way east
+and down the beam.
+
+Go 1 step south, all the way
+west, 1 step north, all the way
+west and then activate the
+switch. Go back to the beam and
+go up it. Go all the way west
+and through the passage. Go all
+the way west, all the way north,
+all the way west, and through
+the passage to the east.
+
+Go 1 step south, all the way
+west and through the passage to
+the south. Go all the way west
+and all the way south 2 times.
+Go all the way west, 3 steps
+south, all the way east and
+through the door. Go 2 steps
+east, all the way south and up
+the beam.
+
+--------------------------------
+Floor 29........................
+......[FL29] Lost in Illusion
+--------------------------------
+
+New monsters: Cactlord,
+Crawlest, Mothlord
+
+Monsters on Floor: Ebonail,
+Sicktree, Trihorn, Cactlord,
+Crawlest, Mothlord
+
+FOES: 4 Icekings, 2 Hexgourds, 5
+Asterios, 2 Riptors
+
+Bosses: N/A
+
+Go all the way north. You'l meet
+up with Canaan. He'll say that
+monsters from this Stratum are
+going to the lower floors. Go to
+01F and kill the 3 Greenbuds
+located at A1, A2 and D1. After
+you kill them, head back to 29F.
+Go all the way north and through
+the door.
+
+Go all the way north and through
+the portal. Go all the way east,
+all the way north, 5 steps west,
+all the way north and through
+the portal. Go all the way east
+and through the portal. Go
+through the door, all the way
+west, 9 steps south, all the way
+east, 5 steps north and through
+the door.
+
+Go all the way south and through
+the portal. Go through the door,
+all the way south, through the
+door, 1 step south, 1 step west,
+through the door, all the way
+west, all the way south, all the
+way east, all the way north, all
+the way east, all the way north
+and all the way east.
+
+All the way north, 3 steps east,
+all the way north, all the way
+east, all the way north, all the
+way west, all the way north,
+around the corner, all the way
+west through the door, all the
+way north and through the
+portal. Go all the way around
+the corner, all the way north,
+around the corner, 3 steps
+north, 1 step west, all the way
+north, 1 step east and up the
+beam
+
+--------------------------------
+Floor 30........................
+......[FL30] Heroes' Unmarked
+Grave
+--------------------------------
+
+New monsters: Sauromar, Muckdile
+
+Monsters on Floor: Sauromar,
+Muckdile, Gorezard, Kingcap,
+Mothlord, Sickwood, Crawlest
+
+FOES: 12 Riptors, 4 Asterios, 3
+Icekings
+
+Bosses: Ur-Child
+
+Go all the way south and through
+the door. Go 2 steps south, all
+the way west, 1 step south, all
+the way west, all the way north
+and through the portal. Go all
+the way east, around the corner,
+all the way east, 1 step north,
+all the way east and through the
+door.
+
+Go all the way east and through
+the portal. Go all the way
+around the corner, all the way
+west, all the way south, 2 steps
+west, all the way north and
+through the door. Go all the way
+north and through the portal. Go
+all the way north, all the way
+east, all the way south, all the
+way west, around the corner
+twice and through the door.
+
+Go all the way south and through
+the portal. Go all the way west,
+all the way north until you get
+to a passage, all the way west
+and through the portal. Go
+around the corner twice, all the
+way east, all the way north and
+through the door. Go all the way
+north and through the portal.
+
+Go all the way east, all the way
+north, around the corner twice,
+all the way south and through
+the door. Go all the way south
+and through the portal. Go
+around the corner, all the way
+east, all the way south, go all
+the way east, all the way south,
+around the corner and through
+the door.
+
+Go all the way west and through
+the portal. Go all the way west,
+2 step south, 3 steps east, all
+the way north and through the
+door. Go all the way north,
+around the portal, all the way
+north and through the portal. Go
+all the way west and activate
+the passage. Go all the way
+east. The final boss is behind
+the red door. Be prepared!
+
+Name: Ur-Child Description: An
+organism created by the
+overseers of heaven. Its power
+surpasses even that of higher
+beings. HP: 25000 AT: 110 DF:
+110 Skills: Wildance, Anger,
+Sadness Strategy: Ur-Child has
+more skills than the game lists.
+He has skills that are elemental
+(Fire, Ice, Volt) and attacks
+that can kill you in one shot.
+If he uses Heatskin, everyone
+who attacks, dies. Begone and
+Solitude are also devastating
+attacks. Use a party constisting
+of : R|DH|WM|G|H|. Make the WM
+use Warmight on the Ronin, and
+the gunner if you have a chance.
+Make the Ronin use Midareba.
+Make the Dark Hunter use
+Dominate to bind him. Make the
+gunner use Riot Gun on the turn
+the Dark Hunter is going to use
+Dominate. Make the Hexer use
+spells (Frailty, Sapping) or if
+s/he has Revenge use that. If
+you don't have a Hexer, use any
+character. That character can be
+used to give Axcelas to the DH
+and G. When the WM has already
+done Warmight, s/he should give
+Axcelas as well. When the gunner
+is not using Riot Gun, make
+her/him use Ricochet. Make sure
+to come to the battle with force
+ready by using charging on the
+monsters on 29F. Come with the
+best equipment you can.
+
+
+When you kill Ur-Child, warp (or
+walk if you forgot a Warp Wire)
+back to town. Unless you haven't
+beaten all the quests or got all
+the entries done, you're done
+the game completely. Go to
+different places and see what
+people have to say.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~Part 3~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+--------------------------------
+1.0.Quests......................
+........[QEST]
+--------------------------------
+
+This is the part of the
+Walkthrough that helps you with
+Quests. You can accept quests at
+the Stickleback Bar. Once you've
+completed a quest, report back
+here to get your reward.
+
+Name: Of Quest Description: From
+game Reward: For beating How to
+beat: The Quest Difficulty: On a
+scale of 1-5 in *'s, in my
+opinion
+
+================================
+
+Name: Pure Mineral Water
+Description: A local
+restauranteur needs his supply
+of clear mineral water
+replenished. Retrieve some from
+the Labyrinth. Reward: Freeze
+Oil How to beat: From the B1
+stairs take the right passage in
+the clearing. Go down the
+passage and take the first
+passage. Go down the passage to
+get the water. Retur Difficulty:
+*
+
+Name: The leathersmith's request
+Description: A local
+leathersmith has requested a
+group of explorers to retrieve 3
+Long Pins for him. Reward: 200en
+How to beat: Kill Hedgehogs
+until you get 3 Long Pins. They
+are found in the early floors.
+Difficulty: *
+
+Name: A cranky monster
+Description: A monster resting
+in the 1st floor woke up and
+began to attack the passersby!
+It must be defeated Reward:
+Nectar How to beat: Remember
+that big clearing and the first
+F.O.E. you saw. Head on over to
+there (B2) and kill the Gashtor.
+Difficulty: ****
+
+Name: In the Duke's Service I
+Description: The Grand Duchy
+seeks a guild that can spare a
+Landskencht who has reached at
+least level 3. Reward: Power
+Ring How to beat: Just get a
+level 3 Landskencht Difficulty:
+*
+
+Name: The item trade I
+Description: Sitoth Trading is
+developing a new weapon, and
+they need explorers to collect
+the materials for it. Reward:
+Wood Bow How to beat: First head
+to Sitoth trading and talk to
+the girl. She needs a bug wing
+and a bent twig. You can get bug
+twigs from Venomflies and
+Difficulty: **
+
+Name: The nameless flower
+Description: Bring an onld lasy
+her proposal flower in memorial
+of her late husband. Reward:
+400en How to beat: Head to D6 of
+05F. Above the loop, you find a
+flower. Pick and defeat the 3
+Hypnols that attack to finish
+the quest. Difficulty: **
+
+Name: Braggart Chap's tall tale
+Description: Another of Braggart
+Chap's stories talks of a pond
+that holds the moon's tears.
+Reward: Fungus Jet How to beat:
+Head to B4 of 05F. At the end of
+the passage there is an alcove.
+Get the moons tears from there
+to complete the quest.
+Difficulty:
+
+Name: In the Duke's service II
+Description: The Grand Duchy
+seeks a guild that can spare a
+protector who has reached
+atleast level 3. Reward: Charm
+Gas How to beat: Just level a
+protector to level 3.
+Difficulty: *
+
+Name: The dying forest
+Description: The Labyrinth's
+trees are dying of an unknown
+disease. PLease help us
+investigate the phenomenon.
+Reward: Volt Jar How to beat:
+You have to find the places
+where the tress are dying. They
+are: A1 of 05F, B7 of 06F and D6
+of 07F Difficulty:
+
+Name: Smithy Thompson's request
+I Description: Thompson at
+Sitoth Trading needs certain
+materials to complete his
+lastest project. Reward: Fungus
+Jet How to beat: You need to get
+a Fluorite and an Open Cap. Open
+caps can be obtained from
+Bigcaps and Fluorite can be
+obtained from mining.
+Difficulty: *
+
+Name: In the Duke's service III
+Description: The Grand Duchy
+seeks a guild that can spare a
+Survivalist who has reached
+atleast level 3. Reward: Charm
+Gas How to beat: Just level a
+Survivalist to level 3.
+Difficulty: *
+
+Name: Medicinal research
+Description: New medical
+experiments are underway at the
+hospital. We ask that you assist
+them in gathering ingredients.
+Reward: Medica II How to beat:
+Get a Mint Leaf and sell it to
+Sitoth Trading. You can get Mint
+leafs from Moriyanas.
+Difficulty: *
+
+Name: Connoisseur of leather
+Description: Lord Gascoyne
+collects animal hides, and
+greatly desires the skin from a
+rare Labyrinth denizen. Reward:
+Pole Stone How to beat: Go down
+to 06F and walk south of
+Geomagnetic Field. Chase and
+kill the F.O.E. that appears.
+Difficulty: *
+
+Name: Volunteer service I
+Description: The hospital lacks
+trained medics to deal with
+those wounded in the recent
+shipwreck. Please send help.
+Reward: Amrita How to beat:
+Level a Medic to level 3.
+Difficulty: *
+
+Name: Man down Description: A
+guild has lost one of its
+number. To claim revenge they
+need an Alchemest to help the
+defeat the monster. Reward:
+Flame Jar How to beat: Level an
+Alchemest to level 3.
+Difficulty: *
+
+Name: To the bitter end
+Description: My love... My only
+love... I want that monster that
+killed him dead! I will have my
+revenge Reward: Ice mist How to
+beat: Go to B5 of 012F and kill
+the Killfish. Difficulty: **
+
+Name: Playing Cupid I
+Description: No matter what I
+give this girl, she won't warm
+up to me. Please find something
+she can't say no to! Reward:
+Fate beads How to beat: You have
+to get an Ice Sheet. They can be
+mined on 12F in B2. Difficulty:
+*
+
+Name: Forbidden foreign style
+Description: The organizers of
+the yearly martial arts
+competition are looking for a
+skilled Ronin to warm up the
+crowd Reward: Bravant How to
+beat: Level a ronin to level 3.
+Difficulty: *
+
+Name: Dinner for one
+Description: I'm cooking up a
+surprise for my husband, but I
+can't afford the ingredients.
+Can you help me out. Reward: Cut
+Jar How to beat: You need to get
+a Bee Needle, a Heaven Pin and a
+Hazard Eye. You can get a Bee
+Needle from a Waspior, a Heavan
+Pin from Killpions and Hazard
+Eyes from Petaloids. Difficulty:
+***
+
+Name: Towards a Cozier Inn
+Description: Another request
+from the Flaus Inn, this time to
+collect materials for thier
+upcoming renovation. Reward:
+Sleep Gas How to beat: Get 3 Red
+Roots and 2 Hardwoods. They can
+both be chopped on 07F at A4.
+Difficulty: *
+
+Name: Many happy returns
+Description: We'd like to give
+the Duke's daughter jewelry for
+her birthday. Can you find up
+some precious Jewels. Reward:
+300en-1500en How to beat: Get
+stones from various locations in
+the Labyrinth. 02F:C1 07F:A4
+06F:C3 09F:A4 10F:D1 Difficulty:
+**
+
+Name: The naturalists
+Description: We need more
+details about the monsters in
+the Labyrinth. Log over 50
+entries in the Monstrous Codex.
+Reward: 2,500en How to beat:
+Simple kill 50 enemies and log
+them in. Difficulty: ***
+
+Name: Art imitating life
+Description: An armorsmith wants
+monster body parts to study
+research in making a new type of
+equipment. Reward: Gountlet How
+to beat: Get 3 Pale Armours from
+Nastues Difficulty: *
+
+Name: The item trade III
+Description: Sitoth Trading is
+developing a new sword, and we
+need a guild to collect
+materials for us. Reward:
+Pattisa How to beat: Sell a Plum
+Quill toSitoth Trading. They can
+be obtained from Big Moths.
+Difficulty: *
+
+Name: Rescue Operation
+Description: My assistant
+entered the forest alone to test
+the medicine, and she hasn't
+returned yet! Please help her!
+Reward: Therica BX How to beat:
+Head to C3 of 15F and kill the 3
+Mawfish before they get to D5.
+Difficulty: **
+
+Name: Beast gone berserk
+Description: The monster on the
+11th floor has become very
+aggresive. Please investigate
+the underlying cause. Reward:
+Therica BX How to beat: Head to
+B2 of 11F. Go around in a circle
+after making the beast chase
+you. When you're back around go
+through the door. You'll find
+out there's nothing wrong and
+tell the old guy at the Duke's
+Palace. Make sure you don't kill
+the monster. Difficulty: **
+
+Name: Yggdrasil Cider
+Description: I ran out of my
+best liquor... You have to help
+me get some more ingredients
+from the Labyrinth! Reward:
+Medica III How to beat: You need
+to get 2 White Chips, 2 Blue
+Cores and 2 Death Stems for
+Cass. You can get white chips
+from Darksoars, Blue Cores from
+Blue Gels and Death Stems from
+chopping on 11F in F5.
+Difficulty: *
+
+Name: Labyrinth Stew
+Description: The Labyrinth Lunch
+is a popular meal, but we're out
+of ingredients. Can you be a
+dear and get us some. Reward:
+Metopon How to beat: You need to
+get 3 Mugworts and 1 Moving Eye.
+You can get Mugworts from Taking
+on 06F in B3 and Moving eyes
+from Fangleaves. Difficulty: *
+
+Name: Volunteer Service II
+Description: The influx of of
+wounded Labyrinth explorers has
+depleted our supplies. We need
+ingredients for the Medicine.
+Reward: Therica AX How to beat:
+You need to get 5 Mint Leaves
+and 3 Beast Hides. You can get
+Mint Leaves from Taking on 06F
+in B3 and Beast Hides from
+Gigaboars. Difficulty: *
+
+Name: List Mania Description:
+Help the guards collate
+information about the Labyrinth
+by reporting at least 350
+distinct items. Reward: Storm
+Jar How to beat: You have to
+file 350 in the Item Compendium
+and Gear Registry. Difficulty:
+***
+
+Name: Sounding the Call
+Description: The Grand Duchy's
+guards are looking for 3 Red
+Shards to fashion their
+traditional hunting horn.
+Reward: Poison Gas How to beat:
+Get 3 Red Shards from Red Horns
+Difficulty: *
+
+Name: Special projects team
+Description: The 4th floor
+monsters are becoming more
+aggresive. Stay there for three
+days, slaying as many as
+possible. Reward: Life Belt How
+to beat: Just stay on 4th floor
+from three days straight. You
+cannot leave the floor until you
+are done. Difficulty: ****
+
+Name: Paint the town blue
+Description: The amazonite used
+to decorate used to the town's
+roads is old and worn. Bring 5
+new rocks to replace it. Reward:
+Blind Gas How to beat: Get 5
+Amazonites from Mystues.
+Difficulty: **
+
+Name: The company preformer
+Description: The naval band is
+hiring a Troubador to support
+the front lines. Reward: Axcela
+How to beat: Level a Troubador
+to level 3. Difficulty: *
+
+Name: Rendering Assistance
+Description: There are
+unexplored regions in the
+floating castle. We would like
+you to investigate them. Reward:
+Antivenin How to beat: First go
+talk to the old man at Duke's
+Palace. You have to map out 22F.
+You have to step on every tile,
+is what is believed. Difficulty:
+*****
+
+Name: The second grail
+Description: We got a letter
+adressed to (guild name here).
+Talk to me as soon as yeh see
+this. Reward: Soma II How to
+beat: Find the Grail at D4
+Difficulty: *
+
+Name: Blood for the grail
+Description: It's another
+request for yeh lot. I know the
+place, but I dunno the detail.
+Reward: Nectar III How to beat:
+Kill monsters until you have
+enough blood. Kill FOEs on the
+5th Stratum. Difficulty: **
+
+--------------------------------
+2.0.Legal.......................
+--------------------------------
+
+Only Gamefaqs has permission to
+host this FAQ. If any other
+sites or people take the entire
+or a part of this walkthrough
+legal action can and will be
+taken.
+
+Copyright 2008 Hangid (c)

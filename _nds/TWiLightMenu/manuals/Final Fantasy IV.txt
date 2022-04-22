@@ -1,0 +1,6546 @@
+Final Fantasy IV
+Nintendo DS
+Version: 1.05
+Finalfantasy_623@yahoo.com
+Copyright 2008 Mishael Zerrudo
+--------------------------------
+
+I. Introduction [INTR]
+II. Characters [CHR]
+III. Walkthrough [WKTR]
+- Baron Castle [WKTR01]
+- Baron [WKTR02]
+- Mist Cave [WKTR03]
+- Mist [WKTR04]
+- Kaipo [WKTR05]
+- Underground Waterway [WKTR06]
+- Damcyan [WKTR07]
+- Antlion's Den [WKTR08]
+- Kaipo [WKTR09]
+- Mount Hobs [WKTR10]
+- Fabul Castle [WKTR11]
+- Mysidia [WKTR12]
+- Mount Ordeals [WKTR13]
+- Mysidia [WKTR14]
+- Baron [WKTR15]
+- Ancient Waterway [WKTR16]
+- Baron Castle [WKTR17]
+- Ancient Waterway (Optional) [O
+- Mysidia (Optional) [OPTL02]
+- Mythril (Optional) [OPTL03]
+- Mist (Optional) [OPTL04]
+- Troia [WKTR18]
+- Troia Castle [WKTR19]
+- Chocobo Village [WKTR20]
+- Lodestone Cavern [WKTR21]
+- Troia Castle [WKTR22]
+- Tower of Zot [WKTR23]
+- Baron Castle [WKTR24]
+- Agart [WKTR25]
+- Dwarven Castle [WKTR26]
+- Tower of Babil [WKTR27]
+- Baron Castle [WKTR28]
+- Eblan Castle (Optional) [OPTL0
+- Cave of Eblan [WKTR29]
+- Tower of Babil [WKTR30]
+- Dwarven Castle [WKTR31]
+- Tomra (Optional) [OPTL06]
+- Passage of the Eidolons (Optio
+- The Feymarch (Optional) [OPTL0
+- Sylph Cave (Optional) [OPTL09]
+- Sealed Cave [WKTR32]
+- Dwarven Castle [WKTR33]
+- Adamant Isle Grotto (Optional)
+- Kokkol's Forge (Optional) [OPT
+- Baron Castle (Optional) [OPTL1
+- Fabul Castle {Optional) [OPTL1
+- Sylph Cave (Optional) [OPTL14]
+- Mysidia [WKTR34]
+- Lunar Tunnel [WKTR35]
+- Crystal Palace [WKTR36]
+- Lair of the Father (Optional) 
+- Hummingway Abode (Optional) [O
+- Giant of Babil [WKTR37]
+- Baron Castle (Optional) [OPTL1
+- Kokkol's Forge (Optional) [OPT
+- The Feymarch (Optional) [OPTL1
+- Crystal Palace [WKTR38]
+- Lunar Subterrane [WKTR39]
+IV. New Game+ Optional Bosses
+[OPTLBS] V. Namingway Sidequest
+[NMNG] VI. Magic/Skills [MGCSKL]
+VII. Items [ITMS] VIII. Weapons
+[WPNS] IX. Armors/Helm/Shield
+[ARMR] X. Accessory [ACCS] XI.
+Augments [AGMNT] XII. Conclusion
+[CLSE]
+
+================================
+I. Introduction [INTR]
+================================
+
+Final Fantasy IV for the
+Nintendo DS is the fourth
+version of Final Fantasy IV.
+From what I've heard, this
+version is much more harder than
+any other version of Final
+Fantasy IV. Final Fantasy IV is
+about a dark knight named Cecil.
+After stealing Mysidia's
+crystal, Cecil started to doubt
+their king. His journey to
+protect the rest of the world's
+crystal then began.
+
+================================
+II. Characters [CHR]
+================================
+
+Name: Cecil Class: Dark
+Knight/Paladin Abilities:
+Darkness (Dark Knight), White
+Magic, Cover (Paladin) Cecil is
+the Captain of the Red Wings.
+After his attack on Mysidia, he
+started to have doubts about the
+king and ended up losing his
+title as captain. After he heard
+that the new Captain of the Red
+Wings are going after the other
+town's crystals, he went on a
+journey to protect them.
+
+Name: Kain Class: Dragoon
+Abilities: Jump Kain is Cecil's
+best friend. They both lost
+their parents and were adopted
+by the king. Kain accompanied
+Cecil to the Mist Village after
+Cecil lost his title as Captain
+of the Red Wings.
+
+Name: Rydia Class: Summoner
+Abilities: White Magic, Black
+Magic, Summon Rydia is a girl
+from the Mist Village. She met
+Cecil and Kain when her village
+was destroyed. She didn't trust
+Cecil at first but she got
+closer to him after he protected
+her from Baron Soldiers.
+
+Name: Tellah Class: Sage
+Abilities: Recall, Black Magic,
+White Magic Tellah is a powerful
+mage. He met Cecil and Rydia in
+the Underground Waterway when
+they were on their way to
+Damcyan. Tellah asked Cecil for
+help to defeat the monster
+blocking the way to Damcyan so
+he can get to his daughter.
+
+Name: Edward Class: Bard
+Abilities: Hide, Salve, Bardsong
+Edward is the prince of Damcyan.
+He disguised himself as a bard
+so he won't catch other people's
+attention. Edward is in love
+with Tellah's daughter Anna but
+he won't approve of their
+marriage. Edward joined Cecil
+and Rydia to help them save Rosa
+when she became ill.
+
+Name: Rosa Class: White Mage
+Abilities: Aim, White Magic,
+Pray Rosa is a white mage from
+Baron. Rosa has a huge crush on
+Cecil. The reason she became a
+white mage was because she
+wanted to help Cecil. After the
+earthquake in Mist, she left
+Baron and followed Cecil but she
+ended up getting sick in the
+Kaipo Desert.
+
+Name: Yang Class: Monk
+Abilities: Focus, Kick, Brace
+Yang is a monk from Fabul. He's
+very well mannered and looks
+after the group. He joins Cecil
+and the others when he found out
+that the Red Wings are after
+Fabul's Crystal.
+
+Name: Porom Class: White Mage
+Abilities: Twincast, Cry, White
+Magic Porom is an apprentice
+White Mage from Mysidia. Just
+like Yang, Porom is very well
+mannered. She joined Cecil when
+he went to Mount Ordeals to take
+the test to become a Paladin.
+
+Name: Palom Class: Black Mage
+Abilities: Twincast, Bluff,
+Black Magic Palom is an
+apprentice Black Mage from
+Mysidia. Palom is Porom's twin
+brother but unlike his sister,
+he has very bad manners. He
+joined Cecil when he went to
+Mount Ordeals to take the test
+to become a Paladin.
+
+Name: Cid Class: Engineer
+Abilities: Analyze, Upgrade Cid
+is the airship engineer of
+Baron. Cid joined Cecil to help
+rescue Rosa and to protect the
+overworld's final crystal.
+
+Name: Edge Class: Ninja
+Abilities: Steal, Throw,
+Ninjutsu Edge is the prince of
+Eblan. Edge is very hot headed
+and does not act like a prince
+at all. He joined Cecil and the
+others when they were about to
+retrieve the crystals in the
+Tower of Babil. Edge joined them
+so he can avenge his parent's
+death.
+
+Name: Fusoya Class: Lunarian
+Abilities: Bless, White Magic,
+Black Magic Fusoya is a
+lunarian. There's not much to
+say about him. He joined Cecil
+for a short time to help stop
+the Giant of Babil.
+
+================================
+III. Walkthrough [WKTR]
+================================
+
+The game starts with a scene
+with the Red Wings. You will be
+then sent to a battle with 2
+Floating Eyes. This battle is
+pretty easy. Just attack them
+normally or you can use your
+item, Red Fang, to kill them
+with one hit. After the scene
+you will end up in Baron Castle
+
+-------------------------------
+Baron Castle [WKTR01]
+-------------------------------
+Items: *Carnelian Signet, 480
+gil, Ether, Tent
+
+Once you have control of Cecil,
+go to the right and talk to Kain
+for a quick scene. Now head back
+and exit south.
+
+Continue south and then east
+when you can. Examine the yellow
+circle on the wall to open a
+hidden room. There are three
+treasure chests in here. Now go
+to the west and go up the
+stairs. Follow the path and you
+will get into a scene with Rosa.
+Now exit this room and then head
+north. Another scene will occur
+when you get close to the door
+to the north. After the scene,
+enter the door to the left.
+
+Talk to the rabbit in here and
+he'll tell you that his name is
+Namingway. Previous FFIV players
+should know who he is.
+Unfortunately, Namingway can't
+change your name on this version
+of FFIV. After you talk to him,
+head upstairs to your room.
+Examine your bed and rest for
+the night to activate a scene.
+
+After the scene, you will end up
+outside Baron Castle. Enter the
+town right below Baron Castle.
+
+-------------------------------
+Baron [WKTR02]
+-------------------------------
+Items: Potion x4, Gnomish Bread,
+Tent x2, Eye Drops, Bronze
+Hourglass,
+ Phoenix Down x2
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop
+
+Potion               30 gil
+Phoenix Down        100 gil
+Gold Needle          80 gil
+Eye Drops            30 gil
+Antidote             40 gil
+Tent                 100 gil
+Bestiary              50 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Start by examining the bush to
+the right of the Inn for a
+potion. Go inside the Inn and
+examine the pot to the left of
+the entrance for another potion.
+Now go upstairs and examine the
+yellow circle on the wall. A
+hidden room will open up
+containing three treasure
+chests.
+
+Go back outside and examine the
+pot and bush near the house
+north of the inn. Now enter the
+building to the west of this
+house and go downstairs. If this
+is your first time playing FFIV
+then you should talk to everyone
+here because they'll tell you
+the controls and some other info
+in the game such as running away
+from battle, etc.
+
+Now go back to the house to the
+north of the inn and cross the
+bridge to the north. Go up the
+stairs and you'll find a dancer.
+To her left is a staircase
+leading to the water. Go down
+the waterfall and follow the
+path all the way to the end.
+There are two hidden treasure
+chests here.
+
+Go back to the dancer. Go back
+downstairs and then head east,
+then north. If you find an old
+lady here then you're in the
+right place. Now head west by
+going behind the town (Be
+careful not to exit the town).
+Now head all the way to the west
+(don't exit town) and examine
+the big bush (or is it a tree?)
+behind the wall to get a phoenix
+down. Now examine the wall
+behind the weapon/armor shop for
+another phoenix down.
+
+That's all the items in this
+town, you're free to explore the
+town and do some shopping. When
+you're done, exit the town and
+then head all the way to the
+west and then north to find the
+Mist Cave.
+
+-------------------------------
+Mist Cave [WKTR03]
+-------------------------------
+Monsters: Eyewing Moth, Larva,
+Sword Rat, *Mist Dragon Items:
+Potion x2, Eye Drops, Tent Map
+Completion: Potion x5 My Party:
+Cecil Lv. 11 Kain Lv. 10
+
+A scene with Namingway will
+occur when you enter. After the
+scene, just follow the path
+until another scene occurs. Go
+up the stairs and get the
+treasure chest containing a
+potion. Now head east and then
+go up the stairs there to get a
+treasure chest containing eye
+drops. Now head south down the
+stairs to get a treasure chest
+containing a tent. Now go back
+up the stairs and head east.
+Just follow the path until you
+find the boss.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Mist Dragon
+Weak: Dark
+
+This is the first boss so it
+should be pretty easy. Cecil's
+weapon is a dark type so it
+should deal big damage to the
+dragon. You can use darkness for
+extra damage but it's not really
+needed. Kain should just use
+jump. Don't attack the Mist
+Dragon when it turns into mist.
+It'll counter attack with Cold
+Mist that hits both Cecil and
+Kain. Wait for it to return to
+dragon form and then attack
+again. ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+
+After the battle, exit the cave
+north. Head east to enter the
+Mist Village.
+
+-------------------------------
+Mist [WKTR04]
+-------------------------------
+Items: None
+
+A scene will occur here. You
+will end up back in the
+overworld after the scene. Head
+northeast to find Kaipo.
+
+-------------------------------
+Kaipo [WKTR05]
+-------------------------------
+Items: *Auto-Potion Augment
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop
+
+Potion               30 gil
+Phoenix Down        100 gil
+Gold Needle          80 gil
+Maiden's Kiss        60 gil
+Eye Drops            30 gil
+Antidote             40 gil
+Tent                 100 gil
+Emergency Exit       200 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Weapon Shop
+
+Rod                 100 gil
+Staff               160 gil
+Bow                 220 gil
+Iron Arrow           50 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Armor Shop
+
+Leather Cap         100 gil
+Clothing             50 gil
+Leather Clothing    200 gil
+Iron Armlet         100 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+A battle will start after the
+scene.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: General
+Baron Soldier x3 Weak: None
+
+Easy battle. Just kill the Baron
+Soldiers and the General will
+retreat when they are all dead. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+Rydia will join after the
+battle.
+
+Exit the Inn and head west to
+find the Fat Chocobo. When
+you're done, enter the
+northeastern most house on the
+map. Talk to Mappingway and
+he'll let you view the bestiary.
+Now continue going inside the
+house and you'll find Rosa.
+She'll give you the Auto-Potion
+Augment. Exit the house and
+Livingway will explain to you
+how to use Augments.
+
+Now do some shopping and then
+exit the town. Head northeast to
+find the Underground Waterway.
+You might want to give Rydia
+some more levels before
+entering.
+
+-------------------------------
+Underground Waterway [WKTR06]
+-------------------------------
+Monsters: Goblin, Sword Rat,
+Tiny Mage, Sahagin, Fangshell,
+Amoeba,
+    Killer Fish, Gigantoad, Toad
+    *Octomammoth
+Items: Maiden's Kiss, Potion x4,
+Tent, Ether x4, Dry Ether,
+X-Potion,
+ Phoenix Down, Ice Rod, 580 gil,
+ Zeus's Wrath, Shadowblade, Bron
+ Hades Helm, Hades Armor, Hermes
+Map Completion: First Map - Eye
+Drops x5, Second Map - Antidote
+x5,
+  Third Map - Tent x3, Fourth Ma
+Fifth Map - Ether, Sixth Map -
+Potion x5,
+ Seventh Map - Zeus's Wrath x3
+My Party: Cecil Lv. 13
+	    Rydia Lv. 10
+
+Start by getting the two
+treasure chests to the north. Go
+back south and then head west.
+Head south and you'll find a
+treasure chest containing a
+tent. Now head north and talk to
+the old man. Tellah will join
+your party.
+
+Now head all the way to the east
+and then head south down the
+stairs to the water. Head north
+under the bridge and you'll find
+a treasure chest containing
+ether. Now head back south and
+then go all the way to the west.
+There's a hidden room behind the
+waterfall (left side). In the
+hidden room are three treasure
+chests containing dry ether,
+x-potion and a phoenix down. Now
+head back to where you met
+Tellah and then head north to
+the next area.
+
+Head north and then down the
+stairs on the water. Head west
+the first time you can and go
+upstairs. Head north to find a
+chest containing a potion. Head
+back down the stairs and head
+all the way south. Go up the
+stairs here and follow the path
+to the next area. A scene will
+occur here. Now save the game
+and head north.
+
+Head north and then east across
+the bridge. Get the treasure
+chest containing an ice rod. Now
+head down the stairs on the
+water and head east. Go up the
+stairs and head north to the
+next area.
+
+Head south and then cross the
+first bridge to the west. Now
+head south and follow the path
+here for two chests. Now go back
+and cross the second bridge to
+the west. Go up the stairs and
+head north into the next area.
+Head all the way north to find a
+chest containing a potion. Now
+head west to find a hidden path.
+Follow it all the way to the
+north, east, and then south.
+You'll find a chest containing a
+feathered cap. Now head back to
+where you found the potion and
+head north to the next area.
+
+Head up the stairs to the left
+to find a chest containing
+Zeus's Wrath. Go back down the
+stairs and go up the stairs to
+the right. Head east across the
+bridge and then head south to
+find two treasure chests. Now
+head back north to exit the
+cave. Head north to enter the
+next area of the cave. Use a
+tent outside if you have to.
+Save the game and enter the
+cave.
+
+Head south and a scene will
+occur. Now head up the stairs
+and then head east. Go down the
+stairs and then continue south.
+Head west and then head down the
+stairs to find two chests. Head
+back up the stairs and continue
+west. Now head north into the
+next area.
+
+Head east across the bridge and
+get the two chests here. Head
+north across the bridge and then
+head down the stairs. Now
+examine the tentacle for a boss
+battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Octomammoth
+Weak: Lightning, Dark
+
+This battle is pretty easy. Have
+Cecil use darkness and then have
+Tellah and Rydia use thunder.
+The Octomammoth's attack will
+increase for each tentacle that
+it loses so you need to be
+careful. Make sure to have Rydia
+or Tellah use Cura when anyone's
+HP gets too low. ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Now head north to exit the cave.
+Head north and enter Damcyan.
+
+-------------------------------
+Damcyan [WKTR07]
+-------------------------------
+Items: Power Bow, Feathered Cap,
+Ruby Ring, Eye Drops, Antidote,
+Potion,
+ Ether, Phoenix Down, Gold Needl
+
+Before entering the castle, head
+east and then north. You'll find
+a hidden room. Once inside, go
+examine the star looking shape
+on the wall all the way to the
+right. This will open a door.
+Now head east to get the three
+chests inside the cell. Now go
+back and head all the way to the
+west and then south. There's a
+staircase behind the wall but
+you can't see it. There are six
+treasure chests here.
+********************************
+Thanks to makistar for this info
+
+You can find holy arrows at the
+lower-right corner of this room
+and an elixir at the lower-left
+corner of this room.
+********************************
+Now go back to the entrance of
+Damcyan.
+
+Head north to enter the castle.
+Continue heading north until you
+reach the top of the castle.
+Examine the pot to the left and
+the right to restore your HP and
+MP. Now talk to the girl for a
+scene. Edward will join your
+party and Tellah will leave.
+
+If you're low on items, you can
+ride the hovercraft to the
+southwest and cross the water
+there to get to Kaipo. When
+you're ready, cross the water to
+the northeast of Damcyan. Head
+south once you reach land and
+you'll find the Antlion's Den.
+Feel free to give Edward some
+levels before entering.
+
+-------------------------------
+Antlion's Den [WKTR08]
+-------------------------------
+Monsters: Goblin, Domovoi,
+Adamantoise, Yellow Jelly,
+Basilisk, *Antlion Items: Spider
+Silk x2, Potion x4, Tent, Gold
+Needle, Antarctic Wind,
+ Phoenix Down, Emergency Exit, E
+Map Completion: First Map -
+Potion x5, Second Map - Phoenix
+Down x3 My Party: Cecil Lv. 19
+Rydia Lv. 18 Edward Lv. 13
+
+Start by crossing the bridge to
+the west. There is a chest here
+containing a spider silk. Now go
+back and head south. Head west a
+bit and then head north to find
+another chest. Now head all the
+way to the south and then head
+west. Follow the path here to
+find two chests containing a
+potion and tent. Now go back and
+this time head east. Head north
+the first time you can to find a
+treasure chest. Go back and then
+continue east. Go up the stairs
+and go north to find another
+chest. Now head back down the
+stairs and head south to the
+next area.
+
+Continue south and then head
+east when you can. Enter this
+room to find a chest containing
+a Lamia Harp. Now head back
+outside and continue south. You
+will find a chest containing
+Antarctic Wind. Now head west
+and then north to the next area.
+Follow the path to another room
+with a save point and three
+chests. Save and then go back to
+B2. Now head west and then head
+north up the stairs to find a
+chest containing a potion. Go
+back down the stairs and then
+cross the bridge to the left to
+find another chest. Now go back
+outside the room leading to the
+save point and head all the way
+to the south. Now head all the
+way to the west and then go up
+the stairs. Now get the chests
+to the east and to the west. Now
+go back down the stairs and then
+head south to the next area.
+
+Just keep going south to start a
+boss battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Antlion
+Weak: Ice
+
+This is another easy boss. Have
+Cecil use darkness, Rydia cast
+blizzard and Edward sing Life's
+Anthem. The Antlion will counter
+attack depending on the color of
+its eye. When it's normal, he'll
+counter physical attacks and
+when it's red, it'll counter
+magic. Cecil probably won't have
+too much trouble taking damage
+from the Antlion's counter but
+Rydia might have a bit of
+trouble. Just heal her when she
+is countered so she doesn't die.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+Now you can walk back outside
+the Antlion's Den or you can use
+an emergency exit, its up to
+you. Head back to Kaipo.
+
+-------------------------------
+Kaipo [WKTR09]
+-------------------------------
+Items: *Item Lore Augment
+
+Go to Rosa and use the Sand
+Pearl on her. A scene will
+occur. Rosa will join your
+party. Another scene will occur
+and a battle will start. You'll
+only have Edward for this
+battle. Just attack the enemy it
+he'll eventually die.
+
+Once you have control over Cecil
+again, equip the Power Bow you
+got in Damcyan on Rosa and go
+buy an iron arrow in the Weapon
+Shop and then equip it on Rosa.
+There is a new training you can
+do with Whyt so go to the Fat
+Chocobo if you want to do it.
+Now head north from the Inn and
+you should see something
+sparkling between the two trees.
+Examine it to get the Item Lore
+Augment.
+
+When you're ready, head east
+from the Antlion's Den and
+you'll find Mount Hobs.
+
+-------------------------------
+Mount Hobs [WKTR10]
+-------------------------------
+Monsters: Skeleton, Spirit,
+Bomb, Gargoyle, Gray Bomb,
+*Domovois, *Mom Bomb Items:
+Tent, Potion, Gold Needle, 960
+gil, Holy Arrows Map Completion:
+First Map - Hi-Potion x3, Second
+Map - Bomb Core x3 My Party:
+Cecil Lv. 20 Rydia Lv. 19 Edward
+Lv. 16 Rosa Lv. 15
+
+Examine the block of ice and a
+scene will occur. Rydia will
+learn Fire. Now head all the way
+up the mountain and enter the
+room to the left. Now go to the
+west and you'll find a save
+point. Continue south and then
+east to find four chests. Now go
+back to the first map. Head east
+and enter the room to the right.
+
+Head east and grab the chest.
+Now head north to start a boss
+battle. For the first battle,
+Yang will be alone. Just let him
+use kick and all the enemies
+should die. Now it's time for
+the boss.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Mom Bomb
+(Bomb x3, Gray Bomb x3) Weak:
+Ice, Dark
+
+This battle is a bit tougher
+than the others. Have Cecil
+attack, he's dark weapon should
+deal good damage against Mom
+Bomb but if you want you can
+still use darkness for double
+damage. Have Yang use focus and
+then attack, Rydia use blizzard,
+Rosa supports with cura and
+protect and have Edward attack
+normally or help out with the
+healing using items or salve.
+Don't use life's anthem because
+he won't be able to defend
+later. When Yang warns you that
+Mom Bomb is about to use a
+strong attack, have everyone use
+Defend. This attack will deal
+major damage that can instantly
+kill your party.
+
+When the Mom Bomb explodes, it
+will turn into three Bombs and
+Gray Bombs. Quickly heal
+everyone and then have Cecil and
+Rosa attack, Yang kick, Rydia
+blizzard, and Edward life's
+anthem or have him attack
+regularly its up to you. ~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~
+
+Yang will join you after the
+battle. Head north to the next
+area. Now follow the path down
+the mountain.
+
+Once you're back in the
+overworld, head east whenever
+you can to reach Fabul.
+
+-------------------------------
+Fabul Castle [WKTR11]
+-------------------------------
+Items: Potion, Antarctic Wind,
+Bomb Fragment, Tent, Hermes
+Sandals,
+ Spider Silk, Demon Shield, Ethe
+Monsters: Captain, Baron Marine,
+Leshy, Domovoi, Sahagin,
+Gargoyle, *Dragoon My Party:
+Cecil Lv. 21 Rydia Lv. 20 Edward
+Lv. 17 Rosa Lv. 16 Yang Lv. 20
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop
+
+Potion               30 gil
+Phoenix Down        100 gil
+Gold Needle          80 gil
+Maiden's Kiss        60 gil
+Eye Drops            30 gil
+Antidote             40 gil
+Tent                 100 gil
+Gysahl Greens         50 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Weapon Shop
+
+Flame Claws         350 gil
+Ice Claws           450 gil
+Lightning Claws     550 gil
+Demon Helm          980 gil
+Demon Armor        3000 gil
+Demon Gloves        800 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Head north to enter the castle.
+Head east if you want to go to
+the Weapon/Armor shop and head
+west if you want to go to the
+Inn and Item Shop. Talk to
+Livingway in the Inn. He'll let
+you view scenes that you have
+seen. You can now view your
+bestiary by talking to Fat
+Chocobo. When you're done, head
+north to the next area.
+
+Head south to the next area.
+You'll be outside the castle
+again. Go up the stairs to the
+left and enter the room. Go to
+the left and you'll find three
+treasure chests. Now head north
+to reach the infirmary. Head
+north again and talk to the
+purple haired woman for a quick
+scene. Head back outside and
+head east. Enter the room here.
+Go all the way to the top floor.
+There is a chest here containing
+a Tent. Now go all the way back
+to the stairs leading to the Inn
+and shops. Head north to get to
+the throne room. A scene will
+occur here.
+
+Rosa and Rydia will leave your
+party. You will be then sent to
+countless normal battles. They
+should be easy so you shouldn't
+have any troubles. Watch the
+scene after the battles and
+Rydia will rejoin your party.
+Exit the crystal chamber. Check
+the pots to the left to find
+Hermes Sandals. Now head to the
+top right of this room. There is
+a hidden passage here to get to
+the three chests on the map.
+Just keep going right and you'll
+get it. Now head to the Inn and
+talk to the Inn Owner for a
+scene.
+
+Once you're ready, leave Fabul.
+You should be able to see a boat
+just north of Fabul. Once you
+enter, everyone in your party
+will leave so remove their
+equipment. When you're ready,
+get on the boat. You will
+receive the counter augment from
+Yang's Wife.
+
+After the scene, head east and
+enter the town.
+
+-------------------------------
+Mysidia [WKTR12]
+-------------------------------
+Items: None
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop
+
+Hi-Potion           150 gil
+Phoenix Down        100 gil
+Gold Needle          80 gil
+Echo Herbs           50 gil
+Antidote             40 gil
+Cottage             500 gil
+Emergency Exit      200 gil
+Bestiary             50 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Weapon Shop
+
+Ice Rod             220 gil
+Flame Rod           380 gil
+Healing Staff       480 gil
+Power Bow           700 gil
+Holy Arrows         500 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Armor Shop
+
+Wizard's Hat        700 gil
+Gaia Gear           500 gil
+Silver Armlet       650 gil
+Lustrous Shield     700 gil
+Lustrous Helm      4000 gil
+Knight's Armor     8000 gil
+Gauntlets          3000 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Be careful when talking to the
+townspeople here. They all hate
+Cecil since he attacked the
+village and stole their crystal.
+Avoid talking to the black mage
+near the entrance, the black
+mage at the counter at the Inn
+and the dancer. They will turn
+Cecil into a toad, a pig, or
+inflict poison. The other
+townspeople are safe to talk to.
+When you're done exploring the
+town, head north and enter the
+building there.
+
+Approach the Elder and a scene
+will occur. Palom and Porom will
+join your party. Once you have
+Palom and Porom in your party,
+it should be safe to talk to the
+black mages. The dancer will
+continue to turn you to a pig
+when you talk to her.
+
+If you have the money, go to the
+Armor Shop and buy the Lustrous
+Shield, Lustrous Helm, Knight's
+Armor and Gauntlets. No one in
+your party can use them yet but
+you will need them later. If you
+don't have the money, sell all
+the Dark Knight equips that you
+are not using and sell Edward's
+harp. If you still don't have
+enough then you can just buy
+them all later or if you have
+the patience, you can fight some
+battles to earn money. Buy at
+least two of the equipment I
+mentioned.
+
+When you're ready, exit Mysidia
+and head east. Follow the path
+and you'll end up in Mount
+Ordeals. Before you enter Mount
+Ordeals, you might want to give
+Porom and Palom some levels
+first. Their level starts off
+way too low. If you're leveling
+around in Mount Ordeals and you
+need to recover your party's
+health, just head south and
+you'll find a Chocobo Forest.
+Heal everyone with Porom's cura
+magic to restore their HP and
+then catch a white chocobo to
+restore everyone's MP. You will
+also find Recordingway here in
+the Chocobo Forest. Talk to him
+and he'll ask if you can lend
+him some of your tent, say yes.
+He'll take ALL of your tent so I
+hope you bought some Cottages in
+Mysidia. You can now view events
+by talking to the Fat Chocobo.
+
+When you're ready, enter Mount
+Ordeals.
+
+-------------------------------
+Mount Ordeals [WKTR13]
+-------------------------------
+Monsters: Spirit, Soul,
+Bloodbones, Revenant, Ghoul,
+Zombie, Lilith Items: Potion x2,
+Ether x2, *Curse Augment Map
+Completion: First Map - Antidote
+x5, Second Map - Hi-Potion x3,
+Third Map - Ether, Fourth Map -
+Red Fang My Party: Cecil Lv. 23
+Porom Lv. 17 Palom Lv. 17
+
+Head west and get close to the
+wall of fire. A scene will
+occur. After the scene, just
+follow the path up the mountain.
+On the next area, continue
+following the path up and a
+scene should occur. Tellah will
+rejoin your party. Now head
+north to the next area.
+
+Go all the way to the left to
+find a treasure chest containing
+ether. Now go back and head
+north and then head east. Go
+upstairs and follow the path
+west. Head south when you can
+and you'll find a chest
+containing ether. Head back
+north and continue west to the
+next area.
+
+Head south and a short scene
+should occur. Now head east and
+then north and then east again
+across the bridge to find a save
+point. Now go back west across
+the bridge and continue north
+for a boss battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Scarmiglione
+Skulnant x4 Weak: Fire
+
+Have Cecil attack Scarmiglione,
+have Porom and Tellah cast cura
+on all the enemies, and Palom
+cast fira on all the enemies. If
+Scarmiglione's thunder magic is
+giving you a hard time then have
+Porom cast shell on the party.
+This battle is pretty easy. ~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~
+
+There will be another boss
+battle after this so if you
+want, you can go back to the
+save point and heal. Continue
+west across the bridge and
+another boss battle will start.
+This battle will be a back
+attack so make sure to switch
+everyone's positions in the
+Party Menu.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Scarmiglione
+Weak: Fire
+
+This battle will be a lot harder
+than the first one. First you
+need to be careful of
+Scarmiglione's counter against
+magic, gas. It inflicts status
+effects on everyone in your
+party. Have Porom and Tellah use
+cura on Scarmiglione since he
+doesn't counter healing spells.
+Since they'll be busy with
+healing, have Palom heal using
+potions. Don't let Palom use any
+black magic because it will be
+countered by gas. Have Cecil
+attack normally and heal if
+necessary. ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Now head left and examine the
+tombstone. Watch the scene.
+Cecil is now a Paladin YAY! A
+battle will start.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Dark Knight
+Weak: ??
+
+You will only use Cecil for this
+fight. Just do nothing and
+defend in this battle and you'll
+win. ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
+
+Watch the scene. After the
+scene, equip Cecil with the
+Lustrous Shield, Lustrous Helm,
+Knight's Armor and Gauntlets.
+Notice that Cecil is back to
+level
+1. Walk back down the mountain
+   and get Cecil some levels.
+   Pay attention on your
+way down. When you see something
+sparkling, examine it to get the
+Curse Augment. Now head back to
+Mysidia.
+
+-------------------------------
+Mysidia [WKTR14]
+-------------------------------
+Items: None
+
+If you haven't been following
+this guide, go to the armor shop
+now and buy new equips for
+Cecil. When you're ready, talk
+to the Elder for a scene. If you
+need to buy items then now is
+the time to do it. When you're
+done, go inside the building
+north of the Inn. You will be
+taken to Baron.
+
+-------------------------------
+Baron [WKTR15]
+-------------------------------
+Monsters: *Guardsman, *Monk
+Items: *Baron Key, 2000 gil,
+Zeus's Wrath My Party: Cecil Lv.
+17 Porom Lv. 23 Palom Lv. 23
+Tellah Lv. 23
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Weapon Shop
+
+Thunder Rod         700 gil
+Healing Staff       480 gil
+Flame Claws         350 gil
+Ice Claws           450 gil
+Lightning Claws     550 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Armor Shop
+
+Headband            450 gil
+Kenpo Gi           4000 gil
+Silver Armlet       650 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Go inside the Inn. Go up the
+stairs and talk to the monk next
+to the soldier. A battle will
+start.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Baron Guardsman x2
+Weak:
+
+This battle is pretty easy. The
+Guardsman will counter with Mini
+if you attack them physically
+and counter with Pig if you use
+magic. Have Cecil attack, Porom
+use protect and support with
+Cure if needed, and have Tellah
+and Palom use magic. If Cecil is
+countered by mini, just attack
+the enemy again and they'll use
+mini on Cecil again returning
+him back to normal size. Pig
+shouldn't be a problem. If you
+use magic on both guards,
+they'll both counter Palom or
+Tellah with pig returning them
+back to humans. ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There is another battle after
+this.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Monk Weak:
+None
+
+This battle is easy. Have Cecil
+or Porom cast protect on the
+party and then have Tellah and
+Palom use magic. ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A scene will occur. Yang will
+rejoin your party. You will
+receive the Baron Key from Yang.
+With this, you can open the
+Weapon/Armor shop. You'll find
+Campingway in the Weapon/Armor
+shop. He will let you listen to
+the game's music! When you're
+done, go to the box located at
+the bottom right. Go down and
+you'll find a hidden path.
+Follow it to get the treasure
+chests behind the weapon and
+armor shop owners. When you're
+ready, head west from the
+Devil's Road and you'll find a
+locked door. Open it and enter.
+
+-------------------------------
+Ancient Waterway [WKTR16]
+-------------------------------
+Monsters: Gigas Gator, Splasher,
+Devil's Castanet, Fangshell,
+Electrofish,
+ 	    Alligator, Killer Fish, Ba
+Items: 1000 gil, Hi-Potion,
+Ether x2, Zeus's Wrath, Bronze
+Hourglass,
+ Spider Silk, Hermes Sandals, An
+Map Completion: First Map - Hi-
+Potion x3, Second Map - Ether,
+Third Map - Remedy x3 My Party:
+Cecil Lv. 17 Porom Lv. 23 Palom
+Lv. 23 Tellah Lv. 23 Yang Lv. 21
+
+Start by heading east to get the
+treasure chest you see on your
+map. Now head downstairs to the
+next area. Now head all the way
+to the south and then head west
+to find three chests. Head north
+and follow the path to the next
+area.
+
+Go down the stairs and then head
+south. When you can't move south
+anymore, head west. Go up the
+stairs to the north to find a
+chest containing a bronze
+hourglass. Now head south and
+you'll find a hidden path. Head
+east when you can't continue
+south. Go up the stairs to the
+north to find another chest. Now
+go back to the entrance but do
+not go up the stairs. From here,
+head east to find a hidden path.
+Continue heading east and then
+head south when you can. Go up
+the stairs to get the treasure
+chest. Head south again and
+you'll find another hidden path.
+Head east and then follow the
+path north to the next area.
+
+Head north and go up the stairs.
+Now head west to find a hidden
+room with a chest containing
+ether. Head back to the east and
+go north to the next area. Head
+west and enter the room. There
+is a save point. Don't bother
+using your tent or cottage here.
+Head east and you'll find a
+hidden path. Follow it for an
+Ancient Sword. Now leave the
+save point room and head east.
+Follow the path north and you'll
+end up in Baron Castle.
+
+-------------------------------
+Baron Castle [WKTR17]
+-------------------------------
+Monsters: *Baigan, *Left Arm,
+*Right Arm Items: Ether x3,
+Unicorn Horn x2, Phoenix Down
+x2, Hermes Sandals x2,
+ Bacchus's Wine x2, Elixir, Hi-P
+My Party: Cecil  Lv. 20
+	    Porom  Lv. 25
+	    Palom  Lv. 25
+	    Tellah Lv. 24
+	    Yang   Lv. 22
+
+Head south all the way, east a
+bit, and then north. Go to
+Cecil's room and examine his
+bed. You can get some rest here
+to recover HP and MP. Now go
+back and head for the throne
+room. On your way there, a boss
+battle will start.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Baigan Left
+Arm Right Arm Weak: Ice
+
+This battle shouldn't be too
+hard. Just target Baigan and
+ignore the arms. Baigan will
+resurrect them if they die. Have
+Cecil attack normally, Yang use
+focus and then attack, Porom
+support with protect and cura,
+and then make sure to get Tellah
+to use blizzaga on Baigan and
+don't let Palom use any magic.
+Baigan will counter with reflect
+if he is hit by magic.
+
+Once Baigan have reflect up, the
+only way you can hit him with
+magic is to have Tellah use
+reflect on one of your party and
+then have Palom use blizzara and
+Tellah use blizzaga on him or
+her. Now make sure not to use
+cura or protect on your party
+member with reflect on. Once
+Baigan dies, the two arms will
+self-destruct dealing major
+damage to one of your party.
+There is a much better way to
+defeat Baigan
+
+********************************
+Thanks to XCPLeprechaun for this
+info
+
+Have Tellah use Blizzaga on
+Baigan and then have Palom and
+Porom use twincast. Twincast
+isn't affected by reflect so you
+don't have to worry about it.
+Twincast also destroys both of
+Baigan's arms so you don't have
+to worry about self-destruct
+killing anyone in your party.
+********************************
+
+If I remember correctly, the
+twincast flare is affected by
+reflect but comet isn't. I don't
+really know since I've never
+used twincast on this version of
+FFIV. I've only tried it in the
+previous versions of FFIV. ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+
+Before continuing to the throne
+room, head east. Head east again
+on the next area and then head
+south. Head west when you can
+and you'll find an open door.
+Enter to get the six treasure
+chests on your map. Now go back
+and continue south to the next
+area.
+
+Head north and enter the tower.
+Grab the four chests. Head
+downstairs and examine the
+candle on the wall all the way
+to the left. You'll find an
+elixir. Go back up the stairs
+and then go up the stairs to the
+east. Grab the two chests and
+then go up the stairs to the
+left. Grab the three chests
+here. Go back to Cecil's room
+and restore your HP and MP. Now
+go to the throne room for
+another boss.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Cagnazzo
+Weak: Ice (Lightning: only when
+water surrounds him)
+
+Have Cecil attack this guy
+normally, Yang use focus and
+then attack, have Porom support
+with protect and cura, Tellah
+and Palom blizzaga and blizzara.
+When Cagnazzo is hit by magic,
+he will counter with silence so
+have Porom heal them using esuna
+or echo herbs. If Cagnazzo
+inflict sleep on Tellah or Palom
+then wake them up ASAP. They're
+really important in this battle.
+Have Porom use esuna on them or
+attack them to wake them up.
+
+When water starts to surround
+Cagnazzo, he is about to use his
+strongest attack, tsunami. Have
+Tellah and Palom use their
+strongest thunder magic before
+Cagnazzo unleashes his attack.
+When Cagnazzo hides in his
+shell, he is about to use heal.
+It only restores a small amount
+of his HP so it isn't really a
+problem. His defense also
+increases so Cecil's and Yang's
+attacks will deal less damage. ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+
+A scene will occur after the
+battle. Cid will join the party
+and the twins will leave. Now
+the next one we will go to is
+optional but you should do it if
+you want to get the Tsunami
+Augment.
+
+-------------------------------
+Ancient Waterway (Optional)
+[OPTL01]
+-------------------------------
+Monsters: Gigas Gator, Splasher,
+Devil's Castanet, Fangshell,
+Electrofish,
+ 	    Alligator, Killer Fish, Ba
+Items: *Tsunami Augment
+My Party: Cecil  Lv. 23
+	    Tellah Lv. 26
+	    Yang   Lv. 24
+	    Cid    Lv. 20
+
+Enter the Ancient Waterway by
+going to Baron Castle. Head
+south to the next area. Head
+south again in this area. Head
+all the way to the south and
+then head west to the hidden
+path. Head all the way north
+when you can and you will find
+something sparkling in the
+water. Examine it to get the
+Tsunami Augment.
+
+There's another augment that you
+can get after this. Fly to
+Mysidia.
+
+-------------------------------
+Mysidia (Optional) [OPTL02]
+-------------------------------
+Items: *Twincast Augment x2,
+*Dualcast Augment, *Cry Augment,
+*Bluff Augment
+
+Talk to the Elder here and he'll
+give you two twincast augment.
+If Porom and Palom have a total
+of three augments and both of
+them have at least one then you
+will also get the dualcast
+augment, cry augment and the
+bluff augment. Now get back on
+your airship and fly north from
+Mount Ordeals to get to Mythril.
+
+-------------------------------
+Mythril (Optional) [OPTL03]
+-------------------------------
+Items: Diet Ration, Maiden's
+Kiss, Mythril Staff, Mythril
+Knife, 5000 gil
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop
+
+Maiden's Kiss        60 gil
+Mallet               80 gil
+Diet Ration         100 gil
+Bomb Crank         1200 gil
+Arctic Wind        1200 gil
+Heavenly Wrath     1200 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Weapon Shop
+
+Mythril Staff      4000 gil
+Mythril Knife      3000 gil
+Mythril Hammer     8000 gil
+Mythril Sword      6000 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Armor Shop
+
+Mythril Shield     1000 gil
+Mythril Helm       3000 gil
+Mythril Armor     17000 gil
+Mythril Gloves     2000 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Start by heading west and
+examining the bushes to the left
+of the Inn to find a diet
+ration. Now head east and
+examine the well to the right of
+the house to find a Maiden's
+Kiss. Now go back and then hear
+north and then east again.
+Examine the bushes near the
+barrels and boxes to find a
+mythril staff. Now examine the
+fence on the right side of the
+weapon and armor shop to find a
+mythril knife. Now examine the
+big bush to the left of the
+weapon and armor shop to find
+5000 gil.
+
+That's all you can find in this
+town. Feel free to look around
+and buy some mythril equips for
+your party. When you're done,
+fly to the Mist Village.
+
+-------------------------------
+Mist (Optional) [OPTL04]
+-------------------------------
+Items: Bomb Fragment, Gold
+Hairpin, Clothing, Polymorph
+Rod, Ruby Ring
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Weapon Shop
+
+Whip               3000 gil
+Dancing Dagger     5000 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Armor Shop
+
+Bard's Tunic        700 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Go to the top right and examine
+the big bushes (or trees?) to
+find a bomb fragment. Now enter
+the house to the northwest. Go
+to the door to the right and
+follow the hidden path to find
+two chests. Now head south to
+find another hidden path. You'll
+find two more chests here.
+That's all you have to get in
+this place.
+
+When you're ready, head
+northwest from Baron to get to
+Troia.
+
+-------------------------------
+Troia [WKTR18]
+-------------------------------
+Items: Phoenix Down, 1000 gil,
+Dry Ether, Decoy
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop
+
+Potion               30 gil
+Hi-Potion           150 gil
+Phoenix Down        100 gil
+Gold Needle          80 gil
+Maiden's Kiss        60 gil
+Eye Drops            30 gil
+Antidote             40 gil
+Tent                100 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Weapon Shop
+
+Wooden Hammer        80 gil
+Fireshard           300 gil
+Frostshard          300 gil
+Thundershard        300 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Armor Shop
+
+Leather Cap         100 gil
+Feathered Cap       330 gil
+Clothing             50 gil
+Leather Clothing    200 gil
+Ruby Ring           100 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Pub
+
+Gysahl Greens        50 gil
+Bomb Fragment       200 gil
+Zeus's Wrath        200 gil
+Antarctic Wind      200 gil
+Member's Writ    100000 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Head north and then east to
+where the Inn is. Keep going
+east and you'll find a staircase
+leading to the water. Go down
+the stairs and then head west.
+Follow the river all the way to
+the end. There's a hidden
+treasure chest here containing a
+phoenix down. Now go to the left
+and go up the stairs. There are
+three hidden items here. Now go
+back in front of the Inn.
+
+Head west from the Inn and then
+go all the way north. Head west
+and enter the pub. Talk to the
+lady to your left and buy a
+Member's Writ from her. If you
+don't have the money for this
+yet then you can do it later in
+the game. Now head north and
+talk to the guy sitting there.
+Show him the member's writ and a
+door will open. Follow the
+hidden path to get to the King's
+Bounty Pub. Talk to the guy at
+the counter and watch the scene.
+Now go to the room where the
+dancers came out of to find the
+Gil Farmer Augment. Exit the pub
+when you're done.
+
+Head east from the pub to find
+Jammingway. Talk to him and then
+head back to the pub. Talk to
+the girl at the counter. You can
+now listen to the game's music
+by talking to the Fat Chocobo.
+You are now free to explore the
+town and buy anything you need.
+When you're done, exit Troia and
+enter Troia Castle.
+
+-------------------------------
+Troia Castle [WKTR19]
+-------------------------------
+Items: Bacchus's Wine, Tent x2,
+Hi-Potion x2, Ether x2, Ruby
+Ring x2, *Whisperweed
+
+Head north to enter the castle.
+Head east and follow the path.
+Go down the staircase at the
+center of the room. Examine the
+pot at the bottom right of this
+room to find a bacchus's wine.
+Go back and go to the staircase
+to the right. Grab all 8 chests
+here.
+
+Now go all the way back inside
+the castle. Head to the west
+this time and follow the path.
+Talk to the man on the bed for a
+scene. He will give you the
+whisperweed. Now exit Troia
+Castle and head north to the
+Chocobo Forest.
+
+-------------------------------
+Chocobo Village [WKTR20]
+-------------------------------
+Items: Gysahl Greens
+
+You can examine the bird's nest
+to the west to call the Fat
+Chocobo. Use a gysahl greens to
+summon the Chocobo. When you're
+done, have Tellah or Cecil use
+cura on everyone to restore
+their HP and then catch a White
+Chocobo to heal everyone's MP.
+Now catch a Black Chocobo and
+fly to the east to find the
+Lodestone Cavern.
+
+-------------------------------
+Lodestone Cavern [WKTR21]
+-------------------------------
+Monsters: Ogre, Cait Sith,
+Needlehog, Succubus, Mindflayer,
+Cave Bat, *Dark Elf, *Dark
+Dragon Items: Hi-Potion x2,
+Unicorn Horn, Ether x2, 2000
+gil, Spider Silk,
+ Bronze Hourglass, Faerie Claws,
+Map Completion: First Map -
+Ether, Second Map - Vampire Fang
+x3, Third Map - Silent Bell x3,
+Fourth Map - Dry Ether Party:
+Cecil Lv. 24 Tellah Lv. 27 Yang
+Lv. 25 Cid Lv. 20
+
+A scene will occur when you
+enter. Now notice that some (or
+maybe all) of your party members
+are paralyzed. Using esuna won't
+work. The only way to remove it
+is by removing any metallic
+equipment your party has
+equipped. Cecil can't use his
+Mythgraven Sword here so remove
+it for now.
+
+Before you continue, make sure
+that you have the whisperweed.
+You can't beat the Dark Elf
+without it. If you don't have
+it, check the Troia Castle
+section [WKTR19] of this
+walkthrough to get it. When
+you're ready, head all the way
+to the east to find a chest
+containing a Hi-Potion. Now go
+back and head south. Follow the
+path to the next area. Head all
+the way to the west here and
+then head south to find a
+treasure chest containing ether.
+Go back east across the bridge
+and then head all the way north.
+Head east and enter the room
+here to find two chests. Go back
+and head west to the next area.
+
+Enter the door to the left to
+find a save point. Now head all
+the way to the south and then
+head east. Enter the room here
+to find three chests. Now go
+back and then head west and then
+head north to the next area.
+
+Grab the chests and then head
+west to the next area. Head
+west, north, and then east and
+enter the room here to find a
+save point. Head back to the
+west and head north. Before you
+enter the next area, head west
+to find a chest containing an
+emergency exit. Now head north
+and go to the next area.
+
+Talk to the Dark Goblin for a
+battle. You will lose this
+battle. After the scene, equip
+everyone with their best
+equipment. Metallic equipments
+will work now. When you're
+ready, talk to the Dark Elf for
+the real battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Dark
+Elf/Dark Dragon Weak: Fire, Holy
+
+The enemy has two forms. For the
+first form, have Cecil cast
+protect, attack and heal, Cid
+attack, Yang focus and then
+attack, Tellah cast shell, haste
+on himself and then fira.
+
+For the second form, have Cecil
+attack and heal, Cid attack,
+Yang focus and then attack and
+Tellah cast slow, firaga and
+heal when necessary. Be careful
+of the Dark Dragon's dark breath
+attack. It deals major damage to
+everyone in the party. Have
+Tellah use curaga to take care
+of it. Two hits from firaga
+should be able to kill the Dark
+Elf.
+
+Tellah's MP is very low so make
+sure to heal his MP by using
+Osmose or by using ether. ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+
+After the battle, grab the earth
+crystal and head back to Troia
+Castle.
+
+-------------------------------
+Troia Castle [WKTR22]
+-------------------------------
+Items: Hi-Potion x2, Remedy x2,
+Ether x2, Dry Ether x2, Elixir,
+ Echo Herbs x2, Great Bow, Fire 
+ Lightning Arrows, 50000 gil, Ic
+ *Bardsong Augment, *Hide Augmen
+
+Go to the room where the Epopts
+are for a scene. Now leave this
+room and head east. Now in the
+room with three staircases, go
+to the one to the left. Talk to
+the guard in the cell and tell
+her yes. She will open a room
+with 18 chests. Grab all of
+them. Now go to Edward's room
+and talk to him for a scene.
+Edward will give you the
+Bardsong Augment. If you gave
+him 1 - 2 augments, he will also
+give you the Hide Augment and
+the Salve Augment.
+
+Now go to Troia and buy anything
+that you might need. When you're
+ready, board the airship for a
+scene.
+
+-------------------------------
+Tower of Zot [WKTR23]
+-------------------------------
+Monsters: Centaur Knight,
+Frostbeast, Marionetteer,
+Marionette,
+    Purple Bavarois, Flamehound,
+    Soldieress, Fell Turtle, Sor
+Items: Flame Mail, Flame Sword,
+Gaia Hammer, Hell Claws, Flame
+Shield, Sage's Surplice, *Recall
+Augment, *Last Stand Augment,
+ *Fast Talker Augment
+Map Completion: First Map -
+Zeus's Wrath x5, Second Map -
+Heavenly Wrath x3, Third Map -
+Blue Fang, Fourth Map - Elixir,
+Fifth Map - Bronze Hourglass x3
+My Party: Cecil Lv. 30 Tellah
+Lv. 32 Yang Lv. 30 Cid Lv. 28
+
+Head north, west and then north
+again to find a chest containing
+a flame mail. Now head all the
+way to the east and then head
+north to the next area. Now head
+west and then head all the way
+to the south. Continue west to
+find a chest containing a flame
+sword. An enemy will attack you
+for opening the chest. Continue
+west and then head north. Take
+the path to the left to get to
+the next area.
+
+Head all the way to the east. It
+doesn't matter which path you
+take. Follow the path and then
+west to the next area. Head
+south and then head north the
+first time you. Enter the room
+to the left first. Follow the
+path here to get a chests
+containing gaia hammer. Go back
+and then enter the middle room.
+Follow the path all the way to
+the end and you'll find two
+chests along the way. Go back
+and enter the last room to the
+right. Grab the chest containing
+sage's surplice and then go
+back. Head back south and then
+follow the path east to the next
+area.
+
+Head south and then head west
+and enter the door. There is a
+save point here. Use a tent or
+cottage and save the game. Now
+leave this room and continue
+west for a boss battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Sandy Cindy
+Mindy Weak: None
+
+The Magus Sisters delta attack
+is pretty annoying. Sandy will
+always use reflect on Cindy,
+Cindy will attack normally and
+then Mindy will cast a -ra spell
+on Cindy. Since the spell is
+bounced back by magic, it will
+do more damage than normal.
+
+To beat them, have everyone
+focus their attacks on Cindy
+first. Cindy will counter attack
+if you hit her so be careful.
+Have Cecil use protect, attack
+normally and heal when needed,
+Cid attack, Yang focus and then
+attack, and Tellah should use
+dispel on Cindy when she has
+reflect on so the Magus Sisters
+won't be able to use their delta
+attack.
+
+Once Cindy dies, the battle will
+become easier. Have Cecil and
+Cid attack Sandy, Yang kick, and
+Tellah use an -aga spell on both
+Sandy and Mindy. Have Cecil or
+Tellah heal if necessary. ~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+
+Go back to the save point and
+heal. When you're ready, enter
+the room the Magus Sisters were
+guarding for a scene. Tellah
+will leave your party. After the
+scene, you'll see something
+sparkling on the ground. Grab it
+to get the Recall Augment. If
+you gave Tellah 1 - 2 augments,
+you will also get the Last Stand
+Augment and Fast Talker Augment.
+Now talk to Kain for another
+scene. Kain and Rosa will join
+your party. Now get everyone's
+equipment ready and then head
+south for another boss battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Barbariccia
+Weak: None
+
+This battle will be tough. Be
+careful of Barbariccia's
+counter, it deals big damage to
+everyone in the party. Have
+Cecil and Rosa support with
+protect, shell and cura, Yang
+use focus and then attack, Cid
+attack or support with items and
+Kain should jump.
+
+When Barbariccia turns into a
+tornado, all attacks won't work
+on her except for Kain's jump.
+Kain's jump will also turn her
+back into her normal form. ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+
+Watch the scene. You will then
+end up in Baron Castle.
+
+-------------------------------
+Baron Castle [WKTR24]
+-------------------------------
+Items: *Magma Stone
+
+After the scene, board the
+airship and head south. Land on
+the island and enter the town.
+
+You can go back to the room
+where you fought the Dark Elf to
+get the whirlwind augment.
+
+-------------------------------
+Agart [WKTR25]
+-------------------------------
+Items: Hi-Potion, Cottage,
+Antarctic Wind, Phoenix Down
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop #1
+
+Potion               30 gil
+Hi-Potion           150 gil
+Phoenix Down        100 gil
+Gold Needle          80 gil
+Echo Herbs           50 gil
+Eye Drops            30 gil
+Antidote             40 gil
+Tent                100 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop #2
+
+Gysahl Greens        50 gil
+Bomb Fragment       200 gil
+Zeus's Wrath        200 gil
+Antarctic Wind      200 gil
+Bestiary             50 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Weapon Shop
+
+Rod                 100 gil
+Staff               160 gil
+Spear                60 gil
+Boomerang          3000 gil
+Bow                 220 gil
+Power Bow           700 gil
+Iron Arrows          50 gil
+Holy Arrows         500 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Armor Shop
+
+Iron Shield         100 gil
+Iron Helm           150 gil
+Iron Armor          600 gil
+Iron Gloves         130 gil
+Iron Armlet         100 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Head to the northwest of town
+and go up the stairs there. Head
+south and examine the bushes
+here to find a hi-potion. Now go
+back down the stairs and head
+east to find a cottage. Now go
+back up the stairs and head
+east. Head south from the weapon
+and armor shop and then head
+west. You'll find Cheatingway
+inside the house. Agree to help
+him look for the rainbow
+pudding. If you already have a
+rainbow pudding, go ahead and
+give it to him. If you don't
+have it yet, you can wait later
+to get it. Flan type monsters
+can drop rainbow pudding. The
+flan that has a higher chance of
+dropping it is the Flan Princess
+but you can only find it in the
+final dungeon. After you give
+the rainbow pudding to
+Puddingway, he'll disappear. Now
+head inside the house and you'll
+find a phoenix down. Now examine
+the bush to the south of this
+house to find an Antarctic Wind.
+
+Now go to the middle of town and
+examine the well there. Use the
+magma stone and a scene will
+occur. Buy anything that you
+need and then board the airship
+and go down the hole that was
+created. A scene will occur.
+
+Head south and you'll find a
+castle. Before doing anything
+else, you might want to give
+Rosa some levels first. If you
+need to heal, there is an Inn
+you can use inside the castle.
+
+When you're ready, enter the
+castle.
+
+-------------------------------
+Dwarven Castle [WKTR26]
+-------------------------------
+Monsters: *Calca, *Brina,
+*Calcabrina, *Golbez, *Shadow
+Dragon,
+ Mopingway, Game Designer, Ito
+Items: *Draw Attacks Augment,
+Lustful Lali-Ho, *Eye Gouge
+Augment,
+ *Reach Augment, Dwarven Axe, Ba
+ Power Armlet, Elixir x2, Cottag
+ Hi-Potion, Black Belt Gi, Gysah
+My Party: Cecil Lv. 36
+	    Yang  Lv. 36
+	    Cid   Lv. 35
+	    Kain  Lv. 34
+	    Rosa  Lv. 30
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop #1
+
+Gysahl Greens        50 gil
+Bomb Fragment       200 gil
+Zeus's Wrath        200 gil
+Antarctic Wind      200 gil
+Bestiary             50 gil
+Gnomish Bread       100 gil
+Emergency Exit      200 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop #2
+
+Potion               30 gil
+Hi-Potion           150 gil
+Phoenix Down        100 gil
+Cottage             500 gil
+Remedy              500 gil
+Cross               100 gil
+Echo Herbs           50 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Weapon Shop
+
+Dwarven Axe       15000 gil
+Great Bow          2000 gil
+Blinding Arrows    1000 gil
+Flame Sword       14000 gil
+Flame Lance       11000 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Armor Shop
+
+Flame Shield       1250 gil
+Flame Mail        20000 gil
+Sage's Miter       2000 gil
+Sage's Surplice    1200 gil
+Rune Armlet        2000 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Head north to enter the castle.
+Head west to find the Inn and
+the Item Shop. Now go back and
+then head north for a scene. Cid
+will leave the party. A boss
+battle will start after.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Calcabrina
+(Calca x3, Brina x3) Weak: None
+
+This boss has two forms. The
+first form will consist of three
+Calcas and three Brinas. You
+have to kill them all before
+they combine and turn into its
+second form, Calcabrina. If you
+want to complete the bestiary
+then you'll have to make the
+Calcas and Brinas combine to
+Calcabrina.
+
+For the first form, have Cecil
+attack and heal, Kain attack,
+Yang use kick, and Rosa cast
+protect and then heal. The
+Calcas and Brinas can counter so
+look out for that.
+
+For the second form, have Cecil
+attack and heal, Kain jump or
+attack, Yang focus and then
+attack, and Rosa use slow and
+then heal. Calcabrina will split
+up and turn back to Calcas and
+Brinas if you don't kill her
+fast enough. ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There will be another boss
+battle after the scene.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Golbez
+Shadow Dragon Weak: ???
+
+For the first part of the
+battle, Golbez will use an
+attack that will paralyze
+everyone in your party. He will
+then summon Shadow Dragon to
+kill everyone in your party,
+except Cecil. Once everyone in
+your party is dead, Rydia will
+appear to help Cecil. The real
+battle will start after that.
+
+Golbez will use barrier shift,
+which changes his weakness and
+lets him absorb any element that
+is not his weakness. Quickly use
+a phoenix down and then hi-
+potion on everyone in the party.
+Then have Cecil or Rosa use
+shell, libra and heal if
+necessary. Don't let Kain attack
+because he is equipped with an
+elemental weapon. You can let
+him help with the healing by
+using potion or he can just do
+nothing, its up to you. Have
+Yang use focus and then attack.
+Rydia should summon an eidolon
+that has the same element as
+Golbez's weakness.
+
+Once you hit Golbez with his
+weakness, he will use barrier
+shift again. Have Cecil or Rosa
+use libra again and then let
+Rydia summon again. Just keep
+doing this until Golbez dies. ~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+
+Rydia will join the party. After
+the scene, exit south and then
+go up the stairs to the east.
+The Weapon and Armor shop is
+here. Buy any equips your party
+might need. Now head north and
+enter the door between the
+weapon and armor shop. Head to
+the top right area of this room.
+If you gave Puddingway his
+rainbow pudding, you will find
+him here. Talk to him twice and
+you'll end up in a battle with
+him. He will give you the Eye
+Gouge augment when you beat him.
+
+Now head back to the entrance of
+the pub and then head east to
+find a hidden path. You will end
+up in the Developer's Office.
+You can get the Reach Augment
+here. Talk to everyone in the
+Developer's Office and then go
+to the break room and examine
+the bookshelf for the Lustful
+Lali-Ho. Now go back and head
+west. Examine the table and use
+the Lustful Lali-Ho. Return to
+the break room and there will be
+something sparkling on the
+ground next to the guy that
+looks like Baigan. You can leave
+when you're done.
+
+Return to the Weapon and Armor
+shop. Head east and go up the
+stairs. Grab the chest on the
+map to get a Dwarven Axe. Go up
+the stairs. Examine the pots to
+the left of the staircase
+leading up to find bacchus's
+wine. Now head up the stairs.
+Grab the four chests here. It's
+hard to see the door on the left
+and right wall but they are
+there. Now go back to where you
+found the Dwarven Axe. Head
+south to the next area.
+
+Head all the way to the west to
+the next area. Go up the stairs
+here. One of the pots at the
+bottom right contains bacchus's
+wine. Go upstairs. Head left to
+find a chest containing hi-
+potion. Now head south, west,
+south, a little bit east and
+then north and grab the chest
+containing a black belt gi. Now
+head west, south, east, north,
+east, and then north to the
+chest containing ether. Now head
+south, east, north, west, north
+a bit and then west to get the
+chest containing elixir. Now go
+all the way back to 1F. Go down
+the stairs to the left and
+you'll end up at the Inn. Go
+down the stairs at the top
+right. Head east and then north
+when you can. Talk to the dwarf
+and then enter the room behind
+him.
+
+Now just follow the map on your
+touch screen to the next area.
+Make sure to grab the three
+chests here. Head west and go to
+the area with a different
+colored floor. There is a hidden
+item here. Once you got it
+continue west to the exit.
+Examine the pot behind the dwarf
+to restore your HP and MP.
+
+Now head west and then north to
+the Tower of Babil.
+
+-------------------------------
+Tower of Babil [WKTR27]
+-------------------------------
+Monsters: Flamehound, Black
+Lizard, Goblin Captain, Security
+Eye, Naga,
+    White Mousse, Marionetteer, 
+    Leshy, Skuldier, Mystery Egg
+Items: Emergency Exit, Hi-Potion
+x3, Ether, Green Beret,
+Icebrand, Ice Lance, Cat Claws,
+Phoenix Down, Killer Bow,
+Antarctic Wind, Ice Armor,
+ Ice Shield, Arctic Wind, Dry Et
+Map Completion: First Map -
+Antarctic Wind x5, Second Map -
+Arctic Wind x3, Third Map -
+White Fang, Fourth Map - Hi-
+Potion x5, Fifth Map - Remedy x5
+My Party: Cecil Lv. 37 Yang Lv.
+37 Kain Lv. 35 Rosa Lv. 31 Rydia
+Lv. 31
+
+Start by heading north and then
+head west to find a chest
+containing an emergency exit.
+Head south and you will find
+another chest. Now head all the
+way to the east, then head
+south, and then north to find a
+chest containing ether. Now head
+to north to the next area.
+
+Head west and grab the chest
+containing a green beret. Now
+head all the way south and then
+head east. Enter the room to
+find a chest containing an
+icebrand. An enemy will attack
+you after opening the chest. Now
+leave this room and then head
+north and then head all the way
+to the east. Enter the room here
+for another chest with an enemy.
+Now exit this room and then head
+west. Enter this door to the
+next area.
+
+Head west and grab the chest
+containing cat claws. Now head
+north and then head all the way
+east. Continue south to find a
+chest containing a hi-potion.
+Now head back north and then
+head all the way to the south.
+Head west and grab the chest.
+Now go to the door to the right.
+There are two chests in this
+room, get them. Now go back and
+then enter the door to the left
+to get to the next area.
+
+Head west and enter the room to
+find a save point. Now head
+north and then east. Head south
+when you can and enter the door
+to the left for a chest with an
+enemy. Leave the room and hear
+back north. Head east when you
+can and enter the room here.
+There is another chest with an
+enemy. Leave this room and then
+head all the way north and then
+head west to the next area.
+
+Head south and then head north
+when you can to find a chest.
+Now go back south and then head
+all the way to the east. Head
+north and then east when you can
+and grab the chest here. Now
+continue north to the next area.
+
+Not much to do here. Enter the
+door to the left to the next
+area. Now head east and enter
+the room here to find a save
+point. Leave this room and then
+head back west. Head south and
+grab the chest here. Now head
+east to the next area. Now just
+follow the path on your touch
+screen for a boss battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss:
+Doctor/Barnabas-Z Barnabas
+(Weak: Lightning) Weak:
+Lightning (Barnabas-Z only)
+
+This battle isn't all that
+tough. Have Kain and Yang attack
+Barnabas. Have Cecil attack
+Barnabas and heal if needed.
+Have Rosa cast protect, shell
+and then heal. Have Rydia cast
+thundara. Once you kill
+Barnabas, the doctor will turn
+into Barnabas-Z. Just use the
+same strategy against him. If
+you don't beat Barnabas-Z on
+time, he will self-destruct,
+killing one of your party
+members.
+
+You can also kill the doctor
+first if you want so you don't
+have to deal with Barnabas-Z.
+It's up to you how you want to
+do it. ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+
+Another battle will start after
+this.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Dr. Lugae
+Weak: Lightning
+
+This fight is very difficult. At
+the beginning of the battle, he
+will use a skill called Reversal
+Gas. It reverses the effects of
+all attacks. Pay attention to
+your touch screen to find out if
+you have the reverse status
+effect. If you do, have Rosa use
+curaga on Lugae and have Cecil
+use Cura. Have Kain and Yang
+attack your party or use items
+on Lugae. Have Rydia cast magic
+to everyone on your party to
+heal them. You can try using
+Rydia's bio magic so everyone
+will end up with the sap status
+but the problem with is if the
+reverse status wears off, sap
+will drain hp to all your party
+instead of healing them. It's up
+to you whether you should use
+bio or not. If you think you can
+keep everyone's HP up with sap
+on then go for it.
+
+Dr. Lugae should use reversal
+gas on your party again. When he
+does that, the reverse status
+should wear off. Now is the time
+to attack normally. Have Cecil
+attack and heal when necessary,
+Rydia summon Ramuh or cast
+thundara, Kain and Yang attacks
+and Rosa heal with cura or
+curaga.
+
+There is an easier way to beat
+Dr.Lugae
+********************************
+Thanks to TheDarkBlader for this
+info
+
+Use an elixir after Dr. Lugae
+uses reverse gas to instantly
+kill him.
+********************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+After the scene, go back to the
+save point and save. Return to
+B9 in the tower. Once you're
+there, head south, west and then
+north when you can. Open the
+locked door here using Lugae's
+Key. You will end up in a battle
+with three Goblin Captains. Yang
+will leave the party after the
+battle. Now leave the Tower of
+Babil for another scene.
+
+You will end up back to the
+overworld. Head north for Baron
+Castle. You can go back to Mist
+Village to find the MP +50%
+Augment. You can find it inside
+the northwestern most house.
+
+-------------------------------
+Baron Castle [WKTR28]
+-------------------------------
+Items: None
+
+Head north to enter the castle.
+Head east and follow the path
+until you find two npc. Talk to
+one of them for a scene.
+
+Now head back to Mount Hobs and
+get the hovercraft by using the
+hooks that Cid's crew installed
+on the airship. Now from Troia,
+head south and you'll find a
+huge tower. Head southeast from
+there to find a castle. Enter
+the castle to get some stuff.
+
+-------------------------------
+Eblan Castle (Optional) [OPTL05]
+-------------------------------
+Monsters: Steel Golem, Skuldier,
+Coeurl, Lamia, Mad Ogre Items:
+Hi-Potion x3, Gold Needle,
+Cottage, Maiden's Kiss, Unicorn
+Horn, Alarm Clock, Sleep Blade,
+Bomb Core, Bacchus's Wine,
+Silencing Arrows, 10000 gil,
+Coeurl Whisker, Hermes Sandals,
+Emergency Exit,
+ Blood Lance, Silver Hourglass, 
+My Party: Cecil Lv. 42
+	    Kain  Lv. 41
+	    Rosa  Lv. 38
+	    Rydia Lv. 38
+
+Head all the way to the north
+enter the castle. Get the
+treasure chest you see on your
+touch screen for a hi-potion.
+Now head north to the next area.
+Continue north to the next area.
+There is a hidden path on the
+top right of this map. Follow it
+to a room containing three
+chests. Now go back to the
+throne room. There is also a
+hidden path to the left. Follow
+it to get two chests. Now go
+back to the entrance and this
+time head west.
+
+There is a hidden path somewhere
+to the right. Follow it to get a
+chest containing a sleep blade.
+An enemy will ambush you when
+you get the chest. Now head
+north to the next area. There is
+a secret door at the bottom left
+of this map. Grab the chest here
+containing a bomb core. Now go
+back to the previous room and
+examine the pots to the north
+for a bacchus's wine. Now find
+the hidden path at the bottom
+right wall go grab the two
+chests here. Now go back to the
+entrance and head east this
+time.
+
+At the top left of this room,
+there is a hidden path. Follow
+it to get the chest containing a
+coeurl whisker. Now go back and
+head north to the next area.
+Examine the pots at the top of
+this room for a hermes sandals.
+Now get the two chests at the
+top of this map and the chest at
+the bottom left. There is a
+hidden path at the top right of
+the two chests. Follow it to get
+the chest at the bottom right of
+this room. An enemy will ambush
+you when you open it. Now go
+down the hole to get back to the
+previous floor. Now get the
+chest containing a silver
+hourglass. Be careful not to
+fall down the hole! Once you get
+the chest, go down the hole to
+get to the next area.
+
+Grab the three chests here. An
+enemy will ambush you when you
+get the chest to the right. Now
+follow the path to exit the
+castle. Get on the hovercraft
+and go to the cave to the west.
+
+-------------------------------
+Cave of Eblan [WKTR29]
+-------------------------------
+Monsters: Steel Golem, Skuldier,
+Leshy, Mystery Egg, Lamia,
+Ironback, Black Lizard,
+Armadillo, Blood Bat, Cave Bat
+Items: Shuriken x2, Remedy,
+Vampire Fang, Potion, Ether,
+Tent, Bomb Core, Hi-Potion x3,
+Cottage, Elixir x2, Spider Silk,
+Phoenix Down x2, Silver
+Hourglass, Blood Sword, Gold
+Needle, Dry Ether Map
+Completion: First Map -
+Bacchus's Wine x3, Second Map -
+Hermes Sandals x3 Third Map -
+Decoy x3 My Party: Cecil Lv. 43
+Kain Lv. 42 Rosa Lv. 39 Rydia
+Lv. 39
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop
+
+Gold Needle          80 gil
+Maiden's Kiss        60 gil
+Mallet               80 gil
+Diet Ration         100 gil
+Echo Herbs           50 gil
+Eye Drops            30 gil
+Antidote             40 gil
+Cross               100 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Weapon Shop
+
+Power Staff        2000 gil
+Icebrand          26000 gil
+Ice Lance         21000 gil
+Kunai              4000 gil
+Boomerang          3000 gil
+Killer Bow		 3000 gil
+Poison Arrows	 1000 gil
+Shuriken            650 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Armor Shop
+
+Ice Shield        10000 gil
+Ice Armor         25000 gil
+Black Robe        10000 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Start by heading east to find a
+chest containing a shuriken.
+Continue east to find another
+chest containing a remedy. Now
+head west back to the first
+treasure chest. Go down the
+stairs and then head east.
+Continue south and then go up
+the stairs. Now head all the way
+to the south to find a treasure
+chest. Now go back up and cross
+the bridge to the west. Head
+south and cross the bridge there
+and then head all the way to the
+west to reach the next area.
+
+There's an Inn and some shops in
+this area so go buy anything
+that you need. Head all the way
+to the west and enter the room
+here. Examine the pot right next
+to you to find a potion. Now
+leave this room and head north
+to the next area.
+
+Head east and you'll find a
+chest. Now continue north and
+stop once you get up the second
+staircase. Hug the walls to the
+south and you'll find a hidden
+path. Follow the path to find a
+chest containing a hi-potion.
+Now go back and head north to
+the next area. Head north and
+then head east when you can.
+Head north to find a chest
+containing a bomb core. Now head
+south to the next area.
+
+Grab the three chests and then
+head east to find a hidden path.
+Grab the two chests here. Now
+head back and head all the way
+to the south. Head west to find
+a chest. Now head east and then
+north to the next area.
+
+Enter the room to the east to
+find a save point. Head east in
+this room to find a hidden path.
+Follow it to get a chest. An
+enemy will ambush you when you
+open it. Now leave this room.
+Head west to find two chests.
+Now head back and head north for
+a scene. Edge will join your
+party. Now head west and you'll
+find a hidden path. Grab the
+treasure chest here containing
+dry ether.
+
+Edge's level is a little bit
+lower than the others so you
+might want to give him some
+levels first. When you're ready,
+head north.
+
+-------------------------------
+Tower of Babil [WKTR30]
+-------------------------------
+Monsters: Coeurl, Sorcerer,
+Lamia, Mad Ogre, Balloon, Storm
+Anima,
+    Ghost Knight, Ironback, Blac
+Items: Unicorn Horn, Silver
+Hourglass, Ogrekiller, Lilith's
+Kiss, Ashura, 10000 gil, Hi-
+Potion Map Completion: First Map
+- Bomb Fragment x5, Second Map -
+Bomb Cranks, Third Map - Red
+Fang, Fourth Map - X-Potion x3,
+Fifth Map - Elixir, Sixth Map -
+Elixir, Eight Map - Ether x2 My
+Party: Cecil Lv. 48 Kain Lv. 48
+Rosa Lv. 46 Rydia Lv. 46 Edge
+Lv. 40
+
+Head north for a scene. Grab the
+chest and continue west. Just
+follow the path until you find
+another treasure chest. Grab it
+and then go back and enter the
+door to get to the next area.
+Now follow the path north and
+then head south when you can to
+find a treasure chest. An enemy
+will attack you when you open
+it. Now head back north and
+follow the path to the west to
+the next area.
+
+Now head east and ignore the
+door. Just keep follow the path
+and you'll find a chest
+containing lilith's kiss. Now go
+back to the door and enter to
+get to the next area. Head,
+north, west and then go all the
+way south to find a chest. Now
+head west and follow the path to
+the next area.
+
+Now head all the way to the
+east. Enter the room to the left
+to find a save point. Now enter
+the room to the right to get to
+the next area. There is nothing
+to do in this room. Enter the
+door to the left to the next
+area. Now head south and then
+head all the way west to find a
+chest containing 10000 gil. Now
+head back east and then north
+when you can for a boss battle.
+
+The first battle will be against
+a king and queen. The battle
+will automatically end so just
+keep your party alive until the
+battle ends.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Rubicante
+Weak: Ice (When not wearing
+cloak)
+
+Rubicante has to be the hardest
+out of all the elemental
+archfiends. Rubicante has a
+strong magic called inferno,
+which deals big damage to
+everyone in the party. He also
+counters physical attacks by
+casting fira on everyone on your
+party. Rubicante's cloak also
+protects him from his weakness,
+ice. So don't use any ice type
+attacks on him while he is
+wearing his cloak.
+
+Have Cecil and Rosa use protect,
+shell and then heal. Rydia
+should summon Shiva or use
+blizzaga when Rubicante isn't
+wearing his cloak and summon
+Mist when Rubicante is wearing
+his cloak. Have Kain jump and
+then have Edge attack normally
+when Rubicante has his cloak on
+(Rubicante will counter with
+fira so get Cecil or Rosa ready
+to heal) and then use flood when
+Rubicante doesn't have his cloak
+on.
+
+Rubicante will use inferno when
+he isn't wearing his cloak so
+make sure that everyone's HP is
+full and they have shell on so
+everyone can survive the attack.
+Have Rosa ready with curaga or
+curaja before he uses inferno. ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+
+Head north to reach the crystal
+chamber. Approach the crystal
+for a quick scene. Now head
+south to the next area. Now just
+head north to the next area.
+Head all the way to the south
+and then head east to find a
+chest. Now go back and head west
+to the next area. A scene will
+occur here. Now go to the
+Dwarven Castle.
+
+-------------------------------
+Dwarven Castle [WKTR31]
+-------------------------------
+Items: *Luca's Necklace,
+*Upgrade Augment, *Analyze
+Augment,
+ *Adrenaline Augment
+
+Go to the throne room and talk
+to King Giott. Now leave the
+throne room and head west. Go
+down the stairs at the top right
+of this room. Head east and
+enter the first room you see to
+get to the infirmary. Now go to
+the bed for a scene.
+
+When you're ready, get back on
+the airship and head southwest
+to a town.
+
+-------------------------------
+Tomra (Optional) [OPTL06]
+-------------------------------
+Items: Phoenix Down, Bestiary,
+Antarctic Wind, Zeus's Wrath,
+Bomb Fragment, Dry Ether, 2000
+gil
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop
+
+Gaia Drum          3000 gil
+Stardust           4800 gil
+Lilith's Kiss      1200 gil
+Vampire Fang        550 gil
+Spider Silk        1000 gil
+Silent Bell        1000 gil
+Bronze Hourglass   7200 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Weapon Shop
+
+Ashura             7000 gil
+Chain Whip         6000 gil
+Ogrekiller        25000 gil
+Killer Bow         3000 gil
+Silencing Arrows   1000 gil
+Shuriken           1000 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Armor Shop
+
+Diamond Shield    15000 gil
+Diamond Helm      10000 gil
+Diamond Armor     30000 gil
+Diamond Gloves     5000 gil
+Gold Hairpin      20000 gil
+Diamond Armlet     4000 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Start by going to the
+northeastern most part of town.
+Examine the barrel here for a
+phoenix down. Now head for the
+northwestern most house in town.
+Grab the four chests here and
+examine the boxes and pots for
+items. Now feel free to explore
+town and buy anything you need.
+
+When you're ready, head back to
+the airship and go to the little
+island northwest from here.
+
+-------------------------------
+Passage of the Eidolons
+(Optional) [OPTL07]
+-------------------------------
+Monsters: Blood Eye, Belphegor,
+Fell Knight, Imp, Thunder
+Dragon, Summoner, Goblin,
+Arachne Items: Phoenix Down x2,
+Ether, Hi-Potion x3, Cottage,
+Poison Axe,
+ Kiku-ichimonji, Bestiary, Defen
+Map Completion: First Map - Soma
+Drop, Second Map - Soma Drop,
+     Third Map - Soma Drop
+My Party: Cecil Lv. 51
+	    Kain  Lv. 50
+	    Rosa  Lv. 49
+	    Rydia Lv. 49
+	    Edge  Lv. 43
+
+Head a little bit south and a
+quick scene will occur. Now have
+Rosa cast float on everyone on
+your party so you can pass the
+lava without getting hurt. Now
+head east and then north for a
+chest. There is a hidden path
+northwest from here. Grab the
+treasure chest there. Now head
+back and then head all the way
+south to find another treasure
+chest. Head west and then follow
+the path north to get to the
+next area.
+
+Cast float on everyone again.
+Head east and then head south to
+find a chest containing a hi-
+potion. Now go back west and
+then head all the way north for
+a chest containing a cottage.
+Now go back and head east to the
+next area.
+
+Cast float on everyone again.
+Head west and follow the path
+until you find a chest
+containing a phoenix down. Now
+head west to find three treasure
+chests. Now head all the way
+east to find another chest. Head
+back west and then head north.
+Don't go into the portal yet.
+Head east, north and then west
+to find a treasure chest
+containing a defender. An enemy
+will ambush you when you open
+the chest. Now you can go into
+the portal.
+
+-------------------------------
+The Feymarch (Optional) [OPTL08]
+-------------------------------
+Monsters: *Asura, *Leviathan
+Items: Ether, Bestiary x2, *Rat
+Tail, 5000 gil, 6000 gil, Yoichi
+Arrows,
+ Elixir, Dry Ether, Yoichi Bow, 
+My Party: Cecil Lv. 53
+	    Kain  Lv. 53
+	    Rosa  Lv. 51
+	    Rydia Lv. 51
+	    Edge  Lv. 46
+
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop
+
+Light Curtain      3800 gil
+Decoy              4800 gil
+Hermes Sandals     4800 gil
+Bacchus's Wine     3800 gil
+Silver Hourglass   9800 gil
+Ether             10000 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Weapon Shop
+
+Whip               3000 gil
+Chain Whip         6000 gil
+Blitz Whip        10000 gil
+Kotetsu           11000 gil
+Faerie Rod         5000 gil
+Aura Staff         7000 gil
+Angel Arrows       2000 gil
+Shuriken            650 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Armor Shop
+
+Aegis Shield      20000 gil
+Luminous Robe     20000 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Grab all the treasure chests you
+see on your touch screen. Now go
+back to the portal. Head south
+down the stairs and go to the
+treasure chest. Head north from
+here and you'll find a diamond
+on the floor. Step on it to warp
+to another room. Head north and
+grab the four treasure chests
+here. Now head back by stepping
+on the red portal. If you step
+on the blue one, you will be
+sent back out the dungeon. Now
+head west, north and then east
+to find another portal. Step on
+it to get to the next area.
+
+There's an Inn, Item Shop,
+Weapon Shop and an Armor Shop
+here. Make sure to go to the Inn
+and get some rest or use the
+save point in Whyt's house and
+use a tent or cottage. There
+will be boss fights here. Go to
+the house, west of the Inn/Item
+Shop. This is Whyt's house.
+There are two treasure chests
+here. Get them and save the
+game. Now leave the house and
+head down the stairs to the
+west. You'll find Mopingway
+here. Go to talk to him. He will
+ask you for the name of the
+person you're going out with.
+The name you give him will be
+used for the ???'s Love Augment.
+Go back to Whyt's house and
+save.
+
+When you're ready, head south
+from here and then enter the
+house with a chocobo standing
+right next to it. Now just keep
+heading down the stairs until
+you reach the bottom floor. Talk
+to the queen and answer yes. A
+boss battle will start.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Asura Weak:
+None
+
+This battle may seem hard but
+its pretty easy once you know
+what to do. Asura will keep
+healing herself with curaga so
+it's impossible to kill her. She
+also has a very powerful counter
+attack that can instantly kill
+everyone in your party in one
+hit (except maybe Cecil). There
+is a way to avoid all that.
+
+Have Rosa cast reflect on Asura
+so her curaga will hit your
+party instead. Now have Edge use
+mirage and Rosa cast blink on
+everyone else in the party. Once
+you're ready, have Rydia summon
+dragon. Don't use any other
+summon because Asura can absorb
+elemental damage. Just keep
+doing this and Asura should die.
+
+If you have the draw attacks
+augment then you can try using
+that. I don't know if it works
+against counter because I never
+actually tried it. Give it to
+Cecil since he probably has the
+highest defense in your party. ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+
+Rydia can now summon Asura. Go
+back to Whyt's house and
+heal/save. When you're ready, go
+back to the library and talk to
+the old man and answer yes for
+another boss battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Leviathan
+Weak: Lightning
+
+This battle is really difficult.
+Leviathan moves really fast. I
+can't even cast curaga without
+him casting two blizzaras first.
+He's deluge attack also deals
+big damage to the whole party.
+
+Leviathan will always start off
+using deluge. If you're at the
+same level as I am, then it
+should only be able to kill
+Edge. Have Rosa cast slow on
+Levithan so he won't constantly
+cast blizzara on the party. Have
+Cecil and Kain use phoenix down
+and potions to heal Edge and
+Rydia if she also died. Now use
+shell on the party to reduce the
+damage from blizzara and
+blizzaga.
+
+Once all that is set, have Rydia
+summon Ramuh, Edge cast blitz,
+Cecil attack and heal, Kain
+jump, and Rosa cast haste and
+heal. ~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+
+Rydia can now summon Leviathan.
+You're done with this place now.
+Leave and get back on the
+airship. Now head northwest to
+the Sylph Cave.
+
+-------------------------------
+Sylph Cave (Optional) [OPTL09]
+-------------------------------
+Monsters: Bog Witch, Bog Toad,
+Tunneler, Evil Dreamer, Malboro,
+Elder Treant Items: Angel
+Arrows, Bestiary, Cottage, 1000
+gil, Elven Bow, Arctic Wind,
+ Golden Apple, Soma Drop, Ether 
+ Kiku-ichimonji, Aura Staff, Eli
+ Remedy, Bomb Core, 2000 gil, 30
+ White Fang, Blue Fang, Medusa A
+Map Completion: First Map -
+Silver Apple, Second Map -
+Silver Apple, Third Map - Silver
+Apple My Party: Cecil Lv. 54
+Kain Lv. 53 Rosa Lv. 52 Rydia
+Lv. 52 Edge Lv. 47
+
+Cast float on everyone in the
+party. Head east and you'll find
+two chests. Now head west and
+then south to the next area.
+Cast float on everyone again.
+Head south and enter the room
+there. Cast float on the party
+again and then head all the way
+to the west. Follow the path
+north to find two chests. Now go
+back and head east to find a
+save point. Now head north and
+then east to find a hidden path.
+Follow it to get the chest
+containing an elven bow. Now go
+back and head left and enter the
+exit to the left to the next
+area.
+
+Cast float on everyone. Now head
+left and then north. Enter the
+exit to the next area. Recast
+float on everyone. Head north
+and you'll find five treasure
+chests. Now head south back to
+the previous room. Now head
+north and then head east to a
+secret path. Grab the chest and
+enemy will attack you. Now go
+back and head to the exit you
+passed to the next area.
+
+Cast float on everyone. Head
+west to find a hidden path. Grab
+the chest there and then go
+back. Now head south and then
+east to find a house. Grab the
+two chests here and talk to the
+man on the bed. We will come
+back for him later. Now head all
+the way up the stairs to exit
+the dungeon. There are more
+treasure chests to get in this
+dungeon. If you don't want them
+then board the airship and head
+southeast to the Sealed Cave. If
+you want the treasure, continue
+reading this section.
+
+Go back to b2. Head east, north
+and then west and enter the room
+here. Head south and then follow
+the path west and grab the three
+chests here. Now head back to
+entrance of this room. Head east
+to find a hidden path. Follow it
+to the next area.
+
+Now head east and then south.
+Head west when you can to find
+four treasure chests. Now head
+south to find four more chests.
+Now go down the hole here to
+return to the previous floor.
+Cast float on everyone. Head
+north and then west to find a
+hidden path. Go into the portal.
+
+Head east and grab the treasure
+chests. All of the chests will
+have enemies in them so be
+careful. Now head east to exit
+the dungeon. Board the airship
+and head southeast to the Sealed
+Cave.
+
+-------------------------------
+Sealed Cave [WKTR32]
+-------------------------------
+Monsters: Vampiress, Less
+Marilith, Chimera Brain, Vampire
+Bat, Nagaraja, Yellow Dragon,
+*Demon Wall Items: Kotetsu x2,
+Ether x3, Bestiary, Hi-Potion
+x2, Bestiary,
+ Phoenix Down x2, Lustrous Sword
+ Light Curtain, Black Cowl, Sile
+ *Dark Crystal
+Map Completion: First Map - Gaia
+Drum x3, Second Map - Red Fang
+x3 Third Map - Blue Fang x3,
+Fourth Map - Blue Fang x2, Fifth
+Map - White Fang x3, Sixth Map -
+Megalixir My Party: Cecil Lv. 57
+Kain Lv. 56 Rosa Lv. 55 Rydia
+Lv. 55 Edge Lv. 51
+
+Head north and examine the door.
+Use Luca's Necklace to open the
+door. Head and then go down the
+rope to the south. Now head west
+and then south and examine the
+door. You will be attacked by
+Trap Door. This battle is pretty
+easy. Just wait until Trap Door
+uses target. Have Rosa use
+reflect on the person that was
+targeted. Trap Door's ninth
+dimension will bounce back on
+him and kill him. Now go inside
+the room to find two chests. Now
+leave this room and head west to
+find another chest. Head back
+north and then head west. Climb
+up the rope to the north.
+Examine the door to fight
+another Trap Door. Go into the
+next area.
+
+Grab the two chests in this
+area. The two doors here leads
+to a dead end but you can fight
+the Trap Doors for exp if you
+want. Now head to the bottom
+right exit to get to the next
+area.
+
+Head south and go down the rope
+to the left. Head east to find a
+chest containing a bestiary. Now
+head back up the rope and then
+head east to find another
+treasure chest. Now head all the
+way to the north. The first door
+doesn't have anything but you
+can fight the trap door for exp.
+The second door will have a
+chest containing a lustrous
+sword. The third door will have
+three treasure chests. The
+fourth door will have nothing
+like the first door. The fifth
+door will have a save point and
+the sixth door will have two
+chests. Now head south and
+examine the door to fight
+another Trap Door. Enter to get
+to the next area.
+
+Head north and grab the chest
+and then head to the exit at the
+bottom left. Head east and grab
+the two chests there. Now the
+door at the top left doesn't
+have anything but you can fight
+the Trap Door for exp. Now head
+south to the next area.
+
+Now head south, north and then
+head all the way east to find a
+chest. Now head back west and
+climb down the rope. Head east
+and fight the Trap Door here.
+This room contains two treasure
+chests. Now leave this room and
+head west. Head north to get to
+the next area.
+
+There's a save point that you
+can use here. When you're ready,
+head south to the next area.
+Head east, south, west and then
+north to get to the next area.
+You can also go the other
+direction it doesn't really
+matter.
+
+Now head north and examine the
+door to fight a Trap Door. Grab
+the crystal and leave the room.
+Head south and a boss battle
+will start.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Demon Wall
+Weak: None
+
+The boss battles are starting to
+get really difficult. You have
+to defeat this boss before he
+gets close to you. Once he is
+close to you, he'll start using
+crush, which deals 9999 damage
+to one person.
+
+Have Cecil, Edge and Kain attack
+normally, have Rydia summon
+Leviathan and then have Rosa
+cast berserk on Cecil, Edge and
+Kain then have her use haste. If
+you she has the bardsong augment
+learned then you could use
+hastemarch instead. ~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~
+
+Now head back to the entrance of
+the Sealed Cave for a scene.
+Kain will leave the party. Now
+head back to the Dwarven Castle.
+
+-------------------------------
+Dwarven Castle [WKTR33]
+-------------------------------
+Items: None
+
+Go to the throne and talk to
+King Giott for a scene. Now go
+back to the airship and head
+northeast. There should be a
+hole somewhere around here. Get
+on top of it and press b to
+return to the overworld.
+
+Now return to Eblan Castle and
+go to the Cave of Eblan. Go to
+where Edge fought Rubicante to
+find the Inferno Augment. Now
+get on the Enterprise and get
+the hovercraft and fly to
+Mythril. If you don't know where
+it is, it's north of Mount
+Ordeals. Now get on the
+hovercraft and cross the ocean
+to get to a little island with a
+cave.
+
+-------------------------------
+Adamant Isle Grotto (Optional)
+[OPTL10]
+-------------------------------
+Items: *Adamantite
+
+Head north and talk to the man
+there. Give him the rat tail and
+he'll give you an adamantite. If
+you have any other tails, go
+ahead and give it to him.
+
+Now head back to the underworld.
+Head south from Dwarven Castle
+to find a house.
+
+-------------------------------
+Kokkol's Forge (Optional)
+[OPTL11]
+-------------------------------
+Items: Remedy, Soma Drop
+
+Go inside the house. Examine the
+box to the left for a remedy.
+Now head up the stairs and
+examine the bookshelf for a soma
+drop. Now talk to the man on the
+bed and give him the adamantite.
+Now leave and return to the
+surface. We will come back for
+the sword later.
+
+Head north to get to Baron
+Castle.
+
+-------------------------------
+Baron Castle (Optional) [OPTL12]
+-------------------------------
+Monsters: *Odin
+Items: None
+My Party: Cecil Lv. 61
+	    Rosa  Lv. 60
+	    Rydia Lv. 61
+	    Edge  Lv. 58
+
+Go to where Cid's crew is. Head
+north and then go down the
+stairs to the left. Head east
+down the stairs and then
+continue east for a boss battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Odin Weak:
+Lightning
+
+Have Cecil attack normally,
+Rydia summon Ramuh or use
+thundaga, Rosa should cast
+protect and then haste, and Edge
+should steal and then attack.
+You can get the Darkness Augment
+by stealing it from Odin. You
+can't get it any other way.
+
+Once Odin raises his sword, have
+everyone defend. He is about to
+use Zantetsuken, which deals
+heavy damage to everyone in the
+party. Have Rosa cast curaga or
+curaja to recover from it. ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+
+Rydia can now summon Odin. Now
+leave the castle and head
+northeast to Fabul Castle.
+
+-------------------------------
+Fabul Castle (Optional) [OPTL13]
+-------------------------------
+Items: *Frying Pan
+
+If you already found Yang in the
+Sylph's Cave, talk to Yang's
+Wife and she will give you a
+frying pan. Now go back to the
+Sylph Cave.
+
+-------------------------------
+Sylph Cave (Optional) [OPTL14]
+-------------------------------
+Monsters: Bog Witch, Bog Toad,
+Tunneler, Evil Dreamer, Malboro,
+Elder Treant Items: *Kick
+Augment, *Focus Augment, *Brace
+Augment My Party: Cecil Lv. 61
+Rosa Lv. 60 Rydia Lv. 61 Edge
+Lv. 58
+
+Go back to the house and talk to
+Yang. Use the frying pan that
+Yang's Wife gave to you. Rydia
+can now summon Sylph. Yang will
+give you the Focus Augment. If
+you gave Yang 1 - 2 augments, he
+will also give you the kick
+augment and the brace augment.
+
+Now head back to the surface
+world and head to Mysidia.
+
+-------------------------------
+Mysidia [WKTR34]
+-------------------------------
+Items: *???'s Love Augment
+
+A scene will occur when you
+enter. Now go back to Mysidia
+and go into the Hall of Prayer.
+You will find Lovingway here.
+Talk to him and he'll give you
+the ???'s Love Augment. Now
+leave Mysidia and enter your new
+ship, the Lunar Whale.
+
+Head south and you'll find
+things that look like pods. You
+can go in them to recover your
+party's HP and MP. Continue
+south to find a Fat Chocobo. Now
+head back north to find a
+crystal. Examine it to get to
+the moon.
+
+Now when you get to the moon,
+look for a crystal looking
+tower. You should be able to
+find it if you head south. Now
+to the west you'll find a
+staircase and a cave right next
+to it. Land directly north of
+the stairs and enter the cave.
+
+-------------------------------
+Lunar Tunnel [WKTR35]
+-------------------------------
+Monsters: Black Flan, White
+Mousse, Purple Bavarois, Dark
+Grenade, Eukaryote, Prokaryote,
+Balloon, Abyss Worm Items:
+Golden Apple, Lunar Curtain,
+Stardust Map Completion: First
+Map - Siren x3, Second Map -
+Siren x3 My Party: Cecil Lv. 62
+Rosa Lv. 60 Rydia Lv. 62 Edge
+Lv. 58
+
+Head to the northeast to find a
+chest. An enemy will ambush you
+when you open the chest. Now go
+to the northwest and then head
+east to find two more chests.
+Head back a little and then head
+north to the next area. Head
+east and then south to reach the
+next part of the Lunar Tunnel.
+
+Head southwest to the next area.
+Now head west and enter the cave
+there to get to the Crystal
+Palace.
+
+-------------------------------
+Crystal Palace [WKTR36]
+-------------------------------
+Items: None
+
+Head west to restore your HP and
+status. Head east to restore
+your MP. Now go back and head
+north for a scene. Fusoya will
+join your party.
+
+Now walk back to the Lunar
+Whale. DO NOT examine the
+crystal. There are more things
+to do here on the moon. Head
+north from the crystal and press
+a here. Now head to the east and
+you should find a cave
+surrounded by elevated land.
+Land here and enter the cave.
+
+-------------------------------
+Lair of the Father (Optional)
+[OPTL15]
+-------------------------------
+Monsters: Dark Sage, Moonmaiden,
+Bone Dragon, Behemoth, Silver
+Dragon, Gold Dragon Items: Genji
+Gloves, Genji Shield, Genji
+Armor Map Completion: First Map
+- Golden Apple, Second Map -
+Golden Apple, Third Map - Golden
+Apple My Party: Cecil Lv. 62
+Rosa Lv. 61 Rydia Lv. 62 Edge
+Lv. 59 Fusoya Lv. 50
+
+The enemies here are very very
+strong so be careful. Head all
+the way south to find a chest
+containing genji gloves. Now go
+back and head east and then
+north when you can. There is a
+hidden path here. Follow it to
+find a chest. Now go back and
+follow the path south to the
+next area.
+
+Head west and then head north to
+find a chest. Now head all the
+way east for another chest. Now
+head north and you will end up
+in a fight with a Behemoth. This
+guy is unbelievably strong. He
+counters both physical and
+magical attacks. Have Rosa and
+Fusoya cast blink on Cecil first
+and then the others in the
+party. Have Edge use mirage and
+Rydia summon. Keep bless up with
+Fusoya so you don't run out of
+MP. Have Rosa and Fusoya heal
+once everyone has blink. Now
+continue north and then east to
+the next area.
+
+Head south and you will end up
+in a fight with another
+Behemoth. Continue south and
+then head west. Just follow the
+path and you will end up in
+another fight with a Behemoth.
+Now head north for a boss
+battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Bahamut
+Weak: None
+
+The strategy to win against
+Bahamut in previous FFIV won't
+work on this version. Instead of
+Bahamut using mega flare on the
+party, he will cast reflect on
+himself and use mega flare on
+himself and bounce back the
+damage to your party. So casting
+reflect on your party to bounce
+back mega flare won't work
+anymore.
+
+First have Rosa or Fusoya cast
+slow on Bahamut and then shell
+on the party. Have Cecil and
+Edge attack, Rydia should summon
+Leviathan, and then Rosa should
+cast haste on the party and
+Fusoya should use bless and then
+haste. Once the countdown
+reaches 1, quickly have everyone
+defend. Now heal everyone's HP
+and continue attacking. If
+you're lucky, you can defeat
+Bahamut before he is able to
+cast Mega Flare. ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Rydia can now summon Bahamut.
+Now head back outside by using
+teleport and then SAVE THE
+GAME!! You wouldn't want to do
+this all over again. Head back
+to the Lunar Whale and head
+south from the Crystal Palace.
+You will see a cave here
+surrounded by elevated land.
+Land here and enter the cave.
+
+-------------------------------
+Hummingway Abode (Optional)
+[OPTL16]
+-------------------------------
+Items: *Level Lust Augment
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop
+
+Hi-Potion           150 gil
+X-Potion           3000 gil
+Phoenix Down        100 gil
+Dry Ether         20000 gil
+Elixir            50000 gil
+Cottage             500 gil
+Remedy              500 gil
+Siren              3000 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+You will find Weddingway and his
+wife here. Talk to them. There
+is someone selling some items
+here. Just talk to everyone
+until you find him. He should be
+somewhere near Weddingway. We
+won't be finding anymore weapon
+and armor shop in the game so
+feel free to buy anything you
+need. Now head to the top right
+of this map and you should find
+something sparkling. Examine it
+to get the level lust augment.
+Feel free to give Fusoya some
+levels.
+
+When you're ready, head back to
+the Lunar Whale and examine the
+crystal. A scene will occur.
+
+-------------------------------
+Giant of Babil [WKTR37]
+-------------------------------
+Monsters: Centaurion, Clockwork
+Soldier, Beam Cannon, Searcher,
+    Clockwork Dragon, Armor Cons
+Items: Fuma Shuriken, Hi-Potion,
+Ether, Yoichi Arrows, Siren,
+Silver Apple, Soma Drop, Elixir
+Map Completion: First Map -
+X-Potion x3, Second Map - Remedy
+x5, Third Map - Dry Ether,
+Fourth Map - Elixir My Party:
+Cecil Lv. 64 Rosa Lv. 63 Rydia
+Lv. 64 Edge Lv. 61 Fusoya Lv. 53
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Item Shop
+
+Potion               30 gil
+Hi-Potion           150 gil
+Phoenix Down        100 gil
+Cottage             500 gil
+Shuriken            650 gil
+Bomb Crank         1200 gil
+Heavenly Wrath     1200 gil
+Arctic Wind        1200 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Head north to get to the next
+area. Now head south to get to
+the next area. Head south, west
+and then head north to find a
+chest. Now head west across the
+bridge and then follow the path
+to the south. Head east and you
+will find two chests near the
+bridge. Now continue east and
+then head north for another
+chest. Head west and then south
+for one more treasure chest. Now
+head north to the next area.
+
+Head north and you will find a
+chest containing a silver apple.
+Head back south and then head
+all the way to the east. Head
+north and you will find another
+treasure chest. Now go back and
+head west a little bit and then
+north. Head west to get to the
+next area.
+
+Head south, east and then north
+to find a chest containing an
+elixir. Now head back and head
+east. Head north when you can
+and then head all the way to the
+west to find a save point. Talk
+to Namingway here and he'll sell
+you some stuff. When you're
+ready, head north to the next
+area.
+
+Keep going north for a boss
+battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Elemental
+Archfiends Weak: Fire
+(Scarmiglione), Ice (Cagnazzo),
+Lightning (Cagnazzo surrounded
+by water), Holy (Barbariccia),
+Ice/Water (Rubicante, only when
+he is not wearing cloak)
+
+For this battle, you will have
+to fight the four elemental
+archfiends one after the other.
+The first battle is with
+Scarmiglione. Just use the same
+strategy you used in Mount
+Ordeals. First have protect and
+shell cast on the party then
+have Rosa or Fusoya cast curaja
+and Rydia summon Ifrit. Don't
+use firaga because Scarmiglione
+will counter with gas, which
+gives everyone in your party
+random status effects. This one
+is easy.
+
+The next one is Cagnazzo. Have
+Cecil and Edge attack normally,
+Rydia use thundaga when water
+surrounds Cagnazzo and blizzaga
+when water is not surrounding
+Cagnazzo. Let Rosa and Fusoya
+handle healing. Cagnazzo will
+counter with hold if he is
+attacked physically so have Rosa
+and Fusoya heal them by using
+Esuna. This one is also pretty
+easy.
+
+This is where it gets a little
+bit hard. The next one is
+Barbariccia. This time, you
+don't have Kain to stop her when
+she is in her tornado form.
+While in this form, she will use
+maelstrom to reduce the party's
+HP to critical. Have Rosa and
+Fusoya heal them right away. She
+will then use petrify on one of
+your party so heal it with
+esuna. All physical attacks
+won't work on Barbariccia so you
+have to use magic to beat her.
+Have Rydia summon Bahamut. Only
+two summon with Bahamut should
+kill her. Cast haste on Rydia
+and slow on Barbariccia when you
+can.
+********************************
+Thanks to decisivebattler for
+this info
+
+Barbariccia is weak against holy
+so you can have Rosa and Fusoya
+cast holy for 7000 + damage or
+you can let Rosa dualcast holy
+and Fusoya can heal.
+********************************
+
+The last one is Rubicante. This
+time, instead of countering with
+fira, he will counter with
+firaga. Have Rosa and Fusoya
+ready to heal. When Rubicante
+opens up his cloak, have Edge
+use flood or frost and have
+Rydia summon Leviathan. Have
+Cecil attack normally or he can
+help with the healing. Be
+careful of inferno. Make sure to
+always have everyone's HP full
+so they don't die from it. ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+
+Now go back and save the game
+and buy anything you need. There
+is another boss ahead. When
+you're ready, continue north for
+a boss battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: CPU Attack
+Node Defense Node Weak:
+Lightning Earth None
+
+This battle is pretty difficult.
+The attack node does an attack
+called Laser Barrage, which
+deals heavy damage to everyone
+in the party. The defense node
+will do nothing but heal the
+CPU. The CPU will not do
+anything until it is alone. He
+will use an attack that will
+deal 9999 damage to one person
+in your party and he can also
+regenerate the other nodes and
+we don't want that. So our first
+target needs to be the attack
+node, then kill the CPU and then
+the defense node.
+
+Have Cecil and Edge attack the
+attack node normally, Rydia
+should summon Ramuh and have
+Rosa and Fusoya ready to cast
+curaja when the attack node uses
+laser barrage. If laser barrage
+ends up killing too many members
+of your party then you can try
+letting Cecil use shell first
+and then attack.
+
+Once the attack node is
+defeated, focus all attacks on
+the CPU. Cecil, Edge and Rydia
+should continue what they were
+doing. You don't have to worry
+about Ramuh killing the defense
+node first because the defense
+node absorbs elemental damage.
+Once the CPU is gone, then just
+start attacking the defense node
+until it dies. ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A scene will occur. Now you will
+have control of a kid. Head
+outside the house. Head
+northeast and you'll find Kluya.
+Talk to him for a scene. Now
+head back to the house and go
+into the room to the left. Talk
+to Cecilia for another scene.
+Fusoya, Rosa and Rydia will
+leave the party and Kain will
+rejoin.
+
+Now examine the crystal to get
+to the moon. Another scene will
+occur. Rosa and Rydia will
+rejoin the party. Now before you
+get off the ship, examine the
+crystal and go back to Earth.
+There are still things that need
+to be done there.
+
+If you already talked to
+Weddingway in Humminway's Abode
+then you can now do the last
+part of the Namingway sidequest.
+The place where you can find him
+is always random. The places
+people were able to find him is
+in one of the Chocobo Forests,
+Underground Waterway, Mount
+Hobs, Sylph Cave, or the Lair of
+the Father. He will give you the
+Safe Travel Augment. This isn't
+a very good augment to use if
+you're low leveled. It is useful
+if your party needs to recover.
+
+-------------------------------
+Baron Castle (Optional) [OPTL17]
+-------------------------------
+Items: *HP +50% Augment
+
+Go to the place where you first
+met Cid. Enter the room to the
+right and then go upstairs. Talk
+to the soldier here to get the
+HP +50% augment.
+
+If you want to pay a visit to
+your old allies, you can find
+them in the Hall of Prayer in
+Mysidia. Now head back to
+Kokkol's Forge in the
+underworld. You have to board
+the Enterprise or the Falcon to
+get to the underworld.
+
+-------------------------------
+Kokkol's Forge (Optional)
+[OPTL18]
+-------------------------------
+Items: Excalibur
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+Weapon Shop
+
+Shuriken            650 gil
+Fuma Shuriken     50000 gil
+Yoichi Arrows     30000 gil
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+There is a new shop open. Now
+talk to Kokkol and he'll give
+you the Excalibur.
+
+When you're done, head back to
+the Feymarch.
+
+-------------------------------
+The Feymarch (Optional) [OPTL19]
+-------------------------------
+Items: *Piercing Magic Augment
+
+Go to Whyt's house and talk to
+Whyt's mother. You will receive
+the piercing magic augment from
+her.
+
+Now head back to the Lunar Whale
+and examine the crystal to get
+to the moon. Head to the Crystal
+Palace to get to the final
+dungeon.
+
+-------------------------------
+Crystal Palace [WKTR38]
+-------------------------------
+Items: *Bless Augment,
+*Omnicasting Augment, *Phoenix
+Augment
+
+Head west to heal your HP and
+status and then head west to
+heal your MP. Now head north and
+you'll find a sparkling object
+on the floor. Get it to get the
+Bless Augment. If you gave
+Fusoya 1 - 2 augments, you will
+also find two other sparkling
+objects. Get them to get the
+Omnicasting Augment and Phoenix
+Augment. Now head north to the
+next room.
+
+Now go to the center of the
+room. You will be teleported to
+the final dungeon.
+
+-------------------------------
+Lunar Subterrane [WKTR39]
+-------------------------------
+Monsters: Dark Sage, Moonmaiden,
+Armor Construct, Silver Dragon,
+Gold Dragon,
+    Blue Dragon, Bone Dragon, Ar
+    Dino Zombie, Red Dragon, Fla
+    *Plague Horror, *Lunasaur, L
+    Zemus's Malice
+Items: Black Garb, Sage's Staff,
+Murasame, Flame Whip, Dragon
+Shield,
+ Dragon Helm, Dragon Mail, Drago
+ White Fang, X-Potion, Stardust 
+ Crystal Mail, Crystal Gloves, W
+ Fuma Shuriken x4, Cottage x2, G
+ Holy Lance, Ribbon x2, Masamune
+ *Treasure Hunter Augment, *Crys
+Map Completion: First Map - Hi-
+Potion x3, Second Map - Ether
+x5, Third Map - X-Potion x5,
+Fourth Map - Dry Ether x3, Fifth
+Map - Elixir, Sixth Map - Siren
+x3, Seventh Map - Coeurl
+Whiskers x3,
+    Eight Map - Gold Hourglass x
+    Tenth Map - Stardust x3, Ele
+My Party: Cecil Lv. 66
+	    Edge  Lv. 63
+	    Kain  Lv. 62
+	    Rosa  Lv. 65
+	    Rydia Lv. 66
+
+This is it, the final dungeon.
+Head up the stairs to the north
+and then head east. Hug the east
+wall and you should find a
+hidden path. Follow it north and
+then west. Continue south to
+find a chest containing a black
+garb. An enemy will ambush you
+when you open it. Now go back to
+the entrance. Now head west to
+find another hidden path. Go
+into the portal and then head
+south to the next area.
+
+Head north to find a chest
+containing sage's staff. An
+enemy will ambush you when you
+open it. Now head west and then
+south to find a teleporter. Go
+into the teleporter and then
+head west. Now head south and
+then west to the next area.
+
+Now cast float on the party and
+head north. Remove Cecil's
+Excalibur and replace it when
+his second strongest weapon.
+Your next enemy can absorb
+elemental attacks. Examine the
+sword on the pedestal for a boss
+battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: White Dragon
+Weak: None
+
+This battle isn't very tough. If
+Rosa has the omnicast augment
+then have her use blink on
+everyone in the party and then
+have her cast slow on the
+dragon. Have Edge attack
+normally and Cecil use protect
+just incase and attack normally.
+Rydia should summon Bahamut and
+have Kain jump or attack
+normally. The White Dragon's
+physical attack is very strong
+so have Rosa ready to heal your
+party just in case they get hit.
+
+The reason I had you cast float
+on the party is because the
+White Dragon counters summon
+with quake. Your party won't be
+affected by it as long as they
+have float on. ~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You will get the Murasame for
+winning the battle. Now head
+back to the entrance. Feel free
+to go back to the Crystal Palace
+to heal and save. Once you're
+ready, head south to the next
+area.
+
+Now head south and then east to
+find a hidden path. Now head
+north and then hug the west
+wall. Now head south, west and
+then north to find a chest
+containing a flame whip. Now
+head back and then continue all
+the way north and then all the
+way west to find a chest
+containing a dragon shield. Head
+south to the next area.
+
+Now head south. Ignore the
+stairs and just continue south.
+Now head east to find a hidden
+path. Follow it to find a chest
+containing a dragon helm.
+Continue east to find another
+hidden path. Follow the path to
+find two treasure chests. Now go
+back and head down the stairs we
+saw earlier.
+
+Head all the way to the east to
+find a chest containing artemis
+arrows. Now go back a little and
+then head south. Head west and
+enter the room there for an
+elixir. Now head back outside
+and head east. Now head south
+and then west to get to the next
+area.
+
+Grab the two chests you see on
+your touch screen and then head
+to the exit to the left. Now
+grab the chest and a Behemoth
+will attack you. Refer to the
+Lair of the Father [OPTL15]
+section of this walkthrough to
+find a strategy to defeat him.
+Now head east to get to the next
+area.
+
+Now head south and then west.
+Ignore the door for now and
+continue west to find a treasure
+chest. An enemy will attack you
+when you open it. I must warn
+you that the enemies guarding
+this chest are strong so be
+careful. Slow and stop can help
+you out on this battle. Now go
+back to the door we passed
+earlier and enter it.
+
+Head all the way north and then
+head east to find a chest
+containing a protect ring.
+Continue east to find another
+hidden path. Now head all the
+way south to the next area. Head
+east to find a chest containing
+a crystal mail. Another Behemoth
+will attack you for opening the
+chest. Now go back to the
+previous room and head north to
+get to the next area.
+
+Head east to find a chest. Now
+before you open it, I want to
+let you know that the enemy
+guarding this chest is very very
+strong. If you don't want to get
+this right now, you can just
+come back for this later. To
+defeat the enemy, have Rosa cast
+berserk on him so he can't use
+Thermal Ray. Now have Rosa cast
+blink on the party and heal when
+necessary. Using slow also
+helps. Now head west to get to
+the next area.
+
+Grab the chest you see on the
+touch screen and then go to the
+next area. Head west and you'll
+find a treasure chest. An enemy
+will ambush you when you open
+it. Now head east and then north
+to the next area. Grab the chest
+here and go back. This time go
+down the stairs to the south to
+the next area.
+
+Head west and you'll find a
+chest containing a fuma
+shuriken. Now head east to find
+another fuma shuriken. Now go
+down the stairs to the south and
+then head down the path to the
+left for a chest containing a
+cottage. Make sure to remember
+this area because we're coming
+back here later. Now head west
+from the treasure chest and
+you'll find an invisible bridge.
+Head west, north and then east
+to a hidden path. Follow it to
+the next area.
+
+Grab the chest here containing a
+golden apple. Now head east and
+go into the portal. Now head
+north to find another portal.
+Head north to find another chest
+protected by a Behemoth. Now
+continue north to find another
+portal. Here you will find a
+SAVE POINT! Save the game and
+heal up. Phew. Now we can relax
+a little. If you want to go back
+to that chest we passed earlier,
+now is a good time to get it.
+Now head south to the next area.
+Head east and you'll find a
+sword. Examine it for a boss
+battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Dark Bahamut
+Weak: None
+
+This battle is pretty hard. Dark
+Bahamut will use Mega Flare at
+the very beginning of the
+battle. If you're level is high
+enough, everyone should be able
+to survive it. My party was at
+level 70 - 73 when I fought Dark
+Bahamut. You could probably
+handle it at a lower level like
+around 65?
+
+Quickly have Rosa heal everyone
+with curaga or curaja. Then let
+her cast blink and then haste on
+the party. Make sure to heal
+when the party needs it. Cecil
+should cast shell and then
+attack normally once he has
+blink on. Edge should attack
+when he has blink on and Kain
+should jump once he has blink
+on. DO NOT use Rydia's summon
+because Dark Bahamut will
+counter with Mega Flare and do
+not use magic because Dark
+Bahamut might use reflect. If
+Rydia has the piercing magic
+augment however, you can let her
+use Flare or you can use the
+Stardust Rod as am item to
+attack.
+
+Dark Bahamut will counter magic
+with flare so make sure Rydia
+has shell on before using any
+magic and Dark Bahamut will
+counter physical attacks with
+attack so make sure Cecil and
+Edge have blink on before
+attacking. Have Rosa cast slow
+and haste when she can. ~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+
+You will get Ragnarok for
+winning the battle. Now head
+back to where you found the
+treasure chest with the cottage
+inside. Head south to get to the
+next area.
+
+Grab the chest on the touch
+screen and an enemy will attack
+you. Now go back south and then
+north to the next area. Head
+south and then east. Go up the
+first stairs you find to get to
+a save point. Save the game and
+heal up then get the chest at
+the back of the room. Now leave
+this room and head east. Go to
+the next room you find and head
+north. Examine the lance for a
+boss battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Plague
+Horror Weak: None
+
+This battle is pretty easy.
+Plague will start by casting
+doom on the party and then use
+haste on your party to speed up
+the countdown.
+
+Don't bother wasting your time
+with supportive spells just have
+everyone attack. Cecil and Edge
+should attack normally, Kain
+should jump, Rosa cast holy and
+Rydia summon Bahamut. Plague
+should die before any of your
+party dies from doom. ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~
+
+You will get the holy lance for
+winning. Now go back to the save
+point and save the game.
+Continue east and you'll find
+another door. A boss battle will
+occur when you approach the
+treasure chests.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Lunasaur
+Weak: Fire, Holy
+
+This battle is also pretty easy.
+Have Rosa attack first unless
+she has the piercing magic
+augment learned. Rosa should
+cast slow on Lunasaur and then
+have her heal and cast haste on
+the party when it is safe. Have
+Cecil and Edge attack normally,
+Kain jump and Rydia summon
+Bahamut. Bahamut should be able
+to deal 9999 damage on Lunasaur.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+Grab the two chests for a
+ribbon. Ribbon is considered to
+be one of the best equip in
+Final Fantasy. It prevents all
+status ailments. Now head back
+and save the game. Go back and
+continue east and then north.
+Now head west and then down the
+stairs to the south to get to
+the next area.
+
+We're getting close to Zemus
+now. All the battles here will
+use the boss battle music but
+you can run away from them if
+things get too difficult. Now
+head east and then go down the
+stairs to the south. Now head
+all the way west to find a
+chest. Continue south and then
+head east. Head south when you
+can and you'll find a sword on a
+pedestal. This will be the last
+boss you'll encounter in this
+dungeon other than the final
+boss. Get everyone's HP up and
+examine the sword.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Ogopogo
+Weak: None
+
+Another easy boss fight. Ogopogo
+will start the battle by using
+deluge. It should only deal
+about 1500 damage to your party
+so they should survive. Have
+Rosa heal everyone with curaga
+and then have Cecil cast shell.
+Then have Rosa cast slow on
+Ogopogo and then haste on the
+party when she can. Have Cecil
+and Edge attack normally, Kain
+jump and Rydia should summon
+Bahamut. ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+
+You will receive the masamune
+for winning. You can go back and
+save if you want. When you're
+ready, go to the next area. Head
+south down the stairs and then
+head east. You'll find a chest
+containing elixir. Now head
+south down the stairs and then
+head west. Follow the path south
+to the next area.
+
+Head west and then south down
+the stairs. Now head east and
+get the chest to the south. Head
+west, south and then west again
+to find another treasure chest.
+Now head all the way east to the
+next area.
+
+We're really close now. After
+this area, it will be the final
+battle. Head all the way west
+and then head south. Now head
+all the way east and then south.
+Now head west and go to the next
+area for the final battle. If
+you've completed the entire map
+in the game, you should get the
+Treasure Hunter Augment here.
+Don't worry about healing before
+entering; you'll get healed
+before the battle starts.
+
+Head north and watch the scene.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Zeromus
+Weak: None My Party: Cecil Lv.
+79 Edge Lv. 78 Kain Lv. 77 Rosa
+Lv. 79 Rydia Lv. 79
+
+Use the crystal that Golbez gave
+you to start the battle.
+
+At the beginning of the battle,
+have Edge use steal. You're
+going to need the dark matter
+for the optional boss in new
+game+ and the only way to get it
+is by stealing it from Zeromus.
+Have Cecil attack and Kain jump.
+Once Zeromus uses black hole,
+have Rosa cast slow or have
+anyone use a spider silk to slow
+him down. Keep doing that every
+time Zeromus uses black hole.
+When Zeromus starts shaking,
+that means he is about to use
+Big Bang. Have everyone defend
+and then Press Y and open up
+Rosa's battle menu and get ready
+to heal. Quickly heal everyone
+with Rosa after Zeromus uses Big
+Bang. Don't let Rydia use any
+summon or magic because
+Zeromus's counter will just make
+things harder for you. Just let
+her support with items. Cecil,
+Kain and Edge can kill Zermous
+by themselves.
+
+When Zeromus is about to die, he
+will start to use meteor. Have
+Rosa start casting curaja and
+then have everyone who survives
+use a phoenix down on your KO'd
+party. Now continue attacking
+and Zermous should go down in no
+time. ~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+
+Congratulations! You've beaten
+the game. Now enjoy the final
+scene.
+
+================================
+IV. New Game+ Optional Bosses
+[OPTLBS]
+================================
+
+When you get to the moon, go to
+the center of the map and then
+head north. You should be able
+to find a stone head. Land near
+it and examine it. Use the Dark
+Matter for a boss battle.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Proto-Babil
+Weak: None My Party: Cecil Lv.
+99 Edge Lv. 99 Kain Lv. 99 Rosa
+Lv. 99 Rydia Lv. 99
+
+I haven't successfully defeated
+Proto-Babil with this strategy
+but you can still give it a try
+if you want. I'm pretty sure I
+only need Adamant Armor for
+everyone to defeat him but you
+can still email me a better
+strategy to beat Proto-Babil.
+
+------------------
+My Augments
+------------------
+Cecil's Augments: Attack, Bless,
+Twincast, Items, Limit Break
+Edge's Augments: Attack, Focus,
+Steal, Items, Adrenaline Kain's
+Augments: Jump, Cry, Items, HP
++50%, Phoenix Rosa's Augments:
+White Magic, Dualcast, Twincast,
+Items, Omnicasting Rydia's
+Augments: Black Magic, Summon,
+Items, Level Lust, Fast Talker
+
+------------------
+My Equipment
+------------------
+Cecil's Equipment: Ragnarok,
+Crystal Shield, Helm, and Mail,
+Protect Ring Edge's Equipment:
+Murasame, Masamune, Genji Helm,
+Black Garb, Genji Gloves Kain's
+Equipment: Holy Lance, Dragon
+Shield, and Helm, Adamant Armor,
+   Protect Ring
+Rosa's Equipment: Yoichi Bow,
+Artemis Arrows, Ribbon, White
+Robe, Rune Armlet Rydia's
+Equipment: Stardust Rod, Ribbon,
+Luminous Robe, Rune Armlet
+
+Start by having Rosa cast slow
+on Proto-Babil. Now have Cecil
+and Rosa cast twincast, Kain
+should jump, Edge use focus 2 -
+3 times and then attack, and
+Rydia summon Bahamut. Cecil and
+Rosa should be able to deal
+about 30,000 - 40,000 damage
+with Ultima because of Limit
+Break. Rydia, Kain and Edge
+should be able to deal 9999
+damage on Proto-Babil.
+
+Once everyone dies, Kain's
+Phoenix augment should activate.
+Quickly revive Kain with a
+Phoenix Down and then use ether
+or elixir to restore his MP or
+you can have Cecil (or whoever
+have Bless equipped) use Bless
+to regenerate Kain's MP.
+
+********************************
+Thanks to Cecil for this info
+
+Proto-Babil was beastly and
+damned-near impossible.
+Thankfully, I was able to clear
+him with this:
+
+MUST HAVE: Rosa - Omnicast Edge
+- Limit Break, Throw, Focus Kain
+- Phoenix Anyone else - Bless
+and Salve spread out Knife (AKA
+Spoon Knife from earlier
+translations of FFIV, can only
+be picked up on the Yang
+sidequest Drop some of the coin
+you no doubt racked up on a ton
+of elixirs
+
+Beginning of the battle - Rosa
+Omnicast Blink (obvious),
+Character with Bless cast bless,
+everyone else Focus as best you
+can, and Melee. Rosa Cast Slow
+(Not so obvious) - Slow REALLY
+helps
+
+(really not so obvious) - Have
+at least one person in your
+party with the Salve Ability,
+and be ready to salve-->Elixir
+at any moment
+
+If you're not carefully counting
+down Proto-Babil's HP, you will
+get rocked when he reaches
+30,000 HP. You'll know when it
+happens, he begins chaining
+Divine Judgement (1-shot kill in
+most cases), followed by healing
+himself by anywhere from
+25,000-40,000 hp. Assuming your
+last hit brought him from 30,001
+HP to whatever it was, then he
+healed by a certain amount, you
+should revive your party as best
+you can (Kain should come
+through with Phoenix), begin
+beating him back down until you
+think your next hit will bring
+him under 30,000 again. From
+this point, everyone should be
+defending, bracing, or healing,
+except Edge. Edge - FOCUS,
+FOCUS, Throw Knife
+
+With any luck, the knife should
+do at least 60,000 damage to
+Proto-Babil, finishing him off
+in one fell swoop. If this move
+doesn't kill him, you might as
+well restart your game, because
+he's going to slaughter you
+without the 999atk power of the
+Knife.
+********************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+You can find the second optional
+boss in the Giant of Babil where
+you fought the Elemental
+Archfiends. If you missed it,
+you can still challenge him in
+Mount Ordeals, where Cecil
+turned into a Paladin.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ Boss: Geryon Weak:
+None My Party: Cecil Lv. 99 Edge
+Lv. 99 Kain Lv. 99 Rosa Lv. 99
+Rydia Lv. 99
+
+********************************
+Thanks to Cecil for this info
+
+Equip each person in your party
+with a piece of equipment that
+halves primary elemental damage
+(Crystal equipment, Dragon
+Equipment, and Ribbons) -
+Treasure Hunter Augment is
+essential to picking up a third
+ribbon for Edge, from Dark Sages
+in Lair of the Father. Equip
+each person in your party with a
+Cursed Ring (MANY monsters drop
+these, especially with Treasure
+Hunter Augment) Make sure Rosa
+has Omnicast Augment
+
+Beginning of the Battle - Rosa
+Omnicast Blink across the party
+Chain attack to slowly drain
+Geryon's HPs -Fin-
+********************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+
+
+================================
+V. Namingway Sidequest [NMNG]
+================================
+
+At the very beginning of the
+game, you will find a rabbit
+with a red hood in Baron Castle
+on the way to Cecil's room. Talk
+to him and he'll introduce
+himself as Namingway. He will
+ask you if you want to change
+your name. You can choose
+anything; you won't be able to
+change your name.
+
+Next you will find him in the
+Mist Cave. A scene will occur
+right when you enter. He will
+then change his name from
+Namingway to Mappingway. You
+will receive the Wayfarer's Map
+from him.
+
+The next town you'll find him is
+Kaipo. You'll find him at the
+northeastern most house. He will
+change his name to Livingway.
+He'll let you view the bestiary.
+
+The next place you will find him
+is in Fabul Castle's Inn. He'll
+let you view events that you've
+seen in the game. He will change
+his name to Recordingway. You
+can now view the bestiary by
+talking to the Fat Chocobo.
+
+Now head to the chocobo forest
+south of Mount Ordeals. You will
+find Recordingway here. He will
+change his name to Campingway.
+He will ask you if he can have
+one of your tent. Answer yes and
+he will take all of them instead
+and he'll give you 300 gil. You
+can now view the event theatre
+by talking to the Fat Chocobo.
+
+The next place you will find him
+is in Baron's weapon/armor shop.
+Talk to him and he will change
+his name to Jammingway. He'll
+let you listen to the game's
+music.
+
+The next place he'll go to is
+Troia. Head east from the pub to
+find him. Talk to him and he'll
+ask you to distract the girl
+that works in the pub. He will
+change his name to Cheatingway.
+Go to the pub and talk to the
+girl in the counter. You can now
+listen to the music box by
+talking to the Fat Chocobo.
+
+The next place you'll find him
+is Agart. He'll now change his
+name to Puddingway. He will ask
+you to bring him a rainbow
+pudding. The rainbow pudding is
+a rare drop that can be dropped
+by flan type monsters. The flan
+that has the highest chance of
+dropping it is the Flan Princess
+but they are very difficult and
+take too long to defeat and you
+can only find them in the final
+dungeon. A lot of people prefer
+hunting the Yellow Jelly in the
+Antlion's Den instead since
+they're easier and faster to
+kill. Give him the rainbow
+pudding once you have it and he
+will disappear. There is a
+phoenix down inside the house he
+was standing in.
+
+Now you will find him in the
+Dwarven Castle. You must first
+defeat Calcabrina before you can
+meet him. From the throne room,
+head south and then east. Now
+enter the room between the
+weapon and armor shop. You will
+find Puddingway at the top right
+of this room. He will change his
+name to Mopingway. Talk to him
+again and you'll end up in a
+battle with him. He will give
+you the Eye Gouge Augment for
+winning.
+
+The next place you want to go to
+is the Feymarch. From Whyt's
+house, head west and then go
+down the stairs to find him.
+He'll change his name to
+Lovingway. He will then ask you
+the name of the person you're
+going out with. This name will
+be used for the ???'s Love
+Augment.
+
+The next place you'll find him
+is in Mysidia. After the Lunar
+Whale scene, go back to Mysidia
+and go to the Hall of Prayer.
+You will find Lovingway there.
+He'll change his name to
+Weddingway and he'll give you
+the ???'s Love Augment.
+
+Next place you'll find him is
+the Hummingway Abode. Talk to
+him and then you're done...
+
+The last place you'll find him
+is random. He can be found in
+one of these places. He'll be in
+one of the chocobo forests,
+Underground Waterway, Mount
+Hobs, Sylph Cave, or the Lair of
+the Father. Once you find him,
+talk to him and he'll change his
+name to Going-my-way. He will
+then give you the Safe Travel
+Augment.
+
+================================
+VI. Magic/Skills [MGCSKL]
+================================
+
+-------------------------------
+Black Magic
+-------------------------------
+
+Fire
+MP Used: 5
+Attack with fire
+
+Fira
+MP Used: 15
+Attack with fire
+
+Firaga
+MP Used: 30
+Attack with fire
+
+Blizzard
+MP Used: 5
+Attack with ice
+
+Blizzara
+MP Used: 15
+Attack with ice
+
+Blizzaga
+MP Used: 30
+Attack with ice
+
+Thunder
+MP Used: 5
+Attack with lightning
+
+Thundara
+MP Used: 15
+Attack with lightning
+
+Thundaga
+MP Used: 30
+Attack with lightning
+
+Sleep
+MP Used: 15
+Put targets to sleep
+
+Poison
+MP Used: 2
+Poison targets
+
+Osmose
+MP Used: 5
+Absorb MP from target
+
+Warp
+MP Used: 10
+Return to the previous floor
+
+Toad
+MP Used: 10
+Polymorph targets into toads
+
+Stop MP Used: 30 Suspend time,
+rendering targets immobile
+
+Pig
+MP Used: 10
+Polymorph targets into pigs
+
+Break
+MP Used: 20
+Turn target to stone
+
+Bio MP Used: 20 Inflict non-
+elemental damage, sap status
+
+Tornado
+MP Used: 30
+Reduce target's HP to critical
+
+Drain
+MP Used: 15
+Absorb HP from target
+
+Quake
+MP Used: 30
+Deal devastating earth damage
+
+Death
+MP Used: 40
+Instantly KO targets
+
+Flare
+MP Used: 55
+Attack with thermal blasts
+
+Meteor
+MP Used: 99
+Summon forth meteors
+
+-------------------------------
+White Magic
+-------------------------------
+
+Cure
+MP Used: 3
+Restore a small amount of HP
+
+Cura
+MP Used: 9
+Restores a moderate amount of HP
+
+Curaga
+MP Used: 18
+Restore a large amount of HP
+
+Curaja MP Used: 40 Restore a
+very large amount of HP
+
+Sight
+MP Used: 5
+Display mini-map of area
+
+Hold
+MP Used: 5
+Inflict paralyze status
+
+Confuse
+MP Used: 5
+Inflict confuse status
+
+Esuna
+MP Used: 15
+Remove most status ailments
+
+Raise
+MP Used: 25
+Revive KO'd target
+
+Arise MP Used: 70 Revive KO'd
+target and restore HP
+
+Silence
+MP Used: 8
+Inflict silence status
+
+Blink
+MP Used: 10
+Grant physical attack avoidance
+
+Teleport
+MP Used: 20
+Warp out of a cave or dungeon
+
+Slow
+MP Used: 10
+Reduce target's Speed
+
+Libra MP Used: 1 Reveal target's
+status information
+
+Protect
+MP Used: 15
+Boost target's Defense
+
+Shell
+MP Used: 15
+Boost target's Magic Defense
+
+Haste
+MP Used: 20
+Boost target's Speed
+
+Berserk MP Used: 15 Send target
+into an uncontrollable rage
+
+Reflect
+MP Used: 30
+Reflect magical attacks
+
+Dispel MP Used: 15 Remove
+magical effects on the target
+
+Mini
+MP Used: 10
+Inflict mini status
+
+Float MP Used: 8 Cause target to
+hover above the ground
+
+Holy
+MP Used: 50
+Attack with holy light
+
+-------------------------------
+Summon
+-------------------------------
+
+Chocobo
+MP Used: 10
+Summon chocobo to attack
+
+Whyt
+MP Used: 50
+Summon Whyt to fight for Rydia
+
+Shiva
+MP Used: 30
+Summon Shiva to attack
+
+Ramuh
+MP Used: 30
+Summon Ramuh to attack
+
+Ifrit
+MP Used: 30
+Summon Ifrit to attack
+
+Titan
+MP Used: 30
+Summon Titan to attack
+
+Dragon
+MP Used: 35
+Summon mist dragon to attack
+
+Asura
+MP Used: 40
+Summon Asura for random results
+
+Leviathan
+MP Used: 75
+Summon Leviathan to attack
+
+Odin
+MP Used: 55
+Summon Odin to attack
+
+Sylph
+MP Used: 25
+Summon sylphs to drain enemy HP
+
+Bahamut
+MP Used: 99
+Summon Bahamut to attack
+
+Bomb
+MP Used: 20
+Summon bomb to attack
+
+********************************
+Thanks to Michael Lacroix for
+this info
+
+Mindflayer MP Used: 20 Summon
+mindflayer to attack. Can
+paralyze
+
+Goblin
+MP Used: 5
+Summon goblin to attack
+
+Cockatrice MP Used: 25 Summon
+cockatrice to attack. Petrifies
+********************************
+
+-------------------------------
+Bardsong
+-------------------------------
+
+Lullaby
+Put enemies to sleep
+
+Alluring Air
+Confuse enemies
+
+Silent Verse
+Silence enemies
+
+Life's Anthem
+Restore HP
+
+Toadsong
+Polymorph enemies into toads
+
+Hog Call
+Polymorph enemies into pigs
+
+Hastemarch
+Boost Speed
+
+Hero's Rime
+Boost attributes by 10%
+
+-------------------------------
+Ninjutsu
+-------------------------------
+
+Flame
+MP Used: 20
+Attack with fire
+
+Smoke
+MP Used: 5
+Escape from battle
+
+Shadowbind
+MP Used: 15
+Stop the target's actions
+
+Mirage
+MP Used: 5
+Evade physical attacks
+
+Tremor
+MP Used: 20
+Attack with earth
+
+Flood
+MP Used: 20
+Attack with water
+
+Blitz
+MP Used: 20
+Attack with lightning
+
+Gale
+MP Used: 20
+Attack with wind
+
+Frost
+MP Used: 20
+Attack with ice
+
+-------------------------------
+Twincast Magic
+-------------------------------
+
+********************************
+Thanks to Michael Lacroix for
+this info
+
+Pyroblast MP Used: 30 Strikes
+foes with a miniature version of
+Flare Who can use it: Innate to
+Palom and Porom, any two
+equipped with Twincast augment
+
+Comet MP Used: 50 Strikes foes
+with a miniature version of
+Meteor Who can use it: Innate to
+Palom and Porom, any two
+equipped with Twincast augment
+
+Bubble MP Used: 50 Doubles HP of
+allies Who can use it: Kain and
+Cecil or Rosa must be equipped
+with Twincast augment, anyone
+equipped with the Recall augment
+has a probability of 3% of
+casting it (tellah did cast it
+when i used recall on mt.
+ordeals)
+
+Faith MP Used: 50 Increases
+magic power of allies Who can
+use it: Rydia and Cecil or Rosa
+must be equipped with Twincast
+augment, anyone equipped with
+the Recall augment has a
+probability of 3% of casting it
+
+Bravery MP Used: 50 Increases
+attack power of allies Who can
+use it: Edge and Cecil or Rydia
+must be equipped with Twincast
+augment, anyone equipped with
+the Recall augment has a
+probability of 3% of casting it
+
+Ultima MP Used: 99 Attacks with
+devastating magical energy Who
+can use it: Cecil and Rosa must
+be equipped with Twincast
+augment. the most powerful spell
+in the game but casting time is
+twice as long as bahamut or
+meteor.
+********************************
+
+================================
+Items [ITMS]
+================================
+
+Alarm Clock
+Removes sleep status
+Price: ???
+
+Antarctic Wind
+Casts Blizzard
+Price: 200 gil
+
+Arctic Wind
+Casts Blizzara
+Price: 1200
+
+Antidote
+Removes poison status
+Price: 40 gil
+
+Bacchus's Wine
+Casts Berserk
+Price: 3800 gil
+
+Bestiary
+Casts Libra
+Price: 50 gil
+
+Blue Fang Unleashes a powerful
+lightning based attack Price:
+???
+
+Bomb Core
+Causes the user to self-destruct
+Price: ???
+
+Bomb Crank
+Casts Fira
+Price: 1200 gil
+
+Bomb Fragment
+Casts Fire
+Price: 200 gil
+
+Bronze Hourglass
+Casts a short-lasting Stop
+Price: 7200 gil
+
+Coeurl Whisker
+Casts Death
+Price: ???
+
+Cottage Fully restores HP, MP,
+and status of entire party
+Price: 500 gil
+
+Cross
+Removes curse status
+Price: 100 gil
+
+Decoy
+Casts Blink
+Price: 4800 gil
+
+Diet Ration
+Removes pig status
+Price: ???
+
+Dry Ether
+Restores 100 MP
+Price: 20000 gil
+
+Echo Herbs
+Removes silence status
+Price: 50 gil
+
+Elixir
+Fully restores HP and MP
+Price: 50000 gil
+
+Emergency Exit Allows party to
+escape from a cave or dungeon
+Price: 200 gil
+
+Ether
+Restores 50 MP
+Price: 10000 gil
+
+Eye Drops
+Removes blind status
+Price: 30 gil
+
+Gaia Drum
+Casts Quake
+Price: 3000 gil
+
+Gnomish Bread
+Casts Sight
+Price: 100 gil
+
+Gold Hourglass
+Casts an extended Stop
+Price: ???
+
+Gold Needle
+Removes stone status
+Price: 80 gil
+
+Golden Apple
+Increases Max HP by 100
+Price: ???
+
+Gysahl Greens Must use at an
+appropriate location Price: 50
+gil
+
+Heavenly Wrath
+Casts Thundara
+Price: 1200 gil
+
+Hermes Sandals
+Casts Haste
+Price: 4800 gil
+
+Hi-Potion
+Restores 500 HP
+Price: 150
+
+Light Curtain
+Casts Reflect
+Price: 3800 gil
+
+Lilith's Kiss
+Casts Osmose
+Price: 1200 gil
+
+Maiden's Kiss
+Removes toad status
+Price: 60 gil
+
+Mallet
+Removes mini status
+Price: 80 gil
+
+Member's Writ Permits entry to
+the King's Bounty Pub in Troia
+Price: 100000 gil
+
+Phoenix Down
+Removes KO status
+Price: 100 gil
+
+Potion
+Restores 100 HP
+Price: 30 gil
+
+Rainbow Pudding
+An elusive delicacy
+Price: ???
+
+Red Fang Unleashes a powerful
+fire-based attack Price: ???
+
+Remedy
+Removes most status ailments
+Price: 500 gil
+
+Silent Bell
+Casts Silence
+Price: 1000 gil
+
+Silver Apple
+Increases Max HP by 50
+Price: ???
+
+Silver Hourglass
+Casts Stop
+Price: 9800 gil
+
+Siren
+Causes nearby monsters to attack
+Price: 3000 gil
+
+Soma Drop
+Increases Max MP by 10
+Price: ???
+
+Spider Silk
+Casts Slow
+Price: 1000 gil
+
+Stardust
+Casts Comet
+Price: 4800 gil
+
+Tent Restores HP, MP, and status
+of entire party Price: 100 gil
+
+Unicorn Horn Removes set status
+ailments from entire party
+Price: ???
+
+Vampire Fang
+Casts Drain
+Price: 550 gil
+
+White Fang Unleashes a powerful
+ice-based attack Price: ???
+
+X-Potion
+Restores 1000 HP
+Price: 3000 gil
+
+Zeus's Wrath
+Casts Thunder
+Price: 200 gil
+
+================================
+Weapons [WPNS]
+================================
+
+Angel Arrows Attack: 20 May
+inflict confuse status Price:
+2000 gil
+
+Ancient Sword Attack: 35 May
+inflict curse status Price: ???
+
+Artemis Arrows
+Attack: 50
+Price: ???
+
+Ashura
+Attack: 40
+Price: 7000 gil
+
+Aura Staff
+Attack: 26
+Price: 7000 gil
+
+Avenger
+Attack: 90
+Price: ???
+
+Blinding Arrows Attack: 20 May
+inflict blind status Price: 1000
+gil
+
+Blitz Whip Attack: 80 May
+inflict paralyze status Price:
+10000 gil
+
+Blood Lance
+Attack: 88
+Price: ???
+
+Blood Sword Attack: 45 Absorbs
+HP from the target Price: ???
+
+Boomerang
+Attack: 30
+Price: 3000 gil
+
+Bow
+Attack: 10
+Price: 220 gil
+
+Cat Claws
+Attack: 5
+Price: ???
+
+Chain Whip Attack: 70 May
+inflict paralyze status Price:
+6000 gil
+
+Dancing Dagger
+Attack: 28
+Price: 5000 gil
+
+Dark Sword
+Attack: 10 Element: Dark
+Price: ???
+
+Deathbringer Attack: 30 May
+cause instant death Price: ???
+
+Defender
+Attack: 105 Defense: 20
+Price: ???
+
+Dream Harp Attack: 5 May inflict
+sleep status Price: ???
+
+Dwarven Axe
+Attack: 82
+Price: 15000 gil
+
+Elven Bow
+Attack: 50
+Price: ???
+
+Excalibur
+Attack: 120 Element: Holy
+Price: ???
+
+Faerie Claws Attack: 5 May
+inflict confuse status Price:
+???
+
+Faerie Rod
+Attack: 30
+Price: 5000 gil
+
+Fire Arrows
+Attack: 15 Element: Fire
+Price: ???
+
+Fireshard
+Attack: 5 Element: Fire
+Price: 300 gil
+
+Flame Claws
+Attack: 5 Element: Fire
+Price: 350 gil
+
+Flame Lance
+Attack: 66 Element: Fire
+Price: 11000 gil
+
+Flame Rod
+Attack: 12 Element: Fire
+Price: 380 gil
+
+Flame Sword
+Attack: 65 Element: Fire
+Price: 14000
+
+Flame Whip Attack: 90 May
+inflict paralyze status Price:
+???
+
+Frostshard
+Attack: 5 Element: Ice
+Price: 300 gil
+
+Fuma Shuriken
+Attack: 200 Can only be thrown
+Price: 50000 gil
+
+Gaia Hammer
+Attack: 75 Element: Earth
+Price: ???
+
+Great Bow
+Attack: 30
+Price: 2000 gil
+
+Gungnir
+Attack: 99
+Price: ???
+
+Healing Staff
+Attack: 9 Heals the target
+Price: 480 gil
+
+Hell Claws Attack: 5 May inflict
+poison status Price: ???
+
+Holy Arrows
+Attack: 10 Element: Holy
+Price: 500 gil
+
+Holy Lance
+Attack: 140 Element: Holy
+Price: ???
+
+Ice Arrows
+Attack: 15 Element: Ice
+Price: ???
+
+Icebrand
+Attack: 75 Element: Ice
+Price: 26000 gil
+
+Ice Claws
+Attack: 5 Element: Ice
+Price: 450 gil
+
+Ice Lance
+Attack: 77 Element: Ice
+Price: 21000 gil
+
+Ice Rod
+Attack: 12 Element: Ice
+Price: 220 gil
+
+Iron Arrows
+Attack: 5
+Price: 50 gil
+
+Kiku-ichimonji
+Attack: 50
+Price: ???
+
+Killer Bow
+Attack: 40
+Price: 3000 gil
+
+Kotetsu
+Attack: 45
+Price: 11000 gil
+
+Kunai
+Attack: 35
+Price: 4000 gil
+
+Lamia Harp Attack: 13 May
+inflict confuse status Price:
+???
+
+Lightning Arrows
+Attack: 15 Element: Lightning
+Price: ???
+
+Lightning Claws
+Attack: 5
+Price: 550 gil
+
+Lustrous Sword
+Attack: 80 Element: Holy
+Price: ???
+
+Mage Masher Attack: 35 Deals
+extra damage to mages Price: ???
+
+Masamune
+Attack: 60
+Price: ???
+
+Medusa Arrows Attack: 2 May
+inflict stone status Price: ???
+
+Moonring Blade
+Attack: 45
+Price: ???
+
+Murasame
+Attack: 55
+Price: ???
+
+Mythgraven Blade
+Attack: 40 Element: Holy
+Price: ???
+
+Mythril Hammer
+Attack: 65
+Price: 8000 gil
+
+Mythril Knife
+Attack: 10
+Price: 3000 gil
+
+Mythril Staff
+Attack: 11
+Price: 4000 gil
+
+Mythril Sword
+Attack: 50
+Price: 6000 gil
+
+Ogrekiller Attack: 90 Deals
+extra damage to giants Price:
+25000 gil
+
+Poison Arrow
+Attack: 20 May inflict poison
+Price: 1000 gil
+
+Poison Axe Attack: 105 May
+inflict poison status Price: ???
+
+Polymorph Rod
+Attack: 20
+Price: ???
+
+Power Bow
+Attack: 20
+Price: 700 gil
+
+Power Staff Attack: 20 May
+inflict berserk status Price:
+2000 gil
+
+Ragnarok
+Attack: 150 Element: Holy
+Price: ???
+
+Rod
+Attack: 5
+Price: 100 gil
+
+Sage's Staff
+Attack: 38
+Price: ???
+
+Shadowblade
+Attack: 20 Element: Dark
+Price: ???
+
+Shuriken
+Attack: 50 Can only be thrown
+Price: 650 gil
+
+Silencing Arrows Attack: 20 May
+inflict silence status Price:
+1000 gil
+
+Sleep Blade
+Attack: 55
+Price: ???
+
+Spear
+Attack: 10
+Price: 60 gil
+
+Staff
+Attack: 6
+Price: 160 gil
+
+Stardust Rod
+Attack: 45
+Price: ???
+
+Thunder Rod
+Attack: 12 Element: Lightning
+Price: 700 gil
+
+Thundershard
+Attack: 5 Element: Lightning
+Price: 300 gil
+
+Whip Attack 50 May inflict
+paralyze status Price: 3000 gil
+
+Wind Spear
+Attack: 55 Element: Wind
+Price: ???
+
+Wooden Hammer
+Attack: 55
+Price: 80
+
+Wyvern Lance Attack: 110 Deals
+extra damage to dragons Price:
+???
+
+Yoichi Arrows
+Attack: 40
+Price: 30000
+
+Yoichi Bow
+Attack: 60
+Price: ???
+
+================================
+Armors/Helm/Shield
+================================
+
+-------------------------------
+Armor [ARMR]
+-------------------------------
+
+Adamant Armor
+Defense: 100 Magic Defense: 100
+Price: ???
+
+Bard's Tunic
+Defense: 4 Magic Defense: 1
+Price: 700 gil
+
+Black Belt Gi
+Defense: 10 Magic Defense: 3
+Price: ???
+
+Black Garb
+Defense: 24 Magic Defense: 15
+Price: ???
+
+Black Robe
+Defense: 8 Magic Defense: 7
+Price: 10000 gil
+
+Clothing
+Defense: 1
+Price: 50 gil
+
+Crystal Mail
+Defense: 25 Magic Defense: 10
+Price: ???
+
+Dark Armor
+Defense: 5 Magic Defense: 1
+Price: ???
+
+Demon Armor
+Defense: 9 Magic Defense: 3
+Price: 3000 gil
+
+Diamond Armor Defense: 19 Magic
+Defense: 4 Halves: Lightning
+Price: 30000 gil
+
+Dragon Mail Defense: 23 Magic
+Defense: 8 Halves: Primary
+elements Price: ???
+
+Flame Mail Defense: 15 Magic
+Defense: 4 Halves: Ice Price:
+20000gil
+
+Gaia Gear
+Defense: 5, Magic Defense: 3
+Price: 500 gil
+
+Genji Armor
+Defense: 21 Magic Defense: 7
+Price: ???
+
+Hades Armor
+Defense: 7 Magic Defense: 2
+Price: ???
+
+Ice Armor Defense: 17 Magic
+Defense: 4 Halves: Fire Price:
+25000
+
+Iron Armor
+Defense: 4 Magic Defense: 1
+Price: 600
+
+Kenpo Gi
+Defense: 5 Magic Defense: 2
+Price: 4000 gil
+
+Leather Clothing
+Defense: 3 Magic Defense: 1
+Price: 200 gil
+
+Luminous Robe Defense: 12 Magic
+Defense: 9 Halves: lightning
+Price: 20000 gil
+
+Minerva Bustier
+Defense: 20 Magic Defense: 5
+Price: ???
+
+Mythril Armor
+Defense: 13 Magic Defense: 4
+Price: 17000 gil
+
+Prison Garb
+Defense: 2 Magic Defense: 1
+Price: ???
+
+Sage's Surplice
+Defense: 6 Magic Defense: 5
+Price: 1200 gil
+
+White Robe
+Defense: 18 Magic Defense: 10
+Price: ???
+
+-------------------------------
+Helm
+-------------------------------
+
+Black Cowl
+Defense: 5 Magic Defense: 1
+Price: ???
+
+Crystal Helm Defense: 12 Magic
+Defense: 8 Halves: Primary
+element Price: ???
+
+Dark Helm
+Defense: 4
+Price: ???
+
+Demon Helm
+Defense: 6 Magic Defense: 1
+Price: 980 gil
+
+Diamond Helm Defense: 9 Magic
+Defense: 2 Halves: Lightning
+Price: 10000 gil
+
+Dragon Helm Defense: 11 Magic
+Defense: 7 Halves: Primary
+elements Price: ???
+
+Feathered Cap
+Defense: 2 Magic Defense: 3
+Price: 330 gil
+
+Genji Helm
+Defense: 10 Magic Defense: 6
+Price: ???
+
+Hades Helm
+Defense: 5 Magic Defense: 1
+Price: ???
+
+Headband
+Defense: 1 Magic Defense: 1
+Price: 450 gil
+
+Gold Hairpin Defense: 7 Magic
+Defense: 10 Halves: Lightning
+Price: 20000 gil
+
+Green Beret
+Defense: 3 Magic Defense: 1
+Price: ???
+
+Iron Helm
+Defense: 3
+Price: 150 gil
+
+Knight's Armor
+Defense: 11 Magic Defense: 3
+Price: 8000 gil
+
+Leather Cap
+Defense: 1 Magic Defense: 1
+Price: 100 gil
+
+Lustrous Helm
+Defense: 7 Magic Defense: 2
+Price: 4000 gil
+
+Mythril Helm
+Defense: 8 Magic Defense: 2
+Price: 3000 gil
+
+Onion Helm A helm that grows
+stronger with the wearer Price:
+???
+
+Ribbon
+Defense: 9 Magic Defense: 12
+Price: ???
+
+Sage's Miter
+Defense: 5 Magic Defense: 7
+Price: 2000 gil
+
+Wizard's Hat
+Defense: 3 Magic Defense: 5
+Price: 700 gil
+
+-------------------------------
+Shield
+-------------------------------
+
+Aegis Shield
+Defense: 4 Magic Defense: 5
+Price: 20000 gil
+
+Crystal Shield
+Defense: 7 Magic Defense: 4
+Price: ???
+
+Dark Shield
+Defense: 1
+Price: ???
+
+Demon Shield
+Defense: 2
+Price: ???
+
+Diamond Shield Defense: 4 Magic
+Defense: 2 Halves: lightning
+Price: 15000 gil
+
+Dragon Shield Defense: 6 Magic
+Defense: 3 Halves: Primary
+Elements Price: ???
+
+Flame Shield Defense: 3 Magic
+Defense: 2 Halves: Ice Price:
+1250 gil
+
+Genji Shield
+Defense: 5 Magic Defense: 3
+Price: ???
+
+Ice Shield Defense: 3 Magic
+Defense: 2 Halves: Fire Price:
+10000 gil
+
+Iron Shield
+Defense: 1
+Price: 100 gil
+
+Lustrous Shield Defense: 2 Magic
+Defense: 1 Halves: Dark Price:
+700 gil
+
+Mythril Shield
+Defense: 3 Magic Defense: 2
+Price: 1000 gil
+
+================================
+Accessory [ACCS]
+================================
+
+Cursed Ring
+Cursed
+Price: ???
+
+Dark Gloves
+Defense: 2
+Price: ???
+
+Demon Gloves
+Defense: 4
+Price: 800 gil
+
+Diamond Armlet Defense: 6 Magic
+Defense: 8 Halves: Lightning
+Price: 4000 gil
+
+Diamond Gloves Defense: 7 Magic
+Defense: 3 Halves: Lightning
+Price: 5000 gil
+
+Dragon Gloves Defense: 9 Magic
+Defense: 6 Halves: Primary
+element Price: ???
+
+Gauntlets
+Defense: 5 Magic Defense: 1
+Price: 3000 gil
+
+Genji Gloves
+Defense: 8 Magic Defense: 5
+Price: ???
+
+Giant's Gloves
+Defense: 10
+Price: ???
+
+Hades Gloves
+Defense: 3
+Price: ???
+
+Iron Armlet
+Defense: 2 Magic Defense: 2
+Price: 100 gil
+
+Iron Gloves
+Defense: 2
+Price: 130 gil
+
+Mythril Gloves
+Defense: 6 Magic Defense: 2
+Price: 2000 gil
+
+Onion Gloves Gloves that grows
+stronger with the wearer Price:
+???
+
+Power Armlet
+Defense: 2 Magic Defense: 2
+Price: ???
+
+Protect Ring Defense: 10 Magic
+Defense: 12 Halves: Primary
+elements Price: ???
+
+Ruby Ring
+Magic Defense: 3
+Price: 1000 gil
+
+Rune Armlet
+Defense: 5 Magic Defense: 8
+Price: 2000 gil
+
+Silver Armlet
+Defense: 4 Magic Defense: 4
+Price: 650 gil
+
+================================
+Augments [AGMNT]
+================================
+
+???'s Love
+Obtained: Weddingway (Mysidia)
+Receive the boons of ???'s love
+
+Adrenaline Obtained: Cid
+(Dwarven Castle) Double attack
+power when HP is critical
+
+Aim
+Obtained: Used by Rosa
+Ensures attack hits the target
+
+Analyze Obtained: Cid (Dwarven
+Castle) Determine the status of
+all enemies
+
+Auto-Potion
+Obtained: Rosa (Kaipo)
+Use Potions upon taking damage
+
+Bardsong Obtained: Edward (Troia
+Castle, after defeating Dark
+Elf) Provide support effects
+through song
+
+Black Magic Obtained: Used by
+some spell casters Use black
+magic
+
+Bless
+Obtained: Crystal Palace
+Gradually restore MP to party
+
+Bluff Obtained: Elder (Mysidia,
+after Palom and Porom leaves
+party) Double Intellect
+
+Brace
+Obtained: Used by Yang
+Reduce all damage by 75%
+
+Counter Obtained: Yang's Wife
+(Fabul Port) Counterattack when
+attacked
+
+Cover Obtained: Used by Cecil
+(Paladin) Take damage intended
+for an ally
+
+Cry Obtained: Elder (Mysidia,
+after Palom and Porom leaves
+party) Reduce enemies' Defense
+by half
+
+Curse Obtained: Mount Ordeals
+Reduce all enemy attributes by
+20%
+
+Darkness Obtained: Odin (Steal)
+Sacrifice HP to attack for
+double damage
+
+Draw Attacks Obtained: King
+Giott Become target of all enemy
+attacks
+
+Dualcast Obtained: Elder
+(Mysidia, after Palom and Porom
+leaves party) Cast two spells in
+succession
+
+Eye Gouge Obtained: Mopingway
+(Dwarven Castle) Inflict blind
+status on all enemies
+
+Fast Talker
+Obtained: Tower of Zot
+Reduce casting time of spells
+
+Focus
+Obtained: Sylph Cave
+Double physical attack damage
+
+Gil Farmer Obtained: King's
+Bounty Pub (Troia) Boost amount
+of gil obtained after battles
+
+Hide
+Obtained: Edward (Troia Castle)
+Hide to avoid being attacked
+
+HP +50% Obtained: Baron Castle
+(After Giant of Babil) Boost HP
+by 50%
+
+Inferno Obtained: Cave of Eblan
+Atack all enemies and allies
+with fire
+
+Item Lore Obtained: Kaipo (After
+Rosa joins) Double effectiveness
+of items
+
+Items
+Obtained: Beginning of game
+Use items
+
+Jump Obtained: Used by Kain
+Vault skyward and attack for
+double damage
+
+Kick Obtained: Sylph Cave
+Perform a flying kick against
+enemy party
+
+Last Stand Obtained: Tower of
+Zot Double Defense when HP is
+critical
+
+Level Lust
+Obtained: Hummingway Abode
+Boost EXP earned by the party
+
+Limit Break Obtained: After
+beating the game Become able to
+deal damage in excess of 9999
+
+MP +50% Augment
+Obtained: Mist Village
+Boost MP by 50%
+
+Omnicasting Obtained: Crystal
+Palace Target all enemies or
+allies with any spell
+
+Phoenix Obtained: Crystal Palace
+Expend all MP to revive party
+when KO'd
+
+Piercing Magic Obtained: Whyt's
+Mother (The Feymarch) Bypass the
+effects of Reflect
+
+Pray
+Obtained: Used by Rosa
+Pray to restore HP and MP
+
+Reach Obtained: Dwarven Castle
+(Developer's Office) Deal the
+same damage from the back row
+
+Recall Obtained: Tower of Zot
+Attempt to recall and use
+forgotten spells
+
+Safe Travel
+Obtained: Going-my-way
+Avoid enemy encounters
+
+Salve
+Obtained: Edward (Troia Castle)
+Use items on entire party
+
+Summon
+Obtained: Used by Rydia
+Summon Eidolons
+
+Treasure Hunter Obtained:
+Complete all map in entire game
+Boost chances of enemies
+dropping rare items
+
+Tsunami Obtained: Ancient
+Waterway (After Palom and Porom
+leaves party) Attack all enemies
+with water
+
+Twincast Obtained: Elder
+(Mysidia, after Palom and Porom
+leaves party) Cast powerful
+spells in tandem.
+
+Upgrade Obtained: Cid (Dwarven
+Castle) Use items to change
+weapon's damage type
+
+Whirlwind Obtained: Dark Elf's
+room (Lodestone Cavern) Inflict
+wind damage and fire
+vulnerability
+
+White Magic Obtained: Used by
+some spell casters Use white
+magic
+
+================================
+Conclusion [CLSE]
+================================
+
+Thanks for using my guide! This
+is the first guide I've made and
+I wasn't sure if it was going to
+be good. I'm sorry if this guide
+is bad. I'll try harder and make
+a better one next time. If I
+missed anything, feel free to
+contact me so I can add it in
+the guide.

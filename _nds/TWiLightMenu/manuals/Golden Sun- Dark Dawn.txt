@@ -1,0 +1,3593 @@
+
+ ________       .__       .___  
+ /  _____/  ____ |  |    __| _/_
+ /   \  ___ /  _ \|  |   / __ |/
+ \    \_\  (  <_> )  |__/ /_/ \ 
+ \______  /\____/|____/\____ |\_
+   \/                  \/    \/ 
+
+ ______                  ______
+    (, /    )        /)     (, /
+     /    / _   __ (/_       /  
+    _/___ /_(_(_/ (_/(__    _/__
+(_/___ /                (_/___ /
+
+
+        for Nintendo DS
+
+        FAQ/Walkthrough
+          Region: NTSC
+
+================================
+FAQ/Walkthrough made by
+Damage_dealer (Igor Sheludko)
+E-mail: damagedealer@ukr.net
+Version: 0.3 This entire
+document is (C) 2010 Igor
+Sheludko. All trademarks are
+property of their respective
+owners. No section of this guide
+can be used without my
+permission. This includes, but
+is not limited to posting on
+your website, making links to my
+guide, including parts of my
+guide in your own, or making
+reference to any material
+contained within. Only GameFAQs
+has permission to post this
+guide.
+
+================================
+TABLE OF CONTENTS
+================================
+
+Use Ctrl+F for easier
+navigation.
+
+   I. INTRODUCTION..............
+
+  II. GAME BASICS...............
+ Navigating the World...........
+ Psynergy.......................
+ Battle System..................
+ Djinni System..................
+
+ III. GAME CONTROLS.............
+
+  IV. CHARACTER INTRODUCTION....
+
+   V. WALKTHROUGH...............
+ Prologue.......................
+ Lookout Cabin..................
+ Goma Plateau...................
+ Tanglewood.....................
+ Abandoned Mine.................
+ Patcher's Place................
+ Psynergy Training Grounds......
+ Goma Highlands Road............
+ Carver's Camp..................
+ Carver's Lumberyard............
+ Konpa Gate.....................
+ Konpa Ruins....................
+ Konpa Cave.....................
+ Harapa.........................
+ Passaj Mountain Climb..........
+ Passaj.........................
+ Kaocho.........................
+ Ayutay.........................
+ Barai Temple...................
+ The Ouroboros..................
+ Harapa Ruins...................
+ Clouds of Passaj...............
+ Craggy Peak Ruins..............
+ Te Rya Village.................
+ Teppe Ruins....................
+ Belinsk........................
+ Border Town....................
+ Port Rago......................
+ Saha Town......................
+ Kolima Village.................
+ Phantasmal Bog.................
+ Kolima Forest..................
+ Talon Peak.....................
+ Belinsk Ruins..................
+
+  VI. MONSTER COMPENDIUM........
+
+ VII. BOSS STRATEGIES...........
+
+VIII. FREQUENTLY ASKED QUESTIONS
+................................
+.........GSDD8
+
+  IX. CREDITS...................
+
+   X. CONTACT INFO/LEGAL JAZZ...
+
+================================
+I...............................
+================================
+
+Hello everyone! This is my
+newest FAQ for yet another great
+RPG, this time it is Golden Sun:
+Dark Dawn. Like most of you,
+I've been waiting for this game
+for a very long time. I'm an
+enormous fan of the first two
+Golden Suns, and I was happy to
+hear that there's going to be a
+continuation to the series. This
+RPG is very solid, and, in my
+opinion, is one of the better
+RPGs on the DS, probably even
+the last great RPG on the
+system. The game picks up 30
+years after the first two games
+in the series left off. You'll
+be controlling Matthew, Isaac's
+descendant, who tries to save
+Weyard from the enigmatic and
+mysterious Psynergy vortexes
+along with his friends Karis and
+Tyrell. He will also meet many
+new friends and comrades on his
+way. You'll see new places of
+the Angara continent (since it's
+the only continent that is
+available to explore in this
+game), and battle new foes. All
+in all, this game truly
+delivers, and I'm delighted to
+write a walkthrough for it. I
+hope that you'll enjoy playing
+Golden Sun: Dark Dawn as much as
+I enjoyed writing this guide!
+
+
+================================
+II..............................
+================================
+
+
+================================
+III.............................
+..GAME CONTROLS.................
+.........GSDD3
+================================
+
+    ____________________________
+    /           ________________
+    |          |.---------------
+    |          ||               
+    |          ||               
+    |          ||               
+    |  . . .   ||               
+    |  . . .   ||               
+    |          ||               
+    |          ||               
+    |          ||_______________
+    |____      '----------------
+    (____|__________________'___
+    |           ________________
+    |          |.---------------
+    |    _     ||               
+    |  _| |_   ||               
+    | |_   _|  ||               
+    |   |_|    ||               
+    |          ||               
+    |          ||               
+    |          ||               
+    |          ||_______________
+    |          '----------------
+    \___________________________
+
+
+          A - Confirm
+            B - Back
+            X - Menu
+    Y - Toggle upper screen
+          D-Pad - Move
+        Start - Nothing
+        Select - Nothing
+    L/R - Psynergy shortcuts
+
+================================
+IV...........................CHA
+RACTER INTRODUCTION.............
+.........GSDD4
+================================
+
+================================
+V...............................
+================================
+
+This walkthrough contains only
+slight spoilers, like location
+and boss names. I will also
+mention the points in the game
+when certain characters join
+your party. However, I will not
+reveal any critical plot
+details, and will only stick to
+direct documenting of all the
+things you can do in this game.
+
+================================
+PROLOGUE........................
+================================
+
+
+Long ago, the ancients of Weyard
+     discovered the secrets of A
+
+     They found that all life in
+was based on the four elements:
+  earth, wind, fire and water.
+
+  They used their knowledge of
+  Alchemy to forge a dazzling
+civilization from the elements.
+
+  And the ancients made their
+   wildest dreams come true.
+
+       And then began the
+     nightmare of Alchemy.
+
+Abuses of Alchemy threatened to
+    tear apart their entire civi
+     So the ancients did the unt
+ They sealed away the power of
+Alchemy so no one could use it.
+
+  Civilization was saved, but
+   the physical world itself
+   began to die a slow death.
+
+    For the ancients didn't
+    realize that Alchemy was
+   what held Weyard together.
+
+ Without the force of Alchemy,
+     lands went barren, seas wen
+and the planet began to crumble.
+
+     And civilization itself fel
+ the darkest of ages that came
+     before its final, fatal ext
+
+  The ancients had sealed away
+ Alchemy to save civilization.
+  But they had doomed Weyard.
+
+But while the oceans churned and
+     life on the continent slid 
+toward oblivion over the eons...
+
+     A legend was kept alive tha
+ the key to Weyard's survival.
+
+    If four Elemental Lighthouse
+     ignited, their energy would
+     the Golden Sun event over W
+
+The Golden Sun would unleash the
+     force of Alchemy - saving t
+
+    Thirty years ago, a group of
+     save the world with the Gol
+    But now a shadowy threat is 
+
+
+After the lenghty inrtoduction
+and the opening scene, you'll
+gain control of Matthew, the
+main character. Try to run
+around for a bit, open the menu,
+get yourself familiar with the
+controls. Or just climb the
+ladder to get on the roof of the
+house for another scene.
+Approach Tyrell for another
+sequence of scenes.
+
+
+================================
+LOOKOUT CABIN...................
+================================
+
+.-------------------------------
+| Items & Djinni |
+|-------------------------------
+| • Short Sword |
+| • Sun Saga 1                  
+| • Padded Gloves |
+| • Herb                        
+'-------------------------------
+
+Inside the house, Karis will
+give you a [LEATHER CAP]. You'll
+watch a little equipment
+tutorial. Karis will also save
+your game in the travel log.
+Open the nearby chest for a
+[SHORT SWORD] and climb the
+ladder. Examine one of the book
+shelves to find [SUN SAGA 1]. Go
+upr the stairs and open the
+chest to find [PADDED GLOVES].
+Equip both the sword and the
+gloves, then talk to Karis. She
+will join you. Exit the cabin,
+go left and examine one of the
+pots there for a [HERB]. Head
+right for a scene.
+
+
+================================
+GOMA PLATEAU....................
+================================
+
+.-------------------------------
+|               Enemies         
+|-------------------------------
+| • Slime                       
+| • Flutter Seed |
+'-------------------------------
+
+Go all the way right, and Isaac
+will tell you to enter the cave.
+Once there, Isaac and Garet will
+stop you near the entrance.
+You'll fight your first battle.
+Follow the only path, slide down
+and jump over the gaps. Try to
+use the "Move" Psynergy on the
+pillar to trigger a scene. After
+a Psynergy lecture approach the
+pillar and push it left or right
+to make it fall using "Move".
+Jump over the nearby gaps and
+touch a Psynergy stone to
+restore your PP. Exit the cave
+in the southeast. Follow the
+path down and move the pillar to
+the right. Go back and jump over
+it. Continue your path forward
+for one more scene here. Keep
+going northeast to reach
+Tanglewood.
+
+
+================================
+TANGLEWOOD......................
+================================
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Herb                        
+| • Bramble Seed | • Flutter
+Seed |
+| • Elixir                      
+'-------------------------------
+          | • Rat Soldier       
+          '---------------------
+
+After a Djinni tutorial and a
+couple of battles, Isaac and
+Garet will join the team.
+Although you can't command them
+directly in battle, they still
+fight alongside you. They'll
+give you six Djinni. Go north
+and right at the fork, make a
+U-turn and over the water to get
+to a chest with [HERB]. Go north
+after that and make your way
+northeast to get to a chest with
+a [BRAMBLE SEED]. Run around
+this spot to trigger a scene. Go
+back a bit and approach the big
+red flower. After the scene, go
+north to find another red
+flower. You should have at least
+one Mars Djinn in Matthew's
+possession, so that he obtains
+the "Fire ball" Psynergy. Use it
+on the flower and proceed to the
+right. Run over the green bushes
+and go northeast. You'll see a
+little vine here (looks like a
+leaf). Stand as close to it as
+you can and use the "Growth"
+Psynergy on it (Matthew should
+have it). Now go southeast and
+head southwest to get to the red
+flower. Burn it with "Fireball".
+Get on the green bushes again
+and move northeast, jumping from
+one bush to another. Climb the
+vine and shoot the red flower
+with "Fireball". Climb down and
+run northeast, then west to the
+next area. Push both pillars
+into the water. Jump east for a
+chest with [ELIXIR]. Jump north
+and use "Move" on the pillar to
+make it fall in the water. Use
+"Growth" on the vine and
+approach the mine cave for a
+scene.
+
+
+================================
+ABANDONED MINE..................
+================================
+
+.-------------------------------
+|               Enemies         
+|-------------------------------
+| • Wild Wolf                   
+| • Rat Soldier |
+| • Willowisp                   
+'-------------------------------
+
+Follow the path forward until
+you run into a vine. Use
+"Growth" on it, climb it and
+follow the descending path to
+the exit for another scene.
+After it, run north and then
+west. Use "Growth" on the vine
+and go up a bit. Descend the
+vine and approach the giant
+flower. Heal yourself if needed,
+and save your game. When ready,
+toss a fireball at the beast.
+
+.-------------------------------
+| BOSS: Tangle Bloom            
+|-------------------------------
+| Experience: 145               
+| Gold: 77                      
+| Item Drop: Psy Crystal        
+|-------------------------------
+| If you're level 5 like me, you
+should have no real problems
+with this | | battle, since
+Isaac and Garet are helping you
+out. This makes the fight | |
+pathetically easy. Tangle Bloom
+mostly does physical attacks,
+and rarely | | uses the Bramble
+Seed attack, and even more
+rarely - Phantom Spore, which |
+| can cause delusion on your
+characters. Regular attacks are
+fine for this | | battle, since
+Garet and Isaac will be doing
+the Djinn-summoning job here. |
+| This is more of a training
+boss battle, I guess. |
+'-------------------------------
+
+Make your way to Tyrell. After
+the conversation, go west and
+follow the path outside for a
+scene. Back in the Lookout
+Cabin, you'll watch a long scene
+that officially opens your
+journey. In the Goma Plateau,
+take the nearby path down and
+exit to the overworld. A [VENUS
+DJINNI "FLINT"] will join you
+right away. That's your first
+Djinni here, so be gentle with
+it.. hehe... Proceed west and
+enter the nearby town, the
+Patcher's Place.
+
+
+================================
+PATCHER'S PLACE.................
+================================
+
+.-------------.                 
+| WEAPON SHOP | | ARMOR SHOP |
+|-------------------------------
+| Item Name | Price | | Item
+Name | Price |
+|-------------------------|-----
+| Long Sword | 200 G | | Cotton
+Shirt | 20 G | | Short Sword |
+120 G | | One-piece Dress | 25 G
+| | Mace | 80 G | | Wooden
+Shield | 40 G | | Wooden Stick |
+40 G | | Padded Gloves | 10 G |
+| Short Bow | 300 G | | Leather
+Cap | 30 G |
+'-------------------------------
+
+.-----------.
+| ITEM SHOP |
+|-------------------------------
+| Item Name | Price |
+|---------------------------|---
+| Herb                      | 10
+| Antidote | 20 G |
+'-------------------------------
+
+.-------------------------------
+| Items & Djinni |
+|-------------------------------
+| • Power Bread |
+| • Herb                        
+| • Elixir                      
+| • Antidote                    
+| • Sun Saga 2                  
+| • Smoke Bomb                  
+| • Mars Djinni "Forge" |
+'-------------------------------
+
+Head west, check the barrel for
+some coins, and enter the store
+for a scene. After it, go behind
+the counter and open the chest
+with [POWER BREAD]. Talk to
+Patcher from across the counter,
+and he'll tell you about his
+shop. After buying some new
+equipment, go west and enter the
+lower door. You'll find a barrel
+with a [HERB] there. Go back, up
+the stairs and right. Outside,
+check the barrel for an
+[ELIXIR]. Head into the door on
+the right, and search the pot
+for an [ANTIDOTE]. Go up the
+stairs, and west to the edge
+into the north west house. Check
+the bookshelf to find [SUN SAGA
+2]. Go down and check the barrel
+for a [SMOKE BOMB]. Go east and
+enter the house to get some
+coins from the drawer. To the
+left of the house, you'll find a
+vine. Use "Growth" on it to make
+a shortcut and head back to the
+upper part of the town. Start
+climbing the mountain.
+
+
+================================
+PSYNERGY TRAINING GROUNDS.......
+................................
+.........DDWT7
+================================
+
+You'll see four pillars and a
+tree in front of you. Move the
+far right pillar to the left,
+northmost one to the south four
+times. And finally, move the
+third pillar around the tree to
+position it in line with the
+other two. Climb the tree and
+jump over the pillars. Run east
+and climb down another tree. Use
+"Growth" on the vine and climb
+down to the next screen. You'll
+find the [MARS DJINNI "FORGE"]
+here. Return to the training
+grounds and talk to the old guy
+near the entrance. Agree to
+undergo the test of your
+abilities. Remember, there's a
+boss in the end of this trial,
+so you should be at least level
+7 to feel comfortable. You'll
+have 10 minutes for each of the
+four tests.
+
+Test 1 (Mercury Area) Go north
+and cast "Fireball" at the
+white-blue picture. Go east and
+push the forst log to the right.
+Move the pillar to the right and
+push the bottom log there.
+Finally, push the middle log up
+and head east. Climb the tree
+and shoot a "Fireball" at the
+picture. Go east and move both
+pillar on the geysers. Stand on
+the middle geyser to be
+trampolined to the top. Shoot
+the picture to finish the first
+test.
+
+Test 2 (Venus Area) Go north and
+use "Whirlwind" on the nearby
+wind-vane. Use "Whirlwind" on
+the one behind it, too. Now run
+to the northeast corner and use
+"Whirlwind" on the wind-vane
+there. Go back to the beginning
+of this area and hop into the
+cart. After taking a ride in it,
+jump to the left and shoot three
+pictures with "Fireball". Jump
+left, over the logs and finally
+cast "Growth" on the vine. Climb
+up and shoot both pictures to
+finish the test.
+
+Test 3 (Jupiter Area) Go north,
+up the logs and cast "Whirlwind"
+on the wind-vane. Jump to the
+right and pull all three pillars
+to the left using "Move".
+Continue right, and jump to the
+south. Hop onto the floating
+crates. You need to move three
+pillars to release the switches.
+Once you've done that, shoot the
+three pictures with "Fireball"
+to open the path east. Cast
+"Whirlwind" on the wind-vane,
+then hit the picture with
+"Fireball" again.
+
+Test 4 (Mars Area) Melt the ice
+pillar with "Fireball", and jump
+over the puddle. Push the log to
+the left, then jump north, left
+and get behind the log. Push it
+east sp that it lands in the
+water. Melt 3 ice pillars that
+are stuck between the crates and
+go to the right. Cast
+"Whirlwind" on the wind-vane,
+then go up the stairs and west.
+Use the pillar to shield
+yourself from the flames.
+Continue east, and shoot the ice
+pillars with "Fireball" from
+different heights. Use "Growth"
+on the vine and climb it.
+Finally, burn the pictures in
+the end and prepare to face a
+boss.
+
+.-------------------------------
+| BOSS: Dim Dragon              
+|-------------------------------
+| Experience: 179               
+| Gold: 60                      
+| Item Drop: Nut                
+|-------------------------------
+| I guess that GS: The Lost Age
+players are familiar with who
+this guy tries | | to resemble.
+Anyway, it's a pretty easy boss,
+since it uses primarily weak | |
+attacks like Sizzle Breath or
+Pebble Breath. They hit more
+than one party | | member, but
+the damage is minimal. It can
+also use Scary Jinx spell, that
+| | inflicts Curse on one
+character, but I guess you
+should be able to kill it | |
+before the spell works. If
+you're having trouble with this
+Dragon, consider| | gaining a
+couple of level, but I guess
+level 6-7 should do the job. |
+'-------------------------------
+
+Whichever chest you decide to
+open, you'll still get a [GATE
+CARD]. It's a very important
+item which we'll need a little
+bit later. You can go through
+the trials again and you'll get
+a [WATER OF LIFE] from the
+second chest.
+
+Exit Patcher's Place to the
+south, and go southeast. Soon
+enough you'll reach the Goma
+Highlands Road.
+
+
+================================
+GOMA HIGHLANDS ROAD.............
+................................
+.........DDWT8
+================================
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Mint                        
+| • Themis' Axe                 
+| • Herb                        
+| • Jupiter Djinni "Gust" | •
+Drone Bee |
+'-------------------------------
+
+Go north, up the stairs, and
+jump over the little river near
+the sign. Now use "Whirlwind" on
+the flower petal between the
+tree and the eminence. Climb the
+tree and jump to the upper side.
+Go west and hop in the gondola.
+Cast the "Fireball" Psynergy to
+make it move. Open the chest
+with [MINT]. Slide down and head
+west, then keep going east to
+the next area. Push the log
+north, then jump over the river
+and push the northeast log west.
+Jump over the river again and
+push the next two logs south.
+Push the northeast log east and
+finally push the west log east,
+too. Climb down the tree, jump
+east to the other side (the log
+that just landed here should
+help). Use "Whirlwind" on the
+petals and jump to the chest
+with [THEMIS' AXE]. Go back a
+little (to the sign) amd head
+east along the curving path to
+the next area.
+
+
+================================
+CARVER'S CAMP...................
+================================
+
+.---------------.
+| GENERAL STORE |
+|-------------------------------
+| Item Name | Price |
+|---------------------------|---
+| Long Sword | 200 G | | Battle
+Axe | 280 G | | Short Bow | 300
+G | | Travel Vest | 50 G | |
+Wooden Shield | 40 G | | Padded
+Gloves | 10 G | | Circlet | 120
+G |
+| Herb                      | 10
+| Antidote | 20 G |
+'-------------------------------
+
+.-------------------------------
+| Items & Djinni |
+|-------------------------------
+| • Sleep Bomb                  
+| • Lucky Pepper |
+| • Herb                        
+| • Mercury Djinni "Chill" |
+'-------------------------------
+
+After the little scene, cast
+"Whirlwind" on the petal to
+rescue the kid. After the
+conversation, head north a bit
+to meet Carver. After the scene,
+go south and jump over the gap
+near the exit. Climb the ladder
+down, use "Growth" on the vine
+and you'll find a [MERCURY
+DJINNI "CHILL"] here. We can now
+get one more Djinni (the one we
+saw at the Goma Highlands Road),
+so let's do that. Go behind the
+northwest house, and get as
+close as you can to the yellow
+pillar. Use "Move" on it to move
+it east twice. Jump on it and
+head left, back to the
+Highlands. Go north to find a
+[HERB] in the pot. Then proceed
+south to the gondola and launch
+it with "Fireball". On the other
+side, run north and east to find
+[JUPITER DJINNI "GUST"]. Defeat
+it to make it join you. Return
+to Carver's Camp. First off, go
+into the building where the shop
+and inn are located. You'll find
+a [SLEEP BOMB] downstairs. Exit
+the hut and push the log that is
+nearby to the left. Go behind
+the southwest house to find some
+coins in the pot. Use the
+chimney to get into the this
+house. Inspect the pot to find
+[LUCKY PEPPER]. You can also
+find a [HERB] in one of the
+barrels of the northwest house.
+
+When you're done here, exit the
+town to the south. From Carver's
+Place, start going south and
+you'll run into a battle with a
+[MARS DJINNI "FEVER"]. Go back a
+bit, and enter Carver's
+Lumberyard, which is west of
+Carver's Place.
+
+
+================================
+CARVER'S LUMBERYARD.............
+................................
+........DDWT10
+================================
+
+.-------------------------------
+| Items & Djinni |
+|-------------------------------
+| • Nut                         
+| • Zagan Summon |
+'-------------------------------
+
+Go up the stairs, and run north.
+Descend the other stairs, and
+head to the tree. Cast
+"Whirlwind" on the petals and
+get over to the upper level. Run
+east and push the light-brown
+log east to uncover some more
+petals. "Whirlwind" them, and
+use them to get inside the cave.
+Inside, you'll learn the [ZAGAN
+SUMMON] after reading the
+tablet. Now you can jump onto
+that gondola you've passed and
+ride it to the next screen. Cast
+"Whirlwind" on the petals to
+uncover a [NUT] item. Push the
+pillar down twice to make a
+shortcut. Get on the gondola and
+ride it back. Exit the
+Lumberyard and head south until
+you enter the Konpa Gate.
+
+
+================================
+KONPA GATE......................
+================================
+
+.-------------------------------
+| Items & Djinni |
+|-------------------------------
+| • Antidote                    
+| • Venus Djinni "Flower" |
+'-------------------------------
+
+Approach the gate and ring the
+bell. Since you have the Gate
+Card, the old guy will open the
+gate for you. If not, go back to
+the Psynergy Training Grounds
+and get it. You can use the
+shortcut in Carver's Lumberyard
+that we just made. Go north, up
+the ladder and jump down on the
+west tree. The Djinni will see
+you and hide in the flowers. Use
+"whirlwind" to uncover it.
+[VENUS DJINNI "FLOWER"] is yours
+now. Enter the gatekeeper's hut
+and check the pots for an
+[ANTIDOTE]. After doing all
+that, leave the Gate via north
+exit.
+
+On the overworld map, follow the
+curvy path to the Konpa Ruins.
+
+
+================================
+KONPA RUINS.....................
+================================
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Elven Shirt                 
+| • Glyph Book                  
+| • Grip Crystal                
+| • Stone Key                   
+| • Psy Crystal | | • Jupiter
+Djinni "Jolt" |
+'-------------------------------
+
+This is the first major dungeon
+in the game. It's pretty long,
+and its layout and puzzles
+should give you the general idea
+of what awaits you further in
+the game. Anyway, head up the
+stairs and enter the temple.
+Head directly north in the
+central door. Push the block two
+times north and go back. Run up
+the east stairway and take the
+far east door. Proceed east,
+jump over the gap and enter the
+east room. Use "Move" on the
+yellow orb to push it south.
+Return to the previous area and
+step on the yellow panel. Ignore
+this path for now, and exit
+west. Take the other east door,
+run through the back of it and
+stand on the yellow panel.
+You'll see a stairway appear.
+Proceed to this stairway and
+take the west door. In the room
+where the purple orb is located,
+cast "Whirlwind" on it. Use
+"Whirlwind" again on the blue
+panels to make them fly in the
+air. Jump to the other side of
+the room. Take the northwest
+exit. In the next area, whirl
+the southwest trio of panels and
+jump on the eminence. Push the
+pillar down. Slide down and this
+time whirl the southwest and
+northwest trios of panels. Use
+them to get to the chest with
+[ELVEN SHIRT]. Push the pillar
+south east. Whirl all the panels
+in the south and get to the east
+eminence. Push down another
+pillar. Now, slide down and push
+both pillars north so you can
+jump on them. Whirl the
+northeast couple of panels, and
+quickly use them (as well as the
+pillars) to get to the northeast
+exit. Step on the platform and
+you'll go up. Exit in the east.
+You will be in the main hall of
+the temple again. Take the next
+door right away. Push the block
+down and go back. Take the
+platform again to get down.
+Enter the central door again.
+Push the block east three times
+and retreat to the previous
+area. Take the east platform
+this time. Push the block down,
+and return to the room where it
+landed. You should have
+memorized it by now. Push the
+block north once, and west three
+times. Return to the main hall
+and take the far east door
+again. Go east and take the
+north exit (the one that we
+ignored earlier). Use "Move" on
+the statues to put them on the
+panels. Use the Psynergy stone
+if you need to, and take the
+north exit. Follow the path
+southwest. Step on both yellow
+panels and push the last block
+down. Use either of the
+shortcuts you just created to
+return to the room with the
+flower. Push the last block
+south two times to trigger a
+scene. In the main hall, climb
+on the statue's hands. Answer
+"Yes" when prompted. You'll
+obtain the [GLYPH BOOK]. Go back
+to the lower central room where
+the flower is and approach the
+tablet for a scene. The
+southwest statue should be moved
+east and the southeast one
+should be moved north. The
+northeast statue should be moved
+west, while the northwest statue
+should be moved south. Step on
+the sparkling flower to be
+transported to the upper floors.
+Take the southwest exit. Follow
+the path outside, go up the
+stairs and stand on the yellow
+panel. Enter the door. Grab the
+[GRIP CRYSTAL] from the chest.
+Equip it on Matthew, and use
+your new "Grip" Psynergy to get
+to the east side of the room by
+grabbing the golden pole. Use
+"Grip" to grab the [STONE KEY]
+in the northeast. Use the key to
+open the door. Get on the
+eminence in the center and use
+"Grip" to move west. A Djinni
+will see you and start running
+away from you. Trap it by luring
+it to either of the poles and
+casting "Grip" to jump at it.
+Djinni will get mad and fight
+you. Defeat it and [JUPITER
+DJINNI "JOLT"] is yours. Now
+move to the east end of this
+area using "Grip" and exit east.
+On the next screen, immediately
+turn west to return to previous
+area, this time on the lower
+level. Go all the way west, and
+descend the vine. Keep going
+west to find a chest with [PSY
+CRYSTAL]. Climb the vine back up
+and enter the nearby door.
+Follow the path northeast. Enter
+the door in front of you and
+proceed through the curvy path
+to the room with the red orb.
+Use "Grip" to get around here
+and use "Fireball" on the orb.
+Go two screens back and destroy
+the big block with "Fireball".
+Return to the flower platform
+and get down to the main hall.
+Use "Fireball" on the red tablet
+in the center and descend the
+newly- opened stairway. Step on
+the yellow block and enter Konpa
+Cave.
+
+
+================================
+KONPA CAVE......................
+================================
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Elven Rapier                
+| • Cookie                      
+'-------------------------------
+          '---------------------
+
+Use the Psynergy stone if you
+need to and exit this area in
+the northwest. Follow the path
+north, use "Grip" to get to the
+opposite side, go down a bit and
+cast "Grip" again to get on the
+eminence, and push the pillar
+down. Slide down and move it to
+the left once. Use these
+elevations to get to a chest
+with [ELVEN RAPIER]. Slide down
+and go north. Save at the end of
+this path. Once you go through
+this door and fight a boss in
+the next area, you'll have the
+last chance ot return to the
+previously visited locations.
+This is the first point of no
+return in the game. Make sure
+you got all the Djinnies up to
+this point. If you've been
+following this walkthrough, you
+should have 7 of them. Also,
+this is your last chance to get
+the "Zagan" summon. When you're
+ready, save your game, head
+through the door and watch the
+scene.
+
+.-------------------------------
+| BOSS: Stealthy Scout x3 |
+|-------------------------------
+| Experience: 798               
+| Gold: 426                     
+| Item Drop: Psy Grenade        
+|-------------------------------
+| This boss can be difficult, if
+you're underleveled. You should
+be level 10,| | at least. Since
+there are three of these guys
+here, you should cast spells | |
+that hit multiple targets.
+Karis' Plasma is especially
+useful here. If you | | are
+unlucky, Scouts can start using
+Psy Grenades at the start of the
+fight | | to deplete your PP to
+zero. Don't bother replenishing
+it, as most likely | | they'll
+reduce it again. That's why you
+need to have a good amount of
+Herbs| | or Nuts to help you
+heal. Other than that, Scouts
+can use Paralysis Shot, | | a
+weak attack that can paralyze
+your characters, or Stifle Shot
+to damage | | you and reduce
+your agility. When their HP is
+low, they start throwing | |
+Herbs at each other, so you
+should be using your Djinni here
+if you're | | feeling that
+regular attacks won't do. |
+'-------------------------------
+
+After the long (and interesting)
+scene, go east. On the next
+screen push the first pole
+south, then do the same with the
+next one you come to. Push the
+east pole left, then the south
+pole up, and the west pole
+right. Make your way to the
+south exit. I do believe this is
+the actual point of no return,
+cause after you come outside,
+you won't be able to get back
+into the cave. Anyway, after the
+scene, proceed south and watch
+the conversation with Rief. He
+will then join your party!
+Finally, a Mercury Adept. Go
+northeast and climb the tree.
+Use "Growth" on the vine and
+climb it. Move to the west side
+and enter the cave to find a
+chest with a [COOKIE] inside.
+Leave Konpa Cave for good.
+
+In the overworld map, head south
+and east to the town of Harapa.
+
+
+================================
+HARAPA..........................
+================================
+
+.-------------.                 
+| WEAPON SHOP | | ARMOR SHOP |
+|-------------------------------
+| Item Name | Price | | Item
+Name | Price |
+|-------------------------|-----
+| Long Sword | 200 G | | Leather
+Armor | 240 G | | Battle Axe |
+280 G | | Travel Vest | 50 G | |
+Hunter's Sword | 520 G | |
+Travel Robe | 200 G | | Heavy
+Mace | 500 G | | Leather Armlet
+| 180 G | | Longbow | 800 G | |
+Open Helm | 180 G |
+'-------------------------------
+         '----------------------
+
+.-----------.
+| ITEM SHOP |
+|-------------------------------
+| Item Name | Price |
+|---------------------------|---
+| Herb                      | 10
+| Antidote | 20 G |
+| Elixir                    | 30
+| Khiren Water | 100 G |
+'-------------------------------
+
+.-------------------------------
+| Items & Djinni |
+|-------------------------------
+| • Khiren Water |
+| • Sleep Bomb                  
+| • Oil Drop                    
+| • Mars Djinni "Cinder" | | •
+Venus Djinni "Brick" |
+'-------------------------------
+
+Go to the southwest house and
+check the pot for [KHIREN
+WATER]. The northwest house
+(near the weapon shop) has a
+barrel with some coins. Enter
+the inn, and you'll find a
+[SLEEP BOMB] in the barrel
+there. Approach the kids near
+the southeast house for a little
+scene. Go to the fortune-
+teller's tent and talk to Nhamu
+to a rather creepy comment about
+your future. Enter the healer's
+house and go upstairs. Check the
+pot for [OIL DROP]. Go outside,
+and north. Cast "Douse" on the
+flame. Jump over it and go
+north. In the ruins area, head
+north and you'll find [MARS
+DJINNI "CINDER"]. Leave Harapa
+via south exit. On the overworld
+map, go northeast to the Passaj
+Mountain.
+
+
+================================
+PASSAJ MOUNTAIN CLIMB...........
+................................
+........DDWT15
+================================
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Leather Boots | • Kobold |
+| • Blow Mace                   
+| • Venus Djinni "Bark"         
+'-------------------------------
+
+Go west, up the stairs, and push
+the pillar to the right. Climb
+the ladder down and go west. Use
+"Move" on the pillar topush it
+east. Go up, and slide down.
+Open the chest with [LEATHER
+BOOTS]. Cast "Growth" on the
+vine and climb it. Go west, and
+cast "Whirlwind" on the petal.
+Use it to jump east and into the
+cave. On 2F, go north into the
+next door. Stand to the left of
+the pillar and push it east. Go
+east, push the green zol stone
+into the hole and exit
+northeast. On 3F, go west and
+cast "Whirlwind' on the zol
+stone. Use it to get to the
+southwest exit. Cross the
+bridge, and in the next room
+push the zol stone east, go up,
+avoiding the wind gusts. Slide
+down to the right and push the
+stone down, then push it east.
+Get over to the eminence in the
+east and jump over the stone to
+a chest with the [BLOW MACE].
+Exit northeast. Go north, slide
+down. Be careful with the gusts
+of wind when heading west to
+examine the Djinni. Defeat it to
+obtain [VENUS DJINNI "BARK"].
+Take the right north stairs and
+you'll be outside again. Climb
+the ladder to the top. Ignore
+the east path for now. Go north
+to the town of Passaj.
+
+
+================================
+PASSAJ..........................
+================================
+
+.-----------.
+| ITEM SHOP |
+|-------------------------------
+| Item Name | Price |
+|---------------------------|---
+| Herb                      | 10
+| Antidote | 20 G |
+| Elixir                    | 30
+| Khiren Water | 100 G |
+'-------------------------------
+
+.-------------------------------
+| Items & Djinni |
+|-------------------------------
+| • Tree Flute                  
+| • Smoke Bomb                  
+| • Nut                         
+| • Herb                        
+| • Power Bread |
+| • Antidote                    
+| • Quality Zol | | • Mars
+Djinni "Brand" |
+'-------------------------------
+
+Follow Rief to the platform for
+a scene. After it, go back to
+town. Enter the central round
+building for another scene. Move
+the east grey pillar to the
+right, then push the east zol
+stone up, left and up. Go to the
+left part of the room. Push the
+left zol stone right and up.
+Then push the remaining stone
+left, up, right, up. Throw
+"Fireball" at the symbol in the
+center to trigger a scene. After
+it, enter the hut in northwest
+for another scene. Talk to
+Baghi, and he'll give you the
+[TREE FLUTE]. Leave the hut and
+enter the weapon/armor shop.
+Push the northeast block west
+two times, and south two times.
+Push the northwest block east
+once and south four times. Push
+the remaining block west twice,
+north twice and west twice.
+Check the pot on the right for a
+[SMOKE BOMB]. Exit the house and
+go to the inn. Search the pots
+for a [NUT]. Take the north
+door, go west, check the barrel
+foe a [HERB], and enter the
+northwest room. You'll find
+[POWER BREAD] in a barrel here.
+Go back to the fork and take the
+north door. Search the pots for
+some coins. Go bakc to the fork
+and exit southwest. Inspect the
+big pot to find [ANTIDOTE]. Go
+to the healer's house (lower
+west house) and take the back
+door. Push the zol stone east,
+south, east, west. In the next
+room you'll find some [QUALITY
+ZOL] in the chest. We can't get
+to the Djinni now, so go to the
+lower door on the east side of
+town and step on the elevator.
+You'll be brought to the foot of
+the mountain.
+
+In the overworld, run east, and
+you'll run into a Djinni battle
+in the woods west of Kaocho.
+Defeat your opponent to get
+[JUPITER DJINNI "ETHER"]. Run
+across the bridges and enter
+Kaocho in the north.
+
+
+================================
+KAOCHO..........................
+================================
+
+.----------------.              
+| EQUIPMENT SHOP | | ITEM SHOP |
+|-------------------------------
+| Item Name | Price | | Item
+Name | Price |
+|-------------------------|-----
+| Broad Sword | 1000 G | | Herb
+| 10 G | | Hunter's Sword | 520
+G | | Antidote | 20 G | | Heavy
+Mace | 500 G | | Elixir | 30 G |
+| Longbow                 | 800 
+| Leather Armor | 240 G | |
+Travel Robe | 200 G | | Bronze
+Shield | 500 G | | Leather
+Gloves | 220 G | | Wooden Cap |
+400 G |
+'-------------------------------
+
+.-------------------------------
+| Items & Djinni |
+|-------------------------------
+| • Sanan Dress |
+| • Elixir                      
+| • Smoke Bomb                  
+| • Grandmother's Gift |
+| • Wo's Letter                 
+| • Venus Djinni "Steel" | | •
+Mars Djinni "Lava" |
+'-------------------------------
+
+Go east across the bridge and
+then south. Jump over the leaf
+to the chest with [SANAN DRESS].
+Go to the house east of here and
+search the pot for [ELIXIR]. Go
+back west across the bridge and
+enter the house with lots of
+bookshelves. Search the pot for
+some coins. Go northwest from
+the closed tea shop and check
+the pot for a [SMOKE BOMB].
+Enter the west house here and
+check the drawer for some coins.
+Talk to the old woman near the
+table to get [GRANDMOTHER'S
+GIFT]. Go east from the inn, on
+the narrow path beside the
+water. Keep going N, jump on the
+leaves. Jump on the side of the
+palace and use "Grip" on the
+pole to get to the opposite
+side. Proceed south from there
+to find a new [VENUS DJINNI
+"STEEL"]. Don't worry about the
+Mars one for now, as we can't
+get to it. Once you're done
+shopping and sightseeing, enter
+the big palace in the north.
+Answer "Yes" when prompted.
+Enter the north red door for a
+scene. You'll get [WO'S LETTER]
+in the process. After the scene
+ends, you'll be in some secluded
+section of the Ouroboros
+dungeon. Go north two screens to
+the next area. Move the snake
+statue left and go west. Use
+"Move" on the statue, which is
+second from the left to get back
+in the Kaocho cave. Climb the
+vine and exit the cave to the
+southeast. Now leave Kaocho and
+head for Ayutay, which is to the
+south west of here.
+
+
+================================
+AYUTAY..........................
+================================
+
+.-------------.                 
+| WEAPON SHOP | | ARMOR SHOP |
+|-------------------------------
+| Item Name | Price | | Item
+Name | Price |
+|-------------------------|-----
+| Broad Sword | 1000 G | |
+Leather Armor | 240 G | | Broad
+Axe | 1400 G | | Adept's Clothes
+| 850 G | | Battle Rapier | 2900
+G | | Bronze Shield | 500 G | |
+Battle Mace | 2600 G | | Leda's
+Bracelet | 900 G |
+'-------------------------------
+         | Silver Circlet       
+         '----------------------
+
+.-----------.
+| ITEM SHOP |
+|-------------------------------
+| Item Name | Price |
+|---------------------------|---
+| Herb                      | 10
+| Antidote | 20 G |
+| Elixir                    | 30
+| Sacred Feather | 70 G |
+'-------------------------------
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Herb                        
+| • Antidote                    
+| • Cookie                      
+| • Open Helm                   
+| • Elixir                      
+| • Sleep Bomb                  
+| • Sand Prince | | • Power
+Bread |
+| • Vial                        
+| • Crystal Powder | | • Leather
+Boots | | • Glittering Tiara | |
+• Water of Life | | • Dragon
+Shield | | • Jupiter Djinni
+"Breath" |
+'-------------------------------
+
+Show Wo's Letter to the couple
+of Kaocho soldiers here, and
+they'll let you through. Go west
+and take the [HERB] from the
+barrel. You'll find [ANTIDOTE]
+in the pot on the east side of
+the lake. Now go behind those
+soldiers near the entrance and
+get on the raft. You need to use
+"Whirlwind" to move it. The raft
+goes in the opposite direction
+from where you directed
+"Whirlwind". Stand on the raft
+facing west and cast
+"Whirlwind". The raft will move
+east. Do the same to move it
+north and west. Jump west and
+north to get on another raft. Go
+north and west to get to a chest
+with a [COOKIE]. Ge back on the
+raft and sail east, south, east,
+north. Head north into the
+palace and use the letter to get
+through the guards. Show the
+letter again, this time to
+Kaocho general Ku-Tsung, for a
+scene. Exit this area in
+southeast. Use "Growth" on the
+vine and go west to the door. In
+the next screen, take the
+northeast exit. Follow the path
+to the area with the tree. You
+can get some coins by searching
+the pot in the left wing. Use
+the Tree Flute near the tree for
+a scene. Keep going north after
+Amiti, grabbing some coins from
+the pot on your way. Head
+straight to Paithos' throne.
+After the long scene, go south
+twice, then take the east exit.
+Search the drawer for [OPEN
+HELM]. Go south and take the
+stairway east. Check the barrel
+for [ELIXIR] and go back. Head
+south and take the southeast
+exit outside. Check the pots for
+some coins. Back in the previous
+area, go west and take the
+southwest exit. Check the middle
+pot for [SLEEP BOMB]. Go back
+and take any of the two
+stairways leading to the lower
+part of Ayutay castle. Let's
+call this big area "the fountain
+area". Go to the center room
+behind the fountain for a scene.
+Take the northeast exit. Heal
+yourself and save the game.
+Examine the tablet and play the
+Tree Flute.
+
+.-------------------------------
+| BOSS: Sand Prince             
+|-------------------------------
+| Experience: 1540              
+| Gold: 825                     
+| Item Drop: N/A                
+|-------------------------------
+| Sand Prince is easy. His
+variety of attack is pretty
+poor. He mostly uses | | regular
+attacks or Eartquake. Arc Blast
+can hit a couple of characters.
+The| | only attack that can deal
+a good amount of damage to you
+is Eruption, but | | I've only
+seen him use it once or twice.
+Rief's Water Psynergy works best
+| | against the Sand Prince, so
+keep that in mind and heal when
+needed. |
+'-------------------------------
+
+You'll obtain the [SAND PRINCE]
+stone. Equip it on Tyrell. Go
+back to the previous room and
+use your new "Arid Heat"
+Psynergy on the water bowl for a
+scene. Return to the fountain
+area and go near the southwest
+exit. Turn north and enter the
+door there. Open the chest with
+[POWER BREAD]. Go back and take
+the northwest exit. Go northwest
+and make your way through the
+crates to a chest with a [VIAL].
+Return to the fountain area.
+Exit it southeast and follow the
+path to a room that has a chest
+with [CRYSTAL POWDER]. Return to
+the fountain area. Exit it
+southwest and take the west
+door. Move the pillar into the
+darkened space and go back. Go
+east and into the little room.
+Inside you will find a chest
+with coins. Go back and exit
+south. Step on the raft and sail
+it west to the chest with
+[LEATHER BOOTS]. After that,
+sail the raft east south and
+east. Jump south and push the
+pillar into the water. Go back
+and get on the east raft this
+time. Sail it south, west, south
+to get to an island that has a
+chest with [GLITTERING TIARA].
+Sail the raft west, north, west,
+north, east. Jump east, climb
+the ladder and exit north. Sail
+the raft west to find [JUPITER
+DJINNI "BREATH"]. Back on the
+raft, sail it east, north, east,
+north to a chest with [WATER OF
+LIFE]. Go back to the lake area
+and sail the raft west, south
+and west. Jump to the tower in
+the center of the lake.
+
+
+================================
+BARAI TEMPLE....................
+================================
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Kimono                      
+| • Storm Brand                 
+| • Mercury Djinni "Surge" | •
+Hydra |
+'-------------------------------
+
+Drain the bowl with "Arid
+Heat"and go north twice. Jump to
+the west exit. Continue on,
+don't touch the chest and take
+the southeast exit. Cast "Arid
+Heat" on the bowl and climb
+down. Jump to the northwest
+exit. Open the chest and read
+the letter. Go southeast, move
+the block east and exit this
+room. Cast "Arid Heat" on
+another bowl, climb down and
+take the north door. Head north
+and go through the west
+waterfall. Open the chest with a
+[KIMONO]. Go back and enter the
+east waterfall. Jump to the
+bowl, drain it and climb down.
+Push the blocks in one vertical
+line to make path to the north
+door. Cast "Douse" on the bowl
+and go north. Head east, west
+and north. Go down the stair way
+and cast "Arid Heat" on the
+bowl. Then get back up and stand
+close to the Djinni. Cast
+"Fireball" on it to make it jump
+down. Defeat it and you'll get
+[MERCURY DJINNI "SURGE"]. Go
+into the north door. You'll see
+water scales. Move to the right
+bowl and fill it with water by
+casting "Douse". Take the nearby
+stairs and cast "Growth" on the
+vine. Move a bit west and run on
+the scales to get higher. Push
+the red block down. Enter the
+northeast door. Go north and
+fill the bowl with water. Head
+southwest and push the pipe
+north. Push the second pipe
+west. Go back around the room
+and push the third pipe west.
+Return to the previous room and
+use "Arid Heat" on the right
+bowl. Cast "Douse" on the left
+bowl. Go back up and jump into
+the stream of water (near the
+elephant head). After the scene,
+cast "Whirlwind" on the wind-
+vane. Use Matthew's "Retreat" to
+get out of here. Dry the bowl
+again. Go north twice and take
+the path east. Follow it to the
+room with three chests. Jump
+east and open the east chest for
+[STORM BRAND]. Now you can leave
+this place for good.
+
+Back in Ayutay, go back to the
+castle to meet Paithos. From the
+Alchemy Well, go west and take
+west door. Sail the raft west
+and open the chest with [DRAGON
+SHIELD]. Push the pillar in the
+water and go back to the
+fountain area. Take whichever of
+north exits and take the central
+south door. Climb up the ladder
+for a scene. Amiti will join
+your party. Save your game and
+go south. Try to walk out of the
+castle and the generals will
+stop you.
+
+.-------------------------------
+| BOSS: Ku-Tsung & Ku-Embra |
+|-------------------------------
+| Experience: 1647              
+| Gold: 762                     
+| Item Drop: Plume Dumpling,
+Rice Ration |
+|-------------------------------
+| The general can pack a punch
+if you're not being careful. Ku-
+Tsung boosts | | their defense,
+while Ku-Embra boosts their
+attack. While Ku-Tsung is the |
+| less dangerous of the two, he
+should be taken down first,
+cause he likes | | himself and
+Ku-Embra, when they're low on
+HP. Ku-Embra can also heal, but
+| | he does it much less often.
+Ku-Embra is the powerhouse, and
+he uses various| | attacks like
+Zealous Fury and Cyclone Slash.
+Heal immediately after one of |
+| these. Now would be a good
+time to try out a couple of
+summons since you | | already
+should have a nice amount of
+Djinni to bring out the damaging
+ones.| | This isn't a hard
+battle if you're prepared well.
+|
+'-------------------------------
+
+After the scene, leave Ayutay.
+Upon your return to Kaocho,
+you'll see a scene. Go west
+across the bridge and use
+"Insight" on the sitting man. Go
+to the now opened tea shop and a
+Kaocho Dumpling there. Check the
+pot for [LUCKY PEPPER]. Go to
+the man and give him the item.
+Jump east to get [MARS DJINNI
+"LAVA"]. Go all the way east and
+take the northeast path to the
+next area. Enter the cave and go
+northwest for a scene. Cast
+"Arid Heat" on the bowl and
+climb the ladder. Play the Tree
+Flute to open the entrance to
+the Ouroboros dungeon.
+
+
+================================
+THE OUROBOROS...................
+================================
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Ixion Mail | • Curse Demon |
+| • Vulcan Axe | • Salamander |
+| • Sol Mask                    
+| • Jupiter Djinni "Vortex" |
+'-------------------------------
+
+Use the stairs to go down and
+exit south. Don't use the south
+exit in the next room, as it
+leads to Kaocho palace. Take the
+northeast exit instead. Run down
+the stairway and go south. Climb
+down the ladder and cast
+"Whirlwind" on the zol stone.
+Use it to go north at the fork
+and use "Move" on the far east
+snake statue. Jump to the chest
+with [IXION MAIL]. Go back and
+slide down. Go to the next room
+and examine the tablet. Cast
+"Fireball" on snake's tongue and
+head further. Run around the
+hole and exit southwest. The
+chest here is a Mimic, so you
+can ignore it. Or fight it, if
+you want a decent amount of EXP
+points. Throw "Fireball" at
+snake's tongue and climb down.
+"Whirlwind" both stones on your
+way to get to a chest with
+[VULCAN AXE]. Slide down and
+enter the north door. Whirl the
+zol stone and climb the ladder.
+Make your way to the northeast
+corner. Move the statue from
+your path and jump on the ledge.
+Go south and move the statue
+that is near the Djinni to the
+left three times. Go back to the
+zol stone, push it east and cast
+"Whirlwind" on it. Make your way
+to the Djinni and defeat it.
+[JUPITER DJINNI "VORTEX"] is
+yours now. You can now exit the
+room to the north. Follow the
+path to a non-working elevator,
+jump over it and exit southeast.
+Examine the tablet and cast
+"Whirlwind" on the giant wind-
+vane. Go back to the previous
+room and jump on the elevator.
+Back in B1, run up the newly
+formed stairway and enter the
+door. Grab the [SOL MASK] from
+the chest. You can escape the
+dungeon now.
+
+Back in Passaj, go to the
+Alchemy Forge and put the Sol
+Mask in its place. After the
+scene, exit the Forge and enter
+the equipment shop. It should be
+working now. You'll obtain a
+[ZOL RING]. Now enter the
+northwest building, and open the
+treasury. Check the pot to find
+a [VIAL]. Open the chests for
+[HARD NUT] and [PROPHET'S HAT].
+Exit the building and run up the
+stairway to the wall of Passaj.
+Head south and run across the
+entrance arc, to the next area.
+Slide down and walk to the east
+side to find [MARS DJINNI
+"BRAND"] here. Cast "Growth" on
+the vine and climb it to get
+back into Passaj. This time go
+to the Cloud Platform for a
+scene. Leave Passaj and return
+to Harapa. In Harapa, take the
+north exit, and jump over blocks
+and logs to get to the Harapa
+Ruins.
+
+
+================================
+HARAPA RUINS....................
+================================
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Lucky Pepper | • Momonga |
+| • Bone Armlet                 
+| • Crystal Powder | • Gryphon |
+| • Viking Helm | • Minotaurus |
+| • Ice Queen                   
+| • Mystery Blade | | • Mercury
+Djinni "Serac" |
+'-------------------------------
+
+Go down the stairs and step on
+the green platform. Exit the
+room to the south east. Use
+"Growth" on both vines here, and
+go back. Take the southwest exit
+now and proceed south along the
+water line. In the icy area, go
+south and make a turn to the
+nearby door leading north. Step
+on the panel and proceed south.
+Run east along the ledge to open
+two chests with [LUCKY PEPPER]
+and [BONE ARMLET]. Go back a bit
+and slide east. Take the
+southeast stairway. You'll find
+two chests in this room that
+contain [CRYSTAL POWDER] and
+[VIKING HELM]. Open them and
+return upstairs. Take the nearby
+door and push the statue onto
+the ice. Slide north and west to
+the next area. Now slide north,
+east, south, west, north, west,
+south, east, south to land near
+the Djinni. Defeat it and you'll
+obtain [MERCURY DJINNI "SERAC"].
+Go back to the statue and slide
+west again. Save the game. Slide
+north, east, south, west, north,
+west, north, east, north.
+Approach the icicle and answer
+"No" and "Yes" when prompted.
+
+.-------------------------------
+| BOSS: Ice Queen               
+|-------------------------------
+| Experience: 2402              
+| Gold: 1236                    
+| Item Drop: N/A                
+|-------------------------------
+| Ice Queen can be tough if
+you're underleveled. I recommend
+getting Matthew | | to at least
+level 19 so he can learn Revive.
+If things get really bad, you |
+| will need this spell.
+Although, at level 20, she
+doesn't seem too tough if | |
+you heal in time. Her weakness
+is obviously fire, so spells
+like Tyrell's | | Nova will deal
+the most damage to her. Coupled
+with summons like Inferno | |
+she won't stand a chance against
+you. Her most dangerous attacks
+are Ice | | Missile and
+Frostbite, since they deal lots
+of damage to multiple party | |
+members. Karis'/Rief's healing
+spells should be applied
+immediately. When | | Ice Queen
+uses Ply Well, it's a sign she's
+gonna die soon, so focus all of
+| | attacks on bringing her down
+and you'll emerge victorious. |
+'-------------------------------
+
+You'll get [ICE QUEEN] gemstone.
+Equip it on Rief. Freeze the
+with the new "Cold Snap"
+Psynergy and slide south, then
+east. Walk through the nearby
+door, step on the panel and go
+back. Take the northeast exit.
+Step on the panel. Climb the
+vine and jump over the puddle.
+Cast "Cold Snap" on the puddle
+and jump west to a northwest
+chest that contains [MYSTERY
+BLADE]. Slide down twice and go
+north. Leave Harapa Ruins. Back
+in Harapa, attempt to leave the
+town via southeast exit for a
+small scene. Rest at the inn and
+go west, behind the southwest
+house. Cast "Cold Snap" on the
+puddle and approach the
+southeast exit. Hug the outside
+wall and cast "Growth" on the
+vine. Climb it, and run west to
+the house. Check the pot for
+[CRYSTAL POWDER]. Enter the
+house to find [VENUS DJINNI
+"BRICK"] inside. Now you can
+safely leave Harapa.
+
+Back in Passaj, enter the
+Alchemy Forge and cast "Cold
+Snap" on both puddles for a
+scene. After it, go northwest to
+the Cloud Platform. Before
+advancing, make sure you have 22
+Djinni.
+
+
+================================
+CLOUDS OF PASSAJ................
+................................
+........DDWT22
+================================
+
+Go north and get on the cloud.
+Fly east and south. Jump on the
+moving platform to get to the
+northeast corner. Fly the cloud
+west and use "Grip" on the
+pillar. Fly the cloud south,
+east, north. If you touch the
+electrified orb, you'll fall
+down to B1. On the higher level,
+make your way across the moving
+platforms to the northeast exit.
+Touch the Psynergy Stone and
+jump on the cloud. Fly north. In
+the next area, you'll see some
+moving electrified orbs. Fly
+east, north and jump west. Fly
+the next cloud east and north.
+Go up the giant sky stairway all
+the way to Craggy Peak Ruins.
+
+
+================================
+CRAGGY PEAK RUINS...............
+................................
+........DDWT23
+================================
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Spiked Armor                
+| • Grievous Mace | • Bone
+Fighter | | • Jupiter Djinni
+"Doldrum" | • Chimera |
+'-------------------------------
+
+Head northwest and cast "Growth"
+on the vine, run east and use
+"Grip" to move further. Climb
+another vine and read the
+tablet. Go down the vine and
+move the angel statue nearby.
+Head through the door. Go up the
+stairs and cast "Whirl wind" on
+the wind-vane. Go back and down.
+Grab the pole on the circle with
+"Grip", and step on the circle
+after that. You'll be
+transported to a big room with
+many doors. Each of these doors
+represents a Zodiac sign, and
+contains a puzzle. You have to
+solve all the puzzles here.
+Let's start with the Leo door.
+Cast "Fireball" at the lion's
+head and go back. Next up,
+Aquarius door. Stand west from
+the mechanism and cast "Grip" on
+it. Head north and "Fireball"
+the lion's head. Go back turn
+the mechanism again and proceed
+to the chest that contains
+[SPIKED ARMOR]. In the north
+room, cast "Douse" on the jar
+and go back to the main hall. Go
+through the Gemini door. The
+puzzle here is a bit tricky. You
+can move any statue you won't,
+but I'll give the example by
+moving the west statue. Push it
+west, north twice, west twice,
+south, west twice, north twice,
+east, north twice, east twice,
+south, east twice, north three
+times and east. Go back and take
+the Virgo door. Stand to the
+left of the mechanism and cast
+"Grip" on it. Simply turn the
+statue around with "Grip" and
+cast "Growth". Return to the
+main area and enter the Libra
+door. Jump on the scales, and go
+north into the door. You'll need
+"Move" for this puzzle. Jump on
+the east scale and move one
+statue on it. Then jump on the
+west scale and move on statue on
+it. Do the same with the east
+scale, and with the west one
+again. Go back to the main hall
+and head through the Capricorn
+door. Shoot the only ram plate
+with "Fireball". Then shoot the
+left one, and then left one
+again. Finally, shoot the middle
+plate to solve the puzzle. Back
+in the main area, Pisces door is
+next. Go east and jump to the
+mechanism. Use "Grip" on it and
+walk to the north room. Cast
+"Douse" on both fish statues and
+go back. Enter the Cancer door.
+Go northeast and turn the statue
+around with "Grip". Open the
+chest for [GRIEVOUS MACE]. Jump
+west and turn the mechanism to
+get to the north door. Dry the
+bowl with "Arid Heat" and go
+back. Take the Scorpio door.
+Cast "Grip" on the mechanism and
+run around the room to get to
+the north door. Push the
+northeast zol stone west, and
+then push the Scorpio zol stone
+north. Push the northwest zol
+stone south, east and north.
+Push the new north west zol
+stone east and south. Finally,
+make the Scorpio zol stone go
+east. Go back and enter the
+Taurus door. Stand to the left
+of the north mechanism and turn
+it using "Grip". Shoot the
+lion's head to release the
+Djinni. Turn the second
+mechanism and defeat the little
+critter to obtain [JUPITER
+DJINNI "DOLDRUM"]. Enter the
+north door. Cast "Douse" on the
+bull's head and freeze the
+puddles with "Cold Snap". Go
+back and through the Aries door.
+The chest behind the statue is a
+mimic. Defeat it to get a Lure
+Cap, which you might need. In
+the puzzle room, push the square
+statue south twice, west seven
+times and north twice. Push the
+circle statue north twice, east
+seven times, south twice. Now
+move the triangle statue all the
+way south between the trails of
+previous two statues. Go back to
+the main area and enter the
+Sagittarius room. Pull the
+mechanism with "Grip" and go
+into the north door. Freeze the
+puddle with "Cold Snap" and use
+"Grip" on the pole while
+standing to the left of the
+statue. Return to the main area.
+Step on the platform in the
+middle to go back up. Cast
+"Grip" on the broken mirror to
+launch a pendulum. Head west to
+the overworld.
+
+Head west over the bridge and
+north into the cave. In the
+North Wall Shrine, melt the ice
+pillars with "Fireball". Open
+the chest with a [VIAL] and go
+east then. Melt one of the ice
+pillars in the back row and make
+your way west. Freeze the puddle
+with "Cold Snap". Go back to the
+center of the shrine and slide
+north. Examine the tablet to
+learn the [MOLOCH SUMMON]. Exit
+the cave, and return to the fork
+near Craggy Peak Ruins. Go
+northeast to the village of Te
+Rya.
+
+
+================================
+TE RYA VILLAGE..................
+================================
+
+.----------------.              
+| EQUIPMENT SHOP | | ITEM SHOP |
+|-------------------------------
+| Item Name | Price | | Item
+Name | Price |
+|-------------------------|-----
+| Claymore | 4000 G | | Herb |
+10 G | | Composite Bow | 1600 G
+| | Antidote | 20 G | | Chain
+Mail | 2000 G | | Elixir | 30 G
+| | Jerkin | 2400 G | | Sacred
+Feather | 70 G |
+| Gauntlets               | 1600
+| Heavy Armlet | 2000 G | |
+Artifacts: |
+| Mail Cap                | 2000
+| Guardian Circlet | 3400 G | |
+Potion | 1000 G |
+|-------------------------------
+| Artifacts: | | Water of Life |
+3000 G |
+|-------------------------------
+| Witch's Wand            | 860 
+| Psynergy Rod | 3800 G | |
+Frost Wand | 5400 G | | Blessed
+Ankh | 1600 G | | Safety Boots |
+700 G |
+'-------------------------------
+
+.-------------------------------
+| Items & Djinni |
+|-------------------------------
+| • Nurse's Cap                 
+| • Apple                       
+| • Mars Djinni "Fury" |
+'-------------------------------
+
+Go to the inn and search the pot
+for some money. Exit the inn and
+enter the northeast house for a
+scene. Answer "Yes" when
+prompted. Search the drawer to
+find [NURSE'S CAP]. Go south
+from here, climb the tree amd
+cast "Growth" on the vine. Climb
+it and go west to cast
+"Fireball" on the torch. Go
+around the northeast hut again
+to get [MARS DJINNI "FURY"].
+Enter the the ten west of the
+equipment shop for a small
+scene. Exit the tent and into
+the next one, which is nearby.
+You'll find an [APPLE] inside.
+Buy a Trusty Staff from the item
+shop and go north to exit the
+village.
+
+
+================================
+TEPPE RUINS.....................
+================================
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Water of Life | • Vampire
+Bat | | • Sword of Dusk | • Rat
+Fighter |
+| • Elegant Bag                 
+| • Warrior's Helm | • Dread
+Hound | | • Mythril Circlet | •
+Cave Troll |
+| • Mythril Silver              
+| • Mercury Djinni "Dewdrop" | |
+• Venus Djinni "Vine" |
+'-------------------------------
+
+Go into the hut on the left and
+give the man a Trusty Staff.
+Exit the hut and go over to the
+Djinni. Blast it with "Fireball"
+and it'll jump into the water
+and the guy will catch it. Go to
+the pier and you will get
+[MERCURY DJINNI "DEWDROP"]. Go
+back east, north and into the
+northwest cave. Cast "Fireball"
+to melt the snow and open the
+chest for [WATER OF LIFE]. Go
+back and take the central north
+exit. Inside the ruins, go to
+the east room and stand in the
+sun ray. Go back and west this
+time. Enter the northwest door.
+Climb east and head to the
+northeast room. Push the first
+pole down, then push the next
+one right. Use "Move" to put the
+pillar in the darkened space.
+Jump east and climb the vine.
+Run west, climb down and open
+the chest with [SWORD OF DUSK].
+Use "Grip" on the pillar and
+enter the southeast door. Climb
+the rope down. Use "Grip" on the
+pillar and enter the room for a
+scene. You'll obtain an [ELEGANT
+BAG]. Go west and climb the
+vine. Follow the path to the
+entrance of the ruins. Return to
+Te Rya. Talk to Ryu Kou and show
+him the Elegant Bag. After the
+scene, go back to the Teppe
+Ruins to meet Sveta in the room
+with the statue. Sveta will join
+you temporarily. Go inside the
+door within the statue. Take the
+exit and move the pillar east.
+Jump on the pillars and cast
+"Grip" to get across the gap.
+Open the chest with [WARRIOR'S
+HELM]. Use Sveta's "Slap"
+Psynergy on the statue in the
+north. Follow the way further
+for a small scene. Take the east
+door andclimb the vine. Navigate
+across this area, and don't
+forget to open a chest with
+[MYTHRIL CIRCLET]. Slide into
+the westmost hole and keep going
+down south. Follow the path to
+the puddles and cast "Cold Snap"
+on the lower row. Jump on them
+and use "Grip" to cross the gap.
+Take the north exit. To trap the
+Djinni, simply push the pillar
+north. You'll get [VENUS DJINNI
+"VINE"]. You can't do anything
+about the boulder at the top
+right now, so "Slap" the statue
+and follow the path outside for
+a scene. Exit Teppe Ruins to the
+east. In the overworld map, go
+northwest to the town of
+Belinsk.
+
+
+================================
+BELINSK.........................
+================================
+
+.-------------.                 
+| WEAPON SHOP | | ARMOR SHOP |
+|-------------------------------
+| Item Name | Price | | Item
+Name | Price |
+|-------------------------|-----
+| Claymore | 4000 G | | Armored
+Shell | 3600 G | | Great Axe |
+5200 G | | Jerkin | 2400 G | |
+Master Rapier | 6800 G | |
+Knight's Shield | 3000 G | | War
+Mace | 6200 G | | Heavy Armlet |
+2000 G | | Composite Bow | 1600
+G | | Steel Helm | 3100 G | '---
+--------------------------------
+-' | Platinum Circlet | 4200 G |
+         '----------------------
+
+.-----------.
+| ITEM SHOP |
+|-------------------------------
+| Item Name | Price |
+|---------------------------|---
+| Herb                      | 10
+| Nut                       | 20
+| Antidote | 20 G |
+| Elixir                    | 30
+| Sacred Feather | 70 G |
+'-------------------------------
+
+.-------------------------------
+| Items & Djinni |
+|-------------------------------
+| • Herb                        
+| • Sun Saga 4                  
+| • Sacred Feather |
+| • Muni Robe                   
+| • Assassin Blade | | • Power
+Bread | | • Crystal Powder | | •
+Khiren Water |
+| • Vial                        
+| • Smoke Bomb                  
+| • Dried Lizard |
+| • Storm Gear                  
+| • Power Bread | | • Beast
+Knuckles | | • Mercury Djinni
+"Spout" | | • Mercury Djinni
+"Torrent" | | • Mercury Djinni
+"Pincer" |
+'-------------------------------
+
+After the scene, go north and
+talk to the chipmunk with a
+trumpet. You can't ask for
+"Arangoa Prelude" since not all
+musicians are present. Let's
+explore the town. Enter the inn
+and go donwstairs. Check the pot
+for some coins. Enter the temple
+and go upstairs. Check the
+barrel to find a [HERB]. Go back
+down the stairs and take the
+other stairs leading down. Check
+the northeast book shelf for
+[SUN SAGA 4]. Check the
+bookshelf below it to get
+[SACRED FEATHER]. You'll see a
+chest in the west corner. Push
+the nearby bookshelf west using
+"Move" and open the chest with
+[ASSASSIN BLADE]. Notice the
+three bookshelves in line? Move
+two of them east to uncover a
+secret door. Follow the path
+into the ruins to find [MERCURY
+DJINNI "SPOUT"]. Back in town,
+enter the lower house in west
+end, and you'll find [MUNI ROBE]
+in the drawer. Go into the upper
+house in the west and check the
+crate for [POWER BREAD]. You
+can't get this Djinni now, so
+head back. Go through town's
+northwest exit to the pier.
+Check the barrel for some
+[CRYSTAL POWDER]. Enter the area
+to the east. Climb down the
+ladder and move the left box
+east, and right box south, south
+and west. Freeze the puddle with
+"Cold Snap" and jump east to get
+[MERCURY DJINNI "TORRENT"].
+Check one of the barrels to find
+[KHIREN WATER]. Go back to
+square in Belinsk and take the
+northwest exit to the Opera
+House. Examine the crates to the
+left to find a [VIAL]. Check the
+barrel in the east corner to
+find [SMOKE BOMB]. Go through
+the Opera House and check one of
+gravestones for [DRIED LIZARD].
+You can now leave Belinsk. After
+the scene, in the overworld go
+west and north until you see a
+sign. Cross the bridge to the
+west and you will find the
+Border Town Mine not far from
+here. Inside, go northwest and
+move the pillar east. Head north
+and freeze the puddle with "Cold
+Snap". Now go back to the
+entrance and up the stairs. Jump
+west, and make your way to the
+east end of the cave, where the
+cart is. Examine the northeast
+lever, the northwest lever and
+west lever. Hop into the cart
+and ride it to the chest with a
+[POTION]. Ride it back, and
+change the west lever again. Hop
+into the cart cart and ride it
+to the end. Blow up the bomb by
+casting "Fireball" and examine
+the tablet to learn the [ULYSSES
+SUMMON]. Slide down and exit the
+mine now. Go west, south and
+east to the Border Town.
+
+
+================================
+BORDER TOWN.....................
+================================
+
+.----------------.              
+| EQUIPMENT SHOP | | ITEM SHOP |
+|-------------------------------
+| Item Name | Price | | Item
+Name | Price |
+|-------------------------|-----
+| Broad Axe | 1400 G | | Herb |
+10 G | | Battle Mace | 2600 G |
+| Nut | 200 G | | Gauntlets |
+1600 G | | Antidote | 20 G | |
+Mail Cap | 2000 G | | Elixir |
+30 G |
+'-------------------------------
+         '----------------------
+
+.-------------------------------
+| Items & Djinni |
+|-------------------------------
+| • Kraden's Letter | | • Sacred
+Feather | | • Haures Summon | |
+• Jupiter Djinni "Sirocco" |
+'-------------------------------
+
+Go to the center of the town for
+a scene. You'll get [KRADEN'S
+LETTER]. Read it. Try to leave
+the town for another scene. Go
+to the inn and downstairs you
+will find [SACRED FEATHER] in
+one of the boxes. Enter the door
+near the gate. Check the pot for
+some coins and climb the ladder.
+Go outside, and cast "Grip" on
+the pole. Go downstairs to find
+[JUPITER DJINNI "SIROCCO"]. Now
+exit Border Town.
+
+In the overworld go north from
+Border Town (the very tip of the
+continent) and fight a Djinni.
+Defeat it to get [VENUS DJINNI
+"GEARS"]. Go back towards
+Belinsk and continue east to the
+sign. Start going south from
+there to hit a little island
+connected by a small bridge to
+the main continent. You will
+encounter a Djinni there. Defeat
+it to obtain [VENUS DJINNI
+"FURROW"]. Head east from here
+to Port Rago.
+
+
+================================
+PORT RAGO.......................
+================================
+
+.----------------.              
+| EQUIPMENT SHOP | | ITEM SHOP |
+|-------------------------------
+| Item Name | Price | | Item
+Name | Price |
+|-------------------------|-----
+| Great Axe | 5200 G | | Herb |
+10 G |
+| War Mace                | 6200
+| Armored Shell | 3000 G | |
+Antidote | 20 G | | Silver Vest
+| 3200 G | | Elixir | 30 G | |
+Knight's Shield | 3000 G | |
+Silver Feather | 70 G |
+| Silver Armlet           | 4000
+| Platinum Circlet | 4200 G |
+'-------------------------------
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Herb                        
+| • Weasel's Claw | • Man o' War
+|
+| • Hard Nut                    
+| • Hermes Water | | • Water of
+Life | | • Planet Armor | | •
+Mercury Djinni "Coral" |
+'-------------------------------
+
+Go to the northeast corner and
+search the box for a [HERB]. Go
+near the north west exit for a
+quick scene. Climb the tree and
+examine the pot to the left and
+you'll find [WEASEL'S CLAW]. Run
+east and jump on the roof of the
+house. Push the box down. Then
+push it further down into the
+water. Go to the pier and use
+this new path to get to the east
+corner. Cast "Move" on the box
+and enter the canal. Make your
+way to the west exit and open
+the chest with [HARD NUT] in the
+end. Back in the canal, take the
+northeast exit. Go all the way
+northwest and climb the ladder.
+In the docks area, check the
+east barrel for some coins,
+climb the chain and run east.
+Cast "Grip" on the pole to move
+the ladder west. Walk south and
+west for a scene. You'll get
+[HERMES WATER]. Go back up the
+ladder, north and west to the
+southwest corner. Search the
+boxes to find [WATER OF LIFE].
+Go to the northeast corner and
+climb the chain. Open the chest
+with [PLANET ARMOR]. Now head to
+the lower east part of the docks
+and cast "Arid Heat" on the
+bowl. Climb down the ladder and
+enter the door. Inside, you'll
+need to defeat [MERCURY DJINNI
+"CORAL"] to obtain it. Head all
+the way back to the entrance of
+Port Rago for a scene. You can
+leave Port Rago now and head
+north to Saha Town.
+
+
+================================
+SAHA TOWN.......................
+================================
+
+.----------------.              
+| EQUIPMENT SHOP | | ITEM SHOP |
+|-------------------------------
+| Item Name | Price | | Item
+Name | Price |
+|-------------------------|-----
+| Claymore | 4000 G | | Herb |
+10 G | | Master Rapier | 6800 G
+| | Nut | 200 G | | Plate Mail |
+4400 G | | Antidote | 20 G | |
+Knight's Shield | 3000 G | |
+Elixir | 30 G | | Silver Helm |
+3900 G | | Sacred Feather | 70 G
+| | Platinum Circlet | 4200 G | 
+'-------------------------------
+------'
+'-------------------------------
+
+.-------------------------------
+| Items & Djinni |
+|-------------------------------
+| • Sacred Feather |
+| • Nut                         
+| • Elixir                      
+| • Herb                        
+| • Cookie                      
+| • Jupiter Djinni "Wisp" |
+'-------------------------------
+
+Go a bit north and talk to the
+two beastmen between the shops.
+Check the box behind the item
+shop to find [SACRED FEATHER].
+Enter the inn and search the
+crates under the ladder to find
+a [NUT]. In the northwest house
+you'll find [ELIXIR] in a pot.
+Jump into the northwest well,
+and push the pillar east once
+using "Move". Check the pot near
+the northeast house to find a
+[HERB]. Go into this house and
+inside, move the box to the
+right to find a chest that
+contains a [COOKIE]. Exit the
+house, go east and cast "Move"
+on the box. Move it east, and
+jump into the well. In Saha
+Cistern, go northeast and climb
+up to the Kolima village.
+
+
+================================
+KOLIMA VILLAGE..................
+================================
+
+.-------------------------------
+| Items & Djinni |
+|-------------------------------
+| • Bramble Seed | | • Sacred
+Feather | | • Weasel's Claw |
+| • Herb                        
+| • Sun Saga 5                  
+| • Safety Boots |
+| • Oil Drop                    
+| • Elixir                      
+| • Bramble Seed |
+| • Apple                       
+| • Sleep Bomb                  
+| • Ninja Garb                  
+| • Virtuous Armlet | | • Venus
+Djinni "Garland" |
+'-------------------------------
+
+Go northeast and search the
+boxes for some coins. Inspect
+the barrel near the north exit
+to find [BRAMBLE SEED]. Check
+the northwest barrel for [SACRED
+FEATHER]. The box in the
+southwest has a [WEASEL'S CLAW]
+in it. The pot near the item
+shop contains a [HERB]. Go into
+the northeast tree, then
+upstairs and south. Head south
+and jump over the branch to find
+a chest with coins. Go into the
+item shop tree and head
+upstairs. Search the bookshelf
+for [SUN SAGA 5]. Go outside and
+make your way northeast, then
+west for a chest with [SAFETY
+BOOTS]. From this chest, jump
+south to get [VENUS DJINNI
+"GARLAND"]. Now enter the
+central tree and search the pot
+for an [OIL DROP]. Enter the
+item shop tree from behind and
+search the pots and barrels for
+[ELIXIR] and [BRAMBLE SEED].
+Open the chest that contains an
+[APPLE]. Go upstairs from the
+item shop and talk to the woman
+in green. Answer "Yes" twice
+when prompted.
+
+
+================================
+PHANTASMAL BOG..................
+================================
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Mint                        
+| • Faery Vest | • Chimera Mage
+|
+| • Giant Axe                   
+| • Mars Djinni "Glare" | •
+Tarantula |
+'-------------------------------
+
+Make your way around the lizard,
+crossing the little islands, and
+go south, pushing the pillar
+into the water. Exit southwest
+and continue the path to the
+room with logs in the water.
+Jump over them and exit north.
+Jump north and dry the puddle
+with "Arid Heat". Jump back
+south and go east down the
+stairs. Open the chest with
+[MINT]. Exit this area to the
+south, and in the next room,
+push the northwest log south,
+southeast log west, southwest
+log north, south log west and
+northwest log south. Go back to
+the previous room and cast
+"Douse" on the puddle. Return to
+south room and jump to the chest
+with [FAERY VEST]. Go back to
+the previous room and dry the
+puddle again. Exit south and
+push south log east, west log
+south, southeast log west. Cast
+"Douse" on the puddle again and
+use this new path to get to the
+northwest exit. In the next
+room, push south log east and
+freeze the south puddle with
+"Cold Snap". Push south log
+west, and north log south.
+Freeze the north puddle and
+you'll creater a path to the
+Djinni. Defeat it, and [MARS
+DJINNI "GLARE"] will become
+yours. Take the northeast exit.
+Go northwest and push the pillar
+east twice. Slide down the hole
+in the west. Freeze the puddle
+with "Cold Snap" and slide east,
+south, west, north, and west.
+Take the northwest exit twice
+and in the ice area, slide east,
+north, west, north, east, south,
+east and run north. Slide south,
+east, north and open the chest
+for [GIANT AXE]. Exit this area
+to the southeast. Head east,
+push the pillar south four times
+and exit northeast. Follow the
+path to the icicle, melt it with
+"Fireball" and cast "Grip" to
+get to northeast exit. Push the
+pillar into the water and take
+the north exit. Save your game
+and head north.
+
+.-------------------------------
+| BOSS: Sludge                  
+|-------------------------------
+| Experience: 9277              
+| Gold: 1572                    
+| Item Drop: N/A                
+|-------------------------------
+| Sludge is pretty easy, once
+you've taken care of the skulls
+it calls to the| | battle. Get
+rid of the Shield Skulls
+immediately, as they tend to
+buff and | | heal Sludge. They
+don't have much HP, anyway.
+Sludge can do Tail Slap and | |
+Crush which are not too
+damaging, and call more skulls
+to the battle. When | | it heals
+itself up to 300 HP, it's a sign
+that the creature is close to |
+| dying. Use your most powerful
+skills to defeat it. |
+'-------------------------------
+
+After the scene, pick up the
+[CRUSH TUSK]. Equip it on
+Tyrell. Go outside and into the
+upper entrance of the tree that
+is now open. Search the pot for
+a [SLEEP BOMB], and go upstairs
+twice to find [NINJA GARB] in
+the drawer. Go downstairs and
+south. Jump to the chest with
+[VIRTUOUS ARMLET]. Go back to
+the Saha Cistern and run all the
+way west. Cast "Crush" on the
+boulder and go west to get
+[JUPITER DJINNI "WISP"]. Go back
+to the entance to the Phantasmal
+Bog and use Hermes Water near
+the tree. After the scene, exit
+Kolima to the north go to Kolima
+Forest.
+
+
+================================
+KOLIMA FOREST...................
+================================
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Hard Nut                    
+| • Potion                      
+| • Apple                       
+| • Yew Bow                     
+| • Slap Glove                  
+| • Venus Djinni "Pewter" | | •
+Mercury Djinni "Teardrop" |
+'-------------------------------
+
+Go east and search the box for a
+[HARD NUT]. Then head north
+deeper into the forest. Keep
+following the Djinni. Go east
+and cast "Growth" on the vine,
+climb it and exit northwest.
+Follow the Djinni by going east
+over the tree stumps, then north
+up the vine. Slide down the
+northwest stump to find a chest
+with [POTION]. Exit this area to
+the northwest. Cast "Crush" on
+the boulder and jump north to
+the tree branch. After the
+scene, [VENUS DJINNI "PEWTER"]
+will join your party. Take the
+southwest exit. Go west, climb
+the vine and cast "Grip" to grab
+an [APPLE]. Cast "Growth" and
+climb down the vine. Talk to the
+man to obtain a [YEW BOW]. Go
+back to the previous area and
+take the north exit. At the
+junction, go west for a scene.
+You'll get a [SLAP GLOVE]. Equip
+it on any Adept you want. Go
+west and push the log west. Cast
+"Crush" on the boulder and walk
+north to find [MERCURY DJINNI
+"TEARDROP"]. Go back east to the
+junction and continue going east
+to the overworld. Go up the
+mountain and enter Talon Peak.
+
+
+================================
+TALON PEAK......................
+================================
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Cookie                      
+| • Aura Gloves | • Wild Gryphon
+|
+| • Sylph Rapier                
+| • Roc Feather | • Dirty Ape |
+| • Magma Shard x5              
+| • Jupiter Djinni "Puff" |
+'-------------------------------
+
+Go west, climb the tree and
+continue your path west to
+another tree and chest that
+contains a [COOKIE]. Go east and
+freeze two puddles with "Cold
+Snap". Climb the tree and jump
+to the mountain ledge. Climb it
+and cast "Move" on the pillar to
+push it west twice. Slide down
+and climb the west mountain
+ledge. Push the pillar west
+three times and use it to get to
+a chest with [AURA GLOVES]. Go
+back east, climb up the ledge
+and cast "Crush" on the boulder.
+Take the northeast exit. Go east
+and push the right pillar east
+twice and left pillar east once.
+Jump on them to get to a chest
+with [SYLPH RAPIER]. Slide down
+and push the right pillar west
+once. Climb the mountain all the
+way up and east until you fall.
+Cast "Grip" to cross the gaps,
+cast "Growth" on the vine and
+climb up. Slide down and use
+"Crush" on the boulder. Go west
+and cast "Growth" on the vine.
+Climb it down, then left and up.
+Climb up to the top of the
+mountain. Make your way west and
+cast "Slap" on the bird's red
+wattle. Climb up to the
+northwest and cast "Slap" on it
+again. Save your game and take
+the [ROC FEATHER]. Attempt to
+leave this area for a scene.
+
+.-------------------------------
+| BOSS: Mountain Roc            
+|-------------------------------
+| Experience: 12852             
+| Gold: 140                     
+| Item Drop: N/A                
+|-------------------------------
+| Mountain Roc is certainly more
+difficult than the previous
+boss, as he is | | much
+stronger. His most common
+attacks include regular physical
+attack, | | Tempest which deals
+around 170 HP damage to everyone
+in your party, and | | Upward
+Blasr which he uses to damage
+one character for about 160-180
+HP. | | He also uses Shriek to
+lower your attack, Fire Breath,
+although its damage | | is
+minimal and Seismic Stomp for
+about 170 HP damage to 2 or 3
+characters. | | Karis' Shine
+Plasma and the likes work best
+in this battle. Remember to | |
+heal when necessary and you'll
+be fine. |
+'-------------------------------
+
+After the battle, pick up the
+[MAGMA SHARD] and enter the
+bird's mouth. Pick up four more
+shards and go north for a scene.
+Use north exit to get out of the
+bird's body. Go south and cast
+"Crush" on the mountain edge.
+Slide down and defeat the Djinni
+here. It's [JUPITER DJINNI
+"PUFF"]. Now you can cast the
+"Retreat" spell to get out of
+here.
+
+Before returning to Belinsk, go
+to the Kolima Village and buy a
+Dream Leaf in the item shop. Go
+to the Border Town and sleep at
+the inn. At night, exit the inn
+and go to the west part of town.
+Go north and into the cave.
+Examine the tablet to learn the
+[HAURES SUMMON]. Wake up from
+the dream and leave Border Town.
+Head back to Teppe Ruins.
+Approach the boulder near the
+exit and cast "Crush" on it. Go
+into the room and open the chest
+with [MYTHRIL SILVER].
+
+Before going to Belinsk Ruins,
+make sure you've gotten the
+Moloch, Ulysses and Haures
+summons and that you have 38
+Djinni. The second point of no
+return is coming up after you
+clear the Belinsk Ruins. Back in
+Belinsk, go to the band and talk
+to the chipmunk. After the
+scene, enter the ruins.
+
+
+================================
+BELINSK RUINS...................
+================================
+
+.-------------------------------
+|             Items & Djinni    
+|-------------------------------
+| • Vial                        
+| • Sacred Feather | • Aqua
+Hydra | | • Water of Life | •
+Devilwisp | | • Lucky Pepper | •
+Ghost Mage |
+| • Psy Crystal                 
+| • Mist Potion | | • Quality
+Zol | | • Hagbone Mace |
+| • Potion                      
+| • Venus Djinni "Chasm" |
+'-------------------------------
+
+Go to the west exit and open the
+chest with [STORM GEAR]. Go back
+and take the path north, read
+the tablet. Place the Magma
+Shard in the pedestal and go
+north. Jump north and put
+another Magma Shard in the
+pedestal. Open the chest with a
+[VIAL] in the east corner and go
+east to the intersection. Take
+the north door. Go to the
+pedestal in the north and offer
+a Magma Shard. After the scene,
+Sveta will join your party
+again. Go through the north door
+for another scene. Return to the
+previous room and go south
+twice. Enter the door beneath
+the stairs. After the scene,
+read the tablet. Push the
+statues on the panels and step
+on the south panel. Go through
+the big door. Head north and
+read the tablet. Cast "Crush" on
+the south pillar and jump over
+the two pillars to a chest with
+[SACRED FEATHER]. Jump back and
+cast "Crush" on both pillars.
+Jump west and go to the
+northwest corner. Cast "Crush"
+on the pillar and the Djinn will
+jump east. Cast "Crush" again to
+trap it. Go south, and east to
+another pillar. Cast "Crush" on
+it and jump south. Take the
+southeast exit. Open the chest
+with [WATER OF LIFE] and move
+the object east. Go back and
+cast "Grip" on the pole. Go
+north and "Crush" both pillars
+again. Jump northeast and cross
+the gap by using "Grip". Defeat
+the Djinni to get [VENUS DJINNI
+"CHASM"]. Go south and to the
+southwest exit. Open the chest
+with [LUCKY PEPPER] and move the
+object west. Go back and finally
+take the north door. After the
+scene, read the tablet. Move the
+soldier east, north and west to
+defeat the first statue. Then
+move him west, north and west to
+defeat the second statue. Then
+move him west, north and east to
+defeat the king statue. Open the
+east chest with [PSY CRYSTAL]
+and go north twice. Jump on the
+gear and go west. Go into the
+door and place the Magma Shard
+in the pedestal. Go back and
+jump on the gear again. Jump off
+at the east end and go into the
+door. Walk over the gears and in
+the next room, make your way to
+the south exit. Push the object
+into the pit and jump west to a
+chest containing [MIST POTION].
+Head into the upper room. Push
+the zol stone east, then west.
+Use it to get to a chest that
+has [QUALITY ZOL] in it. Push
+the zol stone east again, then
+south, west, north, east, north.
+Cast "Whirlwind" on it and climb
+up to the northeast door. Cast
+"Whirlwind" on the orb and slide
+down. Exit south, and go west to
+jump on the moving plate. Jump
+off in the west, and go down the
+stairs. Push the object into the
+pit and jump east to a chest
+with some coins. Go back up the
+stairs and into the door. Up the
+stairs again, east and into the
+room. You'll need to use "Crush"
+in here. Here's how to get to a
+chest with [HAGBONE MACE]:
+
+ x  x  O  x
+    x  O  O  O       ("x" marks 
+    O  O  x  x        "O" marks 
+
+And here's the path to the
+northeast door:
+
+ x  x  O  x
+    O  O  O  x       ("x" marks 
+    x  x  O  O        "O" marks 
+
+At the end of the path, cast
+"Fireball" on the orb and slide
+down. Go south, up the stairs,
+and take the upper south door.
+Hop on the plate and jump off in
+the west, go through the door.
+Take the upper northeast door
+and go north. Jump over the
+gears to the left side of the
+room and go down. Climb the
+ladder and go north, then east
+and north. Cast "Crush" on the
+left yellow gear. Go west,
+south, east and down the gear to
+the next room. Cast "Growth" on
+the orb and exit south. Go up
+the stairs and take the
+southwest door. Jump on the
+plate and enter the door on the
+other side. Go up the stairs and
+into the water-filled room. Jump
+east and take the northwest
+door. Cast "Arid Heat" on the
+bowl and move the east red block
+north twice. Cast "Douse" on the
+bowl and jump east. Push the
+object in the water and dry the
+bowl again. Climb down the east
+ladder and go south. Cast
+"Douse" on the orb and climb the
+left ladder. Push the object
+south and take the southeast
+exit. Jump on the plate and
+cross to the east side. Enter
+the room and go to the southwest
+corner for a chest with a
+[POTION]. Push all the statues
+on yellow spots so they can
+create a single vertical line.
+Take the central south exit and
+jump to the giant grey orb. Cast
+"Slap" on it for a quick scene.
+On the bottom floor, you can go
+into the northeast room and use
+a Psynergy Crystal there. Read
+the tablet and head near the
+north gate. Cast "Fireball" on
+the southwest pillar, "Growth"
+on the northwest pillar, "Douse"
+on the northeast pillar, and
+"Whirlwind" on the southeast
+pillar. Heal yourself, save your
+game, head inside the north door
+and approach the pedestal for a
+scene.
+
+.-------------------------------
+| BOSS: Blados & Chalis         
+|-------------------------------
+| Experience: 15702             
+| Gold: 2880                    
+| Item Drop: Spark Shuriken,
+Illusion Perfume |
+|-------------------------------
+| I hope you were waiting for
+this battle as much as I were.
+Unfortunately, | | Blados and
+Chalis are all talk and no
+action. At level 30, you'll have
+no | | trouble disposing of
+them. Beware of Chalis' Psy
+Grenade, as she sucks the | | PP
+out of your characters and
+Scornful Caress that does some
+high damage if| | you are
+underleveled. Both enemies can
+cast Shadow Shield to buff their
+| | defenses, but it wears off
+after a while. Blados likes to
+use Firecracker | | frequently
+which should be followed by
+Karis' Healthy Wind/ Rief's Wish
+| | Well. He can also throw some
+Spark Shurikens at you to
+paralyze your party | | members,
+but other than that, he's weak.
+Anyway, it shouldn't take too
+long|
+| to bring them both down.      
+'-------------------------------
+
+After the scene, go up the
+stairs, west and cast
+"Whirlwind" on the zol stone. Go
+up the ladder and stairs to push
+the next zol stone east. Climb
+down and "Whirlwind" it. Use it
+to get to the north exit. Go up
+the spiral stairway and examine
+the tablet to learn the [ECLIPSE
+SUMMON]. Go back down the stairs
+and exit south. Jump east and on
+the raft. Sail it south to get
+to a chest with [POWER BREAD].
+Go back and jump west. Go south
+through the Opera House and to
+the main square of Belinsk.
+Enter the northwest and talk to
+the beastmen that are asleep.
+Cast "Douse" on the fireplace
+and then "Cold Snap" on the
+puddle. Climb the ladders and
+pick up [MERCURY DJINNI
+"PINCER"]. Go up the ladder and
+slide down the roof. Take the
+north exit out of town.
+
+TO BE CONTINUED...
+
+================================
+VII.............................
+.BOSS STRATEGIES................
+.........GSDD7
+================================
+
+.-------------------------------
+| BOSS: Tangle Bloom            
+|-------------------------------
+| Experience: 145               
+| Gold: 77                      
+| Item Drop: Psy Crystal        
+|-------------------------------
+| If you're level 5 like me, you
+should have no real problems
+with this | | battle, since
+Isaac and Garet are helping you
+out. This makes the fight | |
+pathetically easy. Tangle Bloom
+mostly does physical attacks,
+and rarely | | uses the Bramble
+Seed attack, and even more
+rarely - Phantom Spore, which |
+| can cause delusion on your
+characters. Regular attacks are
+fine for this | | battle, since
+Garet and Isaac will be doing
+the Djinn-summoning job here. |
+| This is more of a training
+boss battle, I guess. |
+'-------------------------------
+
+.-------------------------------
+| BOSS: Dim Dragon              
+|-------------------------------
+| Experience: 179               
+| Gold: 60                      
+| Item Drop: Nut                
+|-------------------------------
+| I guess that GS: The Lost Age
+players are familiar with who
+this guy tries | | to resemble.
+Anyway, it's a pretty easy boss,
+since it uses primarily weak | |
+attacks like Sizzle Breath or
+Pebble Breath. They hit more
+than one party | | member, but
+the damage is minimal. It can
+also use Scary Jinx spell, that
+| | inflicts Curse on one
+character, but I guess you
+should be able to kill it | |
+before the spell works. If
+you're having trouble with this
+Dragon, consider| | gaining a
+couple of level, but I guess
+level 6-7 should do the job. |
+'-------------------------------
+
+.-------------------------------
+| BOSS: Stealthy Scout x3 |
+|-------------------------------
+| Experience: 798               
+| Gold: 426                     
+| Item Drop: Psy Grenade        
+|-------------------------------
+| This boss can be difficult, if
+you're underleveled. You should
+be level 10,| | at least. Since
+there are three of these guys
+here, you should cast spells | |
+that hit multiple targets.
+Karis' Plasma is especially
+useful here. If you | | are
+unlucky, Scouts can start using
+Psy Grenades at the start of the
+fight | | to deplete your PP to
+zero. Don't bother replenishing
+it, as most likely | | they'll
+reduce it again. That's why you
+need to have a good amount of
+Herbs| | or Nuts to help you
+heal. Other than that, Scouts
+can use Paralysis Shot, | | a
+weak attack that can paralyze
+your characters, or Stifle Shot
+to damage | | you and reduce
+your agility. When their HP is
+low, they start throwing | |
+Herbs at each other, so you
+should be using your Djinni here
+if you're | | feeling that
+regular attacks won't do. |
+'-------------------------------
+
+.-------------------------------
+| BOSS: Sand Prince             
+|-------------------------------
+| Experience: 1540              
+| Gold: 825                     
+| Item Drop: N/A                
+|-------------------------------
+| Sand Prince is easy. His
+variety of attack is pretty
+poor. He mostly uses | | regular
+attacks or Eartquake. Arc Blast
+can hit a couple of characters.
+The| | only attack that can deal
+a good amount of damage to you
+is Eruption, but | | I've only
+seen him use it once or twice.
+Rief's Water Psynergy works best
+| | against the Sand Prince, so
+keep that in mind and heal when
+needed. |
+'-------------------------------
+
+.-------------------------------
+| BOSS: Ku-Tsung & Ku-Embra |
+|-------------------------------
+| Experience: 1647              
+| Gold: 762                     
+| Item Drop: Plume Dumpling,
+Rice Ration |
+|-------------------------------
+| The general can pack a punch
+if you're not being careful. Ku-
+Tsung boosts | | their defense,
+while Ku-Embra boosts their
+attack. While Ku-Tsung is the |
+| less dangerous of the two, he
+should be taken down first,
+cause he likes | | himself and
+Ku-Embra, when they're low on
+HP. Ku-Embra can also heal, but
+| | he does it much less often.
+Ku-Embra is the powerhouse, and
+he uses various| | attacks like
+Zealous Fury and Cyclone Slash.
+Heal immediately after one of |
+| these. Now would be a good
+time to try out a couple of
+summons since you | | already
+should have a nice amount of
+Djinni to bring out the damaging
+ones.| | This isn't a hard
+battle if you're prepared well.
+|
+'-------------------------------
+
+.-------------------------------
+| BOSS: Ice Queen               
+|-------------------------------
+| Experience: 2402              
+| Gold: 1236                    
+| Item Drop: N/A                
+|-------------------------------
+| Ice Queen can be tough if
+you're underleveled. I recommend
+getting Matthew | | to at least
+level 19 so he can learn Revive.
+If things get really bad, you |
+| will need this spell.
+Although, at level 20, she
+doesn't seem too tough if | |
+you heal in time. Her weakness
+is obviously fire, so spells
+like Tyrell's | | Nova will deal
+the most damage to her. Coupled
+with summons like Inferno | |
+she won't stand a chance against
+you. Her most dangerous attacks
+are Ice | | Missile and
+Frostbite, since they deal lots
+of damage to multiple party | |
+members. Karis'/Rief's healing
+spells should be applied
+immediately. When | | Ice Queen
+uses Ply Well, it's a sign she's
+gonna die soon, so focus all of
+| | attacks on bringing her down
+and you'll emerge victorious. |
+'-------------------------------
+
+.-------------------------------
+| BOSS: Sludge                  
+|-------------------------------
+| Experience: 9277              
+| Gold: 1572                    
+| Item Drop: N/A                
+|-------------------------------
+| Sludge is pretty easy, once
+you've taken care of the skulls
+it calls to the| | battle. Get
+rid of the Shield Skulls
+immediately, as they tend to
+buff and | | heal Sludge. They
+don't have much HP, anyway.
+Sludge can do Tail Slap and | |
+Crush which are not too
+damaging, and call more skulls
+to the battle. When | | it heals
+itself up to 300 HP, it's a sign
+that the creature is close to |
+| dying. Use your most powerful
+skills to defeat it. |
+'-------------------------------
+
+.-------------------------------
+| BOSS: Mountain Roc            
+|-------------------------------
+| Experience: 12852             
+| Gold: 140                     
+| Item Drop: N/A                
+|-------------------------------
+| Mountain Roc is certainly more
+difficult than the previous
+boss, as he is | | much
+stronger. His most common
+attacks include regular physical
+attack, | | Tempest which deals
+around 170 HP damage to everyone
+in your party, and | | Upward
+Blasr which he uses to damage
+one character for about 160-180
+HP. | | He also uses Shriek to
+lower your attack, Fire Breath,
+although its damage | | is
+minimal and Seismic Stomp for
+about 170 HP damage to 2 or 3
+characters. | | Karis' Shine
+Plasma and the likes work best
+in this battle. Remember to | |
+heal when necessary and you'll
+be fine. |
+'-------------------------------
+
+.-------------------------------
+| BOSS: Blados & Chalis         
+|-------------------------------
+| Experience: 15702             
+| Gold: 2880                    
+| Item Drop: Spark Shuriken,
+Illusion Perfume |
+|-------------------------------
+| I hope you were waiting for
+this battle as much as I were.
+Unfortunately, | | Blados and
+Chalis are all talk and no
+action. At level 30, you'll have
+no | | trouble disposing of
+them. Beware of Chalis' Psy
+Grenade, as she sucks the | | PP
+out of your characters and
+Scornful Caress that does some
+high damage if| | you are
+underleveled. Both enemies can
+cast Shadow Shield to buff their
+| | defenses, but it wears off
+after a while. Blados likes to
+use Firecracker | | frequently
+which should be followed by
+Karis' Healthy Wind/ Rief's Wish
+| | Well. He can also throw some
+Spark Shurikens at you to
+paralyze your party | | members,
+but other than that, he's weak.
+Anyway, it shouldn't take too
+long|
+| to bring them both down.      
+'-------------------------------
+
+TO BE CONTINUED...
+
+================================
+VIII.......................FREQU
+ENTLY ASKED QUESTIONS...........
+.........GSDD8
+================================
+
+1. - When was this game
+   released?
+   - October 28th, 2010 in Japan
+ 2010 in Europe.
+
+2. - How does this game fit in
+   the Golden Sun timeline?
+   - It's set 30 years after the
+
+3. - Should I play the first two
+   games, if I'm new to the
+   series?
+   - Honestly? You should. You'l
+ games in Dark Dawn.
+
+4. - How many playable
+   characters does this game
+   have?
+   - Eight.
+
+5. - How long is this game?
+   - 20 to 30 hours, depending o
+
+6. - Is this game good?
+   - Everyone should decide for 
+ the GBA games.
+
+7. - Is Felix in the game?
+   - No.
+
+8. - Is Alex in the game?
+   - Yes.
+
+9. - Does this game have any
+   missables?
+   - Yep, lots of Djinni can be 
+ walkthrough :P
+
+10. - Any post game bosses?
+    - Yes.
+
+
+================================
+IX..............................
+================================
+
+
+================================
+X............................CON
+TACT INFO/LEGAL
+JAZZ....................GSDD10
+================================
+
+This guide is only meant to be
+posted on www.gamefaqs.com. I am
+aware this guide is incomplete
+in terms of some content, and I
+will try to update it every now
+and then. Send any questions,
+corrections, suggestions or
+feedback to damagedealer@ukr.net
+Not everything has been verified
+in the American version before
+being included in the FAQ, so if
+you've found a mistake, feel
+free to e-mail me at any time.
+This Document is Copyright 2010
+by Igor Sheludko. All Rights
+Reserved. It is protected by US
+and International Copyright Law.
+It is for private and personal
+use only, and cannot be
+reprinted in or reproduced in
+part or in entirety without the
+express written consent of the
+author. This document is
+intended to be free and may not
+be used for any sort of
+commercial venture, be that
+selling it, giving it away as a
+promotion, or making otherwise
+making available for profit. It
+may not be used or distributed
+by any website, organization, or
+individual, nor may it be used
+as a refererence or altered by
+anyone (such as strategy guide
+authors/publishers or magazine
+staff) without express
+permission of the author.

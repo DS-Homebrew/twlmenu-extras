@@ -1,0 +1,9010 @@
+******************************
+FAQ/Walkthrough
+Rockman Exe 5 Team of Blues
+Rockman Exe 5 Team of Colonel
+Rockman Exe 5 DS Twin Leaders
+Version 0.2
+By GiroroGochou
+g66ryu@yahoo.com
+******************************
+
+Copyright 2008-2009 George Ryu
+
+This may not be reproduced under
+any circumstances except for
+personal, private use. It may
+not be placed on any web site or
+otherwise distributed publicly
+without advance written
+permission. Use of this guide on
+any other web site or as a part
+of any public display is
+strictly prohibited, and a
+violation of copyright.
+
+This FAQ/Walkthrough can only
+appear on the following site(s):
+
+- http://www.gamefaqs.com
+- http://www.neoseeker.com
+- http://www.supercheats.com
+
+******************
+Table of Contents
+******************
+
+In order to navigate through
+this guide just use Ctrl + F,
+which means you press ctrl + F
+in your browser or word
+processer. This will bring up
+the search menu, then enter the
+letters to the right of the
+section that you're looking for.
+
+1. Introduction Int
+
+2.     a. Story                 
+ b. Characters                  
+ c. Controls                    
+
+3. Soul Unison Solz
+
+4. Walkthrough Wlkthru
+
+ a. Scenario 1                  
+ b. Liberate Mission 1          
+ c. Scenario 2                  
+ d. Liberate Mission 2          
+ e. Scenario 3                  
+ f. Liberate Mission 3          
+ g. Scenario 4                  
+ h. Liberate Mission 4          
+ i. Scenario 5                  
+ j. Liberate Mission 5          
+ k. Scenario 6                  
+ l. Liberate Mission 6          
+ m. Scenario 7                  
+
+5. Title Screen Marks Tsmk
+
+6. After Scenario Afsc
+
+ a. Liberate Mission 7          
+ b. Nebula Hole Area 2          
+ c. Liberate Mission 8          
+ d. Nebula Hole Area 4          
+ e. Liberate Mission 9          
+ f. Nebula Hole Area 6          
+
+7. SP/DS Deletion Spds
+
+8. Lord of Chaos Locs
+
+9. Power Up Items Powi
+
+10. Shops                       
+
+ a. Higureya's Order Service    
+
+11. Chips                       
+
+ a. Standard Chips              
+ b. Mega-Class Chips            
+ c. Giga-Class Chips            
+
+12. Program Advances PAz
+
+13. NaviCust Nvcu
+
+14. Boss Strategies BossS
+
+15. Translation Tranl
+
+16. Frequently Asked Questions
+    FAQz
+
+17. Version History Vhis
+
+18. What's Next Wnxt
+
+19. Thanks/Credits T/Cre
+
+================================
+1.  Introduction                
+================================
+
+Welcome to my Guide for Rockman
+Exe 5 Team of Blues/Team of
+Colonel/DS Twin Leaders, or
+called in English Megaman Battle
+Network 5 Red Team Protoman/Team
+Colonel/DS Twin Leaders. This
+Guide might has some spoilers.
+If you never played this series,
+you are missing out on one of
+the best series in history. I'm
+telling you this. I'm using a
+Japanese version of the game, so
+from here and on I'm going to
+refer to Characters and Chip
+names in Japanese. There is a
+translation page at the bottom
+if you're using an English
+version. And I haven't confirmed
+if some of the mystery data's
+are changed in the JP version
+and the EG version. If you know
+the answer to this please tell
+me and I'll put your name in the
+Credits section. This guide is
+still in it's first draft. So
+it'll probably have tons of
+information that's not complete.
+Feel free to E-mail me if you
+know something, or have some
+requests. I want this guide to
+be the best on the planet.
+
+================================
+2.     a. Story                 
+================================
+
+The year is 200X... Every
+Electric device is managed by
+the network... But that
+convenience held a big
+problem... The increasing of
+Computer viruses, and Network
+crimes. In the Kagakushou Virus
+Research lab, researchers are
+continuing working hard everyday
+to counter this problem. And...
+
+================================
+2.     b. Characters            
+================================
+
+////////////////////////////////
+/------------------------------G
+////////////////////////////////
+
+*************
+Hikari Netto
+*************
+
+Navi: Rockman
+
+He's the main character that you
+control. He lives in Densan
+City. And he goes to Akihara
+Elementary. He's in 5th grade.
+He's not that smart, but his
+net-battling is top notch.
+
+**************
+Sakurai Meiru
+**************
+
+Navi: Roll
+
+She's your neighbor. She's
+lively, and kind. You'll have to
+do some small jobs for her.
+
+*************
+Ooyama Dekao
+*************
+
+Navi: Gutsman
+
+A very good friend of Netto.
+He'll put his life on the line
+for his friends. But his net-
+battling isn't impressive at
+all.
+
+*****************
+Ayanokouji Yaito
+*****************
+
+Navi: Glide
+
+She's 8, and she's already in
+5th grade. And she's a rich
+spoiled brat.
+
+////////////////////////////////
+/-------------------------------
+////////////////////////////////
+
+********
+Rockman
+********
+
+Operator: Hikari Netto
+
+The other main character that
+you control. He's like a big
+brother of Netto. He's a
+sincere, and honest navi. He has
+some secrets lurking in him.
+
+*****
+Roll
+*****
+
+Operator: Sakurai Meiru
+
+She's kind like Meiru. And she
+doesn't like fighting.
+
+********
+Gutsman
+********
+
+Operator: Ooyama Dekao
+
+A Power model Navi. And he has a
+lot of similarity with Dekao.
+
+******
+Glide
+******
+
+Operator: Ayanokouji Yaito
+
+He is a gentleman. He uses
+gorgeous, and rare chips to
+fight, and win battles.
+
+////////////////////////////////
+/---------------------------Team
+////////////////////////////////
+
+***************
+Ijyuuiin Enzan
+***************
+
+Navi: Blues
+
+**************
+Tesla Magnets
+**************
+
+Navi: Magnetman
+
+****************
+Charlie Airstar
+****************
+
+Navi: Gyroman
+
+********************
+Rokushakudama Nenji
+********************
+
+Navi: Napalmman
+
+******
+Raika
+******
+
+Navi: Searchman
+
+*********
+Jasumine
+*********
+
+Navi: Medi
+
+////////////////////////////////
+/----------------------------Tea
+////////////////////////////////
+
+******
+Blues
+******
+
+Operator: Ijyuuiin Enzan
+
+**********
+Magnetman
+**********
+
+Operator: Tesla Magnets
+
+********
+Gyroman
+********
+
+Operator: Charlie Airstar
+
+**********
+Napalmman
+**********
+
+Operator: Rokushakudama Nenji
+
+**********
+Searchman
+**********
+
+Operator: Raika
+
+*****
+Medi
+*****
+
+Operator: Jasumine
+
+////////////////////////////////
+/---------------------------Team
+of Colonel Members--------------
+------------/
+////////////////////////////////
+
+*******
+Barrel
+*******
+
+Navi: Colonel
+
+***************
+Princess Pride
+***************
+
+Navi: Knightman
+
+************
+Dark Miyabi
+************
+
+Navi: Shadowman
+
+******
+Dingo
+******
+
+Navi: Tomahawkman
+
+*****************
+Higure Yamitarou
+*****************
+
+Navi: Numberman
+
+****************
+Midorikawa Kero
+****************
+
+Navi: Toadman
+
+////////////////////////////////
+/----------------------------Tea
+////////////////////////////////
+
+********
+Colonel
+********
+
+Operator: Barrel
+
+**********
+Knightman
+**********
+
+Operator: Princess Pride
+
+**********
+Shadowman
+**********
+
+Operator: Dark Miyabi
+
+************
+Tomahawkman
+************
+
+Operator: Dingo
+
+**********
+Numberman
+**********
+
+Operator: Higure Yamitarou
+
+********
+Toadman
+********
+
+Opertator: Midorikawa Kero
+
+////////////////////////////////
+/-----------------------------Ot
+////////////////////////////////
+
+****************
+Hikari Yuichiro
+****************
+
+He created Net navis. And he's
+also Netto's Dad.
+
+**************
+Hikari Haruka
+**************
+
+She takes care of the house when
+Yuichiro's not home. And she's
+also Netto's Mom. In Rockman Exe
+Battle Chip GP she has a Normal
+Navi.
+
+*******
+Meijin
+*******
+
+
+////////////////////////////////
+/-------------------------------
+////////////////////////////////
+
+********
+
+
+
+Footman
+********
+
+***********
+Swallowman
+***********
+
+////////////////////////////////
+/----------------------------Ene
+////////////////////////////////
+
+*******
+Nebula
+*******
+
+**********
+Dr. Regal
+**********
+
+Navi: Laserman
+
+He's a famous scientist, but
+behind that face is a leader of
+Nebula.
+
+////////////////////////////////
+/-------------------------------
+////////////////////////////////
+
+************
+Blizzardman
+************
+
+*********
+Shademan
+*********
+
+He's an Executive of Nebula, and
+collects Dark Chips. He sucks on
+other navis to gain energy.
+
+*********
+Cloudman
+*********
+
+*********
+Cosmoman
+*********
+
+******
+Forte
+******
+
+A navi that lurks deep in the
+Ura-Internet. His power is
+feared by everyone. He desires
+more power to become the
+strongest navi. He has a grudge
+against human beings.
+
+================================
+2.     c. Controls              
+================================
+
+--------------
+Not in Battle
+--------------
+
+A button - Talk to others, and
+Examine things.
+
+B button   - Hold to run.
+
+D pad      - Move.
+
+L trigger - Talk to
+Netto/Rockman.
+
+R trigger - Plug-in or Plug-out.
+
+Start      - Go to Menu.
+
+Select - During Cut-Scenes you
+can skip it.
+
+--------------
+Menu Screen
+--------------
+
+A button   - Select the option.
+
+B button   - Go back.
+
+D-Pad      - Move selection.
+
+R trigger - In the Chip Folder,
+or Data Library. Press to go
+down one page.
+
+L trigger - In the Chip Folder,
+or Data Libraby. Press to go up
+one page.
+
+Start      - Go back.
+
+Select - In Chip Folder, and
+Data Library. Orders in what
+ever order you
+   want.
+
+--------------
+In Battle
+--------------
+
+A button   - Use Battle Chips.
+
+B button   - Buster.
+
+D-Pad - Move Rockman in Battle.
+
+L trigger - When the gauge is
+full you can go to the custom
+screen.
+
+R trigger - When the gauge is
+full you can go to the custom
+screen.
+
+Start      - Pause.
+
+Select     - Nothing.
+
+--------------
+Custom Screen
+--------------
+
+A button   - Select Battle chip.
+
+B button - Cancel last Battle
+chip selected.
+
+D-Pad      - Move cursor.
+
+L trigger  - Nothing.
+
+R trigger - Information on chip.
+
+Start - Automatically go to OK.
+
+Select - Go to Battle Screen
+without the Custom Screen.
+
+================================
+3.  Soul Unison                 
+================================
+
+Soul Unison is the power Rockman
+gets from other Navis such as
+Colonel and Blues. You can use
+their powers that they use
+during battle. Some Souls are
+powerful enough to end a battle
+without using any chips. There
+are 6 Souls in each Version.
+
+-----------------------
+How to use Soul Unison
+-----------------------
+
+First off, you have to beat the
+certain Navi to get the Soul.
+When you do you must sacrifice a
+chip that has the same attribute
+as that Navi. Then you press the
+Unison Button on the Custom
+Screen to activate it. Oh just
+so you know you can't use a Soul
+twice in the same battle. Lets
+say you used Gyro Soul and you
+changed to Medi Soul. You can't
+use Gyro Soul for the rest of
+the battle, get it?
+
+--------------------------------
+1. Choosing the Sacrificing Chip
+--------------------------------
+
+Again you must choose a Chip
+that has the same attribute or
+element of that Navi. One more
+thing, you can't sacrifice a
+Regular Chip. Why? I don't know.
+I guess it'll make things easier
+for you. Oh one last thing, when
+you sacrifice a chip it's not
+permanently sacrificed. It's
+only for that batle. You still
+get to keep that chip after the
+battle is over.
+
+***************************
+Team of Blues Soul Unisons
+***************************
+
+Blues Soul    - Sword Chips
+Magnet Soul   - Elec Chips
+Gyro Soul     - Wind Chips
+Napalm Soul   - Fire Chips
+Search Soul   - Lock On Chips
+Medi Soul     - Recovery Chips
+
+*****************************
+Team of Colonel Soul Unisons
+*****************************
+
+Colonel Soul - Obstacle Chips
+Knight Soul - Break Chips Shadow
+Soul - Invisible Chips Tomahawk
+Soul - Wood Chips Number Soul -
+Adding/Subtracting Chips Toad
+Soul - Aqua Chips
+
+------------------------------
+2. Activating the Soul Unison
+------------------------------
+
+When you choose the Unison Chip
+in the Custom Screen, when you
+start your Turn in battle you
+will automatically activate Soul
+Unison. You cannot choose the
+Unison Chip if Rockman is in
+Fear or Dark.
+
+You can't Full Synchro in Soul
+Unison.
+
+-----------
+3. 3 Turns
+-----------
+
+When 3 Turns pass you will
+automatically change back to
+normal. So choosing when to use
+the Soul Unison is crucial. The
+turns that you have with that
+Soul will be shown right next to
+Rockman's Mind Window. If you're
+desperate you don't have to
+press the L or R trigger to open
+the Custom Screen. You can fight
+with your Charge Shots.
+
+================================
+4.  Walkthrough                 
+================================
+
+This walkthrough should get you
+to the end. I tried to make it
+easy to navigate, by putting
+important locations before what
+you do. Like this...
+
+------------
+Akiharachou
+------------
+
+Then I number the things you do
+for example...
+
+1) Talk to your friends.
+2) You get an E-mail from
+   Enzan/Barrel.
+
+Cut-Scene
+
+And sometimes, if you're in a
+place like Kagakushou Lobby, and
+you have to go to the Luxurious
+Ship Platform I will put...
+
+Kagakushou Lobby >>> Front of
+Kagakushou >>> Luxurious Ship
+Platform
+
+And with Rockman, you're in
+Akihara Area 1 and you have to
+go to End Area 1 I'll put...
+
+Akihara Area 1 >>> Akihara Area
+2 >>> Akihara Area 3 >>> Oran
+Isle Area 1 >>> Oran Isle Area 2
+>>> End Area 1
+
+I'll put (Note:) after something
+if I think you should do that.
+But that will only help you for
+things such as Boss Fights. It's
+not necessary. If you want to
+just beat the game with your
+skill then skip the Notes.
+
+Most of the time I'll be giving
+you directions using North,
+South, East and West. Know your
+compass. I'll sometimes give you
+South-West. Do you know how to
+read this or which way to go?
+Here's a diagram for you people
+who don't.
+
+      North  North  North
+      West \   |   / East
+            \  |  /
+             \ | /
+      West-----|------East
+             / | \
+            /  |  \
+      South/   |   \South
+      West   South   East
+
+Now lets begin with this long
+walkthrough.
+
+================================
+4.     a. Scenario 1            
+================================
+
+-------------
+Netto's Room
+-------------
+
+Cut-Scene
+
+1) Go downstirs.
+
+--------------
+Netto's House
+--------------
+
+1) Go talk to your mom.
+
+You get the Stu Recipe.
+
+2) Head upstairs to your room.
+
+-------------
+Netto's Room
+-------------
+
+1) Plug-In to your Computer.
+
+-----------
+Netto's HP
+-----------
+
+Cut-Scene
+
+***********************
+Virus Busting Tutorial
+***********************
+
+1) Follow the instructions and
+   learn how to play.
+2) After the tutorial head to
+   the warp on the other side.
+
+---------------
+Akihara Area 1
+---------------
+
+1) Follow the Green Path until
+   you get to a turn.
+2) Head to the left to get to a
+   Blue Mystery Data that
+   contains a Mini Energy.
+3) Now follow the Green Path
+   passing the cube, taking a
+   turn, and stop at the next
+   turn.
+4) Follow the small path to the
+   right to get to a Blue
+   Mystery Data that contains
+   800 Zennys.
+5) Now go back to the Green Path
+   and follow to the end to get
+   to Akihara Area 2.
+
+---------------
+Akihara Area 2
+---------------
+
+1) Follow the Green Path until
+   you get to the 2nd big turn.
+2) Head to the left small path
+   and get the Blue Mystery Data
+   you see that contains a Copy
+   Damage *.
+3) Head back to the Green Path
+   and follow it until you get
+   to a big open area.
+4) Take the small path and
+   follow it to a split.
+5) Follow the path to the left
+   to get to your first Net
+   Merchant.
+6) Buy a HP Memory for 1000
+   Zennys.
+7) Head back to the split.
+8) Take the other path to a
+   warp.
+9) Head through the warp.
+
+-------------
+Kitchen Comp
+-------------
+
+1) Talk to the Red Navi.
+2) Plug-Out.
+
+-------------
+Netto's Room
+-------------
+
+1) Head downstairs.
+
+--------------
+Netto's House
+--------------
+
+1) Talk to your mom.
+
+Cut-Scene
+
+2) Head outside.
+
+------------
+Akiharachou
+------------
+
+1) Head to the pink house right
+   next to your house.
+
+--------------
+Meiru's House
+--------------
+
+1) Talk to Meiru.
+2) Head outside.
+
+------------
+Akiharachou
+------------
+
+1) Head North.
+2) Head into the big house.
+
+--------------
+Yaito's House
+--------------
+
+1) Talk to Yaito.
+2) Head to the Fireplace.
+3) Turn the switch on.
+4) Leave.
+
+------------
+Akiharachou
+------------
+
+1) Head straight.
+2) Enter the Blue House.
+
+--------------
+Dekao's House
+--------------
+
+1) Talk to Dekao.
+2) Get out.
+
+------------
+Akiharachou
+------------
+
+1) Head to the entrance to the
+   Metro.(It's the small
+   building with steps right by
+   Dekao's House)
+
+Cut-Scene
+
+--------------------
+Front of Kagakushou
+--------------------
+
+Cut-Scene
+
+1) Head up a set of stairs and
+   then another.
+2) Enter the big building.
+
+-----------------
+Kagakushou Lobby
+-----------------
+
+1) Head up the stairs.
+2) Head up the stairs to the
+   North-East.
+3) Then the next stairs.
+4) Head to the vending machine.
+5) Examine the stuff right next
+   to it to get a Regular Up +1.
+6) Enter the elevator to the
+   North.
+
+-----------------
+Dad's Laboratory
+-----------------
+
+Cut-Scene
+
+-------------
+Netto's Room
+-------------
+
+Cut-Scene
+
+1) Plug-In.
+
+-----------
+Netto's HP
+-----------
+
+1) Head to Akihara Area 2.
+
+Netto's HP >>> Akihara Area 1
+>>> Akihara Area 2
+
+---------------
+Akihara Area 2
+---------------
+
+1) Head to the big open area.
+2) Save.
+3) Talk to the Heel Navi.
+
+*******
+Battle
+*******
+
+4) Plug-Out.
+
+-------------
+Netto's Room
+-------------
+
+1) Head downstairs.
+
+--------------
+Netto's House
+--------------
+
+1) Talk to your mom.
+2) Head outside.
+
+------------
+Akiharachou
+------------
+
+1) Head to the Metro.
+2) Talk to Meiru.
+
+You get Roll R and Meiru's P
+Code. Put the Chip in your
+folder.
+
+3) Head to Kagakushou.
+
+--------------------
+Front of Kagakushou
+--------------------
+
+1) Head inside the building.
+
+-----------------
+Kagakushou Lobby
+-----------------
+
+1) Head up the stairs.
+2) Then the next one.
+
+Cut-Scene
+
+3) Head to your Dad's
+   Laboratory.
+
+-----------------
+Dad's Laboratory
+-----------------
+
+Cut-Scene
+
+1) Examine your Dad's Desk.
+
+You get your Dad's ID Card.
+
+2) Head to the Kagakushou Lobby.
+
+-----------------
+Kagakushou Lobby
+-----------------
+
+1) Head to the door you're
+   trying to open.
+2) Open it with your Dad's ID
+   Card.
+3) Head in.
+
+--------------------
+Main Operating Room
+--------------------
+
+Cut-Scene
+
+1) Plug-In to the Main System
+   Comp.
+
+-------------------
+Main System Comp 1
+-------------------
+
+Cut-Scene
+
+Your first puzzle area of the
+game. To get through this area
+you must solve puzzles in order
+to break the security. This area
+has many securities, so it may
+get you frustrasted. Just to
+make thigs harder, you also have
+a number of times you can move a
+block, so think carefully. There
+are Program Dudes right next to
+the blocks for hints. These are
+the Japanese solutions. I don't
+have the English versions of the
+answers, so anyone that has the
+answers can E-mail me. Your name
+will be credited.
+
+1) Just follow the path until
+   you get to some blocks with
+   numbers on it.
+2) Talk to the Program Dude. The
+   blocks should be lined as
+   276.
+3) Now arrange it as 762.
+4) Follow the path to the very
+   end. Ignore the one path in
+   the middle for now.
+5) You should get to a Blue
+   Mystery Data that contains a
+   Thunder Ball P.
+6) Now head back to the path you
+   didn't take.
+7) Follow the path to the North-
+   East to get to the next
+   puzzle.
+8) The blocks should say Ko I N.
+   Talk to the Program Dude for
+   the hint.
+9) Switch the Ko and I. Now it
+   should say I Ko N.
+10)Take the next turn, and then
+take the top path to an open
+area. 11)When you get to a
+split, take the left path.
+12)You should get to a Blue
+Mystery Data that contains a HP
+Memory. 13)Head back to the
+split and take the other path.
+14)You should now be at a place
+with 6 blocks. 3 on each side.
+The one on the
+   left is Ki Sa Ta. The other i
+15)Talk to the Program Dude.
+Switch the Gi and Sa. Then the
+Gi with Nu. Then
+   the Ki and Ta.
+16)Follow the Ta Nu Ki path to a
+switch. 17)Step on it. 18)Head
+to the U Sa Gi path and enter
+Main System Comp 2.
+
+-------------------
+Main System Comp 2
+-------------------
+
+1) Follow the path to another
+   puzzle.
+2) Talk to the Prgram Dudes to
+   get a hint.
+3) The blocks should look like
+   Ni ya Mu N and No Mi Bo Ki.
+   Switch the Mu with Ki. Then
+   Ki with Ni. Ni with
+4) Follow the Mi Ni Bo Mu path
+   to a switch.
+5) Step on it and head back to
+   the places with the blocks.
+6) Take the Ki ya No N path.
+7) Follow the path to another
+   puzzle.
+8) The block should say from the
+   left, Bi Ma Te, Gi Yu Ta, and
+   Mi Bu Ko. Talk to the Program
+   Dude to get hi
+9) Switch the Bi with Mi, Gi
+   with Ma, Ma with Bi, Ta with
+   Ko, the Ko with Mi.
+10)Take the Mi Gi Te path and
+step on the switch. 11)Take the
+Ma Bu Ta path and step on the
+switch. 12)Take the Ko Yu Bi
+path. Ignore the Transporter for
+now and follow the path
+   to a Blue Mystery Data that c
+13)Take the Transporter now.
+14)Take the next Transporter.
+15)Follow the path and grab the
+Blue Mystery Data with a Spread
+Gun E on the
+   way.
+16)Follow the path to the last
+puzzle with the #s 12345.
+17)Talk to the Program Dude.
+
+Cut-Scene
+
+18)Plug-Out.
+
+--------------------
+Main Operating Room
+--------------------
+
+1) Head to your Dad's
+   Laboratory.
+
+Main Operating Room >>>
+Kagakushou Lobby >>> Dad's
+Laboratory
+
+-----------------
+Dad's Laboratory
+-----------------
+
+1) Examine the tables by the
+   sofa.
+
+You get the Worker's Memo.
+
+Cut-Scene
+
+-------------------
+Main System Comp 2
+-------------------
+
+1) Examine the memo if you
+   haven't and move the blocks.
+2) Switch 5 with 1, 2 with 3,
+   and then 4 with 1.
+3) Save.
+4) Head up the path.
+
+Cut-Scene
+
+********************************
+Boss- Blues
+********************************
+
+HP: 300
+Element: Normal
+Recommended Chips: None
+Reward: On with the Story
+
+There's nothing really to say.
+The first boss is always easy.
+Just aim carefully because Blues
+moves a lot.
+
+********************************
+Boss- Blues
+********************************
+
+********************************
+Boss- Colonel
+********************************
+
+HP: 400
+Element: Normal
+Recommended Chips: None
+Reward: On with the Story
+
+There's nothing really to say.
+The first boss is always easy.
+Don't get hit by the Colonel
+Cannon.
+
+********************************
+Boss- Colonel
+********************************
+
+Cut-Scene
+
+--------------------
+Main Operating Room
+--------------------
+
+1) Head to the door to the East.
+
+-------------
+Command Room
+-------------
+
+Cut-Scene
+
+1) Head to your Room.
+
+Comand Room >>> Main Operating
+Room >>> Kagakushou Lobby >>>
+Front of Kagakushou >>> Metro
+>>> Akiharachou >>> Netto's
+House >>> Netto's Room
+
+-------------
+Netto's Room
+-------------
+
+1) Examine the bed and sleep.
+
+Cut-Scene
+
+Cut-Scene
+
+2) Plug-In to your Computer.
+
+-----------
+Netto's HP
+-----------
+
+1) Head to Akihara Area 2.
+
+Netto's HP >>> Akihara Area 1
+>>> Akihara Area 2
+
+---------------
+Akihara Area 2
+---------------
+
+1) Head to the big open area.
+2) Talk to Blues/Colonel.
+
+Cut-Scene
+
+3) Save. When you're ready head
+   to Akihara Area 3.
+
+================================
+4. b. Liberate Mission 1 Lbm1
+================================
+--------------------------------
+Akihara Area 3 /
+---------------
+              / \
+***********************         
+Target Clear Phase- 7 _ _ _ /_
+_\
+***********************         
+  |_|P|_|       | |__________
+  |X|X|Z|       |__________  |
+   |_|  _ _ _ _ _         | |
+X- Dark Panel                   
+3- 3 Order Points
+|_|_|_|_|X|H|_|_|_|_|X|G|D|X| |
+|
+Z- 500 Zennys                   
+H- Recovery 100 |X|X|X|
+|A|X|_|X|X|X|__| | A- Recovery
+30 |X|D|X| |X|X|_|X|B|X|__ | M-
+Mystery Data- Buster Up *
+|X|G|3| ____ |_|X|_|X|X|X| | |
+P- Bonus Panel                  
+D- Darkness Hole                
+G- Garu-Beast                   
+B- Blizzardman                  
+         |_|_|_|         | |___|
+*******                         
+Prizes                          
+*******                         
+--------------------------------
+| Clear Phase | Item            
+--------------------------------
+| 1 ~ 5 | Blizzardman SP B |
+******************* | 6 ~ 7 |
+Blizzardman B | | 8 ~ 99 | 1000
+Zennys |
+--------------------------------
+
+********************************
+Chips you can get from the Bonus
+Panel
+********************************
+
+Gun Del Sol 1 A
+Tornado D
+Boomerang V
+Death Match 1 P
+
+********************************
+      Participating Navis
+********************************
+ -------------------------------
+| Team of Blues | Team of
+Colonel |
+ -------------------------------
+| Rockman HP: --- Chp: -- Chg:
+-- | Rockman HP: --- Chp: --
+Chg: -- |
+ -------------------------------
+| Blues HP: 200 Chp: 80 Chg: 60
+| Colonel HP: 200 Chp: 80 Chg:
+50 |
+ -------------------------------
+  Chp- Their own Chip           
+
+================================
+4.     c. Scenario 2            
+================================
+
+------------
+Akiharachou
+------------
+
+Cut-Scene
+
+You get an E-mail.
+
+1) Head to your Room.
+
+Akiharachou >>> Netto's House
+>>> Netto's Room
+
+-------------
+Netto's Room
+-------------
+
+1) Plug-In.
+
+-----------
+Netto's HP
+-----------
+
+1) Head to Akihara Area 3.
+
+Netto's HP >>> Akihara Area 1
+>>> Akihara Area 2 >>> Akihara
+Area 3
+
+---------------
+Akihara Area 3
+---------------
+
+1) If you want to play the
+   Liberate Mission 1 again,
+   talk to the Golden Program
+   dude.
+2) Follow the path to where
+   Blizzardman was.
+3) Head to the split and take
+   the North-West path to the
+   end to a Program dude.
+4) Talk to the dude.
+5) Plug-Out.
+
+-------------
+Netto's Room
+-------------
+
+You get a E-mail from Dekao.
+
+1) Read the mail to get Dekao's
+   P Code.
+2) Head to Akiharachou.
+
+Netto's Room >>> Netto's House
+>>> Akiharachou
+
+------------
+Akiharachou
+------------
+
+1) Head to the Metro.
+2) Talk to your friends.
+
+Cut-Scene
+
+----------
+Olan Isle
+----------
+
+Cut-Scene
+
+1) Head to the beach side.
+
+Cut-Scene
+
+2) Head to the speaker thing to
+   the North.
+3) Plug-In.
+
+-----------------
+Oran Isle Area 1
+-----------------
+
+1) Head straight to a split.
+2) Take the path heading to the
+   South-East. You'll get to a
+   Blue Mystery Data that
+   contains a Earth Quake 1
+3) Head back to the split.
+4) Keep following the path to
+   another split.
+5) Follow the Green path to the
+   South-East.
+6) Keep following the Green Path
+   until you get to a hill.
+7) Go up the hill, then the next
+   one.
+8) At the corner, take the brown
+   path to a warp.
+
+--------------
+Elevator Comp
+--------------
+
+1) In the North is a Holy Panel
+   *.
+2) In the South is a Regular Up
+   +1.
+3) Head back to the warp.
+
+-----------------
+Oran Isle Area 1
+-----------------
+
+1) Follow the Green path until
+   you see a Brown path.
+2) Follow this path to a Net
+   Merchant.
+3) Buy a HP Memory.
+4) Head back to the Green Path.
+5) Follow the Green path to an
+   open area.
+
+Cut-Scene
+
+6) Plug-Out.
+
+----------
+Olan Isle
+----------
+
+Cut-Scene
+
+1) Head to the very West from
+   the Beachside.
+2) Examine the waterfall thing
+   under the bridge to get some
+   Bait.
+3) Now head to the Bamboo Tree
+   things in the North-East.
+4) Examine the Bamboo looking
+   trees to get a Bamboo Rod.
+5) Do you see the stairs to the
+   East? Go down with it.
+6) Head to the Corner in the
+   West and examine to get the
+   Fishing String.
+7) Head to where Dekao is.
+8) Now head to the bridge.
+
+Cut-Scene
+
+9) Now head to where you were
+   fishing.
+10)Behing that area are some
+bushes. Examine them to get some
+Hay. 11)Head to where the
+Speaker is. 12)Right next to the
+Speaker is a small tree. Examine
+it to get a Dead Branch. 13)Head
+to the Beachside. 14)To the East
+are some woods on the floor.
+Examine them to get a Wooden
+Board
+   and you're done.
+15)Go talk to Dekao.
+
+Cut-Scene
+
+You get an E-mail from a
+Scientist.
+
+You get the Navi Customizer.
+
+Go through the Tutorial.
+
+Cut-Scene
+
+---------------
+Abandoned Mine
+---------------
+
+Cut-Scene
+
+--------------------------
+Abandoned Mine Interior 1
+--------------------------
+
+1) Head straight to a split.
+2) Take the North path to a
+   Elevator.
+3) Put the switch in, take the
+   Elevator.
+
+--------------------------
+Abandoned Mine Interior 2
+--------------------------
+
+1) Examine the door.
+2) Head back through the
+   Elevator.
+
+--------------------------
+Abandoned Mine Interior 1
+--------------------------
+
+1) Head back to the split.
+2) Go up the hill.
+3) Head outside.
+
+---------------
+Abandoned Mine
+---------------
+
+1) Plug-In to the Speaker.
+
+-----------------
+Oran Isle Area 1
+-----------------
+
+1) Follow the path to a Navi.
+2) Talk to him and buy the Lift
+   Key for 1000 Zennys.
+3) Plug-Out.
+
+---------------
+Abandoned Mine
+---------------
+
+1) Head to Abandoned Mine
+   Interior 2.
+
+Abandoned Mine >>> Abandoned
+Mine Interior 1 >>> Abandoned
+Mine Interior 2
+
+--------------------------
+Abandoned Mine Interior 2
+--------------------------
+
+1) Open the door.
+2) At the split, take the right
+   path.
+3) Examine the debris for a HP
+   Memory.
+4) Head back to the split.
+5) Take the other path.
+
+---------------
+Abandoned Mine
+---------------
+
+1) Head to the other entrance.
+
+--------------------------
+Abandoned Mine Interior 3
+--------------------------
+
+1) At the split, go down the
+   hill.
+2) Then go up the hill to the
+   West to another door.
+3) Save. Examine the door.
+
+*******
+Battle
+*******
+
+4) Head through.
+
+---------------
+Abandoned Mine
+---------------
+
+1) Go up the hill and into
+   another entrance.
+
+--------------------------
+Abandoned Mine Interior 4
+--------------------------
+
+1) Follow the path to a split.
+2) Take the right path to a
+   door.
+3) Save. Examine the door.
+
+*******
+Battle
+*******
+
+4) Head through.
+
+---------------
+Abandoned Mine
+---------------
+
+1) Follow the path and head
+   inside the room closest to
+   you.
+
+--------------------------
+Abandoned Mine Interior 5
+--------------------------
+
+1) Head to the machine and Plug-
+   In.
+
+--------------------------
+Air Cleaning Machine Comp
+--------------------------
+
+1) Head to the North to a Blue
+   Mystery Data that contains a
+   Tornado R.
+2) Plug-Out.
+
+--------------------------
+Abandoned Mine Interior 5
+--------------------------
+
+1) Get out of here.
+
+---------------
+Abandoned Mine
+---------------
+
+1) Go up the hill and follow the
+   path to another entrance.
+
+--------------------------
+Abandoned Mine Interior 7
+--------------------------
+
+1) Save. Examine the door.
+
+*******
+Battle
+*******
+
+2) Follow the path and take the
+   Elevator.
+
+--------------------------
+Abandoned Mine Interior 8
+--------------------------
+
+1) Head through the door.
+
+-------------
+Great Cavern
+-------------
+
+Cut-Scene
+
+---------------------
+Rock Drilling Comp 1
+---------------------
+
+The next few areas are kind of
+cool and somewhat annoying.
+There will be Rocks that will be
+in your way. You must break
+those down. Some will take more
+hits than others. Another
+mechanism in this area is the
+Conveyor Belt. You must break
+Rocks that come your way and you
+must maneuver your way on this
+Conveyor to get to the end. Save
+before heading through a
+Conveyor.
+
+1) Start by talking to the
+   Program Dude to get the Rock
+   Drilling Program.
+2) Break the Rock in front of
+   you by pressing A. It should
+   make a crack. Hit it 2 more
+   times to destroy it
+3) Follow the path to your first
+   Belt Conveyor.
+4) When you're ready head on the
+   Conveyor and start running to
+   the North-East. On the way
+   are Rocks, but des resting
+   spot. So rest there a
+5) If you managed to get
+   through, follow the path to a
+   split.
+6) Head to the left to get to a
+   Blue Mystery Data that
+   contains a Invisible *.
+7) Head back to the split.
+8) Take the other path to a
+   Rock.
+9) Hit this one 5 times.
+10)At the split take the North-
+East path to a Blue Mystery Data
+that contains
+   a HP Memory.
+11)Head back to the split and
+head to the West to another
+Conveyor. 12)Head through when
+you think can. 13)Do the same
+thing. 14)Destroy the Rock by
+hitting it 3 times. 15)Follow
+the path to a row of Rocks. Very
+easy to destroy. 16)The last
+Conveyor of the area. Remember
+to Save. On the way is another
+rest
+   stop.
+17)When you get through, follow
+the path to the last Rock of
+this area. 18)Destroy it and
+examine the Control Panel.
+19)Plug-Out.
+
+-------------
+Great Cavern
+-------------
+
+1) Head to the next one.
+2) Plug-In.
+
+---------------------
+Rock Drilling Comp 2
+---------------------
+
+1) Follow the path and destroy
+   the Rock.
+2) Follow the path to a
+   Conveyor. This one has a
+   resting spot on both sides.
+3) At the split, take the left
+   path to a Rock.
+4) Destroy and take the Blue
+   Mystery Data that contains a
+   Charge +1.(Yellow)
+5) Head back to the split and
+   take the other path.
+6) Destory the Rock. This takes
+   you to another Conveyor.
+7) At the split, take the right
+   path to another Conveyor.
+8) When you head through 2 Rocks
+   will greet you.
+9) Destroy both Rocks to get to
+   another Conveyor.
+10)That one should've been easy.
+Take the obvious path and follow
+it to
+   another Conveyor.
+11)You should definitely Save
+here. There are no rest spots on
+the way. 12)At the split take
+the left path to get to a Blue
+Mystery Data to get a
+   Stone Cube *.
+13)Go back to the split and take
+the other path to the last
+Conveyor of this
+   area. There is a rest stop on
+14)You should now be at the rest
+spot. SAVE. To go on from here
+there is a
+   Rock that is on the path that
+   time. You are on the Conveyor
+15)When you successfully destroy
+the Rock head to the Control
+Panel. 16)Examine it and Plug-
+Out.
+
+-------------
+Great Cavern
+-------------
+
+1) Head to the next one.
+2) Plug-In.
+
+---------------------
+Rock Drilling Comp 3
+---------------------
+
+1) Follow the path to your first
+   Conveyor.
+2) This Conveyor is really long.
+   On the way are 2 rest stops,
+   so use them to your choice.
+   If you want a HP the Rock at
+   the end.
+3) Follow the path to another
+   Coveyor.
+4) This one has 2 rest stops.
+   This one has a Rock at the
+   end like the one in Comp 2.
+   So Save, and time you
+5) Ignore the Rock and head to
+   the next Conveyor.
+6) This one has only 1 rest
+   stop. So be careful.
+7) Talk to the Program Dude here
+   to get the Suspension Device
+   Key.
+8) Now head back to that Rock we
+   didn't break.
+9) Break the Rock.
+10)Destory the next Rock. 11)At
+the split take the Left path to
+a Blue Mystery Data that
+contains a
+   Full Energy.
+12)Now follow the path to
+another Conveyor. 13)Do your
+best to go around the Conveyor.
+14)Follow the path to a Rock.
+15)Destroy it. 16)Use the
+Suspension Device Key on the
+Suspension Device. 17)Now head
+back to where the Program Dude
+is. 18)Head through the last
+Conveyor to the Control Panel.
+19)Examine it and Plug-Out.
+
+-------------
+Great Cavern
+-------------
+
+1) Head to the next one.
+2) Plug-In.
+
+---------------------
+Rock Drilling Comp 4
+---------------------
+
+1) Follow the path to a set of
+   Conveyors.
+2) Run your way through all the
+   Rocks coming at you.
+3) Follow the path to another
+   Conveyor.
+4) Time your run and head
+   through. This one isn't that
+   tough.
+5) When you get to the next
+   Conveyor, head to the North
+   to get to a Blue Mystery Data
+   that contains a
+6) Now head back to where you
+   were on Step 5. This time
+   head to the bottom and
+   destroy the Rock while you're
+7) This next Conveyor has one
+   resting spot. At the top is
+   another Rock in your way.
+8) After you get through the
+   Rock, there will be another
+   Conveyor. Go past this one
+   and you'll come to a
+9) Follow the path to the
+   longest Conveyor. Well maybe
+   it's the same length as the
+   one in Comp 3. Doesn't ma
+10)Follow the path to the last
+Conveyor Belt. After the 2nd
+time going through
+   the Conveyor from side to sid
+   Data that contains a Long Swo
+11)Follow the Conveyor Belt's
+path from here and use the
+Suspension Device Key
+   on the Suspension Device then
+12)When you're ready head to the
+Control Panel where
+Magnetman/Knightman is.
+
+Cut-Scene
+
+********************************
+Boss- Magnetman
+********************************
+
+HP: 500 Element: Elec
+Recommended Chips: Area Steal,
+Drill Arm Reward: Magnetman in
+your team
+
+Not that hard. Hit him with all
+you got. Be careful of the
+Magnet Field he uses. The Mag
+Missiles will search you, but
+it's not hard to dodge. The Mag
+Balls move very slow. So don't
+worry about it.
+
+********************************
+Boss- Magnetman
+********************************
+
+********************************
+Boss- Knightman
+********************************
+
+HP: 600 Element: Normal
+Recommended Chips: Area Steal,
+Drill Arm Reward: Knightman in
+your team
+
+Knightman moves by jumping.
+He'll move every 5 seconds or
+something. He rarely moves.
+He'll use Kingdom Crusher to
+send that huge Ball of Spikes at
+you. One of his favorite moves
+is Broken Wall. He sends his
+Ball of Spike into the air and
+sends boulders falling on your
+side of the screen. If you are
+close to Knightman, he'll use
+the Royal Wrecking Ball.
+
+********************************
+Boss- Knightman
+********************************
+
+Cut-Scene
+
+-------------
+Great Cavern
+-------------
+
+1) Follow the path.
+
+--------------------------
+Abandoned Mine Interior 8
+--------------------------
+
+1) Head to the Elevator.
+2) Take the Elevator.
+
+--------------------------
+Abandoned Mine Interior 9
+--------------------------
+
+1) Follow the path.
+
+-------------
+Great Cavern
+-------------
+
+1) Examine the door.
+2) Plug-In.
+
+---------------------
+Electronic Lock Comp
+---------------------
+
+1) Examine the Release Switch in
+   the middle of the area.
+2) Plug-Out.
+
+-------------
+Great Cavern
+-------------
+
+Cut-Scene
+
+1) Now head to Oran Isle Area 3
+   to start the Liberation
+   Mission.
+
+================================
+4. d. Liberate Mission 2 Lbm2
+================================
+--------------------------------
+Oran Isle Area 3 /
+-----------------
+  / \         ****************
+***********************         
+Target Clear Phase-  9          
+***********************         
+      _ _ _|X|X|X|_ _ _| |
+X- Dark Panel                   
+2- 2 Order Points |X|X|X| | |_ _
+_
+3- 3 Order Points               
+Z- 2000 Zennys                  
+H- Recovery 200                 
+A- Mystery Data- Hi Cannon D
+|X|X| B- Mystery Data- Air
+Hockey R _ _ _ _|_|_|_ P- Bonus
+Panel _ _ _ _|X|X|X|X|X|X|X|_ _
+_ _ _ _ _ D- Darkness Hole
+|P|_|_|_|_|D|X|X|R|D|X|X|Z|_|_|
+|_|_|_| G- Garu-Beast
+|X|X|G|X|X|X|X| |_|P|_|
+R- Roy-Hawk                     
+S- Shademan                     
+  |_|_|_|X|_|_|X|_|_|_|_|X|_|
+*******                         
+Prizes                          
+*******                         
+--------------------------------
+| Clear Phase | Item            
+--------------------------------
+| 1 ~ 7 | Shademan SP S |
+|_|_|_|2|X|X|X|_|X|_|X| | 8 ~ 9
+| Shademan S | |X|X|X|_|X|P|X| |
+10 ~ 99 | 2000 Zennys |
+|R|X|X|A|_|
+--------------------------------
+        _ _ _|_|X|_|_|X|
+********************************
+Chips you can get from the Bonus
+Panel |X|X|2|
+********************************
+            |X|_|_ _
+Earth Quake 2 B                 
+Kamon Snake Z |_START_|
+Count Bomb 1 T                  
+Navi +20 *                      
+             \   /
+              \ /
+********************************
+      Participating Navis
+********************************
+ -------------------------------
+| Team of Blues | Team of
+Colonel |
+ -------------------------------
+| Rockman HP: --- Chp: -- Chg:
+-- | Rockman HP: --- Chp: --
+Chg: -- |
+ -------------------------------
+| Blues HP: 300 Chp: 80 Chg: 60
+| Colonel HP: 300 Chp: 80 Chg:
+50 |
+ -------------------------------
+| Magnetman HP: 400 Chp: 80 Chg:
+40 | Knightman HP: 400 Chp: 80
+Chg: 80 |
+ -------------------------------
+  Chp- Their own Chip           
+
+================================
+4.     e. Scenario 3            
+================================
+
+------------
+Akiharachou
+------------
+
+Cut-Scene
+
+----------------
+Squirrel Comp 1
+----------------
+
+You get a E-mail from
+Enzan/Barrel.
+
+You learn how to use the Soul
+Unison.
+
+Alright let me explain what you
+have to do. You are in Area 1
+right now. Your mission is to
+get to Area 16. If you don't
+have a guide for this you're
+going to have some kind of
+trouble. Here's a little diagram
+of how the Areas are located.
+    6            I know it sucks
+   /              breakdown of t
+   4                contains Ite
+ /   \              each area.
+ 2 - 3      7 - 8
+   /      \                   3-
+  /         5      13         4-
+1 / 5- Charge +1 (White)
+  \           11              6-
+   \        /    \            8-
+ 9 - 10        14 - 16   10- 300
+\                11- 400 Zennys
+12             13- Regular Up +1
+    \           15- First Barrie
+    15
+
+The items are usually in the
+middle of that area.
+
+Here's a good route...Area 1 >>>
+Area 2 >>> Area 3 >>> Area 4 >>>
+Area 6 >>> Area 4 >>> Area 7 >>>
+Area 8 >>> Area 7 >>> Area 4 >>>
+Area 3 >>> Area 5 >>> Area 3 >>>
+Area 2 >>> Area 1 >>> Area 9 >>>
+Area 10 >>> Area 12 >>> Area 15
+>>> Area 12 >>> Area 10 >>> Area
+11 >>> Area 13 >>> Area 11 >>>
+Area 14 >>> Area 16.
+
+In conclusion you have to go
+through every area unless you
+don't want something which is
+weird because I know every one
+wants everything.
+
+-----------------
+Squirrel Comp 16
+-----------------
+
+Cut-Scene
+
+1) Plug-Out.
+
+------------
+Akiharachou
+------------
+
+You get an E-mail from
+Enzan/Barrel.
+
+You get an E-mail from Higure.
+
+1) To the West of where you are
+   is Higureya. Enter.
+
+---------
+Higureya
+---------
+
+1) So this is Higureya. This is
+   where you will buy Chips.
+   Come here any time you want.
+   I'll also tell you
+2) Go to the Show Case and buy
+   the Bubble Wrap Y. Put it in
+   your folder.
+3) When you're done, get out of
+   here.
+
+------------
+Akiharachou
+------------
+
+1) Head to Oran Isle.
+
+Akiharachou >>> Metro >>> Oran
+Isle
+
+----------
+Oran Isle
+----------
+
+1) Head to the Speaker and Plug-
+   In.
+
+-----------------
+Oran Isle Area 1
+-----------------
+
+Cut-Scene
+
+1) Follow the path to the 2nd
+   split.
+2) Head to the West to Oran Isle
+   Area 2.
+
+-----------------
+Oran Isle Area 2
+-----------------
+
+1) Follow the path until you see
+   a Blue Mystery Data you can
+   get.
+2) Open it to get a Vulcan 2 C.
+3) Now follow the Green Path
+   until you see a Heel Navi.
+4) Save then talk to him.
+
+*******
+Battle
+*******
+
+5) Keep following the Green Path
+   to go up a hill.
+6) When you go up the hill,
+   there is a transporter.
+7) Take it to get to the last
+   Heel Navi in this area. Save
+   then talk.
+
+*******
+Battle
+*******
+
+8) Now go back to the hill.
+9) When you go down head to the
+   East and follow the path to a
+   transporter.
+10)Use it to get back to the
+entrance of this area. Head back
+to Area 1.
+
+-----------------
+Oran Isle Area 1
+-----------------
+
+1) Just follow the Green Path to
+   Oran Isle Area 3 until you
+   see a Heel Navi.
+2) Save and talk.
+
+*******
+Battle
+*******
+
+3) Now head to Oran Isle Area 3.
+
+-----------------
+Oran Isle Area 3
+-----------------
+
+1) Just run straight until you
+   see a Heel Navi.
+2) Save and talk.
+
+*******
+Battle
+*******
+
+3) Keep running straight until
+   you get to a split.
+4) Take the right path to a Heel
+   Navi. (This is where a Bonus
+   Panel was in Liberate Mission
+   2)
+5) Save and talk.
+
+*******
+Battle
+*******
+
+6) Head back to the split.
+7) Take the other path and
+   follow it to a Heel Navi.
+8) Save and talk.
+
+*******
+Battle
+*******
+
+Cut-Scene
+
+9) Save. Now head to the
+   Kagakushou Area that is to
+   the North-East from here.
+
+Cut-Scene
+
+*******
+Battle
+*******
+
+10)Now go to Kagakushou Area.
+
+------------------
+Kagakushou Area 1
+------------------
+
+1) Run straight to a split.
+2) Take the right path and
+   follow it to the North-East
+   to get to a Blue Mystery Data
+   that contains a
+3) Now head back to the split.
+4) Take the left path and follow
+   it to a split.
+5) Go North to another split.
+   Then take the East path.
+6) You should now be in this
+   maze looking place. Don't
+   worry just head to the East.
+   There should be a path.
+7) Follow the path to the North-
+   West.
+8) When you get to a split, take
+   the left path and just follow
+   the path to Kagakushou Area
+   2.
+
+------------------
+Kagakushou Area 2
+------------------
+
+1) Follow the path to a split.
+2) Take the left path and follow
+   the path all the way to the
+   South-West to get to a Blue
+   Mystery Data that c
+3) Head directly North from here
+   to a small tiny Orange Path.
+4) Head directly West from here
+   to another small tiny Orange
+   Path.
+5) Follow to the South-West to
+   another Blue Mystery Data
+   that contains a Shield
+   (Green).
+6) Now head back to the small
+   tiny Ornage Path.
+7) From there head to the North-
+   East to a long path with
+   Clouds.
+
+Cut-Scene
+
+8) Plug-Out.
+
+----------
+Oran Isle
+----------
+
+1) Head to your Room.
+
+Oran Isle >>> Metro >>>
+Akiharachou >>> Netto's House
+>>> Netto's Room
+
+-------------
+Netto's Room
+-------------
+
+1) Examine the bed and sleep.
+
+You get a E-mail from
+Tesla/Princess Pride.
+
+2) Head to the Great Cavern.
+
+Netto's Room >>> Netto's House
+>>> Akiharachou >>> Metro >>>
+Oran Isle >>> Abandoned Mine >>>
+Abandoned Mine Interior 1 >>>
+Abandoned Mine Interior 2 >>>
+Abandoned Mine >>> Abandoned
+Mine Interior 3 >>> Abandoned
+Mine >>> Abandoned Mine Interior
+4 >>> Abandoned Mine >>>
+Abandoned Mine Interior 7 >>>
+Abandoned Mine Interior 8 >>>
+Great Cavern
+
+-------------
+Great Cavern
+-------------
+
+1) Talk to Tesla/Princess Pride.
+2) Plug-In to the Rock Drilling
+   Comp 1.
+
+---------------------
+Rock Drilling Comp 1
+---------------------
+
+1) Head to where the Control
+   Panel is. Don't worry the
+   Conveyor Belts aren't moving
+   anymore. So it should
+2) Get the Thought Program and
+   Plug-Out.
+
+-------------
+Great Cavern
+-------------
+
+1) Plug-In to the next one.
+
+---------------------
+Rock Drilling Comp 2
+---------------------
+
+1) Head to where the Control
+   Panel is.
+2) Grab the Language Program and
+   Plug-Out.
+
+-------------
+Great Cavern
+-------------
+
+1) Plug-In to the next one.
+
+---------------------
+Rock Drilling Comp 3
+---------------------
+
+1) Head to where the Control
+   Panel is.
+2) Grab the Movement Program and
+   Plug-Out.
+
+-------------
+Great Cavern
+-------------
+
+1) Plug-In to the next one.
+
+---------------------
+Rock Drilling Comp 4
+---------------------
+
+1) Head to where the Control
+   Panel is.
+2) Grab the Attack Program and
+   Plug-Out.
+
+-------------
+Great Cavern
+-------------
+
+1) Talk to Tesla/Princess Pride.
+
+Cut-Scene
+
+2) Head to the Command Room.
+
+Great Cavern >>> Abandoned Mine
+Interior 8 >>> Abandoned Mine
+Interior 7 >>> Abandoned Mine
+>>> Abandoned Mine Interior 4
+>>> Abandoned Mine >>> Abandoned
+Mine Interior 3 >>> Abandoned
+Mine >>> Abandoned Mine Interior
+2 >>> Abandoned Mine Interior 1
+>>> Abandoned Mine >>> Oran Isle
+>>> Metro >>> Front of
+Kagakushou >>> Kagakushou Lobby
+>>> Main Operating Room >>>
+Command Room
+
+-------------
+Command Room
+-------------
+
+Cut-Scene
+
+1) Head to your Room.
+
+Command Room >>> Main Operating
+Room >>> Kagakushou Lobby >>>
+Front of Kagakushou >>> Metro
+>>> Akiharachou >>> Netto's
+House >>> Netto's Room
+
+-------------
+Netto's Room
+-------------
+
+1) Plug-In.
+
+-----------
+Netto's HP
+-----------
+
+1) Head to Oran Isle Area 1.
+
+Netto's HP >>> Akihara Area 1
+>>> Akihara Area 2 >>> Akihara
+Area 3 >>> Oran Isle Area 1
+
+-----------------
+Oran Isle Area 1
+-----------------
+
+Cut-Scene
+
+1) Go down the hill and follow
+   the path until you see a
+   Program Dude.
+2) Talk to him to get the Mega
+   Vacuum.
+3) From here and on what you
+   must do is to suck up the
+   Clouds that are in your way.
+   The thing is the Mega Va
+   There are also Clouds that ha
+   slots they take up. A White C
+   slots, a Black Cloud takes up
+   What's so special about the G
+   my guide I'm not going to put
+   worthless. You don't need the
+   necessary ones. If you want t
+   telling you this, they are a
+   actually went through all the
+   E-mail me and tell me what th
+   Clouds contain. Remember your
+4) Just head to Area 2. On the
+   way are only White Clouds.
+   Just follow the Green Path
+   and you'll be Ok.
+
+Cut-Scene
+
+5) Talk to the Program Dude here
+   to clean your Vacuum out.
+6) Head to Oran Isle Area 2.
+
+-----------------
+Oran Isle Area 2
+-----------------
+
+1) Head foward.
+
+Cut-Scene
+
+2) Follow the path to the hill.
+   On the way, you can suck up
+   everything until you get to
+   the White Cloud af
+3) Then you must go empty it
+   out.
+4) When you get to the hill
+   you'll meet
+   Gyroman/Shadowman.
+
+Cut-Scene
+
+5) Now head back to Oran Isle
+   Area 1.
+
+-----------------
+Oran Isle Area 1
+-----------------
+
+1) Head to the entrance of this
+   area. Empty your Vaccum on
+   the way.
+2) Head up the hill.
+3) Follow the path to Oran Isle
+   Area 3 while sucking up
+   Clouds on the way.
+
+-----------------
+Oran Isle Area 3
+-----------------
+
+1) Just head to Kagakushou Area
+   1. No Clouds here.
+
+------------------
+Kagakushou Area 1
+------------------
+
+1) Alright from here, you
+   actually have to think on
+   which Clouds to suck up,
+   because if you mess up...you
+   First empty out your Vaccum i
+2) Start by taking the right
+   path at the split.
+3) Suck up the White Cloud here.
+4) Take the left path and suck
+   up the Cloud here.
+5) Conitnue on to find another
+   White Cloud.
+6) Then head to the maze looking
+   part and suck the White Cloud
+   in the North- East.
+7) Suck the Black Cloud and
+   White Cloud that follows. Now
+   head back and empty your
+   Vacuum.
+8) When you're back, suck up the
+   Gray, White, Gray Cloud in
+   that order.
+9) There should be a Program
+   Dude that can empty out half
+   of what's inside your Vacuum.
+10)Suck up the Black Cloud. Now
+go back and empty your Vacuum.
+11)Follow the path to another
+Black Cloud. 12)Suck up the Gray
+Cloud next. Then you should get
+to another Program Dude
+   that'll empty your Vacuum.
+13)Suck up the Black Cloud and
+empty it out again. 14)Now
+follow the path to Area 2. There
+are 4 White Clouds, and 1 Gray
+Cloud
+   on the way.
+
+------------------
+Kagakushou Area 2
+------------------
+
+1) Start by sucking up the first
+   3 Clouds you see.
+2) Talk to the Program Dude
+   right by you to empty it.
+3) Get rid of the Gray Cloud
+   closest to you.
+4) Follow the path to a White
+   Cloud.
+5) Suck it up and follow the
+   path to a Gold Cloud.
+6) Suck this one up and talk to
+   the Program Dude.
+7) Head back to where the White
+   Cloud was.
+8) Suck up the Black Cloud
+   closest to you.
+9) Head to the North-East to
+   another Gold Cloud.
+10)Talk to the Program Dude. Now
+go back to where the other Gold
+Cloud was. 11)Take the path
+right next to where the Gold
+Cloud was. Suck up the Black
+   Cloud then the Gray Cloud.
+12)Head to the South-West to
+another Program Dude. 13)After
+emptying the Vacuum, head
+directly North to a Black Cloud.
+14)Suck up the Black Cloud then
+head North-East to another Black
+Cloud. 15)Go back to the Program
+Dude and come back. 16)Head
+North-East again to your last
+Cloud you will suck in. 17)Save.
+When you're ready follow the
+path to where Gyroman/Shadowman
+is.
+
+Cut-Scene
+
+********************************
+Boss- Gyroman
+********************************
+
+HP: 600
+Element: Normal
+Recommended Chips: Wide Sword
+Reward: Gyroman in your team
+
+Gyroman moves a lot. His Gyro
+Cutter will search you. When you
+shoot your Buster at him, he'll
+use Gyro Counter. He stays in
+place and turns into a
+Helicopter and shoots at you.
+When he uses his Tornado Arm,
+just move one panel up or down
+and use Wide Sword to attack.
+
+********************************
+Boss- Gyroman
+********************************
+
+********************************
+Boss- Shadowman
+********************************
+
+HP: 500
+Element: Normal
+Recommended Chips: Spread Gun
+Reward: Shadowman in your team
+
+If you've faced Shadowman in Exe
+or Exe 2 you'll know how he
+fights. He's exactly the same.
+He'll fight with 2 Copies of
+himself. For you Naruto fans out
+there, this is the same as the
+Kagebunshin no Jyutsu. (Shadow
+Replication) One shot from your
+Buster can eliminate them
+though, but don't feel as ease.
+Because they keep coming back.
+Just aim for Shadowman itself.
+You'll know the real one because
+the real one has his HP under
+him.
+
+********************************
+Boss- Shadowman
+********************************
+
+Cut-Scene
+
+18)Now head to those Clouds that
+you couldn't get through a long
+time ago. (The beginning of this
+scenario)
+
+Cut-Scene
+
+================================
+4. f. Liberate Mission 3 Lbm3
+================================
+--------------------------------
+Kagakushou Area 3 /
+------------------
+
+***********************         
+Target Clear Phase- 9
+|_|X|N|X|_| ****************
+***********************         
+|_|_|_|_|_|    ****************
+X- Dark Panel               / \ 
+3- 3 Order Points          /   \
+Z- 1500 Zennys            /_   _
+H- Recovery 300           __| | 
+M- Paralyze Bomb H       |  __| 
+P- Bonus Panel | | |_|X|X|X|P| _
+_ _|X|X|X|X|H|_|X|X|X| 1-
+Barrier 1 | | |_|_|X|_|X|_
+_|_|2|_|X|X|D|X|X|_|R|D|X| 2-
+Barrier 2 _| |_ _ |_|X|D|G|X|_|_
+|_|2|_|X|X|X|X|X|_|X|X|X| I-
+Barrier Key 1
+|X|X|X|_|_|_|_|X|_|3|
+|_|X|Z|X|X|X|_| N- Barrier Key 2
+|X|C|X|_|_|_|X|X|X|X|
+|_|_|X|X|X|_|_| D- Darkness Hole
+|X|X|X|_| |_|X|X|X|_|
+G- Garu-Beast 2          | |___ 
+R- Roy-Hawk              |___  |
+C- Cloudman _| |_
+|_|X|X|X|X|_|X|X|X|X|_|I|
+      |     |             |_|   
+*******                    |    
+Prizes                     |_ _ 
+*******                         
+--------------------------------
+| Clear Phase | Item |
+|R|_|X|X|X|X|_|X|X|X|X|_|
+--------------------------------
+| 1 ~ 7 | Cloudman SP S | |G|
+|   8  ~  9   | Cloudman S      
+| 10 ~ 99 | 3000 Zennys |
+|P|_|X|_|X|_|X|_|3|
+--------------------------------
+      |X|X|X|X|X|X|X|X|X|
+********************************
+Chips you can get from the Bonus
+Panel |_|_|_|_|_|_|_|_|_|
+********************************
+            \START/
+Pulse Beam 2 G                  
+Mega Energy Bomb K \ / Wide
+Blade A Fire Punch 2 I
+
+********************************
+      Participating Navis
+********************************
+ -------------------------------
+| Team of Blues | Team of
+Colonel |
+ -------------------------------
+| Rockman HP: --- Chp: --- Chg:
+-- | Rockman HP: --- Chp: ---
+Chg: -- |
+ -------------------------------
+| Blues HP: 350 Chp: 100 Chg: 70
+| Colonel HP: 350 Chp: 100 Chg:
+60 |
+ -------------------------------
+| Magnetman HP: 500 Chp: 80 Chg:
+40 | Knightman HP: 500 Chp: 80
+Chg: 80 |
+ -------------------------------
+| Gyroman HP: 250 Chp: 50 Chg:
+20 | Shadowman HP: 250 Chp: 80
+Chg: 60 |
+ -------------------------------
+  Chp- Their own Chip           
+
+================================
+4.     g. Scenario 4            
+================================
+
+-------------
+Netto's Room
+-------------
+
+Cut-Scene
+
+1) Head to the Front of
+   Kagakushou.
+
+Netto's Room >>> Netto's House
+>>> Akiharachou >>> Metro >>>
+Front of Kagakushou
+
+--------------------
+Front of Kagakushou
+--------------------
+
+1) Head to the East after going
+   up the first set of stairs to
+   enter the Luxurious Ship
+   Platform.
+
+------------------------
+Luxurious Ship Platform
+------------------------
+
+1) Head down the stairs and just
+   head straight to meet
+   Enzan/Barrel.
+
+Cut-Scene
+
+2) Head to the Command Room.
+
+Luxurious Ship Platform >>>
+Front of Kagakushou >>>
+Kagakushou Lobby >>> Main
+Operating Room >>> Command Room
+
+-------------
+Command Room
+-------------
+
+Cut-Scene
+
+You get Enzan's/Barrel's PET.
+Which means you get
+Blues/Colonel.
+
+1) Head to Oran Isle.
+
+Command Room >>> Main Operating
+Room >>> Kagakushou Lobby >>>
+Front of Kagakushou >>> Metro
+>>> Oran Isle
+
+----------
+Oran Isle
+----------
+
+1) Plug-In to the Speaker.
+
+-----------------
+Oran Isle Area 1
+-----------------
+
+1) Head to Oran Isle Area 2.
+
+-----------------
+Oran Isle Area 2
+-----------------
+
+1) Head to where the hill is.
+2) Go up the hill.
+3) Take the transporter.
+4) Examine the door that leads
+   to End Area 1.
+5) Head to Kagakushou Area 3.
+
+Oran Isle Area 2 >>> Oran Isle
+Area 1 >>> Oran Isle Area 3 >>>
+Kagakushou Area 1 >>> Kagakushou
+Area 2 >>> Kagakushou Area 3
+
+------------------
+Kagakushou Area 3
+------------------
+
+1) Run to where Cloudman was in
+   Liberate Mission 3.
+2) Head to the North-East to
+   Kagakushou Area 4.
+
+------------------
+Kagakushou Area 4
+------------------
+
+1) Head straight to a split.(The
+   one over the square panel)
+2) Head to the left and take the
+   transporter.
+3) Take the next transporter and
+   talk to the Heel Navi. Buy
+   the Dark Wide T for 1000
+   Zennys.
+4) Take the transporter out of
+   here. Head back to the split.
+5) Head straight a little to
+   another split.
+6) Take the right path to a
+   transporter. Take it to
+   another split.
+7) Take the right path and head
+   down the path to a
+   transporter.
+8) Take it and follow the path
+   to a Blue Mystery Data that
+   contains a Mega Folder 1
+   (Green).
+9) Now take the transporter
+   closest to you.
+10)Head to the North-East to
+another transporter. 11)Follow
+the path to another transporter.
+12)Follow the path to a Navi.
+13)Save and talk to him.
+
+*******
+Battle
+*******
+
+You get the Science Key.
+
+14)Take the transporter right
+next to you and run to the
+South-West to another
+   transporter.
+15)Take it and follow to another
+split. 16)Follow the South-East
+path and follow the right path
+to a transporter. 17)Take it and
+head through the warp.
+
+------------
+Server Comp
+------------
+
+1) Head to the other side to
+   Oran Isle 2.
+
+Note: Come back here when you're
+Rockman to get the HP Memory and
+to do
+ something else. It might be in 
+
+-----------------
+Oran Isle Area 2
+-----------------
+
+1) Take the transporter and you
+   should know where you are.
+2) Follow the Green Path and up
+   the hill.
+3) Take the transporter and head
+   to the door.
+4) Open it with the Science Key.
+5) Head to End Area 1.
+
+-----------
+End Area 1
+-----------
+
+1) Just follow the path you are
+   on. Don't go down any of the
+   hills.
+
+Cut-Scene
+
+----------
+Oran Isle
+----------
+
+1) Head to the Command Room.
+
+Oran Isle >>> Metro >>> Front of
+Kagakushou >>> Kagakushou Lobby
+>>> Main Operating Room >>>
+Command Room
+
+-------------
+Command Room
+-------------
+
+Cut-Scene
+
+1) Head to Oran Isle.
+
+Command Room >>> Main Operating
+Room >>> Kagakushou Lobby >>>
+Front of Kagakushou >>> Metro
+>>> Oran Isle
+
+----------
+Oran Isle
+----------
+
+1) Go talk to Tesla/Princess
+   Pride.
+
+You get the Invitation Ticket.
+
+2) Head to your Room.
+
+Oran Isle >>> Metro >>>
+Akihrarchou >>> Netto's House
+>>> Netto's Room
+
+-------------
+Netto's Room
+-------------
+
+1) Sleep.
+
+Next Day...
+
+2) Head to the Luxurious Ship
+   Platform.
+
+Netto's Room >>> Netto's House
+>>> Akiharachou >>> Metro >>>
+Front of Kagakushou >>>
+Luxurious Ship Platform
+
+------------------------
+Luxurious Ship Platform
+------------------------
+
+1) Head to where the Ship
+   is.(It's in the East)
+2) Talk to the guy in front of
+   the stairs.
+3) Board the Ship.
+
+---------
+Corridor
+---------
+
+1) When you're at the main part
+   of the Corridor, head to the
+   South-East to get outside.
+
+-----
+Deck
+-----
+
+1) Head to the middle of the
+   Deck and talk to the guy
+   there.
+2) Let the Stamp Rally begin!!!
+   Start by heading to the East
+   to the tip of the Ship.
+3) Examine the tip to get the
+   Virgin Stamp.
+4) Now head to the North and up
+   the stairs.
+5) Head to the West and enter
+   the door there.
+
+--------------
+Steerage Room
+--------------
+
+1) Go up the stairs and examine
+   the Helm to get the Helm
+   Stamp.
+2) Head to the Corridor.
+
+Steerage Room >>> Deck >>>
+Corridor
+
+---------
+Corridor
+---------
+
+1) Head to the West and examine
+   the Sofa to get the Sofa
+   Stamp.
+2) Now go back to the Deck.
+
+-----
+Deck
+-----
+
+1) Go talk to the guy.
+
+You get 1000 Zennys.
+
+Cut-Scene
+
+2) Head to the Corridor.
+
+---------
+Corridor
+---------
+
+1) Head to the very West to a
+   door.
+2) You need to unlock it with a
+   code. You get this code from
+   a guy on Deck, but I have the
+   answer already there.
+3) Input the code 11922911.
+4) Head inside.
+
+------------
+Engine Room
+------------
+
+Cut-Scene
+
+1) Examine the machine in the
+   way back.
+2) Plug-In.
+
+-----------
+Radar Comp
+-----------
+
+Cut-Scene
+
+1) Follow that Heel Navi. At the
+   split take the right path.
+2) At the next split take the
+   left path to a Blue Mystery
+   Data that contains 400
+   Zennys.
+3) Now head back to the split.
+4) Save. Now head to the other
+   path that you didn't take to
+   a...
+
+*******
+Battle
+*******
+
+5) Head through the warp.
+
+----------------------
+Air Conditioning Comp
+----------------------
+
+1) At the split take the right
+   path.
+2) At the next split take the
+   left path to a Blue Mystery
+   Data that contains a Battery
+   Mode.
+3) Now head back to the split.
+4) Save. Now head to the other
+   path that you didn't take to
+   a...
+
+*******
+Battle
+*******
+
+5) Head through the warp.
+
+---------------
+Propeller Comp
+---------------
+
+This place is called the Screw
+Comp, but that doesn't sound
+right. Another word for Screw is
+Propeller. See you learned
+something from a Video Game
+Guide.
+
+1) At the split take the right
+   path.
+2) At the next split take the
+   left path to a Blue Mystery
+   Data that contains a Regular
+   Up +2.
+3) Now head back to the split.
+4) Save. Now head to the other
+   path that you didn't take to
+   a...
+
+*******
+Battle
+*******
+
+5) Head through the warp.
+
+------------
+Engine Comp
+------------
+
+Cut-Scene
+
+------------
+Engine Room
+------------
+
+Cut-Scene
+
+1) Plug-In again.
+
+-----------
+Radar Comp
+-----------
+
+1) Head to the Engine Comp.
+
+Radar Comp >>> Air Conditioning
+Comp >>> Propeller Comp >>>
+Engine Comp
+
+------------
+Engine Comp
+------------
+
+1) Head to the North-East to a
+   Blue Mystery Data that
+   contains a Sub Memory.
+2) Plug-Out.
+
+------------
+Engine Room
+------------
+
+1) Head to the Corridor.
+
+---------
+Corridor
+---------
+
+1) Head to the Double Doors in
+   the East.
+2) Head inside.
+
+-----------
+Party Hall
+-----------
+
+1) Talk to everyone here.
+
+Cut-Scene
+
+2) Examine the 3 Mirrors in this
+   room.
+
+Cut-Scene
+
+Pick the Mirror then the
+Reflection.
+
+Cut-Scene
+
+3) Head to the Engine Room.
+
+Party Hall >>> Corridor >>>
+Engine Room
+
+------------
+Engine Room
+------------
+
+1) Examine the ladder right next
+   to the place where you can
+   Plug-In.
+
+Cut-Scene
+
+2) Head to the Deck.
+
+Engine Room >>> Corridor >>>
+Deck
+
+-----
+Deck
+-----
+
+1) This is not a good time, but
+   go Plug-In to the Net Battle
+   Machine.
+
+------------------------
+Net Battle Machine Comp
+------------------------
+
+1) In the South is a Blue
+   Mystery Data that contains a
+   HP +50 (Pink).
+2) Plug-Out.
+
+-----
+Deck
+-----
+
+1) Head up the stairs and go see
+   the guy on the floor.
+
+Cut-Scene
+
+2) Head inside the Steerage
+   Room.
+
+--------------
+Steerage Room
+--------------
+
+Cut-Scene
+
+----------------------
+Luxurious Ship Comp 1
+----------------------
+
+Cut-Scene
+
+1) Talk to the Program Dude here
+   to learn about the Oxygen
+   Tank. Learn well. You'll need
+   it.
+2) Follow the path to a locked
+   door.
+3) Go down the hill close by and
+   into the water.
+4) When you get to the bottom,
+   you'll start losing oxygen.
+   Head to the left path to a
+   area with a Whirlpo
+5) Just go pass the Whirlpool
+   and head to the North to
+   another Whirlpool. There's
+   also a bubble that'll
+   actually need it, but that's
+6) Head to the North-East to get
+   to a Blue Mystery Data that
+   contains a Water Proof Key.
+7) Take the warp right next to
+   you.
+8) Open the door and head down
+   the next hill.
+9) Head to the right and you
+   should see a Whirlpool.
+10)Make your way to the South-
+East to get to a Blue Mystery
+Data that contains
+   a Yo Yo F.
+11)Now head to the North-East
+and head to the North-West.
+12)Soon you should see a
+Whirlpool and a Blue Mystery
+Data. 13)Grab the Blue Mystery
+Data that contains a Water Proof
+Key and enter the
+   warp.
+14)Open the door and head down
+the next hill you come across.
+15)Head to the South. 16)Head
+North-East to get to a Blue
+Mystery Data with a Spin White
+inside. 17)Now head to the
+South-West to find another
+Whirlpool. 18)Pass it and head
+to the West to a warp. 19)To the
+right is a Whirlpool and a Blue
+Mystery Data. Get the Blue
+Mystery
+   Data that contains a Water Pr
+20)Head to the warp. 21)Open the
+door and head to Comp 2.
+
+----------------------
+Luxurious Ship Comp 2
+----------------------
+
+1) Head down the hill.
+2) Follow the path and you
+   should get to a Whirlpool.
+3) After you pass the Whirlpool,
+   there is a tide that will
+   push you to the South-West.
+   You're trying to for the tide
+   to stop for awhi of the tide.
+   Whatever you do tide.
+4) Follow the path to a
+   Whirlpool.
+5) Go past this one and head to
+   the South-East to another
+   tide.
+6) This one is also pushing to
+   the South-West. Wait for the
+   tide to stop for this one.
+   When it stops run a
+7) There will be a Whirlpool and
+   a Blue Mystery Data here. You
+   can't get it because it's a
+   HP Memory. Jus Rockman. Right
+   now take the t saves you a
+   little running.
+8) Follow the path to another
+   Whirlpool.
+9) Go past this one and head to
+   the right to get some oxygen.
+10)Head to the North to another
+Whirlpool. 11)Past this one is
+another Whirlpool and a Blue
+Mystery Data that contains a
+   Water Proof Key.
+12)Head to the West and enter
+the warp. Be careful on the way
+because there's
+   a tide pushing to the South-E
+13)Open the door and head to the
+next hill going down. 14)When
+you go down the hill follow the
+path to the right. 15)When you
+get to the area with the tide,
+wait until it stops. Then run to
+   the resting stop in the middl
+16)Stop at the corner. You
+should see a tide that's pushing
+to the North-West
+   and another tide pushing to t
+   the tide that pushes you to t
+17)When you get pushed Save.
+18)Head to the right, but don't
+go on the tide or else you go
+back to where
+   you were.
+19)Go past the Whirlpools and
+get on the next tide you see.
+20)Follow the path and you
+should see a Blue Mystery Data
+that contains a
+   Regular Up +3.
+21)Follow the path to a square
+panel with a Whirlpool. 22)In
+the square panel is also a place
+to get oxygen. 23)Head to the
+West to get to a Blue Mystery
+Data that contains a Water Proof
+   Key.
+24)Now head to the North and use
+the warp. 25)Open the door and
+follow the path to Comp 3.
+
+----------------------
+Luxurious Ship Comp 3
+----------------------
+
+1) Follow the path and head down
+   the hill.
+2) Head to the South-West. You
+   should come across 2
+   Whirlpools.
+3) Just head to the West. At the
+   split, go South-West and get
+   some of that Oxygen you see.
+4) Head to the South from here
+   to get to 2 more Whirlpools.
+5) After getting past the
+   Whirlpools you'll get to some
+   tides.
+6) Go past them and head to the
+   South-East to a Blue Mystery
+   Data that contains the Water
+   Proof Key
+7) Now go through the warp.
+8) Head down the hill.
+9) Head to the South-West. You
+   should come across the 2
+   Whirlpools again.
+10)Head to the West like last
+time. At the split, head North
+this time. 11)Go on the tide and
+follow the path to a Blue
+Mystery Data that contains a
+   Sub Memory. There should also
+12)Follow the path to another
+tide. 13)Head to the North-East
+after getting pushed by the
+tide. 14)The should be a
+Whirlpool. After getting past
+this one, there will be 2
+   more waiting for you.
+15)After passing the Whirlpools,
+there's a tide. 16)Wait until it
+stops. Then move in that
+direction to get a Blue Mystery
+Data that contains a Kusamura
+Seed A. 17)Now take the tide and
+go back to where you were.
+18)Keep following the path and
+up the hill to a Blue Mystery
+Data that contains the Water
+Proof Key C. 19)Head down the
+hill and head to the right and
+enter the warp. 20)Head down the
+hill. 21)This time head South-
+East and you should come across
+2 Whirlpools. 22)Just go pass
+them and at the split, go to the
+left to get some oxygen. 23)Now
+head to the right and get on the
+first tide you see. 24)Follow
+the only path to some more
+oxygen. 25)Don't worry about the
+Whirlpool you see and head to
+the left and go up at
+   the next split.
+26)Don't get pushed by the tides
+coming up. 27)Keep following the
+path and you'll get to 2 more
+Whirlpools. 28)Follow the path
+to a Blue Mystery Data that
+contains the Water Proof key B.
+29)Take the warp. 20)Open the
+door and head to Comp 4.
+
+----------------------
+Luxurious Ship Comp 4
+----------------------
+
+1) Follow the path and head down
+   the hill.
+2) Head to the East to see a
+   tide.
+3) Wait until it stops and
+   follow the path to a Blue
+   Mystery Data that contains a
+   Kakuchou Memory.(E
+4) Take the tide to another
+   area.
+5) Get the oxygen in the corner
+   and follow the path to
+   another tide.
+6) Take it to another area.
+7) Get some oxygen from the
+   corner and follow the path to
+   the North-West. On the way
+   are tides, but don't
+8) When you get past the two
+   tides, you'll come to another
+   tide. Ride on this one to
+   another area.
+9) There's some oxygen in the
+   corner here. Head to the
+   North-West where a Whirlpool
+   is waiting.
+10)Just follow the path until
+you come across another tide.
+11)Ride on this tide to another
+part of the area. 12)Follow the
+path North-East to encounter
+another Whirlpool. 13)From here
+keep heading to the East to get
+to another tide. On the way are
+   2 Whirlpools.
+14)Pass the first tide and
+you'll come to another tide.
+This one will push you
+ to the North-East. Ride on it.
+15)Grab the Blue Mystery Data
+that contains a Attack +1
+(White). 16)Take the other tide
+to get back. 17)Head to the West
+and you'll come across another
+Whirlpool. 18)Follow the path
+South and you should come to
+another tide that will push
+   you to the South-East.
+19)Follow the path to another
+tide that will push you to the
+North-East. 20)Follow the path
+to a Blue Mystery Data that
+contains the last Water Proof
+   key you will ever need.
+21)Take the warp. 22)Save.
+23)When you're ready, head
+through.
+
+Cut-Scene
+
+********************************
+Boss- Napalmman
+********************************
+
+HP: 800 Element: Fire
+Recommended Chips: Air Hockey,
+Area Steal, Aqua Whirl,
+Blizzardman Reward: Napalmman in
+your team
+
+If you've played Exe 2 you'll
+remember this guy. He has almost
+the same attacks he had in Exe
+2. So you veterans out there
+should be able to take care of
+this guy no sweat. Napalmman
+will mainly use his Vulcan Arms
+that will come out in his field
+to attack. When the cursor hits
+you, that's when it'll attack.
+He'll also shoot Fire Bombs at
+you. It'll be a shape of a +
+sign. The Drop point will also
+have cracks afterwards. When his
+HP gets low he'll use his Napalm
+Bomb. It's a wide range attack
+that will cover your whole field
+if he drops the bomb in the
+center.
+
+********************************
+Boss- Napalmman
+********************************
+
+********************************
+Boss- Tomahawkman
+********************************
+
+HP: 700 Element: Wood
+Recommended Chips: Fire Punch,
+Yo Yo, P.A Dream Sword Reward:
+Tomahawkman in your team
+
+If you've read my other guides
+for this series, you know that I
+always say Wood elemented navis
+are easy. Well Tomahawkman is a
+different story. You see that
+Totem in the back of his field?
+That's going to be part of the
+reason. It depends on which of
+the heads turn around. If the
+White head turns to you, he'll
+be invincible. If the Green head
+turns to you, he'll start
+replenishing his HP. If the Red
+head turns to you, meteors will
+fall on your side. Now to the
+easy part. Charge up Colonel's
+Charge Shot and hit it to make
+it turn around. Simple and
+Clean. Tomahawkman also has his
+own attacks. He'll mostly come
+to the front to attack, so just
+use Sword Chips to do some
+damage. Wait I just contadicted
+my first sentence...
+
+********************************
+Boss- Tomahawkman
+********************************
+
+Cut-Scene
+
+--------------
+Steerage Room
+--------------
+
+Cut-Scene
+
+1) Head to Oran Isle.
+
+Steerage Room >>> Deck >>>
+Corridor >>> Luxurious Ship
+Platform >>> Front of Kagakushou
+>>> Metro >>> Oran Isle
+
+----------
+Oran Isle
+----------
+
+1) Head to the Speaker and Plug-
+   In.
+
+-----------------
+Oran Isle Area 1
+-----------------
+
+1) Head to End Area 1.
+
+Oran Isle Area 1 >>> Oran Isle
+Area 2 >>> End Area 1
+
+-----------
+End Area 1
+-----------
+
+1) Head to the entrance to Area
+   2.
+
+Cut-Scene
+
+2) Save. When you're ready head
+   through.
+
+================================
+4. h. Liberate Mission 4 Lbm4
+================================
+--------------------------------
+End Area 2 /
+-----------
+     /|               _ _ _
+***********************         
+Target Clear Phase- 10 ____
+_______ |
+***********************         
+           \|   _|_|_
+X- Dark Panel |X|X|X| T- 2 Order
+Points _ _ _|X|M|X|_ _ _
+3- 3 Order Points               
+Z- 2400 Zennys                  
+H- Recovery 400
+|X|X|X|X|X|X|X|X|X|
+|_|I|X|X|X|3|X| A- Aqua Whirl 2
+O |X|H|X|X|D|X|3|X|X|
+|X|X|X|X|X|X|_| P- Bonus Panel
+|X|X|X|X|X|B|X|X|X|
+|_|X|X|D|X|X|X| 1- Barrier 1
+|_|_|X|X|X|X|X|_|_|
+|X|X|H|G|X|N|X| 2- Barrier 2
+|_|_|_|X|X|X|_|2|2|
+|X|X|X|X|X|X|_| I- Barrier Key 1
+|P|_|_|X|X|X|_|2|1|_ _ _
+_|_|_|X|_|X|_|_| N- Barrier Key
+2 |X|X|X|X|X|X| D- Darkness Hole
+|X|D|X|X|D|X| G- Garu-Beast 2
+********************
+|X|G|X|X|G|X| R- Roy-Hawk 2
+Boss- Dark Rockman |X|X|X|P|X|X|
+B- Bloodia            **********
+M- Dark Rockman
+|R|X|X|X|X|X|X|X|_|Z|
+        |X|X|D|X|A|X|_|
+*******                         
+Prizes                          
+*******                         
+--------------------------------
+| Clear Phase | Item |
+|START|_|_|_|_| |\
+--------------------------------
+|   1  ~  8   | Full Custom *   
+|   9  ~ 10   | Navi Scout M    
+|  11  ~ 99   | 4000 Zennys     
+--------------------------------
+
+********************************
+Chips you can get from the Bonus
+Panel
+********************************
+
+Saboten Ball 2 Q
+Kanketsusen G
+Fujin Racket F
+Yo Yo E
+
+********************************
+      Participating Navis
+********************************
+ -------------------------------
+| Team of Blues | Team of
+Colonel |
+ -------------------------------
+| Blues HP: 400 Chp: 100 Chg: 70
+| Colonel HP: 400 Chp: 100 Chg:
+60 |
+ -------------------------------
+| Magnetman HP: 550 Chp: 100
+Chg: 50 | Knightman HP: 550 Chp:
+100 Chg: 100 |
+ -------------------------------
+| Gyroman HP: 300 Chp: 50 Chg:
+30 | Shadowman HP: 300 Chp: 80
+Chg: 80 |
+ -------------------------------
+| Napalmman HP: 300 Chp: 100
+Chg: 5 | Tomahawkman HP: 300
+Chp: 100 Chg: 60 |
+ -------------------------------
+  Chp- Their own Chip           
+
+================================
+4.     i. Scenario 5            
+================================
+
+-------------
+Command Room
+-------------
+
+Cut-Scene
+
+You get an E-mail from an
+unknown person.
+
+1) Read it to learn about the
+   Chaos Unison.
+2) Talk to Enzan/Barrel to get
+   Folder 2.
+3) Head to Oran Isle.
+
+Command Room >>> Main Operating
+Room >>> Kagakushou Lobby >>>
+Front of Kagakushou >>> Metro
+>>> Oran Isle
+
+----------
+Oran Isle
+----------
+
+1) Plug-In to the speaker.
+
+-----------------
+Oran Isle Area 1
+-----------------
+
+1) Head to End Area 1.
+
+Oran Isle Area 1 >>> Oran Isle
+Area 2 >>> End Area 1
+
+-----------
+End Area 1
+-----------
+
+1) Head down the third hill.
+2) Head to the North-West and
+   follow the path to the West
+   to a Blue Mystery Data that
+   contains a Regular
+3) Head to End Area 2.
+
+-----------
+End Area 2
+-----------
+
+1) Head to where Dark Rockman
+   was.
+2) Head to the West to a Heel
+   Navi.
+3) Save. Talk to him.
+
+*******
+Battle
+*******
+
+You get the Dark Recovery H.
+
+4) Now head to the East and
+   follow the path to the North
+   to Area 3.
+
+-----------
+End Area 3
+-----------
+
+1) Head to the West.
+2) Head to the North to a one
+   way path.
+3) On the way is a split, but
+   just keep following the path
+   to a Blue Mystery Data that
+   contains a HP Memor
+4) Now head back to the split.
+5) Follow that path to a hill.
+6) Go up the hill and head to
+   the West.
+7) Go down the 2nd hill.
+8) Follow the path and go up the
+   next hill.
+9) Follow the path to another
+   hill.
+10)Go down this hill and follow
+the path to the West. 11)When
+you get to a one way path, head
+North-West all the way to Area
+4.
+
+-----------
+End Area 4
+-----------
+
+1) Head down the hill.
+2) Follow the path to the North-
+   West.
+3) When you get to a maze
+   looking place, head to the
+   North-East.
+4) There should be a transporter
+   that's facing the North-East.
+5) Ride it and head to the East
+   and follow this path to a
+   split.
+6) At the split take the right
+   path and follow it straight
+   to a Blue Mystery Data that
+   contains a Spin Yel
+7) Head back to the split.
+8) Run to the left and you
+   should see another path going
+   to the West.
+9) Following the obvious path
+   will get you to a
+   transporter.
+10)Don't take this one. Keep
+following the path to another
+transporter. 11)Take this one
+and head to the North-West to a
+hill. 12)Go up the hill and
+follow the path to a split.
+13)Head to the North-East.
+14)You should now come across a
+huge door.
+
+Cut-Scene
+
+----------
+Oran Isle
+----------
+
+1) Head to the Kagakushou Lobby.
+
+Oran Isle >>> Metro >>> Front of
+Kagakushou >>> Kagakushou Lobby
+
+-----------------
+Kagakushou Lobby
+-----------------
+
+1) Head to the elevator.
+
+Cut-Scene
+
+2) Head through the elevator.
+
+-----------------
+Dad's Laboratory
+-----------------
+
+1) Go examine the big Gigantic
+   Computer.
+2) Head to the Front of
+   Kagakushou.
+
+Dad's Laboratory >>> Kagakushou
+Lobby >>> Front of Kagakushou.
+
+--------------------
+Front of Kagakushou
+--------------------
+
+1) Go down the stairs and head
+   to the East.
+2) Talk to Raika/Higure.
+
+Cut-Scene
+
+3) Head back to your Dad's
+   Laboratory.
+
+Front of Kagakushou >>>
+Kagakushou Lobby >>> Dad's
+Laboratory
+
+-----------------
+Dad's Laboratory
+-----------------
+
+1) Get close to the Giant
+   Computer.
+
+Cut-Scene
+
+You get the Grandfather's
+Letter.
+
+2) Head to your House.
+
+Dad's Laboratory >>> Kagakushou
+Lobby >>> Front of Kagakushou
+>>> Metro >>> Akiharachou >>>
+Netto's House
+
+--------------
+Netto's House
+--------------
+
+1) Examine the Dog House
+   outside.(From the inside of
+   your House)
+2) Head to the Abandoned Mine
+   Interior 5.
+
+Netto's House >>> Akiharachou
+>>> Metro >>> Oran Isle >>>
+Abandoned Mine >>> Abandoned
+Mine Interior 1 >>> Abandoned
+Mine Interior 2 >>> Abandoned
+Mine >>> Abandoned Mine Interior
+3 >>> Abandoned Mine >>>
+Abandoned Mine Interior 4 >>>
+Abandoned Mine >>> Abandoned
+Mine Interior 5
+
+--------------------------
+Abandoned Mine Interior 5
+--------------------------
+
+1) Head to the machine and Plug-
+   In.
+
+--------------------------
+Air Cleaning Machine Comp
+--------------------------
+
+1) Head to the East to a glowing
+   light.
+
+Cut-Scene
+
+You get the Memory Data.
+
+2) Plug-Out.
+
+---------------
+Abandoned Mine
+---------------
+
+1) Head to the Metro.
+
+Abandoned Mine >>> Oran Isle >>>
+Metro
+
+-----------
+Map Screen
+-----------
+
+1) Head to End City.
+
+---------
+End City
+---------
+
+1) Follow the path to where
+   Raika/Higure is.
+2) Talk to them.
+
+Cut-Scene
+
+3) Talk to the Guy behind the
+   desk.
+4) Now head back and head down
+   the stairs.
+5) Plug-In to the statue.
+
+-----------
+End Area 2
+-----------
+
+1) Head to Area 3.
+
+-----------
+End Area 3
+-----------
+
+1) Remember that Pagoda? (The
+   castle looking temple) This
+   is the Communication System.
+   Head there.
+
+Cut-Scene
+
+2) Plug-Out.
+
+---------
+End City
+---------
+
+1) Head back to the Guy behind
+   the desk.
+2) Head inside.
+
+-------------------
+Chrysanthemum Room
+-------------------
+
+1) Head to the next room.
+
+----------
+Lily Room
+----------
+
+1) Head up the stairs and follow
+   the path.
+
+-------------------
+Chrysanthemum Room
+-------------------
+
+1) Follow the path and up the
+   stairs.
+
+-------------
+Castle Tower
+-------------
+
+1) Head out of here.
+
+Note: Anyone know the name to
+this place? The name of this
+place is really off
+ you know.
+
+---------------------
+Outside Castle Tower
+---------------------
+
+1) Follow the path and into
+   another door.
+
+-------------
+Castle Tower
+-------------
+
+1) Head up the stairs and follow
+   the path.
+
+---------------------
+Outside Castle Tower
+---------------------
+
+1) Head up the roof to the
+   Golden Dragon Fishes.
+2) Examine the right one's eyes.
+
+Cut-Scene
+
+You get the Text Data and the
+Old Key Data.
+
+3) Head to the other one.
+4) Examine the back of it to get
+   a HP Memory.
+5) Head to your Room.
+
+Outside Castle Tower >>> Castle
+Tower >>> Outside Castle Tower
+>>> Castle Tower >>>
+Chrysanthemum Room >>> Lily Room
+>>> Chrysanthemum Room >>> End
+City >>> Map Screen >>>
+Akiharachou >>> Netto's House
+>>> Netto's Room
+
+-------------
+Netto's Room
+-------------
+
+1) Plug-In to your Computer.
+
+-----------
+Netto's HP
+-----------
+
+1) Head to Akihara Area 3.
+
+Netto's HP >>> Akihara Area 1
+>>> Akihara Area 2 >>> Akihara
+Area 3
+
+---------------
+Akihara Area 3
+---------------
+
+1) Follow the path to a split.
+2) Take the North-West path into
+   a 3x3 square. This is where a
+   Bonus Panel is in the
+   Liberate Mission.
+3) Now head in the middle square
+   and walk to the North-East.
+4) Examine that area.
+
+Cut-Scene
+
+The Old Key Data reacts and
+opens a door.
+
+5) Head through the door.
+
+------------------------
+Past Vision Akiharachou
+------------------------
+
+Cut-Scene
+
+1) Talk to everyone here.
+   Including the Dog.
+
+Cut-Scene
+
+2) Save. Talk to the Heel Navi
+   in front of Netto's House.
+
+*******
+Battle
+*******
+
+3) Now head to Yaito's future
+   House.
+4) To the left of her House is
+   another Heel Navi.
+5) Talk to him.
+
+*******
+Battle
+*******
+
+6) Now head to Dekao's future
+   House.
+7) Talk to the Heel Navi here.
+
+*******
+Battle
+*******
+
+8) Now head to where the Metro
+   would be.
+
+*******
+Battle
+*******
+
+9) Head to where Higureya will
+   be.
+10)Talk to the Heel Navi.
+
+*******
+Battle
+*******
+
+11)Talk to the Heel Navi to the
+left of Higureya's building.
+
+*******
+Battle
+*******
+
+Cut-Scene
+
+12)Head to the front of your
+house.
+
+Cut-Scene
+
+13)Head back to Akihara Area 3.
+
+---------------
+Akihara Area 3
+---------------
+
+1) Plug-Out.
+
+-------------
+Netto's Room
+-------------
+
+1) Head to the Command Room.
+
+Netto's Room >>> Netto's House
+>>> Akiharachou >>> Map Screen
+>>> Front of Kagakushou >>>
+Kagakushou Lobby >>> Main
+Operating Room >>> Command Room
+
+-------------
+Command Room
+-------------
+
+1) Talk to Enzan/Barrel.
+2) Now head home.
+
+Command Room >>> Main Operating
+Room >>> Kagakushou Lobby >>>
+Front of Kagakushou >>> Map
+Screen >>> Akiharachou >>>
+Netto's House >>> Netto's Room
+
+-------------
+Netto's Room
+-------------
+
+1) Sleep.
+
+Cut-Scene
+
+You get an E-mail.
+
+2) Head to End City.
+
+Netto's Room >>> Netto's House
+>>> Akiharachou >>> Map Screen
+>>> End City
+
+---------
+End City
+---------
+
+1) Plug-In to the Statue.
+
+-----------
+End Area 2
+-----------
+
+1) Head to Area 3.
+
+-----------
+End Area 3
+-----------
+
+1) Go examine the Communication
+   System.
+
+Cut-Scene
+
+---------
+End City
+---------
+
+1) Head inside the Castle.
+
+-------------------
+Chrysanthemum Room
+-------------------
+
+1) Head to the next room.
+
+----------
+Lily Room
+----------
+
+1) Examine the Hologram.
+2) Plug-In to the Katana display
+   in the East.
+
+------------
+Katana Comp
+------------
+
+1) Save. Talk to the Green Navi
+   in the middle of the area.
+
+*******
+Battle
+*******
+
+You get the Katana Data.
+
+2) Head to the North to a Blue
+   Mystery Data that contains a
+   HP Memory.
+3) Plug-Out.
+
+----------
+Lily Room
+----------
+
+1) Head to the room before this
+   one.
+
+-------------------
+Chrysanthemum Room
+-------------------
+
+1) Examine the Armor to your
+   right to get a Regular Up +1.
+2) Plug-In to the 3rd Armor from
+   the left. Or the 2nd Armor
+   from the right, which ever
+   works for you.
+
+-----------
+Armor Comp
+-----------
+
+1) Save. Talk to the Green Navi
+   in the middle of the area.
+
+*******
+Battle
+*******
+
+You get the Armor Data.
+
+2) Head to the West to get a
+   Blue Mystery Data that
+   contains a HP +100 (Yellow).
+3) Plug-Out.
+
+-------------------
+Chrysanthemum Room
+-------------------
+
+1) Plug-In to the 1st Helmet
+   from the left.
+
+------------
+Helmet Comp
+------------
+
+1) Save. Talk to the Green Navi
+   in the middle of the area.
+
+*******
+Battle
+*******
+
+You get the Helmet Data. You
+know this reminds me of those
+Keys you get in the Mansion in
+Resident Evil...too bad there's
+no Shield Data.
+
+2) Head to the East to get to a
+   Blue Mystery Data that
+   contains a Regular Up +2.
+3) Plug-Out.
+
+-------------------
+Chrysanthemum Room
+-------------------
+
+1) Head to the Lily Room.
+
+----------
+Lily Room
+----------
+
+1) Examine the Hologram.
+2) Follow the path.
+
+-------------------
+Chrysanthemum Room
+-------------------
+
+1) Examine the big statue.
+2) Take the Wooden Sword and
+   start the 100 Man-Cut Mini
+   Game. Now let me tell you
+   this. This is where most be
+   standing in the middle, an
+   every direction.(Up, Right, D
+   the Wooden Sword you just got
+   come at you. Now why do peopl
+   that's broken. The handheld s
+   Game Boy Advance is fine. Any
+   Pad is big and fat. So it act
+   move. The problem is for thos
+   and the DS Lite. Looking at t
+   move down there is a chance i
+   before that. It's hard, but j
+   took me 7 tries to do it. Luc
+3) When you are done with that
+   Mini Game, follow the path.
+
+-------------
+Castle Tower
+-------------
+
+1) Head to the roof of this
+   place.
+
+Castle Tower >>> Outside Castle
+Tower >>> Castle Tower >>>
+Outside Castle Tower
+
+---------------------
+Outside Castle Tower
+---------------------
+
+Cut-Scene
+
+1) Head up to the top.
+2) Plug-In to the Golden Dragon
+   Fish to the left.
+
+------------------
+Shachihoko Comp 1
+------------------
+
+I'm going to say this...most
+annoying level in the game. If
+you thought the last three were
+annoying, you haven't tasted
+annoying. This place is like
+Ancient Japan. In Ancient Japan
+there were Ninjas!!! Ninjas are
+in this area. I'm not joking.
+The Program Dudes are Ninjas,
+the viruses are Ninjas. The
+traps here are made by Ninjas.
+Why didn't Capcom make Shadowman
+the boss here? He's a Ninja. Oh
+well. Back to topic, this place
+is going to give you a headache
+if you don't use a guide. This
+place is going to give a
+headache to the person who's
+writing this guide...me. Ahh try
+to follow everything I say.
+
+In this area, there are 3 types
+of traps. There are also 3 types
+of Ninjas. You must bring the
+right Ninja to the right Trap.
+If they correspond, then the
+Ninja will help you through the
+trap. Here are the rules for
+Ninjas.
+
+********
+Rule #1
+********
+
+If you're running with a Ninja
+and you touch another Ninja that
+is different color, the Ninjas
+will swap. Leaving the Ninja you
+had behind.
+
+Example: You're running with a
+Red Ninja, and you touch a White
+Ninja. The Red
+  Ninja will stand where the Whi
+  follow you from there.
+
+********
+Rule #2
+********
+
+If you're running with a Ninja
+and you touch another Ninja that
+is the same color as the one you
+have, that Ninja will also
+follow you. Up to 3 Ninjas will
+follow you.
+
+Example: You're running with a
+Blue Ninja, and you touch a Blue
+Ninja. The Blue Ninja will also
+follow you.
+
+********
+Rule #3
+********
+
+When you're running with two or
+more Ninjas and you touch
+another Ninja that is another
+color, the one following in you
+in front will stay and the one
+that you just touched will
+follow you from the back.
+
+Example: You're running with 2
+White Ninjas, and you touch a
+Red Ninja. The
+  White Ninja in front will stay
+  the back.
+
+Cut-Scene
+
+1) Start by running foward. Talk
+   to the Program Dude for more
+   information.
+2) Head to the left at the
+   split.
+3) Follow the path to a Red
+   Ninja. Touch it to make it
+   follow you.
+4) Head back to the split.
+5) Follow the right path to
+   another split.
+6) Head to the left to your
+   first trap.
+
+Cut-Scene
+
+7) Tight!!! Now touch the White
+   Ninja right by you.
+8) Take the right path at the
+   split.
+9) Take the transporter.
+10)Follow the path to the West.
+Then to the North to a split.
+11)Take the obvious path. First
+head to the North-East and
+follow this path to
+   a Blue Mystery Data that cont
+12)Head back to the split and
+take the other path to another
+trap.
+
+Cut-Scene
+
+13)He can Jump!!! Follow the
+path until you see a Blue Ninja.
+14)This part is a little
+confusing. Get the White Ninja
+to follow you. 15)Now head to
+the Blue Ninja to switch them.
+16)Now follow the path to a Red
+Ninja. Switch them and head to
+the North-West
+   to a transporter.
+17)Now follow the path back to
+where you were with the White
+Ninja. 18)Head to where the Blue
+Ninja is and switch. After
+switching head to the
+   North-East.
+19)Switch the Blue Ninja with
+the White Ninja here. 20)Now go
+around the square thing back to
+the Blue Ninja and switch.
+21)Follow the path to another
+trap.
+
+Cut-Scene
+
+22)Huh that looked like the same
+move the Red Ninja does. I guess
+the Red
+   Ninja can't run over water. A
+   It all makes sense...follow t
+23)Follow the path to a Blue
+Ninja and switch. 24)Go around
+the square and switch again.
+25)Follow the path to a White
+Ninja. Switch with the White
+Ninja and head to
+   the North-West and follow thi
+   HP Memory.
+26)Head back and switch with the
+Red Ninja and head to the North-
+East to the
+   final trap of this area.
+
+Cut-Scene
+
+27)Head to the next area.
+
+------------------
+Shachihoko Comp 2
+------------------
+
+1) Follow the path to a split.
+2) Take the leftmost path.
+3) Follow the path to a Blue
+   Ninja. Make him follow you.
+4) Now head to the North-West to
+   a White Ninja. Switch.
+5) Follow the path to the East
+   to a trap.
+
+Cut-Scene
+
+6) Follow the path until you see
+   a transporter.
+7) Head South without touching
+   any Ninjas on the way. There
+   should be a Blue Mystery Data
+   here that contai
+8) You should also see a Blue
+   Ninja right by you. Touch him
+   and head to the South to
+   switch with a Red Ni
+9) Now head to the North-East to
+   another Blue Ninja. Switch
+   again and follow the path to
+   a White Ninja.
+10)Switch with this White Ninja
+and take the transporter.
+11)Head back to where you left
+the Red Ninja. 12)Switch again
+and follow the path to the Blue
+Ninja. Switch and head to the
+   East to the transporter here.
+13)Now switch again with the Red
+Ninja. Now you should have the
+Red Ninja in
+   the end.
+14)Follow the path to a trap.
+
+Cut-Scene
+
+15)Now follow the path to a
+split.(Not the one with the
+transporter) 16)Follow the path
+which ever way you want to a
+Blue Ninja. 17)Now head to the
+left transporter. 18)Head to the
+North-West to pass the Red
+Ninjas and head to the South
+from
+   here to get to a trap.
+
+Cut-Scene
+
+19)Take the White Ninja here to
+the North to a transporter.
+20)You should soon meet with a
+Red Ninja. Switch. 21)Follow the
+path to another transporter.
+22)Head South and take the
+transporter. 23)Remember this
+place? Well head to the left
+transporter again. 24)Take the
+transporter in the North.
+25)Follow the path back to the
+White Ninja. Switch once again.
+26)Head to the transporter and
+head to the East around the Red
+Ninjas and head
+   to the North to another trap.
+
+Cut-Scene
+
+27)Follow the path to a
+transporter. 28)Follow the path
+to a Blue Mystery Data that
+contains a Mega Energy Bomb C.
+29)Now head back to the place
+after the trap. 30)Follow the
+path and head to the South to a
+Red Ninja. 31)Head to the East
+and switch with the Blue Ninja.
+32)Head to the North-East and
+switch with the White Ninja.
+33)Head to the West then to the
+South to switch with the Red
+Ninja. 34)Now head to the South-
+East to encounter another White
+Ninja. 35)Switch and head to the
+North to switch with the Blue
+Ninja. 36)Head back to where the
+Red Ninja is and switch. 37)Now
+head South-East to find another
+Red Ninja. 38)There should be 2
+Red Ninjas following you now.
+Head to the North and
+   follow the path to the last t
+
+Cut-Scene
+
+39)That is so cool!!! Follow the
+path to Area 3. Getting a
+Headache yet?
+
+------------------
+Shachihoko Comp 3
+------------------
+
+1) Follow the path until you get
+   to a transporter.
+2) Follow the next steps
+   carefully. Head to the East
+   and follow to meet with a
+   Blue Ninja.
+3) Make him follow you and take
+   the transporter.
+4) Now follow the path to the
+   North to meet another Blue
+   Ninja. Do NOT make him follow
+   you.
+5) Run around him to another
+   area with transporters.
+6) Head to the South-East until
+   you see a White Ninja. Take
+   him and follow the path to a
+   Blue Mystery Data t where you
+   got the White Ninja
+7) Take the transporter facing
+   to the South-West to a Red
+   Ninja. Switch.
+8) Take the transporter right
+   next to you.
+9) Head to the West and get on
+   the transporter. Back to
+   where we started.
+10)Head to the left and switch
+with the White Ninja. 11)Follow
+the path to the South-East to
+switch with a Red Ninja. 12)Head
+back to the other Red Ninja. Now
+you should have 2 Red Ninjas
+with you
+   for your hard work.
+13)Head back to where all those
+transporters are without
+touching any other
+   Ninjas on the way.
+14)Head to where that White
+Ninja is. 15)This time take the
+transporter facing to the North-
+East. 16)Head to the North-West
+while passing other Ninjas to
+get to a trap.
+
+Cut-Scene
+
+17)At the split take the path
+heading to the South and follow
+the path to a
+   trap.
+18)It seems we need 2 Blue
+Ninjas. Follow the path right
+next to you to a
+   split.
+19)Take the middle path to a
+White Ninja. 20)Head East at the
+next split to a Red Ninja.
+Switch. 21)Take the transporter.
+22)Follow the path to the West
+to a White Ninja. Switch.
+23)Switch with the Red One to
+the left. 24)Now head South to
+come back to the split. 25)Head
+to the East to the White Ninja.
+Switch. 26)Take the transporter.
+27)Follow the other path to a
+trap.
+
+Cut-Scene
+
+28)To the South of the trap is a
+Blue Mystery Data that contains
+a HP Memory. 29)Head to the
+North to get a Blue Ninja.
+30)Now head back to the trap and
+follow the path to the Red
+Ninja. Switch. 31)Switch with
+the White Ninja right next to
+you. 32)Now head South to come
+back to the split. 33)Head to
+the East to the Red Ninja.
+Switch. 34)Take the transporter.
+35)Follow the path to the West
+to switch with the Blue Ninja.
+36)Take the transporter right
+next to you. 37)From where you
+are standing head to the South-
+West and follow the path to a
+   transporter.
+38)Take it and take the other
+Blue Ninja to get 2 Blue Ninjas
+following you. 39)Head back to
+the trap.
+
+Cut-Scene
+
+40)Head to Area 4.
+
+------------------
+Shachihoko Comp 4
+------------------
+
+This area is a pain in the
+ass!!! Make sure you are
+following the guide or you're
+screwed.
+
+1) Head foward to a split.
+2) Take the right path, but
+   don't go on the transporter.
+   Keep following the path to
+   the West.
+3) Don't touch the White Ninja.
+   Keep following the path to a
+   Red Ninja.
+4) Now head to the transporter
+   you didn't take. Without
+   touching other Ninjas.
+5) Swap with the White Ninja and
+   take the transporter.
+6) Take the right path to a
+   transporter.
+7) You're back to the beginning
+   of the area.
+8) Follow the path back to the
+   transporter you took in Step
+   4.
+9) Swap with the Red Ninja and
+   take the transporter.
+10)Take the other path you
+didn't take to a area with a
+White Ninja and a Blue
+   Ninja.
+11)Swap with the White Ninja.
+12)Now swap with the Blue Ninja
+heading to the North-East.
+13)Now go switch the Blue Ninja
+with the Red Ninja. 14)Keep
+following the path to another
+area with a White Ninja and a
+Blue Ninja
+   waiting.
+15)Switch with the White Ninja.
+16)Now take the transporter in
+the middle and switch back with
+the Red Ninja. 17)Follow the
+path to the South to get to
+another Red Ninja. Now you have
+2. 18)Take the other path to a
+transporter. 19)Head to the
+North-East until you get to a
+Blue Ninja. 20)Run around him
+and keep heading to the North-
+East. 21)At the last corner,
+turn to get your 3rd Red Ninja.
+22)Run back to where the Blue
+Ninja is. 23)Head to the West
+directly from there to get to a
+trap.
+
+Cut-Scene
+
+24)Wow...follow the path to a
+long transporter. 25)Follow the
+path to see a trap. That's the
+last trap you have to get
+through
+   just so you know. Now take th
+   transporter.
+26)Follow the path to a split.
+27)Take the North-West path and
+head South at the split. 28)Keep
+following the path to a
+transporter without touching any
+of the Ninjas
+   around you.
+29)Head South-West and then to
+the North-West to a White Ninja.
+Make him
+   follow you.
+30)Head to the South-East. There
+should be a Red Ninja and a
+transporter here. 31)Head to the
+South-West and switch with the
+Red Ninja. 32)Go around the
+square to switch with the White
+Ninja. 33)Head to the West to a
+transporter. 34)Follow the path
+to a Red Ninja. Switch. 35)Head
+to the West to a Blue Mystery
+Data that contains an Iai Form
+R. 36)Head back to the White
+Ninja and switch. 37)Follow the
+path to the East then to the
+South to meet your last White
+Ninja
+   in your life. Unless you're g
+38)Head back a corner to the
+trap.
+
+Cut-Scene
+
+39)Man they know how to jump.
+Touch the Blue Ninja to make him
+follow you. 40)Head back to
+where the Iai Form was.
+41)Switch with the Red Ninja and
+run around the square to switch
+again. 42)Take the next
+transporter you see. 43)Follow
+the path and switch with the Red
+Ninja. Now switch again by
+running
+   around the square.
+44)Head to the North-East to an
+area with a transporter and a
+Red Ninja. 45)Go North-East from
+there to another area with a
+transporter with a Red
+   Ninja.
+46)To the right of the Red Ninja
+is a path that takes you to
+another Blue
+   Ninja. That's 2 Blue Ninjas.
+47)Head back to the area with
+the transporter and the Red
+Ninja. Head to the
+   North-West from here to a tra
+48)Take the one that heads to
+the North-East. Follow the path
+to the
+   North-West to the last Blue N
+49)Head to the transporter to
+the East from here. 50)Follow to
+the East more to another
+transporter. 51)Head to the
+trap.
+
+Cut-Scene
+
+52)Stop. You now have a choice.
+You can keep following my guide
+to go get a
+   Regular Up +2, or you can jus
+   that Regular Up +2 if I were 
+53)Remember where you got the
+2nd Blue Ninja? Head there. Oh
+no more Ninjas. 54)Now from
+there head to the North-West to
+a transporter. Don't take the
+   first one you see. There's an
+55)Head to the West to a Blue
+Mystery Data that contains the
+Regular Up +2. 56)Now head back
+to the trap that we just
+finished. 57)Save. Follow the
+newly opened path. Finally we're
+done!!!
+
+Cut-Scene
+
+********************************
+Boss- Searchman
+********************************
+
+HP: 800 Element: Normal
+Recommended Chips: Invisible,
+Thunder Ball Reward: Searchman
+back on your side
+
+If you've played Exe 4 before,
+he's not the same. He threw his
+grendaes in 4, but in 5 he rolls
+them. The rest is the same. Turn
+into Magnet Soul. Just keep
+using your Charge Shot. It'll
+make him paralyze. Just keep
+using chips after paralyzing
+him. This makes this battle
+really easy. Just make sure not
+to get hit by his Search
+Grenades. Charge while moving.
+
+********************************
+Boss- Searchman
+********************************
+
+********************************
+Boss- Numberman
+********************************
+
+HP: 600 Element: Normal
+Recommended Chips: Invisible,
+Blind, Yo Yo, Vulcan Reward:
+Numberman back on your side
+
+If you've played Exe, or 4 you
+know how he fights. He sends
+Number Balls with different
+numbers on them. You must do the
+damage that's on the ball before
+it hits you to get away from its
+explosion. He also has Number
+Traps. You step on the switch
+and it'll activate. If you use
+Blind, all of his Number Balls
+and Dice Bomb will only be 1.
+
+********************************
+Boss- Numberman
+********************************
+
+Cut-Scene
+
+---------------------
+Outside Castle Tower
+---------------------
+
+1) Head to End City. (Yeah it's
+   wierd, you're already in End
+   City)
+
+Outside Castle Tower >>> Castle
+Tower >>> Outside Castle Tower
+>>> Castle Tower >>>
+Chrysanthemum Room >>> Lily Room
+>>> Chrysanthemum Room >>> End
+City
+
+---------
+End City
+---------
+
+1) Go Plug-In to the statue.
+
+-----------
+End Area 2
+-----------
+
+1) Head to End Area 4.
+
+End Area 2 >>> End Area 3 >>>
+End Area 4
+
+-----------
+End Area 4
+-----------
+
+1) Head to that huge door.
+
+Cut-Scene
+
+2) Save. When you're ready head
+   through.
+
+================================
+4. j. Liberate Mission 5 Lbm5
+================================
+--------------------------------
+End Area 5 /
+-----------
+              / \
+***********************         
+Target Clear Phase- 9 /_ _\
+***********************         
+    _ _ _ _ _ _ _ _ _  | |_
+X- Dark Panel                   
+W- 2 Order Points
+|_|X|X|H|T|X|X|X|_| |_ |_ O- 3
+Order Points |_|V|P|X|X|X|D|X|_|
+|_ |_
+Q- 800 Zennys                   
+U- 1000 Zennys
+|_|T|X|X|B|X|P|X|_| |_ _ _ |
+V- 1200 Zennys                  
+Y- 1800 Zennys
+|_|X|X|X|W|X|X|X|_| |X|X|X| Z-
+2500 Zennys |_|X|X|M|X|X|X|M|_|
+|X|C|X|
+H- Recovery 500                 
+A- Mark Cannon 2 D |2|2|_
+|3|3|3|3|
+E- Kakigenkin K                 
+F- Met Guard 2 B
+****************
+|_|X|D|X|X|X|B|X|X| P- Bonus
+Panel Boss- Cosmoman
+|_|X|R|X|M|K|D|X|
+1- Barrier 1             *******
+2- Barrier 2                    
+3- Barrier 3                    
+I- Barrier Key 1 |X|X|X|
+_|_|_|X|X|_|_|_|T|X|O|_| N-
+Barrier Key 2 |M|_
+_|_|_|X|F|G|M|_|_|X|M|X|_| S-
+Barrier Key 3
+|_|X|X|X|X|T|X|D|X|X|_|X|X|_| K-
+Bug Piece |T|B|X|P|X|X|U|X|X|X|
+T- 50 Damage                    
+M- Paralyze                     
+D- Darkness Hole                
+G- Garu-Beast 2                 
+R- Roy-Hawk 2                   
+B- Bloodia                      
+C- Cosmoman                     
+            |_|_|_|
+********                        
+Prizes                          
+********                        
+--------------------------------
+| Clear Phase | Item |
+--------------------------------
+| 1 ~ 7 | Cosmoman SP C | | 8 ~
+9 | Cosmoman C | | 10 ~ 99 |
+5000 Zennys |
+--------------------------------
+
+********************************
+Chips you can get from the Bonus
+Panel
+********************************
+
+Long Blade P
+Drill Arm 2 L
+Tsunami Hole E
+Stealth Mine H
+
+********************************
+      Participating Navis
+********************************
+ -------------------------------
+| Team of Blues | Team of
+Colonel |
+ -------------------------------
+| Rockman HP: --- Chp: --- Chg:
+-- | Rockman HP: --- Chp: ---
+Chg: --- |
+ -------------------------------
+| Blues HP: 450 Chp: 120 Chg: 80
+| Colonel HP: 450 Chp: 120 Chg:
+70 |
+ -------------------------------
+| Magnetman HP: 600 Chp: 100
+Chg: 50 | Knightman HP: 600 Chp:
+100 Chg: 100 |
+ -------------------------------
+| Napalmman HP: 350 Chp: 100
+Chg: 5 | Tomahawkman HP: 350
+Chp: 100 Chg: 60 |
+ -------------------------------
+| Searchman HP: 300 Chp: 100
+Chg: 10 | Numberman HP: 300 Chp:
+120 Chg: 10 |
+ -------------------------------
+  Chp- Their own Chip           
+
+================================
+4.     k. Scenario 6            
+================================
+
+------------
+Akiharachou
+------------
+
+Cut-Scene
+
+1) Head to the Command Room.
+
+Akiharachou >>> Map Screen >>>
+Front of Kagakushou >>>
+Kagakushou Lobby >>> Main
+Operating Room >>> Command Room
+
+-------------
+Command Room
+-------------
+
+1) Talk to Enzan/Barrel.
+
+Cut-Scene
+
+2) Head to your Room.
+
+Command Room >>> Main Operating
+Room >>> Kagakushou Lobby >>>
+Front of Kagakushou >>> Map
+Screen >>> Akiharachou >>>
+Netto's House >>> Netto's Room
+
+-------------
+Netto's Room
+-------------
+
+1) Plug-In.
+
+-----------
+Netto's HP
+-----------
+
+1) Head to Past Vision
+   Akiharachou.
+
+Netto's HP >>> Akihara Area 1
+>>> Akihara Area 2 >>> Akihara
+Area 3 >>> Past Vision
+Akiharachou
+
+------------------------
+Past Vision Akiharachou
+------------------------
+
+1) Head to the back of your
+   House.
+
+Cut-Scene
+
+2) Head back to Akihara Area 3.
+
+---------------
+Akihara Area 3
+---------------
+
+1) Plug-Out.
+
+-------------
+Netto's Room
+-------------
+
+1) Head downstairs.
+
+--------------
+Netto's House
+--------------
+
+1) Go talk to your Mom.
+
+Cut-Scene
+
+You get Gau's Picture.
+
+You get a E-mail that contains
+the Shachihoko Castle's P Code.
+
+2) Head to the Abandoned Mine.
+
+Netto's House >>> Akiharachou
+>>> Map Screen >>> Oran Isle >>>
+Abandoned Mine
+
+---------------
+Abandoned Mine
+---------------
+
+1) Head to the South of this
+   place to a place with junk.
+2) Examine it to get a Regular
+   Up +1.
+3) Now head North and go up the
+   hill.
+4) Talk to the guy.
+
+Cut-Scene
+
+5) Now head into the Mine from
+   the bottom floor.
+
+--------------------------
+Abandoned Mine Interior 1
+--------------------------
+
+1) Head to the Elevator.
+2) Get on.
+
+--------------------------
+Abandoned Mine Interior 2
+--------------------------
+
+1) Head out from here.
+
+---------------
+Abandoned Mine
+---------------
+
+1) Head to the other entrance.
+
+--------------------------
+Abandoned Mine Interior 3
+--------------------------
+
+1) Head down the hill all the
+   way and exit.
+
+---------------
+Abandoned Mine
+---------------
+
+1) Follow the path to a guy.
+2) Talk to him and buy the
+   Nebula ID for 3000 Zennys.
+3) Now head back to the
+   Abandoned Mine Interior 1.
+
+Abandoned Mine >>> Abandoned
+Mine Interior 3 >>> Abandoned
+Mine >>> Abandoned Mine Interior
+2 >>> Abandoned Mine Interior 1
+
+--------------------------
+Abandoned Mine Interior 1
+--------------------------
+
+1) Head to the split.
+2) Head up the hill and exit.
+
+---------------
+Abandoned Mine
+---------------
+
+1) Plug-In to the speaker.
+
+-----------------
+Oran Isle Area 1
+-----------------
+
+1) Follow the path to the Navi.
+2) Talk to him.
+
+You get the Old P Code.
+
+3) Plug-Out.
+
+---------------
+Abandoned Mine
+---------------
+
+1) Head to the Command Room.
+
+Abandoned Mine >>> Oran Isle >>>
+Map Screen >>> Front of
+Kagakushou >>> Kagakushou Lobby
+>>> Main Operating Room >>>
+Command Room
+
+-------------
+Command Room
+-------------
+
+1) Plug-In to the Computer to
+   the left.
+
+----------------
+Kagakushou's HP
+----------------
+
+1) Follow the path. On the way
+   is a Program Dude that will
+   give you the Kagakushou
+   Banner.
+2) Take the warp.
+
+------------------
+Kagakushou Area 2
+------------------
+
+1) Head to the South.
+2) You remember this place
+   right? Head to Kagakushou
+   Area 3.
+
+------------------
+Kagakushou Area 3
+------------------
+
+1) Head to where Cloudman was in
+   Liberate Mission 3.
+2) To the left is a Security
+   Cube. Open it with the Old P
+   Code.
+3) Take the warp.
+
+------------------
+Old Terminal Comp
+------------------
+
+1) Take a left at the split.
+2) At the next split, take a
+   right to get to a Blue
+   Mystery Data that contains a
+   Regular Up +2.
+3) Keep following the path to a
+   warp.
+
+---------------
+Akihara Area 2
+---------------
+
+1) Follow the path to a Navi.
+2) Talk to him.
+
+Cut-Scene
+
+You get the Past Key Data.
+
+3) Plug-Out.
+
+-------------
+Command Room
+-------------
+
+1) Head to the Great Cavern.
+
+Command Room >>> Kagakushou
+Lobby >>> Front of Kagakushou
+>>> Map Screen >>> Oran Isle >>>
+Abandoned Mine >>> Abandoned
+Mine Interior 1 >>> Abandoned
+Mine Interior 2 >>> Abandoned
+Mine >>> Abandoned Mine Interior
+3 >>> Abandoned Mine >>>
+Abandoned Mine Interior 4 >>>
+Abandoned Mine >>> Abandoned
+Mine Interior 7 >>> Abandoned
+Mine Interior 8 >>> Great Cavern
+
+-------------
+Great Cavern
+-------------
+
+1) Plug-In to the Rock Drlling
+   Comp 4.
+
+---------------------
+Rock Drilling Comp 4
+---------------------
+
+1) Remember in Scenario 2 when
+   you had to use the Suspension
+   Key? Head there. It's at the
+   end of the area.
+
+Cut-Scene
+
+2) Head through the door.
+
+----------------------
+Past Vision Oran Isle
+----------------------
+
+Cut-Scene
+
+1) Talk to everyone here.
+
+Cut-Scene
+
+2) Now head to where the Bamboo
+   Trees are.
+
+Cut-Scene
+
+---------------
+Abandoned Mine
+---------------
+
+1) Head to the Command Room.
+
+Abandoned Mine >>> Oran Isle >>>
+Front of Kagakushou >>>
+Kagakushou Lobby >>> Main
+Operating Room >>> Command Room
+
+-------------
+Command Room
+-------------
+
+1)Plug-In.
+
+----------------
+Kagakushou's HP
+----------------
+
+1) Save.
+2) Follow the path.
+
+Cut-Scene
+
+*********
+Battle 1
+*********
+
+*********
+Battle 2
+*********
+
+*********
+Battle 3
+*********
+
+Cut-Scene
+
+-------------
+Command Room
+-------------
+
+1) Talk to Enzan/Barrel.
+
+Cut-Scene
+
+You get a E-mail from Meiru.
+Read it to get Roll SP R.
+
+2) Head to Higureya.
+
+Command Room >>> Main Operating
+Room >>> Kagakushou Lobby >>>
+Front of Kagakushou >>> Map
+Screen >>> Akiharachou >>>
+Higureya
+
+---------
+Higureya
+---------
+
+1) Talk to Higure.
+2) Head to End City.
+
+Higureya >>> Akiharachou >>> Map
+Screen >>> End City
+
+---------
+End City
+---------
+
+1) Head to the Statue and Plug-
+   In.
+
+-----------
+End Area 2
+-----------
+
+1) Head to Area 3.
+
+-----------
+End Area 3
+-----------
+
+1) Head to the Communication
+   System.(Castle)
+2) Go behind it and examine.
+
+You get the Data File.
+
+3) Plug-Out.
+
+---------
+End City
+---------
+
+1) Head to Higureya.
+
+End City >>> Map Screen >>>
+Akiharachou >>> Higureya
+
+---------
+Higureya
+---------
+
+1) Talk to Higure.
+
+Cut-Scene
+
+---------------------
+Higureya Secret Base
+---------------------
+
+Cut-Scene
+
+Cut-Scene
+
+1) Head to the left to the
+   Computers.
+2) Examine them to get a HP
+   Memory.
+3) Now head to where the boxes
+   are.
+4) Behind the boxes is a path.
+   Head to the end and Plug-In.
+
+------------------
+Old Computer Comp
+------------------
+
+1) Head to the West to get to a
+   Blue Mystery Data that
+   contains a Regular Up +1.
+2) Head to the East to a Blue
+   Mystery Data that contains a
+   Spin Pink.
+3) Plug-Out.
+
+---------------------
+Higureya Secret Base
+---------------------
+
+1) Head to End City.
+
+Higureya Secret Base >>>
+Higureya >>> Akiharachou >>> Map
+Screen >>> End City
+
+---------
+End City
+---------
+
+1) Head to the Statue and Plug-
+   In.
+
+-----------
+End Area 2
+-----------
+
+1) Head to Area 5.
+
+-----------
+End Area 5
+-----------
+
+1) Head to where Cosmoman was in
+   Liberate Mission 5.
+
+Cut-Scene
+
+---------------------
+Higureya Secret Base
+---------------------
+
+Cut-Scene
+
+1) Head to your Room.
+
+Higureya Secret Base >>>
+Higureya >>> Akiharachou >>>
+Netto's House >>> Netto's Room
+
+-------------
+Netto's Room
+-------------
+
+1) Sleep.
+
+Cut-Scene
+
+2) Head to End City.
+
+Netto's Room >>> Netto's House
+>>> Akiharachou >>> Map Screen
+>>> End City
+
+---------
+End City
+---------
+
+1) Head to the Statue and Plug-
+   In.
+
+-----------
+End Area 2
+-----------
+
+1) Head to Area 5.
+
+-----------
+End Area 5
+-----------
+
+1) Head to where Cosmoman was in
+   Liberate Mission 5.
+2) Follow the newly opened
+   pathto the Ura Internet.
+
+---------------
+Ura Internet 1
+---------------
+
+Welcome to the Ura Internet.
+Home to the Evil Navis, home to
+the Evil Viruses, and the
+entrance to the Nebula Hole.
+Well you get what I'm getting
+to? It's going to be tough from
+here. Especially now, because
+there are Corpse Candles flying
+everywhere in this area. If one
+attaches to you and you run into
+battle there are side effects.
+Your HP may deplete every
+second, when you move a crack
+will appear in your side of the
+field, or Rockman will start the
+battle in Fear mode. Meaning you
+can't Soul Unison at once. So
+Save often.
+
+1) Follow the path to the 2nd
+   hill.
+2) Go up the hill to a Net
+   Merchant.
+3) Buy 3 Open Locks. You should
+   have Zennys because I haven't
+   told you to buy anything else
+   for awhile.
+4) Now head back to the first
+   hill you passed.
+5) Go up this hill and follow
+   the path to a transporter.
+6) Take it and go down the hill.
+7) Don't go up the 1st hill you
+   see. Keep following the path
+   to another hill.
+8) Go up this one and take the
+   transporter.
+9) Go up the hill and follow the
+   path down another hill.
+10)Then another hill. 11)You now
+have a choice. You can get a
+Blue Mystery Data, but you'll
+have to
+   repeat steps 4~10 again. I wo
+   Then follow the path to a Blu
+   (White). Worth it? Now take t
+   steps 4~10 again.
+12)Follow the path and up
+another hill. 13)Then another.
+14)Take the transporter. 15)Go
+down the next hill. 16)Go up the
+next hill you see to a Blue
+Mystery Data that contains a
+   HP Memory.
+17)Now head back to the
+transporter. 18)Go up the hill
+to the left to Ura Internet 2.
+
+---------------
+Ura Internet 2
+---------------
+
+1) Take the transporter.
+2) Follow the path to the left
+   to a warp.
+3) Head to the West from here to
+   a path that leads you to a
+   Blue Mystery Data that
+   contains a Regular Up +3
+4) Head back to where the warp
+   is.
+5) Now head to the North to
+   another path. Stop at the
+   split.
+6) Head to the South-East path
+   and follow the path to
+   another warp.
+7) Take the warp.
+8) Follow the North-West path to
+   a Purple Mystery Data. It
+   contains a Neo Variable Sword
+   V.
+9) Now head back to the warp.
+10)Follow the path to another
+warp. 11)Go up the hill and
+follow the path to go down a
+hill. 12)Head to the East and
+there should be a Heel Navi
+nearby. 13)Talk to him and buy
+Roll DS R for 3000 Zennys.
+14)Follow the path to the North
+to Ura Internet 3.
+
+---------------
+Ura Internet 3
+---------------
+
+1) Take the left path and head
+   straight to a transporter.
+   Take it.
+2) Now take the transporter
+   right next to you.
+3) To the South is another
+   transporter that's facing to
+   the South-East.
+4) After taking the transporter
+   head to the West to a Purple
+   Mystery Data that contains a
+   Expansion Memory.
+5) Now head to the East and take
+   the transporter here.
+6) Follow the path to another
+   transporter.
+7) Take the North transporter.
+8) Take the transporter right
+   next to you.
+9) Head to the West to another
+   transporter.
+10)Follow the path to a hill.
+11)Save. Go up the hill and
+follow the path when you're
+ready.
+
+Cut-Scene
+
+********************************
+Boss- Medi
+********************************
+
+HP: 900 Element: Normal
+Recommended Chips: Area Steal,
+Bubble Wrap Reward: Medi in your
+team
+
+Medi is a easy navi to delete. I
+did not even get hit on my first
+try of fighting her. I got the
+Bubble Wrap on my first turn and
+just used my chips. She's a
+really easy boss. She throws
+Capsules at you. When they land,
+they point in the direction they
+explode. Not hard.
+
+********************************
+Boss- Medi
+********************************
+
+********************************
+Boss- Toadman
+********************************
+
+HP: 700 Element: Aqua/Elec
+Recommended Chips: Thunder Ball,
+Cloudman Reward: Toadman in your
+team
+
+Toadman is actually Aqua
+elemented, but one of his
+attacks are Elec elemented.
+Meaning that they will paralyze
+you if you get hit. It's called
+the Shocking Melody. He sends a
+Musical Note (Eigth Note) at
+you. Not hard to dodge. Another
+attack he uses is the Kero Kero
+Frog.(I thought he was a Toad?)
+He sends a Frog that jumps into
+your field and leaves. If you're
+going to use Cloudman, this is
+how you use it. Wait for Toadman
+to use his Kaeru Punch. (Frog
+Punch) You should also stand in
+the back row. He'll jump into
+your field in front of you to
+Punch you. USe the Cloudman at
+this moment to get 4 Clouds
+appear.
+
+********************************
+Boss- Toadman
+********************************
+
+Cut-Scene
+
+12)Save. Now head through to Ura
+Internet 4.
+
+================================
+4. l. Liberate Mission 6 Lbm6
+================================
+--------------------------------
+Ura Internet 4 /
+---------------
+               _
+***********************         
+Target Clear Phase- 10 _|X|X|X|_
+***********************         
+|X|X|X|      _ _ _ _       _ _ _
+X- Dark Panel                   
+W- 2 Order Points |X|X|X|
+_|P|X|M|X|H|X|_|X|X|X|X|I| O- 3
+Order Points |G|D|X|
+|_|X|O|X|V|X|X|_|X|B|H|X|_| Q-
+1000 Zennys |X|X|X|
+|X|E|B|S|X|M|X|_|X|X|X|X| U-
+1200 Zennys _|X|B|X| |K|X|D|X|W|
+|X|_|M| V- 1300 Zennys |X|X|X|_
+|X|X|X|X| _|X|_|X|_ Y- 1600
+Zennys |2|2|2|2|_ |1|1|_
+|P|X|X|X|X|
+Z- 2000 Zennys                  
+H- Recovery 600
+|X|X|X|X|_|_|_|_|_| |_|X|G|O|X|
+E- Hiraishin N
+|X|X|Z|X|X|_|_|_|_|_ |X|X|X|_ S-
+Space Yura 2 C
+|P|X|X|X|X|X|X|T|_|_| |X|Q|X|_|
+P- Bonus Panel |X|T|D|R|O|X|X|_|
+_|_|X|X|_|
+1- Barrier 1                    
+2- Barrier 2                    
+I- Barrier Key 1
+******************** |X|N|X|
+_|X|K|X|X|_|_| N- Barrier Key 2
+Boss- Dark Blues/
+_|_|_|X|D|X|_|X| K- Bug Piece
+Dark Colonel _|_|_|X|_|B|X|X|
+T- 50 Damage          **********
+M- Paralyze                     
+D- Darkness Hole |_|_|X|_|X|X|_|
+G- Garu-Beast 3                 
+R- Roy-Hawk 3                   
+B- Bloodia 3                    
+L- Dark Blues/Dark Colonel _
+_|START|
+         \ |   |_|_|_|
+*******                         
+Prizes
+*******
+--------------------------------
+| Clear Phase | Item |
+--------------------------------
+| 1 ~ 8 | Z Saber Z | | 9 ~ 10 |
+Blues B |
+|             | Colonel C       
+| 11 ~ 99 | 5000 Zennys |
+--------------------------------
+
+********************************
+Chips you can get from the Bonus
+Panel
+********************************
+
+Element Rage K
+Bamboo Lance *
+Death Match 3 O
+Bad Medecine P
+
+********************************
+      Participating Navis
+********************************
+ -------------------------------
+| Team of Blues | Team of
+Colonel |
+ -------------------------------
+| Rockman HP: --- Chp: --- Chg:
+-- | Rockman HP: --- Chp: ---
+Chg: --- |
+ -------------------------------
+| Gyroman HP: 400 Chp: 70 Chg:
+30 | Shadowman HP: 400 Chp: 100
+Chg: 100 |
+ -------------------------------
+| Napalmman HP: 400 Chp: 120
+Chg: 7 | Tomahawkman HP: 400
+Chp: 120 Chg: 80 |
+ -------------------------------
+| Searchman HP: 350 Chp: 100
+Chg: 10 | Numberman HP: 350 Chp:
+140 Chg: 20 |
+ -------------------------------
+| Medi HP: 300 Chp: 80 Chg: 80 |
+Toadman HP: 300 Chp: 100 Chg: 80
+|
+ -------------------------------
+  Chp- Their own Chip           
+
+================================
+4.     m. Scenario 7            
+================================
+
+--------------
+Netto's House
+--------------
+
+Cut-Scene
+
+1) Talk to your Mom.
+
+You get the Good Luck Charm.
+
+2) Head outside.
+
+------------
+Akiharachou
+------------
+
+Cut-Scene
+
+1) Head behind Meiru's House.
+2) Examine the tree right there.
+3) Plug-In.
+
+----------
+Tree Comp
+----------
+
+1) Head to the South.
+2) Then to the North-East to a
+   Blue Mystery Data to get a HP
+   Memory.
+3) Save.
+4) Head to the center area.
+
+Cut-Scene
+
+********************************
+Boss- Searchman V2
+********************************
+
+HP: 1000 Element: Normal
+Recommended Chips: Invisible,
+Thunder Ball Reward: Searchman
+back on your side
+
+You should already know how to
+fight this guy. He just got more
+HP and his attacks just do a
+little more damage.
+
+********************************
+Boss- Searchman V2
+********************************
+
+********************************
+Boss- Numberman V2
+********************************
+
+HP: 900 Element: Normal
+Recommended Chips: Invisible,
+Blind, Yo Yo, Vulcan Reward:
+Numberman back on your side
+
+You should already know how to
+fight this guy. He just got more
+HP and his attacks just do a
+little more damage.
+
+********************************
+Boss- Numberman V2
+********************************
+
+Cut-Scene
+
+------------
+Akiharachou
+------------
+
+1) Head to Higureya Secret Base.
+
+Akiharachou >>> Higureya >>>
+Higureya Secret Base
+
+---------------------
+Higureya Secret Base
+---------------------
+
+1) Talk to Enzan/Barrel.
+2) Head to Kagakushou Lobby.
+
+Higureya Secret Base >>>
+Higureya >>> Akiharachou >>> Map
+Screen >>> Front of Kagakushou
+>>> Kagakushou Lobby
+
+-----------------
+Kagakushou Lobby
+-----------------
+
+1) Head up the stairs.
+2) Head to the left to 2
+   machines.
+3) Plug-In to the right one.
+
+--------------
+Terminal Comp
+--------------
+
+1) Head to the West then to the
+   North-East to a Blue Mystery
+   Data that contains a Bug
+   Piece.
+2) Save.
+3) Now head to the center area.
+
+Cut-Scene
+
+********************************
+Boss- Magnetman V2
+********************************
+
+HP: 800 Element: Elec
+Recommended Chips: Area Steal,
+Drill Arm Reward: Magnetman back
+on your side
+
+You should already know how to
+fight this guy. He just got more
+HP and his attacks just do a
+little more damage.
+
+********************************
+Boss- Magnetman V2
+********************************
+
+********************************
+Boss- Knightman V2
+********************************
+
+HP: 900 Element: Normal
+Recommended Chips: Area Steal,
+Drill Arm, Gun Del Sol Reward:
+Knightman back on your side
+
+You should already know how to
+fight this guy. He just got more
+HP and his attacks just do a
+little more damage.
+
+********************************
+Boss- Knightman V2
+********************************
+
+Cut-Scene
+
+-----------------
+Kagakushou Lobby
+-----------------
+
+1) Now head to the Deck.
+
+Kagakushou Lobby >>> Front of
+Kagakushou >>> Luxurious Ship
+Platform >>> Corridor >>> Deck
+
+-----
+Deck
+-----
+
+1) Save. Head to where you were
+   about to fight Nenji/Dingo.
+
+Cut-Scene
+
+********************************
+Boss- Napalmman V2
+********************************
+
+HP: 1000 Element: Fire
+Recommended Chips: Air Hockey,
+Area Steal, Aqua Whirl,
+Blizzardman Reward: Napalmman
+back on your side
+
+You should already know how to
+fight this guy. He just got more
+HP and his attacks just do a
+little more damage.
+
+********************************
+Boss- Napalmman V2
+********************************
+
+********************************
+Boss- Tomahawkman V2
+********************************
+
+HP: 900 Element: Wood
+Recommended Chips: Fire Punch,
+Yo Yo, P.A Dream Sword Reward:
+Tomahawkman back on your side
+
+You should already know how to
+fight this guy. He just got more
+HP and his attacks just do a
+little more damage.
+
+********************************
+Boss- Tomahawkman V2
+********************************
+
+Cut-Scene
+
+------------------------
+Net Battle Machine Comp
+------------------------
+
+Cut-Scene
+
+-----
+Deck
+-----
+
+1) Head to Outside Castle Tower.
+
+Deck >>> Corridor >>> Luxurious
+Ship Platform >>> Front of
+Kagakushou >>> Map Screen >>>
+End City >>> Chrysanthemum Room
+>>> Lily Room >>> Chrysanthemum
+Room >>> Castle Tower >>>
+Outside Castle Tower >>> Castle
+Tower >>> Outside Castle Tower
+
+---------------------
+Outside Castle Tower
+---------------------
+
+1) Head to the top.
+2) Plug-In to the Shachihoko.
+
+------------------
+Shachihoko Comp 1
+------------------
+
+1) Ahh we're back here again.
+   Head to Shachihoko Comp 4. It
+   should be easy now because
+   there's no Ninjas and
+
+Shachihoko Comp 1 >>> Shachihoko
+Comp 2 >>> Shachihoko Comp 3 >>>
+Shachihoko Comp 4
+
+------------------
+Shachihoko Comp 4
+------------------
+
+1) Head to where you fought
+   Searchman/Numberman.
+2) Before you go all the way
+   Save.
+3) Meet Gyroman/Shadowman. Ahh a
+   Ninja in a Ninja area about
+   time it makes sense.
+
+Cut-Scene
+
+********************************
+Boss- Gyroman
+********************************
+
+HP: 800
+Element: Normal
+Recommended Chips: Wide Sword
+Reward: Gyroman's Recognition
+
+You should already know how to
+fight this guy. He just got more
+HP and his attacks just do a
+little more damage.
+
+********************************
+Boss- Gyroman
+********************************
+
+********************************
+Boss- Shadowman
+********************************
+
+HP: 700
+Element: Normal
+Recommended Chips: Spread Gun
+Reward: Shadowman's Recognition
+
+You should already know how to
+fight this guy. He just got more
+HP and his attacks just do a
+little more damage.
+
+********************************
+Boss- Shadowman
+********************************
+
+Cut-Scene
+
+---------------------
+Outside Castle Tower
+---------------------
+
+1) Head to Castle Tower.
+
+Outside Castle Tower >>> Castle
+Tower >>> Outside Castle Tower
+>>> Castle Tower
+
+-------------
+Castle Tower
+-------------
+
+1) Go Plug-In to the statue.
+
+-----------------------
+Shachihoko Castle's HP
+-----------------------
+
+1) Head South.
+2) After taking the transporter,
+   talk to the Program Dude to
+   your left to get the
+   Shachihoko Castle's Banne
+3) Now head South to get to a
+   warp.
+
+-----------
+End Area 3
+-----------
+
+1) Open the Cube with the
+   Shachihoko Castle's P Code.
+2) Head to the right to figure
+   out where you are.
+3) Head to Ura Internet 4
+
+End Area 3 >>> End Area 4 >>>
+End Area 5 >>> Ura Internet 1
+>>> Ura Internet 2 >>> Ura
+Internet 3 >>> Ura Internet 4
+
+---------------
+Ura Internet 4
+---------------
+
+1) Now head to where Dark
+   Blues/Dark Colonel was.
+
+Cut-Scene
+
+---------------------
+Higureya Secret Base
+---------------------
+
+Cut-Scene
+
+------------
+Akiharachou
+------------
+
+1) Head to your House.
+
+--------------
+Netto's House
+--------------
+
+1) Talk to your Mom.
+
+Cut-Scene
+
+You get the Data Disk.
+
+2) Head to your Room.
+
+-------------
+Netto's Room
+-------------
+
+1) Plug-In.
+
+-----------
+Netto's HP
+-----------
+
+1) Head to the Kagakushou
+   Banner.
+
+----------------
+Kagakushou's HP
+----------------
+
+1) Head to Kagakushou Area 3.
+
+Kagakushou's HP >>> Kagakushou
+Area 2 >>> Kagakushou Area 3
+
+------------------
+Kagakushou Area 3
+------------------
+
+1) Head to where the Barrier Key
+   2 was in Liberate Mission 3.
+2) Examine the area.
+
+Cut-Scene
+
+3) Head through the door.
+
+-----------------------
+Past Vision Kagakushou
+-----------------------
+
+Cut-Scene
+
+-------------
+Netto's Room
+-------------
+
+1) Plug-In.
+
+-----------
+Netto's HP
+-----------
+
+1) Head back to the Past Vision
+   Kagakushou.
+
+Netto's HP >>> Kagakushou's HP
+>>> Kagakushou Area 2 >>>
+Kagakushou Area 3 >>> Past
+Vision Kagakushou
+
+-----------------------
+Past Vision Kagakushou
+-----------------------
+
+1) Examine the stuff in the
+   South Corner to get a Regular
+   Up +1. I know we came all the
+   way here just fo
+2) Get out of here.
+
+------------------
+Kagakushou Area 3
+------------------
+
+1) Plug-Out.
+
+-------------
+Netto's Room
+-------------
+
+1) Sleep.
+
+Cut-Scene
+
+2) Head outside.
+
+Netto's Room >>> Netto's House
+>>> Akiharachou
+
+------------
+Akiharachou
+------------
+
+1) Go to Higureya.
+2) Talk to Enzan/Barrel.
+
+Cut-Scene
+
+-----------------
+Front of Factory
+-----------------
+
+Cut-Scene
+
+1) Follow the path to a set of
+   stairs.
+2) Don't go up the hill. Instead
+   follow the path to the right
+   to another set of stairs.
+3) Head up the stairs.
+4) Follow the path to the Pipe.
+   Ignore the door for now.
+5) Plug-In to the Pipe.
+
+-----------------
+Pipe Device Comp
+-----------------
+
+1) Head to the West to get to a
+   Blue Mystery Data that
+   contains a HP Memory.
+2) Plug-Out.
+
+-----------------
+Front of Factory
+-----------------
+
+1) Head through the door.
+
+----------------
+Factory Hallway
+----------------
+
+1) Follow the path.
+
+Cut-Scene
+
+You get Delta Ray Edge Z/Cross
+Divide C. Put it in your folder.
+
+2) Now head through the double
+   doors with a red light bulb
+   thing on top.
+
+------------------
+Dark Chip Factory
+------------------
+
+Cut-Scene
+
+1) Head foward and Plug-In to
+   the machine that everyone's
+   looking at.
+
+----------------
+Chip Maker Comp
+----------------
+
+1) Head to the North to get a
+   Dark Circle R.
+2) Plug-Out.
+
+------------------
+Dark Chip Factory
+------------------
+
+1) Follow the path to the right.
+
+Cut-Scene
+
+---------------
+Factory Comp 1
+---------------
+
+Now you should know this by now,
+this game is telling you to use
+Teamwork. Teamwork is very
+important in this area. You
+cannot go on from here unless
+you work together with your Team
+Members. Switch Navis to work
+together to open doors and go
+through obstacles.
+
+Cut-Scene
+
+1) Switch to
+   Magnetman/Knightman. Head
+   foward to a split.
+2) Take the right path and
+   follow it to a Cannon.
+
+Cut-Scene
+
+3) Step on the switch.
+4) Switch to Rockman. Head
+   foward and get on the
+   transporter.
+5) Take the left path and follow
+   it to a switch.
+6) Step on it.
+7) Switch to
+   Magnetman/Knightman. Take the
+   transporter right next to
+   you.
+8) Head back to the split.
+9) Now follow the left path to
+   where the Blue Door was.
+10)Follow the path to where the
+transporters are. 11)Rockman
+went left. You're going right.
+Follow the path to another
+Cannon.
+   On the way is a Blue Mystery 
+
+Cut-Scene
+
+12)Step on the switch. 13)Switch
+to Rockman. Head back to where
+the transporters are. 14)Take
+the next transporter. 15)Take
+the left path and follow the
+path to the South-West to get to
+a Blue
+   Mystery Data that contains a 
+16)Head back to where the
+transporters are. 17)This time
+take the right path and follow
+it to another switch. 18)Step on
+it. 19)Switch to
+Magnetman/Knightman. Head to the
+door that Rockman just unlocked.
+20)Follow the path to the
+transporters. 21)Head to the
+left path and follow it to a
+split. 22)Take the North-West
+path to a Cannon.
+
+Cut-Scene
+
+23)Step on the switch. 24)Switch
+to Rockman. 25)Head to where the
+transporters are. 26)Save. When
+you're ready head through.
+
+Cut-Scene
+
+********************************
+Boss- Blizzardman V2
+********************************
+
+HP: 1200 Element: Aqua
+Recommended Chips: Blind,
+Thunder Ball, Cloudman Reward:
+On with the Story
+
+Blizzardman got tougher since
+Liberate Mission 1. He's faster
+and has 3x the HP. That still
+doesn't mean he's hard. Just
+send some Thunder Balls into him
+and he'll paralyze. Follow up
+with a P.A and just repeat.
+
+********************************
+Boss- Blizzardman V2
+********************************
+
+Cut-Scene
+
+------------------
+Dark Chip Factory
+------------------
+
+1) Follow the path.
+
+----------------
+Factory Hallway
+----------------
+
+1) Follow the path to another
+   door.
+
+------------------
+Dark Chip Factory
+------------------
+
+1) Follow the path.
+
+Cut-Scene
+
+---------------
+Factory Comp 2
+---------------
+
+Cut-Scene
+
+1) Switch to Gyroman/Shadowman.
+   Head to the right path to a
+   split.
+2) Follow the left path to a
+   Cloud.
+
+Cut-Scene
+
+3) Step on the switch.
+4) Switch to Rockman.
+5) Take the transporter.
+6) Now head to the left path and
+   follow it to another
+   transporter.
+7) Follow the path ignoring the
+   switch to a Blue Mystery Data
+   that contains a Regular Up
+   +3.
+8) Now head to the switch and
+   step on it.
+9) Switch to Gyroman/Shadowman.
+   Head back to where you
+   started this area.
+10)Now take the left path and
+follow it to a split. 11)Take
+the left path and head to the
+West to a Blue Mystery Data that
+   contains a Oil Body (Red).
+12)Now head to the North to
+another Cloud.
+
+Cut-Scene
+
+13)Step on the switch. 14)Switch
+to Rockman. Head back to where
+the transporters are. 15)Take
+the transporter then the next
+one. 16)Take the right path and
+follow it all the way to the
+North. 17)Now head to the East
+from there and follow the path
+to a switch and step on
+   it.
+18)Switch to Gyroman/Shadowman.
+Now follow the path and go down
+the hill. 19)Head to where
+Rockman is. Before the path that
+leads you to him is another
+   path with a hill going up.
+20)Go up the hill to another
+Cloud.
+
+Cut-Scene
+
+21)Step on the switch. 22)Switch
+to Rockman. Take the
+transporter. 23)Head to where
+the transporters are. 24)Follow
+the other path and follow it to
+another transporter. 25)Take it
+and Save. 26)When you're ready
+head through.
+
+Cut-Scene
+
+********************************
+Boss- Shademan V2
+********************************
+
+HP: 1000 Element: Normal
+Recommended Chips: Wide Sword,
+Iai Form Reward: On with the
+story
+
+Not much difference from
+Liberate Mission 2. This time
+you have the Iai Form. Say good
+bye to 240 HP. Now what to do
+with the other 760 HP? Simple.
+P.As such as Dream Sword and
+Giga Cannons.
+
+********************************
+Boss- Shademan V2
+********************************
+
+Cut-Scene
+
+------------------
+Dark Chip Factory
+------------------
+
+1) Follow the path.
+
+----------------
+Factory Hallway
+----------------
+
+1) Follow the path.
+
+Cut-Scene
+
+---------------
+Factory Comp 3
+---------------
+
+Cut-Scene
+
+1) Switch to
+   Napalmman/Tomahawkman. Follow
+   the path to the right to a
+   door.
+
+Cut-Scene
+
+2) Keep following the path to
+   the right to another door.
+
+Cut-Scene
+
+3) Step on the switch.
+4) Switch to
+   Searchman/Numberman. Head
+   foward.
+
+Cut-Scene
+
+5) Take the transporter. I'm
+   going to call the
+   transporters in the middle
+   the main transporters, so
+   it'll b
+6) Head to the left to another
+   door.
+
+Cut-Scene
+
+7) Follow the path to a
+   transporter.
+8) Follow the path to another
+   door.
+
+Cut-Scene
+
+9) Step on the switch.
+10)Switch to Rockman. Now head
+foward. 11)Head to the same way
+Searchman/Numberman took.
+12)Grab the Blue Mystery Data
+that's at the end of the path to
+get a HP Memory
+   that will help you.
+13)Now head back to where the
+main transporters are. 14)Head
+to the right and take the 3rd
+path. 15)Take the transporter to
+the North-East. 16)Follow the
+path to a switch and step on it.
+17)Switch to
+Napalmmman/Tomahawkman. Follow
+the path to where the main
+   transporters are.
+18)Take the transporter.
+19)Follow the path to a split.
+20)Keep heading East to get to a
+Blue Mystery Data that contains
+a
+   Aka Tsunami Hole A.
+21)Head back to the split.
+22)Take the North-East path to a
+door.
+
+Cut-Scene
+
+23)Switch to Rockman. Head back
+to where the main transporter
+is. 24)Take the transporter and
+head to the West and take the
+transporter here. 25)Take the
+left path and follow it to a
+switch. Step on it. 26)Switch to
+Searchman/Numberman. Follow the
+path to a door.
+
+Cut-Scene
+
+27)Step on the switch. 28)Switch
+to Napalmman/Tomahawkman. Follow
+the path that just opened to the
+   North.
+29)Then to the West to a door.
+
+Cut-Scene
+
+30)Step on the switch. 31)Switch
+to Rockman. Take the transporter
+above you. 32)Then head to the
+middle path at the split and
+take the transporter. 33)Save.
+When you're ready head through.
+
+Cut-Scene
+
+********************************
+Boss- Cloudman V2
+********************************
+
+HP: 900 Element: Elec
+Recommended Chips: Bamboo Lance,
+Boomerang, Skull Chain Reward:
+On with the story
+
+Cloudman does not move from the
+back. So most of your attacks
+can hit him. Not hard. Just make
+sure to shoot the Clouds with
+your Buster or they'll send
+Thunders at you.
+
+********************************
+Boss- Cloudman V2
+********************************
+
+Cut-Scene
+
+----------------
+Factory Hallway
+----------------
+
+1) Head through the double
+   doors.
+
+------------------
+Dark Chip Factory
+------------------
+
+1) Follow the path.
+
+Cut-Scene
+
+---------------
+Factory Comp 4
+---------------
+
+Cut-Scene
+
+1) Switch to Blues/Colonel. Take
+   the transporter.
+2) Follow the path to the North
+   until you see a transporter.
+3) Go up and take a turn to a
+   Blue Mystery Data that
+   contains a Recovery 200 I for
+   the last battle.
+4) Now head back and follow the
+   path to the North to find a
+   door.
+
+Cut-Scene
+
+5) Step on the switch.
+6) Switch to Medi/Toadman.
+   Follow the path to a split.
+7) Now head to the East and
+   follow the path to a switch.
+8) Step on it.
+9) Switch to Blues/Colonel.
+10)Head to the transporter
+that's under where the Mystery
+Data was. 11)Take it and follow
+the path to a switch. 12)Step on
+it. 13)Switch to Medi/Toadman.
+14)Take the transporter. Get
+close to that toxic looking
+door.
+
+Cut-Scene
+
+15)Step on the switch. 16)Switch
+to Rockman. 17)Head through the
+transporter. Then the next one.
+18)Switch to Blues/Colonel. Take
+the transporter here.
+19)Remember seeing a hill on the
+way here? Head there. It's to
+the South. 20)Go up the hill and
+down the hill. 21)Head to the
+North-East to a door.
+
+Cut-Scene
+
+22)Step on the switch. 23)Switch
+to Medi/Toadman. Head to where
+Blues/Colonel is. 24)On the way
+is another path that takes you
+to a Blue Mystery Data that
+   contains a Sub Memory.
+25)Now head to the hill that
+Blues/Colonel went down from.
+26)Go up the hill then down the
+hill. 27)Follow the path that
+Blues/Colonel went the first
+time. 28)To the right of the
+door that Blues/Colonel cut down
+is the toxic door.
+
+Cut-Scene
+
+29)Step on the switch. 30)Switch
+to Rockman. Take the
+transporter. 31)Step on the
+switch. 32)Switch to
+Blues/Colonel and head to the
+left path that takes you to
+where
+   Rockman is.
+33)Head foward and take a left
+at the split to a door.
+
+Cut-Scene
+
+34)Step on the switch. 35)Switch
+to Medi/Toadman and head to the
+right path that takes you to
+where
+   Rockman is.
+36)Head foward and take a right
+at the split to the last door.
+
+Cut-Scene
+
+37)Switch to Rockman and Save.
+38)When you're ready head
+foward.
+
+Cut-Scene
+
+********************************
+Boss- Cosmoman V2
+********************************
+
+HP: 1200 Element: Normal
+Recommended Chips: Invisible,
+Bubble Wrap, Air Hockey Reward:
+On with the story
+
+Being defensive is key against
+Cosmoman. Most of his attacks
+are hard to dodge so it should
+be top priority. Use P.As to
+delete him.
+
+********************************
+Boss- Cosmoman V2
+********************************
+
+Cut-Scene
+
+------------------
+Dark Chip Factory
+------------------
+
+Cut-Scene
+
+1) Follow the path.
+
+--------------------
+Nebula Command Room
+--------------------
+
+1) Plug-In to the right most
+   Chip Case.
+
+-----------------------
+Experiment Server Comp
+-----------------------
+
+1) Head to the North to a Purple
+   Mystery Data. You should have
+   one more Open Lock. Open it
+   for a Doro
+2) Now talk to the Navi on the
+   floor.
+3) Plug-Out.
+
+--------------------
+Nebula Command Room
+--------------------
+
+1) Head to the left most Chip
+   Case.
+2) Examine them to get Meiru's
+   PET, Dekao's PET, and Yaito's
+   PET.
+3) Now examine the middle Chip
+   Case.
+
+Cut-Scene
+
+4) Save. When you're ready head
+   through.
+
+------------
+Server Room
+------------
+
+Cut-Scene
+
+-----------------
+Mind Server Comp
+-----------------
+
+1) Follow the path.
+
+Cut-Scene
+
+2) Keep following the path.
+
+Cut-Scene
+
+********************************
+Boss- Nebula Grey
+********************************
+
+HP: 2000 Element: Normal
+Recommended Chips: Bubble Wrap,
+Invisible, Drill Arm Reward:
+Beat the game
+
+Alright the final boss. I beat
+him on my 3rd try. I'm not
+bragging or anything it just
+means that you can do it too.
+It's all about learning how he
+attacks. When you have an idea
+of how he fights that's when you
+start. That Blue Orb is what you
+must attack, but it moves around
+Nebula Grey, so aim when it
+stops. Use P.As such as Dream
+Sword and Giga Cannons. If
+you're desperate you can even
+use the Chaos Unison. For Team
+of Blues, use Blues Chaos. For
+Team of Colonel, use Knight
+Chaos. Use your Giga Chip you
+got from Enzan/Barrel. It might
+not help for Team of Blues, but
+that's 220 damage.
+
+********************************
+Boss- Nebula Grey
+********************************
+
+Cut-Scene
+
+Cut-Scene
+
+Cut-Scene
+
+Credits!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!
+
+Results Screen!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!
+
+You are finally done with the
+Storyline for Rockman Exe 5 Team
+of Blues/Team of Colonel. When
+you get to the Title Screen you
+will have the Blues/Colonel
+Mark. Choose continue and it'll
+start from where you last saved.
+Start collecting those Marks.
+
+================================
+5. Title Screen Marks Tsmk
+================================
+
+Like the previous games, this
+game will also have Marks that
+will prove what you have
+accomplished in this game.
+
+**********************
+1. Blues/Colonel Comp
+**********************
+
+Beat the game to get this Mark.
+
+The first Mark you get. This is
+also the easiest to get. You can
+also say that the game is just
+beginning by getting this Mark.
+
+*****************
+2. Standard Comp
+*****************
+
+Get all Standard Chips.
+
+You must get all 180 Standard
+Chips in the game. Put the
+Collector's Eye Navi Cust
+Program and collect them. You'll
+have to enter all the way to
+Nebula Hole Area 4 to get to the
+viruses. You can also trade with
+your friends.
+
+*************
+3. Mega Comp
+*************
+
+Get all Mega Chips.
+
+You must get all 60 Mega Chips
+in the game. Trading is fine,
+but it won't help if you have
+the same version. Getting the
+SP/DS Chips will be your
+obstacle.
+
+*************
+4. Giga Comp
+*************
+
+Get all Giga Chips.
+
+The strongest chips in the game.
+There's 6 in each game. You
+cannot trade these Chips, so
+you'll have to get it youself.
+Collecting them may be a pain in
+the ass. When you get this mark
+you'll start seeing the Menu
+Screen full of marks. You're
+almost there.
+
+*************
+5. Dark Comp
+*************
+
+Get all Dark Chips.
+
+This may be the second easiest
+mark to obtain. There are 12
+Dark Chips. People may sell
+them, people may give this to as
+prizes for beating their quiz.
+
+*************
+6. P.A. Comp
+*************
+
+Use all P.As.
+
+You must use all 30 P.As. You'll
+have to get most Standard Chips,
+and a few Mega Chips to complete
+this one.
+
+*****************
+7. Forte SP (XX)
+*****************
+
+Defeat Forte SP/XX.
+
+Forte SP/XX will be in Nebula
+Hole Area 6. Defeat him to
+obtain this Mark. He's the last
+boss of the Secret Scenario, so
+he'll be a pain in the ass.
+Complete this and you should be
+close to the end of the journey.
+
+================================
+6.  After Scenario              
+================================
+
+The Exe series is known or you
+may say famous for the Secret
+Scenarios. After you beat the
+game, you can enter the Nebula
+Hole Areas. There are strong
+viruses and battles waiting for
+you. There are also Liberate
+Missions that will screw your
+mind. Use your knowledge and
+technique to survive through
+this nightmare.
+
+****************************
+Nebula Hole Area Statistics
+****************************
+
+There are 6 Areas. There are
+also Liberate Missions in Areas
+1,3, and 5. The rules for the
+Liberate Missions are the same.
+It's just that the viruses that
+appear are strong. So it's not
+going to be easy. Now Area
+2,4,and 6 are regular Internet
+Areas, but there are Doors
+everwhere. To open the doors you
+must show proof that you are
+worthy of passing through these
+door.
+
+********************************
+Shortcut to the Nebula Hole
+Areas
+********************************
+
+Where is the entrance to the
+Nebula Hole Areas? It's in Ura
+Internet 2. You do not want to
+go through End Area and through
+Ura Internet 1,2,3, and back to
+2 right? Here's a shortcut.
+
+Head to the Nebula HQ. Then you
+head to the Factory Hall. The
+place where you had a Cut-Scene
+with Enzan/Barrel. LV1 how's
+that? Head to the Message Board
+at the corner and Plug-In to it.
+You should now be at the Message
+Board Comp. This place is
+connected to Ura Internet 3. So
+Tuh Duh!
+
+********************************
+How to enter Nebula Hole Area 1
+********************************
+
+Condition 1: You must beat the
+game and watch the ending.
+Condition 2: You must have at
+least 100 Standard Chips.
+
+****************************
+Guide to Nebula Hole Area 1
+****************************
+
+When you have met the
+requirements for entering Nebula
+Hole Area 1 follow this guide. I
+will start at the Message Board
+Comp. This is where you Plug-In
+from the Factory Hall.(Read the
+Shortcut if you're dense)
+
+-------------------
+Message Board Comp
+-------------------
+
+1) At the split head to the
+   left.
+2) At the next split, take the
+   right path to get to a Blue
+   Mystery Data that contains a
+   Regular Up +3.
+3) Now head back to the split
+   and follow the other path to
+   Ura Internet 3.
+
+---------------
+Ura Internet 3
+---------------
+
+1) Take the only path and talk
+   to the Net Merchant.
+2) Buy a HP Memory and the Death
+   Match 2 W.(This chip will
+   help)
+3) Now take the transporter.
+4) Then the next one.
+5) Head to the West then to the
+   North to another transporter.
+6) Get the Blue Mystery Data you
+   see to obtain a Attack +1
+   (Yellow).
+7) Now take the transporter.
+   Then take the transporter
+   right next to you.
+8) Take the only available
+   transporter here.
+9) Now follow the path to the
+   South-West to another
+   transporter.
+10)Take it and follow the path
+to another transporter. 11)Take
+it and follow the path to Ura
+Internet 2.
+
+---------------
+Ura Internet 2
+---------------
+
+1) Follow the path to the Golden
+   Program Dude.
+2) Talk to him to open the door
+   to Nebula Hole Area 1.
+3) Save. When you're ready head
+   through the door to start
+   Liberate Mission 7.
+
+================================
+6. a. Liberate Mission 7 Lbm7
+================================
+--------------------------------
+Nebula Hole Area 1 /
+-------------------
+
+***********************
+Target Clear Phase- 12 _
+***********************         
+     _|X|X|X|_|X|X|X|___| \
+X- Dark Panel                  _
+3- 3 Order Points _|M|_ _ _|3|_
+_ _ _ _ _|_|1|B|X|X| |X|X|X| | /
+W- 1000 Zennys |X|X|X|B|X|_|X|_|
+X|2|X|X|X|1|1|1| |X| |/ Y- 1300
+Zennys
+|X|R|X|X|X|X|_|F|X|2|X|D|X|X|_|
+Z- 1600 Zennys
+|D|X|J|X|_|_|X|M|_|2|X|X|G|H| H-
+Recovery 700 _ _ |H|_|2|_|X|X|K|
+C- Custom Bolt 2 E _ _|P|_|M|_
+_|Y|T|2|2|2|2|2| E- Meteor Earth
+2 E
+|N|X|_|X|_|X|_|T|C|X|X|X|X|X| F-
+Iai Form I
+|_|X|X|X|_|X|_|M|Z|_|_|X|X|_|_
+P- Bonus Panel
+|3|_|X|X|X|X|H|X|X| |_|X|X|P| 1-
+Barrier 1 |X|_|X|_|_|X|X|D|X|_
+|X|X|X| 2- Barrier 2
+|_|X|_|X|X|X|X|B|X|P| |T|X|_| I-
+Barrier Key 1
+|X|_|X|G|X|E|X|X|X| |X|G|X| N-
+Barrier Key 2
+|_|X|W|X|_|X|X|X|X|_ |X|D|X|_ K-
+Bug Piece |X|X|X|_|X|_|X|_|X|3|
+|X|X|X|M| T- 100 Damage
+|_|_|_|X|_|_|X|_|X| |3|I|K| M-
+Paralyze |_|_|_| D- Darkness
+Hole | |
+G- Garu-Beast 4              _| 
+R- Roy-Hawk 4 | | Boss- Shademan
+V3
+B- Bloodia 4                |STA
+S- Shademan V3 |_____|
+
+*******
+Prizes
+*******
+--------------------------------
+| Clear Phase | Item |
+--------------------------------
+| 1 ~ 10 | Black Wing W | | 11 ~
+12 | Shademan DS S | | 13 ~ 99 |
+5000 Zennys |
+--------------------------------
+
+********************************
+Chips you can get from the Bonus
+Panel
+********************************
+
+Doro Tsunami Hole W
+Boy's Bomb 3 B
+Recovery 300 Y
+Navi Scout T
+
+********************************
+      Participating Navis
+********************************
+ -------------------------------
+| Team of Blues | Team of
+Colonel |
+ -------------------------------
+| Rockman HP: --- Chp: --- Chg:
+-- | Rockman HP: --- Chp: ---
+Chg: --- |
+ -------------------------------
+| Blues HP: 600 Chp: 120 Chg: 80
+| Colonel HP: 600 Chp: 120 Chg:
+70 |
+ -------------------------------
+| Magnetman HP: 700 Chp: 120
+Chg: 60 | Knightman HP: 700 Chp:
+120 Chg: 120 |
+ -------------------------------
+| Napalmman HP: 500 Chp: 120
+Chg: 7 | Tomahawkman HP: 500
+Chp: 120 Chg: 80 |
+ -------------------------------
+| Searchman HP: 450 Chp: 100
+Chg: 15 | Numberman HP: 450 Chp:
+140 Chg: 20 |
+ -------------------------------
+  Chp- Their own Chip           
+
+================================
+6. b. Nebula Hole Area 2 Nha2
+================================
+
+Alright let me start off by
+saying that this place is just a
+maze. A maze full of warps.
+There's a Net Merchant here that
+sells some pretty good stuff.
+There are also Mystery Datas
+lying in some places. Save often
+so that you don't have to start
+over because you got deleted by
+some virus. You must now head
+through this Area to enter Area
+3, but there is a condition you
+must beat.
+
+********************************
+How to enter Nebula Hole Area 3
+********************************
+
+Condition 1: You must have at
+least 140 Standard Chips.
+
+-------------------
+Nebula Hole Area 2
+-------------------
+
+1) Head to the right at the
+   split.
+2) Follow the path to a
+   transporter that'll take you
+   to a warp.
+3) Take the only transporter
+   available.
+4) Take the warp.
+5) Head to the West to a Blue
+   Mystery Data that contains a
+   HP Memory.
+6) Head back through the warp.
+7) Take the next transorter.
+8) Enter the warp.
+9) Follow the path to a split.
+10)Head to the East and follow
+the path to Blue Mystery Data
+that contains a
+   Recovery 300 Y.
+11)Now head back and follow the
+other path to a warp. 12)Alright
+now to the South-West path is a
+Purple Mystery Data that
+contains
+   a Death Match 3 A.
+13)Right next to the warp is a
+split. The right path will take
+you to a warp
+   that will take you to the Net
+   Area 3.
+14)When you're done getting the
+Purple Mystery Data or done
+shopping with the
+   Net Merchant, head to the lef
+15)Follow the path to a split.
+16)Take the right path and
+follow it to a door. 17)If you
+have at least 140 Standard Chips
+the door will open. If not go
+get
+   them.
+
+================================
+6. c. Liberate Mission 8 Lbm8
+================================
+--------------------------------
+Nebula Hole Area 3 /
+-------------------
+
+***********************
+Target Clear Phase- 14
+***********************         
+             _|_|_
+   _ _       _               _|T
+   _|_|X|_   _|A|_            |_
+  _|_|X|X|X|_|_|X|_|           |
+  |_|X|X|X|D|1|X|X|_|          _
+  |_|1|X|G|X|T|X|B|X|         |_
+   |X|_|X| |1|X|X|X|        _|1|
+   |X|X|     |_|X|3|       |X|X|
+  _|X|X|     |X|X|_ _   _|X|W|W|
+  |_|_|_|     |_|X|X|X|_|X|W|W|M
+  |START|     |_|X|1|X|_|X|W|W|B
+   | |       |1|X|X|R|X|X|W|W|M|
+  _| |_        |X|X|D|X|X|_|W|W|
+  \   /         _|X|X|X|_  |_|_|
+   \ /      _ _|W|H|X|X|P| |_|  
+     |I|W|T|W|W|X|              
+     |X| |W|W|Z|X|              
+      |_|_|                     
+
+X- Dark Panel P- Bonus Panel M-
+Paralyze 3- 3 Order Points 1-
+Barrier 1 D- Darkness Hole W-
+100 Zennys 2- Barrier 2 G- Garu-
+Beast 5 Y- 2000 Zennys I-
+Barrier Key 1 R- Roy-Hawk 5 Z-
+2400 Zennys N- Barrier Key 2 B-
+Bloodia 5 H- Recovery 800 K- Bug
+Piece C- Cloudman V3 A- Reset
+Bomb I T- 100 Damage
+
+*******
+Prizes
+*******
+--------------------------------
+| Clear Phase | Item |
+--------------------------------
+| 1 ~ 12 | Muramasa Blade M | |
+13 ~ 14 | Cloudman DS C | | 15 ~
+99 | 5000 Zennys |
+--------------------------------
+
+********************************
+Chips you can get from the Bonus
+Panel
+********************************
+
+Engetsu Kunai 3 L
+Air Hoiru 3 G
+Inazuma King 3 A
+Count Bomb 3 S
+
+********************************
+      Participating Navis
+********************************
+ -------------------------------
+| Team of Blues | Team of
+Colonel |
+ -------------------------------
+| Rockman HP: --- Chp: --- Chg:
+-- | Rockman HP: --- Chp: ---
+Chg: --- |
+ -------------------------------
+| Gyroman HP: 600 Chp: 70 Chg:
+30 | Shadowman HP: 600 Chp: 100
+Chg: 100 |
+ -------------------------------
+| Napalmman HP: 600 Chp: 120
+Chg: 7 | Tomahawkman HP: 600
+Chp: 120 Chg: 80 |
+ -------------------------------
+| Searchman HP: 550 Chp: 100
+Chg: 15 | Numberman HP: 550 Chp:
+140 Chg: 20 |
+ -------------------------------
+| Medi HP: 500 Chp: 100 Chg:100
+| Toadman HP: 500 Chp: 100 Chg:
+80 |
+ -------------------------------
+  Chp- Their own Chip           
+
+================================
+6. d. Nebula Hole Area 4 Nha4
+================================
+
+There are 8 doors in this area.
+Below are the conditions you
+must pass in order to go through
+each door. If you just want to
+go to the next area, you must at
+least have the conditions of
+Doors 3 and 5 met.
+
+****************************
+Doors in Nebula Hole Area 4
+****************************
+
+Each Door has a path or a prize.
+So opening all Doors are really
+important.
+
+Door #1: You must beat the Five.
+I'll go deeper into the Five
+below. Door #2: You must have at
+least 3 Giga Chips to enter.
+Door #3: You must have at least
+40 Mega Chips to enter. Door #4:
+Rockman's HP Must be over 900.
+You cannot use NaviCust Parts to
+  increase your HP.
+Door #5: You must have all 180
+Standard Chips to open the Door.
+Door #6: You must have all 12
+Dark Chips to open the Door.
+Door #7: Activate all Program
+Advances. Door #8: Get all 60
+Mega Chips to open this door.
+
+*****************
+Behind the Doors
+*****************
+
+Door #1: Steal Revenge N Door
+#2: HP Memory Door #3: Path Door
+#4: Z Saber Z Door #5: Path Door
+#6: Django DS D Door #7: Double
+Point *, Path Door #8: Holy
+Dream H (Blues) Omega Rocket R
+(Colonel)
+
+********************************
+            The Five
+********************************
+
+Now if you want to open Door #1,
+you must go fight the Five. The
+Five are scattered through out
+the world. No, I'm joking. They
+are scattered through out the
+Internet and Computer Areas.
+Which one's better I don't know.
+Each of the Five will fight you
+with a specific element. I'll
+tell you the location and what
+type of Element Viruses they
+will send you.
+
+-----------
+Crane Comp
+-----------
+
+Alright to get here you must
+turn on the Crane in the
+Abandoned Mine. When you enter
+from Oran Isle, just head up the
+hill and enter the Mine. You
+should be in the Abandoned Mine
+Interior 6. Just head to the
+other exit and turn on the
+Crane. Next head to Oran Isle
+Area 2 as Rockman and head to
+where the Giant Door you had to
+open with Blues/Colonel. Head to
+the West path and follow it into
+the Crane Comp. One of the Five
+is standing in the South-East.
+You can also get a Regular Up +2
+in the South corner and 1000
+Zennys in the North- East.
+
+This Heel Navi will send Aqua
+Viruses.
+
+-----------
+End Area 4
+-----------
+
+Head here and head to the 2nd
+floor of this area. Instead of
+going to End Area 5, there's a
+path going away from End Area 5.
+The South-West path that'll take
+you to a warp. Take it and the
+Heel Navi should be directly
+located to the West of you.
+
+This Heel Navi will send Fire
+Viruses.
+
+------------
+Server Comp
+------------
+
+I told you, you were going to
+come back here. Remember when
+you were Blues/ Colonel? Well
+enter here from Kagakushou Area
+4 and head to the middle area
+from the top. You know where the
+HP Memory was.
+
+This Heel Navi will send viruses
+like Sukara-Sukera EXs.
+
+---------------
+Ura Internet 1
+---------------
+
+This guy is located almost right
+next to the warp connected to
+End Area 1. Just enter from End
+Area 1 and take the turn then
+another turn to meet him.
+
+This Heel Navi will send Elec
+Viruses.
+
+---------------
+Ura Internet 2
+---------------
+
+This guy is located right before
+you enter Ura Internet 3. Before
+you enter head to the West and
+under the hill is the Heel Navi.
+
+This Heel Navi will use viruses
+such as Cata-Parudo EXs.
+
+********************************
+            The Five
+********************************
+
+-------------------
+Nebula Hole Area 4
+-------------------
+
+This guide will tell you where
+each of the above doors are. I
+will start from the entrance of
+the area. I'll also end the
+guide at the end of the Area.
+
+1) Take a right at the split and
+   head North to Door #1.
+2) Take the other path and
+   follow it to a split.
+3) Take the upper path and
+   follow it to another split.
+4) Door #2 lies at the end of
+   the upper path.
+5) Take the bottom path and
+   follow the obvious path to
+   Door #3. You'll have to open
+   this door to move on fro
+6) Follow the path after opening
+   Door #3 to Door #4.
+7) Follow the bottom path to a
+   transporter.
+8) Take the one you can take.
+9) Follow the path to Door #5.
+   You must open this door to
+   move on.
+10)You can just head straight to
+Door #6. 11)You can go up the
+hill to the right to Door #7.
+12)To get to Door #8, you must
+open Door #7. Then take the
+transporter and
+   take the upper path at the sp
+13)Now if you didn't go anywhere
+during Steps 10,11,12 then head
+to the left
+   and take the transporter to A
+14)You should Save here because
+the next Liberate Mission is
+hard to beat.
+
+================================
+6. e. Liberate Mission 9 Lbm9
+================================
+--------------------------------
+Nebula Hole Area 5 /
+-------------------
+              / \
+             /   \
+            /_   _\
+***********************         
+Target Clear Phase- 16 | |
+***********************         
+   | |   Boss- Blizzardman V3
+    | |         Cosmoman V3
+  | |  **********************
+      _ _ _ _ _ _ _ _ _ _| |_ _ 
+X- Dark Panel |_|X|X|_|1|_|X|X|O
+|X|X|X|X|X|X|_|2|_|X|X|_| O- 3
+Order Points |P|X|X|2|2|2|X|Z|X|
+X|C|X|X|H|X|3|3|3|X|X|P| Z- 2000
+Zennys |X|X|2|D|2|2|X|X|X|X|X|X|
+X|3|3|D|3|X|X| H- Recovery 900 |
+X|G|2|X|O|2|X|X|X|X|X|X|X|3|M|X|
+3|B|X| M- Mayoino Mori M |_|2|2|
+X|2|_|_|1|X|1|_|_|3|X|3|3|X| A-
+Samurai Sword 3 Z |_|X|2|G|X|X|2
+|X|V|X|2|X|X|X|3|X|_| P- Bonus
+Panel
+|_|2|2|X|X|2|X|I|X|2|X|R|3|3|_|
+1- Barrier 1
+|X|X|2|2|X|_|2|2|2|_|X|3|3|X|X|
+2- Barrier 2
+|D|X|2|X|X|X|X|X|X|X|3|X|D| 3-
+Barrier 3
+|X|X|2|X|G|3|3|3|R|X|3|X|X| I-
+Barrier Key 1
+|N|H|2|X|X|3|X|3|X|X|3|O|S| N-
+Barrier Key 2 |X|3|D|3|X|_| S-
+Barrier Key 3 |X|3|3|3|X|_ D-
+Darkness Hole |_|_|_|_|_|O| G-
+Garu-Beast 6 |A|X|_|X|X|
+R- Roy-Hawk 6                   
+B- Bloodia 6                    
+V- Blizzardman V3 _|_|_|_|
+C- Cosmoman V3                  
+            |START|
+*******                         
+Prizes                          
+*******                         
+--------------------------------
+| Clear Phase | Item |
+--------------------------------
+| 1 ~ 14 | Poison Anubis A | |
+15 ~ 16 | Cosmoman DS C | | 17 ~
+99 | 5000 Zennys |
+--------------------------------
+
+********************************
+Chips you can get from the Bonus
+Panel
+********************************
+
+Custom Bolt 3 P
+Wara Ningyo O
+Super Vulcan S
+Neo Variable V
+
+********************************
+      Participating Navis
+********************************
+ -------------------------------
+| Team of Blues | Team of
+Colonel |
+ -------------------------------
+| Rockman HP: --- Chp: --- Chg:
+-- | Rockman HP: --- Chp: ---
+Chg: --- |
+ -------------------------------
+| Blues HP: 800 Chp: 120 Chg: 80
+| Colonel HP: 800 Chp: 120 Chg:
+70 |
+ -------------------------------
+| Magnetman HP: 900 Chp: 120
+Chg: 60 | Knightman HP: 900 Chp:
+120 Chg: 120 |
+ -------------------------------
+| Gyroman HP: 700 Chp: 70 Chg:
+30 | Shadowman HP: 700 Chp: 100
+Chg: 100 |
+ -------------------------------
+| Medi HP: 600 Chp: 100 Chg:100
+| Toadman HP: 600 Chp: 100 Chg:
+80 |
+ -------------------------------
+  Chp- Their own Chip           
+
+================================
+6. f. Nebula Hole Area 6 Nha6
+================================
+
+There are 6 Doors here. Hmm...6
+well that's the number of Nebula
+Hole Areas, number of Team
+Members, number of Souls you
+have, if you subtract 1 from 6
+you get 5, which is the number
+of fingers you have...alright
+now on to business. There's
+actually 7 Doors here. Yes I
+just wasted your time reading
+the stuff above.
+
+Behind the Doors are DS Navis.
+So this means that each Door has
+the DS Navi of one of the
+Members in your team. Makes
+sense...wait you only have 6
+other Members in your Team. Then
+what's behind the last Door?
+You'll find out after you open
+the other 6 Doors.
+
+To open the Doors you must
+delete the SP version of the
+Navi that corresponds to the
+Door. You don't get it? Here's
+an example. I'm at Napalmman's
+Door. To open the Door I have to
+go beat Napalmman SP. Get it? So
+scroll down and head to the
+SP/DS Deletion part of the
+guide.
+
+================================
+7.  SP/DS Deletion              
+================================
+
+Just for now, I'll put the
+locations of your Team Members.
+Remember this, you must defeat
+their V3 to meet with the SP.
+V3s are located in a specific
+part of that area. Just stumble
+across a corner or a dead end to
+meet the V3. If you need help
+with this just E-mail me. I'll
+tell you where it is.
+
+Blues/Colonel- Ura Internet 3
+Magnetman/Knightman- Akihara
+Area 1 Gyroman/Shadowman- Oran
+Isle Area 1
+Napalmman/Tomahawkman-
+Kagakushou Area 4
+Searchman/Numberman- End Area 3
+Medi/Toadman- End Area 4
+
+================================
+8.  Lord of Chaos               
+================================
+
+So you defeated all the DS Navis
+in Nebula Hole Area 6. Head to
+the center area to the last
+door. Open it with proof that
+you defeated every single one of
+them. This is where you should
+Save. When you're ready head up
+the hill.
+
+Cut-Scene
+
+********************************
+Boss- Lord of Chaos (Nebula Grey
+V2)
+********************************
+
+HP: 2500 Element: Normal
+Recommended Chips: Bubble Wrap,
+Invisible, Drill Arm Reward:
+Giganto Hook G/Meteo Knuckle M
+
+SOB this guy again. Same deal.
+This guy just have more HP. It's
+not hard if you practiced a lot
+with the first one.
+
+********************************
+Boss- Lord of Chaos (Nebula Grey
+V2)
+********************************
+
+Cut-Scene
+
+Now you have beaten the Lord of
+Chaos. Now what do you do? Plug-
+Out and Plug- Back In. Come back
+all the way to Nebula Hole Area
+6. Save.
+
+You here? Alright if you look
+around, the DS Navis have come
+back. Delete them once more. Now
+when you're done deleting them
+head to the Big Door. The Lord
+of Chaos will be different this
+time. The time that took you to
+beat the DS Navis are added up
+together to make one big time.
+This time will choose who the
+Lord of Chaos will be. You don't
+remember what times you got huh.
+Well you can just go up the hill
+and find out. Here's a chart
+that will show who you can face
+with what time you need.
+
+--------------------------------
+| DS Navi Deletion Total Time |
+Lord of Chaos will be |
+--------------------------------
+| 03:00:01 or over | Nebula Grey
+V3 |
+--------------------------------
+| 02:00:00 ~ 03:00:00 | Forte V3
+|
+--------------------------------
+| 02:00:00 or under | Dark
+Rockman |
+--------------------------------
+
+You would want Forte to be your
+opponent. So reset and delete
+them all over if you didn't get
+Forte. Now for those who got
+Forte, here's a Cut-Scene. Then
+you fight him.
+
+********************************
+Boss- Lord of Chaos (Forte V3)
+********************************
+
+HP: 3000 Element: Normal
+Recommended Chips: Area Steal,
+Death Match 2, Shira Hadori
+Reward: Forte F/Forte Another F
+
+Thank god Forte doesn't have
+that Aura from Exe, 2, and 3.
+This guy was a pain in the ass
+back then. Now he doesn't have
+it. When he starts shooting his
+Shooting Buster, that's when you
+should use a big attack. He
+doesn't move while using that
+move. Watch out for his Dark Arm
+Blades. He'll use them
+repeatedly three times. One from
+the front, one from the back,
+and again from the front.
+Another move he'll use is his
+Hell's Rolling. He sends two
+rings into your field from his
+field. They search for you, but
+can be easily dodged. One of his
+devistating attack is called the
+Darkness Overload. He'll come
+into your field and use a
+blasting move that'll take up
+2/3 of your field. When you see
+him start using the attack move
+to the panel above or below
+Forte to dodge it. He'll also
+use a move called the Chaos
+Nightmare. He throws a Ball of
+Energy and throws it into your
+field. Forte has Float Shoes,
+but does not have Air Shoes. So
+use Death Match 2 to make him
+locked into one panel.
+
+********************************
+Boss- Lord of Chaos (Forte V3)
+********************************
+
+Cut-Scene
+
+You are now done. Now you have
+to get all the Mega Chips, Giga
+Chips, Dark Chips, use all the
+P.As, and beat Forte SP.
+
+Oh Forte SP will randomly
+encounter you in Nebula Hole
+Area 6.
+
+================================
+9.  Power Up Items              
+================================
+
+================================
+10. Shops                       
+================================
+
+Shops sell Chips, HP Memories,
+Navi Customizer Parts and Sub
+Chips. These are some important
+items you want to buy to
+complete the game. Net Merchants
+are the ones who sell the items.
+There are also people in the
+Real World who are Merchants so
+find them and they will sell you
+whatever they have.
+
+********************************
+             Chips
+********************************
+
+*********
+Higureya
+*********
+
+--------
+Counter
+--------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+Yo Yo D                         
+Blind D                         
+Ice Seed A                      
+Gun Del Sol 2 G 8400 Zennys 3
+Super Vulcan S 9800 Zennys 1
+Quick Gauge Q 10000 Zennys 1
+Element Rage K 12000 Zennys 3
+Death Phoenix D/Phoenix P 25000
+Zennys 1
+
+----------
+Show Case
+----------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+Bubble Wrap Y 4200 Zennys 1
+Django D                        
+Number Ball N 9500 Zennys 1
+
+-----------
+Wagon Sell
+-----------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+Mini Bomb * 300 Zennys Infinite
+Vulcan 1 * 400 Zennys Infinite
+Barrier * 600 Zennys Infinite
+Thunder Ball * 1000 Zennys
+Infinite Color Point * 2500
+Zennys Infinite Boomerang * 5000
+Zennys Infinite
+
+--------------------------------
+            Internet
+--------------------------------
+
+---------------
+Akihara Area 2
+---------------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+HP Memory                       
+HP Memory                       
+HP Memory                       
+Vulcan 1 C 500 Zennys Infinite
+Spread Gun * 3200 Zennys
+Infinite Hi Cannon E 5000 Zennys
+Infinite Long Sword C 6000
+Zennys Infinite Custom Sword E
+6800 Zennys Infinite
+
+-----------------
+Oran Isle Area 1
+-----------------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+HP Memory                       
+HP Memory                       
+HP Memory 10000 Zennys 1 Air
+Hoil 1 E 3400 Zennys Infinite
+Recovery 80 * 7800 Zennys
+Infinite Circle Gun C 8200
+Zennys Infinite Stealth Mine P
+9900 Zennys Infinite Ojizousan O
+10500 Zennys 1
+
+-----------
+End Area 1
+-----------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+HP Memory                       
+HP Memory 10000 Zennys 1 HP
+Memory 14000 Zennys 1 Vulcan 3 L
+5800 Zennys Infinite Mega Cannon
+G 7600 Zennys Infinite Barrier
+100 P 8800 Zennys Infinite Wide
+Blade V 10000 Zennys Infinite
+Jealousy J 12000 Zennys 1
+
+---------------
+Ura Internet 3
+---------------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+HP Memory 10000 Zennys 1 HP
+Memory 15000 Zennys 1 HP Memory
+20000 Zennys 1 HP Memory 30000
+Zennys 1 Super Kitakaze V 8000
+Zennys Infinite Long Blade L
+9800 Zennys Infinite Death Match
+2 W 10000 Zennys Infinite
+Ryuuseigun R 16000 Zennys 1
+
+-------------------
+Nebula Hole Area 2
+-------------------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+HP Memory 20000 Zennys 1 HP
+Memory 26000 Zennys 1 HP Memory
+34000 Zennys 1 HP Memory 50000
+Zennys 1 Bug Bomb R 10000 Zennys
+Infinite Noise Storm N 16000
+Zennys Infinite Wara Ningyou Z
+22000 Zennys Infinite Black Wing
+W 28000 Zennys 1
+
+********************************
+           Sub-Chips
+********************************
+
+------------
+Akiharachou
+------------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+Mini Energy 100 Zennys Infinite
+Untrap 500 Zennys Infinite Enemy
+Search 6000 Zennys Infinite
+
+-----
+Deck
+-----
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+Full Energy 1000 Zennys Infinite
+Shinobidash 300 Zennys Infinite
+Untrap 500 Zennys Infinite
+
+--------------------
+Front of Kagakushou
+--------------------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+Full Energy 1000 Zennys Infinite
+Open Lock 4000 Zennys Infinite
+Enemy Search 6000 Zennys
+Infinite
+
+---------
+End City
+---------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+Full Energy 1000 Zennys Infinite
+Open Lock 4000 Zennys Infinite
+Enemy Search 6000 Zennys
+Infinite
+
+--------------------------------
+            Internet
+--------------------------------
+
+---------------
+Akihara Area 1
+---------------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+Mini Energy 100 Zennys Infinite
+Shinobidash 300 Zennys Infinite
+Open Lock 4000 Zennys Infinite
+
+---------------
+Ura Internet 1
+---------------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+Full Energy 1000 Zennys Infinite
+Open Lock 4000 Zennys Infinite
+Enemy Search 6000 Zennys
+Infinite
+
+********************************
+            Programs
+********************************
+
+-----------------
+Oran Isle Area 3
+-----------------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+HP +50 (White) 1300 Zennys 1
+Soul Time +1 (Pink) 3800 Zennys
+1 Mega Folder 1 (Green) 4700
+Zennys 1 Self Recovery (Pink)
+5500 Zennys 1 HP +200 (White)
+6000 Zennys 1 Super Armor (Red)
+7800 Zennys 1
+
+---------------
+Ura Internet 3
+---------------
+
+--------------------------------
+Item Sold Price Numbers Sold
+--------------------------------
+
+I'm Fish (Blue) 4200 Zennys 1
+Custom 1 (Blue) 5500 Zennys 1
+Jungleland (Green) 6000 Zennys 1
+Reflect (White) 8700 Zennys 1 HP
++400 (White) 10000 Zennys 1 Bug
+Stopper (White) 13000 Zennys 1
+
+********************************
+           Bug Trader
+********************************
+
+------------------
+Kagakushou Area 3
+------------------
+
+--------------------------------
+Item Tradeded Price Numbers
+Traded
+--------------------------------
+
+Auto Running (Red) 8 Bug Pieces
+1 Fujin Racket B 12 Bug Pieces
+Infinite Milionaire (Green) 22
+Bug Pieces 1 Magma Seed P 26 Bug
+Pieces Infinite Float Shoes
+(Blue) 40 Bug Pieces 1
+Poltergiest P 60 Bug Pieces 1
+
+---------------
+Ura Internet 2
+---------------
+
+--------------------------------
+Item Tradeded Price Numbers
+Traded
+--------------------------------
+
+Shinobidash (Blue) 20 Bug Pieces
+1 Daikozui D 26 Bug Pieces
+Infinite HP +300 (Yellow) 30 Bug
+Pieces 1 Attack +30 * 50 Bug
+Pieces 1 Giga Folder 1 (Red) 90
+Bug Pieces 1 Curse of Bug C
+(Blues) 100 Bug Pieces 1 Bug
+Charge B (Colonel) 100 Bug
+Pieces 1
+
+================================
+10. a. Higureya's Order Service
+    Hosv
+================================
+
+================================
+11. Chips                       
+================================
+
+================================
+11. a. Standard Chips Schps
+================================
+
+001. Cannon
+002. Hi Cannon
+003. Mega Cannon
+004. Air Shoot
+005. Vulcan 1
+006. Vulcan 2
+007. Vulcan 3
+008. Spread Gun
+009. Mark Cannon 1
+010. Mark Cannon 2
+011. Mark Cannon 3
+012. Pulse Beam 1
+013. Pulse Beam 2
+014. Pulse Beam 3
+015. Sensha Hou 1
+016. Sensha Hou 2
+017. Sensha Hou 3
+018. Wide Shot 1
+019. Wide Shot 2
+020. Wide Shot 3
+
+021. Elec Reel 1
+022. Elec Reel 2
+023. Elec Reel 3
+024. Saboten Ball 1
+025. Saboten Ball 2
+026. Saboten Ball 3
+027. Gun Del Sol 1
+028. Gun Del Sol 2
+029. Gun Del Sol 3
+030. Element Rage
+031. Thunder Ball
+032. Tornado
+033. Noise Storm
+034. Mini Bomb
+035. Energy Bomb
+036. Mega Energy Bomb
+037. Crack Bomb
+038. Paralyze Bomb
+039. Reset Bomb
+040. Earthquake 1
+041. Earthquake 2
+042. Earthquake 3
+043. Bug Bomb
+044. Hougun
+045. Black Bomb
+046. Kanketsusen
+047. Magma Seed
+048. Ocean Seed
+049. Ice Seed
+050. Kusamura Seed
+051. Sword
+052. Wide Sword
+053. Long Sword
+054. Wide Blade
+055. Long Blade
+056. Custom Sword
+057. Variable Sword
+058. IaiForm
+059. Fujin Racket
+060. Engetsu Kunai 1
+061. Engetsu Kunai 2
+062. Engetsu Kunai 3
+063. Samurai Sword 1
+064. Samurai Sword 2
+065. Samurai Sword 3
+066. Yo-Yo
+067. Drill Arm 1
+068. Drill Arm 2
+069. Drill Arm 3
+070. Air Hockey
+071. Skull Chain 1
+072. Skull Chain 2
+073. Skull Chain 3
+074. Aqua Whirl 1
+075. Aqua Whirl 2
+076. Aqua Whirl 3
+077. Air Hoil 1
+078. Air Hoil 2
+079. Air Hoil 3
+080. Fire Punch 1
+081. Fire Punch 2
+082. Fire Punch 3
+083. Heat Body 1
+084. Heat Body 2
+085. Heat Body 3
+086. Side Bubble 1
+087. Side Bubble 2
+088. Side Bubble 3
+089. Custom Bolt 1
+090. Custom Bolt 2
+091. Custom Bolt 3
+092. Boomerang
+093. Meteor Earth 1
+094. Meteor Earth 2
+095. Meteor Earth 3
+096. Space Yura 1
+097. Space Yura 2
+098. Space Yura 3
+099. Inazuma King 1
+100. Inazuma King 2
+101. Inazuma King 3
+102. Woody Nose 1
+103. Woody Nose 2
+104. Woody Nose 3
+105. Bamboo Lance
+106. Tsunami Hole
+107. Aka Tsynami Hole
+108. Doro Tsunami Hole
+109. Kamon Rain
+110. Kamon Snake
+111. Magnum
+112. Circle Gun
+113. Count Bomb 1
+114. Count Bomb 2
+115. Count Bomb 3
+116. Boy's Bomb 1
+117. Boy's Bomb 2
+118. Boy's Bomb 3
+119. Stealth Mine
+120. Stone Cube
+121. Toppu
+122. Suikomi
+123. Ouenka
+124. Dis Code
+125. Timpany
+126. Silence
+127. Red Fruits 1
+128. Red Fruits 2
+129. Red Fruits 3
+130. Wala Ningyou
+131. Mett Guard 1
+132. Mett Guard 2
+133. Mett Guard 3
+134. Curse Shield 1
+135. Curse Shield 2
+136. Curse Shield 3
+137. Crack Out
+138. Double Crack
+139. Triple Crack
+140. Recovery 10
+141. Recovery 30
+142. Recovery 50
+143. Recovery 80
+144. Recovery 120
+145. Recovery 150
+146. Recovery 200
+147. Recovery 300
+148. Panel Steal
+149. Area Steal
+150. Steal Jelly
+151. Steal Punish
+152. Steal Revenge
+153. Panel Return
+154. Death Match 1
+155. Death Match 2
+156. Death Match 3
+157. Heavy Gauge
+158. Quick Gauge
+159. Buster Up
+160. Blind
+161. Super Kitakaze
+162. Holy Panel
+163. Invisible
+164. Barrier
+165. Barrier 100
+166. Barrier 200
+167. Bubble Wrap
+168. Kakigenkin
+169. Daikozui
+170. Hiraishin
+171. Mayoi No Mori
+172. Kawarimi
+173. Shirahadori
+174. Navi Scout
+175. Bad Medecine
+176. Copy Damage
+177. Life Synchro
+178. Attack +10
+179. Navi +20
+180. Color Point
+
+================================
+11. b. Mega-Class Chips Mchps
+================================
+
+001. Super Vulcan
+002. Neo Variable
+003. Ryuuseigun
+004. Number Ball
+005. Ojizousan
+006. Jealousy
+007. Polter Giest
+008. Bug Shuusei
+009. Full Custom
+010. Dream Virus
+011. Sanctuary
+012. Attack +30
+013. Double Point
+014. Muramasa Blade
+015. Poison Anubis
+016. Black Wing
+017. Justice One
+018. Z Saber
+019. Roll
+020. Roll SP
+021. Roll DS
+B22. Blues
+B23. Blues SP
+B24. Blues DS
+B25. Gyroman
+B26. Gyroman SP
+B27. Gyroman DS
+B28. Searchman
+B29. Searchman SP
+B30. Searchman DS
+B31. Napalmman
+B32. Napalmman SP
+B33. Napalmman DS
+B34. Magnetman
+B35. Magnetman SP
+B36. Magnetman DS
+B37. Medi
+B38. Medi SP
+B39. Medi DS
+C22. Colonel
+C23. Colonel SP
+C24. Colonel DS
+C25. Shadowman
+C26. Shadowman SP
+C27. Shadowman DS
+C28. Numberman
+C29. Numberman SP
+C30. Numberman DS
+C31. Tomahawkman
+C32. Tomahawkman SP
+C33. Tomahawkman DS
+C34. Knightman
+C35. Knightman SP
+C36. Knightman DS
+C37. Toadman
+C38. Toadman SP
+C39. Toadman DS
+040. Blizzardman
+041. Blizzardman SP
+042. Blizzardman DS
+043. Shademan
+044. Shademan SP
+045. Shademan DS
+046. Cloudman
+047. Cloudman SP
+048. Cloudman DS
+049. Cosmoman
+050. Cosmoman SP
+051. Cosmoman DS
+052. Swallowman
+053. Swallowman SP
+054. Swallowman DS
+055. Footman
+056. Footman SP
+057. Footman DS
+058. Django
+059. Django SP
+060. Django DS
+
+================================
+11. c. Giga-Class Chips Gchps
+================================
+
+B01. Delta Ray Edge
+B02. Giganto Hook
+B03. Forte
+B04. Holy Dream
+B05. Curse of Bug
+B06. Death Phoenix
+C01. Screen Divide
+C02. Meteor Knuckle
+C03. Forte Another
+C04. Omega Rocket
+C05. Bug Charge
+C06. Phoenix
+
+================================
+11.    d. Dark Chips            
+================================
+
+001. Dark Sword
+002. Dak Tornado
+003. Dark Circle
+004. Dark Meteor
+005. Dark Thunder
+006. Dark Recovery
+007. Dark Sound
+008. Dark Invisible
+009. Dark Plus
+010. Dark Lance
+011. Dark Drill
+012. Dark Wide
+
+================================
+12. Program Advances PAz
+================================
+
+================================
+13. NaviCust                    
+================================
+
+================================
+14. Boss Strategies BossS
+================================
+
+================================
+15. Translation                 
+================================
+
+================================
+16. Frequently Asked Questions
+    FAQz
+================================
+
+================================
+17. Version History Vhis
+================================
+
+Version 0.2 (01/01/09)- Started
+on the Chips and finished the
+Shops section. Version 0.19
+(07/17/08)- Finished the rest of
+the After Scenario. Version 0.18
+(07/16/08)- Finished half of the
+After Scenario. Version 0.17
+(07/03/08)- Finished Scenario 7.
+Ready to turn in. Version 0.16
+(07/02/08)- Finished Scenario 6
+and Liberate Mission 6. Version
+0.15 (07/01/08)- Finished
+Scenario 5 and Liberate Mission
+5. Version 0.14 (06/30/08)-
+Finished Scenario 4 and Liberate
+Mission 4. Version 0.13
+(06/29/08)- Finished Scenario 3
+and Liberate Mission 3. Version
+0.12 (06/28/08)- Finished
+Scenario 2 and Liberate Mission
+2. Version 0.11 (06/27/08)-
+Finished Scenario 1 and Liberate
+Mission 1. Version 0.1
+(06/26/08)- Started the guide.
+
+================================
+18. What's Next                 
+================================
+
+Alright this is the part of the
+guide where I put what I need to
+work on the next time, I work on
+this guide.
+
+1) Souls
+2) Power-Ups
+3) Chips
+4) Navi-Cust
+5) P.As
+
+And some of you who want to help
+me, can send me an E-mail.
+
+I need help on the translations.
+I pretty much have the rest. I
+just gotta put it in the guide.
+
+I won't be working on this guide
+for the next 5 months. I'm
+sorry. I'm a University Student,
+so I have to focus on that
+stuff. But don't let that stop
+you from sending me anything.
+It'll be included in the guide.
+I promise. It'll be included in
+the next update.
+
+================================
+19. Thanks/Credits              
+================================
+
+--------------------------------
+Credits:
+--------------------------------
+
+To the Battle Master's Bible
+ Rockman Exe 5
+ Team of Blues
+ Team of Colonel                
+such as items, chips, enemy HPs,
+       attacks and souls.
+
+--------------------------------
+Thanks to the following:
+--------------------------------
+
+To Capcom: Making these awesome
+games.
+
+To Gamefaqs, Neoseeker, and
+SuperCheats: Ror hosting this
+guide.
+
+Written by: George Ryu
+(GiroroGochou) E-Mail:
+g66ryu@yahoo.com

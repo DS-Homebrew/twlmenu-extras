@@ -1,0 +1,5002 @@
+Don't hesitate to check out my
+website over at:
+www.awkwardexpressions.com !
+             .::k;
+Walkthrough for: Rockman ZX:
+Advent ,:ll,l.
+   © 2007 Matthijs Ewoud van Loo
+      . .. .ddl;lxxxc;l;.
+  Happy 20th Birthday, Rockman! 
+ .',;,..lc:;ll;clxocxocxxc,ld,
+        ..,,''..';xcocddcclxlloc
+        .';',::ld:lkl:cdxd:lddcl
+       .,;;::lcl:l0xOc;ccxdcolc:
+     ,:::.  .:::;lc:olll:kOko'::
+    .:ldodocccll,.llldooc:;l0O::
+    ,o:dxxxclxd'.:l;cllolc,c0dc;
+ .llllllll;.......,l;ollllllloll
+ ',,:,:;'cc';,,c,,c,',ll:,,ccc::
+.. '' '..:,.,.'' ,c'.cxl'
+.l:..,'. .oxddo:;. ','
+'c'..':,.'.''..oXK,.'. ;x: ';,;;
+;;',:;;:c:',c::;;;,.,oOl,,';;clc
+::;;;,.,..,';:;;:;;c;;;;',:cc:;;
+,',;o; ,:;,;;;cxdllllocxxlllc;cl
+xkkl:lclxkccllccc:;...;lcc:c:';c
+;::;,:;clc;;ddl:o, .;
+ 'xkOxxkxOOOkl:::,;:;:;:c;;cd:;;
+ o:xkxc'lOOdo:;:;,;:;'.c:',;';;;
+ .coo,,oxdxxc,::;.,;..'c. .....,
+ .oodOx:ldoc;:;;':;';:,,;dxdxxlc
+ ,cldkkxxkkkl:cc:lxkkOdc::ONOloo
+ clxOOkkkkkxdo:;xxkOXKdklcdOOxxl
+    ,ookxdoddlc;oxccolc::dodol::
+ :oddll,.  ,dlc:.     .o0OkOdlll
+ .,,,.   ;o:.          '..o:lkol
+       .'cc:col;,...       ..':l
+        .','..',:::;;;,''.,,,:cl
+     ...'.'...,,..,'...'..
+          ....     ..
+
+This FAQ is Copyrighted 2007
+Matthijs Ewoud van Loon (A.k.a.
+xXGogetaXx)
+
+All trademarks are property of
+their respective owners. No
+section of this guide can be
+used without my permission. This
+includes, but is not limited to
+posting on your website, making
+links to my guide, including
+parts of my guide in your own,
+or making reference to any
+material contained within.
+
+
+GameFAQs.com will always have
+the most recent version of this
+document. Mostly because it
+takes too much time to update it
+on other sites, and because I
+will NOT answer emails based on
+un-updated versions on other
+sites.
+
+The following web sites have
+permission to post my FAQ
+without alterations:
+
+http://www.awkwardexpressions.co
+m http://www.gamefaqs.com
+http://www.cheatcc.com
+http://www.cheathappens.com
+http://www.supercheats.com
+
+
+If you want my FAQ on your site,
+please e-mail me.
+
+<-------------------------------
+1.		Table Of Contents
+<-------------------------------
+
+Use Ctrl+F to find what you need
+more specifically, Or
+alternatively, Option+F on a
+Mac. For example, the Transport
+Train stage enter "5.03"
+
+1. Table Of Contents 2. Version
+History 3. Introduction 4. FAQ
+5. Walkthrough 5.01 Grey:
+Mystery Research Lab 5.02 Ashe:
+Airship 5.03 Transport Train
+Area - Diaburn the Gazelroid
+5.04 Forest Tower Area -
+Rosespark the Flowerroid 5.05
+Ice Floe Area - Chronoforce the
+Tridenroid 5.06 Oil Field Area -
+Atlas; Rockman Model F 5.07
+Legions HQ Area - Siarnaq;
+Rockman Model P 5.08 Floating
+Ruins Area - Helios; Rockman
+Model H 5.09 Highway Area -
+Thetis; Rockman Model L 5.10
+Scrapyard Area - Condorock the
+Vulturoid 5.11 Control Center
+Area - kaisemine the Wasproid
+5.12 Quarry Area - Vent/Aile
+Rockman Model ZX 5.13 Waterfall
+Ruins Area - Argoyle and Urgoyle
+Shisaroids 5.14 Mysterious
+Laboratory - Tesrat the
+Hedgeroid 5.15 Biolab Area -
+Bitefrost the Crocoroid 5.16
+Submerged Volcano Area -
+Prometheus and Pandora 5.17
+Ouroboros Area - Final Boss 6.
+Items, Secrets and Hints 6.01
+Life-Ups 6.02 Live Metal-Ups
+6.03 Sub-Tanks 6.04 Medals 6.05
+Extension Chips and Other Items:
+7. Menu Translations 7.01
+Beginning Menu (Press Start)
+7.02 In-Game <Start> Menu 7.03
+In-Game <Map/Model> Menu 7.04
+In-Game <Save> Menu 8. Contact
+Info 9. Credits
+
+<-------------------------------
+2.		Version History
+<-------------------------------
+1.21	1-11-2007
+	Some strategy thingies.
+
+1.2 27-10-2007 English version
+sucked. Why do I even bother?
+
+1.1	*-09-2007
+	Ayup ^_^
+
+1.0 17-08-2007 Phew. Finally did
+the main walkthrough! Expect
+slow updating from now on ^_^
+
+0.98	04-08-2007
+	Hehehe.
+
+0.95	03-08-2007
+	Almost there ^_^
+
+0.93	01-08-2007
+	...Meh.
+
+0.91	29-07-2007
+	Updated some.
+
+0.85 26-07-2007 Alternate way
+for scrapyard life up added.
+Removed Data discs, but added
+chips. KnightmareSin may make an
+faq for those ^^
+
+0.81 25-07-2007 Fixed the
+chronoforce silver medal, added
+strats to medal section, updated
+walkthrough a bit,
+
+0.75 22-07-2007 Yay, another
+update! More walkthrough, data
+discs and fixes.
+
+0.7 Updated another permission
+thing, Also completed the life
+and weapon up section (thanx
+Fernando!) Updated some more
+walkthrough.
+
+0.66 Updated a little more.
+Added Chronoforce cheapness >_>
+Added medals (thanks Eparygon!)
+Changed stage names to correct
+ones (thanks atomic fire!) More
+
+0.6 Started writing, just posted
+it on GameFAQs. I got the
+skeleton from my other ZX FAQ,
+so that part was easy. Todos:
+Finish the FAQ; Main
+walkthrough, Life ups, Data
+discs etc. Finished stuff: Most
+of the menu translations,
+Walkthrough up to the Desert
+(Atlas) stage
+
+<-------------------------------
+3.		Introduction
+<-------------------------------
+
+This FAQ is about Rockman ZX:A
+(A is for Advent), and it's my
+second FAQ.
+
+The main characters in this game
+are Grey, and Ashe. Probably
+named after their hair colors.
+Grey is a Repliroid from a lab,
+without any knowledge of his
+past. Ashe is just your typical
+ruin looter >_>.
+
+I hope you'll enjoy reading my
+FAQ as much as I do writing it.
+This game is pretty hyped, since
+it predecessor was pretty damn
+good. ZX:A is a sequel, but also
+the evolution of ZX. I know,
+since the game's just out, that
+there are a lot of strategies I
+might have missed. This doesn't
+mean in the least that they are
+ineffective. Thanks to Capcom,
+you can be as creative as you
+want to be in this game.
+
+Have fun!
+
+<-------------------------------
+4.		FAQ
+<-------------------------------
+
+FAQ stands for Frequently Asked
+Questions. Since they are asked
+a lot, I'll answer most of them
+here.
+
+
+Q: What are the main differences
+with Rockman ZX, the original?
+
+A: The main difference is the
+you have one Live Metal, but are
+able to
+   "Trans-ON" (God I hope this d
+   I loved R.O.C.K on, please do
+   into other bosses. This bring
+   The four Shitenou LM's will m
+
+   I don't want to spoil things 
+   exactly how, you'll just have
+   Anyhow, Trans-on's are copies
+   to re-use using Model A.
+
+   You can also start off with e
+   Unlike the previous installme
+   Both have a unique intro stag
+
+
+Q: What's the "24 items" thing
+Capcom was talking about?
+
+A: The 24 items are medals. More
+about this in the medal section
+   under items.
+
+
+Q: How do I refight bosses?
+
+A: Well, in Hunter Camp Area 1,
+there are 8 people standing on
+the
+   Buildings. This is no mere co
+   and he'll give you some kind 
+   Each person represents anothe
+   to the shisaroids (right).
+   You have to talk to them mult
+
+   Also, when you have fought al
+   in the same area, and talk to
+
+
+Q: I defeated all Falseroids,
+but don't know how to get to the
+marking on
+   the map!
+
+A: You need to transport over to
+Biolab 3 (Bitefrost's area).
+   You need the room before the 
+   a trans-server that was broke
+   Use it by pressing up.
+
+
+Q: I can't find this subtank,
+item, etc.
+
+A: Check the table of contents.
+Section 6 covers those kind of
+items.
+
+
+<-------------------------------
+5.		Walkthrough
+<-------------------------------
+
+Well here's the walkthrough! Use
+the table of contents to find
+whatever you need. remember, use
+Ctrl + F! Or Clover + F on a
+Macintosh.
+
+Notes: Because the game is still
+Japanese at the moment of
+writing, I may spoil some parts
+of the game. I will try to avoid
+obvious plot advances. Also, the
+FAQ is aimed at the "Expert"
+mode. Why they called it that
+way beats me, but it's the
+closest thing to normal mode.
+
+
+DISCLAIMER: This FAQ was made
+for the Japanese version. No, it
+IS model V, Model W doesn't
+exist. I'm referring to
+everything by their Japanese
+names. Why? Because the English
+versions sucks. Story wise, and
+probably in a lot more way than
+that too.
+
+I mean come on Capcom of
+America, A-trans? Megamerge?
+Yuck.
+
+Rock-ON!!! Trans-ON! Now there
+are some lines that sound bad-
+ass.
+
+--------------------------------
+5.01 Grey: Mystery Research Lab
+Area
+--------------------------------
+
+	"Who... Am I?"
+
+The moment I found out Grey was
+an experiment of some kind, I
+had to write that down. This is
+going to cause all kinds of
+weird plot twists, trust me.
+
+If you've played ZX, then you
+will immediately notice the map
+screen at the bottom. It's
+pretty much self explanatory
+though, so you'll get used to it
+soon enough. Just mash on every
+button you can, it's really
+quite fun. It seems some ruin
+hunters are trying to loot up an
+old research laboratory. Instead
+of normal loot, they find the
+Repliroid Grey. But even before
+they can get to Grey, they get
+attacked by what they call
+"Mechaniroids", but what are
+obviously Galleons from the
+previous ZX. Of course, they
+shoot each other and in the
+process they wake up Grey. Grey
+wakes up, wondering if he killed
+all of these people.
+
+<start Anime cut scene>
+
+Of course he also wonders who he
+is, where he came from and the
+likes. Pandora warps in,
+introduces herself (and Grey),
+and enlightens Grey that he is a
+failed experiment. He was made
+to become a "Rockman". But what
+the hell is a Rockman? Pandora
+probably thinks it's enough, and
+shoots him. Of course you run,
+and the stage starts.
+
+	Start Stage!
+
+You don't start off with a Live
+metal in your hands this time;
+you are still in Repliroid form.
+Capcom was nice enough to
+provide you with a standard
+1-damage gun (which only fires
+horizontally) though. Don't
+worry, this is more than
+efficient for now. Run right, as
+you're used to. Funny: If you're
+in <Beginners Mode> Grey will
+give you advice on how to move.
+
+It's all very basic. Shoot the
+blocks (and everything else)
+that stands in your way, then
+continue through the door.
+
+Ah, now's a little bit of
+challenge. You should know how
+to climb up stairs by now, but
+if you don't; jump onto them and
+press Up on your D-pad. Slay the
+New (awesome) Galleon type,
+maybe get the energy filler, and
+move on. You can also drop down
+stairs by pressing B. Do so. 2
+Enemies appear! Jump, shoot. Are
+we clear? Good.
+
+Also nice to know is that if you
+press the large window icon in
+the bottom left of the touch
+screen, you'll get a VERY exact
+map of the area you currently
+are, including doors.
+
+Some (familiar) enemies show up
+here. Didn't these kind of
+things first got they're roles
+in Rockman 2? Ah well. Head
+through the door.
+
+According to the map, we still
+have a while to go. About
+halfway there I guess. The next
+area consists of crawling under
+some hot air streams.
+(Down+Direction) Shoot the
+baddies and move on.
+
+	Area 2, Boss!
+
+********************************
+WARNING: BOSS:
+Giant Mechaniroid
+********************************
+
+Weaknesses: N/A
+Resists: N/A
+Difficulty: (damn) Easy
+
+Attack 1. Fire spins. He
+launches a fire blowing thing.
+You can jump over the flames to
+dodge. Attack 2. Eye laser(s).
+He launches laser from his eyes
+which go from the Sides to part
+of the center. Stay under his
+nose to avoid. Note that if you
+kill an eye, he can't use it to
+fire lasers. He'll also drops
+some kind of bombs after this
+attack, so go back to standing
+on a hand palm to dodge. Attack
+3. Hands Crush. He will take the
+hand you're not standing on, and
+use it to crush you on the hand
+you ARE standing on. Just jump
+off for a bit to dodge.
+
+Strategy: Stand on top of either
+of his hands and keep blasting.
+Done. Wish I could do this in
+Donkey Kong though ^-^
+
+There, done. Mission complete.
+But... Wait, you fall down too!
+IT'S A TRAP. Damn it.
+
+Hey, seems the hunters saved you
+didn't they? Grey doesn't seem
+to trust it... He gets less
+hostile after a few lines
+though. Well, you didn't die.
+You recovered at the Hunter
+Camp. He says they did recover
+the Live metal, but they need to
+transport it. The Hunter (his
+kana reads "Nikol") tells you to
+get your ass to a trans server.
+You'll find what you need (the
+hunter's license) there.
+
+Go out with the door to your
+left. Room number 4 contains the
+trans server. Step onto it and
+press up. You'll get a Hunters
+License! the guy tells you that
+you need to do missions, you
+can't get them yet though.
+Still... SAVE. YES! On top of
+that, you get not 1, but 5
+different save games! Oh yeah,
+the first option is Data
+management, and the second is
+quit. Once in the save
+management, the first is Save
+play data, second is load and
+the third is delete. But you've
+got five slots, so why delete?
+
+When you try to leave, the woman
+tells you something VERY
+important. The thing standing
+next to her is a transport
+target. Every Area Number has
+one. Sadly, you can't use them
+to transport to somewhere.
+Still, you CAN use a trans
+server to get to any one of
+these. One catch though: You
+need to activate them. How?
+Stand next to one and press Up
+on your D-pad. Now they want to
+see cash. 100 E crystals to be
+exact. I think it's more than
+worth it though, so activate
+these whenever you can.
+
+
+Room number 2 Contains the
+Database guy, like Fluub (yes,
+FLUUB) in ZX. You don't have any
+data right now though. Room 1
+contains... A bar? They're not
+Repliroids then.
+
+You don't need to do any of
+these first though. Just keep
+heading right. Eventually you'll
+meet a hunter guy. He'll take
+you on the first mission.
+
+See 5.03
+
+--------------------------------
+5.02	Ashe: Airship Area
+--------------------------------
+
+The hunters have heard some info
+that a special Live metal is
+somewhere around these airships.
+Of course Ashe is going to be
+there first. So... She jumps.
+
+<anime cut scene>
+
+	Start Stage!
+
+Ashe's buster is some kind of
+small laser, and is just a bit
+weaker than Grey's. She is
+faster though.
+
+Keep walking forward until you
+see your first enemy: a standard
+Galleon. Blast him, then move
+forward. You'll encounter a
+bladed Galleon up ahead, so make
+sure you keep your distance from
+these guys.
+
+Hop on the crystalline platform,
+it will move. Keep blasting
+Galleons, then hop on to the
+next platform. A laser shooting
+enemy will appear, so duck. Or
+just shoot the crap out of him.
+I prefer the latter.
+
+Go down the ladder and move to
+the right, killing all the
+baddies you spot on the way.
+Then, climb up the ladder to
+jump up the moving platform.
+
+
+********************************
+WARNING: BOSS:
+Giant Flying Mechaniroid
+********************************
+
+Weaknesses: N/A
+Resists: N/A
+Difficulty: Easy
+
+Attack 1. Eye laser(s). He
+launches laser from his eyes
+which go from the Sides to part
+of the center. Stay under his
+nose to avoid. Note that if you
+kill an eye, he can't use it to
+fire lasers. He'll also drops
+some kind of bombs after this
+attack, so go back to standing
+on a hand palm to dodge. Attack
+2. Hands Crush. He will take the
+hand you're not standing on, and
+use it to crush you on the hand
+you ARE standing on. Just jump
+off for a bit to dodge.
+
+Strategy: Same as Grey's
+version, but airborne. So don't
+fall down. Stand on top of
+either of his hands and keep
+blasting. Done. Wish I could do
+this in Donkey Kong though ^-^
+
+There. You owned this guy. But
+wait... Who the heck is this
+guy? Ashe thinks he's after the
+Live metal. That makes him our
+target. Hunter members join you,
+only to be slaughtered by him,
+who introduces himself as
+Prometheus. Babbling something
+about being the only real
+Rockman...
+
+
+Well, you didn't die. You
+recovered at the Hunter Camp. He
+says they did recover the Live
+metal, but they need to
+transport it. The Hunter (his
+kana reads "Nikol") tells you to
+get your ass to a trans server.
+You'll find what you need (the
+hunter's license) there.
+
+(copy-paste from Grey's section
+:) Go out with the door to your
+left. Room number 4 contains the
+trans server. Step onto it and
+press up. You'll get a Hunters
+License! the guy tells you that
+you need to do missions, you
+can't get them yet though.
+Still... SAVE. YES! On top of
+that, you get not 1, but 5
+different save games! Oh yeah,
+the first option is Data
+management, and the second is
+quit. Once in the save
+management, the first is Save
+play data, second is load and
+the third is delete. But you've
+got five slots, so why delete?
+
+When you try to leave, the woman
+tells you something VERY
+important. The thing standing
+next to her is a transport
+target. Every Area Number has
+one. Sadly, you can't use them
+to transport to somewhere.
+Still, you CAN use a trans
+server to get to any one of
+these. One catch though: You
+need to activate them. How?
+Stand next to one and press Up
+on your D-pad. Now they want to
+see cash. 100 E crystals to be
+exact. I think it's more than
+worth it though, so activate
+these whenever you can.
+
+Room number 2 Contains the
+Database guy, like Fluub in ZX.
+You don't have any data right
+now though. Room 1 contains... A
+bar? They're not Repliroids
+then.
+
+You don't need to do any of
+these first though. Just keep
+heading right. (literally. Don't
+use any doors that require a
+push of <Up> on the D-pad.
+Eventually you'll meet a hunter
+guy. He'll take you on the first
+mission.
+
+
+--------------------------------
+5.03	Transport Train Area
+--------------------------------
+
+Model A lends his strength!
+R.O.C.K. ON!
+
+Hunter Brii (EDIT: GAH. It's
+Billy. Waddafux?) tells you this
+mission is about transporting a
+Live-metal to a group called
+"Legions". Basically, they're
+the government. He says the
+thing is called a Live metal.
+Grey wonders what a Live metal
+is supposed to be...
+
+The screen flashes a few times,
+a mysterious voice tries to warn
+you... Too late. Bad guys fly
+in, and Brii makes a run for it.
+Something is fishy.
+
+Oh...Snap! It's Pandora AND
+Prometheus. This is BAD juju.
+Indeed, as Prometheus attacks
+the "Rockman"
+
+Wait, it's the mysterious voice
+again! He says... He'll help you
+transform into something
+powerful! he then introduces
+himself as Live metal, Model A.
+He... Rocks on by himself?
+
+<anime cut scene>
+
+You have the power, now show 'm
+who's boss. Prometheus doesn't
+care. He says he'd like to see
+you develop in a true Rockman.
+And... He's gone. But of course,
+the front of the train gets
+attacked. Get your gears up, and
+mess around with Model A a bit.
+
+
+	Stage Start!
+
+Now, you got homing shots. This
+is done by charging secondary
+weapon button (usually R). This
+creates a transparent triangle,
+which you need to get the
+baddies into. A very important
+strategy is to charge your
+buster, hold R, shoot the homing
+shot, THEN the charge shot. You
+can combo if you master this.
+Grey's and Ashe's are pretty
+much the same, But Ashe's homing
+shot homes in outside of your
+usual range too. You'll see what
+I mean.
+
+The charged shot is different
+for Ashe, because she has a
+laser buster that bounces off
+walls. This is darned handy in
+some situations, but usually
+it's just a tad weaker than
+Grey's buster.
+
+I also loved ROCKing on and off
+using the toch screen, with the
+new button in the bottom right.
+
+Keeping the A button pressed
+uses you Giga crush attack. Try
+it! Also worthy of noting, is
+that the weapon energy meter
+restores by itself. Slow, but it
+does.
+
+The stage is really straight
+forward. The imperial walker
+type enemy may require some more
+thought (i.e. JUMPING) than most
+other. The stage is more of a
+blast fest than trying to
+survive, really.
+
+Moving on. Move through the
+doors, get the life restore,
+then through the doors again.
+What do we see here on top? It's
+a data disc! Since you can't go
+back through the door, you can
+use it to dash jump up to the
+platform to get the disc. Do so.
+It may be a bit typical Rockman
+annoying though, Rockman Zero
+had it's fair share of
+annoyances like these too. the
+disc number is B10... That means
+there's a Boss again.
+
+Nice entry there! Odd enough, he
+recognises Model A pretty
+quickly. Ah, seems he's another
+member of P&P Inc. (read:
+Prometheus and Pandora)
+
+
+********************************
+WARNING: BOSS:
+Diaburn the Gazelroid
+********************************
+
+Element: Fire (+his head)
+Difficulty: Easy
+Weakness: Ice
+
+Attack 1. Downward strike. He
+jumps, aims, and moves downward
+in a sting motion. Dash away,
+under him if you can. Attack 2.
+Fire arrows. He fires flame
+arrows, which will stick to the
+wall and the floor. Dash under
+it, but not too far to avoid.
+Attack 3. Upward strike. He'll
+jump upward, possibly destroying
+part of the ceiling. Hint: don't
+be on it.
+
+Strategy: Wait a sec. Does this
+guy have a WEAKNESS? Oh crud.
+He'll probably destroy most of
+the ceiling when the fight
+starts, So make sure you get the
+hell away from him. It might
+also be smart to shoot him from
+behind, since unlike ZX,
+weaknesses are GOOD here. Keep
+firing charged buster shots,
+they're stronger than those
+homing shots.
+
+It might be a bit tricky, but
+like most ZX:A Bosses, it's all
+about patterns and developping a
+pattern of your own to dodge
+theirs. Also, use that Homing
+shot, charged shot combo I
+thought you.
+
+You got... Diaburn's DNA! The
+game requires you to transform
+into him, so do so.
+
+Up + Charged shot is the Upward
+strike, use it to finish off the
+rest of the ceiling. Model A may
+also require you to try out his
+wall jump effect by dash jumping
+over to a wall, then jumping
+again. this makes up for
+Diaburn's inability to wall
+climb.
+
+After all this, model A needs
+you to transform back.
+
+When you're back at the Hunter
+Camp, return to room 4 and step
+on the trans server. Mission
+complete!
+
+NOTE: A very handy, though a bit
+cheap strategy is using
+Diaburn's Charge+Up to jump,
+than at the peak of the jump,
+trasform back into Model A. This
+way, you can jump incredibly
+high. Even higher than Model Hx
+from ZX. It's just That cheap.
+
+
+Wait... Someone important is
+talking to you. This is your
+first encounter with the three
+wise men. Albert, Mikhail and
+Thomas. The red guy's Thomas,
+the weird yellow geezer's
+Mikhail and the Blue haired
+fellow is Albert.
+
+Master Thomas says you need
+data. Probably about Pandora and
+Prometheus. He also tells you
+more about the R.O.C.K. system,
+and how other are using it as
+well. You also get a new Card
+key.
+
+Also, something seems to be up.
+Irregulars (Mavericks) appearing
+in a few areas. And you gotta go
+check it out.
+
+Not going anywhere for a while?
+SAVE.
+
+
+Right, So now, you have the
+option of choosing two areas.
+Rosespark's, and Chronoforce's.
+
+I personally like to choose
+Rosespark's, because
+Chronoforce's area contains a
+subtank, but you need
+Rosespark's trans-on to get to
+it.
+
+Whichever you choose, head to
+Hunter Camp area 2. Remember the
+Transport Train area? (it has a
+nice screenshot next to it) We
+need to climb on top of it I
+trust you are familiar with
+wall-climbing. Get your map out.
+See the blue icon indicating a
+door? Go through it.
+
+You're now in Hunter Camp 3.
+Again, get you map screen on.
+the bottom red arrow marks the
+Ice Floe Area (Chronoforce),
+while the right one marks the
+Forest Tower area (Rosespark).
+
+Climb up to the top red arrow
+and head into the forest...
+
+--------------------------------
+5.04	Forest Tower Area
+--------------------------------
+
+Yes, I know the kana says just
+"Tower". But I also think that's
+a bit confusing, since there are
+more than one tower in this
+game.
+
+Anyway. You may choose to
+activate the Trans server link
+here. I'm not going to notify
+you anymore about these, because
+pretty much all areas have them.
+So yeah. Simply activate them
+all. Saves trouble.
+
+
+	Stage Start!
+
+Be careful for the flower Tails
+just popping out of nowhere.
+Obviously, you can only hit them
+on the red mark. So do so.
+
+The door you see is normal in
+the stage, and can only be
+opened from one side, By
+blasting it, that is. Blast more
+flowers.
+
+Before you continue though, you
+should save if you didn't. You
+can't come back here after the
+doors close. So save, then
+continue through the door.
+
+
+You trigger an alarm. Well,
+don't we feel welcome? They
+block a door. Well wow. Means
+we'll just have to go around it.
+Albert says the same thing.
+Climb up. Just stand on the
+center, vines will appear for
+you to walk on.
+
+Keep you homing shots ready.
+Some flowers are stuck on the
+vines, and they don't like you.
+So yeah, blast em.
+
+Watch out for the spikes on the
+bottom of some platforms too.
+It's easy to accidentally bump
+into them whilst wall-climbing.
+The door in the center also
+holds nothing more than a data
+disc.
+
+The new worm enemies are really
+annoying. They explode when you
+don't hit them with a strong
+blow, and the body parts will
+hit you. Keep your distance, and
+blow them away. Another new
+enemy, the fake full health, is
+pretty weak. It flies up when
+you try to get it, then fly at
+you. Just dash away and/or kill
+it.
+
+Now keep moving up the vines.
+You can use the Diaburn jump
+trick to get a Full health up
+here. Watch out for falling
+worms, then go through the door.
+
+Time for a mini boss.
+
+********************************
+MINI BOSS:
+Spidrill
+********************************
+
+Difficulty: Easy/medium
+
+Attack 1. Leg wheel. He'll stick
+out his four legs in all
+directions, and move them in a
+clockwise manner. Jump over the
+leg tips to avoid. Attack 2.
+Spider drop. He'll drop mini
+spiders. Blast them using homing
+shot. Attack 3. Electric lob.
+He'll shoot you with electric
+lobs. Watch for where they fall,
+then dodge accordingly. Attack
+4. Leg drill. He'll try to drill
+you from one side. Dodge to the
+other. this will also take out a
+panel in the floor.
+
+Strategy: He might seem a bit
+intimidating at first, but he's
+really a pushover. He has a few
+attacks, which are easily
+dodged. His head and his leg
+tips are his weaknesses, so
+attack those. Use both charged
+shots and homing shots.
+
+
+The next part may vary wether
+you dropped down the hole the
+Spider drilled for you. I'm
+assuming you'll take the highest
+door, because I'm feeling lazy.
+
+Here, you'll meet pushing
+enemies. They're quite easy,
+just shoot the from behind. They
+won't hurt you by themselves.
+
+Go along the path outside.
+Remember the intro stage? Well,
+those laser goons are back. But
+this time, you've got homing
+shots. Show em who's boss.
+
+Do you see the hanging brown
+pillar? Well you can use it for
+a life up later. See the life up
+section.
+
+Move on. Enemies get a bit
+tougher here, so watch your
+step. The wall razor enemies can
+be defeated by dropping after
+they've launched their gears,
+then firing a round of your own.
+
+Climb up the rest of the stairs,
+then prepare for boss time.
+
+You'll see Rosespark,
+terrorizing a Hunter. Of course,
+you help him get away by
+distracting Rosespark. He
+babbles something about the
+glorious model V... Maybe he's
+influenced by it too?
+
+********************************
+WARNING: BOSS:
+Rosespark the Floweroid
+********************************
+
+Element: Electric
+Difficulty: Easy/Medium
+Weakness: Ice
+
+Attack 1. Spike throw. He'll
+throw electric spikes at you.
+Dash under them to avoid. Attack
+2. Same as 1, only bigger.
+Attack 3. Electric triangle.
+This attack is a result of
+attack 1 or 2. 3 fallen spikes
+will create an electric
+triangle, damaging everything
+inside it's vicinity. Attack 4.
+Electric rope. He'll lash out at
+a rope, electrifying it. Just
+stay out of the way. Attack 5.
+Charge plus laser. He'll recover
+some health, the shoot a laser
+covering most of the area. Dash
+behind him.
+
+
+Strategy: Rosespark will always
+be on the ropes, firing his
+weapons. Make sure you are
+always on the move too, and keep
+firing. If he's low, wall-climb.
+If he's high, keep dashing on
+the floor. Definitely easier
+than he seems.
+
+Watch him blow up to pieces,
+than mess a little with
+Rosespark.
+
+Obviously, you can now climb on
+ropes and posses electric
+attacks. You can lash on to a
+parallel rope by pressing the
+attack button.
+
+On to the next room... Crud.
+There's a piece of... Model V?
+
+Also the scared Hunter. What the
+hell? Model V is sucking his
+life!
+
+Two mysterious men warp in!
+Great. Just what we needed.
+Anyway, it's obvious who these
+two resemble. We just don't know
+their roles yet.
+
+They talk about how model V is
+going to bring peace to the
+world, by ruling it. Model A
+doesn't like it.
+
+Notice the awesome Rock ON
+animations. The two introduce
+each other: the purple one is
+called Siarnaq and wields Model
+P. The green one calls himself
+Helios, and wields (duh) Model
+H.
+
+They take the model V part while
+leaving. Master Albert calls,
+saying we need to get our asses
+back.
+
+Well, after the door you get
+nothing but spikes... Or do we?
+Seems you can use rosespark to
+travel over them using the
+ropes.
+
+Try it out. Just press Up when
+under a rope or vine.
+
+The next door takes you to a
+trans server. But not a normal
+one, sadly. It will warp you to
+the start of the area though, so
+that's good enough.
+
+Wait a second; that locked door
+is now open! Dandy. Luckily for
+you, there's a normal trans
+server behind the door. Go in
+there, and transfer back to
+base.
+
+
+Remember where the door to the
+Ice Floe Area is? Well first go
+to area 3, then go to the bottom
+left red arrow. Maybe active the
+trans link, then move on.
+
+--------------------------------
+5.05	Ice Floe Area
+--------------------------------
+
+I'm really sorry, but I couldn't
+translate the kana here. I'm
+just that sucking. Anyway.
+
+Master Mikhail contacts you,
+nothing important.
+
+The level is again, pretty
+straight forward platforming. To
+make this level a lot easier,
+use the Diaburn trans-on.
+Diaburn can destroy ice blocks
+with his fire arrows and melee
+attacks. His, err, horns also
+cut anything they touch. This is
+especially useful for the camera
+like guard robots, you can just
+dash at them, and they'll die a
+quick death. This area also
+houses new water enemies. these
+bugger shoot spikes into four
+diagonal (!) directions. They
+also resurrect once after you
+killed them the first time.
+There are also some kind of ice
+shoot, who shoot ice spikes to
+you. Just avoid, and kill them
+so you can move freely.
+
+Also note, that if you are short
+on health, Diaburn's charge
+attack can cut most "Big" items,
+like energy crystals or Live
+metal energies.
+
+Just keep hopping over them
+platforms, and watch out for
+fake ice blocks. You should
+always look if there's a cannon
+under them, because they will
+flip over as soon as you come
+close enough. You can choose to
+go underwater though, it may be
+more easy that way.
+
+Sadly, the last part won't
+having any ground beside the ice
+blocks. that means you will have
+to get on top of them. It's
+short and not that hard though,
+so don't worry.
+
+Go through the doors.
+
+********************************
+MINI: BOSS:
+Sucker Armz
+********************************
+(hey, that's actually how the
+kana reads)
+
+Element: Ice (?)
+Difficulty: Easy
+Weakness: Fire
+
+Strategy: Boy, this guy is
+really easy. But with a name
+like that, what else? The
+strategy is simple: go forth and
+shoot out Fire arrows with
+Diaburn.
+
+It operates in a set pattern,
+and keeps arms next to it to
+protect itself. You need to
+shoot the arms (one shot of a
+fiery arrow is enough) first
+before you can hit the
+mechaniroid himself, in his
+"eye". If you're not quick
+enough, he'll shoot out
+missiles.
+
+You should have put him where he
+belonged by now.
+
+Go al the way right, until you
+reach a corridor with spikes.
+Here, you should take the road
+up. Use Model A, because it's
+hard to maneuver with Diaburn.
+
+The next part has a new type of
+harmless enemy: Pidgin-roids. Or
+something. they die with one
+hit, so they're not really a
+threat. They do drop bombs when
+they die, that look like
+recovery items. Don't take them,
+as looks deceive.
+
+Next part is easy. Head right
+until you see ropes.
+
+Sub-Tank: this one is easy, and
+you should really take it. Just
+head up the ropes with
+Rosespark, then sling your way
+right. Take the subtank lying
+there.
+
+Watch out for enemies, then head
+down and right through the door.
+
+The next bit is kind off
+annoying. To unlock the
+mechanical door to the right,
+you'll need to destroy switches
+of some kind. The switches are
+behind the blue doors you find
+in this area. Some blue doors
+are hidden behind ice blocks,
+and there's even one you can get
+to yet. This means you'll have
+to use Diaburn for most of the
+icy areas.
+
+You have to use your map screen
+to get to all of the switches
+you can find, then destroy them.
+This opens the door to the
+right.
+
+Note that Diaburn can wall-jump,
+and had a very handy upwards
+thrust attack. Use them. Hint:
+use Diaburn charge attack to cut
+the weapon energies scattered in
+the switch rooms. This fills up
+your newly acquired sub tank
+nicely.
+
+Once your done here, head
+through the doors.
+
+
+Two mysterious figures warp in.
+Of course, you wonder who they
+are.
+
+Another pair of awesome Rock on
+sequences ensue. The blue one
+calls himself the Rockman of
+ice, Thetis, wielding Live metal
+Model L. The red one introduces
+himself as Atlas, the Rockman of
+Fire, wielding Live metal Model
+F.
+
+Atlas breaks the ice (NO pun
+>_>), and the two leave.
+
+Of course, you still have a boss
+fight, don't you? In comes the
+Falseroid, Chronoforce.
+
+********************************
+WARNING: BOSS:
+Chronoforce the Tridenroid
+********************************
+
+Element: Ice
+Difficulty: Easy
+Weakness: Fire
+
+Attack 1. Dash. He dashes at
+you. Dash jump under or over him
+to avoid. Attack 2. Mini-
+Chronoforces. He sits in the
+bottom left or right of the
+screen, and he'll create 4 mini
+versions of himself. These will
+first line up, then dash at you.
+Use homing shot to avoid. Attack
+3. Ice Spikes. He'll Launch
+spikes. Just estimate a spot
+that will be spike-free, and
+dash there. Attack 4. Chrono Ice
+Spikes. He'll go into the
+background, and fire spikes at
+you. The spikes will also
+return, as if time went
+backwards. This attack is very
+hard to avoid, but luckily he
+doesn't do it all too often.
+Attack 5. Clock-Up. He sits in
+the middle of a screen, miming a
+clock. This attack makes all of
+his other attacks go WAY faster.
+
+
+Strategy: He shouldn't give you
+that much trouble. His back is
+shielded with metool plating, so
+it's invulnerable to ANYTHING.
+His belly is weak to stuff
+though. You can use Diaburn, but
+I personally like comboing with
+Model A. Choose whichever you
+like. It's all about dodging
+here.
+
+Oh, you also have a subtank now.
+The fight isn't that hard, but
+it might come in handy.
+
+
+You got the Chronoforce trans-
+on! This one could also be
+called Hackforce, since it's the
+damn cheapest thing. Just charge
+his attack, even on land, and
+fire. Now every thing slows down
+and you can kill everything.
+Honestly. It's back is pretty
+much invincible. But only to
+spikes, strangely enough.
+
+Go through the doors to test him
+out. After testing out
+Chronoforce and skipping a lot
+of text, head through the door.
+Save using the trans server.
+
+You don't necessarily have to go
+back to base, as the next stage
+is right next to this one...
+
+Head through the door.
+
+The door on top of this one
+heads to the Forest Tower are,
+so don't take that one.
+
+As you move to the right, you'll
+see your path is blocked by
+colored gates. To unlock them,
+you have to "Infect" the
+elemental spheres in the room
+before the red gate. You do this
+by hitting the element you see
+with the opposed (i.e. you
+should hit red with and electric
+attack, blue with fire etc.). So
+go through the door.
+
+First off, destroy the block
+that are in you way with
+Diaburn's thrust attacks. Shoot
+the blue globe with a fire
+arrow, then go up the rope. I
+shouldn't need to tell you to
+use Rosespark for this anymore,
+so I will not.
+
+After the ropes, hit the red
+globe with a charged rosespark
+attack.
+
+Head right, and destroy the
+block. Go into the water. Now
+you should transform into
+Chronoforce. Using him, dash
+through the spiked area. Don't
+be afraid, he's imune to them.
+Shoot at the green globe.
+
+Now backtrack to the locked
+gates... They're open!
+
+Now, on to the next area...
+
+--------------------------------
+5.06	Oil Field Area
+--------------------------------
+
+You'll find a fallen desert
+hunter. Not much you can do.
+
+Onward, you'll find one of the
+most annoying enemies yet: the
+spring bouncer. Just make sure
+you kill these quickly with
+charged shots...
+
+Keep heading right as you're
+used to. try to keep a charged
+buster.
+
+Don't go down the stairs. You
+may also grab the extra life
+(the A) using Diaburn jump.
+
+Kill the bouncer, then head up
+the stairs, through the doors.
+
+In area 2, you'll encounter
+Galleons on bikes. (omg, Galleon
+stole my bike >_>) As long as
+you watch out, you'll be fine.
+They jump every now and then, so
+try to dash under them when they
+do. They'll kill themselves
+bumping into stuff. You won't
+get goodies when they kill
+themselves though, you only get
+items when you kill them
+yourself.
+
+Moving on, another imperial
+walker and four new enemies of
+the same type. They keep
+circling in the air for a set
+pattern. Use you homing buster,
+before they actually fire things
+at you.
+
+Move on, killing 2 walkers and
+dodge another Galleon bike. You
+can grab the items under the
+breakable pipe.
+
+Move on. See the shiny power up
+capsule? You can't grab it yet.
+But almost, so remember it's
+location a bit.
+
+Move on, killing more enemies.
+Now, you can see ropes. These
+are a bit harder than usual,
+since there are enemies around.
+Just keep firing round of
+spikes, and electrifying the
+rope at the last bit.
+
+Go back into Model A, and
+prepare for a mini boss.
+
+********************************
+MINI: BOSS:
+Giga Aspis (Fire)
+********************************
+
+Difficulty: Easy/Medium
+Weakness: Electric
+
+Attack 1. Fire wheel. He'll spit
+a rolling fire wheel that rolls
+over the ground. Jump to avoid.
+Attack 2. Oil spit. He spits oil
+that will stick to you and slow
+you down. You will catch fire if
+he uses a fire attack. Attack 3.
+Slam. He'll slam his body to the
+ground. Dash the side of the
+screen where he isn't to avoid.
+Attack 4. Fire scatter. He'll
+make a fire wheel that stays in
+mid-air and scatters it's
+flames.
+
+Strategy: He seems intimidating
+eh? Ashe players may enjoy the
+fact that their buster's bounce
+exactly to his head. But he's
+really, really easy. Get under
+him, and trans-on into
+Rosespark. Now mash the sub
+attack button like a madman,
+Maybe use a charge now and then.
+
+Watch him go down fast.
+
+Move on, into the crashed
+airship.
+
+Once inside, notice that the
+Data room isn't working.
+
+(doesn't this ship look a hell
+of a lot like the Guardian base
+from the original zx? Lazy
+Capcom. It's not the same story
+wise though.)
+
+Dash to the right to find a
+fallen Desert hunter. (his kana
+read Tom) He tells you the power
+is off, and a lot of his allies
+are being held by irregulars.
+
+So, you're going to put the
+power on. Obviously, you need
+the room the the Lightning
+symbol on it.
+
+Once inside, head right and
+trans-on into Rosespark. His
+charged shots can re ignite the
+parts that where off before.
+
+Great, so now you've got most of
+the doors working. I headed to
+the trans server room first, you
+should too.
+
+First, head up using the
+elevator (press up while on it),
+then into the first door. Kill
+the baddies, and the hunter will
+flee. The second room contains
+only bad guys.
+
+Go back to the main floor, and
+into the first room. You'll
+automatically rescue the hunter.
+Same with the second room.
+
+There, you've rescued them. Now
+you can move on to find the real
+culprit... Atlas.
+
+He talks about the desert
+hunters a bit. He's probably
+looking for a part of Model V
+here. though luck for him,
+there's only you.
+
+And you'll own him. Literally
+>_>
+
+
+********************************
+WARNING: BOSS:
+Atlas (Rockman Model F)
+********************************
+
+Element: Fire
+Difficulty: Easy/Medium
+Weakness: Electric
+
+Attack 1. DS Buster. He'll shoot
+his buster from below, but it
+will change direction halfway.
+Just stay out of the red line.
+Attack 2. Bomb (Ashe only).
+He'll drop a bomb. Don't step on
+it. Attack 3. Fire shot. He'll
+shoot a charged buster shot at
+you. wall climb. Attack 4.
+Punch. He'll punch you with his
+buster. Attack 5. Spread
+fireball. He'll charge a shot,
+and shoot it at the wall. the
+ball will split up into a lot of
+small balls. Attack 6. Flame
+Dash. He'll dash at you a bit.
+
+
+Strategy: I know it's tempting,
+but don't use Rosespark. I'm
+serious, unless you know exactly
+what you're doing, stay the hell
+away from that trans-on.
+
+What you do need to do, is only
+stay on the same level as him if
+you're going to attack,
+otherwise just stay away. Buster
+combo his ass. With ashe it's
+way easier, because if you miss
+it will probably hit him later
+on.
+
+If he gives you trouble, use
+Chronoforce.
+
+
+As you receive the DNA of Atlas,
+something weird happens. Seems
+the DNA contains some data on
+model V. Something about Model A
+and protect... The logo's a bit
+funky too eh? i mean, the A and
+V intertwined that way.
+Foreshadowing? I can't read too
+well though.
+
+
+Ah, your first Shitenou trans-
+on. Model F allows you to create
+precisely aimed bullets using
+the touch screen. (trans-on into
+him, then press his Touch screen
+button, then press start)
+
+His (medium, even) charged shots
+can break walls.
+
+The Ashe version can drop (and
+shoot) bombs, while the Grey
+version stays more loyal to the
+original, giving him flame
+attacks.
+
+
+Move into the next room. The
+captain and a hunter are
+terrified here. Break them free
+using the Atlas trans-on.
+
+The captain's name is apparently
+Ulf. Or Uluh. Heck, how can you
+interpret this? This is even
+wackier that FLUUB.
+
+Model A comments on what a wacky
+fellow this is. I agree. Ulf
+tells you that the rest of the
+four (Helios and the likes) went
+to the Legions Head Quarters,
+which he marks on your map.
+
+It's reachable through the
+Transport Train area.
+
+Well, you're done here. Go back
+to the trans server to get your
+zenny... Err, E crystals and
+save.
+
+
+I also recommend you get the
+Live metal energy in this level.
+check section 6 for that.
+
+--------------------------------
+5.07	Legions HQ Area
+--------------------------------
+
+Go to where the Transport Train
+Area is.
+
+Funny note; the girl in the room
+in front of the train gate will
+give you an orange, which will
+heal 4 HP. Cute ^-^
+
+On the Transport train stage,
+head all the way to the right.
+Go through the door.
+
+Nice background tune eh?
+
+You're in some kind of bunker.
+there are people in here, but
+they only give side quests. Not
+my Bailiwick.
+
+In the next area, there are
+enemies. But also rooms with
+people in them. No need for
+saving them, they're fine.
+
+The guy in the second room will
+transfer you back... For 50 E
+crystals.
+
+Right, just move on.
+
+The next room. You're on a
+running tire. This room is
+perfect for getting those extra
+Energy or EC capsules.
+
+Anyway, move on and step on the
+elevator, and press down. You'll
+head down. Try to avoid the
+bullets coming your way. Homing
+shots work well here. Once off
+the elevator, head right. More
+bad guys here, kill em. Move
+through the doors.
+
+
+The HQ is under attack! Of
+course, you have to help them.
+Kill the Galleons and head
+right.
+
+This room's really weird. You've
+got Galleons riding at you from
+the stairs... Really. Well, just
+avoid them and work your way up.
+Then head through the door on
+your right.
+
+Hey, the original Rockman had
+these kind of turrets right
+before a boss too! Guess you
+know what time it is then.
+
+...But you're not there yet. You
+have to clear another room full
+of brainless Galleon Bikes. Head
+through the door on the top
+right.
+
+Has anyone noticed that Siarnaq
+talks like a robot? He's
+obviously a repliroid, but this
+is a bit too much.
+
+
+********************************
+WARNING: BOSS:
+Siarnaq (Rockman Model P)
+********************************
+
+Element: N/A
+Difficulty: Easy
+Weakness: N/A
+
+Attack 1. Shuriken Shield (Ashe
+only). He'll summon shurikens
+around him that will scatter
+around him. Attack 2. Shuriken
+throw. He'll throw shurikens at
+you; jump or wall climb to
+dodge. Attack 3. Shadow dash.
+He'll dash into the shadows and
+appear somewhere else. Attack 4.
+Ledge grab + Kunai throw. He'll
+grab a ledge and throw kunais.
+Just get out of his way to
+dodge. Attack 5. Shadow form
+(low health). He'll create two
+copies of himself and hang in
+the sky. Destroy the copies.
+Attack 6. Big shuriken throw
+(Grey only). He'll throw a big
+shuriken. Stay out of it's way
+to avoid.
+
+
+Strategy: How about freakin'
+easy? Really, this guy's a
+pushover. Just keep moving, and
+stay out of the way of his
+shots.
+
+Yummy, toast.
+
+Model A gets some info (kana
+reads "Report Data") off
+Siarnaq's and model P's DNA. I
+think it talks about model V
+fragments that where left after
+ZX. I could be horribly wrong
+though. A silhouette appears...
+Hey, that guy seems familiar!
+Foreshadowing? Definitely.
+
+You got equipped with Model P!
+
+Model P can throw kunais, and
+his charge attack is a big
+shuriken. Ashe's Charge attack
+is his shuriken shield.
+
+He can see in dark areas, and
+using his touch screen even
+better. You can also use the
+touch screen to fire at enemies,
+just touch the {!} marks.
+
+But his most important feature
+is to grab onto ledges. Jump to
+one, and hold Up on your D-pad.
+Some ledges allow you to climb
+up by pressing up twice.
+
+Move through the doors to go on.
+
+You'll immediately get into a
+dark area. But of course, you
+now have Model P. His sight in
+dark areas is much greater, plus
+he has a radar scope. Just press
+his touch screen button to use
+it.
+
+Climb the ledges with his grip
+ability, and get used to it.
+
+Move through the door.
+
+Once outside, more ledges.
+
+Move on.
+
+********************************
+MINI: BOSS:
+King Flyer
+********************************
+
+Difficulty: Easy
+
+Strategy: Note: this guy is
+easy. Just keep blasting. Note
+that he's EXACTLY the same as
+the one from the original ZX.
+Model F is your friend.
+
+These guys are fun. Capcom does
+seem kind off lazy re-using
+these guys though...
+
+Ah well. Move on.
+
+Now you realize why this game's
+genre is platform :P.
+
+Hop on the jet rider. Jump off
+when you're inside the building
+though. Inside, kill the hanging
+Galleons.
+
+Move on down, the jump on that
+jet. It will ram into a
+building. Destroy the wall. Jump
+off, but watch out not to jump
+on the spikes. Spikes = bad.
+There's something good next to
+the spikes though! Sub tank =/=
+Bad at all! That makes it number
+2.
+
+Move upwards onto the platforms.
+
+Same as before; move through the
+building then drop down. Move
+over the platforms to the right.
+Don't get onto the lady bug like
+platform, but move right
+instead.
+
+Hop on the jet, then on the
+second one. When that one
+crashes, onto the newly appeared
+one. Let that one crash, then
+move onto the red bug like
+platform. Climb up the wall, now
+get onto the red spiked rail
+wagon... Jump off before it
+falls down.
+
+Moving right there's a large HP
+refill. Use it for your new sub
+tank if you can.
+
+Now, backtrack to the spiked
+wagon and jump on it again. When
+you see another ladybug
+platform, jump on that.
+
+Get on the jet, and let it move
+you into the next area.
+
+Story time.
+
+Mikhail is complaining about
+Irregulars (mavericks). Albert
+has an idea of how to get rid of
+them. He says he'll use the
+ultimate Rockman...
+
+You walk in and Model A
+immediately recognizes the Live
+metal. Albert mumbles something
+about protect... Of course he
+says he has powers beyond your
+comprehension.
+
+<anime cut scene>
+
+Well hot zig! Master Albert was
+corrupt!
+
+Master Thomas explains that it
+was probably because of Model V.
+He also says something about
+databases... Could it be that
+he's saying albert hid the data
+about Model V inside the DNA of
+Falseroids? Mikhail comes back
+in, mumbling something more
+about Irregulars. He thinks the
+irregular outbreaks could be
+caused by Model V.
+
+Model A curses. He says you need
+to go and get that data quickly.
+
+Thomas helps you by marking
+spots on your map where other
+Live metals and Falseroids are.
+
+There's a trans server in the
+back. get your crystals, save,
+and check your map.
+
+Dandy! You can warp right there
+using the trans server!
+
+Again, stuff becomes optional as
+you can choose between 4
+different areas.
+
+I'll list them here (from the
+top left to right), including
+specialities:
+
+1st row: Floating Ruins, Boss:
+Helios (Rockman Model H) 2nd
+row: Highway (area D :P), Boss:
+Thetis (Rockman Model L), Weapon
+energy 3rd row: Scrap yard,
+Boss: Condorock 4th row: Control
+Center, Boss: Kaisemine, Life-up
+
+
+Well, I guess we could best do
+it in that order too! Model H is
+darned handy, and that sub tank
+sounds really nice too. sadly
+you would need Bitefrost for
+that, which we can not encounter
+yet.
+
+Ah well. 2 Sub tanks should
+suffice, no?
+
+
+--------------------------------
+5.08	Floating Ruins Area
+--------------------------------
+
+The Floating ruins are located
+in the separate bottom-left part
+of the map. The top row is the
+Floating Ruins Area. You can
+only get there through a trans
+server. There you anti-Metroid
+whiners; your prayers haver been
+heard ^^.
+
+Anyway, it's a darned tricky
+area. It might be a good idea to
+get some lives in the Oil Field
+area. It's really straight
+forward, and doesn't even has a
+mini boss.
+
+Just transfer there, then head
+through the door.
+
+At first sight, this area looks
+a lot like Area A from ZX. A
+quick scene will prove
+otherwise... This thing floats!
+Master Thomas enlightens you by
+telling you that it's a
+mysterious energy that keeps it
+floating. Right, probably model
+V again.
+
+Just head right.
+
+Now, you might be tempted to use
+Rosespark here, but if you want
+to live, stay the hell away from
+it. Rosespark is VERY immobile
+if he's not on a rope, so fall
+once, and you won't be able to
+recover.
+
+Now, it's quite easy. Just move
+forward, jump over holes and
+kill some baddies. There's one
+thing that really annoyed the
+crap out of me, and those are
+the mechanical electrical lob
+shooting things. Once you get
+hit by one, you can't jump. This
+will be quite frustrating, so
+try stay away from those things.
+Oh yeah, the worst thing is, you
+CAN'T KILL THEM. Really Capcom,
+most annoying thing in the game,
+and you can't even kill them.
+
+Anyway, move on. It's a fairly
+short way too the door. Move
+through the doors.
+
+Oh crud. This next area is the
+most annoying, since it's mostly
+air, and you don't have any
+trans-ons that are airborne. The
+whirlwinds you will see, will
+carry you up. So don't be afraid
+to jump into one.
+
+Also, as you'll notice right
+from the start, this level has
+got enemies that will turn
+invisible. So just destroy them
+when you CAN see them. Ashe's
+model P charge is handy here
+too, since it destroys them
+without any effort at all.
+
+Also, this area has wind. This
+means you will be pushed left or
+right constantly. Make sure you
+stay at you current position by
+moving against the wind.
+
+Hop over the ledges. (I use
+Model P for this area, since
+it's ledge grab comes in handy
+here) until you see a blue
+platform. Get on it, and jump on
+the second blue platform you'll
+see. Then from this one onto the
+next.
+
+Get onto a green ledge, then hop
+over the grey ledges until you
+can't get any further. Now, you
+need to use the whirlwinds.
+Treat the whirlwinds a bit like
+platforms, and slowly descend
+down. Once you see a blue
+platform, get on it. It will
+take you down.
+
+Get on the main land, and move
+through the doors.
+
+This next area is much easier,
+since you've got more grip. When
+you see the tower enemy, head up
+on the ledges. Don't go right,
+since there's only a electrical
+lobber.
+
+Jump onto the blue platform, and
+let it carry you to the right.
+Quickly jump from platform to
+platform here, since some will
+fall down. Use the whirlwinds
+for bigger jumps. Move onto
+another blue platform, then keep
+moving right.
+
+Move through the doors.
+
+Ah, another piece of model V.
+Helios warps in, and greets you.
+
+
+********************************
+WARNING: BOSS:
+Helios (Rockman Model H)
+********************************
+
+Element: Electric
+Difficulty: Easy/Medium
+Weakness: Ice
+
+Attack 1. Dash Slash. He'll dash
+at you while slashing. He may
+also do this in the air. Just
+dash away from him. Attack 2.
+Whirlwinds (Grey only). He'll
+launch whirlwinds at you which
+have the electricity attribute.
+The whirlwinds go diagonal.
+Attack 3. Horizontal Whirlwinds
+(Ashe only). Same as before,
+only now they move completely
+horizontal. Attack 4. Triple
+slash. He'll use a triple
+sashing combo on you. The third
+slash will fire a slash wave.
+Attack 5. Electric mills (low
+health) He'll jump up, and drop
+two rotating electric mills.
+Walk in between the two to avoid
+being hit.
+
+Strategy: He's fun to battle. He
+hasn't got a set pattern, but he
+may be kinda tricky. Just Chrono
+force him if you've got a lot of
+trouble with him.
+
+Your first saber trans-on!
+
+But first, you get data off
+Helios' DNA... Again, something
+about "Livemetal" and "Protect"
+A background image will
+appear... Yowza!! Well, I bet
+you can't consider this cannon,
+but it IS odd to see both Vent
+AND Aile in the same picture.
+The data also mentions "DNA-
+Data" Maybe it was already
+judged what kind of person can
+use a live metal? I need someone
+to mail me the translations of
+these kind of things... Master
+Thomas says some comforting
+words.
+
+Well, transfer in model H and
+move on!
+
+Model H is neat. If you jump,
+you can press Up+Dash to dash
+jump in the air! This can also
+be done if you just dash jumped;
+it will allow you to dash in
+mid-air! Also, when you're
+jumping, you can press the jump
+button to slowly glide down...
+
+In this game, the touch screen
+function of model H actually
+comes in even handier than in
+ZX1. For example; the gold medal
+for Diaburn requires you to only
+hit his weakness. With model H
+it's easy, since the weakness is
+displayed at the bottom screen.
+Skip the tutorial, then finish
+at the trans server.
+
+
+Oh yeah, you can grab the life
+up at the Forest tower stage
+now!
+
+Neeext.
+
+
+--------------------------------
+5.09	Highway Area
+--------------------------------
+
+Oh this is FUN. And I'm being
+quite serious. It's not one of
+the hardest stages at all. There
+are a lot of Galleon bikes, and
+more easy enemies. Also a new
+kind of enemy, that will chase
+you around. Model H is handy
+here. So is model F.
+
+Mikhail calls in to tell you
+this area is full of them pesky
+Irregulars. I guess we'll just
+need to do something about that
+eh?
+
+Move forward, killing everything
+in your way. Believe me, there's
+enough to kill around here.
+
+Weapon up!
+
+Notice the block on the lower
+level of the highway? Destroy
+them with model F. Now use a
+Chronoforce here, then quickly
+transform back into model F,
+fire at the red switch, then
+move over to the top of the road
+to quickly dash to the other
+side of the switch. Here lies a
+weapon up.
+
+Moving on. Through the doors,
+into area 2.
+
+Hmm, scared civilians. You tell
+him to run. But...
+
+********************************
+MINI: BOSS:
+RayFly MKII
+********************************
+
+Difficulty: Easy
+
+Strategy: He'll keep dropping
+those fancy ice blocks and move
+along the road. Pushover.
+Destroy the blocks by standing
+under him and blasting with
+Model F. He may occasionally
+drop a small bomb, but that's
+easily avoidable.
+
+
+
+After he goes down, move right
+trough the doors.
+
+The first part of area 3 is
+really standard. Though, after
+that, there's ANOTHER mini boss.
+
+********************************
+MINI: BOSS:
+Cycrash
+********************************
+
+Difficulty: Easy/Medium
+
+Strategy: This guy loves
+destroying the road. He has a
+very set pattern. He'll move
+left slowly, while occasionally
+sending one of his gears after
+you. This is you chance to jump
+in, and give him a good
+blasting. Of course, while he's
+spinning he's also more or less
+vulnerable. It's really just a
+matter of time. I like to use
+model F here, since his attacks
+can actually knock this guy's
+gears away.
+
+
+Once you've did this guy in too,
+move onward, again, through the
+doors.
+
+
+Area 4 is.. You guessed it, boss
+time. And with all this water
+around, there can be only one...
+Thetis. Model A is amazed there
+could be a piece of model V down
+here. Thetis laughs at the idea
+that model A thinks he's an
+Irregular.
+
+
+********************************
+WARNING: BOSS:
+Thetis (Rockman Model L)
+********************************
+
+Element: Ice
+Difficulty: Easy/Medium
+Weakness: Fire
+
+Attack 1. Ice Dragon (Grey
+only). He'll fire a dragon of
+ice at you. Attack 2. Big Ice
+Arrow. He fires a big ice arrow
+at you. get out of it's way.
+Attack 3. Ice platform break
+(Ashe only). He'll Make a spiky
+platform in fron of him, then
+break it, making a lot of ice
+arrows fire at you. The ice is
+destroy-able. Attack 4. Spear
+Spin. He'll dash at you, then
+spin his spear around. Attack 5.
+Ice Worm (lower health). He'll
+summon a worm that will spit
+ice. These will come down in a
+snow-like motion, so watch out.
+The worm will also use some kind
+of whirlpool to suck you into
+the water. This ice is destroy-
+able.
+
+Strategy: The most dangerous
+thing here is falling into the
+water. So watch out for that.
+Also, ranged attacks are best
+here. Just keep on moving, and
+if you think you're falling, use
+Chronoforce a bit.
+
+
+After sucking up his DNA, Of
+course, you'll get another data
+flash. This time it's about
+Livemetal, Repliroids and Model
+V. And image appears...! Hot
+damn this foreshadowing.
+Although you may think that the
+character left is Girouette,
+it's really in fact Prometheus.
+The character right was Pandora.
+I think the game says that they
+are repliroids who where
+designed for model V... To
+become ultimate Rockman.
+
+Well hot zig.
+
+Mikhail congratulates you on
+clearing the area.
+
+Trans-on into model L. Isn't it
+nice how fast this guy moves in
+the water?
+
+Ashe's charge shot is the spiked
+ice block. Slash it to send more
+small arrows onto your enemies.
+Grey's charge is the homing ice
+dragon.
+
+Anyway, hop on shore, then back
+into the water. Skip the
+tutorial.
+
+Swim to the top, the enter the
+doors.
+
+Right, so that was the Highway
+Area.
+
+NEEEXXT!
+
+--------------------------------
+5.10	Scrapyard Area
+--------------------------------
+
+The Scrapyard Area is located
+under the Highway Area (At the
+very bottom left of the area).
+You have to use the transporter
+to get here too.
+
+Be prepared though, this stage
+is ANNOYING. You might want to
+use the FAQ for a lot of this
+stage.
+
+
+When you warp in, Mikhail
+contacts you, saying that this
+is indeed a scrap yard. Again,
+he whines about Irregulars. And
+about living scrap. Damn old
+people.
+
+Notice the quick sand. Okay, it
+doesn't look like it, but it
+does act like it, so watch yer
+step.
+
+Move on through the doors.
+
+Keep heading down while
+destroying the blocks (you don't
+need model F for these, just
+blast 'em) Honestly though, keep
+blasting. Especially for those
+respawning junk enemies. You'll
+want to get rid of them ASAP...
+
+Keep going down until you see
+the quick-junk (rite >_>), then
+head into the door.
+
+Note: You'd do wise to keep
+model P as much equipped as
+possible here, since he's got
+everything you need. Especially
+the grab and radar scope
+functions.
+
+The next bit is a lot of quick-
+junk. Blast the enemies, move
+through the door.
+
+Move up the ladders, then into
+the door.
+
+You see the brown handle? That's
+a switch. When you pull it
+(using model P), a bar with
+spikes under it will rise,
+allowing you through. It's timed
+though. You'll be seeing this
+thing a lot throughout the
+stage.
+
+Before you hang on the switch,
+grab the 1up that's on top,
+left.
+
+Now grab the switch, then move
+through the door. Move into the
+other door.
+
+It's pretty straight forward up
+until now eh? Again, pull the
+switch, then move on through the
+doors.
+
+Hmmm. More quick-junk. And junk
+enemies, watch out for those.
+
+What the hell... It's raining
+junk! What you need to do is get
+into the rhythm, then hop over
+the hole when it stops a bit.
+
+Move along the quick-junk, kill
+everything you see. Then hop
+over another hole with trash
+going down it... Head into the
+door.
+
+Kill the pushing enemy, and hop
+over the hole. Crud. THREE
+doors.
+
+Thing is, there are a few fake
+doors that will drop you into a
+trash pit. But that's cool, you
+need to do that once.
+
+So head into the second blue
+door.
+
+Here, let yourself be sucked up
+by the junk... Fire at the
+switch. There! Now you won't be
+troubled by quickly falling
+trash any more.
+
+Move on.
+
+Another switch. Pull it, then
+move through. See? No more
+trash.
+
+Move into the door.
+
+Same as before, move right. Only
+this time, take the last (red)
+door. Move into the other door.
+
+Right, despose of the Galleons
+first. The door on top leads you
+to the fake door room, the door
+right to an NPC, so only one
+door remains. The door down. So
+pull the switch, then take it.
+
+This bit can be tricky. This
+path consist only of grab-able
+ledges for model P. This means
+you have to jump keeping Up
+pressed. Do so, then enter the
+door.
+
+It gets trickier here. You need
+to pull a switch, then quickly
+head over the ledges. Try to
+dash under the spiked bar... Oh
+yeah. It's also possible to
+climb up onto the switch once
+pulled, by pressing up twice.
+Doing this, then dashing onto a
+ledge helps a LOT.
+
+
+***
+Optional: life up
+
+If you want to get the life up,
+grab the switch, then get up
+onto it. transform in
+Chronoforce, Clock-Up (slow
+time), then go back to model P.
+Now dash your ass forward. You
+need to get the right-most door
+here.
+
+Quickly drop into the first hole
+here. life up get!
+
+(thanks to KnightmareSin for
+this way!
+***
+
+
+Head into the second (purple)
+door. Move through the door
+here.
+
+Kill the push enemies, then head
+through the doors.
+
+Things may get confusing in this
+next part, so keep reading.
+
+You see the blue switch? If you
+fire at it, you flip it, and the
+blocks will switch positions.
+Move onto the right most block,
+then fire at the switch. Or fire
+first, then quickly move onto
+it. Whatever you like :P
+
+Head into the door.
+
+Move over the first block, then
+hit the switch. Move right on
+the upper path here. Grab the
+energy crystal, hit the switch
+then QUICKLY head left again.
+Now you can go under the block.
+Move into the door.
+
+DON'T go up the ladder, but move
+right instead. Keep moving to
+the right, and move into the
+door.
+
+Hitting the switch can be done
+with Diaburn. When you move out
+the door again, notice that the
+giant block has moved. Move
+through the newly created
+passage. Kill the push enemy,
+then head up three stairs. Now
+head into the door.
+
+Kill the worm enemies, then flip
+the switch and go back.
+
+Head down the stairs and to the
+left. Flip the switch then go
+into the door.
+
+Jump over the blocks, hit the
+switch, hop on another block,
+and hit the switch again. the
+block will move. Grab the
+switch, the fire at the other
+switch, then quickly move under
+the spikes... Through the door.
+
+Now, finally done with all the
+switching, you can climb all the
+way up, and head through the
+doors to reach...
+
+
+
+********************************
+WARNING: BOSS:
+Condorock the Vulturoid
+********************************
+
+Element: N/A
+Difficulty: Medium
+Weakness: N/A
+
+Attack 1. Rock out. He... Rocks
+with his guitar, creating purple
+energy waves around him. Just
+stay away. Attack 2. Rock waves.
+He'll send out three shock waves
+at you. Stay away. Attack 3.
+Junk-rock. He'll summon junkies
+(Those respawning junk enemies).
+Kill them asap. Attack 4. Rock
+pull. He'll suck you into his
+
+Strategy: It's not really his
+attacks that make him so hard,
+it's the surrounding. There are
+three... Speakers(?) hanging
+from the top that will drop down
+occasionally. Also the junk
+enemies are hard NOT to bump
+into, so kill them instead.
+
+He also keeps moving, even
+floating. this makes it even
+Harder.
+
+Just keep your distance, and use
+charged attacks on him. WIN.
+
+There, now you've got Condorock.
+He... Sucks. really. Only thing
+that makes him handy is his
+float attribute. Oh, you can use
+this to get a life up in this
+stage. check the items section.
+
+Go through the door... Pandora!
+It's You! And a piece of model
+V. Of course. Strange thing is,
+she mentions something about a
+mechaniroid...
+
+Mikhail calls in to let you know
+the mission was a succes. Pesky
+irregulars eh.
+
+Go through the doors and hang on
+one weight with condorock to
+make it drop. Head through the
+door to the trans server.
+
+
+Great, great and great! Just one
+level remaining at this time,
+the Control Center center area!
+
+
+--------------------------------
+5.11	Control Center Area
+--------------------------------
+
+Again, transport here using the
+trans-server. It's right next to
+the other three stages, so it's
+not hard to find.
+
+
+Ooh, it's burning. NOT good.
+Thomas calls in and says
+something about energy of the
+control center. Also irregulars;
+crap. But hey, it's a Rockman
+game, zo there have to be
+enemies.
+
+Right. The flames will hurt. Not
+a lot, but just don't pause
+under them. Move right blasting
+everything in sight.
+
+DON'T move through the doors.
+
+Now you have 2 options: either
+go through the door, or climb up
+the vine. I suggest the vines,
+simply for the... LIFE UP.
+
+The door will get you to an
+elevator though, where you need
+to dodge flame throwers. I
+really can't say much about it,
+since it's pretty much self
+explanatory. Just doge the
+flames.
+
+Anyway, here the vines route:
+Climb up the vines, and head
+through the door here. Here you
+have two center vines. Choose
+the left, but alternate along
+the way. Flame-throwers are
+lurking about. Just head upwards
+quickly, you won't get hit if
+you're really fast ^^. It's very
+straight forward. Often, a
+flame-thrower will be in your
+way. Just switch lanes, and move
+up.
+
+Once you're up, look to your
+left. You might want to drop
+yourself onto the flame thrower,
+then trans-on into something
+funky. Life-up! Grab it,
+obviously, then head through the
+door to the right.
+
+Blast the block, and you'll be
+at the same ending as the
+elevator was. Go through the
+doors.
+
+
+More flame thrower goodness. Try
+to watch for the red arrows,
+they indicate the direction of
+the flames. Very
+straightforward. Watch out for
+everything. Kill the baddies.
+Nothing new except for the
+flame-throwers.
+
+Head through the door...
+
+********************************
+MINI: BOSS:
+Capsule Conductor
+********************************
+
+Element: N/A
+Difficulty: Easy
+Weakness: N/A
+
+Attack 1. Blue Plasma shot.
+He'll fire random shots with
+each "eye" Attack 2. Red Planned
+shot. He'll point out the path
+the shots will take. A lot like
+model F's buster edit.
+
+Strategy: Easy peasy. Since they
+all share the same health, blast
+them with Homing shots. You have
+multiple floor, but you'll want
+to stay in the middle because
+you have far better homing shot
+range that way.
+
+
+Yeah. Easy huh?
+through the doors!
+
+The next area is upward. Model P
+and H do very well here. There
+are some Galleons and some
+flame-throwers here. All easy to
+dodge, just keep your eyes open
+a bit.
+
+It's the next part that may
+worry you. There are a bunch of
+vertical platforms, that
+disappear when you touch then.
+They reappear when you hit the
+bottom floor here. This could
+make things a lot harder.
+...Nah. Just get into model A,
+and wall climb the left or right
+wall. When you see spikes, dash
+onto the platform, then back
+onto the wall.
+
+Repeat for the second part. Now
+you've got another batch of
+Galleons. Get 'em good while
+moving up. Head right through
+the doors.
+
+Standard area, with some Galleon
+Slashers. After a few, you'll
+meet a spiky area. I like using
+model H here, because it feels
+safer. Just keep jumping from
+platform to platform. Remember:
+Spikes = INSTANT KILL = not
+good.
+
+At the end, kill the Galleon
+Slasher.
+
+Go through the doors. Prometheus
+appears! Well what do you know,
+a piece of model V. Prometheus
+tals about Pride... Odd fellow.
+
+He takes off with model V, and
+in comes Kaisemine.
+
+********************************
+WARNING: BOSS:
+Kaisemine the Wasproid
+********************************
+
+Element: Fire Difficulty: Easy
+Weakness: Electricity (her
+stinger)
+
+Attack 1. Summon bee(s). She
+summons bees out of her hive.
+they home in on you. Attack 2.
+Laser rays. She'll fire a lot of
+laser rays out of her hive. Look
+for the lights that shine before
+she fires... Attack 3. Ultra-
+flames. She'll fly up in the
+air, and fire a beam downward.
+The collision point of this beam
+will "bounce" off more flames.
+Dash to a side of the screen and
+jump sometimes. Attack 4.
+Rockets. She'll fire homing
+rockets out of her hive.
+
+Strategy: AIM FOR TEH HIVE. So
+there. She's actually very fun
+to battle. The hive is destroy-
+able, but she'll fly up and pick
+up a new one quick enough. I
+tend to use model H here.
+Fighting with Rosespark may
+produce some laughs ^_^.
+
+
+Well that was that one.
+
+Kaisemine trans-on get!
+Kaisemine sucks. simply because
+her movement pretty much
+requires livemetal energy. She
+is handy functionally though.
+She can lift stuff up, if her
+big ass fits in it. I mean, her
+stinger. Just go up to some kind
+of barrel, and press down.
+She'll suck right into it. Pull
+it up with B, then get out of it
+by pressing Up.
+
+Do so on the barrel here. Master
+Thomas says you've activated the
+system here. There, our work
+here is done.
+
+Get to the transporter. SAVE.
+
+Master Thomas mentions something
+about model V. He says he
+detected it in the Quarry area,
+along with some irregulars.
+
+
+--------------------------------
+5.12	Quarry Area
+--------------------------------
+
+So, the Quarry Area? Ah, but you
+can't just warp over there, now
+can you? No, you need to go back
+to the Hunter Camp. Do so.
+
+In Hunter Camp, head all the way
+through the left door. See the
+barrel like thing Kaisemine can
+go in? get it out.
+
+Jump into the hole. trans-on
+into Chronoforce, and swim left.
+Hit the green globe with an ice
+attack from Model L. Move left
+then up, hit the red globe with
+Model H's whirlwind attack.
+Moving left through the opened
+door. Here, hang onto the
+rightmost weight with Condorock.
+
+Move into the door.
+
+Now you're really in the Quarry
+Area. Well looky here! The
+Spidrill mini boss from the
+Forest Tower is here; don't
+worry, he's quite dead.
+
+Model A mumbles something about
+Albert.
+
+Head through the door.
+
+Ah, darkness. It's wise to use
+model P now, in combination with
+his radar scope. I fact, you
+should pay more attention to the
+bottom screen than the top. The
+only real enemy here are
+spiders, which are killed easily
+by one hit. Anyway, move to the
+left and go down the stairs. You
+have multiple paths, but they
+all lead down to the same
+ground. Once you're at the
+ground level, go left a bit.
+
+Here, you'll need to jump onto
+the bars with model P. Again,
+use the touch screen for this.
+It's MUCH clearer than the
+normal screen. Remember, press
+op twice to climb onto the bar.
+Keep heading left, over the
+spikes (yikes!). Eventually
+you'll get to climb up again. Do
+so. Once you reach the top, go
+left.
+
+Hey, what the hell? Boss doors?
+Already?
+
+Oh but this is going to be so
+much fun! Go through the doors..
+
+Omigosh! It's Aile! Or Vent!
+heck, we didn't see this coming
+at all! Really.
+
+Anyway. Vent or Aile will wonder
+who you are, and what you are.
+Model X comes out and confirms
+that it's a livemetal you're
+carrying. Model Z's more like
+WTF. Model A, on his turn, is
+amazed there are even MORE live
+metals. Your character is more
+suspicious though. Could they be
+part of the whole model V thing?
+
+Vent or Aile rocks on!
+
+<anime cut scene>
+
+********************************
+WARNING: BOSS:
+Vent/Aile (Rockman model ZX)
+********************************
+
+Element: N/A
+Difficulty: Easy
+Weakness: N/A
+
+Attack 1. Buster shot. A
+standard buster shot is fired.
+Attack 2. Charged Buster Shot. A
+charged buster shot is fired.
+Jump to avoid. Attack 3. Saber
+Slash. You will get slashed by a
+saber (possibly a bombo of three
+strikes, too). Move out of
+range. Attack 4. Jump Slash.
+You'll get jumped at with a
+rolling slash. get away to
+avoid. Attack 5. (Ashe only).
+Vent will take his saber, and
+jumps up while letting an energy
+wave loose at you. Wall climb to
+dodge. Attack 6. (Grey only).
+While dropping from the air,
+Aile will take out her saber and
+stab it downward. Stay out of
+her way.
+
+Strategy: Easier than you might
+think. Heck, this one even has
+it's own intro video! times two!
+
+Anyway. Just stay out of the way
+of it's shots, and keep a
+distance. You don't want a saber
+in your face, now do you? Just
+keep blasting combo's, you'll be
+fine.
+
+The attack pattern consists of
+sliding up a wall, firing buster
+shots, occasionally hopping to
+the other wall.
+
+
+Afterwards you'll get DNA data
+off model ZX. Model Z and X are
+surprised Livemetals had that
+kind of data.
+
+This data has more info on model
+V, stating it's the first
+Livemetal. You also get a
+picture of some kind of thing
+with a large ring area above
+him... Called Ouroboros. It
+states that it is created by
+Master Albert! What the heck...?
+Sadly, what Ouroboros is, is
+kind off unclear to me. It
+states something about a place
+for Rockman.
+
++++
+NOTE: "Rockmen" isn't a word.
+Like PokŽmon, Rockman can also
+be used to state multiple
+personas.
++++
+
+Anyway, the Live metals mumble
+some. Model A wonders what
+happened to the
+transformation... And Vent/Aile
+is stumped that Albert is behind
+everything. Suddenly, the model
+V piece falls in the background!
+You character wants to rush
+after it!
+
+Model A is afraid, and Vent/Aile
+explains that wherever model V
+goes, irregulares appear. Great.
+
+
+Right! Anyway, you grabbed the
+most awesome trans-on there is.
+Model ZX. Be sure to use it!
+
+So, moving on. Still Area 2.
+Move to the left, through the
+doors.
+
+In here. you will find blocks.
+Stacks of them, but only one is
+destroyable. If you destroy the
+"core", the rest will blow up
+along with it. Destroy the first
+row of blocks. And the metool
+after it. The second row has a
+little opening on it. If you use
+Chronoforce, or are feeling
+lucky, you can blast the core,
+the crawl through it.
+
+This will get you down much
+quicker. But I will write in the
+hardest case >_>
+
+Drop down to land on a row of
+blocks. Destroy the core and
+fall down further. Once on the
+bottom, head to the left.
+Destroy the core block here too,
+and climb upwards. Model H is
+handy here. Also destroy core
+blocks along the way here.
+
+On top there's a new enemy. A
+large laser canon, with a bouncy
+thing on top. Slice 'em with
+model ZX.
+
+Move on. Killing a few enemies,
+head down the ladder. Stand on
+the block, then slash it. head
+down. Again, stand on the block
++ slash it. The next time
+though; slash the block, then
+quickly dash left.
+
+Head through the doors.
+
+Next area seems kind off
+blank...
+
+
+********************************
+WARNING: BOSS:
+CrushingPactor DD
+********************************
+
+Okay, this is a bit weird.
+You're going to want to get
+behind him. Don't care about the
+damage. keep blasting him from
+behind, try to get as much
+damage in as possible, as
+quickly as possible. Or just get
+Chronoforce on his arse.
+
+This way, you can get the weapon
+up, further ahead.
+
+Anyhow, he'll eventually kill
+himself if you don't.
+
+If you choose for the weapon up,
+you can destroy the blocks with
+model F and you'll spot the the
+weapon up easily.
+
+Watch out for the large spike
+pit. Dash over it. Here, head
+down the stairs. Go into the
+doors.
+
+In this hall, kill everything
+that moves.
+
+Again, into the doors.
+
+Wow, Model V is doing something
+funky to the remains of
+Spidrill!
+
+
+********************************
+MINI BOSS:
+Spidrill Neo
+********************************
+
+Difficulty: Easy/medium
+
+Attack 1. Leg wheel. He'll stick
+out his four legs in all
+directions, and move them in a
+clockwise manner. Jump over the
+leg tips to avoid. Attack 2.
+Spider drop. He'll drop mini
+spiders. Blast them using homing
+shot. Attack 3. Electric lob.
+He'll shoot you with electric
+lobs. Watch for where they fall,
+then dodge accordingly. Attack
+4. Leg drill. He'll try to drill
+you from one side. Dodge to the
+other.
+
+Strategy: Wow. the same as
+before! Just keep attacking him
+until...
+
+
+Model ZX will rescue you! Heh,
+guess model Z has something with
+these thing eh? They introduce
+each other. What timing >_>.
+Vent/Aile says something about
+Legions being Great... Vent/Aile
+then introduces their live
+metals.
+
+
+Ooh, auto transfer to hunter
+Camp. Handy Dandy.
+
+Vent/Aile complains about
+Al;bert being a total douche or
+something. And Prometheus and
+Pandora. this all happened when
+model H got stolen... Must have
+had something to do with model
+V.
+
+
+After this, Vent/Aile keeps
+babbling about powers and
+responsibilities... He/She also
+hands you a green card key!
+
+Now, there are three stages to
+choose from again!
+
+I personally recommend this
+order:
+
+Waterfall Ruins Area, Life up
+Mysterious Laboratory, Sub-tank
+(needs shisaroids from waterfall
+ruins) Biolab Area, Weapon up
+
+
+The Waterfall Ruins Area can be
+found by going to Hunter Camp 3,
+then taking the green rightmost
+door. Then taking the left green
+door.
+
+The Mysterious Lab by taking the
+rightmost green door here.
+
+The Biolab Area can be found by
+smashing the block in the
+eastern part of Hunter Camp 2,
+then entering the green door.
+
+
+--------------------------------
+5.13	Waterfall Ruins Area
+--------------------------------
+
+So, Waterfall Ruins. I like this
+area. Mostly because you start
+off with the boss(es).
+
+Mikhail calls in, saying this
+area had important to Legions.
+Something about hacking (the
+gibson). Mikhail also says
+something about Computersensors.
+Don't worry though; it's not
+necessary to do that part of the
+area.
+
+Dash left, and you'll find the
+Falseroids, Urgoyle and Argoyle.
+Of course, these two are also
+Albert's lackies.
+
+********************************
+WARNING: BOSS: Urgoyle and
+Argoyle the Shisaroids
+********************************
+
+Element: N/A Difficulty: Medium
+Weakness: Feet (Argoyle) and
+Arms (Urgoyle)
+
+Attack 1. Shuriken throw.
+They'll hop around the platforms
+and throw shuriken after
+shuriken. Attack 2. Shuriken
+slide. They'll jump up, and
+slide down the ropes, throwing
+shurikens to each other. Attack
+3. Portal fire. They'll open a
+portal (usually after attack 2)
+the fires shadow energy in 8
+directions. Stand in the corner
+of the screen.
+
+Strategy: Really, their
+difficulty doesn't lie in their
+attacks, it lies in their
+movement pattern. They usually
+just dash in a symmetric manner,
+so you dodge most of their
+attacks by hopping on the nearby
+platforms. And no, don't even
+THINK about using Rosespark.
+Just blast away using good
+buster models (ZX, P and A).
+
+
+Well that was fun. Or something
+like it. Urgoyle and Argoyle DNA
+get!
+
+You get control over one of the
+duo. Alone, your power is kind
+off weak. The real power of this
+trans on is being able to summon
+the other by using the sub
+weapon button (usually R) to
+summon the other in front of
+you. the other Shisaroid will be
+invulnerable to all attacks. He
+can also walk through walls,
+giving you the ability to get
+items usually not obtainable.
+Argoyle also has the infamous
+"Infinity dash" which will,
+well, dash pretty much
+infinitely long.
+
+Now for the stage. I don't like
+it too much, because a lot of it
+is confusing. I'll take you
+through the path without the
+computersensors, but will take
+the one with the life up.
+
+Move left through the doors.
+Watch out for the moving
+enemies. After a few waterfalls,
+a new enemy appears. This one
+fires large plasma shots, and
+can only be attacked when it's
+red eye shows. Move up and down
+the stairs, and left.
+
+This is what I DON'T like about
+this area. The open-ness.
+
+Do you see those shiny balls?
+Don't touch 'em. If you do, a
+fish will jump up and try to eat
+you. For real. You can kill them
+in the water though.
+
+Anyway, just head left from
+here. Notice how the annoying
+gyro-copter enemies from ZX are
+here too >_> Get ZX on their
+asses.
+
+Keep heading left.
+
+***
+Optional: life up
+
+Ow lawd this one is easy. Just
+head up the waterfall with model
+L. Enter the door.
+***
+
+Watch out for the fishes, then
+head through the doors to area
+3.
+
+This area, you'll want to use
+Chronoforce AND model L. You'll
+have to avoid spikes this way,
+so don't head down to quickly,
+but watch out a bit instead.
+Notice how swords work very good
+on the spiked enemies, they
+don't re-spawn when killed that
+way.
+
+When you hit the bottom, switch
+to Chronoforce. This way, you
+can use your clock-up if you've
+got trouble with the spike-
+smashers. Also, the top of this
+bit has spikes. If you'd ram
+into them with model L... But
+with Chronoforce... You get what
+I mean. Maybe grab the one up
+that's lying around on top, then
+head left.
+
+Start heading left, timing your
+dashes carefully to avoid the
+spikes. More spikes-smashers
+will plague you here. Time it
+VERY carefully.
+
+Going down and up in a U shape,
+avoid more spike-smashers.
+
+The next part really screams
+Chronoforce. You'll need to
+destroy the blocks, then head
+through VERY quickly. So Clock-
+Up, head through the opening,
+and go through the door.
+
+You'll see two doors here. The
+bottom one leads to area 4. The
+top to an NPC for the Extender
+Chip. If you keep heading left,
+you'll go to another part of
+area 3.
+
+Take the bottom doors!
+
+
+********************************
+MINI: BOSS:
+Gigantrent
+********************************
+
+Element: Electric
+Difficulty: Easy/medium
+Weakness: N/A
+
+Attack 1. Electric leaf fire.
+He'll fire electric leaves in a
+round from the bottom to the
+top. Attack 2. Leaf drop. Total
+re-use of Rockman 2's woodman
+attack ^_^. He'll drop leaves
+that drop floating wise. Attack
+3. Vine hold. He'll grab you
+with vines coming from the top
+and the bottom, keep dashing to
+avoid. He'll also attack with an
+electric lobe through them.
+
+Strategy: Meh. He can actually
+bite a good chunk of your HP if
+you don't watch out. You can
+only attack the (acorn in the)
+opening, wich opens only
+sometimes though, so make it
+count.
+
+There is a trick a lot of people
+have mentioned, (maybe because
+it's so obvious?) it's using
+model F. Go to the model F
+buster edit screen, and make the
+shot go up 2 blocks, then right
+again. Do this for both hands.
+
+
+Well that's that. You're done
+with that one. Through the
+door... What the hell is
+happening behind that door?
+Pandora and Prometheus! They've
+destroyed the computer holding
+the data, and Prometheus says
+something about Albert playing a
+game.
+
+Your character manages to pick
+some data (data file A), but it
+seems most is lost. Head to the
+nearby trans server to report
+your mission.
+
+Hey, now we're at it, let's do
+the Mysterious Laboratory too!
+Yeah!
+
+
+--------------------------------
+5.14	Mysterious Laboratory Area
+--------------------------------
+
+Again, the Mysterious Lab Area
+can be found by going to Hunter
+Camp 3, then taking the green
+rightmost door. Then taking the
+right green door, and stepping
+onto the transporter.
+
+If you've played as Grey so far,
+you should recognize this place
+a bit.
+
+This area consist of mostly
+enemies and simple often destroy
+able objects. You can easily
+dash through it. In fact: the
+steam rays can be avoided by
+dashing under them! Well, get
+moving. Once you reach the wall,
+climb up the stairs. Maybe get
+the life up using Argoyle, then
+move up. Move right, through the
+door.
+
+Grey players will remember this
+kind of area. this is where
+super repliroids are made. YA
+RLY.
+
+Story will ensue. It seems the
+panel contains a message; It
+says "DAN-001 [Prometheus]".
+Nifty. The number is in Rockman
+format alright. The right
+capsule contained DAN-002,
+Pandora. So, they are obviously
+repliroids now. Seems Albert was
+developing those.
+
+Thomas calls in and says they
+where Albert's work. And
+something about kusari.
+
+Right, go right through the
+door. Move straightforward
+killing ensues. After you've hit
+the right wall, head down the
+ladders.
+
+Then, through the doors again.
+
+In here is a little puzzle.
+Doors will block your way, but
+you can open them up. What you
+need to do, is get the battery
+into the socket. This is done by
+shooting or slashing at it. The
+first is easy; just move it from
+left to right.
+
+Head through the newly opened
+door, and do the same thing with
+the new battery.
+
+Through the door. NOTE: make
+sure you don't hit the battery
+from the left, but hop over to
+kill the bouncer from the right
+first. Now knock the battery
+left.
+
+***
+Optional: Sub-tank
+
+At the battery puzzle, complete
+it even further by slashing the
+battery on top of the upmost
+ledge to the socket right before
+the boss door. A door will open
+at the top. Using Urgoyle and
+Argoyle's double technique, grab
+it.
+***
+
+Head right, through the boss
+doors.
+
+Tesrat tries to intimidate you.
+Get him.
+
+********************************
+WARNING: BOSS:
+Tesrat the the Hedgeroid
+********************************
+
+Element: Electric
+Difficulty: Easy
+Weakness: Ice
+
+Attack 1. Electric charge. He'll
+send out electric charges in 5
+directions. Attack 2. Water
+raise. He'll raise the water by
+dashing in the top two ledges.
+Attack 3. Hedge-buster. He'll
+fire a weak buster shot or two.
+Attack 4. Rat summon. He'll make
+a gesture, then rats will fall
+out of the top drain.
+
+Strategy: Well, he's a
+hyperactive little fella. He's
+really easy though. Just make
+sure you're not too close. And
+try to attack when he's just
+about to stop (this gets
+predictable). He frequently
+dashes about, so keep moving
+yourself too.
+
+
+Yeah! Tesrat DNA get! He's not
+that special, but he can be a
+nice Electric help. The thing
+with tesrat: you can get through
+small opening with his dash +
+Down. Nothing special.
+
+Move right through the door...
+
+What the hell? Another capsule!
+this one says "DAN-000
+[Original] *** Final Version"
+WTF. Hey, this thing has data
+disk B! Thomas calls in. He says
+this whole thing maybe just a
+Rockman experiment.. He also
+says to get your arse to the
+trans server to give him that
+disk.
+
+Do so. The next area will have
+you test Tesrat out. No big
+deal, just dash through the
+green blocks.
+
+Thomas calls in one more time.
+This is important: The data
+seemingly says something about a
+mysterious trans server
+somewhere.
+
+Ah well, you'll get to it later.
+
+One more mission left!
+
+
+You remember where the Biolab
+was, right?
+
+--------------------------------
+5.15	Biolab Area
+--------------------------------
+
+The Biolab Area can be found by
+smashing the block in the
+eastern part of Hunter Camp 2,
+then entering the green door.
+
+Upon entry, your character
+immediately mentions the bad
+smell -_-. Live-metals can't
+smell, says model A.
+
+This area is very
+straightforward, just like the
+Mysterious Lab. Weak enemies
+will keep coming at you, even
+rats will fall out of the sky!
+There's also a muddy area
+everywhere. It could be useful,
+but it isn't mostly. there are
+small openings for Tesrat
+underneath. If you're having
+trouble with the enemies, use
+those.
+
+Just blast and slash (model ZX
+Recommended) your way right,
+then enter the doors.
+
+Oooh, chemicals. Shiny.
+
+The blue gooey is like quick
+sand, but it won't kill you.
+Dash right. There's a block you
+will have to pick up with
+Kaisemine. Do so, then move
+under it. Get rid of the lurking
+worm enemy. To your right, you
+might want to watch out for
+falling Galleon heads. For real.
+Keep slashing, they're annoying
+the dodge.
+
+***
+Optional: Live-metal up
+
+To get the live metal up, you
+have to raise the first
+container, then step on it
+again, making the water lower
+but keeping the container down.
+After this, raise the second
+one. Grab the lying Live metal
+up.
+***
+
+The next bit consists of
+lowering the water, allowing you
+acces further. Do so by raising
+the container with Kaisemine.
+Doing so will let the water
+escape, allowing you passage.
+
+The next part will be under
+water. Well, not exactly
+water... Galleon heads will keep
+dropping, turning into gooey
+little things.
+
+Move up. Notice the slime
+throwers. These are a bit of a
+variation of the Control
+Center's flame-throwers. They
+won't hurt you though, so
+they're not that much of a
+nuisance. More quick-gooey. Go
+into the water again, moving
+right and up.
+
+This is freaky. The next part,
+Galleon heads will drop into the
+gooey. Yeah. Just dash right,
+kill a few and crawl into the
+small opening.
+
+Next part is also a bit... The
+same. Just move up, and dash
+over the gooey. On the right,
+drop down. Here, be careful not
+to touch the spikes. Really,
+instant death. You can destroy
+them with model F though. Do so.
+Head left to the bottom, then
+right over them platforms again.
+
+Through the boss doors...
+
+
+********************************
+WARNING: BOSS:
+Bitefrost the Crocoroid
+********************************
+
+Element: Ice
+Difficulty: Easy/medium
+Weakness: Fire
+
+Attack 1. Gator Wheel. He'll
+spit a gear/wheel that moves
+across the floor. If there are
+no ice blocks, it will move up
+the wall. Attack 2. Bite. He'll
+open his mouth... Move, and bite
+at you. This may take out some
+ice blocks underneath you.
+Attack 3. Jump. Yes, I list this
+under attacks. It's just that
+harmfull. Just dash under him,
+easier with a Chronoforce
+active. Attack 4. Spike smash.
+He'll blow an ice block in front
+of him, and jump onto it. Stay
+on your distance. Attack 5.
+Spiker. He'll open his mouth,
+and fire spikes at you using it.
+Blast the spikes.
+
+Strategy: We'll this is
+something else in terms off boss
+size! Fire attacks are his
+weakness, so make sure you blast
+him with either Kaisemine, Model
+F or just Diaburn. It's good to
+stay on the offensive, since he
+WILL break your defense after a
+while.
+
+He'll whine about albert being a
+dick head. Or something.
+Bitefrost trans-on get!
+
+Go through the door. The next
+area will help you with this big
+guy. Seems his bite (pressing R
+and releasing it) can destroy
+THOSE kind of blocks! Dandy,
+quite dandy.
+
+(Funny note: his tail can
+actually HURT foes if you turn
+>_> he actually grunts if you
+turn too.)
+
+Next room is IMPORTANT. You will
+use this trans server for the
+next mission. You will need to
+get all trans-ons first. If you
+did, get ready. So you WILL WANT
+TO activate the warp point here!
+
+
+Go to the trans server in the
+room after this one first, to
+save...
+
+
+--------------------------------
+5.16	Submerged Volcano Area
+--------------------------------
+
+It seems that the data you got
+was able to activate the trans
+server! Time to use it.
+
+This is it. Model V lurks in
+this area. Your character feels
+the pressure. Through the door,
+into the stage.
+
+Move to the top right to get a
+1-UP. Then move along the bottom
+floor. Use model L for fast
+movement.
+
+Go through the door.
+
+Well, this is a big ass water
+area. With volcano's in the
+background. For real. Anyway,
+Chronoforce and model L are
+really neat here. Just don't
+touch the red magma, and you'll
+be fine. Chronoforce is really
+awesome here, because the fire
+balls that fall, won't damage
+him at all.
+
+Speaking of Chronoforce, there
+will be some platforms that will
+spit mini Chronoforce'. Just
+make sure you're not walking on
+the ground, but swimming.
+
+If you gain too much damage,
+slice open some weapon energies.
+
+After some more standard
+underwater platforming, go
+through the doors.
+
+Original, huh? More volcanic
+goodness. You've got a big climb
+upwards, with a lot of baddies. 
+Chronoforce...Blablabla...Invinc
+ible back... You get the idea.
+
+Once you've hit the right end,
+drop into the pit. Shoot the
+guard pistols, and move downward
+and kill more baddies. really
+repetitive, yes.
+
+Once down, head right, up and
+through the door. Slice the
+weapon energy, and drop down.
+
+Two choices: Left or Right.
+Right has some ropes and SPIKES.
+The left just has baddies, so go
+left.
+
+Like I said, there's only
+baddies here. Use the ZX buster,
+as it's the strongest buster
+you've got.
+
+Once you hit the left end, drop
+down. Watch out for enemies here
+too. Try to saber them. It's all
+very straight forward; kill them
+before they kill you. watch out
+for the fire enemies' fire. Once
+you hit the bottom, head right.
+Kill even morem enemies, until
+you reach a door. Shoot it to
+open it, then go through it.
+Drop down the next part, then
+head right for the boss door...
+
+Wow, what the hell? Model V?!
+Albert laughs maniacally. He
+says this is his lab, where he
+makes most of his experiment.
+*Pandora and Promete teleport in
+"You rang?" Prometheus seems to
+be pretty pissed at Albert.
+Pandora barely notices you.
+
+WTF. Prometheus just killed
+Albert! He keeps babbling about
+real Rockman. Than this is it,
+the final boss...
+
+
+********************************
+WARNING: BOSS:
+Prometheus and Pandora
+********************************
+
+Element: N/A
+Difficulty: Medium
+Weakness: Prometheus: electric
+
+Attack 1. (pandora) Electric
+staffs. Pandora summons electric
+(virtual?) staffs around her,
+and they move in an 8 form. Jump
+over one, and stay under another
+to avoid. Attack 2. (pandora)
+Ice spikes. She sends out her
+headphones, which will float
+around the sides of the screen
+to fire ice spikes at you.
+Destroy the headphones or the
+spikes. Attack 3. (promete)
+Flame towers. Promete sommons
+flame towers that will move
+outwards from him. The trick
+here is to dash past one that
+went in the back ground. Attack
+4. (promete) Flame towers V2.
+Looks like flame towers, but is
+not the same. Try to slash at
+the flames. Attack 5. Combo
+attack. Promete will drop from
+the sky and do a slash wave
+attack, while Pandora just..
+Floats around. Attack 6.
+(promete) Drop flame. Promete
+falls down, and sends flames
+from the ground he hit. Dash
+away. Attack 7. (promete) Ground
+spikes. He'll send spikes over
+the floor. Dash over him to the
+side he already spiked. Attack
+8. (pandora) Electric Ice.
+Pandora's headphones will just
+fly around the area. Attack 9.
+(pandora) Ice and Electric.
+Pandora sends out electric shots
+and ice spikes.
+
+
+Strategy: You'd think model ZX
+would be good here, but it's
+not. Pandora blocks a lot of
+attack witch her electric
+staffs, and a lot of
+Prometheus's attack are hard to
+dodge. The solution? Model H. I
+love this when it comes to
+dodging their attacks, since
+you're VERY mobile. But I guess
+model ZX still works in the
+latter part of the battle. ZX
+isn't a bad choice per se, but
+being mobile is VERY important
+here. It may seem hard, but you
+should have gotten 3 sub tanks.
+they're toast. Of course you can
+use Chronoforce, but I find him
+to be quite cheap.
+
+
+Phew. These guys are restless!
+Not even a scratch! Pandora says
+something about Irregulars not
+being made irregular by model V.
+What the hell? Model V is
+sucking their emotions! ...DNA
+data? !!! In warps... Something.
+Seems it's master Albert. Guess
+he's a little tougher than you
+thought. He calls himself
+DAN-000[Original]. DAN is for
+Dr. Albert No. Right. He doesn't
+look exactly like Albert though,
+maybe he's a copy of him?
+
+Your character feels sorry for
+having to leave Pandora and
+Promete...
+
+You'll automatically be at the
+Hunter Camp. Save. Head out the
+door... Wow.
+
+Model V created... Ouroboros.
+Which looks like a snake eating
+it's own tail. Albert is inside.
+Your character wants to go
+there. But it doesn't seem the
+hunters have a way of getting
+there. On top of that, there are
+WAY too many irregulars.
+
+Your rival wonders if you need
+help. He or she HAS got a way.
+
+Talk to him/her if you want to
+go there.
+
+Of course, save before you do.
+
+
+--------------------------------
+5.17	Ouroboros Area
+--------------------------------
+
+So. Save, then talk to your
+rival to go to Ouroboros. He or
+she says something about it
+being the "ultimate" Live metal;
+Ouroboros. It's full of
+irregulars, and model V lurks
+there. But we're going. Hell
+yeah, airship style. This is
+the guardian base from ZX1.
+Albert better watch his ass.
+Hunters and Guardians are after
+him. Thomas walks in. Legions is
+in too.
+
+Nice. You rival just crashed the
+Guardian base into Ouroboros. I
+don't think prairie's going to
+like that... There, you're free.
+Move right into the final area.
+Looks like a live metal doesn't
+it? At least like model V.
+
+There are a few laser enemies
+here, watch out for them.
+Slashing will work like a charm
+here. Keep moving right, killing
+the Galleons and the wall gear
+enemies.
+
+After a while, you'll see some
+spike holes, and some breakable
+blocks. It may be a good idea to
+get rid of those using model F
+first. Move right until you seem
+more spikes; jump over them. On
+the top of here are some
+destroyable blocks with a 1up on
+them.
+
+Move right any way you want. On
+the top right (use Condorock to
+get past the spikes) there's a
+full-health. Dandy for your
+subtanks. Move through the
+doors, and to the right.
+
+Story bit. Oh crud, seems Albert
+has trans-on too! He says that
+when he created, he thought that
+power would be fitting to a
+Rockman of his caliber.
+
+The next two rooms contain the 8
+bosses. 4 in the first, 4 in the
+second. Each boss fight will get
+you a big weapon-energy (slash
+it for life) and a medium-
+health-energy. You should be
+VERY able to kick their
+collective butts. I mean, 3
+subtanks. Maybe even 4. Press up
+or down on the elevator to go up
+and down.
+
+Room 1:
+
+	Condorock		Rosespark
+
+	Chronoforce		Diaburn
+
+Room 2:
+
+	Argoyle and Urgoyle	Tesrat
+
+	Bitefrost		Kaisemine
+
+
+The next area... Oh crud, the
+next area. Capcom probably
+thought "let's save the best for
+last", because they did. You see
+those red blocks? They can be be
+destroyed. Not just by model F,
+too. By themselves, these types
+are pretty harmless. But beware,
+because they often conceal
+spikes. Also, they re-spawn.
+Don't stay inside them when they
+do, you'll die.
+
+Head to the right, destroying
+the red blocks and dashing
+right. Blast the blocks above
+the spikes, then head right
+killing the enemies, dash
+shooting the blocks.
+
+Note: ZX's charged shot will
+take out a whole row, at the
+very least. Make use of this
+ability!
+
+On the next sea of spikes, make
+sure you don't blast the block.
+Quickly use it to hop over to
+the safe spike-less side.
+
+Here, blast the top two rows,
+then drop down to the right.
+Watch out for the annoying
+shooter balls, then jump through
+the hole between the spiked
+ceiling and floor. Slash at the
+block to drop down.
+
+Next part, use the blocks to
+CAREFULLY navigate through the
+spikes. You can choose two ways,
+I recommend the upper. Less
+spikes risk. So blast the blocks
+there to get up. Kill the laser
+enemy. What the?
+
+A spiked red block. These behave
+in about the same way as the
+other red blocks, but with one
+DEADLY difference; they
+instantly kill you on touch.
+
+Right. Blast all the spiked
+block with ZX, then drop down.
+You need to jump over a spike
+pit. First, blast the red spikes
+with ZX's buster.
+
+WALK right, slash the spike,
+grab the health-energy.
+Immediately kill the shooter
+globe with model A's homing shot
+(when it's open).
+
+Now carefully hop over the red
+blocks, and shoot the red spike-
+block with Diaburn, or just dash
+over it if you feel confident.
+
+Climb up the safe red blocks.
+There's a 1up behind some spike
+blocks to the left. Once up,
+head right then drop down. Slash
+the 2nd and 3rd blocks to drop
+down safely. Then slash the
+spiked blocks here to get safe
+here.
+
+Now, watch out for the next
+part. the floor will consist of
+a safe block, then a spiked one.
+Make sure you only step on safe
+ones, k? Kill the hanging
+Galleon. Go right until you see
+a wall of blocks.
+
+There are a few ways to get past
+here, but they're all quite
+tricky. My method: Wall climb
+the red block, the fire a
+charged ZX buster right between
+the top and 2nd topmost blocks.
+This will give you a bit room to
+dash jump safely to the other
+side.
+
+Here, quickly kill the Galleon
+and grab the health energy. Next
+part is easy. Charge a whirlwind
+with model H, and fire it
+towards all pf the blocks. Now
+hover or fly over with the
+trans-on of choice.
+
+Boss doors...
+
+Helios warps in. So do the other
+shintenou LMs. Siarnaq thinks
+they'll win with a 4 to 1 >_>
+Your character asks if they're
+under model V's control. Just in
+time, your rival saves you. You
+rival expresses his anger for
+them stealing his/her Live
+Metals.
+
+Anyway, you're safe. Head
+through the second boss door.
+
+You're... Outside? Well,
+Albert's here sitting on his
+throne of madness. He wonders
+how model A got into your hands.
+He says... He created Live Metal
+Model A. As a backup system. For
+himself? Maybe he's just a copy
+of his original DNA? Model
+Albert.
+
+His throne changes shape... This
+is it. The big boss.
+
+
+********************************
+WARNING: BOSS:
+Albert 1st Form
+********************************
+
+Element: N/A
+Difficulty: Medium/Hard
+Weakness: N/A
+
+Attack 1. Ground beam. He
+scorches the ground with a beam.
+Pieces of rubble will fly up,
+watch out. Attack 2. Fire. He'll
+fire a small fireball that will
+erupt a lot of small fires on
+the ground. Dash in between
+them. Attack 3. Dark portal.
+He'll summon a portal in front
+of him. Dash away, it will
+damage you BADLY. His main mouth
+will also fire some dark flames.
+If it sucks you up, it'll spit
+you out on the left. The portal
+on the left will also fire dark
+flames. Attack 4. Ground
+scratch. His main head will wipe
+his nose over the ground. Shoot
+it a few times and dash under it
+to avoid.
+
+Strategy: His only point of
+weakness is his "Belly". He does
+have a shit load of health, but
+he doesn't flicker when he is
+attack. Therefore, model F and P
+finally get to be useful.
+
+If he troubles you, use
+Chronoforce. After the belly
+starts smoking, he'll switch
+into phase 2.
+
+********************************
+WARNING: BOSS:
+Albert 1st Form, second phase
+********************************
+
+Attack 1. Rockets. The spots
+where his heads used to be, will
+fire rokets. Attack 2. Plasma
+globes. The flying heads will
+fire plasma globes.
+
+Strategy: Same as before, but
+faster. He has little health,
+but moves faster.
+
+
+
+
+!!!
+
+He's not dead! He still keeps
+mumbling about model V being
+invincible. And it being the
+only Rockman.
+
+Your character counter, saying
+it's only for geeky madmen. Or
+something.
+
+<anime cutscene>
+
+He thinks he's god. The fake
+walls break, and he shows his
+real body.
+
+Get ready.
+
+
+
+********************************
+WARNING: BOSS:
+Master Albert, Rockman Model V
+********************************
+
+Element: N/A
+Difficulty: Medium
+Weakness: N/A
+
+Attack 1. Lock on. He'll try to
+lock onto you and fire a homing
+shot. Dash like crazy to avoid.
+Attack 2. Model V pieces. He
+sends away a few pieces of model
+V to attack you. Hard to avoid,
+but dash under them. Attack 3.
+Model V whirlwinds. He'll summon
+two whirlwinds that suck you to
+them. Try to keep dashing to the
+center, away from either one.
+Attack 4. Ground grind. He'll
+stick himself into the ground,
+and dash towards you. Move to
+the edge of the screen to avoid.
+(defenseless fase) Attack 5.
+Background lasers. He'll go into
+the background and fire lasers.
+Only the circles hurt, so jump
+over them. Attack 6. Hand smash.
+He'll Make a gesture with his
+hand, then he'll smash using the
+model V pieces. Small flame
+towers will erupt from the
+ground too, watch out. Attack 7.
+Model V ice snakes. He'll summon
+an ice dragon from the model V
+pieces. they move from bottom
+upwards and vice versa. Attack
+8. Model V sword. He'll position
+model V into a sword, and swings
+it. Get behind him and attack
+him. Attack 9. Model Chronoforce
+V. He imitates chronoforce with
+model V pieces. He begins moving
+faster.
+
+Strategy: He mainly uses the
+model V pieces to generate a
+shield around him. Use model A's
+homing shot to select them, and
+fire. After this, he'll be
+vulnerable. I like to use a
+Chronoforce and ZX combo. You
+should have a sub tank or two
+left. Kill his barrier, that
+kick his ass with model ZX
+rolling slash attacks (this
+hurts, but doesn't cost you LM
+energy)
+
+
+He's no Rockman. Rockman exist
+to protect the world. He'll blow
+up, and Ouroboros is falling.
+Your character gets so tired,
+they lose the transformation.
+
+Your rival is still fighting the
+shintenou LMs. Model Z exits the
+transformation, and seems to
+sacrifice himself to rescue
+Vent/Aile...
+
+Ouroboros falls down into the
+sea.
+
+You wake up, welcomed by model
+A, who's glad to see you're
+alive. This is the last time
+I'll say this: head through the
+door...
+
+Everything seems alright, and
+your rival confirms this.
+Ouroboros dropped dead, and the
+model V inside it seems
+inactive. Your character says it
+will stay at the hunter camp,
+declining your rivals
+proposition to join Guardian.
+
+Congratulations, you beat
+Rockman ZX: Advent!
+
+The credits roll.
+
+After you've finished the game a
+voice will tell you you've
+unlocked Mania mode (HARD mode),
+and a few mini games. The voice
+will also ask you if you want to
+save your cleared data. This is
+the same as saving before
+Ouroboros, but let's you keep
+data discs and the likes.
+
+
+<-------------------------------
+6.		Items, Secrets and Hints
+<-------------------------------
+
+--------------------------------
+6.01	Life-Ups:
+--------------------------------
+(A lot of thanks to Fernando
+Lucas N. Lopes for helping me
+with these!)
+
+1. Control Center Area 1: Use
+Rosespark to get up the cable on
+the Broken elevator. When you're
+up, look to the left.
+
+2. Forest Tower Area 3: You need
+model H or Kaisemine. Make the
+brown pillar fall down. Enter
+the empty pipe, then fall down.
+Use the Hover mode that model H
+has, then dash and climb up onto
+the pipe.
+
+3. Scrap Yard Area 2. At the end
+of the yellow/orange hall, Grab
+the switch, then get up onto it.
+transform in chronoforce, slow
+time, then go back to model P.
+Now dash your ass forward. You
+need to get the right-most door
+here. Quickly drop into the
+first hole here. (thanks to
+KnightmareSin for this way!)
+
+4. Waterfall Ruins Area 2. Go to
+the left, head to the area
+before area 3, Swim up a big
+waterfall using Model L, until
+you see a door. Go into the door
+
+
+--------------------------------
+6.02	Live Metal-Ups:
+--------------------------------
+
+1. Oil Field Area 2. Requires
+the Model F trans-on. At the
+start of the area, you can break
+the floor. Do so. Now head right
+and break the wall here. This
+opens up a new part of the area.
+Keep heading right, avoid the
+Galleon bikes and crawl under a
+pipe. Keep heading right. the
+power up lies there.
+
+2. Biolab 2. To get the live
+metal up, you have to raise both
+containers. After this, stand in
+front of the first one, then use
+Chronoforce. Now quickly
+transform into a mobile model,
+then dash into the water. Grab
+the lying Live metal up.
+
+3. Highway Area 1. At the end.
+destroy the blocks using Model
+F, then use Chronoforce's Time
+Stop, shoot the button and enter
+the door at the other side. The
+Weapon-Up will be there.
+
+4. Quarry Area 3. After the red
+blocks, you'll be chased by a
+Spike-Dozer. use Model F (Atlas)
+to get to the right, destroying
+block on your way. You will see
+a Weapon up somewhere on top. If
+you're quick enough, destroy the
+block to get it. You can also
+try to destroy the dozer first.
+If you choose this, try
+Chronoforcing his arse.
+
+
+--------------------------------
+6.03	Sub-Tanks:
+--------------------------------
+
+1. Ice Floe Area 2. Using
+Rosespark to climb the vines,
+climb to the right. The subtank
+lies there.
+
+2. Legions HQ 3 (Area C-3).
+Riding on top of the quickly
+moving platform you can clearly
+see it lying in one of the
+buildings. Jump off the platform
+and grab it.
+
+3. Mysterious Laboratory 3. At
+the battery puzzle, complete it
+even further by slashing the
+battery on top of the upmost
+ledge to the socket right before
+the boss door. A door will open
+at the top. Using Urgoyle and
+Argoyle's double technique, grab
+it.
+
+4. Floating Ruins Area. There's
+one key item per area (L Can,
+Pinwheel, Energy Balancer and
+Lightbulb, respectively), which
+you can reach only by using
+Helios' (model H) Air Dash, and
+slow descent (gets you down
+whirl winds). You will also need
+Bitefrost for Area 3. {UPDATE:
+You can also use Kaisemine, to
+get it ealier.} Pick them up and
+give them to Meg (the girl at
+the cave in Area 3), exit and
+re-enter the area and receive
+300 EC and a Sub-Tank from Meg.
+(Thanks to Fernando for this one
+too!)
+
+This is also the only sub tank
+you can get in Hard mode.
+
+
+--------------------------------
+6.04	Medals
+--------------------------------
+
+If you defeat enemies in a
+certain way, you'll get a medal.
+This will appear in the bar in
+Hunter Camp 1. It may also be
+recommended to do this in Ease
+mode, if you really want Model a
+fast. Also because you'll be
+using a lot of weapon energy,
+and that restores twice as fast
+in easy mode.
+
+A HUGE thank to Eparygon)
+jotting these down and allowing
+me a copy 'n paste.
+
+
+Diaburn: Gold: As model P, hit
+him by throwing kunais and make
+sure you throw them via the
+touchscreen. Silver: Defeat him
+by touching only his weak-point.
+Bronze: Defeat him by dashing
+into him as Tesrat.
+
+Chronoforce: Gold: Defeat him
+using Kaisemine ONLY. Silver:
+Defeat him using Diaburn's dash
+attack ONLY. Bronze: Deafeat him
+using model ZX's charged saber
+attack ONLY.
+
+Rosespark: Gold: Defeat him
+using Rosespark ONLY. Silver:
+Defeat him using Argoyle &
+Urgoyle ONLY. Bronze: Defeat him
+in Bulb form (Using Model L
+charged attack will make him
+fall and transform in bulb form)
+
+Tesrat: Gold: Defeat her using
+Human Form ONLY Silver: Finish
+by throwing a rat at her (Using
+Condorock charged attack on a
+small rat will throw it; it
+works with model F as well, also
+with Urgoyle's soul body...)
+Bronze: Finish her using
+Chronoforce
+
+Bifrost: Gold: Defeat him using
+Model A's homing shot ONLY
+Silver: Defeat him using
+Diaburn's normal attacks ONLY
+Bronze: Deafeat him using
+Kaisemine ONLY
+
+Condorock: Gold: Defeat him
+using Model A's Giga Crash
+attack ONLY Silver: Finish him
+using Model H's third combo
+slash Bronze: Wait two minutes
+before killing him
+
+Kaisemine: Gold: Defeat her
+without hitting the Hive at all
+(use her own trans-on) Silver:
+Don't let het summon bees during
+the entire fight This will
+probably first get you Bronze
+(Chronoforce helps a lot)
+Bronze: Defeat her by only
+destroying the hive
+
+Argoyle & Urgoyle: (a good way
+to get their health down is to
+use a homing attack on both of
+them) Gold: Finish them
+simultaneously using Diaburn's
+charged attack Silver: Finish
+them simultaneously using
+Tesrat's charged attack Bronze:
+Finish them simultaneously using
+Model A's Giga Crash attack
+
+--------------------------------
+6.05 Extension Chips and Other
+Items:
+--------------------------------
+
+	Extension Chips
+
+Lightweight: Gotten by doing the
+get the tool sub quest in door
+in Oil Field Area 2. Don't
+worry, you don't even need to
+leave the Room.
+
+Ice Boots: Hunter Camp Area 3.
+Talk to the girl in front of the
+green gate to start a quest. Go
+to the Transport Train Area 3
+and go to the spot with three
+ladies. Talk to the last one and
+pick the first choice (pay 100
+EC). Return to the girl to get
+the chip.
+
+Frog: Hunter Camp Area 4. Pay
+the construction worker until
+you reach your second room. Talk
+to the lady and she'll give you
+a satellite dish. Go to bottom
+right corner of Oil Field Area 1
+and find a broken Utuboros. When
+the satellite sets up, return to
+the lady and get the chip.
+
+Absorber: Hunter Camp Area 3.
+Enter the green gate and talk to
+the man. He'll sell you the
+Absorber chip for 99EC.
+
+Eraser: Hunter Camp Area 3. Talk
+to the man with a girl on his
+shoulders. They'll ask you to
+get a flower. Go to the
+Waterfall Ruins Area 2 and
+proceed to the left. When you
+exit through the left screen,
+you should be in front of a door
+on the background next to a
+waterfall. Underneath the
+platform is a flower. Return to
+the man and girl and finish the
+quest.
+
+Extender: Waterfall Ruins Area
+3. There's a waterfall at the
+very end with two doors. Take
+the top one and talk to the man.
+Enter the room behind him and
+destroy all the green insect
+robots. Talk to the man again to
+make 50 green robots appear in
+other stages. They are located
+at the following:
+
+1. Oil Field Area 2. Some are
+underneath the pipes which lead
+to the Live Metal Up. The others
+are behind pipes near the ropes
+meant for Rospark. 2. Legions HQ
+Area 1. Enter the door before
+the boss room. 3. Floating Ruins
+Area 3. Some are on top of the
+giant rock with spikes in the
+middle. To reach the other, go
+to the left of that rock. Go on
+the bottom blue platform and
+hang on using Model P. After
+clearing the spikes and enemies,
+climb over and transform into
+Bifrost before it reaches the
+other side. Break the blocks. 4.
+Highway Area 1. Some of them are
+somewhere in the upper part of
+the area. The others are hidden
+under the street to the right of
+the Live Metal Up. 5. Scrap Yard
+Area 2. The area leading to the
+old man.
+
+After killing all 50, return to
+the man to get the chip.
+
+(Again, many thanks to
+KnightmareSin for all these!
+Except lightweight >:P that
+one's miiiineeee!!1!!!!!)
+
+
+	Healing Items
+
+Orange: Gotten by talking to a
+girl in Transport Train Area 3.
+restores 4 HP.
+
+E-Tank: Hunter Camp Area 4. Pay
+the construction worker until
+you reach your first room. Talk
+to the man for a requeset. Go
+outside the building (Hunter
+Camp Area 1), walk to the left,
+and pick up the paper on the
+fence. Return to the man and
+finish the quest. Leave the
+building and come back in. Pay
+the same man 500 EC to get it.
+
+Cake: Finish the above quest. In
+the same room with the man, talk
+to the refrigerator to get a
+cake.
+
+<-------------------------------
+7.		Menu Translations
+<-------------------------------
+
+Note that I SUCK at ASCII art...
+So I won't use it at all. These
+are more outlines than exact
+(And complete) translations.
+It's function is to help you
+forward though, so it should
+help you get around the new ZX:A
+menus.
+
+--------------------------------
+7.01 Beginning Menu (Press
+Start)
+--------------------------------
+
+People who know a bit of
+katakana will not get lost here.
+It's pretty straight forward,
+but here's a table:
+
+Press Start or Touch 1. New game
+2. Continue with Game (auto-
+selected) 3. Mini Games
+
+Of course, continue won't be
+available on your first run.
+
+--------------------------------
+7.02	In-Game <Start> Menu
+--------------------------------
+
+This menu has about 5 "tabs",
+which can be navigated through
+with the R and L buttons.
+
+(from left to right) 1.
+Character health, weapons,
+Lives, energy crystals and play
+time. It also has an avatar of
+your current character and the
+Live metal you currently have
+got equipped. 2. Items A, B and
+C. Self explanatory. 3. Mission
+information. 4. Control
+Controls. Change you're button
+configurations here! A new
+thing: try the last tab here.
+You can actually CHANGE the
+locations of your Trans-ONs. 5.
+A sprite display screen that
+show you what actions you can
+perform Using you current
+
+--------------------------------
+7.03	In-Game <Map/Model> Menu
+--------------------------------
+
+Oh man this is awesome. No
+really, believe me. You're going
+to use this a LOT. Press the
+windows icon to get a more
+detailed map of the area you're
+in. The blue arrows tell you
+where doors are to other area's
+or where you could go after
+this.
+
+In the main screen, press an
+area number with your stylus or
+a finger nail to see... a screen
+shot. Nice touch (no pun
+intended).
+
+The Yellow arrows indicate a
+trans server, the red arrows
+indicate where you are at that
+moment.
+
+The bottom right button switches
+to the Model or trans-on
+selection screen. Pretty self
+explanatory.
+
+--------------------------------
+7.04	In-Game <Save> Menu
+--------------------------------
+
+Stand on the trans server (those
+green teleport like platforms)
+then press Up on your D-pad.
+This will trigger the menu.
+
+1. Transfer
+	<Select area to transfer to>
+2. Data Management
+	1. Save Data
+	2. Load Data
+	3. Delete Data
+
+As always, press B to exit.
+
+<-------------------------------
+8.		Contact info
+<-------------------------------
+
+Before you start mailing me, be
+VERY sure that the answer isn't
+in here.
+
+Also, don't e-mail me for ANY of
+the following reasons;
+ - Spam. No, I don't NEED, nor W
+ - Hate Mail. If you don't like 
+   And if that doesn't exist, th
+ - Asking me for something that'
+   there are easier ways for get
+   way will you get them in the 
+
+If your e-mail meets any of the
+above criteria, it will meet
+DELETION.
+
+Fanmail, however, is very
+welcome. Just don't expect a
+reply >_>.
+
+Make sure you add "Your Rockman
+ZX Advent FAQ" in the subject
+line. And please state your
+name.
+
+Now, here's my email:
+
+frozensmile89 (at) gmail {DOT}
+com
+
+<-------------------------------
+9.		Credits
+<-------------------------------
+
+Thanks to these people for
+helping me with some info:
+ - Mykas0 for some attack strats
+ - KnightmareSin (William Nguyen
+   extension chips.
+ - Fernando Lucas for the rest o
+ - Eparygon! For the medals, and
+ - garnet17 for giving me some i
+ - Wilson T. For a slight error 
+ - The Wiki on Wikipedia for the
+ - Atomic-fire.com, for providin
+
+Special thanks:
+ - Capcom, for making the game.
+ - CjayC, for rocking.
+ - Me! For making this! Damn I'm
+
+Personal thanks:
+ - Wieke and Nikki, for both sha
+
+You may want to check out my
+site over at:
+www.awkwardexpressions.com

@@ -1,0 +1,5410 @@
+abcdefghijklmnopqrstuvwxyzabcdef
+ghijklmnopqrstuvwxyzabcdefghijkl
+mnopqrstuvwxyz1
+
+    EEEEE  TTTTT  RRRRR  IIIII  
+    E        T    R   R    I    
+    EEEEE    T    RRRRR    I    
+    E        T    R   R    I    
+    EEEEE    T    R    R IIIII A
+
+    OOOOO  DD   YY YY  SSSSS  SS
+    O   O  D D   YYY   S      S 
+    O   O  D  D   Y    SSSSS  SS
+    O   O  D D    Y        S    
+    OOOOO  DD     Y    SSSSS  SS
+
+W W A L K K TTTTT H H RRRRR OOO
+U U GGGG H H
+ W         W  A A     L      K K
+  W   W   W  AAAAA    L      KK 
+   W W W W  A     A   L      K K
+    W   W  A       A  LLLLL  K  
+
+--------------------------------
+Table of Contents
+--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~Part 1~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+1.Introduction..................
+..[INRT] 2.Story................
+...........[STRY] 3.Controls....
+....................[CNTR] 4.The
+Basics......................[BAS
+C] 5.Terms......................
+.....[TRMS] 6.Version
+Update..................[VRUP]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~Part 2~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+1.Walkthrough
+
+Floor 01........................
+...[FL01] Floor 02..............
+.............[FL02] Floor 03....
+.......................[FL03]
+Floor 04........................
+...[FL04] Floor 05..............
+.............[FL05] Floor 06....
+.......................[FL06]
+Floor 07........................
+...[FL07] Floor 08..............
+.............[FL08] Floor 09....
+.......................[FL09]
+Floor 10........................
+...[FL10] Floor 11..............
+.............[FL11] Floor 12....
+.......................[FL12]
+Floor 13........................
+...[FL13] Floor 14..............
+.............[FL14] Floor 15....
+.......................[FL15]
+Floor 16........................
+...[FL16] Floor 17..............
+.............[FL17] Floor 18....
+.......................[FL18]
+Floor 19........................
+...[FL19] Floor 20..............
+.............[FL20] Floor 21....
+.......................[FL21]
+Floor 22........................
+...[FL22] Floor 23..............
+.............[FL23] Floor 24....
+.......................[FL24]
+Floor 25........................
+...[FL25] Floor 26..............
+.............[FL26] Floor 27....
+.......................[FL27]
+Floor 28........................
+...[FL28] Floor 29..............
+.............[FL29] Floor 30....
+.......................[FL30]
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~Part 3~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+1.Classes.......................
+...[ClSS] 1.1 Landskencht.......
+.............[LAND] 1.2 Protecto
+r......................[PROT]
+1.3 Dark
+Hunter....................[DRKH]
+1.4 Survivalist.................
+...[SURV] 1.5 Medic.............
+.............[MEDC] 1.6 Alchemes
+t......................[ALCH]
+1.7 Troubadour..................
+...[TROU] 1.8 Ronin.............
+.............[RONI] 1.9 Hexer...
+.......................[HEXR]
+
+2.Verda Plaza...................
+...[VERD] 3.Quests..............
+.............[QEST] 4.Missions..
+.......................[MISS] 5.
+Stratagies......................
+.[STRA] 5.Other stuff...........
+...........[OTHR]
+6.Legal.........................
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~Part 1~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+
+--------------------------------
+1.Introduction..................
+..[INRT]
+--------------------------------
+
+This is my Third FAQ I have made
+and it's also my third one for
+Etrian Odyssey. Etrian Odyssey
+is my favourite DS game and I
+don't think it'll change until I
+get Etrian Odyssey 2!! Yes
+Etrian Odyssey 2 is announced!!
+Anyways this is my first
+walkthrough. I am going to keep
+this guide very simple. By that
+I mean I am very lazy and will
+only tell you the one way to go.
+I think Etrian Odyssey should be
+a game you play by exploring but
+if you are really stuck use my
+FAQ. If you need help on the
+quests, missions or bosses get
+out of this FAQ and go to my
+other ones. If you have any
+questions or things you want to
+add feel free to e-mail me. This
+account is specially made for my
+guides. It is not connected to
+GameFAQs in any other way.
+
+contributer_hangid@hotmail.com
+
+--------------------------------
+2.Story.........................
+..[STRY]
+--------------------------------
+
+**Story taken directly from the 
+
+In a vast and fertile land lies
+a small town known as Etria,a
+peacful village taht became
+famous for a startling
+discovery. A crack in the Vast
+forest opened at Etria's edge,
+leading downwards like a gaping
+maw. It all began there...
+
+Those who hear rumors of the
+Labyrinth of Etria, whether old
+or young, began to harbor dreams
+of exploring it.
+
+Riches...fame...prestige...all
+that and one more thing, does
+the the Labyrinth Promise:the
+true spirit of adventure, on the
+perilous edge of death.
+
+Today like any other day in new
+Etria,a youth walks through the
+town gates.
+
+
+
+--------------------------------
+3.Controls......................
+..[CNTR]
+--------------------------------
+
+The controls in this game are
+very simple. You use the D-Pad
+to select options and move in
+the dungeon. A is used to
+confirm options. B is to go back
+in options Y is used to open the
+menu and X is used to zoom in
+and out of the the map. L and R
+are used to scroll through the
+maps. The touch screen is used
+to create maps and most of the
+button controls.
+
+--------------------------------
+4.The Basics....................
+..[BASC]
+--------------------------------
+
+In Etrian Odyssey you have to
+explore the Labyrinth and go
+further in. To make this easier
+there is a map on the touch
+screen. There are several things
+that you use to make your map.
+
+Pencil:Used to draw walls.
+Paintbrush:Used to draw ground.
+Event:Used to mark events such
+as talking with a soldier.
+Treasure:Used to mark where you
+found treasure Item Point:Used
+to mark where you found an item
+point. (Very useful)
+Monster:Used to mark where a FOE
+or Boss is. (Very useless, since
+they move) Door:Used to mark
+where a door is
+
+Put walls around it like this:
+ _
+|_|=Door I=Wall
+  _
+I|_|I
+
+Never put walls on entrance or
+exit of door.
+
+Pit:Used to mark where you can
+fall through Warp:Used to mark
+elevators and Warp points
+Stairs^:Used to mark where
+stairs to previous level are
+Stairsv:Used to mark where the
+stairs to next level are
+Memo:Used to put a message on a
+box. (Very Useful)
+
+You can only have two icons per
+a square. One has to be a
+marking icon and the other has
+to be a memo. To make a new icon
+just click and drag it on to the
+map. To delete an icon drag into
+the garbage can. Map making
+isn't that hard once you get
+used to it, you shouldn't have
+that much trouble.
+
+--------------------------------
+5.Terms.........................
+..[TRMS]
+--------------------------------
+
+In my walkthrough I use terms to
+make it easiar for you (and me)
+to get through the floor. Some
+examples are like "all the way"
+or "around the corner". I have a
+list of my terms and thier
+meanings. If you see anything in
+the walkthrough that is there
+but not in this list e-mail me.
+This is my e-mail:
+
+contributer_hangid@hotmail.com
+
+Around the corner
+All the way
+Compass directions
+# Spaces
+Ignore Passage
+Turn around
+
+
+Around the corner- This means
+when there is a "U" shaped type
+of formation in the path it
+means to go from either side of
+the "U" shaped formation to the
+other. Here is an ASCII picture
+showing it.
+
+O=You X=Destination
+
+|X|  |O|
+|^|  |v|
+|^|__|v|
+|<<<<<<|
+
+OR
+______
+<<<<<<|
+    |^|
+O>>>>>|
+
+
+All the way- This means to go
+one from end of a passage all
+the way to the other end
+ignoring all passages. Sometimes
+I will say all the until _____.
+This is a map showing it:
+
+O=You X=Destination
+
+________________________________
+O>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>X
+________________________________
+
+Compass directions- On a compass
+you have eight different
+derections. I use these some
+times. North will always be the
+top. On the top of your map
+where you the gird numbers, that
+is north. This is the compass:
+
+ N
+  NW/ \NE
+   W| |E
+  SW\_/SE
+ S
+
+N=North
+NE=North East
+E=East
+SE=South East
+S=South
+SW=South West
+W=Wast
+NW=North West
+
+# spaces or steps- This means to
+go a number spaces. An example
+would be, go right 5 spaces or
+steps. A space or step is moving
+one tile forward.
+
+Ignore Passage-This simply means
+when you're walking to ignore
+the passage I am talking about.
+I may tell you to ignore 1 or
+more passages depending on the
+situation. Some I tell you to
+ignore because they have no
+value and some I tell you to
+ignore because they are for
+later.
+
+Turn around-Simply turn around
+180 degrees.
+
+| |   | |
+|v|-->|^|
+| |   | |
+
+
+--------------------------------
+6.Version
+Update..................[VRUP]
+--------------------------------
+
+This the Walkthrough's version
+update. The most recent one will
+be at the bottom.
+
+0.25
+
+-Complete until 7th floor
+-All stuff in part 1 complete
+
+0.27
+
+-Introduction to floors 8 and 9 
+-All the extras done except Roni
+-Checked spelling and grammar
+
+0.30
+
+-Finished B8F
+-Finished B9F
+
+0.33
+
+-Finished B10F
+-Added Monsters on floor to intr
+
+0.38
+
+-Added terms section
+-Finished B11F
+
+0.41
+
+-Finished B12F
+-Added stratum and floor names
+
+0.50
+
+-Finished B13F
+-Finished B14F
+-Finished B15F
+
+0.56
+
+-Finished B16F
+-Finished B17F
+
+0.60
+
+-Finished B18F
+
+0.66
+
+-Finished B19F
+-Finished B20F
+
+0.80
+
+-Finished B21F
+-Finished B22F
+-Finished B23F
+-Finished B24F
+-Finished Ronin
+
+0.83
+
+-Finished B25F
+
+1.00
+
+-Finished B26F
+-Finished B27F
+-Finished B28F
+-Finished B29F
+-Finished B30F
+-Hexer
+
+Coming soon:
+
+-Nothing, walkthrouugh is done. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~Part 2~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+All floors will have the
+following setup:
+
+--------------------------------
+Floor **........................
+...[FL**] [Floor title]
+--------------------------------
+
+New monsters:
+
+Monsters on Floor:
+
+Secret Area Monsters:
+
+FOES:
+
+Bosses:
+
+--------------------------------
+
+When you first start a new game
+you'll see a little text and
+then you go to the Verda Plaza.
+The only thing you can go is the
+Explorer's Guild. When you get
+there. He'll start talking to
+you and then you have to make a
+Guild name. I called mine
+Akatsuki. No I am not a naruto
+fan it was my sister's idea.
+Anyways once you decide on a
+name you'll be given five
+options. First register five
+recruits. The normal party is
+PLASM but I used LPDSM for both
+of my playthroughs. Once you're
+done leave you get to go to the
+plaza. For more imformation on
+it, go to the extra stuff. First
+thing things first go to The
+Rooster Inn to save. Then go
+Radha Hall and go accept
+missions and accept Adventurer's
+initiation. You'll get a map and
+then you finally enter the
+Forest.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~ Stratum 1
+Emerald Grove ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+--------------------------------
+Floor 01........................
+...[FL01] The first hope-filled
+step
+--------------------------------
+
+New monsters: Treerat, Woodfly,
+Mole, Clawbug
+
+The monsters here pose very
+little threat except the
+Clawbug. The only thing wrong
+with the Clawbug is that he is
+resistent to physical attacks
+and he hits somewhat hard.
+Otherwise the monsters are just
+basic begining monsters.
+
+Monsters on Floor:
+Treerat,Woodfly,Mole,Clawbug
+
+Secret area monsters: Sleepgel,
+Venomgel, Waspior, Spider, Sloth
+
+Don't worry about these. They
+are for later in the game.
+
+FOES:3 Ragelopes(in secret area)
+
+Don't worry about these either,
+for they are also for later in
+the game.
+
+Bosses:N/A
+
+Take a few steps forward and it
+will say you can use skill
+points. For good skill guides
+see the character specific stuff
+in the extras. Keep going
+straight until you meet with a
+knight. Ask him what he's doing
+here and then he'll start saying
+you have to create a map of the
+floor. You'll be given a short
+lesson on how to make a map. You
+only have to make a map of the
+floor that's in the red box.
+First head all the way left and
+then all the way down. Remember
+to draw the walls along the
+way,the soldier is very picky.If
+you pick up the boot moles will
+ambush you!!! The good thing is
+if you fight them you get a
+whitestone which you can sell
+for $$$. If you're hurt you can
+go back to town and rest. If you
+do go back to town go to
+Shilleka's and sell any drops
+you got. Selling stuff to her is
+the only way to get money other
+than quests or missions. It is
+also the only place to get
+armour and weapons. To sell
+everything of one kind just
+press Y. If you have the need to
+buy stuff go ahead but watch
+your money. Anyways once your
+done that go back to
+intersection where you met the
+knight only this time take the
+right passage.
+
+When you go all the way right
+you can either go left or right.
+Just to let you know you can
+hold A to make battles go
+faster. If you go left and keep
+going on you come to a clearing
+with chests. This isn't part of
+the map that you have to draw
+but it has chests! The chests
+contain Medica II, 200 en and a
+Scramasax. Remember if you need
+to go to town to rest do so.
+Also remember to save a lot. A
+reminder is that Protectors
+always need to have a shield. So
+now if you didn't go to town you
+should head south and then left
+on the first passage you see. If
+you came from town go to the top
+right corner of that large in
+the begining. Either way you end
+up on a cross road which ever
+way you took just take the other
+to fill in the map. At the cross
+road go to the rightmost hallway
+and head down. You'll get a
+message about water. Drink it.
+Afterwards head back to the
+cross road and head down the
+other hall way. Ignore the
+passage you see on the way and
+continue down. There's a dead
+end head back up to the passage
+I told you to ignore.
+
+You will now be at a four way
+intersection. Take the one that
+heads east. You end up in a 3x3
+room with sparkly stuff in the
+middle. This is an item point.
+If one of your characters have
+the skill chop you can get items
+from here. For a good strategy
+of how to abuse these go to the
+stratagies section. In the
+bottom left corner of this room
+you will find a secret passage.
+Once you go through it, it will
+forever be open. This will grant
+you easiar access to this floor.
+Almost all other floors have
+atleast one. Since your here you
+might want to go back to town to
+rest and sell your drops.
+Note:Not all passages are two-
+way some of them you can only go
+through one way.
+
+Anyways head back to the
+intersection but this time go
+north. Go up two squares and you
+come across a door with vines.
+This can only be opened by a
+violet key that you find later
+on. Use the "Door" icon to mark
+that there's a door. Afterwards
+head south then right all the
+way ignoring the passage. At the
+dead end you come across a
+event. If you eat the red fruit
+your team leader gets 10HP. Mark
+this is as an event and head
+back to the passage I told you
+to ignore. To the left there is
+a dead end map it and then head
+right. Go all the way ignoring
+the passage. In the dead end
+pick up the rucksack for 100en.
+Head back to passage I told you
+to ignore. When you reach the
+end of the passage you end up
+infront of a 3x3 room. If you
+rest you get jumped by
+venomflies not recommended. Map
+the room with an item point.
+Once your done head back to the
+knight if you mapped properly he
+will let you pass. Head back to
+Radha Hall to report your
+results. Select report results
+and then adventurer's
+initiation.
+
+Once you report the results you
+get 500en. Go rest at the
+Rooster Inn and save. You'll
+have probably noticed that the
+inn price has gone up. This has
+happened because your party has
+leveled up. Anyways head to
+Shilleka's good and talk to her.
+If you show her the letter
+she'll let you buy Warp Wires.
+ALWAYS HAVE A MINIMUM OF THREE
+WARPWIRES. THEY ARE VERY
+IMPORTANT DUE TO THE FACT THEY
+CAN WARP YOU OUT OF THE
+LABYRINTH AT ANYTIME. That
+noted, buy three warpwires then
+whatever you want. Leave and
+then head to the Golden Deer
+Pub. A lady named Valerie will
+start talking to you about how
+you can accept quests. Quests
+are very useful and you should
+always accept as many as you
+can. If you need help on these
+refer to my Quests FAQ. When you
+complete a quest go to Report
+results to beat and get your
+reward. After your done this you
+can head on to BF2.
+
+--------------------------------
+Floor 02........................
+...[FL02] The verdant in-between
+--------------------------------
+
+REMEMBER BRING WARP WIRE!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!
+
+New
+monsters:Hare,Vemonfly,Fender
+
+The Hares can hit moderately
+hard but are probably the
+weakest of the new monsters. The
+Vemonflies are VERY annoying.
+They have an attack called
+poison. Just by the name you can
+tell the effect. The poison hits
+for about 25 damage. For low HP
+characters this is a big
+problem. If your lucky,
+hopefully they will miss or you
+can kill them fast enough. The
+fenders are probably the biggest
+of the problems. They can hit
+very hard and have very high HP.
+It is recommended to run away
+from them.
+
+Monsters on Floor: Treerat,
+Woodfly, Mole, Clawbug, Hare,
+Vemonfly, Fender
+
+Secret area monsters: N/A
+
+FOES:3 Ragelopes,2 Kuyuthas
+
+The FOES in this floor should be
+avoided like the plague. For
+those who don't know what a
+plague is well lets just say it
+kills a lot of people in a short
+time. This, is excactly what the
+FOES do. Avoid them, as I say in
+the walkthrough. The Ragelopes
+have higher HP but hit less than
+Kuyuthas. They also have way
+superior defense. The Kuyuthas
+are the opposite of the
+Ragelopes but they should both
+be avoided.
+
+Bosses:None
+
+The route to B2F is very
+simple.You can see the staircase
+in the top left part of B1F's
+map. So head straight until you
+get to the 3x3 room and take a
+right. Keep going around the
+corner until you get to the
+stairs. Since this is an
+entirely new floor you have no
+part of the map drawn. First
+things first put a "Stairs ^"
+icon behind you and put walls
+around it. Don't put walls on
+the front part, the part that
+you can see the actual stair
+case. Also don't forget to paint
+it. Even though they are staris
+they are still considered floor.
+At the end of a floor before you
+go down put a "Stairs v" where
+the stairs are. So now that you
+got new floor basics down lets
+move on shall we. If you find
+the monsters here hard don't be
+scared to go back and train a
+bit.
+
+If you go to the end of this
+hallway there's an event that
+makes the first person in your
+party lose 5HP. Not a good idea
+to do that so lets take the
+other way. When you reach a wall
+you have a choice of going right
+or or left. If you go right
+you'll meet a soldier. He will
+either sell you a Shortsword or
+a Soma. This is a one time thing
+and you can only get one of
+them. The left skips the soldier
+and continues on. When you go a
+little further you see some bars
+near your monster encounter
+thing-a-majig. This is a bar to
+show you how near you are to a
+FOE. A FOE is a harder almost
+mini-boss like monster. They are
+very strong and are not meant to
+be treated like normal enemies.
+FOES are purple or red. Purple
+means they have a set path and
+take a step everytime you do.
+Red FOES mean that they chase
+you down. On the first couple
+floor AVOID ALL ANY FOES UNLESS
+I SAY SO!! When you go around
+the corner you see an orange
+sphere. That my friend is the
+first FOE! You need to avoid it.
+Look at the map to know how to
+avoid it.
+
+O=You +=FOE
+
+  _
+  O|
+  |v|__
+  |> __
+  | |
+  | |
+  | |
+  |+
+
+You have to wait until the foe
+is at the bottom then make a run
+for it. When you go through the
+Z like passageway you come to a
+hallway. Keep going past the
+first passage and the second
+passage to the top. Down this
+hall way there is a chest with a
+warpwire in it. Go back to the
+second passage. You can now go
+left or right. There is nothing
+to the left so go to the right.
+Keep going until you get to a
+three way intersection. If go
+right and around the corner you
+come at a tree. If you eat the
+fruit the first person in your
+party will lose 10TP. So just
+ignore that and go to the left.
+Around the corner there will be
+another FOE. Just wait until it
+turns around and then keep going
+until you get to the passage. If
+you get into battle run away.
+You'll be at a three way
+intersection again. Both ways go
+to the same place but for FOE
+avoiding reasons go right. If
+you do go left you will see a
+passage. This leads to a Kuyutha
+FOE. At your level this will be
+too hard so leave it alone.
+
+As you keep going fromt he right
+side you come a U shaped turn.
+In the middle there is an
+intersection with a FOE. Around
+the corner there is a tree with
+fruit that restores 10HP to the
+first person in your party.
+Anyways go infront of the
+intersection. You need to move
+back and forth to position the
+FOE. The FOE must be here.
+
+O=You +=FOE
+
+
+ |+|
+ _| |_
+ O-> _
+ |_|
+
+Once you at this position run
+forward and then up. This will
+take you a down staircase. Mark
+it as a "Stairs v", put a floor
+on it and then go down. When
+your at B3F it may be in your
+best interest to warp back to
+town. Everytime you come at a
+new floor new quests open up at
+the pub.
+
+
+--------------------------------
+Floor 03........................
+...[FL03] Marble orchard of
+soldiers
+--------------------------------
+
+New monsters:Mandrake, Roller
+
+The Mandrakes aren't that hard.
+If you have an Alchemest with
+fire the Mandrakes pose no
+threat. If you don't have an
+Alchemest thats Okay too because
+they aren't that strong. The
+rollers however hit hard, are
+resistent to physical attacks
+and can use defend to raise
+thier defense. Like with the
+Mandrake an Alchemest is
+recommened.
+
+Monsters on Floor: Treerat,
+Woodfly, Mole, Clawbug, Hare,
+Vemonfly, Mandrake, Roller
+
+Secret Area Monsters:Sleepgel,
+Venomgel, Petaloid, Firebird,
+Scorpion
+
+Don't worry about these.
+
+FOES:4 Stalkers,1 Kuyutha,5
+Armoths(Secret Area)
+
+The Stalker should be avoided
+more than anything in the entire
+game. The one Kuyutha you will
+have to fight to progress. By
+now your levels should be a
+little higher than when you were
+in B2F. Don't worry about the
+Armoths, for they are later in
+the game.
+
+Bosses:Golem(Secret Area)
+
+Don't worry about this guy, it's
+for later in the game.
+
+Put an "Stairs ^" option behind
+you. Don't put a wall on the
+left side of the staircase. When
+you come down you hear about how
+there will more active FOES.
+FOES that appear as red will
+follow you. They don't have that
+much movement but they will
+follow you. There is a red FOE
+in this giant room. To get past
+him run all the way down until
+you're 1 space away from the
+wall. Then head right. There
+will be a door here put a door
+icon here and put walls only on
+the side of it. When you go up
+this room you will see another
+FOE. This type of FOE only
+chases after you when you're
+infront of it. The front is the
+way the arrow is pointing. To
+avoid it you must do the
+following:
+
+O=You X=FOE
+
+ ______
+ X O-> |
+| |    |
+
+ ______
+   X O>|
+| |    |
+
+ ______
+    X O|
+| |   v|
+
+ ______
+ < ^ X |
+  |---O|
+
+After that head four spaces
+left,one up and then two left.
+When you do that you will get
+past him. Head down until you
+see a door. When you get there
+you see two girls. Thier names
+are Ren and Tlachtga. Say that
+you are adventurers. Ren will
+then tell you that they are
+guarding the area and that you
+must head back to town. So you
+have to go back to town.
+Hopefully you brought a Warp
+wire to get back to town faster.
+When you get back to town head
+to Radha Hall. When you go,
+Quinn will start talking about
+how there are monsters prowling
+lower in the labyrinth. Go
+accept the mission called "The
+terror of Fenrir". He'll start
+talking about how there are
+wolves deeper in the Labyrinth.
+What you must you do is go to
+B5F and kill Fenrir. Before you
+head back to the Labyrinth,
+rest, sell your drops, buy new
+equipment if wanted and save.
+When your done head back to Ren
+and Tlachtga.
+
+When you get there Ren will let
+you pass. Mark a door and then
+go through it. You are now in a
+room with three doors. The top
+one leads to room with two
+Stalkers and a room with three
+chests. The chests contain
+400en, Medica III and a Hide
+Boot. This is not suggested due
+to the fact that the Stalkers
+will rape you. The other rooms
+lead to the same thing but the
+lower is faster, so head to that
+one. Go straight and then left.
+You come at an intersection,
+when you take the left path you
+will come at a FOE that you will
+have to face. This is a Kuyutha,
+this guy can hit VERY hard. I
+suggest you level up a little
+before you face him. Also use as
+many skills as you can on him.
+As you go down the hallway
+ignore the first passageway you
+see. Take the second one you see
+and go down until you see a
+door.Put a door icon and pass
+through.
+
+When you enter this 3x3 room
+head to the door on the left.
+Look right and take the passage
+way. Then go right ignoring the
+passage way and heading all the
+way to the end. When you go
+further you'll see Ren. She will
+talk something about secret
+passages (these are explained
+earliar in the FAQ). Two spaces
+down the hallway turn north and
+you'll see a "check" option.
+Press A and then continue
+forward. From now on when you
+want to come back to the lower
+part of B3F take this secret
+way. Now that you've got that
+settled head back to the 3x3
+room. This time take the door
+you didn't go through. You're
+now in a hallway that has three
+doors. The one on the left has a
+chest with a Therica A in it.
+The one on the right has a "take
+item point". The one in the
+middle is the one you need to
+take to advance. When you enter
+the room you hear a scream and
+are offered to help a soldier.
+If you are near death don't. If
+you want to, go ahead. I didn't
+help the knight so I don't know
+what happens. When you don't
+offer to help, Tlachtga shows
+up. She heals you. Every time
+you step on the middle square of
+this room she heals you. Head
+through the door and head right.
+Mark the stairs and head down.
+
+--------------------------------
+Floor 04........................
+..[FL04] The depths' black teeth
+--------------------------------
+
+New monsters: Clawfly
+
+The Clawfly is basically like
+the Clawbug except it's
+stronger, had more HP, more
+defense and it's red. It also
+has the skill Whirr.
+
+Monsters on Floor: Mole,
+Clawbug, Hare, Vemonfly, Fender,
+Mandrake, Roller, Clawfly
+
+Secret Area Monsters: Sleepgel,
+Venomgel, Fangleaf, Sloth,
+Maneater
+
+Don't worry about these.
+
+FOES:7 wolves, 3 cutters(secret
+area)
+
+The wolves are pretty easy FOES.
+They don't have that great
+defense or HP. What they do have
+is great experience. With
+Tlachtga near the end of B3F
+this is a prime spot for
+training. Don't worry about the
+Cutters.
+
+Bosses: N/A
+
+When you take a few steps you
+hear screams and then FOES
+appear on your. B4F is an
+excellent training floor. This
+is because the wolves are pretty
+easy and Tlachtga can heal you
+on B3F. You should go back to
+town and save if it's been
+awhile. If you're there accept
+the new quests if you can. The
+thing about B4F is that it has
+too many breakoff points. It's
+hard to tell you what to avoid
+so instead I will tell you what
+to do in steps. North is going
+up in the map. East is going
+right on the map. South is going
+down on the map. West is going
+left on the map. North is going
+up.
+
+From the stairs take four steps
+right. Then eleven steps north.
+Two steps east. Three steps
+north. Two steps east. Two steps
+north. You should now be at a
+door. It's not so complex here
+so I can explain normally. You
+should be in a 2x4 room. Go
+right and around the corner.
+That little spot in the corner
+is for nothing. Go up and take
+the first passage you see. Going
+all the way leads to a dead-end.
+Go down the passage and then up.
+To your right is a dead-end to
+the left is the place where you
+want to go. Go down ignoring the
+small little break off. There is
+weird circle type formation
+here. On the top left part of is
+a door with an Amrita. Anyways
+head up from the door to get to
+the stairs. What a short and
+easy floor!!
+
+--------------------------------
+Floor 05........................
+..[FL05] Staring down the roar
+--------------------------------
+
+New monsters: Warbull
+
+The big problem with the Warbull
+is, that it can hit so hard it
+can OHKO people with ease. They
+have more than 100 HP which can
+also cause problems. The good
+thing is that it is very slow
+and probably will not get to you
+in time.
+
+Monsters on Floor: Mole,
+Clawfly, Fender, Mandrake,
+Roller, Clawfly, Warbull
+
+Secret Area Monsters: Sleepgel,
+Venomgel, Sloth, Waspior
+
+Don't worry about these.
+
+FOES: 4 wolves(3 in secret
+area), 7 skolls
+
+The wolves should be no threat.
+The Skolls are just stronger
+versions of the wolves. They
+chase but can be killed quite
+easy. They are located only in
+the room where Fenrir is.
+
+Bosses: Fenrir
+
+Refer to my Boss FAQ.
+
+This floor may seem long and
+complex but it really isn't. If
+you follow the directions
+properly it should be easy.
+Anyways head down until you get
+to a passage way. Go down and
+turn left. Take the first
+passageway you see go down. Go
+right all the way and then go
+down until you're at a four-way
+intersection. Go down and then
+two steps right. From here go
+all the way down ignoring other
+passages. Go one step right and
+then all the way down ignoring
+the passage. There is a "chop"
+item point here. Moving on, go
+left all the way and then down.
+There should be a long
+passageway to your left. Go all
+the way down. From here go up
+then right. There should be
+another long passage here.
+
+Go left and then up and then
+left again. When you down you'll
+notice a few things. Two doors
+on the side that both lead to
+item points. The upper item
+point is a "chop" item point.
+The lower one contains a "mine"
+item point. Adjacent to the
+doors is a dead-end passage. If
+you don't want to get items just
+head down to the door. You'll be
+a room with some open space. In
+the bottom right of the room
+there is a chest with a blaze
+oil in it. The door is directly
+across. When you enter the door
+turn right and then go all the
+way up. In the small little
+breakoff there is secret passage
+to the other parts of B5F. You
+can you use this shortcut to get
+to Fenrir easily. Speaking of
+Fenrir go back down and then
+head the only way possible. When
+you enter the room you'll get a
+warning. Then all of a sudden
+FOES! Thousands of them!! Oh and
+along with them are Fenrir. This
+is the boss of this stratum. For
+a good strategy see my Boss FAQ.
+When you beat Fenrir all the
+FOES dissapear.
+
+GO DOWN THE STAIRS AND THEN
+FORWARD!!!!! YOU'LL SEE REN AND
+THEN SHE'LL TELL YOU ABOUT
+GEOMAGNETIC FIELDS. GO UP TO IT
+AND SELECT RETURN TO TOWN. NOW
+YOU CAN WARP TO THE SECOND
+STRATUM ANYTIME. W00T!!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~ Stratum 2
+Primitive Jungle ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+--------------------------------
+Floor 06........................
+..[FL06] Dance of the fairies
+--------------------------------
+
+New monsters: Sleepgel,
+Venomgel, Waspior, Spider, Sloth
+
+New stratum, new really hard,
+really annoying monsters! The
+sleepgels and the Venomgels are
+somewhat resistent to physical
+attacks. The Sleepgels can put
+one of your party members to
+sleep. The Venomgels can poison
+you entire party and the posion
+can hit for more than 30 damage.
+
+The Waspiors have an attack that
+can hit you and then poison, but
+it doesn't always poison. The
+spiders are probably easiest of
+the new monsters. They don't hit
+that hard nor do they have that
+good defense. The Sloth can hit
+very hard and has quite a lot of
+HP. Should be avoided when you
+first come here.
+
+Monsters on Floor: Sleepgel,
+Venomgel, Waspior, Spider, Sloth
+
+Secret Area Monsters: N/A
+
+FOES: 6 Cutters, 3 Moas
+
+The Cutters have a lot of HP.
+They also have VERY hard, so
+hard will probably OHKO anyone
+in your party. They also have
+very long claws...not that it
+matters. The Moas can also hit
+hard but not as hard as the
+Cutters. They have very good
+speed. Both of them should be
+avoided.
+
+Bosses: N/A
+
+The good thing is that B6F is a
+short floor if you my follow
+path.The bad thing is it that
+there are several new and very
+hard monsters. If you find the
+monsters resistent use your
+special attacks. Remember if
+you're relatively close to the
+Geomagnetic Field go there
+instead of using a Warp Wire.
+Anyways moving on. Go forward
+around the Geomagnetic Field and
+to the door. When you go through
+go through the door directly
+infront of you. There will be 3
+FOES in this room. Avoid them
+all costs. They are strong and
+have an abundant amount of HP.
+If you had trouble with Fenrir
+these guys aren't the best
+things. Head all the way right
+and then all the way up. If you
+turn right you should see a
+door. Enter it. Go all the way
+down and around, then all the
+way up and then finally, go
+right until you get to a door.
+Beside it ia "mine" item point.
+
+Go through the door and then
+around the tree in the middle.
+When you go down a FOE will
+appear. This is a Moa. Moas,
+like the cutters, should be
+avoided. Go through the door and
+you will see a fork in the road.
+Head to the one on the right.
+Head all the way down to a door.
+It's too complex to say how to
+get past these FOEs, but what
+you will have to do is get to
+the bottom of the room so the
+FOE guarding the room. Make your
+way to the door in the bottom
+left corner of the room. Head up
+and then left one space. Turn
+right and you will find a secret
+passage. This is great because
+it is really easy to access to
+get to the next floor. Continue
+forward and then down. Go all
+the way right and then up to the
+stairs. Mark it as a "stairs v"
+and then go down.
+
+--------------------------------
+Floor 07........................
+..[FL07] Trail of enduring pain
+--------------------------------
+
+New monsters: Fangleaf, Maneater
+
+The Fangleaves and Maneaters are
+just palette swaps of each
+other. The Maneater is the
+stronger one though. Neither of
+them pose much of a problem
+except that they both have quite
+a bit of HP but they don't have
+that much defense.
+
+Monsters on Floor: Sleepgel,
+Venomgel, Waspior, Sloth,
+Fangleaf, Maneater
+
+Secret Area Monsters: Meltworm,
+Moriyana, Vampbat, Sworder,
+Redclaw
+
+Don't worry about these.
+
+FOES: 2 Assassins
+
+If you follow my walkthrough you
+won't have to fight Assassins,
+but if somehow you are caught
+here are some warnings. They
+have quite high attack and also
+has a posion that can hit for
+more than 100 damage. You
+probably won't be able to put
+that much damage on him. Thier
+speed as okay maybe a S or D may
+go before him but other than
+that, no. You're better off
+running.
+
+Bosses: Alraune (secret area)
+
+For later in the game.
+
+BRING A WARP WIRE FOR THIS
+FLOOR!!
+
+First of all go back to town and
+to Radha Hall. Quinn will tell
+you about a dragon in B8F. He
+says that they need the egg of
+the dragon for research. Accept
+the mission and then head out.
+Sell your stuff and check out
+the new quests. After that head
+back to B7F to continue on. When
+you head forward you'll see some
+red spiky vines on the floor.
+Every time you step on these
+everyone in your party takes
+damage. You should check your HP
+everytime you get past one of
+these fields.
+
+Anyways on with the walkthrough.
+Go all the forward until you get
+to the first damage spot. Go
+right to get a chain helm. Go
+left and around the tree until
+you get to a wall. Head up and
+then right, then down, then left
+and then three spaces up. You
+should now see two trees, one on
+you left and one on you right.
+Go all the left up and then all
+the way up. You'll notice when
+you're going left that a chaser
+FOE. You should avoid this FOE.
+It's called an Assassin. It can
+hit hard and it's poison is not
+pushover either. Anyways when
+you get all the way up you'll
+see a chest, this chest contains
+something called a clear key.
+This opens doors that a have a
+clear crystal and vines infront
+of it. Now use your warp wire
+because you don't want to fight
+that Assassin and because you
+can now get to areas you
+couldn't before.
+
+-------------------This is where
+
+If you don't want to backtrack
+just skip this section, although
+it is highly recomended. Anyways
+head to B1F. Go all the way
+forward until you get to a 3x3
+room. On the left part of this
+room is a door. Enter it, it
+contains a Nectar. Go back to
+the 3x3 room and then head to
+the intersection below. Take the
+passage on the east side and go
+all the way across. Go all the
+way down until you see a passage
+which should be in C4. Head 4
+spaces down and turn left. You
+should see a check option. This
+is a one way passage and there
+are stratum 2 monsters. As well
+as ragelopes.
+
+If you go all the way forward it
+leads to a dead-end, so take the
+first passage you see. As you go
+along this passage you will see
+three doors. They all have a
+Ragelope gaurding it. The lower
+one contains 500en, the middle
+one contains a Rapier, and the
+highest one contains a Medica
+II. When you are ready to leave
+there is a door in the highest
+room. When you enter the door
+head right and around the corner
+to get a plumed hat. After you
+have gotten that, go back to the
+door. Go the other way, and head
+all the way down. Then go all
+the up, then all the way left
+and then 8 spaces down. Turn
+right and you'll see a check
+option. Select it and you're
+finally out.
+
+For the next part you will need
+to go to B2F. When you get to
+B2F head to the first Ragelope.
+Beyond it is a another part of
+B2F. To get there you must
+defeat the Ragelope that is in
+the way. When you defeat head
+all the way down and then all
+the right until you get to a
+passage. When you go in the
+passage you will be at an
+intersection. Take the on on the
+left. You should see a clear
+crystal door. There are two
+hallways, both containing chests
+the upper contains a Medica IV,
+the lower one contains a Soma.
+
+When you have gotten those two
+items head back to the
+intersection. This time take the
+other way. Go all the way
+straight and then down. You
+should be at an intersection,
+head right all the way and then
+up one space. There are now two
+ways you can go. Right or left,
+you'll end up in the same place.
+Although you might want to go
+the way where you don't have to
+fight the Kuyutha. If you took
+the upper one go straight then
+down, if you took the lower one
+just go straight all the way.
+The next part is just zig-zag
+formations until you get to the
+Nectar. After you are done here
+head back to B7F
+
+------------------------The walk
+
+Head back to those trees I
+mentioned before (the one where
+you saw them then had to go
+left). Go right through them and
+go all the way. Then go left and
+then and then all the way until
+you get to the first passage.
+Don't go any further because
+there is an Assassin that will
+chase you. Go all the way down
+the passage and then left. Head
+all the way down past the damage
+field and down to the bottom. At
+this intersection right lead to
+a dead and left is the way to
+go. Go only three steps because
+when you turn right there is a
+shortcut. This is probably the
+best shortcuts in the game.
+
+Continue on past the secret
+passage and to the door at the
+end of the hallway. Enter the
+door and head all the way and
+then left all the way and then
+all the way down. When you go
+one space forward you will see a
+door. Within there will be a
+waterfall type thing that heals
+you. Remember this place. Leave
+the room and then head left. Go
+all the way up and then all the
+way right to the stairs. Put
+down a "Stairs v" icon and head
+down to B8F.
+
+--------------------------------
+Floor 08........................
+..[FL08] The Wyvern's nest
+--------------------------------
+
+New monsters: Petaloid, Eviloid,
+Firebird, Scorpion
+
+The Petaloids are complete
+bitches. They can put your
+entire party to sleep and then
+hit hard to kill them off. They
+good thing is that they have a
+little over a 100 HP. The
+Eviloid is a palette swap of the
+Petaloid but not as bad. Can hit
+for okay damage but nothing
+really special.
+
+The Firebirds are really
+resistent to fire, but you could
+have told that by the name. They
+have bad defense, atleast in my
+opinion. Thier attack is nothing
+to be scared of. The Scorpions
+are very strong. Not only can
+they hit hard but thier posion
+can hit for around 100HP. They
+have ok HP and ok defense. If
+you can kill them fast enough
+they aren't much of a threat.
+
+Monsters on Floor: Sleepgel,
+Venomgel, Spider, Fangleaf,
+Maneater, Petaloid, Eviloid,
+Firebird, Scorpion
+
+Secret Area Monsters: Vampbat,
+Sworder, Hexfrog, Cutcrab
+
+Don't worry about these.
+
+FOES: 2 Assassins, 3
+Killclaws(secret area), 1 Armoth
+
+The only new FOE is the Armoth.
+They have quite a lot of HP and
+can hit hard. Thier defense
+isn't that great but it's not
+bad. Has a nice drop that can
+sell for a lot of en.
+
+Bosses: Wyvern(before accepting
+The Dread Wyrm, Wyrm (after
+accepting The Dread Wrym)
+
+--------------------------------
+Floor 09........................
+..[FL09] A labyrinth for
+monsters
+--------------------------------
+
+New monsters: Glowbird
+
+Only one new guy. Nothing too
+special about him. Can hit above
+average. Has insanely high speed
+and I doubt anyone can go faster
+than him. Very weak against
+pierce attacks.
+
+Monsters on Floor: Venomgel,
+Waspior, Sloth, Fangleaf,
+Petaloid, Eviloid, Firebird,
+Glowbird
+
+Secret Area Monsters: Hexfrog,
+Moriyana, Vampbat, Cutcrab,
+Sworder, Redclaw
+
+Don't worry about these.
+
+FOES: 1 Armoth, 2 Cutters, 1
+Assassin, 8 Moas (5 in secret
+area)
+
+Nothing new.
+
+Bosses: N/A
+
+
+Now you're probably confused as
+to why I seemed to have skipped
+B8F. Well I didn't. B8F and B9F
+are interconnected, so thats why
+I am doing them both in one
+part. Even with the both of the
+floors combined they aren't too
+long or hard.
+
+When you come down to B8F new
+quests will open up. There is
+one called The Explorers Guild
+Trial. The reason that I'm
+mentioning this quest is that
+you have to spend 5 days in B8F.
+If fight all 5 of the days you
+will probably be around level 30
+by the end. Just something to
+keep in mind.
+
+When you get down B8F go forward
+until you get to a passage. Go
+down it. There are two doors
+here, one normal one and one
+purple crystal one. Enter the
+normal one. When you go inside
+you will see Ren. She will say
+that this fountain is being
+blocked by a monster higher up.
+Remember that room with that
+waterfall and when you entered
+it you got a warning. Go back
+there to fight a Pondclaw.
+
+The Pondclaw had quite a lot of
+defense and can raise it higher
+with Defend. Just use all your
+skills and hopefully you have
+Defender or Immunize. When you
+defeat him go back to the
+fountain and it will be working.
+Everytime you come down to B8F
+going here is recommended.
+
+Go back to the stairs and head
+the other way. Keep going until
+get to a passage. When you go a
+few steps you will get a warning
+and then you'll see a FOE pop
+up. That, is the Wyvern. The
+Dragon egg right behind it. If
+its pointing towards you it will
+star chasing you. Move until it
+turns left or right and then go
+the way it's not looking. Get
+the egg and get the hell out of
+there.
+
+Go back to Radha Hall. Report
+your results and then there will
+be a lot of talking. When it's
+done head back to B8F. In the
+south-east part of the Wyvern's
+room is a secret passage. Wait
+until thw Wyvern is facing west
+and then head for it. Make your
+way up the passage and then
+around the corner. Go forward,
+put down a "stairs v" icon and
+then head down.
+
+When you get to B9F head to back
+Radha Hall. Quinn will talk
+about some monster in B10F. A
+new mission will then open up.
+It's called "The hunt for
+Cernunos", go accept it. Rest,
+buy/sell items, check new quests
+and then head back to B9F to
+continue.
+
+Take one step forward and then
+head all the way left and then
+around the corner to get a
+Medica III. Go back around the
+corner and get to the first
+damage title. Then head down and
+then head one step right and go
+in the little spot. Head all the
+way down and then all the way
+left.
+
+To your left is a dead-end so go
+right. Go all the way down the
+passage. When you go half-way
+down a FOE will pop-up behind
+you. Just keep going and don't
+look back, don't look back. When
+you get all the way down go
+right. Here there will be two
+cutters. The stairs are at the
+top of this room. They move in
+circles so watch thier patterns
+and head for the top.
+
+When you go down put a "stairs
+v" icon behind you. The path
+here is laid out. Just keep
+following the green squares with
+a red thing on them. The red
+things are not the damage tiles.
+Or you could just move in a "S"
+shape formation. Anyways when
+you to end the end put a "stairs
+v" icon. In the north-west part
+of this room there is secret
+passage, open it up before you
+go.
+
+When you get down out a
+"stairs^" icon beside you. Go a
+little forward and then turn
+right. Go forward then turn
+right again and go forward. Now
+turn left and go forward a bit
+then turn right and go forward.
+Finally turn left and go
+forward. Turn left and then head
+down this corridor.
+
+To your left is a dead-end. Go
+all the way right (theres a
+Nectar surrrounded by damage
+tiles on the way) until you get
+to a passage. Head up the
+passage, turn right and then go
+forward. Turn left and go
+forward. To the right is a dead
+end so go left. Put a "stairs^"
+icon and then go up.
+
+Put a "stairs v" icon behind
+you. Take one step forward and
+then turn left. Go forward two
+steps and go down the passage to
+your right. When you go down
+this the FOE you saw earliar
+will star chasing you. Go up
+this passage four steps and then
+turn right to find a secret
+passage. Hopefully you activated
+the well so can rest here.
+
+If the FOE is blocking you way
+back the area you were before,
+go up to B7F and then come back
+to B8F. Anyways starting from
+the shortcut, head all the way
+north and then all the way left.
+Then go around the corner and
+then all the way west. Then go
+all the way down and turn left
+and go down the stairs. Go all
+the way right and then all the
+way left and then down the
+stairs to B10F.
+
+--------------------------------
+Floor 10........................
+..[FL10] The forests' silent
+king
+--------------------------------
+
+New monsters: Stingmaw, Sprout
+
+Stingmaws look like Fenrir but
+they are weaker. There's nothing
+really special about them. They
+do't have a lot of HP or ATK or
+DEF. Sprouts are really rare
+monsters. They drop S leafs that
+make a really good item. They
+can only be found at E4.
+
+Monsters on Floor: Sleepgel,
+Venomgel, Waspior, Petaloid,
+Eviloid, Scorpion, Stingmaw,
+Sprout
+
+Secret Area Monsters: Woodbat,
+Vampbat
+
+Don't worry about these.
+
+FOES: 1 Assassin, 5 Armoths, 2
+Moas
+
+Once again no new FOES. By now
+you should be atleast be able to
+put up a fight against them.
+
+Bosses: Cernunos, Wyvern (is
+moved here after accepting The
+Dread Wyrm)
+
+See my Boss FAQ for help
+Cernunos. Just remember to not
+kill both of his allies. Wyvern
+moves to B6 and replaces an
+Armoth.
+
+When you get down put a "stairs
+^" icon behind you. Then go
+through the door to your left.
+Nothing special here, just go
+through the door straight ahead.
+When go through the door
+there'll be a door directly
+infront of you, you know what to
+do, go through it.
+
+You should be in a 3x3 room.
+There's ANOTHER door in this
+room. It's located on the right
+side, enter the door. To your
+right will be a dead end so go
+all the way left to find another
+door(who would've thought?). In
+this 3x3 room take the door see
+when you enter the door. It's in
+the southeast part of the room.
+
+Take on step forward to find a
+door, take another step forward
+and you find nothing. When you
+enter the door...a FOE!!!! You
+have to fight it. It's just a
+Moa, easy peasy. Just bombard it
+with skills and remember to
+heal. When you kill go through
+the door it was blocking.
+
+There will be a "Take" item
+point in the middle of this 3x3
+room. Go through the door to
+your left to proceed. Turn left
+to see another frikin' door.
+Going all the way will lead to a
+dead-end, but that's easy to
+see. Go through the door.
+
+When you enter the door you'll
+find another 3x3 room (what a
+boring floor). Going through the
+door straight ahead will lead to
+a pathway with item points,
+FOEs, en and items at the end.
+However, that is not the door to
+go through. Instead go through
+the door to your left.
+
+Go through the door...suddenly
+FOES thousands of them!!
+Actually there are only 4 of
+them and the are Armoths. Just
+make your way to the northwest
+part of the room. If you get
+into a fight you can fight them
+or run. If you want to make it
+easiar just run.
+
+When you get to the northwest
+part go up the hall way. The
+door on the right leads to
+another FOE, so take the door on
+the left. In this 3x3 room take
+the only door possible, it's to
+your right. To your left is a
+dead end. Go all the way right.
+
+When you get to the end turn
+right and go all the way, it's a
+long way. When you get there
+turn right and go all the way.
+It's not as long as the other
+two. When you get to the end of
+this passage turn right and go 4
+spaces up. Turn left to find a
+secret passage. This good
+because it's near Cernunos.
+
+Anyways, go north all the way
+from the secret passage. Turm
+right and go forward. When you
+come a across a break off point
+go all the way down. You should
+get a message, so you shouldn't
+miss it. When you're there
+you'll will see a talk option.
+Talk to Ren Tlatchtga to get
+your HP healed everytime you
+come here until you beat
+Cernunos. You'll also get an
+Amrita II.
+
+Go back to the hallway and then
+go east until you get a break
+off point. Go all they way down
+then turn left and go all the
+way left. Turn left and then go
+all the way. Then turn left
+AGAIN and go all the way. When
+you finally get there you will
+get a message. Cernunos is right
+behind this door. When you beat
+him go to the south east part of
+this room to go down to B11F.
+
+REMEMBER TO GO TO DOWN TO B11F
+AND GO ACTIVATE THE GEOMAGNETIC
+ROOM. IT'S JUST AROUND THE
+CORNER IN A DOOR.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~ Stratum 3 Azure
+Rainforest ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+--------------------------------
+Floor 11........................
+..[FL11] A mysterious cerulean
+wood
+--------------------------------
+
+New monsters: Treefrog, Madworm,
+Guardant, Deathant
+
+New stratum means a lot of new
+monsters. The Treefrogs are
+nothing. You could probably kill
+them in one shot. They have an
+ability that allows them to
+summon another Treefrog to
+battle. That not necassairly a
+bad thing (see strategies
+section). I don't know what's
+wrong with the Madworm but it
+has really bad defense. Perhaps
+it was meant to be like I don't
+know, but it sucks.
+
+The Guardants and Deathant are
+not that hard but can still
+cause troubles. They can hit
+between 60-80 damage. If they're
+hitting quite higher than that
+there may be a problem. If
+they're alone or with another
+enemy( other than another ant)
+they won't be able to decimate
+your party.
+
+Monsters on Floor: Treefrog,
+Madworm, Guardant, Deathant
+
+Secret Area Monsters: Woodbat,
+Meltworm, Moriyana, Redclaw
+
+These guys are on the next
+couple of floors.
+
+FOES: 5 Sheltors, 3 Bloodants, 2
+Muckdiles (secret area)
+
+The Sheltors can cause a lot of
+trouble. For one they have have
+relatively high HP. With that HP
+count they also have pretty high
+defense. They can hit moderately
+hard but no so hard they can
+OHKO. The Bloodants are just
+like the other ants except they
+have increased defense.
+
+Bosses: N/A
+
+The third stratum besides being
+shiny is one of the more complax
+floors. I'm not saying it's
+extremly hard but it's annoying.
+However, it does contain my
+favourite and hands down the
+easiest floor to beat and map,
+B15F. When you get down there
+you'll see what I mean.
+
+Put a "stairs ^" when you get
+down. When you first get down
+walk straight forward then go a
+little right until you see a
+door. When you go through the
+door there will be a Geomagnetic
+Field. Head back up to the town
+and to Radha Hall. Quinn will
+talk about new the stratum blah
+blah blah accept the mission to
+map B11F and B12F. Remember on
+B1F you had to map it, same
+thing here except you have to
+map everything except the secret
+area parts.
+
+You have to step on every tile
+in order to beat this mission.
+Don't forget to put walls when
+mapping. When you get down walk
+around the Geomagnetic Field and
+then hade out the door (don't
+forget to map the door. When you
+go through the door head all the
+way right and then all the way
+right again ignoring the
+passage.
+
+Head back to passage I told you
+to ignore. When you get there
+you will see a soldier. He'll
+say that they tried to map the
+floor but they suck and they
+failed. He'll give you crappy
+not done map, I don't like it.
+Change the walls like I have it.
+Take away the walls on the
+Gemagnetic field.
+
+Anyways take a step forward and
+then go all the way right. Turn
+left and take a step forward and
+put a wall. Go back a space and
+then turn left and go all the
+way ignoring that passage (why
+would want to go to an old area
+anyways?). When you get there
+turn left and go all the way
+down ignoring the passage.
+Remember this passage though.
+
+When you gone all the way down
+erase the wall and put a "stairs
+v" icon. Don't go down just yet.
+Head back to the passage I told
+you to ignore. You should now be
+at 4 way crossroad including the
+way you came from. First head
+south all the way. There's
+nothing of here but intrest
+except half way through there is
+short-cut that can only be
+opened from the other side.
+
+Head back up to the crossroad
+but this time head north. Ignore
+the door and head all the way
+up. Nothing here either. Now go
+back down but this time go in
+the door. Go up a space and
+there will be chest with a
+Medica IV inside. Mark the chest
+and go back to the crossroad.
+
+Now to head the only new way,
+east. Go all the way east and
+then all the way north. You can
+now go either right or left, go
+right go all the way. Then go
+all the way north. Then go back
+to place where you could either
+go right or left, take the left
+way now.
+
+Take the first passage you see
+and go up it. Go right, go all
+the way right. Turn left and go
+all the way up and ignore the
+passage, but remember it. Then
+turn left again and go all the
+way until you see a door. When
+you go inside, you see Ren! She
+will talk about warriors from
+far away and then you get to
+enlist Ronins.
+
+Now go back to that passage
+earliar I told you to ignore. Go
+all the way down it and turn
+right and go all the way
+ignoring the passage. You'll see
+another soldier who'll give you
+another crappy map piece of a
+map. Now go back to the ignored
+passage. Take a step left and
+then go south and enter the
+first passage you come across,
+not the one you come from the
+one after that.
+
+Go down it and then go back to
+the entrance of this passage and
+then head all the way south.
+Then turn left and then go all
+the way and remember to draw the
+walls that the lazy soldier
+didn't draw. Anyways turn one
+step to your left and then go
+right all the way.
+
+Then go all the way north and
+then all the way left ignoring
+the passage but remember it. Go
+in the small little part at the
+end and then go back to the
+passage you ignored. By the way,
+when going through this next
+part there will probaly be a
+Sheltor unless you've already
+faced it when you went in that
+small hole.
+
+Now go up the passage and then
+around the corner and then all
+the way. Then go north all the
+way. Now you can either go left
+or right. Head right first all
+the way. There is a "mine" item
+point here. Now head in the
+oppsoite direction. Go all the
+way and into the door.
+
+When you enter the door you will
+see a strange purple spot on the
+floor. This is a pit. Pits drop
+you down to the next floor. Pits
+are not very good, atleast not
+this one, right now. Instead
+remember that way you went right
+and then up to get Ronins head
+back to that place. It's 5
+paragraphs up.
+
+Now when you're back here (B3)
+head left then all the way up.
+Head left all the way. Turn
+right and go infront of the
+door. Now turn around 180
+degrees and go all the way. Turn
+right and you should see a
+passage. Hopefully you won't get
+caught by the Sheltor and the
+sheltor coming up.
+
+Go in the passage and go the way
+that the FOE will not come into
+contact with you. When you get
+to the other side go in the door
+open the chest that contains
+700en and then walk around the
+room. When you're done here
+leave this room and make sure
+that the FOE won't get in your
+way. When you leave go the way
+that you didn't take before.
+
+Do the same thing in the next
+part going the way you didn't go
+before. Now go go forward but
+not into that part where the
+Ronin door is. Go south and then
+left until you get to the first
+passage. This place should be
+familiar. Go down the passage
+and go all the way then turn
+right and go around the corner.
+
+Now head south ignoring the
+first passage. Turn right and go
+all the way down the passage. If
+you're doing the quest
+Remembering the Fallen there's
+something here for it. Now go
+back to the ignored passage. Go
+down it all the way ignoring the
+passage to meet another soldier.
+
+He'll give you a map...a very
+pathectic map! Now go back to
+the ignored passage and go all
+the up it ignoring the passage
+(a lot ignoring thos floor).
+It's just a dead-end so go back
+to the ignored passage. Go all
+the way ignoring this passage.
+
+Turn left and go all the way.
+Now turn left and go all the way
+then turn right and go all the
+way. (If there is a FOE just
+walk back and forth in the
+previous area.) Now turn right
+again and go to the door. The
+soldier made this room very
+wierd. Erase the wall where the
+door is supposed to go. There is
+nothing in here, so leave.
+
+There should passage right
+infront of you, go in it. First
+turn right and go all the way.
+Then go in the small little
+alcove. Then go back to the
+place where you could left or
+right go left instead of right.
+Go all the way then go a step
+right then turn left and go all
+the way.
+
+Ignore all the doors on your
+way. Enter the last door, it's
+along the wall. Go inside and
+take a step forward, turn right
+and open the secret passage. Now
+go back to the door that had
+that one tile square. Go in the
+small room leave and go all the
+way left.
+
+Take a step back and head north
+ignoring the passage. Just walk
+along this top part of this room
+and then head back to the
+ignored passage. Go down the
+passage. Turn left and go around
+the corner ignoring the door.
+There is "mine" item point here.
+
+Now head back to that door from
+before. Go in it and walk
+around. Then head back to that
+place where you could left or
+right. Head right this time. You
+should now hae gotten the
+message that you have mapped
+B11F. If you do not the get map
+for any wall mistakes.
+
+--------------------------------
+Floor 12........................
+..[FL12] The insect queens
+palace
+--------------------------------
+
+New monsters: Hexfrog
+
+The hexfrogs look like the
+treefrogs except the can curse.
+What curse does is when someone
+attacks the enemy you take some
+damage. For your hard hitters
+like Landsknetchs this can be
+big problem. Just kill them
+before they can do a lot of
+damage from that.
+
+Monsters on Floor: Treefrog,
+Hexfrog, Madworm, Deathant,
+Hexfrog
+
+Secret Area Monsters: N/A
+
+FOES: 3 Servants, 11 Bloodants
+
+The Gaurdants and Bloodants are
+very mean. They can hit hard and
+can stand for awhile. The good
+thing is that most Bloodants can
+be automatically killed by
+killing the Servant in that
+area. Some can be automatically
+killed by killing Royalant.
+There's only one lonely bastard
+that can't be killed like that.
+
+Bosses: Royalant
+
+Her FOEs will keep responding
+until you kill her.
+
+When you get down put a "stairs
+v" icon behind you. Go forward
+all the way. Half way there will
+be a passage ignore it and keep
+going but remember it. At the
+end of the long hallway there
+will a chest with a Medica III
+in it. Now go back to the
+ignored passage.
+
+You can either go left or right.
+Go right first. Go all the way
+and then turn left and go
+forward. There's a shortcut on
+the other side of this wall. Go
+back to the place where you
+could left or right. Head left
+this time. Head forward and then
+go the first passage, nothing
+here. Continue along the
+passage.
+
+There will be another breakoff,
+go down it. Nothing here either
+so just keep going along the
+passage. At the end of this
+passage you can either go left
+or right, go left first. Go all
+the way, there's nothing here so
+turn around and go all the way.
+
+Turn left and go all the way.
+Now turn right and go all the
+way. Well you're probaly
+thinking where to go next?
+There's no other place to go in
+this area. This problem can be
+fixed though (it's much of a
+problem anyways...). Go to the
+D3 area of B11F. If you opened
+the short cut this will be much
+easiar.
+
+You will see four doors along
+this area. Take the door in the
+middle left. There will be a
+Bloodant in this corridor. Kill
+it and go fall in the pit. When
+you fall down open the short-cut
+right in-front of you. Now go
+back and go forward all the way.
+Remember this from after you go
+left.
+
+Turn left and go all the way
+around the corner ignoring the
+door. Nothing here, go back to
+that ignored door. Kill the
+Bloodant in this room. Walk in
+all the spaces in this room. In
+the south east part of this room
+there is a Gum Helm. In the
+north west part of this room
+there is a Bravant.
+
+In the north east part of this
+room there is a door. Enter it.
+There will be nothing here. Now
+go back to that first two way
+passage when you first fell down
+the pit. This time head the
+other way. Go all the way then
+go all the way north ignoring
+the passage. Nothing here so go
+back to the ignored passage.
+
+Now you can either go left or
+right. Go left and go around the
+corner. You will run into a
+Bloodant (which respawns until
+you kill the servant) on the
+way. When you around the corner
+you will come across the Servant
+you want to kill. Kill it and
+then head back to the two
+passage.
+
+This time head the other way. Go
+all the way ignoring the
+passage. Nothing here so go into
+that ignored passage. Go down it
+then turn right and go all the
+way. Go right all the way,
+nothing here so turn around and
+go all the way. Now head all the
+way ignoring the door near the
+end.
+
+Nothing here so go back to the
+door. When you enter the door
+just head north until you get to
+the Servant. You'll probably run
+into a Bloodant or two on the
+way. Now walk around this room
+and make sure to walk
+everywhere. You should have 3, 2
+space walls at the end. Now head
+to the north west part of this
+room to proceed.
+
+Go around the corner when you
+get there and then go around the
+corner again. Now you will
+either be able to go right or
+left, go right. Go all the way
+and then turn right and go all
+the way and then go in the small
+little hole at the end. Head
+back to the place where you
+could go left or right.
+
+Head the other way now. Head
+north and go into the first
+passage you see. Just keep going
+and going until you get to the
+Servant. Kill it and then walk
+around the room. When you're
+done you should four 1 space
+squares. Go to south west part
+of this room and enter this
+door.
+
+There will be an Amrita II in
+this room. Leave this room and
+go back to the begining of the
+passage that led you this room.
+Head north and go down the
+passage. Go all the way down.
+Open the shortcut right in front
+of. Then turn to your right to
+open the passage to Royalant.
+
+When you kill her walk around
+the room. If you didn't get the
+message go down the stairs
+located on the south part of
+this room and then come back up.
+Return to Radha Hall and report
+your results. Then head back to
+this room and head down the
+stairs to get to B13F.
+
+--------------------------------
+Floor 13........................
+..[FL13] The soldiers' washbasin
+--------------------------------
+
+New monsters: Woodbat, Vampbat,
+Meltworm, Moriyana, Redclaw
+
+The woodbats have a fair amount
+of HP and defense. Try using
+pierce attacks on them. The
+Vampbats also have an attack
+that can drain your HP. The
+meltworms are just like the
+Madworms. Just use normal
+attacks and they should go down
+in a shot or two.
+
+There's nothing special about he
+Moriyanas. They have pretty much
+average stats. They shouldn't
+couse that much trouble. The
+Redclaws can hit really hard.
+Their other stats aren't
+something to worry about. If you
+do get into a battle with them,
+go after them first.
+
+Monsters on Floor: Treefrog,
+Madworm, Hexfrog, Woodbat,
+Vampbat, Meltworm, Moriyana,
+Redclaw
+
+Secret Area Monsters: N/A
+
+FOES: 5 Killclaws, 3 Muckdiles
+
+The Killclaws will only spawn
+when you get into a battle near
+them. They have very high
+defense. They can also hit very
+hard. There's nothing much else
+to them. Try using elemental
+attacks. There are only five so
+there isn't a high chance that
+will come into contact with you.
+
+Bosses: N/A
+
+When you get down put a "stairs
+^" up icon behind you. Go
+forward all the way. Go all the
+way right ignore the passage and
+keep going. Turn right and get
+the treasure chest that contains
+a Medica III. Go back to the
+ignored passage. Go down the
+passage and into the door. There
+will be a water well here. Head
+back to the three way passage
+when you got here.
+
+This time go other the other. Go
+all the way. Turn left and go
+all the way ignoring the
+passage. A Killclaw will appear
+along this passage. Now turn
+left and go all the way. Turn
+left, go all the way and then
+turn right all the way. Now go
+around the corner and go all the
+way forward.
+
+Turn left and go all the way and
+then turn right and go all the
+way. Turn left and go all the
+way then turn and go all the
+way. Then turn left go down,
+turn left again and go all the
+way until you get to a passage.
+Go all the way up this passage.
+
+Take a step to the left and then
+head all the way north. To your
+left is secret passage. Open it,
+go back through and go all the
+way until you get to the first
+passage. Go down the passage and
+then go all the way left. Turn
+right and go forward until you
+get to the passage.
+
+Take two steps to the left and
+then head all the way south.
+Then go all the way east. Then
+finally go all the way north to
+get to the stairs that leas to
+B14F. That was a quite short but
+boring as well. The follwing
+floors are pretty short too.
+
+--------------------------------
+Floor 14........................
+..[FL14] The flood of gods' tear
+--------------------------------
+
+New monsters: Cutcrab, Sworder
+
+The cutcrab has very high
+defense. They are just like the
+Killclaws except weaker. The
+sworders can hit for okay
+damage. If you want to get rid
+of them really try using pierce
+attacks like Trueshot or Drain.
+Pierce attacks are their worst
+enemies.
+
+Monsters on Floor: Hexfrog,
+Woodbat, Moriyana, Vampbat,
+Cutcrab, Sworder, Redclaw
+
+Secret Area Monsters: N/A
+
+FOES: 5 Killclaws, 1 Muckdile
+
+Bosses: N/A
+
+On B14F there are flower pads
+that help you cross the vast
+amounts of water on this floor.
+There isn't a lot of land so
+it's rather easy to map. Put a
+"stairs ^" icon behind you when
+you get down. Go all the way
+forward turn left and go all the
+way until you see the first
+flower pad.
+
+Ride the flower. You'll land an
+island that looks like a + sign.
+Go forward and ride the flower.
+Take one step to the north and
+then one step to the west. Ride
+the flower here. Now go all the
+way north then go all the west
+then go all the way south. Ride
+the flower.
+
+Head all the way west, one step
+south and the all the way west
+again. Ride the flower. Head all
+the way east and then all the
+way north. Ride the flower. Just
+walk forward and take the
+flower. Go south until you get
+to a passage, go through to get
+to a set of stairs. Go up them.
+
+You're now back to B13F. You're
+here to get something very
+important. Go forward and then
+go left all the way. Turn left
+and go all the way, then turn
+right and go all the way. Go
+right all the way and then go
+left until you get to a passage.
+Go down the passage and go all
+the way left. In the chest there
+will be Violet key, you can now
+open purple doors.
+
+--------------------------Backtr
+
+For the first part of this
+backtracking go B1F (it's been a
+long time). Take the short cut
+right at the begining. Go
+forward all the way then take a
+step north. Go all the way down
+this passage. Go a step south
+and then go east until you get
+to four way passage. Go north
+into the purple door.
+
+In the east part of this room
+there will be a Nectar II and a
+Gem Staff. For the next part go
+to B8F. Go in the door right
+infront of the Well. In this
+room the items are 500en ,1000
+en, 1500en, Medica V, Nectar II,
+Hamao and Moccasins. That's the
+end head back to B14F
+
+--------------------------Backtr
+
+Go back to the island that
+looked like a + sign. Once again
+ride the flower on the east
+part. Go south all the way and
+then east all the way. You meet
+some weird girl. She says
+something about not going any
+further and some other stuff and
+then leaves.
+
+Go south and then one step east.
+Get the Medica III in the chest
+and then ride the flower. Ride
+the flower directly infront of
+you. Go all the way east and
+ride the flower. Now go north
+and ride the flower. Go forward
+a step and north a step, ride
+the flower.
+
+Take a step south and then take
+a step west, ride the flower. In
+the south west part of this room
+there will be the stairs to
+B15F. You're almost to the end
+of the third stratum, good for
+you!!
+
+--------------------------------
+Floor 15........................
+..[FL15] Lord of the Celestial
+ocean
+--------------------------------
+
+New monsters: N/A
+
+Monsters on Floor: Moriyana,
+Cutcrab, Redclaw
+
+Secret Area Monsters: Flamerat,
+Goldeer, Mantis, Sabremaw,
+Hexroot, Immoa
+
+Don' worry about these.
+
+FOES: 4 Teralichs (secret area)
+
+Bosses: Cotrangl, Drake (secret
+area) (after accepting "The
+Azure Colossus" quest)
+
+When you get down go all the way
+forward. Go in the door. There
+will be two treasure chests. One
+contains a Scale Boot the other
+a Blaze Oil. Leave the room and
+head all the way east. Take a
+step north.
+
+You will get a message about
+danger behind this door. Enter
+the door and you will see that
+weird girl again. She'll some
+stuff and then she'll summon
+Cotrangl. When you kill him walk
+forward, ride the flower and go
+down the stairs.
+
+REMEBER TO GO DOWN TO B16F AND
+ACTIVATE THE GEOMAGENTIC FEILD.
+IT'S RIGHT INFRONT OF YOU WHEN
+YOU GET DOWN.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~ Stratum 4 Sandy
+Barrens ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+
+--------------------------------
+Floor 16........................
+..[FL16] The pathless drifting
+sand
+--------------------------------
+
+New monsters: Flamerat, Goldeer,
+Mantis, Sabremaw, Immoa
+
+The flamerats are probably the
+weakest of the new enemies. They
+have average stats but can be
+killed by a few shots. Their
+attack is okay but not so strong
+that they can OHKO. The goldeer
+have above average stats. They
+can hit moderatly strong but
+like the flamerat not enough to
+OHKO.
+
+The mantis is probably the
+biggest worry of the floor. Not
+only does is it resistant to
+physical attacks but it can hit
+high. It should be your priority
+to kill in battle. The sabremaws
+look like Fenrir but don't
+reflect his difficulty.
+
+They can hit moderatly hard and
+have okay defence but nothing
+really special. Although you
+should watch out for that
+Coldfang of his. The Immoa has
+nothing really special. He neer
+really uses Stunner and has
+rather weak defence.
+
+Monsters on Floor: Flamerat,
+Goldeer, Mantis, Sabremaw, Immoa
+
+Secret Area Monsters: Darkhare,
+Maul, Burstgel
+
+Don't woory about these.
+
+FOES: 10 Sickwoods (5 secret
+area)
+
+The sickwoods are of rather
+little threat. They almost never
+attack and when they do it
+doesn't do much. All they do is
+spam thier poison. Just have a
+medic use Refrsh every turn and
+have you fighters attac him.
+Defender and Immunize aren't
+necasairy.
+
+Bosses: N/A
+
+On B16F there are these things
+called sand conveyor belts.
+These conveyor belts
+automatically move you from one
+place to another. This is
+actually a good thing because
+they don't count as steps so the
+chances of getting into a fight
+are lessened.
+
+When you get down put a "stairs
+^" icon behind you. Head left
+until you get to a door. When
+you enter it you will see your
+first conveyor belt. When you
+get off the sand belt go on the
+one directly infront of you.
+When you get of this one go on
+the one right infront of you.
+
+Head right all the way and get
+on the belt. When you get off,
+take step to the right turn left
+on go on the belt. Go left all
+the way and get on the belt. Now
+turn right and go on this belt.
+Turn left and take the belt.
+Turn left and take this belt
+(almost there).
+
+Turn right and go forward. You
+will meet up with Tlachtga. She
+will start talking and she'll
+give you a Hex Bell. With this
+you can now register Hexers.
+Anyways go forward then then
+turn right and go all the way.
+Turn right again and go all the
+way.
+
+You will get a message about how
+you can't go further and how
+there seems to be a place for a
+tablet. Head back to Radha.
+There will be some talking and
+then you will get the tablet.
+Had back to the plce where you
+needed to put the tablet. Put it
+in open the passage and then go
+down the stairs.
+
+--------------------------------
+Floor 17........................
+..[FL17] Doorway into the
+Unknown
+--------------------------------
+
+New monsters: Hexroot
+
+The hexroot much like the other
+monsters so far don't pose much
+of a threat. They can hit
+average and don't have a lot of
+Defence or Hp on them. You
+should be able to kill them
+before they use Scream.
+
+Monsters on Floor: Flamerat,
+Goldeer, Mantis, Sabremaw,
+Immoa, Hexroot
+
+Secret Area Monsters: Burstgel,
+Direwolf, Clawlord, Silker
+
+FOES: 3 Sickwoods, 3
+Kingdiles(secret area), 3
+Desoulers(secret area), 3
+Dinolich (secret area)
+
+Sickwoods are old and all the
+other FOEs are in the secret
+area.
+
+Bosses: Manticor (secret area)
+
+This is in the secret area of
+this floor and for the later
+part of the game.
+
+
+When you get down put a "stairs
+^" behind you. Go all the
+forward and you will see that
+forest folk girl again. There
+will be a lot of talking and
+then she'll run away. Go all the
+way right and then all the way
+right again. Turn right and go
+through the secret passage.
+
+Turn right and go 3 steps
+forward. Turn left and open the
+secret passage. Take a step
+forward and turn left and go 3
+steps forward. Turn right and
+open the secret passage. Turn
+right and go all the way
+forward. Turn left and go
+through the secret passage.
+
+Turn left and go all the way
+forward. Turn right and go
+through the secret pasasage.
+Turn left and go all the way
+forward. Turn left and go
+through the secret passage. Turn
+left take a step forward and go
+through the secret passage.
+
+Take 5 steps forward and there
+will be two passage. Take 4 more
+steps and open go through the
+passage to your left. Go down
+the stairs. Take a few steps
+forward a message will say you
+need to go back to Radha. Go
+back to Radha there will talking
+then head back to B18F.
+
+--------------------------------
+Floor 18........................
+..[FL18]
+--------------------------------
+
+New monsters: Soldier, Mystic,
+Pixie, Warrior, Druid
+
+Well, here come the forest folk.
+All the new enemies are part of
+the Forest Folk infantry. The
+soldier have a fair amount of
+HP. Although they have wooden
+sticks as weapons they can still
+hit quite hard. The mystic uses
+magic instead of attacking.
+Watch out for it's Voltshot and
+hope it doesn't use Salve.
+
+The Warriors look like the
+soldiers but they have claw
+things as weapons. They have
+more HP and hit way higher than
+the soldiers. The Druids are
+like the Mystics except they
+have Ice shot, Barrier and
+Blaze. You should watch out for
+Iceshot and Blaze. Pixies just
+status magic like Petrify,
+Slumber and Shine.
+
+Monsters on Floor: Soldier,
+Mystic, Mantis, Sabremaw, Pixie,
+Warrior, Druid, Immoa, Hexroot
+
+Secret Area Monsters: N/A
+
+FOES: 2 Cruellas, 1 Diabolix, 1
+Bud
+
+The Cruellas are the weaker
+version of Diabolix's. They
+still have quite a lot of HP,
+defense and attack. They also
+have an attack called Siren.
+This annoying attack has a
+chance of confusing your entire
+party.
+
+The Diabolixes are just the
+stronger version on the Cruella
+except they can have an attack
+that has a chance of cursing
+your entire party. Curse makes
+the person who attacks the enemy
+take damage. The Bud is a weak
+enemy that warps around and
+doesn't attack in battle. It
+also has very bad stats except
+HP.
+
+Bosses: N/A
+
+When you come down you will see
+Ren and she will start talking.
+After she's done talking head
+all the way west until you're
+one space away from the wall.
+Then head all the way south.
+You'll get a message about some
+passage. Take a step west, take
+a step south, face the wall with
+the green plant and go through
+the passage.
+
+Go three spaces north, two
+spaces west and turn right and
+face the Diabolix. After you
+kill the Diabolix go all the way
+forward and go through the
+passage. Go all the way right,
+then turn left and go 7 steps
+forward. Turn right and open the
+passage.
+
+Go back through the passage and
+go all the way right. Now go all
+the way left and then go all the
+way left. Go all the way right
+and then go all the way right.
+Put a "stairs \/" icon infront
+of you. Go down the stairs and
+get ready for B19F.
+
+--------------------------------
+Floor 19........................
+..[FL19] An excursian into
+Despair
+--------------------------------
+
+New monsters: Faerie, Redbeak
+
+The pixies are stronger version
+of Pixies. They are not that
+great in stats but can can blind
+and terrify your entire party.
+The Redbeaks are very first they
+can even go faster than
+Survivilists. They can hit
+moderatly high but nothing else
+except they are weak to pierce
+attacks.
+
+Monsters on Floor: Pixie,
+Hexroot, Warrior, Druid, Faerie,
+Redbeak, Immoa
+
+Secret Area Monsters: N/A
+
+FOES: 1 Sickwood, 1 Cruella, 3
+Diabolixes
+
+All old FOEs.
+
+Bosses: N/A
+
+On B19F to get to the next area
+you must take warp points. B19F
+is similar to B14F if it helps.
+It's a very short floor like
+B14F as well. When you get down
+go all the way forward turn left
+and go through the warp (I don't
+know why it looks like a bush).
+
+Turn left and go all the way
+then turn left again and go
+through the warp. Turn left and
+go all the way forward and then
+turn right and go all the way
+right. Now go through the warp
+to your right. Take a step
+forward, go all the way left and
+go through the warp.
+
+Go all the way forward and go
+through the warp. Turn left and
+go all the way forward and turn
+left again and go forward. Go
+through the warp. Go all the way
+then go all the way left, all
+the way right, all the way right
+again, left all the way and go
+through the warp on your right.
+
+Go all the way right and enter
+the warp to the right. You'll
+now be on a place that looks
+like a + sign. Go through the
+warp on the east side. Turn
+right and go around the corner
+and go through the warp. Go all
+the way west ignoring the
+passage then go through the
+warp. You will come across a
+Diabolix on the way.
+
+Go all the way forward ignoring
+the passage and go through the
+warp. You will come across
+another Diabolix on the way. Go
+all the way forward and then go
+all the way left. Enter the warp
+turn left and go forward. Enter
+the warp. When you take a step
+forward you will get a message
+about a lot of Forest Folk.
+
+Go all the way forward then go
+all the way left. Open the
+secret passage, you will be back
+at the begining. Go back through
+passage. The stairs to B20F is
+in the south west part of this
+room. Kill the Cruella and
+Diabolix and go down the stairs.
+
+--------------------------------
+Floor 20........................
+..[FL20] Gold wings for the
+pilgrims
+--------------------------------
+
+New monsters: N/A
+
+Monsters on Floor: N/A
+
+Secret Area Monsters: N/A
+
+FOES: 4 Diabolixes, 4 Cruellas,
+2 Hunters, 4 Ogres
+
+The hunters have good defense
+but not as good as hunters. They
+can hit moderately high with
+physical attacks. The main thing
+you should watch out for is his
+Blaze attack. He has a somewhat
+high HP but not so much that it
+will be hard to kill.
+
+The Ogres have really high
+defense and attack. Not only can
+they hit hard but they have an
+attack that can increase their
+attack. They also have a lot of
+HP on them. It would be in your
+best intrest to kill the other
+FOEs around them before facing
+them.
+
+Bosses: Iwaopeln
+
+Iwaopeln will not die until all
+other FOEs have been killed.
+Iwaopeln can warp and join or
+get into a battle at any time.
+
+
+B20F is a very strange floor.
+For one it has no random
+encounters whatsoever. There are
+a lot of FOEs. The FOEs move
+around too much so all I can
+tell you is the path it go
+through. The FOEs on this floor
+can become chasers if you get
+into a battle with a FOE near
+by. Also don't go back to town
+and rest the FOEs will respawn.
+
+When you get down go all the way
+forward and you'll get a message
+about danger. Then Kupala will
+come, start talking and then a
+bunch of FOEs will appear. Head
+east all the way. Go one step
+south. Along this passage there
+will be a Diabolix.
+
+There will be a Cruella that
+goes around in circles within
+D1,D2,E1 and E2. There will an
+ogre in the D2 area. There is a
+long vertical passage. There
+will a Hunter that roams in B2,
+B3 and B4. Now head to the north
+west part of the floor.
+
+In B2 there will an ogre sitting
+still. There will be a Cruella
+walking back and forth in A2 and
+B2. As well there will be a
+Diabolix walking in a right
+angle formation in A1, A2 and
+B2. Now to head to the northwest
+corner of this floor. In B2
+there will be a long passage
+leading to it.
+
+In this corner there will be a
+Cruella walking back and forth
+in B6 and C6. There will also be
+an ogre standing still in B6.
+There will also be a Diabolix
+roaming in a right angle
+formation in A6, A5 and B5. Are
+you starting to see the pattern?
+
+There will be a Hunter walking
+back and forth in B5, C5 and D5.
+Go to the southwest corner of
+the floor for the final batch.
+There will be an Ogre standing
+still in D6. There will be a
+Cruella walking back and forth
+in 6E, E5 and E4.
+
+To end the final batch go get
+the Diabolix walking in a right
+angle formation in E6, E5 and
+D5. When all the FOEs are dead
+go to Iwaopeln. Assuming he has
+not warped he will be standing
+in C4. If he did warp just go
+find him. Once you defeat him
+head to A4.
+
+There will be a part that has
+four squares that make a square.
+Go to the bottom left square and
+go through the passage. Go to
+the top left part of this room.
+It will tell you to go back to
+Radha. When you go to Radha
+report your results. Quinn will
+start talking. After that head
+back to the stairs when go
+through the secret passage on
+B20F to proceed to B21F
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~ Stratum 5 Lost
+Shinjuku ~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+--------------------------------
+Floor 21........................
+..[FL21] A bounty of relics
+--------------------------------
+
+New monsters: Darkhare, Maul,
+Burstgel, Kingfrog, Silker
+
+New stratum means new monsters,
+fortunately they're are palette
+swaps. The Darkhares are the
+average monsters of the bunch.
+They don't have that great
+defense and can hit for
+moderately high damage. The maul
+is like the mole. Lacking in the
+defense department ok attack and
+high HP.
+
+The Burstgels are like
+Sleepgels. They are very
+resistent to physical attacks
+and can do high damage. You
+should watch out for blaze. The
+kingfrogs don't have that great
+defense nor attack but have a
+high amount of HP. The Silkers
+are also lacking in defense,
+attack is okay, but you should
+really watch out for all their
+binds.
+
+Monsters on Floor: Darkhare,
+Maul, Burstgel, Kingfrog, Silker
+
+Secret Area Monsters: N/A
+
+FOES: 2 Dinolichs, 1 Kingdile
+
+Kingdiles are very troublesome.
+They have a high defense and
+have high attack as well. They
+have a nasty attack called
+shred. It hurts and kill someone
+with ease. The Dinolichs have an
+ok amount of defense but thier
+attack is the main thing to
+worry about. Try treating it
+like a boss and watch out for
+thier skills especially Devour.
+
+Bosses: Ren (only once),
+Tlatchga (only once)
+
+Ren and Tlatchtga are together
+in a fight. Go for Ren first.
+
+
+When you get down put a "stairs
+^" icon behind you. Take a step
+forward and then turn right and
+go forward. Turn left and go all
+the way forward. Then turn right
+and go forward until you get to
+a door. Go inside and activate
+the Geomagnetic field.
+
+Go back through the door, turn
+right and go three steps
+forward. Turn left and go all
+the way forward until you get to
+a door. Go all the way forward,
+when you get to the bridge
+you'll get a message. Keep going
+forward and about halfway there
+you meet Ren and Tlatchga. You
+get a card key after you beat
+them.
+
+Once you defeat them continue
+along the bridge, you may want
+to go to town and rest though.
+Once you're off the bridge keep
+going forward. You'll come
+across a door, enter it. Go
+forward once again and then turn
+left and go forward. Turn right,
+go all the way and then turn
+left and go all the way. Go down
+the stairs.
+
+--------------------------------
+Floor 22........................
+...[FL22] The steel rendezvous
+--------------------------------
+
+New monsters: Direwolf, Clawlord
+
+Monsters on Floor: Darkhare,
+Maul, Burstgel, Direwolf,
+Kingfrog, Clawlord, Silker
+
+The direwolves are similar to
+the Wolves from the first
+stratum. Their defense isn't
+really high but thier attack is
+high. Blaze can also really hurt
+your party. The Clawlords are
+very resistent to physical
+attacks. Elemental attacks are
+reccomened against them
+
+Secret Area Monsters: N/A
+
+FOES: 1 Dinolich, 1 Kingdile, 4
+Desoulers
+
+The Desoulers are the blue
+version of the Cutters. They
+have very high attack and
+defense isn't all that bad
+either. Thier skill slash is
+hard hitting attack that should
+be watched our for. Several of
+Desoulers randomly appear and
+chase you.
+
+Bosses: N/A
+
+When you get down take a step
+forward and open the door on
+your left. Turn right and go all
+the way forward. Turn left and
+go all the way forward and then
+turn right and go forward. Turn
+left and go all the way down the
+passage and then go through the
+door on your right.
+
+When you go through turn right
+go all the way, turn left go all
+the way and then turn left and
+go all the way until you get to
+a passage or rather a bridge. Go
+all the way across the bridge.
+When you get off the bridge turn
+right, go around the corner and
+go all the way forward. Go
+through the door.
+
+Turn right and go all the way
+forward (it's a long way). Turn
+right go all the way and open
+the door to your left. Turn
+right go all the way forward,
+turn left go all the way forward
+ignoring the passage/bridge and
+then left and go all the way
+forward.
+
+Turn left go forward and then
+turn right and go all the way
+forward ignoring the passage.
+Turn right and out a "stairs ^"
+icon infront of you. Then go
+down the stairs to proceed to
+B23F.
+
+--------------------------------
+Floor 23........................
+...[FL23] Ghost town of granted
+dreams
+--------------------------------
+
+New monsters: Muskoid, Varaha,
+Hellbull
+
+The Muskoids have relatively
+high defense but not a big
+worry. Defense is rather low.
+The main problem with them is
+they can put your entire party
+to sleep. The Hellbulls can hit
+very hard so hard it's like
+crazy. Thier defense is thier
+major backfire, exploit it.
+
+The Varaha are like the
+Hellbull's weaker pallete swap
+but doesnt like them. They too,
+can hit very hard but not as
+hard as the Hellbulls. Thier
+defense is about the same,
+perhaps a bit better. Bullrush
+is an attack that can really
+hurt.
+
+Monsters on Floor: Maul,
+Direwolf, Muskoid, Kingfrog,
+Clawlord, Silker, Varaha,
+Hellbull
+
+Secret Area Monsters: N/A
+
+FOES: 2 Kingdiles, 4 Desoulers
+
+Both are old FOEs.
+
+Bosses: N/A
+
+When you get down go all the way
+forward, go a step to the right
+and open the door to your left.
+Go all the way forward and then
+turn left and go all the way
+forward. Now turn right and go 4
+steps forward. Turn left and
+then go all the way forward.
+Open the door when you get
+there.
+
+Once you're through the door go
+all the way forward then turn
+right go all the forward. Turn
+right again and go all the way
+forward. Now turn left and go
+all the way forward. Turn left
+again, go all the way forward
+then turn right and go all the
+way forward.
+
+Turn left go all the way
+forward, turn left again take
+step forward, turn right go all
+the way, then turn right again
+go all the way forward. Now turn
+left and go all the way forward,
+turn left again and go forward
+and then turn right and go all
+the way forward.
+
+Turn right once again go all the
+way forward, ignore the passage.
+Turn right AGAIN and go all the
+way forward AGAIN (it's a long
+way by the way). Turn right go 2
+steps forward and turn left and
+go all the way forward. Now turn
+right go all the way forward and
+turn left and go all the way
+forward.
+
+Turn left once again, go
+forward. Turn right go all the
+way forward until you get to the
+first passage. Go down this
+passage and take the first
+passage you see. Go to the end
+of this passage then turn left
+and go all the way. Go all the
+way to your right and then one
+step to your left. Go down the
+passage and then go up the
+stairs.
+
+Well, we're now back on B22F,
+don't fret there's a reason.
+When you get down go all the way
+forward (I bet you're sick of
+that word) then turn left and go
+all the way forward. Go all the
+way east (I'm changing the
+format because I'm sick of
+forward).
+
+Now head all the way south and
+then head all the way east. Go
+north all the way ignoring the
+bridge/passage. Head west all
+the way until you get to a door,
+enter the door. Turn right and
+go around the corner. Then go
+all the way north.
+
+Turn left and go around the
+corner. You'll be at a bridge
+now. Nothing left to do but to
+cross it. When you get off the
+bridge go north all the way then
+all the way east. Head all the
+way south then turn left and go
+around the corner.
+
+Now go all the way west then all
+the way south and then all the
+way east until you get to a
+door. I suggest staying away
+from the FOE. When you're
+through the door go east a step
+and go up the stairs to B21F.
+You're almost there! When you
+get down put a "stairs ^" behind
+you.
+
+When you get down go all the way
+north and then all the way west.
+Stop after you get to the third
+you see. Go through it. When
+you're through go a step west
+and then all the way north. You
+should see a bridge now. Go all
+the way west. Head all the way
+south and then a step west, open
+the door.
+
+Head west until you come across
+the second door you see. Go
+through the and go to the south
+part of this room. Check the
+machine. You'll get about
+something getting turned on
+(something, not someone).
+Anyways head to D7 of B21F. Look
+for the elevator and go down to
+B24F.
+
+--------------------------------
+Floor 24........................
+...[FL24] Road of inner sorrow
+--------------------------------
+
+New monsters: Kingaspis,
+Armoroll, Kingyana
+
+The Kingaspis' have rather low
+defense. Their attack is much to
+worry about, thier skill Venom
+is the thing to worry about. The
+Kingyanas also have thier
+defense as thier weakspot.
+Attack is okay. They have cure
+as a skill but rarely ever use
+it.
+
+Meet the Armorolls. These little
+bastards are the most annoying
+enemies in the game. Thier
+resistence to physical attacks
+is so high it can take an entire
+team to kill one. Their only
+weakness is fire. Not only do
+they have high attack they have
+extremely high attack as well.
+
+Monsters on Floor: Kingaspis,
+Clawlord, Varaha, Armoroll,
+Hellbull, Kingyana
+
+Secret Area Monsters: N/A
+
+FOES: 3 Dinolichs, 6 Desoulers
+
+Both old FOEs.
+
+Bosses: N/A
+
+There's nothing to do on B24F.
+This floor is basically useless.
+All it pretty much does is
+unlock a quest or two. Nothing
+here, go back up to B21F via
+elevator. Head north until you
+get to another elevator. Go down
+to B25F to face your fate!!!
+
+--------------------------------
+Floor 25........................
+...[FL25] The moment of epiphany
+--------------------------------
+
+New monsters: N/A
+
+Monsters on Floor: Maul,
+Direwolf, Muskoid, Kingfrog,
+Kingaspis, Clawlord, Varaha,
+Armoroll, Hellbull, Kingyana
+
+Secret Area Monsters: N/A
+
+FOES: 6 Desoulers, 3 Kingdiles,
+3 Treetusks
+
+Treetusks hit hard. Thier
+defense is really high but has
+some tough skin on them. It has
+an okay amount of HP but nothing
+to worry about. It's weakness is
+elemental attacks.
+
+Bosses: Etreant, Dragon (after
+putting ankh motor in the
+machine for the "awakening the
+serpent" quest.
+
+You can only face Etreant one
+and it not a black FOE but is
+faced after an event.
+
+When you get down to B25F via
+the elevator head all the way
+west until you get to a passage.
+Head all the way north and then
+all the way east. Head all the
+way north and head all the way
+west, you may run into a
+treetusk along the way. Head
+south until you get to a passage
+and then all the way east.
+
+Go south and then one step west.
+Then head all the way south. Go
+a step west again and then all
+the way south again. Head all
+the way east then all the way
+north. Then go all the way east
+now (it's a long way). Now head
+all the way south and then all
+the way west until you get to a
+passage.
+
+Head south and then and then all
+the way west until you get to a
+passage. Head south and then all
+the way east (almost there...).
+Head all the way south, face
+west and go around the corner.
+Head all the way north until you
+get to a passage, go all the way
+east.
+
+Face north and go all the way
+north (it's quite a long way).
+Head 4 steps east and then all
+the way north. You'll meet
+someone, I won't say who. Use
+the key card on the door and go
+in and watch the scene. After
+you defeat Etreant you'll watch
+the ending scene and the
+credits.
+
+After you're with all the ending
+stuff go back to where Etreant
+was. Go two steps east and then
+all the way north. Head west
+until you get a message about a
+hidden stratum. Face the wall
+and go down the stairs to the
+sixth stratum. The next 5 floors
+are known as post-game.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~ Stratum 6 Claret
+Hollows ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+
+--------------------------------
+Floor 26........................
+...[FL26] Beyond the gods' sight
+--------------------------------
+
+New monsters: Hellfly, Ironcrab,
+Monocyte, Rockwood
+
+The hellflies have an okay
+amount if defense but probably
+the weakest of the new monsters.
+They can hit moderately hard,
+but same as defense the weakest
+of the bunch. Ironclaws hit
+extremely high and they also
+have a deadly attack called
+siccors. They are very resistent
+to physical and elemental
+attacks are their weakness.
+
+Monocytes hit hard and have
+moderately high defense. They
+also have a very annoying attack
+called W Plasma that petrifies a
+party number. The rockwoods have
+a high amount defense, attack
+and HP. Thier attack Branch has
+a chance of binding one of your
+party member's head, arms and
+legs.
+
+Monsters on Floor: Hellfly,
+Ironcrab, Monocyte, Rockwood
+
+Secret Area Monsters: N/A
+
+FOES: 4 Teralichs, 5 Songbirds,
+1 Shellord
+
+The Teralichs can hit very hard.
+They have an okay amount of
+defense but their high amount of
+HP makes up for it. The
+songbirds have rather wak
+defense and attack. However they
+can summon Monocytes to battle.
+The Shellords have high defense
+as well high attack. Blaze is
+also very annoying.
+
+Bosses: N/A
+
+When you get down put a "stairs
+^" icon behind you. Go a space
+north and then go all the way
+west. Go a space south and then
+enter the door. Go all the way
+west and open the door. When
+you're through the door activate
+the Geomagentic field. Head back
+to the stairs.
+
+Head a space north and then go 3
+spaces east. Head all the way
+south and then go through the
+door. Go 7 steps east, face
+south and go through the secret
+passage. Go all the way south
+and go through the portal (it's
+like a blue floor with
+stalactites in the top of it).
+
+Head all the way south until you
+get to the second four way
+passage. Head 7 spaces east,
+face north and go through the
+secret passage. Turn right and
+go all the way around the
+corner. Now go north, turn west
+and go through the secret
+passage.
+
+Go around the corner and then
+head all the way south. Now go
+all the way westa and enter the
+portal. Head all the way south
+and then go 21 spaces west. Face
+north go through the secret
+passage. Go 2 spaces north and
+then go through the secret
+passage to the west. Go all the
+way south and go through the
+passage. Go south and go down
+the stairs.
+
+--------------------------------
+Floor 27........................
+...[FL27] All that lives shall
+succumb
+--------------------------------
+
+New monsters: Largeant, Blader
+
+Largeants have an OK amount of
+defense and have above average
+attack. Nothing else special.
+Bladers can hit pretty hard.
+They are weak to pierce attacks
+and resistent to other forms of
+attacks.
+
+Monsters on Floor: Hellfly,
+Ironcrab, Monocyte, Rockwood,
+Largeant, Blader
+
+Secret Area Monsters: N/A
+
+FOES: 4 Songbirds, 10 Shellords
+
+Both are old FOEs.
+
+Bosses: N/A
+
+On B27F about half the floor it
+pit falls. You cannot see where
+the pits are, so will tell you
+exactly how many spaces to go
+and which directions. When you
+get down put a "stairs ^" icon
+behind you. Go 12 spaces north.
+Then go all the way east (this
+is one of the times I won't say
+a number).
+
+Go 3 steps south, 2 steps west,
+one step north, 2 steps west,
+one step south, 2 steps west,
+one step north and ten steps
+west. 2 steps south, 2 steps
+east, 2 steps south, 2 steps
+west, 2 steps south, 2 steps
+east, 2 steps south, 1 step
+west, 2 steps south and then all
+the way east. Then go down the
+stairs.
+
+--------------------------------
+Floor 28........................
+...[FL28] Explorer's abbatior
+--------------------------------
+
+New monsters: Hazefly, Lucifird
+
+The Hazeflies are like the
+Hellflies. They have less than
+average defense and OK defense.
+The Lucifirds are very, very
+fast. They can hit very hard and
+have an OK amount of defense.
+They are also weak aginst pierce
+attacks.
+
+Monsters on Floor: Hazefly,
+Largeant, Blader, Lucifird,
+Rockwood, Monocyte, Ironcrab
+
+Secret Area Monsters: N/A
+
+FOES: 5 Macabres
+
+The Macabres are very, very,
+very, very fast. I think that
+everytime you fight one you
+always get a back attack,
+however I'm not 100% sure. They
+can also hit very hard and have
+an OK amount of defense. Like
+the Lucifirds they are weak
+against pierce attacks.
+
+Bosses: N/A
+
+Head all the way north until you
+are one step away from a wall
+then head 20 steps west. Go all
+the way north and go up the
+stairs. You'll now be on B27F
+again. Head all the way south
+the all the way west. Go down
+the stairs. You'll now be on
+B28F. Head north and go down the
+stairs.
+
+--------------------------------
+Floor 29........................
+...[FL29] Half-mad from self
+doubt
+--------------------------------
+
+New monsters: Evilroot,
+Flamegel, Clover
+
+Evilroots have an OK amount of
+defense, attack is above
+average, nothing else special.
+Flamegels are very resistent to
+physical attacks and can hit
+hard. They can also lower your
+attack. Clovers are very rare.
+They have very weak defense and
+they don't attack.
+
+Monsters on Floor: Evilroot,
+Lucifird, Ironcrab, Hazefly,
+Hellfly, Flamegel Rockwood,
+Largeant, Blader, Clover
+
+Secret Area Monsters: N/A
+
+FOES: 4 Shellords
+
+Bosses: N/A
+
+This floor's title is very
+accurate. To get around this
+floor you must go several warps.
+There isn't much walking so
+that's an up. When you get down
+put a "stairs ^" icon behind
+you. Head all the way south and
+enter the warp. Go a step south
+and then enter the warp to the
+west.
+
+Head all the way east and enter
+the warp. Now head all the way
+south and enter the warp. Head
+west and enter the warp. Head
+all the way north and enter the
+warp. Now head all the way east
+and enter the warp. Now head
+north and enter the warp to the
+west.
+
+Go 9 spaces east and then head
+all the way north. Go all the
+way east and enter the warp to
+the north. Head south and enter
+the warp. Now head all the way
+east and then all the way north
+and enter the warp. Head all the
+way east and enter the east. Go
+through the warp to the north.
+Now head north and down the
+stairs.
+
+--------------------------------
+Floor 30........................
+...[FL30] The sentinel of
+eternity
+--------------------------------
+
+New monsters: Metalion, Red Cell
+
+The Metalions have ver high
+defense and are pretty much
+resistent to everything except
+volt. They have high attack and
+can poison with Stinger. The Red
+Cells have a little less than
+average defense. They can hit
+moderately hard but nothing else
+is special.
+
+Monsters on Floor: Ironcrab,
+Metalion, Red Cell, Monocyte,
+Blader, Hellfly, Lucifird,
+Flamegel, Hazefly, Largeant,
+Clover
+
+Secret Area Monsters: N/A
+
+FOES: 7 Songbirds, 4 Teralichs
+
+Bosses: Drakoid, Dragoid,
+Wyrmoid, Primevil
+
+The oid monsters are just copies
+of the Dragons. Primevil is an
+event and can be fought as many
+times as you want.
+
+Before you continue on you must
+have beaten Wrym and Dragon.
+Beating the Drake is recomended
+by not neccasairy. Most of B30F
+is straight corridors. Head all
+the way north and then all the
+way west. Now go all the way
+south. Now go all the way west
+and then all the way north.
+
+Go all the way west, then all
+the way south, then all the way
+west, then all the way north,
+then all the way west, then all
+the way south, then all the way
+west, then all the way north and
+then all the way west. Now head
+all the way south and all the
+way east.
+
+Now go all the way north, all
+the way west (that's annoying)
+and then all the way south.
+Along the passage to your east
+there are three doors. The one
+the left you need to beat Drake
+to get in. It holds a fountain.
+The middle door requires you to
+beat the Wrym. It's way to
+continue.
+
+The one on the right requires
+you to beat Dragon. It holds a
+back and forth warp to the room
+right infront of the Geomagentic
+on B26F. Enter the middle door.
+Go all the way north, open the
+door. Head all the way north
+again. There will be a secret
+passage here. There is no way
+out once you go through unless
+you use a Warpwire.
+
+When you're through go forward
+open the door. Beat the Drakoid
+and then enter the door. Now
+defeat the Dragoid and go
+through the door. Now defeat the
+Wyrmoid. The door the Wrymoid
+was guarding leads to Primevil.
+Get prepared and then head
+through the door. Once you
+defeat Primevil you beat the
+game.
+
+
+ Y   Y OOOOO U   U   BBBB  EEEEE
+ Y Y  O   O U   U   B   B E     
+ Y   O   O U   U   BBBBB EEEE   
+ Y   O   O U   U   B   B E      
+ Y   OOOOO  UUU    BBBB  EEEEE A
+
+ GGGGG      A     MM   MM EEEEE
+   G         A A    M M M M E
+ G  GG    AAAAA   M  M  M EEEE
+   G   G   A     A  M     M E
+ GGGGG  A       A M     M EEEEE
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~Part 3~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
+This part talks about the extra
+stuff of the game.
+
+--------------------------------
+1.Classes.......................
+...[ClSS]
+--------------------------------
+
+For this part of the walkthrough
+I will talk about the nine
+different classes. I have my
+made my own tier list of the
+classes. Be aware that this is
+my own tier list and I'm sure
+others have different opinions.
+
+My tier list
+
+1.Medic
+2.Survivalist
+3.Protector
+4.Troubador
+5.Landsknecht
+6.Alchemst
+7.Dark Hunter
+8.Ronin
+9.Hexer
+
+The lay out is this:
+
+Name:
+Description: (the game's)
+Skill list:
+Rank in Tier List:
+My Description:
+
+
+
+
+--------------------------------
+1.1 Landskencht.................
+...[LAND]
+--------------------------------
+
+Name: Landsknecht Description:
+Masters of sword and axe,
+Landsknechts can bear a wide
+range of weapons and armor in
+close combat. Skill list:
+
+HP Up
+TP Up
+ATK Up
+DEF Up
+Axes
+Swords
+2-Hit
+War Cry
+Hell Cry
+Arm Heal
+Flee
+Cleaver
+Tornado
+Allslash
+Blazer
+Freezer
+Shocker
+Crush
+Stunner
+Silencer
+Mine
+
+Rank in Tier List:5
+
+My Description: Landskenchts are
+the balanced class of the game.
+They can hit pretty hard, have
+OK defense, agility is average,
+vitality is pretty good. They
+use swords and axes are thier
+weapon of choice. I've used both
+axes and swords and I think
+swords are much better.
+
+Swords have much more techs but
+are weaker than axes. While
+axes, have only 3 techs and have
+far superior attack. Attacks
+like crush can completely
+destroy one opponent, but
+allslash can take out a group.
+Allslash is probably the best of
+the Landsknecht skills, because
+of the fact it can hit hard and
+at higher levels it can hit up
+to four enemies.
+
+Another up that that sword side
+has, are the chasers. Chasers
+are Blazer, Freezer and Shocker.
+These attacks follow up an
+Alchemest's atttack. Blazer
+activates when a fire spell
+activates, Freezer activates
+after an ice spell is used and
+Shocker is activated after a
+lightning spell is used. This
+can be a deadly combo against
+enemies (especially bosses) who
+are weak to elemental attacks.
+
+Another cool feature that
+Landskenchts have is 2-Hit. This
+nifty little feature has a
+chance of making you attack
+twice when attacking normally.
+With an axe this is very deadly,
+and with a sword it's deadly not
+very deadly but deadly.
+
+All in all, a Landsknecht is a
+great person to be in your
+party. Looking at the position
+in the tier list, they are right
+in the middle. They may seem a
+little low but competition is
+very tough in the tier list
+world.
+
+--------------------------------
+1.2 Protector...................
+...[PROT]
+--------------------------------
+
+Name:Protector Description: Holy
+defenders of the weak. A
+protector's sword are invaluable
+when in the dungeon. Skill list:
+
+HP Up
+TP Up
+DEF Up
+Shields
+Aegis
+En garde
+Provoke
+Flee
+Parry
+Fortify
+Defender
+F. Guard
+B. Guard
+Antifire
+Antivolt
+Anticold
+Smite
+Cure
+Cure II
+Stalker
+Mine
+
+Rank in Tier List:3
+
+My Description: Protectors are
+the Paladins of the game. They
+have great defense, good attack,
+good vitality and meh agility.
+They can only use swords but
+they can hold shields. If you
+have a protector, he/she must be
+wearing a shield. You can't use
+some of the Protector skills
+without shield equiped.
+
+A lot of the protector skills
+are used for defensive methods.
+F. Guard protects everyone in
+the frontline and B. Guard
+protects everyone in the back
+line. Defender is one of the
+most useful skills in the game.
+It increases the entire party's
+defense. It's quite useful in
+bosss fights.
+
+The anti skills are another
+thing to look at when you have a
+protector. What these skills do
+is they reduce damage from
+elemental attacks. At LVL 5 they
+nullify them. If they are higher
+than LVL 5 they absorb. These
+skills are absolutely needed in
+post game (after beating floor
+25) for bosses.
+
+In my opinion, Aegis and En
+Garde are useless. Aegis makes
+it possible to survive a killing
+blow with 1 HP, but after that
+you're screwed if up against a
+fast enemy. En Garde randomly
+stops a blow, but it's not that
+common and if you try increase
+the level you're wasting skill
+points.
+
+A good method for defensive
+purposes is P&P or P&F (stupid
+names I know). P&P stands for
+Provoke and Parry. P&F stands
+for Provoke and Fortify. Provoke
+increases your defense and
+attracts the enemy to you. Parry
+automatically blocks attacks.
+Fortify greatly increases you
+defense. P&P is recommendeded
+for boss fights and P&F is
+recommended for hard enemy
+fights and FOE fights.
+
+Smite is another interesting
+skill. Smite is the only
+protector skill that is used for
+offensive combat. In order for
+Smite to work, you need to have
+a shield. Smite is a bash skill
+(like staves) so keep that in
+mind. It is one of the strongest
+skills in the entire so be sure
+to get it.
+
+Cure and Cure II aren't all that
+good for Protectors. They can
+heal but they don't heal that
+much. Flee is pointless since
+you could just run and then use
+a warpwire or magnet. Stalker is
+a waste of skill points. All it
+does it reduce chances of
+getting into a battle.
+
+The protector is a highly
+recommened class for defensive
+purposes and offensive. They are
+also absolutely needed for the
+post game bosses. They are
+number three in tier list. They
+are the third highest and have
+tons of stuff to back up for
+that position.
+
+
+
+--------------------------------
+1.3 Dark
+Hunter....................[DRKH]
+--------------------------------
+
+Name: Dark Hunter Description:
+Pinpoint lashes of thier whip
+can weaken opponents. Use thier
+skills wisely to turn the tide
+of battle. Skill list:
+
+HP Up
+TP Up
+ATK Up
+Swords
+Boost Up
+Cloak
+Viper
+Gag
+Cuffs
+Shackles
+Ecstasy
+Climax
+Hypnos
+Nerve
+Mirage
+Drain
+Bait
+Petrify
+Take
+
+Rank in Tier List:7
+
+My Description: Dark Hunters are
+the status inflictors of the
+game. They have OK attack, less
+than average defense, good speed
+and OK vitality. Dark Hunters
+can either wield swords or
+whips. They each have thier own
+pros so lets see a rundown.
+
+The whips side has
+Viper,Gag,Shackles, Ecstasy and
+Climax. Gag binds the head,
+meaning you can't do magic,
+Cuffs binds the arms meaning you
+can't basically all of your
+skills. Shackles binds you legs
+meaning you can't do some
+attacks but other than that no
+other effects.
+
+Ecstasy is a skill, in which
+when an enemy fully binded
+(head,arms and legs are binded)
+it deals massive damage. Against
+normal enemies this is useless,
+but is good against strong FOEs
+and bosses. Though, keep in mind
+that some bosses are resistent
+to binds. Climax is an attack
+that OHKO's at low HP. Only
+really useful against Golem for
+the rare drop.
+
+The sword side has Hypnos,
+Nerve, Mirage, Drain, Bait and
+Petrify. Hypnos puts an enemy to
+sleep. Nerve paralyzes an enemy.
+Mirage confuses an enemy.
+Petrify, well pertifies an
+enemy. Drain is probably the
+best Dark Hunter skill because
+it can do good damage and when
+maxed out, the the damage you
+do, you get that much HP.
+
+Cloak is useless. Boost up
+causes increases the improvement
+when boosting, meaning you get
+stronger. Fury is a usefull
+skill especially in boss fights.
+What it does is, when your HP is
+low your damage increases.
+Bosses can do heavy damage and
+with the less than average
+defense, some hits can take you
+to low HP. Your Dark Hunter will
+probably attack before your
+Medic heals so it can help to
+get revenge with you still
+living.
+
+Looking at the position in the
+tier list you must think that
+Dark Hunters are useless pieces
+of garbage. They are low in the
+tier list but that by no means
+they suck. I have a Dark Hunter
+in my party and hes doin' great.
+I'd even choose him over a
+Troubador.
+
+
+
+--------------------------------
+1.4 Survivalist.................
+...[SURV]
+--------------------------------
+
+Name: Survivalist Description:
+Fleet-footed and wise in the
+ways of the forest, thier bow
+skills make them desirable
+allies. Skill list:
+
+HP Up
+Tp Up
+AGI Up
+Bows
+Ambush
+Aware
+1st Hit
+Trickery
+Quicken
+Cloak
+Escape
+1st Turn
+Trueshot
+Multihit
+Disable
+Apollon
+Owl-Eye
+Stalker
+Chop
+Mine
+Take
+
+Rank in Tier List:2
+
+My Description: Survivalists are
+the rangers or archers of the
+game, due to the fact that they
+use bows. Survivalists have very
+high speed, good attack, good
+defense and OK vitality. Like I
+said before, Survivalists can
+only use bows as weapons.
+Survivalists are the only class
+that have three of the obtain
+skills.
+
+Survivalists don't have many
+attacking skills. Multihit
+attacks several enemies, the
+higher the level the more
+enemies attacked. Trueshot is a
+very useful skill. It does
+stong, piercing bow attack.
+Apollon is one of the games
+strongest attacks. You fire a
+shot in the air and then three
+turns later it comes down with
+heavy damage. Another good thing
+is, you can do other attacks
+while Apollon is in effect.
+
+Ambush increases chance of
+getting preemtive strikes and
+Aware decreases the chance of an
+enemy ambuhsing you. If you have
+extra skill points these two
+aren't so bad. 1st Hit is
+useless since you will probably
+go first the next turn anyways.
+1st Turn however, is very good.
+In boss fights like the dragon
+fights, it can really help your
+Medic.
+
+Trickery lowers the enemy's
+evasion. Quicken increases the
+speed of your entire party. They
+are both OK, but not worth
+maxing. I find Owl-Eye and
+Stalker useless. Disable binds
+the enemies legs, not worth it
+if you have a Dark Hunter or
+Hexer. Cloak is useless, it
+takes up a turn and wastes skill
+points. I mean why would you
+want to hide? Escape is also
+useless since you have five
+people to run with.
+
+Survivalists are one of my
+favourite classes. In my first
+playthrough I always had him in
+my party. They are great
+attackers even in the back line
+(I always keep mine in my
+backline). They are great
+addition to any party and I
+would definately recommend one.
+
+--------------------------------
+1.5 Medic.......................
+...[MEDC]
+--------------------------------
+
+Name: Medic Description:
+Unskilled in battle, thier
+healing arts allow experienced
+warriors to survive difficult
+battles. Skill list:
+
+HP Up
+TP Up
+Atk Up
+Healer
+Patch Up
+Scavenge
+TP Regen
+Cure
+Cure II
+Cure III
+Salve
+Salve II
+Revive
+Unbind
+Refresh
+Immunize
+CPR
+Regen
+Caduceus
+H. Touch
+Chop
+
+Rank in Tier List:1
+
+My Description: Medics are the
+healer or the White Mages of the
+game. Medics have low attack,
+okay speed, good tec, okay
+vitality, and okay defense. They
+use staves as weapons. I
+strongly reccomend that every
+party has a medic.
+
+The only attacking skill that
+the Medic has is Caduceus. For a
+medic, it's surprisingly strong.
+The only problem is that you
+need 10 skill points into ATK
+UP, which can really cut into
+your healing skill points.
+
+Patch up isn't worth putting a
+lot of skill points into. Just
+getting is okay, but don't rely
+on it for your healing. TP Regen
+is useless because how little TP
+it restores and it's even more
+useless if you have a Troubador
+with relaxing. Scavenge is a
+good skill for getting rare
+items drops like from the Drake.
+
+Cure will be good starting
+healing skill but later on you
+should get Cure II and Cure III.
+All three of those shouldn't
+really go past 3 for a final
+build in the end of the game.
+Salve heal more than Cure and
+heals all members of your party.
+Like the cures it shouldn't
+really go beyond 3. Salve II
+heals better than Cure II and
+heals all of your party. You
+should max this skill out for
+it's an extremely useful skill.
+
+You should only put one point
+into Revive. Unbind, when you
+first get it, gets rid of 1
+bind. At level 3 it gets rid of
+2 and at level 5, 3 binds. For
+Refresh just get to level 8
+because thats when you get all
+the status ailments cured.
+Immunize should be maxed as soon
+as possible. It is one the best
+skills in the game. It makes
+everything a hell lot easiar. It
+raises you party's defense to
+everything in the game.
+
+CPR is useless since they come
+back low HP. Regen is pointless
+as well since your better with
+just normal healing. H. Touch is
+also useless. Don't waste skill
+points on chop for the medic.
+
+Overall the Medic should be a
+part of any party. They're
+number one because they keep
+your party alive, they can do
+good damage (Cadaceus) and they
+are like all the items packed in
+to one (cute, if you have medi-
+loli) package.
+
+
+
+--------------------------------
+1.6 Alchemest...................
+...[ALCH]
+--------------------------------
+
+Name: Alchemest Description:
+Those who study control of
+nature. The power of fire, ice
+and lightning are at thier
+command. Skill list:
+
+TP Up
+Fire Up
+Ice Up
+Volt Up
+Toxins
+Scavenge
+TP Regen
+Fire
+Flame
+Inferno
+Ice
+Freeze
+Cocytus
+Volt
+Thunder
+Thor
+Poison
+Venom
+Sight
+Warp
+Chop
+
+Rank in Tier List:6
+
+My Description:Alchemests have
+pretty much okay every thing
+except for strength and maybe
+defense. Thier Tec however is
+good.Alchemests are the
+elemental magic damage dealers
+or the black mages of the game.
+They're very useful because
+thier magic is strong and they
+elemental advantages. They also
+work very well with Landsknetchs
+who have chasers.
+
+Poison is a skill that it seen
+everywhere in RPGs, but for
+those of you who don't know what
+it is, it's an attack that deals
+damage every turns (in turn
+based games anyways). Poison
+hits one person and Vemon hits
+all enemies. Early in the game
+poison can be useful, but later
+they aren't as good.
+
+Just a note. Inferno, Cocytus
+and Thor don't need Flame,
+Freeze and thunder
+(respectively) as pre-
+requisites, instead they need
+Fire Up, Ice Up and Volt Up
+(respectively, once again) at
+level 5. That means you have the
+option of skipping the middle
+tier.
+
+Warp is pretty useful skill
+since you can warp back to the
+Geomagnetic Field, thus
+rendering Warp Wires and Magents
+useless. Only put one point into
+it though. Only use sight if you
+are very cautious FOES,
+otherwise ignore it. Scavenge
+can be useful for getting rare
+items.
+
+What I recommend for Alchemests
+is focus on one or two elemental
+trees. Although it is possible
+for them to have tri-elemental
+build it's very skill point
+consuming. I would recommend the
+fire tree because most bosses
+are weak to fire. Un-like the
+Medic the Alchemest doesn't have
+a melee attack besides the
+normal attack.
+
+Overall Alchemests are great
+damage dealers. They can totally
+decimate some parties. They may
+seem low in the tier list but
+they are actually quite useful.
+
+
+
+--------------------------------
+1.7 Troubadour..................
+...[TROU]
+--------------------------------
+
+Name: Troubadour Description:
+Lively dancers and singers who
+inspire the party. Thier support
+is always welcome in combat.
+Skill list:
+
+Hp Up
+TP Up
+Songs
+Divinity
+Bravery
+Shelter
+Mercury
+Erasure
+Recovery
+Stamina
+Blaze
+Frost
+Shock
+Ifrit
+Ymir
+Taranis
+Healing
+Relaxing
+Stalker
+Return
+Take
+
+Rank in Tier List:4
+
+My Description: Troubadors are
+the support characters of the
+game. I can't seem to find
+another character from a game
+that is similar to it.
+Troubadors can put buffs (status
+ailments that help you) on your
+party. Troubadors have pretty
+much average stats. Troubadors
+can use swords, staffs and bows.
+Just remember that
+
+Divinty is an okay passive skill
+though maxed out, you get 30% of
+experience added, which doesn't
+make much of a difference in the
+begining of the game. Stalker
+could be useful if your in real
+danger, but you should always a
+Warp Wire. Return is useful for
+forgetful people who don't bring
+Warp Wires.
+
+Bravery is a very useful skill
+that increases attacks,
+especially against bosses with a
+lot of defense. Shelter is
+another useful skill that
+increases defense. Good against
+enemies that hit hard. Mercury
+is okay, but it's not really
+worth it since you only have
+three buff spaces.
+
+Eruasure removes buffs on the
+enemy. Don't bother going past
+level five since you get rid of
+three (the max amount of buffs)
+buffs at level 5. Recovery is
+pointless if you have a Medic
+(which you should). Stamina
+increases party only for that
+battle so it's pretty stupid and
+you better of with better buffs.
+
+Flame, Forst and Shock change
+your attack attribute. It's good
+against bosses with elemental
+weakness. There's not point to
+putting a lot skill points into
+them because it just lowers TP
+cost.
+
+Ifrit, Ymir and Taranis all do
+the same thing. Ifrit is fire,
+Ymir is Ice and Taranis is Volt.
+What they do is, they lower the
+enemy resistence to the element
+and increase yours. It good be
+useful against the three dragons
+but that's what the Protector is
+for. When you put more points
+the increase/ decrease
+increases.
+
+Healing and Relaxing are both
+excellent skills. In really long
+boss/FOE fights these skills are
+really useful. Healing gives a
+little HP every turn and
+Relaxing gives a little TP every
+turn. I'd say that relaxing is
+better though. The more you
+level them up the more the HP/TP
+increase.
+
+Troubadors are great support
+members. They are especially
+great for boss and FOE fights.
+They are also useful in post
+game. They are fourth in the
+Tier list and they should
+definately be there.
+
+
+--------------------------------
+1.8 Ronin.......................
+...[RONI]
+--------------------------------
+
+Name: Ronin Description:Foreign
+masters of all forms of combat.
+Considering honorable death a
+virtue, their defense is
+lacking. Proud soldiers who
+demand the front. Skill list:
+
+HP Up
+TP Up
+ATK Up
+Katanas
+Sight
+Crit Up
+Ibuki
+Kesagiri
+Overhead
+Zamba
+Midareba
+Orochi
+Seigan
+Mikiri
+Koteuchi
+Raizuki
+Iai
+Kubichi
+Gatotsu
+Hyosetsu
+Mine
+
+
+Rank in Tier List: 8 My
+Description: Ronins have great
+maybe the best attack. Agility
+is good, tec is a little less
+than average. Vitality is good
+and defense is absolutely the
+worst in the entire game. Ronins
+have special buffs called
+stances. They need to be in
+certain stances to use certain
+attacks.
+
+The Overhead stance is probaly
+the best stance for the Ronin.
+Zamba is just one strong slice,
+nothing special. Midareba is one
+the most strongest attacks in
+the game. It hit an enemy
+several for VERY high damage.
+Orochi is simply a slash with
+fire imbued with it.
+
+Seigan has the same effect as
+Overhead. Mikiri is just stops
+on enemy, bad side is that is
+only happens once. Koteuchi does
+damage as well has a chance of
+binding their arms. Raizuki is
+like Orochi except it does
+lighting damage instead if fire
+damage.
+
+Iai increases speed. Kubiuchi is
+one of the two OHKO moves in the
+game. Even maxed it has a rather
+low chance of working. Gatotsu
+is a really strong, really fast
+pierce attack. Hyosetsu is like
+the other two elemental attacks
+except it does ice damage
+instead.
+
+Sight is a really good passive
+if you're going for long runs
+because after a long time it
+turns night. Crit up increases
+chances of critical attack but
+when maxed it doesn't have that
+much a difference. Ibuki is
+useless, let your medic do the
+healing. Kesagiri is just one
+really strong slash attack.
+
+Ronins are the tanks of the
+game. You might want to give
+them the best armor you can get
+due to their extremely low
+defense. Looking at the tier
+list you think that they are
+garbage but theres not a lot of
+classes so it's kind of messed.
+Regardless of tier position they
+still own.
+
+--------------------------------
+1.9 Hexer.......................
+...[HEXR]
+--------------------------------
+
+Name:Hexer Description: Thier
+hexes dictate whether an enemy
+lives or dies. Thier innate
+gifts are rarely seen.
+Tormentors used to the back
+line. Skill list:
+
+HP Up
+TP Up
+Curses
+Stagger
+Sapping
+Fraility
+Leaden
+Blinding
+Relapse
+Cranial
+Abdomen
+Immobile
+Torpor
+Corrupt
+Revenge
+Evil Eye
+Paralyze
+Betrayal
+Suicide
+Lure
+Mine
+
+Rank in Tier List:9 My
+Description: Hexers are the
+status inflictors of the game,
+but they don't do damage like
+D's. They have weak attack, ok
+speed, good tec, and less than
+average vitality. Almost all
+thier skills involve some sort
+of status ailment. They can
+induce almost every status
+ailment.
+
+Sapping decreases attack, good
+for hard hitting monsters.
+Fraility decreases defense go
+against high defense people and
+bosses or FOEs. Leaden decreases
+speed good for really fast
+enemies like Macabres. Blinding
+blinds the enemy. Relaspe
+decreases recovery time against
+status aliments meaning they'll
+be afflicted for more turns.
+
+Cranial just binds the head,
+Abdomen binds the enemy's arms
+and Immobile binds the enemy's
+legs. Torpor has a chance
+putting all the enemies to
+sleep, but from my experience it
+doesn't work very well. Corrupt
+is one of my favourite skills
+because it curses the entire
+party.
+
+Revenge simply does damage. From
+my experiences it is very weak.
+Evil eye terrifies one enemy. It
+links to a lot of attacks.
+Paralyze paralyzes the enemy but
+only when terrified (evil eye).
+Betryal makes one enemy attack
+another one. Suicide makes an
+enemy hit itself until it dies.
+
+Stagger is useful skill.
+Whenever you enter a battle
+there is a chance that all the
+enemies will be stunned meaning
+they can't do anything on the
+first turn. Lure is the opposite
+of the ward chime, it makes the
+enemy encounter rate increase
+but only for 50 steps.
+
+Hexers can be useful if you
+don't have a D but are not that
+great in boss fight because
+several bosses are resistant to
+status. They aren't great melee
+fighters either. Just because
+they are last in the tier list
+doesn't mean they suck. They can
+be useful in some cases like
+Etreant or monsters with high
+stats.
+
+--------------------------------
+2.Verda Plaza...................
+...[VERD]
+--------------------------------
+
+Verda Plaza is the second place
+where you can go to besides the
+Labyrinth. In Verda Plaza there
+are seven places can go to. They
+are: The Rooster Inn, Ceft
+Apthecary, Shilleka's Goods,
+Golden Deer Pub, Explorers
+Guild, Radha Hall and Entrance
+to the Labyrinth.
+
+The Rooster Inn: In here you
+have five options. They
+are:Sleep, Nap, Talk, Save and
+Leave. Rest is when you sleep
+until the morning. The morning
+is 5AM. Nap is when you sleep
+until the night, which is 5PM.
+Talk is when you talk with the
+clerk (the boy that you see).
+Save is when, well when you
+save. This is only place you can
+save besides at the Geomagnetic
+Fields. Leave is when you leave
+the Inn and return to Verda
+Plaza.
+
+Ceft Apothecary: In Ceft
+Apthecary you have the options
+to revive, buy medicine, talk or
+leave. Revive is when one of
+your party memebers has been
+KO'd he revives them. Buy
+medicine is when you can buy
+healing items. Some examplaes of
+healing items are Medica, Medica
+II and Amrita. Talk is when you
+talk with the old man you see.
+Leave is when you leave the
+Apothecary and return to the
+plaza.
+
+Shilleka's Good: Here you have
+the options of Buy, Sell, Talk
+and Leave. Buy is when you can
+buy weapons. Shilleka's goods is
+the one the only places you can
+get weapons from aside from in
+the Labyrinth and quests. Sell
+is when you sell waepons, armor,
+items, healing items ect.
+Selling items from item points
+will unlock new items to buy and
+new medicine to buy. Talk is
+when you talk to Shilleka. You
+need to talk to her to find out
+the materials for her requests
+when accept the quests from the
+Pub. Leave is when you leave her
+shop and return to the
+Labyrinth.
+
+Golden Deer Pub: The options
+here are Accept Quests, Report
+Results, Talk and Leave. Accept
+Quests is when you can get
+quests. Quests are explained in
+the quest section. Report
+results is when you are done a
+quest you can report that you
+have beaten it and get your
+reward. You can also cancel
+quests here. Talk is when you
+talk to Valerie. Leave is when
+you leave the Pub and return to
+the plaza.
+
+Explorer's Guild: Here you have
+the option of Register,
+Organize, Formation, Talk and
+Leave. Register is when you
+create an entirely new
+character. In Organize you can
+either choose to make a
+character leave, rest a
+character or retire a character.
+When you rest a character they
+lose ten skill points and thier
+skills get reset. Retire is when
+a character is replaced with a
+character with higher than usual
+stats. Both can be used when a
+character has reached level 30.
+Formation is when you choose
+what character to bring into the
+Labyrinth and what row they you
+want them in. Talk is when you
+talk to the Guildmaster. Leave
+is when you leeave the Guild and
+return to the plaza.
+
+Radha Hall: Here you have the
+options of Accept missions,
+Report results, Report
+discoveries, Talk and Leave.
+Accept missions is when you get
+a mission. Missions are
+explained in the Missions
+section. Report results is when
+you complete a mission you can
+report it and get your reward.
+Report discoveries is when you
+record new monsters and items
+you have found. Talk is when you
+talk to Quinn. Leave is when you
+leave the Hall and go back to
+Plaza.
+
+Forest Entrance: The options
+here are Yggdrasil Labyrinth,
+Geomagnetic Field and Return to
+town. Yggdrasil Labyrinth is
+when you go to B1F of the
+Labyrinth. Geomagnetic Field is
+when you go to any of the
+Geomagnetic Fields on B6F, B11F,
+B16F,B21F and B26F. Return to is
+when you...uh...return to town.
+
+--------------------------------
+3.Quests........................
+...[QEST]
+--------------------------------
+
+Quests are are mini-missions
+that be can accepted in the
+Golden Deer Pub from Valerie.
+Almost everytime you get to a
+new floor atleast one quest will
+open up. Some quests can only be
+opened up beating other Quests.
+If you need help on quests go to
+my Quests/missions guide. It's
+in the Etrian Odyssey In-Depth
+walkthroughs section.
+
+--------------------------------
+4.Missions......................
+...[MISS]
+--------------------------------
+
+Missions can be accepted from
+Radha Hall. You need to defeat
+missions to proceed in the game.
+Most missions have to with
+defeating bosses. After the 20th
+floor mission there are no
+missions. If you need help on
+the missions go to my
+Quests/Missions walkthrough.
+It's in the In-Depth section of
+Etrian Odyssey guides. My
+walkthrough also explains how to
+beat them, the walkthrough is
+probably better though.
+
+--------------------------------
+5.Stratagies....................
+...[STRA]
+--------------------------------
+
+This is the strategies section
+of my the Walkthough (but I
+think you've probably already
+noticed...). So far there are
+only two strategies, but I hope
+there are more to come.
+
+Treefrog/Immoa method: Go get
+into a battle with either a
+Treefrog or an Immoa. Then wait
+until they summon another
+Treefrog/Immoa. Kill the newly
+summoned monster. Then repeat
+until you have killed thirty of
+them. If you kill more than
+thirty the monsters killed after
+that won't go into the
+experience count. This is better
+done solo for there is massive
+experience gain. Treefrogs are
+located on B11F-B13F. Immoas are
+located on B16F-B19F.
+
+Easy money: For this strategy
+get five survivilists. Then give
+them either chop, mine or take.
+Then send them into the
+labyrinth and get items from
+item points. Early in the game
+the best place is B1F. Just take
+the shortcut in the begining and
+chop there. The best place is in
+B21F. There is mine point right
+beside the Geomagnetic Field.
+Each item sells for 400-500 en.
+This is the best place for
+farming En.
+
+
+--------------------------------
+6.Legal.........................
+--------------------------------
+
+Only Gamefaqs has permission to
+host this FAQ. If any other
+sites or people take the entire
+or a part of this walkthrough
+legal action can and will be
+taken.
+
+Copyright 2007-2008 Hangid (c)

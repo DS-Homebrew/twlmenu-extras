@@ -1,0 +1,1463 @@
+The World Ends With You
+Walkthrough/FAQ v1.0
+
+--- Introduction --- [intro1] --
+
+The World Ends With You is an
+experimental new IP developed by
+Square Enix and Jupiter
+Corporation. With the concepts
+for both the story and art
+designed by Tetsuya Nomura, the
+game is highly stylized, and
+clearly heavily influenced by
+anime. Thankfully though, the
+game is rather lacking in belts
+and zippers.
+
+Set in Japan's trendy Shibuya
+district, The World Ends With
+You has you play as Neku
+Sakabura, an anti-social boy who
+wakes up in the middle of the
+street with nothing but his
+cellphoen, a bunch of pins, and
+the clothes on his back. Without
+his memories, invisible to the
+world, and witht he ability to
+read minds, Neku finds himself
+trapped in a deadly game where
+the prize is his right to exist,
+and that of the friends he will
+meet.
+
+Being an aRPG with character
+designs similar to those of
+Kingdom Hearts, The World Ends
+With You had received a lot of
+criticism for being too similar
+to the highly successful Square
+Enix franchise. This comparison
+is rather unfair, as while the
+gameplay of Kingdom Hearts
+follows your typical aRPG
+formula, that of The World Ends
+With You uses the unique Stride
+Cross battle system to have the
+combat take place on both of the
+DS's screens at once.
+
+What The World Ends With You
+does have in common with Kingdom
+Hearts is high review scores and
+popularity. Averaging around a
+90% from all major review sites
+and magazines, and having its
+board reach Pokemon Diamond's
+level before the game was even
+released, The World Ends With
+You looks to be a huge success
+in the making.
+
+--- Table of Contents ---
+
+Introduction [intro1]
+Table of Contents
+Version History [hist1]
+Controls [ctrl1]
+Concepts [cncpt1]
+Walkthrough [wlkthr1]
+Acknowledgements/Policy [polc1]
+
+--- Version History --- [hist1]
+
+1.0 - April 29, 2008 - Main
+      walkthrough completed.
+
+--- Controls --- [ctrl1]
+
+- Exploration -
+
+Movement - To move Neku, use the
+d-pad or the latter buttons. You
+may also use the stylus. Touch a
+spot to have Neku move there or
+drag the stylus to have Neku
+follow it.
+
+Menu - Touch the cellphone icon
+in the top right corner with the
+stylus or press start to open
+the menu.
+
+Scan - Touch the pin icon in the
+bottom right corner with the
+stylus to scan your
+surroundings.
+
+Talk/Listen - When a speech
+bubble pops up near a characters
+head, touch it with the stylus
+in order to talk to them or
+listen in on their
+conversations.
+
+Advance Text - Use the d-pad,
+letter buttons, or the stylus to
+advance text during
+conversations.
+
+Fast Forward - Press L or R to
+fast forward through text in
+conversations. This is only
+available after completing the
+game once.
+
+Shop - To enter a shop, simply
+move Neku toward it.
+
+Purchase - If the requirements
+to purchase an item are met, use
+the stylus to drag is to the box
+labelled 'buy'.
+
+Identify Ability - If an item is
+identified by the shopkeeper who
+sells it, select it in the store
+when you're a good enough friend
+with the owner. If not, the item
+will automatically be identifed
+when you enter the correct
+shopkeeper at a high enough
+store level.
+
+- Combat -
+
+Top Screen Attack - To attack
+with the top screen character,
+use the d-pad or the letter
+buttons.
+
+Bottom Screen Attack - To attack
+with Neku, input the stylus
+commands as specified in the
+pin's description.
+
+Toggle Pins - To allow the game
+to tell between two attacks with
+the same input command, press L
+or R to activate pins you have
+assigned to them.
+
+Fusion - To use a fusion attack,
+touch the fusion icon with the
+stylus when it appears on the
+bottom screen.
+
+Pause/Flee - To pause, press
+start. When paused, you have the
+option of fleeing from most
+battles by touching the flee
+option with the stylus.
+
+--- Concepts --- [cncpt1]
+
+Noise - Noise are the enemies in
+The World Ends With You. There
+are some enemies whol are not
+actually noise, but they are
+called such for the sake of
+simplicity. There are many types
+of noise.
+
+Red Noise - These are generic
+noise, and if you touch them
+when scanning, an encounter will
+begin.
+
+Black(Taboo) Noise - These are
+similar to the red noise, but
+they will attack you on their
+own during a scan. They also do
+not take much damage unless the
+attacker has the light puck.
+
+Blue(Boss) Noise - These are
+similar to red noise, but they
+are in fixed locations and will
+always have the same boss appear
+in each location.
+
+Orange Noise - These are noise
+who have been attracted by a
+person's negativity, and makes
+them even more negative. In
+terms of battle they are no
+different from red noise.
+Defeating them typically clears
+up the person's negativity and
+breaks the feedback loop.
+
+Green(Pig) Noise - If a green
+noise is in any area, their
+symbol will appear in the top
+right. Also, you will hear an
+"oink" when you scan. They run
+from battles quickly, but they
+give good rewards if you manage
+to defeat them before they do.
+They are in fixed locations, and
+once they have been defeated,
+they are permanently gone.
+
+Light Puck - The green orb that
+floats around the playable
+characters is called the light
+puck. The character with the
+light puck does more damage than
+usual. The light puck switches
+between characters after the
+character with it finishes a
+combo.
+
+Scanning - Scanning allows you
+to see noise, as well as the
+thoughts of non-players/reapers.
+
+Store Levels - Buying things
+from a store increases your
+friendliness with the
+shopkeeper. As the friendliness
+goes up, they will sell more
+things and identify more items.
+
+Ability Identifcation - All
+equippable items have special
+abilities that must be unlocked
+before they apply in battle.
+This is done by befriending
+shopkeepers and having them
+identify the abilities for you.
+
+Quest Items - Some items cannot
+be bought with yen. For these,
+you will need to trade in items
+to obtain them. Red quest items
+can only be obtained once, while
+blue ones can be repeatedly
+obtained.
+
+Bravery - Bravery is your
+capacity to wear equipment. Each
+equip has a bravery value that
+must be met. The maximum bravery
+is 999.
+
+Level Adjusting - In the menu,
+you have the option to change
+your level to anything equal to
+or below the maximum level you
+have earned. Lowering your level
+will make fights more difficult,
+but drop rates increase as a
+result.
+
+Difficulty Modes - The game has
+multiple difficulty modes that
+you can unlock as you progress
+through it. Defeating enemies on
+different difficulty modes
+yields different pin drops.
+
+Brands - Each pin and piece of
+equipment has a brand. These
+brands determine the bonuses you
+receive in battle, and each
+brand has a pin that increases
+the attack of other pins of the
+same brand.
+
+Trends - Each area has its own
+take on which brands are trendy
+and which are not. These brands
+receive bonuses in combat
+according to where they lie in
+the trends.
+
+Trend changing - By using
+pins/equipment of a certain
+brand in combat, that brand
+becomes more trendy in the area
+you're fihgting in, and more
+effective as a result.
+
+Memes - Memes are words you'll
+hear throughout the game that
+are used for imprinting.
+
+Imprinting - Imprinting is when
+you place a word in a person's
+mind, changing their actions asa
+result. It is used to progress
+through certain story events.
+
+Psyches - Psyches are the
+classes of the various pins.
+There are limits on how many
+pins of a certain psyche you may
+use at once.
+
+Pins - Pins are a type of
+equipment only Neku can wear,
+and they determine the
+attacks/spells/abilities he uses
+in battle.
+
+Pin levels - Equipped pins will
+gain PP when you do various
+things, and when they get
+enough, they will level,
+increasing their effectiveness.
+
+Pin evolution - Some pins, when
+they get enough PP of a certain
+type, will evolve into stronger
+pins.
+
+Battle PP - PP gained by wearing
+a pin in battle. The main type
+of PP.
+
+Shutdown PP - PP gained by
+equipped pins after having the
+game shut down for a period of
+time.
+
+Mingle PP - Mingle PP is gained
+by playing Tin Pin Slammer with
+other people who own The World
+Ends With You, or by having the
+game in Mingle mode.
+
+--- Walkthrough --- [wlkthr1]
+
+Search format - ["c""Chapter
+number""d""Day number"]
+
+For example, day one is [c1d1].
+
+- Shiki Day 1 - [c1d1]
+
+When you first gain control,
+press the pin icon in the bottom
+right corner to scan. You'll
+find yourself in a battle. You
+can't fight right now, so press
+start and flee. Some plot will
+happen, and you will meet your
+partner, Shiki. When you regain
+control, pay attention to the
+instructions and fight the
+battles. You can't possibly lose
+these fights, so take your time
+getting used to the controls.
+After you've finished fighting
+the noise, head right, to the
+Scramble Crossing, and then go
+up to 10-4. Day one complete.
+
+- Shiki Day 2 - [c1d2]
+
+Attempt to head west, and you'll
+find your path blocked by an
+invisible wall. Head back to the
+hooded figure and talk to him.
+After doing so, scan the area
+and erase the noise by him. Now
+head left. Go to the upper exit,
+and talk to the reaper. Scan and
+erase the noise around the
+statue. The path is now clear,
+so head over to the next screen.
+When there, examine the statue.
+You're unable to purify it right
+now, so backtrack to the
+previous screen and scan near
+where you erased the noise. Read
+the guy's mind, and you'll know
+what to do. Go back to Hachiko,
+examine the statue, and choose
+the option to polish it. Noise
+will pop up, so erase them.
+You'll now encounter a Mini-
+boss.
+
+Mini-boss: Noise 37, Metal
+Corehog. HP: 600
+
+You'll want to use ranged
+attacks on this guy. If you get
+too close to it, it will attack
+you with his quills for a decent
+bit of damage. It also fires
+spikes into the air, and these
+will explode a bit after they
+land, so you'll want to move
+away from them if they drop near
+you.
+
+- Shiki Day 3 - [c1d3]
+
+A new day! Fun. Move to the next
+screen. The first store shows up
+now, so buy something if you
+want to. When you're done, talk
+to 777. Offer to help or don't,
+it doesn't really matter as
+you'll end up doing it anyway.
+Now head down and talk to the
+reaper. He'll summon noise and
+you'll be taught about fusion
+attacks. Fun. Defeat the noise
+and move on to the next screen.
+
+Head right until you reach the
+Ramen Don, then enter. Buy some
+food if you feel like it, and
+then talk to the techie. He is
+surrounded by orange noise, so
+scan and defeat them. Head back
+to where you met 777, and listen
+in on his conversation with the
+techie. Now talk to the reaper
+at the top exit. He'll show you
+a red noise symbol and tell you
+to defeat two of that type, so
+scan and do exactly that. It
+won't count if you do it in
+another area, so make sure it's
+in A-East. Talk to the Reaper
+again and head up through the
+now open path.
+
+You'll see Beat and Rhyme near
+the entrance of this area, so go
+and talk to them. After you've
+finished with that, you'll see a
+businessman walk by. Talk to
+him, and when the symbol appears
+over his heart, press it twice
+to be given the opportunity to
+imprint. You only have one meme
+right now, so imprint "Blackout"
+into his mind.
+
+With that done, head back to the
+stage and scan the guy in the
+top right corner. Go back to the
+techie in the Shibukyu Main
+Store area, and imprint the word
+"fuse" into his mind. Head back
+down past A-East to Dogenzaka,
+and enter the Cosmic Corner. Go
+back to A-East and talk to 777
+and the techie. Head in to the
+stage, go to the back right
+corner, and listen in on the
+conversation between the techie
+and his co-worker. It's time for
+a boss fight.
+
+Boss: Noise 88, Vespertilio
+Canor. HP: 800
+
+This boss is invulnerable
+whenever the area is dark. In
+order to light it up, Shiki must
+defeat a number of the red bats
+on the top screen. While you're
+doing this, simply have Neku
+concentrate on not taking
+damage. Once enough of the bats
+are dead, the area lightens up,
+the boss loses it's
+invulnerability, and the boss
+becomes stunned for a brief
+period of time. When this
+happens, have Neku beat down on
+it while Shiki goes on defense.
+The boss may not die before its
+invulnerability is restored, in
+which case you simply need to
+repeat the process until it does
+die. It's not a particularly
+difficult fight, and you should
+have it down in no time.
+
+- Shiki Day 4 - [c1d4]
+
+Once you gain control of Neku,
+talk to Beat and Rhyme. You'll
+be challenged to a race, and
+they'll run off. If you try to
+leave the area before entering
+10-4, Shiki will harass you, so
+humour her and get it over with.
+If you want to buy something, do
+so, and once you're done head
+down into the Scramble Crossing.
+
+Talk to the reaper by the right
+exit of the Scramble, and he'll
+tell you to bring him two 1000
+yen pins before he'll let you
+pass. Lower your level in the
+menu, scan for noise, and defeat
+Noise 2 (Bigbanfrog - HP 400)
+until you get them. Talk to him
+again, and move on to the next
+screen.
+
+In here, you'll find another
+reaper. This one wants you to
+have five 500 yen pins before
+letting you pass. With your
+level still lowered, defeat
+Noise 12 (Garage Wolf - HP 350)
+and Noise 15 (Mosh Grizzly - HP
+600) to obtain them. Once you
+have them, talk to the reaper
+and move right another screen.
+
+Talk to Beat and Rhyme again,
+then move on to Towa Records.
+Before you take on the main
+enemy, you'll have to fight a
+regular batch of noise. Do so,
+and then it's time for a mini-
+boss.
+
+Mini-boss: Noise 61, Swing
+Shark. HP: 1200
+
+You'll want to start this battle
+off by taking care of the small
+fry. The shark can wait until
+the lesser threats are gone.
+This mini-boss only has two real
+ways to damage you. Its first
+attack is just it swimming
+around, and its fin will deal
+some damage to you if it hits
+you. The second attack is the
+one to look out for. A puddle
+will form underneath Neku, and
+this signifies that it is about
+to strike. When you see this,
+simply move out of the way and
+you'll be fine. If you fail to
+do so, the shark will bite you
+and you'll take a fair amount of
+damage. This mini-boss is
+another relatively painless
+fight, and you'll make short
+work of it.
+
+- Shiki Day 5 - [c1d5]
+
+Head left and talk to the
+businessman nearby. He is trying
+some sort of ritual to make
+decisions for him, and you're
+going to interfere with it for
+kicks. If you move the coin too
+quickly, it won't work and
+you'll have to restart, so make
+sure to do it slowly. Drag it to
+the white symbol, and leave it
+there.
+
+Talk to the Reaper near the
+entrance, scan, and kill two of
+the noise represented by the red
+noise symbol the reaper showed
+you. Talk to him again, and head
+up to Spain Hill. Scan and
+defeat a few noise, and the
+source of the problem will
+reveal itself to you. Scan by
+the two girls, and destroy the
+orange noise surrounding them.
+
+Imprint "Reaper Creeper" in the
+first girl. She'll suggest they
+try the ritual to solve their
+problem. Playing the role of the
+reaper, go to white all three
+times. They'll make up, and then
+you're up to scan and defeat the
+remaining orange noise. Miniboss
+time.
+
+Mini-boss: Noise 16, Circle Pit
+Grizzly. HP: 3500
+
+This time up, the foe is a giant
+bear. Unlike the last few boss
+fights, the bear is never
+invulnerable to attacks. When it
+looks like it is about to grab
+the ground, it will jump forward
+and slam into it, dealing damage
+with a decently sized area of
+effect. He can also swipe
+forward with his claws, though
+this doesn't do as much damage.
+These attacks are all close
+ranged, and it's also pretty
+slow, so just staying back and
+pounding on it with ranged
+spells should work just fine.
+
+- Shiki Day 6 - [c1d6]
+
+A bit to your right is a
+distraught individual named
+Makoto. Talk to him, then scan
+him, and then scan again to
+erase the noise surrounding him.
+It's your job to help him with
+his job, so talk to him and Nao.
+When you get the chance, imprint
+"Totally gnarly!" into his mind.
+This is a success, so now follow
+him to the northeast exit of the
+Scramble. It's blocked by a
+reaper, so talk to him and
+engage in the first session of
+the Reaper Review. The answers
+are "Edoga the Shop", "High
+Heels", and "Bubbles". Once
+you've answered the questions
+correctly, head on over to
+Center St. Entrance.
+
+Here you'll come across Makoto
+again, this time trying to con
+Shooter into taking a pin. Talk
+to them, and imprint "Unreal,
+bro!" into Makoto's mind when
+the opportunity arises. Having
+been successful once again, talk
+to the reaper. He wants to see
+that you have three rare metals.
+Make sure your difficulty is on
+normal, lower your level, and
+kill Noise 58 (Decadraven - HP
+490) to get them. Talk to the
+reaper again, and continue on
+your way.
+
+Once you have reached Spain
+Hill, talk to Makoto and the
+Techie. Imprint "Come get some
+hot stuff" in Makoto's mind,
+then do it again when the
+opportunity presents itself.
+With the handing out of the pin
+finished, backtrack to the
+Scramble Crossing. Shiki is near
+where Makoto originally was at
+the start of the day, so talk to
+her. Now she has moved over a
+bit to the left, but talk to her
+again. Now talk to Makoto.
+Apparently just handing them out
+isn't good enough, so equip the
+Red Skull pin. It slows your
+movement and doesn't help you in
+any way, but it's necessary to
+advance, so there isn't anything
+that can be done about it.
+
+Scan the area and defeat some
+noise in order to make the pin
+trendy in this area. Once you're
+told that it has caught on, move
+up to 10-4 and do the same thing
+there. After it is popular there
+as well, head back to the
+Scramble and talk to Shiki one
+last time for the day.
+
+- Shiki Day 7 - [c1d7]
+
+Once the day starts, head left
+to Hachiko. Talk to the reaper
+in here. He wants you to fight a
+three battle chain, so scan and
+do just that. Once you have done
+so, save and move on to the next
+area. Talk to the Reaper in
+here, and you'll be forced into
+a boss fight.
+
+Boss: Noise 90, Cornix Canor.
+HP: 800
+
+The battle starts off tamely
+enough. You'll fight a couple of
+regular bird noise. No big deal,
+just a standard fight. Once you
+destroy them, a bigger bird
+comes along, and those smaller
+ones begin to spawn infinitely
+at a slow pace. For this fight,
+you'll mainly be battling the
+small ones, but every once in a
+while the big bird will take a
+dive and fly across the screen.
+It lets out a shriek before
+doing this, so it's easy to tell
+when the attack is coming. You
+can just move up or down to
+avoid its attack, so it's not at
+all difficult to dodge. The
+problem is that this is also
+your only chance to deal damage.
+Once you're out of the way, lay
+down some ranged fire at it. You
+won't do much to it, so you'll
+have to let it take multiple
+passes at you in order to win.
+It has one other attack for you
+to worry about dodging, but it
+isn't vulnerable during this
+one, so you don't have to risk
+getting hit in order to deal
+some extra damage. You'll see a
+large circular shadow below
+Neku, and this means the bird
+has picked up a vehicle of some
+sort and is dropping it on you.
+You'll want to move out of the
+way before it lands. This boss
+doesn't really have difficult
+attacks to dodge, but it's a
+pain to hit, so it's really more
+of a test of endurance than
+anything else.
+
+Keep on moving through the area
+and into the Station Underpass,
+and head right there. Time for
+another boss fight.
+
+Boss: Noise 91, Ovis Cantus.
+HP: 8000
+
+Yay, a major boss. This guy
+doesn't have any real gimmick.
+He's vulnerable to attack almost
+all the time. The only time he
+isn't is when he uses his attack
+"Time for a taste test!" He
+won't attack during this
+invulnerability period, so not
+only does it not pose a threat
+to you in any way, but it also
+provides you with an opportunity
+to use recovery pins and let
+your attack pins reload. He
+won't be very aggressive at
+first, so just beat him up for a
+bit and you'll be fine. His
+other attack during this phase
+comes after he says "I'll char
+your bones black! He'll fire a
+bunch of electric orbs out at
+you. They're slow, so just dodge
+them. Eventually, he'll say "Now
+we're boiling!" This indicates
+that he has entered his second
+phase, and now he'll attack with
+some regularity, and his moveset
+will expand a bit as well. Now
+the attack with the electric
+orbs will be followed up by
+lightning strikes that follow
+Neku, so keep moving in order to
+avoid them. He'll also start
+using "I'll pound you", where
+he'll punch the ground once on
+Neku's screen. Just move out of
+the way to avoid it. He also
+uses "I'll mince you!", which is
+where he swipes at Neku and
+knocks him across the screen.
+Once he is down to his green
+health bar, he'll go into his
+final stage. He becomes even
+more aggressive, and "I'll pound
+you" will now sometimes have him
+punch the ground repeatedly.
+It's not all that difficult a
+fight, but it's harder than
+anything you've faced up to this
+point.
+
+- Joshua Day 1 - [c2d1]
+
+A new week has started, and
+you'll find yourself without a
+partner once again. Start by
+heading left to Hachiko, and
+you'll meet Joshua. He isn't as
+powerful as Shiki until near the
+end of the week, but he's still
+pretty decent, and his method of
+earning fusion stars is more
+straight-forward than Shiki's.
+Anyway, you'll be forced into an
+encounter, so beat up the noise.
+When you're done, scan the area,
+and read Joshua's mind.
+
+This is basically a filler day,
+so you're doing pretty much the
+same thing you did on Shiki Day
+1. Go back to the scramble and
+talk to the reaper. Defeat the
+noise he sends at you and head
+on up to 10-4.
+
+Mini-boss: Noise 51, Dub Rhino.
+HP: 800
+
+This guy is stupidly easy. It
+won't take damage from you
+unless you're behind it, but
+that's literally all it has
+going for it. Just hit him until
+he drops. Day one over.
+
+- Joshua Day 2 - [c2d2]
+
+Open up the day by scanning
+Joshua again. When the scene is
+done, talk to the reaper if you
+want to, but it isn't necessary
+to move on. Now head right to
+the Shibu Department Store. When
+you're there, talk to the
+reaper. He'll tell you to defeat
+the noise surrounding people in
+this area. Scan, and beat the
+two groups of noise. Talk to the
+reaper again and move on.
+
+Head up to Molco. Here is your
+first encounter with Taboo
+Noise. They take very little
+damage when the attacker doesn't
+have the light puck, so keep
+that in mind when using Neku's
+attacks. After you beat them,
+enter the Molco building. It
+doesn't matter if you win or
+lose, so just play the game as
+well as you can. Once you're
+done, head down to Cadoi City.
+
+- Joshua Day 3 - [c2d3]
+
+Head right to Cadoi City. Talk
+to the reaper there. He'll tell
+you to beat three noise with a
+certain shaped symbol while
+staying in the area, so scan and
+defeat them. Talk to him again
+and keep on moving. Talk to the
+next one, and he will tell you
+to find a Pop Pendulum pin.
+Lower your level and kill Noise
+56 (Carcinosamps - HP 520) on
+normal to find one. Talk to the
+reaper again, and keep going all
+the way to cat Street. Enter
+WildKat. When you're done there,
+backtrack to Cadoi City. On the
+way, you'll encounter a boss.
+
+Boss: Noise 80, Reaper Beat.
+HP: 5000
+
+Beat moves around pretty quickly
+and is a pain in general.
+Thankfully, this is merely a
+fight to survive. You probably
+won't be able to deal enough
+damage to kill him before the
+battle automatically ends. Just
+don't die, and you'll be fine.
+
+Head to the scramble, and talk
+to the top reaper. Equip as much
+Natural Puppy stuff as possible,
+and fight some noise until it
+becomes the most popular brand
+in the area. Talk to the reaper
+again, and head to 10-4, and
+then to Dogenzaka.
+
+Head left until you reach a new
+store called Shadow Ramen, and
+enter it. After you are kicked
+out, head back to the Ramen Don,
+scan, and erase the noise around
+Ken. Enter the store, and you'll
+talk to him. Now go to Shadow
+Ramen and you'll see that there
+is trouble in paradise. Head
+left and up to A-East, and talk
+to Makoto and Prince. After
+their conversation, scan and
+erase the noise around Prince.
+Head back to the Ramen Don and
+talk to Ken. Imprint the meme
+"Simple" in his mind. Now just
+enter the Ramen Don to end the
+day.
+
+- Joshua Day 4 - [c2d4]
+
+Head northeast to Center St.
+Entrance. Talk to the Reaper
+there. He asks for the Sexy +
+pin. Noise 59 (Easterraven - HP
+720) drops it on easy, so lower
+your level and kill a few of
+them. Talk to the reaper again
+and move on. In the next area,
+the reaper wants you to fight a
+four chain reduction battle, so
+scan and do so. Move on to Tipsy
+Tose Hall.
+
+Once you're there, talk to the
+reapers. After the other two
+leave, talk to 777. Now go to
+Spain Hill and speak with Tenho
+there. Now go to Molco and
+examine the phone booth there.
+Head down, then left back to the
+Scramble Crossing. Talk to BJ
+there. Head back to Tipsy Tose
+Hall and talk to the reapers
+again. First, pick 2:02, then
+1:55, and "None of these guys"
+for the final choice. Head on to
+Shibu-Q, and you'll have have to
+fight Beat again. It's the same
+thing as last time, so when it's
+over, move on to Udagawa. When
+you get to the mural at the end
+of the area, talk to Joshua,
+then scan him to end the day.
+
+- Joshua Day 5 - [c2d5]
+
+Head right after gaining
+control, and talk to the reaper.
+Equip a bunch of D+B
+pins/threads and fight some
+noise to make it the most
+popular brand in the area. Talk
+to the reaper again, and keep
+going. Talk to the next reaper.
+If you don't have ramen, you'll
+have to go back to the Scramble,
+10-4, then Dogenzaka in order to
+buy some. When you get it, head
+back to the reaper, talk to him,
+and move on. In the next area
+there is yet another reaper.
+This one is a Reaper Review. The
+answers to the questions are
+"Ken Doi", "Insta-Noodles", and
+"580 yen". In Towa Records, this
+reaper wants Neku to be equipped
+fully with Mus Rattus threads.
+If you don't have enough, there
+is a Mus Rattus store back in
+Cadoi City. The next reaper
+wants to play Tin Pin Slammer
+with you. It doesn't matter if
+you win or lose, so humour him.
+The (thankfully) last reaper
+will tell you to defeat the
+noise he sends at you, but the
+catch is that he gets to pick
+which pins you use. Just use the
+top screen, and you'll be fine.
+
+Now that you have finally
+reached your destination, enter
+WildKat. When your business
+there is done, backtrack to the
+Scramble. You'll encounter Beat
+again, and he is the same as
+always. Head to Hachiko, the bus
+terminal, and then the
+underpass. Head right for the
+scene, then try to exit the
+underpass. A taboo noise will
+get the jump on you, so beat it
+and you'll end the day.
+
+- Joshua Day 6 - [c2d6]
+
+Remember how when you first got
+Joshua, he was pretty weak at
+first, but became broken later
+on? Yeah, you've just reached
+that point. Pressing up will let
+Joshua levitate, and his aerial
+combos are stupidly good.
+Excellent.
+
+Anyway, head to Center St.
+Entrance. You'll be attacked by
+taboo noise, so beat it and move
+on. You'll see a reaper being
+attacked. Help him if you want
+to. If you don't, you won't need
+to fight the noise. Now move to
+the next screen. More people are
+being attacked by noise. You'll
+end up fighting the noise either
+way, so pick whichever you feel
+like picking. Head to Shibu-Q,
+and you're given yet another
+choice. It's the same as with
+the first reaper, so if you
+choose not to help, you won't be
+forced to. Move into Udagawa,
+and you'll be attacked by
+another noise. Defeat it and the
+day ends.
+
+- Joshua Day 7 - [c2d7]
+
+Go up to 10-4, then take the
+left exit to Dogenzaka. Head all
+the way left, and enter Pork
+City. Talk to the reapers.
+You're only allowed one brand of
+pin on each floor in here, so
+check the chart and equip things
+accordingly. You're also allowed
+brandless pins, so you can heal
+until your heart is content.
+Beat the noise on this floor and
+then move on. You'll face the
+exact same thing on the second
+floor, just with a different
+brand. Once you've finished off
+the noise, equip your good pins
+again, because it's time for a
+boss fight.
+
+Boss: Noise 85, Sho Minamimoto.
+Noise 92, Leo Cantus. HP: 3141
+
+The battle starts with him using
+an "Inverse Matrix" to summon
+taboo noise to fight for him.
+After you defeat enough of them,
+he'll join the battle himself.
+He switches screens when you
+defeat all of the taboo noise,
+and he'll summon more noise as
+well. When he says "Zetta Slow"
+as Leo Cantus, he'll take a
+quick swipe at you. If he says
+"Infinity!", he'll dash through
+you, dealing some damage. He'll
+interrupt your combos with
+Joshua, so you'll want to use
+Neku to beat him, which means
+trying to minimize the time
+spent with Minamimoto only on
+the top screen. Overall, it's
+not a particularly difficult
+fight.
+
+- Beat Day 1 - [c3d1]
+
+As always, start day one off by
+heading to Hachiko. You don't
+have a partner, so run away from
+the battle. You'll make a pact
+with Beat, so defeat the noise
+that show up. Go up and follow
+the path to the end of the
+Station Underpass. Now backtrack
+to the scramble and talk to the
+reaper. Defeat the noise, and go
+to 10-4.
+
+- Beat Day 2 - [c3d2]
+
+Head up to 10-4, and then try to
+go left, where the entrance to
+Dogenzaka would normally be.
+Beat will take down the wall.
+Head to Dogenzaka, and you'll be
+attacked by reapers. From now
+on, reapers will sometimes
+attack you when you move from
+area to area. Anyway, defeat
+them, then head to A-East. Talk
+to 777, and defeat him. Enter
+the concert stage, and move
+forward a bit. Examine the
+ground, and it's time for
+another boss.
+
+Boss: Noise 89, Pteropus Canor.
+HP: 4000
+
+This boss has a couple more
+tricks than last time, but it's
+ultimately just a stronger
+version of the previous bat
+boss. When it is light, just
+make sure to be behind it when
+attacking, so that you don't get
+hit and stunned. Other than
+that, it's the exact same thing
+as last time.
+
+- Beat Day 3 - [c3d3]
+
+Talk to the businessman. Head to
+Center St. Entrance, then to
+AMX, and finally to Tipsy Tose
+Hall. Talk to Makoto and the
+businessman. Pick the option to
+not act as the reaper. After the
+scene, try to leave the area.
+
+Boss: Noise 81, Uzuki Yashiro.
+HP: 5500
+
+She's not really anything
+special. She teleports quickly,
+so she's a bit hard to damage at
+times. She'll fire a few
+projectiles with her gun, but
+they're easy to dodge. When she
+says "Going somewhere?", she'll
+fire a homing attack at you, so
+you'll have to run around for a
+while in order to lose it. When
+she laughs with "Ahaha", she'll
+fire a bunch of petals which
+will spread out and rotate, then
+meet together before firing out
+again in a straight line. She
+also has the ability to heal
+herself. The attacks are all
+pretty easy to dodge, so it's
+not a difficult fight.
+
+- Beat Day 4 - [c3d4]
+
+Talk to Beat, then try to exit
+left. Scan, and defeat the top
+left and the bottom right noise,
+then talk to Beat and press the
+button. Now head right to
+Miyashita Park. Examine the
+ground. Now scan and erase the
+four large noise in this area.
+Press the button. In the
+underpass, defeat the middle
+noise, and in the park, defeat
+the middle two. Press the
+button. Head left through the
+underpass, then talk to Beat.
+Now go to Towa Records. Scan,
+and now you'll face a boss.
+
+Boss: Noise 83, Koki Kariya.
+HP: 6000
+
+Kariya has more HP than Uzuki,
+but this is balanced by him not
+teleporting all over the place
+constantly. Instead he floats
+around at a reasonably fast
+pace. When he says "What a
+pity", he'll summon an orb of
+lightning that will float around
+him, damaging you on contact. He
+also has "See ya", which will
+have him fire five blue shuriken
+at you. "Hyah" is just a bunch
+of straight firing bullets,
+similar to Uzuki's gunshots. His
+attack "Ready to clock out" is a
+slow moving attack that has a
+large blast radius once it hits
+the ground. As with Uzuki, the
+attacks are all easy to dodge,
+so you'll have this fight
+finished in no time.
+
+Boss: Noise 81, Uzuki Yashiro.
+Noise 83, Koki Kariya. HP: 5500,
+6000
+
+They're both the same as their
+previous fights, except now they
+have a dark puck that follows
+them in the same way your light
+puck does. Use the same
+strategies as you did last time,
+except be careful about avoiding
+the enemy with the light puck.
+Not a tough fight.
+
+- Beat Day 5 - [c3d5]
+
+Head to Center St. Entrance,
+AMX, and then Tipsy Tose Hall.
+Talk to the reaper, and defeat
+him when he attacks you. Scan.
+Go to Shibu-Q Heads, and try to
+go left. You'll be attacked by
+reapers. They'll keep spawning
+for a while. Defeat them all,
+then enter Udagawa. Examine the
+ground at the top of the stairs.
+When given the option, choose
+"Four days ago". Talk to Kariya
+and Uzuki.
+
+Boss: Noise 82, Uzuki Yashiro
+(Berserk). Noise 84, Koki Kariya
+(Berserk). HP: 7000, 7000
+
+They're pretty much the same as
+before except more powerful. The
+one key difference is that they
+now have a fusion of their own.
+There isn't any way to block it,
+so just try to kill them before
+they use it, or heal up after
+it. Not too different from the
+previous battle beside the lack
+of audio signals, so you
+shouldn't have any trouble with
+them.
+
+- Beat Day 6 - [c3d6]
+
+Head to Shibu Deptartment Store,
+then Cadoi, Towa Records, the
+Underpass, Miyashita Park, Cat
+Street, and finally enter
+WildKat. Now backtrack to Cadoi,
+and examine the heap when you're
+there.
+
+Boss: Noise 86, Sho Minamimoto
+(Taboo). HP: 5926
+
+This guy likes teleporting. A
+lot. He's very difficult to hit
+using the bottom screen, so
+expect Beat to be doing most of
+the work. Thankfully, like
+Beat's fights, you don't
+actually need to win this fight,
+as after enough time it will end
+automatically.
+
+- Beat Day 7 - [c3d7]
+
+Head left to Hachiko, the Bus
+Terminal, and finally reach the
+Underpass. Head right to enter
+the Shibuya River. It's linear,
+so just keep moving right. Talk
+to Minamimoto.
+
+Boss: Noise 93, Tigris Cantus.
+HP: 4444
+
+Her first stage is top screen
+only. Have Beat wail on her, and
+Neku will have to fight generic
+enemies down below. They'll be
+pulled toward the bottom left of
+the screen, and if they make it
+all the way, they'll be
+destroyed and will heal her. Her
+second stage is on both screens.
+You need to hit her on the top
+screen in order to make her
+vulnerable on the bottom. For
+her third stage, have Beat
+attack, while having Neku stay
+in her shadow as much as
+possible. For her final form,
+you'll see some yellow stuff
+sparking on the bottom screen.
+Touch it with the stylus to
+summon the noise you just got to
+attack her, and she'll take a
+hit. Repeat this until she goes
+down. Her attack variety pretty
+much doesn't exist, so you
+shouldn't ever be in danger of
+dying.
+
+Once you beat her, keep on
+moving right. Examine the heap.
+Head into the next area. Talk to
+Megs.
+
+Boss: Noise 87, Megumi Kitaniji.
+HP: 10000
+
+On the top screen, Shiki attacks
+as she normally would, so just
+block her attacks when she sends
+Mr. Mew at you. Kitaniji's
+attacks have more variety,
+though they're still generally
+easy to dodge with the exception
+of one of them. His first attack
+is "Stop it", where he'll attack
+left or right with a long arm.
+Another is "Time be still",
+where he freezes time, sets up
+attacks, and moves next to you
+for a "Stop it" One of them has
+a red line which indicates the
+path a laser he is about to fire
+will follow. His last couple of
+attacks are balls that he can
+create which will fire orbs in
+every direction slowly, and
+another where they will come at
+you quickly. He doesn't have any
+invulnerability gimmicks though,
+so the fight won't last too long
+if you just keep hitting him.
+
+Once you've won, scan and touch
+the door. Now just follow the
+path the rest of the way.
+
+Boss: Noise 94, Anguis Cantus.
+HP: 10000
+
+This boss is pretty much a joke.
+Just stay away from the head and
+you won't die. The body of the
+dragon takes damage as well, so
+you can completely ignore the
+head and still win. A terribly
+easy fight.
+
+Boss: Noise 94, Anguis Cantus.
+HP: 10000
+
+The same thing as before, just
+with Beat instead of Shiki.
+
+Boss: Noise 95, Draco Cantus.
+HP: 25000
+
+Unlike the previous fight, this
+one can actually kill you if you
+don't know what you're doing.
+First, stay away from the
+middle. The middle head can bite
+you, and it will do a lot of
+damage, and you'll have a hell
+of a time dodging the rest of
+the attacks as well. Go for one
+of the side heads, since you can
+easily dodge everything from
+them. Its attacks are "Ahhh!",
+which has one of the heads fire
+out a lot of bullets, "Let the
+light save you", where a sword
+is shot into the ground and
+explodes with a large blast
+radius, and some buzzing noise,
+which indicates it will fire a
+decently large beam across the
+area. It can also fire a bubble
+which will trap you and drag you
+to the center. If you get caught
+by it, try to destroy it, or the
+middle head will bite you. Just
+spam as many attacks as you can
+on the boss, and after the first
+fusion scene shows up, start
+paying attention to your
+partners on the top screen. If
+one of them indicates a
+direction, press that direction
+with the d-pad or letter buttons
+to have them power up your light
+puck, increasing your damage for
+the fight. After you have taken
+away all of its HP, touch the
+pin to end the fight.
+
+--- Acknowledgements/Policy --- 
+
+- Thanks to -
+
+Ed Bellis: For inspiring me to
+write this FAQ.
+
+CJayC/SBAllen: For the fact that
+this site exists in the first
+place.
+
+Square Enix/Jupiter Corporation:
+For creating this excellent
+game.
+
+You, the reader: For choosing
+this FAQ.
+
+- Boring Policy Stuff -
+
+All trademarks and copyrights
+contained in this document are
+owned by their respective
+trademark and copyright holders.
+
+This may be not be reproduced
+under any circumstances except
+for personal, private use. It
+may not be placed on any web
+site or otherwise distributed
+publicly without advance written
+permission. Use of this guide on
+any other web site or as a part
+of any public display is
+strictly prohibited, and a
+violation of copyright.
+
+Copyright 2008 Eric Rene de
+Cotret.

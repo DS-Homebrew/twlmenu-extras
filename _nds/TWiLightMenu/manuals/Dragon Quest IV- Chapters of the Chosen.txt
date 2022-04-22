@@ -1,0 +1,5776 @@
+ _____
+|  __ \
+| |  | |  _ __   __ _   __ _    
+| |  | | | '__| / _` | / _` |  /
+| |__| | | |   | (_| || (_| | | 
+|_____/  |_|    \__,_| \__, |  \
+  ____          __/ |          _
+  / __ \        |___/          |
+  | |  | |  _   _    ___   ___  
+  | |  | | | | | |  / _ \ / __| 
+  | |__| | | |_| | |  __/ \__ \ 
+  \___\_\  \__,_|  \___| |___/  
+
+
+    - C H A P T E R S   O F   T 
+
+--------------------------------
+
+     Dragon Quest IV: Chapters o
+A Walkthrough Authored by snkupo
+
+          Version 0.52
+    Last Update: 2009/01/24
+
+        snkupo@gmail.com
+
+--------------------------------
+
+================================
+     - TABLE OF CONTENTS -
+================================
+o-------------------------------
+| NAVIGATION: Each section has a
+[code] tied to it in the table
+of contents. | | Press CTRL + F
+to bring up a search box, then
+type the code of your choice. |
+| Now hit ENTER on your keyboard
+to jump down to the section
+itself. |
+o-------------------------------
+
+BEFORE PLAYING DRAGON QUEST IV
+
+ - Introduction.................
+ - Controls.....................
+ - Main Characters..............
+ - Game Basics & Hints..........
+ - Battle System................
+ - Stats & Ailments Explained...
+ - Frequently Asked Questions...
+
+MAIN WALKTHROUGH
+
+ - PROLOGUE.....................
+ - Training Dungeon.............
+ - Village......................
+ - RAGNAR MCRYAN AND THE CASE OF
+ - King's Castle................
+ - Burland Town.................
+ - Burland Cavern...............
+ - Strathbaile Town.............
+ - Back to Burland..............
+ - Forest Well..................
+ - Ragnar Returns to Strathbaile
+ - Island Tower.................
+ - ALENA AND THE JOURNEY TO THE 
+ - Tomboy in The Throne Room....
+ - Zalenagrad & Taborov.........
+ - An Impostor in Vrenor........
+ - Vault of Vrenor..............
+ - To the Desert Bazaar.........
+ - Nectar Search in the Tower...
+ - A Quick Trip to Endor........
+ - TORNEKO AND THE EXTRAVAGANT E
+ - A Fat Lakanabanian Salesman..
+ - Getting the Steel Strongbox..
+ - Ballymoral Castle............
+ - Sit Fido! My Lovely Dog!.....
+ - Torneko's Very Own Shop......
+ - The King's Order.............
+ - MEENA AND MAYA AND THE MAHABA
+ - No More Performances.........
+ - Exploring the Western Cave...
+ - Palais de Léon & Havre Léon..
+ - Getting the Powder Keg.......
+ - THE CHOSEN...................
+ - My Home Village! Zerged!!....
+ - Two Sisters on Your Team.....
+ - Through the Desert...........
+ - Struggle in the Lighthouse...
+ - Mintos.......................
+ - Icy Cave.....................
+ - Searching for the Magic Key..
+ - Optional: Red & Blue Doors...
+ - Teaming Up With Ragnar.......
+ - Femiscyra's Zenithian Shield.
+ - Optional: More Treasures.....
+ - Getting the Zenithian Armor..
+ - Optional: Liquid Metal Sword 
+ - Canalot's Zenithian Helm.....
+ - Royal Crypt..................
+ - Far South Colossus...........
+ - Diabolic Hall, Where the Badd
+ - Back to Mamon Mine! Estark Mu
+ - Air Balloon and World Tree...
+ - Island Adventure.............
+ - Zenithia Castle..............
+ - Heaven's Haven and the Four B
+ - Death Castle.................
+ - POST-ADVENTURE CONTENT.......
+ - Foo Yung & Chow Mein's Dungeo
+
+MISCELLANEOUS INFORMATION
+
+ - Mini Medal Rewards...........
+ - Casino.......................
+
+LISTS & DESCRIPTIONS
+
+ - Normal Items.................
+ - Storyline Items..............
+ - Spells/Skills................
+ - Weapons......................
+ - Armor........................
+ - Shields......................
+ - Headwear.....................
+ - Accessories..................
+
+FINAL SECTIONS
+
+ - Credits & Salutations........
+ - Contact Me...................
+ - Legal Nonsense...............
+ - Version History..............
+
+================================
+
+        INTRODUCTION            
+
+================================
+
+ ~ THIS GUIDE IS NOT FINISHED YE
+
+ Hi! This is a walkthrough for D
+ might know already, the game is
+ which first appeared on the 8-b
+ Dragon Quest never gets old. Ev
+ course that it's handheld, but 
+ example, it features more detai
+ extended compared to the NES ve
+ people that have been following
+ pleased. Unless they don't like
+
+ Dragon Quest IV is quite a long
+ information I need to include i
+ bound to make errors here and t
+ take some minutes and tell me a
+ you've got information that you
+ hesitate getting in touch eithe
+ walkthrough with lots of useful
+ some help. That would make ever
+
+ Anyway, enough sweet stuff! Whe
+ on getting people through the m
+ items that can be found hidden 
+ checklists that appear everywhe
+ so that you can tick off items 
+ you can probably guess, I mostl
+ than going in-depth with mathem
+ kind of stuff. Some people like
+ I totally fail at everything th
+
+ I usually make these introducti
+ keep rambling much more now. Ju
+ "Before Playing Dragon Quest IV
+ just want a quick refresher on 
+ before starting to play RPGs. I
+ I hope you'll have a good time 
+ about it if you find my work us
+
+================================
+
+        CONTROLS                
+
+================================
+
+    ,---------------------------
+    ;          _________________
+    |         |                 
+    |         |                 
+    |         |                 
+    | . . .   |                 
+    | . . .   |                 
+    |         |                 
+    |         |                 
+    |         |_________________
+    +                           
+  L -->   `-.       ____________
+    .-'       |                 
+    |    _    |                 
+    |  _| |_  |                 
+ Directional --> | |_   _| |    
+ Pad         |   |_|   |        
+    |         |                 
+    |         |                 
+    |         |_________________
+    |                           
+    `---------------------------
+
+ o------------------------------
+ | CONTROLLER INPUT             
+ |------------------------------
+ | Directional pad              
+ +------------------------------
+ | L/R buttons                  
+ +------------------------------
+ | A button                     
+ +------------------------------
+ | B button                     
+ +------------------------------
+ | Y button                     
+ +------------------------------
+ | X button                     
+ +------------------------------
+ | Start button                 
+ +------------------------------
+ | Select button                
+ o------------------------------
+
+================================
+
+        MAIN CHARACTERS         
+
+================================
+
+ While playing Dragon Quest IV, 
+ characters. The game consists o
+ own main characters that you wi
+ longer than any other chapter, 
+ your party again. Except for th
+ in, the biggest differences bet
+ weapons/armor they can equip, a
+ In this section you'll find a b
+ characters. As for detailed inf
+ they learn them, take a look at
+
+ o------------------------------
+ |                              
+ | - RAGNAR McRYAN [Chapter I]  
+ |                              
+ |   The main character of Chapt
+ |   Burland. At the beginning o
+ |   a bunch of missing children
+ |   Ragnar is very strong, and 
+ |   it comes to using normal at
+ |   isn't able to use any magic
+ |                              
+ |   His powerful normal attacks
+ |   character to have in your p
+ |   nut to crack -- a real surv
+ |                              
+ o------------------------------
+
+ o------------------------------
+ |                              
+ | - ALENA [Chapter II]         
+ |                              
+ |   The Tsarevna (or Princess, 
+ |   castle east of Zalenagrad. 
+ |   by old Soviet. Alena is a v
+ |   stuff all the time. This ma
+ |   end he decides to keep her 
+ |   hates this, and ends up esc
+ |   wall in her own bedroom! Cr
+ |                              
+ |   She's incredibly quick (she
+ |   and does a decent amount of
+ |   agility makes her ideal for
+ |   always try to escape after 
+ |                              
+ o------------------------------
+
+ o------------------------------
+ |                              
+ | - BORYA [Chapter II]         
+ |                              
+ |   A magic user that works for
+ |   Alena ever since she was a 
+ |   was the most important thin
+ |   potential to learn many pow
+ |   other party members during 
+ |   location he's visited earli
+ |   decide not to put him in yo
+ |                              
+ o------------------------------
+
+ o------------------------------
+ |                              
+ | - KIRYL [Chapter II]         
+ |                              
+ |   Another servant for Alena. 
+ |   spells, but poor normal att
+ |   for giving temporary stat b
+ |   He's not really the best ch
+ |   healing spells will come in
+ |   his appeal is his wide rang
+ |   prevent enemies from using 
+ |                              
+ o------------------------------
+
+ o------------------------------
+ |                              
+ | - TORNEKO [Chapter III]      
+ |                              
+ |   Torneko is a big man that w
+ |   Village. The business belon
+ |   earn a lot. Because of this
+ |   weapons shop, and becoming 
+ |   a man that listens to his h
+ |   his dream come true.       
+ |                              
+ |   Torneko will learn several 
+ |   item chests and avoid enemy
+ |   while fighting, such as con
+ |   from time to time. Torneko 
+ |   though, and by the time Rag
+ |   your most reliable party me
+ |                              
+ o------------------------------
+
+ o------------------------------
+ |                              
+ | - MEENA [Chapter IV]         
+ |                              
+ |   Meena is a dancer who's fat
+ |   on a quest for revenge. Mee
+ |   best healers/support charac
+ |   healer is certainly not a d
+ |   eye on her MP -- she's pret
+ |                              
+ o------------------------------
+
+ o------------------------------
+ |                              
+ | - MAYA [Chapter IV]          
+ |                              
+ |   Meena's sister. She's also 
+ |   of the offensive kind. If y
+ |   lots of damage using spells
+ |   that Maya's offensive spell
+ |   pull off time after time. O
+ |   learns, "Safe Passage" lets
+ |   without taking damage. Make
+ |   dangerous ground.          
+ |                              
+ o------------------------------
+
+ o------------------------------
+ |                              
+ | - HERO / HEROINE [Prologue / 
+ |                              
+ |   This is the main character 
+ |   very beginning of the game,
+ |   through a short introductio
+ |   him/her until Chapter V. Th
+ |   gets to learn healing spell
+ |   is above decent when it com
+ |                              
+ |   While all the controllable 
+ |   out on adventure, the hero/
+ |   is destined to do it! Yup! 
+ |                              
+ o------------------------------
+
+================================
+
+       GAME BASICS & HINTS      
+
+================================
+
+ - CHURCHES & CHAPELS: Role-play
+   last some more. So naturally 
+   sitting. When you want to tak
+   visited, and talk to the prie
+   and select the "Confession" o
+   make sure to remember it! Oh,
+   can resurrect fallen party me
+   a small gold coin fee. While 
+   you how many experience point
+
+ - TAVERNS/INNS: In most towns, 
+   this kind of place, all of yo
+   health and magic points. Ther
+   time it's absolutely worth it
+   sleeping at the local inn fir
+   NOT remove any status ailment
+
+ - TOWN SHOPS: In most towns the
+   that sells healing items, a w
+   armor shop that sells protect
+   coins to buy stuff, but you d
+   order to see how many coins t
+   Y button when walking around 
+   You're now able to browse bet
+   the town you're in. You'll fi
+   to buy new equipment for your
+   without carrying healing item
+
+ - DIRECTIONS: To use this walkt
+   using a map -- you need to kn
+   means, since I'll tell you wh
+   possible to rotate the camera
+   sure to reset it (Hold L/R at
+   directions. If not, you might
+   none of us want that at all. 
+
+      .-------------------------
+      |    (northwest)          
+      |                      NOR
+   ...North is up...      |     
+   ...South is down...    |     
+   ...West is left...     |     
+   ...East is right...    |     
+      |    (southwest)          
+      '-------------------------
+
+ - DAY & NIGHT: When you walk ar
+   game follows a day/night cycl
+   nothing to do with your Ninte
+   encounter will usually be dif
+   during daytime. Another more 
+   that some events can only be 
+   triggered at night. Most even
+   during daytime, so if you can
+   something in that vein, make 
+   to be night for you to do cer
+   this in the main walkthrough.
+   is to simply walk around on t
+   item called the "Night Light"
+   and day much more quickly.
+
+ - SHINING SPOTS ON THE GROUND: 
+   the ground. If you step on a 
+   find an item! In the previous
+   flashing like this at all, so
+   these shining spots are liste
+   hidden items in the game.
+
+ - MINI MEDALS: At various place
+   You should try to get as many
+   exchanged for some really gre
+   barrels, opening drawers or e
+   get Torneko's ship during Cha
+   castle in the northeastern en
+
+================================
+
+        BATTLE SYSTEM           
+
+================================
+
+ - BATTLE BASICS: The battle sys
+   enemy encounters are random; 
+   walking around in a dungeon o
+   to avoid them. In most turn-b
+   take their turn first, and th
+   other words, the battle parti
+   to move first, while the one 
+
+ - BATTLE LINEUP: Your battle li
+   characters. Once your party h
+   decide who you want to fight 
+   important to choose a battle 
+   can change your battle lineup
+   access the "Misc" menu and ch
+
+ - EXPERIENCE POINTS: When you w
+   Once a character has enough o
+   getting stronger, more agile,
+   strong characters, don't run 
+   party members will gain exper
+   characters in your battle lin
+
+ - ATTACKS/SPELLS: There are two
+   normal attacks and spells. Ch
+   great at using normal attacks
+   weapons such as swords and st
+   supportive spells cost MP to 
+   use spells before refilling t
+   item. Note that your magic us
+   certain Levels. Also, some en
+   spells, or towards normal att
+   characters that are best at n
+   be able to cast healing spell
+   attacks with one single party
+
+ - ENEMY GROUPS: When you meet e
+   fighting groups of enemies. I
+   coming at you, they'll be in 
+   entry each. This means that y
+   enemy -- you'll have to targe
+   hope that your attack hits th
+   however, will hit all the ene
+
+ - SILVER TAROT CARDS: I didn't 
+   would fit, and since it IS re
+   Chapter IV, you'll find a wea
+   can only be equipped and used
+   that may come in handy during
+   worked in the NES original, m
+   version of the game, so try t
+
+ o---------------------.--------
+ | TAROT CARD SKILL    | EXPLANA
+ |---------------------|--------
+ | Devil               | Unlease
+ |                     | lower t
+ |                     |        
+ +---------------------+--------
+ | Death               | Whack o
+ |                     | baddies
+ |                     |        
+ +---------------------+--------
+ | Justice             | Poof on
+ |                     | into th
+ |                     |        
+ +---------------------+--------
+ | Sun                 | Moderat
+ |                     |        
+ +---------------------+--------
+ | Moon                | Makes y
+ |                     |        
+ +---------------------+--------
+ | Strength            | Raises 
+ |                     | the "oo
+ |                     |        
+ |                     |        
+ +---------------------+--------
+ | Star                | Gives y
+ |                     | end of 
+ |                     |        
+ +---------------------+--------
+ | Tower               | Lightni
+ |                     |        
+ +---------------------+--------
+ | Fool                | Casts t
+ |                     | This is
+ |                     |        
+ o---------------------'--------
+
+================================
+
+      STATS & AILMENTS EXPLAINED
+
+================================
+
+ - STATS: Under the "Attributes"
+   a lot of strange numbers and 
+   what they all mean. If you co
+   you'll see that they've all g
+   are great at using physical a
+   that your stats will raise/fa
+   and what equipment they're we
+
+ o---------------------.--------
+ | STAT NAME           | EXPLANA
+ |---------------------|--------
+ | HP / Health Points  | The mos
+ |                     | damage,
+ |                     | zero, y
+ |                     | sleepin
+ |                     | spells.
+ |                     | be sent
+ |                     | and los
+ |                     | when be
+ |                     | Strongb
+ |                     |        
+ +---------------------+--------
+ | MP / Mana Points    | Very si
+ |                     | kill yo
+ |                     | refille
+ |                     | keep an
+ |                     | times. 
+ |                     |        
+ +---------------------+--------
+ | Wisdom              | Determi
+ |                     | magic s
+ |                     |        
+ +---------------------+--------
+ | Resilience          | Related
+ |                     | coupled
+ |                     | damage 
+ |                     |        
+ +---------------------+--------
+ | STR / Strength      | Strengt
+ |                     | much da
+ |                     | using n
+ |                     |        
+ +---------------------+--------
+ | ATK / Attack Power  | This st
+ |                     | weapon.
+ |                     | much da
+ |                     | affects
+ |                     | enemy y
+ |                     |        
+ +---------------------+--------
+ | AGL / Agility       | The cha
+ |                     | moves f
+ |                     |        
+ +---------------------+--------
+ | DEF / Defense       | Having 
+ |                     | from no
+ |                     | charact
+ |                     |        
+ +---------------------+--------
+ | LCK / Luck          | The wei
+ |                     | of diff
+ |                     | might b
+ |                     |        
+ o---------------------'--------
+
+ - AILMENTS: Ailments are kind o
+   instead of indicating how str
+   the ailments are all negative
+   during battle. Ailments will 
+   will only disappear when your
+   one of them, remove it as fas
+
+ o---------------------.--------
+ | AILMENT             | EXPLANA
+ |---------------------|--------
+ | Curse               | Some we
+ |                     | other e
+ |                     | in Drag
+ |                     | cursed.
+ |                     | equippe
+ |                     | come of
+ |                     | additio
+ |                     | can dam
+ |                     | ways.  
+ |                     |        
+ +---------------------+--------
+ | Poison              | Some en
+ |                     | your ch
+ |                     | poisone
+ |                     | surely 
+ |                     | walking
+ |                     |        
+ +---------------------+--------
+ | Confusion           | Confuse
+ |                     | likely 
+ |                     | during 
+ |                     | attack 
+ |                     |        
+ +---------------------+--------
+ | Sleep               | A chara
+ |                     | sleepin
+ |                     | to do a
+ |                     | before 
+ |                     |        
+ +---------------------+--------
+ | Paralyzation        | Charact
+ |                     | one, mi
+ |                     | when th
+ |                     | a battl
+ |                     |        
+ +---------------------+--------
+ | Fizzle              | Prevent
+ |                     | spells.
+ |                     |        
+ |                     |        
+ +---------------------+--------
+ | Fear                | Prevent
+ |                     | anythin
+ |                     |        
+ +---------------------+--------
+
+================================
+
+      FREQUENTLY ASKED QUESTIONS
+
+================================
+
+ Q: Where do I find [insert item
+ A: Search through the guide for
+
+ Q: What happens when I die?
+ A: You restart at the last plac
+    when being defeated.
+
+ Q: What is the "Steel Strongbox
+ A: If you have this item, you w
+    during Chapter III, though.
+
+ Q: In Chapter 2, what is the Th
+ A: You need it to open blue doo
+    castle, and in the tower sou
+    to get through the game with
+
+ Q: In Chapter 3, how much does 
+ A: About 1/10 of the total inco
+
+ Q: How many chapters are there 
+ A: Six chapters and one prologu
+    what you're REALLY wondering
+
+ Q: I've got a contribution that
+ A: Great! Send me a mail or add
+
+ Q: I'm supposed to give/show so
+    happens, even though I am ca
+ A: Not to worry, this is a comm
+    the person you want to show/
+    them, then open your invento
+    it. This game is kinda old-s
+
+ Q: Lots of slimes often attack 
+ A: Don't attack the slimes. Ins
+    a King Slime. Now kill the K
+
+ Q: Is it possible to win the bo
+ A: Not possible!
+
+ Q: Your English is terrible!
+ A: Give me a break. I'm not a n
+
+ Q: Is there any point in NOT ea
+ A: Yup. If you spare the seeds,
+    Chapter V. He/she is the mos
+
+ Q: I found an item/location/cha
+    used in the game! Why?
+ A: I started writing this guide
+    Quest IV. I think I've manag
+    in the English language rele
+    about it if you find any nam
+
+ Q: Are there any vehicles I can
+ A: Not exactly vehicles, but du
+    enables you to travel throug
+    a ship that can sail at sea!
+
+ Q: What is the point with the b
+    there anything else I can us
+ A: All the items you put in you
+    will be carried over to Chap
+    It's very smart to put Seeds
+    can use them later in the ga
+
+ Q: Who's the coolest in Dragon 
+ A: It is Mary Lou! Cooler than 
+
+ Q: What kind of doors do the ke
+ A: The Thief's Key opens blue d
+    Key opens metal gates.
+
+ Q: Where can I hand in my Mini 
+ A: Once you have Torneko's ship
+    end of the world map. There 
+
+ Q: I can't seem to change my ba
+ A: You can only change the line
+
+ Q: What's up with Metal King Sl
+ A: When killing these fellows, 
+    rare encounters, though!
+
+ Q: These metal-type enemies alw
+ A: Find the "Sands of Time" ite
+    As for dealing serious damag
+    Sword. As always, search thr
+    find it.
+
+================================
+
+        PROLOGUE                
+
+================================
+
+--- TRAINING DUNGEON -----------
+
+ o-----------------------------o
+ | ITEM CHECKLIST              |
+ |                             |
+ |  Seed of Strength......[  ] |
+ |  Medicinal Herb........[  ] |
+ |  3 Coins...............[  ] |
+ |                             |
+ o-----------------------------o
+       just your trainer.
+
+ I'm sure he's a nice guy too, b
+ he actually just leaves you sit
+ situation makes you want to gro
+ concentrate on right now, reall
+
+ See, there are some bottles on 
+ button to break them! Inside on
+ After picking it up, hit the X 
+ It tastes better than a Happy M
+ There is also a [MEDICINAL HERB
+ use that when you need to heal 
+ Head a tiny bit north now, brea
+
+--- VILLAGE --------------------
+
+ Wow, it's sunny out here, and t
+ lovely. Break the  crate on you
+ an [ANTIDOTAL HERB]  that will 
+ ailments when used, and start r
+ over  that  tiny  bridge.  Sudd
+ appears!  It  looks  like  a  m
+ believe me when I  tell you tha
+ is not. The frog goes back into
+
+ See that house on your left? Go
+ [MEDICINAL HERB], then backtrac
+ strange frog is up to.
+
+ Madness! The frog has turned in
+ out that you need to look for s
+ isn't it? Head back upstairs, a
+ Medicinal Herb. Talk to the guy
+ is actually your papa. Take par
+ and wait for the screen to fade
+ so. At least if you're planning
+
+================================
+
+   RAGNAR MCRYAN AND THE CASE OF
+
+================================
+
+--- KING'S CASTLE --------------
+
+ o-----------------------------o
+ | ITEM CHECKLIST              |
+ |                             |
+ |  Medicinal Herb........[  ] |
+ |                             |
+ o-----------------------------o
+         control of Ragnar, go t
+ drawer in the southeastern part
+ there. That's the only item her
+ King's Castle. You're on your o
+
+--- BURLAND TOWN ---------------
+
+ o------------------------------
+ |                              
+ |                         I T E
+ |                              
+ |  3 Coins.....................
+ |  Medicinal Herb..............
+ |  Seed of Strength............
+ |                              
+ o------------------------------
+
+ Burland is a middle-sized town,
+ Nothing too grand. Just right o
+ some barrels outside. Break the
+ southern end, and break the bar
+ of the inn, there is this compl
+ chest behind the northern wall.
+
+ Congratulations, inside the che
+ boost Ragnar's attack strength,
+ to get stronger instead, in the
+ all seeds in your bag from now 
+
+ Head outside again, and speak t
+ she says the man in her life ha
+ Now that you're aware of her mi
+ northeastern end of town, and h
+ of the building. Upstairs you'l
+ Now leave town in either the ea
+ course, you must not forget equ
+
+ Now you're on the world map, wh
+ Just walk around, fighting enem
+ Head back to town, and buy the 
+ more. If needed, heal at the in
+ the world map again. Head north
+
+--- BURLAND CAVERN -------------
+
+ The music  goes totally  myster
+ here, and that's  interesting. 
+ filled  with  all  kinds  of  w
+ primarily  slimes  that  you  s
+ every single time they attack. 
+ Anyway,   move   east  to   fin
+ containing  [MEDICINAL HERB],  
+ move on north. Ignore the soldi
+ continue  north. Don't go  up t
+ treasure-containing chest. You 
+
+ This one contains a whoopin' am
+ little richer, it's time to hea
+ The stairs strangely leads stra
+ why this cave doesn't have a pr
+ directly east to find another t
+
+--- STRATHBAILE TOWN -----------
+
+ o------------------------------
+ |                              
+ |                         I T E
+ |                              
+ |  3 Coins.....................
+ |  25 Coins....................
+ |  Medicinal Herb..............
+ |  Plain Clothes...............
+ |                              
+ o------------------------------
+
+ New town, happy town! Make hast
+ take out the barrel there for [
+ very northern end of town. On t
+ You love that, don't you? You d
+ some stairs leading into the gr
+ for a [MEDICINAL HERB]. As for 
+ talk to him to find out that he
+ running around in the middle  o
+ man, and that his name is Agus.
+
+ Also, have a chat with the woma
+ She says that Agus was put in p
+ mentions that he can't remember
+ items outside and found out abo
+ eastern end of the inn, there i
+ herself wet. Examine the drawer
+ [PLAIN CLOTHES]. They're not us
+ remember to do that at the next
+
+ Go to the school northwest of t
+ that they think all the missing
+ book sitting on the shelf next 
+ headmaster, and he says that so
+ of their own free will. Hmm... 
+ southwest of the teachers (stil
+ [MEDICINAL HERB] waiting for yo
+ Strathbaile right now, but befo
+ the church, and [5 COINS] just 
+ to head back to the very first 
+ her man is.
+
+--- BACK TO BURLAND ------------
+
+ Agus's wife, Aigenas, lives in 
+ she's running around outside of
+ inside. Tell her about her trap
+ you're now a small but joyful g
+ Head back to Strathbaile now, a
+ locked up. Watch the cut-scene.
+ fun too. Agus tells you that th
+ of town, so that is where we're
+
+ Save your game at the church in
+ you bought the two armor items 
+ Burland at the beginning of the
+ enough to get you ready for the
+ southeast of Strathbaile, and j
+ dungeon down there. Almost magi
+
+--- FOREST WELL ----------------
+
+ o------------------------------
+ |                              
+ |                         I T E
+ |                              
+ |  Seed of Agility.............
+ |  Medicinal Herb..............
+ |  15 Coins....................
+ |  Seed of Life................
+ |                              
+ o------------------------------
+
+ Feel comfortable down here? I d
+ jump into the hole in the groun
+ up to a treasure chamber contai
+ [MEDICINAL HERB], [15 COINS] an
+ bag if you want your hero to ga
+ them if you want him to get str
+ upwards. You'll be at the well 
+
+ Instead of going to the western
+ time. Ignore the stairs, and ke
+ on. You'll soon find a second s
+ east into a new room. In here y
+ After getting it, backtrack to 
+
+ Run straight east. Ignore the v
+ wrong place. In the next room y
+ it, and let it join your party!
+ a full-worthy party member that
+ healing spell costs 2MP, but th
+ out by pressing X and entering 
+ and head straight north. When y
+ back in the room where Healie j
+ where you'll find a chest conta
+
+ Go back to the previous room, a
+ another chest there, containing
+ enter the next dungeon. Anyway,
+ the Forest Well now, so head ba
+
+--- RAGNAR RETURNS TO STRATHBAIL
+
+ o-----------------------------o
+ | ITEM CHECKLIST              |
+ |                             |
+ |  Iron Lance............[  ] |
+ |                             |
+ o-----------------------------o
+
+ When you've got the armor, save
+ I hope you haven't forgotten ab
+ we're going to put them to use.
+ Strathbaile, access the items m
+ "use" in order to fly straight 
+ upwards!  Exciting for sure. Yo
+ And you guessed it! This is whe
+
+--- ISLAND TOWER ---------------
+
+ o------------------------------
+ |                              
+ |                         I T E
+ |                              
+ |  Chimaera Wing...............
+ |  Seed of Strength............
+ |  640 Coins...................
+ |  Scale Shield................
+ |                              
+ o------------------------------
+
+ As you enter, a soldier drags a
+ Mean soldier! Very mean. Anyway
+ whenever Ragnar gets low on hea
+ than earlier. Now, chase down t
+ Move to the northwestern to fin
+ to the southeastern end of the 
+ the stairs there. At the bottom
+ upwards to a small room contain
+
+ Head back downstairs from the S
+ stairs, rotate the camera (L/R 
+ below the stairs. Head in there
+ to the previous room, and enter
+ is a chest containing a [SCALE 
+ downwards. Head down there, bra
+
+ There is a chest just northwest
+ mentioned above. Inside is a gr
+ equip it, as it's unquestionabl
+ here there is another chest wit
+ to where you entered the room. 
+ Head down there to find a heali
+ inn! Nice! Go back upstairs.
+
+ Make your way to the very south
+ lying wounded on the ground. He
+ who has an evil plan to eat all
+ Go down the stairs next to the 
+ northern part of the next room 
+
+ .------------------------------
+ | BOSS SHOWDOWN: Psaro's Pawn &
+ |------------------------------
+ | PARTY: Ragnar, Healie        
+ | MY LEVEL: 8                  
+ | DIFFICULTY: Easy             
+ |                              
+ |  - As long as you have the Ca
+ |    party, this will be a piec
+ |    Ragnar and himself when yo
+ |    Medicinal Herbs to keep Ra
+ |    just attack Winky first, a
+ |                              
+ |    Psaro's Pawn's attacks wil
+ |    damage to you, and that's 
+ |    glad you let Healie join y
+ |                              
+ '------------------------------
+
+ Nicely carried out, you are vic
+ trapped in the tower will now j
+ anything in this room, so head 
+ to Strathbaile to deliver the k
+ real hero? Ok then. Once the ch
+ again, this chapter is pretty m
+ bag now. Not his equipment, but
+
+ This is important, since the he
+ will get to use those items in 
+ also buy equipment at the armor
+ put those in the bag, so that t
+ your choice -- whatever suits y
+ shopping and putting stuff in y
+ speak with... The King! Well do
+ coffee or a glass of soda, and 
+
+ Let's continue to the next chap
+
+================================
+
+     ALENA AND THE JOURNEY TO TH
+
+================================
+
+--- TOMBOY IN THE THRONE ROOM --
+
+ o-----------------------------o
+ | ITEM CHECKLIST              |
+ |                             |
+ |  Medicinal Herb........[  ] |
+ |  Holy Water............[  ] |
+ |  Feathered Cap.........[  ] |
+ |  Medicinal Herb........[  ] |
+ |  50 Coins..............[  ] |
+ |                             |
+ o-----------------------------o
+
+ Chat with the people up here. T
+ it will still be damaged, the  
+ like you anyway. So, head back 
+ there. Head over to the kitchen
+ [MEDICINAL HERB] in a bottle. F
+ in the room in the northeastern
+ bad at all! Not even for a Tsar
+
+ Make sure to talk to everyone, 
+ the carpenter is gone. Open the
+ [FEATHERED CAP] and a [MEDICINA
+ wall that the carpenter "fixed"
+ balcony, search the end of the 
+ the ground, and just wait for B
+ grounds for the world map. Ther
+ so go there now. How does it fe
+
+--- ZALENAGRAD & TABOROV -------
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Seed of Agility.............
+ |  Leather Armor...............
+ |  Mini Medal #1...............
+ |  Seed of Life................
+ |  Seed of Agility.............
+ |                              
+ o------------------------------
+
+ Does this remind you of Soviet?
+ in the northern part of town to
+ more to do in town right now (e
+ head out to the world map again
+ stronger and earn some coins, a
+ your party members. Fight until
+ save your progress at the churc
+ the armor shop too, and buy [LE
+
+ With your game saved, start mov
+ on your map. Getting there is n
+ brown mountains that look like 
+ village when you reach it!
+
+ First of all, jump down into th
+ [MINI MEDAL #1]. Afterwards, ex
+ Now enter the house north of th
+ couple in here to find out that
+ about sacrificing women. Scary.
+ end of town. This is where the 
+ [ANTIDOTAL HERB], then speak wi
+ daughter Anastasia to a monster
+
+ Tell him that you'll help him d
+ his house, open the cupboard in
+ a sexy, fashionable [LEATHER HA
+ Head over to the church now, an
+ actually saved your progress af
+ ready to take Anastasia's place
+ now bring a box into the church
+
+ .------------------------------
+ | BOSS SHOWDOWN: Master Kung & 
+ |------------------------------
+ | PARTY: Alena, Kiryl, Borya   
+ | MY LEVEL: 5                  
+ | DIFFICULTY: Medium           
+ |                              
+ |  - You should kill the two Fo
+ |    just remember to attack us
+ |    damage to those poor doggi
+ |    should use him to heal him
+ |    while Alena uses normal at
+ |                              
+ |    When the two dogs have die
+ |    guy I've ever been out wit
+ |    beat by casting Borya's "S
+ |    by a great deal, then just
+ |                              
+ '------------------------------
+
+ There's no doubt about who's th
+ party backtracks to Taborov by 
+ them yourself. Talk to the Vill
+ outside his house. He thanks yo
+ opened, and that is has somethi
+ two servants. Sounds.. interest
+
+ And believe me, it IS interesti
+ which is a very powerful weapon
+ After buying it, sell Borya's o
+ church, then leave by exiting t
+ Once you reach the world map ag
+
+--- AN IMPOSTOR IN VRENOR ------
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Antidotal Herb..............
+ |  10 Coins....................
+ |  Plain Clothes...............
+ |                              
+ o------------------------------
+
+ Something weird is going on her
+ outside the inn. Talk to them t
+ Tsar's daughter. Since YOU are 
+ impostor or something of that f
+ house northeast of the inn for 
+ move to the western part of tow
+
+ Speak to the guy inside, then c
+ the barrels he is guarding. One
+ contains [10 COINS]. Finally it
+ to check out  the inn. Head  in
+ move  your  small  feet  upstai
+ "Tsar's Daughter" is sitting ar
+ here, but when you're about to 
+ who she is, she gets KIDNAPPED!
+          | - Turn OFF your Nint
+ Dramatic stuff  indeed!  Alrigh
+ your head  cool, and  steal som
+ [PLAIN CLOTHES] from  the room 
+ where the fake daughter was sit
+          |   the chapel exit no
+ If you want a Seed of Life, loo
+ box    right    of    this   pa
+ Afterwards, go speak to the kid
+ standing around east  of the in
+ found  a  letter  from  the  ki
+ which  says that you need  to g
+ cave southwest of town. That's 
+
+ Before leaving town, head over 
+ for Kiryl. Buying Chain Mails i
+ you -- I'll just recommend it. 
+ ready, make your way to the cav
+ Level 8 or higher before enteri
+
+--- VAULT OF VRENOR ------------
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Chimaera Wing...............
+ |  Seed of Agility.............
+ |  360 Coins...................
+ |  Magic Water.................
+ |                              
+ o------------------------------
+
+ Go south at the first fork for 
+ chest with a [SEED OF AGILITY] 
+ [360 COINS]. Follow the path th
+ in order to find a set of stair
+ At the bottom of the stairs mov
+ pillars. Move west from the pil
+ Now you just need to go south f
+ then open the chest found in th
+ Inside there is a shiny [ARMLET
+
+ Backtrack to the world map now,
+ can only be triggered at night,
+ dark, then enter town again.
+
+ Go to the graveyard in the west
+ it's the kidnappers. Give them 
+ to escape, leaving the fake Tsa
+ her real name is Anya, and that
+ pretend she's the Tsar's kiddie
+ leaves you in  shame. Poor girl
+ since you've gone through the V
+ [IRON LANCE] for  Kiryl and a [
+ you're really powerful!
+
+--- TO THE DESERT BAZAAR -------
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Seed of Strength............
+ |  Medicinal Herb..............
+ |  Horse Manure................
+ |  Poison Moth Knife...........
+ |  Seed of Agility.............
+ |                              
+ o------------------------------
+
+ Just south of the Vault of Vren
+ desert. Run over there and ente
+ traveling on the world map. Mak
+ bazaar, go to the middle of the
+ [SEED OF STRENGTH], [MEDICINAL 
+
+ Get the [POISON MOTH KNIFE] for
+ [SEED OF AGILITY] from the tent
+ that done, speak with the guard
+ bottle. He says that the Tsar h
+ the castle and see what's up wi
+ pass through Taborov Village ag
+ graveyard and check behind the 
+ continue running towards your d
+
+ Head inside the castle and talk
+ missing. He asks you to go see 
+ fix it. Head upstairs, then ope
+ (this can only be done during d
+ Now go to your own room, and he
+ the balcony, just like when you
+ the blue door in front of you w
+ before talking with him, examin
+ [SEED OF RESILIENCE] and a [CHI
+
+ The old man explains that a poe
+ voice back. Head over to the to
+ waiting for you on the church's
+ in the eastern end of the holy 
+ and explains that some "Birdson
+ voice! Thanks, Josef! As for wh
+ several years ago, at the Deser
+ travel there again -- to the ba
+
+ Try speaking to the lady behind
+ get behind the counter yourself
+ nectar left at the bazaar, but 
+ of here. That's where we'll go 
+ again. Go southwest and enter t
+
+--- NECTAR SEARCH IN THE TOWER -
+
+ I  know  it's really  weird,  b
+ entrance of the tower there is 
+ not a healing shrine or somethi
+ completely normal inn that char
+ per  night. To  access the  inn
+ inside  the door  just north  o
+ entrance, and walk  down the st
+ other  side.  Grind  for  exper
+ near the entrance until your ch
+ around Level  10, if  they aren
+ Now  heal at  the inn,  and  op
+ entrance area. Head up the stai
+
+ Up here you'll find two chests.
+ see them. It's totally worth it
+ The second chest has a [SEED OF
+ floor down from where you found
+ southeastern  end -- there's so
+
+ There are some pillars on your 
+ to find a chest with a [CHIMAER
+ follow them west. You'll find a
+ gap, and follow it all the way 
+ In the next room, just find the
+ there for a short cut-scene sho
+ nectar with them. They both esc
+ you to keep. So, take it now!
+
+ Once you have the nectar, use B
+ back to Zamoksva, the Tsar's ca
+ in front of the Tsar himself, a
+ Tsar goes super-grateful, and a
+ entrance. Now go save your game
+ to transport yourself to the Ba
+ find a shrine near the sea.
+
+ The shrine is actually a passag
+ been closed until now -- that i
+ throw your cute little self int
+ you'll end up in the Kingdom of
+ vortex like that myself.. but t
+
+--- A QUICK TRIP TO ENDOR ------
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  40 Coins....................
+ |  Antidotal Herb..............
+ |  Silk Robe...................
+ |  Seed of Luck................
+ |  16 Coins....................
+ |  5 Coins.....................
+ |  Iron Shield.................
+ |                              
+ o------------------------------
+
+ Welcome to Endor. Just southeas
+ You should be able to see it, a
+ actually named Endor too, just 
+ here must be crazy. Anyway, tal
+ kinda of tourney is about to st
+ first we'll get some lovely loo
+
+ Step inside the manor in the no
+ here for [40 COINS]. West of th
+ [ANTIDOTAL HERB]. On the 2nd fl
+ town there's a drawer with a [S
+ but bear with me... At the firs
+ contains a [SEED OF LUCK], and 
+ inn (near the town gates) there
+ rotate the camera to see it.
+
+ Great, now you're done looting 
+ [IRON SHIELD] for Kiryl, a [SCA
+ shiny [IRON ARMOR] for Kiryl. A
+ Kyril. That would be all; you s
+ right now. Go save your progres
+ the world map again, and grind 
+ Level 12 -- if you don't do thi
+ enough, go save your game again
+
+ Alright, time to rock. Exit tow
+ grounds. Run inside the castle,
+ to find [3 COINS] in a barrel, 
+ castle's 2nd floor -- upstairs.
+ hangs around, smoking bad stuff
+ and the princess to find out th
+ upcoming tourney, which is kind
+ the princess will have to marry
+ manslayers do with cute princes
+
+ So, let's go and prepare for th
+ enter using the door west of th
+ corridor in here, there is a sm
+ a chest containing a sweeeet [S
+ and continue walking until you'
+ leftmost guard. He'll let you i
+ fighting in the tourney. There'
+
+ It's smart to buy the [IRON CLA
+ since you're a smart person (?)
+ boosts your attack power a LOT!
+ able to fight in the tourney, b
+ be enough. If you're low  on he
+ ready for battle, so head  up t
+ below the item shop counter.
+
+ .------------------------------
+ | BOSS SHOWDOWN: Tourney Tools!
+ |------------------------------
+ | PARTY: Alena                 
+ | MY LEVEL: 12                 
+ | DIFFICULTY:                  
+ |                              
+ |  - ATILLA THE HUNK: This is t
+ |    He's not really harder tha
+ |    Endor Town, so at Level 12
+ |    Alena should have no probl
+ |    floor after about three or
+ |    heal back to 100% HP. Yup,
+ |    battle. Kind of like a soc
+ |                              
+ |  - QUICK DRAW McGORE: Same fa
+ |    damage, so you'll have to 
+ |    you need to heal, then aft
+ |    so that he dies. McGore dr
+ |    Eat another herb after fig
+ |    each time a new battle sta
+ |                              
+ |  - PRIMA DONNA: Bunny suit gi
+ |    but she doesn't have much 
+ |    just defend yourself (her 
+ |    and wait until she has no 
+ |    Give it to her GOOD! I mea
+ |    Just like the dude before 
+ |    next opponent appears.    
+ |                              
+ |  - KNIGHT SAMSON: You like me
+ |    a typical strong, braindea
+ |    he hits you, and the only 
+ |    yourself using herbs. He h
+ |    show him what girl runs th
+ |                              
+ |  - ABOMINABLE SHOWMAN: Who ca
+ |    Anyway, there are four Sho
+ |    If you hit a fake Showman,
+ |    should always attack eithe
+ |    The real Showman tends to 
+ |    than at the two middle spo
+ |    Showman has about 80 HP.  
+ |                              
+ |  - PSARO THE PRINCESS-EATING 
+ |    man! He's stronger than yo
+ |    doesn't appear! Wonder wha
+ |    the tourney prize, the lov
+ |                              
+ '------------------------------
+
+ Since that mean manslayer didn'
+ but at the same time, the best 
+ chapter is close to ending now,
+ want the hero to be able to eat
+ dealt with, use the Zoom abilit
+ the throne room to find that th
+ room -- that one's empty too! I
+
+ The hole in Alena's wall is sti
+ down to that blue door. What's 
+ in order to end the chapter. Gr
+
+================================
+
+     TORNEKO AND THE EXTRAVAGANT
+
+================================
+
+ Before starting this chapter of
+ party member at all times, and 
+ than using healing items. Becau
+ without first stocking up on Me
+ shops found in all towns and vi
+
+--- A FAT LAKANABANIAN SALESMAN 
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Packed Lunch................
+ |  Leather Hat.................
+ |  Medicinal Herb..............
+ |  Salary......................
+ |                              
+ o------------------------------
+
+ Torneko is a rather large man t
+ guy you'd expect as hero in a r
+ his bed, and gets a [PACKED LUN
+ the [LEATHER HAT] which is wait
+ Go outside now, and examine the
+ [MEDICINAL HERB] for you. Head 
+ is where you work -- at a weapo
+
+ You'll be standing behind the c
+ weapons, just use the "Yes" opt
+ If a customer wants to sell som
+  When you're done, your boss wi
+ you your [SALARY]. Once outside
+ find the item shop. Check the n
+ there and walk upstairs for a [
+ back home now, and before going
+ square-formed carpet north of y
+
+ The  next day  starts like  yes
+ Head outside of your house at d
+ you  want  to,  you  can  go  t
+ northeastern end of town and pu
+ old  man  there into  the  chur
+ asked to.  Doing  so  will   ea
+ [4 COINS].  When  done,  go   t
+ workplace  and  proceed   worki
+ have a look at this info square
+          |                     
+ If you're really not patient en
+ wait for the guy that sells the
+ Sword, you CAN  get another wea
+ equip  that  instead. You  won'
+ powerful, though, and you DO wa
+ a big, strong man, don't you?  
+          | - In the morning, be
+ When  you're ready,  carrying a
+ weapon and all,  move out to  t
+ map again,  and start  killing 
+ until our  fat salesman  hits L
+ When that has happened, move no
+ town until you see a dungeon. A
+ probably guessed already, you s
+ in there right away.
+
+--- GETTING THE STEEL STRONGBOX 
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Chain Sickle................
+ |  Steel Strongbox.............
+ |  Horse Manure................
+ |                              
+ o------------------------------
+
+ In the entrance area there is s
+ stairs in the western end. In t
+ and head up one of the two stai
+ to the same place. Follow the p
+ switch that you need to ignore.
+ find a [CHAIN SICKLE] weapon.
+
+ It's weaker than the Cautery Sw
+ stronger than most  of what  yo
+ Alright, now you  can press the
+ ago. Watch  Torneko  get washed
+ fun to watch him struggle, isn'
+          |     |_____
+ Alright, once Torneko  is able 
+ the first  fork and  go down  t
+ huge circle-formed boulder. Run
+ east at the  first fork, then  
+ again. Finally,  head north  at
+ will now fall into the  gap sou
+ making  a  bridge.  If  I  went
+ explanation is  hard to  follow
+ just  right  of  this paragraph
+ boulder's original location. Fr
+ lowest number (1) to the highes
+            |     |
+ Now just  walk on the stone, an
+ the other side of that gap. Wel
+            '-----'
+ Congratulations, now you're at 
+ dungeon. There's two tiny bould
+ and use your big belly to push 
+ past the gate and into the room
+ in the safe room, the gate will
+ [STEEL STRONGBOX], then push yo
+ standing. The gate will open it
+
+ You're probably wondering what 
+ you: If you die, you won't lose
+ while carrying the Strongbox, y
+ it won't work anymore after Cha
+ of the storyline, make sure you
+ with your lovely wife!) and sav
+
+ Go south from your hometown now
+ Enter, and take the northern pa
+ Near the center of the village 
+ get some [HORSE MANURE] and a [
+ the northwestern end of the vil
+ and sell ‘em later. In the same
+ tell him you’re lost. When he a
+ that you want to. The next morn
+ Just kidding -– this was suppos
+ southwest until you see a castl
+
+--- BALLYMORAL CASTLE ----------
+
+ o-----------------------------o
+ | ITEM CHECKLIST              |
+ |                             |
+ |  Leather Shield........[  ] |
+ |  Seed of Life..........[  ] |
+ |  70 Coins..............[  ] |
+ |  Chimaera Wing.........[  ] |
+ |  Prince's Letter.......[  ] |
+ |                             |
+ o-----------------------------o
+
+ Open the doors leading into Bal
+ the Leather Shield you found to
+ also sell all other kinds of ar
+ selling price. If you want load
+ world map, and sell their drops
+
+ Anyway, talk to the prince now,
+ armor. The prince begs Torneko 
+ midnight. We'll do that! Dating
+ because some kind of Architect 
+ supposed to repair a broken bri
+ way. Now that you know this, vi
+ northern part of the castle.
+
+ Time to pretend you're Solid Sn
+ (just walk behind their backs),
+ eastmost cell. He says he's the
+ and begs for a Chimaera Wing. H
+ three moments ago! Give it to t
+ says he'll meet you back in Lak
+
+ Remember that the prince asked 
+ the world map, and fight monste
+ The prince is waiting patiently
+ absolute northeastern end of to
+ he needs you do deliver a lette
+ the one you fought for in the g
+ [PRINCE'S LETTER]. Oh my! It sm
+
+ Now is a good time to go sleep 
+ chapel accessible just east of 
+ heal very often, you know. So d
+ the way back to Lakanaba. We're
+ Chimaera Wing to last night, re
+
+--- SIT FIDO! MY LOVELY DOG! ---
+
+ The man you saved is waiting fo
+ northeastern end  of the  villa
+ his dog  Fido. Talk  to him,  a
+ that the only thing  you want f
+ to borrow his dog! The man agre
+ starts  following  you  around.
+ real  friend for  Torneko-san. 
+ very useful creature, and you W
+ if you want to make further pro
+ the woods southeast of Lakanaba
+ you went to sleep there some ti
+
+ Upon entering the village, Fido
+ Follow him to find that he's tr
+ Fido has blown his cover! Some 
+ woods, talking to the magic fox
+ and you'll receive a [FULL PLAT
+ bag you're carrying.
+
+ Once the fox has vanished again
+ bridge to Endor appears. He see
+ forest, but now he's ready to g
+ because of Fido! Give him a kis
+ his owner. Afterwards, head sou
+ the bridge south of the castle 
+ Kingdom of Endor.
+
+ Endor looks just like it did in
+ monsters might have dropped whe
+ inside the castle. He asks Torn
+ Tell him that this is indeed wh
+ considering the whole thing. Wi
+ and give her the letter from th
+ her the letter you need to SELE
+
+ The princess reads the letter, 
+ is planning to attack Endor. Th
+ and gives Torneko a [ROYAL SCRO
+ king, so that war can be preven
+ to Ballymoral Castle. Give the 
+ prevented, and the Prince and t
+ Before leaving Ballymoral again
+ you need to tell the princess h
+
+ Oh, and after speaking to the p
+ has helped him stop war, he agr
+ The Kingdom of Endor. Torneko's
+ just have PERMISSION to start a
+ Hmm... That is something we'll 
+
+--- TORNEKO'S VERY OWN SHOP ----
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Chimaera Wing...............
+ |  760 Coins...................
+ |  Antidotal Herb..............
+ |  Chimaera Wing...............
+ |  Medicinal Herb..............
+ |  Iron Lance..................
+ |                              
+ o------------------------------
+
+ In the southwestern part of End
+ the man living upstairs. He say
+ Torneko, but not for cheap: it'
+ Torneko get that much money? We
+ map, and sell their stuff. As y
+ Castle buys armor items for twi
+ get money quickly though.. If y
+ sure to buy a new weapon and so
+ too, since we'll be visiting a 
+
+ So, here is the plan: Simply go
+ world  map,  and head  over  th
+ just east of Endor. You haven't
+ over  that   bridge before  -- 
+ your first time. Just northeast
+ bridge, there  is a  cave. Igno
+ cave, and proceed north past it
+ walking through a short mountai
+ you'll find  a second  cave, su
+ by what seems to be a poisonous
+ Be brave,  and  enter the dark 
+ recommend being at Level 7.    
+          |                     
+ - CAVE -                       
+          |   found  at  the  in
+ Inside the cave, you'll find so
+ of  underground shrine.  Make y
+ northeast, ignore the stairway,
+ onto  the  wooden raft.  Now  y
+ able to control it, and go wher
+ want! There's only  one way you
+ though, so you'll  just have to
+ the water, and drop into the ga
+ run into quite soon. After fall
+ you reach land again. Go east t
+ There are also other chests vis
+
+ Run northeast from the Chimaera
+ switch north of you. Step on it
+ where the water was before you 
+ find for [760 COINS]. You'll al
+ [ANTIDOTAL HERB] and a [CHIMAER
+ a chest with a [MEDICINAL HERB]
+ of this small bridge, there is 
+
+ Head over to the very northwest
+ there to get a [HOLY LANCE]. Wa
+ you can see two stairways. One 
+ that leads up will take you bac
+ other one will take you to some
+ need to heal or anything like t
+
+ Now float a little northeast, a
+ [IRON ARMOR] and [STEEL BROADSW
+ have nothing inside. Ok, now fi
+ room, and head down the stairs 
+ a real treasure, the [SILVER GO
+ Take it with you back to Endor.
+
+ A man living upstairs in the no
+ from you for a whoopin' amount 
+ only need a maximum of 10,000 C
+ some gold from earlier. To get 
+ armor they drop at Ballymoral C
+ old man that wants to sell his 
+ end of Endor, upstairs. Once yo
+ move to Endor, and help you run
+
+--- THE KING'S ORDER -----------
+
+ You thought Torneko's chapter w
+ that his dream has been fulfill
+ at all. Not even close! Ok, a l
+ But it's not over yet. So, run 
+ castle in  Endor and  talk to  
+ says  that he  has an  order fo
+ new armor shop:
+          o-------- GATHERING ST
+ - 6 x Steel Broadsword         
+ - 6 x Iron Armor               
+          |   kill monsters in t
+ That  is  what  his  order  loo
+ You'll  need  to get  those  go
+ give  them  to  the  King's   c
+ downstairs. Go see the commande
+ the  man  with the  viking  hel
+ explain to him that you're the 
+ will  be  bringing  him  the eq
+ You're   ready   to   start   g
+ equipment for the king now. If 
+ a kupo hint, have  a look at th
+ mini-walkthrough. Should be hel
+          | - Use the money she 
+ Once  you  have all  the  equip
+ King  requested  from  you,  go
+ castle again, and give all of i
+ commander with the viking helme
+ be very happy, and will reward 
+ [60,000 COINS]! SUPER MADNESS!!
+ almost   all  the money  in the
+
+ Let's  spend  it right  away.  
+ that  cave  surrounded  by  a p
+ swamp? Just south of that cave,
+ another cave  that you  haven't
+ yet. Head into that cave, and s
+ the old  man inside.  He says  
+ the exact amount of 60,000 coin
+ clear away  the rubble  that's 
+ the path leading deeper into th
+          |   weapons at other s
+ Give him your money without hes
+          |   own store. Big pro
+ The old man will summon some di
+ help him,  but the  path won't 
+ for some  time yet.  So, while 
+ waiting (you need  to do this) 
+ to  your shop,  and talk  to yo
+ from behind the counter. Listen
+ to find out that the casino in 
+ re-opened. Interesting.        
+          |   will carry over to
+ As  for  the  cave  path,  it  
+ cleared as soon as you have vis
+ casino, and gone to talk with y
+ again. She'll  tell you  that t
+ path has been cleared. So, back
+ the cave, and  walk through it.
+ chapter -- you've done a great 
+
+================================
+
+     MEENA AND MAYA AND THE MAHA
+
+================================
+
+--- NO MORE PERFORMANCES -------
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  100 Coins...................
+ |  Medicinal Herb..............
+ |  Seed of Strength............
+ |  Silk Robe...................
+ |  80 Coins....................
+ |  Wayfarer's Clothes..........
+ |  20 Coins....................
+ |  5 Coins.....................
+ |                              
+ o------------------------------
+
+ Somewhere in this world, two si
+ dancer, while the younger one, 
+ with Maya dancing at the stage 
+ goes well, and Maya retreats af
+ her [100 COINS] in salary. The 
+ they're performing with, so the
+ searching for the man that kill
+
+ Talk with everyone, and break t
+ [MEDICINAL HERB]. Use the weste
+ into the theater, and go downst
+ doesn't have anything useful to
+ his room for a [SEED OF STRENGT
+ below your boss there is a circ
+ in there, and examine the floor
+ [80 COINS] in. Hooray for that.
+ house just south of where you s
+
+ Upstairs there is a woman and a
+ equip them -- they'll just make
+ the locked next to the priest t
+ to the center of town where the
+ using the two back entrances to
+ you've found all those items, g
+ some coins. While being at the 
+ already has a decent weapon. Ex
+ map until it's dark, but make s
+
+ While fighting, make sure to no
+ mighty awesome, compared to Tor
+
+ Once night has started, visit t
+ is sleeping in there. She says 
+ king of this country has been k
+ Still in town, head over to the
+ inside, and head upstairs to fi
+ room, there's an [ANTIDOTAL HER
+ right now, so head back to the 
+ you'll find a tiny village -- A
+
+ If you talk to all the villager
+ sisters' dad, and the man that 
+ is a [LEATHER SHIELD] in the ho
+ and a bag of [35 GOLD] in the w
+
+ While being in here, exit using
+ On the ground nearby, you'll fi
+ before exiting the village, tal
+ buy two [LEATHER DRESSES] at th
+ sleep at the local inn if you n
+ world map. We're going to head 
+ preaching about.
+
+--- EXPLORING THE WESTERN CAVE -
+
+ o-----------------------------o
+ | ITEM CHECKLIST              |
+ |                             |
+ |  Chimaera Wing.........[  ] |
+ |  240 Coins.............[  ] |
+ |  Night Light...........[  ] |
+ |  Seed of Life..........[  ] |
+ |  Sphere of Silence.....[  ] |
+ |                             |
+ o-----------------------------o
+        because you're pretty fa
+ surface now. Anyway, when the e
+ again, go south to get a chest 
+ west onto another elevator.
+
+ This elevator leads down to a s
+ He's one of your dad's students
+ have revenge on the man that ki
+ members in our merry little tro
+ to find a [NIGHT LIGHT]. By usi
+ vice versa. Doing so doesn't co
+ times as you'd like. Take the e
+
+ When the elevator has taken you
+ room to find a new path. It lea
+ another elevator. Take it down 
+ the same floor as you found Ooj
+ be found. Open it to get the [S
+ you use it during battle, you c
+ You're going to need it later o
+ Level 7, keep on killing monste
+ the world map again. Your next 
+ village: Palais de Léon. Go the
+
+--- PALAIS DE LÉON & HAVRE LÉON 
+
+ The new  king lives  somewhere 
+ castle, but he's a big security
+ has locked all  the entrances. 
+ you,  Oojan knows  how to  lock
+ real thief, and  can easily gai
+ anything, anywhere. Open the ea
+ on the castle,  and  steal [200
+ the  Chancellor's  private  qua
+ upstairs, and get a [DANCER'S C
+ the chief scientist's  room. No
+ everyone around you  to find ou
+ don't know where their new king
+|  Scale Shield..........[  ] |
+ The only one  who  knows is sup
+ Chancellor! Weird stuff indeed!
+ the  second  floor   tells  you
+ Chancellor would probably revea
+ whereabouts  if you were to  ma
+ LOUD SOUND outside of  his  roo
+ now though, so  get out to  the
+ the town of Havre Léon. Enter t
+
+ - HAVRE LÉON -
+
+ Don't you just feel on your bod
+ into at the castle is going to 
+ visiting the wharf in the north
+ there to get [15 COINS] and an 
+ guarding the ship on your left.
+ Ok, no voyage on the sea for no
+
+ Sprint over to the jail in the 
+ with the guy who's trapped ther
+ off a keg of gunpowder outside 
+ on to explain that he got the g
+ want some of that powder, don't
+ at the weapons and armor shops.
+ [POISON MOTH KNIVES] and a coup
+ stuff, buy some Medicinal Herbs
+
+ Grind for experience until the 
+ from town. You'll find Mamon Mi
+ continent you're on. Once there
+ mine. Can't be good! Sleep at t
+ drawer after waking up. Go outs
+ find a [MEDICINAL HERB], and ma
+ his bed -- he says that there i
+ Great, then we've got it confir
+
+ Step into the house in the nort
+ inside for a bottle of [HOLY WA
+ and you'll find yourself just o
+ there's a small building with a
+ should enter. Inside the buildi
+ hidden. Grab them, then head ba
+
+--- GETTING THE POWDER KEG  ----
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Seed of Magic...............
+ |  Silver Tarot Cards..........
+ |  Seed of Life................
+ |  50 Coins....................
+ |  Powder Keg..................
+ |                              
+ o------------------------------
+
+ There's so much gas in here tha
+ breathe in here though, so you'
+ entrance, and break the bottle 
+ always, either use it on a part
+ Nice, go straight north now, an
+ contains some [SILVER TAROT CAR
+ weapons, so don't equip them if
+ after all. There is nothing in 
+ corpse), so head down the stair
+ a lot stronger down there, so r
+ abilities in order to take out 
+
+ Walk west after arrive at this 
+ here says that his friends are 
+ leave. Aaw.. that's sad. Examin
+ [SEED OF LIFE]. Strange place f
+ noticed there is a room straigh
+ break the wooden barrels for [5
+ and head down the stairway.
+
+ Two men are working down here, 
+ can just take a keg of gunpowde
+ in this room to get the [POWDER
+ de Léon, but make sure to heal 
+ that in the small town just out
+ knew that already, though. Oh, 
+ before heading back to the pala
+
+ Once you're back at the palace,
+ Chancellor's private quarters, 
+ Powder Keg while standing just 
+ Chancellor himself, but on the 
+ his wall. Just like illustrated
+     |                    |
+ Once you've used the powder keg
+ will get scared, and run out of
+ behind his back, and you'll see
+ secret switch on the wall! Once
+ that button for all its worth! 
+ which leads directly to the kin
+
+ Talk to the king to find out th
+ sisters' daddy, and now he rule
+ blood boil! Almost. Anyway, you
+
+ .------------------------------
+ | BOSS SHOWDOWN: Balzack       
+ |------------------------------
+ | PARTY: Meena, Maya, Oojam    
+ | MY LEVEL: 13                 
+ | DIFFICULTY: Medium           
+ |                              
+ |  - The King has morphed his b
+ |    Start off the battle by us
+ |    found after Oojam joined y
+ |    magic abilities for some t
+ |    Sphere of Silence again. Y
+ |                              
+ |    Once his magic has been di
+ |    his DEF, then just start a
+ |    take lots of damage now, a
+ |    for pretty much anyone, as
+ |    need to heal someone, just
+ |                              
+ '------------------------------
+
+ Great! Balzack goes down with a
+ behind him turns into a huge bl
+ won't be satisfied when he hear
+ the lion to keep his mouth shut
+ blue lion attacks you! Holy mol
+ a good experience for the siste
+ Just let the monster lion hit y
+
+ Some hours pass, then he sister
+ talking to them, and explains t
+ everyone seems to think he's de
+ a chance at defeating the monst
+ country. He's prepared for this
+ cell to get a [SEED OF STRENGTH
+ Open the chest in the next room
+ travel on that ship at the whar
+ yourself right outside the pala
+
+ Unfortunately, a soldier spots 
+ starts fighting a hopeless batt
+ sisters can escape. That's sad.
+ towards Havre Léon. Buy some [M
+ with all the seeds you might ha
+ up with the sisters pretty earl
+ docked at the wharf now, and he
+ is a [SEED OF MAGIC]. Put it in
+ you're ready to end the chapter
+
+ ~ Hope you like the ocean ^^
+
+================================
+
+        THE CHOSEN              
+
+================================
+
+ Hi again. You're just about to 
+ IV. That's not bad at all. Anyw
+ playing again, I will be referr
+ beginning of the game as the "H
+ characters have names defined b
+ gave him/her at the beginning o
+
+--- MY HOME VILLAGE! ZERGED!! --
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Packed Lunch................
+ |  Big Book of Beasts..........
+ |  Feathered Cap...............
+ |  Seed of Life................
+ |                              
+ o------------------------------
+
+ Who is "The Chosen", you ask? W
+ beginning of the game, before R
+ mountain village with his paren
+ entirely different RPG, doesn't
+ your mom. She gives you a [PACK
+ bring it to your daddy, who's g
+ just right of your house. The i
+ unwritten rules, and let a stra
+ at the inn, then go outside aga
+ your home, trying to catch fres
+ listen to him preaching about h
+ speak with your friend, who's s
+
+ Now that you've completed your 
+ make her give you something to 
+ start stuffing your face, the i
+ that monsters have attacked the
+ innkeeper while the other villa
+ escaping, your dad stops you, a
+ real parents. You're part of so
+ secret from you until now. What
+ follow your trainer down into t
+
+ Just before you gain control of
+ [BIG BOOK OF BEASTS], which is 
+ will appear. Just stand around 
+ your friend morph her own body 
+ from the monsters by giving the
+
+ Once all the noise has stopped,
+ village completely destroyed. P
+ houses down, and worst of all: 
+ have revenge... Revenge of the 
+ of the village, look at the gro
+ There is something shining on t
+ you, and leave the village. Hea
+
+ - WOODCUTTER'S HUT / CASABRANCA
+
+ There is a tombstone outside of
+ [SEED OF LIFE]. Eat it, then go
+ [MEDICINAL HERB]. Oh, and there
+ locker. The guy living in the h
+ so this is a great place for ra
+ until you hit Level 3, and then
+ shape. Leave the hut, and go to
+
+ At the entrance, three adventur
+ realize their party is already 
+ drawer in the house east of the
+ and his daughter. The King want
+ information about Psaro, the De
+ visit Endor. That’s a good idea
+ enter Casabranca at night, and 
+
+ He tells you the sad story abou
+ night. I shed a tear myself. Ga
+ world map. You’ll find the cave
+ of the tunnel, talk to the old 
+
+ - ENDOR -
+
+ Alright. Head over to Endor now
+ reach the gladiator arena where
+ Princess you helped out earlier
+ Endor Town. Speak to the girl o
+ reading your fortune. The girl 
+ she sees your future, she hands
+ Meena goes on to explain that y
+ and to do that, you need help f
+ Torneko, Ragnar, the sisters an
+
+ In order to get Meena's sister 
+ in the basement of the bar. The
+ Feathered Hat you found earlier
+ party, you'll see that their st
+ completed Chapter IV. Anyway, n
+ save your game, and start gridi
+ hits Level 7, you're more than 
+
+--- TWO SISTERS ON YOUR TEAM ---
+
+ With  the sisters  in your  par
+ hero at Level 6 or more, head b
+ tunnel east of Endor. When you 
+ through it, a guard stops you a
+ you're the 1000nd person that t
+ through!  Cool!?  The  prize  y
+ [100 CASINO COINS].            
+|  Packed Lunch..........[  ] |
+ If you want  to go and  spend  
+ casino you can do so. When you'
+ if  you  don't  want to  gamble
+ Casabranca Town to get a [SCALE
+ a  [HUNTER'S BOW]  for the  her
+ straight east from Casabranca, 
+ map. After  a  short  while  yo
+ of where you're walking, so go 
+
+ - DESERT INN -
+
+ The house you saw is actually a
+ barrel containing one of those 
+ inside. Loot the inn for a [PAC
+ sitting on the chair in the mid
+ the horse wagon outside, and yo
+ through the desert later on. Wh
+ "No". The dude now tells you a 
+ certain cave with a friend to s
+ the goods, his friend stabbed h
+ it? After listening to his stor
+ cave! It's not hidden at all; j
+ passing three or four bridges, 
+
+ - CAVE OF BETRAYAL -
+
+ Head inside the cave, and break
+ Alrightie, proceed through the 
+ sisters... fall through the flo
+ south of here, but one person a
+ instead. You'll see the sisters
+ wrong direction. Follow them we
+ that they're not the sisters, b
+ Remember to heal yourself durin
+ dies. After the battle, you'll 
+ you're low on HP, then talk to 
+ front of you. Once again, they'
+ baddies. Kill 'em off!
+
+ Head up the stairs east of wher
+ pair of sisters, so run over to
+ ask you a question to see if yo
+ the one that was gambling in En
+ again now. Head a tiny bit nort
+ to find another steel door. Ope
+ the place where the sisters fel
+
+ Go south from here until you fi
+ surrounding a square of pavemen
+ northern side of the pavement s
+ actually walk into the square, 
+ chest containing the [SYMBOL OF
+ inn wants from you. So, head ba
+ symbol to him. To your big surp
+ your party! He takes his horse 
+ the desert south of the inn. Ve
+
+--- THROUGH THE DESERT ---------
+
+ o-----------------------------o
+ | ITEM CHECKLIST              |
+ |                             |
+ |  Leather Shield........[  ] |
+ |  Seed of Strength......[  ] |
+ |  Mini Medal #2.........[  ] |
+ |  50 Coins..............[  ] |
+ |  Holy Lance............[  ] |
+ |  Iron Armors...........[  ] |
+ |  Mini Medal #3.........[  ] |
+ |  15 Coins..............[  ] |
+ |  Seed of Strength......[  ] |
+ |  Antidotal Herb........[  ] |
+ |  Boxer Shorts..........[  ] |
+ |  Mini Medal #4.........[  ] |
+ |  7 Coins...............[  ] |
+ |  Mini Medal 5..........[  ] |
+ |  Wayfarer's Clothes....[  ] |
+ |                             |
+ o-----------------------------o
+ there for a [LEATHER SHIELD].
+
+ Your next stop should be at the
+ you can find a [SEED OF STRENGT
+ spring, and open the drawer the
+ to the weapons shop to find [50
+ Meena, and get two [IRON ARMORS
+ equip them. Now go and save you
+ leave town. Travel south to fin
+
+ - PORTHTRUNNEL -
+
+ Head over to the docks in the w
+ lots of barrels that you can br
+ the docks, and loot the two shi
+ [15 COINS], [SEED OF STRENGTH],
+ [MINI MEDAL #4] and [7 COINS]. 
+ while getting these items, and 
+ buy one of the ships. Interesti
+ northeastern end, outside of th
+ a barrel. The house in the sout
+ [WAYFARER'S CLOTHES] in a drawe
+ in town now, so save your game 
+ tall, tall Lighthouse. If you w
+
+--- STRUGGLE IN THE LIGHTHOUSE -
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Seed of Resilience..........
+ |  400 Coins...................
+ |  Mini Medal #6...............
+ |  Seed of Strength............
+ |  Holy Water..................
+ |                              
+ o------------------------------
+
+ From the Lighthouse entrance, m
+ tiny bit southwest to find a ch
+ chest with [400 COINS] on your 
+ Torneko standing near a stairwa
+ fire that's burning at the top 
+ care of that for him. If that i
+ Watch Torneko leave now, and he
+ that this floor, there is a che
+
+ There's another chest on this f
+ the southeastern end of the roo
+ it, use the stairs just west of
+ a chest with some [HOLY WATER] 
+ again, and this time, head up t
+ beginning of the next floor, th
+ north sides (kind of like a bac
+ that you don't fall down, then 
+
+ Talk to it to find out that he 
+ interest in the Hero, Hoffman a
+ ceiling when he tries to get ou
+ There's a chest here with a [MO
+ [HUNTER'S BOW]. Now head upstai
+ We're soon at the top, but not 
+ [HOLY EMBERS], then proceed up 
+
+ The room you're in now is kind 
+ dancing around some kind of fir
+ northwest to get a [GOLDEN TIAR
+ her defence by quite a bit. Now
+ then attack the dancing monster
+
+ .------------------------------
+ | BOSS SHOWDOWN: Dancing Group 
+ |------------------------------
+ | PARTY: Hero, Maya, Meena, Hof
+ | MY LEVEL: 13                 
+ | DIFFICULTY: Medium+          
+ |                              
+ |  - You're up against two Flam
+ |    tiger has a nasty screamin
+ |    so use Meena's "Snooze" ab
+ |    on taking out those two Fl
+ |    (Snooze at him again if he
+ |    kill them off. You're prob
+ |    times, which shouldn't be 
+ |    lovely healing spells by n
+ |                              
+ |    Once the Flamethrowers are
+ |    its DEF, then take it down
+ |                              
+ '------------------------------
+
+ Remember that item you found do
+ flame that the monsters were da
+ vanishes, and a nice normal fla
+ done what you came to the Light
+ Torneko is waiting for you at t
+ something. That something is th
+ needs travel mates though, and 
+ and team up with the big, round
+ ship too. Horses are always fun
+ you have {TORNEKO'S SHIP} ship 
+ the whole map. Torneko has made
+
+ Torneko is a wise man, so liste
+ land, step out of the ship, and
+ Hoffman. You do that in the "Mi
+ east. There's a small village f
+ is neither too big or too small
+
+--- MINTOS ---------------------
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Moonwort Bulb...............
+ |  Seed of Wisdom..............
+ |  Mini Medal #7...............
+ |  Seed of Luck................
+ |  Scale Shield................
+ |  Mini Medal #8...............
+ |  Treasure Map................
+ |  Seed of Resilience..........
+ |                              
+ o------------------------------
+
+ Upon arriving in Mintos, Hoffma
+ his own dreams instead. He lets
+ you see the inn near the villag
+ barrels, and inside one of them
+ upstairs inside the inn. Read t
+ staff hidden in a cave somewher
+ get a [SEED OF WISDOM]. This on
+ the bookshelf, you'll see two m
+ with Borya to find out that Kir
+ Princess Alena. When he asks yo
+ joins the party now, to help se
+
+ Get out of the inn, and check t
+ town. You'll get [MINI MEDAL #7
+ house to find a [SCALE SHIELD] 
+ Down here you'll see something 
+
+ Talk to the old man giving lect
+ now. It has to be daytime for h
+ question, then tell him you wan
+ The Hero says nothing when the 
+ thing about business is. The ol
+ GOLDEN.. The man now gives you 
+ see a big mark on the world map
+ you can't get it just yet. I wi
+ that place. There's a [SEED OF 
+ just south of the man with the 
+ before leaving Mintos, let's sh
+
+ As always, you are free to get 
+ have some suggestions  for you!
+ both the hero and Torneko, then
+ Meena and Maya respectively, ge
+ can't seem to afford all this g
+ map and kill baddies. I promise
+ done getting equipment from the
+ may remember, Kiryl is sick and
+ search for something that can c
+ leave the village. Your next st
+
+ - FOREST SHRINE / PARTHENIA -
+
+ As you can see, there are two b
+ but you can't reach them becaus
+ the western wall of the shrine,
+ shrine's northern wall. Head in
+ everything we can do here right
+ find a place called Parthenia.
+
+ Speak with the old man south of
+ recently. Head to the eastern p
+ of the ackers. He says that he 
+ but it's hidden in a cave south
+ for a [SEED OF RESILIENCE], the
+ your game at the entrance, then
+
+--- ICY CAVE -------------------
+
+ o-----------------------------o
+ | ITEM CHECKLIST              |
+ |                             |
+ |  Seed of Agility.......[  ] |
+ |  Seed of Life..........[  ] |
+ |  Robe of Serinity......[  ] |
+ |  800 Coins.............[  ] |
+ |  Feverfew Seed.........[  ] |
+ |  Feverfew Root.........[  ] |
+ |  Mini Medal #10........[  ] |
+ |  Moonwort Bulb.........[  ] |
+ |  Gold Bracer...........[  ] |
+ |  Mini Medal #11........[  ] |
+ |                             |
+ o-----------------------------o
+        Bummer. Head onto the ar
+ very left end of  the room. You
+ contains another [SEED OF LIFE]
+
+ Step on the arrows pointing eas
+ don't worry, since we'll get it
+ west to find some arrows pointi
+ west for a chest with a [ROBE O
+ the arrows you ignored, and ste
+ you passed earlier. It contains
+
+ Make your way east from the 800
+ pads, both of them point south.
+ order to reach a stairway betwe
+ the room. You won't be able to 
+ westmost of the two arrow pad r
+ with LOTS of arrow pads, and a 
+
+ o------------------- TONS OF AR
+ |                              
+ | - Step on the arrows in the u
+ |                              
+ | - Walk left, and step on the 
+ |   The arrow on this pad point
+ |   in front of you now, so kil
+ |                              
+ | - Above the Cannibox there is
+ |   pads just north of this hol
+ |   It will take you to the che
+ |   Open the chest to get the [
+ |                              
+ o------------------------------
+
+ Show the Fewerfew Seed to the k
+ of town. Once he gets them, he 
+ quickly, and before anyone real
+ plants. The king gives you one 
+ cure Kiryl's sickness. Head bac
+
+ - MINTOS / RIVERTON -
+
+ Visit the inn to see that Hoffm
+ chief of the inn. Nice for him,
+ Alena, who's caring for her ser
+ standing close to Kiryl. Doing 
+ Kiryl and Alena will join your 
+ battle lineup. As for myself, I
+ I prefer characters that deal m
+ wish, but now you know what's g
+
+ Anyway, before you head out of 
+ Ragnar McRyan is looking for yo
+ somewhere in the western part o
+ Before searching for Ragnar, ta
+ the very southern end? Sail the
+
+ There's a small holm in the mid
+ it to get [MINI MEDAL #10]. Now
+ [MOONWORT BULB]. North of the i
+ Enter the southmost hut now, an
+ you a flying machine, if you ju
+ we have no gas as of now. Break
+ [MINI MEDAL #11] item. That wou
+ sail back to the world map, and
+ palace in the southeastern end 
+ the two sisters were defeated a
+
+--- SEARCHING FOR THE MAGIC KEY 
+
+ - PALAIS DE LÉON -             
+| ITEM CHECKLIST              |
+ Talk to  Healie who  is waiting
+ the palace to find out that Rag
+ trapped inside, just  like the 
+ helped the sisters' escape from
+ end of  their chapter.  You kno
+ king. Enough about  that. Liste
+ now, because he says that someo
+ du Monde might know something a
+ key that  can be  used to  open
+ gates. It's a rumour he's heard
+ information with you  on your t
+
+ You'll notice that the enemy po
+ but everything else is the same
+ of Palais de Léon, and as you m
+ village. Make sure to enter dur
+
+ - AUBOUT DU MONDE -
+
+ Sleep at the inn if you need to
+ staying at the inn. He usually 
+ here. If you've got Maya, Borya
+ [CLOAK OF EVASION], since it bo
+ [IRON MASK] and [FULL PLATE ARM
+ carrying to the merchant, and g
+ villagers, you'll hear rumours 
+ really weird -- some slimes are
+
+ This friendly slime actually li
+ down there and see for yourself
+ there is a secret laboratory we
+ and Maya's pops. The magic key 
+ free Ragnar McRyan is supposed 
+ real juicy information we got t
+
+ - WESTERN CAVE -
+
+ Travel west from Aubout de Mond
+ joined Meena and Maya's party e
+ secret lab is hidden somewhere 
+ entrance you have to examine th
+ found in earlier. The chest use
+ on the back of the chest to mak
+ down there to find the secret l
+
+ There's all kinds of weird stuf
+ in the Magical Staff book serie
+ one and only [MINI MEDAL #12], 
+ thing in the lab is of course t
+ not hidden at all. Just open th
+ key to open all of the red door
+ world. In the next section, I'l
+ with the blue doors that can be
+ has already got from her own ch
+ stuff however, you can skip out
+
+--- OPTIONAL: RED & BLUE DOORS -
+
+ - TREASURES IN ENDOR -         
+| ITEM CHECKLIST              |
+ Head  inside  the  castle  of  
+ night. Sneak up to the throne-r
+ upstairs  from  there  to  find
+ chambers. It's  locked by  a re
+ can  be  opened with  your  Mag
+ treasures  inside   are  a   se
+ [FISHNET STOCKINGS]  and  a  [P
+ for   Alena,  [MINI MEDAL #13] 
+ [FEATHERED CAP]. That's  a  tot
+ treasures. I've got to say thou
+ King of Endor has a rather  cre
+ taste. I mean, imagine him dres
+ this  kind of equipment. Almost
+|  Seed of Agility.......[  ] |
+ Now, head  out to  the three  c
+ and  open  the  eastmost  one. 
+ through the corridor, and you'l
+ door on your left side.        
+
+ Head into that door, and go dow
+ poison on the ground, you'll fi
+ [MINI MEDAL #14], [SEED OF STRE
+ damage the character that uses 
+ located in the secret shop in t
+ way to access it is by sneaking
+ accessing the main entrance to 
+ the best armor pieces in the ga
+
+ - PRISONBOUND MINI MEDALS -
+
+ There's one mini medal waiting 
+ can only get it if you've got t
+ those sturdy doors, after all. 
+ originally wrote this section, 
+ There is another medal, [MINI M
+ Prison. You'll find it in a bar
+
+ - TREASURES IN BURLAND -
+
+ Inside the castle in Burland (R
+ locked with a blue door. It's o
+ Make sure to heal all your char
+ lose some HP when walking on th
+ chests. Inside them you'll find
+ [IRON HELM], [750 GOLD], [SEED 
+ [SEED OF AGILITY]. Feed the see
+ your equipment should be strong
+ treasures you can get by using 
+ with the main storyline now. Ma
+
+--- TEAMING UP WITH RAGNAR -----
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Full Plate Armor............
+ |  Flute of Revelation.........
+ |  Seed of Strength............
+ |                              
+ o------------------------------
+
+ Before continuing, make sure th
+ around Level 20. We're going to
+ really recommend using Meena as
+ you're going to want her "Zing"
+ during battle. Meena learns Zin
+ continue reading/playing! With 
+ back to the castle where Ragnar
+ and head to the northern end of
+ get that secret passage open. B
+ King's chamber. Ragnar starts f
+ talk to the king to start fight
+ when you approach him.
+
+ .------------------------------
+ | BOSS SHOWDOWN: Marquis de Leo
+ |------------------------------
+ | PARTY: Hero, Torneko, Meena, 
+ | MY LEVEL: 20                 
+ | DIFFICULTY: Medium+          
+ |                              
+ |  - The key to this battle is 
+ |    The boss has a crapload of
+ |    damage to him to take him 
+ |    the whole battle. Let her 
+ |    party member with the smal
+ |    healing from her. The boss
+ |    that a party member could 
+ |    to nothing at the beginnin
+ |                              
+ |    As for the other party mem
+ |    attacks. No magic spells a
+ |    Breath attack, all of your
+ |    kind of situation, you mig
+ |    addition to Meena. But do 
+ |    focus on using normal atta
+ |                              
+ |    It's not a quick battle, b
+ |    up and kicking from beginn
+ |    resurrect them using her "
+ |                              
+ '------------------------------
+
+ After being defeated, the boss 
+ that is destined to defeat the 
+ that, because you are going to 
+ Everyone in the castle suddenly
+ 'til now.. It seems like they'v
+ something. The soldiers and ser
+ the King -- he's a nice guy too
+
+ Speak to Ragnar once you're rea
+ the castle, speak with the Chan
+ residence in Zamoksva Castle. T
+ Oh, and by the way, you have al
+ this game now. So, before you c
+ give him proper equipment (full
+ get from the Mini Medal King is
+ Ragnar's level is close to the 
+ game, then head over to Zamoksv
+
+ - ZAMOKSVA CASTLE -
+
+ It's just east of Zalenagrad, i
+ Castle, you'll sense that somet
+ mean, the castle has been taken
+ that, so head upstairs to the t
+ it's not the real king -- it's 
+
+ .------------------------------
+ | BOSS SHOWDOWN: Balzack       
+ |------------------------------
+ | PARTY: Hero, Alena, Ragnar, M
+ | MY LEVEL: 21                 
+ | DIFFICULTY: Hard             
+ |                              
+ |  - Without any doubt, this is
+ |    similar to the last boss b
+ |    powerful. He attacks twice
+ |    once of your party members
+ |    them! To avoid taking dama
+ |    cast Meena's spell to neut
+ |    characters resistant to fr
+ |    doing that.               
+ |                              
+ |    A nice but slow way of get
+ |    midheal spell every single
+ |    spell when even more heali
+ |    will most likely be very o
+ |    and let the Hero help her 
+ |    isn't needed, let him/her 
+ |    normal attacks.           
+ |                              
+ |    If your characters are the
+ |    a couple of times before y
+ |    using Meena's "Zing" spell
+ |    of the others, keeping the
+ |    luck to pull all this off 
+ |    died of trying the same th
+ |                              
+ '------------------------------
+
+ Now that Balzack is dead, you c
+ treasure which was blocked by a
+ [FLUTE OF REVELATION], a [SEED 
+ equip the staff if you have her
+
+ Now,  let's  trigger  the  next
+ shall we? Travel to Strathbaile
+ which  is  located  north  of  
+ Castle. When you  sleep at the 
+ Strathbaile, you'll see a weird
+ related  to  the  Flute  of Rev
+ that you found in Zamoksva Cast
+ dream shows  you exactly  where
+ you need to  use the flute.  It
+ some kind of tower, with a  red
+ person  standing  inside.  We'l
+ about  that  later  though;  ri
+ we're going  to go  to a  place
+
+--- FEMISCYRA'S ZENITHIAN SHIELD
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Mini Medal #17..............
+ |  Seed of Wisdom..............
+ |  Fire Claw...................
+ |  Leather Dress...............
+ |  Seed of Agility.............
+ |  Mini Medal #18..............
+ |  Seed of Strength............
+ |  1050 Coins..................
+ |  Seed of Luck................
+ |                              
+ o------------------------------
+
+ To get there, use your "Zoom" a
+ river just north of Burland, an
+ chain. Walk south along the mou
+ brown pile on the world map. En
+ you can remove it by using your
+ passage to Femiscyra, a kingdom
+ entering, make sure to pick the
+ over something like this would 
+
+ Anyway, there are some nice-loo
+ only women are allowed to live 
+ head inside. Go left from the e
+ all to get [MINI MEDAL #17]. Al
+ part of the room, where a bard 
+ make him leave, then grab a [SE
+ you try to leave the room howev
+ stole her bronze rosary! God, t
+ A guard hears all the quarrel, 
+ the prison cellar, and wait for
+
+ First tell the queen "NO" when 
+ if you  stole the  bronze rosar
+ tell her "YES" when she asks  i
+ innocent (do the math!). The Qu
+ she'll  give  you  a  chance  t
+ you're innocent, but requires t
+ of your party  members stays be
+ the prison. Let someone that is
+ of your lineup stay behind. Hea
+ the  Queen's  throne  room  onc
+ free,  and  open the  blue  doo
+ Examine the drawer in here for 
+ [LEATHER DRESS]   and   another
+ [SEED OF AGILITY]. Now go downs
+ looking for that mean, mean thi
+ really get Alena's Fire Claws, 
+ in that small square right of t
+
+ Start looking in the cave just 
+ Oh, and make sure to put Kiryl 
+ He doesn't need good equipment 
+
+ - FEMISCYRA CAVE -
+
+ There's a quite a lot of sand d
+ aren't dirty though, so we're g
+ several chests down here too. T
+ beginning and follow the path u
+ Now follow the path in the nort
+ fork south for another chest wi
+ those small steps just below th
+ Head up there and follow the el
+ golden surprise inside: [1050 C
+ all the items on this floor now
+ area to find a path leading to 
+
+ Now that you've hit the lower f
+ path that leads south. You'll f
+ there's a [SEED OF LUCK]. From 
+ You'll soon see an elevated pat
+ follow it west. It will eventua
+ [DRAGON SHIELD] inside, while t
+ for you. The shield is very use
+ reduces elemental damage. Let e
+
+ The same goes for the mask -- l
+ room by heading back east from 
+ there. Another stairway's waiti
+ going down there.
+
+ Welcome to... the thief's hideo
+ here, so take a look at his bod
+ hanging around his neck. When y
+ And guess what.. he tries to es
+ door and block his way. Now, sh
+
+ .------------------------------
+ | BOSS SHOWDOWN: Kirk Buzzer (T
+ |------------------------------
+ | PARTY: Hero, Meena, Ragnar, K
+ | MY LEVEL: 22                 
+ | DIFFICULTY: Easy             
+ |                              
+ |  -  Alrightie. This battle is
+ |     from using his magic spel
+ |     that he turns close to in
+ |     having to go through too 
+ |     to prevent all of your en
+ |     have to be well-equipped 
+ |     just to cast this spell, 
+ |     members, just use normal 
+ |     Meena do the healing if y
+ |                              
+ |     Without his magic, the fo
+ |     Easy-squeezy, like peanut
+ |     Kiryl with another charac
+ |                              
+ '------------------------------
+
+ One of the Queen's guards has b
+ reveals herself, saying that th
+ trouble. Then she takes the thi
+ didn't really help us at all. S
+ inside all of his drawers and b
+ [MERCURY'S BANDANA], [MINI MEDA
+ thief's exploits. Anyway, equip
+ agility. Alena is a wonderful c
+ your Cave Story up, head back t
+
+ - BACK IN FEMISCYRA -
+
+ The queen is waiting for your p
+ your name of what you've been a
+ go now, and gives you the [ULTI
+ different doors! One of those d
+ dungeon, where one of your part
+ just as awesome as getting that
+ the biggest treasures in the wh
+ yourself. So, let's go get it r
+ downstairs from the throne room
+ end of the castle's main floor.
+ is stored behind a metal gate. 
+
+ Let the Hero equip this legenda
+ Ultimate Key can open all metal
+ Well, ok, now let's free the pa
+ getting set up by the bard thie
+ end of the castle's main floor 
+
+--- OPTIONAL: MORE TREASURES ---
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  350 Coins...................
+ |  Prayer Ring.................
+ |  Mini Medal #20..............
+ |  Massacre Sword..............
+ |  Mini Medal #21..............
+ |  Seed of Strength............
+ |                              
+ o------------------------------
+
+ Now that you have the Ultimate 
+ locked doors and gates in the w
+ now. These are all optional tho
+ Collecting stuff is good howeve
+ Remember that you can use the "
+ visited earlier in the game.
+
+ - Casabranca: There is a treasu
+   It's sealed off by two metal 
+   Ultimate Key, so there is no 
+   chests containing delicious t
+   will let the wearer regenerat
+
+ - PORTHRUNNEL: Go take a look i
+   metal gate there. Open it to 
+   however, just like the ghost 
+   it, the user's defense will g
+   if I were you. But hey, it's 
+
+ - HAVRE LÉON: In the eastern pa
+   that small, white building. U
+   prison cells, and loot whatev
+   inside the cells are as follo
+   well as a shiny little produc
+
+ - LAKANABA: Remember the shop a
+   his chapter? Head inside, and
+   treasury down there! It's pro
+   I hope you won't feel too bad
+   [SEED OF STRENGTH] and a [ICI
+   consider letting the Hero equ
+   weapon -- sell it if you want
+
+ - ROSEHILL VILLAGE: Zoom to Min
+   lighthouse, sail north up the
+   everyone (and buy weapons/arm
+   western end. Go downstairs to
+
+--- GETTING THE ZENITHIAN ARMOR 
+
+ We  already  have  the  first  
+ Zenithian  set of equipment -- 
+ so now let's  go and  the the a
+ sail over  to the  Mini Medal  
+ (northeastern corner of world m
+ straight  north  from  there,  
+ cave. Heal up at the Mini Medal
+ then head  into that  cave. You
+ instead of walking,  you'll be 
+ raft in here, since there's wat
+
+ Anyway,  at  the  beginning,   
+ see a  chest on your right side
+ Now   hop    back on  your raft
+ onto land again when you see a 
+ to [MINI MEDAL #25]. Grab  that
+ Hope you're not sick of it just
+
+ Continue sailing north, and the
+ direction. Let yourself be guid
+ passage, this time leading sout
+ very center of the cave. Sail p
+ west to find another passage. S
+ the next room, is a tiny, tiny 
+ stairway to proceed.
+
+ And guess what! Down here, two 
+ one guarding them or anything e
+ [ZENITHIAN ARMOR] and [MINI MED
+ fight too much for those items.
+ cave. You're done here, and you
+ optional sidequest that you can
+ the game. If you don't really w
+ continue reading the next one.
+
+--- OPTIONAL: LIQUID METAL SWORD
+
+ o-----------------------------o
+ | ITEM CHECKLIST              |
+ |                             |
+ |  Karstaway Stone.......[  ] |
+ |  Mini Medal #27........[  ] |
+ |  Fishnet Stockings.....[  ] |
+ |  Leather Hat...........[  ] |
+ |  Sands of Time.........[  ] |
+ |  Mini Medal #28........[  ] |
+ |  Death Mask............[  ] |
+ |  780 Coins.............[  ] |
+ |  Liquid Metal Sword....[  ] |
+ |                             |
+ o-----------------------------o
+
+ You'll find the [KARSTAWAY STON
+ enter a certain dungeon. But ri
+ inventory. While still being in
+ find [MINI MEDAL #27] and [FISH
+ northwestern part of the villag
+
+ - SIDEQUEST CAVE -
+
+ Take a look at the world map. S
+ Straight north (but quite far a
+ continent, there is a small, re
+ this walkthrough this far. Ente
+ You'll see a set of stairs lead
+ the water though, so you'll hav
+ found in Dunplundrin Village. S
+ will suck up all the water that
+
+ In the next room there is a che
+ [SANDS OF TIME], so take it, an
+ stairs on the other side. You'l
+ path elevated above lots and lo
+ find a chest with [MINI MEDAL #
+ and follow the path until you f
+ from the beginning of this floo
+ a rare [DEATH MASK] inside! Hea
+
+ Go south the next time the path
+ the path east from the coin che
+ eastmost path, and you'll end u
+ This is the lowest point of the
+ here -- just a treasure chest o
+ weapons in the game: the super-
+ your Hero equip it, and wooh, y
+ the next section, I'll continue
+ go and get the Zenithian Helm!
+
+--- CANALOT'S ZENITHIAN HELM ---
+
+ To reach  Canalot, you're  goin
+ sail  to the  very northwestern
+ world  map.  There's  an  islan
+ looks like  a spiral,  and in  
+ that spiral, Canalot lies. To g
+ in  land  on  the  southeastern
+ spiral. From  there, you  can w
+ into Canalot. The place you nee
+ land at is right  next to a sma
+ if you're  having trouble  find
+ |  Mini Medal #31.......[  ] |
+ Upon  entering  the  city,  you
+ there's a lot of water here, an
+ to step  on the  raft  north of
+ if you want to get anywhere. So
+ raft, and  sail to the  weapons
+ upper left end of the pool. Buy
+ users in your lineup, and let t
+ night, you can buy a [DREAM BLA
+
+ Next, head for the well in the 
+ a semi-hidden bottle. Crush it 
+ another medal, go inside the wh
+ but she won't mind that you tak
+ that's what I think, since the 
+ you can do in town, so sail thr
+ the castle! It's a... water cas
+
+ You'll see an old man on your r
+ [SEED OF STRENGTH], then talk t
+ King's appeal. Continue north n
+ the rightmost one. Continue nor
+ Break them to get a [MAGIC WATE
+ a [CHIMAERA WING] while you're 
+ the room left of here. One cont
+ castle entrances, and enter the
+ daytime, as the king will only 
+ make your way to the very top f
+
+ The king is having an audience,
+ leave, then approach his majest
+ none of your party members are 
+ somehow... but... how!? How sho
+ See, there is a man with a whit
+ the throne room. Speak to that 
+ Tom Foolery might be able to he
+ find him, and see if he knows a
+
+ - FINDING MISTER FOOLERY / IMPR
+
+ Now, where do you think an ente
+ for a second, and you might get
+ Fayre, where Meena and Maya use
+ there right away, and enter the
+ sweater and funny hair; speak w
+ world map again, and put Fooler
+ NEED to do this, or amusing the
+ the castle in Canalot, and talk
+
+ Tom Foolery's quite the speaker
+ first try. The king melts like 
+ [ZENITHIAN HELM]! Wow, how's th
+ you've given the whole thing ab
+ you might already have figured 
+ you have the next piece, the Ze
+ you'll be able to start eating 
+ For some more of that excitemen
+
+--- ROYAL CRYPT ----------------
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Staff of Antimagic..........
+ |  Mini Medal #32..............
+ |                              
+ o------------------------------
+
+ Quickest way to find the tomb i
+ south down the river from there
+ the Royal Crypt is. It's locked
+ issues for a long time, since y
+ open and head downstairs. Step 
+ let it take you right over to a
+ following the arrows from here,
+ two statues. Open it up to get 
+ happy. It does, I'm sure. Ignor
+ straight left instead. Follow t
+ wall. Just keep on following yo
+ hugging the wall. You don't wan
+
+ Inside the chest on the other s
+ this time it's [MINI MEDAL #32]
+ and make your way to the stairs
+
+ Head upstairs. Move a tiny bit 
+ open the yellow doors above you
+ a  healing  sphere.  Step  into
+ restore  your  stats,  then  he
+ Make your way past the arrow pa
+ step on them), and walk until y
+ the  southwestern  part  of  th
+ Follow the stairs there upwards
+ room.                          
+           |   path that leads u
+ Now you're back in the first ma
+ in  the  northwestern end  of  
+ Just follow  the path  left, th
+ and finally  down again.  You'l
+ chest close to a bunch of small
+ Open the chest to get a [MOD RO
+           |   speak to her slim
+ It's quite a fun possession -- 
+ you to turn yourself into other
+ It's not the most useful item e
+ later on, actually quite soon, 
+ to use  it to  fool a  group of
+ into believing that you actuall
+ them. You'll  do that  when you
+ place called  Diabolic Hall, ho
+ baddies!  Anyway, Now,  just ig
+ the Crypt by going east. We're 
+
+--- FAR SOUTH COLOSSUS ---------
+
+ o----------------------------o 
+ | ITEM CHECKLIST             | 
+ |                            | 
+ |  Mini Medal #33.......[  ] | 
+ |  640 Coins............[  ] | 
+ |  Seed of Agility......[  ] | 
+ |  Hela's Hammer........[  ] | 
+ |                            | 
+ o----------------------------o 
+        leads into the Colossus,
+ The colossus is pretty huge tho
+ empty, with nothing but some st
+ to get [MINI MEDAL #33], then g
+
+ Straight from the beginning of 
+ then head up the new stairway i
+ another set of stairs to find a
+ hard to get through though -- j
+ Make sure to pick up the chest 
+ want a [SEED OF AGILITY]. Now h
+ the "labyrinth". Ignore the two
+ stairs right of them instead. Y
+
+ So, in this labyrinth there is 
+ from. It leads out to the Colos
+ with [HELA'S HAMMER] inside. It
+ target very often, but is very 
+ back inside the Colossus, and g
+ the floor with those two black 
+ camera, you'll find a hidden do
+ that hidden door, then go up th
+
+ See the treasure chest on your 
+ monster. Kill it if you want to
+ are two doors leading south. He
+ first, and I fell down to a bad
+ onto the Colossus's left hand. 
+ again. You'll find more stairs 
+ reach the very top floor! There
+
+ As if you just activated a magi
+ you're riding him! God, this is
+ taken to the other side of a ri
+ the opening in the eastern part
+ of corny -- you'll be jumping o
+ southern side of a river on the
+ Colossus was, after all, to get
+ you've done it! Not bad at all,
+ get past that river, you can ju
+ Colossus's location. But right 
+ You'll see a dark palace just a
+live!
+
+--- DIABOLIC HALL, WHERE THE BAD
+
+ Before entering the hall, use  
+ until your party members turn i
+ Talking to  the other  monsters
+ Palace won't be dangerous then.
+ to kill them though, you can st
+ in there  in human form. It's  
+ this  is a  case of what  Ameri
+ freedom of choice. Right?      
+ |  Mini Medal #35.......[  ] |
+ Alright!  Head  in  there  now 
+ monsters' home! Inside the cast
+ the  stairs  on your  left  han
+ several  chests,  bottles  and 
+ down here, so break them all. A
+ all seem  to have eating disord
+
+ The chests and bottles contain 
+ [LUCIDA SHARD]. Now head down t
+ through a short corridor, then 
+ monsters having a conversation.
+ baddest of all baddies. Good to
+ beginning of the palace. This t
+ northeastern end of that room. 
+ empty. Left of the throne there
+ outside, behind the castle itse
+ stairway leading downwards to a
+ the chests in that room to get 
+ [MINI MEDAL #35]. One of the ch
+ down here. After taking them al
+ time, head through the door sou
+
+ Jump down from the balcony. Now
+ taking damage when walking on t
+ of the screen, you'll find some
+ tombstone down here, and someth
+ up -- it's a [KAMIKAZE BRACER]!
+ just head back to the throne ro
+ throne again, but instead of ju
+ your left hand instead. Welcome
+ into a monster using the Mod Ro
+ scary monsters in here. The mon
+
+ - Small Devil
+ - Blue Tiger
+ - Skeleton
+ - Green Flame
+ - Rhino
+
+ When you've spoken to them all,
+ Tiger, and wait for a cut-scene
+ here -- to talk with the other 
+ arrives, he explains that a gro
+ the Underworld, while they were
+ for me and you, it means... a l
+ the monsters to follow him to M
+ with that, we've got nothing mo
+ game now, then travel to Mamon 
+
+--- BACK TO MAMON MINE! ESTARK M
+
+ o----------------------------o 
+ | ITEM CHECKLIST             | 
+ |                            | 
+ |  Mini Medal #36.......[  ] | 
+ |  Magic Water..........[  ] | 
+ |  Seed of Strength.....[  ] | 
+ |  Seed of Agility......[  ] | 
+ |  2480 Coins...........[  ] | 
+ |  Mini Medal #37.......[  ] | 
+ |  Gas Container........[  ] | 
+ |                            | 
+ o----------------------------o 
+        the sphere to get  some 
+ Head east to find a similar, bu
+ to this one, but only one is re
+ walking. Head inside, if you da
+
+ Alrightie! Now you're in a squa
+ Exit in the northern end to fin
+ bottle of [MAGIC WATER] in. Nic
+ are even more treasures: [SEED 
+ bag containing [2480 COINS]. Th
+ crying -- if they know you're i
+ continue after getting all thos
+ leading upwards to the next flo
+ where you saw those four torche
+
+ So, move east now, but don't go
+ upwards. Instead, when getting 
+ the southeastern end of the roo
+ there, leading down to a treasu
+ one real chest (the eastmost ch
+ [MINI MEDAL #37]. Just north of
+ chest on, but it's guarded by a
+ killed Estark. Just ask the fla
+
+ Now then, all silliness aside, 
+ west from that flame/altar. The
+ battle. And guess who we're up 
+ a group of monsters guarding a 
+ when told to. Kill them using n
+ talking to the giant. You're go
+
+ .------------------------------
+ | BOSS SHOWDOWN: Estark        
+ |------------------------------
+ | PARTY: Hero, Ragnar, Meena, A
+ | MY LEVEL: 27                 
+ | DIFFICULTY: Medium           
+ |                              
+ |  - You'd think that the Lord 
+ |    not much so if you're at a
+ |    battle, he will be sleepin
+ |    your party members. Let al
+ |    except for one of them, wh
+ |    he is awake, he will mostl
+ |    a cold wind that damages a
+ |                              
+ |    To successfully get throug
+ |    skill to heal someone ever
+ |    attacks as often as they c
+ |    do deal a bunch of lightni
+ |                              
+ |    Sometimes Estark will slas
+ |    dangerous. When it happens
+ |    in addition to Meena, who 
+ |                              
+ '------------------------------
+
+ That's it! You showed him! Exam
+ is  done  for, then  try to  he
+ terrified when he sees that you
+ great! He shakes in his pants w
+ We're quite strong and scary, a
+ servants run into the room. He 
+ girl that lives in the tower in
+ remember, by playing the Flute 
+ dungeon, rushing back to his gi
+
+ - ESTARK IS DEAD -
+
+ As  for  you, you  remember  th
+ downstairs from where  you kill
+ gone now, you see. One of  the 
+ hidden inside -- it's the [GAS 
+ for a second.... it's what that
+ to make a flying balloon for yo
+ your game wherever you want to 
+ you got to talk to lives in the
+
+ Give the Gas Container to him w
+ the inn in town to let him get 
+ give you the {AIR BALLOON} now 
+ whenever you want to, and using
+ as.. the place you need to go t
+ probably remember that you got 
+ It's a long time ago, but it di
+ can fly to that "X" now, using 
+ eastern part of the world map. 
+ map, it looks just like a tree 
+
+--- AIR BALLOON AND WORLD TREE -
+
+ - EL FORADO -                  
+ | ITEM CHECKLIST             |
+ Talk  to  the   green-haired  g
+ entrance. She says that this pl
+ El Forado, and that  it's been 
+ human last visited them. You'll
+ that the animals here know how 
+ language -- they'll say that th
+ Yggdrasil, grows here in El For
+ head over to the  armor shop in
+ part of town. They only sell tw
+ they're  pretty  strong.  Buy [
+ and [FLOWING DRESS] for anyone 
+ weaker gear  equipped. If you g
+ After  getting  equipped,  head
+ party  up so  that there  are O
+
+ My choice was Hero, Meena and R
+ other members for your lineup, 
+ three people in your lineup is 
+ a free spot in your lineup. So,
+ into El Forado. Enter the World
+
+ - WORLD TREE YGGDRASIL -
+
+ Take the left stairs, and head 
+ to get a [YGGDRASIL LEAF]. You 
+ Also, if you want several of th
+ replace the character that is c
+ another one. As long as there i
+ game will let you grab new leaf
+ where  you  found the leaf, and
+ [STAFF OF SALVATION]. Get back 
+ eastern  part of  the tree's  e
+ southwest to find another stair
+
+ Now then, you'll see a stairway
+ go south instead, to find a sta
+ leads to a chest with a [YGGDRA
+ downstairs. Now, this time you 
+ some moments ago. It leads up t
+ the Dew on a small island of le
+ however, is not reachable from 
+ instead. At the next floor's en
+ wounded. The angel asks you to 
+ party. If you remembered to red
+ told you to, that is. Her name 
+
+ Orifiela goes on to explain tha
+ enter Zenithia, and that this s
+ And actually, it's on the floor
+ sword, just head southwest from
+ branches until you arrive in th
+ [ZENITHIAN SWORD] among the lea
+ Zenithian Equipment Set if comp
+ it isn't as strong as your curr
+ Now Zoom over to Porthrunnel an
+ town in your balloon. When you 
+ land there to get taken to a br
+
+--- ISLAND ADVENTURE -----------
+
+ So, how  do you  like the  new 
+ getting tired of the main world
+ all,  so it's  good with  a sma
+ Anyways, you'll find  a town ju
+ where  you  start out,  so  mak
+ there. The town's name is Azimu
+ to Zenithia. Talk to all the pr
+ town  to find  out more  about 
+ make sure to get [MINI MEDAL #3
+ eastmost house in town.        
+|  Yggdrasil Dew........[  ]  |
+ [MINI MEDAL #39]  can   be  fou
+ prison,  in  the  western   par
+ Before leaving town again (the 
+ Zenithia  can't  be  accessed  
+ all)   save    your  game,  and
+ buying  the [SPIKED ARMOR] for 
+ the armor shop. Travel east fro
+ and head over to the shrine you
+
+ - BARON'S FOLLY -
+
+ Welcome to Baron's Folly, the m
+ there isn't a single enemy here
+ There are several armors at the
+ and head down the stairs instea
+ the bottom room where a chest i
+ there is a [GODDESS RING]. Sinc
+ user, such as Meena, equip it. 
+ you ignored earlier. It goes do
+ first saw the lift again, and j
+ now that the lift is gone. You'
+ Hop down south from the lift's 
+
+ It's a pretty entertaining thin
+ summon lots of horses that will
+ save your game now! Next, trave
+ Enter the building that looks l
+ Hero in your lineup, and that h
+ Walk up the huge stairs, and op
+
+ - ISLAND TOWER -
+
+ See that pool on your left? Abo
+ head to the top of in order to 
+ southwest to find another stair
+ [DRAGON SHIELD] in. Go back dow
+ time choose the southeastern st
+ Enter the gate to get a [GLOMBO
+ just a moment ago. It'll take y
+ another similar gate can be fou
+ platform north of it instead. Y
+ roof up here. Enter the buildin
+
+ The next room has two stairs in
+ the southern part. Head up the 
+ [YGGDRASIL DEW] hidden behind a
+ chest, and head up the northwes
+ platform and a huge ladder on y
+ gal, climb up the ladder. At th
+ yellow pillars. From those pill
+ find below two water pools.
+
+ Head down that tiny ladder on y
+ a room with a white cross-forme
+ pattern, and EXAMINE the ground
+ stairs above that floor pattern
+ [SEED OF STRENGTH] and [MINI ME
+ the two yellow pillars (at the 
+ the stairs west of there. Go in
+ the roof using the stairway ins
+ It'll take us even higher! Heee
+
+ After getting off the platform,
+ [KERPLUNK BRACER]. Then make yo
+ stairway leads east. Walk on th
+ eastern part of the room. You'r
+ stairway in the northern end of
+ here, just walk straight until 
+ an altar there -- step on it to
+
+--- ZENITHIA CASTLE ------------
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Yggdrasil Dew...............
+ |  Mini Medal #42..............
+ |  Sparkie.....................
+ |  Mini Medal #43..............
+ |  Shimmering Dress............
+ |  Mini Medal #44..............
+ |  Mighty Armlet...............
+ |  Flowing Dress...............
+ |  Thalian Staff...............
+ |                              
+ o------------------------------
+
+ Now that she's home again, Orif
+ everything you've done for her 
+ place, so I'll only go through 
+ the items that are hidden here.
+ Zenithia's entrance, and talk t
+ here to get a [YGGDRASIL DEW] f
+ you  can  come  back to him  af
+ [MINI MEDAL #42], peek into the
+ green devil is! Bingo! From her
+ down to the lowest point of Zen
+
+ Orifiela's waiting for you down
+ [SPARKIE] is a dragon that you 
+ battles, but you can't take dir
+ rather risky. Before leaving th
+ Orifiela is standing -- you'll 
+
+ Go back to the entrance of Zeni
+ of the entrance. A dragon's wai
+ Speak to the Zenith Dragon. The
+ Psaro's evil plans as this poin
+ Psaro's just launched an attack
+ wasn't a big one though -- ever
+ listening to the Zenith Dragon,
+ battle against Psaro. You're ac
+ isn't just joking, the dragon g
+ your Zenithian Sword, so that i
+
+ After powering you up, the Zeni
+ destination, he says, is the Un
+ journey there, head back downst
+ the southern end to find a hole
+
+ - NADIRIA ENTRANCE DUNGEON -
+
+ Now that you've dropped through
+ the island below Zenithia again
+ only place you can really go no
+ Head inside to find the Nadiria
+ Please don't be angry at poor k
+ of the dungeon, go two screens 
+ pool in. Open the chest to get 
+ equipping on Meena. Head one sc
+ west. Follow the path north now
+ following the very same path. Y
+ soon. From those stairs, go one
+
+ Now you're in a room with some 
+ ground. Step on the rightmost a
+ southeastern part of the room. 
+ you have this medal, exit the r
+ those stairs from before, conti
+ There are no more forks for a w
+ there is until you find another
+ passage leading west. Don't hea
+ stairs. Follow the path straigh
+ on the ground. You'll know it w
+
+ As you already know everything 
+ avoid taking damage however, ju
+ wade through the poison and get
+ in the absolute northwestern pa
+ equip it on one of your charact
+ part of the room to find anothe
+ Armlet equipped, you're ready t
+ there, and this time head one s
+
+ Continue west for a couple of s
+ if you want to get the [THALIAN
+ poisoned ground on your right h
+ the poison -- it's just a mimic
+ east from the mimic (just ignor
+ side of a wall) and head upstai
+
+ The next floor is another area 
+ in the southwestern end of the 
+ it. This armor is cursed, for y
+ leading east from the Hela's Ar
+ that's placed between four squa
+ treasure chests! They contain [
+ and a [SEED OF AGILITY]. Take a
+ southwest of the four chests.
+
+ So... what's waiting for us dow
+ like that! Step on the raft and
+ small island with some stairs o
+ west through the corridor here,
+ pillars. Examine the ground abo
+ [SEED OF RESILIENCE]. Eat it, t
+ front of your eyes, then crawl 
+ found next to a demon statue. H
+ "Phew!" for real! Yep!
+
+ - MAGMA CAVE -
+
+ Walk south to the other side of
+ next to the stairway. Open the 
+ Ragnar, then fall further down,
+ right to get a [SEED OF LIFE], 
+ again. Travel south to the near
+ shrine, I suggest Zooming back 
+ then return to Heaven's Haven a
+ to save at the beginning of Hea
+ tried to do it, for your inform
+ Heaven's Haven to continue.
+
+--- HEAVEN'S HAVEN AND THE FOUR 
+
+ o----------------------------o 
+ | ITEM CHECKLIST             | 
+ |                            | 
+ |  Dragon Shield........[  ] | 
+ |  Miracle Sword........[  ] | 
+ |  Oaken Club...........[  ] | 
+ |  Zombie Mail..........[  ] | 
+ |                            | 
+ o----------------------------o 
+     purple pool of poison.
+
+ Head down the stairs in the ent
+ purple dragon who says that it'
+ says there's nothing to do but 
+ Mister Dragon, isn't it? Anyway
+ dragons you'll have to deal wit
+
+ .------------------------------
+ | BOSS SHOWDOWN: Rashaverak    
+ |------------------------------
+ | PARTY: Hero, Ragnar, Meena, A
+ | MY LEVEL: 31                 
+ | DIFFICULTY: Easy             
+ |                              
+ |  - Since the 3 dragons can ca
+ |    killed, you need to try an
+ |    that they're all killed ar
+ |    ability to deal lots of da
+ |    other three party members 
+ |    dragons, but to them all. 
+ |    boss battle though, as eac
+ |                              
+ |    Killing them shouldn't be 
+ |    yourself into, and once yo
+ |                              
+ '------------------------------
+
+ Since you're done here, head ba
+ earlier. Talk to her in order t
+ barrier shrine, which can be fo
+ ladder near the entrance! Climb
+ who's waiting for you. Kick it'
+
+ .------------------------------
+ | BOSS SHOWDOWN: Barbatos      
+ |------------------------------
+ | PARTY: Hero, Ragnar, Meena, A
+ | MY LEVEL: 32                 
+ | DIFFICULTY: Medium           
+ |                              
+ |  - Barbatos has several attac
+ |    lineup at the same time. T
+ |    Meena's "Insulatle" spell 
+ |    neutralize it. Even now ho
+ |    so watch everyone's HP, an
+ |    back to perfect health whe
+ |                              
+ |    When healing isn't needed,
+ |    go down after three-four m
+ |                              
+ '------------------------------
+
+ As you can see, Barbatos droppe
+ every single time he/she attack
+ equip it. Go back to the angel 
+ the third shrine. You'll find i
+ this shrine to find some moving
+ but you'll get teleported back 
+
+ - STATUES PUZZLE: From the begi
+   just move a few steps east fr
+   an incredibly easy way of pas
+   east of it. Remember, from th
+   walk north. Head down the sta
+   talk to the monster who's wai
+   boss battle, as you may have 
+
+ .------------------------------
+ | BOSS SHOWDOWN: Pruslas       
+ |------------------------------
+ | PARTY: Hero, Ragnar, Meena, A
+ | MY LEVEL: 33                 
+ | DIFFICULTY: Medium           
+ |                              
+ |  - This battle is very straig
+ |    muscles, no brain" kind of
+ |    attacks, so if you're usin
+ |    have to bother with spells
+ |    From time to time, Pruslas
+ |    his attacks are so powerfu
+ |    party's HP drop below 50%.
+ |    as you'll never need to he
+ |                              
+ '------------------------------
+
+ Pruslas doesn't have anything t
+ there like a normal monster. I'
+ later, when he reaches the afte
+ Anyway, head back to the angel 
+ fourth and final shrine. It's l
+
+ From the entrance of the fourth
+ At the next floor, go east thro
+ northeast of the door. To your 
+ the awesome-lookin' [ZOMBIE MAI
+ downstairs from the chest now, 
+ you went through earlier. Now j
+ exists until you reach the boss
+ priest says you've come too lat
+ ultimate form, the most evil, n
+ you'll have to fight the priest
+
+ .------------------------------
+ | BOSS SHOWDOWN: Aamon         
+ |------------------------------
+ | PARTY: Hero, Ragnar, Meena, A
+ | MY LEVEL: 33                 
+ | DIFFICULTY: Medium           
+ |                              
+ |  - Ready? Okai. Aamon has thr
+ |    occupied most of the time.
+ |    then let her heal the othe
+ |    As for the Hero, let him/h
+ |    order to remove the protec
+ |    If he casts it once again,
+ |    The lineup that I (we?) ar
+ |    damage, so normal attacks 
+ |    spells to attack, make sur
+ |    first. If you want to live
+ |                              
+ '------------------------------
+
+ Alrightie! All of the four barr
+ we've got access to the last pr
+ located just north of the angel
+ remember to save and heal first
+ frustration. Believe me. If you
+
+--- DEATH CASTLE ---------------
+
+ Walk north past the statues at 
+ and open the door that leads in
+ itself.  In  the  next  room,  
+ humanoid statues that  will try
+ as  well  as  some  electrified
+ Maya's "Safe Passage" skill to 
+ damage  from  the  electrified 
+ just  make  your  way  northeas
+ trying to avoid  the humanoid s
+ on walking until you find some 
+ southeastern end of the area. H
+
+ Up on the next floor, head one 
+ ground. It's dead of course, so
+ the door just north of the skel
+
+ Just keep on walking through th
+ next to a flame, leading downwa
+ "Safe Passage" to avoid poison 
+ Now run over to the southwester
+ containing [MINI MEDAL #45]! Go
+ standing right next to the flam
+ up to the next floor, if you da
+
+ Walk south past all of those sc
+ corridor. On this small balcony
+ you're seeing in front of you n
+ now, and continue north instead
+ of statues in it, and there's a
+ the beginning of the room, then
+ part of the room. One of them i
+ uncover the passage, and head i
+ one of the castle's balconies, 
+ come in handy when you're out o
+ back to  the room where you pus
+
+ Instead of pushing more statues
+ in the eastern end of the statu
+ you find two chests. Inside the
+ [LIGHTNING STAFF]. With those i
+ elevator and activate it. It'll
+ that flame is, if you remember 
+
+ Once the elevator has stopped, 
+ corridor. At the next floor, th
+ walk north from the dead chap, 
+ take you another floor downward
+ stairs just northwest of here. 
+ elevator, so do that. Get onto 
+ continue north from there to re
+ corridor until you see a pool o
+ northwest to find a room that l
+ northern part of this cave room
+
+ You'll see a huge volcano in fr
+ next. Once in the volcano area,
+ Baron's Bugle item in order to 
+ do this, you won't be able to c
+ upcoming battle against... You 
+ Psaro, of course. There are sev
+ so try not to exhaust yourself 
+ restored between Psaro's variou
+
+ It's also a good idea to let so
+ carry the Sage's Stone, and use
+ everyone's HP without having to
+
+ - PLEASE NOTE: I wouldn't recom
+   Sage's Stone (which can be fo
+   all of your party members thr
+   spend any MP. So, make sure y
+   party is carrying it.
+
+ .------------------------------
+ | BOSS SHOWDOWN: Psaro the Mans
+ |------------------------------
+ | PARTY: Hero, Ragnar, Meena, A
+ | MY LEVEL: 37                 
+ | DIFFICULTY: Hard             
+ |                              
+ |  - FORM I: The first form is 
+ |    around with his sabre, hit
+ |    Let everyone in your party
+ |    for the one that carries t
+ |    use the stone pretty much 
+ |    health on a.... healthy le
+ |    arm is blown off from his 
+ |                              
+ |  - FORM II: Continue playing 
+ |    to use the Hero's "Omnihea
+ |    your comrades back to 100%
+ |    off from Psaro's body.    
+ |                              
+ |  - FORM III: Now that both of
+ |    pattern. Instead of going 
+ |    starts using attacks that 
+ |    attacks tend to do less da
+ |    using the Sage's Stone to 
+ |    spells on himself (the one
+ |    use the Zenithian Sword as
+ |    the effect of those spells
+ |    "Zing" spell to revive the
+ |    When you're done with this
+ |                              
+ |  - FORM IV: Psaro's gone bats
+ |    and starts doing all kinds
+ |    "Insulatle" to try and neu
+ |    you've cast that spell, co
+ |    using the Sage's Stone. Ps
+ |    but you should be able to 
+ |    to heal -- just keep on le
+ |    If Psaro breathes on you, 
+ |    party, make sure to recast
+ |    grow out of Psaro's ears. 
+ |                              
+ |  - FORM V: The battle continu
+ |    pattern. Just let me menti
+ |    got the "Insulatle" spell 
+ |    some of that elemental dam
+ |    Stone -- use it every sing
+ |    real nasty feet!          
+ |                              
+ |  - FORM VI: No big changes. C
+ |    you from time to time, but
+ |    than before in any way. Fo
+ |    devil horns, and a grim, g
+ |                              
+ |  - FORM VII: So, final form n
+ |    spell is active at all tim
+ |    the Zenithian Sword as an 
+ |    effects, then continue lik
+ |    last for very long once yo
+ |                              
+ '------------------------------
+
+ Psaro's body feels so... so.. i
+ There's no blood though, just P
+ Everything's chaos though, sinc
+ left here to support the volcan
+ collapses, someone you know com
+ Once there, all of your party m
+ themselves worthy, and have fin
+
+ When you're back in control of 
+ Watch the cut-scene where your 
+ homes, and the hero's home vill
+ game just yet; watch the ending
+ to do so. There's still content
+
+================================
+
+       POST-ADVENTURE CONTENT   
+
+================================
+
+ After you've watched all the en
+ reload your savegame in order t
+ unlocked now, and after we've c
+ our party. You'd like that, rig
+ make your way back to Azimuth, 
+ appeared in the ground near him
+
+--- FOO YUNG & CHOW MEIN'S DUNGE
+
+ o------------------------------
+ |                              
+ |                        I T E 
+ |                              
+ |  Mini Medal #46..............
+ |  Strength Ring...............
+ |  Yggdrasil Leaf..............
+ |  Mini Medal #47..............
+ |  Agility Seed................
+ |  Mini Medal #48..............
+ |  Mini Medal #49..............
+ |  Seed of Resilience..........
+ |  1,200 Coins.................
+ |  Death Mask..................
+ |  Elevating Shoes.............
+ |  Seed of Life................
+ |  Cobra Claw..................
+ |  Robe of Serinity............
+ |                              
+ o------------------------------
+
+ The first room is as basic as a
+ (in case you want to get back o
+ the entrance. So, open that doo
+ room is very straight-forward a
+ the stairs that are impossible 
+
+ Now, in here, you’ll see a door
+ the door for now, and follow th
+ will take you to a set of stair
+ the stairs to another room wher
+
+ Board the raft and sail south t
+ a Pandora’s Box, while the left
+ reward-giving medals –- it’s [M
+ back to the beginning of this r
+ [STRENGTH RING]. From here, sai
+ area, and leave your raft there
+ lead you to a chest containing 
+ in the area with the raft, so h
+ time, you need to head through 
+ told you to ignore earlier, rem
+
+ In this room, just take the eas
+ afterwards make your way northe
+ an area with lots and lots of b
+ like attaching names on areas. 
+ head west across two bridges to
+ the start of the room, and head
+ yourself in a forked bridge. Ta
+ then take the other fork to fin
+
+ - AFTER THE BRIDGE ROOM -
+
+ You’ll see a house down here, s
+ –- just head down the stairs ri
+ house! Before heading into this
+ and grab [MINI MEDAL #49] at th
+ second house. There’s an inn in
+ stairs in here to head down int
+
+In the inn basement, there is a
+room in the northwestern end
+which is locked
+ by a door you need the Ultimate
+ south from the beginning, and w
+ Inside the room there is a ches
+ another containign [1,200 COINS
+ basement as well, but we don’t 
+ back upstairs, and exit the inn
+ go through the door located the
+ your right to find a chest, the
+ a bridge. Next, head down the s
+
+ It’s rather hot down here... ri
+ ROOM. Sweat is dripping from yo
+ one-way path to find a chest co
+ take the western path and follo
+ need to head north and keep wal
+ stairs taking you to a new scre
+ tower. Turn your nose left from
+ north, to find the EXP-granting
+ fork now, and head north from t
+
+ - INSIDE THE TOWER -
+
+ We're in a pretty big room now,
+ and right side. Head right firs
+ Afterwards, follow the elevated
+ northern half of the current fl
+ are some stairs leading up to a
+ Take the item, and go back down
+ northwestern end of the floor, 
+ brand new floor. Go up to that 
+
+ There's a hole in the ground up
+ into it. It's not dangerous, ku
+ down into the middle of the pre
+ here that you should walk down 
+
+ This room has a Pandora's Box i
+ to the elevated path on your ri
+ up on the elevated path, but ig
+ path south. When it bends west,
+ you'll soon see one of those ga
+ into that gap/hole. You'll now 
+ invisible path until you reach 
+ jump down and head into a door 
+
+ In the next area there are no m
+ just follow the path until you 
+ so use the Safe Passage spell t
+ [1,600 COINS], before heading f
+ your game in the church, and ex
+
+ - AFTER SAVING AT THE CHURCH –
+
+ Run north to find some graves w
+ Examine it to reveal [MINI MEDA
+ it, and climb some more to find
+ graves are, and head northeast 
+ area with several barrels with 
+ head up the stairs on the other
+
+ Now that you’ve climbed the sta
+ southwest for a new chest. From
+ you see another chest containin
+ in the village-ish area as well
+ useful pair of [BOXER TRUNKS] i
+ The next room is very easy to g
+ and a [KERPLUNK BRACER] can be 
+ find a room with many ladders i
+
+ Head downwards in the ladder ar
+ one short. Climb down the long 
+ the short one. Continue downwar
+ It leads to another chest with 
+ down to the very bottom of the 
+ screen. Welcome to the final ro
+ been waiting for. There’s many 
+ is very simple. Open the chests
+ a [RUBY OF PROTECTION]. Now exi
+
+ .------------------------------
+ | BOSS SHOWDOWN: Foo Yung & Cho
+ |------------------------------
+ | PARTY: Hero, Borya, Kiryl, Ra
+ | MY LEVEL: 43                 
+ | DIFFICULTY: Hard             
+ |                              
+ |  - Your main objective is to 
+ |    protective spells which ar
+ |    attacking him, Borya casti
+ |    turns in a row and Ragnar 
+ |    serious damage to Foo Yung
+ |    their strong attacks, Foo 
+ |    Mein throwing a boulder. I
+ |    Borya to cast Sap, it'll b
+ |                              
+ |    These guys shouldn't be to
+ |    out, Chow Mein will be pre
+ |                              
+ '------------------------------
+
+ Now that these guys have been d
+ Yggdrasil Tree (located in El F
+ into the whole behind your dead
+ From there, go to El Florado, a
+ the [YGGDRASIL FLOWER] which is
+ resting safe in your pocket, zo
+ tomb, near the white yeti monst
+ her join your party.
+
+ Now it's time to travel to Heav
+ Psaro. Let Rose talk to him, in
+ playable character. He already 
+ of them when he levels up. Some
+ cast them! So, now your party i
+ has teamed up with you! But tha
+
+ As for what we've got left to d
+ named Aamon that needs some ser
+ show him who's the strongest! A
+ and does not take any damage fr
+
+================================
+
+       MINI MEDAL REWARDS       
+
+================================
+
+ The Mini Medals that you find t
+ some really great awards. Once 
+ to the small island in the very
+ castle. Inside, you'll find the
+ have enough medals. There are m
+ found 60 of them, there won't b
+
+ o-------------------.----------
+ | MINI MEDALS       | REWARD   
+ |-------------------|----------
+ | 15                | Strength 
+ +-------------------+----------
+ | 20                | Ruby of P
+ +-------------------+----------
+ | 25                | Magical S
+ +-------------------+----------
+ | 30                | Staff of 
+ +-------------------+----------
+ | 34                | Kerplunk 
+ +-------------------+----------
+ | 38                | Miracle S
+ +-------------------+----------
+ | 43                | Happy Hat
+ +-------------------+----------
+ | 47                | Mighty Ar
+ +-------------------+----------
+ | 52                | Liquid Me
+ +-------------------+----------
+ | 60                | Gringham 
+ o-------------------'----------
+
+================================
+
+        CASINO                  
+
+================================
+
+ When you're tired of playing th
+ take a relaxing break at one of
+ should be particularily interes
+ idea if you're still far from t
+ of games that you can play in o
+ The casino coins you win, can i
+ the two diagrams below. Note th
+ using real coins -- you've got 
+
+ - CASINO I: The first of the tw
+   found in the tavern in Endor,
+   II. The prizes you win in thi
+   by the ones you can earn in t
+   spending a lot of time at the
+   weaker than the equipment you
+   second casino instead!
+
+ - CASINO II: The only way to re
+   progress with the Pioneer Tow
+   wondering how to get to that 
+   section in this guide. Anyway
+   superior to the ones found in
+   value and equipment stats. Th
+   Helm -- is easily among the b
+
+ .-------------------.----------
+ | CASINO I (ENDOR)  | CASINO CO
+ |-------------------'----------
+ | Magic Water       | 30       
+ |-------------------|----------
+ | Prayer Ring       | 500      
+ |-------------------|----------
+ | Gold Bracer       | 1,000    
+ |-------------------|----------
+ | Spangled Dress    | 2,500    
+ |-------------------|----------
+ | Meteor Bracer     | 10,000   
+ |-------------------|----------
+ | Falcon Blade      | 65,000   
+ '-------------------'----------
+          '-------------------'-
+
+ Please forgive me for not inclu
+ games that you can play. Such d
+ walkthrough's scope, unless som
+ apologize for this.
+
+================================
+
+        NORMAL ITEMS            
+
+================================
+
+ o--------------------------.---
+ | ITEM NAME                | DE
+ |--------------------------|---
+ | Coins                    | Wa
+ +--------------------------+---
+ | Medicinal Herb           | Re
+ +--------------------------+---
+ | Antidotal Herb           | Cu
+ +--------------------------+---
+ | Seed of Strength         | Ra
+ +--------------------------+---
+ | Seed of Agility          | Ra
+ +--------------------------+---
+ | Seed of Life             | Ra
+ +--------------------------+---
+ | Seed of Luck             | Ra
+ +--------------------------+---
+ | Seed of Resilience       | Ra
+ +--------------------------+---
+ | Chimaera Wing            | Wa
+ +--------------------------+---
+ | Holy Water               | Ke
+ +--------------------------+---
+ | Magic Water              | Re
+ +--------------------------+---
+ | Moonwort Bulb            | Cu
+ +--------------------------+---
+ | Horse Manure             | It
+ +--------------------------+---
+ | Packed Lunch             | Ma
+ +-------------------------+----
+ | Musk                    | Att
+ |                         | mor
+ +-------------------------+----
+ | Yggdrasil Dew            | Fu
+ +--------------------------+---
+ | Yggrdasil Leaf           | Re
+ o--------------------------'---
+
+================================
+
+       STORYLINE ITEMS          
+
+================================
+
+ o--------------------------.---
+ | ITEM NAME                | DE
+ |--------------------------|---
+ | Talaria                  | A 
+ |                          | pe
+ |                          | fa
+ |                          | Ra
+ |                          | re
+ |                          | th
+ |                          | tr
+ |                          |   
+ +--------------------------+---
+ | Armlet of                | Th
+ | Transmutation            | an
+ |                          | "V
+ |                          | of
+ |                          | re
+ |                          |   
+ +--------------------------+---
+ | Thief's Key              | Th
+ |                          | it
+ |                          | en
+ |                          | re
+ |                          | Ar
+ |                          | in
+ |                          |   
+ +--------------------------+---
+ | Birdsong Nectar          | Al
+ |                          | II
+ |                          | ne
+ |                          |   
+ +--------------------------+---
+ | {Salary / Earnings}      | No
+ |                          | in
+ |                          | Ch
+ |                          | th
+ |                          | in
+ |                          | ab
+ |                          | ma
+ |                          |   
+ |                          | At
+ |                          | hi
+ |                          | mo
+ |                          | se
+ |                          | in
+ |                          | yo
+ |                          |   
+ +--------------------------+---
+ | Prince's Letter          | Th
+ |                          | wi
+ |                          | a 
+ |                          | ni
+ |                          | Pr
+ |                          |   
+ +--------------------------+---
+ | Royal Scroll             | A 
+ |                          | of
+ |                          | or
+ |                          | na
+ |                          | ma
+ |                          |   
+ +--------------------------+---
+ | Steel Strongbox          | No
+ |                          | go
+ |                          | ho
+ |                          | Du
+ |                          |   
+ +--------------------------+---
+ | Silver Goddess Statue    | Th
+ |                          | of
+ |                          | To
+ |                          | "n
+ |                          | ma
+ |                          |   
+ +--------------------------+---
+ | Night Light              | An
+ |                          | pa
+ |                          | ca
+ |                          | yo
+ |                          |   
+ +--------------------------+---
+ | Sphere of Silence        | Fo
+ |                          | Ni
+ |                          | ba
+ |                          | co
+ |                          | ag
+ +--------------------------+---
+ | Powder Keg               | A 
+ |                          | Yo
+ |                          | Ch
+ |                          | th
+ |                          |   
+ +--------------------------+---
+ | Boarding Pass            | A 
+ |                          | to
+ |                          | To
+ |                          | th
+ |                          |   
+ +--------------------------+---
+ | Big Book Of Beasts       | Al
+ |                          | th
+ |                          | me
+ |                          | Th
+ |                          | ex
+ |                          |   
+ +--------------------------+---
+ | Symbol Of Faith          | Hi
+ |                          | tr
+ |                          | to
+ |                          | he
+ |                          | se
+ |                          | le
+ |                          | ge
+ |                          |   
+ +--------------------------+---
+ | {Mary Lou}               | An
+ |                          | se
+ |                          | Ma
+ |                          | cr
+ |                          | th
+ |                          | co
+ |                          | so
+ |                          |   
+ +--------------------------+---
+ | {Torneko's Ship}         | Th
+ |                          | sh
+ |                          | It
+ |                          | ea
+ |                          | co
+ |                          |   
+ +--------------------------+---
+ | Holy Embers              | Th
+ |                          | fl
+ |                          | ba
+ |                          | th
+ |                          | Th
+ |                          |   
+ +--------------------------+---
+ | Treasure Map             | A 
+ |                          | pr
+ |                          | hu
+ |                          | le
+ |                          | re
+ |                          | Ba
+ |                          |   
+ +--------------------------+---
+ | Feverfew Seed / Root     | Th
+ |                          | ki
+ |                          | Ki
+ |                          | in
+ |                          | ro
+ |                          | on
+ |                          |   
+ +--------------------------+---
+ | Magic Key                | Si
+ |                          | op
+ |                          | It
+ |                          | wh
+ |                          | we
+ |                          |   
+ +--------------------------+---
+ | Magma Staff              | Yo
+ |                          | se
+ |                          | Ki
+ |                          | sl
+ |                          |   
+ +--------------------------+---
+ | Bronze Rosary            | A 
+ |                          | in
+ |                          | pa
+ |                          |   
+ +--------------------------+---
+ | Ultimate Key             | A 
+ |                          | Fe
+ |                          | ga
+ |                          |   
+ +--------------------------+---
+ | Karstaway Stone          | A 
+ |                          | to
+ |                          | Du
+ |                          |   
+ +--------------------------+---
+ | Mod Rod                  | Th
+ |                          | al
+ |                          | in
+ |                          | mo
+ |                          | ga
+ |                          | be
+ |                          | Pa
+ |                          |   
+ +--------------------------+---
+ | Gas Canister             | Th
+ |                          | mi
+ |                          | li
+ |                          | th
+ |                          | ma
+ |                          | He
+ |                          | yo
+ |                          |   
+ +--------------------------+---
+ | Baron's Bugle            | Yo
+ |                          | wa
+ |                          | us
+ |                          | Ps
+ |                          | st
+ |                          | su
+ |                          | th
+ |                          | li
+ |                          |   
+ o--------------------------'---
+
+================================
+
+        Spells/Skills           
+
+================================
+
+--- HERO/HEROINE SPELLS --------
+
+ o--------.-------------------.-
+ | LEVEL  | SPELL NAME        | 
+ |--------|-------------------|-
+ | Lv1    | Poof!             | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv2    | Heal              | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv3    | Frizz             | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv5    | Midheal           | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv7    | Zoom              | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv9    | Sizz              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv11   | Holy Protection   | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv13   | Evac              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv15   | Kasnooze          | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv17   | Cock-a-doodle-doo | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv19   | Snub              | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv21   | Kaclang           | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv23   | Boom              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv24   | Zap               | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv27   | Fullheal          | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv28   | Zing              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv32   | Omniheal          | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv34   | Kazap             | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv37   | Kazapple          | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv39   | Hocus Pocus       | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv50   | Gigasword         | 
+ |        |                   | 
+ |        |                   | 
+ o--------'-------------------'-
+
+--- KIRYL SPELLS ---------------
+
+ o--------.-------------------.-
+ | LEVEL  | SPELL NAME        | 
+ |--------|-------------------|-
+ | Lv1    | Heal              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv4    | Buff              | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv6    | Dazzle            | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv8    | Squelch           | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv12   | Fizzle            | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv14   | Kabuff            | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv16   | Midheal           | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv18   | Whack             | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv21   | Zing              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv24   | Thwack            | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv27   | Fullheal          | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv30   | Multiheal         | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv33   | Kazing            | 
+ |        |                   | 
+ |        |                   | 
+ o--------'-------------------'-
+
+--- BORYA SPELLS ---------------
+
+ o--------.-------------------.-
+ | LEVEL  | SPELL NAME        | 
+ |--------|-------------------|-
+ | Lv1    | Crack             | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv3    | Sap               | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv5    | Snooze            | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv7    | Evac              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv8    | Bounce            | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv9    | Zoom              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv11   | Crackle           | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv14   | Accelerate        | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv15   | Peep              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv17   | Tick-Tock         | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv19   | Oomph             | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv21   | Kasap             | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv23   | Snoop             | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv25   | Drain Magic       | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv27   | Kacrack           | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv30   | Fuddle            | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv32   | Kacrackle         | 
+ |        |                   | 
+ |        |                   | 
+ o--------'-------------------'-
+
+--- MEENA SPELLS ---------------
+
+ o--------.-------------------.-
+ | LEVEL  | SPELL NAME        | 
+ |--------|-------------------|-
+ | Lv1    | Heal              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv3    | Squelch           | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv5    | Snooze            | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv8    | Woosh             | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv10   | Tingle            | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv13   | Midheal           | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv16   | Kasnooze          | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv20   | Zing              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv23   | Swoosh            | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv26   | Fullheal          | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv29   | Insulate          | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv32   | Kaswoosh          | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv35   | Kerplunk          | 
+ |        |                   | 
+ o--------'-------------------'-
+
+--- MAYA SPELLS ----------------
+
+ o--------.-------------------.-
+ | LEVEL  | SPELL NAME        | 
+ |--------|-------------------|-
+ | Lv1    | Frizz             | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv3    | Sap               | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv7    | Sizz              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv8    | Zoom              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv9    | Evac              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv11   | Bang              | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv14   | Sizzle            | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv16   | Drain Magic       | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv19   | Frizzle           | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv21   | Safe Passage      | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv23   | Boom              | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv27   | Kasizzle          | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv30   | Puff!             | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv33   | Kafrizzle         | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv36   | Kaboom            | 
+ |        |                   | 
+ |        |                   | 
+ o--------'-------------------'-
+
+--- TORNEKO SKILLS -------------
+
+ o--------.-------------------.-
+ | LEVEL  | SPELL NAME        | 
+ |--------|-------------------|-
+ | Lv2    | Padfoot           | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv6    | Eye for Distance  | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv8    | Nose for Treasure | 
+ |        |                   | 
+ |        |                   | 
+ +--------+-------------------+-
+ | Lv11   | Whistle           | 
+ |        |                   | 
+ |        |                   | 
+ o--------'-------------------'-
+
+--- PSARO SKILLS ---------------
+
+ o--------.-------------------.-
+ | LEVEL  | SPELL NAME        | 
+ |--------|-------------------|-
+ | Lv36   | Oomph             | 
+ |        |                   | 
+ |        |                   | 
+ o--------'-------------------'-
+ | Lv40   | Metal Slash       | 
+ |        |                   | 
+ |        |                   | 
+ o--------'-------------------'-
+ | Lv42   | Kathwack          | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ o--------'-------------------'-
+ | Lv44   | Thin Air          | 
+ |        |                   | 
+ |        |                   | 
+ o--------'-------------------'-
+ | Lv46   | Disruptive wave   | 
+ |        |                   | 
+ |        |                   | 
+ o--------'-------------------'-
+ | ---    | Dragon Slash      | 
+ |        |                   | 
+ |        |                   | 
+ o--------'-------------------'-
+ | ---    | Hachet Man        | 
+ |        |                   | 
+ |        |                   | 
+ |        |                   | 
+ o--------'-------------------'-
+ | ---    | Harvest Moon      | 
+ |        |                   | 
+ |        |                   | 
+ o--------'-------------------'-
+
+================================
+
+         Weapons                
+
+================================
+
+ .--------------------.-------.-
+ | WEAPON NAME        | ATK   | 
+ |--------------------|-------|-
+ | Cypress Stick      | +2    | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Staff of Salvation | +5    | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Falcon Knife Ear   | +5    | 
+ | Rings              |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Oaken Club         | +7    | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Copper Sword       | +12   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Divine Dagger      | +14   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Hunter's Bow       | +18   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Chain Sickle       | +20   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Silver Tarot Cards | +21   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Iron Fan           | +22   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Poison Moth Knife  | +24   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Iron Lance         | +28   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Lightning Staff    | +29   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Holy Lance         | +33   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Thalian Staff      | +33   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Staff of Divine    | +35   | 
+ | Wrath              |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Astraea's Abacus   | +35   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Iron Claw          | +38   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Steel Broadsword   | +40   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Hela's Hammer      | +40   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Cautery Sword      | +45   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Staff of Antimagic | +50   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Battle-Axe         | +50   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Dream Blade        | +60   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Somatic Staff      | +60   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Fire Claw          | +60   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Magma Staff        | +63   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Falcon Blade       | +67   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Icicle Dirk        | +75   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Dragonsbane        | +90   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Dougle-Edged Sword | +99   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Demon Spear        | +100  | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Miracle Sword      | +100  | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Zenithian Sword    | +110  | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Flail of           | +115  | 
+ | Destruction        |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Massacre Sword     | +120  | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Gringham Whip      | +125  | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Liquid Metal Sword | +130  | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Pandemonic Sword   | +150  | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Cobra Claw         | +???  | 
+ |                    |       | 
+ o--------------------'-------'-
+
+================================
+
+         Armor                  
+
+================================
+
+ .--------------------.-------.-
+ | ARMOR NAME         | DEF   | 
+ |--------------------|-------|-
+ | Plain Clothes      | +4    | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Wayfarer's Clothes | +7    | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Dancer's Costume   | +8    | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Boxer Shorts       | +8    | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Silk Robe          | +10   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Leather Armor      | +12   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Leather Dress      | +14   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Chain Mail         | +18   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Fur Coat           | +22   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Bronze Armor       | +25   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Cloak of Evasion   | +28   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Iron Armor         | +30   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Iron Apron         | +32   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Robe of Serenity   | +33   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Full Plate Armor   | +35   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Magic Vestment     | +35   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Pink Leotard       | +38   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Zombie Mail        | +39   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Spangled Dress     | +40   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Flowing Dress      | +43   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Dragon Mail        | +45   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Magical Skirt      | +45   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Glombolero         | +47   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Spiked Armor       | +50   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Shimmering Dress   | +50   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Hela's Armor       | +50   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Zenithian Armor    | +60   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Liquid Metal       | +95   | 
+ | Armor              |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Pandemonic Armor   | +100  | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Angel Leotard      | ???   | 
+ |                    |       | 
+ o--------------------'-------'-
+
+================================
+
+        Shields                 
+
+================================
+
+ .--------------------.-------.-
+ | SHIELD NAME        | DEF   | 
+ |--------------------|-------|-
+ | Leather Shield     | +4    | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Scale Shield       | +7    | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Iron Shield        | +12   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Dragon Shield      | +30   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Power Shield       | +40   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Mirror Shield      | +45   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Tempest Shield     | +50   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Zenithian Shield   | +55   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Pandemonic  Shield | +55   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Liquid Metal       | +60   | 
+ | Shield             |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+
+================================
+
+        Headwear                
+
+================================
+
+ .--------------------.-------.-
+ | HEADWEAR NAME      | DEF   | 
+ |--------------------|-------|-
+ | Leather Hat        | +2    | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Hair Band          | +5    | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Hardwood Headwear  | +6    | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Feathered Cap      | +8    | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Golden Tiara       | +12   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Happy Hat          | +15   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Iron Helm          | +16   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Iron Mask          | +25   | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Zenithian Helm     | +30   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Pandemonic Helm    | +40   | 
+ |                    |       | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Liquid Metal Helm  | +50   | 
+ |                    |       | 
+ |                    |       | 
+ +--------------------+-------+-
+ | Death Mask         | +200  | 
+ |                    |       | 
+ o--------------------'-------'-
+
+================================
+
+        Accessories             
+
+================================
+
+ .--------------------.---------
+ | ACCESSORY NAME     | Users   
+ |--------------------|---------
+ | Bunny Tail         | Everyone
+ |                    |         
+ +--------------------+---------
+ | Fishnet Stockings  | All fema
+ |                    |         
+ |                    |         
+ +--------------------+---------
+ | Goddess Ring       | Hero, Al
+ |                    | Meena, M
+ |                    |         
+ |                    |         
+ +--------------------+---------
+ | Gold Bracer        | Everyone
+ |                    |         
+ +--------------------+---------
+ | Kamikaze Bracer    | Hero, Ra
+ |                    | Kiryl, B
+ |                    | Maya    
+ |                    |         
+ +--------------------+---------
+ | Kerplunk Bracer    | Hero, Ra
+ |                    | Kiryl, B
+ |                    | Maya    
+ |                    |         
+ +--------------------+---------
+ | Lucida Shard       | Everyone
+ |                    |         
+ |                    |         
+ |                    |         
+ +--------------------+---------
+ | Mercury's Bandana  | Everyone
+ |                    |         
+ +--------------------+---------
+ | Meteor Bracer      | Everyone
+ |                    |         
+ +--------------------+---------
+ | Mighty Armlet      | Everyone
+ |                    |         
+ +--------------------+---------
+ | Prayer Ring        | Everyone
+ |                    |         
+ |                    |         
+ |                    |         
+ +--------------------+---------
+ | Ruby of Protection | Everyone
+ |                    |         
+ +--------------------+---------
+ | Strength Ring      | Everyone
+ +--------------------+---------
+ | Gospel Ring        | Everyone
+ |                    |         
+ |                    |         
+ |                    |         
+ +--------------------+---------
+ | Elevating Shoes    | Everyone
+ |                    |         
+ +--------------------+---------
+ | Recovery Ring      | Everyone
+ |                    |         
+ |                    |         
+ o--------------------'---------
+
+================================
+
+       CREDITS & SALUTATIONS    
+
+================================
+
+ Can't write something this big 
+ That would have been crazy! At 
+ done this without some.. creati
+ It is, in a way, I guess, on se
+ Square-Enix for publishing the 
+ it on a handheld system is real
+ couple of years ago. So, thank 
+
+ Then there's the music I've bee
+ that's quite a lot of music. Th
+ particularly his most creative 
+ PSYCHEDELICO, The Cro-Magnons, 
+ The Birthday! Really nice music
+
+ Next comes you, the reader, for
+ I know for sure I would never e
+ weren't any readers. That's why
+ for practicing my skills with t
+ to play the games I love a lot!
+ I'll list the nicknames of ever
+
+ ~ Me! I think I'm about to reac
+   thought that would happen :O
+
+ ~ JF Tanguay for being a great 
+   and the extra dungeon in part
+   section covering this dungeon
+
+ ~ sneakypanda for telling me ab
+   the Night Light item as obtai
+   which is what it SHOULD have 
+
+ ~ kaskala knew about a couple o
+   in a tiny, tiny building that
+   been mentioned in the main wa
+   checklists. Thank you very mu
+
+ ~ Tengah found 50 Coins on the 
+   and Borya. Now you can find t
+
+ ~ leviathankyou and Ryuo both n
+   the end of Chapter I containe
+   Seed of Resilience inside. Ap
+
+ ~ Darkniciad realized it's poss
+   fooling the game when you're 
+   about this to the main walkth
+
+ ~ ignasia7 and others at GameFA
+
+ ~ Zero, for reminding me about 
+   noticed there weren't mention
+
+ ~ Hohenheim_1 sent me a great m
+   when writing about character 
+   regarding Meena's Silver Taro
+
+ ~ Brad Dittmar provided insight
+   stats, name changes, and the 
+   side. Great stuff :)
+
+ ~ Patrick L. found a Seed of Re
+
+ ~ Garrett M. helped me out with
+   lists. Lifesaver! :)
+
+ ~ I had forgotten to mention tw
+   them, so now that's not a pro
+
+================================
+
+        CONTACT ME              
+
+================================
+
+ Hi!
+
+ If you want to tell me somethin
+ that. For example, if you know 
+ guide, I'd love it if you told 
+ even better than it's current f
+ help from you. Credit will of c
+ that ends up here! And please, 
+ please send me a mail or add my
+ guide, and what you think of it
+ don't like writing walls of tex
+
+ I hope you've enjoyed reading, 
+ That's what I aimed for when I 
+ then -- I'm not finished writin
+
+ - E-mail: snkupo@gmail.com
+ - MSN/Live Messenger: snkupo@gm
+ - URL: http://www.last.fm/user/
+
+================================
+
+        LEGAL NONSENSE          
+
+================================
+
+ I wish people that run the vari
+ nagging all the time, but here 
+ That means that you can not hos
+ that you're the one that has wr
+ to your friends, show it to you
+ anything with what I've written
+ website. That should be pretty 
+
+ The ONLY websites that are allo
+
+ - GameFAQs.com (the latest upda
+ - IGN.com
+ - Supercheats.com
+ - Neoseeker.com
+ - Honestgamers.com
+
+ ~ This document is copyright © 
+
+================================
+
+        VERSION HISTORY         
+
+================================
+
+ Version 0.0 - 2008/07/01
+ ------------------------
+ Started writing today, and came
+ began this thing would be inter
+ the same thing countless times 
+
+ Version 0.1 - 2008/07/07
+ ------------------------
+ I haven't had too much time to 
+ storyline up 'til Torneko's cha
+ releasing this on the Internet 
+ history simply for my own sake"
+
+ Version 0.2 - 2008/07/10
+ ------------------------
+ Henshin-a-go-go! Today I've wor
+ finishing Chapter IV -- the dan
+ talking about? Play the game an
+ of the guide, the main walkthro
+ upon tons of work left. Lists o
+ is going to take me more time t
+ can't go around feeling all com
+
+ Version 0.25 - 2008/08/15
+ -------------------------
+ Still not done with the main wa
+ but I feel like I need to make 
+ returned from there, and starte
+ back. Also, normal life (?) sta
+ able to do huge workloads whene
+ lot of stuff, such as a diagram
+ items, I've started a Spells/Sk
+ of other diagrams as well. Most
+ walkthrough though, and I think
+ a soda to celebrate that ^^. It
+ walkthrough is posted online. I
+
+ Version 0.3 - 2008/09/17
+ ------------------------
+ Too much work! Way too little e
+ made much progress since last t
+ the main walkthrough now, and l
+ four barriers in Heaven's Haven
+ is the Mini Medals. Right now, 
+ all. I'll look at that later on
+ and should not be considered a 
+ Feedback, suggestions, or anyth
+
+ Version 0.35 - 2008/09/19
+ -------------------------
+ Finished the main walkthrough f
+ some items I had missed to the 
+ item lists/diagrams outside of 
+ probably tons of them spelling 
+
+ Version 0.36 - 2008/09/21
+ -------------------------
+ Some real minor stuff. Spell-ch
+ Mini Medal Rewards section. Sta
+ diagrams, but they're not inclu
+
+ Version 0.37 - 2008/09/24
+ -------------------------
+ Included some item and equipmen
+
+ Version 0.38 - 2008/09/28
+ -------------------------
+ Making slow progress. I've chan
+ information about Meena's Silve
+ in the main walkthrough; among 
+ as seeds of resilience. I've un
+ guide doesn't get first priorit
+ of progress. See you around =)
+
+ Version 0.40 - 2008/12/13
+ -------------------------
+ Added Foo Yung and Chow Mein's 
+ names for the items found in th
+ with getting me those, it would
+ like to help :)
+
+ Version 0.50 - 2008/12/19
+ -------------------------
+ Yet another update. Figured I'd
+ covers the whole main game. Whi
+ covered, there's still some opt
+ thinking about is of course Aam
+
+ Version 0.51 - 2009/01/04
+ -------------------------
+ Minor update with some contribu
+
+ Version 0.52 - 2009/01/24
+ -------------------------
+ School is killing me! I want to
+ homework, and all kinds of othe
+ I'm comfortable with! Anyways, 
+ to some contributors, all of th
+ Town) are included in the guide
+
+------------------- SOUL DRACULA

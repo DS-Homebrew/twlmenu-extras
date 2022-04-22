@@ -1,0 +1,3387 @@
+FAQ/Walkthrough for Pokemon
+Mystery Dungeon: Blue Rescue
+Team Written by HswBaZ or BaZ
+Version: Final
+
+
+If you want to jump to a
+specific part of the guide, use
+Ctrl+F and copy any of the below
+parts of the Table of Contents.
+
+--------------------------------
+--------------------------------
+Table of Contents:
+
+0a. Document License Agreement
+ 0b. Site License Agreement
+  0c. About the Copyright
+1a. Version History
+2a. Introduction
+3a. The Basics of the Game
+ 3b. Controls
+4a. Choosing your
+Starter/Partner 5a. Walkthrough
+ 5b. Tiny Woods
+ 5c. Thunderwave Cave
+ 5d. Mt. Steel
+ 5e. Sinister Woods
+ 5f. Silent Chasm
+ 5g. Mt. Thunder
+ 5h. Great Canyon
+ 5i. Lapis Cave
+ 5j. Mt. Blaze
+ 5k. Frosty Forest
+ 5l. Mt. Freeze
+ 5m. Uproar Forest
+ 5n. Magma Cavern
+ 5o. Sky Tower
+6a. After the Storyline
+ 6b. Dungeons automatically unlo
+  6b1. Luminous Cave (How to Evo
+  6b2. Solar Cave
+  6b3. Waterfall Pond
+ 6c. Dungeons unlocked through F
+  6c1. Wyvern Hill
+  6c2. Darknight Relic
+  6c3. Desert Region
+  6c4. Southern Cavern
+  6c5. Grand Sea
+  6c6. Unown Relic
+  6c7. Far-Off Sea
+ 6d. New dungeons you can unlock
+  6d1. Howling Forest
+  6d2. Stormy Sea
+  6d3. Fiery Field
+  6d4. Lightning Field
+  6d5. Northwind Field
+  6d6. Mt. Faraway
+  6d7. Buried Relic
+  6d8. Northern Range
+  6d9. Pitfall Valley
+  6d10. Western Cave
+  6d11. Silver Trench
+  6d12. Meteor Cave
+  6d13. Joyous Tower
+  6d14. Purity Forest
+  6d15. Wish Cave
+  6d16. Murky Cave
+ 6e. Catching them all
+  6e1. Version-Specific Pokemon
+  6e2. Dungeon-Specific Pokemon
+  6e3. Pokemon Through Evolution
+ 6f. Reward Statues
+ 6g. Unknown Dungeon Mode
+7a. FAQ
+8a. Contact Me
+--------------------------------
+--------------------------------
+
+==============================
+0a. Document License Agreement
+==============================
+  [Last Updated Saturday 06th of
+
+   If you wish to read this docu
+   conditions below.
+
+   1. Anybody is welcome to look
+ these terms.
+   2. You are permitted to copy 
+ disk, or print it out on paper,
+ form, including this section.
+   3. You may not distribute thi
+ without my written consent with
+   4. If you wish to publish or 
+ your website, please E-Mail me,
+ Contact Me section.
+ .
+    /!\ IF YOU DO NOT AGREE TO T
+   /___\ READ THIS GUIDE.
+
+
+==========================
+0b. Site License Agreement
+==========================
+  [Last Updated Friday 05th Of M
+
+
+   1. The Document Licence Agree
+   2. The site must not sell the
+ something else without my conse
+   3. The site must not edit the
+ E-Mail me, so I can change my m
+   4. If, accompanied by a suita
+ guide, it must comply.
+ .
+    /!\ IF A SITE DISOBEYS THESE
+   /___\ REMOVED. IF REQUEST IS 
+
+ Permitted Sites
+ ---------------------
+ The following sites may post th
+ document in its original form.
+
+ GameFAQ's      :  www.gamefaqs.
+ GameSpot       :  www.gamespot.
+ 1Up            :  www.1up.com
+ Mycheats       :  www.mycheats.
+ Neoseeker      :  www.neoseeker
+ Super Cheats   :  www.superchea
+ Games Radar    :  www.gamesrada
+ Cheap Planet   :  http://cheatp
+
+ If your site is not listed abov
+  on your website, scroll to the
+  approve then I will add your w
+
+
+=======================
+0c. About the Copyright
+=======================
+
+This copyrights original form
+was written by Michael Sarich.
+He made
+ a very good post on copyrights,
+
+http://boards.gamefaqs.com/gfaqs
+/genmessage.php?board=2000094&to
+pic=20885654
+
+
+===================
+1a. Version History
+===================
+
+Final -Updated FAQ
+ -Finish Catching Them All
+
+0.8 -Updated Catching Them All
+    -Updated FAQ
+
+0.7 -Finished Walkthrough
+    -Updated FAQ
+    -Added legendary levels by r
+    -Added Unknown Dungeon secti
+
+0.6 -Updated the Walkthrough
+    -Updated FAQ
+    -Added some submissions
+    -Fixed some typos
+
+0.51 -Minor Update
+ -Fixed some typos
+ -Added some contributions
+
+0.5 -Added some walkthrough
+ -Finished Friend Area dungeons
+    -Finished After-Storyline du
+    -FAQ updated
+
+0.4 -Not much of a major update
+    -Walkthrough updated
+    -FAQ updated
+    -Added a little note under I
+
+0.3 -Walkthrough updated
+    -Some after-storyline dungeo
+
+0.2 -FAQ was updated
+    -Few typos were fixed
+    -Portion of the Walkthrough 
+    -Some more after-storyline d
+    -Catching them all added ver
+    -Added some new Friend Area 
+
+0.1 -Guide was started, enjoy.
+    -The walkthrough may take a 
+    -the game for a 2nd time.
+
+
+================
+2a. Introduction
+================
+
+This is a guide written by
+myself for the latest pokemon
+game. I
+ found this game enjoyable enoug
+ I'm sure many other people have
+ on Gamefaqs and will most likel
+ this one turns out).  I like to
+ that is why you will not see a 
+ to having the entire detailed P
+ find listed at the end.  I'm su
+ detailed guides on both of thos
+ not writing a guide for them.  
+ inside and I hope you find the 
+ it was meant to be.
+
+This guide was originally made
+to be hosted on Gamefaqs, so if
+any other
+ sites (that I allow) host it, j
+ a site that only allows pure te
+ everywhere can access the guide
+
+
+==========================
+3a. The Basics of the Game
+==========================
+
+To start off, this game is not
+like any of the previous Pokemon
+ titles.  Instead it has a turn-
+ are familiar with titles such a
+ catch on to this quickly.  What
+ Dungeon has an invisible grid t
+ push of a button).  This grid i
+ will fit inside one of these sq
+ square.  Other pokemon on this 
+ it as a chessboard and pokemon 
+
+Rescue teams are made up of 2-3
+pokemon and only a maximum body
+size of
+ 6.  What is body size you may a
+ body size it takes up, such as 
+ are of a body size 4.  While yo
+ a body size of 1.  When you are
+ who fit into your party( (a max
+ you are trying to recruit a bod
+ pokemon already with you..it wi
+
+In this game there are a few
+things you need to keep in mind
+about your
+ pokemon.  First, your pokemon h
+ previous pokemon games.  PP can
+ Elixirs (replenishes PP of all 
+ to keep track of your pokemon's
+ the Menu you can keep track of 
+ Belly's can be refilled with ty
+ Berrys (minimal increase) so tr
+ Belly will decrease as you mane
+ decrease in belly may accelerat
+ or hold down the B+A buttons (o
+ like the Heal Ribbon that will 
+ The 2 items that help prevent B
+ when held slows belly decrease)
+ your pokemon's belly will never
+ item though which can only be f
+
+This game does not have trainers
+like in previous games, instead
+it has
+ missions submitted by other Pok
+ Missions can be found in your m
+ Board outside of the Pelipper P
+ Code at the title screen.  When
+ of these locations it will then
+ Team may not embark on these mi
+ menu and choose to "Accept" mis
+ all at once, under the circumst
+ dungeon and all of the Clients 
+ cannot rescue a Charmander and 
+ from the 2nd floor, but you can
+ is on the 3rd floor.
+
+Once you unlock the ability to
+do side missions, you can
+complete them
+ at anytime, and in fact they ar
+ pickup some useful items and ge
+ main Storyline mission will be 
+ from your Rescue Base, the stor
+ want, so do not feel obligated 
+
+To recruit a pokemon you need to
+take a few things into account.
+First is
+ their Friend Area, if you do no
+ pokemon is already 0% (unless i
+ Friend Area upon recruiting him
+ recruiting % before any modifie
+ FAQ for more detailed informati
+ http://db.gamefaqs.com/portable
+
+ The above FAQ is written by TFe
+
+ Once you know their base % ther
+ current Rescue Team Leader's le
+ equipped, and what your Rescue 
+ with the Friend Bow and Lukario
+ is increased by 34% from the ba
+
+Rescue Team Ranks are determined
+by how many Rescue Points you
+have
+ accumulated by completing Rescu
+ the possible Rescue Ranks and t
+
+Normal Rank - 0 Rescue Points
+Bronze Rank - 50 Rescue Points
+Silver Rank - 500 Rescue Points
+Gold Rank - 1,500 Rescue Points
+Platinum Rank - 3,000 Rescue
+Points Diamond Rank - 7,500
+Rescue Points Lukario Rank -
+15,000 Rescue Points
+
+There are only 2 things I still
+need to cover, IQ and Linking
+Moves which
+ I will do now.
+
+IQ is a term that defines
+intelligence, and that is a good
+way to describe
+ it for this game.  During your 
+ Gummies which you can feed to y
+
+Note: If you wait till after the
+main storyline and "Give Gummi"
+to a friend
+ in it's Friend Area, they will 
+ boost.
+
+When you feed a Pokemon a Gummi
+it's IQ will increase, this will
+depend
+ on what kind of Gummi you feed 
+ he will gain the most IQ from i
+ important about IQ you might as
+ abilities later on, but what's 
+ of both the pokemon you are con
+ IQ increase pokemon will learn 
+ -> Check IQ tab.  Your pokemon 
+ which keeps them from trying to
+ the pokemon's IQ increases so d
+ pokemon can learn more advanced
+ dodge enemy attacks), All-Terra
+ Clouds), Trap Avoider (will avo
+ There are plenty of reasons to 
+ is having my leader with Trap S
+ it will not activate it, just m
+ Avoider, almost making traps nu
+ different IQ skill combos so ma
+
+Finally, Linking Moves a
+question on alot of minds. To
+link moves you can
+ either goto Gulpin's shop and p
+ common item.  Either way linked
+ together when one is used.  If 
+ Scratch, both Scratch and Growl
+ each).  If the PP of one of the
+ What is the use for something? 
+ going through the main storylin
+ linked the moves Low Kick and F
+ will use Low Kick, then increas
+ when used against a boss.  You 
+ but it would be unwise as conse
+ this game.  Also Gulpin can rem
+ completely free of charge, so i
+ a dungeon, just re-learn it, go
+ Gulpin and swap it for another 
+ moves and choosing your moveset
+
+
+
+
+
+============
+3b. Controls
+============
+
+These controls will only be for
+Pokemon Blue for the DS as that
+is what
+ this walkthrough is written for
+ may be different for you.
+
+Directional Pad - Move your
+Pokemon around
+
+A button - Confirm, basic attack
+
+B button - Holding will cause
+your Pokemon to run, can also
+bring up
+ the menu when standing still
+
+X button - Brings up the menu
+
+Y button - Holding this will
+bring up the grid, and allow you
+to turn
+ around within your current squa
+
+R button - Holding this will
+only allow you to walk diagnolly
+(helpful
+ to conserve your belly and foot
+
+L button - Used in conjunction
+with A
+
+L + A buttons - Holding L and
+pressing A will use the Special
+Move you
+ "Set" in the "Moves" option und
+
+B + A buttons - Will speed up
+the passage of time allowing
+your pokemon
+ to regenerate life quickly, at 
+
+
+================================
+4a. Choosing your
+Starter/Partner
+================================
+
+When you begin the game for the
+first time you will be asked
+some
+ Personality questions.  These q
+ may be, are in for a purpose.  
+ these questions are to judge yo
+ closest to your personality.
+
+After you finish answering the
+questions you will be assigned a
+pokemon.
+ This will be your main characte
+ make sure you are happy with yo
+ is finished you can swap your l
+ all of the other starters who y
+ a specific pokemon then you wil
+ personality, reference below.
+
+# ### Pokemon: Male Personality:
+Female Personality:
+
+# 001 Bulbasaur Docile Calm #
+004 Charmander Hardy Brave # 007
+Squirtle Jolly Relaxed # 025
+Pikachu Impish Hardy # 052
+Meowth Quirky **** # 054 Psyduck
+Relaxed Lonely # 066 Machop
+Brave **** # 104 Cubone Lonely
+Impish
+# 133 Eevee              ****   
+# 152 Chikorita **** Docile #
+155 Cyndaquil Timid **** # 158
+Totodile Naive Jolly # 252
+Treecko Sassy Quirky # 255
+Torchic Hasty Sassy # 258 Mudkip
+Calm Timid # 300 Skitty ****
+Hasty
+
+**** = That pokemon is unavailab
+ question you answer asks what y
+
+Note: If you are a male and
+really like Espeon and want
+Eevee as your
+ starter (just an example), from
+ through the game, there has not
+ it's ok to aim for the pokemon 
+ your gender.
+
+Note: If you are having trouble
+getting the pokemon you want for
+a
+ starter, I would recommend refe
+ and very useful for how to answ
+
+http://db.gamefaqs.com/portable/
+gbadvance/file/pokemon_fnd_red_p
+ersonality.txt
+
+
+After taking the personality
+test I came up as a Mudkip, but
+as my
+ favorite pokemon of all-time wa
+ I got Charmander as my starter.
+
+
+After you have your starter
+chosen, you are then asked to
+choose a
+ partner pokemon.  This pokemon 
+ as he will tag along with you o
+ the main storyline.  You will w
+ your starter well.
+
+Possible Partners: Bulbasaur,
+Charmander, Squirtle, Pikachu,
+Chikorita,
+ Cyndaquil, Totodile, Treecko, T
+
+Note: You cannot choose a
+partner of the same element as
+your starter.
+ Example: Charmander starter can
+  as a partner.
+ Example 2: Psyduck starter cann
+  as a partner.
+
+Recommendations for Partners:
+
+# ### Starter: Recommended
+partners:
+
+# 001 Bulbasaur Water-Type # 004
+Charmander Grass-Type or Pikachu
+# 007 Squirtle Fire-Type # 025
+Pikachu Any # 052 Meowth Any #
+054 Psyduck Fire-Type # 066
+Machop Any # 104 Cubone Any #
+133 Eevee Any (Can depend on
+what you plan to evolve it into)
+# 152 Chikorita Water-Type or
+Pikachu # 158 Totodile Fire-Type
+# 252 Treecko Water-Type # 255
+Torchic Grass-Type or Pikachu #
+258 Mudkip Fire-Type # 300
+Skitty Any
+
+I will try to be a little more
+specific once I experiment more
+with the
+ possible combinations, for now 
+ that complement one-another fai
+ I reccomended a grass or electr
+
+Personally I chose Pikachu to
+partner up with my Charmander,
+it turned
+ out to be a fairly good team.  
+ move and Pikachu had Quick Atta
+ and Thunderbolt (AE 1 square at
+
+Honestly any combination will
+work, these are just to try and
+give you
+ the easiest time through the ma
+ are Chikorita and Torchic, don'
+
+Also this is one of the few
+games where you are forced to
+choose a name for
+ your pokemon (like how you name
+ games).  To start off you will 
+ retentive about names, then dec
+ partner (evolution is optional)
+ that pokemon u plan to evolve i
+
+Once you have your starter and
+partner chosen, it's time to
+being the
+ game.
+
+
+===============
+5a. Walkthrough
+===============
+
+To start off the game you will
+see your chosen partner wake you
+up. You
+ will awaken as a *gasp* Pokemon
+ your partner will ask you who y
+ Your partner won't believe it s
+ a pokemon.  While your mind bog
+ Metamorphosis (waking up as ano
+ your name.
+
+Note: Your main and starter are
+the only 2 pokemon in the game
+you are
+ forced to nickname, so do not p
+
+No matter what name you pick,
+your partner will laugh at it
+and get a good
+ chuckle at your expense.  But i
+ and plenty of that there is as 
+ Butterfree, your first "Client"
+ thanks to a fissure opening int
+ fissure were violent to this pe
+ for help and stumbled upon your
+ will be quite suprised that But
+ while the Butterfree frets, you
+ poor Caterpie out.  As the stan
+ rescue.
+
+
+==============
+5b. Tiny Woods
+==============
+
+Your first dungeon, and a great
+place to get your feet wet. The
+game should
+ be providing you with tips as y
+ recommend doing is opening your
+ choosing a good attack move (Ta
+ and hitting A on that, and choo
+ to be used whenever you hold L 
+
+Just continue on down the 3
+levels, picking up whatever
+items you see and
+ using your moves on pokemon.  I
+ and get some much needed stat b
+ get used to the controls, maneu
+ levels inhabited by Pidgeys, Su
+ are finished with a floor, just
+
+Once you reach the 4th and final
+floor, you will enter a large
+circular
+ room where a crying and scared 
+
+After Caterpie is rescued and
+stares at your hero adoringly,
+Butterfree
+ thanks your daring team with a 
+ Rawst Berry
+
+Note: Even if you return to Tiny
+Woods after unlocking Friend
+Areas,
+ you can not ever recruit pokemo
+
+Once that is all said and done
+your partner will offer you to
+come with
+ him since you have no place to 
+ Your hero will be very happy wi
+ operations as it's your Rescue 
+ about your mailbox and some nat
+ a rescue team with him.  The ob
+ team", if you "Refuse" your par
+ smashing job you did and contin
+
+You will get to now name your
+Rescue Team, I won't give any
+pointers, but
+ try to be creative.  After whic
+ nights rest.
+
+Your starter will wakeup still
+sleepy, so just navigate him
+back into the
+ bed and save your game if you w
+ partner outside and take your "
+ Which will contain the basics, 
+ toolbox for holding items and s
+ soon after with some mail (he w
+ mailbox is not currently full, 
+ of the mailbox and open it up f
+ it and off you go to Thunderwav
+
+
+====================
+5c. Thunderwave Cave
+====================
+
+When you arrive you will meet
+your clients, some Magnemites,
+outside the
+ cave and they will tell you the
+ floor.  Just like Tiny woods th
+ so you need to make it through 
+ complete this rescue.
+
+Like Tiny Woods, this dungeon is
+still what I would consider,
+part of the
+ tutorial.  So make sure to take
+ moves and how enemies react to 
+ injured, you can always hold A+
+ will eat away at your belly.
+
+After 5 floors of fighting it
+out, you will come to the
+Magnemite who
+ have accidentaly been stuck tog
+ back outside the cavern watchin
+ happiness they will hand you 50
+ for a reward.
+
+Back at your base you will drift
+off into dreamland, pay
+attention to your
+ dreams as he will have quite a 
+
+At this point you will awaken,
+go outside and your teammate
+will drag
+ you through town giving you a t
+ If you are still confused about
+ the Game Basics section.
+
+After your tour of town, you
+will want to do an optional
+mission, so pick
+ one up at the bulletin board, h
+ get to rescuing those pokemon.
+
+Note: Your toolbox is probably
+packed at this point, so you can
+head to
+ Kangaskhan's bank and store som
+
+Once you get some missions done,
+you will find yourself dreaming
+again,
+ but an earthquake will interrup
+ you awaken, Dugtrio will be wai
+ baby Diglett.  To  make matters
+ and taken to the top of Mt. Ste
+
+Note: Before you start heading
+on new missions, you will want
+to make
+ sure your toolbox is stocked wi
+ at this point I like to have an
+ a Reviver Seed (in case of acci
+
+
+
+=============
+5d. Mt. Steel
+=============
+
+This is it, it is Mt. Steel and
+Skarmory is waiting up top with
+Diglett.
+ This dungeon is 9 floors, if yo
+ going to have a very tough time
+ was forced to use my Reviver Se
+ You will probably want to be at
+ a serious attempt and having so
+
+If you do manage to make it to
+the top Skarmory is waiting with
+Diglett.
+ Try to use elements that counte
+ If you are having trouble with 
+ partner take the blunt of Skarm
+ Gravelerocks.  This strategy wo
+
+Once Skarmory is defeated
+Diglett is safe and you are free
+to head back.
+ After you are back in town, Fri
+ talk with Magenemite/Wigglytuff
+ pickup some new recruits.
+
+The storyline will continue in a
+few days of doing optional
+missions
+ just like after Thunderwave Cav
+
+
+==================
+5e. Sinister Woods
+==================
+
+After a few days have passed,
+your friend Caterpie from the
+start of the
+ game will come to your base ask
+ the end of the Sinister Woods a
+ about this Gengar's Team Meanie
+ job as well.  The race is on! (
+ long you take or how many days 
+
+Sinister Woods is 13 Floors and
+packed with grass-types, if you
+have a
+ Fire-type starter or partner th
+ Just make sure that your team i
+ fairly safe).  After making it 
+ battle with you on the 13th.  T
+ picked up a good teammate (you 
+ found a 3rd helps alot, Sudowoo
+
+The 3v3 battle will commence,
+none of the opponents have alot
+of life,
+ your team should be able to 2-3
+ of multiple teammates).  The bi
+ saved him for last as his 2 par
+ easily killed (easier to predic
+ are having trouble with this ba
+ or bring more items (starting t
+ way to do damage before the ene
+
+After you rescue Metapod, a
+grateful Caterpie thanks you
+outside your base
+ and you get a feeling of accomp
+ of course.  When you awaken fro
+ watch a scene of Jumpluff beggi
+ pressured into leaving you have
+ missions and level up a little 
+ your help since Shiftry never c
+
+
+================
+5f. Silent Chasm
+================
+
+Theres a Jumpluff stuck in
+there, and its your job to get
+him out! As long
+ as you have been keeping up on 
+ easier than Sinister Woods was,
+ (9 packed with enemies) and the
+ Floor.
+
+The enemies shouldn't be too
+hard, there won't be anything
+life or death
+ coming up so you can take your 
+ the items up.  When you reach t
+ Zapdos who has taken Shiftry.  
+ flies off to Mt. Thunder with S
+ be your job to go after him and
+ watch everyone worry about Shif
+ decide to go try and help Shift
+ any optional missions, etc.) th
+ Mt. Thunder.
+
+
+===============
+5g. Mt. Thunder
+===============
+
+When you arrive at Mt. Thunder
+your partner will be wondering
+where
+ Alakazam's team went, then spea
+ No matter how scared he is he'l
+ be ready for quite a battle.
+
+10 Floors later (the 11th Floor)
+is where a Save Point is, if you
+manage
+ to reach this point your PP and
+ you can save your game.  After 
+ to go with Zapdos awaiting you 
+
+When you reach the summit, your
+partner will challenge Zapdos to
+come
+ out and fight.  He will stand u
+ answer your challenge and soon 
+
+Note: You cannot catch Zapdos
+until after the main storyline
+is complete
+ so don't waste hours trying to 
+
+-Submitted by Gentlecat482
+
+On the way up to Zapdos I
+recruited a level 14 Electrike
+and when I finally
+ reached Zapdos he made this fig
+ all the Electric-type attacks, 
+
+After you defeat Zapdos he will
+submit and you are allowed to
+rescue the
+ captive Shiftry.  Alakazam's te
+ Alakazam will reveal that he kn
+ and tell you to meet Xatu at th
+ decide to sleep on it and will 
+
+For Recruiting purposes: Zapdos
+is lvl 45 when recruited.
+
+
+================
+5h. Great Canyon
+================
+
+When you awaken it's time to
+head to the Hill of the Ancients
+in the
+ Great Canyon.  You and your par
+ outside your base before decidi
+ to you.
+
+Note: If you have done no side
+missions to level up yet, now is
+a great
+ time to do so, once you complet
+ do missions or access the town 
+ comfortable try to lvl up somew
+
+This dungeon is a fairly
+straight forward 12 floor
+dungeon with Xatu
+ waiting on the 13th Floor for y
+ him, when you arrive it will tr
+ where you and your partner try 
+ you do have his attention he wi
+ should be obvious by now).  The
+ pokemon is related to the disas
+ you becoming a pokemon, but the
+ destruction coming closer every
+ you will be asked to save and t
+ head to the Town Square.
+
+ If you get lost here, just goto
+  will direct you up to Whiscash
+  just head back to your base wh
+  goto sleep and meet Gardevoir 
+  head to the Town Square for th
+  of the pokemon begin! (you wil
+
+
+==============
+5i. Lapis Cave
+==============
+
+You are now a fugitive and your
+pokemon are running for their
+lives.
+ Luckily as they are catching up
+ way and decide to enter it.
+
+Note: While you are away from
+town, the save stones allow you
+to access
+ your bank and save your game.
+
+This dungeon is only 14 floors
+with no boss awaiting you at the
+end and
+ shouldn't be too much trouble f
+ leveling before Great Canyon li
+ dungeon your partner will be ti
+ is even more disheartening, but
+ so its away you go!
+
+
+=============
+5j. Mt. Blaze
+=============
+
+Before entering Mt. Blaze there
+is a save point that allows you
+to also
+ access your storage.  When you 
+ choice of Mt. Blaze or Rocky Pa
+ implemented for those who did n
+ low level for Mt. Blaze you can
+ and gather a few items before e
+ fully prepared, choose Mt. Blaz
+
+Mt. Blaze is a total of 15
+Floors, once you pass the 12th
+Floor there is
+ a save point waiting you before
+ as the boss, Moltres, is no cak
+ Fire-type pokemon along with la
+ walk on those).  If you do mana
+ will be waiting for you on the 
+
+When you reach the peak your
+partner will notice the lava
+level has risen
+ most likely due to the recent n
+ to get out of here very quickly
+ Mountain is shrieking in agony 
+
+To defeat Moltres you will most
+likely want to use a strategy
+close to
+ the one you used to defeat Zapd
+ while your partner takes a beat
+ with a status effect through Sl
+ something along those lines.  I
+ for most of the battle you shou
+
+After you defeat Moltres he
+doesn't want to giveup but your
+partner will
+ try to explain what's going on 
+ in the first place.  Moltres wi
+ long as you promise him that yo
+ disasters and stop them from ha
+
+For Recruiting purposes: Moltres
+is lvl 52 when recruited.
+
+When you pass Mt. Blaze your
+partner will be panting for
+breath once again
+ and talk about how far you mana
+ way to go because Alakazam's te
+ adventure again.
+
+After trekking it out through
+the frozen snows of the north,
+you will
+ come across an Absol in the mid
+ away and you will come across a
+
+
+=================
+5k. Frosty Forest
+=================
+
+After you finish with your
+storage/save point then you can
+head north and
+ have the choice of either Frost
+ another 4 Floor dungeon that is
+ some items if you did none of t
+ If you need to do any level'ing
+ are ready for Frosty Forest con
+
+Frosty Forest is the ice
+equivalent of Mt. Thunder and
+Mt. Blaze, which
+ can only mean one thing...Artic
+ expect almost the same setup as
+ Ice-type (and a few assorted, l
+ point where the 10th Floor woul
+ levels after the save point wit
+
+After 5 levels you will see some
+talking, don't let the voice
+scare you
+ just continue on determined! If
+ the same strategy you did on th
+ ranged attacks with your teamma
+
+When you finally manage to force
+Articuno to submit, your partner
+will
+ beg him to let you pass.  Artic
+ that the forest's ice has been 
+ pass.  Articuno will continue g
+ and explains to Articuno what i
+ you pass as long as you try to 
+ After discussing with you about
+ you in your quest.
+
+For Recruiting purposes:
+Articuno is lvl 53 when
+recruited.
+
+As the three of you walk along a
+frozen path discussing things,
+Gardevoir
+ will appear and tell you to con
+ peak.  So, off you go!
+
+
+==============
+5l. Mt. Freeze
+==============
+
+When you arrive there will be
+yet another save point here
+waiting for you
+ so prepare your gear (you won't
+ like Sleep Seeds here).  Once y
+ head north into the cavern wher
+ Mt. Freeze and Snow Path.  Snow
+ in the Frosty Forest section ab
+ choose Mt. Freeze.
+
+Mt. Freeze is a total of 20
+Floors, after 15 Floors of
+Normal, Dragon and
+ Water-Type monsters you will fi
+ inhabited purely by Glalie (Ice
+ you this should be fairly easy.
+ dungeon shouldnt cause you any 
+ that floors in this dungeon ten
+ to reach the save point (you ma
+
+The Ninetales you have been
+searching for will be waiting
+for you on the
+ 5th floor after the save point.
+ manages to catch up to you and 
+ control this fight).  While you
+ explain that your pokemon is no
+ learn more about the curse and 
+ before finding out the earthqua
+ will leave to quell Groudon sin
+
+After Mt. Freeze it will flash
+back to town, where Gengar is
+still trying
+ to keep the town riled up again
+ from Alakazam proving your inno
+
+Now its back to completing
+optional missions! If you barely
+managed to
+ make it through Mt. Freeze aliv
+ leveling.  Mid 20-s (25 or so) 
+ Just continue completing missio
+ again.  The next morning a Wyna
+ ask you to look at his notice o
+ be called "Punish Bad Mankey!" 
+ the storyline.
+
+
+=================
+5m. Uproar Forest
+=================
+
+Once you accept Wynaut's mission
+you will now have Uproar Forest
+unlocked
+ and ready to adventure to.  If 
+ very easy for you.  Just make s
+ or 2.  This dungeon is a total 
+
+Note: This is the best dungeon
+in the game to gather Gummies
+(Green and
+ Grass).  So if you are in need 
+ or want some easy IQ for your p
+  on and gather up the items.
+
+This dungeon will be mostly
+filled with Grass-Type pokemon
+and should prove
+ no real challenge for your team
+ you).  After 9 Floors of cleari
+ awaiting you.
+
+Note: If you found any Chestnuts
+on the 9th Floor, make sure to
+make room
+ in your toolbox for them.  You 
+ soon enough.
+
+On the 10th Floor you have to
+fight a team of 3 Mankeys
+(remember your battle
+ with Gengar's team).  This figh
+ you force the Mankeys to submit
+ the waiting Wynaut.  After some
+ arrive on the scene and see the
+ the chestnut, and give to the M
+ Rescue Base.  After a short per
+ in total).  The only place to g
+ Forest so it's back there you g
+
+Once you gather the 2 chestnuts
+the Mankey gangs job will be
+finished, but
+ they won't like that, so they w
+ rebuild it for you.  After this
+ to completing optional missions
+
+
+================
+5n. Magma Cavern
+================
+
+-This part of the guide was actu
+ by myself, thank you for taking
+
+It's been many days after
+Alakazam's team went down to
+duke it out with
+ Groudon, and the people of Poke
+ is called. Blastoise, Octillery
+ Alakazam's team. Here you might
+ high level Pokemon are because 
+ up to about Lv. 27 because this
+ a day or two, the rescue party 
+ speech your partner gives, resc
+ march down into Magma Cavern.
+
+This dungeon is the largest
+dungeon yet. after 23 levels of
+pure terror,
+ a save statue awaits you, follo
+ come upon Tyrannitar and Chariz
+ with Groudon. You go up to Alak
+ out comes Groudon, the continen
+ the previous boss strategies an
+
+-This strategy for Groudon submi
+
+Items Required: Gravelerock x 40
+(Minimum)
+   Reviver Seed x 5 (Minimum)
+    Oran Berry x 2 (Minimum, one
+		Absol.
+
+Party Members: Charmander Lvl 26
+(Me)
+    Pikachu Lvl 26 (Partner)
+   Absol Lvl 26
+
+Align your party in such a way
+that Absol is the ONLY ONE
+taking damage from
+ Groudon. This means that the fo
+ where the straight line consist
+ while Pikachu is standing right
+ item and just keep spamming the
+ dies/is hurt, chances are it'll
+ Otherwise, a Reviver Seed will 
+ Absol. At this rate, Groudon wi
+ Robinson"!
+
+
+Once the battle is finished,
+Groudon disappears and Alakazam
+appears on the
+ floor. Tyranitar and Charizard 
+ together.
+
+For Recruiting purposes: Groudon
+is lvl 37 when recruited.
+
+Everyone greets you when you
+return. Suddenly, Xatu (who you
+met on Hill of
+ the Ancients) uses telekinesis 
+ towards the planet! I will tell
+
+
+=============
+5o. Sky Tower
+=============
+
+-This part of the guide was actu
+ by myself, thank you for taking
+
+This is the final chapter in
+your epic storyline, and what a
+challenge it
+ is. 25 large floors of monsters
+ save point and then nine more f
+ arrival on the ninth.
+
+To get here you will need the
+'Teleport Gem' from Xatu. To get
+it, go to the
+ dungeons list, click Sky Tower,
+ Canyon again. You'll use the Ge
+ (Why can't they just teleport t
+ or else... TRAIN!! Anything low
+ on pure luck then. If you're a 
+ also have a Water-type partner.
+ Freeze or Frosty Forest. I foun
+ you can. For the last nine floo
+ Salamence, Metagross, Flygon, T
+
+Make sure to bring out all the
+stops for this dungeon as it is
+very difficult
+ on your first run through.  Rev
+ inducing Seeds, quite a few App
+
+Best way to beat Raquaza...
+Mudkip (me)
+Cyndaquil (partner)
+Absol (partner 2)
+
+Items Reviver Seed x5 (minimum)
+Silver Spike/Gravelrock x25 each
+(minimum) Oran Berry x7
+(minimum) Link box x2(minimum)
+Max elixer x3 (minimum) Sleep
+Seed x4 (minimum)
+
+
+My Strategy using the above
+setup:
+
+Keep throwing Silver Spikes, and
+Gravelrocks (Use Ice Beam if you
+have it,
+ it's super effective). When he 
+ your partner's moves together. 
+ When he's right in front of you
+ holding an oran berry just in c
+ If you're partner is running lo
+ he/she'll use it automatically 
+ automatically also). Make an 'L
+ one taking damage. Try to posit
+ starts doing heavy damage, thro
+ he wakes up throw another one a
+ "I like Applesauce!" (Literally
+
+Once the mighty Rayquaza
+submits, be prepared for one
+fantastic ending (but
+ don't be sad, the game will con
+
+For Recruiting purposes:
+Rayquaza is lvl 45 when
+recruited.
+
+
+-Following strategy submitted by
+
+I had a Charmander, a Mudkip, an
+Absol and a Shuppet (note that I
+recruited
+ the shuppet in the dungeon) and
+ the rest was pretty standard se
+
+I used the TM Secret Power on my
+Charmander and Ice Beam on
+Mudkip.
+ That made this way too easy!!! 
+ made his HP drop like a rock! (
+
+Note: If you want to come here
+after the main storyline you
+will need the HM
+ Fly from Wyvern Hill.
+
+
+
+
+=======================
+6a. After the Storyline
+=======================
+
+Now that you have beat the main
+storyline of the game, and are
+probably
+ basking in its infinte glory, t
+ to accomplish.  Plenty of new d
+ catch and other suprises await 
+
+
+================================
+6b. Dungeons automatically
+unlocked
+================================
+
+When you finish with the main
+storyline and are ready to enter
+a dungeon,
+ you may notice you have quite a
+ the storyline these new dungeon
+
+
+================================
+6b1. Luminous Cave (How to
+Evolve)
+================================
+
+A part of the shattered meteor
+has unlocked this cave north of
+the Town
+ Square in Wishcash Pond.  The o
+ a single pokemon in your party 
+ entering the cavern.  You will 
+ crystal which will ask you if y
+ as you meet the pre-requisites 
+ pokemon at anytime here.  If yo
+ evolve or even can evolve open 
+ you want, choose Summary and ta
+ bottom it will say Evolution: a
+
+Note: If your partner is still
+following you around, go
+complete a mission
+ or a dungeon, the problem shoul
+
+
+===============
+6b2. Solar Cave
+===============
+
+If you don't have Solar Cave
+unlocked, goto the Town Square
+and talk to
+ the following people in this or
+ finally Whishcash who should gi
+
+HM Heaven, this cave contains
+HMs located on Floors 10, 15 and
+20, but
+ they are guarded by locked door
+ need to find keys and have a wa
+ also found in this dungeon.
+
+HM Dive is located on floor 10,
+a Link Cable will be here if you
+already
+ have it, you need a key to reac
+
+HM Waterfall is located on floor
+15, a Link Cable will be here if
+you
+ already have it, you need a key
+
+HM Surf is located on floor 20,
+a Link Cable will be here if you
+already
+ have one, you need the ability 
+
+
+===================
+6b3. Waterfall Pond
+===================
+
+This dungeon is home to alot of
+significant water pokemon,
+including 3
+ starters.  Mudkip on Floors 1-3
+ on Floors 8-12.  The dungeon is
+ one version-specific pokemon to
+ Blue on Floors 7-11 and Feebas 
+ you want more details on catchi
+ "Catching them all" section.
+
+Note: To enter you will need the
+HM Waterfall, which is found in
+Solar Cave, more details right
+above.
+
+
+================================
+6c. Dungeons unlocked through
+Friend Areas
+================================
+
+Some dungeons are unlocked
+purely through purchasing or
+earning Friend
+ Areas.  This section is dedicat
+
+
+================
+6c1. Wyvern Hill
+================
+
+This dungeon is unlocked once
+you complete an optional mission
+with the
+ Friend Area Dragon Cave as the 
+ the infamous HM Fly located on 
+ sure to bring a key.  A great p
+ and Dratini.
+
+
+====================
+6c2. Darknight Relic
+====================
+
+Were you looking for a good
+Ghost pokemon to add to your
+team? Well look
+ no further, Darknight Relic is 
+ hate fighting them so much).  M
+ hallways while they attack from
+ need to purchase the Friend Are
+
+Something that can help you
+counter the Ghost-types is
+wearing a Pierce Band
+ and then you can successfully t
+
+
+==================
+6c3. Desert Region
+==================
+
+This dungeon is unlocked by
+purchasing the Friend Area
+Sizzling Desert
+ from Wigglytuff.  It is a stand
+ Ground-type Pokemon.  Some exam
+ are Sandshrew, Trapinch, Nosepa
+
+
+====================
+6c4. Southern Cavern
+====================
+
+Southern Cavern is available
+after completing an optional
+mission with
+ the reward being the Rock Cave 
+ of mostly Rock/Ground pokemon. 
+ starters Cubone can only be fou
+ dungeon is home to the very rar
+ 50.  Some pokemon you will expe
+ Vibrava, Larvitar, Rhyhorn, and
+ forms.  This is also the only p
+ a Tyranitar for yourself and Pu
+ as a lvl 35 (Larvitar is only l
+
+
+==============
+6c5. Grand Sea
+==============
+
+This dungeon is unlocked by
+purchasing the Quiet Sea Friend
+Area from
+ Wigglytuff.  To enter it will r
+ pokemon who knows Dive with you
+ pokemon along with the occasion
+ found on the 30th Floor only, b
+ to start.  If you own the blue 
+ code and complete the mission b
+ you.  More detail on the versio
+ section.
+
+
+================
+6c6. Unown Relic
+================
+
+This dungeon is unlocked by
+purchasing both Ancient Chamber
+AN and Ancient
+ Chamber O? from Wigglytuff.  As
+ is filled with Unowns, all 11 F
+ special here other than alot of
+ collection of party members.
+
+
+================
+6c7. Far-Off Sea
+================
+
+This dungeon is unlocked by
+purchasing the Quiet Sea Friend
+Area from
+ Wigglytuff.  To enter you will 
+ with you.  Also as a sidenote, 
+ this dungeon.  It is a total of
+ pokemon.  This dungeon has a fe
+ such as Lapras.  Also the Tight
+
+
+===============================
+6d. New dungeons you can unlock
+===============================
+
+There are plenty of dungeons
+that are possible to be unlocked
+after you
+ finish the storyline, this sect
+
+
+===================
+6d1. Howling Forest
+===================
+
+This dungeon can actually be
+completed before the credits,
+but as it's
+ optional and unlikely you will 
+ covered here.
+
+This dungeon is unlocked by
+completing a Wonder Mail mission
+that has
+ the reward of the friend Area "
+ be a rescue missions up on the 
+ him from Howling Forest.  Once 
+ becomes available to you.  Smea
+ completion.
+
+
+===============
+6d2. Stormy Sea
+===============
+
+This dungeon is fairly easy to
+unlock, all you need to do is
+first talk
+ to Medicham and Lombre in the T
+ Pond and talk to Wishcash himse
+ which unlocks this dungeon.
+
+40 Floors of water pokemon and
+you must have the HM dive in
+your toolbox
+ or have a water pokemon who you
+ reward for braving this 40 leve
+ bottom, he has approximately a 
+ with his own friend area, so yo
+
+For Recruiting purposes: Kyogre
+is lvl 25 when recruited.
+
+
+================
+6d3. Fiery Field
+================
+
+Once you obtain HM Surf from the
+20th floor of Solar Cave, the
+next day
+ a Spinda should appear in Pokem
+ mirage pokemon.  After a length
+ Feather which you must take to 
+ and after meeting with Xatu thi
+
+You will need Surf HM or a
+pokemon who knows surf to enter
+this dungeon,
+ you are also forced to save you
+ floor dungeon with Entei locate
+ your first clear).  Once you de
+ Color and you will now have acc
+
+For Recruiting purposes: Entei
+is lvl 45 when recruited.
+
+
+====================
+6d4. Lightning Field
+====================
+
+After defeating Entei this
+dungeon is now open for
+exploration, but like
+ Fiery Field you must have Surf 
+ save your game before entering.
+
+This is another 30 floor dungeon
+with Raikou waiting for you at
+the end
+ (he cannot be caught on your fi
+ Raikou he will dye your feather
+ and this will give you access t
+
+For Recruiting purposes: Raikou
+is lvl 45 when recruited.
+
+
+====================
+6d5. Northwind Field
+====================
+
+Once 2 dogs have been downed by
+your unstoppable team, you will
+have this
+ dungeon open to you, like the p
+ be forced to save on entry.
+
+Suprise, suprise, 30 levels with
+the final dog Suicune awaiting
+you at
+ the bottom.  If you manage to f
+ your feather a 3rd color turnin
+ you access to the Mirage Pokemo
+
+For Recruiting purposes: Suicune
+is lvl 45 when recruited.
+
+
+================
+6d6. Mt. Faraway
+================
+
+Now that you have defeated all 3
+dogs, it is time to put your
+skills to
+ the test and to climb Mt. Faraw
+ and a save before entering.
+
+This dungeon, unlike the fields,
+is 40 levels and a bit harder,
+so be
+ prepared for a bit of a trek up
+ Solar Cave it is possible to na
+ locked door on the 30th floor (
+ for you on the 40th floor is Ho
+ be too difficult for you to def
+ levels of Mt. Faraway.
+
+Note: Ho-oh's recruit % is 99.9,
+but you cannot recruit him the
+first time
+ you fight with him.  So come ba
+ less and make sure your party l
+ your partner "Get Away" under t
+
+For Recruiting purposes: Ho-oh
+is lvl 50 when recruited.
+
+
+=================
+6d7. Buried Relic
+=================
+
+After you have cleared the
+Stormy Sea, you should receive a
+mail in you
+ mailbox about the Buried Relic.
+ to the Town Square and talk to 
+ dungeon.
+
+Note: Make sure you have an open
+spot in your mailbox for the
+mail you are
+ to receive (maximum of 4 letter
+
+This dungeon will probably be
+the first 99 level dungeon you
+experience.
+ You will also be forced to save
+ Escape Orb in case you run into
+ defend against Monster Houses a
+ them.
+
+What makes this dungeon really
+special is being home to a few
+HM's and
+ multiple legendaries.  On the 1
+ drops the Rock Parts for your t
+ holds the Ice Parts and 35th Fl
+ Parts.  If you gather all 3 of 
+ mesh together to create the Mus
+ Box in your toolbox (do not use
+ levels of 36-99.  He may appear
+ may transform into other pokemo
+ for "Mew has transformed".  Be 
+ so make sure to have him next t
+ he is very very hard to catch a
+ to spend quite awhile trying to
+ pokemon.
+
+Note: If you want to recruit
+Mew, you need to purchase the
+Final Island
+ Friend Area from Wigglytuff fir
+
+The Hm's located here are Rock
+Smash, Strength, Flash and Cut.
+Rock Smash
+ is on the 45th Floor and requir
+ requires a pokemon that knows R
+ walls, Flash is on the 70th Flo
+ 80th Floor and requires a key, 
+
+For Recruiting purposes:
+Regirock is lvl 18 when
+recruited. For Recruiting
+purposes: Regice is lvl 23 when
+recruited. For Recruiting
+purposes: Registeel is lvl 25
+when recruited. For Recruiting
+purposes: Mew is lvl 40 when
+recruited.
+
+
+===================
+6d8. Northern Range
+===================
+
+Northern Range will be available
+once you have both the HM Surf
+and have
+ purchased the Friend Area South
+ is down here as it ties in clos
+ of them to be right next to eac
+
+Once you have the above criteria
+met, you should awaken at your
+HQ the next
+ day, and after walking outside 
+ by stealing all of Kecleons sup
+ to depart to where it flew off 
+
+This is a 25 level dungeon, it
+should not be too difficult at
+this point,
+ but still take normal precautio
+ meet with the thief, the legend
+ and hopefully win.  If you mana
+ only stole supplies to try to r
+ As the upstanding citizens you 
+
+
+===================
+6d9. Pitfall Valley
+===================
+
+Another 25 level dungeon
+unlocked after defeating Latios.
+This dungeon is
+ a step up in difficulty but not
+ All you need to do is descend t
+ and use the "Teleport Gem" to h
+ with her brother the 2 Lati@s w
+ I hope you graciously accept.
+
+For Recruiting purposes: Latias
+is lvl 29 when recruited. For
+Recruiting purposes: Latios is
+lvl 30 when recruited.
+
+
+==================
+6d10. Western Cave
+==================
+
+Once you go back to Mt. Faraway
+and recruit Ho-oh on your team
+an event
+ will be started once you arrive
+ my personal favorite event as i
+ portrayed.  After it's over hea
+ and Blastoise you saw will come
+ Western Cave.  This will unlock
+ all you need is the HM Surf or 
+
+This cave is 99 Floors and the
+first place where I really felt
+handicapped
+ Belly-wise.  I should have put 
+ Trap Seer or I'd wear No-Stick 
+ issues, was pickup every berry/
+ Belly back), except for seeds t
+ shop 20-30 floors up, that had 
+ afford (Gummies give alot of be
+ The Gummies along with the Berr
+ managed to easily get me to Flo
+ found Floor 99's stairs so I sa
+ some Charizards and Blastoises 
+
+This dungeon is my favorite
+place in the game to level, some
+prefer the
+ 1-room monster houses in Silver
+ accumulated approximately 10 le
+ There is nowhere in the game th
+ I know.
+
+Mewtwo is waiting for you at the
+end, but if your stats are
+buffed and
+ you managed to make it through 
+ pokemon, he should be a pushove
+
+Note: Mewtwo's recruit % is
+99.9, but you cannot recruit him
+until the
+ 2nd time you encounter him.  Al
+ him that much easier to recruit
+ long as their body sizes don't 
+
+For Recruiting purposes: Mewtwo
+is lvl 40 when recruited.
+
+
+===================
+6d11. Silver Trench
+===================
+
+Once you have cleared Stormy
+Sea, recruited the Lati@s combo
+and managed
+ to befriend all 3 legendary bir
+ next morning when you awaken, h
+ Alakazam.  He will mention a di
+ Friend Area is located.  So wha
+ and visit one of the legendary 
+ Symbol allowing you access to t
+ need the HM Dive and a water po
+
+Silver Trench is 99 Floors
+packed with mostly Water-type
+pokemon and the
+ legendary bird Lugia waiting at
+ can be recruited on your first 
+ recruitment.
+
+There is one thing that everyone
+will remember after clearing
+this dungeon
+ and that is the one-room floors
+ the entire floor is one giant b
+ an ability that hits the entire
+ a great way to get some experie
+ compared to some of the other 9
+ a water pokemon you can walk ac
+ to the stairs.  Just bring the 
+ a 99 Floor with a few extra app
+ this dungeon.
+
+For a 99 Floor I usually bring
+an Escape Orb, No-Stick Cap (if
+my leader
+ does not have Trap Seer), 2x Hu
+ This dungeon seemed to have a s
+ an extra Huge Apple (would reco
+ these 99 Floor dungeons).  Mayb
+ dungeon does seriously lack foo
+ through.
+
+For Recruiting purposes: Lugia
+is lvl 30 when recruited.
+
+
+=================
+6d12. Meteor Cave
+=================
+
+After befriending Lugia, Meteor
+Cave will be available to you.
+This
+ dungeon is unique in the fact t
+ legendary Deoxys.  The dungeon 
+ of his 4 types, Normal, Attack,
+ defeat the Deoxys mirage before
+ allowed to progress to the next
+ Floors with Deoxys awaiting you
+
+Deoxys shouldn't be difficult
+for you at this point, but he
+does have a
+ very low recruit %.  His base r
+ so even with a lvl 90+ leader, 
+ only have a 24% chance to recru
+ getting yourself a Deoxys.
+
+For Recruiting purposes: Deoxys
+is lvl 35 when recruited.
+
+
+==================
+6d13. Joyous Tower
+==================
+
+This dungeon is automatically
+available from your dungeon list
+after
+ saving the Lati@s duo and obtai
+ This is a 99 Floor dungeon, wit
+ This is one of the "Level 1" du
+ level is temporarily set back t
+ inside of this dungeon is to re
+ be found here.  Also, if you wa
+ here your money is reduced to 0
+ money as you go.  Final note, t
+ you will most likely want to br
+
+Note: Kecelon shops here have a
+chance of having the Friend Bow
+for sale.
+
+Some examples are: Pichu,
+Wurmple, Cyndaquil, Bulbasaur,
+Treecko, Torchic,
+ and many others.  Other than th
+ reason to venture in here much.
+
+
+===================
+6d14. Purity Forest
+===================
+
+Like Joyous Tower, this dungeon
+is unlocked after saving the
+Lati@s duo
+ and obtaining the Sky Blue Plai
+ dungeon where your level is tem
+ the dungeon).  This dungeon als
+ items, money and no pokemon ins
+ one of the most frustrating dun
+ your survival is based almost e
+ appearances.
+
+If you do manage to make it
+through all 98 Floors, then
+Celebi will
+ be waiting for you on the 99th 
+ into your party.  Celebi is the
+ and it will probably cause you 
+ it.
+
+For Recruiting purposes: Celebi
+is lvl 45 when recruited.
+
+Tips for Purity Forest Submitted
+by TheDarkPaladin9
+
+Tip 1- Try and find a Pass
+Scarf. They really do
+wonders(especially in
+ Monster Houses)
+
+Tip 2- Try and find a full
+supply of Apples and Big
+Apples(for the scarf)
+
+Tip 3- Try and find four
+Frustration TMs. They really
+help through out the
+ whole dingeon.
+
+I have figured these out by
+myself. I have also recruited
+Celebi with these
+ tips.
+
+
+===============
+6d15. Wish Cave
+===============
+
+Once you have the Lati@s duo and
+Sky Blue Plains Friend Area, you
+need to
+ head to Whiscash's pond and loo
+ Talk to them, then complete opt
+ Complete more missions, then on
+ Bulletin Board and look for a r
+ dungeon.
+
+To enter you will need HM Surf,
+money will be reduced to 0,
+level will be
+ temporarily reduced to 1 and yo
+
+This is another 99 Floor dungeon
+where your level will be set
+back to 1.
+ Something to make the entire du
+ the Tight Belt and spending som
+ Skarmory floors.  If you are ju
+ leveling on your way up so you 
+ Some pokemon like Togepi can on
+ to probably come back to recrui
+
+If you lose your Wish Stone, you
+can find another on the 50th
+Floor. If,
+ when you reach the 99th Floor, 
+ can grant you a wish.  If you g
+ come back to recruit him.  When
+ will join you with his 99.9% re
+ blow, etc.).  Some of you won't
+ to get wishes, and can just rec
+ have to worry about scaling all
+
+For Recruiting purposes: Jirachi
+is lvl 40 when recruited.
+
+
+================
+6d16. Murky Cave
+================
+
+If you have cleared Stormy Sea
+and completed the mission to
+rescue Medicham
+ from Wish Cave, then the next m
+ first ask to be taken to Mt. Fr
+
+Note: Ghost pokemon are
+frustrating escorts!
+
+When you arrive you will find
+out Gengar was actually the
+human from the
+ legend who was transformed into
+ he will tell Gengar to goto Mur
+ be transformed back into a huma
+
+Murky Cave is now unlocked for
+you! It's a 20 floor dungeon (19
+with
+ enemies) and escorting Gengar m
+ the opponents are ghosts and wi
+ manage to make it down to the 2
+ a long conversation Gardevoir w
+ the condition that he will not 
+ The next morning if you head in
+ to join your team (he will join
+
+
+=====================
+6e. Catching them all
+=====================
+
+As in other pokemon games there
+are ways to "Catch" or in this
+case "Recruit"
+ them all, this section is dedic
+ or acquire pokemon.  So, for th
+ for that "completionist" feelin
+
+
+=============================
+6e1. Version-Specific Pokemon
+=============================
+
+There are quite a bit of
+version-specific pokemon, but
+there are ways
+ to bridge that gap.  Below are 
+ location they take place at (so
+ along with the rest of the info
+ Job, the pokemon that was unloc
+ areas it has been in the opposi
+
+Key:
+
+(M) = Male symbol
+(F) = Female Symbol
+(...) = The triple dots
+
+**Red-Specific pokemon for Blue:
+
+Unlocks Milotic in Blue:
+
+Title: Take me! Description:
+“Milotic has been waiting
+forever…
+    Please escort me there!”
+Client:  Quilava
+Objective:  Escort to Milotic.
+Place:  Thunderwave Cave B3F
+Difficulty:  D
+Reward:  TM Dig + ?
+Wonder Mail: 1?N9 X3+? ?+65
+   +!?Q +470 S0?W
+
+Unlocks Porygon in Blue:
+
+Title: Hurry! Description:
+“Porygon’s been gone a long
+time!
+ A rescue is urgently needed!”
+Client:  Hypno
+Objective:  Find Porygon.
+Place:  Magma Cavern B15F
+Difficulty:  B
+Reward:  400 Poke
+Wonder Mail: F?43 4?T? 429H
+   90?7 H56R 8K?(f)
+
+Unlocks Feebas in Blue:
+
+Title: Deliver one Cheri Berry.
+Description: “Cheri Berry wanted
+to test effects.
+ Please help!  Reward offered!”
+Client:  Feebas
+Objective:  Deliver Cheri Berry.
+Place:  Grand Sea B9F
+Difficulty:  B
+Reward:  Trawl Orb
+Wonder Mail: X?7P (F)?+? ?XP6
+   RJ?Q FJC5 ?W??
+
+Unlocks Mantine in Blue: Title:
+Please take me with you!
+Description: “I want to meet
+with Mantine. Please take me
+there with you!” Client: Kirlia
+Objective: Escort to Mantine.
+Place: Tiny Woods B3F
+Difficulty: D Reward: 200 Poke
+Wonder Mail: 4??N 22(...)? ?Q6J
+   H3?(M) 8470 JN?W
+
+Unlocks Roselia in Blue:
+
+Title: I’m in trouble…
+Description: “I’m simply no good
+at fighting.
+   Why?  Why is everyone attacki
+Client:  Roselia
+Objective:  Help me.
+Place:  Tiny Woods B2F
+Difficulty:  E
+Reward:  100 Poke
+Wonder Mail: F?4N +WT? ?+6N
+   FR?J F?66 85?W
+
+Unlocks Plusle in Blue:
+
+Title: Please take me with you!
+Description: “I want to meet
+with Plusle.
+    Please escort me there!”
+Client:  Minun
+Objective:  Escort to Plusle.
+Place:  Thunderwave Cave B5F
+Difficulty:  D
+Reward:  400 Poke
+Wonder Mail: F?RP F?(...)? 4+7?
+   (...)R?H 64?0 R???
+
+The above "Locations" were
+submitted by Leisurejason. Then
+DKII,
+ took it one step further by add
+ mission, nicely done and thank 
+
+
+**Blue-Specific pokemon for Red:
+
+Unlocks Porygon2 in Red:
+
+Wonder Mail: 1?7C 6CF? ?!91
+   T3?9 -N7R C??N
+
+OR
+
+Wonder Mail: F?5N -QF? ?+6!
+   ?H?? F?6R 69?W
+
+Unlocks Minun in Red:
+
+Wonder Mail: F?RP F?(...)? 4+7?
+   (...)R?H 64?0 R???
+
+Unlocks Magikarp in Red:
+
+Wonder Mail: X??S ??X? 468?
+   (F)+?? 9756 SY??
+
+Unlocks Aipom in Red:
+
+Wonder Mail: 4?N(...) W3+? ??P?
+      (M)M?P 2?60 M(...)?W
+
+Unlocks Lapras in Red:
+
+Wonder Mail: F?J? 690? 4Q6C
+   C!?? 8?66 8Q?(F)
+
+These Red codes have been tested
+and working, thanks
+FlygonBreloom.
+
+
+=============================
+6e2. Dungeon-Specific Pokemon
+=============================
+
+This section is all about where
+pokemon can be found only in a
+single
+ dungeon, like how Bulbasaur (wh
+ in Joyous Tower. Also as a note
+ pokemon, recruiting a Bulbasaur
+ to recruit an Ivysaur due to th
+ a Blastoise is .1% (if lvl 100,
+ a Squirtle is 45.7% under the s
+ from this list, than it can be 
+ only be found through evolution
+
+### - Pokemon - Dungeon, Floors
+X-X
+
+001 - Bulbasaur - Joyous Tower,
+      Floors 1-5
+002 - Ivysaur - Western Cave,
+      Floors 19-27
+004 - Charmander - Fiery Field,
+      Floors 5-8
+005 - Charmeleon - Fiery Field,
+      Floors 26-29
+007 - Squirtle - Waterfall Pond,
+      Floors 8-12
+008 - Wartortle - Northwind
+      Field, Floors 27-29
+009 - Blastoise - Western Cave,
+      Floors 89-98
+010 - Caterpie - Wish Cave,
+      Floors 2-4
+011 - Metapod - Joyous Tower,
+      Floors 7-8
+014 - Kakuna - Joyous Tower,
+      Floors 9-13
+016 - Pidgey - Howling Forest,
+      Floors 9-13
+017 - Pidgeotto - Mt. Thunder,
+      Floors 2-5
+023 - Ekans - Western Cave,
+      Floors 3-5
+025 - Pikachu - Lightning Field,
+      Floors 6-10
+029 - Nidoran(F) - Thunderwave
+      Cave, Floors 1-3
+035 - Clefairy - Joyous Tower,
+      Floors 9-14
+037 - Vulpix - Fiery Field,
+      Floors 1-4
+044 - Gloom - Silent Chasm,
+      Floors 1-9
+046 - Paras - Silent Chasm,
+      Floors 7-9
+052 - Meowth - Western Cave,
+      Floors 3-6
+054 - Psyduck - Joyous Tower,
+      Floors 9-12
+056 - Mankey - Uproar Forest,
+      Floors 8-9
+069 - Bellsprout - Wish Cave,
+      Floors 1-3
+077 - Ponyta - Joyous Tower,
+      Floors 57-59
+102 - Exeggcute - Howling
+      Forest, Floor 14
+104 - Cubone - Southern Cavern,
+      Floors 5-10
+108 - Lickitung - Western Cave,
+      Floors 37-44
+113 - Chansey - Joyous Tower,
+      Floors 50, 60, 77
+115 - Kangaskhan - Western Cave,
+      Floors 13-19
+118 - Goldeen - Waterfall Pond,
+      Floors 1-5
+129 - Magikarp - Waterfall Pond,
+      Floors 7-11
+131 - Lapras - Far-Off Sea,
+      Floors 45-50
+133 - Eevee - Joyous Tower,
+      Floors 12-17
+137 - Porygon - Buried Relic,
+      Floors 5-10
+143 - Snorlax - Howling Forest,
+      Floors 11-14
+144 - Articuno - Frosty Grotto,
+      Floor 5
+145 - Zapdos - Mt. Thunder Peak,
+      Floor 3
+146 - Moltres - Mt. Blaze Peak,
+      Floor 3
+148 - Dragonair - Wyvern Hill,
+      Floors 12-20
+150 - Mewtwo - Western Cave,
+      Floor 99
+151 - Mew - Buried Relic, Floors
+      36-98
+
+--End of original 151--
+
+152 - Chikorita - Joyous Tower,
+      Floors 8-11
+153 - Bayleef - Western Cave,
+      Floors 20-27
+155 - Cyndaquil - Joyous Tower,
+      Floors 13-17
+156 - Quilava - Fiery Field,
+      Floors 15-24
+161 - Sentret - Sinister Woods,
+      Floors 3-6
+170 - Chinchou - Silver Trench,
+      Floors 70-79
+172 - Pichu - Joyous Tower,
+      Floors 3-6
+173 - Cleffa - Wish Cave, Floors
+      1-4
+175 - Togepi - Wish Cave, Floors
+      5-10
+179 - Mareep - Lightning Field,
+      Floors 1-5
+180 - Flaaffy - Lightning Field,
+      Floors 7-13
+183 - Marill - Wish Cave, Floors
+      4-6
+185 - Sudowoodo - Sinister
+      Woods, Floors 1-4
+187 - Hoppip - Pitfall Valley,
+      Floors 4-8
+190 - Aipom - Uproar Forest,
+      Floors 1-6
+191 - Sunkern - Wish Cave,
+      Floors 1-3
+203 - Girafarig - Solar Cave,
+      Floors 1-4
+209 - Snubbull - Western Cave,
+      Floors 1-3
+215 - Sneasel - Buried Relic,
+      Floors 1-4
+223 - Remoraid - Silver Trench,
+      Floors 50-59
+225 - Delibird - Northwind
+      Field, Floors 17-25
+226 - Mantine - Grand Sea, Floor
+      30
+236 - Tyrogued - Mt. Steel,
+      Floors 5-8
+238 - Smoochum - Joyous Tower,
+      Floors 21-25
+241 - Miltank - Western Cave,
+      Floors 10, 20, 30, 40,
+      50-53, 60-98
+243 - Raikou - Lightning Field,
+      Floor 30
+244 - Entei - Fiery Field, Floor
+      30
+245 - Suicune - Northwind Field,
+      Floor 30
+246 - Larvitar - Southern
+      Cavern, Floors 16-26
+249 - Lugia - Silver Trench,
+      Floor 99
+250 - Ho-oh - Mt. Faraway, Floor
+      40
+251 - Celebi - Purity Forest,
+      Floor 99
+
+--End of next 100--
+
+252 - Treecko - Joyous Tower,
+      Floors 1-4
+253 - Grovyle - Western Cave,
+      Floors 38-49
+255 - Torchic - Joyous Tower,
+      Floors 11-15
+256 - Combusken - Fiery Field,
+      Floors 22-29
+258 - Mudkip - Waterfall Pond,
+      Floors 1-3
+260 - Swampert - Western Cave,
+      Floors 79-88
+263 - Zigzagoon - Mt. Steel,
+      Floors 1-5
+265 - Wurmple - Joyous Tower,
+      Floors 1-2
+266 - Silcoon - Sinister Woods,
+      Floors 4-6
+270 - Lotad - Waterfall Pond,
+      Floors 1-3
+271 - Lombre - Waterfall Pond,
+      Floors 13-16
+274 - Nuzleaf - Uproar Forest,
+      Floors 5-9
+276 - Taillow - Joyous Tower,
+      Floors 2-4
+280 - Ralts - Wish Cave, Floors
+      11-13
+281 - Kirlia - Solar Cave,
+      Floors 10-15
+283 - Surskit - Waterfall Pond,
+      Floors 4-7
+294 - Loudred - Howling Forest,
+      Floors 9-14
+296 - Makuhita - Buried Relic,
+      Floors 30-34
+300 - Skitty - Joyous Tower,
+      Floors 24-28
+302 - Sableye - Darknight Relic,
+      Floors 1-15
+313 - Volbeat - Northwind Field,
+      Floors 1-6
+315 - Roselia - Uproar Forest,
+      Floors 4-7
+316 - Gulpin - Buried Relic,
+      Floors 14, 16-19
+327 - Spinda - Joyous Tower,
+      Floors 5-7
+339 - Barboach - Waterfall Pond,
+      Floors 1-5
+341 - Corphish - Waterfall Pond,
+      Floors 6-12
+345 - Lileep - Silver Trench,
+      Floors 80-89
+346 - Cradily - Silver Trench,
+      Floors 90-98
+349 - Feebas - Waterfall Pond,
+      Floors 16-19
+351 - Castform - Mt. Faraway,
+      Floors 20-29
+369 - Relicanth - Silver Trench,
+      Floors 80-89
+377 - Regirock - Buried Relic,
+      Floor 15
+378 - Regice - Buried Relic,
+      Floor 25
+379 - Registeel - Buried Relic,
+      Floor 35
+380 - Latias - Pitfall Valley,
+      Floor 25
+381 - Latios - Northern Range,
+      Floor 25
+382 - Kyogre - Stormy Sea, Floor
+      40
+383 - Groudon - Magma Cavern
+      Pit, Floor 3
+384 - Rayquaza - Sky Tower
+      Summit, Floor 9
+385 - Jirachi - Wish Cave, Floor
+      99
+386 - Deoxys - Meteor Cave,
+      Floor 20
+
+
+================================
+6e3. Pokemon Through Evolution
+Only
+================================
+
+This section is about getting
+those pokemon that can only join
+your team
+ through evolving another pokemo
+ dungeons, you cannot recruit th
+ from another pokemon.
+
+003 - Venusaur - Evolves from
+      Ivysaur at lvl 32
+006 - Charizard - Evolves from
+      Charmeleon at lvl 36
+012 - Butterfree - Evolves from
+      Metapod at lvl 10
+015 - Beedrill - Evolves from
+      Kakuna at lvl 10
+018 - Pidgeot - Evolves from
+      Pidgeotto at lvl 36
+020 - Raticate - Evolves from
+      Rattata at lvl 20
+022 - Fearow - Evolves from
+      Spearow at lvl 20
+024 - Arbok - Evolves from Ekans
+      at lvl 22
+026 - Raichu - Evolves from
+      Pikachu using Thunderstone
+028 - Sandslash - Evolves from
+      Sandshwer at lvl 22
+031 - Nidoqueen - Evolves from
+      Nidorina using Moonstone
+034 - Nidoking - Evolves from
+      Nidorino using Moonstone
+036 - Clefable - Evolves from
+      Clefairy using Moonstone
+038 - Ninetales - Evolves from
+      Vulpix using Firestone
+040 - Wigglytuff - Evolves from
+      Jigglypuff using Moonstone
+045 - Vileplume - Evolves from
+      Gloom using Leafstone
+047 - Parasect - Evolves from
+      Paras at lvl 24
+049 - Venomoth - Evolves from
+      Venonat at lvl 31
+051 - Dugtrio - Evolves from
+      Diglett at lvl 26
+053 - Persian - Evolves from
+      Meowth at lvl 28
+055 - Golduck - Evolves from
+      Psyduck at lvl 33
+057 - Primeape - Evolves from
+      Mankey at lvl 28
+059 - Arcanine - Evolves from
+      Growlithe using Firestone
+062 - Poliwrath - Evolves from
+      Poliwhirl using Waterstone
+065 - Alakazam - Evolves from
+      Kadabra using Link Cable
+068 - Machamp - Evolves from
+      Machoke using Link Cable
+070 - Weepinbell - Evolves from
+      Bellsprout at lvl 21
+071 - Victreebell - Evolves from
+      Weepinbell using Leafstone
+078 - Rapidash - Evolves from
+      Ponyta at lvl 40
+080 - Slowbro - Evolves from
+      Slowpoke at lvl 37
+082 - Magneton - Evolves from
+      Magnemite at lvl 30
+085 - Dodrio - Evolves from
+      Doduo at lvl 31
+087 - Dewgong - Evolves from
+      Seel at lvl 34
+089 - Muk - Evolves from Grimer
+      at lvl 38
+091 - Cloyster - Evolves from
+      Shellder using Waterstone
+094 - Gengar - Evolves from
+      Haunter using Link Cable
+097 - Hypno - Evolves from
+      Drowzee at lvl 26
+099 - Kingler - Evolves from
+      Krabby at lvl 28
+101 - Electrode - Evolves from
+      Voltorb at lvl 30
+103 - Exeggutor - Evolves from
+      Exeggcute using Leafstone
+105 - Marowak - Evolves from
+      Cubone at lvl 28
+106 - Hitmonlee - Evolves from
+      Tyrogue at lvl 20 when
+      Attack > Defense
+107 - Hitmonchan - Evolves from
+      Tyrogue at lvl 20 when
+      Attack < Defense
+110 - Weezing - Evolves from
+      Koffing at lvl 35
+112 - Rhydon - Evolves from
+      Rhyhorn at lvl 42
+119 - Seaking - Evolves from
+      Goldeen at lvl 33
+121 - Starmie - Evolves from
+      Staryu using Waterstone
+124 - Jynx - Evolves from
+      Smoochum at lvl 30
+125 - Electabuzz - Evolves from
+      Elekid at lvl 30
+126 - Magmar - Evolves from
+      Magby at lvl 30
+130 - Gyarados - Evolves from
+      Magikarp at lvl 20
+134 - Vaporeon - Evolves from
+      Eevee using Waterstone
+135 - Jolteon - Evolves from
+      Eevee using Thunderstone
+136 - Flareon - Evolves from
+      Eevee using Firestone
+139 - Omastar - Evolves from
+      Omanyte at lvl 40
+141 - Kabutops - Evolves from
+      Kabuto at lvl 40
+149 - Dragonite - Evolves from
+      Dragonair at lvl 55
+
+--End of original 151--
+
+154 - Meganium - Evolves from
+      Bayleef at lvl 32
+157 - Typhlosion - Evolves from
+      Quilava at lvl 36
+160 - Feraligatr - Evolves from
+      Croconaw at lvl 30
+162 - Furret - Evolves from
+      Sentret at lvl 15
+164 - Noctowl - Evolves from
+      Hoothoot at lvl 20
+166 - Ledian - Evolves from
+      Ledyba at lvl 18
+168 - Ariados - Evolves from
+      Spinarak at lvl 22
+169 - Crobat - Evolves from
+      Golbat at 5 Stars of IQ
+170 - Lanturn - Evolves from
+      Chinchou at lvl 27
+176 - Togetic - Evolves from
+      Togepi at 5 Stars of IQ
+178 - Xatu - Evolves from Natu
+      at lvl 25
+181 - Ampharos - Evolves from
+      Flaaffy at lvl 30
+182 - Bellossom - Evolves from
+      Gloom using the Sunstone
+184 - Azumarill - Evolves from
+      Marill at lvl 18
+186 - Politoed - Evolves from
+      Poliwhirl using the King's
+      Rock and Link Cable
+189 - Jumpluff - Evolves from
+      Skiploom at lvl 27
+192 - Sunflora - Evolves from
+      Sunkern using the Sunstone
+195 - Quagsire - Evolves from
+      Wooper at lvl 20
+196 - Espeon - Evolves from
+      Eevee at 4 Stars of IQ and
+      using the Sun Ribbon
+197 - Umbreon - Evolves from
+      Eevee at 4 Stars of IQ and
+      using the Lunar Ribbon
+198 - Slowking - Evolves from
+      Slowpoke using the King's
+      Rock and Link Cable
+202 - Wobbuffet - Evolves from
+      Wynaut at lvl 15
+205 - Forretress - Evolves from
+      Pineco at lvl 31
+208 - Steelix - Evolves from
+      Onix using the Metal Coat
+      and Link Cable
+210 - Granbull - Evolves from
+      Snubbull at lvl 23
+212 - Scizor - Evolves from
+      Scyther using the Metal
+      Coat and Link Cable
+217 - Ursaring - Evolves from
+      Teddiursa at lvl 30
+219 - Magcargo - Evolves from
+      Slugma at lvl 38
+221 - Piloswine - Evolves from
+      Swinub at lvl 33
+229 - Houndoom - Evolves from
+      Houndour at lvl 24
+230 - Kingdra - Evolves from
+      Seadra using the Dragon
+      Scale and Link Cable
+232 - Donphan - Evolves from
+      Phanpy at lvl 25
+237 - Hitmontop - Evolves from
+      Tygorue at lvl 20 when
+      Attack = Defense
+242 - Blissey - Evolves from
+      Chansey at 5 Stars of IQ
+248 - Tyranitar - Evolves from
+      Pupitar at lvl 55
+
+--End of next 100--
+
+254 - Sceptile - Evolves from
+      Grovyle at lvl 36
+257 - Blaziken - Evolves from
+      Combusken at lvl 36
+262 - Mightyena - Evolves from
+      Poochyena at lvl 18
+264 - Linoone - Evolves from
+      Zigzagoon at lvl 20
+267 - Beautifly - Evolves from
+      Silcoon at lvl 10
+269 - Dustox - Evolves from
+      Cascoon at lvl 10
+272 - Ludicolo - Evolves from
+      Lombre using Waterstone
+277 - Swellow - Evolves from
+      Taillow at lvl 22
+279 - Pelipper - Evolves from
+      Wingull at lvl 25
+282 - Gardevoir - Evolves from
+      Kirlia at lvl 30
+284 - Masquerain - Evolves from
+      Surskit at lvl 22
+286 - Breloom - Evolves from
+      Shroomish at lvl 23
+289 - Slaking - Evolves from
+      Vigoroth at lvl 36
+291 - Ninjask - Evolves from
+      Nincada at lvl 20
+292 - Shedinja - Created when
+      Nincada evolves to Ninjask
+295 - Exploud - Evolves from
+      Loudred at lvl 40
+297 - Hariyama - Evolves from
+      Makuhita at lvl 24
+301 - Delcatty - Evolves from
+      Skitty using Moonstone
+306 - Aggron - Evolves from
+      Lairon at lvl 42
+308 - Medicham - Evolves from
+      Meditite at lvl 37
+310 - Manectric - Evolves from
+      Electrike at lvl 26
+317 - Swalot - Evolves from
+      Gulpin at lvl 26
+319 - Sharpedo - Evolves from
+      Carvanha at lvl 30
+321 - Wailord - Evolves from
+      Wailmer at lvl 40
+323 - Camerupt - Evolves from
+      Numel at lvl 33
+326 - Grumpig - Evolves from
+      Spoink at lvl 32
+330 - Flygon - Evolves from
+      Vibrava at lvl 45
+332 - Cacturne - Evolves from
+      Cacnea at lvl 32
+334 - Altaria - Evolves from
+      Swablu at lvl 35
+340 - Whiscash - Evolves from
+      Barboach at lvl 30
+342 - Crawdaunt - Evolves from
+      Corphish at lvl 30
+344 - Claydol - Evolves from
+      Baltoy at lvl 36
+348 - Armaldo - Evolves from
+      Anorith at lvl 40
+350 - Milotic - Evolves from
+      Feebas using Beauty Scarf
+354 - Banette - Evolves from
+      Shuppet at lvl 37
+356 - Dusclops - Evolves from
+      Duskull at lvl 37
+362 - Glalie - Evolves from
+      Snorunt at lvl 42
+365 - Walrein - Evolves from
+      Sealeo at lvl 44
+367 - Huntail - Evolves from
+      Clamperl using
+      Deepseatooth and Link
+      Cable
+368 - Gorebyss - Evolves from
+      Clamperl using
+      Deepseascale and Link
+      Cable
+373 - Salamence - Evolves from
+      Shelgon at lvl 50
+376 - Metagross - Evolves from
+      Metang at lvl 45
+
+
+If you want more detailed
+information on locations,
+recruit #'s, potential
+ moves/HM's, and more about poke
+ Terence Fergusson.  He did a fa
+ information and putting it into
+
+ http://db.gamefaqs.com/portable
+
+ It's located there, just use Ct
+ in.
+
+
+==================
+6f. Reward Statues
+==================
+
+You may or may not know, but
+there are 4 statues you can get
+that sit
+ outside of your Rescue Team bas
+ then the prestige they bring, b
+ for.  There are a total of 4 st
+
+Bonsly Figure - Complete the 17
+"Type" mazes in the Makuhita
+Dojo (The
+    Team Mazes are not counted i
+
+Lucario Figure - Get the Lucario
+Rescue Rank
+
+Mime Jr. Figure - Through a
+Wonder Mail mission
+
+Weavile Figure - Through a
+Wonder Mail mission
+
+I won't go into depth on any of
+these, but a good Makuhita Dojo
+FAQ is
+ located here:
+http://db.gamefaqs.com/portable/
+ds/file/pokemon_md_makuhita.txt
+
+Along with a good Wonder Mail
+FAQ (should contain the
+passwords needed)
+ is located here:
+http://db.gamefaqs.com/portable/
+gbadvance/file/pokemon_md_wonder
+_mail.txt
+
+The first is done by Dalent67
+and the second done by
+ZombieInfection,
+ nicely done guys.
+
+
+========================
+6g. Unknown Dungeon Mode
+========================
+
+-This section submitted by Flygo
+
+When you are near someone that
+has a DS that is set to Unknown
+Dungeon
+ Mode and you also have your DS 
+ react to one another and both p
+ been able to test this with mul
+ in Mystery dungeon Mode with an
+ gives you free items if you aci
+ has Mystey Dungeon).
+
+Also of note Unknown Dungeon can
+be repeated an infinite number
+of times.
+
+
+=======
+7a. FAQ
+=======
+
+Q: You FAQ is missing _______
+
+A: You can send it to me using
+the "Contact Me" information
+below, just
+   make sure that I can interpre
+   or it may be deleted right aw
+   email is just "Hi" with an un
+   it's spam.  I will appreciate
+
+
+Q: How many pokemon are
+recruitable in this game?
+
+A: All 386 are implemented and
+recruitable, along with hints to
+other
+   pokemon not included (such as
+
+
+Q: My pokemon is XX level why
+can't I evolve yet?
+
+A: You may evolve after the main
+storyline is over inside of a
+cave
+   that opens in town.  You may 
+   time.  Do a ctrl+F "Luminous 
+
+   If I get anymore emails askin
+   it's clearly stated multiple 
+   and it shows me you put no ef
+   yourself before emailing me.
+
+
+Q: How do I change my leader?
+
+A: You must first goto the
+Friend Area of the pokemon you
+want to make
+   leader, then choose Join Team
+   your leader and your previous
+
+
+Q: Why won't XX event start for
+me, even though according to
+your guide it
+   should have started.
+
+A: Make sure you have completed
+any previous events as you may
+not be able
+   to be working on multiple eve
+   to meet the mirage pokemon, a
+
+
+Q: Where is a great place to get
+Gummies?
+
+A: Uproar forest if you aren't
+looking for any in particular,
+bring some
+   X-Ray Specs so you can find t
+   most (Grass/Green Gummies).
+
+
+Q: Why can't I catch XX pokemon?
+
+A: First goto Wigglytuff and
+make sure you have that
+pokemon's Friend
+   Area unlocked, once you have 
+   have very very low chances, e
+   To counter this you will need
+   Friend Bow equipped and have 
+
+
+Q: Why is it when I go back to
+capture a legendary bird,
+Groudon or
+   Rayquaza I cannot reach them?
+
+A: You must not be attempting to
+complete a mission or the
+dungeon will
+   end right at the "Save Point"
+   that dungeons "Peak".
+
+
+Q: Pokemon X has a 100% recruit
+chance yet I can't recruit him,
+why?
+
+A: This means either your party
+is too big (some legendaries are
+4 body
+   size so you can only bring up
+   leader did not get the final 
+   you are trying to catch needs
+
+
+Q: I just evolved my pokemon and
+he didn't have the option of
+learning
+   any moves his evolved form sh
+   previous levels, why?
+
+A: Gulpin is the man, at the end
+of my Game Basics, I tried to
+give a
+   quick overview of what Gulpin
+   option is the "Remember" opti
+   free of charge, and allows yo
+   has already learned or should
+   evolving Charmander to Chariz
+   Wave on lvl 1, but as you are
+   an option.  But, what you can
+   Heat Wave for another ability
+   don't like Heat Wave and want
+   back to Gulpin's shop and Rem
+   to experiment with movesets a
+
+
+Q: Where do I get HM ____?
+
+A: Dive - Whiscash gives it to
+you, if you lose it then Solar
+Cave 10th
+  Floor, requires a Key
+   Waterfall - Solar Cave 15th F
+   Surf - Solar Cave 20th Floor,
+   Fly - Wyvern Hill 30th Floor,
+   Rock Smash - Buried Relic 45t
+   Strength - Buried Relic 60th 
+   Flash - Buried Relic 70th Flo
+   Cut -  Buried Relic 80th Floo
+  and Rock Smash
+
+
+Q: Where do I get keys to get
+the HMs?
+
+A: Keys are located in Solar
+Cave, Desert Region and Western
+Cave
+
+
+Q: If I lost HM ___ from dying,
+can I get a new one?
+
+A: Yes, you can retrieve the new
+HM from the exact spot you found
+the
+   old one.  The only exception 
+   you get is from Whiscash, but
+   10th Floor of Solar Cave.
+
+
+Q: Where do I get XX Evolution
+item (Stones included)?
+
+A: Sun Stone and Moon Stone are
+both found in Solar Cave on
+Floors 1,
+    10, and 16 (for both stones)
+   Water Stone on the 29th Floor
+   Thunder Stone on the 29th Flo
+   Fire Stone on the 29th Floor 
+   Leaf Stone, King's Rock and U
+    Shops and then only on speci
+   Deepseascale and Deepseatooth
+ (for scale) and 25 (for tooth)
+   Beauty Scarf is found on the 
+   Dragonscale is on the 29th Fl
+   Link Cables are easiest found
+    long as you already have the
+   Lunar Ribbon is on the 20th F
+   Sun Ribbon is on the 20th Flo
+   Metal Coat is on the 49th and
+
+
+Q: Where is the fastest place to
+level up?
+
+A: Fastest place to level up
+that I have seen is either the
+popular 1-room
+   Monster Houses of Lugia's Sil
+   Floors 40-60 and 89-98 in Wes
+   Absol, Tyranitar, Alakazam, C
+   experience each when killed b
+   house of them you are looking
+   just that room.  If you manag
+   spend alot more time on these
+
+   Submitted by Sixftdwarf:
+
+   Just wanted to let you know  
+   One Room Orb on a floor with 
+   a monster house. A useful tri
+   useful if you're barely survi
+   this.
+
+
+Q: Where do I get the Friend
+Bow?
+
+A: The easiest place to get it,
+in my opinion, is bringing a key
+to Mt.
+   Faraway on the 30th Floor, yo
+   in Joyous Tower.  The Friend 
+   pokemon by 10% when equipped.
+
+
+Q: Where do I get the Tight
+Belt?
+
+A: The Tight Belt is a very rare
+item that can only be found in a
+few
+   specific spots.   It can appe
+   Far-off Sea, but the chances 
+   of Purity Forest and Floors 1
+   in Purity Forest shops and as
+
+
+Q: What are Buried Items?
+
+A: Buried items may only be
+found by smashing walls with
+Rock Smash or
+   having a pokemon with the abi
+   of picking up a Buried item e
+   traveling through walls can p
+   a very hard time getting Buri
+
+ --Submitted by OmegaDestroyer
+
+ -I had a Swampert equipped with
+  over a part of a wall and foun
+  I was thinking Ghost-type poke
+  Scarf may be able to simply wa
+  up.
+
+  I'd also note that Ghost/Mobil
+  the items that need Rock Smash
+
+ --Some more notes on Buried Ite
+
+  On average I would say there a
+  don't stop looking after only 
+
+  The Pickup ability is not requ
+  uniquely buried items upon ent
+  he can.
+
+  When breaking the walls, have 
+  at a time is much more efficie
+
+  An item will eventually appear
+  fit (picking it up, using it, 
+
+  After knowing all of this, jus
+  level (this will not work on b
+  rewards.
+
+
+Q: Where is Mew?
+
+A: Mew appears in Buried Relic
+between 36th Floor and 99th
+Floor as long
+   as you carry the Music Box in
+   it with you).  He may appear 
+   he can only appear when you r
+   original red dots and cannot 
+   use Transform and you will se
+   which is an easy tipoff he is
+   use it and his recruit chance
+
+
+Q: Where did Skarmory go? He
+disappeared from Mt. Steel.
+
+A: Skarmory can only be caught
+in Wish Cave (Floor 35+) or
+Western Cave,
+   (Floor 40-49)so you probably 
+   for quite awhile.
+
+
+Q: Why can't I catch the
+legendary birds?
+
+A: They can only be caught after
+the main storyline is over, they
+also
+   have a body size of 4, so mak
+   size with you.  Finally, they
+   prepared to spend a little wh
+
+
+Q: What happens when you spend a
+very long time on a specific
+floor?
+
+A: There is actually a system
+built in, that there is a
+limited number
+   of turns you can spend on a s
+   approaching that number, you 
+   or a mysterious pokemon.  If 
+   find the stairs asap, as if y
+   of turns you will be blown ou
+   if you had died, losing items
+   so don't loiter around too lo
+
+
+Q: What is the best pokemon to
+bring into a level 1 dungeon?
+
+A: It all comes down to personal
+preference, I would personally
+recommend
+   Charizard (it may not level s
+   as others like Blastoise).  H
+   Wave are very useful and his 
+
+   If you have a personal prefer
+   post your preference and why 
+
+
+Q: Why can't I catch a Kecleon?
+
+A: First since his base recruit
+chance is -33.9% you must be lvl
+90+ with
+   Friend Bow equipped to get th
+   chance up to 0.1% or 1 in 100
+   any of their possible power-u
+   twice for every one of your t
+   single turn, they can also at
+
+   You will want to come very pr
+   Reviver Seeds, an Escape Orb,
+   Oran Berries.  You will also 
+   just waste Reviver Seeds, and
+   to recruit one anyway.  Silve
+   if they are standing far away
+
+   To engage the Kecleons you mu
+   you attempt this make sure yo
+   want to make a break for them
+   (Escape Orbs are disabled on 
+   Once engaged, Kecleons will c
+   fight.  Since the recruit cha
+   awhile attempting this, use t
+   each floor.
+
+   Note: If the Kecleons turn yo
+  can still attack and recruit t
+ ignore you until it wears off.
+
+
+Q: How do I get the dungeons
+Marvelous Sea, Oddity Cave,
+Remains Island,
+   and Fantasy Strait, also what
+
+A: They are unlocked through
+Wonder Mail Codes! The following
+codes are
+   straight from ZombieInfection
+
+   http://db.gamefaqs.com/portab
+
+
+   Fantasy Strait:
+
+   Client: Jigglypuff
+   Objective: Find Pikachu.
+   Place: Fantasy Strait B1F
+   Difficulty: B
+   Reward: Red Gummi
+   Wonder Mail:
+   ??M1 CJY? 44?P
+   HF?8 7J6R (...)M?1
+
+
+   Marvelous Sea:
+
+   Client: Jigglypuff
+   Objective: Find Pikachu.
+   Place: Marvelous Sea B1F
+   Difficulty: B
+   Reward: Red Gummi
+   Wonder Mail:
+   ??MH CJ(...)? 44?P
+   CF?8 7J6R (...)M?1
+
+
+   Oddity Cave:
+
+   Client: Jigglypuff
+   Objective: Find Pikachu.
+   Place: Oddity Cave B1F
+   Difficulty: B
+   Reward: Red Gummi
+   Wonder Mail:
+   ??MS CJ(...)? 44?P
+   MF?8 7J6R (...)M?1
+
+
+   Remains Island:
+
+   Client: Jigglypuff
+   Objective: Find Pikachu.
+   Place: Remains Island B1F
+   Difficulty: B
+   Reward: Red Gummi
+   Wonder Mail:
+   ??M4 CJY? 44?P
+   CF?8 7J6R (...)M?1
+
+The sad thing is, they aren't
+really all that special, they
+have no new
+ pokemon, but they are fun to ve
+ seem to have high appearance ra
+ That in itself is worth your ti
+
+Note: These dungeons have
+between 15-25 Floors each, so
+they are not too
+ extensive.
+
+
+
+
+
+
+==============
+8a. Contact Me
+==============
+
+You can direct any
+questions/comments to
+hswbaz@gmail.com but if your
+ question is already answered so
+ not respond to you.  If you hav
+ to send in.
+
+My name is Joe, I'm 20 and tend
+to work quite a bit, I'm doing
+my best
+ to write this guide asap due to
+ looking for one.  I have a bit 
+ people's ideas and opinions, ju
+ will waste my time, so please t
+ intelligent and useful.  It wil
+
+Starting December 1st I will be
+at a new job, and my replies to
+your many
+ emails will most likely go unhe
+ if I do not respond for weeks a
