@@ -6,7 +6,7 @@ category:
 - blaze
 - black
 - blazeblack
-color: '#36506f'
+color: '#58403b'
 console: Icon
 created: '2022-04-03T01:58:24Z'
 description: ''
@@ -16,7 +16,7 @@ downloads:
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/blazeblack2.bin
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/blazeblack2.gif
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/blazeblack2.gif
-last_updated: 2022-04-03 at 01:58 (UTC)
+last_updated: 2022-04-22 at 01:30 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -25,6 +25,6 @@ screenshots:
 systems:
 - Icon
 title: "Pok\xE9mon Blaze Black 2"
-updated: '2022-04-03T01:58:24Z'
+updated: '2022-04-22T01:30:13Z'
 version: v1.0.0
 ---
