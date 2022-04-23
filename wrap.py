@@ -18,8 +18,8 @@ def processLine(line: str, indent: int) -> str:
 	elif lineIndent(line) > 4:
 		line = re.sub("^ +", lambda x: x[0][:len(x[0]) // 4], line)
 
-	# probably a horizontal rule, just cut it
-	if isHr(line) > .75:
+	# A horizontal rule, just cut it
+	if isHr(line) == 1:
 		line = line[:32]
 
 	return line
@@ -73,10 +73,10 @@ for i, line in enumerate(input):
 		if len(temp) > 0:
 			if max(len(x) for x in temp) > 32 and isArt("".join(temp)) <= .75:
 				temp = textwrap.fill(re.sub(r"\s+", " ", "\n".join(temp)).strip(), 32, initial_indent=" " * lineIndent(temp[0]), subsequent_indent=" " * (isBullet(temp[0]) or lineIndent(temp[0])))
-				if not args.silent and isArt(temp) > .75:
-					print(f"Warning: Probably ASCII art at line {lineCount}")
 			else:
 				temp = "\n".join([x[:32] for x in temp])
+				if not args.silent and isArt(temp) > .75:
+					print(f"Warning: Probably ASCII art at line {lineCount}")
 			grouped.append(temp)
 			lineCount += len(re.findall("\n", temp)) + 1
 
