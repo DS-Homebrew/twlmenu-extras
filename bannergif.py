@@ -162,9 +162,6 @@ def bannergif(rom, output):
 		# more accurate timing you'll need a different output format.
 		delays.append(max(frame["duration"] * 1000 // 60, 20))
 
-	# Fix delay alignment, GIFs want it 1 frame after
-	delays = delays[-1:] + delays[:-1]
-
 	# Save output image
 	images[0].save(output, save_all=True, append_images=images[1:], duration=delays, loop=0, optimize=False)
 
