@@ -19,7 +19,8 @@ Table of Contents
 - Round Start and Fever Time
 - VS Play
 - Contact Information
-- Copyright and License Agreemen
+- Copyright and License
+  Agreement
 
 
 
@@ -45,7 +46,10 @@ game. It's cleverly designed and
 intensely fun to play. Bravo.
 
 - Unlockable Features taken from
-  - Thanks to Opticonal, discoin
+  GameFaqs.
+  - Thanks to Opticonal,
+    discoinferno84, and
+    ThePuppeteer.
 - Rainbow Bonus info from gs68.
 
 
@@ -58,9 +62,11 @@ Version 1 - July 31, 2008.
 
 Version 1.5 - August 1, 2008.
 - Added my friend code.
-- Detailed ROUND START info tran
+- Detailed ROUND START info
+  translated.
 - 20 waves per round confirmed.
-- Tons of info translated and co
+- Tons of info translated and
+  corrected.
 
 Version 1.6 - August 2, 2008.
 - Rate & break details.
@@ -78,9 +84,15 @@ Version 1.7 - August 7, 2008.
 *****************
 
 - What are the bass, drum, chord
-- No regional differences... rig
-- Better description for Flash s
-- Confirm causes for Color Chang
+  (chrd), and lead on the top
+  screen?
+- No regional differences...
+  right? (I have the US version)
+- Better description for Flash
+  shot.
+- Confirm causes for Color
+  Change, Type Change, Flash
+  shot, Roulette?
 - Endless mode confirmation?
 
 
@@ -90,16 +102,28 @@ Version 1.7 - August 7, 2008.
 ***********************
 
 - Extreme Mode: Complete Stage 5
-  Extreme mode offers stages wit
+  (any difficulty) of arcade
+  mode. Extreme mode offers
+  stages with increased
+  difficulty.
 
-- Stage Mode: Available after co
-  All stages that you have compl
+- Stage Mode: Available after
+  completing any stage. All
+  stages that you have completed
+  will be available in stage
+  mode.
 
-- Endless Mode: Complete all sta
-  Play all stages successively w
-  ***Needs confirmation. Might b
-  ***I have done this, but canno
-  ***May not exist, is listed fo
+- Endless Mode: Complete all
+  stages in arcade mode. Play
+  all stages successively
+  without boss battles.
+  ***Needs confirmation. Might
+     be PSP only.***
+  ***I have done this, but
+     cannot access Endless
+     Mode.***
+  ***May not exist, is listed
+     for completeness.***
 
 
 
@@ -107,35 +131,73 @@ Version 1.7 - August 7, 2008.
 * General Tips *
 ****************
 
-- You can set your player stock 
+- You can set your player stock
+  to 5 in the options for Arcade
+  Mode.
 
-- If you find the background dis
+- If you find the background
+  distracting, you can turn it
+  off or
     reduce its brightness in the
+    options.
 
-- Fever times are an excellent w
-    wave, and quickly mow down d
+- Fever times are an excellent
+  way to skip the end of your
+  current
+    wave, and quickly mow down
+    difficult waves in Arcade
+    Mode.
 
-- If you're having difficulty be
-    waves without dying. This wi
-    with a higher level, and pos
+- If you're having difficulty
+  beating a stage, try to beat
+  the previous
+    waves without dying. This
+    will allow you to start the
+    difficult stage with a
+    higher level, and possibly
+    extra lives. (See bonuses)
 
-- If you're going for score, bre
-    Along with keeping your scor
-    columns of invaders can give
+- If you're going for score,
+  breaks and fever times are
+  very important.
+    Along with keeping your
+    score multiplier high.
+    Destroying rows and columns
+    of invaders can give you an
+    additional score boost.
 
 - For maximum point bonuses from
-    difficult round starts, whic
+  fevers and breaks, try to get
+  the more
+    difficult round starts,
+    which have longer fever
+    times and better weapons.
 
-- Against human opponents, the m
+- Against human opponents, the
+  most annoying type of invaders
+  to send are
     usually reflect and assault.
-    you are sending. Bomb is gre
-    is weak against them. So whe
-    UFO. Blue invaders, on the o
-    to avoid giving your opponen
+    Also, consider the color of
+    the invaders you are
+    sending. Bomb is great
+    against reflect invaders,
+    while laser is weak against
+    them. So when sending red
+    invaders, avoid the blue
+    UFO. Blue invaders, on the
+    other hand, are best sent
+    with the blue UFO, to avoid
+    giving your opponent a
+    useful weapon.
 
 - Also, watch the top screen. If
+  possible, send a large group
+  at a difficult
     time, like when they've just
-    when your opponent has almos
+    started a wave.. Avoid
+    sending an attack when your
+    opponent has almost finished
+    his or her wave.
 
 
 
@@ -243,37 +305,69 @@ white, and black.
 
 The shape determines the point
 value of the invader.
-- 100 pt. invaders look kind of 
-- 200 pt. invaders look like the
-- 300 pt. invaders look like squ
+- 100 pt. invaders look kind of
+  like a mushroom cloud.
+- 200 pt. invaders look like
+  they have arms, legs, and
+  antennae.
+- 300 pt. invaders look like
+  squid, and are slightly
+  narrow.
 
 
 TYPE is one or more of the
 following:
 - Normal
 - Bomb
-- Armor - Has a white bar in fro
+- Armor - Has a white bar in
+  front of it. There are two
+  varieties:
     Armor that takes 2 hits, and
+    armor that takes 4 hits.
 - Reflect - Has a yellow, curved
-    Barrier type 1 is destroyed 
-    Barrier type infinity can on
+  barrier in front of it. Two
+  varieties:
+    Barrier type 1 is destroyed
+    by, but reflects the first
+    shot that hits it. Barrier
+    type infinity can only be
+    destroyed by shooting it
+    when its
   barrier opens, or by aiming at
+  the exact center.
     Both types are impervious to
+    laser.
 - Color Change - Changes color.
-- Split - Comes in split-2 and s
-- Assault - When hit once, will 
+- Split - Comes in split-2 and
+  split-3 types.
+- Assault - When hit once, will
+  begin to fall. Comes in two
+  varieties:
     Direct assault invaders move
-    Indirect assault invaders mo
+    straight down when hit.
+    Indirect assault invaders
+    move in a stair-step
+    pattern.
 - Huge - Takes 10 hits to kill.
-- Fast Shot - Fires a fast bulle
-- Three-way - Fires a spread of 
-- Short Laser - Fires a short la
-- Twin Laser - Fires two diagona
-- Intruder - Enters from the sid
-- Teleport - Teleports in front 
-- Dash - Moves in a circular pat
+- Fast Shot - Fires a fast
+  bullet.
+- Three-way - Fires a spread of
+  three bullets at once.
+- Short Laser - Fires a short
+  laser directly down.
+- Twin Laser - Fires two
+  diagonal lasers.
+- Intruder - Enters from the
+  side, and pauses to fire twin
+  lasers.
+- Teleport - Teleports in front
+  of the player before firing.
+- Dash - Moves in a circular
+  pattern.
 - Micro - A very small invader.
 - Bound - Stuck inside a bubble,
+  the first hit will send it
+  careening.
 
 
 UFOs occasionally fly by, as
@@ -286,10 +380,16 @@ points when shot, and some of
 these have special properties.
 - White: No special properties.
 - Blue: Will charge up, and find
+  a laser.
 - Green: Will add white invaders
-- Yellow: Will trigger the ROULE
-- Red: Will trigger a ROUND STAR
+  to the current wave.
+- Yellow: Will trigger the
+  ROULETTE.
+- Red: Will trigger a ROUND
+  START.
 - Flashing: Will trigger a ROUND
+  START. Only appears when
+  summoned.
 
 Shots fired by enemies are of
 various types, as well. There
@@ -340,7 +440,7 @@ Firing Delay Shot Power
   7     500K    1.17           2
   8     500K    1.33           2
   9     600K    1.17           2
- 10     600K    1.33           2
+ 10 600K 1.33 2 0.17 1.3
 
 Speed is relative, as is shot
 power. Firing delay is in
@@ -368,8 +468,11 @@ vertical line from the player.
 BLACK: Provides the player with
 a shield. The player is
 invulnerable to
-  normal shots and explosions wh
-  shot is unmodified. The shield
+  normal shots and explosions
+  while the shield is present.
+  The player's shot is
+  unmodified. The shield lasts
+  longer than other power-ups.
 
 You can deactivate these power-
 ups by holding down L or R. You
@@ -457,21 +560,25 @@ NAGOYA ATTACK: Points x 20
     lowest part of the screen.
 
 RAINBOW BONUS: 10,000 pts.
-   During break, for shooting th
+   During break, for shooting
+   the last 100 pt invader that
+   is leaving a trail.
 
 ALL LIGHTED: EXTRA LIFE Awarded
 if the three row lamps, five
 column lamps, and the same
-    color and same shape lamp ar
+    color and same shape lamp
+    are lit.
 
 JACKPOT: 10,000 pts. SUPER
 JACKPOT: 20,000 pts.
 
 
 FEVER BONUS: Enemies x 2000 pts.
-    Awarded at the end of a feve
-    If it was caused by ROUND 16
-    the bonus will be 2750 each.
+    Awarded at the end of a
+    fever time. If it was caused
+    by ROUND 16, the bonus will
+    be 2750 each.
 
 STAGE END BONUS: Seconds x
 10,000 pts.
@@ -522,28 +629,41 @@ CHANGE TO UFO: All Invaders will
 become UFO-shaped, and will drop
 power-ups
     if they are not white. Lasts
-    invaders without two of the 
+    for five seconds. Caused by
+    shooting 100 pt. invaders
+    without two of the same
+    color in a row.
 
 COLOR CHANGE: All invaders will
 become the same color. Lasts for
 six seconds.
-    Caused by shooting 200 pt. i
-    in a row.
+    Caused by shooting 200 pt.
+    invaders without shooting
+    two of the same color in a
+    row.
 
 TYPE CHANGE: All invaders will
 become normal type. Caused by
 shooting 300 pt.
-    invaders without two of the 
+    invaders without two of the
+    same color in a row.
 
 FLASH SHOT: I haven't seen this.
-    Caused by shooting four 200 
-    invaders. Again, you must no
+    Caused by shooting four 200
+    pt. invaders, followed by
+    four 100 pt. invaders.
+    Again, you must not shoot
+    two of the same color in a
+    row.
 
 ROULETTE: A yellow UFO will be
 summoned, which will allow
 access to the
     roulette. Caused by shooting
-    200 pt. invaders, with no co
+    four 300 pt. invaders,
+    followed by four 200 pt.
+    invaders, with no color
+    repeats.
 
 
 
@@ -568,7 +688,9 @@ receive a bonus before resuming
 play on the bottom screen.
 - BLACK: No bonus.
 - WHITE: 100,000 points.
-- BLUE: Freeze. The invaders on 
+- BLUE: Freeze. The invaders on
+  the bottom screen are frozen
+  for a short time.
 - YELLOW: Extra life.
 - GREEN: Multi-player power-up.
 - RED: Triggers a ROUND START.
@@ -626,15 +748,24 @@ Round Time: The amount of time
 you'll be given to complete the
 round.
     The first number is the time
-    that challenge. The second t
-    Subsequent times, you'll hav
+    you'll be given the first
+    time you are given that
+    challenge. The second time,
+    you'll receive the second
+    time. Subsequent times,
+    you'll have the last number.
 Fever Time: The amount of time
 the succeeding fever time will
 last.
-    This is the basic amount. Th
-  Basic Amount + Rate x 1sec. + 
-    If you get a fever time duri
-  Basic Amount + 5 sec. + Remain
+    This is the basic amount.
+    The full total will be:
+  Basic Amount + Rate x 1sec. +
+  Remaining round time * 0.5 sec
+    If you get a fever time
+    during a break, your time
+    will be:
+  Basic Amount + 5 sec. +
+  Remaining round time * .5 sec
 
 
 1) 4 Red, 4 Blue (Any shape)
@@ -710,6 +841,7 @@ Name: Description: Huge invaders
 fall from the top of the screen
 while reflect
     invaders pass back and forth
+    overhead. You have laser.
 Goal: Destroy 10 huge invaders.
 Round Time: 18 sec. / 16 sec. /
 15 sec. Fever Time: 9 sec.
@@ -794,15 +926,27 @@ you. Goal: Destroy both huge
 invaders. Round Time: 21 sec. /
 19 sec. / 17 sec. Fever Time: 12
 sec. Weapon: Short Laser.
-*** All UFOs during this fever t
+*** All UFOs during this fever
+    time will be super jackpot
+    UFOs ***
 
 
-*** Double-fire X is like the no
-    on screen at once.
-*** Triple-fire, similarly, allo
+*** Double-fire X is like the
+    normal X, except that you
+    can have two shots on screen
+    at once.
+*** Triple-fire, similarly,
+    allows for three shots on
+    screen at a time.
 *** Big bomb and mega laser have
+    drastically increased areas
+    of effect.
 *** L-Laser turns to the left or
+    right when it strikes an
+    enemy.
 *** T-Laser branches to the left
+    and right when it strikes an
+    enemy.
 
 
 ***********
@@ -890,7 +1034,8 @@ information that I include.
 
 
 ********************************
-* Copyright and License Agreemen
+* Copyright and License
+  Agreement *
 ********************************
 
 This document may not be

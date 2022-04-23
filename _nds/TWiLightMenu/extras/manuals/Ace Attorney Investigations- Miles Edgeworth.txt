@@ -18,11 +18,11 @@
  # @@@@@@ #  @@@@@@@  @@@@@@@  #
  # @@ @@@   @@@   @@ @@@   @@@ #
 # @@  @@@   @@@  #   @@@   @@@ #
-# @@ @@@ @@@ ### @@@@@@@@@ # @ @
+# @@   @@@  @@@ ###  @@@@@@@@@ #
 # @@@@@@@@  @@@ ###  @@@       #
  @@     @@@ @@@      @@@     @ #
-@@@ ## @@@@ @@@@@@@ @@@@@@@ # @
-@ @@@@ @@@@@@ @@@ @@@@ # @ @
+@@@ ##  @@@@ @@@@@@@  @@@@@@@ # 
+@@@@   @@@@@@  @@@      @@@@ #  
 ################################
   ######## @ ### @@@ ## @@@  ## 
   # @@@ #  @@@ ## @@@  ##  @@@@@
@@ -115,41 +115,47 @@ bottom of the screen, meaning
 nothing beyond it gets
 potentially spoiled. :)
 
-1.) Table of Contents [TOC] 2.)
-What You Should Know
-(Controls/In-game
-terminology)[WSK] 3.) Reading
-this Guide (My terms and format)
-[RTG] 4.) The Episodes [EPS]
-    -Episode I: Turnabout Visito
+1.) Table of Contents [TOC]
+2.) What You Should Know
+  (Controls/In-game
+  terminology)[WSK]
+3.) Reading this Guide (My terms
+  and format) [RTG]
+4.) The Episodes [EPS]
+    -Episode I: Turnabout
+     Visitor [EP1]
  -Investigation 1 [E1I1]
  -Investigation 2 [E1I2]
-    -Episode II: Turnabout Airli
+    -Episode II: Turnabout
+     Airlines [EP2]
  -Investigation 1 [E2I1]
  -Investigation 2 [E2I2]
  -Investigation 3 [E2I3]
  -Investigation 4 [E2I4]
-    -Episode III: The Kidnapped 
+    -Episode III: The Kidnapped
+     Turnabout [EP3]
  -Investigation 1 [E3I1]
  -Investigation 2 [E3I2]
  -Investigation 3 [E3I3]
  -Investigation 4 [E3I4]
  -Investigation 5 [E3I5]
  -Investigation 6 [E3I6]
-    -Episode IV: Turnabout Remin
+    -Episode IV: Turnabout
+     Reminiscence [EP4]
  -Investigation 1 [E4I1]
  -Investigation 2 [E4I2]
  -Investigation 3 [E4I3]
     -Episode V: Turnabout Ablaze
+     [EP5]
  -Investigation 1 [E5I1]
  -Investigation 2 [E5I2]
  -Investigation 3 [E5I3]
  -Investigation 4 [E5I4]
  -Investigation 5 [E5I5]
 5.) Closing/Credits/Contact
-Information [CCC] 6.) Version
-Info [VIN] 7.) Authorized
-Websites [ADS]
+  Information [CCC]
+6.) Version Info [VIN]
+7.) Authorized Websites [ADS]
 
 ================================
 
@@ -160,25 +166,40 @@ WHAT YOU SHOULD KNOW [WSK]
 CONTROLS: Below are the
 controls, paraphrased from the
 manual of the game. The
-  game itself will remind you co
-  teach you gameplay basics as y
+  game itself will remind you
+  constantly of the controls, as
+  well as teach you gameplay
+  basics as you go along.
 
 TOUCH SCREEN CONTROLS: These
 controls apply to the stylus
 
  In Conversation:
  -Panel [Marked as a right arrow
- -Organizer Panel [Top right of 
+  on purple) is to see the next
+  message
+ -Organizer Panel [Top right of
+  the touch screen] touch it to
+  open your
   organizer
  -Movement Panel [The box on the
+  right]
 
  In Movement:
  -Logic Panel [Top left of touch
- -Partner Panel [Left side of th
+  screen] use this to open the
+  Logic Menu
+ -Partner Panel [Left side of
+  the touch screen] touch this
+  to talk to your
   Partner
- -Movement Panel [Right side of 
+ -Movement Panel [Right side of
+  touch screen] use this to move
+  around the
   area
  -Examine Panel [Bottom right of
+  touch screen] touch to examine
+  whatever is
   in front of you
 
 BUTTON CONTROLS: The controls
@@ -187,32 +208,48 @@ the DS buttons,
     rather than Touch Screen
 
  During Investigation:
-  -Directional Pad = Move around
-  -A Button = Confirm/Examine/Ne
+  -Directional Pad = Move
+   around/Move Cursor/Select
+   from Menu
+  -A Button =
+   Confirm/Examine/Next message
   -B Button = Cancel/Go back
-  -X Button = Present evidence/C
+  -X Button = Present
+   evidence/Connecting
+   Information when in
+   Logic/Deduction
    when investigating
-  -Y Button = Open partner scree
+  -Y Button = Open partner
+   screen/Turn on the
+   microphone/Switch screens
   -L Button = Open Logic Screen
-  -R Button = Open Organizer/Swi
+  -R Button = Open
+   Organizer/Switch Files in
+   Organizer
   -START = Save game
 
  During Confrontation:
-  -Directional Pad = Selections/
-  -A Button = Confirm/Next messa
+  -Directional Pad =
+   Selections/Move back/forward
+   in Testimony
+-A Button = Confirm/Next message
   -B Button = Cancel/Go back
   -X Button = Present Evidence
   -Y Button = Turn on Microphone
   -L Button = Press statements
-  -R Button = Open organizer/Swa
+  -R Button = Open
+   organizer/Swap files
   -START = Save game
 
- *Select is not used in both are
+ *Select is not used in both
+  areas.
 
 IN GAME TERMINOLOGY: This is
 pretty self-explanatory, and the
 game itself will
-     explain the terminology alo
+     explain the terminology
+     along with teaching you
+     about it.
 
 ================================
 
@@ -246,41 +283,61 @@ connect by their
 DEDUCE = During examinations,
 you usually get an option to
 DEDUCE when there
-  is something on the scene whic
-  write "DEDUCE" followed by whi
+  is something on the scene
+  which contradicts your
+  evidence. I will write
+  "DEDUCE" followed by which
+  item in your ORGANIZER to
+  present.
 
 EXAMINE = During Investigation
 phases, you will have the need
 to examine
   various items in a room. Do so
+  by pointing and "Examining" an
   object.
 
 MOVE = During investigation
 phases, you will have the need
 to move to
- other locations to gather evide
- after "Move" accordingly. Howev
- move, I will not say where to m
- "Examine", giving you necessary
- to examine something.
+ other locations to gather
+ evidence. I will detail the
+ location after "Move"
+ accordingly. However, in this
+ game, as you can freely move, I
+ will not say where to move in
+ the room. This will be listed
+ in "Examine", giving you
+ necessary directions where in
+ the area you need to examine
+ something.
 
 RECEIVE = When you receieve new
 evidence for your ORGANIZER.
 This
-  usually follows a "Select"/"Ta
-  sometimes come on it's own.
+  usually follows a
+  "Select"/"Talk"/"Examine"
+  option, but can sometimes come
+  on it's own.
 
-  Profiles are updated whenever 
+  Profiles are updated whenever
+  someone is met and/or
+  mentioned. I do
    not mention their updates.
 
 PRESENT = When presenting
 evidence to a person from the
 ORGANIZER. There may
-  be a need to "Highlight" a cer
-  which will be marked.
+  be a need to "Highlight" a
+  certain place in "picture"
+  evidence, which will be
+  marked.
 
-  Evidence also includes "profil
-  the menu. Profiles are updated
+  Evidence also includes
+  "profiles", which you can
+  toggle on/off in the menu.
+  Profiles are updated whenever
+  someone is met and/or
   mentioned.
 
 PRESENT PARTNER = When you need
@@ -291,6 +348,7 @@ PRESENT [Name] = When you need
 to present something to someone
 other than your
     partner, their names will be
+    listed in the brackets.
 
 PRESS = During a testimony, if
 you are required to press a
@@ -310,7 +368,8 @@ your partner
 TALK [NAME] = When you have to
 talk to someone other than your
 partner, their
-   name will be listed in the br
+   name will be listed in the
+   brackets.
 
 UPDATE = Evidence may update
 when new information comes
@@ -437,7 +496,8 @@ not)
 Present: Stolen file at the
 statement "But thanks to that,
 you didn't notice
-  the bloody letters his body wa
+  the bloody letters his body
+  was hiding."
 
 Receive: Master Key Press: The
 statement "It's pretty obvious
@@ -448,7 +508,8 @@ Select: "Ask for more details"
 Present: Secret Safe at the
 statement "Her intent? From the
 messed-up shelves
-  to the wiped-down safe, I'd sa
+  to the wiped-down safe, I'd
+  say thievery."
 
 TO BE CONTINUED
 
@@ -527,7 +588,8 @@ evidence to me, I was
 Present: Note Left by Victim at
 the statement "He brought me two
 items, a gun
-  and a pendant, that are relate
+  and a pendant, that are
+  related to yesterday's case."
 
 Examine: Blood stain [On the
 back of the video casette]
@@ -548,7 +610,8 @@ EPISODE II: TURNABOUT AIRLINES
 Present: Travel Wallet at the
 statement "...it was you,
 standing there, with
-  fresh blood dripping off of th
+  fresh blood dripping off of
+  the murder weapon."
 Examine: The gold button [It
 should be pointing near it
 already] Update: Travel Wallet
@@ -624,7 +687,8 @@ not start, so I checked
 Present: Sky Magazine at the
 statement "My watch is set to my
 destination's
-  time. I always set it when I b
+  time. I always set it when I
+  board the plane."
 
 Receive: Refueling in Zheng Fa
 Receive: Ms. Meele's Testimony
@@ -691,7 +755,8 @@ Borginian Cloth) Talk [Lablanc]:
 Present: "iFly Suitcase" at the
 statement "The scene of the
 crime was here, in
-  this very lounge the body was 
+  this very lounge the body was
+  discovered."
 Present: Grape Juice Footprints
 Present: Highlight the twin
 tracks [leaving the pool, below
@@ -701,6 +766,8 @@ Present: Mr. Ifly Piggy Bank at
 the statement "You prepared
 yourself and
   acquired the piggy bank before
+  the plane hit that
+  turbulence."
 
 Move: Flight Attendants' Room
 [Exit left through the door, not
@@ -752,7 +819,8 @@ keycard that allows the elevator
 to come down here." Press: The
 statement "Further, there is the
 matter of the key to the display
- case that held the murderous ba
+ case that held the murderous
+ bank."
 Select: "The body" Receive:
 Autopsy Report Receive Logic:
 Mr. Ifly piggy bank Receive
@@ -822,7 +890,8 @@ keycard and the
 Present: Alif Red Certificate at
 the statement "All I'm in charge
 of are the
-  attendants' room and some Borg
+  attendants' room and some
+  Borginian stuff."
 Present: "iFly Suitcase" Select:
 "Where the murder took place"
 Present: Missing Cell Phone
@@ -961,18 +1030,22 @@ INVESTIGATION COMPLETE
 Press: The statement "Not unless
 you're a member of law
 enforcement like
- Officer Meekins, isn't that rig
+ Officer Meekins, isn't that
+ right?"
 Present: Preliminary Findings at
 the statement "Officer Meekins
 ambushed the
-  victim in this garage and kill
+  victim in this garage and
+  killed him here with his gun!"
 
 Receive: Blue Badgermobile
 
 Present: Blue Badgermobile at
 the statement "I also went
 looking for the
-  kidnappers while selling dream
+  kidnappers while selling
+  dreams in the Blue
+  Badgermobile, sir!"
 
 TO BE CONTINUED
 
@@ -1011,7 +1084,9 @@ INVESTIGATION COMPLETE
 Present: Victim's Costume at the
 statement "As I was resting, I
 happened to
-  glance over and I saw two men 
+  glance over and I saw two men
+  facing each other in that
+  area."
 Receive Logic: "In the shadow of
 the stage"
 
@@ -1028,14 +1103,16 @@ INVESTIGATION COMPLETE
 Present: Mr. Deacon's Murder
 Notes at the statement "And when
 the victim
-  finally showed, he shot him fr
+  finally showed, he shot him
+  from on high!"
 Select: "The killer's & victim's
 locations"
 
 Present: Blue Badgermobile at
 the statement "Then, he used the
 car to move the
-  body to the garage in the Wild
+  body to the garage in the
+  Wild, Wild West Area."
 Present: Highlight Tire
 
 TO BE CONTINUED
@@ -1116,6 +1193,7 @@ Present: Stolen Costumes at the
 statement "And the two of them
 made good use
   of their meetings to plan this
+  little kidnapping."
 Present: Lance Amano
 
 Press: The statement "I made my
@@ -1125,7 +1203,8 @@ room as fast as
 Present: Broken Prop Sword at
 the statement "The door leading
 outside was
-  locked tight, so I ahd to use 
+  locked tight, so I ahd to use
+  the underground passageway."
 Present: Love Letter
 
 Press: The statement "But that
@@ -1135,7 +1214,8 @@ aiming to shoot
 Present: Colin Devorae Dossier
 at the statement "But that
 Badger pointed the
-  gun in his left hand at me, ai
+  gun in his left hand at me,
+  aiming to shoot me dead!"
 Select: "Both are correct"
 Present: Bad Badger's Head
 Present: Highlight Proto Badger
@@ -1148,7 +1228,8 @@ beam in the room
 Press: The statement "The
 captive had a Bad Badger's head
 on, so I'm
- absolutely sure it was Mr. Deac
+ absolutely sure it was Mr.
+ Deacon"
 Select: "Raise an objection"
 Present: Bad Badger's Head
 Select: "Miles Edgeworth"
@@ -1283,11 +1364,14 @@ Update: Crime Scene Notes
 Press: The statement "And Mr.
 Rell, while on the brink of
 death, stole Mr.
- Faraday's knife and stabbed him
+ Faraday's knife and stabbed
+ him."
 Present: Det. Gumshoe's
 Testimony at the statement "They
 struggled, and Mr.
-  Rell used the last of his stre
+  Rell used the last of his
+  strength to counterattack Mr.
+  Faraday."
 Select: "Yes, something is off."
 Present: Crime Scene Notes
 Select: "The order the bodies
@@ -1300,7 +1384,8 @@ each other at the
 Present: Handgun at the
 statement "That fact indicates
 that they attacked
-  each other at the same time fr
+  each other at the same time
+  from close range."
 Select: "Neither man"
 Present: Plastic Bag
 
@@ -1316,6 +1401,7 @@ Present: KG-8 Incident Overview
 at the statement "There's no one
 out there
   with a motive to kill both Mr.
+  Faraday and Mr. Rell."
 
 Talk [Yew]: "KG-8 Incident"
 Present [Yew]: KG-8 Incident
@@ -1391,7 +1477,8 @@ INVESTIGATION COMPLETE
 Present: Det. Gumshoe's
 Fingerprints at the statement
 "But when I was about to
-  exit the restroom, he had comp
+  exit the restroom, he had
+  completely disappeared!"
 
 Press: The statement "However,
 that doesn't mean that the
@@ -1400,7 +1487,8 @@ Detective was
 Present: Det. Badd's Testimony
 at the statement "Let's see...I
 looked into
-  that hallway about 20 minutes 
+  that hallway about 20 minutes
+  before we were to reconvene."
 Present: Balloon Piece
 
 Press: The statement "From that
@@ -1410,7 +1498,9 @@ gunshot, I was in
 Present: Det. Gumshoe's
 Fingerprints at the statement
 "And until I heard the
-  gunshot, I didn't take a singl
+  gunshot, I didn't take a
+  single step away from the
+  Lobby No. 2 door."
 Present: Swiss Roll
 
 Talk [Kay]
@@ -1495,7 +1585,8 @@ window was open." Present:
 Present: Ms. Yew's Perfume at
 the statement "You argue that
 the window was
-  opened, however, do you have p
+  opened, however, do you have
+  proof it was I who did that?"
 
 Press: The statement "After all,
 I don't even know where the
@@ -1505,6 +1596,7 @@ Present: Yatagarasu's Key at the
 statement"There was a key in his
 evidence
   bag, but you can't kill anyone
+  with a simple key!"
 Present: Yatagarasu
 
 Present: Swiss Roll
@@ -1593,12 +1685,15 @@ be the Yatagarasu." Present:
 Yatagarasu's Key at the
 statement "She wanted to steal
 documents
-  regarding smuggling, so she ki
+  regarding smuggling, so she
+  killed Mr. Coachen for the
+  key."
 
 Present: Babahlese Knife at the
 statement "The knife with the
 butterfly handle
-  is the murder weapon, which th
+  is the murder weapon, which
+  the killer was holding."
 Examine: The center of the knife
 Receive: Babahlese Knife Handle
 Examine: Faint mark [at the
@@ -1691,7 +1786,8 @@ Request
 Present: Letter from a Stalker
 at the statement "But why would
 I ever put
-  myself through so much humilia
+  myself through so much
+  humiliation on purpose!?"
 Present: Highlight the name
 Present: Steel Samurai's
 Autograph
@@ -1844,7 +1940,8 @@ Present: Photo of Yatagarasu
 Present: Revolving Fireplace
 Wall at the statement "Although
 I was in the next
-  room, I was unable to catch a 
+  room, I was unable to catch a
+  glimpse of the Yatagarasu.
 Present: Revolving Fireplace
 Wall Present: Ambassador
 Paleno's Testimony
@@ -1852,7 +1949,8 @@ Paleno's Testimony
 Present: Counterfeit Bills at
 the statement "...and we found
 not a single
-  suspicious thing in Mr. Coache
+  suspicious thing in Mr.
+  Coachen's office."
 Present: Wire Present: Highlight
 the room with the green dot
 
@@ -1882,6 +1980,8 @@ Present: Babahl's Primidux
 Statue at the statement
 "Somehow, these two objects
   were able to penetrate the two
+  countries' impenetrable
+  security."
 Present: Photo of Yatagarasu
 Present: Allebahst's Primidux
 Statue
@@ -1889,7 +1989,8 @@ Statue
 Press: The statement "After all
 the preparations were in place,
 I was called
- back by Ambassador Alba to his 
+ back by Ambassador Alba to his
+ office."
 Press: The statement "When I
 arrived, Ambassador Alba was
 watering the flowers
@@ -1897,7 +1998,8 @@ watering the flowers
 Present: Passionflowers at the
 statement "There were four large
 passionflowers
-  in full bloom in the flower bo
+  in full bloom in the flower
+  box."
 
 Examine: Flower Select: "Show
 Evidence" Present: Hair Sticks
@@ -1907,15 +2009,18 @@ Present: Highlight the Crossbow
 Press: The statement "So
 Babahl's statue was draped in
 the Yatagarasu's
- clothes, and then shot over her
+ clothes, and then shot over
+ here?"
 Press: The statement "Even if
 you fired the arrows from this
 side, they
- wouldn't go far with a statue t
+ wouldn't go far with a statue
+ tied to them!"
 Present: Wire at the statement
 "If it wasn't a statue that was
 tied to the
-  arrows, then waht did the cros
+  arrows, then waht did the
+  crossbow launch...?"
 Select: "Rotary motion"
 
 Present: Highlight the ceiling
@@ -1986,17 +2091,20 @@ Coachen and I were
 Present: DeMasque II's Note at
 the statement "In that case,
 what motive would
-  I have had to kill my co-consp
+  I have had to kill my co-
+  conspirator?"
 
 Present: Commemorative Photo at
 the statement "THe last time I
 met with Mr.
-  Coachen was here at the Theatr
+  Coachen was here at the
+  Theatrum Neutralis."
 
 Present: Pushcart at the
 statement "There is no way for
 me to have transported
-  his body from the theater to B
+  his body from the theater to
+  Babahl!"
 Present: Notes on Coachen's Body
 Examine: Blood [Inside]
 
@@ -2008,7 +2116,9 @@ Select: "bilateral symmetry."
 Present: Highlight the Babahlese
 side of the wall [The side that
 does not have
-  water on it. Aim to the right 
+  water on it. Aim to the right
+  of the wall that separates the
+  sides,
  specifically the empty space]
 
 Present: Fires in Babahl
@@ -2023,11 +2133,13 @@ TO BE CONTINUED
 Press: The statement "I do
 remember the contents of the
 show very well,
- though. Is that proof enough fo
+ though. Is that proof enough
+ for you?"
 Present: Samurai Spear at the
 statement "One of the scenes was
 of his
-  never-before-seen "Early Summe
+  never-before-seen "Early
+  Summer Rain Jab" move."
 
 Select: "You saw it."
 
@@ -2215,11 +2327,11 @@ www.cheatcc.com
  # @@@@@@ #  @@@@@@@  @@@@@@@  #
  # @@ @@@   @@@   @@ @@@   @@@ #
 # @@  @@@   @@@  #   @@@   @@@ #
-# @@ @@@ @@@ ### @@@@@@@@@ # @ @
+# @@   @@@  @@@ ###  @@@@@@@@@ #
 # @@@@@@@@  @@@ ###  @@@       #
  @@     @@@ @@@      @@@     @ #
-@@@ ## @@@@ @@@@@@@ @@@@@@@ # @
-@ @@@@ @@@@@@ @@@ @@@@ # @ @
+@@@ ##  @@@@ @@@@@@@  @@@@@@@ # 
+@@@@   @@@@@@  @@@      @@@@ #  
 ################################
   ######## @ ### @@@ ## @@@  ## 
   # @@@ #  @@@ ## @@@  ##  @@@@@

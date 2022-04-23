@@ -23,7 +23,8 @@ April 27th, 2009: Edited bits
 April 24th, 2009: Worked on
 "Endless Games" in "Medal
 Corner"
-    Added list for "Read Somethi
+    Added list for "Read
+    Something" in "Cafe"
 
 April 23rd, 2009: Added
 "Airboarder" rank messages
@@ -35,8 +36,10 @@ April 22nd, 2009: Added
 
 April 19th, 2009: Added "Rhythm
 Toys" in "Medal Corner"
-    Added list for "Listen to Mu
-    Added "Cheat Code Central" t
+    Added list for "Listen to
+    Music" in "Cafe" Added
+    "Cheat Code Central" to
+    "Allowed Sites"
 
 April 17th, 2009: Added sets 9
 and 10
@@ -46,11 +49,12 @@ and 10
        "Big Rock Finish"
           "Karate Man"
    Edited "Rankings" a little
-    Added in "Endless Games" in 
+    Added in "Endless Games" in
+    "Medal Corner"
 
 April 15th, 2009: Added "Perfect
 get" to games
-  &        Worked on "Rank messa
+  & Worked on "Rank messages"
 April 16th, 2009: Added some
 things to "Extra"
        Added sets 7 and 8
@@ -61,9 +65,11 @@ messages" to games
       Added Special Thanks
      Added more to Rankings
     Worked on Cafe, mostly "Talk
+    to the Barista"
 
 April 13th, 2009: Added set 7
-    Reworked some "Order of patt
+    Reworked some "Order of
+    patterns"
       Added Allowed Sites
 
 April 12th, 2009: Added sets 5
@@ -94,6 +100,8 @@ lay.............................
 Start it up.....................
    File Menu....................
    Flick Practice...............
+   .............................
+   ...........(FLCKP)
 
 Rankings........................
 
@@ -134,6 +142,8 @@ Main Games......................
    Set 5........................
  Splashdown.....................
  Big Rock Finish................
+ ...............................
+ ....(G05-2)
  Dog Ninja......................
  Frog Hop.......................
  Remix 5........................
@@ -151,6 +161,8 @@ Main Games......................
 
    Set 7........................
  Built to Scale 2...............
+ ...............................
+ ....(G07-1)
  The Dazzles 2..................
  Frog Hop 2.....................
  Fan Club 2.....................
@@ -183,27 +195,47 @@ Medal Corner....................
  Shoot-'Em-Up...................
  Tunnel.........................
  Samurai Slice..................
- Glass Tappers..................
+ ...............................
+ ....(ENDL4) Glass Tappers......
+ ...............................
+ ................(ENDL5)
  Rhythmove Dungeon..............
+ ...............................
+ ....(ENDL6)
 
    Rhythm Toys..................
  Business Card..................
+ ...............................
+ ....(TOYS1)
  Phone..........................
  Slot Monster...................
  Octopus Machine................
+ ...............................
+ ....(TOYS4)
  Beat Machine...................
  Beat Bag.......................
  Kappa DJ.......................
 
    Guitar Lessons *Basic Course*
+   .............................
+   ...........(GITR1)
 
    Guitar Lessons *Technical Cou
+   rse*.........................
+   ...........(GITR2)
 
 Cafe............................
    Talk to the Barista..........
-   Listen to Music..............
-   Read Something...............
+   .............................
+   ...........(TLKWB) Listen to 
+   Music........................
+   .............................
+   .(LST2M) Read Something......
+   .............................
+   ....................(READS)
    Practice Flicking............
+   .............................
+   ...........(PFLCK)
 
 Battle of the Bands.............
 ................................
@@ -807,7 +839,8 @@ Touch Screen....................
 |  |  |  |  |  |  |  |  |  |
 ----  ----  ----  ----  ----    
                __
-----|\----/|----  ----  ----    
+----|\----/|---- ---- ---- /--\
+    Credits/Credit game
 |  || |OK| ||  |  |  |  |  |    
 ----|/----\|----  ----  ----    
       / O\   Medal Corner
@@ -819,22 +852,35 @@ Touch Screen....................
 |  |  |  |  |  |  |  |  |  |    
 ----  ----  ----  ----  ----    
                __
-----  ----  ----  ----  ----    
+---- ---- ---- ---- ---- /:3\
+     Battle of the Bands
 |  |  |  |  |  |  |  |  |  |    
 ----  ----  ----  ----  ----
 ----------------------------    
- __    __    __    __    __     
+ __ __ __ __ __ | | Closed
+ (unselected) game door
 /--\  / O\  /<^\  /cU\  /:3\    
 \__/  \__/  \__/  \__/  \__/
             |\----/|
-----------------------------    
+---------------------------- |
+                             |OK
+                             | |
+                             Ope
+                             n (
+                             sel
+                             ect
+                             ed)
+                             gam
+                             e d
+                             oor
 ----  ----  ----  ----  ----    
 |  |  |  |  |  |  |  |  |  |
 ----  ----  ----  ----  ----    
     |##|   Locked game door
 ----  ----  ----  ----  ----    
 |  |  |  |  |  |  |  |  |  |
-----  ----  ----  ----  ----    
+---- ---- ---- ---- ----
+     NOTE!-Actual screen only
  shows 18 buttons and/or doors
 ----  ----  ----  ----  ----    
 |  |  |  |  |  |  |  |  |##|
@@ -4298,7 +4344,7 @@ finished.
 Chief Director Sound Effects NOA
 Product Testing K. Osawa M. Yone
 M. Nakata
-      T. Abe                   K
+      T. Abe K. Hudson
 Game Design E. Bush K. Osawa
 Voice S. Egan K. Takeuchi Jojo
 Otani T. Mikami M. Yone Filiz J.
@@ -4307,10 +4353,10 @@ Lillygren K. Seki K. Takeushi J.
 Newman S. Ikeo S. Mam Program
 Director T. Masaoka R. Harrison
 K. Osawa K. Seki
-      H. Oguro                 S
+      H. Oguro Special Thanks
 Programming SEISHIN N. Furuta T.
 Masaoka A. Kenmochi
-      Artwork                  S
+      Artwork S. Kobayashi
 Design Director N. Kinoshita M.
 Tsukada K. Takeuchi N. Asakura
 S. Kikuchi
@@ -4327,7 +4373,8 @@ S. Iwata
 Music L. Sawn Producer M. Yone
 N. Bihldorff TSUNKU() TSUNKU T.
 O'Leary
-      R. Ninomiya              (
+      R. Ninomiya (c)2008-2009
+      Nintendo
 Music Arrangment (c)2008-2009
 TSUNKU() AKIRA Localization Co-
 developed by TNX K. Okubo R.
@@ -4704,7 +4751,8 @@ Order of patterns:
 "Love you, love you, love you"
 "Wonderful"
 "Yeah yeah yeah"
-*other monkeys start to clap. yo
+*other monkeys start to clap.
+ you may do so if you wish*
 
 
 Tips on Superb: Well, do those
@@ -5252,16 +5300,16 @@ Man (2 pots) Munchy Monk (1
 (1 fast car) Karate Man (2 pots)
 Munchy Monk (1 "One, go!"'s)
 Blue Birds (1 "Peck your beak!")
-*gradual speed increase* Rhythm
-Rally (1 slow pass, 2 normal
-passes, start high-speed rally)
-Dog Ninja (2 slice) Rhythm Rally
-(2 fast passes) Dog Ninja (2
-slices) Rhythm Rally (1 fast
-pass) Dog Ninja (1 slice) Rhythm
-Rally (1 fast pass) Dog Ninja (1
-slice) Rhythm Rally (3 fast
-passes) Dog Ninja (1 slice)
+*gradual speed increase*
+Rhythm Rally (1 slow pass, 2
+normal passes, start high-speed
+rally) Dog Ninja (2 slice)
+Rhythm Rally (2 fast passes) Dog
+Ninja (2 slices) Rhythm Rally (1
+fast pass) Dog Ninja (1 slice)
+Rhythm Rally (1 fast pass) Dog
+Ninja (1 slice) Rhythm Rally (3
+fast passes) Dog Ninja (1 slice)
 Rhythm Rally (2 fast passes) Dog
 Ninja (2 slices) Rhythm Rally (2
 fast passes) Dog Ninja (2
@@ -5613,29 +5661,32 @@ nothing to say at the moment...
 
 Order of games: Moai Doo-Wop
 ("Doo-wop Doo-wop Doo-wop...")
-*cut off* Glee Club (1 lift)
-Space Soccer (1 "Kick toe!")
-Moai Doo-Wop (2 "Doo-wop" 1
-"WOP!") Space Soccer (1 "Kick
-toe!") Crop Stomp (1 beet, 1
-mole) Space Soccer (1 "Kick
-toe!") Moai Doo-Wop (2 "Doo-wop"
-1 "WOP!") Space Soccer (1 "Kick
-toe!") Crop Stomp (1 beet, 2
-moles) Shoot-'Em-Up (3 shots)
-Karate Man ("Punch Kick!", 3
-pots) Shoot-'Em-Up (3 shots)
-Karate Man (2 pots) Splashdown
-(1 flick) Moai Doo-Wop ("Doo-wop
-Doo-wop Doo-wop..") *cut off*
+*cut off*
+Glee Club (1 lift) Space Soccer
+(1 "Kick toe!") Moai Doo-Wop (2
+"Doo-wop" 1 "WOP!") Space Soccer
+(1 "Kick toe!") Crop Stomp (1
+beet, 1 mole) Space Soccer (1
+"Kick toe!") Moai Doo-Wop (2
+"Doo-wop" 1 "WOP!") Space Soccer
+(1 "Kick toe!") Crop Stomp (1
+beet, 2 moles) Shoot-'Em-Up (3
+shots) Karate Man ("Punch
+Kick!", 3 pots) Shoot-'Em-Up (3
+shots) Karate Man (2 pots)
+Splashdown (1 flick) Moai Doo-
+Wop ("Doo-wop Doo-wop Doo-
+wop..")
+*cut off*
 Glee Club (1 lift) Moai Doo-Wop
 ("Doo-wop Doo-wop Doo-wop...")
-*cut off* Built to Scale (1
+*cut off*
+Built to Scale (1 flick)
+Shoot-'Em-Up (3 shots) Karate
+Man ("Punch Kick!", 3 pots)
+Shoot-'Em-Up (3 shots) Karate
+Man (2 pots) Splashdown (1
 flick) Shoot-'Em-Up (3 shots)
-Karate Man ("Punch Kick!", 3
-pots) Shoot-'Em-Up (3 shots)
-Karate Man (2 pots) Splashdown
-(1 flick) Shoot-'Em-Up (3 shots)
 Karate Man ("Punch Kick!", 3
 pots) Shoot-'Em-Up (3 shots)
 Karate Man (2 pots) Splashdown
@@ -5759,7 +5810,8 @@ Tips for Superb:
 
 
 Extra Tips for PerfectL
-*points to "Tips for Superb"* Al
+*points to "Tips for Superb"*
+ Also, practice!
 
 Perfect get:
 Crew's Log (Read Something)
@@ -5895,7 +5947,8 @@ happen to you.
 
 
 Extra Tips for Perfect:
-*points to "Tips for Superb"* An
+*points to "Tips for Superb"*
+ And practice!
 
 
 Perfect get: Eyewitness Accounts
@@ -6035,21 +6088,21 @@ fast pass) Rockers (4 strums)
 Blue Birds (2 "Peck your beak!")
 Space Soccer (1 "Kick toe!)
 Shoot-'Em-Up (4 shots, 3 shots)
-*cut off* Lockstep (S/OffB) Fan
-Club (1 "Ooooh!", 1 "Yeah yeah
-yeah") Airboarders (1 duck, 1
-hold) Glee Club ("Ah. Ah~")
-Fillbots (2 skinny) Munchy Monk
-(4 "One, go!", 1 "Three! Go! Go!
-Go!") Drummer Duel ("DON
-DOKODOKODON DOKODOKODON") Frog
-Hop (1 "Yahoo", 1 "Yeah yeah
-yeah") Big Rock Finish (1 end)
-Freeze Frame (1 fast, 1 fast) DJ
-School (1 flick) Dog Ninja (4
-slices) Karate Man (5 pots, 1
-lightbulb, 1 bomb, 7 pots, 1
-lightbulb,)
+*cut off*
+Lockstep (S/OffB) Fan Club (1
+"Ooooh!", 1 "Yeah yeah yeah")
+Airboarders (1 duck, 1 hold)
+Glee Club ("Ah. Ah~") Fillbots
+(2 skinny) Munchy Monk (4 "One,
+go!", 1 "Three! Go! Go! Go!")
+Drummer Duel ("DON DOKODOKODON
+DOKODOKODON") Frog Hop (1
+"Yahoo", 1 "Yeah yeah yeah") Big
+Rock Finish (1 end) Freeze Frame
+(1 fast, 1 fast) DJ School (1
+flick) Dog Ninja (4 slices)
+Karate Man (5 pots, 1 lightbulb,
+1 bomb, 7 pots, 1 lightbulb,)
         (1 bomb, 1 pot)
 
 
@@ -6070,7 +6123,8 @@ slides if you can.
 
 
 Extra Tips for Perfect:
-*looks up* Practice it! I mean i
+*looks up* Practice it! I mean
+ it! PRACTICE!!!
 
 
 Perfect get: The Rhythm League
@@ -7439,40 +7493,51 @@ girl? Crazy stuff.)
 11. "Assembly Line Slogans"
 
 Slogan for April:
- Rhythm and percision make for h
+ Rhythm and percision make for
+ happy widgets.
 
 Slogan for May:
- The beat of the song is the hea
+ The beat of the song is the
+ heartbeat of the factory.
 
 Slogan for June:
  Work faster: work with rhythm!
 
 Slogan for July:
- Sleepy on the factory floor? A 
+ Sleepy on the factory floor? A
+ little beat will keep you up!
 
 Slogan for August:
- A safe worker is a rhythmic wor
+ A safe worker is a rhythmic
+ worker.
 
 Slogan for Spetember:
  Report workers with rhythm!
 
 Slogan for October:
- If you're not on beat, you're a
+ If you're not on beat, you're
+ against it!
 
 Slogan for Novermber:
- Fall in step! Get with the rhyt
+ Fall in step! Get with the
+ rhythm!
 
 Slogan for December:
- I stayed on the rhythm, and pro
+ I stayed on the rhythm, and
+ production suffered. Why?
 
 Slogan for January
- What's wrong with keeping with 
+ What's wrong with keeping with
+ the rhythm?
 
 Slogan for February:
- It turns out staying with the r
+ It turns out staying with the
+ rhythm doesn't matter much.
 
 Slogan for March:
  Turns out you get paid the same
+ whether you're on the beat of
+ not.
 
 
 12. "Eyewitness Accounts"
@@ -8352,78 +8417,102 @@ revealed via the "Read
 Something" will not show up
 here.
 
-Remix 2: -In the "Shoot-'Em-Up"
-parts, if 3 out of 4 small
-rabbits from a remix only
-version of "Marcher." These
-rabbits are also found in the
-Wario Ware games.
+Remix 2:
+-In the "Shoot-'Em-Up" parts, if
+ you look at the moon, you can
+ faintly see the
+3 out of 4 small rabbits from a
+remix only version of "Marcher."
+These rabbits are also found in
+the Wario Ware games.
 
-Crop Stomp: -The various "beets"
-are actuall Rhythm Tengoku game
-"Rhythm Epilation." You can even
-get a good look at the Onion one
-if you get all the "beets" in
-the basket and look at the very
-top of the mountain of
-vegetables.
+Crop Stomp:
+-The various "beets" are
+ actually the vegetables you
+ pluck hairs from in the
+Rhythm Tengoku game "Rhythm
+Epilation." You can even get a
+good look at the Onion one if
+you get all the "beets" in the
+basket and look at the very top
+of the mountain of vegetables.
 
-Freeze Frame: -This has the most
-cameos in a s Apparition," the
-white mouse from "Stealth Rat,"
-the white penguin from "Show
-Time," and the black and white
-ninjas from "Ninja" in the
-pictures. The crowd is made up
-of the monkeys from "Tap Dance,"
-the dancers from "Space Dance,"
-the rappers from "Rap Men," and
-the three clappers from
-"Clapping Trio." Even though it
-is mentioned in the "Read
-Something" area, it doesn't
-really say where these
+Freeze Frame:
+-This has the most cameos in a
+ single game here. Having the
+ ghosts from "White
+Apparition," the white mouse
+from "Stealth Rat," the white
+penguin from "Show Time," and
+the black and white ninjas from
+"Ninja" in the pictures. The
+crowd is made up of the monkeys
+from "Tap Dance," the dancers
+from "Space Dance," the rappers
+from "Rap Men," and the three
+clappers from "Clapping Trio."
+Even though it is mentioned in
+the "Read Something" area, it
+doesn't really say where these
 characters are from.
 
 -The racer may be looking at the
+ camera and giving a peace sign
+ in the photo.
 
--"I realized that the Rainbow co
+-"I realized that the Rainbow
+ colors and font are the exact
+ same as the banners
 in Mario Kart 64." ~ irondomokun
 
-The Dazzles: -Though mentioned
-in the "Read S it is. After
-making a ton of the bigger stars
-with faces one them appear, one
-will have a little guy hanging
-from it. This is the guy from
-"Night Walk," along with the
-stars. If you have a hard time
-spotting him, he's usually on
-the star the disappears last or
-close to last. He might even be
-mostly off screen.
+The Dazzles:
+-Though mentioned in the "Read
+ Something" area, it does not
+ specify when or who
+it is. After making a ton of the
+bigger stars with faces one them
+appear, one will have a little
+guy hanging from it. This is the
+guy from "Night Walk," along
+with the stars. If you have a
+hard time spotting him, he's
+usually on the star the
+disappears last or close to
+last. He might even be mostly
+off screen.
 
 Love Lab:
--When failing to pass/grab a fla
+-When failing to pass/grab a
+ flask, the blue heart(s) the
+ guy makes will poof
 into black skulls.
 
--Every once and a while, after p
+-Every once and a while, after
+ passing a flask that you had to
+ shake twice or
 more, the girl will shift her
 eyes to the guy with glasses.
 EDIT - Confirmed, the guy does
 not shift his eyes to her.
 
-Remix 5: -In the "Frog Hop"
-parts, there screen with a happy
-face, much like other audience
-members when you do a successful
-flick in Splashdown.
+Remix 5:
+-In the "Frog Hop" parts, there
+ is a single audience member who
+ is facing the
+screen with a happy face, much
+like other audience members when
+you do a successful flick in
+Splashdown.
 
 Karate Man:
--The character you play as, Kara
+-The character you play as,
+ Karate Joe, is a cameo from the
+ original GBA game
 from "Karate House."
 
 -When the vocalist goes "I wish
+ that we could be close...",
+ during the
 beginning of that line, more
 specifically the word "I" and a
 little bit before, Joe blushes
@@ -8431,59 +8520,82 @@ briefly.
 
 The Dazzles 2:
 -The same little guy from "Night
+ Walk" reappears as a cameo
+ again, this time
 holding onto the sheep.
 
-Fan Club 2: EDIT: -Correction!
-Both the big screen sky,
-however, the smaller sprite has
-a really odd looking hand,
+Fan Club 2:
+EDIT:
+-Correction! Both the big screen
+ and small sprite are both just
+ pointing to the
+sky, however, the smaller sprite
+has a really odd looking hand,
 making it look like a peace
 sign.
 
-Remix 7: -Could be entirely a
-coincidence picture looks a lot
-like the the little girl in "The
-* Bon Odori" from Rhythm
-Tengoku.
+Remix 7:
+-Could be entirely a
+ coincidence, but the little
+ girl in the Superb rank
+picture looks a lot like the the
+little girl in "The * Bon Odori"
+from Rhythm Tengoku.
 
-Blue Birds 2: -While looking at
-the "memoies", in-game cameos
-one held by Karate Joe training
-in the snow(so he was in Russia
-all that time!) and another by
-the Stomp Farmer looking off
-into the distance.
+Blue Birds 2:
+-While looking at the "memoies",
+ as I would like to call them,
+ there are
+in-game cameos one held by
+Karate Joe training in the
+snow(so he was in Russia all
+that time!) and another by the
+Stomp Farmer looking off into
+the distance.
 
 Remix 9:
 -All three rank pictures feature
+ the the guy from "Night Walk"
+ as the
 astronaut.
 
--The alien(s) in tiny UFOs in th
+-The alien(s) in tiny UFOs in
+ the Try Again and Superb ranks
+ are similar in
 appearance to the little alien
 in Rhythm Tengoku, "Air Batter."
 (so... the Night Walk guy
 travelled too far into the Air
 Batter territory?)
 
--The "rabbits" in the Superb ran
+-The "rabbits" in the Superb
+ rank picture are the ones from
+ a remix only
 version of "Marcher." (huh, so I
 guess the Night Walk guy landed
 on the moon where the Marcher
 rabbits reside...)*
 
-Shoot-'Em-Up 2: -The radio guy
-in this one is ac Tengoku. Even
-in the Superb rank picture, he's
-in the middle of a march!
+Shoot-'Em-Up 2:
+-The radio guy in this one is
+ actually a guy from "Marcher"
+ from Rhythm
+Tengoku. Even in the Superb rank
+picture, he's in the middle of a
+march!
 
-Medal Corner menu: -A certain
-part of the song soun in Rhythm
-Heaven, though it could
-definitely be just a
+Medal Corner menu:
+-A certain part of the song
+ sounds similar to that of the
+ "Clapping Trio" game
+in Rhythm Heaven, though it
+could definitely be just a
 coincidence.
 
-Samurai Slice Endless Game: -It
-has the foot-tapping samurai
+Samurai Slice Endless Game:
+-It has the foot-tapping samurai
+ from Rhythm Tengoku's "Iai
+ Slash." Those who
 don't know what "Iai" means,
 it's a kind of sword movement,
 requiring the swordsman to take
@@ -8492,23 +8604,30 @@ in one movement. *random*
 
 Guitar Lessons menu (both):
 -The song is actually a revamped
+ version of the Druming Lessons
+ menu screen in
 Rhythm Tengoku
 
-Read Something: -If you wiat
-long enough, you'll they guy
-will wake up, abruptly ending
-his snoring. This is a reference
-to the original Rhythm Tengoku,
-as when you're checking through
-the mail, there's a sprite of a
-guy on the computer. If you
-don't anything for a while,
-he'll fall asleep.
+Read Something:
+-If you wiat long enough, you'll
+ hear a guy snoring. Wait a
+ little longer and
+they guy will wake up, abruptly
+ending his snoring. This is a
+reference to the original Rhythm
+Tengoku, as when you're checking
+through the mail, there's a
+sprite of a guy on the computer.
+If you don't anything for a
+while, he'll fall asleep.
 
-Perfect runs: -The little P in
-the upper left- Those eyes
-happen to shift around when
-you're not doing anything.
+Perfect runs:
+-The little P in the upper left-
+ hand corner actually has a
+ small set of eyes.
+Those eyes happen to shift
+around when you're not doing
+anything.
 
 --------------------------------
 Notice..........................

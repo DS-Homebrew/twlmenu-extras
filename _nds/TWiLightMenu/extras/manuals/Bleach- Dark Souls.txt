@@ -72,6 +72,7 @@ or addition is made.
 │ TABLE OF CONTENTS             
 └-------------------------------
    I. What's New Since Bleach DS
+   1st?
   II. Reference
  Character Roster
   Returning Characters
@@ -105,14 +106,16 @@ or addition is made.
  Unlocks and Rewards
   VI. VS Mode
  Wi-Fi Connection
-  After Logging into Nintendo Wi
-  Friend Code Settings
+  After Logging into Nintendo
+  Wi-Fi Connection Friend Code
+  Settings
  VII. Other Game Modes
 VIII. Deck Construction
   IX. Urahara Shop & Gallery
  Urahara Shop
  Gallery
-   X. Get Your Game On - Bleach 
+   X. Get Your Game On - Bleach
+   DS IRC Channel
  Using mIRC
  Using Trillian
  Using TinyIRC
@@ -654,7 +657,9 @@ characters; check command list /
 use hotkeys REINFORCE SPECIALS:
 strongest variation of special
 attacks, always executed
-     with strong attack button, 
+     with strong attack button,
+     usually depletes 1/3 of
+     reiryoku
 gauge and abbreviated with "RF"
 
 STRIKING NORMAL ATTACKS There
@@ -974,9 +979,12 @@ try [standing light -> standing
 medium -> standing heavy ->
 flash step diagonally above
 opponent -> aerial medium ->
-aerial heavy -> land -> repeat].
-The basic idea of th add aerial
-attacks to ground combos.
+aerial heavy -> land
+-> repeat]. The basic idea of
+ this is the same as IAD combos;
+ both allow you to
+add aerial attacks to ground
+combos.
 
 BALANCING YOUR REIATSU METER
 Reiatsu is used for two
@@ -1052,22 +1060,35 @@ one time; just press them to
 activate them. Each card has 4
 different things displayed on
 them:
-  REIFU NAME: Japanese text on t
-  DECK COST: Small number at bot
-   number of total points for ea
-  USE COST: Up to 4 blue boxes a
-   cannot have more than 4 blue 
-   If you use a 2-box card, you 
-   or two 1-box cards until the 
-   card, you can't use any other
+  REIFU NAME: Japanese text on
+  the top of the card; describes
+  reifu effect. DECK COST: Small
+  number at bottom-left of card.
+  You are limited to a certain
+   number of total points for
+   each deck that you make.
+  USE COST: Up to 4 blue boxes
+  are displayed at the bottom of
+  each card. You
+   cannot have more than 4 blue
+   boxes of cards active
+   simultaneously. If you use a
+   2-box card, you can only use
+   an additional 2-box card or
+   two 1-box cards until the
+   first card expires. If you
+   use a 4-box card, you can't
+   use any other cards until
+   that one expires.
 TARGET: The symbol at the
 bottom-right corner of each card
 indicates who that card affects.
     blue triangle = yourself
     1 red triangle = 1 enemy
  2 red triangles = all enemies
-   gold A = all players
-   white N = no one (usually a s
+   gold A = all players white N
+   = no one (usually a stage
+   effect of some sort)
 
 After you use a reifu, you have
 to wait a short period of time
@@ -1343,44 +1364,43 @@ ARCADE MODE ＶＳモード VS MODE
 デッキコンストラクション DECK CONSTRUCTION
 浦原商店 URAHARA SHOP ギャラリー GALLERY
 オプション OPTION
- ゲーム設定                    GAME S
-  メッセージ速度                MESSAGE
+ ゲーム設定 GAME SETTINGS
+  メッセージ速度 MESSAGE SPEED
    普通                          N
 速い                          FAST
-  超必殺技演出                  SUPER 
+  超必殺技演出 SUPER ATTACK ANIMATIONS
  あり                          ON
 なし                          OFF
-  ステージ輝度                  STAGE 
-  壁紙                          WA
-  システムボイス                SYSTEM 
+  ステージ輝度 STAGE BRIGHTNESS 壁紙
+  WALLPAPER システムボイス SYSTEM VOICE
 ランダム                      RANDOM
 なし                          OFF
 キー設定 KEY CONIFGURATION
-   設定                          C
-    小攻撃                        L
-    中攻撃                        M
-    大攻撃                        H
-    特殊移動                      SP
-ガード                        GUARD
-    ライン移動                    LIN
-   標準に戻す                    REST
- サウンド設定                  SOUND S
+   設定 CONFIGURATION
+    小攻撃 LIGHT ATTACK 中攻撃 MEDIUM
+    ATTACK 大攻撃 HEAVY ATTACK 特殊移動
+    SPECIAL MOVEMENT (FLASH
+    STEP)
+    ガード                        G
+    ライン移動 LINE CHANGE
+   標準に戻す RESTORE DEFAULTS
+ サウンド設定 SOUND SETTINGS
   出力                          OU
 ステレオ                      STEREO
-   モノラル                      MON
-  音量「全体」                  VOLUME
-  音量「ＢＧＭ」                VOLUME 
-  音量「効果音」                VOLUME 
-  音量「音声」                  VOLUME
-  標準に戻す                    RESTO
- セーブデータ                  SAVE DA
-  初期化「ゲームデータ」        ERASE [GAME
-  初期化「レコードデータ」      ERASE [RECOR
-  初期化「Ｗｉ－Ｆｉデータ」    ERASE [Wi-Fi 
-  初期化「全て」                ERASE [
- 記録閲覧                      RANKI
- ユーザー設定                  USER SE
-  名前変更                      CHAN
+   モノラル MONOAURAL
+  音量「全体」 VOLUME [MASTER] 音量「ＢＧＭ」
+  VOLUME [BACKGROUND MUSIC]
+  音量「効果音」 VOLUME [SOUND EFFECTS]
+  音量「音声」 VOLUME [VOICE] 標準に戻す
+  RESTORE DEFAULTS
+ セーブデータ SAVE DATA
+  初期化「ゲームデータ」 ERASE [GAME DATA]
+  初期化「レコードデータ」 ERASE [RECORD
+  DATA] 初期化「Ｗｉ－Ｆｉデータ」 ERASE [Wi-
+  Fi DATA] 初期化「全て」 ERASE [ALL]
+ 記録閲覧 RANKING ユーザー設定 USER
+ SETTINGS
+  名前変更 CHANGE NAME
 隊章エディット EMBLEM EDIT 戻る RETURN
 (TO TITLE SCREEN)
 
@@ -2365,7 +2385,8 @@ check www.nintendowifi.com for
 downloadable manuals in your
 native language.
 
-- AFTER LOGGING INTO NINTENDO WI
+- AFTER LOGGING INTO NINTENDO
+  WI-FI CONNECTION -
 
 After selecting LOGIN from the
 previous menu, you should be
@@ -2381,12 +2402,12 @@ available from the next menu.
  四人                    4 PLAYERS
 フレンド・ライバル対戦  FRIEND/RIVAL BATTLE
 霊位争奪戦              RANKING MATCH
- 霊符有                  REIFU PERM
- 霊符無                  REIFU PROH
+ 霊符有 REIFU PERMITTED 霊符無 REIFU
+ PROHIBITED
 イベント対戦 EVENT BATTLE 霊位争奪戦ランキング
 RANKING LEADERBOARDS
- はい                    YES (CONF
- いいえ                  NO (CANCEL
+ はい YES (CONFIRM) いいえ NO
+ (CANCEL)
 伝言入力 MESSAGE INPUT 伝言確認 MESSAGE
 CONFIRMATION
 
@@ -2440,8 +2461,8 @@ player to your Rival list.
 友達コード入力 INPUT FRIEND CODE
 友達コード確認 MY FRIEND CODE 友達コード交換
 EXCHANGE FRIEND CODES
- 友達コード交換受付     SEND FRIEND CODES
- 友達コード交換？？？   RECEIVE FRIEND COD
+ 友達コード交換受付 SEND FRIEND CODES
+ 友達コード交換？？？ RECEIVE FRIEND CODES
 
 Selecting the top option allows
 you to view your Friend/Rival
@@ -2624,18 +2645,19 @@ Mode.
 
 買い物                 BUY
  アイテム               ITEM
-  霊符                   REIFU (SP
-  フレーム               FRAME (DECK
-  霊珠                   REIJU (SP
- カラー                 COLOR (ALTE
- グラフィック           GRAPHIC (GALLE
- サウンド               SOUND
-  効果音                 SOUND EFFE
-  ＢＧＭ                 BACKGROUND
- 音声                   VOICE (SYS
+  霊符 REIFU (SPIRIT CARDS) フレーム
+  FRAME (DECK HOLDERS) 霊珠 REIJU
+  (SPIRIT GEMS)
+ カラー COLOR (ALTERNATE OUTFITS)
+ グラフィック GRAPHIC (GALLERY
+ PICTURES) サウンド SOUND
+  効果音 SOUND EFFECTS ＢＧＭ
+  BACKGROUND MUSIC
+ 音声 VOICE (SYSTEM VOICE SETTING
+ & SOUND TEST)
 パスワード             PASSWORD
- タッチスクリーン入力   TOUCH SCREEN INPUT
- ？？                   ENTERED PA
+ タッチスクリーン入力 TOUCH SCREEN INPUT
+ ？？ ENTERED PASSWORDS
 
 Everything in the ITEM menu is
 related to the reifu/reiju deck
@@ -2680,20 +2702,19 @@ must first be purchased from
 Urahara's Shop.
 
 ビジュアルギャラリー     VISUAL GALLERY
- イベントグラフィック１   EVENT GRAPHIC 1
- イベントグラフィック２   EVENT GRAPHIC 2
- キャラグラフィック       CHARACTER GRAPH
- おまけグラフィック１     BONUS GRAPHIC 1
- おまけグラフィック２     BONUS GRAPHIC 2
- おまけグラフィック３     BONUS GRAPHIC 3
+ イベントグラフィック１ EVENT GRAPHIC 1
+ イベントグラフィック２ EVENT GRAPHIC 2
+ キャラグラフィック CHARACTER GRAPHIC
+ おまけグラフィック１ BONUS GRAPHIC 1
+ おまけグラフィック２ BONUS GRAPHIC 2
+ おまけグラフィック３ BONUS GRAPHIC 3
 サウンドギャラリー       SOUND GALLERY
- 「ＢＧＭ」               [BACKGROUND
- 「効果音」               [SOUND EFFE
- 「音声」                 [VOICE]
+ 「ＢＧＭ」 [BACKGROUND MUSIC] 「効果音」
+ [SOUND EFFECTS] 「音声」 [VOICE]
 死神図鑑 SHINIGAMI MANUAL
- 人物図鑑                 CHARACTER 
- 用語集                   GLOSSARY
- 技図鑑                   TECHNIQUE
+ 人物図鑑 CHARACTER PROFILES 用語集
+ GLOSSARY 技図鑑 TECHNIQUE
+ REFERENCE
 
 Event and character graphics are
 made available simply after
@@ -2802,7 +2823,8 @@ already have Trillian installed.
    along with any other chat
    program you want to use with
    Trillian and click next.
-   next.
+   It'll download the plugins
+   after you click next.
 6) Click install.
 7) Click Finish.
 8) The Trillian window should be
@@ -2814,7 +2836,9 @@ already have Trillian installed.
 9A) (Only do this step if you
 already had Trillian installed
 previously.) Go
-    into Plug-ins and check the 
+    into Plug-ins and check the
+    box next to IRC if it's not
+    already checked.
 10) In the window that pops up
     choose "Identities and
     Connections."
@@ -2823,9 +2847,12 @@ previously.) Go
 12) Check the box on the bottom
     (Automatically connect to
     this account on startup) and
-    fill in the bla following:
-  [ Rizon Bleach Chan           
-  [ irc.rizon.net               
+    fill in the blanks for each
+    of the 5 dialog boxes with
+    the following:
+  [ Rizon Bleach Chan ] via IRC
+  [Connect] [Change...] [X] [
+  irc.rizon.net ] [...]
 [ Your screen name             ]
 [ Your "real" name             ]
 [ Any misc profile information ]
@@ -2833,7 +2860,8 @@ previously.) Go
 14) In the preform buffer box
     check the "After successful
     connection to irc ...
-    preform following comman
+    preform following commands
+    ... " box.
 15) In the text box under the
     preform buffer add "/join
     #Bleach_ds".
@@ -2843,7 +2871,7 @@ previously.) Go
 17) Click save settings then
     click connect. You should
     join the BDS IRC chan every
-    time you start Trillia
+    time you start Trillian.
 
 ┌---------------┐
 │ USING TINYIRC │
@@ -2862,15 +2890,19 @@ media.
    change Server to
    irc.rizon.net. Leave the port
    number as is and don't worry
+   about entering a password.
 4) In the User Info category,
    change the Nickname to
    whatever nick you want to go
    by when in the #Bleach_ds
-   nicks in case those nicks are
+   channel. You can also enter
+   up to 2 Alternate nicks in
+   case those nicks are taken.
 5) Click "Connect". When
    successfully connected to the
    server, type "/join
-   #Bleach_ds" to enter the chan
+   #Bleach_ds" to enter the
+   channel. Enjoy.
 
 It's a pretty basic irc program
 but it gets the job done and
@@ -2895,13 +2927,20 @@ directly from your browser.
 2) You will usually see at least
    2 results from the #Bleach_ds
    query on searchirc.com. From
-   my listin
+   my listing both of the
+   results leads to the same
+   place.
 3) Click on the #Bleach_ds link
    after the irc:// heading.
    Your status bar Should
-   indicate that it's a j will
-   start, you may need to c
-   asking you if you want to acc
+   indicate that it's a java
+   link. When you click on it a
+   Jpilot applet will start, you
+   may need to click "Yes" on
+   the dialog box before it
+   appears asking you if you
+   want to accept this program.
+   Enter a nick and enjoy.
 
 This java applet for chatting is
 pretty barebones, you can't even
@@ -2934,28 +2973,40 @@ all of this together.
 1.01 (March 9, 2007)
  - added damage scaling info
  - added damage table info
- - added ground-to-air flash ste
+ - added ground-to-air flash
+   step info
  - completed reifu chart
 1.00 (February 26, 2007)
  - added what's new section
- - reordered character list acco
- - corrected Japanese spelling o
- - added cameo appearances to ch
+ - reordered character list
+   according to in-game menus
+ - corrected Japanese spelling
+   of some names
+ - added cameo appearances to
+   character list
  - shortened lexicon
- - corrected information about s
- - corrected information about f
- - corrected information about f
- - added information about stopp
- - added information about chip 
+ - corrected information about
+   special attack hotkeys
+ - corrected information about
+   foreground/background planes
+ - corrected information about
+   flash steps
+ - added information about
+   stopping flash steps with RF
+   specials
+ - added information about chip
+   damage
  - added reiju/reiju list
  - added simple mode section
  - added menu/option translation
  - added Story Mode section
  - added VS Mode section
 - added Other Game Modes section
- - added Deck Construction secti
+ - added Deck Construction
+   section
  - added Shop & Gallery section
  - added some credits
- - combined Credits/History sect
+ - combined Credits/History
+   sections
 0.10 (February 17, 2007)
  - initial release

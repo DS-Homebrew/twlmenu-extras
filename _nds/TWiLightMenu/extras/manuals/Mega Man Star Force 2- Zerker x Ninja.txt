@@ -9,10 +9,14 @@ Tobes14@gmail.com
 ================================
 
 **** WARNING - This guide is NOT
+     SPOILER FREE. Read at your
+     own risk. ****
 
 ================================
 
-*Use Ctrl+F to search for a sect
+*Use Ctrl+F to search for a
+ section, using words, or the
+ text in brackets.*
 
 ================================
 |                           Tabl
@@ -198,6 +202,8 @@ c) Controls [CTL56]
 Field Controls
 ------------------
 +Control Pad....................
+ .........Move character/menu
+ cursor.
 A Button........................
 .........Speak/Examine/Confirm.
 B Button........................
@@ -221,9 +227,15 @@ View, Brother
 
 Combat Controls
 --------------------------
-+Control Pad Left/Right.........
-+Control Pad Up.................
-+Control Pad Down...............
++Control Pad
+ Left/Right..................Mov
+ e Mega Man left/right
++Control Pad
+ Up..........................Not
+ used.
++Control Pad
+ Down........................Loc
+ k on.
 A Button........................
 .........Use Battle Card. B Butt
 on..............................
@@ -288,10 +300,12 @@ Element.........................
 Tribal Ability..................
 .........Dodge attacks with Body
 Double Attack
-          Wood Elemental Sword p
+          Wood Elemental Sword
+          provides counter
  Charge the Battle Card to gain
-          additional invisibilit
-          Auto Lock On
+          additional
+          invisibility capacity
+          and Auto Lock On
 Status Power
 Up..........................Wood
 +20 Charge Shot.................
@@ -302,6 +316,7 @@ Bang......................Demon
 Flurry
 
 *Press +Control Pad up+Y button
+ for Body Double Attack.
 The Body Double counter move
 replaces blocking.
 
@@ -457,6 +472,7 @@ pulse into these objects.
 
 +-------------------------------
  A} Chapter 1 - A Ghostly Crisis
+ [PHT12]
 +-------------------------------
 
 So the game begins..............
@@ -776,7 +792,8 @@ higher it goes.
 
 
 +-------------------------------
- B} Chapter 2 - The Abominable S
+ B} Chapter 2 - The Abominable
+ Snowman [BYI75]
 +-------------------------------
 
 ================================
@@ -800,7 +817,9 @@ person you need to talk to is,
 Mr. Boreal, so head to the
 shopping plaza 2nd floor.
 
-***Before you head out to the Sh
+***Before you head out to the
+   Shopping Plaza, their are
+   five Jobs/quests to
 the people with the pink display
 above their heads are troubled
 and are looking for help, so
@@ -956,7 +975,8 @@ have 100 Link Power or more.
 Make your way to the elevator to
 the right.
 
-*Inspect the ski's in the laundr
+*Inspect the ski's in the
+ laundry room to get a HPMem10*
 
 Make your way outside to see a
 familiar face. It's Bob Copper,
@@ -997,10 +1017,14 @@ to head out, before you leave,
 the talking egg gives you matter
 wave skis.
 
-*Before you leave the Suite, pul
- weapon for Mega.*
+*Before you leave the Suite,
+ pulse in and get the BMW, it
+ contains a new weapon for
+ Mega.*
 
-*Also inspect one of the twin be
+*Also inspect one of the twin
+ beds in the Suite to get an
+ HPMem10*
 
 Now head to Foodtopia to
 investigate.
@@ -1254,6 +1278,7 @@ Attacks:
    damage - He Jumps and when he
    lands, snowballs
          fall on the highlighted
+         panels. (B)
 2. Yeti Stomp...........60
    Damage - Jumps off screen and
    comes crashing down
@@ -1295,7 +1320,8 @@ appears, his name is Solo. They
 start talking about an OOPArt.
 
 +-------------------------------
- C} Chapter 3 - A Nightmare at t
+ C} Chapter 3 - A Nightmare at
+ the Museum [OPR69]
 +-------------------------------
 
 ================================
@@ -1340,7 +1366,8 @@ friend Lyra. Sonia wants to go
 on a date with you to Wilshire
 Hills. So head on out.
 
-*Before you leave for Wilshire, 
+*Before you leave for Wilshire,
+ you can do several things:
 1. Get all the BMW in Echo
    Ridge.
 2. Download Zack's and Buds
@@ -1650,7 +1677,8 @@ but he only manages to rescue
 Luna.
 
 +-------------------------------
- D} Chapter 4  - Power of the OO
+ D} Chapter 4 - Power of the
+ OOPArt [QDP28]
 +-------------------------------
 
 ================================
@@ -1787,7 +1815,8 @@ Your Link Power with Prez has
 now gone up even more.
 
 +-------------------------------
- E} Chapter 5  - The Loch Mess M
+ E} Chapter 5 - The Loch Mess
+ Monster [PLS87]
 +-------------------------------
 
 ================================
@@ -1962,7 +1991,8 @@ to reveal an EM wave space. Then
 head up the elevator and talk to
 everybody.
 
-*Inspect the binoculars to the n
+*Inspect the binoculars to the
+ north to receive a HPMem10.*
 
 After you talk to everybody,
 head back to the village. Romero
@@ -1988,9 +2018,12 @@ Make your way to Zack, on the
 way inspect one of the sheep to
 reveal a EM wave space.
 
-*Inspect the pink sheep by the w
+*Inspect the pink sheep by the
+ water to receive a HPMem10.*
 
-*Wave Change and inspect the wat
+*Wave Change and inspect the
+ waterfall to get the Mega
+ Weapon: ZphyrWng*
 
 Talk to Zack and he still
 refuses to leave, so head back
@@ -2061,7 +2094,9 @@ Crown, where all the treasure
 is.
 
 *There are several mystery waves
- add a section for it at a later
+ in the ground you can dig up,
+ perhaps I will add a section
+ for it at a later time.
 
 Head over to the next area.
 
@@ -2089,8 +2124,9 @@ NEITHER MAN NOR FISH." Location:
 Edge of the cliff looking over
 the hertz. The cliff that the
 mermaid
-  is looking toward. Nope it isn
-  tricky eh?
+  is looking toward. Nope it
+  isn't the mermaid it was
+  referring to, tricky eh?
 
 Page 7: "ONE SLEEPS AT THE PLACE
 WHICH IS SURROUNDED BY FIVE
@@ -2103,7 +2139,8 @@ KING WHO IS NO MORE SHOULD
 BE..." Location: Dig next to the
 overturned chair, not the
 obvious one, but the one
-  slightly hidden. Take the narr
+  slightly hidden. Take the
+  narrow path to get there.
 
 After you found them all,
 proceed toward the door and save
@@ -2127,8 +2164,10 @@ Attacks:
 3. Tidal Wave...........80
    damage - Sends a giant wave
    toward you, damage
-         the whole area. If ther
+         the whole area. If
+         there are rocks, those
          will be pushed back and
+         will hit you. (B)
 
 Plesio Surf is weak to
 electricity. The two works you
@@ -2148,7 +2187,8 @@ goes up by 50.
 Crikey.....
 
 +-------------------------------
- F} Chapter 6  - Welcome to Whaz
+ F} Chapter 6 - Welcome to
+ Whazzap! [TRC35]
 +-------------------------------
 
 ================================
@@ -2176,7 +2216,8 @@ out to Whazzap via the Sky Wave.
 It lies beyond Mess Village, so
 make your way there.
 
-*Before you go, you have access 
+*Before you go, you have access
+ to more jobs:
 
 ================================
 | Jobs | Refer to Jobs/Quests
@@ -2261,7 +2302,9 @@ of the EM-beings that you have
 faced, and one that your going
 to fight soon.
 
-*Inspect the panel near the hert
+*Inspect the panel near the
+ hertz line to get get a
+ HPMem10*
 
 Talk to everybody to continue.
 Head back to the village and the
@@ -2276,17 +2319,22 @@ need to find all the
 ingredients.
 
 1.Beef - Inspect the giant piece
-of meet behind the Shaman.
+  of meet behind the Shaman.
 2.Onion - Inspect the plants to
-the south of where the giant
-statue is. 3.Rice - Talk to the
-lady in purple and she will give
-it to you. 4.Egg - Pulse in at
-the Whazzap Lines, head north
-and take the wave road
-  to the right and you will come
+  the south of where the giant
+  statue is.
+3.Rice - Talk to the lady in
+  purple and she will give it to
+  you.
+4.Egg - Pulse in at the Whazzap
+  Lines, head north and take the
+  wave road to the right and you
+  will come across a birds nest,
+  inspect it.
 
-*Inspect the sandwich fossil on 
+*Inspect the sandwich fossil on
+ the wall to get the Mega
+ Weapon, ZenyFndr.
 
 Return to the Prez when you have
 all the ingredients. Use the
@@ -2499,7 +2547,8 @@ returns to normal and
 apologizes, all is good.
 
 +-------------------------------
- G} Chapter 7  - Lost in the Ber
+ G} Chapter 7 - Lost in the
+ Bermuda Maze [HOL77]
 +-------------------------------
 
 ================================
@@ -2520,7 +2569,8 @@ emergency landing. The pilot is
 in Loch Mess, so had over there
 via the Sky Wave.
 
-*Before you go, you have access 
+*Before you go, you have access
+ to more Jobs/Quests.
 
 ================================
 | Jobs | Refer to Jobs/Quests
@@ -2861,7 +2911,8 @@ pases out and Hyde comes along
 and takes the OOPArt from Geo.
 
 +-------------------------------
- H) Chapter 8: The Continent of 
+ H) Chapter 8: The Continent of
+ Mu [MU101]
 +-------------------------------
 
 A few days later....
@@ -2967,9 +3018,9 @@ D.Enrgy.
 ================================
 | Sky Staircase |
 ================================
-*save before you head up. When
-you go up the staircase, you
-will run into Hyde.
+*save before you head up.
+When you go up the staircase,
+you will run into Hyde.
 
 ================================
 |Boss| Dark Phantom EX | HP 1500
@@ -3038,11 +3089,13 @@ Fon - "That special power of Mu
 was the object of fear from
 other peoples of
   the world, who sought to drive
+  them out."
 
 Wir - "Their search led them to
 Earth's End. And there they
 found the Great
-  Being, the source of all EM wa
+  Being, the source of all EM
+  waves."
 
 Mir - "The Mu people got their
 power to manipulate EM waves
@@ -3087,7 +3140,8 @@ prosperous
 Ebesh- "The Mu technology for
 Materializing EM waves allowed
 their
-  civilization to advance. And f
+  civilization to advance. And
+  for a time lived in peace..."
 
 Masa - "One day Invaders
 appeared in the Mu's land,
@@ -3123,11 +3177,14 @@ Foh - "After the appearance of
 the invaders, the Mu were
 divided into those
   who embraced war and those who
+  rejected it."
 
 Fai - "Humans who rejected
 war,forsook their land and
 scattered across the
   Earth...And those who embraced
+  war, used the power of EM
+  waves to
 raise their land into the sky."
 
 Rai - "Those Mu who left Earth
@@ -3143,7 +3200,9 @@ Input the final four symbols and
 you will have to fight Terra
 CondorEX.
 
-*Inspect the Ancient Star Carrie
+*Inspect the Ancient Star
+ Carrier after the fight to get
+ a HPMem10.
 
 Make your way to the next area.
 
@@ -3176,7 +3235,8 @@ more bosses you have yet to
 face.
 
 +-------------------------------
- I) Chapter 9: Apollo Flame     
+ I) Chapter 9: Apollo Flame
+ [SAP10]
 +-------------------------------
 
 Now that you have beat the game,
@@ -3189,7 +3249,8 @@ bit of stuff actually.
 2. There are now several more
    Jobs/Missions to do. Also, if
    you do the in-game brother's
-   Jobs, you w
+   Jobs, you will increase your
+   Link Power with them.
 
 ================================
 | Jobs | Refer to Jobs/Quests
@@ -3281,7 +3342,8 @@ way up to where Luna swimming
 pool is to find a wave hole.
 Take it to go to a new area.
 
-*Inspect the Dog house in front 
+*Inspect the Dog house in front
+ of Buds house for IndFrag3.*
 
 The encounter rate of battles is
 increased really high, battles
@@ -3335,6 +3397,7 @@ ES |
 | 10000 Zenny                   
 ================================
 *Inspect the dead hertz to get a
+ Solo Wallpaper.*
 
 In here you will have to fight
 HarpNoteIF. After you defeat
@@ -3639,7 +3702,9 @@ your game!
 The missions go in order of
 availability.
 
-*Use Ctrl+F to search for the pe
+*Use Ctrl+F to search for the
+ person that you are looking
+ for.*
 
 ================================
 | Name | Location | When
@@ -4870,15 +4935,25 @@ commands. There are only ten
 Blank Cards available in the
 game.
 
- 1. Mr. Boreal gives you one whe
- 2. Inside Bud Bison's house, in
+ 1. Mr. Boreal gives you one
+    when you upgrade your Star
+    Carrier.
+ 2. Inside Bud Bison's house,
+    inspect his bed.
  3. Inside Zack's House, inspect
+    the basketball hoop.
  4. Mess Village, BMW in Cock-A-
- 5. Complete Luz Stufalot's Job/
- 6. Whazzap Lines, BMW in Old Dr
- 7. Whazzap Lines, BMW in Ammoni
- 8. In Mu, Room of Heroes, BMW i
- 9. Complete Mr. Boreal's Job/Mi
+    Doodle ES
+ 5. Complete Luz Stufalot's
+    Job/Mission/Quest
+ 6. Whazzap Lines, BMW in Old
+    Dragonfly ES
+ 7. Whazzap Lines, BMW in
+    Ammonite ES
+ 8. In Mu, Room of Heroes, BMW
+    in Murian ES
+ 9. Complete Mr. Boreal's
+    Job/Mission
 10. Alt. Wilshire Hills , BMW in
     BrokenDisplay ES
 
@@ -4897,7 +4972,8 @@ become Mega Man Rogue.
 2. After you defeat Le Mu, go to
    WhazzapRuins1 and talk to
    Pat, then defeat Gemini Spark
-   in WhazzapRuins2
+   in WhazzapRuins2 to get
+   IndFrag2.
 3. Inspect the dog house in Alt.
    Echo Ridge to get IndFrag3.
 4. Inspect the panel on the left
@@ -4958,11 +5034,15 @@ become Mega Man Rogue.
 19. BN Blstr - Put a Mega Man
     Battle Network game in the
     GBA slot of your DS
-   to get an e-mail, visit the l
-   diaries and read them and get
+   to get an e-mail, visit the
+   locations below and get all
+   the diaries and read them and
+   get an e-mail with the
+   weapon.
    1. MailBox ES - Echo Ridge
 2. OldBinoCulars ES - IFL Tower1
-   3. Lost Ice Statue ES - Foodt
+   3. Lost Ice Statue ES -
+      Foodtopia
   4. SunkenShip ES - LochMess1
  5. Ammonite ES - Whazzap Lines
 
@@ -5230,15 +5310,23 @@ Q: How much Link Power do I
 currently give?
 
    You give Link Power not based
-   currently at in the game:
-   Just Started Game            
-   After Dark Phantom Scenario  
-   After Yeti Blizzard Scenario 
-   After you get Tribe-On       
-   After Plesio Surf Scenario   
-   After Terra Condor Scenario  
-   After Bermuda Maze Scenario  
-   After you defeat Le Mu       
+   on how much you have, but
+   where you are currently at in
+   the game: Just Started Game -
+   You give 30 Link Power After
+   Dark Phantom Scenario - You
+   give 40 Link Power After Yeti
+   Blizzard Scenario - You give
+   50 Link Power After you get
+   Tribe-On - You give 60 Link
+   Power After Plesio Surf
+   Scenario - You give 70 Link
+   Power After Terra Condor
+   Scenario - You give 80 Link
+   Power After Bermuda Maze
+   Scenario - You give 90 Link
+   Power After you defeat Le Mu
+   - You give 100 Link Power
 
 Then after that, for every
 additional mark you get an
@@ -5251,8 +5339,11 @@ MniGrnde3! It's not in the
 locations you listed!
    Please help!!!
 
-   MniGrnde2 and 3 are in Green 
-   and not get them. Just be pat
+   MniGrnde2 and 3 are in Green
+   Mystery Waves, you can run
+   through 20 times and not get
+   them. Just be patient, you
+   will get them eventually.
 
 Q: Can you post the Wave Command
 Kit codes?

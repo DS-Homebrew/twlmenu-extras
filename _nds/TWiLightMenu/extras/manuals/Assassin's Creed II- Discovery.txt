@@ -1,6 +1,7 @@
 ________________________________
 
-   A S S A S S I N ' S  C R E E 
+   A S S A S S I N ' S C R E E D
+   2 D I S C O V E R Y
 ________________________________
 
  F A Q / W A L K T H R O U G H
@@ -45,6 +46,8 @@ and Christoffa..................
 Christoffa's Atlas..............
 ....................[W005]
   Bring the Atlas to the Harbour
+  ...........................[W0
+  06]
 
 Memory Block 3 Find the
 Assassin's Guild................
@@ -402,7 +405,8 @@ comes in contact. ]
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Go to the Thieves' Guil
+   // Go to the Thieves' Guild
+   [W001]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Normal
 
@@ -549,7 +553,8 @@ guard.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Return to the Thieves' 
+   // Return to the Thieves'
+   Guild [W003]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Chase
 
@@ -577,7 +582,8 @@ maximum distance.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Meet Santangel and Chri
+   // Meet Santangel and
+   Christoffa [W004]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Normal
 
@@ -633,7 +639,8 @@ to your objective.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Find Christoffa's Atlas
+   // Find Christoffa's Atlas
+   [W005]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Stealth
 
@@ -694,7 +701,8 @@ going so as to not get spotted.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Bring the Atlas to the 
+   // Bring the Atlas to the
+   Harbour [W006]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Chase
 
@@ -727,7 +735,8 @@ to find another [WANTED POSTER].
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Find the Assassin's Gui
+   // Find the Assassin's Guild
+   [W007]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Normal
 
@@ -827,7 +836,8 @@ be easy to find your way.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Assassinate Gaspar Mart
+   // Assassinate Gaspar
+   Martinez [W009]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Stealth
 
@@ -903,9 +913,9 @@ Normal
 		     Wanted Posters: 2
 
        Completion Rating
--Finish under 1:00min -Kill 0
-Enemies -Take 0 damage
-~~~~~~~~~~~~~~~~~~~~
+			   -Finish under 1:00min
+			   -Kill 0 Enemies
+			   -Take 0 damage            
                //
      ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -922,7 +932,8 @@ Pedro.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Rescure the Captured As
+   // Rescure the Captured
+   Assassins [W012]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Normal
 
@@ -970,7 +981,8 @@ last assassin.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Rescure the Last Captur
+   // Rescure the Last Captured
+   Assassin [W013]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Stealth
 
@@ -982,7 +994,9 @@ Stealth
 -Finish under 3:30min -Stealth
 kill 10 or more Enemies -Take 4
 or less damage
-      -Get spotted 1 or less tim
+      -Get spotted 1 or less
+       times
+       ~~~~~~~~~~~~~~~~~~~~
                //
      ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -997,7 +1011,8 @@ reach your destination.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Assassinate Pedro Liore
+   // Assassinate Pedro Liorente
+   [W014]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Stealth
 
@@ -1009,7 +1024,9 @@ Stealth
 -Finish under 3:30min -Stealth
 kill 10 or more Enemies -Take 4
 or less damage
-      -Get spotted 1 or less tim
+      -Get spotted 1 or less
+       times
+       ~~~~~~~~~~~~~~~~~~~~
                //
      ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1068,7 +1085,8 @@ the stage in record time.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Eliminate the Templar P
+   // Eliminate the Templar
+   Presence [W016]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Normal
 
@@ -1168,7 +1186,8 @@ and reach your pit stop.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Assassinate the Templar
+   // Assassinate the Templar
+   Spy [W019]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Stealth
 
@@ -1201,7 +1220,8 @@ good enough.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Report the Spy's Death 
+   // Report the Spy's Death
+   [W020]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Stealth
 
@@ -1282,7 +1302,8 @@ final checkpoint.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Infiltrate Alhambra Pal
+   // Infiltrate Alhambra Palace
+   [W022]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Stealth
 
@@ -1382,7 +1403,8 @@ waste.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Open the Palace Gates [
+   // Open the Palace Gates
+   [W025]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Chase
 
@@ -1412,7 +1434,8 @@ you're done.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Stop the Burning of the
+   // Stop the Burning of the
+   City [W026]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Time
 
@@ -1450,7 +1473,8 @@ final guard.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Protect Civilians From 
+   // Protect Civilians From
+   Inquisitors [W027]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Normal
 
@@ -1483,7 +1507,8 @@ and get another [WANTED POSTER]
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Assassinate Juan De Mar
+   // Assassinate Juan De
+   Marillo [W028]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Stealth
 
@@ -1583,7 +1608,8 @@ to Christoffa.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Rid the Palce of Inquis
+   // Rid the Palce of
+   Inquisitors [W030]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Normal
 
@@ -1604,7 +1630,8 @@ just find them and slay them.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Rescue Raphael Sanchez 
+   // Rescue Raphael Sanchez
+   [W031]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Chase
 
@@ -1628,7 +1655,8 @@ an armored soldier.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Infiltrate Torquemada's
+   // Infiltrate Torquemada's
+   Dwelling [W032]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Stealth
 
@@ -1655,7 +1683,8 @@ side.
 
 
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   //    Assassinate Tomas Torqu
+   // Assassinate Tomas
+   Torquemada [W033]
 ~~~~~~~~~~~~~~~~ Mission Type:
 Normal
 
@@ -1796,8 +1825,9 @@ gentleman. He has a
 Luis Santangel: "I represent a
 man who has come to Venezia on a
 foolish errand.
-    I fear his life is in danger
-    counsel."
+    I fear his life is in
+    danger, but he refuses to
+    listen to my counsel."
 
 Ezio: "And you want me to
 protect him?"
@@ -1844,7 +1874,8 @@ promised me an
 Guard: "Apologies, Master
 Christoffa, but the Spaniard's
 plans have changed. All
-  he requires is proof of your d
+  he requires is proof of your
+  death."
 
 (Ezio comes in and kills the
 guard)
@@ -1869,8 +1900,11 @@ many public
 Christoffa: "It was he who found
 me actually. He caught wind of
 my planned
-   expedition West, and expresse
-   was to be out first of many. 
+   expedition West, and
+   expressed a desire to fund
+   it. This meeting was to be
+   out first of many. But as you
+   can see, it went rather
    askew."
 
 Soldiers: "There he is! Get
@@ -1919,6 +1953,8 @@ Antonio: "I don't know.
 Santangel contacted teh thieves'
 guild from Espana. When
   we met,he explained his plight
+  and that's when I contacted
+  you."
 
 Ezio: "I'm flattered, but let's
 not turn this into a habit."
@@ -1936,12 +1972,14 @@ for all you have done."
 Ezio: "I'm glad to see you safe,
 Christoffa, but I am not here to
 further your
- interests. I have questions of 
+ interests. I have questions of
+ my own."
 
 Christoffa: "I won't have many
 answers. Borgia was merely a
 financial
-   opportunity. I didn't know hi
+   opportunity. I didn't know
+   him personally."
 
 Luis Santangel: "But you may
 have another chance to find him.
@@ -1951,13 +1989,17 @@ Tell him,
 Christoffa: "The Spaniard
 discovered out lodgings. Our
 hostel is crawling with
-   his soldiers. They are search
-   containing maps charting a We
+   his soldiers. They are
+   searching for an atlas of
+   significant worth, containing
+   maps charting a Western route
+   to the Orient."
 
 Luis Santangel: "We are prepared
 to leave Italia for good, but
 not without that
-    Atlas. In the wrong hands, i
+    Atlas. In the wrong hands,
+    it could cause great harm."
 
 Ezio: "Va bene. But this will be
 my final favor."
@@ -2022,7 +2064,8 @@ seek."
 Ezio: "Distressing news,
 Antonio. My search for the Apple
 of Eden will have to
- be postpponed. I'm going to bar
+ be postpponed. I'm going to
+ barcelona."
 
 Antonio: "I've heard rumors of
 some turmoil there. What's
@@ -2147,6 +2190,7 @@ Ezio: "What's this? A list? Six
 names...they may be Assassins
 too...when Sanchez
  and I cross paths again, I will
+ ask him."
 
 Memory Block 3 Rescue the
 Assassin
@@ -2251,8 +2295,9 @@ a disease. Let the heretic
 Ezio: "Already dead...so it was
 The Spaniard himself who had
 these men arrested
- and branded heretics. I won't a
- man's fate."
+ and branded heretics. I won't
+ allow the remaining five to
+ share this man's fate."
 
 
 Memory Block 4: Rescue the
@@ -2311,7 +2356,8 @@ Liorente.
 Ezio: "I saw them together. It
 appears heir orders to arrest
 the assassins came
- directly from Rodrigo Borgia hi
+ directly from Rodrigo Borgia
+ himself."
 
 Rapheal Sanchez: "Just as we
 suspected: contact between the
@@ -2393,7 +2439,8 @@ to Italia."
 Rapheal Sanchez: "Ezio, I beg
 you to stay and help me. We are
 on the fringe of
- 		  a grand Templar scheme. Com
+ a grand Templar scheme.
+ Come...I will explain."
 
 Memory Block 5: Eliminate the
 Templar Presence
@@ -2663,6 +2710,7 @@ Ezio: "I will cross the city and
 open the gates, carrying word of
 your
  abdication. Stay here until the
+ city has fallen silent."
 
 
 Memory Block 6: Open the Palace
@@ -2762,6 +2810,7 @@ Ezio: "Torquemada should be
 arrested for the abuses!. Surely
 the Queen would
  side with you if the truth were
+ exposed."
 
 Luis Santangel: "No, she would
 never believe such charges.
@@ -2901,7 +2950,8 @@ Christoffa: "Help!"
 Christoffa: "Has the world gone
 so mad that a simple adventurer
 cannot go but
- 	     a few weeks without being
+ a few weeks without being
+ attacked in the street!"
 
 Ezio: "Christoffa, you are no
 simple adventurer."
@@ -2983,7 +3033,9 @@ his precious atlas."
 Ezio: "I am honored to have
 helped you all, and wish I could
 be here to welcome
- him home, but conflicts of my o
+ him home, but conflicts of my
+ own now draw me back to
+ Italia."
 
 Luis Santangel: "Of course. The
 search for your stolen artifact
@@ -3055,7 +3107,8 @@ ________________________________
 Ezio: "You are a vile and
 pitiful man, Torquemada. And
 your alliance with the
- Spaniart has disqualified you f
+ Spaniart has disqualified you
+ from your God's love."
 
 Torquemada: "You dare to lecture
 me? I am the hammer of heretics,
@@ -3078,6 +3131,7 @@ Ezio: "There's no better hiding
 place than in the shadow of
 virtue. You are as
  blind to his evil as you are to
+ yours."
 
 Torquemada: "So what will you do
 with me, heathen? Murder me?
@@ -3102,7 +3156,9 @@ time. But by then
 Ezio: "Forgive me, my friends.
 Torquemada escaped. But not
 before enlightening
- me on one or two points. He is 
+ me on one or two points. He is
+ a petty man, consumed by self-
+ deception."
 
 Luis Santangel: "What of his
 connection to the Spaniard?"
@@ -3111,12 +3167,16 @@ Ezio: "He admires Rodrigo
 Borgia, but I do not believe
 Torquemada is a Templar
  himself. Merely a credulous old
- Torquemada's death would have c
+ sycophant. Perhaps this is for
+ the best. Torquemada's death
+ would have caused more turmoil
+ than it ended."
 
 Luis Santangel: "We will work
 hard to distance him from the
 Queen, while we
-    protect ourselves from the I
+    protect ourselves from the
+    Inquisitors."
 
 Ezio: "Best of luck, my new
 friends. And send me wod when
@@ -3157,17 +3217,22 @@ Captured Assassin
 From the start of the stage:
 
 -Head all the way to the right
--Climb up and jump onto the seco
+-Climb up and jump onto the
+ second platform, the one with
+ steps
 -Head all the way to the left
 -Climb up to the top
--Drop down in the gap to the lef
--Once down head all the way to t
+-Drop down in the gap to the
+ left
+-Once down head all the way to
+ the left wall
 -Climb up
 -Head to the left
 -Drop down
 -All the way to the left wall
 -Climb up to the top
--Now keep heading right and you 
+-Now keep heading right and you
+ will reach the scroll
 
 
 Challenge 7:
@@ -3214,7 +3279,8 @@ missions in game. You get ranked
 during the completion and
 depening on the rank the higher
 the points. Max points for each
-mission is 100.
+mission is
+100.
 
 You can only select one
 unlockable to use at a time.
@@ -3294,7 +3360,8 @@ January 15, 2010
 
 January 16, 2010
 
--Finished up to last mission in 
+-Finished up to last mission in
+ memory block 8
 -Finished walkthrough
 -Added unlockables
 -Put more detail in boxes

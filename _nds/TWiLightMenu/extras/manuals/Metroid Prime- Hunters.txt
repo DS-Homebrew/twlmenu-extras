@@ -37,11 +37,10 @@ Version 1.1 | (X) |
    D. Vesper Defense Outpost
   E. Arcterra
  F. Celestial Archives: Visit 2
-  G. Alinos: Visit 2
-  H. Arcterra: Visit 2
-  I. Vesper Defense Outpost: Vis
-  J. Alinos: Visit 3
-  K. Oubliette
+  G. Alinos: Visit 2 H.
+  Arcterra: Visit 2 I. Vesper
+  Defense Outpost: Visit 2 J.
+  Alinos: Visit 3 K. Oubliette
 7. Logbook
 8. Powerup Locations
 8. Special Thanks
@@ -8624,7 +8623,9 @@ is not what you are here to
 scan. Put on your scan visor,
 and all of a sudden eight --
 yes, eight
--- holograms will appear around 
+-- holograms will appear around
+   the center structure that
+   imprisons the
 frozen Guardians. Make sure that
 you can all eight of the
 holograms, and then move on to

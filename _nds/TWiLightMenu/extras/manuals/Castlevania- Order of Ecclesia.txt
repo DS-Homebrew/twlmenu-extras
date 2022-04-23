@@ -3,62 +3,92 @@ Castlevania: Order of Ecclesia
 
 Table of Contents:
 
-1. Introduction
-   Character Control............
-   Glyph System.................
-   About Terminology............
-   What this Guide has, and does
+1. Introduction Character Contro
+   l......................[Contr
+   1] Glyph System..............
+   .............[Glyph1] About T
+   erminology...................
+   ...[Termi1] What this Guide
+   has, and
+   doesn't.......[Guide1]
 2. Walkthrough
    Part 1: The Search for Albus
  Ecclesia.......................
- Monastery......................
+ .....[Eccle1] Monastery........
+ ...................[Monas1]
  Wygol Village..................
- Ruvas Forest...................
+ .....[Wygol1] Ruvas Forest.....
+ ...................[Ruvas1]
  Kalidus Channel................
- Minera Prison Island...........
+ .....[Kalid1] Minera Prison
+ Island................[Miner1] 
  Lighthouse.....................
- Kalidus Channel................
+ .....[Light1] Kalidus Channel..
+ ...................[Kalid2]
  Tymeo Mountains................
- Misty Forest Road..............
+ .....[Tymeo1] Misty Forest
+ Road...................[Misty1]
  Skeleton Cave..................
- Backtracking: Wygol Village....
- Backtracking: Minera Prison Isl
- Backtracking: Misty Forest Road
- Backtracking: Tymeo Mountains..
- Backtracking: Monastery........
+ .....[Skele1] Backtracking:
+ Wygol Village.........[Wygol2]
+ Backtracking: Minera Prison
+ Island..[Miner2] Backtracking:
+ Misty Forest Road.....[Misty2]
+ Backtracking: Tymeo
+ Mountains.......[Tymeo2]
+ Backtracking:
+ Monastery.............[Monas2]
  Somnus Reef....................
- Giant's Dwelling...............
+ .....[Somnu1] Giant's Dwelling.
+ ...................[Giant1]
  Tristis Pass...................
- Oblivion Ridge.................
- Backtracking: Ecclesia.........
+ .....[Trist1] Oblivion Ridge...
+ ...................[Obliv1]
+ Backtracking:
+ Ecclesia..............[Eccle2]
  Argila Swamp...................
- Mystery Manor..................
- Backtracking: Ecclesia.........
-   Part 2: Storming Dracula's Ca
+ .....[Argil1] Mystery Manor....
+ ...................[Myste1]
+ Backtracking:
+ Ecclesia..............[Eccle3]
+   Part 2: Storming Dracula's
+   Castle
  Castle Entrance................
- Library........................
- Backtracking: Castle Entrance..
+ .....[Castl1] Library..........
+ ...................[Libra1]
+ Backtracking: Castle
+ Entrance.......[Castl2]
  Underground Labyrinth..........
- Backtracking: Misty Forest Road
- Backtracking: Tymeo Mountains..
- Backtracking: Underground Labyr
- Barracks.......................
- Mechanical Tower...............
- Forsaken Cloister..............
- Backtracking: Mechanical Tower.
- Arms Depot.....................
- Forsaken Cloister..............
- Final Approach.................
+ .....[Under1] Backtracking:
+ Misty Forest Road.....[Misty3]
+ Backtracking: Tymeo
+ Mountains.......[Tymeo3]
+ Backtracking: Underground
+ Labyrinth.[Under2] Barracks....
+ ........................[Barra1
+ ] Mechanical Tower.............
+ .......[Mecha1] Forsaken Cloist
+ er...................[Forsa1]
+ Backtracking: Mechanical
+ Tower......[Mecha2] Arms Depot.
+ .........................[Arms1
+ ] Forsaken Cloister............
+ .......[Forsa2] Final Approach.
+ .....................[Final1]
 3. Extras
  Hidden Areas...................
+ .....[Hidde1]
   Large Cavern..................
-  Training Hall.................
+  ...[Large1] Training Hall.....
+  ...............[Train1]
  Villagers......................
- Alternate Boss Strategies......
+ .....[Villa1] Alternate Boss
+ Strategies...........[Alter1]
 4. Tables.......................
    ..........[Table1]
  Enemies........................
- Glyphs.........................
+ .....[Enemi1] Glyphs...........
+ ...................[Glyph1]
 5. Credit
 6. Version History
 
@@ -79,7 +109,8 @@ L or R while holding A to cycle
 B- Jump, push B again while in
 midair to double jump after
 obtaining the
-   ordinary rock, push down + B 
+   ordinary rock, push down + B
+   to slide
 Y- Attack with the Glyph
 equipped to this button, push up
 and Y to perform a
@@ -255,47 +286,70 @@ dress entering a door into
 Ecclesia. This woman is Shanoa,
 the heroine of this game.
 
-   Shanoa: Who's there?
-   Albus: ...Figures. Serves me 
+   Shanoa: Who's there? Albus:
+   ...Figures. Serves me right
+   for trying to scare you.
 
    Albus materializes out of the
+   shadows.
 
-   Shanoa: Albus!
-   Albus: Apparently I didn't hi
+   Shanoa: Albus! Albus:
+   Apparently I didn't hide my
+   presence very well at all.
+   Good to see
   you, Shanoa.
 Shanoa: What are you doing here?
-   Albus: Well, this is our home
-   Shanoa: No, it's not that. Ar
-   Albus: Yes, but I wanted to m
-   Albus: Any news worth sharing
-   Shanoa: Well, Barlowe chose m
-   Shanoa: We're about to start 
+   Albus: Well, this is our
+   home, after all. Where else
+   would I be? Shanoa: No, it's
+   not that. Aren't you on a
+   mission? Albus: Yes, but I
+   wanted to make sure things
+   were okay here. Albus: Any
+   news worth sharing? Shanoa:
+   Well, Barlowe chose me as the
+   bearer, actually. Shanoa:
+   We're about to start the
+   ritual, so my body can be a
+   vessel for
   [Dominus].
-   Albus: What did you say?! [Do
-   Shanoa: That's right.
-   Albus: This is an outrage! Ba
-   Shanoa: Lied?
-   Albus: I'm supposed to be the
-   Shanoa: But, the master said 
-   Albus: What? What did he tell
-   Shanoa: ...that you're unfit.
-   Albus: ...!?
-   Albus: He would never say suc
-   Shanoa: But Albus--
+   Albus: What did you say?!
+   [Dominus]... you? Shanoa:
+   That's right. Albus: This is
+   an outrage! Barlowe lied to
+   me! Shanoa: Lied? Albus: I'm
+   supposed to be the bearer. He
+   promised me that much!
+   Shanoa: But, the master said
+   you-- Albus: What? What did
+   he tell you? Shanoa: ...that
+   you're unfit... to be the
+   bearer. Albus: ...!? Albus:
+   He would never say such a
+   thing! Shanoa: But Albus--
 
    Bells ring in the background.
 
    Shanoa: I'm sorry; it's time.
+   I have to go.
 
-   Shanoa jumps onto a nearby pl
+   Shanoa jumps onto a nearby
+   platform.
 
-   Albus: Wait, Shanoa! You don'
-   Shanoa: You're wrong. I'm as 
-   Shanoa: Our sole purpose is t
-  dawn without fearing the darkn
-   Albus: That isn't--
-   Shanoa: For that reason, I wi
-   Albus: Shanoa...!
+   Albus: Wait, Shanoa! You
+   don't understand! Shanoa:
+   You're wrong. I'm as much a
+   member of Ecclesia as you
+   are. Shanoa: Our sole purpose
+   is to destroy [Dracula], so
+   people can look to
+  dawn without fearing the
+  darkness. Am I wrong, Albus?
+   Albus: That isn't-- Shanoa:
+   For that reason, I will
+   become Dominus, the blade to
+   banish all evil. Albus:
+   Shanoa...!
 
 Continue up the series of
 platforms to the top of the
@@ -308,87 +362,132 @@ door on the right. The scene
 shifts to Albus, still standing
 where Shanoa left him.
 
-   Albus: How could he!?
-   Albus: Orders may be orders, 
+   Albus: How could he!? Albus:
+   Orders may be orders,
+   Barlowe... But I'm holding
+   you to your promise.
 
-   The scene shifts from Albus t
+   The scene shifts from Albus
+   to Shanoa and Barlowe.
 
    Barlowe: Shanoa, as you know,
-   Shanoa: Yes, Sir.
-   Barlowe: Even so, it will be 
-   Barlowe: The purpose of this 
-   [Dominus].
-   Shanoa: Yes, Sir. But when it
-   Barlowe: That's right, Shanoa
-   Glyph... [Dominus], which Ecc
-   against Dracula.
+   only you can become bearer of
+   [Dominus]. Shanoa: Yes, Sir.
+   Barlowe: Even so, it will be
+   nearly impossible for you to
+   control its power. Barlowe:
+   The purpose of this ritual is
+   to make sure your body will
+   adjust to [Dominus]. Shanoa:
+   Yes, Sir. But when it's over,
+   I-- Barlowe: That's right,
+   Shanoa. You will be able to
+   wield our most powerful
+   Glyph... [Dominus], which
+   Ecclesia created as the
+   ultimate weapon against
+   Dracula.
 
  Shanoa runs onto the platform.
 
-   Barlowe: I'm proud of you, Sh
+   Barlowe: I'm proud of you,
+   Shanoa. You will become our
+   world's new savior.
 
-   Three books float into the ai
-   and three glyphs appear, whic
-   with a cracking sound.
+   Three books float into the
+   air and open themselves. They
+   flip through pages and three
+   glyphs appear, which Shanoa
+   begins to absorb. The screen
+   goes black with a cracking
+   sound.
 
    Barlowe: What's going on!?
    Shanoa: Aaaaaaaaahhhhh!!!
 
-   Light comes back to the scree
-   books floating around his han
+   Light comes back to the
+   screen, and Albus is standing
+   there with the three books
+   floating around his hand.
 
    Shanoa: You... Who... are...?
    Albus: .....
 
 Shanoa collapses to the ground.
 
-   Barlowe: What's the meaning o
-   is!
-   Albus: You lied to me.
-   Barlowe: Albus--
-   Albus: I was to be the bearer
+   Barlowe: What's the meaning
+   of this!? Albus! You know how
+   crucial the ritual is! Albus:
+   You lied to me. Barlowe:
+   Albus-- Albus: I was to be
+   the bearer. You promised me!
    Barlowe: We each have a role!
-   understand that.
-   Barlowe: Above all else, Shan
-   Dominus.
-   Barlowe: You know that as wel
-   Albus: I intended to overcome
-   Barlowe: Perhaps we still can
-   well...
+   If you had followed orders,
+   you might understand that.
+   Barlowe: Above all else,
+   Shanoa is the only one with
+   the capacity for Dominus.
+   Barlowe: You know that as
+   well as I do. Albus: I
+   intended to overcome my
+   weakness. What happened to
+   working together? Barlowe:
+   Perhaps we still can.
+   Together, we will overcome
+   this setback as well...
    Albus: It's too late.
 
-   Albus pulls all three books i
+   Albus pulls all three books
+   into his hand, and they
+   disappear.
 
-   Barlow: Tell me, Albus. What 
-   Albus: ...You said it yoursel
-  master, you've finally shown m
-   Barlowe: Don't be stupid, Alb
-   Albus: I will be taking [Domi
-   Barlowe: Be rational! Without
-   Dracula's vessel--
-   Albus: I have my own mission.
+   Barlow: Tell me, Albus. What
+   do you intend to do with
+   [Dominus]? Albus: ...You said
+   it yourself: each one of us
+   has a role. And, like a fine
+  master, you've finally shown
+  me what mine must be.
+   Barlowe: Don't be stupid,
+   Albus! What are you planning?
+   Albus: I will be taking
+   [Dominus]. Barlowe: Be
+   rational! Without that Glyph,
+   our mission is a failure!
+   Dracula's vessel-- Albus: I
+   have my own mission.
 
    Albus raises his gun.
 
    Barlowe: Tch!
 
-   Barlowe backdashes. Albus sho
-   Lightning Union. Energy flash
+   Barlowe backdashes. Albus
+   shoots a max shot, which
+   Barlowe counters with a
+   Lightning Union. Energy
+   flashes through the room.
 
-   Albus: You are my master no l
-   Albus: Farewell, Barlowe.
-   Albus runs off the screen.
+   Albus: You are my master no
+   longer... Albus: Farewell,
+   Barlowe. Albus runs off the
+   screen.
 
-   Several weeks pass...
-   Shanoa and Barlowe stand in E
-   them.
+   Several weeks pass... Shanoa
+   and Barlowe stand in
+   Ecclesia, a Glyph floating in
+   the air between them.
 
-   Barlowe: Your training regime
+   Barlowe: Your training
+   regimen shall soon conclude.
    Shanoa: As you say, Sir.
-   Barlowe: We tap the power in 
+   Barlowe: We tap the power in
+   all things, great and small,
+   to forge Glyphs
  through Eclesia's secret art.
-   Barlowe: And so we gain the s
-   before you, if you would.
+   Barlowe: And so we gain the
+   strength to save mankind.
+   Absorb the Glyph before you,
+   if you would.
 
 Press and hold up to begin
 absorbing a Glyph. Up must be
@@ -409,15 +508,20 @@ hearts.
 
    Shanoa: A Rapier Glyph?
    Barlowe: Just so. And now you
-   kind.
-   Barlowe: That is your gift; i
-   Shanoa: As you say, Sir.
-   Barlowe: ......
-   Barlowe: That I must teach yo
-   Barlowe:  A pity that this ha
-   Barlowe: But still, our time 
-   Shanoa: As you say, Sir.
-   Barlowe: That Glyph-- direct 
+   see: absorb a Glyph, and you
+   shall know its kind. Barlowe:
+   That is your gift; it's yours
+   and yours alone. Shanoa: As
+   you say, Sir. Barlowe: ......
+   Barlowe: That I must teach
+   you from the start again...
+   Barlowe: A pity that this had
+   to happen now. Barlowe: But
+   still, our time is waning.
+   Moving on... Shanoa: As you
+   say, Sir. Barlowe: That
+   Glyph-- direct its power
+   toward your arms.
 
 Press start to open the menu and
 select the Glyphs screen. Select
@@ -433,8 +537,10 @@ Shanoa obtains the Glyph Sleeve,
 will have an A, B, or C notated
 next to it.
 
-   Barlowe: So armed, you can wi
-   Barlowe: Imagine I am one of 
+   Barlowe: So armed, you can
+   wield Glyphs against your
+   foes. Barlowe: Imagine I am
+   one of them, and strike!
 
 Shanoa can attack with both the
 Y or X Glyphs at the same time,
@@ -448,9 +554,13 @@ not attacking for a few moments.
 Attack Barlowe until he starts
 talking again.
 
-   Barlowe: Your memories ay hav
-   Barlowe: Hear me-- your warri
-   Barlowe: Now meld the Glyphs 
+   Barlowe: Your memories ay
+   have fled, but you must not.
+   Barlowe: Hear me-- your
+   warrior's instincts must
+   endure. Barlowe: Now meld the
+   Glyphs in both your arms.
+   Prepare; Glyph Unions may
   yet catch foes by surprise.
 
 Press Up + Y or Up + X to
@@ -469,10 +579,13 @@ two rapier Glyphs or two axe
 Glyphs. Perform a Glyph Union
 attack on Barlowe.
 
-   Barlowe: So skillful! Now, yo
-   combat.
-   Barlowe: Steel yourself. Then
-   Shanoa: As you say, Sir.
+   Barlowe: So skillful! Now,
+   you face the final test: the
+   danger of true combat.
+   Barlowe: Steel yourself.
+   Then, once prepared, step
+   into the next room. Shanoa:
+   As you say, Sir.
 
 Walk to the left and press down
 in front of the jar to recover
@@ -482,8 +595,11 @@ the right and exit through the
 door into the next room.
 
    Barlowe: From netherworlds, I
-   Barlowe: Use everything you'v
-   Barlowe: And be our greatest 
+   call your enemy! Barlowe: Use
+   everything you've learned to
+   stand your ground. Barlowe:
+   And be our greatest warrior
+   once again!
 
 A set of skeletons appear.
 Attack them with a basic Y, X, Y
@@ -494,51 +610,78 @@ bone attacks. A second pair
 appears; repeat this process to
 defeat them as well.
 
-   Barlowe: So ends your basic t
+   Barlowe: So ends your basic
+   training. Now advance!
 
 Head right into the next room.
 
-   Barlowe: Shanoa, I expected n
-   Shanoa: Thank you, Sir.
-   Barlowe: And now, your missio
-   Barlowe: Recover the supreme 
-   name.
-   Shanoa: Albus...
-   Barlowe: Does that name stir 
-   Shanoa: No, Sir.
-   Barlowe: Your feelings, then?
-   Shanoa: I know nothing of him
-   Barlowe: Know this: it's he w
-   and cost mankind its only wis
-   back.
-   Shanoa: The ritual... That ma
+   Barlowe: Shanoa, I expected
+   nothing less. Shanoa: Thank
+   you, Sir. Barlowe: And now,
+   your mission must begin at
+   once. Barlowe: Recover the
+   supreme Glyph, Dominus. My
+   pupil has it-- Albus is his
+   name. Shanoa: Albus...
+   Barlowe: Does that name stir
+   your memory by chance?
+   Shanoa: No, Sir. Barlowe:
+   Your feelings, then? You knew
+   of him, before. Shanoa: I
+   know nothing of him now, Sir.
+   Barlowe: Know this: it's he
+   who robbed your memories
+   blind. He cost you that, and
+   cost mankind its only wish.
+   Its only hope, and you must
+   take it back. Shanoa: The
+   ritual... That man I saw...
    Barlowe: That man was Albus.
-   Shanoa: ...This is all his do
-   Barlowe: He coveted your powe
-   to bear.
-   Barlowe: Had I explained, per
-   Shanoa: ......
-   Barlowe: ...But no time now f
-   Barlowe: With Dominus, we two
-   Dracula himself! Retrieve it,
-   Barlowe: There's nothing else
-   Shanoa: It shall be done, Sir
-   Barlowe: You truly are a bles
-   [Dominus] cannot be used by o
-   requires you. No flesh but yo
-   Barlowe: You see now why I ch
-   Shanoa: I do, Sir.
-   Barlowe: But Albus has a keen
-   Barlowe: With time, he may ye
-   Barlowe: So find him first, b
-   Shanoa: I shall, Sir.
+   Shanoa: ...This is all his
+   doing. But why? Barlowe: He
+   coveted your power, and your
+   fate. But Dominus was yours
+   alone to bear. Barlowe: Had I
+   explained, perhaps you'd
+   still be whole. Shanoa:
+   ...... Barlowe: ...But no
+   time now for wishes or
+   regrets. Barlowe: With
+   Dominus, we two can save the
+   world-- from nothing less
+   than Dracula himself!
+   Retrieve it, and we burn him
+   back to dust. Barlowe:
+   There's nothing else that's
+   ever mattered more. Shanoa:
+   It shall be done, Sir.
+   Barlowe: You truly are a
+   blessing on us all. And we
+   have one advantage: [Dominus]
+   cannot be used by ordinary
+   men. Not even Albus; it
+   requires you. No flesh but
+   yours can ever host a Glyph.
+   Barlowe: You see now why I
+   chose you for this task.
+   Shanoa: I do, Sir. Barlowe:
+   But Albus has a keen and
+   cunning mind. Barlowe: With
+   time, he may yet find another
+   way. Barlowe: So find him
+   first, before his trail grows
+   cold! Shanoa: I shall, Sir.
 
-   Shanoa runs past Barlowe to t
+   Shanoa runs past Barlowe to
+   the exit.
 
-   Barlowe: Shanoa, bring him ba
+   Barlowe: Shanoa, bring him
+   back unharmed, unless...
+   Unless he proves too
      stubborn. Understood?
-   Shanoa: Yes.
-   Barlowe: Our hopes go with yo
+   Shanoa: Yes. Barlowe: Our
+   hopes go with you... All the
+   world's, and mine.
 
 Exit through the door to the
 right, and continue straight
@@ -563,10 +706,12 @@ Monastery [Monas1]
 Enemies: 001 Bat, 002 Zombie,
 003 Skeleton, 004 Ghost, 005
 Banshee,
-  006 Bone Scimitar, 109 Anthrov
+  006 Bone Scimitar, 109
+  Anthroverta
 Items: 5 random chests, Sandals,
 HP Max Up, Book of Spirits,
  Heart Max Up, Red Drops, MP Max
+ Up, Anthro Medal
 Wood Chests: Anti-venom, Cotton
 Thread, Magical Ticket, Meat
 Green Chests: Darjeering Tea,
@@ -894,7 +1039,9 @@ refills your HP and MP.
 Attacks: Roll- The boss rolls
 itself into a ball and slams
 back and forth between the
- walls several times. Float abov
+ walls several times. Float
+ above it using Magnes to dodge
+ the attack.
 Claw- The boss unfurls a claw
 from its side and slashes
 forward. Press L to backdash
@@ -903,39 +1050,62 @@ boss spits a green web out of
 its mouth. It's easier to slash
 with
  Secare (using its upward arc to
+ hit it) and destroy it than it
+ is to dodge.
 --------------------------------
 
 Head into the next room to find
 Albus standing there.
 
-   Albus: Shanoa! Still slaving 
-   Shanoa: You... I've seen you 
-   Albus: well, yes...
-   Shanoa: By order of my master
+   Albus: Shanoa! Still slaving
+   away for the old man, are we?
+   Shanoa: You... I've seen you
+   before. Your name is Albus,
+   is it not? Albus: well,
+   yes... Shanoa: By order of my
+   master, I'm to retrieve the
+   [Dominus] Glyph and
   return you home.
-   Albus: Home, you say? I have 
-   Shanoa: It was not a request.
+   Albus: Home, you say? I have
+   none. The old man saw to
+   that. Shanoa: It was not a
+   request.
 
-   Shanoa attacks Albus, who tel
-   of the screen.
+   Shanoa attacks Albus, who
+   teleports out of the way to
+   land on the left side of the
+   screen.
 
    Albus: Intriguing... I recall
-   Albus: And you've forgotten y
-   Shanoa: I have forgotten, tha
-   Albus: Is that so? Well, I'm 
+   you being a great deal more
+   graceful than that. Albus:
+   And you've forgotten your
+   skill with Glyphs as well.
+   Shanoa: I have forgotten,
+   thanks to you. Albus: Is that
+   so? Well, I'm never going
+   back. Remember to tell the
+   old man
   for me.
    Shanoa: You must. By order of
-   Albus: Never say that name ag
-   Shanoa: Concentrate, Shanoa..
+   Master Barlowe-- Albus: Never
+   say that name again! Shanoa:
+   Concentrate, Shanoa...
 
    Albus fires a max shot, which
+   Shanoa ducks under.
 
-   Albus: Well, I'd best be off.
+   Albus: Well, I'd best be
+   off... Take care, Shanoa.
 
-   Albus leaves through the left
-   sparkling on the ground. It i
+   Albus leaves through the
+   left. Shanoa turns around and
+   picks up something sparkling
+   on the ground. It is a map
+   with an X on it.
 
-   Shanoa: Hmm... He marked a vi
+   Shanoa: Hmm... He marked a
+   village on this map.
 
 Go left back to the warp point
 and use it to jump to the one
@@ -959,7 +1129,8 @@ show a man trapped in yellow
 crystal with a Glyph floating
 above it.
 
-   Shanoa: A Glyph... This is Al
+   Shanoa: A Glyph... This is
+   Albus's doing.
 
 Press up to absorb the Glyph,
 Torpor. Torpor tosses a yellow
@@ -970,25 +1141,35 @@ damage, especially considering
 the MP cost, and is almost
 completely useless.
 
-   Nikolai: At last!
-   Shanoa: Who did this to you?
-   Nikolai: You must help the ot
-   Shanoa: By whom?
-   Nikolai: That man! He spirite
+   Nikolai: At last! Shanoa: Who
+   did this to you? Nikolai: You
+   must help the others!
+   Everyone in the village has
+   been taken! Shanoa: By whom?
+   Nikolai: That man! He
+   spirited away the other 12,
+   and then imprisoned me.
    Nikolai: ...But the Lord must
-   others!
+   have sent you to our aid.
+   Please deliver the others!
    Shanoa: Can you tell me where
-   Nikolai: If... If I'm not mis
-   Island].
-   Shanoa: I see...
-   Nikolai: Long ago, criminals 
-   Nikolai: Some say their souls
-   cursed.
-   Shanoa: Where is it?
-   Nikolai: You can get there th
-   them!
-   Shanoa: Did Albus really take
-   Shanoa: ...and for what purpo
+   the man went? Nikolai: If...
+   If I'm not mistaken, he said
+   something about the [Prison
+   Island]. Shanoa: I see...
+   Nikolai: Long ago, criminals
+   were banished to that
+   forsaken place... Nikolai:
+   Some say their souls still
+   wander the island, which is
+   forever cursed. Shanoa: Where
+   is it? Nikolai: You can get
+   there through these very
+   woods. Please you must save
+   them! Shanoa: Did Albus
+   really take the villagers to
+   [Prison Island]? Shanoa:
+   ...and for what purpose?
 
 The village is all but abandoned
 until Shanoa rescues more
@@ -1011,7 +1192,8 @@ Ruvas Forest [Ruvas1]
 Enemies: 001 Bat, 002 Zombie,
 003 Skeleton, 006 Bone Scimitar,
 008 Nominon,
-  009 Axe Knight, 010 Une, 012 N
+  009 Axe Knight, 010 Une, 012
+  Necromancer
 Items: 2 random chests Wood
 Chests: Anti-venom, Cotton
 Thread, Magical Ticket, Meat
@@ -1158,11 +1340,16 @@ Shanoa to warp directly back to
 Wygol Village from almost any
 point in the game.
 
-   Jacob: Whew! Hey, you saved m
-   Jacob: Im Jacob. Got a genera
-   Jacob: And on that note, I sh
-   Jacob: But listen, I might ha
-   Jacob: Come by the shop, and 
+   Jacob: Whew! Hey, you saved
+   me. Thanks! Jacob: Im Jacob.
+   Got a general store in Wygol
+   Village. Jacob: And on that
+   note, I should probably be
+   getting back to it. Jacob:
+   But listen, I might have some
+   things you can use. Jacob:
+   Come by the shop, and we'll
+   do business!
 
 There is a save room to the
 right of the room you found
@@ -1191,12 +1378,16 @@ Minera Prison Island [Miner1]
 Enemies: 009 Axe Knight, 013
 Bone Archer, 014 Spear Guard,
 015 Invisible Man,
-  018 Demon, 023 The Creature, 0
+  018 Demon, 023 The Creature,
+  028 Winged Guard, 071 Evil
+  Force,
 080 Tin Man, 108 Giant Skeleton
 Items: 7 random chests, Skeleton
 Medal, 500 gold bag (2),
 Cabriolet, MP Max Up,
- Priestess Ring, Anti-toxin, HP 
+ Priestess Ring, Anti-toxin, HP
+ Max Up, Konami Man, Heart Max
+ Up,
   Strength Ring, Glyph Sleeve
 Wood Chests: Chamomile, Cotton
 Thread, Magical Ticket, Sage
@@ -1301,9 +1492,11 @@ backdash out of its range.
 Reverse Flurry- A barrage of
 raking attacks from the boss's
 arms as it bends
-    backwards and chases Shanoa 
-    the magnetic orbs with Magne
-    avoid it.
+    backwards and chases Shanoa
+    across the screen. Jump up
+    and grab the magnetic orbs
+    with Magnes to fling Shanoa
+    over the boss to avoid it.
 --------------------------------
 
 Continue to the right into the
@@ -1421,33 +1614,53 @@ Go through the right exit to
 come into a lab setting, where
 Shanoa encounters Albus again.
 
-   Shanoa: Albus!
-   Albus: Impressive, Shanoa.
-   Albus: It's fortunate I alrea
+   Shanoa: Albus! Albus:
+   Impressive, Shanoa. Albus:
+   It's fortunate I already
+   prepared you a reward...
 
-   Albus raises his hand a a Gly
+   Albus raises his hand a a
+   Glyph appears in the air
+   above it.
 
-   Albus: It's the best I can do
+   Albus: It's the best I can
+   do, for the time being.
    Albus: This [Dominus] is what
+   you came for, is it not? Go
+   ahead and take it.
 
 Absorb the Glyph, Dominus
 Hatred.
 
-   Shanoa: It really is [Dominus
-   Albus: Figured... With that m
+   Shanoa: It really is
+   [Dominus]. What are you
+   thinking? Albus: Figured...
+   With that much power, it's
+   impossible to conceal its
   source.
-   Shanoa: The source of [Dominu
-   Albus: What it means, dear, i
-   Shanoa: This is your last cha
-   Albus: We've been over this..
+   Shanoa: The source of
+   [Dominus]? What does that
+   mean? Albus: What it means,
+   dear, is that I was right.
+   Shanoa: This is your last
+   chance; come back to
+   Ecclesia. Albus: We've been
+   over this.. My place is no
+   longer as the old man's
+   errand
   boy.
-   Albus: I have a role to fulfi
+   Albus: I have a role to
+   fulfill, and fulfill it I
+   shall.
 
    Albus teleports away.
 
-   Shanoa: How was he able to cr
+   Shanoa: How was he able to
+   create a Glyph without
+   casting it? I thought
   only I could--
    Shanoa: Master Barlowe should
+   hear of this.
 
 Don't bother trying to use
 Dominus Hatred. Every time
@@ -1483,12 +1696,19 @@ Another villager is trapped in
 Torpor. Absorb the Glyph to free
 Abram, the healer.
 
-   Abram: Ha-ha! Rescued at last
+   Abram: Ha-ha! Rescued at
+   last-- but only to be
+   butchered by this she-devil!
    Shanoa: I have no interest in
-   Abram: You promise? Well, um,
-   Abram: I guess. That's what y
-   Abram: I'm Abram. I'm the tow
-   Abram: Please come visit my e
+   butchering you, Sir. Abram:
+   You promise? Well, um, thank
+   you! Abram: I guess. That's
+   what you say when people save
+   your life, right? Abram: I'm
+   Abram. I'm the town's
+   official healer. Abram:
+   Please come visit my
+   establishment... IF YOU DARE!
 
 Go back to the hallway and head
 up the platforms. Defeat the
@@ -1880,27 +2100,42 @@ the door.
 Attacks: Claw Swipe- The boss
 prefaces this attack by moving
 its large claw into the
-   middle of the room, then brin
-   the left wall. Avoid it by kn
+   middle of the room, then
+   bringing it back down and
+   slamming it into the left
+   wall. Avoid it by kneeling
+   down on the lower left
+   platform.
 Bubble Spray- The boss always
 does this move after its claw
 swipe, and will
-   continue to alternate back an
-   to make it turn red. Avoid it
-   of the screen, then moving to
+   continue to alternate back
+   and forth until you've hit it
+   enough to make it turn red.
+   Avoid it by positioning
+   Shanoa at one side of the
+   screen, then moving to the
+   other as the bubbles come
+   out.
 Claw Smack- The boss grabs its
 large pincer with its small one,
 pulls it to the
-   left, and lets go, sending th
-   wall.
+   left, and lets go, sending
+   the large pincer smacking
+   into the right wall.
 Claw Lunge- You'll only see this
 attack when the boss turns red.
 Kneel on the
    lower left side of the screen
-   the center of the top platfor
-   other two times the boss does
-   staying to the left side of t
-   platforms.
+   to dodge the first two, then
+   move to the center of the top
+   platform and backdash to
+   dodge the third. The other
+   two times the boss does this,
+   you can avoid it simply by
+   staying to the left side of
+   the screen on the bottom and
+   the top platforms.
 --------------------------------
 
 Ride the elevator back to the
@@ -1928,23 +2163,35 @@ the villager Eugen encased in
 Torpor. Absorb the Glyph to set
 him free.
 
-   Eugen: ...Thank you.
-   Shanoa: Did the man who bound
-   Eugen: I don't remember heari
-  purpose, I can tell you that. 
+   Eugen: ...Thank you. Shanoa:
+   Did the man who bound you say
+   anything? Eugen: I don't
+   remember hearing his voice,
+   but I saw his eyes. He's got
+   a
+  purpose, I can tell you that.
+  Good or bad purpose? That I
+  couldn't
 
   say.
-   Shanoa: I see.
-   Eugen: I'm going back to the 
+   Shanoa: I see. Eugen: I'm
+   going back to the village.
+   I'm worried about Father
+   Nikolai. And
   you...
-   Shanoa: What about me?
-   Eugen: How the hell'd you get
-   Eugen: Come see me in the vil
-   Shanoa: I'd appreciate it.
+   Shanoa: What about me? Eugen:
+   How the hell'd you get all
+   this way in that flimsy gear?
+   Eugen: Come see me in the
+   village. I'll suit you up
+   proper. Shanoa: I'd
+   appreciate it.
 
 Go left into the next room.
 
-   Shanoa: He must have passed t
+   Shanoa: He must have passed
+   this way... It's the only
+   path.
 
 Open the golden chest, which
 contains the Serpent Scale. This
@@ -1961,11 +2208,14 @@ Fishhead, 020 Dark Octopus, 021
 Killer Fish,
 
   022 Forneus, 025 Skull Spider,
+  027 Sea Demon, 033 Specter
 Items: 6 random chests, Potion,
 Heart Max Up, Anti-toxin,
 Sapphire, MP Max Up,
- Super Potion, Heart Max Up, HP 
- Heart Max Up, 1000 gold bag (3)
+ Super Potion, Heart Max Up, HP
+ Max Up, MP Max Up, Chamomile,
+ Heart Max Up, 1000 gold bag
+ (3), Mouse, MP Max Up, Emerald,
  Magician Ring, Iron Ore
 Wood Chests: Cotton Thread
 (50%), Iron Ore, Lapis Lazuli
@@ -2291,10 +2541,16 @@ find a villager trapped in
 Torpor. Absorb the Glyph and
 free a girl named Monica.
 
-   Monica: Oh! Wh-What did I do 
+   Monica: Oh! Wh-What did I do
+   to deserve to be saved by
+   such a beautiful
   angel?
-   Monica: I'm... I'm Monica. I'
-   Monica: Um... Please, let me 
+   Monica: I'm... I'm Monica.
+   I'm... a seamstress in the
+   village. Monica: Um...
+   Please, let me repay you! If
+   you're in the village, come
+   see
   me!
 
 Head back up through the sunken
@@ -2400,13 +2656,17 @@ villager trapped in Torpor.
 Absorb the Glyph to free Laura.
 
 Laura: uh... Mmm. Where am I...?
-   Shanoa: You're awake.
-   Laura: Last thing I remember 
-   Shanoa: No, that was...
-   Laura: Eh, I don't want to kn
-   Laura: Time to go home, I've 
-   Shanoa: What sort of work?
-   Laura: I craft jewelry. Name'
+   Shanoa: You're awake. Laura:
+   Last thing I remember was a
+   man walking in... Was that a
+   dream? Shanoa: No, that
+   was... Laura: Eh, I don't
+   want to know. Whatever's past
+   is past, right? Laura: Time
+   to go home, I've got work to
+   do. Shanoa: What sort of
+   work? Laura: I craft jewelry.
+   Name's Laura.
 
 Go back to the vertical passage
 and up another level to find the
@@ -2459,7 +2719,8 @@ Misty Forest Road [Misty1]
 Enemies: 032 Bitterfly, 033
 Specter, 034 Gravedigger, 035
 Werebat,
-  036 Black Fomor, 037 Enkidu, 0
+  036 Black Fomor, 037 Enkidu,
+  043 White Dragon
 Items: 2 random chests, Sage
 Wood Chests: Lapis Lazuli, Sage,
 Silk Thread, Uncurse Potion
@@ -2599,7 +2860,9 @@ Skeleton Cave [Skele1]
 Enemies: 038 Bone Pillar, 039
 Skeleton Frisky, 040 Skeleton
 Hero, 041 Dullahan,
-  042 Skeleton Rex, 043 White Dr
+  042 Skeleton Rex, 043 White
+  Dragon, 054 Skeleton Beast,
+  111 Maneater
 Items: 3 random chests, Black
 Drops, HP Max Up, Heart Max Up,
 Meaneater Medal Wood Chests:
@@ -2773,23 +3036,30 @@ entrance of the room.
 Attacks: Tentacles- These don't
 really so much attack as wave
 around and wait for you to
-  run into them. Strike the tent
-  the skull.
+  run into them. Strike the
+  tentacles to make them recede
+  further into the skull.
 Wave of Rings- A black pulse
 runs down the length of the
 tentacle before this
    attack occurs. Once the pulse
-   shoots forth. Avoid this atta
+   reaches the tip, a set of
+   rings shoots forth. Avoid
+   this attack simply by
+   jumping, backdashing,
   or not being where it fires.
 Skull Smash- The boss likes to
 smash itself into the ground,
 damaging Shanoa
-   only if she's actually undern
+   only if she's actually
+   underneath it or if the
+   flailing tentacles
   catch her on their way down.
 Bone Throw- The boss throws out
 either a pelvic bone or a skull,
 which bounces
    around the screen until it is
+   destroyed.
 --------------------------------
 
 In the next room, you'll find
@@ -2800,9 +3070,14 @@ however, you'll have to have a
 chat with your former comrade.
 
 Shanoa: Let that man go, Albus.
-   Albus: As you wish, my dear. 
-   Shanoa: Why involve the villa
-   Albus: Doesn't it? Worry not,
+   Albus: As you wish, my dear.
+   I was just finishing up, so
+   he's all yours. Shanoa: Why
+   involve the villagers? This
+   doesn't concern them. Albus:
+   Doesn't it? Worry not, dear
+   Shanoa, everything will make
+   sense when
   my plan is complete.
 
 Albus teleports out of the room.
@@ -2816,12 +3091,18 @@ several items that were out of
 reach before. Absorb the Torpor
 to free George, a musician.
 
-   George: So kind of you to sav
-   Shanoa: Did he do anything st
-   George: He drew some of my bl
-   George: As for the others, I 
+   George: So kind of you to
+   save me. Shanoa: Did he do
+   anything strange? Where are
+   the others? George: He drew
+   some of my blood and chanted
+   a few words... George: As for
+   the others, I heard him say
+   he was going to the village.
+   I'm
   worried.
    Shanoa: The village again...?
+   What is Albus trying to do?
 
 If you leave this room and come
 back, you'll be greeted by the
@@ -2864,15 +3145,23 @@ As soon as you enter the
 village, Nikolai walks up to
 you.
 
-   Nikolai: You must help us! ..
-   Shanoa: You need to tell me w
-   Nikolai: Just thinking of it 
-   of our blood.
-   Nikolai: ...Could he be the m
-   Shanoa: I don't understand. W
-   Nikolai: There is an old mans
-   residence there.
-   Nikolai: O Lord, what horrors
+   Nikolai: You must help us!
+   ...That man has returned.
+   Shanoa: You need to tell me
+   what he's done. Nikolai: Just
+   thinking of it chills my
+   soul-- he used a device to
+   take some of our blood.
+   Nikolai: ...Could he be the
+   monster whispered of in
+   legend? ...[Dracula]? Shanoa:
+   I don't understand. Why would
+   he need blood? Nikolai: There
+   is an old mansion beyond the
+   cove. He may have taken
+   residence there. Nikolai: O
+   Lord, what horrors might this
+   demon be planning for us...?
 
 This opens up the Somnus Reef as
 an explorable area, but before
@@ -2901,10 +3190,14 @@ Torpor and a red chest with the
 Tower Ring. Absorb the Glyph to
 free him.
 
-   Aeon: S-Saved!
-   Aeon: Guess the eternal bliss
-   Aeon: I'm Aeon, the chef. I'v
-   Aeon: One time it was for thr
+   Aeon: S-Saved! Aeon: Guess
+   the eternal bliss of paradise
+   will have to wait, hmm? Aeon:
+   I'm Aeon, the chef. I've
+   worked in all kinds of
+   restaurants. Aeon: One time
+   it was for three whole weeks!
+   Come see me in the village,
    and I'll make you a snack!
 
 Go back the way you came through
@@ -2962,7 +3255,9 @@ Backtracking: Tymeo Mountains
 --------------------------------
 Enemies: 001 Bat, 026 Scarecrow,
 031 Fire Demon, 038 Bone Pillar,
-  040 Skeleton Hero, 041 Dullaha
+  040 Skeleton Hero, 041
+  Dullahan , 059 Yeti, 087 Cave
+  Troll
 Items: 4 random chests, Crimson
 Mask, HP Max Up Glyphs: Pneuma,
 Ignis Villagers: Marcel
@@ -3156,20 +3451,31 @@ to the right side to find a
 villager encased in Torpor. This
 is Marcel, a journalist.
 
-   Marcel: Ha! I came out here o
-   Shanoa: Hmm?
-   Marcel: Witches and wizards, 
-   Marcel: Marcel, my good man, 
-   Shanoa: ......Hmm?
-   Marcel: Ah, right, where are 
-   Marcel: Thought there might b
+   Marcel: Ha! I came out here
+   on a hunch, and I was right!
+   Shanoa: Hmm? Marcel: Witches
+   and wizards, strange magic,
+   hordes of monsters... Marcel:
+   Marcel, my good man, welcome
+   to the Front Page! Shanoa:
+   ......Hmm? Marcel: Ah, right,
+   where are my manners? Marcel.
+   I'm a journalist. Marcel:
+   Thought there might be a
+   scoop around here, and boy,
+   this place is
   full of them!
-   Shanoa: ......
-   Marcel: You, for example! A b
+   Shanoa: ...... Marcel: You,
+   for example! A beautiful
+   witch-- and please don't take
+   offense:
 you are gorgeous, I have to say.
-   Marcel: "Beautiful Witch Entr
+   Marcel: "Beautiful Witch
+   Entrances Remote Village!"
+   There we go. A perfect
   headline.
-   Marcel: Well, I'd better get 
+   Marcel: Well, I'd better get
+   cracking. I'll be in touch.
 
 Exit the area and go back to the
 village to talk to Marcel. He
@@ -3239,10 +3545,12 @@ Enemies: 017 Needles, 019
 Fishhead, 027 Sea Demon, 044
 Saint Elmo, 045 Lorelai,
   046 Edimmu, 047 Decarabia, 048
+  Merman, 112 Rusalka
 Items: 9 random chests, 2000
 gold bag, MP Max Up, Reinforced
 Suit, Heart Max Up,
- Rasalka Medal, HP Max Up, Vic V
+ Rasalka Medal, HP Max Up, Vic
+ Viper
 Wood Chests: Chamomile, Silk
 Thread, Silver Ore (50%) Green
 Chests: Chrysoberyl, Sapphire,
@@ -3324,12 +3632,16 @@ Torpor and a cat jumping at the
 Glyph.
 
 Anna: Thank you very much, Miss.
-   Shanoa: You're welcome.
-   Anna: Well, Tom? I was very p
-   Tom: Meow.
-   Shanoa: You can talk to the c
-   Anna: That's right! Only I ca
-   Anna: Okay, I'm worried about
+   Shanoa: You're welcome. Anna:
+   Well, Tom? I was very polite,
+   wasn't I? Tom: Meow. Shanoa:
+   You can talk to the cat?
+   Anna: That's right! Only I
+   can do it, too. My brother
+   can't even do it. Anna: Okay,
+   I'm worried about my family,
+   so I'm going now. See you
+   later,
   Miss.
 
 Anna (and her brother) are
@@ -3438,36 +3750,56 @@ Attacks: Splash- The boss raises
 a hand up behind it, then slaps
 it down in a scooping
   motion to send a wave of water
-  rise  up until its directly in
-  a screen length.. It can be av
-  the right time or by backdashi
+  splashing towards you. The
+  wave won't rise up until its
+  directly in front of you or it
+  travels about 3/4ths a screen
+  length.. It can be avoided by
+  double jumping straight up at
+  the right time or by
+  backdashing out of range.
 Water Cannon- The boss raises
 one hand into the air, and the
 other dips into
-   the water on the floor. Both 
-   a high-powered jet of water a
-   this by staying on ground lev
+   the water on the floor. Both
+   arms turn into tubes, and it
+   sprays a high-powered jet of
+   water across the top of the
+   screen. Avoid this by staying
+   on ground level (and taking
+   some free shots at
  the boss while you're there).
 Hair Stab- Probably the hardest
 attack to see coming, the boss
 moves in close
-  and causes its hair to form in
-  you. The best way to avoid thi
-  attack.
+  and causes its hair to form
+  into a spike, which then stabs
+  down at you. The best way to
+  avoid this is to stay out of
+  the range of this attack.
 Pillar Drop- The boss raises
 both hands into the air and
 drops down several
-   pillars of stone with a platf
-   to destroy these, as they pro
-   and a convenient platform for
-   only damage you if Shanoa hap
-   as they fall.
+   pillars of stone with a
+   platform on them from the
+   ceiling. Try not to destroy
+   these, as they provide cover
+   from its tsunami attack and a
+   convenient platform for
+   throwing axes from. Note that
+   they only damage you if
+   Shanoa happens to be directly
+   underneath them as they fall.
 Tsunami- This attack can only be
 avoided if there is a pillar for
 Shanoa to
-  stand under. The boss raises o
-  to break off whatever your doi
-  prepared to lose about half yo
+  stand under. The boss raises
+  one hand into the air; this is
+  your cue to break off whatever
+  your doing and run for cover,
+  or else be prepared to lose
+  about half your HP in one
+  shot.
 --------------------------------
 
 Go right through the next two
@@ -3509,9 +3841,12 @@ overhead is breakable to reveal
 a strange item known as Vic
 Viper.
 
-   Serge: Oh, phew! Thanks, lady
-   Shanoa: Should I walk you hom
-   Serge: Nah, I'm not a little 
+   Serge: Oh, phew! Thanks,
+   lady! My name's Serge.
+   Shanoa: Should I walk you
+   home? Serge: Nah, I'm not a
+   little kid anymore. I can get
+   home by myself.
 
 Back in the other room, you'll
 find Saint Elmos all over the
@@ -3534,6 +3869,8 @@ Skeleton, 039 Skeleton Frisky,
 049 Ladycat,
 
   050 Ectoplasm, 051 Curse Diva,
+  052 Miss Murder, 053 Automaton
+  ZX26,
 
 054 Skeleton Beast, 113 Goliath
 Items: Temperance Ring, Caprine,
@@ -3574,16 +3911,25 @@ left to find a save room, and
 right to find the villager,
 Daniela.
 
-   Daniela: Oh, are we done alre
-   it?
+   Daniela: Oh, are we done
+   already? Well, that's rather
+   disappointing, isn't it?
    Shanoa: Disappointing?
-   Daniela: You're not that rasc
-   Daniela: You're like a doll--
-   is that man coming? I promise
-   be waiting.
-   Daniela: Oh yes, I'm Daniela.
-   me.
-   Daniela: Well, home I go. Don
+   Daniela: You're not that
+   rascal from before. Your
+   voice is different. Daniela:
+   You're like a doll-- pretty,
+   but there's something
+   missing... Say, is that man
+   coming? I promised him a
+   cake... Oh well. Tell him
+   I'll be waiting. Daniela: Oh
+   yes, I'm Daniela. Nice name,
+   isn't it? Aunt Michelle gave
+   it to me. Daniela: Well, home
+   I go. Don't worry. Old
+   Dracula himself wouldn't
+   bother
     with blood this stale...
 
 Go back into the previous room
@@ -3686,28 +4032,41 @@ around.
 Attacks: Jumping Floor Slam- The
 boss crouches down, then leaps
 forward and smashes both
-     its fists into the floor. T
-     to rip across the room, and
-     of range. The best way to d
-     slide, if you're more comfo
-     as it jumps.
+     its fists into the floor.
+     This causes an explosion of
+     light to rip across the
+     room, and you can only
+     dodge if you're out of
+     range. The best way to do
+     this is to simply run (or
+     slide, if you're more
+     comfortable that way)
+     underneath it as it jumps.
 Wind-up Punch- The boss winds up
 his arm, then slams it into the
 floor, causing
-   spikes to shoot out from the 
-   staying on the other side of 
+   spikes to shoot out from the
+   point of impact. Dodge this
+   by staying on the other side
+   of the screen.
 Stomp Walk- The boss starts at
 one side of the room and begins
 a paced stomp
-   across it. The only way to av
-   and kneel down right in front
-   right over you.
+   across it. The only way to
+   avoid getting hit is to run
+   up to him and kneel down
+   right in front of its foot,
+   thus letting him step right
+   over you.
 Crouch Punch- The boss goes into
 a crouch and waits for you to
 get close. If
-   you do, it lashes out with a 
-   waiting, if Shanoa isn't in r
-   floor slam attack instead.
+   you do, it lashes out with a
+   punch. After a few seconds of
+   waiting, if Shanoa isn't in
+   range, it launching into a
+   jumping floor slam attack
+   instead.
 --------------------------------
 
 Exit the right side of the boss
@@ -3715,40 +4074,68 @@ room to find Albus waiting for
 you.
 
    Albus: You seem to be feeling
-   Shanoa: A blind man could hav
+   better. Impressive work;
+   finding me and all. Shanoa: A
+   blind man could have found
+   you. You left a trail...
    Albus: Just like when we were
-  crying I'd feel terrible and l
+   children playing tag. Once
+   you starting
+  crying I'd feel terrible and
+  let you win.
 Shanoa: What are you getting at?
-   Albus: Why not try it now, an
-   Shanoa: ...Try crying? You kn
+   Albus: Why not try it now,
+   and perhaps I'll let you
+   catch me. Shanoa: ...Try
+   crying? You know I can't. I
+   don't remember any of that.
    Albus: Apologies, Shanoa, but
-   Albus: Still, it'd be a shame
+   no tears, no deal... Albus:
+   Still, it'd be a shame to
+   leave you empty-handed.
 
-   Albus holds out his hand and 
+   Albus holds out his hand and
+   forms a Glyph.
 
    Shanoa: Again... What are you
-   Albus: Oh, just accept it. It
-   Albus: Besides, it's what you
+   doing? Albus: Oh, just accept
+   it. It's a gift. Albus:
+   Besides, it's what you came
+   here for.
 
 Absorb the Glyph, which is
 Dominus Anger.
 
-   Albus: Shanoa... Do you know 
-   Shanoa: The ultimate Glyph, o
-   Albus: Half-right. But think 
-   Albus: Nothing comes from not
-   Albus: What do you suppose Ba
-   Shanoa: Hmph... What?
-   Albus: They used [Dracula], S
-   Albus: [Dominus] is made from
-   Shanoa: [Dominus] is...? It c
-   Albus: Ask the old man if you
+   Albus: Shanoa... Do you know
+   what the [Dominus] is?
+   Shanoa: The ultimate Glyph,
+   of course. The one that can
+   destroy [Dracula]. Albus:
+   Half-right. But think about
+   it: where does a Glyph's
+   power come from? Albus:
+   Nothing comes from nothing,
+   after all. Albus: What do you
+   suppose Barlowe used to
+   create his precious
+   [Dominus]? Shanoa: Hmph...
+   What? Albus: They used
+   [Dracula], Shanoa. Albus:
+   [Dominus] is made from his
+   remains. That's HIS power.
+   Nothing less. Shanoa:
+   [Dominus] is...? It can't be
+   true. Albus: Ask the old man
+   if you think I'm lying.
    Albus: And be quick about it;
+   I'm very nearly done with all
+   this.
 
 Albus teleports out of the room.
 
    Shanoa: Master Barlowe...
-   Shanoa: Is Albus telling the 
+   Shanoa: Is Albus telling the
+   truth? I have to find out.
 
 Continue right to exit the area.
 
@@ -3758,12 +4145,15 @@ Tristis Pass [Trist1]
 Enemies: 001 Bat, 043 White
 Dragon, 050 Ectoplasm, 055
 Balloon, 056 Arachne,
-  057 Lizardman, 058 Armored Bea
-  063 Altair, 078 Mimic, 108 Gia
+  057 Lizardman, 058 Armored
+  Beast, 060 Thunder Demon, 061
+  Owl, 063 Altair, 078 Mimic,
+  108 Giant Skeleton
 Items: 9 random chests, Heart
 Max Up, Amanita, Lover's Ring,
 HP Max Up, Onyx,
- Chariot Ring, MP Max Up, Body S
+ Chariot Ring, MP Max Up, Body
+ Suit
 Wood Chests: Rue, Silver Ore,
 Tonic, Zircon Green Chests:
 Diamond, Emerald, Ruby,
@@ -3857,10 +4247,16 @@ so that you can view the
 alternate ending, then come back
 later to save her.
 
-   Irina: You saved me! Oh, than
-  rescued me, but please excuse 
-   Irina: I'm worried about my c
-   Irina: And... well, I have to
+   Irina: You saved me! Oh,
+   thank you! Thank you!
+   ...Listen, I know you just
+  rescued me, but please excuse
+  me.
+   Irina: I'm worried about my
+   children. I'm Irina, by the
+   way. Irina: And... well, I
+   have to go. You be careful
+   out here. ...Bye!
 
 Go back to the waterfall and
 drop down to the last ledge to
@@ -3988,7 +4384,8 @@ Oblivion Ridge [Obliv1]
 Enemies: 054 Skeleton Beast, 057
 Lizardman, 058 Armored Beast,
 062 Werewolf,
-  063 Altair, 068 Stone Rose, 07
+  063 Altair, 068 Stone Rose,
+  072 Flea Man, 114 Gravedorcus
 Items: Diamond, Chamomile,
 Gravedo Medal Wood Chests: None
 Green Chests: None Glyphs:
@@ -4130,35 +4527,50 @@ dives back in. Rolling Fin
 Slash- The boss rolls upwards,
 causing the ground to bulge up.
 Its
-    fin slashes forward as it di
-    away from the boss to avoid 
+    fin slashes forward as it
+    dives back into the ground.
+    Run away from the boss to
+    avoid this.
 Poison Cloud Breath- The boss
 breaches the ground and breathes
 out a cloud of
      poisonous gas. Stand out of
+     range to avoid this.
 Spike Ball Breath- The boss
 breaches the ground (in exactly
 the same animation
-    of the poison cloud breath) 
-    balls, which remain on the g
-    run into.
+    of the poison cloud breath)
+    and spews forth a hail of
+    spiked balls, which remain
+    on the ground until they're
+    destroyed or run into.
 Straight Run Charge- The boss
 starts at one end of the room
 and rushes all the
-     way across, leaping out of 
-     enough. It may bounce off t
-     Duck underneath it as it ju
+     way across, leaping out of
+     the sand when it gets close
+     enough. It may bounce off
+     the wall and lay there,
+     stunned. Duck underneath it
+     as it jumps to avoid this
+     attack.
 Stone Block Slam- The boss slams
 a stone block straight up into
 the ceiling,
-    damaging Shanoa. It only per
+    damaging Shanoa. It only
+    performs this attack if
+    she's
      standing on the block.
 Stone Block Tail Slap- The boss
 rises out of the ground and
 positions its tail
-     next to a stone block. It t
-     it flying in several pieces
-     other side of the block bef
+     next to a stone block. It
+     then slaps the block and
+     sends it flying in several
+     pieces. Run away or get to
+     the other side of the block
+     before the boss hits it to
+     avoid
           this attack.
 --------------------------------
 
@@ -4189,7 +4601,9 @@ werewolves, and an armored beast
 to reach the outside of a
 church.
 
-   Shanoa: I sense strong magic 
+   Shanoa: I sense strong magic
+   behind that door... it's
+   Dominus.
 
 Enter the church, where Shanoa
 walks towards a Glyph hanging in
@@ -4197,31 +4611,47 @@ the air, only to be hit by
 Torpor. Albus teleports into the
 room in front of Shanoa.
 
-   Albus: Try to relax, Shanoa; 
-  pieces, by the way... It's tim
+   Albus: Try to relax, Shanoa;
+   no more interfering. About
+   those [Dominis]
+  pieces, by the way... It's
+  time to explain why I gave
+  them to you.
 
    Albus absorbs the Glyph.
 
-   Albus: Gyaaaaah! It's working
-   Shanoa: But Barlowe said you 
-   Shanoa: You let me absorb the
-   Albus: Ha! You see, I-- Urgh.
+   Albus: Gyaaaaah! It's
+   working... I FEEL IT! Shanoa:
+   But Barlowe said you weren't
+   able to bear Glyphs... Did
+   you... Shanoa: You let me
+   absorb the other two just to
+   see how it's done! Albus: Ha!
+   You see, I-- Urgh... Hng!
+   Gaaaaaaaaahhh!
 
-   Albus leans forward and clutc
-   and slouches.
+   Albus leans forward and
+   clutches his head, then drops
+   his arms to the side and
+   slouches.
 
    Shanoa: ...What's happening?
-   Albus: ...And now... My wish 
-   Albus: Shanoa, I--
+   Albus: ...And now... My wish
+   will be... Albus: Shanoa, I--
 
-   Albus pulls himself back upri
+   Albus pulls himself back
+   upright.
 
    Albus: Rrgh... What!? Th-This
+   can't be!
 
-   Albus clutches his head and b
+   Albus clutches his head and
+   begins shaking.
 
-   Albus: No... I've come too fa
-   Albus: ...We'll settle this l
+   Albus: No... I've come too
+   far... I will NOT be
+   consumed! Albus: ...We'll
+   settle this later, Shanoa.
 
    Albus teleports away.
 
@@ -4230,6 +4660,7 @@ room in front of Shanoa.
    The Torpor effect disappears.
 
    Shanoa: This is bad... Master
+   Barlowe will know what to do.
 
 Go all the way to the left and
 break open the wall to obtain a
@@ -4249,21 +4680,36 @@ Return to Ecclesia to speak with
 Barlowe.
 
    Barlowe: You say he hosts the
-   such a short time... I fear h
+   final piece himself!? To
+   learn such devilry in such a
+   short time... I fear his
+   genius may outstrip my own.
    Barlowe: We foolishly assumed
-   [Dominus]... and so we left h
-   way you took in those first t
-   Barlowe: But wait, those piec
+   that only you could serve as
+   host for [Dominus]... and so
+   we left him such an opening.
+   He watched the way you took
+   in those first two...
+   Barlowe: But wait, those
+   pieces still remain with us.
    Shanoa: That is correct.
-   Barlowe: He wants them back, 
-   Shanoa: What choice do we hav
-   Barlowe: Indeed, you have the
-   devours the mind. Poor Albus,
-   will.
-   Barlowe: He can't come back t
-   Barlowe: Shanoa, free him fro
-   Shanoa: Yes, Sir.
-   Barlowe: His trail must lead 
+   Barlowe: He wants them back,
+   no doubt. If we pursue...
+   Shanoa: What choice do we
+   have? He has to stopped; you
+   said so yourself. Barlowe:
+   Indeed, you have the right of
+   it, I fear. The force of
+   [Dominus] devours the mind.
+   Poor Albus, even he could not
+   resist Dracula's will.
+   Barlowe: He can't come back
+   to us; not anymore. Barlowe:
+   Shanoa, free him from his
+   misery... Shanoa: Yes, Sir.
+   Barlowe: His trail must lead
+   beyond the graveyard. Go. For
+   all the world's
      sake, come back alive.
 
 Now leave the area to access the
@@ -4328,7 +4774,9 @@ Acerbatus, Dominus Agony
 Villagers: Cat
 
    Shanoa: Albus is here...
-   Shanoa: I must end this now w
+   Shanoa: I must end this now
+   with my own hands, no matter
+   the cost.
 
 After Shanoa finishes talking to
 herself, head left into the
@@ -4485,31 +4933,52 @@ saved all the villagers yet,
 defeating Albus gives you the
 first ending.
 
-   Shanoa: If this is how it mus
-   Albus: The Dominus is mine, a
-   Albus: Hand it over, Shanoa.
-   Shanoa: Is this why you betra
-   Shanoa: Did you trade your ho
+   Shanoa: If this is how it
+   must be, then let's end it
+   now. Albus: The Dominus is
+   mine, and I've waited long
+   enough. Albus: Hand it over,
+   Shanoa. Shanoa: Is this why
+   you betrayed our master?
+   Shanoa: Did you trade your
+   home, your life, just to be
+   consumed by this
   darkness?
-   Shanoa: What did you hope to 
+   Shanoa: What did you hope to
+   gain!? Answer me.
 
    Albus clutches his head, then
+   stands up straight.
 
-   Albus: Shanoa... What am I--!
-   Albus: No, Shanoa... RUN! You
+   Albus: Shanoa... What am
+   I--!? Gaaah! Albus: No,
+   Shanoa... RUN! You have to
+   get away from here! Now!
    Shanoa: ...Albus?
 
-   Albus clutches his head again
+   Albus clutches his head
+   again, then throws it back
+   and begins laughing.
 
-   Albus: Run...? Ha! What good 
-   Albus: All of humanity is mer
+   Albus: Run...? Ha! What good
+   would that do her? She cannot
+   escape me. Albus: All of
+   humanity is merely cattle,
+   led to slaughter at my
+   behest. I,
   Lord Dracula!
-   Albus: Give yourself as suste
+   Albus: Give yourself as
+   sustenance to me, weak,
+   foolish human! That will be
   your honor!!
-   Shanoa: ......
-   Shanoa: Even in this state, w
+   Shanoa: ...... Shanoa: Even
+   in this state, without any
+   memory of the man you once
+   were, I
   pity you.
-   Shanoa: It's my duty to free 
+   Shanoa: It's my duty to free
+   you from this suffering; to
+   ensure you don't
   meet such an end.
    Shanoa: Rest in peace, Albus.
 
@@ -4624,13 +5093,19 @@ Shot- Albus fires a shot of
 Acerbatus. This not only deals a
 lot of damage,
   but it curses you as well. You
-  the Glyph as Albus is casting 
+  can jump over this attack or
+  absorb the Glyph as Albus is
+  casting it.
 Optical Shot- Albus concentrates
 light and dark energy into his
 gun, then
-   shoots them out in a spiral. 
-   right spot of the spiral, but
-   the other side of him as he's
+   shoots them out in a spiral.
+   You can dodge this by being
+   in the right spot of the
+   spiral, but its much easier
+   to simply jump to the other
+   side of him as he's charging
+   the attack.
 Fire Kick- Albus leaps,
 spinning, into the air. He
 trails flames after him as
@@ -4640,10 +5115,15 @@ room and drops a line of Torpors
 behind him.
 --------------------------------
 
-   Shanoa: This will complete [D
+   Shanoa: This will complete
+   [Dominus], the power that
+   corrupted Albus... and
   consumed him.
    Shanoa: Can this cursed power
-   Shanoa: ...I'll return the fi
+   truly be used to vanquish
+   evil? Shanoa: ...I'll return
+   the final piece to Barlowe--
+   my mission is complete.
 
 Absorb Dominus Agony.
 
@@ -4655,36 +5135,54 @@ The screen fades to Ecclesia,
 where Shanoa stands before
 Barlowe.
 
-   Shanoa: It's done, Sir. I've 
-   Barlowe: And Albus? did he yi
-   Shanoa: It... was too late. I
-   Barlowe: Unfortunate... but i
-   Barlowe: He wanted just the s
-   too much.
-   Barlowe: But still, there is 
-   mission through.
-   Barlowe: Good Albus would hav
-   Barlowe: The time has come-- 
+   Shanoa: It's done, Sir. I've
+   retrieved [Dominus]. Barlowe:
+   And Albus? did he yield, or
+   did he... Shanoa: It... was
+   too late. I'm sorry. Barlowe:
+   Unfortunate... but it cannot
+   be helped. Barlowe: He wanted
+   just the same as both of us.
+   Perhaps he simply wanted it
+   too much. Barlowe: But still,
+   there is a way to honor him.
+   Use [Dominus] and see the
+   mission through. Barlowe:
+   Good Albus would have wanted
+   it that way. Barlowe: The
+   time has come-- to the
+   forbidden room!
 
-   The screen fades again and re
+   The screen fades again and
+   returns with Shanoa and
+   Barlowe standing at the
    ritual altar.
 
-   Barlowe: Take all three piece
-   Barlowe: Upon the vessel cast
-   Barlowe: And so, the world's 
-   Barlowe: Ecclesia's wish... T
-   Barlowe: Now go, Shanoa! You 
+   Barlowe: Take all three
+   pieces; bind them to
+   yourself. Barlowe: Upon the
+   vessel cast the Union Glyph.
+   Barlowe: And so, the world's
+   greatest hope will rise!
+   Barlowe: Ecclesia's wish...
+   The wish of all mankind.
+   Barlowe: Now go, Shanoa! You
+   will be the one. Our world's
+   savior...
 
 Equip all three Dominus Glyphs,
 and hit the red-glowing stone
 with a Dominus Union.
 
    Shanoa: ...Why? I'm fading...
+   It's so dark...
 
 Shanoa collapses to the ground.
 
    Barlowe: Rejoice, Shanoa.
    Barlowe: With your sacrifice,
+   the wishes of mankind will
+   all come true...
 
 The screen gives you brief
 glimpses of all the villagers
@@ -4693,100 +5191,179 @@ saves your game and gives you
 the game over screen.
 --------------------------------
 
-   Shanoa: What's...going on!? A
+   Shanoa: What's...going on!?
+   Albus's memories--! ...I can
+   feel them...
 
    The screen goes black.
 
-   Albus: Name's Albus. I guess 
-   Shanoa: My brother, huh? ...A
+   Albus: Name's Albus. I guess
+   we're brother and sister now.
+   Shanoa: My brother, huh?
+   ...Albus.
 
    The screen flashes.
 
-   Albus: Argh!
-   Shanoa: You can't keep doing 
+   Albus: Argh! Shanoa: You
+   can't keep doing this; you'll
+   destroy yourself. Let me take
+   your
   place.
-   Albus: What... kind of brothe
-   Albus: That's... my role.
+   Albus: What... kind of
+   brother would I be...if I
+   didn't protect you...? Albus:
+   That's... my role.
 
    The screen flashes.
 
-   Albus: Accepting Dominus is l
+   Albus: Accepting Dominus is
+   likely to interfere with
+   one's memories and
   emotions.
-   Barlowe: I see...
-   Albus: That being the case, w
+   Barlowe: I see... Albus: That
+   being the case, we should
+   assume the true price is much
   higher...
-   Albus: Sir! Name me as the be
-   Barlowe: But you aren't able-
-   Albus: There has to be a way!
-   Barlowe: All right, Albus. I 
-   Barlowe: But, before all that
+   Albus: Sir! Name me as the
+   bearer. I can't allow Shanoa
+   to risk her life. Barlowe:
+   But you aren't able-- Albus:
+   There has to be a way! ...and
+   I'll find it. Barlowe: All
+   right, Albus. I will give you
+   my word. Barlowe: But, before
+   all that, I have a great
+   errand for you...
 
    The screen fades back in.
 
-   Shanoa: ...But Barlowe told m
-   Shanoa: Albus, did you steal 
-   ???: So you figured it out. .
-   Shanoa: Albus!? I... I can he
-   Albus: Inside [Dominus], actu
-   Shanoa: That isn't possible.
-   Albus: It would seem the bloo
+   Shanoa: ...But Barlowe told
+   me Albus took my memories. It
+   was [Dominus]? Shanoa: Albus,
+   did you steal [Dominus] for
+   my sake...? ???: So you
+   figured it out. ...a shame
+   everything ended in failure.
+   Shanoa: Albus!? I... I can
+   hear your voice inside my
+   mind. Albus: Inside
+   [Dominus], actually, which
+   you absorbed. Shanoa: That
+   isn't possible. Albus: It
+   would seem the blood of the
+   holy whip's legacy makes many
+   things
   possble.
-   Albus: One of life's fortunat
-   Albus: Betrayed by the old ma
-   Albus: In this way I had take
+   Albus: One of life's
+   fortunate miracles, you might
+   say. Albus: Betrayed by the
+   old man, I fled with
+   [Dominus]. Albus: In this way
+   I had taken your place as
+   bearer, and you were no
+   longer
   at risk.
-   Albus: Alone, I continued my 
-   Albus: As you know, that Glyp
-   Albus: To this end, I require
-   Albus: Since they vanished ye
+   Albus: Alone, I continued my
+   research into methods of
+   controlling [Dominus]. Albus:
+   As you know, that Glyph's
+   power is Dracula's as well.
+   Albus: To this end, I
+   required the blood of the
+   sacred Belmont clan. Albus:
+   Since they vanished years
+   ago, I set out to find any
+   traces of their
   heritage.
    Shanoa: ...The villagers.
-   Albus: Exactly. Fate drew the
-   Albus: I studied their blood 
-   Albus: In the end, even that 
+   Albus: Exactly. Fate drew
+   them to the village...all
+   thirteen of that line. Albus:
+   I studied their blood with
+   great diligence... Albus: In
+   the end, even that power
+   wasn't enough to contain
+   [Dominus], and
   the Glyph consumed me.
    Shanoa: ...But with your body
+   gone, your spirit remains--
+   absorbed into the
   Glyph.
-   Shanoa: And now, that soul dw
+   Shanoa: And now, that soul
+   dwells within me, alongside
+   the power of
   [Dominus].
-   Albus: By all accounts, [Domi
-   Albus: However, the villager'
+   Albus: By all accounts,
+   [Dominus] should have
+   overpowered and erased my
+   will. Albus: However, the
+   villager's power courses
+   through you, and that
+   tethered
   me here.
    Shanoa: How can that be?
-   Albus: Probably from absorbin
-   Albus: You are quite remarkab
-   Shanoa: ......
-   Shanoa: There is still one th
-   Shanoa: Why did you try to ta
+   Albus: Probably from
+   absorbing the Glyphs I used
+   to imprison them... Albus:
+   You are quite remarkable,
+   Shanoa. Shanoa: ......
+   Shanoa: There is still one
+   thing I do not understand,
+   Albus. Shanoa: Why did you
+   try to take my place, if you
+   knew it would cost you your
   life?
-   Albus: ...I doubt you could u
-   Albus: Let's just say I knew 
-   Albus: Once the ritual began,
-   Albus: Everything that happen
-   Albus: A path I had to follow
-   Shanoa: I still don't underst
-   Albus: It's just as well. No 
+   Albus: ...I doubt you could
+   understand, without your
+   memories or emotions. Albus:
+   Let's just say I knew what
+   mattered to me, and what had
+   to be done. Albus: Once the
+   ritual began, though, I no
+   longer had any choice. Albus:
+   Everything that happened
+   since then was laid out
+   before me... Albus: A path I
+   had to follow. Shanoa: I
+   still don't understand...
+   Albus: It's just as well. No
+   need to concern yourself with
+   the affairs of my
   heart.
-   Albus: But, I do need you to 
-   Shanoa: What is it?
-   Albus: No matter what happens
-   Albus: Its power comes at a g
-   Albus: Please, Shanoa... Don'
-   Shanoa: I do, Albus.
-   Albus: then I've done all I c
-   Albus: ...but now, I believe 
-   Shanoa: Albus, wait! I have t
-   Albus: You'll be fine now. ..
-   Shanoa: ...Albus...? Don't go
-   Shanoa: ...You gave up your l
-   Shanoa: I can't even shed a t
-   Shanoa: ...... Why was everyt
+   Albus: But, I do need you to
+   promise me one thing. Shanoa:
+   What is it? Albus: No matter
+   what happens, you mustn't use
+   [Dominus]. Albus: Its power
+   comes at a great price...
+   Your life. Albus: Please,
+   Shanoa... Don't ever use
+   [Dominus]! You have to trust
+   me! Shanoa: I do, Albus.
+   Albus: then I've done all I
+   can. Thank you, Shanoa...
+   Albus: ...but now, I believe
+   my time is at an end. Shanoa:
+   Albus, wait! I have to know--
+   Albus: You'll be fine now.
+   ...Remember your promise.
+   Shanoa: ...Albus...? Don't
+   go, Albus! Shanoa: ...You
+   gave up your life for my
+   sake, and I don't feel
+   anything. Shanoa: I can't
+   even shed a tear... Shanoa:
+   ...... Why was everything
+   stolen form me!?
 
    Shanoa runs towards the exit.
 
-   Shanoa: Only one person can a
-   Shanoa: ...I won't let Albus'
-   Shanoa: I must learn the trut
+   Shanoa: Only one person can
+   answer my questions. Shanoa:
+   ...I won't let Albus's
+   sacrifice go to waste.
+   Shanoa: I must learn the
+   truth.
 
 --------------------------------
 Backtracking: Ecclesia [Eccle3]
@@ -4802,62 +5379,102 @@ Return to Ecclesia and head to
 the top of it to talk to
 Barlowe.
 
-   Shanoa: It's done, Sir. I've 
-   Barlowe: And Albus? did he yi
-   Shanoa: ......
-   Barlowe: Unfortunate... but i
-   Barlowe: He wanted just the s
-   too much.
-   Barlowe: But still, there is 
-   mission through.
-   Barlowe: Good Albus would hav
-   Barlowe: The time has come-- 
+   Shanoa: It's done, Sir. I've
+   retrieved [Dominus]. Barlowe:
+   And Albus? did he yield, or
+   did he... Shanoa: ......
+   Barlowe: Unfortunate... but
+   it cannot be helped. Barlowe:
+   He wanted just the same as
+   both of us. Perhaps he simply
+   wanted it too much. Barlowe:
+   But still, there is a way to
+   honor him. Use [Dominus] and
+   see the mission through.
+   Barlowe: Good Albus would
+   have wanted it that way.
+   Barlowe: The time has come--
+   to the forbidden room!
 
-   The screen fades again and re
+   The screen fades again and
+   returns with Shanoa and
+   Barlowe standing at the
    ritual altar.
 
-   Barlowe: Take all three piece
-   Barlowe: Upon the vessel cast
-   Barlowe: And so, the world's 
-   Barlowe: Ecclesia's wish... T
-   Barlowe: Now go, Shanoa! You 
+   Barlowe: Take all three
+   pieces; bind them to
+   yourself. Barlowe: Upon the
+   vessel cast the Union Glyph.
+   Barlowe: And so, the world's
+   greatest hope will rise!
+   Barlowe: Ecclesia's wish...
+   The wish of all mankind.
+   Barlowe: Now go, Shanoa! You
+   will be the one. Our world's
+   savior...
 
    Shanoa turns to face Barlowe.
 
-   Shanoa: I will not.
-   Barlowe: ...What, second thou
-   Shanoa: I promised Albus. I'm
-   Barlowe: You promised him? He
-   Shanoa: You would know quite 
-   Barlowe: Shanoa, what is this
+   Shanoa: I will not. Barlowe:
+   ...What, second thoughts?
+   You've fought so hard for
+   this... Shanoa: I promised
+   Albus. I'm never using
+   Dominus. Barlowe: You
+   promised him? He must have
+   lied to you... Shanoa: You
+   would know quite a bit about
+   lies. Barlowe: Shanoa, what
+   is this? What do you mean?
    Shanoa: Albus didn't steal my
-   Shanoa: It was you. You used 
-   Barlowe: R-Rediculous! I've n
-   Shanoa: You also lied to Albu
-   Shanoa: You sent him on a foo
+   emotions at all. Shanoa: It
+   was you. You used them as a
+   sacrifice to [Dominus]!
+   Barlowe: R-Rediculous! I've
+   never heard such-- Shanoa:
+   You also lied to Albus.
+   Shanoa: You sent him on a
+   fool's errand, and tried to
+   hold the ritual in his
   absence.
-   Barlowe: ......
-   Shanoa: And you neglected to 
-   Shanoa: Would you care to exp
-   Barlowe: Shanoa, if you ever 
-   Barlowe: Needs your life!
+   Barlowe: ...... Shanoa: And
+   you neglected to mention that
+   using [Dominus] would kill
+   me. Shanoa: Would you care to
+   explain that, "Master"?
+   Barlowe: Shanoa, if you ever
+   trusted me, then hear me:
+   mankind needs you. Barlowe:
+   Needs your life!
 
-   Shanoa backdashes as Barlowe 
+   Shanoa backdashes as Barlowe
+   spread his hands wide.
 
-   Shanoa: .......!
-   Barlowe: You carry such a bur
-   Barlowe: To give your life th
-   Barlowe: Do you not see how w
+   Shanoa: .......! Barlowe: You
+   carry such a burden, my young
+   girl... Barlowe: To give your
+   life that Man might live his
+   dreams... Barlowe: Do you not
+   see how wonderful that is?
    Shanoa: You're mad...
    Barlowe: Now, Albus, that boy
-   [Dominus]...
-   Barlowe: and I shall put his 
-   Barlowe: You see, girl, we do
-   Barlowe: My flesh can host th
-   Barlowe: And since you're so 
-   Barlowe: I'll rip the Glyph s
-   Shanoa: I'm not ready to die,
-   Barlowe: Poor fool; if I coul
+   had the right idea. He found
+   a way to take in [Dominus]...
+   Barlowe: and I shall put his
+   research to good use.
+   Barlowe: You see, girl, we
+   don't need you anymore...
+   Barlowe: My flesh can host
+   the Glyph as well as yours!
+   Barlowe: And since you're so
+   unwilling to comply...
+   Barlowe: I'll rip the Glyph
+   straight off your bloody
+   corpse! Shanoa: I'm not ready
+   to die, Barlowe. You still
+   owe me answers. Barlowe: Poor
+   fool; if I could only make
+   you see. Now die, and YIELD
    [DOMINUS] TO ME!!
 
 --------------------------------
@@ -4895,87 +5512,145 @@ get hit.
 Attacks: Fire Books- Barlowe
 forms 7 books, each of which
 forms into a small fireball
-   and shoots towards Shanoa. Ru
+   and shoots towards Shanoa.
+   Run across the screen to
+   dodge them.
 Electric Books- Barlowe lets two
 books go to the top and bottom
 of him, which
-    begin forming eletric arcs t
-    Barlowe rushes forward at a 
-    horizontally across the scre
-    room and back diagonally the
-    being underneath him, then j
-    went as he comes back. You'l
+    begin forming eletric arcs
+    to create a sphere around
+    him. Barlowe rushes forward
+    at a downward angle, then,
+    shoots horizontally across
+    the screen to bounce off the
+    corner of the room and back
+    diagonally the other
+    direction. Dodge this by
+    being underneath him, then
+    jumping towards the
+    direction Barlowe went as he
+    comes back. You'll drop back
+    to the floor as he flies
     back overhead.
 Ice Books- Barlowe drops to the
 ground and tosses a book on the
 floor. Jump up
-  to avoid this attack, which se
-  If Shanoa gets hit, she become
+  to avoid this attack, which
+  sends a sheet of ice across
+  the floor. If Shanoa gets hit,
+  she becomes trapped in the ice
+  and can't move.
 Multi Punch- Barlowe shoots
 across the screen from alternate
 directions and
-   punches at Shanoa, sprouting 
-   straight up to avoid this att
-   likely get hit with each hit 
-   bounces you back and forth ac
+   punches at Shanoa, sprouting
+   a phrase with each attack.
+   Jump straight up to avoid
+   this attack. If Barlowe hits
+   you, you'll likely get hit
+   with each hit for the rest of
+   the attack as he bounces you
+   back and forth across the
+   screen.
 Globus- Barlowe forms this
 Glyph, which creates two purple
 electric orbs that
-  bounce around the room. The be
-  absorb the Glyph as Barlowe cr
-  of the way as this attack boun
-  striking damage instead of lig
+  bounce around the room. The
+  best way to avoid getting hit
+  is to simply absorb the Glyph
+  as Barlowe creates it.
+  Otherwise, you have to jump
+  out of the way as this attack
+  bounces around.This attack
+  actually does striking damage
+  instead of lightning.
 --------------------------------
 
-   Barlowe: Damnit! I was so clo
-   Shanoa: I don't understand...
+   Barlowe: Damnit! I was so
+   close! I could... taste the
+   power... Shanoa: I don't
+   understand... The user of
+   [Dominus] is destined to die!
    Shanoa: ...Why would you want
-   Barlowe: Because without [Dom
-   Shanoa: ...Seal? You told me 
-   Barlowe: Of course!
-   Barlowe: Ecclesia's mission i
-   the resurrection of our lord,
-   Shaoa: Mankind wishes for no 
-   Barlowe: Dracula's power come
-   hearts.
-   Barlowe: Ask yourself then, w
-   defeat?
-   Barlowe: Because our hearts y
-   ha!
-   Shanoa: ...Just another victi
+   that kind of power? Barlowe:
+   Because without [Dominus],
+   I'll never destroy that
+   infernal seal. Shanoa:
+   ...Seal? You told me that was
+   the vessel of Dracula's soul!
+   Barlowe: Of course! Barlowe:
+   Ecclesia's mission is to
+   realize the singular wish of
+   all mankind: the resurrection
+   of our lord, Count Dracula!
+   Shaoa: Mankind wishes for no
+   such thing. Barlowe:
+   Dracula's power comes from
+   the darkness in people's
+   hearts-- our hearts. Barlowe:
+   Ask yourself then, why does
+   he continue to return,
+   regardless of defeat?
+   Barlowe: Because our hearts
+   yearn for Dracula's presence!
+   Haaaa ha ha ha ha ha! Shanoa:
+   ...Just another victim of
+   [Dominus]... It's driven you
+   mad!
 
-   The seal begins to release bu
+   The seal begins to release
+   bursts of dark clouds.
 
-   Barlowe: No, Shanoa... How ca
-   Barlowe: ...If you refuse to 
+   Barlowe: No, Shanoa... How
+   can you be blind to this?
+   Barlowe: ...If you refuse to
+   see, then you are the fool!
 
-   The clouds of darkness coales
+   The clouds of darkness
+   coalesce on Barlowe.
 
-   Barlowe: Oh ho ho.... What's 
-   Barlowe: Yes my lord, I see..
-   blessing!
-   Barlowe: ...Truly providence,
+   Barlowe: Oh ho ho.... What's
+   this? This power... My
+   strength is returning!
+   Barlowe: Yes my lord, I
+   see... I will destroy the
+   infernal seal with your
+   blessing! Barlowe: ...Truly
+   providence, that Dracula
+   would honor me with his
+   guidance!
 
 Barlowe crawls towards the seal.
 
-   Shanoa: No... I feel a new po
+   Shanoa: No... I feel a new
+   power.
 
    Light flashes from the seal.
 
-   Barlowe: ...I will give my li
+   Barlowe: ...I will give my
+   life to undo the seal,
+   Master. Return to us, Lord
    Dracula!
 
    Purple flames wash across the
-   the seal are gone.
+   screen. When they fade away,
+   both Barlowe and the seal are
+   gone.
 
    Shanoa: It can't be!
 
    The entire building starts to
-   The scene fades to the view o
+   rumble. The scene fades to
+   the view of a castle in the
+   distance.
 
-   Shanoa: ...Now I've lost ever
+   Shanoa: ...Now I've lost
+   everything... my past, my
+   emotions, my brother, and
   my purpose...
    Shanoa: I'm empty. ...there's
+   nothing left for me.
 
 End Part 1
 
@@ -4990,7 +5665,8 @@ Castle Entrance [Nightmare Gate]
 Enemies: 072 Flea Man, 073
 Ghoul, 074 Peeping Eye, 075
 Gargoyle,
-  076 Blood Skeleton, 077 Black 
+  076 Blood Skeleton, 077 Black
+  Panther
 Items: 1 random chest, Heart Max
 Up, Tasty Meat, White Drops Wood
 Chests: Emerald, Ruby, Sapphire,
@@ -5006,9 +5682,15 @@ Shanoa standing before the
 castle, followed by some text.
 
    Shanoa: Here I am... It's all
-   Shanoa: No, that's not true, 
+   gone. ...What little I had,
+   anyway. Shanoa: No, that's
+   not true, there's one thing
+   left... ...My mission.
    Shanoa: I'm the only one left
-   Shanoa: I am the morning sun,
+   who can end this. Hear me,
+   [Dracula]! Shanoa: I am the
+   morning sun, come to vanquish
+   this horrible night!
 
 Run through the first hall,
 which is packed with new
@@ -5091,8 +5773,9 @@ Library [Bloody Tomes] [Libra1]
 Enemies: 069 Mad Butcher, 070
 White Fomor, 073 Ghoul, 074
 Peeping Eye,
-  076 Blood Skeleton, 077 Black 
-  117 Wallman
+  076 Blood Skeleton, 077 Black
+  Panther, 079 Draculina, 080
+  Tin Man, 117 Wallman
 Items: HP Max Up, MP Max Up,
 Super Potion, Hanged Man Ring,
 Cream Puff,
@@ -5199,10 +5882,14 @@ your new Glyph.
 Attacks: Bomb- Wallman throws
 out 3 bombs. The bombs hang in
 the air across the room
- and, once they explode, shoot o
- vertically. Avoid this by crouc
- throws one directly onto the gr
- in the attack.
+ and, once they explode, shoot
+ out lines of fire in 4
+ horizontally and vertically.
+ Avoid this by crouching low to
+ the floor (Wallman never throws
+ one directly onto the ground)
+ or finding the safe area to
+ stand in the attack.
 --------------------------------
 
 Break open the statue on the
@@ -5318,7 +6005,9 @@ Shanoa. More importantly, it's 1
 of the 3 keys needed to get pass
 the Cerberus Statue.
 
-   Shanoa: This Glyph is resonat
+   Shanoa: This Glyph is
+   resonating with something...
+   Could there be another
   one?
 
 Now backtrack all the way out of
@@ -5389,7 +6078,8 @@ with Shadows] [Under1]
 Enemies: 072 Flea man, 081
 Polkir, 082 Nova Skeleton, 083
 Gashida,
-  085 Gurhka Master, 086 Red Sma
+  085 Gurhka Master, 086 Red
+  Smasher 178 Blackmore
 Items: 1 random chest, MP Max
 Up, Mercury Boots, Blackmore
 Medal, Heart Max Up,
@@ -5545,26 +6235,38 @@ Attacks: Shadow Orb- The boss
 rears back and fires a set of
 orbs out of its mouth that
    arc over the screen to splash
-   Quick foot work will keep you
+   down on the ground around
+   Shanoa. Quick foot work will
+   keep you out of the way of
+   this attack.
 Downward Slash- The boss swipes
 its arms downwards. Stay all the
 way to the
-    left side of the screen to a
+    left side of the screen to
+    avoid this.
 Lunge- The boss lunges forward
 with one claw. Jump over it to
 dodge it. Triple Lunge- The boss
 lunges forward like normal, but
 then follows with an
-   upward swipe of its other han
-   jumping over the first attack
-   one, then jump again to avoid
+   upward swipe of its other
+   hand and a second lunge.
+   Dodge this by jumping over
+   the first attack, kneel in
+   the corner on the second one,
+   then jump again to avoid the
+   third.
 Shadow Beam- The boss leans
 forward so that its mouth is
 level with Shanoa.
-   It opens its mouth and fires 
-   straight up to get enough air
+   It opens its mouth and fires
+   a beam of shadows. Double
+   jump straight up to get
+   enough air time to doge this
+   attack.
 
-*Alternate strategy listed for t
+*Alternate strategy listed for
+ this boss
 --------------------------------
 
 Head right to the next room,
@@ -5637,6 +6339,7 @@ room with a statue. Break it to
 reveal Felicem Fio, a Glyph that
 raises LCK temporarily.
  Bust open the wall in the upper
+ right corner to reveal another
 Paries wall. Go through it to
 find a second statue. Behind
 this one is Rapides Fio, a Glyph
@@ -5784,12 +6487,14 @@ Barracks [Distant Memory]
 Enemies: 080 Tin Man, 082 Nova
 Skeleton, 084 Devil, 085, Gurhka
 Master,
-  086 Red Smasher, 088 Blade Mas
-  094 Bugbear
+  086 Red Smasher, 088 Blade
+  Master, 091 Hammer Shaker, 093
+  Imp, 094 Bugbear
 Items: 2 random chest, Green
 Drops, 2000 gold bag x3, Heart
 Max Up, HP Max Up,
- Green Drops, MP Max Up, Valkyri
+ Green Drops, MP Max Up,
+ Valkyrie Mail, Moon Ring
 Glyphs: Melio Hasta
 
 When you first enter the area,
@@ -5907,8 +6612,9 @@ Mechanical Tower [Styx Passage]
 Enemies: 085 Gurhka Master, 090
 Lizardman Blade, 91 Hammer
 Shaker, 092 Rebuild,
-  093 Imp, 094 Bugbear, 096 Auto
-  098 Gorgon Head
+  093 Imp, 094 Bugbear, 096
+  Automaton ZX27, 097 Medusa
+  Head, 098 Gorgon Head
 Items: 1 random chest, Valkyrie
 Mask, HP Max Up, Heart Cuirass,
 Death Ring,
@@ -6181,39 +6887,60 @@ didn't get hit.
 Attacks: Sickle Materialization-
 Small sickles materialize all
 over the room and hurl
-      themselves in a straight l
+      themselves in a straight
+      line towards you. Dodge
+      them
         or destroy them.
 Sickle Wave- The boss raises one
 hand towards you and spews forth
 a blast of
-   dozens of sickles. Dodge unde
-   to avoid it.
+   dozens of sickles. Dodge
+   underneath him before the
+   attack starts to avoid it.
 Sickle Cage- 8 large sickles
 appear in 2 diagonal lines of 4,
 sloping downards,
-   around Shanoa. The circles lo
-   on the floor between them. Av
-   bottom sickle before the atta
+   around Shanoa. The circles
+   loop down in an arc, hitting
+   everything on the floor
+   between them. Avoid this by
+   sliding underneath the bottom
+   sickle before the attack
+   begins.
 Downward Chop- The boss flies
 overhead and raises its scythe
 up above it. It
-   then does a downward slash. D
-   so that you're not underneath
+   then does a downward slash.
+   Dodge this by moving left or
+   right so that you're not
+   underneath the boss.
 Circle Chop- The boss angles its
 scythe downwards, then charges
 across the
    room. When it reaches you, it
-   well-timed backdash can get y
-   possible, you're better off r
-   boss isn't facing you when it
+   slashes it in a circular
+   motion. A well-timed backdash
+   can get you out of the way,
+   but if it's possible, you're
+   better off running to the
+   other side so that the boss
+   isn't facing you when it
+   begins this attack.
 Summon Spirits- The boss summons
 3 red orbs in a triangle around
 it. The orbs
-    then proceed outward in an e
-    out as they go so that they 
-    real defense against this at
-    away that they disappear bef
-    practically impossible to ju
+    then proceed outward in an
+    expanding spiral pattern,
+    stretching out as they go so
+    that they look like evil
+    spirits. The only real
+    defense against this attack
+    is to simply get far enough
+    away that they disappear
+    before they reach you, as
+    its practically impossible
+    to jump through the gaps in
+    the spiral.
 --------------------------------
 
 
@@ -6221,7 +6948,9 @@ Go left to find the Glyph
 Sinestro Custos floating in the
 air in the next room.
 
-   Shanoa: This Glyph resonates 
+   Shanoa: This Glyph resonates
+   just like the other one...
+   There must be a
   third.
 
 Head back down the passage and
@@ -6269,9 +6998,14 @@ wolf heads. Run into the next
 room to find a giant Cerberus
 statue.
 
-   Shanoa: There are magic energ
-   Shanoa: If that statue is Cer
-   Shanoa: I just need to figure
+   Shanoa: There are magic
+   energies coursing through
+   this room... Shanoa: If that
+   statue is Cerberus, then this
+   must be the gateway into
+   Hell. Shanoa: I just need to
+   figure out how to unseal
+   it...
 
 This is the spot where you'll
 use the 3 Cerberus Glyphs, but
@@ -6389,7 +7123,9 @@ Arms Depot [Cry in the Night]
 Enemies: 085 Gurkha Master, 086
 Red Smasher, 091 Hammer Shaker,
 092 Rebuild,
-  094 Bugbear, 095 Spectral Swor
+  094 Bugbear, 095 Spectral
+  Sword, 099 Mad Snatcher, 100
+  Great Knight,
  101 King Skeleton, 119 Eligor
 Items: 1 random chest, HP Max
 Up, Mint Sundae, Eligor Medal
@@ -6687,19 +7423,27 @@ Medal as your prize.
 Attacks: Phase 1 Downward Stab-
 The boss stabs down at Shanoa
 with its sword. This is an easy
-   attack to avoid, as the boss'
-   a second before it begins its
+   attack to avoid, as the
+   boss's sword will hover over
+   Shanoa for a second before it
+   begins its descent.
 Downward Slash- The boss slashes
 downward. It will only perform
 this attack is
-    Shanoa is towards the wall i
+    Shanoa is towards the wall
+    instead of by its legs.
+    Avoid it by
    running towards the legs.
 Right Crossbow- The boss kneels
 down and begins firing bolts off
 its hip
-    crossbow in a regular patter
-    they don't fire quickly. You
-    right corner of the room to 
+    crossbow in a regular
+    pattern. The arrows are easy
+    to dodge, as they don't fire
+    quickly. You can also kneel
+    down in the lower right
+    corner of the room to dodge
+    them.
 
 Phase 2 Steps- The boss takes
 steps back and forth. You have
@@ -6708,58 +7452,81 @@ to move with it to keep
 Forward Leg Kick- The boss lifts
 one of its forward legs and
 kicks backwards at
-    you while you're under its s
+    you while you're under its
+    stomach. Kneel down to avoid
+    it.
 Targeting Right Crossbow- This
 crossbow constantly swivels to
 home in on your
       position when you're under
-      continually to spin it bac
+      the boss's stomach. Hit it
+      continually to spin it
+      back upright.
 
 Phase 3 Jump- The boss jumps
 straight up and slams its hooves
 down. This is actually
- more of an opportunity to escap
- in exactly the same place it we
+ more of an opportunity to
+ escape than an attack, but it
+ doesn't come down in exactly
+ the same place it went up, so
+ it's possible to get hit by the
  hooves if you don't move.
 Left Crossbow- The boss's back
 crossbow fires much more rapidly
 and with its
-   arrows spaced much close toge
+   arrows spaced much close
+   together than the right one.
 Rear Leg Kick- The boss kicks a
 leg backwards when you're behind
 it. Dodge by
-   running backwards or backdash
+   running backwards or
+   backdashing.
 Tail Blade Stab- The boss stabs
 down with its bladed tail. You
 can dodge out of
-    the way of this, but its eas
-    knee orbs; the blade can onl
+    the way of this, but its
+    easier to just kneel down
+    under the knee orbs; the
+    blade can only go so far to
+    the right.
 
 Phase 4 Rear- The boss rears
 upwards, bending its torso
 backwards and smacking into you
- if you're not all the way to th
+ if you're not all the way to
+ the left side of the saddle.
 Elbow- The boss shoots its elbow
 backwards at Shanoa. You can
 dodge this by
- jumping over it, but it's a ver
- reach all the way to the left e
+ jumping over it, but it's a
+ very fast, sudden attack. The
+ elbow doesn't reach all the way
+ to the left edge of the saddle.
 Reverse Overhead Slash- The boss
 brings its sword up over its
 head and back
-      down, cutting across the s
+      down, cutting across the
+      saddle. Run to the right
+      and
  kneel down to avoid the blade.
 Tail Blade- The boss cocks its
 tail and shoots it at Shanoa.
 This can be
-   dodged by jumping with Rapidi
-   You'll have to go right over 
+   dodged by jumping with
+   Rapidis Fio active to get
+   extra distance. You'll have
+   to go right over the edge and
+   land on the floor.
 Targeting Left Crossbow- The
 back crossbow swivels around to
 lock onto you and
-      fires arrows when you're s
+      fires arrows when you're
+      standing on the boss's
+      saddle.
 
-*Alternate strategy listed for t
+*Alternate strategy listed for
+ this boss
 --------------------------------
 
 Eligor dies, and its body
@@ -6770,8 +7537,11 @@ into a single screen room with
 the Glyph Arma Custos floating
 in the air.
 
-   Shanoa: It's resonating with 
-   Shanoa: Now the question is, 
+   Shanoa: It's resonating with
+   the others! Is this the final
+   piece? Shanoa: Now the
+   question is, how to bring
+   these three Glyphs together?
 
 
 Head back out into the passage
@@ -6810,9 +7580,12 @@ entire statue sinks down into
 the ground, revealing a platform
 leading up.
 
-   Shanoa: ...It worked.
-   Shanoa: The power inside is i
-   Shanoa The time has come, Alb
+   Shanoa: ...It worked. Shanoa:
+   The power inside is
+   incedible... is it [Dracula]?
+   Shanoa The time has come,
+   Albus. To end this, I must
+   tread into Hell itself.
 
 Climb a long tower full of
 winged guards and yellow medusa
@@ -6831,13 +7604,16 @@ Final Approach [Dust to Dust]
 Enemies: 084 Devil, 088 Blade
 Master, 089 Lilith, 090
 Lizardman Blade, 093 Imp,
-  094 Bugbear, 095 Spectral Swor
-  102 Winged Skeleton, 103 Final
+  094 Bugbear, 095 Spectral
+  Sword, 096 Automaton ZX27, 102
+  Winged Skeleton, 103 Final
+  Knight
 Items: 2 random chest, MP Max
 Up, Sun Ring, Blue Drops, MP Max
 Up, Heart Max Up,
- Judgement Ring, Heart Max Up, G
- Super Potion, MP Max Up
+ Judgement Ring, Heart Max Up,
+ Gold Ore, Diamond, Onyx, World
+ Ring, Super Potion, MP Max Up
 Glyphs: Fidelis Alate, Volaticus
 
 The first room is a large one. A
@@ -7015,18 +7791,29 @@ ready, cross it to fight the
 Prince of Darkness, Dracula
 himself.
 
-   Dracula: Such a lovely maiden
-   pleasure?
-   Dracula: Tell me your desire,
-   my side?
-   Shanoa: I am not your benefac
-   Dracula: No? then please... T
-   Dracula: Surely you've realiz
-   Shanoa: I am the blade to ban
+   Dracula: Such a lovely
+   maiden... Are you the one to
+   whom I owe this great
+   pleasure? Dracula: Tell me
+   your desire, child. Is it
+   eternal life you seek? A
+   place at my side? Shanoa: I
+   am not your benefactor.
+   Dracula: No? then please...
+   Tell me of yourself. Dracula:
+   Surely you've realized my
+   company comes at a price.
+   Shanoa: I am the blade to
+   banish all evil, and I've
+   come to see you
   annihilated.
-   Shanoa: The time of your dest
-   Dracula: Bah ha ha ha ha ha! 
+   Shanoa: The time of your
+   destruction is at hand; die,
+   Demon Lord [Dracula]!
+   Dracula: Bah ha ha ha ha ha!
+   What an amusing woman!
    Dracula: Come to me, child; I
+   haven't danced in ages!
 
 
 --------------------------------
@@ -7159,9 +7946,12 @@ Once you've "beaten" Dracula, he
 and Shanoa have a brief exchange
 of words.
 
-   Dracula: What nonsense is thi
-   tricks!
-   Shanoa: My power alone may no
+   Dracula: What nonsense is
+   this? You will never defeat
+   me with such feeble tricks!
+   Shanoa: My power alone may
+   not be enough, but with
+   [Dominus], I can destroy
   you, fiend!
 
 Dracula then powers up an
@@ -7182,27 +7972,34 @@ Attacks: Phase 1 Fireball-
 Dracula opens his cape and a
 stream of fireballs come flying
 out. Use
-  Melio Scutum to defend yoursel
+  Melio Scutum to defend
+  yourself from this attack.
 Dark Energy Balls- Dracula opens
 his cape and 4 black balls of
 energy shoot out
-    in a high-low-high-low patte
+    in a high-low-high-low
+    pattern. Duck under the
+    first one and
      jump over the last 3.
 Energy Ray- Dracula snaps his
 fingers and sends up many green
 lines, which then
-   rain down across the screen. 
-   this attack.
+   rain down across the screen.
+   Stand right next to Dracula
+   to avoid this attack.
 Cape Slash- Dracula only does
 this if you attempt to jump over
 him during the
    first phase of the fight.. He
-   that reaches to the ceiling, 
+   swings his cape upward, an
+   attack that reaches to the
+   ceiling, and knocks you back.
 Purple Fire- Dracula only does
 this if you're using Volaticus.
 Purple pillars
-   of flame shoot up from the gr
-   hit you.
+   of flame shoot up from the
+   ground all the way to the
+   ceiling to hit you.
 
 Phase 2 Slashing Kick- Dracula
 swings his leg in a kick. This
@@ -7211,106 +8008,172 @@ is easy to dodge; just
 Destruction Ray- Dracula sends
 up another cloud of lines, but
 this time they
-    are purple and they fall to 
-    back and forth in a tight pa
+    are purple and they fall to
+    wherever you're standing.
+    Move back and forth in a
+    tight pattern to dodge each
+    ray as it
    comes down, or use Scutum.
 Swarm of Bats- Dracula teleports
 into the middle of the room and
 spreads his
    cape wide, unleashing a swarm
-   Stay low near the ground, clo
-   to avoid this potentially fat
-   this attack.
+   of bats that arc across the
+   room. Stay low near the
+   ground, close to Dracula, but
+   not too close, to avoid this
+   potentially fatal attack.
+   Melio Scutum also blocks this
+   attack.
 Summoned Wolves- Dracula summons
 red translucent wolves that run
 out of his
-    cloak and charge back and fo
+    cloak and charge back and
+    forth across the room.
+    Destroy these
        with a single hit.
 Soul Steal- Dracula teleports
 back, then swoops forward and
 grabs Shanoa. He
-   then proceeds to drain HP fro
-   done, he drops you to the gro
-   affect you have on after this
+   then proceeds to drain HP
+   from her and replenish his
+   own. When he's done, he drops
+   you to the ground. You must
+   reactivate any support affect
+   you have on after this
+   attack.
 
-*Alternate strategy listed for t
+*Alternate strategy listed for
+ this boss
 --------------------------------
 
    Dracula: But this power is...
+   NO! It can't be my--
 
 Shanoa collapses on the ground.
 
-   Shanoa: I'm sorry, Albus.... 
-   Dracula: GyeaaaAAARGH!!!
+   Shanoa: I'm sorry, Albus....
+   I couldn't...keep my
+   promise... Dracula:
+   GyeaaaAAARGH!!!
 
-   Dracula breaks apart into lit
-   The screen fades to black.
+   Dracula breaks apart into
+   little balls of black energy
+   and fades away. The screen
+   fades to black.
 
-   Shanoa: I've fulfilled my mis
-   Shanoa: My life... I feel it.
-   Shanoa: ...so quiet... I can'
+   Shanoa: I've fulfilled my
+   mission; now there's nothing
+   left... Shanoa: My life... I
+   feel it... ebbing away.
+   Shanoa: ...so quiet... I
+   can't hear anything.
 
-   ???: Name's Albus. I guess we
+   ???: Name's Albus. I guess
+   we're brother and sister now.
    Shanoa: ...what?
 
-   ???: Sir! Name me as the bear
-   Shanoa: ...Albus's memories f
-   Shanoa: They're the only memo
+   ???: Sir! Name me as the
+   bearer. I can't allow Shanoa
+   to risk her life. Shanoa:
+   ...Albus's memories from
+   Dominus must be flowing
+   through my mind... Shanoa:
+   They're the only memories
+   left to me now...
 
-   ???: What... kind of brother 
-   ???: That's...my role.
-   Shanoa: Now I see why Albus r
-   Shanoa: ...... ...Why am I cr
-   Shanoa: This must be some sor
-   Albus: This is no dream, Shan
-   Shanoa: Is that...Albus!?
+   ???: What... kind of brother
+   would I be...if I didn't
+   protect you...? ???:
+   That's...my role. Shanoa: Now
+   I see why Albus risked his
+   life for me... Shanoa: ......
+   ...Why am I crying? Such warm
+   tears, I... Shanoa: This must
+   be some sort of dream--a
+   final vision before I die...
+   Albus: This is no dream,
+   Shanoa. The tears you shed
+   are your own. Shanoa: Is
+   that...Albus!?
 
 
-   The throne room fades back in
+   The throne room fades back
+   into sight.
 
 
-   Shanoa: ...Not a dream. My te
-   Albus: Once I realized I was 
-  find out what else had been ab
+   Shanoa: ...Not a dream. My
+   tears were real. Albus: Once
+   I realized I was allowed to
+   exist within Dominus, I
+   thought to
+  find out what else had been
+  absorbed...
    Albus: It seems your precious
-   Shanoa: Albus! I thought you 
-   Albus: Since my existance was
-  wandered in the darkness insid
-  the memories it had taken from
-   Albus: As soon as you used th
-  away, leaving one glimmer behi
-  sacrifice...
-   Shanoa: That is so like you, 
-   Shanoa: You can't just solve 
-   Albus: ...To be fair, I am yo
-   Shanoa: But...thank you, Albu
+   sacrifice remained intact.
+   Shanoa: Albus! I thought you
+   were gone! Albus: Since my
+   existance was questionable at
+   best, once we parted ways I
+  wandered in the darkness
+  inside [Dominus] to see if I
+  could locate the memories it
+  had taken from you...
+   Albus: As soon as you used
+   the Glyph to stop Dracula,
+   its dark power rushed
+  away, leaving one glimmer
+  behind. The last trace of
+  light was your sacrifice...
+   Shanoa: That is so like you,
+   Albus. Shanoa: You can't just
+   solve every problem on your
+   own without telling me!
+   Albus: ...To be fair, I am
+   your big brother, after all.
+   Shanoa: But...thank you,
+   Albus. Now I can die with
+   such happiness in my
   heart.
-   Albus: Shanoa... there's no n
-   Shanoa: I've already used [Do
+   Albus: Shanoa... there's no
+   need for you to die. Shanoa:
+   I've already used [Dominus],
+   Albus. That power comes at
+   the cost of
   my life.
    Albus: [Dominus] requires but
-   Shanoa: ...You're taking my p
-   Shanoa: You've already done s
-   Albus: No arguments, Shanoa. 
-   Shanoa: No, I...!
-   Albus: If you want to repay m
-   Shanoa: ...Anything.
-   Albus: Smile for me. That wil
-   Shanoa: But--
-   Albus: Please... Before I fad
-   Shanoa: O...Okay...
+   a single soul. Shanoa:
+   ...You're taking my place!?
+   Albus, no! Shanoa: You've
+   already done so much, and I
+   haven't repaid you! Albus: No
+   arguments, Shanoa. This is my
+   role. Shanoa: No, I...!
+   Albus: If you want to repay
+   me, then you can grant one
+   final wish. Shanoa:
+   ...Anything. Albus: Smile for
+   me. That will be enough.
+   Shanoa: But-- Albus:
+   Please... Before I fade
+   away... Shanoa: O...Okay...
 
    The screen fades to a picture
-   face, then back to the throne
+   of Shanoa smiling while tears
+   run down her face, then back
+   to the throne room.
 
-   Albus: Beautiful. I... I can 
+   Albus: Beautiful. I... I can
+   finally...
 
-   Sparkles of light rise into t
+   Sparkles of light rise into
+   the air from Shanoa.
 
 Shanoa: Albus...? Wait, don't...
    Shanoa: NO! ALBUS!!!
 
-   The room begins to shake and 
+   The room begins to shake and
+   rocks fall from the ceiling.
 
 The scene shifts to Shanoa
 standing outside Dracula's
@@ -7347,15 +8210,18 @@ Large Cavern [Large1]
 Enemies: 080 Tin Man, 087 Cave
 Troll, 104 Jiang Shi, 105 Demon
 Lord,
-  106 Double Hammer, 107 Weapon 
+  106 Double Hammer, 107 Weapon
+  Master
 Items: 6 random chests Wood
 Chests: Diamond, Gold Ore, High
 Potion, Onyx Green Chests:
 Alexandrite, Minerva Greaves,
 Minerva Mail, Minerva Mask
 Glyphs: Globus*, Fidelis Mortis
-*Demon Lords use this Glyph in c
- obtainable places.
+*Demon Lords use this Glyph in
+ combat, making it unique in
+ that it has 2 obtainable
+ places.
 
 This area is comprised of a
 series of linked rooms, each
@@ -10229,17 +11095,23 @@ break.
 
 Current Incarnation: Version 1.2
 
-History 1.0- Initial Release
+History
+1.0- Initial Release
 1.1- Spelling and Grammer
-checked, fixed some typos that
-resulted from editing
- the draft onto notepad, fixed s
- assume came from rewriting cert
+  checked, fixed some typos that
+  resulted from editing
+ the draft onto notepad, fixed
+ some really funky typos that I
+ can only assume came from
+ rewriting certain sections,
+ added contact section
 1.2- Added alternate boss
-strategies section, fleshed out
-the credits with the
- names or aliases of several peo
- contributions were, updated con
+  strategies section, fleshed
+  out the credits with the
+ names or aliases of several
+ people who sent me emails and
+ what their contributions were,
+ updated contact info
 
 =---------------------=
 + Contact Information +

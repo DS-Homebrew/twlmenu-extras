@@ -1,7 +1,8 @@
 ================================
 
-  F I N A L   F A N T A S Y   C 
-  E c h o e s   o f   T i m e
+  F I N A L F A N T A S Y C R Y
+  S T A L C H R O N I C L E S E
+  c h o e s o f T i m e
 
        FAQ / WALKTHROUGH
 
@@ -47,34 +48,52 @@ enough.
 
 ================================
 --------------------------------
- TABLE OF CONTENTS              
+ TABLE OF CONTENTS FFCC: ECHOES
+ OF TIME
 --------------------------------
 ================================
 
 
-    1. INTRODUCTION ............
+    1. INTRODUCTION
+       .........................
+       sep01
 
-    2. GAME BASICS .............
+    2. GAME BASICS
+       .........................
+       . sep02
 
-    3. WALKTHROUGH .............
+    3. WALKTHROUGH
+       .........................
+       . sep03
 
-    4. SECRETS & UNLOCKABLES ...
+    4. SECRETS & UNLOCKABLES
+       ................ sep04
 
-    5. RACE ABILITY & STATS ....
+    5. RACE ABILITY & STATS
+       ................. sep05
 
-    6. QUEST LIST ..............
+    6. QUEST LIST
+       .........................
+       .. sep06
 
-    7. MERCENARIES .............
+    7. MERCENARIES
+       .........................
+       . sep07
 
-    8. MAGIC LIST ..............
+    8. MAGIC LIST
+       .........................
+       .. sep08
 
-    9. CONTACT/CREDTIS .........
+    9. CONTACT/CREDTIS
+       ......................
+       sep09
 
 
 
 ================================
 --------------------------------
- 1. INTRODUCTION                
+ 1. INTRODUCTION FFCC: ECHOES OF
+    TIME
 --------------------------------
 ================================
 
@@ -99,16 +118,22 @@ spoiler of the game.
 
 version
 0.1:
- - Covered full walkthrough, gam
+ - Covered full walkthrough,
+   game basic, and most
+   unlockables
 
 0.2:
- - Minor revisions, name changes
+ - Minor revisions, name
+   changes, etc
 
 0.3:
  - Minor revisions. RACE ABILITY
+   & STATS, MAGIC LIST sections
+   added
 
 0.4:
- - QUEST LIST, MERCENARIES secti
+ - QUEST LIST, MERCENARIES
+   sections added
 
 SEP:
  - Minor corrections.
@@ -125,7 +150,8 @@ walkthrough.html
 
 ================================
 --------------------------------
- 2. GAME BASICS                 
+ 2. GAME BASICS FFCC: ECHOES OF
+    TIME
 --------------------------------
 ================================
 
@@ -143,13 +169,16 @@ sep02
 
  L = Lock magic/Summon ally
 
- R = Hold it + D-pad control to 
+ R = Hold it + D-pad control to
+ select character or magic
 
 SELECT = View map
 
  START = Open party menu/Trigger
+ skip option during a scene
 
- D-pad = Move character or selec
+ D-pad = Move character or
+ selection
 
 
 --------------------------------
@@ -204,7 +233,9 @@ Starting Equipment
  - Power Ring
 
 
-*For more details of the abiliti
+*For more details of the
+ abilities as well as their
+ growth statistics,
 check section "5. RACE ABILITY &
 STATS" section.
 
@@ -212,7 +243,8 @@ STATS" section.
 
 ================================
 --------------------------------
- 3. WALKTHROUGH                 
+ 3. WALKTHROUGH FFCC: ECHOES OF
+    TIME
 --------------------------------
 ================================
 
@@ -1825,7 +1857,8 @@ the game.
 
 ================================
 --------------------------------
- 4. SECRETS & UNLOCKABLES       
+ 4. SECRETS & UNLOCKABLES FFCC:
+    ECHOES OF TIME
 --------------------------------
 ================================
 
@@ -1874,7 +1907,8 @@ Stage will appear again.
 
 ================================
 --------------------------------
- 5. RACE ABILITY & STATS        
+ 5. RACE ABILITY & STATS FFCC:
+    ECHOES OF TIME
 --------------------------------
 ================================
 
@@ -2234,7 +2268,8 @@ Lv99 | Rate |
 
 ================================
 --------------------------------
- 6. QUEST LIST                  
+ 6. QUEST LIST FFCC: ECHOES OF
+    TIME
 --------------------------------
 ================================
 
@@ -2250,7 +2285,8 @@ section of the Town
 |  CO-OP  |
 -----------
 ================================
- Quest             | Reward (N) 
+ Quest | Reward (N) | Reward
+ (H/V) | Condition/Unlock
 ================================
 Culinary Capers 1 | Silk | Fine
 Leather | Talk to the Chef in
@@ -2258,17 +2294,18 @@ Town
 -------------------|------------
 Culinary Capers 2 | Fruity | Gil
 Mania | Talk to the Chef in Town
-    | Nugget      |             
+    | Nugget | | after Fire
+    Mountain
 -------------------|------------
 Culinary Capers 3 | Fine Silk |
 Holy Orb | Talk to the Chef in
 Town
-    |             |             
+    | | | after Ice Mountain
 -------------------|------------
 Culinary Capers 4 | Ki Gem |
 Sportswear | Talk to the Chef in
 Town
-    |             |             
+    | | | after the Tower/ending
 -------------------|------------
 Treasure Hunt! 1 | Steel | Mu
 Parchment | Talk to the Moogle
@@ -2278,13 +2315,14 @@ in Forest
 Treasure Hunt! 2 | Ninja |
 Ishtar's Head| Talk to the
 Moogle in
-    | Headgear    |             
+    | Headgear | | Ice Mountain
 -------------------|------------
 Materials Hunt! | Bomb Mask |
 Lucky Sling | Clear Graveyard,
 talk to the
-    |             |             
-    |             |             
+    | | | soldier in Town
+    (bench). | | | Check the
+    board in Ruins
 -------------------|------------
 Monster Mash 1 | Leather | Fine
 Leather | The board in Aqueducts
@@ -2297,7 +2335,8 @@ Mercenary
 Monster Mash 3 | Clay Doll |
 Hairpin of | Clear Monster Mash
 2, talk
-    | Armor       | Affection   
+    | Armor | Affection | to the
+    soldier in Aqueducts
 -------------------|------------
 Fake Fight Frenzy 1| Copper Fine
 | Silk | Clear Aqueducts stage
@@ -2305,28 +2344,31 @@ Fake Fight Frenzy 1| Copper Fine
 Fake Fight Frenzy 2| Mu |
 Fairytale | Clear Fake Fight
 Frenzy 1
-    | Parchment   | Frock       
+    | Parchment | Frock | Clear
+    Library stage
 -------------------|------------
 Fake Fight Frenzy 3| Seraph Dust
 | Holy Orb | Clear Fake Fight
 Frenzy 2
-    |             |             
+    | | | Clear Forest 2 stage
 -------------------|------------
 Fire Fighters 1 | Pot | Fine
 Silk | default
 -------------------|------------
 Fire Fighters 2 | Fruity | Gil
 Mania | Clear Fire Fighters 1
-    | Nugget      |             
+    | Nugget | | Clear Library
+    stage
 -------------------|------------
 Fire Fighters 3 | Gold | Red Orb
 | Clear Fire Fighters 2
-    |             |             
+    | | | Clear Ruins 2 stage
 -------------------|------------
 Fire Fighters 4 | Black |
 Orichalcum | Clear Fire Fighters
 3
-    | Silver      |             
+    | Silver | | Clear Forest 2
+    stage
 -------------------|------------
 Fragile! 1 | Bamboo Sword| Iron
 Silk | The board in Aqueducts 2
@@ -2388,32 +2430,34 @@ Invisible | Platinum | Royal
 Armor | Clear 50% quests, talk
 to Stalkers 2 | | | the soldier
 at the Gate
-    |             |             
+    | | | after the Tower/ending
 -------------------|------------
 Monster | Ki Gem | Mythril |
 Talk to the soldier in Collector
 1 | | | Ice Mountain 2 when
-    |             |             
+    | | | Graveyard is unlocked
 -------------------|------------
 Monster | Black | Mythril Silk |
 Clear the Monster Collector 1
 Collector 2 | | | talk to the
 soldier in
-    |             |             
-    |             |             
+    | | | Fire mountain and
+    bring | | | him Flame Fungus
 -------------------|------------
 Monster | Black Gold | Holy Orb
 | After Graveyard, talk to the
 Collector 3 | | | soldier in
 Forest bring him
-    |             |             
+    | | | Soft Cell, Spin
+    Amoeba, and
     |             |             
 -------------------|------------
 Monster | Clay Doll | Creepy |
 Clear Monster Collector 3
 Collector 4 | Helm | Costume |
 Clear Tower stage, talk to
-    |             |             
+    | | | the soldier in the
+    Mine
 --------------------------------
 
 
@@ -2421,26 +2465,28 @@ Clear Tower stage, talk to
 |  VS  |
 --------
 ================================
- Quest             | Reward (N) 
+ Quest | Reward (N) | Reward
+ (H/V) | Condition/Unlock
 ================================
 Smash-O-Rama 1 | Silk | Seraph
 Dust | default
 -------------------|------------
 Smash-O-Rama 2 | Copper | Sulfur
 Dust | Clear Smash-O-Rama 1
-    |             |             
+    | | | When Ice Mountain is
+    unlocked
 -------------------|------------
 Smash-O-Rama 3 | Silk | Holy Orb
 | Clear Smash-O-Rama 2
-    |             |             
+    | | | Clear Forest 2 stage
 -------------------|------------
 Smash-O-Rama 4 | Seraph Dust |
 Abyssian | Clear Smash-O-Rama 3
-    |             |             
+    | | | Clear the Gate stage
 -------------------|------------
 Smash-O-Rama 5 | Platinum |
 Abyssian | Clear Smash-O-Rama 4
-    |             |             
+    | | | Clear the Tower
 -------------------|------------
 Starfest Counting | Leather |
 Sulfur Dust | default
@@ -2462,11 +2508,11 @@ unlocked
 -------------------|------------
 Carry Tag 2 | Leather | Black
 Gold | Clear Carry Tag 1
-    |             |             
+    | | | Clear Library stage
 -------------------|------------
 Carry Tag 3 | Black Gold | Dark
 Orb | Clear Carry Tag 2
-    |             |             
+    | | | Clear Graveyard stage
 -------------------|------------
 Barrel Battle 1 | Iron | Black
 Gold | Clear Ice Mountain stage
@@ -2474,11 +2520,11 @@ Gold | Clear Ice Mountain stage
 Barrel Battle 2 | Silver |
 Seraph Dust | Clear Barrel
 Battle 1
-    |             |             
+    | | | Clear Forest 2 stage
 -------------------|------------
 Barrel Battle 3 | Platinum |
 Dark Orb | Clear Barrel Battle 2
-    |             |             
+    | | | When Tower is unlocked
 -------------------|------------
 Forgot the Fakes 1 | Iron | Fine
 Silk | Clear Fire Mountain stage
@@ -2486,12 +2532,12 @@ Silk | Clear Fire Mountain stage
 Forgot the Fakes 2 | Gold |
 Mythril Silk | Clear Forgot the
 Fakes 1
-    |             |             
+    | | | Clear Forest 2 stage
 -------------------|------------
 Forgot the Fakes 3 | Seraph Dust
 | Holy Orb | Clear Forgot the
 Fakes 2
-    |             |             
+    | | | Clear Mine stage
 -------------------|------------
 Switches | Silk | Fine Leather |
 Clear Fire Mountain stage
@@ -2513,11 +2559,11 @@ stage
 -------------------|------------
 Whirlpolo 2 | Black Gold | Dark
 Orb | Clear Whirlpolo 1
-    |             |             
+    | | | Clear Mine stage
 -------------------|------------
 Whirlpolo 3 | Platinum | Holy
 Orb | Clear Whirlpolo 2
-    |             |             
+    | | | When Tower is unlocked
 -------------------|------------
 Balloon Boppers 1 | Silk |
 Platinum | Clear Library stage
@@ -2525,12 +2571,13 @@ Platinum | Clear Library stage
 Balloon Boppers 2 | Black
 Silver| Mythril | Clear Balloon
 Boppers 1
-    |             |             
+    | | | Clear Forest 2 stage
 -------------------|------------
 Balloon Boppers 3 | Seraph Dust
 | Holy Orb | Clear Balloon
 Boppers 2
-    |             |             
+    | | | When Gate/Bridge is
+    unlocked
 -------------------|------------
 Gladiators 1 | Mu Parchment|
 Seraph Dust | Clear Library
@@ -2538,11 +2585,11 @@ stage
 -------------------|------------
 Gladiators 2 | Gold | Phoenix
 Down | Clear Gladiators 1
-    |             |             
+    | | | Clear Forest 2 stage
 -------------------|------------
 Gladiators 3 | Sulfur Dust |
 Orichalcum | Clear Gladiators 2
-    |             |             
+    | | | Clear Tower stage
 --------------------------------
 
 
@@ -2550,7 +2597,8 @@ Orichalcum | Clear Gladiators 2
 
 ================================
 --------------------------------
- 7. MERCENARIES                 
+ 7. MERCENARIES FFCC: ECHOES OF
+    TIME
 --------------------------------
 ================================
 
@@ -2577,6 +2625,7 @@ Mage Hat, Red Mage Cloak, Mind
 Ring Abilities: Paddle Charge,
 Paddle Chain 2, Bow Charge,
   Paddle Chain 3,Three-way Shot,
+  Magic Stack 3
 
 ==========================  ====
 | Status | Start | Lv99 | |
@@ -2665,7 +2714,8 @@ Scythe, Sniper's Eye, Gambler's
 Gear, Magic Ring Abilities:
 Magic Stack 3, Stuff Charge,
 Magic Stack 4, Ring Lock 2
-  Charge Guard, Magic Stack 5, G
+  Charge Guard, Magic Stack 5,
+  Guard Counter
 
 ==========================  ====
 | Status | Start | Lv99 | |
@@ -2707,7 +2757,8 @@ Hammer,Scholar's Hood, Steward's
 Suit, Magic Ring Abilities:
 Magic Stack 3, Staff Change,
 Magic Stack 4, Ring Lock 2,
-  Charge Guard, Magic Stack 5, G
+  Charge Guard, Magic Stack 5,
+  Guard Counter
 
 ==========================  ====
 | Status | Start | Lv99 | |
@@ -2787,7 +2838,10 @@ Mind Ring Abilities: Paddle
 Charge, Paddle Chain 2, Bow
 Charge, Paddle Chain 3,
   Three-way Shot, Magic Stack 3,
-  Guard Counter, HP+20, Bow Smas
+  Charge Guard, Straight Arrow,
+  Guard Counter, HP+20, Bow
+  Smash, Ring Lock 2, Five-way
+  Shot
 
 ==========================  ====
 | Status | Start | Lv99 | |
@@ -2897,7 +2951,8 @@ Elemental | ATK | DEF |
 
 ================================
 --------------------------------
- 8. MAGIC LIST                  
+ 8. MAGIC LIST FFCC: ECHOES OF
+    TIME
 --------------------------------
 ================================
 
@@ -2978,7 +3033,8 @@ Clear |
 
 ================================
 --------------------------------
- 9. CONTACT/CREDITS             
+ 9. CONTACT/CREDITS FFCC: ECHOES
+    OF TIME
 --------------------------------
 ================================
 

@@ -1,6 +1,8 @@
 
-  {// Shin Megami Tensei: Devil 
- FAQ/Walkthrough - version 1.00 
+  {// Shin Megami Tensei: Devil
+  Survivor
+ FAQ/Walkthrough - version 1.00
+ (c) DarkenedSakura //}
 
 
 =---=---------------------------
@@ -14,74 +16,116 @@
    4. Basics ...................
    5. Characters ...............
    6. Battle System ............
- A. Mission/battle system       
+ A. Mission/battle system [0602]
  B. Extra Turn                  
- C. Fighting stats              
- D. Recommended MC stats?       
+ C. Fighting stats [0604] D.
+ Recommended MC stats? [0605]
  E. Skills                      
- F. Macca bonus/magnetite       
+ F. Macca bonus/magnetite [0607]
    7. Event System .............
  A. Timed events                
- B. Plot, battles and routes    
+ B. Plot, battles and routes
+ [0703]
  C. Blue events                 
- D. Which route should I...?    
- E. Last Day comparisons        
+ D. Which route should I...?
+ [0705] E. Last Day comparisons
+ [0706]
    8. New Game+ ................
 
 
    9. Day Before - An End to the
+      Ordinary .................
+      ............[0901]
  A. Events                      
  B. Battles                     
   10. 1st Day - Tokyo Lockdown .
+      ..........................
+      .............[1001]
  A. Events                      
  B. Battles                     
   11. 2nd Day - Any Way Out ....
+      ..........................
+      .............[1101]
  A. Events                      
  B. Battles                     
   12. 3rd Day - Beldr ..........
  A. Events                      
  B. Battles                     
   13. 4th Day - Crumbling Reason
+      ..........................
+      ............[1301]
  A. Events                      
  B. Battles                     
   14. 5th Day - Revelations ....
+      ..........................
+      .............[1401]
  A. Events                      
  B. Battles                     
-  15. 6th Day - The Decisive Mom
+  15. 6th Day - The Decisive
+      Moment ...................
+      ................[1501]
  A. Events                      
  B. Battles                     
 
   16. Last Day - Amane's Route -
-  17. Last Day - Atsuro's Route 
-  18. Last Day - Gin's Route - S
+      Kingdom of Saints
+      ....................[1601]
+  17. Last Day - Atsuro's Route
+      - Silent Revolution
+      ...................[1701]
+  18. Last Day - Gin's Route -
+      Song of Hope .............
+      ..............[1801]
   19. Last Day - Kaido's Route -
+      King of Demons ...........
+      ............[1901]
   20. Last Day - Naoya's Route -
-  21. Last Day - Yuzu's Route - 
+      King of Demons ...........
+      ............[2001]
+  21. Last Day - Yuzu's Route -
+      Desperate Escape .........
+      .............[2101]
 
-  22. Last Day - Fallen Morning 
+  22. Last Day - Fallen Morning
+      Star battle ..............
+      .............[2201]
 
   23. Skill List ...............
  A. Command Skills .............
- B. Passive Skills .............
+ ...............................
+ ...[2302] B. Passive Skills ...
+ ...............................
+ .............[2303]
  C. Auto Skills ................
  D. Racial Skills ..............
  E. Demon-Only Skills ..........
+ ...............................
+ ...[2306]
 
   24. Auctions .................
  A. Overview                    
- B. Auction Rating              
+ B. Auction Rating [2403]
   25. Fusions ..................
  A. Overview                    
  B. Fusion Chart                
- C. Fusion Combination List     
+ C. Fusion Combination List
+ [2504]
  C. Bonus Stats                 
- D. Mitama Strategy             
+ D. Mitama Strategy [2505]
   26. Fusion Database ..........
+      ..........................
+      .............[2601]
   27. Unlockable Fusions .......
+      ..........................
+      .............[2701]
 
   28. Recommended Skill Setups .
+      ..........................
+      .............[2801]
 
   29. Events & Route Outlines ..
+      ..........................
+      .............[2901]
  A. Amane ......................
  B. Atsuro .....................
  C. Gin ........................
@@ -98,6 +142,8 @@
  F. Yuzu .......................
 
   31. Frequently Asked Questions
+      ..........................
+      ............[3101]
 
 
 
@@ -108,37 +154,79 @@
 {// 1.00 - minor update -
 December 29, 2009
   - School sort of killed me, so
-    liked. Anyway, a few more er
-    Day 5 emails I was missing a
+    I didn't get to update as
+    early as I'd have
+    liked. Anyway, a few more
+    errors and the like have
+    been fixed. Added some Day 5
+    emails I was missing as
+    well.
 
 {// 1.00 - September 24, 2009
-  - Gin's route is up, along wit
-    And whoops, while I was edit
+  - Gin's route is up, along
+    with info on the optional
+    Lucifer boss battle.
+    And whoops, while I was
+    editing I didn't fully
+    correct the stuff on the
     Mari/Kudlak battles, so that
-    up all the Day 5 possible ba
-  - Added a few more mini-sectio
-  - For now, this is the 'finish
-    I'll probably add a few thin
-    auction and their skills/etc
-    to fix up. But this covers m
+    should be fixed now. Also
+    finished writing up all the
+    Day 5 possible battles.
+    Corrected other things.
+  - Added a few more mini-
+    sections under Nos. 6 and 7.
+    Changed 28.
+  - For now, this is the
+    'finished' version of the
+    guide. When I have time,
+    I'll probably add a few
+    things like specific fusion
+    lists, demons in the auction
+    and their skills/etc, blah
+    blah. There's also a few
+    things I want to fix up. But
+    this covers most of it.
 
 {// 0.83 - September 1, 2009
   - Naoya's/Kaido's route is up.
-    the skill lists. Fixed some 
-  - I tried putting in more note
+    Finished the fusion stuff
+    and database, and
+    the skill lists. Fixed some
+    typos and errors.
+  - I tried putting in more
+    notes to make some things a
+    little more obvious,
     like "even if you follow the
-    questions and emails well, y
-    aren't up to date you'll def
+    route outline, if you -don't
+    answer dialogue questions
+    and emails well, you won't
+    unlock it-," and "if your
+    demons aren't up to date
+    you'll definitely be
+    struggling," etc etc.
 
 {// 0.70 - August 10, 2009
-  - Slowly, unsteadily, but sure
-    yeeeeah. Not that I, er, wor
-  - First version up on GameFAQs
+  - Slowly, unsteadily, but
+    surely hacking this out. (I
+    started a month ago,
+    yeeeeah. Not that I, er,
+    worked on it that long.)
+  - First version up on
+    GameFAQs. Info for Days 1-6
+    is up, along with Yuzu's,
  Atsuro's, and Amane's routes.
-  - Next priority: Complete Skil
-    alternate Day 7 routes, advi
-    all, yeah I'm lazy. And If t
-    think would help the guide, 
+  - Next priority: Complete
+    Skill List information,
+    auction/demon things,
+    alternate Day 7 routes,
+    advised fusions. ...When I
+    get to formatting it all,
+    yeah I'm lazy. And If
+    there's something I haven't
+    included that you think
+    would help the guide, please
+    suggest it.
 
 
 =---=---------------------------
@@ -232,9 +320,14 @@ trademark and copyright holders.
 |4. Basics                      
 =---=---------------------------
 
-   { As He proclaimed...this wor
- with the sounding of seven trum
- numbers your eyes shall see. Fe
+   { As He proclaimed...this
+   world, created in seven days,
+   shall be destroyed
+ with the sounding of seven
+ trumpets. You who have a will,
+ fear the numbers your eyes
+ shall see. Fear the time
+ left... }
 
 It's an ordinary day. You're
 supposed to be spending time
@@ -338,9 +431,9 @@ movement range of
 
 
 (C) Yuzu Tanikawa
-    Age: 17
-    Email Handle: YUZ
-    Playable routes: all except 
+    Age: 17 Email Handle: YUZ
+    Playable routes: all except
+    Naoya's
 
 She's a childhood friend and
 high school classmate of the
@@ -374,9 +467,9 @@ however.
 
 
 (D) Naoya
-    Age: 24
-    Email handle: NAOYA
-    Playable routes: Naoya's, Ka
+    Age: 24 Email handle: NAOYA
+    Playable routes: Naoya's,
+    Kaido's
 
 He lost his parents at an early
 age and lived with the MC's
@@ -402,9 +495,9 @@ Yuzu.
 
 
 (E) Keisuke Takagi
-    Age: 17
-    Email handle: K-T
-    Playable routes: all except 
+    Age: 17 Email handle: K-T
+    Playable routes: all except
+    Naoya's
 
 Atsuro was good friends with him
 in middle school, though they
@@ -429,9 +522,9 @@ low. He has a movement range of
 
 
 (F) Midori Komaki
-    Age: 15
-    Email handle: DOLLY
-    Playable routes: all except 
+    Age: 15 Email handle: DOLLY
+    Playable routes: all except
+    Naoya's
 
 A famous camgirl on the internet
 who goes by the name of Dolly,
@@ -523,9 +616,9 @@ of 4 and a Speed of 52.
 
 
 (H) Tadashi "Kaido" Nikaido
-    Age: 19
-    Email handle: NIKAIDO
-    Playable routes: Kaido's, Na
+    Age: 19 Email handle:
+    NIKAIDO Playable routes:
+    Kaido's, Naoya's
 
 Kaido's the well-known leader of
 the Shibuya Daemons, a
@@ -571,9 +664,9 @@ even on some of the routes...
 
 
 (J) Mari Mochizuki
-    Age: 23
-    Email handle: n/a
-    Playable routes: all except 
+    Age: 23 Email handle: n/a
+    Playable routes: all except
+    Yuzu's
 
 An elementary school nurse, Mari
 was Atsuro's former tutor. She
@@ -593,9 +686,9 @@ has a movement range of 4.
 
 
 (K) Amane Kuzuryu
-    Age: 16
-    Email handle: AMANE
-    Playable routes: Amane's, Gi
+    Age: 16 Email handle: AMANE
+    Playable routes: Amane's,
+    Gin's
 
 The daughter of the founder, the
 Shomonkai's maiden speaks with a
@@ -646,9 +739,9 @@ have guessed.
 
 
 (N) Misaki Izuna
-    Age: 26
-    Email handle: n/a
-    Playable routes: Atsuro's, G
+    Age: 26 Email handle: n/a
+    Playable routes: Atsuro's,
+    Gin's
 
 She's a member of a special
 government unit deployed to deal
@@ -695,9 +788,9 @@ is he?
 
 
 (Q) Black Frost
-    Age: n/a
-    Email handle: n/a
-    Playable routes: Gin's, Kaid
+    Age: n/a Email handle: n/a
+    Playable routes: Gin's,
+    Kaido's, Naoya's
 
 If you manage to see the scene
 where Midori teaches a Jack
@@ -776,12 +869,19 @@ if they run out of HP, that's
 it), sometimes you'll only have
 to defeat a boss to win.
 
-   NOTE: Just going to stick thi
-  a really hard time with the ga
-  are fine, it's because you for
-  them up to date - that's why y
+   NOTE: Just going to stick
+   this bit of advice here. If
+   you're ever having
+  a really hard time with the
+  game even if your team
+  leaders' levels are fine, it's
+  because you forgot about your
+  demons. Always keep them up to
+  date - that's why you can
+  fuse. Demons level up much
   slower than your team leaders,
-  time is not viable.
+  so keeping them around for a
+  long time is not viable.
 
 
 { // B: Extra Turn
@@ -829,13 +929,16 @@ damage-dealing
 Magic: affects the strength of
 any elemental MP-costing magic
 attack, and
-  the amount of MP a character h
+  the amount of MP a character
+  has. Also factors into magic
+  defense.
 Vitality: affects the amount of
 HP and physical defense a
 character has. Agility:
 determines how soon a character
 will attack in battle, and the
-  likelihood of getting Extra Tu
+  likelihood of getting Extra
+  Turns.
 
 Stats alone don't determine
 damage factors, as your level
@@ -959,20 +1062,26 @@ Racial, and Auto.
 Command: lets you take action in
 battle (i.e. magic, phys.
 attack, healing,
-  status effects, defense/reflec
+  status effects,
+  defense/reflect/null attacks).
 Passive: primarily
 defense/support oriented (i.e.
 elemental resistances,
   increased crit rates, possible
+  status infliction, 2x attack).
 Racial: demons only. Each demon
 race (Fairy, Kishin, Jaki,
 Gemna...) has a
   unique ability (i.e. increased
-  MP recovery, crit rate increas
+  movement/attack range, ranged
+  healing, MP recovery, crit
+  rate increase.)
 Auto: tamers only. Kicks in at
 the beginning of/during battle
 (i.e. increased
-  evade/attack/defense, halved M
+  evade/attack/defense, halved
+  MP cost, healing, null element
+  attack).
 
 
 {// F: Macca bonus/magnetite
@@ -1081,11 +1190,17 @@ Yuzu's path is a default path.
 No matter what you do, it'll be
 available.
 
-   NOTE: In addition to events, 
-  tallies up additional things l
-  choices. This system - aka, ho
-  which routes get unlocked as w
-  applicable to a route will not
+   NOTE: In addition to events,
+   there's a bit of a point
+   system that
+  tallies up additional things
+  like how you answer dialogue
+  choices. This system - aka,
+  how you answer dialogue, does
+  affect which routes get
+  unlocked as well. Just picking
+  all the events applicable to a
+  route will not unlock it.
 
 
 {// C: Blue events
@@ -1112,17 +1227,37 @@ answer to this one. There's
 obviously no one, perfect
 answer, but here's a few ideas.
 
- - Beat the game on Yuzu's route
+ - Beat the game on Yuzu's
+   route. You'll get all the
+   bonuses of New Game+
    (sans the movement range of 5
-   will make the other routes mo
-   In all the other routes, -you
-   and Babel-. So unless you rea
-   recommend Yuzu's route first 
- - Otherwise, Atsuro's and Amane
- - Despite the hype, the followi
-   routes. Hard? Yes. Grindfest 
-   you want to tear your hair ou
-   drastically easier (and not a
+   for the MC) and unlock
+   several fusions that will
+   make the other routes more
+   manageable. This route is the
+   easiest. In all the other
+   routes, -you have to fight
+   all/most of the Bels, the
+   Devas, and Babel-. So unless
+   you really don't want to play
+   this game twice, I'd
+   recommend Yuzu's route first
+   to save yourself the
+   grindfest.
+ - Otherwise, Atsuro's and
+   Amane's will be moderate
+   challenges.
+ - Despite the hype, the
+   following are doable: go for
+   Gin's or Naoya's/Kaido's
+   routes. Hard? Yes. Grindfest
+   at times? Maybe.
+   Final/penultimate levels make
+   you want to tear your hair
+   out? Maybe. But they're not
+   impossible...just drastically
+   easier (and not as time-
+   intensive) on New Game+.
 
 Overall, don't freak out about
 it. If you're really bent on not
@@ -1161,21 +1296,32 @@ Amane
  - Jezebel
  - Bishamon, Koumoku, Zouchou
  - Belzebub
- - Naoya; Loki (aka, two annoyin
+ - Naoya; Loki (aka, two
+   annoyingly powerful
+   Megidolaon users)
  - Belberith
  - Babel
-   -- Bel gauntlet - refighting 
+   -- Bel gauntlet - refighting
+      all the past Bels
+      (including Beldr and
+      Belial)
 
 Atsuro
- - Naoya (try to catch him, he r
+ - Naoya (try to catch him, he
+   runs all over the place)
  - Bishamon, Koumoku, Zouchou
  - Belzebub
  - Belberith
  - Babel
    -- Phase one - You'll have to
- a demon team. Atsuro is require
- last half (once you access the 
-   -- Phase two - Three Gate/ele
+      escort someone who's not
+      defenseless but lacks
+ a demon team. Atsuro is
+ required, and will be out of
+ commission for the last half
+ (once you access the console)
+   -- Phase two - Three
+      Gate/elemental forms
 
 Gin
  - Jezebel
@@ -1184,25 +1330,41 @@ Gin
  - Belberith
  - Babel
    -- Phase one - You'll have to
+      escort someone who's
+      entirely defenseless.
  Atsuro is required, and will be
- you access the console)
-   -- Phase two - Three Gate/ele
- are all gone - yep, your team l
- and resistance do go down sligh
+ out of commission for the last
+ half (once you access the
+ console)
+   -- Phase two - Three
+      Gate/elemental
+      forms...and, most of all,
+      your demons
+ are all gone - yep, your team
+ leaders fight this one solo
+ (Babel's level and resistance
+ do go down slightly, though)
 
 Kaido/Naoya
- - Believers, Amane (a huge Evil
+ - Believers, Amane (a huge
+   Evil/Chaos Wave'ing horde)
  - Jezebel
  - Bishamon, Koumoku, Zouchou
  - Belzebub
- - Aniels, Kazfiels, Sariel, Ana
+ - Aniels, Kazfiels, Sariel,
+   Anael
  - Belberith
  - Babel
-   -- Bel gauntlet - refighting 
+   -- Bel gauntlet - refighting
+      all the past Bels
+      (including Beldr and
+      Belial)
 
 Yuzu
- - Loki (and Laksmis to Skill Cr
- - Aniels, Kazfiels, Sariel, Ana
+ - Loki (and Laksmis to Skill
+   Crack off of)
+ - Aniels, Kazfiels, Sariel,
+   Anael; Amane, Izuna
 
 
 
@@ -1219,23 +1381,44 @@ you'll get the following:
  - All Skill Cracks carry over.
  - All Macca carries over.
  - All demons carry over. (Yeah,
- - Your auction rating carries o
+   no joke.)
+ - Your auction rating carries
+   over (and with it, auction
+   levels - Gold, etc).
  - Unlocked fusions carry over.
- - The level limit for fusions i
- - There will be no experience p
-   lower-level demons. Basically
-   time-consuming. If you even n
+ - The level limit for fusions
+   is no more.
+ - There will be no experience
+   penalty where you get less
+   EXP from defeating
+   lower-level demons.
+   Basically, grinding? Becomes
+   a lot easier and less time-
+   consuming. If you even need
+   to.
  - The character whose route you
-   (If you beat Kaido's route, y
-    Gin's route, you'll get Gin 
- - There's an optional boss on t
+   beat appears on the title
+   screen.
+   (If you beat Kaido's route,
+   you'll unlock Naoya's
+   picture. And if you beat
+    Gin's route, you'll get Gin
+    and Haru's pictures.)
+ - There's an optional boss on
+   the Last Day.
 
 Also, the MC can get certain
 boosts:
- - If you beat Yuzu's route, you
- - If you beat any other route, 
+ - If you beat Yuzu's route,
+   you'll start with a movement
+   of 4 and Speed of 53.
+ - If you beat any other route,
+   you'll start with a movement
+   of 5 and Speed of
    56.
- - These don't stack (i.e. you b
+ - These don't stack (i.e. you
+   beat the game twice, you
+   won't have 59-62 Speed
 or a movement of 6 or whatever).
 
 Yeah, without New Game+,
@@ -1305,9 +1488,13 @@ indicated instead.
 Also, one kinda important pre-
 game reminder, again:
 
- Your dialogue choices in the ga
- specific ones that influence ma
- the routes you can get on the 6
+ Your dialogue choices in the
+ game? Important. In addition to
+ various specific ones that
+ influence major plot points, a
+ lot of it will affect the
+ routes you can get on the 6th
+ Day. Keep it in mind.
 
 --------------------------------
 --------------------------------
@@ -1336,20 +1523,27 @@ Shibuya, Ebisu.
 
 Key:
 * - Event cannot be skipped.
-    (Note that all [BATTLE]s by 
- skipped, unless [OPTIONAL] is i
+    (Note that all [BATTLE]s by
+    their nature are plot-
+    oriented and cannot be
+ skipped, unless [OPTIONAL] is
+ indicated.)
 
 16:00
- - ??? (Founder) - Shinjuku     
+ - ??? (Founder) - Shinjuku <--
+   Amane route
 
  - Atsuro - Shibuya
-   -- I honestly don't think thi
- do anything route-wise, so. Mig
+   -- I honestly don't think
+      this will
+ do anything route-wise, so.
+ Might
   contribute points to getting
  Atsuro's route, though.
 
 16:30
- - Yuzu - Omotesando*           
+ - Yuzu - Omotesando* <-- And
+   everything else is plot.
 
 17:00
  - Residential Area - Aoyama*
@@ -1507,33 +1701,44 @@ Schedule:
 
 Key:
  *  - Event cannot be skipped.
- (Note that all [BATTLE]s by the
- skipped, unless [OPTIONAL] is i
+ (Note that all [BATTLE]s by
+ their nature are plot-oriented
+ and cannot be skipped, unless
+ [OPTIONAL] is indicated.)
 
 9:00
  - Atsuro – Shibuya (until 9:30)
+   <-- Atsuro route
 
- - Yuzu – Shibuya (until 9:30)  
+ - Yuzu – Shibuya (until 9:30)
+   <-- Yuzu route
 
- - ??? (Kaido) – Shibuya*       
+ - ??? (Kaido) – Shibuya* <--
+   Kaido route
 
- - Look at Yamanote line – Ebisu
+ - Look at Yamanote line –
+   Ebisu* <-- Plot
 
 10:30
- - ??? (Gin) – Omotesando*      
+ - ??? (Gin) – Omotesando* <--
+   Gin/Haru route
 
- - Look at Yamanote line – Shinj
+ - Look at Yamanote line –
+   Shinjuku* <-- Plot
 
 11:00
  - ??? (Haru) – Roppongi*
 
- - Naoya - Shinjuku [BATTLE] (un
+ - Naoya - Shinjuku [BATTLE]
+   (until 12:00) <-- Plot
 
 12:30
- - Look at Yamanote line - Ikebu
+ - Look at Yamanote line -
+   Ikebukuro*
 
 13:00
- - Tokyo Dome - Suidobashi [BATT
+ - Tokyo Dome - Suidobashi
+   [BATTLE]
 
 13:30
  - Keisuke - Akihabara*
@@ -1543,21 +1748,27 @@ Key:
 
  - Look at Yamanote line - Ueno*
 - Look at Yamanote line - Tokyo*
- - Look at Yamanote line - Shina
+ - Look at Yamanote line -
+   Shinagawa*
 
  - Haru & ??? (Azuma) - Roppongi
 
- - ??? (Founder) - Shiba Park   
+ - ??? (Founder) - Shiba Park
+   <-- Amane route
 
 17:00
- - Haru - Kudanshita [BATTLE]   
+ - Haru - Kudanshita [BATTLE]
+   <-- Plot
 
 17:30
- - Yuzu - Shinjuku              
+ - Yuzu - Shinjuku <-- Yuzu
+   route
 
- - Gin - Shinagawa              
+ - Gin - Shinagawa <-- Gin/Haru
+   route
 
- - Aoyama - Cemetary [BATTLE] (u
+ - Aoyama - Cemetary [BATTLE]
+   (until 18:30) <-- Plot
 
 
 Emails:
@@ -1585,7 +1796,8 @@ can should be enough to keep you
 leveled up.
 
 
-   { Naoya - Shinjuku - 11:00, 1
+   { Naoya - Shinjuku - 11:00,
+   11:30, or 12:00 }
 
 Victory:
 Defeat all demons
@@ -1628,7 +1840,8 @@ You'll receive about 60 EXP and
 
 
 
-   { Tokyo Dome - Suidobashi - 1
+   { Tokyo Dome - Suidobashi -
+   13:00 }
 
 Victory:
 Defeat all demons
@@ -1770,7 +1983,8 @@ You'll receive about 110 EXP and
 85 Macca at the end.
 
 
-   { Cemetery - Aoyama - 17:30, 
+   { Cemetery - Aoyama - 17:30,
+   18:00, or 18:30 }
 
 Victory:
 Defeat all demons
@@ -1848,49 +2062,68 @@ that person will disappear from
 the map until the priority
 event's done.
 
-   NOTE: Several events do appea
+   NOTE: Several events do
+   appear after battles. If
+   you're the kind of person
   who likes to do as many events
-  battles (like me), change your
+  as possible before the
+  mandatory battles (like me),
+  change your habit, or you'll
+  miss certain events.
 
 Key: (1) - Same event (two
 events are indicated with this).
- Below, it would be "Kaido - Kan
+ Below, it would be "Kaido -
+ Kanda."
 { } - Unnecessary for route
 completion.
  *  - Event cannot be skipped.
- (Note that all [BATTLE]s by the
- skipped, unless [OPTIONAL] is i
+ (Note that all [BATTLE]s by
+ their nature are plot-oriented
+ and cannot be skipped, unless
+ [OPTIONAL] is indicated.)
 
 9:00
- - Kannagi-cho – Shinjuku*      
+ - Kannagi-cho – Shinjuku* <--
+   Plot
 
- - Gin & Kaido – Omotesando*    
+ - Gin & Kaido – Omotesando* <--
+   Kaido route
 
  - Highway Offramp – Shibuya*
-   --> {Kaido & Honda – Shibuya 
+   --> {Kaido & Honda – Shibuya
+     - until 14:00}
  --> Kaido – Kanda (1)
 
- - Omotesando – Omotesando*     
+ - Omotesando – Omotesando* <--
+   Gin/Haru route
 
- - Yuzu – Shibuya               
+ - Yuzu – Shibuya <-- Yuzu route
 
- - ??? (Mari) – Kanda*          
+ - ??? (Mari) – Kanda* <-- Mari
    --> Mari – Kanda
 
 11:00
  - Hibiya Park – Tokyo
 
- - Tokyo Tower – Shiba Park [BAT
+ - Tokyo Tower – Shiba Park
+   [BATTLE] (until 12:00) <--
+   Plot
    --> ??? (Shoji) – Ikebukuro*
- --> Akasaka Tunnel – Akasaka [B
+ --> Akasaka Tunnel – Akasaka
+   [BATTLE] (until 13:30)
  --> Atsuro – Omotesando* (until
+   14:00)
    --> Shiba Park – Shiba Park*
 
 14:30
- - Kaido & Honda – Ikebukuro [BA
-   -- priority above other event
+ - Kaido & Honda – Ikebukuro
+   [BATTLE]
+   -- priority above other
+      events with
  Kaido and Honda.
-   --> Kaido – Kanda (1)        
+   --> Kaido – Kanda (1) <--
+     Kaido route
  --> Kaido & Mari – Kanda
  --> Kaido – Kanda
  --> Mari - Kanda
@@ -1898,12 +2131,18 @@ completion.
  --> {Honda – Ikebukuro}
 
 16:30
- - Tokyo Tower – Shiba Park [BAT
+ - Tokyo Tower – Shiba Park
+   [BATTLE] (until 17:30) <--
+   Plot
 
 17:30
- - Keisuke & Midori – Ikebukuro 
-   --> {Keisuke & Midori - Ikebu
-   --> Miyashita Koan - Shibuya 
+ - Keisuke & Midori – Ikebukuro
+   [BATTLE] (until 18:30) <--
+   Plot
+   --> {Keisuke & Midori -
+     Ikebukuro}
+   --> Miyashita Koan - Shibuya
+     [BATTLE]
     (until 18:30, OPTIONAL)
 
 
@@ -1930,7 +2169,8 @@ Atsuro
 { // B. Battles ................
         ........................
 
-   { Tokyo Tower - Shiba Park - 
+   { Tokyo Tower - Shiba Park -
+   11:00, 11:30, or 12:00 }
 
 Victory:
 Defeat all demon tamers
@@ -1981,7 +2221,9 @@ You'll receive about 240 EXP and
 
 
 
-   { Akasaka Tunnel - Akasaka - 
+   { Akasaka Tunnel - Akasaka -
+   12:00, 12:30, 13:00, or 13:30
+   }
 
 Victory:
 Defeat all demons
@@ -2025,6 +2267,8 @@ You'll receive about 160 EXP and
 
 
    { Kaido & Honda – Ikebukuro -
+   14:30, 15:00, 15:30, 16:00,
+   or 16:30 }
 
 Victory:
 Defeat all demons
@@ -2084,7 +2328,8 @@ You'll receive about 220 EXP and
 
 
 
-   { Tokyo Tower - Shiba Park - 
+   { Tokyo Tower - Shiba Park -
+   16:30, 17:00, 17:30 }
 
 Victory:
 Defeat all demons
@@ -2157,7 +2402,9 @@ You'll receive about 260 EXP and
 
 
 
-   { Keisuke & Midori - Ikebukur
+   { Keisuke & Midori -
+   Ikebukuro - 17:30, 18:00, or
+   18:30 }
 
 Keisuke & Midori – Ikebukuro
 [BATTLE]
@@ -2212,7 +2459,8 @@ You'll receive about 280 EXP and
 
 
 
-   { Miyashita Koan - Shibuya - 
+   { Miyashita Koan - Shibuya -
+   18:00 or 18:30 - OPTIONAL }
 
 Victory:
 Find the treasure
@@ -2312,8 +2560,10 @@ affect which routes you can get.
 
 Key:
  *  - Event cannot be skipped.
- (Note that all [BATTLE]s by the
- skipped, unless [OPTIONAL] is i
+ (Note that all [BATTLE]s by
+ their nature are plot-oriented
+ and cannot be skipped, unless
+ [OPTIONAL] is indicated.)
 
 9:00
  - Honda – Ikebukuro
@@ -2324,49 +2574,69 @@ Key:
   --> Akasaka Tunnel – Akasaka
  --> Naoya – Shinjuku
 
- - Suspicious man – Omotesando (
-  -- This option disappears afte
+ - Suspicious man – Omotesando
+   (blue) <-- Naoya route
+  -- This option disappears
+     after this day.
 
 10:00
- - Atsuro – Ikebukuro           
+ - Atsuro – Ikebukuro <-- Atsuro
    --> Atsuro – Ikebukuro
 
- - Gin – Omotesando             
+ - Gin – Omotesando <-- Gin/Haru
+   route
 
  - Haru – Tokyo [BATTLE]
-   --> Haru – Kudanshita        
+   --> Haru – Kudanshita <--
+     Gin/Haru route
  --> Haru – Suidobashi
 
 12:30
- - Miyashita Park – Shibuya*    
+ - Miyashita Park – Shibuya* <--
+   Plot
 
- - Midori – Ikebukuro [BATTLE] (
+ - Midori – Ikebukuro [BATTLE]
+   (until 13:30)
    --> Atsuro – Shinagawa*
  --> Devil's fuge info – Nagata-
- --> Devil's fuge info – Suidoba
-  --> Devil's fuge info – Kudans
+   cho (blue)*
+ --> Devil's fuge info –
+   Suidobashi (blue)*
+  --> Devil's fuge info –
+    Kudanshita (blue)*
 
 14:30
- - Midori – Suidobashi [BATTLE] 
-   --> Midori – Shinjuku        
+ - Midori – Suidobashi [BATTLE]
+   (until 15:30, OPTIONAL)
+   --> Midori – Shinjuku <--
+     Black Frost
 
 15:00
- - Kaido & Honda – Shibuya [BATT
-   -- Priority over other Kaido 
-   --> Bugeikan – Kudanshita [BA
+ - Kaido & Honda – Shibuya
+   [BATTLE] (until 16:00) <--
+   Plot
+   -- Priority over other Kaido
+      and Honda events.
+   --> Bugeikan – Kudanshita
+     [BATTLE] (until 16:30)
 
 15:30
  - Izuna & ??? (Fushimi)
 
- - Gin - Omotesando             
+ - Gin - Omotesando <-- Gin/Haru
+   route
    -- If you already did the two
+      Haru events.
 
 16:00
- - Devil's fuge info – Nagata-ch
+ - Devil's fuge info – Nagata-
+   cho [BATTLE] (until 17:00)
 
 17:30
- - Cemetary – Aoyama [BATTLE] (u
-   --> ??? – Shinjuku (until 18:
+ - Cemetary – Aoyama [BATTLE]
+   (until 18:00)
+   --> ??? – Shinjuku (until
+     18:30)*
 
 
 Emails:
@@ -2398,7 +2668,8 @@ Atsuro
 { // B. Battles ................
         ........................
 
-   { Haru - Tokyo - 10:00 or 10:
+   { Haru - Tokyo - 10:00 or
+   10:30 }
 
 Victory:
 Defeat all demons
@@ -2455,6 +2726,7 @@ You'll receive about 360 EXP and
 
 
    { Midori - Ikebukuro - 12:30,
+   13:00, or 13:30 }
 
 Victory:
 Defeat all demons
@@ -2533,7 +2805,9 @@ You'll receive about 400 EXP and
 
 
 
-   { Midori - Suidobashi - 14:30
+   { Midori - Suidobashi -
+   14:30, 15:00, or 15:30 -
+   OPTIONAL }
 
 Victory:
 Defeat all demons
@@ -2580,7 +2854,8 @@ the end.
 
 
 
-   { Kaido & Honda - Shibuya - 1
+   { Kaido & Honda - Shibuya -
+   15:00, 15:30, or 16:00 }
 
 Victory:
 Defeat all demons
@@ -2662,7 +2937,8 @@ You'll receive about 410 EXP and
 
 
 
-   { Bugeikan - Kudanshita - 15:
+   { Bugeikan - Kudanshita -
+   15:30, 16:00, or 16:30 }
 
 Victory:
 Defeat all zealots
@@ -2716,6 +2992,8 @@ You'll earn about 450 EXP and
 
 
    { Devil's fuge info - Nagata-
+   cho - 16:00, 16:30, or 17:00
+   }
 
 Victory:
 Defeat all adversaries
@@ -2762,7 +3040,8 @@ You'll earn about 490 EXP and
 
 
 
-   { Cemetary - Aoyama - 17:30 o
+   { Cemetary - Aoyama - 17:30
+   or 18:00 }
 
 Victory:
 Defeat Beldr
@@ -2880,90 +3159,124 @@ You'll earn about 540 EXP and
         ........................
 
    NOTE: Haru will die if you do
+   not choose her event at 17:00
+   or 17:30.
   Ignoring her will seal off all
-  several story elements.
+  routes except Yuzu's and
+  change several story elements.
 
 Key:
  *  - Event cannot be skipped.
- (Note that all [BATTLE]s by the
- skipped, unless [OPTIONAL] is i
+ (Note that all [BATTLE]s by
+ their nature are plot-oriented
+ and cannot be skipped, unless
+ [OPTIONAL] is indicated.)
 
 
 9:00
- - Midori – Ikebukuro (until 10:
+ - Midori – Ikebukuro (until
+   10:00)* <-- Plot
    --> Atsuro – Shinjuku*
 
  - Honda - Akihabara
    --> Honda - Ikebukuro
 
- - Amane – Shiba Park (until 13:
+ - Amane – Shiba Park (until
+   13:00) <-- Amane route
 
- - Atsuro – Akihabara           
+ - Atsuro – Akihabara <-- Atsuro
+   route
 
- - Mysterious woman – Roppongi (
-   -- This option disappears aft
+ - Mysterious woman – Roppongi
+   (blue) <-- Amane route
+   -- This option disappears
+      after this day.
 
 10:30
- - Azuma – Shinagawa*           
-   -- The following chain of Azu
+ - Azuma – Shinagawa* <-- Plot
+   -- The following chain of
+      Azuma events is
  also necessary for Atsuro's and
- routes. (I'm pretty sure it's m
- but some people said they misse
- event, so...)
+ Gin's routes. (I'm pretty sure
+ it's mandatory but some people
+ said they missed the event,
+ so...)
 
 11:00
- - Gin – Shiba Park             
-   -- This one's crucial. When t
+ - Gin – Shiba Park <-- Gin/Haru
+   route
+   -- This one's crucial. When
+      the opportunity
  comes, you must answer "Want me
- Otherwise the route is sealed o
+ to help?" Otherwise the route
+ is sealed off. Ayep.
    --> Gin – Omotesando
-   --> Ask about Aya – Omotesand
- --> Ask about Aya – Shinagawa (
- --> Ask about Aya – Roppongi (b
-  --> Ask about Aya – Shinagawa 
+   --> Ask about Aya –
+     Omotesando (blue)
+ --> Ask about Aya – Shinagawa
+   (blue)
+ --> Ask about Aya – Roppongi
+   (blue)
+  --> Ask about Aya – Shinagawa
+    (blue)
   --> Gin – Omotesando
  -- priority comes before other
     unselected Gin events on the
+    map.
 
- - Midori – Ikebukuro [BATTLE] (
+ - Midori – Ikebukuro [BATTLE]
+   (until 12:00)* <-- Plot
 
 12:30
  - Atsuro – Shibuya*
 
 13:00
- - Midori – Omotesando (until 14
+ - Midori – Omotesando (until
+   14:00)*
 
 14:30
- - Haru – Shibuya               
-   -- Don't bother choosing unti
- only waste 30 minutes if you ch
- any earlier.
+ - Haru – Shibuya <-- all routes
+   except
+   -- Don't bother choosing
+      until 17:00. It'll Yuzu's
+ only waste 30 minutes if you
+ choose it any earlier.
 
- - Azuma – Shinagawa*           
-   -- Tell him you want the file
+ - Azuma – Shinagawa* <-- Plot
+   -- Tell him you want the
+      files anyway; it's
  necessary for several routes.
 
- - Kannagi-cho – Shinjuku [BATTL
-   --> Kaido & Honda – Suidobash
+ - Kannagi-cho – Shinjuku
+   [BATTLE] <-- Plot
+   --> Kaido & Honda –
+     Suidobashi [BATTLE]
    --> Shoji – Kanda*
  --> Shoji – Shinjuku
 
 16:30
  - Kaido - Shibuya*
-   --> Mari – Shibuya [BATTLE] (
- --> Bugeikan – Kudanshita [BATT
+   --> Mari – Shibuya [BATTLE]
+     (until 18:00) <-- Plot
+ --> Bugeikan – Kudanshita
+   [BATTLE]
 
- --> Mari – Kanda               
+ --> Mari – Kanda <-- Mari
  --> Kaido – Shiba Park
-  -- Don't bother picking this b
-   finding Mari's bag, as it'll 
-   waste 30 minutes. Give Kaido 
+  -- Don't bother picking this
+     before
+   finding Mari's bag, as it'll
+   merely waste 30 minutes. Give
+   Kaido the bag
 to be able to save both Mari and
    Keisuke.
 
  --> Look for Mari's bag – Kanda
- --> Look for Mari's bag – Akiha
+   (blue)
+ --> Look for Mari's bag –
+   Akihabara (blue)
   --> Look for Mari's bag – Ueno
+    (blue)
   --> Mari – Kanda
 -- If you give Mari the bag, you
    won't be able to save both
@@ -2974,14 +3287,20 @@ Emails:
 Gin
  - Tell me about Haru.
  - Tell me about you.
-   -- It doesn't matter which on
+   -- It doesn't matter which
+      one you choose, contrary
+      to popular opinion.
 Kaido
  - I'll help out. <-- +
  - Lay low while I look.
 Midori
  - You wanna be a hero?
-   -- Picking this option unlock
- to getting a route, but gets so
+   -- Picking this option
+      unlocks two extra Midori
+      events. Does not
+      contribute
+ to getting a route, but gets
+ some backstory.
  - Let's do it!
 Keisuke
  - Show no mercy!
@@ -2999,6 +3318,7 @@ Atsuro
         ........................
 
    { Midori - Ikebukuro - 11:00,
+   11:30, or 12:00 }
 
 Choose your objective:
 Let Midori go
@@ -3105,7 +3425,8 @@ You'll receive about 670 EXP and
 
 
 
-   { Kannagi-cho - Shinjuku - 14
+   { Kannagi-cho - Shinjuku -
+   14:30, 15:00, or 15:30 }
 
 Victory:
 Defeat all demon users
@@ -3167,7 +3488,8 @@ You'll receive about 720 EXP and
 
 
 
-   { Kaido & Honda - Suidobashi 
+   { Kaido & Honda - Suidobashi
+   - 15:00, 15:30, or 16:00 }
 
 What will you do?
 Help the citizens escape
@@ -3218,7 +3540,8 @@ You'll receive about 780 EXP and
 
 
 
-   { Mari - Shibuya - 17:00, 17:
+   { Mari - Shibuya - 17:00,
+   17:30, or 18:00 }
 
 Victory:
 Defeat all demons
@@ -3322,7 +3645,8 @@ You'll receive about 850 EXP and
 
 
 
-   { Kudanshita - Bugeikan - 17:
+   { Kudanshita - Bugeikan -
+   17:30, 18:00, or 18:30 }
 
 Victory:
 Defeat all demon tamers
@@ -3390,11 +3714,14 @@ respectively.
 
 Key:
  *  - Event cannot be skipped.
- (Note that all [BATTLE]s by the
- skipped, unless [OPTIONAL] is i
+ (Note that all [BATTLE]s by
+ their nature are plot-oriented
+ and cannot be skipped, unless
+ [OPTIONAL] is indicated.)
 
 9:00
- - Sunset Boulevard – Ikebukuro 
+ - Sunset Boulevard – Ikebukuro
+   [BATTLE] <-- Plot
 
  - Honda – Shinjuku
    --> Honda – Tokyo
@@ -3403,29 +3730,41 @@ Key:
 
  - Midori - Tokyo
    -- If you answered "You wanna
+      be a hero?" to
  last night's email.
    --> Midori - Ikebukuro
 
- - Gin – Omotesando             
-   -- In response to his last em
+ - Gin – Omotesando <-- Gin/Haru
+   route
+   -- In response to his last
+      email. Priority.
  - Kannagi-cho – Shinjuku
-   -- Appears after you choose t
- first appears yesterday, questi
- be distributing so many COMPs.
+   -- Appears after you choose
+      the Gin event that
+ first appears yesterday,
+ questioning who might be
+ distributing so many COMPs.
 
- - Atsuro – Shibuya             
+ - Atsuro – Shibuya <-- Atsuro
+   route
 
- - Amane & Founder – Roppongi*  
+ - Amane & Founder – Roppongi*
+   <-- Plot
 
- - Azuma – Roppongi*            
+ - Azuma – Roppongi* <-- Atsuro
+   and
          Gin/Haru route
    --> Atsuro – Akihabara
- -- Priority over other Atsuro e
- -- You must pick this by 12:00 
-  to gain crucial information th
-  those two routes.
+ -- Priority over other Atsuro
+    events.
+ -- You must pick this by 12:00
+    on the 6th Day
+  to gain crucial information
+  that furthers those two
+  routes.
 
- - Suspicious man – Ueno (blue) 
+ - Suspicious man – Ueno (blue)
+   <-- Naoya route
 
 (if you haven't handed over the
 bag, you'll then have until
@@ -3434,39 +3773,54 @@ bag, you'll then have until
  - Kaido – Shiba Park
 
 12:00
- - Mari – Kudanshita [BATTLE] (u
+ - Mari – Kudanshita [BATTLE]
+   (until 12:30) <-- Mari
 
  - Keisuke – Shiba Park [BATTLE]
-   -- If you did not give the ba
+   <-- Plot
+   -- If you did not give the
+      bag to Kaido.
 
 13:00
- - Mari & Kaido - Kudanshita [BA
-   -- If you didn't choose Mari'
+ - Mari & Kaido - Kudanshita
+   [BATTLE]
+   -- If you didn't choose
+      Mari's battle in time.
 
  - Keisuke – Shiba Park [BATTLE]
+   (until 13:30)
    -- If you did give the bag to
+      Kaido, the battle
     gets delayed to this point.
    --> Keisuke – Akihabara
 
 14:00
- - Kaido & Keisuke – Shiba Park 
-   -- If you didn't choose Keisu
+ - Kaido & Keisuke – Shiba Park
+   [BATTLE] (until 14:30)
+   -- If you didn't choose
+      Keisuke's battle in time.
 
- - Izuna & Fushimi [BATTLE] (unt
+ - Izuna & Fushimi [BATTLE]
+   (until 15:00) <-- Plot
    --> Shoji – Ikebukuro
    --> Yuzu – Shibuya*
    --> Izuna – Akasaka
    --> Amane – Roppongi*
- --> Shomonkai facility – Shinag
+ --> Shomonkai facility –
+   Shinagawa*
 
 14:30
- - Gin – Omotesando             
+ - Gin – Omotesando <-- Gin/Haru
+   route
 
 15:30
- - Miyashita Park – Shibuya [BAT
+ - Miyashita Park – Shibuya
+   [BATTLE] (until 18:00) <--
+   Plot
 
 17:30
- - Naoya – Nagata-cho [BATTLE] (
+ - Naoya – Nagata-cho [BATTLE]
+   (until 18:30)
 
 
 Email:
@@ -3532,7 +3886,9 @@ Atsuro
 { // B. Battles ................
         ........................
 
-    { Sunset Boulevard - Ikebuku
+    { Sunset Boulevard -
+    Ikebukuro - 9:00 up to
+    11:30}
 
 Victory:
 Defeat all demon tamers
@@ -3574,7 +3930,8 @@ You'll receive about 1050 EXP
 and 680 Macca at the end.
 
 
-   { Mari - Kudanshita - 12:00, 
+   { Mari - Kudanshita - 12:00,
+   12:30 }
 
  - If Mari is alive -
 
@@ -3714,7 +4071,9 @@ and 800 Macca at the end.
 
 
 
-   { Keisuke - Shiba Park - eith
+   { Keisuke - Shiba Park -
+   either 12:00 or 12:30, OR
+   13:00 or 13:30 }
 
 Victory:
 Defeat Yama
@@ -3814,7 +4173,9 @@ and 740 Macca at the end.
 
 
 
-   { Kaido & Keisuke - Shiba Par
+   { Kaido & Keisuke - Shiba
+   Park - 13:00, 13:30 OR 14:00,
+   14:30 }
 
 Victory:
 Defeat Kaido
@@ -3879,7 +4240,8 @@ and 680 Macca at the end.
 
 
 
-   { Izuna & Fushimi - 14:00, 14
+   { Izuna & Fushimi - 14:00,
+   14:30, 15:00 }
 
 Victory:
 Defeat all demons
@@ -3930,7 +4292,8 @@ and 860 Macca at the end.
 
 
 
-   { Miyashita Park - Shibuya - 
+   { Miyashita Park - Shibuya -
+   15:30 until 18:00 }
 
 Victory: Defeat all adversaries
 and destroy their COMPs
@@ -3983,6 +4346,7 @@ and 960 Macca at the end.
 
 
    { Naoya - Nagata-cho - 17:30,
+   18:00, or 18:30 }
 
 Victory:
 Defeat all demons
@@ -4095,22 +4459,35 @@ you right up to 19:00.
 { // A. Events .................
         ........................
 
-   NOTE: For each route, today t
-  route's character, where they'
-  should do and ask you to join 
-  requirements for their route, 
+   NOTE: For each route, today
+   there will be one possible
+   event with that
+  route's character, where
+  they'll tell you what they
+  think you should do and ask
+  you to join them. If you've
+  fulfilled all the requirements
+  for their route, the final
+  event will appear and
  you'll have secured the route.
 
   Note that if you really racked
-  for Amane's route, being angry
-  answering her emails negativel
-  essence basically), even if yo
+  up points against the route
+  (i.e. for Amane's route, being
+  angry about the angels all the
+  time, answering her emails
+  negatively, answering against
+  the route's essence
+  basically), even if you get
+  that last event, you won't
   unlock it.
 
 Key:
  *  - Event cannot be skipped.
- (Note that all [BATTLE]s by the
- skipped, unless [OPTIONAL] is i
+ (Note that all [BATTLE]s by
+ their nature are plot-oriented
+ and cannot be skipped, unless
+ [OPTIONAL] is indicated.)
 
 9:00
  - Honda – Ikebukuro
@@ -4120,17 +4497,25 @@ Key:
    --> Shoji – Shinjuku
 
  - Mari – Kanda                 
-   -- If you saved Mari and defe
+   -- If you saved Mari and
+      defeated Kudlak. Tell her
+      to
  "think about it some more," and
- on the Last Day for any route e
+ she'll join you on the Last Day
+ for any route except Yuzu's.
 
  - Gin – Omotesando*
 
- - Contamination Area – Nagata-c
-   --> ??? (Black Frost) – Shinj
- -- If you saw the Midori and Ja
+ - Contamination Area – Nagata-
+   cho [BATTLE] (until 11:30)
+   <-- Plot
+   --> ??? (Black Frost) –
+     Shinjuku (optional) <--
+     Black Frost
+ -- If you saw the Midori and
+    Jack Frost event.
 
- - Amane – Shiba Park*          
+ - Amane – Shiba Park* <-- Plot
 
 9:30
  - Izuna – Shinagawa*
@@ -4138,52 +4523,73 @@ Key:
 12:00
  - Honda – Tokyo
 
- - Naoya – Aoyama               
+ - Naoya – Aoyama <-- Naoya
+   route
    -- Secures Naoya's route.
 
- - Atsuro – Shibuya             
+ - Atsuro – Shibuya <-- Atsuro
+   route
    -- Secures Atsuro's route.
 
- - Kaido – Shibuya*             
+ - Kaido – Shibuya* <-- Kaido
+   route
    -- If Keisuke survived.
    --> Kaido – Shibuya
- --> Shomonkai Facility – Shinag
+ --> Shomonkai Facility –
+   Shinagawa (blue)
  --> Kaido – Shibuya
- -- Tell him where the factory i
+ -- Tell him where the factory
+    is;
   secures Kaido's route.
 
- - Izuna – Nagata-cho* (14:30, m
+ - Izuna – Nagata-cho* (14:30,
+   must pick by 16:00) <-- Plot
    --> ??? – Shinjuku*
-   --> Amane – Shiba Park       
+   --> Amane – Shiba Park <--
+     Amane route
  -- Ensures Amane's route.
  --> Shiba Park – Shiba Park
 
- - Gin & Azuma – Roppongi [BATTL
+ - Gin & Azuma – Roppongi
+   [BATTLE] (until 12:30,
+   OPTIONAL) <-- Gin/Haru route
 
- - Tokyo Dome – Suidobashi [BATT
+ - Tokyo Dome – Suidobashi
+   [BATTLE] (until 16:30) <--
+   Plot
 
 13:00
- - Shoji – Omotesando (if you ig
- - Gin – Omotesando (if you foug
+ - Shoji – Omotesando (if you
+   ignored Gin's battle)*
+ - Gin – Omotesando (if you
+   fought the battle)* <--
+   Gin/Haru route
    --> Gin & Amane – Shinagawa
- -- Priority over other Gin and 
+ -- Priority over other Gin and
+    Amane events.
   Secures Gin's route.
 
 16:30
- - Honda – Ueno [BATTLE] (by 18:
+ - Honda – Ueno [BATTLE] (by
+   18:00) <-- Plot
    --> Honda & ??? – Shinjuku
-   --> Yuzu – Shibuya (until 18:
+   --> Yuzu – Shibuya (until
+     18:00) <-- Yuzu route
 
 18:00
- - Haru & ??? – Tokyo [BATTLE] (
-   --> Tokyo Tower – Shiba Park 
+ - Haru & ??? – Tokyo [BATTLE]
+   (until 18:30) <-- Plot
+   --> Tokyo Tower – Shiba Park
+     [BATTLE] (OPTIONAL)
 
 
 
 { // B. Battles ................
         ........................
 
-   { Contamination Area - Nagata
+   { Contamination Area -
+   Nagata-cho - 9:00 until 11:30
+   }
 
 Victory:
 Defeat all soldiers
@@ -4261,7 +4667,8 @@ You'll earn about 1600 EXP and
 
 
 
-   { ??? (Black Frost) - Shinjuk
+   { ??? (Black Frost) -
+   Shinjuku - 9:30 onwards }
 
 Victory:
 Defeat all demons
@@ -4332,7 +4739,8 @@ Macca at the end.
 
 
 
-   { Gin & Azuma - Roppongi - 12
+   { Gin & Azuma - Roppongi -
+   12:00 or 12:30 }
 
 Victory:
 Defeat all adversaries
@@ -4400,7 +4808,8 @@ end.
 
 
 
-   { Tokyo Dome - Suidobashi - 1
+   { Tokyo Dome - Suidobashi -
+   12:00 to 16:30 }
 
 Victory:
 Defeat all demon tamers
@@ -4450,7 +4859,8 @@ You'll get about 1780 EXP and
 
 
 
-   { Honda - Ueno - 16:30, 17:00
+   { Honda - Ueno - 16:30,
+   17:00, 17:30, or 18:00 }
 
 Victory: All angels & demons die
 OR: (All angels die / All demons
@@ -4535,7 +4945,8 @@ and 1260 Macca at the end.
 
 
 
-   { Haru & ??? - Tokyo - 18:00 
+   { Haru & ??? - Tokyo - 18:00
+   or 18:30 }
 
 Victory:
 Defeat Belial
@@ -4648,7 +5059,8 @@ You'll earn about 2100 EXP and
 
 
 
-   { Tokyo Tower - Shiba Park - 
+   { Tokyo Tower - Shiba Park -
+   18:30, OPTIONAL }
 
 Victory:
 Defeat Sage of Time
@@ -4726,7 +5138,8 @@ probably why.
 
 9:00
  - Amane – Shibuya [BATTLE]
-   -- You'll get Amane as a part
+   -- You'll get Amane as a
+      party member after this.
 
 9:30
  - Eikokuji – Ikebukuro [BATTLE]
@@ -4735,21 +5148,28 @@ probably why.
 - Sengakuji – Shinagawa [BATTLE]
 
 10:30
- - Roppongi Hills – Roppongi [BA
+ - Roppongi Hills – Roppongi
+   [BATTLE]
 
 11:00
  - Fallen Morning Star – Nagata-
-   -- This would be the epic bat
- the only chance you get to figh
- to ascend the Hills building an
- come back down afterwards.
+   cho [BATTLE] (blue)
+   -- This would be the epic
+      battle wtih Lucifer. This
+      is
+ the only chance you get to
+ fight him as you'll have to
+ ascend the Hills building and
+ won't be able to come back down
+ afterwards.
  - Founder – Roppongi [BATTLE]
 
 12:00
  - Naoya – Top Floor [BATTLE]
 
 12:30
- - Summon Babel – Top Floor [BAT
+ - Summon Babel – Top Floor
+   [BATTLE]
 
 
 { // B. Battles ................
@@ -4861,10 +5281,16 @@ least.
 You'll receive about 2300 EXP
 and 1500 Macca at the end.
 
-   NOTE: After this battle, Aman
-  than Yuzu's, but her Speed's s
-  skills). If you want more of a
-  suppose you could switch her i
+   NOTE: After this battle,
+   Amane will join your party.
+   Her Magic is better
+  than Yuzu's, but her Speed's
+  sorely lacking (she can't use
+  Ma-dyne skills). If you want
+  more of a magic tank than a
+  magic blitzer, I suppose you
+  could switch her into your
+  party.
 
 
 
@@ -4959,7 +5385,8 @@ You'll earn about 2500 EXP and
 
 
 
-   { Sengakuji - Shinagawa - 10:
+   { Sengakuji - Shinagawa -
+   10:00 }
 
 Victory:
 Defeat both Devas
@@ -5043,6 +5470,7 @@ You'll earn about 2700 EXP and
 
 
    { Roppongi Hills - Roppongi -
+   10:30 }
 
 Victory:
 Defeat Belzaboul
@@ -5310,12 +5738,19 @@ You'll earn about 3200 EXP and
 2800 Macca at the end.
 
 
-   NOTE: The free battle at the 
-  awesome skill crack. Shiva, a 
-  say about 5% of the time or so
-  Cry. This is definitely where 
-  Keep fighting/retreating from/
-  see it.
+   NOTE: The free battle at the
+   top of the Hills building can
+   net you an
+  awesome skill crack. Shiva, a
+  Deity, appears very, very
+  rarely - I'd say about 5% of
+  the time or so - but he has
+  Megidolaon and Victory Cry.
+  This is definitely where you
+  want to get Megidolaon from,
+  so. Keep fighting/retreating
+  from/restarting the free
+  battle until you see it.
 
 
 
@@ -5408,7 +5843,8 @@ You'll get about 3300 EXP and
 
 
 
-   { Summon Babel - Top Floor - 
+   { Summon Babel - Top Floor -
+   12:30 }
 
 Victory:
 Defeat Babel
@@ -5596,8 +6032,10 @@ probably why.
 9:30
  - Izuna & Fushimi – Akasaka
    -- You'll get Izuna as a team
- strongly encouraged to keep usi
- he's required in the final batt
+      member after this. You're
+ strongly encouraged to keep
+ using Atsuro, however, as he's
+ required in the final battle.
 
 10:00
  - Amane – Shiba Park
@@ -5612,18 +6050,25 @@ probably why.
  - Naoya – Aoyama
 
 12:00
- - Roppongi Hills – Roppongi [BA
+ - Roppongi Hills – Roppongi
+   [BATTLE]
 
 12:30
  - Fallen Morning Star – Nagata-
-   -- This would be the epic bat
- the only chance you get to figh
- to ascend the Hills building an
- come back down afterwards.
+   cho [BATTLE] (blue)
+   -- This would be the epic
+      battle wtih Lucifer. This
+      is
+ the only chance you get to
+ fight him as you'll have to
+ ascend the Hills building and
+ won't be able to come back down
+ afterwards.
  - Founder – Roppongi [BATTLE]
 
 13:30
- - Summon Babel – Top Floor [BAT
+ - Summon Babel – Top Floor
+   [BATTLE]
 
 
 
@@ -5822,7 +6267,8 @@ You'll earn about 2500 EXP and
 
 
 
-   { Sengakuji - Shinagawa - 11:
+   { Sengakuji - Shinagawa -
+   11:00 }
 
 Victory:
 Defeat both Devas
@@ -5906,6 +6352,7 @@ You'll earn about 2700 EXP and
 
 
    { Roppongi Hills - Roppongi -
+   12:00 }
 
 Victory:
 Defeat Belzaboul
@@ -6174,16 +6621,24 @@ You'll earn about 3200 EXP and
 2800 Macca at the end.
 
 
-   NOTE: The free battle at the 
-  awesome skill crack. Shiva, a 
-  say about 5% of the time or so
-  Cry. This is definitely where 
-  Keep fighting/retreating from/
-  see it.
+   NOTE: The free battle at the
+   top of the Hills building can
+   net you an
+  awesome skill crack. Shiva, a
+  Deity, appears very, very
+  rarely - I'd say about 5% of
+  the time or so - but he has
+  Megidolaon and Victory Cry.
+  This is definitely where you
+  want to get Megidolaon from,
+  so. Keep fighting/retreating
+  from/restarting the free
+  battle until you see it.
 
 
 
-   { Summon Babel - Top Floor - 
+   { Summon Babel - Top Floor -
+   13:30 }
 
 Victory:
 Hack into Babel
@@ -6437,14 +6892,20 @@ probably why.
  - Haru – Kudanshita
 
 12:30
- - Roppongi Hills – Roppongi [BA
+ - Roppongi Hills – Roppongi
+   [BATTLE]
 
 13:00
-- Fallen Morning Star – Nagata-c
-   -- This would be the epic bat
- the only chance you get to figh
- to ascend the Hills building an
- come back down afterwards.
+- Fallen Morning Star – Nagata-
+  cho [BATTLE] (blue)
+   -- This would be the epic
+      battle wtih Lucifer. This
+      is
+ the only chance you get to
+ fight him as you'll have to
+ ascend the Hills building and
+ won't be able to come back down
+ afterwards.
  - Founder – Roppongi [BATTLE]
 
 14:00
@@ -6561,10 +7022,16 @@ least.
 You'll receive about 2300 EXP
 and 1500 Macca at the end.
 
-   NOTE: After this battle, Aman
-  than Yuzu's, but her Speed's s
-  skills). If you want more of a
-  suppose you could switch her i
+   NOTE: After this battle,
+   Amane will join your party.
+   Her Magic is better
+  than Yuzu's, but her Speed's
+  sorely lacking (she can't use
+  Ma-dyne skills). If you want
+  more of a magic tank than a
+  magic blitzer, I suppose you
+  could switch her into your
+  party.
 
 
 
@@ -6659,7 +7126,8 @@ You'll earn about 2500 EXP and
 
 
 
-   { Sengakuji - Shinagawa - 11:
+   { Sengakuji - Shinagawa -
+   11:00 }
 
 Victory:
 Defeat both Devas
@@ -6743,6 +7211,7 @@ You'll earn about 2700 EXP and
 
 
    { Roppongi Hills - Roppongi -
+   12:30 }
 
 Victory:
 Defeat Belzaboul
@@ -7010,16 +7479,24 @@ You'll earn about 3200 EXP and
 2800 Macca at the end.
 
 
-   NOTE: The free battle at the 
-  awesome skill crack. Shiva, a 
-  say about 5% of the time or so
-  Cry. This is definitely where 
-  Keep fighting/retreating from/
-  see it.
+   NOTE: The free battle at the
+   top of the Hills building can
+   net you an
+  awesome skill crack. Shiva, a
+  Deity, appears very, very
+  rarely - I'd say about 5% of
+  the time or so - but he has
+  Megidolaon and Victory Cry.
+  This is definitely where you
+  want to get Megidolaon from,
+  so. Keep fighting/retreating
+  from/restarting the free
+  battle until you see it.
 
 
 
-   { Summon Babel - Top Floor - 
+   { Summon Babel - Top Floor -
+   14:00 }
 
 Victory:
 Upload Haru’s song
@@ -7316,7 +7793,8 @@ probably why.
  - Amane – Shiba Park [BATTLE]
 
 9:30
- - Diet Building – Nagata-cho [B
+ - Diet Building – Nagata-cho
+   [BATTLE]
 
 10:00
  - Eikokuji – Ikebukuro [BATTLE]
@@ -7328,23 +7806,32 @@ probably why.
  - Izuna & Fushimi – Akasaka
 
 11:30
- - Roppongi Hills – Roppongi [BA
+ - Roppongi Hills – Roppongi
+   [BATTLE]
 
 12:00
  - Fallen Morning Star – Nagata-
-   -- This would be the epic bat
- the only chance you get to figh
- to ascend the Hills building an
- come back down afterwards. (Wel
- you have until 12:30.)
- - Roppongi Hills – Roppongi [BA
+   cho [BATTLE] (blue)
+   -- This would be the epic
+      battle wtih Lucifer. This
+      is
+ the only chance you get to
+ fight him as you'll have to
+ ascend the Hills building and
+ won't be able to come back down
+ afterwards. (Well, on Naoya's
+ route, you have until 12:30.)
+ - Roppongi Hills – Roppongi
+   [BATTLE]
 
 12:30
  - Fallen Morning Star – Nagata-
+   cho [BATTLE] (blue)
  - Founder – Roppongi [BATTLE]
 
 13:30
- - Summon Babel – Top Floor [BAT
+ - Summon Babel – Top Floor
+   [BATTLE]
 
 
 
@@ -7491,7 +7978,8 @@ You'll get about 2200 EXP and
 
 
 
-   { Diet Building – Nagata-cho 
+   { Diet Building – Nagata-cho
+   - 9:30 }
 
 Victory:
 Defeat Jezebel
@@ -7701,7 +8189,8 @@ You'll earn about 2500 EXP and
 
 
 
-   { Sengakuji - Shinagawa - 10:
+   { Sengakuji - Shinagawa -
+   10:30 }
 
 Victory:
 Defeat both Devas
@@ -7785,6 +8274,7 @@ You'll earn about 2700 EXP and
 
 
    { Roppongi Hills - Roppongi -
+   11:30 }
 
 Victory:
 Defeat Belzaboul
@@ -7900,6 +8390,7 @@ You'll get about 2950 EXP and
 
 
    { Roppongi Hills - Roppongi -
+   12:00 }
 
 Victory:
 Defeat all angels
@@ -8149,16 +8640,24 @@ You'll earn about 3200 EXP and
 2800 Macca at the end.
 
 
-   NOTE: The free battle at the 
-  awesome skill crack. Shiva, a 
-  say about 5% of the time or so
-  Cry. This is definitely where 
-  Keep fighting/retreating from/
-  see it.
+   NOTE: The free battle at the
+   top of the Hills building can
+   net you an
+  awesome skill crack. Shiva, a
+  Deity, appears very, very
+  rarely - I'd say about 5% of
+  the time or so - but he has
+  Megidolaon and Victory Cry.
+  This is definitely where you
+  want to get Megidolaon from,
+  so. Keep fighting/retreating
+  from/restarting the free
+  battle until you see it.
 
 
 
-   { Summon Babel - Top Floor - 
+   { Summon Babel - Top Floor -
+   13:30 }
 
 Victory:
 Defeat Babel
@@ -8464,11 +8963,17 @@ careful about that. Just don't
 get ganged up on by the Lokis
 and you should be all right.
 
-   NOTE: Having a hard time? Jus
-  levels and you're using good s
-  sure you have the latest demon
-  battles with demons at levels.
-  might have a hard time.
+   NOTE: Having a hard time?
+   Just because your team
+   leaders are at okay
+  levels and you're using good
+  strategy isn't everything.
+  Make sure you have the latest
+  demons. If you're walking into
+  these battles with demons at
+  levels...oh, early 40s and
+  lower, you might have a hard
+  time.
 
 
 
@@ -8738,18 +9243,37 @@ pretty much dead.
 Here's a breakdown of the three
 phases:
 
--- Phase 1: Lucifer doesn't atta
+-- Phase 1: Lucifer doesn't
+   attack until you attack him
+   first. And then he only
    attacks once per turn. No big
--- Phase 2: Lucifer's turn autom
-   Megidoladyne. Ouch. He now ha
+   deal, even if he has infinite
+   range.
+-- Phase 2: Lucifer's turn
+   automatically comes up, and
+   he'll launch Megidoladyne.
+   Ouch. He now has Dragon Eye,
+   meaning 3x attacks per turn.
    And no, it's not a typo - his
-   over 9000 damage. However, he
-   Phys defense will save you th
--- Phase 3: Argh, he healed agai
-   -Repel-, and Elec Drain + Maz
+   Hassohappa really does
+   anywhere from 4000 to over
+   9000 damage. However, he
+   doesn't have Pierce any more,
+   so any kind of Phys defense
+   will save you there.
+-- Phase 3: Argh, he healed
+   again. And still uses
+   Megidoladyne. And...has Phys
+   -Repel-, and Elec Drain +
+    Maziodyne. You don't want
+    Elec Repel equipped
    because of this phase. Oh, he
-   Wine, Tyranny, Mana Aid, Vict
-   all of your MP. ...And he sti
+   also has Drain. So, be sure
+   you have Blood Wine, Tyranny,
+   Mana Aid, Victory Cry, etc.
+   Or Drain, if he didn't suck
+   up all of your MP. ...And he
+   still has Dragon Eye.
 
 So. You have three options: 1)
 Grind to level 99 and slug it
@@ -8899,21 +9423,45 @@ Hassohappa, or Drain. Plus it
 saves MP.
 
 So, a few bullet points:
- - Don't equip Elec Repel. You c
+ - Don't equip Elec Repel. You
+   can have Fire/Ice Repel, but
+   they'll only be
 useful for the first part, alas.
  - If you're using Tyrant Lock +
+   Gigajama, equip Phys
+   Null/Drain/Repel.
  - If you're using Recarm, don't
- - Tyranny, Blood Wine, Awakenin
- - You definitely should have a 
+   equip Phys Null/Drain/Repel.
+   If not, equip.
+ - Tyranny, Blood Wine,
+   Awakening - good stuff.
+ - You definitely should have a
+   Megami like Amaterasu - best
+   magic-using demon
    race, with high MP to match.
- - Don't bother with Vile types 
- - Recommended auto skills: you 
-   is probably a must. Atsuro co
-   last one's up to you. Magic Y
-   sustainable. Ban Phys or Wall
+ - Don't bother with Vile types
+   (Lucifer's range makes them
+   not so useful).
+ - Recommended auto skills: you
+   can never go wrong with
+   Blitzkrieg. Magic Yang
+   is probably a must. Atsuro
+   could use Full Might (-not-
+   Rage Soul), and the last
+   one's up to you. Magic Yin,
+   while kinda cool, might not
+   be entirely sustainable. Ban
+   Phys or Wall could help. Do
+   not equip Barrier.
  - If you're not using Drain and
- - Atsuro/Gin/your physical atta
-   attacks depend on if you're u
+   Holy Dance, something's wrong
+   with you.
+ - Atsuro/Gin/your physical
+   attacker should have Pierce
+   and Phys Jump. Their
+   attacks depend on if you're
+   using the Recarm strategy or
+   not.
 
 Overall, grinding's one of the
 most important things - the
@@ -8949,7 +9497,8 @@ required to use it Information
 listed in the game Crack: When
 the first opportunity to crack
 the skill should appear, which
- enemy you can crack the skill f
+ enemy you can crack the skill
+ from
 [Any additional notes or
 clarification.]
 
@@ -8975,10 +9524,15 @@ Victory Cry, really (and the
 latter two, not so much,
 either).
 
-   NOTE: In regards to Last Day 
+   NOTE: In regards to Last Day
+   skill cracks, it'll indicate
+   which route the
   enemy's found on. Note that on
-  or the Devas, and you can't fi
-  (basically anything above leve
+  Yuzu's route, you don't fight
+  the Bels or the Devas, and you
+  can't fight all the free
+  battle demons (basically
+  anything above level 56).
 
 
 
@@ -8988,222 +9542,259 @@ either).
 
 Agi - MP: 4 - Pr: fire - Stats:
 none
- Low Fire dmg: 1 foe
- Crack: Automatically acquired a
+ Low Fire dmg: 1 foe Crack:
+ Automatically acquired after
+ the first battle.
 
 Agidyne - MP: 13 - Pr: fire -
 Stats: Ma18
- High Fire dmg: 1 foe
- Crack: Day 5 (Yama), Day 6 (Dec
+ High Fire dmg: 1 foe Crack: Day
+ 5 (Yama), Day 6 (Decarabia,
+ Azuma, Rangda), Last Day
  (Believer)
 
 Maragi - MP: 20 - Pr: fire -
 Stats: Ma10 Ag8
- Low Fire dmg: All
- Crack: Day 3 (Pyro Jack), Day 4
- (Tamer Cop, Yama), Day 6 (Belie
+ Low Fire dmg: All Crack: Day 3
+ (Pyro Jack), Day 4 (Nisroc,
+ Honda, Tamer Cop), Day 5 (Tamer
+ Cop, Yama), Day 6 (Believer)
 
 Maragidyne - MP: 42 - Pr: fire -
 Stats: Ma17 Ag15
- High Fire dmg: All
- Crack: Day 6 (Belial), Last Day
+ High Fire dmg: All Crack: Day 6
+ (Belial), Last Day (Cerberus,
+ Bishamon, Believer)
 
 Bufu - MP: 4 - Pr: ice - Stats:
 none
- Low Ice dmg: 1 foe
- Eff: FREEZE
- Crack: Day 1 (Moh Shuyuu), Day 
+ Low Ice dmg: 1 foe Eff: FREEZE
+ Crack: Day 1 (Moh Shuyuu), Day
+ 2 (Heget, Jack Frost), Day 3
+ (Silky)
 
 Bufudyne - MP: 13 - Pr: ice -
 Stats: Ma18
- High Ice dmg: 1 foe
- Eff: FREEZE
- Crack: Day 6 (Abaddon, Azuma, T
+ High Ice dmg: 1 foe Eff: FREEZE
+ Crack: Day 6 (Abaddon, Azuma,
+ Tamer Thug)
 
 Mabufu - MP: 20 - Pr: ice -
 Stats: Ma10 Ag8
- Low Ice dmg: All
- Eff: FREEZE
+ Low Ice dmg: All Eff: FREEZE
  Crack: Day 3 (Yuki Jyorou), Day
- Keisuke)
+ 4 (Tamer Cop), Day 5 (Tamer
+ Cop, Keisuke)
 
 Mabufudyne - MP: 42 - Pr: ice -
 Stats: Ma17 Ag15
- High Ice dmg: All
- Eff: FREEZE
- Crack: Day 6 (Culebre), Last Da
+ High Ice dmg: All Eff: FREEZE
+ Crack: Day 6 (Culebre), Last
+ Day (Culebre)
 
 Zio - MP: 4 - Pr: elec - Stats:
 none
- Low Elec dmg: 1 foe
- Eff: SHOCK
- Crack: Automatically acquired a
+ Low Elec dmg: 1 foe Eff: SHOCK
+ Crack: Automatically acquired
+ after the first battle.
 
 Ziodyne - MP: 13 - Pr: elec -
 Stats: Ma18
- High Elec dmg: 1 foe
- Eff: SHOCK
+ High Elec dmg: 1 foe Eff: SHOCK
  Crack: Day 6 (SDF Tamer, Tamer,
+ Vivian, Cu Chulainn, Tamer
+ Thug)
 
 Mazio - MP: 20 - Pr: elec -
 Stats: Ma10 Ag8
- Low Elec dmg: All
- Eff: SHOCK
- Crack: Day 3 (Mezuki, Tamer), D
- (Orobas), Day 6 (SDF Tamer, Tam
+ Low Elec dmg: All Eff: SHOCK
+ Crack: Day 3 (Mezuki, Tamer),
+ Day 4 (Power, Peri, Tamer Cop),
+ Day 5 (Orobas), Day 6 (SDF
+ Tamer, Tamer, Believer, Tamer
+ Thug, Power)
 
 Maziodyne - MP: 42 - Pr: elec -
 Stats: Ma17 Ag15
- High Elec dmg: All
- Eff: SHOCK
- Crack: Day 6 (Seiryuu), Last Da
+ High Elec dmg: All Eff: SHOCK
+ Crack: Day 6 (Seiryuu), Last
+ Day (Seiryuu, Barong)
 
 Zan - MP: 4 - Pr: force - Stats:
 none
- Low Force dmg: 1 foe
- Eff: STONE
- Crack: Day 1 (Kabuso, Waira, Ki
- [By "STONE," it doesn't mean Za
- that aside from physical attack
- petrified enemies.]
+ Low Force dmg: 1 foe Eff: STONE
+ Crack: Day 1 (Kabuso, Waira,
+ Kikimora), Day 3 (Suparna) [By
+ "STONE," it doesn't mean Zan
+ can petrify enemies. It's just
+ that aside from physical
+ attacks, Force damage will also
+ crack petrified enemies.]
 
 Zandyne - MP: 13 - Pr: force -
 Stats: Ma18
- High Force dmg: 1 foe
- Eff: STONE
- Crack: Day 5 (Lorelei - rare), 
- Day (Believer)
+ High Force dmg: 1 foe Eff:
+ STONE Crack: Day 5 (Lorelei -
+ rare), Day 6 (Tamer Thug,
+ Airavata), Last Day (Believer)
 
 Mazan - MP: 20 - Pr: force -
 Stats: Ma10 Ag8
- Low Force dmg: All
- Eff: STONE
- Crack: Day 3 (Zealot, Tamer), D
- Day 5 (SDF Tamer, Mothman), Day
+ Low Force dmg: All Eff: STONE
+ Crack: Day 3 (Zealot, Tamer),
+ Day 4 (Pazuzu, Cait Sith, Tamer
+ Cop), Day 5 (SDF Tamer,
+ Mothman), Day 6 (Believer)
 
 Mazandyne - MP: 42 - Pr: force -
 Stats: Ma17 Ag15
- High Force dmg: All
- Eff: STONE
- Crack: Last Day (Seiryuu, Agare
+ High Force dmg: All Eff: STONE
+ Crack: Last Day (Seiryuu,
+ Agares, Ukano Mitama, Believer)
 
 Megido - MP: 50 - Pr: almighty -
 Stats: St10 Ma18
- Almighty dmg: All
- Crack: Day 6 (Tao Tie), Last Da
- route, Believer)
+ Almighty dmg: All Crack: Day 6
+ (Tao Tie), Last Day (Bishamon -
+ all except Yuzu's route,
+ Believer)
 
 Megidolaon - MP: 75 - Pr:
 almighty - Stats: St10 Ma20
- Big Almighty dmg: All
- Crack: Last Day (Shiva - all ex
+ Big Almighty dmg: All Crack:
+ Last Day (Shiva - all except
+ Yuzu's route; Naoya - Amane's
  route)
 
 Fire Dance - MP: 23 - Pr: fire -
 Stats: Ma8 Ag6
- Fire damage: Random
- Crack: Day 2 (Tlaloc), Day 3 (P
- (Orthrus, Tamer Cop), Day 6 (Be
+ Fire damage: Random Crack: Day
+ 2 (Tlaloc), Day 3 (Pyro Jack,
+ Pendragon), Day 5 (Orthrus,
+ Tamer Cop), Day 6 (Believer)
 
 Ice Dance - MP: 23 - Pr: ice -
 Stats: Ma8 Ag6
- Ice damage: Random
- [Can Freeze.]
- Crack: Day 1 (Wendigo), Day 2 (
- Zealot), Day 4 (Loa), Day 5 (Le
+ Ice damage: Random [Can
+ Freeze.] Crack: Day 1
+ (Wendigo), Day 2 (Jack Frost),
+ Day 3 (Wendigo, Zealot), Day 4
+ (Loa), Day 5 (Legion, Keisuke)
 
 Elec Dance - MP: 23 - Pr: elec -
 Stats: Ma8 Ag6
- Elec damage: Random
- [Can Shock.]
- Crack: Day 2 (Gagyson), Day 3 (
+ Elec damage: Random [Can
+ Shock.] Crack: Day 2 (Gagyson),
+ Day 3 (Zealot), Day 4 (Peri,
+ Tamer Thug),
   Day 6 (Believer, Tamer Thug)
 
 Force Dance - MP: 23 - Pr: wind
 - Stats: Ma8 Ag6
- Wind damage: Random
- [Can crack petrified enemies.]
- Crack: Day 2 (Sarasvati), Day 3
- Thug), Day 5 (Hanuman, SDF Tame
+ Wind damage: Random [Can crack
+ petrified enemies.] Crack: Day
+ 2 (Sarasvati), Day 3 (Suparna,
+ Zealot), Day 4 (Tamer Thug),
+ Day 5 (Hanuman, SDF Tamer), Day
+ 6 (Believer, Tamer Thug)
 
 Holy Dance - MP: 40, Pr:
 almighty - Stats: St8 Ma10
- Holy damage: Random
- Crack: Day 5 (Ym, Pazuzu, Tamer
- Last Day (Naoya - Atsuro's rout
- [Easily one of the best boss-fi
+ Holy damage: Random Crack: Day
+ 5 (Ym, Pazuzu, Tamer Thug), Day
+ 6 (Tamer Cop, Azuma), Last Day
+ (Naoya - Atsuro's route)
+ [Easily one of the best boss-
+ fighting moves on the Last Day.
  Use it.]
 
 Judgement - MP: 35 - Pr: mystic
 - Stats: Ma18 Vi15
- Halves foe HP: All
- Crack: Last Day (Kazfiel - Yuzu
+ Halves foe HP: All Crack: Last
+ Day (Kazfiel - Yuzu's route;
+ Ganesha - other routes)
 
 Anger Hit - HP: 4% - Pr: phys -
 Stats: St5
- Critical dmg: 1 foe
- (Hit: 50%)
- Crack: Day 1 (Hairy Jack), Day 
+ Critical dmg: 1 foe (Hit: 50%)
+ Crack: Day 1 (Hairy Jack), Day
+ 2 (Tamer Thug, Toubyou), Day 3
 (Pendragon), Day 4 (Tamer Thug)
 
 Mighty Hit - HP: 11% - Pr: phys
 - Stats: Ag11
- Critical dmg: 1 foe
- Crack: Day 4 (Tamer Cop), Day 6
+ Critical dmg: 1 foe Crack: Day
+ 4 (Tamer Cop), Day 6 (Tamer
+ Thug, Power)
 
 Power Hit - HP: 6% - Pr: phys -
 Stats: St10 Vi9
- High phys. attack
- Crack: Day 3 (Nekomata, Shiisaa
+ High phys. attack Crack: Day 3
+ (Nekomata, Shiisaa, Beldr), Day
+ 6 (Belial)
 
 Brutal Hit - HP: 8% - Pr: phys -
 Stats: Vi11
- HP-dependant dmg: 1
- Crack: Day 3 (Wendigo, Orcus, Z
- Kaido, Tamer Cop), Day 5 (SDF T
- Capt., Tamer Cop)
- [HP-dependant means that the mo
- attack, the more damage it does
+ HP-dependant dmg: 1 Crack: Day
+ 3 (Wendigo, Orcus, Zealot,
+ Tamer), Day 4 (Tamer Thug,
+ Kaido, Tamer Cop), Day 5 (SDF
+ Tamer, Tamer Thug), Day 6
+ (Tamer Capt., Tamer Cop) [HP-
+ dependant means that the more
+ HP you have when you use the
+ attack, the more damage it
+ does.]
 
 Hassohappa - HP: 15% - Pr: phys
 - Stats: Vi18 Ag14
- HP-dependant dmg: All
- Crack: Day 6 (Believer), Last D
+ HP-dependant dmg: All Crack:
+ Day 6 (Believer), Last Day
+ (Bishamon, Shiva)
 
 Berserk - HP: 10% - Pr: phys -
 Stats: St11 Ag9
- Rndm HP-dependant dmg
- Crack: Day 3 (Tamer), Day 4 (Ma
+ Rndm HP-dependant dmg Crack:
+ Day 3 (Tamer), Day 4
+ (Mahakala), Day 6 (Tamer Cop,
  Tamer Thug)
 
 Deathbound - HP: 20% - Pr: phys
 - Stats: St17 Ag12
- Rndm HP-dependant dmg
- Crack: Last Day (Yaksa, Behemot
+ Rndm HP-dependant dmg Crack:
+ Last Day (Yaksa, Behemoth,
+ Believer)
 
 Dia - MP: 8 - Pr: heal - Stats:
 none
- Some HP Up: 1 Ally
- Crack: Automatically acquired a
+ Some HP Up: 1 Ally Crack:
+ Automatically acquired after
+ the first battle.
 
 Diarahan - MP: 20 - Pr: heal -
 Stats: Ma15
- Full HP Up: 1 Ally
- Crack: Day 4 (Bai Ze), Day 5 (L
+ Full HP Up: 1 Ally Crack: Day 4
+ (Bai Ze), Day 5 (Lorelei,
+ Keisuke), Day 6 (Vivian,
  Believer, Tamer Thug), Last Day
+ (Naoya - Atsuro's route)
 
 Media - MP: 20 - Pr: heal -
 Stats: Ma12
- Some HP Up: Team
- Crack: Day 3 (Silky, Zealot, Ki
- Cait Sith), Day 5 (SDF Tamer, M
+ Some HP Up: Team Crack: Day 3
+ (Silky, Zealot, Kikuri-Hime),
+ Day 4 (Pazuzu, Honda, Cait
+ Sith), Day 5 (SDF Tamer,
+ Mothman, Pazuzu), Day 6 (Tamer
   Capt., Tamer Cop, Believer)
 
 Mediarahan - MP: 45 - Pr: heal -
 Stats: Ma18
- Full HP Up: Team
- Crack: Last Day (Laksmi - Naoya
- and Yuzu's route, Believer, Nao
+ Full HP Up: Team Crack: Last
+ Day (Laksmi - Naoya's and
+ Yuzu's route, Aniel - Naoya's
+ and Yuzu's route, Believer,
+ Naoya - Amane's route)
 
 Prayer - MP: 55 - Pr: heal -
 Stats: Ma22
@@ -9212,104 +9803,133 @@ Stats: Ma22
 
 Drain - MP: 2 - Pr: almighty -
 Stats: Ma11
- Drain HP & MP: 1 foe
- Crack: Day 4 (Vidofnir, Peri, K
- Believer)
- [There are only three skills th
- the only Command Skill that doe
- it's insanely effective. Again,
+ Drain HP & MP: 1 foe Crack: Day
+ 4 (Vidofnir, Peri, Kudlak - 1st
+ form), Day 6 (Vivian, Believer)
+ [There are only three skills
+ that help replenish MP, and
+ this is the only Command Skill
+ that does so. On a souped-up
+ magic user, it's insanely
+ effective. Again, use it.]
 
 Recarm - MP: 20 - Pr: heal -
 Stats: Ma13
- Revive Ally: Low HP
- Crack: Day 3 (Zealot), Day 4 (P
+ Revive Ally: Low HP Crack: Day
+ 3 (Zealot), Day 4 (Power,
+ Kaido), Day 6 (Power)
 
 Samarecarm - MP: 35 - Pr: heal -
 Stats: Ma21
- Revive Ally: Full HP
- Crack: Last Day (Laksmi - Naoya
- Naoya's and Yuzu's route, Belie
+ Revive Ally: Full HP Crack:
+ Last Day (Laksmi - Naoya's and
+ Yuzu's route, Kazfiel - Naoya's
+ and Yuzu's route, Believer)
 
 Amrita - MP: 9 - Pr: heal -
 Stats: Ma6
- Cures all ailments
- Crack: Day 1 (Moh Shuyuu), Day 
- (Lorelei)
+ Cures all ailments Crack: Day 1
+ (Moh Shuyuu), Day 3 (Yuki
+ Jyorou, Tamer), Day 5 (Lorelei)
 
 Tetrakarn - MP: 23 - Pr: protect
 - Stats: Ma12 Vi14
- Reflect 1 phys atk
- Crack: Last Day (Anares, Murmur
- route)
- [Tetrakarn is cast on your enti
- party member. Does not carry ov
- it on someone with higher agili
+ Reflect 1 phys atk Crack: Last
+ Day (Anares, Murmur, Sariel -
+ Naoya's and Yuzu's route)
+ [Tetrakarn is cast on your
+ entire party and reflects one
+ attack per party member. Does
+ not carry over after the fight.
+ Better to put it on someone
+ with higher agility if you want
+ it to kick in.]
 
 Makarakarn - MP: 23 - Pr:
 protect - Stats: Ma14 Ag12
- Reflect 1 magic atk
- (No Almighty)
- Crack: Last Day (Anael - Naoya'
- [The magic equivalent of Tetrak
+ Reflect 1 magic atk (No
+ Almighty) Crack: Last Day
+ (Anael - Naoya's and Yuzu's
+ route, Barong) [The magic
+ equivalent of Tetrakarn. Same
+ applies.]
 
 Shield All - MP: 25 - Pr:
 protect - Stats: Ma15 Vi15
- Nullify any dmg once
- Crack: Day 6 (Decarabia), Last 
- route)
- [Use this in battle, and a shie
- team's members. It negates one 
- carry over.
- ***Note that Shield All does NO
+ Nullify any dmg once Crack: Day
+ 6 (Decarabia), Last Day
+ (Decarabia, Naoya - Atsuro's
+ route) [Use this in battle, and
+ a shield goes up around each of
+ your team's members. It negates
+ one attack per party member.
+ Does not carry over.
+ ***Note that Shield All does
+    NOT block Almighty damage
+    (i.e. Holy
    Dance, Megidolaon, etc).]
 
 Taunt - MP: 10 - Pr: protect -
 Stats: Vi7
- Attract dmg, def up
- Crack: Day 2 (Makara), Day 3 (H
+ Attract dmg, def up Crack: Day
+ 2 (Makara), Day 3 (Heimdall),
+ Day 4 (Mahakala)
 
 Might Call - MP: 8 - Pr: protect
 - Stats: St14
- Critical atk: 1 time
- (Phys only)
- Crack: Day 4 (Mahakala, Tamer C
- Tamer Thug), Day 6 (Tamer Thug)
+ Critical atk: 1 time (Phys
+ only) Crack: Day 4 (Mahakala,
+ Tamer Cop), Day 5 (SDF Tamer,
+ Badb Catha, Tamer Thug), Day 6
+ (Tamer Thug), Last Day
+ (Behemoth)
 
 Diajama - MP: 10 - Pr: mystic -
 Stats: Ma10 Ag14
- 1 foe cannot heal
- Crack: Day 6 (Rangda), Last Day
+ 1 foe cannot heal Crack: Day 6
+ (Rangda), Last Day (Rangda,
+ Believer)
 
 Gigajama - MP: 20 - Pr: almighty
 - Stats: Ma10 Ag15
- High Seal chance: 1 foe
- Crack: Day 6 (Belial), Last Day
- [The appeal to this move is tha
- Mystic. Handy to have against t
- the Last Day. However, Seal onl
+ High Seal chance: 1 foe Crack:
+ Day 6 (Belial), Last Day
+ (Anares) [The appeal to this
+ move is that it can't be
+ stopped by Null/Rfl Mystic.
+ Handy to have against that
+ pesky healer or attacker on the
+ Last Day. However, Seal only
+ lasts for the duration of the
   -turn-/fight, so be warned.]
 
 Petra Eyes - MP: 22 - Pr: mystic
 - Stats: Ma9 Ag11
- Mid Stone chance: All
- Crack: Day 4 (Loa, Kudlak - 1st
+ Mid Stone chance: All Crack:
+ Day 4 (Loa, Kudlak - 1st form),
+ Day 5 (Ym, Legion, Pazuzu)
 
 Paral Eyes - MP: 15 - Pr: mystic
 - Stats: Ma7 Ag9
- Mid Parl. chance: All
- Crack: Day 3 (Nekomata, Suparna
+ Mid Parl. chance: All Crack:
+ Day 3 (Nekomata, Suparna,
+ Zealot, Tamer), Day 4 (Loa,
  Tamer Cop), Day 5 (Legion), Day
+ 6 (Seiryuu), Last Day (Murmur)
 
 Mute Eyes - MP: 15 - Pr: mystic
 - Stats: Ma5 Ag7
- Mid Mute chance: All
- Crack: Day 2 (Lilim), Day 3 (Ne
+ Mid Mute chance: All Crack: Day
+ 2 (Lilim), Day 3 (Nekomata),
+ Day 4 (Loa)
 
 Makajamaon - MP: 25 - Pr: mystic
 - Stats: Ma15
- High Mute chance: All
- Crack: Day 4 (Bai Ze), Day 5 (L
- Decarabia, Believer, Tamer Thug
+ High Mute chance: All Crack:
+ Day 4 (Bai Ze), Day 5
+ (Lorelei), Day 6 (Tamer Cop,
+ Decarabia, Believer, Tamer
+ Thug, Tao Tie)
 
 Death Call - MP: 26 - Pr: mystic
 - Stats: Ag19
@@ -9319,11 +9939,16 @@ Death Call - MP: 26 - Pr: mystic
 Weak Kill - HP: 8% - Pr: phys -
 Stats: St12 Ma8 High damage: 1
 foe with ailment
- Crack: Day 3 (Beldr), Day 4 (Ni
- (Orobas, SDF Tamer), Day 6 (Tam
- [Basically, if an enemy has bee
- this can deal a large amount of
- resistance/null/reflect still a
+ Crack: Day 3 (Beldr), Day 4
+ (Nisroc, Kaido, Tamer Cop), Day
+ 5 (Orobas, SDF Tamer), Day 6
+ (Tamer Capt., Believer)
+ [Basically, if an enemy has
+ been shocked, frozen, muted,
+ whatever, this can deal a large
+ amount of damage. Physical
+ resistance/null/reflect still
+ applies, however.]
 
 
 { // B. Passive Skills
@@ -9332,65 +9957,77 @@ foe with ailment
 
 Life Bonus - Pr: passive -
 Stats: St4 Vi4
- Max HP up 10%
- Crack: Day 1 (Waira), Day 2 (Og
- (Wendigo, Zealot, Orcus), Day 4
- (SDF Tamer)
+ Max HP up 10% Crack: Day 1
+ (Waira), Day 2 (Ogun, Tamer
+ Thug, Toubyou), Day 3 (Wendigo,
+ Zealot, Orcus), Day 4 (Tamer
+ Thug, Mahakala), Day 5 (SDF
+ Tamer)
 
 Mana Bonus - Pr: passive -
 Stats: Ma4 Ag4
- Max MP up 10%
- Crack: Day 1 (Kikimora), Day 2 
- Nekomata, Silky, Zealot, Kikuri
+ Max MP up 10% Crack: Day 1
+ (Kikimora), Day 2 (Jack Frost),
+ Day 3 (Pyro Jack, Nekomata,
+ Silky, Zealot, Kikuri-Hime,
+ Tamer)
 
 Life Surge - Pr: passive -
 Stats: St7 Vi7
- Max HP up 30%
- Crack: Day 3 (Beldr), Day 4 (Lo
+ Max HP up 30% Crack: Day 3
+ (Beldr), Day 4 (Loa, Kaido,
+ Tamer Cop), Day 6 (Tamer
    Thug), Final Day (Culebre)
 
 Mana Surge - Pr: passive -
 Stats: Ma7 Ag7
- Max MP up 40%
- Crack: Day 3 (Beldr), Day 4 (Ni
- Keisuke), Day 6 (Vivian, Decara
+ Max MP up 40% Crack: Day 3
+ (Beldr), Day 4 (Nisroc, Honda),
+ Day 5 (Lorelei, Keisuke), Day 6
+ (Vivian, Decarabia, Believer,
+ Azuma)
 
 Hero Aid - Pr: passive - Stats:
 St4
- Crit. rate up 25%
- Crack: Day 1 (Waira, Bilwis), D
+ Crit. rate up 25% Crack: Day 1
+ (Waira, Bilwis), Day 2
+ (Jambavan, Tamer Thug, Tlaloc)
 
 Ares Aid - Pr: passive - Stats:
 St14
- Crit. rate up 50%
- Crack: Day 4 (Mahakala, Tamer C
+ Crit. rate up 50% Crack: Day 4
+ (Mahakala, Tamer Cop), Day 5
+ (Tamer Cop), Day 6 (Cu
  Chulainn, Tamer Thug, Tao Tie)
 
 Drain Hit - Pr: passive - Stats:
 St14 Ag13
- Recover 25% of dmg
- (phys only)
- Crack: Day 4 (Pazuzu, Kudlak - 
+ Recover 25% of dmg (phys only)
+ Crack: Day 4 (Pazuzu, Kudlak -
+ 1st form), Day 5 (Mothman, Badb
 Catha, Pazuzu), Day 6 (Tao Tie)
- [You'll recover 25% of the phys
- dealing it.]
+ [You'll recover 25% of the
+ physical damage that you deal,
+ after dealing it.]
 
 Attack All - Pr: passive -
 Stats: St16 Ag17
- Normal atk hits all
- Crack: Last Day (Sariel, Anael 
+ Normal atk hits all Crack: Last
+ Day (Sariel, Anael - Yuzu's
+ route, Bishamon, Behemoth)
 
 Counter - Pr: passive - Stats:
 St8 Ag7
- Low chance of counter
- (phys only)
- Crack: Day 2 (Garm), Day 3 (Tam
+ Low chance of counter (phys
+ only) Crack: Day 2 (Garm), Day
+ 3 (Tamer)
 
 Revenge - Pr: passive - Stats:
 St11 Ag12
- Mid chance of counter
- (phys only)
- Crack: Day 4 (Afanc, Kaido, Tam
+ Mid chance of counter (phys
+ only) Crack: Day 4 (Afanc,
+ Kaido, Tamer Cop), Day 5
+ (Hanuman, Tamer Cop),
 Day 6 (SDF Tamer, Tamer, Rangda)
 
 Payback - Pr: passive - Stats:
@@ -9399,23 +10036,29 @@ St15 Ag18
  (phys only)
 Crack: Last Day (Orochi, Shiva)
 
-+Mute - Pr: mystic - Stats: Ma9 
- Attacks may Mute
- Crack: Day 3 (Yuki Jyorou, Heim
++Mute - Pr: mystic - Stats: Ma9
+ Ag7 Attacks may Mute Crack: Day
+ 3 (Yuki Jyorou, Heimdall,
+ Zealot), Day 4 (Power, Honda,
  Tamer Cop), Day 6 (Power), Last
+ Day (Murmur)
 
-+Poison - Pr: mystic - Stats: St
- Attacks may Poison
- Crack: Day 1 (Hairy Jack), Day 
++Poison - Pr: mystic - Stats:
+ St7 Ag5 Attacks may Poison
+ Crack: Day 1 (Hairy Jack), Day
+ 4 (Tamer Thug)
 
-+Paralyze - Pr: mystic - Stats: 
- Attacks may Paralyze
- Crack: Day 3 (Yuki Jyorou, Neko
- (Nisroc, Tamer Thug, Kaido, Cai
++Paralyze - Pr: mystic - Stats:
+ St10 Ag8 Attacks may Paralyze
+ Crack: Day 3 (Yuki Jyorou,
+ Nekomata, Shiisaa, Tamer), Day
+ 4 (Nisroc, Tamer Thug, Kaido,
+ Cait Sith)
 
-+Stone - Pr: mystic - Stats: Vi1
- Attacks may Stone
- Crack: Day 3 (Beldr), Day 5 (Ab
++Stone - Pr: mystic - Stats:
+ Vi12 Ag10 Attacks may Stone
+ Crack: Day 3 (Beldr), Day 5
+ (Abaddon)
 
 Fire Rise - Pr: fire - Stats:
 St7 Ma7
@@ -9424,8 +10067,8 @@ St7 Ma7
 
 Ice Rise - Pr: ice - Stats: Ma7
 Vi7
- Ice dmg up 1.2x
- Crack: Day 3 (Zealot), Day 5 (T
+ Ice dmg up 1.2x Crack: Day 3
+ (Zealot), Day 5 (Tamer Cop)
 
 Elec Rise - Pr: elec - Stats:
 Ma7 Ag7
@@ -9439,41 +10082,44 @@ St7 Ma7
 
 Phys Rise - Pr: phys - Stats:
 St6 Vi9
- Phys dmg up 1.2x
- Crack: Day 5 (Tamer Cop, Tamer 
+ Phys dmg up 1.2x Crack: Day 5
+ (Tamer Cop, Tamer Thug)
 
 Fire Jump - Pr: fire - Stats:
 St13 Ma14
- Fire dmg up 1.5x
- Crack: Day 6 (Believer, Rangda)
+ Fire dmg up 1.5x Crack: Day 6
+ (Believer, Rangda), Last Day
+ (Rangda)
 
 Ice Jump - Pr: ice - Stats: Ma14
 Vi13
- Ice dmg up 1.5x
- Crack: Day 6 (Culebre), Last Da
+ Ice dmg up 1.5x Crack: Day 6
+ (Culebre), Last Day (Culebre)
 
 Elec Jump - Pr: elec - Stats:
 Ma14 Ag13
- Elec dmg up 1.5x
- Crack: Day 4 (Tamer Cop), Day 6
+ Elec dmg up 1.5x Crack: Day 4
+ (Tamer Cop), Day 6 (Believer,
+ Seiryuu)
 
 Force Jump - Pr: fire - Stats:
 Vi13 Ag14
- Force dmg up 1.5x
- Crack: Day 6 (Believer, Tamer T
- Agares)
+ Force dmg up 1.5x Crack: Day 6
+ (Believer, Tamer Thug), Last
+ Day (Ukano Mitama, Agares)
 
 Phys Jump - Pr: phys - Stats:
 St13 Vi16
- Phys dmg up 1.5x
- Crack: Day 6 (Believer, Tamer T
- route)
+ Phys dmg up 1.5x Crack: Day 6
+ (Believer, Tamer Thug), Last
+ Day (Sariel - Yuzu's route)
 
 Anti-Phys - Pr: phys - Stats:
 St8 Vi8
- Phys dmg taken -50%
- Crack: Day 4 (Tamer Cop), Day 5
- Day 6 (Believer)
+ Phys dmg taken -50% Crack: Day
+ 4 (Tamer Cop), Day 5 (SDF
+ Tamer, Legion, Tamer Cop), Day
+ 6 (Believer)
 
 Anti-Fire - Pr: fire - Stats:
 St6 Ma6
@@ -9482,20 +10128,21 @@ St6 Ma6
 
 Anti-Ice - Pr: ice - Stats: Ma6
 Vi6
- Ice dmg taken -50%
- Crack: Day 1 (Wendigo), Day 3 (
+ Ice dmg taken -50% Crack: Day 1
+ (Wendigo), Day 3 (Wendigo,
+ Zealot)
 
 Anti-Elec - Pr: elec - Stats:
 Ma6 Ag6
- Elec dmg taken -50%
- Crack: Day 3 (Zealot), Day 4 (P
- Tamer)
+ Elec dmg taken -50% Crack: Day
+ 3 (Zealot), Day 4 (Peri, Tamer
+ Thug), Day 6 (SDF Tamer, Tamer)
 
 Anti-Force - Pr: force - Stats:
 Vi6 Ag6
- Force dmg taken -50%
- Crack: Day 2 (Sarasvati), Day 3
- Cop)
+ Force dmg taken -50% Crack: Day
+ 2 (Sarasvati), Day 3 (Zealot,
+ Tamer Thug), Day 4 (Tamer Cop)
 
 Anti-Mystic - Pr: mystic -
 Stats: Ma9
@@ -9505,42 +10152,44 @@ Crack: Day 3 (Pendragon, Tamer)
 
 Anti-Most - Pr: passive - Stats:
 Ma15 Vi15
- Most dmg taken -50%
- Crack: Day 6 (Abaddon, Tamer Co
- route)
- [Resistance of "str" to everyth
+ Most dmg taken -50% Crack: Day
+ 6 (Abaddon, Tamer Cop), Last
+ Day (Naoya - Atsuro's route)
+ [Resistance of "str" to
+ everything except phys and
+ almighty.]
 
 Anti-All - Pr: passive - Stats:
 Ma16 Vi16
- All dmg taken -50%
- (No Almighty)
- Crack: Last Day (Naoya - Amane'
+ All dmg taken -50% (No
+ Almighty) Crack: Last Day
+ (Naoya - Amane's route)
 
 Null Phys - Pr: phys - Stats:
 St13 Vi13
- Nullify phys attacks
- Crack: Day 6 (Tamer Capt., Azum
+ Nullify phys attacks Crack: Day
+ 6 (Tamer Capt., Azuma)
 
 Null Fire - Pr: fire - Stats:
 St11 Ma11
- Nullify Fire attacks
- Crack: Day 6 (Believer), Last D
+ Nullify Fire attacks Crack: Day
+ 6 (Believer), Last Day (Yaksa)
 
 Null Ice - Pr: ice - Stats: Ma11
 Vi11
- Nullify Ice attacks
- Crack: Day 6 (Abaddon, Tamer Th
+ Nullify Ice attacks Crack: Day
+ 6 (Abaddon, Tamer Thug)
 
 Null Elec - Pr: elec - Stats:
 Ma11 Ag11
- Nullify Elec attacks
- Crack: Day 6 (Believer, Tamer T
+ Nullify Elec attacks Crack: Day
+ 6 (Believer, Tamer Thug)
 
 Null Force - Pr: force - Stats:
 Vi11 Ag11
- Nullify Force attacks
- Crack: Day 4 (Pazuzu), Day 5 (P
- Tamer Thug)
+ Nullify Force attacks Crack:
+ Day 4 (Pazuzu), Day 5 (Pazuzu),
+ Day 6 (Believer, Tamer Thug)
 
 Null Mystic - Pr: mystic -
 Stats: Ma14
@@ -9549,8 +10198,9 @@ Stats: Ma14
 
 Phys Repel - Pr: phys - Stats:
 St16 Vi16
- Reflect Phys attacks
- Crack: Day 6 (Rangda), Last Day
+ Reflect Phys attacks Crack: Day
+ 6 (Rangda), Last Day (Rangda,
+ Murmur)
 
 Fire Repel - Pr: fire - Stats:
 St15 Vi15
@@ -9559,8 +10209,8 @@ St15 Vi15
 
 Ice Repel - Pr: ice - Stats:
 Ma15 Vi15
- Reflect Ice attacks
- Crack: Day 6 (Culebre), Last Da
+ Reflect Ice attacks Crack: Day
+ 6 (Culebre), Last Day (Culebre)
 
 Elec Repel - Pr: elec - Stats:
 Ma15 Ag15
@@ -9579,8 +10229,9 @@ Crack: Last Day (Agares, Shiva)
 
 Fire Drain - Pr: fire - Stats:
 St16 Ma16
- Drain Fire attacks
- Crack: Last Day (Anael - Yuzu's
+ Drain Fire attacks Crack: Last
+ Day (Anael - Yuzu's route,
+ Orochi)
 
 Ice Drain - Pr: ice - Stats:
 Ma16 Vi16
@@ -9599,92 +10250,117 @@ Vi16 Ag16
 
 Watchful - Pr: passive - Stats:
 Ma12 Ag13
- Inactive: Gain 75% XP
- Crack: Day 2 (Garm), Day 3 (Nek
- (Lorelei, Ym)
- [If you leave whoever has this 
- right-hand demon bank of sorts 
- of the EXP that the MC earns. J
- elementals and mitamas, or demo
- in fusion.]
+ Inactive: Gain 75% XP Crack:
+ Day 2 (Garm), Day 3 (Nekomata,
+ Heimdall), Day 5 (Lorelei, Ym)
+ [If you leave whoever has this
+ out of the battle and in that
+ little right-hand demon bank of
+ sorts on the Party page,
+ they'll get 75% of the EXP that
+ the MC earns. Just for sitting
+ there. Not bad for elementals
+ and mitamas, or demons you're
+ only planning on using in
+ fusion.]
 
 Endure - Pr: passive - Stats:
 Vi6
- Withstand death once
- Crack: Day 5 (Orthrus, Mothman,
- Last Day (Naoya - Atsuro's rout
+ Withstand death once Crack: Day
+ 5 (Orthrus, Mothman, Keisuke),
+ Day 6 (SDF Tamer, Tamer), Last
+ Day (Naoya - Atsuro's route)
  [Basically, if a finishing blow
- Once per battle only.]
+ is dealt, you'll be left with 1
+ HP. Once per battle only.]
 
 Life Aid - Pr: passive - Stats:
 Vi13 Ag12
- Battle end: 10% HP up
- Crack: Day 4 (Bai Ze, Tamer Cop
+ Battle end: 10% HP up Crack:
+ Day 4 (Bai Ze, Tamer Cop), Day
+ 5 (Badb Catha), Day 6
  (Decarabia, Belial)
 
 Life Lift - Pr: passive - Stats:
 Vi15 Ag14
- Battle end: 30% HP up
- Crack: Last Day (Laksmi - Naoya
+ Battle end: 30% HP up Crack:
+ Last Day (Laksmi - Naoya's and
+ Yuzu's route, Barong)
 
 Mana Aid - Pr: passive - Stats:
 Ma15 Ag14
- Battle end: 10% MP up
- Crack: Last Day (Norn - all exc
+ Battle end: 10% MP up Crack:
+ Last Day (Norn - all except
+ Yuzu's route)
 
 Victory Cry - Pr: passive -
 Stats: Ma16 Ag16
- Battle end: HP/MP up
- Crack: Last Day (Shiva, Belberi
+ Battle end: HP/MP up Crack:
+ Last Day (Shiva, Belberith)
 
 Pierce - Pr: passive - Stats:
 St15
- 100% dmg to all foes
- (No Repel)
- Crack: Day 5 (Hanuman, SDF Tame
- Day 6 (Tamer Capt., Tamer Cop, 
- [Say an enemy has a resistance 
- ignore the resistance - str, nu
- unfortunately.]
+ 100% dmg to all foes (No Repel)
+ Crack: Day 5 (Hanuman, SDF
+ Tamer, Orthrus, Yama, Tamer
+ Thug), Day 6 (Tamer Capt.,
+ Tamer Cop, Tamer Thug, Belial)
+ [Say an enemy has a resistance
+ to something. With Pierce,
+ it'll ignore the resistance -
+ str, null, or drain. But not
+ reflect, unfortunately.]
 
 Race-O - Pr: passive - Stats:
 St7
- Same Race: Dmg up 50%
- Crack: Day 2 (Jambavan), Day 3 
- Day 6 (Tamer Cop)
- [Unless you're in a tamer battl
- on your tamers. And since those
- you're having a hard time again
- could help, though.]
+ Same Race: Dmg up 50% Crack:
+ Day 2 (Jambavan), Day 3
+ (Mezuki), Day 4 (Tamer Thug),
+ Day 6 (Tamer Cop) [Unless
+ you're in a tamer battle, this
+ really isn't useful to equip on
+ your tamers. And since those
+ are rare as it is... Maybe if
+ you're having a hard time
+ against certain Last Day
+ fights, it could help, though.]
 
 Race-D - Pr: passive - Stats:
 Vi7
- Same Race: Def up 50%
- Crack: Day 1 (Bilwis), Day 2 (G
- (Mezuki)
- [Same goes for this one.]
+ Same Race: Def up 50% Crack:
+ Day 1 (Bilwis), Day 2 (Gagyson,
+ Jack Frost, Lilim), Day 3
+ (Mezuki) [Same goes for this
+ one.]
 
 Dual Shadow - Pr: passive -
 Stats: Ag16
- Chance to repeat atk
- Crack: Day 6 (Berserker, Azuma,
- Bishamon)
+ Chance to repeat atk Crack: Day
+ 6 (Berserker, Azuma, Power),
+ Last Day (Behemoth, Bishamon)
 
 Extra One - Pr: passive - Stats:
 Ag14
- 100% Extra Turn
- Crack: Day 5 (Badb Catha, Keisu
+ 100% Extra Turn Crack: Day 5
+ (Badb Catha, Keisuke, Tamer
+ Thug), Day 6 (Tamer Cop,
  Believer, Tamer Thug), Last Day
+ (Naoya - Atsuro's route)
 
 Leader Soul - Pr: protect -
 Stats: Vi6
- Die for ally if dmg = > Leader 
- Crack: n/a (automatic acquisiti
- [Basically, if one of the team'
- finishing blow, the leader will
+ Die for ally if dmg = > Leader
+ HP Crack: n/a (automatic
+ acquisition) [Basically, if one
+ of the team's demons is about
+ to take a finishing blow, the
+ leader will take half the
+ damage of that
 attack -for- the previous demon.
  Doesn't really work with multi-
- if the leader would die from th
+ target attacks, and doesn't
+ kick in if the leader would die
+ from the attack.]
 
 
 { // C. Auto Skills
@@ -9693,21 +10369,24 @@ attack -for- the previous demon.
 
 Blitzkrieg - MP: 4 - Pr: protect
 - Stats: St8 Ma9
- Start: Atk/Mag up 25%
- Crack: Day 3 (Zealot, Tamer), D
- [This is an ability that never 
- permanent for my MC.]
+ Start: Atk/Mag up 25% Crack:
+ Day 3 (Zealot, Tamer), Day 4
+ (Tamer Thug, Kaido, Tamer Cop)
+ [This is an ability that never
+ stops being useful. It's pretty
+ much permanent for my MC.]
 
 Hustle - MP: 3 - Pr: protect -
 Stats: Ag8
- Start: Hit/Evd up 25%
- Crack: Day 2 (Tamer Thug), Day 
+ Start: Hit/Evd up 25% Crack:
+ Day 2 (Tamer Thug), Day 5
+ (Keisuke)
 
 Fortify - MP: 5 - Pr: protect -
 Stats: Ma7 Vi8
- Start: Def up 25%
- Crack: Day 3 (Zealot, Tamer), D
- Tamer)
+ Start: Def up 25% Crack: Day 3
+ (Zealot, Tamer), Day 4 (Tamer
+ Thug), Day 6 (SDF Tamer, Tamer)
 
 Barrier - MP: 16 - Pr: protect -
 Stats: Ma17 Ag15
@@ -9721,23 +10400,35 @@ Stats: Ma15 Vi17
 
 Full Might - MP: 10 - Pr:
 protect - Stats: St21
- Start: Crit. Atk 1x
- Crack: Last Day (Naoya - Atsuro
- [Crack this during Atsuro's rou
+ Start: Crit. Atk 1x Crack: Last
+ Day (Naoya - Atsuro's and
+ Amane's route) [Crack this
+ during Atsuro's route, because
+ Naoya's Anti-All is only
  available on Amane's.]
  Definitely comparable with Rage
- usually means an ensured Extra 
- enemies' Extra Turns. Plus, you
- the time, and you can use thing
- Both abilities have their merit
+ Soul. An ensured Critical
+ attack usually means an ensured
+ Extra Turn, and it can also
+ take away enemies' Extra Turns.
+ Plus, you're not locked into
+ Attacking all the time, and you
+ can use things like Hassohappa
+ or Deathbound. Both abilities
+ have their merits,
+ essentially.]
 
 Ban Phys - MP: 15 - Pr: phys -
 Stats: St15 Vi15
  All: Null 1st Phys
 Crack: Day 6 (Tamer Cop, Azuma)
- [How this, and other Ban ___ au
- first enemy who tries to use an
- attack will be banned before th
+ [How this, and other Ban ___
+ auto skills work, is that for
+ the first enemy who tries to
+ use an ability of the ban type,
+ that attack will be banned
+ before they can even use it. So
+ it's not
   like Shield All, basically.]
 
 Ban Fire - MP: 8 - Pr: fire -
@@ -9757,81 +10448,106 @@ Stats: Ma9 Ag9
 
 Ban Force - MP: 8 - Pr: force -
 Stats: Vi8 Ag8
- All: Null 1st Force
- Crack: Day 6 (Believer, Tamer T
+ All: Null 1st Force Crack: Day
+ 6 (Believer, Tamer Thug)
 
 Ban Mystic - MP: 6 - Pr: mystic
 - Stats: Ma12
- All: Null 1st Mystic
- Crack: Day 5 (SDF Tamer, Kaido,
+ All: Null 1st Mystic Crack: Day
+ 5 (SDF Tamer, Kaido, Tamer
+ Thug)
 
 Rage Soul - MP: 6 - Pr: protect
 - Stats: Vi17
- 2x Dmg: Attacks only
- Crack: Last Day (Believer)
- [The thing about this one is, y
- Pretty good damage-wise and a h
+ 2x Dmg: Attacks only Crack:
+ Last Day (Believer) [The thing
+ about this one is, you can only
+ use the Attack command. Pretty
+ good damage-wise and a huge
+ favorite of many, especially if
  you have two demons with Attack
- criticals can give you Extra Tu
+ All and Phys Jump, but Full
+ Might's criticals can give you
+ Extra Turns and give you more
+ flexibility.]
 
 Grace - MP: 25 - Pr: heal -
 Stats: Ma21
- Start: Full cure team
- Crack: Last Day (Believer)
- [You probably won't need this o
+ Start: Full cure team Crack:
+ Last Day (Believer) [You
+ probably won't need this one.
+ But, if you have a physical
  attacker, you could put this on
- team to replenish MP, if you fi
- always gets dangerously low.]
+ him/her and have a Tyrant on
+ the team to replenish MP, if
+ you find your phys. attacking
+ team's HP always gets
+ dangerously low.]
 
 Marksman - MP: 2 - Pr: protect -
 Stats: Ag7
- Start: Foe Evade down
- Crack: Day 2 (Tamer Thug), Day 
+ Start: Foe Evade down Crack:
+ Day 2 (Tamer Thug), Day 3
+ (Zealot)
 
 Tailwind - MP: 0 - Pr: protect -
 Stats: Ag4
- Start: Team Agi. up
- Crack: Day 2 (Tamer Thug), Day 
+ Start: Team Agi. up Crack: Day
+ 2 (Tamer Thug), Day 4 (Tamer
+ Cop), Day 6 (SDF Tamer)
 
 Magic Yin - MP: 16 - Pr: protect
 - Stats: Ma14
  1.5x Mag, MP cost 2x
- (No phys)
- Crack: Last Day (Amane - Naoya'
- [It's like a permanent Awakenin
- physical attack with this in pl
- Mana Aid, or Victory Cry on who
+ (No phys) Crack: Last Day
+ (Amane - Naoya's/Kaido's route)
+ [It's like a permanent
+ Awakening. Your team can't use
+ any kind of physical attack
+ with this in play. You might
+ want to slap Drain, Mana Aid,
+ or Victory Cry on whoever uses
+ this one, though.]
 
 Magic Yang - MP: 0 - Pr: protect
 - Stats: Ma14
- MP cost -50% (All)
- Crack: Day 5 (Tamer Cop, Tamer 
- [Note that the "All" means both
- fighting an emeny with Magic Ya
- and vice versa.]
+ MP cost -50% (All) Crack: Day 5
+ (Tamer Cop, Tamer Thug) [Note
+ that the "All" means both sides
+ in the battle. So if you're
+ fighting an emeny with Magic
+ Yang, you'll get halved MP
+ costs... and vice versa.]
 
 Battle Aura - MP: 10 - Pr:
 protect - Stats: Ma10 Vi11
- Nullifies dmg > 50
- Crack: Day 4 (Tamer Thug, Honda
- Day 6 (Believer)
- [Okay, this one's tricky. I'm n
- supposed to be dmg < 50, not >.
- but not so useful later on. Whe
- 'block' and might give you Extr
+ Nullifies dmg > 50 Crack: Day 4
+ (Tamer Thug, Honda, Tamer Cop),
+ Day 5 (Tamer Capt.), Day 6
+ (Believer) [Okay, this one's
+ tricky. I'm not completely sure
+ but I think it's supposed to be
+ dmg < 50, not >. If so, useful
+ in the beginning, but not so
+ useful later on. When
+ activated, it'll count as a
+ 'block' and might give you
+ Extra Turns.]
 
 Revive - MP: 25 - Pr: heal -
 Stats: Ma18
- Start: Cast Recarm
- (All allies)
- Crack: Day 6 (Tamer Capt., Tame
- [This only kicks in if one of y
- is good, considering its high M
+ Start: Cast Recarm (All allies)
+ Crack: Day 6 (Tamer Capt.,
+ Tamer Cop, Tamer Thug, Tamer)
+ [This only kicks in if one of
+ your team's demons has died.
+ Which is good, considering its
+ high MP cost.]
 
 Healing - MP: 12 - Pr: heal -
 Stats: Ma12
- Start: Cast Media
- Crack: Day 5 (SDF Tamer, Tamer 
+ Start: Cast Media Crack: Day 5
+ (SDF Tamer, Tamer Cop)
 
 Alter Pain - MP: 0 - Pr: heal -
 Stats: St12 Ma12
@@ -9844,172 +10560,250 @@ Stats: St12 Ma12
         ........................
 
 Megami:
- Affection - MP: anywhere from 1
- Heal/Cure a team
- Range: 4
- [Easily better than Devotion or
- It'll probably heal at least 60
- it'll cure status ailments. It 
- will surely help.]
+ Affection - MP: anywhere from
+ 10-20% - Pr: heal Heal/Cure a
+ team Range: 4 [Easily better
+ than Devotion or Charm, and
+ highly recommended. It'll
+ probably heal at least 60% of
+ each team member's HP, and
+ it'll cure status ailments. It
+ might not be Prayer, but the
+ range will surely help.]
 
 Deity:
 Awakening - MP: 8% - Pr: protect
- MP skills up 1.5x
- [Choose the option to increase 
- that turn. Can be quite useful,
- demons.]
+ MP skills up 1.5x [Choose the
+ option to increase your team's
+ magic potency during that turn.
+ Can be quite useful, with the
+ right combination of demons.]
 
 Vile:
- Chaos Wave - Pr: passive
- Rng up 3x, Move -1
- Cost 2x, no EX Turn
- [The movement and speed cost ma
- your main has a New Game+ movem
- royal pain, however. Pair it wi
- sorts, or Flight to cancel out 
- even if you attack an enemy whi
- never have Extra Turns if you h
+ Chaos Wave - Pr: passive Rng up
+ 3x, Move -1 Cost 2x, no EX Turn
+ [The movement and speed cost
+ makes this one hard to use,
+ unless your main has a New
+ Game+ movement of 5. Enemies
+ with this are a royal pain,
+ however. Pair it with Animal
+ Leg for a sniper of sorts, or
+ Flight to cancel out the
+ movement penalty. Note that
+ even if you attack an enemy
+ while you're right next to it,
+ you'll never have Extra Turns
+ if you have a demon with this.]
 
 Snake:
- Constrict - Pr: passive
- Foes near team: Bound
- Engage priority
- [You'll always have +10 Initiat
- you a better chance of getting 
- when you're the one attacking f
- to you have their movement redu
+ Constrict - Pr: passive Foes
+ near team: Bound Engage
+ priority [You'll always have
+ +10 Initiative when enemies
+ attack, which gives you a
+ better chance of getting Extra
+ Turns. It doesn't kick in when
+ you're the one attacking first.
+ Also, enemies that are next to
+ you have their movement reduced
+ to 1.]
 
 Dragon:
- Evil Wave - Pr: passive
- Range up 2x
- [No movement penalty makes it b
- respects - most enemies won't b
- moving your teams in a group, t
- enough. Definitely good to have
- even if you attack an enemy whi
- never have Extra Turns if you h
+ Evil Wave - Pr: passive Range
+ up 2x [No movement penalty
+ makes it better than Chaos Wave
+ in most respects - most enemies
+ won't be able to attack you,
+ and if you're moving your teams
+ in a group, this should soften
+ up enemies enough. Definitely
+ good to have. Like with Chaos
+ Wave, note that even if you
+ attack an enemy while you're
+ right next to it, you'll never
+ have Extra Turns if you have a
+ demon with this.]
 
 Divine:
 Blood Wine - HP: 20% - Pr: heal
- Convert HP to MP
- Level dependant
- [Pretty useful, especially if y
- runs out of MP. Tyranny would w
- to Blood Wine is that it's HP- 
- Usually, it doesn't restore as 
- experience, but you can always 
- amongst your party to restore M
+ Convert HP to MP Level
+ dependant [Pretty useful,
+ especially if you're the kind
+ of player who always runs out
+ of MP. Tyranny would work as
+ well, though... The benefit to
+ Blood Wine is that it's HP-
+ rather than battle-dependant.
+ Usually, it doesn't restore as
+ much MP as Tyranny, in my
+ experience, but you can always
+ rotate around a Divine-type
+ amongst your party to restore
+ MP in long, grueling battles.]
 
 Avian:
- Flight - Pr: passive
- Ignore obstacles
- Move +1 (No stack)
- [Good for racing to certain poi
- save civilians, or battles wher
+ Flight - Pr: passive Ignore
+ obstacles Move +1 (No stack)
+ [Good for racing to certain
+ points, i.e. battles where you
+ have to save civilians, or
+ battles where there's a ton of
  debris/obstacles.]
 
 Fallen:
- Sacrifice - Pr: passive
- HP, MP up when foe dies (Lvl de
- [If the demon with Sacrifice la
- team will get a little bit of t
+ Sacrifice - Pr: passive HP, MP
+ up when foe dies (Lvl
+ dependant) [If the demon with
+ Sacrifice lands the finishing
+ blow, the entire team will get
+ a little bit of their HP and MP
+ replenished.]
 
 Avatar:
  Switch - MP: 5% - Pr: passive
- Switch positions
- Range: 6
- [So very useful in many battles
- ones. Not only will you get clo
- move a potential 9-11 spaces in
- you'll get the civilian out of 
- can also use this to move a bad
- string together a number of att
- etc. Very versatile, and it fit
+ Switch positions Range: 6 [So
+ very useful in many battles,
+ especially the save-the-
+ civilian ones. Not only will
+ you get closer to the enemies
+ faster (you can move a
+ potential 9-11 spaces in one
+ turn with this trick), but
+ you'll get the civilian out of
+ harm's way at the same time.
+ You can also use this to move a
+ badly damaged team out of
+ range, or string together a
+ number of attacks by having
+ teams Switch in, etc. Very
+ versatile, and it fits in many
+ strategies.
 
 Beast:
- Animal Leg - Pr: passive
- Move after attacking
- (Not stackable)
+ Animal Leg - Pr: passive Move
+ after attacking (Not stackable)
  [Pretty useful, seeing as it'll
- to race to a certain point and 
- the beginning, it'll let you pr
- speed cost for the extra moveme
- movement.]
+ double your move. If you're
+ trying to race to a certain
+ point and there are enemies
+ close to you at the beginning,
+ it'll let you propel your team
+ pretty far. The speed cost for
+ the extra movement is lower
+ than that of normal movement.]
 
 Wilder:
- Devil Speed - HP: 15-20% depend
- Move = 7 after use
- Engage priority
- [One of the classic moves for s
- bonus to this one is its +15 In
- after using it.]
+ Devil Speed - HP: 15-20%
+ depending on level - Pr:
+ passive Move = 7 after use
+ Engage priority [One of the
+ classic moves for save-the-
+ civilian battles. A little
+ bonus to this one is its +15
+ Initiative you'll get when you
+ attack after using it.]
 
 Genma:
- Phantasma - Pr: passive
- Ignore obstacles
- Move cost: Half
- [It doesn't give you the extra 
- your overall Speed with the les
- move through obstacles. Definit
+ Phantasma - Pr: passive Ignore
+ obstacles Move cost: Half [It
+ doesn't give you the extra move
+ that Flight does, but it helps
+ your overall Speed with the
+ lessened movement cost. And you
+ can move through obstacles.
+ Definitely a very handy skill
+ to have.]
 
 Fairy:
  Charm - MP: 10-20% depending on
+ level - Pr: heal
   Recovers HP, miracles happen
- Range: 3
- [Good at the beginning of the g
- on. Affection and even Devotion
- Media/rahan will definitely hea
- your Critical Hit % or even hea
- rare). It can also lower your m
- don't bother when you have bett
+ Range: 3 [Good at the beginning
+ of the game, but its usefulness
+ wanes later on. Affection and
+ even Devotion are better for
+ ranged healing, and Media/rahan
+ will definitely heal more.
+ Charm can, on occasion, up your
+ Critical Hit % or even heal you
+ fully (though that last one's
+ rare). It can also lower your
+ movement, though, so...overall,
+ don't bother when you have
+ better healing options later.]
 
 Tyrant:
- Tyranny - Pr: passive
- MP up when damaged
- Foe turns delayed
- [One of the best, best racial s
- is always a bonus, especially w
- every turn, and the foe turn de
+ Tyranny - Pr: passive MP up
+ when damaged Foe turns delayed
+ [One of the best, best racial
+ skills by far. Free MP
+ replenishment is always a
+ bonus, especially when you're
+ using Ma-dyne skills every
+ turn, and the foe turn delay
+ will really help when you don't
  want a big boss on the Last Day
- Just surround it with people wh
- all set.]
+ to whip out Megidolaon as
+ often. Just surround it with
+ people who have Tyrant-type
+ demons and you're all set.]
 
 Kishin:
- Double Up - Pr: passive
- Can normal attack 2x
- (Not stackable)
- [Another really good racial ski
- Say you start out in front of a
- then you attack another team. I
- the battle order, though - whic
- missions, i.e. if reinforcement
- known 3-turn challenge) are sol
- the MC's gone.]
+ Double Up - Pr: passive Can
+ normal attack 2x (Not
+ stackable) [Another really good
+ racial skill. You can attack
+ twice per turn. Say you start
+ out in front of an enemy - you
+ attack it, then move, then you
+ attack another team. It'll push
+ you back pretty far in the
+ battle order, though - which
+ can be helpful on certain
+ missions, i.e. if
+ reinforcements or enemy turns
+ (or Naoya's well- known 3-turn
+ challenge) are solely dependant
+ on how many times the MC's
+ gone.]
 
 Touki:
- Aggravate - HP: 13-18% dependin
- Allies: critical dmg 1 turn aft
- [Eh, kinda useful. Painful if y
- inflicting immense damage, up t
- physical attackers.]
+ Aggravate - HP: 13-18%
+ depending on level - Pr:
+ protect Allies: critical dmg 1
+ turn after use [Eh, kinda
+ useful. Painful if you're up
+ against it. Pretty good for
+ inflicting immense damage, up
+ to a point, if it's on a team
+ of physical attackers.]
 
 Jaki:
- Bind - HP: 15-22% depending on 
- Adj. foe team: Bound
- Range: 3
- [Good for levels where you're t
- escaping or you're trying to pr
- handy during, say, the Kudlak b
+ Bind - HP: 15-22% depending on
+ level - Pr: passive Adj. foe
+ team: Bound Range: 3 [Good for
+ levels where you're trying to
+ keep the enemy from escaping or
+ you're trying to protect
+ civilians. Very good to have
+ handy during, say, the Kudlak
+ battles.]
 
 Femme:
  Devotion - MP: 15-25% depending
- Recovers HP
- Range: 3
- [It's pretty much just plain-va
- Healing's HP-dependant - it'll 
- user demon has at the moment. S
- something...it's going to be a 
- in many cases, not as good as A
+ on level - Pr: passive Recovers
+ HP Range: 3 [It's pretty much
+ just plain-vanilla healing,
+ with some range. Healing's HP-
+ dependant - it'll heal up to
+ half of the HP that the user
+ demon has at the moment. So if
+ only has 50 HP left or
+ something...it's going to be a
+ little useless. Better than
+ Charm in many cases, not as
+ good as Affection.]
 
 Elements and Mitamas do not have
 racial skills.
@@ -10021,25 +10815,31 @@ racial skills.
 
 Desperation - HP: all - Pr:
 almighty - Command
- Kill self to dmg foes
- [Pretty much what it says. You 
- and there are much better almig
+ Kill self to dmg foes [Pretty
+ much what it says. You can only
+ find the ability on Gozuki, and
+ there are much better almighty-
+ type attacks out there. Up to
  you.]
 
 Paladin Soul - Pr: passive -
 Passive
- Endure leader's death
- [If the team leader would die f
- Paladin Soul will take the hit 
- down to 1.]
+ Endure leader's death [If the
+ team leader would die from a
+ certain hit, the demon with
+ Paladin Soul will take the hit
+ for the leader and its HP will
+ go down to 1.]
 
 Hero Soul - Pr: passive -
 Passive
- Take lead's dmg
- (conditional)
- [If the leader's about to take 
- resistance to, the demon will t
- reflect it, etc etc.]
+ Take lead's dmg (conditional)
+ [If the leader's about to take
+ damage that the demon has a
+ resistance to, the demon will
+ take that damage - or
+ null/drain/ reflect it, etc
+ etc.]
 
 
 Enemy-only skills:
@@ -10065,15 +10865,15 @@ Passive
  Enemy: Belial, Jezebel
 
 Evil Flame - Pr: fire - Racial
- Uses Sodom Fire
- Enemy: Belial
- [Basically, a multitarget attac
+ Uses Sodom Fire Enemy: Belial
+ [Basically, a multitarget
+ attack.]
 
 Four Devas - Pr: passive -
 Racial
- Can normal attack 2x
- Ignore obstacles
- Enemy: Bishamon, Zouchou, Koumo
+ Can normal attack 2x Ignore
+ obstacles Enemy: Bishamon,
+ Zouchou, Koumoku
 
 Hot Flower - Pr: passive -
 Racial
@@ -10104,8 +10904,8 @@ Racial
 
 King's Gate - Pr: passive -
 Racial
- Attack range up 3x
- Upgrades to --> Infinite attack
+ Attack range up 3x Upgrades to
+ --> Infinite attack range
  Cannot move
 
 
@@ -10150,10 +10950,12 @@ There are four auction levels,
 which get unlocked as you
 progress throughout the game:
 
- - Basic:    demons at levels 1-
- - Gold:     demons at levels 16
- - Platinum: demons at levels 31
- - Occult:   demons at levels 51
+ - Basic: demons at levels 1-15
+ - Gold: demons at levels 16-30
+ - Platinum: demons at levels
+   31-50
+ - Occult: demons at levels 51+,
+   and Mitamas
 
 
 Here's how the auction works.
@@ -10171,7 +10973,8 @@ will drop out; the longer the
 auction lasts, the less inclined
 they'll be to drop out. So you
 generally want to end the
-auction by 3.5 seconds.
+auction by
+3.5 seconds.
 
 You can drop out of the auction
 at any time. If you decide to
@@ -10181,21 +10984,33 @@ pay any Macca, but your auction
 ranking will go down.
 
 A few rules and regulations:
- - For a demon to be available i
+ - For a demon to be available
+   in the auction, you have to
+   have fought it at
    least once.
- - Unique demons (ones you can o
+ - Unique demons (ones you can
+   only have one copy of at one
+   time) can't be
    bought.
  - Some of the 4- /5-star demons
-   fusing them, so be on the loo
+   will come with skills that
+   you can't get when
+   fusing them, so be on the
+   lookout for that.
 
 Oh, and. Sometimes, after you
 place your bid, the auction will
 freak out on you and one of
 several things can happen:
- - You have to pay double the or
+ - You have to pay double the
+   original price.
  - You only have to pay half the
- - You have to pay...nothing. (A
- - Turns out, you're getting a d
+   original price.
+ - You have to pay...nothing.
+   (Awesome.)
+ - Turns out, you're getting a
+   demon different from the
+   originally specified
    one.
 
 If something bad happens, well,
@@ -10241,18 +11056,36 @@ the same time, though.)
 But, you say, if you have access
 to the auctions, why fuse?
 Several reasons for that:
- - There are certain types of de
-   Megami, Divine, Deity, Vile, 
-   racial skills, too.
- - Fused demons can inherit thei
-   out skills, however. And new 
-   skills will be inherited, whi
- - For several races, their high
- - Unique demons (ones you can o
+ - There are certain types of
+   demons that will never appear
+   in the auctions -
+   Megami, Divine, Deity, Vile,
+   Tyrant. Naturally, they have
+   some of the best racial
+   skills, too.
+ - Fused demons can inherit
+   their parents' skills. They
+   cannot inherit grayed-
+   out skills, however. And new
+   to this SMT version, you can
+   choose which skills will be
+   inherited, which saves so
+   much reloading time,
+   honestly.
+ - For several races, their
+   highest-tier demons cannot be
+   found in the auction.
+ - Unique demons (ones you can
+   only have one copy of at one
+   time) can only be
    fused (and are rarely seen as
- - If your demons have leveled u
-   fused demons can get stat bon
-   later.)
+   enemies, too).
+ - If your demons have leveled
+   up a bit and have nice stat
+   boosts, resulting
+   fused demons can get stat
+   bonuses too. (More to come on
+   the specifics later.)
 
 So, the moral of the story is:
 fuse and be happy. Etc, etc.
@@ -10273,7 +11106,9 @@ Megami:
  - Avatar + Fairy
 
  - Elements:
-   -- A Megami fused with any El
+   -- A Megami fused with any
+      Element will go down one
+      tier.
 
 Deity:
  - Megami + Vile
@@ -10284,11 +11119,16 @@ Deity:
  - Avian + Kishin
  - Avatar + Kishin
 
-   -- Note that Shiva has a spec
- You can't fuse it via the eleme
+   -- Note that Shiva has a
+      special fusion type
+      (Avatar + Femme).
+ You can't fuse it via the
+ element rule, either.
 
  - Elements:
-   -- A Deity fused with any Ele
+   -- A Deity fused with any
+      Element will go down one
+      tier.
 
 Vile:
  - Genma + Tyrant
@@ -10301,7 +11141,9 @@ Vile:
  - Fairy + Kishin
 
  - Elements:
-   -- A Vile fused with any Elem
+   -- A Vile fused with any
+      Element will go down one
+      tier.
 
 Snake:
  - Megami + Avatar
@@ -10315,8 +11157,10 @@ Snake:
  - Tyrant + Touki
 
  - Elements:
-   -- Aquans, Flaemis - the Snak
-   -- Aeros, Erthys - the Snake 
+   -- Aquans, Flaemis - the
+      Snake will go up one tier.
+   -- Aeros, Erthys - the Snake
+      will go down one tier.
 
 Dragon:
  - Deity + Femme
@@ -10328,7 +11172,10 @@ Dragon:
 
  - Elements:
    -- Aeros, Erthys - the Dragon
-   -- Aquans, Flaemis - the Drag
+      will go up one tier.
+   -- Aquans, Flaemis - the
+      Dragon will go down one
+      tier.
 
 Divine:
  - Megami + Avian
@@ -10340,10 +11187,15 @@ Divine:
  - Avatar + Beast
 
  - Elements:
-   -- Aquans, Flaemis - the Divi
+   -- Aquans, Flaemis - the
+      Divine will go up one
+      tier.
    -- Aeros, Erthys - the Divine
+      will go down one tier.
 
-   -- Note that you can't get Me
+   -- Note that you can't get
+      Metatron via fusing with
+      elements. You have
  to use Remiel + Kazfiel.
 
 Avian:
@@ -10359,7 +11211,9 @@ Avian:
 
  - Elements:
    -- Aeros, Flaemis - the Avian
+      will go up one tier.
    -- Aquans, Erthys - the Avian
+      will go down one tier.
 
 Fallen:
  - Dragon + Genma
@@ -10373,8 +11227,12 @@ Fallen:
  - Avatar + Tyrant
 
  - Elements:
-   -- Aeros, Flaemis - the Falle
-   -- Aquans, Erthys - the Falle
+   -- Aeros, Flaemis - the
+      Fallen will go up one
+      tier.
+   -- Aquans, Erthys - the
+      Fallen will go down one
+      tier.
 
 Avatar:
  - Avian + Tyrant
@@ -10390,8 +11248,11 @@ Avatar:
  - Genma + Touki
 
  - Elements:
-   -- Aquans, Flaemis - the Avat
+   -- Aquans, Flaemis - the
+      Avatar will go up one
+      tier.
    -- Aeros, Erthys - the Avatar
+      will go down one tier.
 
 Beast:
  - Megami + Genma
@@ -10403,7 +11264,9 @@ Beast:
 
  - Elements:
    -- Aeros, Flaemis - the Beast
+      will go up one tier.
    -- Aquans, Erthys - the Beast
+      will go down one tier.
 
 Wilder:
  - Deity + Genma
@@ -10414,8 +11277,11 @@ Wilder:
  - Tyrant + Femme
 
  - Elements:
-   -- Erthys, Flaemis - the Wild
+   -- Erthys, Flaemis - the
+      Wilder will go up one
+      tier.
    -- Aeros, Aquans - the Wilder
+      will go down one tier.
 
 Genma:
  - Megami + Beast
@@ -10429,8 +11295,11 @@ Genma:
  - Avatar + Femme
 
  - Elements:
-   -- Aeros, Aquans - the Genma 
-   -- Erthys, Flaemis - the Genm
+   -- Aeros, Aquans - the Genma
+      will go up one tier.
+   -- Erthys, Flaemis - the
+      Genma will go down one
+      tier.
 
 Fairy:
  - Megami + Snake
@@ -10441,8 +11310,11 @@ Fairy:
  - Beast + Femme
 
  - Elements:
-   -- Aeros, Erthys - the Fairy 
-   -- Aquans, Flaemis - the Fair
+   -- Aeros, Erthys - the Fairy
+      will go up one tier.
+   -- Aquans, Flaemis - the
+      Fairy will go down one
+      tier.
 
 Tyrant:
  - Deity + Vile
@@ -10454,7 +11326,9 @@ Tyrant:
  - Fallen + Genma
 
  - Elements:
-   -- A Tyrant fused with any El
+   -- A Tyrant fused with any
+      Element will go down one
+      tier.
 
 Kishin:
  - Megami + Deity
@@ -10466,8 +11340,12 @@ Kishin:
  - Avatar + Touki
 
  - Elements:
-   -- Aquans, Erthys - the Kishi
-   -- Aeros, Flaemis - the Kishi
+   -- Aquans, Erthys - the
+      Kishin will go up one
+      tier.
+   -- Aeros, Flaemis - the
+      Kishin will go down one
+      tier.
 
 Touki:
  - Megami + Kishin
@@ -10480,8 +11358,10 @@ Touki:
  - Fallen + Avatar
 
  - Elements:
-   -- Erthys, Flaemis - the Touk
-   -- Aeros, Aquans - the Touki 
+   -- Erthys, Flaemis - the
+      Touki will go up one tier.
+   -- Aeros, Aquans - the Touki
+      will go down one tier.
 
 Jaki:
  - Megami + Dragon
@@ -10495,8 +11375,10 @@ Jaki:
  - Fallen + Kishin
 
  - Elements:
-   -- Aquans, Erthys - the Jaki 
-   -- Aeros, Flaemis - the Jaki 
+   -- Aquans, Erthys - the Jaki
+      will go up one tier.
+   -- Aeros, Flaemis - the Jaki
+      will go down one tier.
 
 Femme:
  - Megami + Fallen
@@ -10509,11 +11391,15 @@ Femme:
  - Wilder + Kishin
 
  - Elements:
-   -- Erthys, Flaemis - the Femm
-   -- Aeros, Aquans - the Femme 
+   -- Erthys, Flaemis - the
+      Femme will go up one tier.
+   -- Aeros, Aquans - the Femme
+      will go down one tier.
 
 Element:
- -- Elements are made by fusing 
+ -- Elements are made by fusing
+    two of the same type of
+    demon together.
 
  - Aeros:
    -- Vile
@@ -10541,7 +11427,8 @@ Element:
    -- Dragon
 
 Mitama:
- -- Mitamas are made by fusing E
+ -- Mitamas are made by fusing
+    Elements.
 
  - Nigi Mitama (Magic)
    -- Aeros + Erthys
@@ -10565,11 +11452,16 @@ Mitama:
 
 There are four ways for a demon
 to get extra stat points:
- - You buy a 4- or 5-star demon 
+ - You buy a 4- or 5-star demon
+   at the auction.
  - The demon levels up.
- - You fuse the demon with a Mit
- - You fuse two demons already p
-   resulting demon will also gai
+ - You fuse the demon with a
+   Mitama.
+ - You fuse two demons already
+   possessing bonus stat points,
+   and their
+   resulting demon will also
+   gain bonus stats.
 
 Note that there is a limit to
 the amount of stat boosts a
@@ -10680,11 +11572,16 @@ awesome stats.
 
 Search key:
 
- *01) Megami    *02) Deity     *
- *05) Dragon    *06) Divine    *
- *09) Avatar    *10) Beast     *
- *13) Fairy     *14) Tyrant    *
- *17) Jaki      *18) Femme     *
+ *01) Megami *02) Deity *03)
+      Vile *04) Snake
+ *05) Dragon *06) Divine *07)
+      Avian *08) Fallen
+ *09) Avatar *10) Beast *11)
+      Wilder *12) Genma
+ *13) Fairy *14) Tyrant *15)
+      Kishin *16) Touki
+ *17) Jaki *18) Femme *19)
+      Element *20) Mitama
 
 
 *01) Megami
@@ -10692,9 +11589,12 @@ Search key:
 {// Typically the strongest
 magic users, they have powerful
 healing moves,
-    high magic, lower vitality a
-    Affection fully heals and cu
-    Megami can only be fused.
+    high magic, lower vitality
+    and agility, and resistance
+    to Mystic. Affection fully
+    heals and cures a team up to
+    4 spaces away. Megami can
+    only be fused.
 
 Sarasvati Lv: 12 HP: 90 - MP: 76
 [ ] Phys [W] Fire [ ] Ice [ ]
@@ -10738,9 +11638,13 @@ Mystic Samarecarm, Prayer (Lv64)
 {// Incredibly strong demons,
 they tend to lean towards
 strength, though the
-    strongest ones are very bala
-    all of them are Unique (can 
-    Awakening raises the potency
+    strongest ones are very
+    balanced, versatile, and
+    element-resistant. Almost
+    all of them are Unique (can
+    only have one copy at one
+    time). Awakening raises the
+    potency of MP-using skills.
     Deity can only be fused.
 
 Thor Lv: 16 {UNIQUE} HP: 175 -
@@ -10785,11 +11689,17 @@ Megidolaon | Awakening
 {// They have the largest attack
 range of all demons, 3. With
 stats typically
-    leaning towards strength, th
-    Unique (can only have one co
-    Chaos Wave gives them a x3 a
-    you further back in the turn
-    Vile can only be fused.
+    leaning towards strength,
+    they can be lethal enemies.
+    Most of them are Unique (can
+    only have one copy at one
+    time). Chaos Wave gives them
+    a x3 attack range, but
+    increases attack cost
+    (pushing you further back in
+    the turn order) and
+    eliminates Extra Turns. Vile
+    can only be fused.
 
 Orcus Lv: 22
 HP: 204 - MP: 50
@@ -10835,9 +11745,13 @@ Mana Aid | Chaos Wave
 {// Typically lacking in
 agility, they make up for it in
 strength and their
-    Constrict ability, and are r
-    Constrict gives the team +10
-    in an agility boost and incr
+    Constrict ability, and are
+    reliable fighters. Constrict
+    gives the team +10 intiative
+    when attacked by an enemy,
+    resulting in an agility
+    boost and increased chance
+    of Extra Turns.
 
 Makara Lv: 14 HP: 146 - MP: 44 [
 ] Phys [ ] Fire [ ] Ice [R] Elec
@@ -10881,9 +11795,12 @@ Attack All (Lv66) | Constrict
 {// Dragons are pretty good
 early on in the game, but get
 obsolete by the
-    middle of the Last Day, as t
-    Evil Wave gives you 2x attac
-    the attack cost.
+    middle of the Last Day, as
+    they only go up to a base
+    level of 47. Evil Wave gives
+    you 2x attack range, but
+    eliminates Extra Turns and
+    ups the attack cost.
 
 Toubyou Lv: 15 HP: 126 - MP: 44
 [ ] Phys [ ] Fire [W] Ice [S]
@@ -10921,9 +11838,13 @@ Ice Repel (Lv49) | Evil Wave
 {// They typically have balanced
 stats and are sturdy fighters,
 with few to no
-    weaknesses. Especially good 
-    with endurance battles.
-    Blood Wine lets Divine-types
+    weaknesses. Especially good
+    later on because of Blood
+    Wine, which helps with
+    endurance battles. Blood
+    Wine lets Divine-types
+    exchange some HP for MP for
+    the entire team.
 
 Angel Lv: 14
 HP: 126 - MP: 44
@@ -10974,6 +11895,7 @@ agility and otherwise balanced
 stats. Most of
  them have a weakness to force.
     Flight gives the team leader
+    +1 movement.
 
 Moh Shuyuu Lv: 7
 HP: 72 - MP: 27
@@ -11010,9 +11932,11 @@ Megido | Flight
 {// They tend to have very
 balanced stats. Many of them
 come with most of their
-    skill slots already full or 
-    Sacrifice heals a little HP 
-    kills an enemy.
+    skill slots already full or
+    filling. Sacrifice heals a
+    little HP and MP for the
+    team every time the Fallen
+    demon kills an enemy.
 
 Gagyson Lv: 12 HP: 114 - MP: 40
 [ ] Phys [ ] Fire [ ] Ice [ ]
@@ -11057,10 +11981,15 @@ Sacrifice
 {// Avatar tend to have balanced
 stats, multiple resistances, and
 a variety of
-    magic skills. Their Switch s
-    civilians or don't want frie
-    Switch allows you to trade p
-    away, for a cost of some MP.
+    magic skills. Their Switch
+    skill is great for when you
+    have to save civilians or
+    don't want friendly units to
+    take all your kills. Switch
+    allows you to trade places
+    with a friendly unit up to
+    six spaces away, for a cost
+    of some MP.
 
 Heget Lv: 9
 HP: 90 - MP: 34
@@ -11107,7 +12036,10 @@ Switch
 high agility and strength, and
 are useful for
     high movement, fast strikes,
-    Animal Leg allows the team l
+    and sniper attacks of sorts.
+    Animal Leg allows the team
+    leader to move again after
+    attacking.
 
 Kabuso Lv: 2
 HP: 33 - MP: 21
@@ -11151,11 +12083,16 @@ Animal Leg
 {// Leaning towards strength and
 vitality, they're most known for
 being very
-    useful to vital for save-the
-    be quite as useful on the la
-    between the final two tiers.
-    Devil Speed allows a team le
-    HP.
+    useful to vital for save-
+    the-civilian missions.
+    Unfortunately, they won't be
+    quite as useful on the last
+    days due to the huge near-30
+    level gap between the final
+    two tiers. Devil Speed
+    allows a team leader to move
+    seven spaces, for a cost of
+    some HP.
 
 Waira Lv: 7 HP: 78 - MP: 35 [ ]
 Phys [W] Fire [ ] Ice [ ] Elec [
@@ -11193,10 +12130,14 @@ Attack All (Lv64) | Devil Speed
 {// Genma has more kinds of
 demons than any other type
 (eight). They tend to
-    lean towards strength and ha
-    Their racial skill makes the
-    Phantasma allows the team le
-    cost in half.
+    lean towards strength and
+    have resistance to either
+    phys or mystic. Their racial
+    skill makes them pretty
+    useful units. Phantasma
+    allows the team leader to
+    bypass obstacles, and cuts
+    the movement cost in half.
 
 Jambavan Lv: 9 HP: 136 - MP: 12
 [ ] Phys [ ] Fire [W] Ice [W]
@@ -11252,9 +12193,15 @@ Force Drain (Lv61) | Phantasma
 and a multi-target healing
 skill, but with its
     highest tier at level 45 and
+    fragility due to low
+    vitality, they become
     obsolete towards the end.
-    Charm slightly heals an enti
-    can lower the team's movemen
+    Charm slightly heals an
+    entire party within three
+    spaces of the user. It can
+    lower the team's movement,
+    up Crit %, or heal the
+    entire team, rarely.
 
 Pixie Lv: 2
 HP: 30 - MP: 27
@@ -11303,10 +12250,15 @@ Elec Repel (Lv47) | Charm
 {// Quite possibly one of the
 best demon types, with their
 good stats, HP,
-    MP, and Tyranny. They all co
-    of them is Unique (can only 
-    Tyranny replenishes MP for t
-    your foes' turns.
+    MP, and Tyranny. They all
+    come with a vast array of
+    resistances. Every one of
+    them is Unique (can only
+    have one copy at one time).
+    Tyranny replenishes MP for
+    the team at the end of the
+    turn, and also delays your
+    foes' turns.
 
 King Frost Lv: 22 {UNIQUE}
 HP: 180 - MP: 64
@@ -11345,9 +12297,14 @@ Tyranny
 magic, but their high strength
 and vitality
     combined with Double Up make
-    Unfortunately, after Lv: 26 
-    any strong Kishin until the 
-    Double Up allows you to atta
+    them difficult to face in
+    battle. Unfortunately, after
+    Lv: 26 Nalagiri, you're not
+    going to be able to get any
+    strong Kishin until the 6th
+    Day (Mikazuchi) or the Last
+    Day. Double Up allows you to
+    attack twice per turn.
 
 Ubelluris Lv: 14 HP: 158 - MP:
 18 [ ] Phys [ ] Fire [ ] Ice [ ]
@@ -11393,9 +12350,12 @@ Double Up
 {// They have very high
 strength, but are typically weak
 to mystic attacks.
-    Their attack power and HP al
-    Aggravate, for a little HP, 
-    the next turn.
+    Their attack power and HP
+    allows for good use of their
+    racial skill. Aggravate, for
+    a little HP, ensures each
+    party member a Critical Hit
+    on the next turn.
 
 Kobold Lv: 3
 HP: 48 - MP: 12
@@ -11438,11 +12398,19 @@ Deathbound (Lv53) | Null Fire
 {// Jaki tend to have strong
 resistance to mystic-type
 attacks, and have low
-    agility but otherwise balanc
-    like the Kudlak levels, and 
+    agility but otherwise
+    balanced stats. Bind is
+    pretty good for something
+    like the Kudlak levels, and
+    for saving civilians if
+    you're really without
     movement-enhancing skills.
-    Bind will reduce an enemy's 
-    can be used up to within thr
+    Bind will reduce an enemy's
+    movement range to 1 for
+    their next turn. It can be
+    used up to within three
+    spaces of the user, and
+    costs HP.
 
 Ogre Lv: 4
 HP: 72 - MP: 8
@@ -11486,10 +12454,16 @@ Drain Hit | Bind
 {// Boasting strong magic and
 high MP, Femmes are otherwise
 fragile when it
-    comes to physical attacks (w
-    They have a multi-target hea
-    make your endgame team.
-    Devotion heals a whole team 
+    comes to physical attacks
+    (with the exception of that
+    annoying Rangda). They have
+    a multi-target healing
+    skill, but in most cases
+    probably won't make your
+    endgame team. Devotion heals
+    a whole team up to half the
+    HP that the user currently
+    has.
 
 Kikimora Lv: 10 HP: 75 - MP: 57
 [ ] Phys [ ] Fire [ ] Ice [ ]
@@ -11534,9 +12508,14 @@ Diajama (Lv50) | Phys Repel
 {// Elements all have strong
 resistance to mystic-type
 attacks and come with
-    a variety of elemental resis
-    using them to fuse Mitama or
-    Elements have no racial skil
+    a variety of elemental
+    resistances or attacks. You
+    should be primarily using
+    them to fuse Mitama or to
+    upgrade your demons a tier.
+    Elements have no racial
+    skill. It costs 1000 Macca
+    to fuse one.
 
 ElementErthys Lv: 7
 HP: 75 - MP: 36
@@ -11569,9 +12548,14 @@ Maragi | Fire Rise
 attacks, don't come with any
 skills when
     fused...and shouldn't really
-    add three points (plus fusio
-    to whichever demon they get 
-    Mitama have no racial skill.
+    be used when fighting,
+    anyway. Each will add three
+    points (plus fusion bonus
+    stats, etc) in a certain
+    stat to whichever demon they
+    get fused with. Mitama have
+    no racial skill. It costs
+    3000 Macca to fuse one.
 
 Saki Mitama Lv: 35
 HP: 280 - MP: 135
@@ -11611,36 +12595,53 @@ them all, and you'll have to let
 a character die at least once.
 
 Pazuzu Lv: 35 - Vile
- - Battle: Day 5 - Kaido & Keisu
- - In short, you must let Kaido 
+ - Battle: Day 5 - Kaido &
+   Keisuke - Shiba Park.
+ - In short, you must let Kaido
+   kill Keisuke.
 
 Yama Lv: 45 - Deity
- - Battle: Day 5 - Keisuke - Shi
+ - Battle: Day 5 - Keisuke -
+   Shiba Park.
  - You have to save Keisuke. You
+   can't BS your way out of the
+   battle, either -
 you have to fight Yama and win.
 
 Kudlak Lv: 46 - Jaki ; Kresnik
 Lv: 46 - Genma
- - Battle: Day 5 - Mari - Kudans
+ - Battle: Day 5 - Mari -
+   Kudanshita.
  - You have to save Mari and let
+   her deal the finishing blow
+   to Kudlak.
 
 Mikazuchi Lv: 42 - Kishin
  - Battle: Day 5 - Gin & Azuma -
- - Save Gin, defeat Azuma, etc e
+   Roppongi
+ - Save Gin, defeat Azuma, etc
+   etc.
 
 Bishamon Lv: 65 - Kishin
  - Battle: Last Day - all routes
+   except Yuzu's - Eikokuji -
+   Ikebukuro.
  - Defeat Bishamon.
 
 Zouchou Lv: 49 - Kishin ;
 Koumoku Lv: 57 - Kishin
  - Battle: Last Day - all routes
+   except Yuzu's - Sengakuji -
+   Shinagawa.
  - Defeat both Devas.
 
 Loki Lv: 64 - Tyrant
- - Battle: Last Day - Yuzu's rou
+ - Battle: Last Day - Yuzu's
+   route - ??? (gigolo guy) -
+   Shinjuku.
  OR
- - Battle: Last Day - Amane's ro
+ - Battle: Last Day - Amane's
+   route - Naoya - Top Floor.
  - Defeat Loki.
 
 Remiel Lv: 63 - Divine
@@ -11671,28 +12672,52 @@ Various skill set ideas:
 __ Jump + ___ Rise
 
  - These do stack. So the damage
+   done will be 1.5 x 1.2. If
+   you need that extra
    bit of power to wipe out your
-   say, Belial and you need to d
+   enemies in one blow or you're
+   going against, say, Belial
+   and you need to do a ton of
+   ice damage, this'll work.
 
 Magic Yin + Mana Aid/Victory Cry
 (+ ___ Jump/Rise)
 
- - The damage you do with this c
-   longer battles you'll definit
-   of mana recovery ability, oth
-   you can afford it, stacking J
+ - The damage you do with this
+   combination will be extreme -
+   1.5 x 1.5/1.2. For
+   longer battles you'll
+   definitely want that team's
+   members to have some kind of
+   mana recovery ability,
+   otherwise you'll be sucked
+   dry pretty quickly. If you
+   can afford it, stacking Jump
+   and Rise will give you even
+   more power.
 
 Magic Yang + a team with Holy
 Dance/Megidolaon + Blood
 Wine/Tyranny (+ Drain, +
 Awakening)
 
- - Even if this team's MP gets d
-   recover eventually anyway. Aw
-   MP cost, if you choose to use
-   this kind of setup will defin
-   Yang probably won't hurt you 
-   the MP of those bosses anyway
+ - Even if this team's MP gets
+   drained, why does it matter?
+   You'll be able to
+   recover eventually anyway.
+   Awakening'll give you Magic
+   Yin without the large MP
+   cost, if you choose to use
+   it. If you're in for a long
+   battle somewhere, this kind
+   of setup will definitely keep
+   you going for a long time.
+   Magic Yang probably won't
+   hurt you then, either, as you
+   usually can't drain all the
+   MP of those bosses anyway
+   (and they benefit from Magic
+   Yang as well).
 
 
 Deathbound/Hassohappa + Phys
@@ -11700,36 +12725,67 @@ Jump/Rise + Pierce + Phys Repel
 (OR + Life Aid/ Life Lift, OR
 Attack All)
 
- - For any physical fighter, you
-   something like Life Surge if 
-   and Lift will replenish your 
-   HP-dependant damage-type atta
- - I prefer Phys Reflect to Aid/
+ - For any physical fighter,
+   you'll want Pierce and Phys
+   Jump. Don't use
+   something like Life Surge if
+   you're using moves like
+   Deathbound - Life Aid and
+   Lift will replenish your HP
+   and keep it high, which is
+   what you want for HP-
+   dependant damage-type
+   attacks.
+ - I prefer Phys Reflect to
+   Aid/Lift, though, because if
+   you run into a team
    with Tetrakarn or Phys Repel,
-   deadly situation (your Pierce
-   something like Phys Drain, to
- - I also prefer leaving Attack 
-   passive slots for other thing
-   and then get healed afterward
+   it'll keep it from turning
+   into a messy, deadly
+   situation (your Pierce will
+   reflect back on yourself if
+   you're using something like
+   Phys Drain, too).
+ - I also prefer leaving Attack
+   All off my phys attacker,
+   since you need those
+   passive slots for other
+   things, and it's easier to
+   just have them Deathbound and
+   then get healed afterwards.
 
 Rage Soul + Attack All + Phys
 Jump/Rise + Pierce + Phys
 Reflect
 
- - Pretty insane phys. attack da
-   setup is that you're limited 
-   with Phys Repel - aka Rangdas
-   beyond screwed.
+ - Pretty insane phys. attack
+   damage here - 2 x 1.5/1.2.
+   The problem with this
+   setup is that you're limited
+   to attacking only. If you're
+   against a team with Phys
+   Repel - aka Rangdas and
+   Murmurs, or the last Lucifer
+   form, you're beyond screwed.
 
 Full Might + Attack
 All/Deathbound/Hassohappa + Phys
 Jump/Rise + Pierce + Phys Repel
 
  - I like Full Might a lot more.
-   want to attack, you won't hav
-   give you x2 attack, it gives 
-   and eliminate your enemies' E
-   a bit more damage than Rage S
+   One, it offers more
+   flexibility - if you don't
+   want to attack, you won't
+   have to. The other thing is,
+   though it doesn't give you x2
+   attack, it gives you
+   criticals - which will give
+   you Extra Turns and eliminate
+   your enemies' ETs,
+   potentially giving you the
+   chance to do a bit more
+   damage than Rage Soul would,
+   especially in boss fights.
 
 
 
@@ -11775,10 +12831,16 @@ sorts, but all of her events
 either go towards their route or
 the main plot anyway.
 
-   NOTE: If you want to get any 
-  save Haru on the 4th Day at 17
-  the second Bel battle, etc etc
-  this one, let me know if it tu
+   NOTE: If you want to get any
+   route other than Yuzu's, you
+   -have- to
+  save Haru on the 4th Day at
+  17:00. Otherwise, you can't
+  fight the second Bel battle,
+  etc etc. (At least, I'm fairly
+  sure about this one, let me
+  know if it turned out
+  differently for you.)
 
 Honda...really doesn't seem to
 affect any route, after his
@@ -11805,7 +12867,9 @@ used).
 Midori has several events that
 contribute to getting Black
 Frost as a fighter
- - the only demon fighter you ca
+ - the only demon fighter you
+   can have. Basically, make
+   sure to choose her
 optional battle on the 3rd Day,
 and her event that comes
 afterwards.
@@ -11832,18 +12896,31 @@ humanity and demons, and sort of
 contribute points to getting
 Naoya's or Amane's routes.
 
-   NOTE: Specific answers to var
-  all of them, obviously, but so
-  things. I haven't hacked the g
-  the game probably tallies up p
-  questions and what attitudes y
+   NOTE: Specific answers to
+   various dialogue questions
+   -do- matter. Not
+  all of them, obviously, but
+  some of them very specifically
+  affect things. I haven't
+  hacked the game so I'm not
+  100% about this, but the game
+  probably tallies up points
+  depending on how you answered
+  questions and what attitudes
+  you've expressed.
 
   Either way, it's doubtlessly a
-  always go, "Wah I want to get 
-  we're all going to die" / "Let
-  no way to be a good video game
-  already available by default, 
-  Yuzu's route).
+  good idea not to sound wimpy
+  and always go, "Wah I want to
+  get out of the lockout" /
+  "It's useless we're all going
+  to die" / "Let's just run
+  away" / etc etc. That's no way
+  to be a good video game
+  hero...and the wimping out
+  option's already available by
+  default, anyway (escaping the
+  lockout, Yuzu's route).
 
 
 Below are brief notes on each of
@@ -11853,25 +12930,41 @@ events that pertain to the
 character. This includes battles
 and the mandatory ones.
 
-   NOTE: For all routes, on the 
-  character will appear if you h
-  unlocked their route. Picking 
-  The exceptions are Yuzu's, as 
-  battle with Azuma appears at 1
+   NOTE: For all routes, on the
+   6th Day at 12:00, events with
+   that route's
+  character will appear if you
+  have completed their sequences
+  and unlocked their route.
+  Picking this event will secure
+  their route. The exceptions
+  are Yuzu's, as it's a default,
+  and Gin's, whose battle with
+  Azuma appears at 12:00 but
+  whose route confirmation
  event shows up at 13:00 or so.
 
-  Note that if you tallied up a 
-  email that really go against t
-  Naoya, being too demonic for A
-  the event won't get you the ro
-  which 'secure' the routes real
-  end of the chain of events tha
+  Note that if you tallied up a
+  bunch of answers in dialogue
+  and email that really go
+  against the route (i.e. being
+  too holy for Naoya, being too
+  demonic for Amane...I jest,
+  mostly), getting the event
+  won't get you the route. So,
+  in a sense, the events which
+  'secure' the routes really
+  mean you've just come to the
+  end of the chain of events
+  that route has to offer.
 
 
 Flowchart Key:
  *  - Event cannot be skipped.
- (Note that all [BATTLE]s by the
- skipped, unless [OPTIONAL] is i
+ (Note that all [BATTLE]s by
+ their nature are plot-oriented
+ and cannot be skipped, unless
+ [OPTIONAL] is indicated.)
 
 
 {// A: Amane ...................
@@ -11883,23 +12976,48 @@ probably won't have to try to
 get hers unlocked.
 
  - When making dialogue choices,
-   the idea of God and whatnot. 
-   everything they say, etc. Bei
-   God will also work (though yo
+   just make sure you're at
+   least open-minded to
+   the idea of God and whatnot.
+   Don't ridicule Him/Amane,
+   don't doubt everything they
+   say, etc. Being gung-ho about
+   becoming the Messiah and/or
+   God will also work (though
+   you might shut off, say,
+   Naoya's route).
 
  1. Throughout the game, several
-    once per day for the middle 
-    contribute to being able to 
+    blue events that don't take
+    up time appear,
+    once per day for the middle
+    stretch of the game or so.
+    Some of these contribute to
+    being able to get her route.
  2. On the 4th day, save Haru at
+    17:00 by choosing her event.
+    Good idea to have
     Yuzu remind you what time it
-    the day).
+    is (she'll offer to do so at
+    the beginning of the day).
  3. Contrary to what some people
-    to help the angels, the demo
-    will not ruin your chances o
- 4. If, on the 6th Day, you get 
-    through her and Strongly Adv
-    everyone to obey God's teach
-    you've secured Amane's route
+    fear, in the 6th Day battle
+    where you choose
+    to help the angels, the
+    demons, or kill both,
+    choosing to kill the angels
+    will not ruin your chances
+    of getting this route.
+ 4. If, on the 6th Day, you get
+    an event with Amane wherein
+    Remiel speaks
+    through her and Strongly
+    Advocates your becoming the
+    Messiah and getting everyone
+    to obey God's teachings
+    through your proselytizing,
+    etc etc, you've secured
+    Amane's route.
 
 
 Flowchart:
@@ -11913,28 +13031,33 @@ Flowchart:
 
 9:00
  - Amane - Shiba Park
- - Mysterious woman – Roppongi (
+ - Mysterious woman – Roppongi
+   (blue)
 14:30
  - Haru – Shibuya
-   -- Don't bother choosing unti
- only waste 30 minutes if you ch
- any earlier.
+   -- Don't bother choosing
+      until 17:00. It'll
+ only waste 30 minutes if you
+ choose it any earlier.
 
 5th Day
 
 9:00
  - Amane & Founder – Roppongi*
 14:00
- - Izuna & Fushimi [BATTLE] (unt
+ - Izuna & Fushimi [BATTLE]
+   (until 15:00)
    --> Amane – Roppongi*
- --> Shomonkai facility – Shinag
+ --> Shomonkai facility –
+   Shinagawa*
 
 6th Day
 
 9:00
  - Amane – Shiba Park*
 12:00
- - Izuna – Nagata-cho* (14:30, m
+ - Izuna – Nagata-cho* (14:30,
+   must pick by 16:00)
    --> Amane – Shiba Park
  -- Secures Amane's route.
 
@@ -11965,24 +13088,52 @@ government's final option is
 that'll kill everyone on the
 Last Day).
 
- - With your dialogue choices, a
-   agree with the idea that keep
+ - With your dialogue choices,
+   agree with Atsuro whenever
+   possible, and also
+   agree with the idea that
+   keeping demons around could
+   help society.
 
- 1. There are three Atsuro event
-    you find his friend 10Bit an
-    behind for info on the EMT f
+ 1. There are three Atsuro
+    events on the 3rd and 4th
+    Days which should let
+    you find his friend 10Bit
+    and have Atsuro look into
+    the COMP he leaves behind
+    for info on the EMT field.
  2. On the 4th day, save Haru at
+    17:00 by choosing her event.
+    Good idea to have
     Yuzu remind you what time it
-    the day).
-    *** NOTE: I've heard that yo
+    is (she'll offer to do so at
+    the beginning of the day).
+    *** NOTE: I've heard that
+        you don't actually need
+        to save Haru for
+        Atsuro's
   route. If I can get a bit more
-  the Bel fights, etc) and more 
+  information (i.e. is there any
+  change in the Bel fights, etc)
+  and more confirmation, I'll
+  take this part out.
  3. Keisuke can't die. So on Day
-    it to Kaido. Then fight Mari
-    you don't give the bag to Ka
-    Keisuke's battles, essential
- 4. On the 6th Day, you'll get o
-    the possibility of controlli
+    4, make sure you get Mari's
+    bag, and give
+    it to Kaido. Then fight
+    Mari's battle at 12:00, and
+    Keisuke's at 13:00. If you
+    don't give the bag to Kaido,
+    you'll have to choose
+    between Mari's and Keisuke's
+    battles, essentially killing
+    Mari, so there you go.
+ 4. On the 6th Day, you'll get
+    one last scene with Atsuro
+    where he talks about
+    the possibility of
+    controlling all the demons.
+    Pick it and agree with him
     to secure his route.
 
 
@@ -12005,21 +13156,27 @@ Flowchart:
  - Atsuro - Akihabara
 14:30
  - Haru – Shibuya
-   -- Don't bother choosing unti
- only waste 30 minutes if you ch
- any earlier.
+   -- Don't bother choosing
+      until 17:00. It'll
+ only waste 30 minutes if you
+ choose it any earlier.
 16:30
  - Kaido - Shibuya*
    --> Mari – Shibuya [BATTLE]
  --> Kaido – Shiba Park
-  -- Don't bother picking this b
-   finding Mari's bag, as it'll 
-   waste 30 minutes. Give Kaido 
+  -- Don't bother picking this
+     before
+   finding Mari's bag, as it'll
+   merely waste 30 minutes. Give
+   Kaido the bag
 to be able to save both Mari and
    Keisuke.
  --> Look for Mari's bag – Kanda
- --> Look for Mari's bag – Akiha
+   (blue)
+ --> Look for Mari's bag –
+   Akihabara (blue)
   --> Look for Mari's bag – Ueno
+    (blue)
   --> Mari – Kanda
 -- If you give Mari the bag, you
    won't be able to save both
@@ -12031,8 +13188,10 @@ to be able to save both Mari and
  - Atsuro - Shibuya
  - Azuma – Roppongi*
    --> Atsuro – Akihabara
- -- Priority over other Atsuro e
- -- You must pick this by 12:00 
+ -- Priority over other Atsuro
+    events.
+ -- You must pick this by 12:00
+    on the 6th Day
   to gain crucial information.
 (if you haven't handed over the
 bag, you'll then have until
@@ -12040,14 +13199,20 @@ bag, you'll then have until
  - Mari – Kanda
  - Kaido – Shiba Park
 12:00
- - Mari – Kudanshita [BATTLE] (u
+ - Mari – Kudanshita [BATTLE]
+   (until 12:30)
  - Keisuke – Shiba Park [BATTLE]
-   -- If you did not give the ba
+   -- If you did not give the
+      bag to Kaido.
 13:00
- - Mari & Kaido - Kudanshita [BA
-   -- If you didn't choose Mari'
+ - Mari & Kaido - Kudanshita
+   [BATTLE]
+   -- If you didn't choose
+      Mari's battle in time.
  - Keisuke – Shiba Park [BATTLE]
+   (until 13:30)
    -- If you did give the bag to
+      Kaido, the battle
     gets delayed to this point.
    --> Keisuke – Akihabara
 
@@ -12088,23 +13253,48 @@ There are a few critical points
 you have to get through if you
 want Gin/Haru's route.
 
- - with your dialogue choices, j
-   towards, say, being the Messi
+ - with your dialogue choices,
+   just keep open-minded and
+   don't swing too much
+   towards, say, being the
+   Messiah or the overlord.
+   Agree with Gin when he says
    he'd like Tokyo to go back to
+   the way it was.
 
- 1. On the 4th day (provided you
-    an event with him at Shiba P
-    in the dialogue when he talk
-    and "Don't give up." Pick th
-    route's sealed off, as you w
-    and trigger a key battle on 
+ 1. On the 4th day (provided
+    you've been following Gin's
+    events), there'll be
+    an event with him at Shiba
+    Park. Eventually you'll come
+    across two choices in the
+    dialogue when he talks about
+    Aya's disappearance: "Want
+    me to help?" and "Don't give
+    up." Pick the FIRST one. Or
+    else - you guessed it - the
+    route's sealed off, as you
+    won't be able to investigate
+    her disappearance and
+    trigger a key battle on Day
+    6.
  2. On the 4th day, save Haru at
+    17:00 by choosing her event.
+    Good idea to have
     Yuzu remind you what time it
-    the day).
- 3. Fight the battle against Azu
-    view one more scene with him
-    says he'll help you look for
-    demons, tell him you agree a
+    is (she'll offer to do so at
+    the beginning of the day).
+ 3. Fight the battle against
+    Azuma on the 6th day, and
+    keep Gin alive. Then
+    view one more scene with
+    him, and the scene with Gin
+    and Amane. When Gin says
+    he'll help you look for Haru
+    and talks about getting rid
+    of all the demons, tell him
+    you agree and will help, and
+    you've secured his route.
 
 The first one could take you by
 surprise. I kept wondering why I
@@ -12143,39 +13333,51 @@ Flowchart:
 15:30
  - Gin - Omotesando
    -- If you already did the two
+      Haru events.
 
 4th Day
 
 11:00
  - Gin – Shiba Park
-   -- This one's crucial. When t
+   -- This one's crucial. When
+      the opportunity
  comes, you must answer "Want me
- Otherwise the route is sealed o
+ to help?" Otherwise the route
+ is sealed off. Ayep.
    --> Gin – Omotesando
-   --> Ask about Aya – Omotesand
- --> Ask about Aya – Shinagawa (
- --> Ask about Aya – Roppongi (b
-  --> Ask about Aya – Shinagawa 
+   --> Ask about Aya –
+     Omotesando (blue)
+ --> Ask about Aya – Shinagawa
+   (blue)
+ --> Ask about Aya – Roppongi
+   (blue)
+  --> Ask about Aya – Shinagawa
+    (blue)
   --> Gin – Omotesando
 14:30
  - Haru – Shibuya
-   -- Don't bother choosing unti
- only waste 30 minutes if you ch
- any earlier.
+   -- Don't bother choosing
+      until 17:00. It'll
+ only waste 30 minutes if you
+ choose it any earlier.
 
 5th Day
 
 9:00
  - Azuma – Roppongi*
    --> Atsuro – Akihabara
- -- Priority over other Atsuro e
- -- You must pick this by 12:00 
+ -- Priority over other Atsuro
+    events.
+ -- You must pick this by 12:00
+    on the 6th Day
   to gain crucial information.
  - Gin - Omotesando
  - Kannagi-cho – Shinjuku
-   -- Appears after you choose t
- first appears yesterday, questi
- be distributing so many COMPs.
+   -- Appears after you choose
+      the Gin event that
+ first appears yesterday,
+ questioning who might be
+ distributing so many COMPs.
 14:30
  - Gin – Omotesando
 
@@ -12184,12 +13386,16 @@ Flowchart:
 9:00
  - Gin – Omotesando*
 12:00
- - Gin & Azuma – Roppongi [BATTL
+ - Gin & Azuma – Roppongi
+   [BATTLE] (until 12:30)
 13:00
- - Shoji – Omotesando (if you ig
- - Gin – Omotesando (if you foug
+ - Shoji – Omotesando (if you
+   ignored Gin's battle)*
+ - Gin – Omotesando (if you
+   fought the battle)*
    --> Gin & Amane – Shinagawa
- -- Priority over other Gin and 
+ -- Priority over other Gin and
+    Amane events.
   Secures Gin's route.
 
 
@@ -12207,10 +13413,16 @@ me about Haru")
 me about you")
  - Tell me about Haru. <-- +
 
-   NOTE: It doesn't matter what 
-  honestly. Not sure where the m
-  asking him about himself or Ay
-  you don't pick "Okay" on the 5
+   NOTE: It doesn't matter what
+   you chose on the 4th Day for
+   your reply,
+  honestly. Not sure where the
+  misconception came from.
+  Essentially asking him about
+  himself or Aya gets the same
+  info, so as long as you don't
+  pick "Okay" on the 5th day,
+  you're fine.
 
 
 {// D: Kaido ...................
@@ -12237,19 +13449,38 @@ didn't select will disappear
 from the map.
 
  1. Make sure you find out about
+    Kaido's brother and
+    situation in early events,
     etc etc.
  2. On the 4th day, save Haru at
+    17:00 by choosing her event.
+    Good idea to have
     Yuzu remind you what time it
-    the day).
- 3. If you get the option to BS 
-    you'll have to fight Kaido a
-    destroying his COMP.
- 4. No matter how the events of 
-    will change depending, but h
-    and get your hands on all th
-    On the 6th Day, agree to hel
-    event), and pick Kaido's las
+    is (she'll offer to do so at
+    the beginning of the day).
+ 3. If you get the option to BS
+    the fight with Keisuke,
+    don't. If you do,
+    you'll have to fight Kaido
+    and Midori in the future,
+    and you'll end up destroying
+    his COMP.
+ 4. No matter how the events of
+    the 5th Day went, talk to
+    Kaido. The dialogue
+    will change depending, but
+    he'll ask you if you want to
+    team up with him and get
+    your hands on all the COMPs,
+    putting all the power in
+    your hands. On the 6th Day,
+    agree to help him find the
+    COMP factory, find it (blue
+    event), and pick Kaido's
+    last event. You must choose
+    to tell him where the
     factory is. This will secure
+    Kaido's route.
 
 
 Flowchart:
@@ -12258,13 +13489,20 @@ Flowchart:
 
 9:00
  - Gin & Kaido – Omotesando
- - Highway Offramp – Shibuya    
-   --> Kaido & Honda – Shibuya  
- --> Kaido – Kanda (1)          
+ - Highway Offramp – Shibuya I
+   recommend you skip this
+   event. It'll
+   --> Kaido & Honda – Shibuya
+     <-- save you 30 mins and
+     you can pick it
+ --> Kaido – Kanda (1) after the
+   battle below.
 
 14:30
- - Kaido & Honda – Ikebukuro [BA
-   -- priority above other event
+ - Kaido & Honda – Ikebukuro
+   [BATTLE]
+   -- priority above other
+      events with
  Kaido and Honda.
    --> Kaido – Kanda (1)
  --> Kaido & Mari – Kanda
@@ -12275,43 +13513,57 @@ Flowchart:
 
 14:30
  - Haru – Shibuya
-   -- Don't bother choosing unti
- only waste 30 minutes if you ch
- any earlier.
- - Kannagi-cho – Shinjuku [BATTL
-   --> Kaido & Honda – Suidobash
+   -- Don't bother choosing
+      until 17:00. It'll
+ only waste 30 minutes if you
+ choose it any earlier.
+ - Kannagi-cho – Shinjuku
+   [BATTLE]
+   --> Kaido & Honda –
+     Suidobashi [BATTLE]
 16:30
  - Kaido – Shibuya*
 
 5th Day
 
 12:00
- - Mari – Kudanshita [BATTLE] (u
+ - Mari – Kudanshita [BATTLE]
+   (until 12:30)
  - Keisuke – Shiba Park [BATTLE]
-   -- If you did not give the ba
+   -- If you did not give the
+      bag to Kaido.
  Don't choose to BS the fight.
 13:00
- - Mari & Kaido - Kudanshita [BA
-   -- If you didn't choose Mari'
+ - Mari & Kaido - Kudanshita
+   [BATTLE]
+   -- If you didn't choose
+      Mari's battle in time.
 
  - Keisuke – Shiba Park [BATTLE]
+   (until 13:30)
    -- If you did give the bag to
+      Kaido, the battle
   gets delayed to this point.
  Don't BS the battle.
 14:00
- - Kaido & Keisuke – Shiba Park 
-   -- If you didn't choose Keisu
+ - Kaido & Keisuke – Shiba Park
+   [BATTLE] (until 14:30)
+   -- If you didn't choose
+      Keisuke's battle in time.
 
 6th Day
 
 12:00
  - Kaido – Shibuya*
-   -- If Keisuke survived, other
+   -- If Keisuke survived,
+      otherwise the sequence
  skips to the one below.
    --> Kaido – Shibuya
- --> Shomonkai Facility – Shinag
+ --> Shomonkai Facility –
+   Shinagawa (blue)
  --> Kaido – Shibuya
- -- Don't pick before choosing t
+ -- Don't pick before choosing
+    the blue option.
  Tell him where the factory is;
   secures Kaido's route.
 
@@ -12349,26 +13601,53 @@ make up your mind, the one you
 didn't select will disappear
 from the map.
 
- - With your dialogue choices, a
-   about being a Messiah, you sh
-   (if you go for power and over
-   off other routes).
+ - With your dialogue choices,
+   as long as you aren't
+   insanely enthusiastic
+   about being a Messiah, you
+   should be fine, even if you
+   doubt Naoya a little (if you
+   go for power and overlord-
+   ism-ness too much, you'll
+   probably block off other
+   routes).
 
- 1. There are several blue event
-    for three or so days, and so
-    route.
+ 1. There are several blue
+    events that don't use up
+    time. You get one per day
+    for three or so days, and
+    some of these contribute to
+    getting Naoya's route.
  2. On the 4th day, save Haru at
+    17:00 by choosing her event.
+    Good idea to have
     Yuzu remind you what time it
-    the day).
- 3. On the 5th Day, there'll be 
-    demons and stands as an outs
-    requirements, but he wants y
-    if you want to get info from
-    them in one turn, two's hone
-    first playthrough. Either on
+    is (she'll offer to do so at
+    the beginning of the day).
+ 3. On the 5th Day, there'll be
+    a mandatory battle where
+    Naoya summons seven
+    demons and stands as an
+    outside party on the field.
+    It's not in the mission
+    requirements, but he wants
+    you to defeat six of them in
+    three turns or less if you
+    want to get info from him.
+    Despite the hype about
+    having to beat them in one
+    turn, two's honestly enough
+    and easily doable even on
+    your first playthrough.
+    Either one's "passing" to
+    him.
  4. On the 6th Day, there should
-    really, really like you to b
-    secured Naoya's route.
+    be an event with Naoya where
+    he says he'd
+    really, really like you to
+    become the King of Bel. Pick
+    it and you've secured
+    Naoya's route.
 
 
 Flowchart:
@@ -12376,18 +13655,22 @@ Flowchart:
 3rd Day
 
 9:00
- - Suspicious man – Omotesando (
+ - Suspicious man – Omotesando
+   (blue)
 17:30
- - Cemetary – Aoyama [BATTLE] (u
-   --> ??? – Shinjuku (until 18:
+ - Cemetary – Aoyama [BATTLE]
+   (until 18:00)
+   --> ??? – Shinjuku (until
+     18:30)*
 
 4th Day
 
 14:30
  - Haru – Shibuya
-   -- Don't bother choosing unti
- only waste 30 minutes if you ch
- any earlier.
+   -- Don't bother choosing
+      until 17:00. It'll
+ only waste 30 minutes if you
+ choose it any earlier.
  - Azuma – Shinagawa*
 
 5th Day
@@ -12397,8 +13680,10 @@ Flowchart:
     --> Atsuro – Akihabara*
  - Suspicious man – Ueno (blue)
 17:30
- - Naoya – Nagata-cho [BATTLE] (
-   -- Beat six demons in three t
+ - Naoya – Nagata-cho [BATTLE]
+   (until 18:30)
+   -- Beat six demons in three
+      turns or less.
 
 6th Day
 
@@ -12432,7 +13717,9 @@ timeskipping so often and
 chickening out on all the
 questions.
 
- 1. If you didn't save Haru on t
+ 1. If you didn't save Haru on
+    the 4th Day at 17:00,
+    this'll be the only route
     you can get.
 
 
@@ -12444,7 +13731,8 @@ Flowchart:
 
 6th Day
 16:30
- - Honda – Ueno [BATTLE] (by 18:
+ - Honda – Ueno [BATTLE] (by
+   18:00)
 --> Yuzu – Shibuya (until 18:00)
 
 
@@ -12979,13 +14267,21 @@ events has already ended...]
 
 From M:
 
-   "You who are a son of man, ye
-    on your victory in the ordea
-    before the Lord, this world 
-    place of order. All lies, do
-    accordingly.
+   "You who are a son of man,
+   yet became king of
+   Pandemonium... Well done
+    on your victory in the
+    ordeal. Now that you are an
+    overlord who kneels before
+    the Lord, this world shall
+    be filled with His authority
+    as a place of order. All
+    lies, doubts, and disloyalty
+    shall be judged accordingly.
 
-    I shall be watching you in y
+    I shall be watching you in
+    your capacity as His loyal
+    servant..."
 
 Credits roll. You can now fuse
 Metatron in the Cathedral of
@@ -13480,13 +14776,23 @@ functional COMP...]
 
 From M:
 
-   "Son of man... Rather than be
-    the demons with the skill an
-    it with my own eyes. However
-    evil and succmb to desire, p
-    this world will feel His wra
+   "Son of man... Rather than
+   become King of Bel, you took
+   dominion over
+    the demons with the skill
+    and knowledge you gained. I
+    have witnessed it with my
+    own eyes. However, if you
+    are consumed with the power
+    of evil and succmb to
+    desire, pandemonium will be
+    again released...and this
+    world will feel His wrath
+    once more.
 
     I will be watching you, that
+    order rules over man's
+    future..."
 
 Credits roll.
 
@@ -14154,12 +15460,20 @@ From M:
 
    "Son of man,
 
-    Your decision to relinquish 
-    tremendous power still slumb
-    temptation and use it for yo
+    Your decision to relinquish
+    the power of Bel is
+    admirable... But that
+    tremendous power still
+    slumbers within you. Should
+    you succumb to its
+    temptation and use it for
+    your own desire, we shall
+    smite you down.
 
     Son of man, the fate of your
-    lesser nature. Forget it not
+    world rests on whether you
+    lose to your lesser nature.
+    Forget it not."
 
 Credits roll.
 
@@ -14555,7 +15869,9 @@ negotiate with the government
 for more time. Kaido says you’d
 better think about what you’re
 going
- to say – you can’t just tell th
+ to say – you can’t just tell
+ them you’re going to become
+ overlord, but you
 need time. Naoya says maybe it’s
 not a bad idea...
 
@@ -14952,13 +16268,22 @@ COMP you no longer need...]
 
 From M:
 
-   "You who are a son of man, ye
-    to crush underfoot the old o
-    command passed down since th
+   "You who are a son of man,
+   yet became king of
+   Pandemonium... You desire
+    to crush underfoot the old
+    order and begin the new,
+    forsaking His command passed
+    down since the dawn of time.
 
-    You have chosen to revolt ag
-    If you truly wish to protect
-    end... Until the day when fa
+    You have chosen to revolt
+    against the Lord. You and I
+    are now enemies. If you
+    truly wish to protect man,
+    bear your burden and fight
+    to the end... Until the day
+    when fate chooses the one
+    that shall survive..."
 
 Credits roll.
 
@@ -15235,7 +16560,9 @@ has no meaning, you receive an
 email... ]
 
 From "M":
-   "Within a few nights, demons 
+   "Within a few nights, demons
+   have stolen order from this
+   world."
 
 [You had understood that the
 lockdown was to prevent them
@@ -15279,41 +16606,77 @@ level but your strategy isn't
 working/I keep getting
 slaughtered/!!
 
- - It's all right if you're a fe
+ - It's all right if you're a
+   few levels lower than the
+   enemies you're
    fighting. Something that most
-   also need to be at comparable
-   game-. Especially if you're o
-   say 7 levels below you. Keep 
-   really.
+   people seem to forget is that
+   -your demons also need to be
+   at comparable levels to your
+   team leaders throughout the
+   game-. Especially if you're
+   on the Last Day, they should
+   not be...oh, let's say 7
+   levels below you. Keep your
+   demons up to date. Honestly,
+   truly, really.
 
 
 I can't seem to find _______
 skill...
 
- - There are three skills that a
+ - There are three skills that
+   are exclusive to certain
+   routes:
     - Full Might - auto - Naoya,
+      Atsuro's/Amane's route
  -- But, since his Anti-All only
+    shows up on Amane's
+    route...yes.
   Crack Full Might on the Atsuro
-    - Magic Yin - auto - Amane, 
-    - Anti-All - passive - Naoya
- - Megidolaon's on Naoya (Amane'
+  route playthrough.
+    - Magic Yin - auto - Amane,
+      Naoya's route
+    - Anti-All - passive -
+      Naoya, Amane's route
+ - Megidolaon's on Naoya
+   (Amane's route) and Shiva.
+   I'd recommend you crack
    it off Shiva, since you'll be
-   up in a free battle at the to
-   Belberith (he's pretty rare, 
+   losing out on Anti-All.
+   Remember, Shiva shows up in a
+   free battle at the top of the
+   Hills building after you
+   defeat Belberith (he's pretty
+   rare, so be patient).
 
 
 I followed the event flowchart
 for ____ route and -still-
 didn't unlock it!
 
- - Ah, yes, well. It's not perfe
-   the routes' requirements won'
-   dialogue where you have to ma
-   game tallies up points based 
-   smart, you won't unlock route
+ - Ah, yes, well. It's not
+   perfect. Simply viewing all
+   those events and meeting
+   the routes' requirements
+   won't unlock them. You know
+   all those bits of dialogue
+   where you have to make some
+   kind of choice and say
+   something? The game tallies
+   up points based on how you
+   answer things. If you don't
+   answer smart, you won't
+   unlock routes. For example,
+   if you answer everything like
    you're a power-hungry demonic
-   probably not going to unlock 
-   you're probably not getting h
+   overlord who ridicules the
+   idea of God, you're probably
+   not going to unlock Amane's
+   route. If you ignored
+   Atsuro's ideas, you're
+   probably not getting his.
+   Etc, etc.
 
 
 I'm having the hardest time, and
@@ -15321,11 +16684,21 @@ I keep having to restart because
 I can't get x character to crack
 y skill...
 
- - Just a reminder to everyone t
-   in the COMP menu (press Y whi
-   you can customize skills outs
-   can't equip a certain skill s
-   menu). Just putting that out 
+ - Just a reminder to everyone
+   that you -can- access your
+   team leaders' skills
+   in the COMP menu (press Y
+   while hovering above a
+   certain char's avatar). And
+   you can customize skills
+   outside of battle. And you
+   can have characters who can't
+   equip a certain skill still
+   crack it (it just appears
+   gray in the menu). Just
+   putting that out there, since
+   some people seem to miss
+   that.
 
 
 Your Skill Crack list said that
@@ -15333,10 +16706,16 @@ an ability would be available on
 the x'th day, but I got it on
 the x-1'th day...
 
- - Free battles generate demons 
-   different skill set than the 
-   duking it out with the RNG to
-   treat it like a bonus?
+ - Free battles generate demons
+   randomly. Sometimes, those
+   demons have a
+   different skill set than the
+   normal, as well. Apologies (I
+   didn't feel like duking it
+   out with the RNG to get all
+   possible results, what can I
+   say), and treat it like a
+   bonus?
 
 
 
@@ -15356,17 +16735,32 @@ whatnot. And dealing with my
 guide-writing insecurities.
 
 Also, thanks to:
- - Doug, for the info reminder o
- - Everyone who wrote in about t
-   the lack of penalty you get f
-   memory, like I thought. Oops.
- - Brian, for reminding me of an
+ - Doug, for the info reminder
+   on the extra Midori backstory
+   event.
+ - Everyone who wrote in about
+   the demon auction's
+   occasional accidents and
+   the lack of penalty you get
+   for defaulting on those. (So
+   I have a faulty memory, like
+   I thought. Oops.)
+ - Brian, for reminding me of
+   another auction demon with
+   Watchful for the
    Mitama strategy.
- - Alex Hamerling, for telling m
-   route isn't a mandatory one (
-   that).
- - Adam, for sending me the alte
- - Countless individuals for dis
+ - Alex Hamerling, for telling
+   me that the Atsuro event
+   necessary for Gin's
+   route isn't a mandatory one
+   (so I put in the asterisks
+   and warnings and all that).
+ - Adam, for sending me the
+   alternate email choices for
+   Day 5.
+ - Countless individuals for
+   discussing the Recarm
+   strategy.
 
 And uh. Thanks for reading, and
 stuff. Hope this helped.

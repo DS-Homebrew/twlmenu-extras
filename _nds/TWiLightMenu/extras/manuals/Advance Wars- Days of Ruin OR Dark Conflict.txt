@@ -36,22 +36,28 @@ for the Nintendo DS. Hopefully
 you'll enjoy this walthrough as
 much as I enjoyed playing this
 game. Some Do's and Don'ts to
-keep in mind: DO: -Use this
-walkthrough as a refre -Tell
-people about it -Print it for
-personal use -Give to other
-people for no pro
+keep in mind: DO:
+-Use this walkthrough as a
+ refrence tool
+-Tell people about it
+-Print it for personal use
+-Give to other people for no
+ profit
 
 DON'T:
--Plagerize this walkthrough with
+-Plagerize this walkthrough
+ without any credit
 -Call this walkthrough "yours"
--Sell this walkthrough for profi
+-Sell this walkthrough for
+ profit
 
 ONLY the following sites have
 permission to use this
 walkthrough without the need to
-contact me: -www.gamefaqs.com
--www.gamespot.com -www.ign.com
+contact me:
+-www.gamefaqs.com
+-www.gamespot.com
+-www.ign.com
 
 Anybody else wishing to use this
 walkthrough will need to e-mail
@@ -895,6 +901,8 @@ material in the Rig).
 ~2B.Naval Units~
 ----------------
 **Note--All naval units burn one
+  fuel every day, whether they
+  move or not.
 If they run out of fuel, they
 will sink and be destroyed.**
 
@@ -1161,6 +1169,8 @@ equal to their price.
 ~2C.Aerial Units~
 -----------------
 **Note--All air units burn fuel
+  each day, whether they move or
+  not. If
 they run out of fuel, the will
 crash and be destroyed. Fuel
 burned each day is different for
@@ -1394,10 +1404,11 @@ versions.
     F   A           C           
     a   i                   B   
     c   r       R   T       r   
-   C   t   p   P   a   o   S   i
-   i   o   o   o   d   w   i   d
-  H   t   r   r   r   a   e   l 
-  Q   y   y   t   t   r   r   o 
+   C t p P a o S i R a e i t o l
+   i o o o d w i d o i a v a o a
+  H t r r r a e l g a n c e i d
+  n Q y y t t r r o e d s h r n
+  s d
 ================================
 Inftry | 1 | 1 | 1 | 1 | 1 | 1 |
 1 | 1 | 1 | 1 | 1 | 1 | 2 | 2 |
@@ -1655,9 +1666,9 @@ incapable of attacking.
    n                   n       d
    f           R   F   t        
    n   M   B   e   l   i   T   T
-   t   e   i   c   a   A   a   a
-   r   c   k   o   r   i   n   n
-   y   h   e   n   e   r   k   k
+   t e i c a A a a a e T e l R s
+   r c k o r i n n n r n t e i h
+   y h e n e r k k k y k s s g p
 ================================
 Infantry |55%|45%|45%|12%|10%|03
 %|05%|05%|01%|10%|30%|20%|20%|14
@@ -1706,12 +1717,11 @@ Bomber |115|110|110|105|105|85%|
 0%|50%|80%|70%|75%|65%|
 
    C   S   C   G       F        
-   a   u   r   u   L   i   B   D
-   r   b   u   n   a   g   o   u
-   r   m   i   b   n   h   m   s
-   i   r   s   o   d   t   b   t
-   e   n   e   a   e   e   e   e
-   r   e   r   t   r   r   r   r
+   a u r u L i B D C C e M r b u
+   n a g o u o o a e r m i b n h
+   m s p p p t i r s o d t b t t
+   t l e e n e a e e e e e e n o
+   r e r t r r r r r r e r
 ================================
 Infantry | - | - | - | - | - | -
 | - | - |08%|30%| - |01%|
@@ -12192,7 +12202,8 @@ will be a long map, possibly
 even resulting in a stalemate.
 
 ================================
-     ~6.The War Room--Tactical A
+     ~6.The War Room--Tactical
+     Advice~
 ================================
 Want some advice on how to
 improve your game? Basic
@@ -12257,7 +12268,7 @@ more than easily countered by
 cheaper units.
 
 2.Use chokepoints to your
-advantage
+  advantage
 
 Many maps have at least one
 chokepoint in them. A

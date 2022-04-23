@@ -544,6 +544,8 @@ play five of these rounds before
 it's considered over.
 
 *Just for clarification, this is
+ three or more consecutive cards
+ of the same
 suit.
 
 ================================
@@ -590,7 +592,7 @@ Rummy. The only differences are:
 3. Instead of negative points,
    Seven Bridge gives points to
    players who still have cards
-   and the lowest sco
+   and the lowest score wins.
 4. There is no rule about Going
    Rummy.
 
@@ -756,25 +758,42 @@ take a certain number of tricks.
 In order from lowest to highest,
 the bids are:
 
- One - Take one trick (see Gloss
-   point from each child (+3 poi
-   to each child (-3 points).
- Two - Take two tricks. If succe
+ One - Take one trick (see
+ Glossary, trick). If
+ successful, take one
+   point from each child (+3
+   points). If unsuccessful, pay
+   one point to each child (-3
+   points).
+ Two - Take two tricks. If
+ successful, +6 points. If
+ unsuccessful, -6
    points.
- Three - Take three tricks. If s
+ Three - Take three tricks. If
+ successful, +9 points. If
+ unsuccessful, -9
    points.
-    Misere - Take no tricks. If 
+    Misere - Take no tricks. If
+    successful, +9 points. If
+    unsuccessful, -9
    points.
- Four - Take four tricks. If suc
+ Four - Take four tricks. If
+ successful, +12 points. If
+ unsuccessful, -12
    points.
- Nap - Take five tricks. If succ
+ Nap - Take five tricks. If
+ successful, +30 points. If
+ unsuccessful, -18
    points.
 Wellington - Take five tricks.
 If successful, +60 points. If
 unsuccessful, -36
    points. Can only be bid after
-   Blucher - Take five tricks. I
+   a Nap. Blucher - Take five
+   tricks. If successful, +120
+   points. If unsuccessful, -72
    points. Can only be bid after
+   a Wellington.
 
 The person who bids highest is
 deemed the Bidder. The rest are
@@ -900,9 +919,13 @@ earn points.
 Note: The scoring system for
 bridge is very complicated and I
 don't understand
- it at all. Just bear in mind th
- offense from achieving theirs, 
- you can probably find a bridge 
+ it at all. Just bear in mind
+ that if you achieve your bid or
+ prevent the offense from
+ achieving theirs, that's good.
+ If you want to find out more,
+ you can probably find a bridge
+ website somewhere.
 
 ================================
 Chinese Checkers
@@ -1553,7 +1576,8 @@ Regiment).
 |R|B|R|R|B|R|<---You can only
 cross the bridge at the part
 that says B. It does
--------------    not count as a 
+------------- not count as a
+              space.
 | | | | | | |
 -------------
 | | | | | | |
@@ -1646,10 +1670,13 @@ that have already been guessed
 and are wrong. If your opponent
 guesses correctly, and two
 letters in a row go up, that's a
-clue. If you have ---SET, then
-your opponent guess second and
-third letters are the same. In
-this case, the word is OFFSET.
+clue. If you have
+---SET, then your opponent
+   guesses a double, and has
+   -XX---, you know that the
+second and third letters are the
+same. In this case, the word is
+OFFSET.
 
 ================================
 Bowling
@@ -2173,8 +2200,10 @@ Capture
 1. Capturing a piece in a board
    game is removing it from the
    board. This could be by
-   landing on it (Chess, S or
-   jumping over it (Checkers)
+   landing on it (Chess, Shogi),
+   surrounding it (Turncoat,
+   Hasami Shogi), or jumping
+   over it (Checkers).
 2. Capturing a trick (see trick
    below) is winning it.
 
@@ -2402,10 +2431,12 @@ Stalemate
    which the king is not in
    check, but any move he makes
    will put him in check.
+   Stalemate results in a draw.
 2. In solitaire, a situation in
    which no more cards can
    possibly be turned over. You
-   cannot win once it
+   cannot win once it is
+   stalemate.
 
 Target Ball The Target Ball in
 Billiards is the lowest ball on
@@ -2514,16 +2545,23 @@ Version 1.0: 20/1/2007
 -Glossary
 
 Version 1.3: 22/1/2007
--Added Chess/Grid Attack descrip
--Added numerous terms to the glo
+-Added Chess/Grid Attack
+ descriptions (with CHARTS!)
+-Added numerous terms to the
+ glossary.
 
 Version 1.5: 23/1/2007
 -Added poker hands
--allowed Neoseeker/Supercheats t
+-allowed Neoseeker/Supercheats
+ to post
 
 Version 1.6: 24/1/2007
--Fixed a wave of errors caught b
--Added a few writeups (Escape, M
+-Fixed a wave of errors caught
+ by Nemephosis
+-Added a few writeups (Escape,
+ Mahjong solitaire, Backgammon,
+ Turncoat)
 
 Version 1.7: 16/6/2007
--Fixed errors in the Chess secti
+-Fixed errors in the Chess
+section (thanks to Ho-Chi Yuen)

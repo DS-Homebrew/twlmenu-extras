@@ -14,31 +14,42 @@ I. Introduction [tadapsg] II.
 Acknowledgments [mercibe] III.
 Walkthrough FAQ [cara]
    Town of Horne and North Caves
-   Witch's Mansion and Horne rev
-   The Moonlight Tower          
-   The town of Guera and the Wat
-   Quicksand Castle             
-   Liberte and the Pirate Hideou
-   The Liberte whirlpool        
-   An Animal Burrow and Fairy Pa
-   Navigating the Hunting Caves 
-   Breaking curses at Arbor     
-   Reunions in the snow         
-   Hatching Invidia's egg       
-   The Tower to the Sky         
-   Exploring Spelvia and taking 
-   World Tour and updated shop l
-   Guera and the Shield of Light
-   Arbor and the Lux Tome       
-   Liberte and Cestus           
-   Spelvia and the Sword of Ligh
-   Urbeth and the Cape of Light 
-   Invidia and the Armor of Ligh
-   Unravelling Horne's curse    
-   Revealing the truth about Kin
-   The Star Chamber and regainin
-   A dark, starry road          
-   Extra content: the bonus towe
+   [01cfaq] Witch's Mansion and
+   Horne revisited [02cfaq] The
+   Moonlight Tower [03cfaq] The
+   town of Guera and the Water
+   Tome [04cfaq] Quicksand
+   Castle [05cfaq] Liberte and
+   the Pirate Hideout [06cfaq]
+   The Liberte whirlpool
+   [07cfaq] An Animal Burrow and
+   Fairy Path to Arbor [08cfaq]
+   Navigating the Hunting Caves
+   to Urbeth [09cfaq] Breaking
+   curses at Arbor [10cfaq]
+   Reunions in the snow [11cfaq]
+   Hatching Invidia's egg
+   [12cfaq] The Tower to the Sky
+   [13cfaq] Exploring Spelvia
+   and taking flight [14cfaq]
+   World Tour and updated shop
+   listings [15cfaq] Guera and
+   the Shield of Light [16cfaq]
+   Arbor and the Lux Tome
+   [17cfaq] Liberte and Cestus
+   [18cfaq] Spelvia and the
+   Sword of Light [19cfaq]
+   Urbeth and the Cape of Light
+   [20cfaq] Invidia and the
+   Armor of Light [21cfaq]
+   Unravelling Horne's curse
+   [22cfaq] Revealing the truth
+   about King Horne [23cfaq] The
+   Star Chamber and regaining
+   what was lost [24cfaq] A
+   dark, starry road [25cfaq]
+   Extra content: the bonus
+   towers [26cfaq]
 IV. Crown Locations and Crown
 Upgrade List [speaknow] V.
 Consumable Items and Magic Book
@@ -128,20 +139,30 @@ II. Acknowledgments [mercibe]
 
 
 Square Enix
-   - For creating, translating a
+   - For creating, translating
+     and bring the game over to
+     the West.
 
 Nintendo
-   - For the creation of the con
+   - For the creation of the
+     console that this game
+     plays on.
 
 The GameFAQs community, other
 contributors and users, CJayC,
 Bacon
-   - For bringing about this gam
+   - For bringing about this
+     gaming community for all of
+     us to share our
  experiences and ability to help
+ one another.
 
 KMart
-   - Including a gaming coupon w
- buy column to deciding to give 
+   - Including a gaming coupon
+     with purchase, pushing me
+     from the kinda sorta
+ buy column to deciding to give
+ this more of a shot
 
 
 
@@ -172,15 +193,19 @@ Jusqua, Yunita and Aire.
    ~ Town of Horne ~            
 
    Horne General Shop
-  Potion              20 G      
-  Dragon Wing         60 G      
-  Horne's Bow        190 G      
+  Potion 20 G Torch 10 G Dragon
+  Wing 60 G Steel Sword 200 G
+  Horne's Bow 190 G Wood Shield
+  130 G
    Horne Wireless Shop
-  Inferno           5400 pts    
-  Gran Fissure      4080 pts    
-  Blacksword        9600 pts    
-  Warmage Armor     1000 pts    
-  Hero's Will       8000 pts    
+  Inferno 5400 pts Frost Bull
+  5160 pts Gran Fissure 4080 pts
+  Krysta 5700 pts Blacksword
+  9600 pts Fencer's Garb 1000
+  pts Warmage Armor 1000 pts
+  Ceremonial Robe 1000 pts
+  Hero's Will 8000 pts Growth
+  Egg 3000 pts
    Inn    10 Gil
 
 Brandt's mother, Kuore, wakes
@@ -316,12 +341,13 @@ Amethyst |
             |__[3] |
  [2]___ B1                      
  |                              
- | [1]                1F,N     |
+ | [1] 1F,N | | [2]: <PHOENIX
+ DOWN>
  |__|____               |      |
    |              !      |      
  Entrance    1F,S ___|      B1
 
-    1F, South            B1     
+    1F, South B1 1F, North
 
 If you'd like to save your
 Torch, you can follow the above
@@ -518,7 +544,7 @@ far, so follow the coast South.
 Enter Moonlight Tower.
 
 
-   ~ Moonlight Tower ~          
+   ~ Moonlight Tower ~ [03cfaq]
 
 Enemy               |    HP    |
 --------------------|----------|
@@ -536,9 +562,12 @@ Sapphire | Animate Tonic
  Entrance        |           |
         1F-A        1F-C
 
- Floor 1F           Floor 2F    
+ Floor 1F Floor 2F Floor 3F
+ Floor 4F
 
- [1]: <TEMPEST PIKE>     [2]: <P
+ [1]: <TEMPEST PIKE> [2]:
+ <PHOENIX DOWN> [3]: <RISING
+ SUN>
 
 From the entrance, go right and
 take the 2F-C stairs to Floor
@@ -571,7 +600,8 @@ destination. Exit the Moonlight
 Tower.
 
 
-   ~ Overworld / Guera ~        
+   ~ Overworld / Guera ~
+   [04cfaq]
 
 From the Moonlight Tower, hug
 the Southern area of the desert
@@ -580,25 +610,30 @@ North. Go inside town,
 preferably during the day.
 
    Guera Item Shop
-  Potion              20 G      
-  Antidote            20 G      
-  Animate Tonic       30 G      
-  Torch               10 G      
+  Potion 20 G Dragon Wing 60 G
+  Antidote 20 G Echo Herbs 20 G
+  Animate Tonic 30 G Eye Drops
+  20 G Torch 10 G Antarctic Wind
+  300 G
    Guera Weapon Shop
-  Steel Sword        200 G      
-  Horne's Bow        190 G      
-  Magic Staff         95 G      
-  Traveler's Garb    150 G      
+  Steel Sword 200 G Steel Spear
+  330 G Horne's Bow 190 G Wind
+  Bow 485 G Magic Staff 95 G
+  Rock Shield 350 G Traveler's
+  Garb 150 G Power Ring 500 G
     Poison Cape        250 G
    Guera Magic Shop
-  Fire Tome          500 G      
-  Aero Tome          500 G      
+  Fire Tome 500 G Quake Tome 500
+  G Aero Tome 500 G Cure Tome
+  500 G
    Guera Wireless Shop
-  Hercules          9000 pts    
-  Mjollnir          3300 pts    
-  Priest's Gown     1000 pts    
-  Shinobi Garb      1000 pts    
-  Fortune Egg       3000 pts    
+  Hercules 9000 pts Ares 5130
+  pts Mjollnir 3300 pts Afreet
+  Robe 1000 pts Priest's Gown
+  1000 pts Red Sash 1000 pts
+  Shinobi Garb 1000 pts Hero's
+  Will 8000 pts Fortune Egg 3000
+  pts Growth Egg 3000 pts
    Inn    20 Gil
 
 First things first, there's new
@@ -655,7 +690,7 @@ Guera Caverns.
 
  ~ Guera Caverns ~
 
- Entrance/Exit                  
+ Entrance/Exit [5]
   |                     ____|
 A ___|___ [1]/Z   Jump/Z__|    |
                |
@@ -664,8 +699,9 @@ A ___|___ [1]/Z   Jump/Z__|    |
  __|      B                   | 
     |  |      |                 
     B  |      |                 
- |      |____[2]     __D    D   
- |____              |           
+ | |____[2] __D D [4]: <WATER
+ TOME> |____ | [5]: <PHOENIX
+ DOWN>
    |        _____|
   ____|       |
  |            |      [4]
@@ -714,7 +750,7 @@ should come upon a castle
 looking thing. Go inside.
 
 
-   ~ Quicksand Castle ~         
+   ~ Quicksand Castle ~ [05cfaq]
 
 Enemy               |    HP    |
 --------------------|----------|
@@ -737,7 +773,7 @@ Emrldx2, Amethyst | Earth Sword
  | |___|  _   _  | |_|          
  |_______| | | | |___           
   | | |_____|                   
-  ENTRANCE                      
+  ENTRANCE [5]: <EARTH AXE>
 
 From the entrance, take the path
 to the left and grab the
@@ -872,23 +908,28 @@ in that Cat.
    ~ Liberte ~                  
 
    Liberte Item Shop
-  Potion              20 G      
-  Torch               10 G      
-  Echo Herbs          20 G      
-  Water Tome         500 G      
-  Confuse Cape       250 G      
+  Potion 20 G Dragon Wing 60 G
+  Torch 10 G Tranquilizer 20 G
+  Echo Herbs 20 G Fire Tome 500
+  G Water Tome 500 G Cure Tome
+  500 G Confuse Cape 250 G
+  Rainbow Boots 5000 G
    Liberte Weapon Shop
-  Steel Sword        200 G      
-  Magic Staff         95 G      
-  Flame Dagger       530 G      
-  Traveler's Garb    150 G      
-  White Robe         350 G      
+  Steel Sword 200 G Horne's Bow
+  190 G Magic Staff 95 G Knife
+  220 G Flame Dagger 530 G Harp
+  220 G Traveler's Garb 150 G
+  Black Robe 350 G White Robe
+  350 G Ice Shield 350 G
    Liberte Wireless Shop
-  Book of Secrets   4860 pts    
-  Akashic Records   6690 pts    
-  Angel Toga        1000 pts    
-  Blue Jacket       1000 pts    
-  Old Shoes         6000 pts    
+  Book of Secrets 4860 pts
+  Avalon Scrolls 5280 pts
+  Akashic Records 6690 pts Cat's
+  Tunic 1000 pts Angel Toga 1000
+  pts Dancing Wear 1000 pts Blue
+  Jacket 1000 pts Maximillian
+  1000 pts Old Shoes 6000 pts
+  Music Score 2500 pts
    Inn    20 Gil
 
 ! MUSICIAN CROWN is available by
@@ -995,7 +1036,8 @@ Trollud | 400-20 | 182 | Topazx3
    |   |   |   |  |     |       
    |   |___|___|  |D____| [1]___
  Enter                          
-  [1]: <300 GIL>         [2]: <R
+  [1]: <300 GIL> [2]: <ROCK
+  LANCE> [3]: TERRA STAVE
 
 The password is Freedom. Take
 the stairs down and go left to
@@ -1081,6 +1123,7 @@ Enter.
 
 
    ~ ??? (Liberte's whirlpool) ~
+   [07cfaq]
 
 Enemy               |    HP    |
 --------------------|----------|
@@ -1212,6 +1255,7 @@ there.
 
 
    ~ Animal Burrow / Overworld ~
+   [08cfaq]
 
 Don't bother wasting a torch
 here. Follow the EXIT ___!___
@@ -1235,11 +1279,13 @@ part of the desert.
 
    ~ Guera ~
 
-   Guera Magic Shop #2  (NIGHT O
-  Fira Tome         1500 G      
-  Aerora Tome       1500 G      
-  Berserk Tome      1000 G      
-  Shell Tome        1000 G      
+   Guera Magic Shop #2 (NIGHT
+   ONLY)
+  Fira Tome 1500 G Quakra Tome
+  1500 G Aerora Tome 1500 G Cura
+  Tome 1500 G Berserk Tome 1000
+  G Protect Tome 1000 G Shell
+  Tome 1000 G Magick Tome 1000 G
     Raise Tome        1500 G
 
 Head up through the center of
@@ -1332,7 +1378,8 @@ Hellhound | 47-56 | 8 | Sapphire
 46-68 | 9 | Sapphire |
 
   ______
-  |  ____ EXIT          [1]: <ET
+  | ____ EXIT [1]: <ETHER> [3]:
+  <HI-ETHER>
   | |                           
    _____| |_____         _______
   |  _________  |       C___   _
@@ -1343,7 +1390,8 @@ Hellhound | 47-56 | 8 | Sapphire
   | |                           
   | | ENTRANCE
 
- FLOOR 1F           FLOOR B1    
+ FLOOR 1F FLOOR B1 FLOOR B2
+ FLOOR B3 FLOOR B4
 
 I'd suggest heading straight for
 the exit at this point in time.
@@ -1371,47 +1419,58 @@ wrap around itself on foot.
    ~ Town of Urbeth ~
 
    Urbeth Item Shop #1
-  Potion              20 G      
-  Antidote            20 G      
-  Echo Herbs          20 G      
-  Eye Drops           20 G      
-  Cross               50 G      
+  Potion 20 G Hi-Potion 40 G
+  Antidote 20 G Gold Needle 50 G
+  Echo Herbs 20 G Animate Tonic
+  30 G Eye Drops 20 G Alarm
+  Clock 20 G Cross 50 G Remedy
+  400 G
    Urbeth Item Shop #3
-  Potion              20 G      
-  Torch               10 G      
-  Antidote            20 G      
-  Gold Needle         50 G      
+  Potion 20 G Hi-Potion 40 G
+  Torch 10 G Dragon Wing 60 G
+  Antidote 20 G Animate Tonic 30
+  G Gold Needle 50 G Eye Drops
+  20 G
     Ether             1000 G
    Urbeth Weapon Shop
-  Steel Sword        200 G      
-  Steel Spear        330 G      
-  Bolt Sword         700 G      
-  Encyclopedia       285 G      
-  Burning Harp       970 G      
+  Steel Sword 200 G Hatchet 255
+  G Steel Spear 330 G Knife 220
+  G Bolt Sword 700 G Blue Shot
+  580 G Encyclopedia 285 G
+  Cyclone Staff 295 G Burning
+  Harp 970 G Ice Pick 640 G
    Urbeth Armor Shop
-  Traveler's Garb    150 G      
-  White Robe         350 G      
-  Poet Tunic         350 G      
-  Flame Shield       350 G      
+  Traveler's Garb 150 G Black
+  Robe 350 G White Robe 350 G
+  Bandit Gear 350 G Poet Tunic
+  350 G Wood Shield 130 G Flame
+  Shield 350 G Rock Shield 350 G
     Darksteel Shield   450 G
    Urbeth Accessory Shop
-  Power Ring         500 G      
-  Spirit Ring        500 G      
-  Star Earring       500 G      
-  Black Ring         500 G      
-  Poison Cape        250 G      
+  Power Ring 500 G Intellect
+  Ring 500 G Spirit Ring 500 G
+  Giant's Ring 500 G Star
+  Earring 500 G Turtle Shell 500
+  G Black Ring 500 G Confuse
+  Cape 250 G Poison Cape 250 G
+  Stun Cape 250 G
 Urbeth Magic Shop   (NIGHT ONLY)
-  Fire Tome          500 G      
-  Firaga Tome       5000 G      
-  Watera Tome       1500 G      
-  Cure Tome          500 G      
-  Shell Tome        1000 G      
+  Fire Tome 500 G Fira Tome 1500
+  G Firaga Tome 5000 G Water
+  Tome 500 G Watera Tome 1500 G
+  Waterga Tome 5000 G Cure Tome
+  500 G Raise Tome 1500 G Shell
+  Tome 1000 G Protect Tome 1000
+  G
    Urbeth Wireless Shop
-  Mammon's Spear    3630 pts    
-  Trident           7200 pts    
-  Silver Suit       1000 pts    
-  Trylion's Cloak   1000 pts    
-  Fortune Egg       3000 pts    
+  Mammon's Spear 3630 pts Gae
+  Bolg 4290 pts Trident 7200 pts
+  Worker's Clothes 1000 pts
+  Silver Suit 1000 pts Red
+  Jacket 1000 pts Trylion's
+  Cloak 1000 pts Gem Collector
+  4000 pts Fortune Egg 3000 pts
+  Hermes Sandals 6000 pts
    Inn    50 Gil
 
 The town is split up into
@@ -1446,43 +1505,82 @@ doesn't count.
 
 Trylion, of the Accessory shop
 in the Northeast quadrant:
-   Sell three rings; Reward: 250
- 1) Man on the dock at the North
+   Sell three rings; Reward:
+   2500 GIL
+ 1) Man on the dock at the
+    Northeast quadrant
  2) Woman inside the left house,
- 3) Man near the inn/upgrade sho
+    along the dock, at Northeast
+    quadrant
+ 3) Man near the inn/upgrade
+    shop at the Southeast
+    quadrant
 
 Mylion, of the Armor shop in the
 Southeast quadrant:
    Give a Bomb Fragment; Reward:
+   2500 GIL
  These are random drops from the
+ Hellhounds outside of town
 
 Bylion, of the Item shop #3, at
 the Southwest quadrant:
    Defeat the Chimera at Hunting
- 42-70 HP, gain 8 Exp, drops Sap
+   Caves (B1) near the exit;
+   Reward: 2500 GIL
+ 42-70 HP, gain 8 Exp, drops
+ Sapphire gem
 
 Thauzand, of the Weapon shop at
 the Northwest quadrant:
-   Run a shop; Reward: whatever 
+   Run a shop; Reward: whatever
+   you can profit; repeatable
  This is the easiest method, but
- gain enough capital to start se
- and buy a max of six Ethers, pu
- the Weapon shop and open a coun
- moment.  Put up all your Ethers
- slots if applicable; mark those
- to it, ignoring any empty slots
- pocketing the profit.  Repeat a
- fee, to lift the hex on the cat
+ you may need to do Trylion's
+ quest to gain enough capital to
+ start selling items. Head over
+ to Item shop #3 and buy a max
+ of six Ethers, putting them all
+ in storage. Head up to the
+ Weapon shop and open a counter,
+ ignoring the current trends of
+ the moment. Put up all your
+ Ethers for sale, focusing on
+ the bigger "pair" slots if
+ applicable; mark those as 5000
+ Gil and add the "hot item" tag
+ to it, ignoring any empty
+ slots. Then wait for people to
+ buy them, pocketing the profit.
+ Repeat as needed to pay the
+ Sorcerer's 10000 Gil fee, to
+ lift the hex on the cat
+ following Jusqua.
 
-   ! SEAMSTRESS CROWN is availab
-   To do so, you need to raise t
-   10 single slot items; you nee
-   items and 500 Gilx4 items.  I
-   selling those Firaga/Waterga 
-   guaranteeing those sales; do 
-   have to hope the shoppers buy
-   this example, though.  It's a
-   free to skip it until you hav
+   ! SEAMSTRESS CROWN is
+   available by doing well in
+   Thauzand's sidequest. To do
+   so, you need to raise the
+   maximum amount of money, only
+   doable with 10 single slot
+   items; you need to sell all
+   5000 Gilx3 items, 1000 Gilx3
+   items and 500 Gilx4 items.
+   It's easiest to do if you
+   take a loss, such as selling
+   those Firaga/Waterga Tomes
+   for 1000 or 500 Gil, pretty
+   much guaranteeing those
+   sales; do note that that's an
+   extreme example. You'll have
+   to hope the shoppers buy the
+   remaining books at market
+   value if you do this example,
+   though. It's available
+   anytime Jusqua is in town, so
+   feel free to skip it until
+   you have better items to
+   sell.
 
 When you have the money, head
 back to the Northeastern corner
@@ -1634,23 +1732,29 @@ Brandt and Aire over at Arbor.
    ~ Arbor ~                    
 
    Arbor Item Shop
-  Potion              20 G      
-  Dragon Wing         60 G      
-  Antidote            20 G      
-  Alarm Clock         20 G      
+  Potion 20 G Torch 10 G Dragon
+  Wing 60 G Eye Drops 20 G
+  Antidote 20 G Echo Herbs 20 G
+  Alarm Clock 20 G Cure Tome 500
+  G
     Raise Tome        1500 G
    Arbor Weapon Shop
-  Wood Lance         660 G      
-  Red Shot           865 G      
-  Stun Stiletto      530 G      
-  Salve-maker Robe   500 G      
-  Sleep Cape         250 G      
+  Wood Lance 660 G Sacred Tree
+  Staff 190 G Red Shot 865 G
+  Ranger Bow 570 G Stun Stiletto
+  530 G Merchant Tunic 550 G
+  Salve-maker Robe 500 G Great
+  Tree Shield 280 G Sleep Cape
+  250 G Silence Cape 250 G
    Arbor Wireless Shop
-  Mythril Rod       5745 pts    
-  Vermillion        1000 pts    
-  Eastern Garb      1000 pts    
-  Garb of Knowledge 1000 pts    
-  Growth Egg        3000 pts    
+  Mythril Rod 5745 pts Sage's
+  Staff 6750 pts Vermillion 1000
+  pts Hunter Garb 1000 pts
+  Eastern Garb 1000 pts Dark
+  Armor 1000 pts Garb of
+  Knowledge 1000 pts Mana Screen
+  8000 pts Growth Egg 3000 pts
+  Old Shoes 6000 pts
    Inn    100 Gil
 
 Another town, another set of
@@ -1758,7 +1862,7 @@ Aquamarine | Eye Drops Rattatox
 Arbaroc | 475-515 | 342 |
 Tpazx2, Amthystx2 |
 
- FLOOR 1F               FLOOR 2F
+ FLOOR 1F FLOOR 2F FLOOR 3F
    ___[1]       C               
   A___|___       ___|___B___    
    |                     |      
@@ -1772,15 +1876,18 @@ Tpazx2, Amthystx2 |
   |____|__                [8]
       [1]: <PHOENIX DOWN>
         [2]: <WIND CAPE>
-    ______        BOSS          
+    ______ BOSS J [3]: <PHOENIX
+    DOWN>
    |  |            |            
   |            J  |    [7]     |
   |_______        |_____|       
   |    |             |          
   D    C             I          
-          |___[9]          [8]: 
- Transitory    Transitory       
-   2F-3F         3F-4F          
+          |___[9] [8]: <FAIRY
+          CAPE>
+ Transitory Transitory [9]: <HI-
+ POTION>
+   2F-3F 3F-4F FLOOR 4F
 
 Head to the right and keep going
 right at the first intersection.
@@ -1929,7 +2036,9 @@ Aquamarine | Animate Tonic Yoton
 
   ___(___A     [2]___      A    
    ______|c               ___)  
- ENTER   |c__(__[1]      |   )  
+ ENTER |c__(__[1] | )
+ c__|__|___| | [2]: <INTELLECT
+ RING>
    B   |        |   |c      ?
      |__)__)__|           |
 
@@ -2005,8 +2114,9 @@ Aquamarine | Behugemoth | 475-90
   ___|____|____|____|____      _
           |          |
 |          |       [1]: <ETHER>
-       |          |       [2]: <
-       EXIT         T       [3]:
+       | | [2]: <FLAME SPEAR>
+       EXIT T [3]: <DARKENING
+       HARP>
 
 Head to the left, grab the upper
 candle and place it in the upper
@@ -2093,29 +2203,36 @@ Invidia.
    ~ Invidia ~                  
 
    Invidia Item Shop
-  Potion              20 G      
-  Torch               10 G      
-  Gold Needle         50 G      
-  Cross               50 G      
+  Potion 20 G Hi-Potion 40 G
+  Torch 10 G Dragon Wing 60 G
+  Gold Needle 50 G Animate Tonic
+  30 G Cross 50 G Bomb Fragment
+  300 G
     Dark Tome          500 G
    Invidia Weapon Shop
-  Flame Dagger       530 G      
-  Darkness Blade    1100 G      
-  Red Shot           865 G      
-  White Book         675 G      
+  Flame Dagger 530 G Ice Pick
+  640 G Darkness Blade 1100 G
+  Darkness Axe 1135 G Red Shot
+  865 G Black Book 865 G White
+  Book 675 G Inferno Stave 390 G
     Darkness Staff     675 G
    Invidia Armor Shop
-  Black Robe         350 G      
-  Bandit Gear        350 G      
-  Elementalist Robe  550 G      
-  Merchant Tunic     550 G      
-  Darksteel Shield   450 G      
+  Black Robe 350 G White Robe
+  350 G Bandit Gear 350 G Poet
+  Tunic 350 G Elementalist Robe
+  550 G Ranger Outfit 380 G
+  Merchant Tunic 550 G Salve-
+  Maker Robe 500 G Darksteel
+  Shield 450 G Ice Shield 350 G
    Invidia Wireless Shop
-  Hades' Bow        6000 pts    
-  Failnaught        9000 pts    
-  Gunner's Coat     1000 pts    
-  Hestia's Tunic    1000 pts    
-  Energy Screen     8000 pts    
+  Hades' Bow 6000 pts Expunger
+  4500 pts Failnaught 9000 pts
+  Monkish Garb 1000 pts Gunner's
+  Coat 1000 pts Cat's Cloak 1000
+  pts Hestia's Tunic 1000 pts
+  Mana Screen 8000 pts Energy
+  Screen 8000 pts Fortune Egg
+  3000 pts
    Inn    300 Gil
 
 ! BEASTMASTER CROWN is available
@@ -2179,11 +2296,20 @@ party. Go down, then outside and
 examine the giant egg. You have
 two options:
    -Find a Mythritoise to gain a
-    shop owner for a Mythril Ham
-    steal the item as a bandit f
-    at night.  After giving Myth
-    inn and return to claim your
-   -Get a Firaga Tome way back a
+    Mythril, which you'll trade
+    to the Weapon
+    shop owner for a Mythril
+    Hammer. To get Mythril, you
+    pretty much need to steal
+    the item as a bandit from
+    the Mythritoise turtles,
+    only available at night.
+    After giving Mythril to to
+    the Weapon Shop owner, stay
+    at the inn and return to
+    claim your Mythril Hammer.
+   -Get a Firaga Tome way back
+    at Urbeth.
 
 After doing either scenario,
 you'll fail and Rekoteh mentions
@@ -2218,7 +2344,8 @@ Amthystx2, Aqumrn |
  |____   ____|  [1]   [2]  |____
   | |                       | | 
   | |                        B  
- ENTRANCE           [1]: <INFERN
+ ENTRANCE [1]: <INFERNO STAVE>
+ [2]: <BOOK OF SHIVA>
 
 From the entrance, keep going
 right, then head down for an
@@ -2290,9 +2417,10 @@ after this point.
    ~ Town of Urbeth ~           
 
    Urbeth Item Shop #2
-  Bomb Fragment      300 G      
-  Gaia Drum          300 G      
-  Zeus's Wrath       300 G      
+  Bomb Fragment 300 G Antarctic
+  Wind 300 G Gaia Drum 300 G
+  Raven's Yawn 300 G Zeus's
+  Wrath 300 G Dark Sigh 300 G
     Holy Breath        300 G
 
 We're back in control of Yunita.
@@ -2333,7 +2461,8 @@ Lizardman | 33-62 | 7 | Sapphire
 Steel Spear
 Succubus            |   47-63  |
 
-  FLOOR 1F           FLOOR 2F   
+  FLOOR 1F FLOOR 2F FLOOR 3F
+  FLOOR 4F
 
   A   BACK_____     __________  
     _   | | |ENT _    |   |___  
@@ -2343,9 +2472,12 @@ Succubus            |   47-63  |
    | |      |___| |[1]|   |B____
    | |________________          
    |______   _________|
-  | |            [1]: <RED SHOT>
-  ENTRANCE     [4]: <STAR EARRIN
-     [7]: <HI-POTION>      [8]: 
+  | | [1]: <RED SHOT> [2]: <CURA
+  TOME> [3]: <DARK CAPE>
+  ENTRANCE [4]: <STAR EARRING>
+  [5]: <RAISE TOME> [6]: <ETHER>
+     [7]: <HI-POTION> [8]: <SOIL
+     CAPE> [9]: <500 GIL>
     _     _
    |E|___| |___[5]       [6]    
    |  ___   ___  |    ___| |___ 
@@ -2354,7 +2486,8 @@ Succubus            |   47-63  |
    |___| |______F|   |G|        
         |H______|      |I____|  
 
- FLOOR 5F        FLOOR 6F     FL
+ FLOOR 5F FLOOR 6F FLOOR 7F
+ FLOOR 8F FLOOR 9F-10F
 
 First we'll hit up the back
 entrance. Head back outside to
@@ -2430,8 +2563,11 @@ Lapis, Aquamarine | Potion
     _________     |  _  | [1]
    |___ D ___|    |B| | | | |   
  | |         ___| |_| |         
- | |        |  _____  |         
-    ___| |___     | |  _  |_|   
+ | | | _____ | _____ [3]:
+ <MIMIC> -> SHINE CAPE
+    ___| |___ | | _ |_| [2] | _
+    | [4]: <MIMIC> -> BOOK OF
+    RAMUH
    |  _____  |    | | | |  _    
    |B|     |C|    | |_| |_| |   
     |_______  |    | |__| |___  
@@ -2486,29 +2622,37 @@ the exit.
    ~ Spelvia ~                  
 
    Spelvia Item Shop
-  Potion              20 G      
-  Remedy             400 G      
-  Black Ring         500 G      
-  Ice Shield         350 G      
-  Fossil Cape        500 G      
+  Potion 20 G Hi-Potion 40 G
+  Remedy 400 G Ether 1000 G
+  Black Ring 500 G Flame Shield
+  350 G Ice Shield 350 G
+  Darksteel Shield 450 G Fossil
+  Cape 500 G Curse Cape 500 G
    Spelvia Weapon Shop
-  Shining Blade      900 G      
-  White Book         675 G      
-  Stardust Bow       960 G      
-  Elementalist Robe  550 G      
-  Fighter Gi         550 G      
+  Shining Blade 900 G Shining
+  Axe 1135 G White Book 675 G
+  Shining Staff 485 G Stardust
+  Bow 960 G Shining Harp 860 G
+  Elementalist Robe 550 G Ranger
+  Outfit 380 G Fighter Gi 550 G
+  Scholar Crown 700 G
    Spelvia Magic Shop
-  Fire Tome          500 G      
-  Water Tome         500 G      
-  Banish Tome        500 G      
-  Banishga Tome     5000 G      
-  Cura Tome         1500 G      
+  Fire Tome 500 G Fira Tome 1500
+  G Water Tome 500 G Watera Tome
+  1500 G Banish Tome 500 G
+  Banishra Tome 1500 G Banishga
+  Tome 5000 G Cure Tome 500 G
+  Cura Tome 1500 G Raise Tome
+  1500 G
    Spelvia Wireless Shop
-  Lamia Harp        6900 pts    
-  David's Harp      6000 pts    
-  Sasuke's Kodachi  4680 pts    
-  Tonberry Knife    7680 pts    
-  Replica Plate     1000 pts    
+  Lamia Harp 6900 pts Angel Harp
+  6600 pts David's Harp 6000 pts
+  Stiletto 4680 pts Sasuke's
+  Kodachi 4680 pts Main Gauche
+  6180 pts Tonberry Knife 7680
+  pts Modern Dress 1000 pts
+  Replica Plate 1000 pts Hermes
+  Sandals 6000 pts
    Inn    FREE
 
 Let's start on the hidden
@@ -2612,7 +2756,8 @@ can be seen above, visually, or
 if you're familiar with numpad
 notation, then as follows:
 
-   B: 12339614799              C
+   B: 12339614799 C: 62776127848
+   D: 83871861967
 
 Once you clear each of the rooms
 above, enter the once blocked
@@ -2752,44 +2897,58 @@ THAMASA>. We're done here.
 
    ~ Guera ~
 
-   Guera Item Shop              
-  Hi-Potion           40 G      
-  Ether             1000 G      
-  Dragon Wing         60 G      
-  Poison Cape        250 G      
+   Guera Item Shop (AFTER
+   DARKNESS FALLS)
+  Hi-Potion 40 G X-Potion 400 G
+  Ether 1000 G Remedy 400 G
+  Dragon Wing 60 G Torch 10 G
+  Poison Cape 250 G Fossil Cape
+  500 G
     Stun Cape          250 G
-   Guera Weapon Shop            
-  Wind Foil          500 G      
-  Book of Titan      380 G      
-  Black Robe         350 G      
-  Spell Fencer Armor 850 G      
-   Guera Magic Shop             
-  Berserk Tome      1000 G      
-  Magick Tome       1000 G      
-  Confuse Tome       500 G      
-  Break Tome        2500 G      
-  Flash Tome         500 G      
-   Guera Magic Shop #2          
-  Quake Tome         500 G      
-  Quaga Tome        5000 G      
-  Shell Tome        1000 G      
-  Cura Tome         1500 G      
-  Esuna Tome        1500 G      
+   Guera Weapon Shop (AFTER
+   DARKNESS FALLS)
+  Wind Foil 500 G Book of Sylph
+  865 G Book of Titan 380 G Rock
+  Shield 350 G Black Robe 350 G
+  White Robe 350 G Spell Fencer
+  Armor 850 G Hero Armor 750 G
+   Guera Magic Shop (AFTER
+   DARKNESS FALLS)
+  Berserk Tome 1000 G Protect
+  Tome 1000 G Magick Tome 1000 G
+  Shell Tome 1000 G Confuse Tome
+  500 G Poison Tome 500 G Break
+  Tome 2500 G Silence Tome 500 G
+  Flash Tome 500 G Sleep Tome
+  500 G
+   Guera Magic Shop #2 (AFTER
+   DARKNESS FALLS)
+  Quake Tome 500 G Quakra Tome
+  1500 G Quaga Tome 5000 G
+  Protect Tome 1000 G Shell Tome
+  1000 G Cure Tome 500 G Cura
+  Tome 1500 G Curaga Tome 5000 G
+  Esuna Tome 1500 G Raise Tome
+  1500 G
 
 
    ~ Liberte ~
 
-   Liberte Item Shop            
-  Hi-Potion           40 G      
-  Ether             1000 G      
-  Bomb Fragment      300 G      
-  Water Tome         500 G      
+   Liberte Item Shop (AFTER
+   DARKNESS FALLS)
+  Hi-Potion 40 G X-Potion 400 G
+  Ether 1000 G Dragon Wing 60 G
+  Bomb Fragment 300 G Torch 10 G
+  Water Tome 500 G Watera Tome
+  1500 G
     Waterga Tome      5000 G
-   Liberte Weapon Shop          
-  Fire Axe          1220 G      
-  Flame Spear        640 G      
-  Bandit Gear        350 G      
-  Monk Robe          850 G      
+   Liberte Weapon Shop (AFTER
+   DARKNESS FALLS)
+  Fire Axe 1220 G Book of Shiva
+  675 G Flame Spear 640 G
+  Flowing Harp 640 G Bandit Gear
+  350 G Poet Tunic 350 G Monk
+  Robe 850 G Ice Shield 350 G
     Holy Shield        450 G
 
 There's a locked door in the
@@ -2802,103 +2961,140 @@ holding <SOUL OF THAMASA>,
 
    ~ Town of Urbeth ~
 
-   Urbeth Item Shop #2          
-  Drain Tome        1500 G      
-  Poison Tome        500 G      
-  Silence Tome       500 G      
-  Flash Tome         500 G      
-  Sleep Tome         500 G      
-   Urbeth Item Shop #3          
-  Potion              20 G      
-  X-Potion           400 G      
-  Remedy             400 G      
+   Urbeth Item Shop #2 (AFTER
+   DARKNESS FALLS)
+  Drain Tome 1500 G Confuse Tome
+  500 G Poison Tome 500 G Break
+  Tome 2500 G Silence Tome 500 G
+  Suppress Tome 2000 G Flash
+  Tome 500 G Curse Tome 2000 G
+  Sleep Tome 500 G Death Tome
+  5000 G
+   Urbeth Item Shop #3 (AFTER
+   DARKNESS FALLS)
+  Potion 20 G Hi-Potion 40 G
+  X-Potion 400 G Dragon Wing 60
+  G Remedy 400 G Ether 1000 G
     Torch               10 G
-   Urbeth Weapon Shop           
-  Steel Sword        200 G      
-  Hatchet            255 G      
-  Burning Harp       970 G      
-  Magic Staff         95 G      
-  Horne's Bow        190 G      
-   Urbeth Armor Shop            
-  Merchant Tunic     550 G      
-  Fighter Gi         550 G      
-  Party Host Wear    600 G      
-  Paladin Armor      850 G      
+   Urbeth Weapon Shop (AFTER
+   DARKNESS FALLS)
+  Steel Sword 200 G Mutsunokami
+  10000 G Hatchet 255 G Book of
+  Ifrit 770 G Burning Harp 970 G
+  Encyclopedia 285 G Magic Staff
+  95 G Steel Spear 330 G Horne's
+  Bow 190 G Harp 220 G
+   Urbeth Armor Shop (AFTER
+   DARKNESS FALLS)
+  Merchant Tunic 550 G Salve-
+  maker Robe 500 G Fighter Gi
+  550 G Scholar Gown 700 G Party
+  Host Wear 600 G Hero Armor 750
+  G Paladin Armor 850 G Flame
+  Shield 350 G
     Great Tree Shield  280 G
-   Urbeth Accessory Shop        
-  Power Ring         500 G      
-  Spirit Ring        500 G      
-  Star Earring       500 G      
-  Black Ring         500 G      
-  Flash Cape         250 G      
-   Urbeth Magic Shop            
-  Fire Tome          500 G      
-  Firaga Tome       5000 G      
-  Cura Tome         1500 G      
-  Regen Tome        1000 G      
-  Raise Tome        1500 G      
+   Urbeth Accessory Shop (AFTER
+   DARKNESS FALLS)
+  Power Ring 500 G Intellect
+  Ring 500 G Spirit Ring 500 G
+  Giant's Ring 500 G Star
+  Earring 500 G Turtle Shell 500
+  G Black Ring 500 G Poison Cape
+  250 G Flash Cape 250 G Confuse
+  Cape 250 G
+   Urbeth Magic Shop (AFTER
+   DARKNESS FALLS)
+  Fire Tome 500 G Fira Tome 1500
+  G Firaga Tome 5000 G Cure Tome
+  500 G Cura Tome 1500 G Curaga
+  Tome 5000 G Regen Tome 1000 G
+  Esuna Tome 1500 G Raise Tome
+  1500 G Arise Tome 5000 G
 
 
    ~ Arbor ~
 
-   Arbor Item Shop              
-  Hi-Potion           40 G      
-  Remedy             400 G      
-  Torch               10 G      
-  Leafra Tome       1500 G      
-  Curaga Tome       5000 G      
-   Arbor Weapon Shop            
-  Red Shot           865 G      
-  Blue Shot          580 G      
-  Book of Dryad      475 G      
-  Great Tree Shield  280 G      
-  Sniper's Ring      500 G      
+   Arbor Item Shop (AFTER
+   DARKNESS FALLS)
+  Hi-Potion 40 G X-Potion 400 G
+  Remedy 400 G Dragon Wing 60 G
+  Torch 10 G Leaf Tome 500 G
+  Leafra Tome 1500 G Leafaga
+  Tome 5000 G Curaga Tome 5000 G
+  Esuna Tome 1500 G
+   Arbor Weapon Shop (AFTER
+   DARKNESS FALLS)
+  Red Shot 865 G Wind Bow 485 G
+  Blue Shot 580 G Ranger Bow 570
+  G Book of Dryad 475 G Great
+  Tree Dagger 440 G Great Tree
+  Shield 280 G Spell Fencer
+  Armor 850 G Sniper's Ring 500
+  G Fairy Cape 500 G
 
 
    ~ Invidia ~
 
-   Invidia Item Shop            
-  Potion              20 G      
-  Dragon Wing         60 G      
-  Dark Tome          500 G      
-  Darkaga Tome      5000 G      
-  Blizzara Tome     1500 G      
-   Invidia Weapon Shop          
-  Darkness Blade    1100 G      
-  Book of Ifrit      770 G      
-  Evil Lance        2070 G      
-  Burning Harp       970 G      
-  Ocean Stave        295 G      
-   Invidia Armor Shop           
-  Fighter Gi         550 G      
-  Alchemist Gown     350 G      
-  Ice Shield         350 G      
-  Flame Gauntlet     500 G      
+   Invidia Item Shop (AFTER
+   DARKNESS FALLS)
+  Potion 20 G Hi-Potion 40 G
+  Dragon Wing 60 G Torch 10 G
+  Dark Tome 500 G Darkra Tome
+  1500 G Darkaga Tome 5000 G
+  Blizzard Tome 500 G Blizzara
+  Tome 1500 G Blizzaga Tome 5000
+  G
+   Invidia Weapon Shop (AFTER
+   DARKNESS FALLS)
+  Darkness Blade 1100 G Fire Axe
+  1220 G Book of Ifrit 770 G
+  Inferno Stave 390 G Evil Lance
+  2070 G Bloody Bow 865 G
+  Burning Harp 970 G Darkening
+  Harp 860 G Ocean Stave 295 G
+  Darkness Staff 675 G
+   Invidia Armor Shop (AFTER
+   DARKNESS FALLS)
+  Fighter Gi 550 G Scholar Gown
+  700 G Alchemist Gown 350 G
+  Star Earring 500 G Ice Shield
+  350 G Darksteel Shield 450 G
+  Flame Gauntlet 500 G Dusk
+  Gauntlet 500 G
 
 
    ~ Spelvia ~
 
-   Spelvia Item Shop            
-  Potion              20 G      
-  Remedy             400 G      
-  Soul of Thamasa  10000 G      
-  Courage Ring     10000 G      
+   Spelvia Item Shop (AFTER
+   DARKNESS FALLS)
+  Potion 20 G Hi-Potion 40 G
+  Remedy 400 G Ether 1000 G Soul
+  of Thamasa 10000 G Glimmer
+  Gauntlet 500 G Courage Ring
+  10000 G Fossil Cape 500 G
     Curse Cape         500 G
-   Spelvia Weapon Shop          
-  Holy Knife        1080 G      
-  Shining Blade      900 G      
-  White Book         675 G      
-  Party Host Wear    600 G      
-  Dancer Clothes     735 G      
-   Spelvia Magic Shop           
-  Thunder Tome       500 G      
-  Thundaga Tome     5000 G      
-  Banishra Tome     1500 G      
-  Invisible Tome    1000 G      
+   Spelvia Weapon Shop (AFTER
+   DARKNESS FALLS)
+  Holy Knife 1080 G Bolt Bow 960
+  G Shining Blade 900 G Shining
+  Axe 1135 G White Book 675 G
+  Shining Staff 485 G Party Host
+  Wear 600 G Hero Armor 750 G
+  Dancer Clothes 735 G Holy
+  Shield 450 G
+   Spelvia Magic Shop (AFTER
+   DARKNESS FALLS)
+  Thunder Tome 500 G Thundara
+  Tome 1500 G Thundaga Tome 5000
+  G Banish Tome 500 G Banishra
+  Tome 1500 G Banishga Tome 5000
+  G Invisible Tome 1000 G Aura
+  Tome 2500 G
     Magick Tome       1000 G
 
 
-   ~ Guera / Moonlight Tower ~  
+   ~ Guera / Moonlight Tower ~
+   [16cfaq]
 
 We're going after the Shield of
 Light and the Spell Fencer Crown
@@ -3010,7 +3206,8 @@ SHIELD OF LIGHT and a fancy new
 icon above Guera.
 
 
-   ~ Arbor / Great Tree Roots / 
+   ~ Arbor / Great Tree Roots /
+   Arbor ~ [17cfaq]
 
 We're going after the Lux Tome
 and gaining the Monk Crown in
@@ -3085,12 +3282,11 @@ BombFragment Belphegor | 2333-79
 | 756 | Diamnd, Amthystx3 |
 Steal: BombFragment
 
-[1]: <FLAMEBLADE> [4]
-_____________________B
+[1]: <FLAMEBLADE>           [4] 
 [2]: <FIRE AXE>     B________|__
 [3]: <BURNING HARP> | | | |__D |
-S6 | [4]: <FLAME CAPE> |_____|
-S3 |_____|_____| BOSS
+S6 |
+[4]: <FLAME CAPE>         |_____
       |     |              |   |
  [2]     [1]____          |_____
   |   _A        |         |     
@@ -3201,7 +3397,8 @@ need to collect, signified by
 the shiny new icon over Arbor.
 
 
-   ~ Liberte / Animal Burrow / L
+   ~ Liberte / Animal Burrow /
+   Liberte ~ [18cfaq]
 
 We're going after Cestus and the
 Dancer Crown in this section.
@@ -3343,7 +3540,8 @@ CROWN and officially gaining
 this legendary weapon.
 
 
-   ~ Spelvia / Spelvia Dungeons 
+   ~ Spelvia / Spelvia Dungeons
+   ~ [19cfaq]
 
 We're grabbing the Sword of
 Light and the Paladin Crown in
@@ -3386,7 +3584,7 @@ Enemy               |    HP    |
 Doppleganger | 190-240 | 32 |
 Aquamrne, Emerald | Ice Pick,
 FlameDggr
-     |          |     |         
+     | | | | CrseRing, CrseBlade
 Ghoul               |  <177    |
 Wraith              |  <258    |
    MINI-BOSS
@@ -3464,7 +3662,8 @@ gaining a shiny sword icon over
 Spelvia.
 
 
-   ~ Urbeth / Hunting Caves ~   
+   ~ Urbeth / Hunting Caves ~
+   [20cfaq]
 
 We're after the Cape of Light
 and the Alchemist Crown here.
@@ -3572,7 +3771,8 @@ CAPE OF LIGHT, as well as a
 shiny icon above Urbeth.
 
 
-   ~ Invidia / Invidia Undergrou
+   ~ Invidia / Invidia
+   Underground ~ [21cfaq]
 
 Our goal is to gain the Armor of
 Light and earn the Shaman Crown
@@ -3611,9 +3811,12 @@ about moving one dragon once,
 one dragon twice and one last
 dragon three times. Or, if you
 don't want to figure it out:
-   1.  Press the upper left swit
-   2.  Press the lower left swit
-   3.  Press the lower right swi
+   1. Press the upper left
+      switch once
+   2. Press the lower left
+      switch twice
+   3. Press the lower right
+      switch three time
 Do this in any order. This will
 open up the path to the boss.
 
@@ -3743,12 +3946,15 @@ them up. Levels were in the
 mid-30s starting this part of
 the game.
 
-   Horne General Shop           
-  Storm Axe         1220 G      
-  Book of Ramuh      580 G      
-  Traveler's Garb    150 G      
-  Remedy             400 G      
-  Dragon Wing         60 G      
+   Horne General Shop (AFTER
+   COLLECTING ALL SIX LEGENDARY
+   PIECES)
+  Storm Axe 1220 G Book of Sylph
+  865 G Book of Ramuh 580 G Wood
+  Shield 130 G Traveler's Garb
+  150 G Shaman Robe 850 G Remedy
+  400 G Hi-Potion 40 G Dragon
+  Wing 60 G Torch 10 G
 
 Go to Horne Castle, taking the
 center door, where the once
@@ -3898,7 +4104,9 @@ Witch's Mansion and return to
 Horne.
 
 
-   ~ Town of Horne / Castle Horn
+   ~ Town of Horne / Castle
+   Horne / Magic Laboratory ~
+   [23cfaq]
 
 Go to Horne Castle and head back
 down into the Magic Laboratory.
@@ -3907,18 +4115,22 @@ Boss                |    HP    |
 --------------------|----------|
 Satan | 3567-603 | 801 | Diamond
 | Darkbringer
-     |          |     | Amethyst
+     | | | Amethystx3 |
+     X-Potion, Phnx.Down
 
 FLOOR B1               FLOOR B2
 
     BOSS              _      _  
      | |             |I| [2]|B|[
    _               -----        
-  |A|        Sh2    | |    Sh3  
+  |A| Sh2 | | Sh3 |_____||
+  ||_____| [1]: <STAR EARRING>
   | |        | |  __| |__  | |  
   | |        | | |B_____A| | |  
   | |     ___| |           | |__
- ENTER   |U__  | Sh4   Sh1 |  __
+ ENTER |U__ | Sh4 Sh1 | __P|
+ |_____| _ |_____| [5]: <BLACK
+ BOOK>
    | |_| |___| |_| |       _____
    |_______________|      |B'___
                _
@@ -3933,7 +4145,7 @@ FLOOR B1               FLOOR B2
    ___________  | |  _________  
   |I_________H| |E| |K_______L| 
 
-   FLOOR B3                  FLO
+   FLOOR B3 FLOOR B4 FLOOR B5
 
 From the entrance, take the
 stairs down to B1 and take note
@@ -4074,7 +4286,8 @@ Cestus icons disappear from the
 world map.
 
 
-   ~ Liberte Town / Overworld ~ 
+   ~ Liberte Town / Overworld ~
+   [24cfaq]
 
 Liberte Town is marked by
 wherever you left Cestus, the
@@ -4146,7 +4359,7 @@ Diamnd, Amthystx3 | Mammon |
 Amthystx3 | Satan | 4411-573 |
 777 | Diamnd, Amthystx3 |
 
-   B           A                
+   B A LEVIATHAN
    E    [1]    S       _________
    L    ---    M      |C _   ___
    P  __| |__  O      | | | |  _
@@ -4205,12 +4418,15 @@ Beat # of Sub-bosses | Crowns
 regained
 ---------------------|----------
     0          | Freelancer
-  1          | Wayfarer, White M
-  2          | Bandit, Bard, Mer
-  3          | Elementalist, Ran
-  4          | Party Host, Hero,
-  5          | Dancer, Paladin, 
-  6          | Dark Fencer, rema
+  1 | Wayfarer, White Mage,
+  Black Mage 2 | Bandit, Bard,
+  Merchant, Salve-maker 3 |
+  Elementalist, Ranger, Fighter,
+  Scholar 4 | Party Host, Hero,
+  Spell Fencer, Monk 5 | Dancer,
+  Paladin, Alchemist, Shaman 6 |
+  Dark Fencer, remaining
+  optionally collected Crowns
 
 Pack a few Torches to get
 through the area, or just
@@ -4439,6 +4655,7 @@ about to get to the final boss.
 
 
    ~ Star Chamber, FLOOR B5-B9 ~
+   [25cfaq]
 
 Enemy               |    HP    |
 --------------------|----------|
@@ -4458,7 +4675,8 @@ Emerald |
 |____F|  |C|    |________  |  | 
       |_|  |G|      |L|    |___J
 
-   FLOOR B5         FLOOR B6    
+   FLOOR B5 FLOOR B6 FLOOR B7
+   FLOOR B8
 
 Except for the first time you
 get to floor B7, this entire
@@ -4590,7 +4808,7 @@ that was given out during
 worry, you'll still have it.
 
 
-   ~ The Bonus Towers ~         
+   ~ The Bonus Towers ~ [26cfaq]
 
 You can begin this section as
 soon as you gain the Master Key
@@ -4628,11 +4846,13 @@ Floor 40: Shop
 You can find this by flying
 North of the Witch's Mansion.
 
-   Moonsand Ruins (Tower 1) Gene
-  X-Potion              400 G   
-  Hi-Ether            10000 G   
-  Unyielding Shield  100000 G   
-  Hide Shield        100000 G
+   Moonsand Ruins (Tower 1)
+   General Shop, Floor 40
+  X-Potion 400 G Phoenix Down
+  100 G Hi-Ether 10000 G Gungnir
+  65000 G Unyielding Shield
+  100000 G Antimage 100000 G
+  Hide Shield 100000 G
 
 
 -- Holy Tree Tower; Tower 2 --
@@ -4648,23 +4868,28 @@ find a crescent shaped island
 with a cave in the center. This
 is the tower.
 
-   Holy Tree Tower (Tower 2) Gen
-  X-Potion              400 G   
-  Hi-Ether            10000 G   
-  Koga Shuriken       28000 G   
+   Holy Tree Tower (Tower 2)
+   General Shop, Floor 40
+  X-Potion 400 G Phoenix Down
+  100 G Hi-Ether 10000 G Mooring
+  Blade 22000 G Koga Shuriken
+  28000 G Guan Yu's Pike 55000 G
 
 
--- Mysterious Lighthouse; Tower 
+-- Mysterious Lighthouse; Tower
+   3 --
 
 Explore Liberte Town on top of
 Cestus. It's that locked
 lighthouse at the very top of
 town.
 
-   Mysterious Lighthouse (Tower 
-  X-Potion              400 G   
-  Hi-Ether            10000 G   
-  Fuma Shuriken       28000 G   
+   Mysterious Lighthouse (Tower
+   3) General Shop, Floor 40
+  X-Potion 400 G Phoenix Down
+  100 G Hi-Ether 10000 G
+  Muramasa 9000 G Fuma Shuriken
+  28000 G Shiranui 50000 G
 
 
 -- Trial Tower; Tower 4 --
@@ -5403,86 +5628,133 @@ VII.  History
 October 5, 2010 - Picked up
 game. Very very rough outline.
 Up through return
-  to Horne after first dungeon. 
-  into the file rather than taki
- Random statistics: Pages(8)    
-      Words(2476)          Bytes
+  to Horne after first dungeon.
+  Trying something new: typing
+  directly into the file rather
+  than taking notes on paper.
+ Random statistics: Pages(8)
+ Characters(11749)
+      Words(2476) Bytes:(18405)
 October 6, 2010 - Initially lost
 at Liberte, but got it solved.
- Random statistics: Pages(16)   
-      Words(5282)          Bytes
+ Random statistics: Pages(16)
+ Characters(22618)
+      Words(5282) Bytes:(36351)
 October 7, 2010 - Pirate Hideout
 and a whale, I think, done.
 Reunited Aire
-  with Brandt, Jusqua now soloin
- Random statistics: Pages(21)   
-      Words(7582)          Bytes
+  with Brandt, Jusqua now
+  soloing to Urbeth.
+ Random statistics: Pages(21)
+ Characters(31735)
+      Words(7582) Bytes:(50343)
 October 8, 2010 - Huge market at
 Urbeth now gathered. Dealing
 with a tree.
- Random statistics: Pages(28)   
-      Words(9965)          Bytes
+ Random statistics: Pages(28)
+ Characters(40570)
+      Words(9965) Bytes:(65917)
 October 9, 2010 - Through
 Invidia. Organized the weapons,
 finally. Still
-  need to write up the non-Walkt
+  need to write up the non-
+  Walkthrough sections to get
+  this posted.
    And change up the anchors.
- Random statistics: Pages(36)   
-      Words(13443)         Bytes
+ Random statistics: Pages(36)
+ Characters(55208)
+      Words(13443) Bytes:(88875)
 October 10, 2010 - Cleaning up
 FAQ formatting, consolidating
 data, added
-  anchors.  Everyone should be a
-  Aire.  Submitting to the publi
- Random statistics: Pages(42)   
-      Words(15994)         Bytes
+  anchors. Everyone should be at
+  Spelvia now, just reunited
+  with Aire. Submitting to the
+  public for the first time
+  tonight.
+ Random statistics: Pages(42)
+ Characters(66250)
+      Words(15994)
+      Bytes:(104993)
 October 11, 2010 - Wow, that
 jumped up the wanted lists.
 Filling in a bunch
-  of new shop data in most of th
- Random statistics: Pages(51)   
-      Words(19362)         Bytes
+  of new shop data in most of
+  the towns. Heh, world tour
+  already.
+ Random statistics: Pages(51)
+ Characters(78533)
+      Words(19362)
+      Bytes:(128437)
 October 12, 2010 - Finished up
 two of the branching quests.
 Dunno when I'll
-  be able to do those for real w
-  My preorder pick up is calling
- Random statistics: Pages(56)   
-      Words(21576)         Bytes
+  be able to do those for real
+  without restarting from
+  scratch. My preorder pick up
+  is calling for me, too ;p
+ Random statistics: Pages(56)
+ Characters(88240)
+      Words(21576)
+      Bytes:(142032)
 October 13, 2010 - Completely
 redid Quicksand Castle's maps,
 adding a bunch
-  of treasure chests in the proc
-  Dungeons and added that, after
-  from my paper copy to Arbor's 
-  Paladin, Alchemist and Shaman 
-  them all at once, rather than 
- Random statistics: Pages(63)   
-      Words(24276)         Bytes
+  of treasure chests in the
+  process. Missed a section in
+  Spelvia Dungeons and added
+  that, after the revisit.
+  Adding missing notes from my
+  paper copy to Arbor's legend
+  quest. Added Spell Fencer,
+  Paladin, Alchemist and Shaman
+  Crown sections. I just need to
+  do them all at once, rather
+  than restarting each quest
+  anew.
+ Random statistics: Pages(63)
+ Characters(99673)
+      Words(24276)
+      Bytes:(158586)
 October 14, 2010 - Needed to
 catch up and gain the weapons
 themselves. Gained
-  the Master Key, wasted time do
-  the time of discovery.  Just n
- Random statistics: Pages(67)   
-      Words(25785)         Bytes
+  the Master Key, wasted time
+  doing the non-existant sheep
+  puzzle at the time of
+  discovery. Just noticed a
+  sheep gate lock, so yay.
+ Random statistics: Pages(67)
+ Characters(105722)
+      Words(25785)
+      Bytes:(168138)
 October 15, 2010 - Lots of
 upgrade item data.
- Random statistics: Pages(67)   
-      Words(25961)         Bytes
+ Random statistics: Pages(67)
+ Characters(107116)
+      Words(25961)
+      Bytes:(169514)
 October 16, 2010 - And credits
 rolled. Final clear time, 34:42,
 681 battles.
-  Still tons to write up, though
- Random statistics: Pages(71)   
-      Words(27621)         Bytes
+  Still tons to write up,
+  though; getting through that.
+ Random statistics: Pages(71)
+ Characters(113851)
+      Words(27621)
+      Bytes:(180072)
 October 17, 2010 - Finishing up
 last few maps, slowly adding
 Wireless weapon
-  upgrade data.  Added three sho
-  through to the end of the game
- Random statistics: Pages(77)   
-      Words(30124)         Bytes
+  upgrade data. Added three
+  shops at the bonus towers.
+  Guide through to the end of
+  the game, filling in the
+  circle now.
+ Random statistics: Pages(77)
+ Characters(124704)
+      Words(30124)
+      Bytes:(195154)
 
 
 

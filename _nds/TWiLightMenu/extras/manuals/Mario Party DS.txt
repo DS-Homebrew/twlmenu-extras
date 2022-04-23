@@ -28,8 +28,8 @@ o-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 | US RELEASE DATE : 19 November
 2007 |
 |                  PLATFORM     
-| GENRE : Party/Minigames | |
-DEVELOPER : Hudson Soft |
+|                  GENRE        
+|                  DEVELOPER    
 |_______________________________
 o-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 |                               
@@ -65,31 +65,48 @@ ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
- I. TABLE OF CONTENTS           
+ I. TABLE OF CONTENTS [0101]
 ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
   I. TABLE OF CONTENTS . . . . .
+  . . . . . . . . . [0101]
 
-  II. MARIO PARTY OVERVIEW  . . 
+  II. MARIO PARTY OVERVIEW . . .
+  . . . . . . . . . [0201]
    Game Modes ..................
 
-  III. STORY MODE WALKTHROUGH  .
+  III. STORY MODE WALKTHROUGH .
+  . . . . . . . . . . [0301]
 
-   BOARD 1 - Wiggler's Garden ..
-    BOSS: Piranha Plant ........
-   BOARD 2 - Toadette's Music Ro
-    BOSS: Hammer Bro ...........
-   BOARD 3 - DK's Stone Statue .
-    BOSS: Dry Bones ............
-   BOARD 4 - Kamek's Library ...
+   BOARD 1 - Wiggler's Garden
+   ................ [0311]
+    BOSS: Piranha Plant
+    ..................... [0312]
+   BOARD 2 - Toadette's Music
+   Room ........... [0321]
+    BOSS: Hammer Bro
+    ........................
+    [0322]
+   BOARD 3 - DK's Stone Statue
+   ............... [0331]
+    BOSS: Dry Bones
+    .........................
+    [0332]
+   BOARD 4 - Kamek's Library
+   ................. [0341]
     BOSS: Kamek ................
-   BOARD 5 - Bowser's Pinball Ma
-    BOSS: Bowser ...............
+    ............. [0342]
+   BOARD 5 - Bowser's Pinball
+   Machine ........ [0351]
+    BOSS: Bowser
+    ............................
+    [0352]
 
-  IV. MINIGAMES . . . . . . . . 
+  IV. MINIGAMES . . . . . . . .
+  . . . . . . . . . . [0401]
 
    4-Player ....................
    1-Vs-3 ......................
@@ -98,32 +115,47 @@ ________________________________
    Duel ........................
 
   V. PUZZLE MODE . . . . . . . .
+  . . . . . . . . . [0501]
 
-   Mario's Puzzle Party ........
-   Bob-omb Breakers ............
+   Mario's Puzzle Party
+   ...................... [0511]
+   Bob-omb Breakers
+   ..........................
+   [0521]
    Piece Out ...................
    Block Star ..................
    Stick & Spin ................
-   Triangle Twisters - Frenze Mo
-   Triangle Twisters - Focus Mod
+   .............. [0551]
+   Triangle Twisters - Frenze
+   Mode ........... [0561]
+   Triangle Twisters - Focus
+   Mode ............ [0571]
 
   VI. GALLERY . . . . . . . . . 
 
    Collection ..................
+   .............. [0611]
    View Story ..................
    View Records ................
+   .............. [0631]
    Play Sound ..................
 
   VII. HIGH SCORES . . . . . . .
-   Record Holders Details ......
+  . . . . . . . . . . [0701]
+   Record Holders Details
+   .................... [0711]
 
  VIII. ACKNOWLEDGEMENT / CREDITS
-  IX. VERSION HISTORY / WHAT IS 
+ . . . . . . . . . . [0801]
+  IX. VERSION HISTORY / WHAT IS
+  NEW . . . . . . . . [0901]
 
   X. CONTACT ME  . . . . . . . .
-  XI. DISCLAIMER / LEGAL STUFF  
+  XI. DISCLAIMER / LEGAL STUFF .
+  . . . . . . . . . [1101]
 
-  ~SPECIAL: GUIDE'S STATISTICS~ 
+  ~SPECIAL: GUIDE'S STATISTICS~
+  . . . . . . . . . [1201]
    Chocobo .....................
 
 ________________________________
@@ -155,7 +187,8 @@ ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-   II. MARIO PARTY OVERVIEW     
+   II. MARIO PARTY OVERVIEW
+   [0201]
 ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -300,64 +333,122 @@ ________________________________
 There are 5 main game modes +
 gallery in Mario Party DS:
 
-1. Story mode
-   You may want to play this mod
+1. Story mode You may want to
+   play this mode first in your
+   first playthrough. Completing
    the story mode once will gain
-   Boss Bash mode, Sound Test an
-   of 5 boards in which you have
-   of each board play. You are a
-   characters to play the story 
-   the story mode with that char
-   character. Therefore, if you 
-   to play the story mode (from 
-   This guide will focus mainly 
+   you access to many
+   unlockables, such as Boss
+   Bash mode, Sound Test and a
+   new puzzle game. The story
+   mode consists of 5 boards in
+   which you have to win in
+   order to fight the boss at
+   the end of each board play.
+   You are allowed to choose any
+   one of the 8 main characters
+   to play the story mode before
+   you begin the mode.
+   Completing the story mode
+   with that character gives you
+   the badge of that particular
+   character. Therefore, if you
+   are planning to get all the
+   badges, you have to play the
+   story mode (from the
+   beginning to the end) at
+   least 8 times! This guide
+   will focus mainly on this
+   mode.
 
-2. Party mode
-   In this mode, you can free pl
+2. Party mode In this mode, you
+   can free play in any board
+   with any of the characters
    against anyone. However, this
-   name "party" as the mode. You
+   mode is for single player
+   only, despite the name
+   "party" as the mode. You can
+   play Mario Party in the
+   following style:
    - Battle Royale
    - Tag Battle
    - Duel Battle
-   You can also choose to learn 
-   already know how to play the 
+   You can also choose to learn
+   how to play Mario Party game
+   if you do not already know
+   how to play the game.
 
-3. Minigame mode
-   In this mode, you can free pl
-   either story mode or party mo
+3. Minigame mode In this mode,
+   you can free play all the
+   minigames you have unlocked
+   in either story mode or party
+   mode. You can choose to play
+   in the following:
    - Free Play
    - Step It Up
    - Score Scuffle
    - Boss Bash
    - Rocket Rascals
-   Many of this sub-mode can be 
-   mode at least once. You can t
-   set a new high score record i
+   Many of this sub-mode can be
+   accessed after you have
+   completed the story mode at
+   least once. You can then
+   practice your minigame skill
+   and try to set a new high
+   score record in this mode.
 
-4. Puzzle mode
-   This mode consists of two typ
-   that can be played by using t
-   exclusive puzzle, which requi
-   sub-modes of this new puzzle.
-   completing the story mode one
+4. Puzzle mode This mode
+   consists of two types of
+   puzzles: Classic puzzles,
+   i.e. puzzles that can be
+   played by using the DS
+   buttons, and not the stylus
+   and the exclusive puzzle,
+   which required the stylus in
+   order to play one of the sub-
+   modes of this new puzzle. You
+   can unlock this secret puzzle
+   by completing the story mode
+   one time.
 
-5. Multiplayer
-   By entering this mode, your D
-   player to join your Mario Par
-   a session by using DS Downloa
-   friend to join your game (but
-   own DS!). You need to connect
-   people (not only computers). 
-   connected to your friend. Not
-   linked friend before you unlo
-   become available for you to p
+5. Multiplayer By entering this
+   mode, your DS will
+   immediately start searching
+   another player to join your
+   Mario Party game. Your
+   friends can join the game for
+   a session by using DS
+   Download Play. You only need
+   one cartridge for your friend
+   to join your game (but of
+   course, your friends need to
+   have their own DS!). You need
+   to connect using this mode so
+   you can play with real people
+   (not only computers). You can
+   play any of the above mode
+   while connected to your
+   friend. Note that if you play
+   the Party Mode with your
+   linked friend before you
+   unlock all of the minigames,
+   all minigames will become
+   available for you to play
+   even after you disconnect!
 
-6. Gallery
-   In this mode, you can check a
-   You can check all the item co
-   playthrough, view all the sto
-   mode, view all your records i
-   sound used in Mario Party DS,
+6. Gallery In this mode, you can
+   check all sort of things you
+   have done in this game. You
+   can check all the item
+   collection you have gained
+   throughout your playthrough,
+   view all the story scenes you
+   have encountered in the story
+   mode, view all your records
+   in any applicable minigames.
+   Play music and sound used in
+   Mario Party DS, and check all
+   minigames you have unlocked!
 
 
 There are 8 characters you can
@@ -382,7 +473,8 @@ ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-   III. STORY MODE WALKTHROUGH  
+   III. STORY MODE WALKTHROUGH
+   [0301]
 ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -421,8 +513,10 @@ right (D,i) (H,g) (J,f) | e o
 o-o o o | Row h(E-J): left (D,k)
 (H,h) | f x o o o-o | Row j/l:
 to left
-      |  g   ,o     o     o   o 
-      |  h  o     o-o-o-o-o-o-| 
+      | g ,o o o o | Column
+      A/B/C/D/E: up | h o o-o-o-
+      o-o-o-| | Column H/I/J:
+      down
 Start from S (F,k) | i o o o |
 Shop at (B,f) | j `o-o-| o-o-o |
 Item spot at (E,l) | k o S ,o |
@@ -432,7 +526,8 @@ Item spot at (E,l) | k o S ,o |
 
 ________________________________
 --------------------------------
-       BOSS: PIRANHA PLANT      
+       BOSS: PIRANHA PLANT
+       [0312]
 --------------------------------
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -444,17 +539,20 @@ o---------------o
 HOW TO PLAY: Catch the bomb
 seeds that the Piranha Plant
 spits out, then drop
-   them back in the boss's open 
+   them back in the boss's open
+   mouth!
 
 CONTROLS: Use the directional
 buttons to move left or right.
     Press A to go up faster.
-  Press B to catch or throw the 
+  Press B to catch or throw the
+  bomb seeds.
 
 TIPS: The Piranha Plant's
 suction will slowly grow
 stronger. Tap A repeatedly
- to struggle upward and avoid be
+ to struggle upward and avoid
+ being swallowed.
 
 STRATEGY
 --------
@@ -562,8 +660,9 @@ Row e(A-E) = right (D,j) (I,j)
 (L,i) | e |-o-x-o-o ,o-o-| | Row
 e(J-K) = left (E,e) (J,a) | f o
 o-o-o o | Row f/g/h/i/j = left
-     |  g  o           o        
-     |  h   `o-o-o-o-o-o        
+     | g o o o | Column A/B/C =
+     up | h `o-o-o-o-o-o x |
+     Column G(f-h) = down
 Start from S (J,i) | i | o S ,o
 | Column G(h-j) = up Shop at
 (C,e) | j o-o-o-o-o-^-x-o-o-o |
@@ -575,7 +674,7 @@ Item spot at (C,b) o
 
 ________________________________
 --------------------------------
-        BOSS: HAMMER BRO        
+        BOSS: HAMMER BRO [0322]
 --------------------------------
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -594,7 +693,8 @@ beat the drums.
 TIPS: Even if you hit the wrong
 drum, you can try again if the
 music note
- hasn't reached you yet. Take yo
+ hasn't reached you yet. Take
+ your time, despite the danger!
 
 STRATEGY
 --------
@@ -671,22 +771,25 @@ o-o-o-o-o-o-o | (E,c) (I,c)
 o-o-o-o-o-o-o | Row c = right
 (F,g) (P,g) (U,c) | d | `o `o |
 Row e = left
-   (W,a)    |  e  |  x-o-o      
-     |  f  |       `o   o-o     
+   (W,a) | e | x-o-o `o-o-o |
+   Row f/g/h = right
+     | f | `o o-o ,o | Column A
+     = down
 Start at S (-,g) | g S`o
 o-o-^-o-o o-o-o-o | Column
 D/F/I/J/N = up Shop at (D,e) | h
 `o-x | Column P = down Item spot
 at (F,h) | | Column Q/S/T/W/X =
 up
-     |    -ABCDEFGHIJKLMNOPQRSTU
+     | -ABCDEFGHIJKLMNOPQRSTUVWX
+     |
      |                          
      o--------------------------
 
 
 ________________________________
 --------------------------------
-        BOSS: DRY BONES         
+        BOSS: DRY BONES [0332]
 --------------------------------
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -698,19 +801,24 @@ HOW TO PLAY: Search for the fire
 icons that appear above the
 magic switches,
    then ground-pound them all to
+   release a fiery blast at Dry
+   Bones!
 
 CONTROLS: Use the directional
 buttons to move around.
   Press A to jump. Press A again
-  Press B to punch.
-  Press the L or R button to mov
-  Press X to focus the camera on
+  while on air to ground-pound.
+  Press B to punch. Press the L
+  or R button to move the camera
+  focus. Press X to focus the
+  camera on the boss (Zoom out).
 
 TIPS: Dry Bones will soon go
 nuts, throwing bones and
 berries. If you punch a
- berry, it'll fly at him and he'
- switch!
+ berry, it'll fly at him and
+ he'll be stunned. Use the time
+ to hit a switch!
 
 STRATEGY
 --------
@@ -820,16 +928,18 @@ o-o-o | (D,a) (K,i) (P,d) | b o
 (S,g) | c o x | Row d/e = left
 (E,k) (M,j) (S,i) | d o-x-o
 ,o-o-o-o | Row g/i = right
-      |  e         `o-o         
+      | e `o-o | Row k/l = left
       |  f                      
 Start at S (J,k) | g
 o-o-,---------,-o-o | Column E =
 down Shop at (A,j) | h o o o o |
 Column G = up
- & (R,c)           |  i   o   o 
+ & (R,c) | i o o ,o-o o o |
+ Column M = down
 Item spot at (C,l) | j x o o `o
 o o | Column O = up
-  & (D,d)      |  k   o  ,o-|  S
+  & (D,d) | k o ,o-| S o-| o |
+  Column R/S = down
  |  l   o-x   `o-o-o  `-o-o  |
  |                           |
  |      ABCDEFGHIJKLMNOPQRS  |
@@ -850,7 +960,9 @@ o-----------o
 HOW TO PLAY: Survive a flight
 down Kamek's library hallway,
 then take on the
-   henchman. Shoot ink blobs at 
+   henchman. Shoot ink blobs at
+   Kamek's face until he's
+   totally inky!
 
 CONTROLS: Use the directional
 buttons to move up/down and
@@ -860,7 +972,8 @@ left/right.
 TIPS: Flying books and sliding
 bookcases will keep you on your
 toes. So keep
- an eye out for surprises on you
+ an eye out for surprises on
+ your way to fight Kamek.
 
 STRATEGY
 --------
@@ -1020,27 +1133,33 @@ a ,o-o-o-o-o,o-o | (I,k) (P,e)
 left (H,j) (L,o) (U,j) | f `o-x-
 o-o o-o-o | Row d(G-I) = right
      |  g      o      |         
-     |  h       \     |        x
+     | h \ | x | Row f(S-W) =
+     right
 Start from S (L,q) | i o-o \ | o
 | Row i = left Shop at (E,m) | j
 o ,o-o o o, | Row j/k = right
- & (S,b)          |  k  `o-o   `
+ & (S,b) | k `o-o `o o | | Row
+ l/n = left
 Item spot at (J,f) | l o-o-o-o{
 o | Row o(E-H) = right
-  & (U,h)     |  m      x      |
-     |  n      o      o      ,o-
-     |  o      `o-o   o  ,o-o   
-     |  p          `o-^-o       
+  & (U,h) | m x | o | Row o(O-R)
+  = left
+     | n o o ,o-o | Row p(I-K) =
+     right | o `o-o o ,o-o | Row
+     p(M-N) = left | p `o-^-o |
+     Column A/S/U/V = down
      |  q             S         
-     |                          
-     |     ABCDEFGHIJKLMNOPQRSTU
-     |                          
-     o--------------------------
+     | | Other column on the |
+     ABCDEFGHIJKLMNOPQRSTUVW |
+     upper part = up | | Other
+     column on the o------------
+     ------------------o lower
+     part = down
 
 
 ________________________________
 --------------------------------
-        BOSS: BOWSER            
+        BOSS: BOWSER [0352]
 --------------------------------
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -1052,19 +1171,26 @@ o----------------------o
 HOW TO PLAY: Avoid Bowser's
 attacks after he transforms into
 Blockhead Bowser,
-   then wait for your chance to 
+   then wait for your chance to
+   strike his golden weak spot!
 
 CONTROLS: Use the directional
 buttons to move around.
   Press A to jump. Press A again
+  while on air to ground-pound.
   Press B to punch. Press A then
-  Press the L or R button to mov
-  Press X to focus the camera on
+  B while on air to kick. Press
+  the L or R button to move the
+  camera focus. Press X to focus
+  the camera on the boss (Zoom
+  out).
 
 TIPS: Bowser will stack his
 blocks in different ways, and
 each of his forms
- has a different attack. Study h
+ has a different attack. Study
+ his forms carefully to know his
+ attacks!
 
 STRATEGY
 --------
@@ -1164,329 +1290,545 @@ the top of the minigame
 introduction screen.
 
    oo---------------------oo
-      |  4-PLAYER MINI GAMES  | 
+      | 4-PLAYER MINI GAMES |
+      [0411]
    o-----------------------o
 
 01 - Goomba Wrangler
 --------------------
-  HOW TO PLAY: Capture Goombas b
-   Brown Goombas are worth one p
-   Golden Goombas are worth thre
+  HOW TO PLAY: Capture Goombas
+  by circling them using your
+  stylus.
+   Brown Goombas are worth one
+   point. Golden Goombas are
+   worth three points.
 
-  TIPS: Don't circle Bob-ombs. I
+  TIPS: Don't circle Bob-ombs.
+  If you do, you'll lose half
+  your points.
 
 
 02 - Rail Riders
 ----------------
   HOW TO PLAY: Build speed for a
-   slide your stylus up the scre
+  long jump. You'll go farther
+  the more you
+   slide your stylus up the
+   screen before the jump.
 
-  TIPS:  As you slide your stylu
+  TIPS: As you slide your stylus
+  rapidly, use the full height
+  of the screen.
 
 
 03 - Dress for Success
 ----------------------
-  HOW TO PLAY: Select the body c
-   stylus. To win, score three p
-   points by the end of the mini
+  HOW TO PLAY: Select the body
+  cards that match the face
+  cards using your
+   stylus. To win, score three
+   points first, or score the
+   most points by the end of the
+   minigame.
 
-  TIPS: When shown the four diff
-  is the correct one, then keep 
+  TIPS: When shown the four
+  different cards, take note
+  which character design is the
+  correct one, then keep track
+  of it while the cards are
+  shuffled!
 
 
 04 - Camera Shy
 ---------------
-  HOW TO PLAY: Take a photo of e
-   in focus, so take the photo o
-   Use the directional buttons t
-   A button to snap a photo.
+  HOW TO PLAY: Take a photo of
+  everyone else in the maze.
+  Your target must be
+   in focus, so take the photo
+   only when the frame turns
+   green. Use the directional
+   buttons to move around, and
+   press the A A button to snap
+   a photo.
 
-  TIPS: Your flashbulb needs tim
-  you have a shot in focus befor
+  TIPS: Your flashbulb needs
+  time to recharge after every
+  use, so make sure you have a
+  shot in focus before you
+  shoot.
 
 
 05 - Hedge Honcho
 -----------------
-  HOW TO PLAY: Race to the finis
-   your stylus. Shoo off ladybug
-   touch the bees at all. They'l
+  HOW TO PLAY: Race to the
+  finish by throwing leaves out
+  of your path using
+   your stylus. Shoo off
+   ladybugs with your stylus,
+   but don't touch the bees at
+   all. They'll soon buzz off
+   themselves.
 
-  TIPS: If a bee stings you, you
-  to fly off. Shoo off a ladybug
+  TIPS: If a bee stings you,
+  you'll be stunned for a while,
+  so wait for it to fly off.
+  Shoo off a ladybug by rubbing
+  it with the stylus.
 
 
 06 - Study Fall
 ---------------
-  HOW TO PLAY: Plunge down the m
-   to the red line as possible, 
-   bottom. To stop, press the A 
+  HOW TO PLAY: Plunge down the
+  magnetic board as far as you
+  can. Stop as close
+   to the red line as possible,
+   but don't hit the erasers at
+   the bottom. To stop, press
+   the A button.
 
-  TIPS: You'll get a score of ze
-  erasers, so be careful.
+  TIPS: You'll get a score of
+  zero if you overshoot the red
+  line and hit the erasers, so
+  be careful.
 
 
 07 - Domino Effect
 ------------------
-  HOW TO PLAY: Leap across the b
-   shown (either A, B, X or Y). 
+  HOW TO PLAY: Leap across the
+  board tops by pressing the
+  buttons as they're
+   shown (either A, B, X or Y).
+   Stay ahead of the boards as
+   they
        topple behind you.
 
-  TIPS: Press only the shown but
-  if you press a wrong button.
+  TIPS: Press only the shown
+  button to make each next leap.
+  You'll lose time if you press
+  a wrong button.
 
 
 08 - Cherry-Go-Round
 --------------------
-  HOW TO PLAY: Build up a great 
-   You'll throw it farther the m
-   the throw.
+  HOW TO PLAY: Build up a great
+  distance throw with your pair
+  of cherries.
+   You'll throw it farther the
+   more you swirl your stylus
+   before the throw.
 
-  TIPS: The arrows show a clockw
+  TIPS: The arrows show a
+  clockwise swirl, but you can
+  actually swirl in
  whichever way is best for you.
 
 
 09 - Trace Cadets
 -----------------
-  HOW TO PLAY: Build upon your c
-   shapes. Here's a complication
+  HOW TO PLAY: Build upon your
+  corner by tracing the outlines
+  of any bordering
+   shapes. Here's a
+   complication: you must sketch
+   each shape
   without lifting your stylus!
 
   TIPS: You can't trace just any
-  trace are those that are outli
+  shape on your field. The only
+  pieces you can trace are those
+  that are outlined in your
+  character's color.
 
 
 10 - Soccer Survival
 --------------------
-  HOW TO PLAY: Dodge the Goomba'
-   outlast the timer or be the l
-   around, use the directional b
+  HOW TO PLAY: Dodge the
+  Goomba's soccer balls. There
+  are two ways to win:
+   outlast the timer or be the
+   last player standing. To move
+   around, use the directional
+   buttons. To jump, press A.
 
-  TIPS: The Goomba may kick the 
-  a crazy zigzag motion. Watch t
+  TIPS: The Goomba may kick the
+  ball at you in a variety of
+  ways, including a crazy zigzag
+  motion. Watch the ball
+  carefully!
 
 
 11. Hot Shots
 -------------
-  HOW TO PLAY: Draw your bow wit
-   worth 100 points. Kamek is wo
+  HOW TO PLAY: Draw your bow
+  with your stylus and aim for a
+  target. Bowser is
+   worth 100 points. Kamek is
+   worth 20 points. You'll lose
+   30
   points if you hit Toadette.
 
   TIPS: Shoot quickly, but watch
+  out for all the Toadette
+  targets!
 
 
 12. Call of the Goomba
 ----------------------
-  HOW TO PLAY: Listen to the tem
-   using your stylus to re-creat
-   possible. The better you do, 
+  HOW TO PLAY: Listen to the
+  tempo of the intro tune, then
+  turn the crank
+   using your stylus to re-
+   create that speed as closely
+   as possible. The better you
+   do, the more Goombas you'll
+   lure.
 
   TIPS: Your music box will emit
-  perfect speed.
+  colorful notes when you're
+  cranking at the perfect speed.
 
 
 13. Pedal Pushers
 -----------------
-  HOW TO PLAY: Race to the finis
-   do so, the faster you'll go. 
-   directional buttons to press 
-   A, B, X or Y button to press 
+  HOW TO PLAY: Race to the
+  finish by alternating the
+  pedals. The faster you
+   do so, the faster you'll go.
+   Use any direction of the
+   directional buttons to press
+   the left pedal, and use
+   either A, B, X or Y button to
+   press the right pedal.
 
-  TIPS: When you reach a slick a
-  out. Do it slowly until you cr
+  TIPS: When you reach a slick
+  area, don't alternate quickly
+  or you'll spin out. Do it
+  slowly until you cross the
+  slick.
 
 
 14. Roller Coasters
 -------------------
-  HOW TO PLAY: Race to the finis
+  HOW TO PLAY: Race to the
+  finish by pushing your ball
+  with the stylus.
    Avoid the obstacles along the
+   way.
 
-  TIPS: You'll rebound from any 
-  recover your momentum. Move ca
+  TIPS: You'll rebound from any
+  obstacle you hit, and it will
+  take time to recover your
+  momentum. Move carefully.
 
 
 15. Get the Lead Out
 --------------------
-  HOW TO PLAY: Push your mechani
-   have 10 seconds to hit the ex
-   can. Press the A button rapid
+  HOW TO PLAY: Push your
+  mechanical pencil's lead out
+  as far as you can. You'll
+   have 10 seconds to hit the
+   extender button as many times
+   as you can. Press the A
+   button rapidly to extend the
+   lead.
 
-  TIPS: The more you press the b
+  TIPS: The more you press the
+  button, the farther you'll
+  extend the pencil
    lead, so press it quickly!
 
 
 16. Shortcut Circuit
 --------------------
-  HOW TO PLAY: Grab as many coin
-   of path arrows, so drag the b
+  HOW TO PLAY: Grab as many
+  coins as possible. You'll
+  travel in the direction
+   of path arrows, so drag the
+   bridge pieces to make paths
+   that
     carry you through coins.
 
   TIPS: Each bridge piece can be
-  strategically so you reach the
+  crossed only once. So lay
+  pieces down strategically so
+  you reach them before others
+  do.
 
 
 17. Big Blowout
 ---------------
-  HOW TO PLAY: Race to the finis
+  HOW TO PLAY: Race to the
+  finish by running along the
+  tips of candles. Blow
    them out by blowing into your
+   DS microphone to clear the
+   way.
 
   TIPS: How many candles go dark
-  the Mic. Try to blow out as ma
+  depends on how long and hard
+  you blow into the Mic. Try to
+  blow out as many as you can to
+  clear a long path.
 
 
 18. Trash Landing
 -----------------
   HOW TO PLAY: Pick a rope, then
-   the garage. Jump off at the r
-   garbage platforms. Use the di
+  watch carefully as all players
+  glide across
+   the garage. Jump off at the
+   right time to fall onto the
+   garbage platforms. Use the
+   directional buttons to choose
    which rope to use, then press
-   A button again to let go off 
+   A to grab the rope. Press the
+   A button again to let go off
+   the rope.
 
-  TIPS: The platforms for each r
-  difficult it will be to land s
+  TIPS: The platforms for each
+  rope are different sizes,
+  which affects how difficult it
+  will be to land safely. Do
+  your best, no matter which
   platform you're stuck with!
 
 
 19. Cheep Cheep Chance
 ----------------------
-  HOW TO PLAY: Haul up a Cheep C
-   turn, select a line by using 
-   A button to grab the line. Yo
-   enough to have hooked one.
+  HOW TO PLAY: Haul up a Cheep
+  Cheep to be among the winners.
+  When it's your
+   turn, select a line by using
+   the directional buttons and
+   the A button to grab the
+   line. You'll then see if
+   you're lucky enough to have
+   hooked one.
 
-  TIPS: It's a game of chance, s
-  Cheep Cheep!
+  TIPS: It's a game of chance,
+  so select a line, then hope
+  that you nab a Cheep Cheep!
 
 
 20. Whomp-a-thon
 ----------------
   HOW TO PLAY: Survive among the
-   win, or just be the last one 
+  falling Whomps until the timer
+  runs out to
+   win, or just be the last one
+   standing. Use the directional
     buttons to move around.
 
-  TIPS: A Whomp will shake befor
-  out of its way!
+  TIPS: A Whomp will shake
+  before it falls flat. That's
+  your signal to get out of its
+  way!
 
 
 21. Twist and Route
 -------------------
-  HOW TO PLAY: Race to the finis
-   up often using your stylus, b
-   across obstacles will use up 
-   directional buttons or Y/A bu
+  HOW TO PLAY: Race to the
+  finish in your windup car.
+  You'll have to wind it
+   up often using your stylus,
+   because driving the car and
+   running across obstacles will
+   use up its power. Use the
+   left/right directional
+   buttons or Y/A buttons to
+   steer the car.
 
   TIPS: Your car is out of power
-  can wind it up only when the a
+  when you see arrows on the
+  Touch Screen. You can wind it
+  up only when the arrows
+  appear, so give it a good
+  crank.
 
 
 22. Crater Crawl
 ----------------
   HOW TO PLAY: Avoid getting hit
-   to win, or just be the last o
-   directional buttons to move t
-   rapidly to go above the other
+  by lava eruptions until the
+  timer runs out
+   to win, or just be the last
+   one standing. Use the
+   left/right directional
+   buttons to move to the side,
+   and use the A button rapidly
+   to go above the other
+   characters.
 
-  TIPS: A lava gush will bubble 
-  out of its way.
+  TIPS: A lava gush will bubble
+  before it blows. That's your
+  signal to get out of its way.
 
 
 23. Boogie Beam
 ---------------
-  HOW TO PLAY: Strike the correc
-   hit. Watch if the spotlight s
-   the left pose. If it doesn't 
+  HOW TO PLAY: Strike the
+  correct pose with your stylus
+  when the big beats
+   hit. Watch if the spotlight
+   shines on you. If it does,
+   strike the left pose. If it
+   doesn't strike the right one.
 
-  TIPS: The spotlight doesn't ha
+  TIPS: The spotlight doesn't
+  have a regular pattern. Watch
+  carefully before
    you strike a pose button.
 
 
 24. Parachutin' Gallery
 -----------------------
-  HOW TO PLAY: Skydive through t
-   screen using the directional 
+  HOW TO PLAY: Skydive through
+  the panels that match those
+  shown on the top
+   screen using the directional
+   buttons.
 
-  TIPS: Each type of target has 
-  faster if you watch for colors
+  TIPS: Each type of target has
+  a unique color. You may be
+  able to reach faster if you
+  watch for colors, rather than
+  patterns.
 
 
 25. Boo Tag
 -----------
   HOW TO PLAY: Keep the Boos off
-   After time runs out, whoever 
-   time with the Boos is the win
-   to move around.
+  your back. Tag a rival to lose
+  your Boo.
+   After time runs out, whoever
+   has spent the least amount of
+   time with the Boos is the
+   winner. Use the directional
+   buttons to move around.
 
-  TIPS: If you have a Boo on you
+  TIPS: If you have a Boo on
+  your back, chase other players
+  until you tag
  someone to transfer your Boo.
 
 
 26. Dust Buddies
 ----------------
-  HOW TO PLAY: Avoid getting suc
-   finish, or just be the last o
-   buttons to move, and use the 
+  HOW TO PLAY: Avoid getting
+  sucked up by the vacuum until
+  your reach the
+   finish, or just be the last
+   one standing. Use the
+   directional buttons to move,
+   and use the A button to jump.
 
   TIPS: Sidestep the buttons and
-  or film strips, because the va
+  balls. Be careful when you
+  step on ribbons or film
+  strips, because the vacuum
+  will quickly suck those up.
 
 
 27. Cyber Scamper
 -----------------
-  HOW TO PLAY: Race to the finis
-   full of holes and chasm cross
-   to move, and use the A button
+  HOW TO PLAY: Race to the
+  finish or just be the last one
+  standing on a course
+   full of holes and chasm
+   crossings. Use the
+   directional buttons to move,
+   and use the A button to jump.
 
-  TIPS: When the lights go out, 
-  where the safe footing is when
+  TIPS: When the lights go out,
+  you can't tell where the gaps
+  are. Memorize where the safe
+  footing is when the lights are
+  on!
 
 
 28. Soap Surfers
 ----------------
-  HOW TO PLAY: Knock all rivals 
-   the directional buttons. Avoi
-   time runs out, or be the last
+  HOW TO PLAY: Knock all rivals
+  out of the sink as you surf on
+  a soap bar using
+   the directional buttons.
+   Avoid getting knocked out
+   before the time runs out, or
+   be the last one standing.
 
-  TIPS: Stay on the move and cha
-  in the middle area.
+  TIPS: Stay on the move and
+  change direction often as you
+  try to stay in the middle
+  area.
 
 
 29. Sweet Sleuth
 ----------------
-  HOW TO PLAY: Give Shy Guy the 
-   the correct candy out of the 
-   the Shy Guy.
+  HOW TO PLAY: Give Shy Guy the
+  candy he craves by using your
+  stylus to drag
+   the correct candy out of the
+   dish, then drop it in front
+   of the Shy Guy.
 
   TIPS: Study the dish selection
-  to pick the correct ones, and 
+  closely before you select a
+  candy. You want to pick the
+  correct ones, and many candies
+  look similar.
 
 
 30. Tidal Fools
 ---------------
-  HOW TO PLAY: Grab as many coin
-   Red coins are worth five time
-   Use the directional buttons t
+  HOW TO PLAY: Grab as many
+  coins as you can, but don't
+  get hit by the waves.
+   Red coins are worth five
+   times as much as the normal
+   ones. Use the directional
+   buttons to move around.
 
-  TIPS: You'll be stunned for a 
-  runs carefully to avoid the wa
+  TIPS: You'll be stunned for a
+  while if you're hit by a wave.
+  Time your runs carefully to
+  avoid the waves.
 
 
 31. Raft Riot
 -------------
-  HOW TO PLAY: Race to the finis
-   a short burst of speed. Use t
-   Hold the A button to accelera
+  HOW TO PLAY: Race to the
+  finish in your rubber raft.
+  Jump the ramps to get
+   a short burst of speed. Use
+   the directional buttons to
+   move. Hold the A button to
+   accelerate; hold the B button
+   to brake.
 
   TIPS: Running into an obstacle
-  it'll take time to regain your
+  or a racer will make you
+  bounce around, and it'll take
+  time to regain your momentum.
+  Steer carefully.
 
 
 32. All Geared Up
 -----------------
-  HOW TO PLAY: Climb the gears a
+  HOW TO PLAY: Climb the gears
+  and platforms to reach the
+  goal. Some platforms
    may rotate or disappear after
-   buttons to move around, and p
+   some time. Use the
+   directional buttons to move
+   around, and press the A
+   button to jump.
 
   TIPS: Head for the goal by the
-  stuck near someone, you'll was
+  least crowded path you can
+  find. If you get stuck near
+  someone, you'll waste time
+  trying to make your way
+  upward.
 
 
 ________________________________
@@ -1494,204 +1836,356 @@ ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
    oo---------------------oo
-      |   1-VS-3 MINI GAMES   | 
+      | 1-VS-3 MINI GAMES |
+      [0421]
    o-----------------------o
 
 1. Power Washer
 ---------------
-  HOW TO PLAY: Wash all your riv
-  (as 1)       sprayer using you
+  HOW TO PLAY: Wash all your
+  rivals off the plate by
+  rotating the water (as 1)
+  sprayer using your stylus.
+  Defeat all three to win.
 
   TIPS: You can rotate the plate
-  (as 1)   your opponents are, t
+  in either direction, so keep
+  an eye on where (as 1) your
+  opponents are, then catch them
+  off guard when you can.
 
-  HOW TO PLAY: Avoid the water j
-  (as 3)       even one of the t
-   three win the challenge. Use 
-   around, and press the A butto
+  HOW TO PLAY: Avoid the water
+  jets as you try to survive on
+  the plate. If (as 3) even one
+  of the three plate runners
+  outlasts the timer, all
+   three win the challenge. Use
+   the directional buttons to
+   move around, and press the A
+   button to jump.
 
-  TIPS: Be prepared to change yo
-  (as 3)   direction at any time
-  also spray.
+  TIPS: Be prepared to change
+  your course, because the plate
+  can change (as 3) direction at
+  any time. After a while the
+  second water jet will also
+  spray.
 
 
 2. Peek-a-Boo
 -------------
-  HOW TO PLAY: Tap as many Boos 
-   your stylus. You'll have to s
-   you scan the crowd for them b
+  HOW TO PLAY: Tap as many Boos
+  that match the target type as
+  you can using
+   your stylus. You'll have to
+   shift your view of the floor
+   as you scan the crowd for
+   them by using the directional
+   buttons
  or the A, B, X and Y buttons.
 
   TIPS: Your view is much larger
-  (as 1)   three of them and onl
+  than the other team's views.
+  But there are (as 1) three of
+  them and only one of you!
 
   TIPS: The single player's view
-  (as 3)   Fortunately, there ar
+  is much larger than your
+  team's views. (as 3)
+  Fortunately, there are three
+  of you, so divide up the floor
   for your search!
 
 
 3. Fast Food Frenzy
 -------------------
-  HOW TO PLAY: Trip up your oppo
-  (as 1)       your stylus. Ice-
-   syrup will slow them. Defeat 
+  HOW TO PLAY: Trip up your
+  opponents by throwing food in
+  their way using (as 1) your
+  stylus. Ice-cream dishes may
+  freeze them, and pancake
+   syrup will slow them. Defeat
+   all three to win.
 
-  TIPS: Don't just throw food ra
-  (as 1)   opponents run farther
-  outrun the belt.
+  TIPS: Don't just throw food
+  randomly. Create a course that
+  makes your (as 1) opponents
+  run farther. They may fall
+  behind as they try to outrun
+  the belt.
 
-  HOW TO PLAY: Dodge food and av
-  (as 3)       of you survives, 
+  HOW TO PLAY: Dodge food and
+  avoid falling off the conveyor
+  belt. If even (as 3) of you
+  survives, you'll all win. Use
+  the directional buttons
    to move around, and press the
+   A button to jump.
 
-  TIPS: You can't leap over the 
-  (as 3)   on the ice-cream dish
+  TIPS: You can't leap over the
+  burger or the shake. You'll
+  freeze if you step (as 3) on
+  the ice-cream dish. You'll be
+  slowed if you step on the
+  pancakes.
 
 
 4. Track Star
 -------------
-  HOW TO PLAY: Nudge your three 
-  (as 1)       then pressing A r
-   right directional button to c
+  HOW TO PLAY: Nudge your three
+  opponents with your train by
+  picking a path, (as 1) then
+  pressing A repeatedly to
+  outrun them. Press the left or
+   right directional button to
+   choose your track.
 
-  TIPS: If you select a track th
-  (as 1)   to run into them.
+  TIPS: If you select a track
+  that opponents are on, tap A
+  when behind them (as 1) to run
+  into them.
 
-  HOW TO PLAY: Avoid getting nud
-  (as 3)       pressing either l
-   that the train goes down the 
+  HOW TO PLAY: Avoid getting
+  nudged by your rival's train!
+  Pick a path by (as 3) pressing
+  either left or right
+  directional button in the
+  hopes
+   that the train goes down the
+   other one. You can outrun the
    train by pressing the A, B, X
+   and Y buttons.
 
-  TIPS: Don't run down the same 
-  (as 3)   Only one of you needs
+  TIPS: Don't run down the same
+  track as your teammates if you
+  can help it. (as 3) Only one
+  of you needs to survive for
+  your team to win.
 
 
 5. Shuffleboard Showdown
 ------------------------
-  HOW TO PLAY: Trip your opponen
-  (as 1)       Chips will reboun
-   advantage of that for surpris
+  HOW TO PLAY: Trip your
+  opponents by throwing chips at
+  them using your stylus. (as 1)
+  Chips will rebound from walls
+  or other chips, so take
+   advantage of that for
+   surprise attacks.
 
   TIPS: Bank your shot off walls
-  (as 1)   off guard.
+  and other chips to catch your
+  opponents (as 1) off guard.
 
   HOW TO PLAY: Avoid getting hit
-  (as 3)       they'll rebound f
+  by chips. Watch them
+  carefully, because (as 3)
+  they'll rebound from walls and
+  other chips. If even one of
    you survives, you'll all win.
-   move around, and press the A 
+   Use the directional buttons
+   to move around, and press the
+   A button to jump.
 
   TIPS: In the last few moments,
-  (as 3)   cast shadows on the t
+  watch for chips that fall from
+  above. They'll (as 3) cast
+  shadows on the table, so steer
+  clear of those spots.
 
 
 6. Flash and Dash
 -----------------
-  HOW TO PLAY: Avoid being caugh
-  (as 1)       rivals as you all
-   outlast the timer. Use the di
+  HOW TO PLAY: Avoid being
+  caught in the flashlight beams
+  cast by your three (as 1)
+  rivals as you all run through
+  a dark maze. You'll win if you
+   outlast the timer. Use the
+   directional buttons to move.
 
-  TIPS: More of your warning lig
-  (as 1)   get to catching you i
+  TIPS: More of your warning
+  lights will go on the closer
+  your opponents (as 1) get to
+  catching you in their beams.
 
-  HOW TO PLAY: Catch your oppone
-  (as 3)       teammates run thr
+  HOW TO PLAY: Catch your
+  opponent in your flashlight
+  beam as you and your (as 3)
+  teammates run through a dark
+  maze. Use the directional
+  buttons
    to move.
 
-  TIPS: More of your warning lig
-  (as 3)   target. So cooperate 
+  TIPS: More of your warning
+  lights will go on the closer
+  you come to your (as 3)
+  target. So cooperate with your
+  teammates to track down your
+  target.
 
 
 7. Rubber Ducky Rodeo
 ---------------------
-  HOW TO PLAY: Steer wildly so y
-  (as 1)       duckies. Throw th
+  HOW TO PLAY: Steer wildly so
+  your tethered rivals are
+  thrown from their (as 1)
+  duckies. Throw them all into
+  the water to win. Use the left
    and right directional buttons
+   to steer.
 
-  TIPS: Swerve quickly to have t
-  (as 1)   off their duckies.
+  TIPS: Swerve quickly to have
+  the best chance of knocking
+  your opponents (as 1) off
+  their duckies.
 
-  HOW TO PLAY: As your rival dri
-  (as 3)       fall off your duc
-   all win. Use the left/right d
+  HOW TO PLAY: As your rival
+  drives wildly, keep your
+  balance so you don't (as 3)
+  fall off your ducky! If even
+  one passenger stays seated,
+  you'll
+   all win. Use the left/right
+   directional button to
+   balance.
 
-  TIPS: Keep an eye on your riva
-  (as 3)   your seating to stay 
+  TIPS: Keep an eye on your
+  rival's ducky. When the driver
+  turns, change (as 3) your
+  seating to stay balanced on
+  your ducky.
 
 
 8. Plush Crush
 ------------
-  HOW TO PLAY: Avoid the toys th
-  (as 1)       the directional b
-   before a toy crashes down on 
+  HOW TO PLAY: Avoid the toys
+  that your opponents try to
+  drop on you by using (as 1)
+  the directional buttons. Watch
+  for shadows that appear just
+   before a toy crashes down on
+   the spot.
 
-  TIPS: Don't let yourself be co
-  (as 1)   to give yourself the 
+  TIPS: Don't let yourself be
+  cornered. Stay in the most
+  wide-open area to (as 1) to
+  give yourself the best chance
+  of escape.
 
-  HOW TO PLAY: Drop a toy on you
-  (as 3)       to trap and squis
+  HOW TO PLAY: Drop a toy on
+  your opponent to win! Work
+  with the other players (as 3)
+  to trap and squish the target
+  using your stylus.
 
-  TIPS: It takes time to drop a 
-  (as 3)   your target's escape 
+  TIPS: It takes time to drop a
+  toy, so work with your
+  teammates to cut off (as 3)
+  your target's escape routes.
 
 
 9. Rotisserie Rampage
 ---------------------
-  HOW TO PLAY: Spin your opponen
-  (as 1)       unpredictably usi
+  HOW TO PLAY: Spin your
+  opponents off of the hunk of
+  meat by turning it (as 1)
+  unpredictably using your
+  stylus.
 
-  TIPS: Change the rotation unpr
-  (as 1)   catching your opponen
+  TIPS: Change the rotation
+  unpredictably to have the best
+  chance of (as 1) catching your
+  opponents off guard.
 
   HOW TO PLAY: Keep your balance
-  (as 3)       so you don't fall
+  by pressing the up or down
+  directional button (as 3) so
+  you don't fall off the
+  rotating hunk of meat. If even
+  one
 of you survives, you'll all win.
 
   TIPS: Don't run too far in one
-  (as 3)   get caught off guard 
+  direction as you try to stay
+  on, or you might (as 3) get
+  caught off guard when your
+  opponent turns it the other
+  way.
 
 
 10. Nothing to Luge
 -------------------
-  HOW TO PLAY: Race down the hil
+  HOW TO PLAY: Race down the
+  hill on your spool sled!
+  Scraping a corner during
    a turn will slow you down, so
-   L button to turn left, and pr
+   take corners smoothly! Press
+   the L button to turn left,
+   and press the R button to
+   turn right.
 
   TIPS: You'll lose speed if you
-  course ahead so you know when 
+  scrape the sides of the chute.
+  Watch the course ahead so you
+  know when and how to swerve.
 
 
 11. Penny Pinchers
 ------------------
-  HOW TO PLAY: Grab the coins th
-  (as 1)       beads. Red coins 
-   ones. Use the directional but
+  HOW TO PLAY: Grab the coins
+  that spill from the chest, but
+  don't get hit by (as 1) beads.
+  Red coins are worth five times
+  as much as the normal
+   ones. Use the directional
+   buttons to move around, and
+   press
      the A button to jump.
 
-  TIPS: You'll be stunned for a 
-  (as 1)   when you're running f
+  TIPS: You'll be stunned for a
+  while if you're hit by a bead,
+  so be careful (as 1) when
+  you're running for coins.
 
-  HOW TO PLAY: Use your grabber 
-  (as 3)       on the top screen
-   five times as much as the nor
+  HOW TO PLAY: Use your grabber
+  to get the coins that slip
+  past your opponent (as 3) on
+  the top screen by using your
+  stylus. Red coins are worth
+   five times as much as the
+   normal ones.
 
-  TIPS: Divide up the lower-scre
-  (as 3)   let any coins slip by
+  TIPS: Divide up the lower-
+  screen area with your
+  teammates so you don't (as 3)
+  let any coins slip by you.
 
 
 12. Gusty Blizzard
 ------------------
-  HOW TO PLAY: Blow on your DS m
-  (as 1)       they are fully fr
+  HOW TO PLAY: Blow on your DS
+  microphone to chill your three
+  opponents until (as 1) they
+  are fully frozen.
 
-  TIPS: The strength of your dee
-  (as 1)   into the Mic. Try to 
+  TIPS: The strength of your
+  deep freeze depends on how
+  long and hard you blow (as 1)
+  into the Mic. Try to cause the
+  deepest freeze you can.
 
-  HOW TO PLAY: Stay warm in the 
-  (as 3)       with the stylus. 
+  HOW TO PLAY: Stay warm in the
+  freezing blizzard by rubbing
+  your character (as 3) with the
+  stylus. If even one character
+  remains unfrozen, all
     three win the challenge.
 
-  TIPS: Rubbing your character w
-  (as 3)   the best way to stay 
+  TIPS: Rubbing your character
+  with the stylus a little here
+  and that is (as 3) the best
+  way to stay warm!
 
 
 ________________________________
@@ -1699,146 +2193,242 @@ ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
    oo---------------------oo
-      |   2-VS-2 MINI GAMES   | 
+      | 2-VS-2 MINI GAMES |
+      [0431]
    o-----------------------o
 
 1. Soil Toil
 ------------
-  HOW TO PLAY: You spin one fron
-   the other one. Cooperate to r
-   Use your stylus to spin the w
+  HOW TO PLAY: You spin one
+  front wheel of a car, and your
+  teammate spins
+   the other one. Cooperate to
+   race your car to the finish.
+   Use your stylus to spin the
+   wheel.
 
-  TIPS: Your car will swerve in 
-  spinning more slowly. So coord
-  to move where you want.
+  TIPS: Your car will swerve in
+  the direction of whichever
+  wheel is spinning more slowly.
+  So coordinate spins with your
+  partner to move where you
+  want.
 
 
 2. Double Vision
 ----------------
-  HOW TO PLAY: You and your part
-   image. Trace only lines that 
-   You'll earn points for good t
+  HOW TO PLAY: You and your
+  partner share tracing duties
+  as you re-create an
+   image. Trace only lines that
+   match your color using the
+   stylus. You'll earn points
+   for good tracing.
 
-  TIPS: You can trace more accur
-  But if you go too slowly, you 
-  score will be lower.
+  TIPS: You can trace more
+  accurately to get more points
+  by going slowly. But if you go
+  too slowly, you may not finish
+  in time, and your score will
+  be lower.
 
 
 3. Memory Mash
 --------------
-  HOW TO PLAY: Flip cards to fin
-   that finds four pairs first w
-   to move around; press the A b
-   while jumping to do the groun
+  HOW TO PLAY: Flip cards to
+  find pairings by ground-
+  pounding them. The team
+   that finds four pairs first
+   wins. Use the directional
+   buttons to move around; press
+   the A button to jump; press A
+   again while jumping to do the
+   ground-pounding.
 
-  TIPS: Watch the cards that oth
-  remember their location and co
+  TIPS: Watch the cards that
+  other players turn over as
+  well, so you can remember
+  their location and content.
 
 
 4. Cube Crushers
 ----------------
-  HOW TO PLAY: Race to escape th
-   hit the exit buttons in each 
-   Use the directional buttons t
-   button to punch the ice block
+  HOW TO PLAY: Race to escape
+  the ice maze with your
+  partner. Both of you must
+   hit the exit buttons in each
+   section to open the way
+   forward. Use the directional
+   buttons to move around, and
+   press the B button to punch
+   the ice blocks and exit
+   buttons.
 
-  TIPS: If you hit a ? Block, yo
-  spiky ball that will freeze yo
+  TIPS: If you hit a ? Block,
+  you'll find either an
+  invincibility Star or a spiky
+  ball that will freeze you. You
+  can punch a frozen partner to
   free your partner.
 
 
 5. Mole Thrill
 --------------
-  HOW TO PLAY: You and your part
-   ahead of Monty Mole. You'll d
-   faster... and vice versa! Pre
+  HOW TO PLAY: You and your
+  partner must dig to the finish
+  first, while staying
+   ahead of Monty Mole. You'll
+   dig upward if the upper
+   player digs faster... and
+   vice versa! Press A button
+   rapidly to dig.
 
-  TIPS: Don't get caught behind 
-  dig faster. To go under them, 
+  TIPS: Don't get caught behind
+  rocks. To go above them, the
+  top player should dig faster.
+  To go under them, the lower
+  player should dig faster.
 
 
 6. Sprinkler Scalers
 --------------------
-  HOW TO PLAY: You and your part
+  HOW TO PLAY: You and your
+  partner must match button-
+  press actions to scale
    up the pipe to the top first,
-   along the way by pressing the
-   the Y button to rotate left. 
+   turning to avoid any
+   obstacles along the way by
+   pressing the A button to
+   rotate right or the Y button
+   to rotate left. Press the X
+   button to climb up.
 
-  TIPS: If your button presses d
-  down the pipe. Coordinate your
+  TIPS: If your button presses
+  don't match your partner's,
+  you'll slide back down the
+  pipe. Coordinate your efforts
+  closely.
 
 
 7. Cucumber Jacks
 -----------------
-  HOW TO PLAY: You and your part
-   cucumber by attacking the veg
-   stylus.
+  HOW TO PLAY: You and your
+  partner must slice down the
+  full length of the
+   cucumber by attacking the
+   veggie from both ends using
+   your stylus.
 
-  TIPS: Slicing quickly is key, 
+  TIPS: Slicing quickly is key,
+  but do it with longer
+  movements to whittle
 down the cucumber at top speed.
 
 
 8. Hanger Management
 --------------------
-  HOW TO PLAY: Balance your weig
-   as you both zing through a cl
-   and right using the direction
+  HOW TO PLAY: Balance your
+  weight on the wire hanger to
+  assist your partner
+   as you both zing through a
+   clothesline course. Shift
+   left and right using the
+   directional buttons to avoid
+   obstacles.
 
-  TIPS: You should stay in the m
-  quickly when you see an "!" to
+  TIPS: You should stay in the
+  middle to move the fastest.
+  But shift position quickly
+  when you see an "!" to avoid
+  collision.
 
 
 9. Book It!
 -----------
-  HOW TO PLAY: Race up the stair
-   the noted buttons (A -> B -> 
-   then to shift him or her to a
+  HOW TO PLAY: Race up the
+  stairs with your partner by
+  taking turns pressing
+   the noted buttons (A -> B ->
+   Y -> X twice) to lift your
+   partner, then to shift him or
+   her to another platform.
 
-  TIPS: Reduce your time by doin
-  the action closely so you can 
+  TIPS: Reduce your time by
+  doing your part at just the
+  right time. Watch the action
+  closely so you can make a
+  smooth trade-off each time.
 
 
 10. Airbrushers
 ---------------
-  HOW TO PLAY: You and your part
+  HOW TO PLAY: You and your
+  partner each take one wing as
+  you flap toward
    floating coins. Red coins are
-   the normal one. Press the A b
+   worth five times as much as
+   the normal one. Press the A
+   button to flap wing.
 
   TIPS: To get the higher coins,
+  you and your partner must each
+  repeatedly
 flap your wing at the same time.
 
 
 11. Toppling Terror
 -------------------
   HOW TO PLAY: Blow onto your DS
-   the other team. Whichever tea
+  microphone to startle Whomp
+  into falling on
+   the other team. Whichever
+   team blows the most over five
+   seconds
       will be victorious!
 
   TIPS: Blow as long and hard as
-  does the same!
+  you can. And make sure that
+  your partner does the same!
 
 
 12. Crazy Crosshairs
 --------------------
-  HOW TO PLAY: Shoot as many Scu
-   three points. You and your pa
-   horizontal and vertical contr
-   your crosshair.
+  HOW TO PLAY: Shoot as many
+  Scuttlebugs as you can. Golden
+  ones are worth
+   three points. You and your
+   partner split the aiming into
+   horizontal and vertical
+   control! Use the A button to
+   control your crosshair.
 
-  TIPS: The first player to pres
-  player then fires. The first p
-  and the second player has hori
+  TIPS: The first player to
+  press a button locks in aiming
+  control. The second player
+  then fires. The first player
+  has vertical control (left
+  right), and the second player
+  has horizontal control (up
+  down).
 
 
 13. Shorty Scorers
 ------------------
-  HOW TO PLAY: Work with your pa
-   team's goal as possible. The 
-   automatically. Use the direct
-   to jump, B to punch or shot a
+  HOW TO PLAY: Work with your
+  partner to get as many balls
+  into the other
+   team's goal as possible. The
+   goalkeepers move left and
+   right automatically. Use the
+   directional buttons to move;
+   press A to jump, B to punch
+   or shot and Y to pass the
+   ball.
 
-  TIPS: You can punch other play
-  can do the same to you!
+  TIPS: You can punch other
+  players to get the ball away
+  from them. And they can do the
+  same to you!
 
 
 ________________________________
@@ -1846,57 +2436,92 @@ ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
    oo---------------------oo
-      |   BATTLE MINI GAMES   | 
+      | BATTLE MINI GAMES |
+      [0441]
    o-----------------------o
 
 1. Cheep Chump
 --------------
-  HOW TO PLAY: Survive the longe
+  HOW TO PLAY: Survive the
+  longest by staying out of the
+  whirlpool. Tap the
    A button repeatedly to paddle
-   Use the directional buttons t
+   away from the water vortex!
+   Use the directional buttons
+   to move around.
 
   TIPS: Don't give up if you get
+  sucked into the whirlpool.
+  Just press A
 repeatedly to attempt an escape.
 
 
 2. Star Catchers
 ----------------
-  HOW TO PLAY: Be the first to t
-   using your stylus. Whoever sc
+  HOW TO PLAY: Be the first to
+  tap each new star as it
+  appears in the sky
+   using your stylus. Whoever
+   scores more stars is the
+   winner.
 
-  TIPS: Stars will appear one af
-  one flash into place, be the f
+  TIPS: Stars will appear one
+  after another in the night
+  sky. When you see one flash
+  into place, be the first to
+  claim it!
 
 
 3. Short Fuse
 -------------
-  HOW TO PLAY: All players take 
+  HOW TO PLAY: All players take
+  turns blowing on the bomb
+  fuse, hoping to make
    the bomb blow up for the next
-   blast, you're out! You need t
-   do this.
+   player. If you're caught in a
+   blast, you're out! You need
+   to blow into your DS
+   microphone to do this.
 
-  TIPS: You must blow on the bom
-  blow up anyway! So blow just a
+  TIPS: You must blow on the
+  bomb at least a little, or
+  else the bomb will blow up
+  anyway! So blow just a little,
+  even if the fuse is very
+  short!
 
 
 4. Globe Gunners
 ----------------
   HOW TO PLAY: Run around on the
-   hits on your opponents. Use t
-   around, and press the A butto
+  world globe, trying to score
+  the most blast
+   hits on your opponents. Use
+   the directional buttons to
+   move around, and press the A
+   button to shoot.
 
-  TIPS: Check your opponents' po
-  screen. Try to close in on you
+  TIPS: Check your opponents'
+  positions by looking at the
+  map on the top screen. Try to
+  close in on your opponent from
+  the side, then shoot!
 
 
 5. Chips and Dips
 -----------------
-  HOW TO PLAY: In a game of chan
-   chips shown. If you pick a Bo
-   half your stack. Use your sty
+  HOW TO PLAY: In a game of
+  chance, select a card in each
+  round to win the
+   chips shown. If you pick a
+   Bowser card, however, you'll
+   lose half your stack. Use
+   your stylus to pick a card.
 
-  TIPS: It's purely a game of ch
-  hope you don't pick a Bowser c
+  TIPS: It's purely a game of
+  chance, since all the cards
+  are facedown. Just hope you
+  don't pick a Bowser card!
 
 
 ________________________________
@@ -1904,7 +2529,8 @@ ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
     oo-------------------oo
-       |   DUEL MINI GAMES   |  
+       | DUEL MINI GAMES |
+       [0451]
     o---------------------o
 
 Combination of many of the above
@@ -1962,13 +2588,21 @@ oo----------------------oo
 o------------------------o
 
 HOW TO PLAY:
-  Connect two or more of a simil
-  occasionally fall to squash th
-  to flip the block. Press the R
+  Connect two or more of a
+  similar block type to clear
+  them. Use Thwomps that
+  occasionally fall to squash
+  the blocks down to half size.
+  Use the A button to flip the
+  block. Press the R or down
+  directional button to drop a
+  block.
 
 TIPS:
-  The next block to fall is disp
-  blocks strategically!
+  The next block to fall is
+  displayed on the right of the
+  screen. Stack the blocks
+  strategically!
 
 For every 40 points you gain in
 this game, you collect 1 MP
@@ -1980,13 +2614,21 @@ oo------------------oo
 o--------------------o
 
 HOW TO PLAY:
-  Connect three or more of a sim
-  a Bob-omb to blow it up and ob
-  button to spin right, B to spi
+  Connect three or more of a
+  similar block type to clear
+  them. Fully surround a Bob-omb
+  to blow it up and obliterate
+  all surrounding blocks. Use
+  the A button to spin right, B
+  to spin left and X button to
+  flip the block.
 
 TIPS:
   If you surround a Bob-omb with
-  the blocks around it. Use this
+  other blocks, it will explode,
+  removing all the blocks around
+  it. Use this power
+  strategically!
 
 For every 60 points you gain in
 this game, you collect 1 MP
@@ -1998,14 +2640,22 @@ oo-----------oo
 o-------------o
 
 HOW TO PLAY:
-  Grab the pieces on the conveyo
-  Put any that you don't want in
-  put down a piece. Press the L/
-  button to spin right
+  Grab the pieces on the
+  conveyor belt that help you
+  fully fill your field. Put any
+  that you don't want in the
+  trash. Use the A button to
+  pick up or put down a piece.
+  Press the L/Y button to spin
+  left, and press the R/X button
+  to spin right
 
 TIPS:
-  Line up pieces of the same col
-  remaining time. And think abou
+  Line up pieces of the same
+  color to score more points.
+  Keep an eye on your remaining
+  time. And think about how the
+  pieces best fit together!
 
 For every 1,000 points you gain
 in this game, you collect 1 MP
@@ -2018,12 +2668,19 @@ o--------------o
 
 HOW TO PLAY:
   Connect five or more blocks of
-  clear a certain number of bloc
-  Press the A button to send a p
-  button to lift stack.
+  the same color to clear them.
+  You have to clear a certain
+  number of blocks containing a
+  * (star) to finish a level.
+  Press the A button to send a
+  piece to the top of the stack.
+  Press the B button to lift
+  stack.
 
 TIPS:
-  Clear the clock-shaped block t
+  Clear the clock-shaped block
+  to gain more time. Use this
+  strategically!
 
 For every 10 points you gain in
 this game, you collect 1 MP
@@ -2035,14 +2692,21 @@ oo--------------oo
 o----------------o
 
 HOW TO PLAY:
-  Rotate the cylinder to clear b
-  color. You have to clear a cer
-  the directional buttons to spi
-  a piece to the wheel.
+  Rotate the cylinder to clear
+  balls by connecting five or
+  more of the same color. You
+  have to clear a certain number
+  of balls to clear a level. Use
+  the directional buttons to
+  spin the wheel, and press the
+  A button to drop a piece to
+  the wheel.
 
 TIPS:
-  If 10 or more balls stick out 
-  after two seconds, so be caref
+  If 10 or more balls stick out
+  past the outer blue ring, your
+  game will end after two
+  seconds, so be careful!
 
 For every 20 points you gain in
 this game, you collect 1 MP
@@ -2055,12 +2719,18 @@ MODE | [0561]
 o-------------------------------
 
 HOW TO PLAY:
-  Twist triangle clusters with y
-  of the same color, which will 
+  Twist triangle clusters with
+  your sylus to connect four or
+  more triangles of the same
+  color, which will clear them
+  from the field.
 
 TIPS:
-  You can make not only chains b
-  every opportunity to connect t
+  You can make not only chains
+  but also triangles and
+  hexagons, so watch for every
+  opportunity to connect tiny
+  triangles of the same color.
 
 For every 1,000 points you gain
 in this game, you collect 1 MP
@@ -2073,12 +2743,18 @@ oo------------------------------
 o-------------------------------
 
 HOW TO PLAY:
-  Twist triangle clusters using 
-  shown on the top screen as you
+  Twist triangle clusters using
+  your stylus to create the
+  patterns that are shown on the
+  top screen as you play.
 
 TIPS:
-  You can press X to restart a p
-  four or more triangles incorre
+  You can press X to restart a
+  problem. Take your time,
+  because if you connect four or
+  more triangles incorrectly,
+  you'll lose time and have to
+  start over!
 
 For every 1,000 points you gain
 in this game, you collect 1 MP
@@ -2195,11 +2871,12 @@ BOARD FEATURES
  -Unlocked [Thwomp Bricks]
 09. Place first on the Wiggler's
     Garden board three times.
- -Unlocked [Wiggler's Watering C
+ -Unlocked [Wiggler's Watering
+  Can]
 10. Place first on the Wiggler's
     Garden board after earning
     the Wiggler Friend badge.
-    -Unlocked [Fly Tr
+    -Unlocked [Fly Trap]
 11. Use the bank bulb flower on
     the Wiggler's Garden board
     three times.
@@ -2211,11 +2888,13 @@ BOARD FEATURES
 13. Use the Tricolored Flowers
     on the Wiggler's Garden
     board to get 30 coins two
-    times. -Unlocked [Tr
+    times. -Unlocked [Tricolored
+    Flowers]
 14. Place first on Wiggler's
     Garden board after earning
     the Piranha Plant Rival
-    Badge. -Unlocked [
+    Badge. -Unlocked [Pirahna
+    Plant's Planter]
 15. Play on the Toadette's Music
     Room board.
  -Unlocked [Music Sheets]
@@ -2253,7 +2932,8 @@ BOARD FEATURES
 25. Place first on the
     Toadette's Music Room board
     after earning the Hammer Bro
-    Rival Badge. -Unlock
+    Rival Badge. -Unlocked
+    [Sturdy Timpano]
 26. Break 1,500 points on Bob-
     omb Breakers.
  -Unlocked [Table]
@@ -2264,7 +2944,8 @@ BOARD FEATURES
 28. Place first on Toadette's
     Music Room board after
     earning the Toadette Rival
-    Badge. -Unlocked [
+    Badge. -Unlocked [Music
+    Notes]
 29. Play on the DK's Stone
     Statue board.
  -Unlocked [Blue Blooms]
@@ -2281,6 +2962,7 @@ BOARD FEATURES
     Stone Statue board after
     earning the Diddy Kong
     Friend badge. -Unlocked
+    [Green Mushroom]
 34. Get flattened by the barrel
     on the DK's Stone Statue
     board three times
@@ -2306,13 +2988,16 @@ BOARD FEATURES
     Stone Statue board after
     earning the Donkey Kong
     Friend badge. -Unlocked
+    [Banana Skin]
 41. Place first on the DK's
     Stone Statue board after
     earning the Dry Bones Rival
-    Badge. -Unlocked [
+    Badge. -Unlocked [Dry Bone's
+    Coffin]
 42. This is a secret item. No
     hints! (Get 50 or more stars
-    on the
+    on the DK's Stone Statue
+    board).
  -Unlocked [DK Statue]
 43. Play on the Kamek's Library
     board.
@@ -2345,7 +3030,8 @@ BOARD FEATURES
 52. Place first on Kamek's
     Library board after earning
     the Kamek's Rival Badge.
-    -Unlocked [Kamek'
+    -Unlocked [Kamek's Star
+    Globe]
 53. Open the Lucky Jar with 5
     coins in it three times.
  -Unlocked [Lucky Jar]
@@ -2358,12 +3044,15 @@ BOARD FEATURES
  -Unlocked [Crystal Ball]
 56. This is a secret item. No
     hints! (Place first on the
-    Kamek's badge). -Unlocked
-    [Koopa
+    Kamek's Library board after
+    earning the Koopa Friend
+    badge). -Unlocked [Koopa
+    Krag's Book]
 57. Get sent to the Bowser Zone
     or Star Zone on Bowser's
     Pinball Machine board three
-    times. -Unlocked [
+    times. -Unlocked [Bumpity
+    Bumper]
 58. Break 1,000 points in Stick
     & Spin.
  -Unlocked [Bowser Sign]
@@ -2392,33 +3081,44 @@ BOARD FEATURES
 66. Get launched by the cannon
     on the Bowser's Pinball
     Machine board three times.
-    -Unlocked [Cannon
+    -Unlocked [Cannon]
 67. Get more than 500 coins from
     the Wheel of Wonder on
     Bowser's Pinball Machine
-    board. -Unlocked
+    board. -Unlocked [Wheel of
+    Wonder]
 68. Place first in Rocket
     Rascals five times.
  -Unlocked [Flashy Flair]
 69. Finish a game with at least
     500 coins on the Bowser's
     Pinball Machine board.
-    -Unlocked [Chests
+    -Unlocked [Chests Of Chance]
 70. This is a secret item. No
     hints! (Place first on the
-    Bowser's Bowser Rival
-    badge). -Un
+    Bowser's Pinball Machine
+    board after earning the
+    Bowser Rival badge).
+    -Unlocked [Bowser Zone]
 71. This is a secret item. No
     hints! (Play as Toad in A
-    LOT OF di
+    LOT OF different minigames).
  -Unlocked [Toad Fountain]
 
 
-  TIPS: To get Board Features #4
-  Statue board as Toad for 30 tu
-  50 stars + win in most of the 
-  does not have a 100% success r
-  your first try, try to play 30
+  TIPS: To get Board Features
+  #42 and #71 at the same time,
+  play DK's Stone Statue board
+  as Toad for 30 turns (on Party
+  Mode) and get at least 50
+  stars + win in most of the
+  minigames on the board. Note
+  this method does not have a
+  100% success rate for #71. If
+  you don't get #71 on your
+  first try, try to play 30
+  turns game as Toad on another
+  board.
 
 
 
@@ -2761,8 +3461,10 @@ ________________________________
 NOTE: None of these records are
 mine. The records are held by
 different people,
- and the picture screenshot link
- Updated as of 30th June 2008.
+ and the picture screenshot
+ linked here are their
+ respective properties. Updated
+ as of 30th June 2008.
 
 
 MINI GAMES
@@ -2771,12 +3473,18 @@ MINI GAMES
     999.9 inches (MAX) by many
     people!
   Proof: http://www.mariopartyds
+  .com/high_scores/luigi_lord/ra
+  il_riders.jpg
  - http://www.mariopartyds.com/h
+   igh_scores/Julian_Revermann/r
+   ail_riders.jpg
 
 02. Hedge Honcho High Score -
     0:19.00 by Julian Revermann
     (MPDS)
   Proof: http://mariopartyds.com
+  /high_scores/Julian_Revermann/
+  hedge_honcho.jpg
 
 03. Study Fall High Score - 0.0
     inch by everyone!
@@ -2784,12 +3492,18 @@ MINI GAMES
 04. Domino Effect High Score -
     0:09.55 by Luigi lord (MPDS)
   Proof: http://www.mariopartyds
+  .com/high_scores/luigi_lord/do
+  mino_effect.jpg
 
 05. Cherry-Go-Round High Score -
     200.0 inches (MAX) by many
     people!
-  Proof: http://cpull.free.fr/Vi
-  Nintendo-DS/Mario-Party-DS/Ima
+  Proof:
+  http://cpull.free.fr/Video-
+  Games-Records-of-Guillaume-
+  Bertrand/ Nintendo-DS/Mario-
+  Party-DS/Images/Cherry-Go-
+  Round.jpg
 
 06. Hot Shots High Score - 9,990
     points (MAX) by klnppv (JV)
@@ -2797,35 +3511,50 @@ MINI GAMES
 07. Pedal Pushers High Score -
     0:15.73 by cpull & Julian
     Revermann
-  Proof: http://cpull.free.fr/Vi
-  Nintendo-DS/Mario-Party-DS/Ima
+  Proof:
+  http://cpull.free.fr/Video-
+  Games-Records-of-Guillaume-
+  Bertrand/ Nintendo-DS/Mario-
+  Party-
+  DS/Images/Pedal%20Pushers.jpg
  - http://www.mariopartyds.com/h
+   igh_scores/Julian_Revermann/p
+   edal_pushers.jpg
 
 08. Roller Coasters High Score -
     0:14.78 by Julian Revermann
     (MPDS)
   Proof: http://www.mariopartyds
-  roller_coasters.jpg
+  .com/high_scores/Julian_Reverm
+  ann/ roller_coasters.jpg
 
 09. Get the Lead Out High Score
     - 69.9 inches by Luigi Lord
     (MPDS)
   Proof: http://mariopartyds.com
+  /high_scores/luigi_lord/get_th
+  e_lead_out.jpg
 
 10. Twist and Route High Score -
     0:16.83 by Julian Revermann
     (MPDS)
   Proof: http://www.mariopartyds
-  twist_and_route.jpg
+  .com/high_scores/Julian_Reverm
+  ann/ twist_and_route.jpg
 
 11. Raft Riot High Score -
     0:20.96 by Madstarr (MPDS)
   Proof: http://www.mariopartyds
+  .com/high_scores/madstarr/raft
+  _riot.jpg
 
 12. Soil Toil High Score -
     0:15.50 by cpull (CS)
-  Proof: http://cpull.free.fr/Vi
-  Nintendo-DS/Mario-Party-DS/Ima
+  Proof:
+  http://cpull.free.fr/Video-
+  Games-Records-of-Guillaume-
+  Bertrand/ Nintendo-DS/Mario-
+  Party-DS/Images/Soil-Toil.jpg
 
 13. Cube Crushers High Score -
     0:22.00 by Christian
@@ -2835,7 +3564,8 @@ MINI GAMES
     - 0:18.06 by Julian
     Revermann (MPDS)
   Proof: http://www.mariopartyds
-  sprinkler_scalers.jpg
+  .com/high_scores/Julian_Reverm
+  ann/ sprinkler_scalers.jpg
 
 15. Hanger Management High Score
     - 0:17.21 (MAX) by many
@@ -2844,26 +3574,37 @@ MINI GAMES
 16. Book It! High Score -
     0:15.90 by Madstarr (MPDS)
   Proof: http://mariopartyds.com
+  /high_scores/madstarr/book_it.
+  jpg
 
 
 PUZZLE MODE
 -----------
 Puzzle 1 - Mario's Puzzle Party
-    High Score - 29,490 points b
+    High Score - 29,490 points
+    by Christian (MPDE)
 Puzzle 2 - Bob-omb Breakers
-    High Score - 104,809 points 
+    High Score - 104,809 points
+    by klnppv (JV) [Staff Best -
+    197,414 points]
 Puzzle 3 - Piece Out
-    High Score - 482,035 points 
+    High Score - 482,035 points
+    by Patrick Pöhl (MPDE)
 Puzzle 4 - Block Star
     High Score - 5,780 points by
+    Emmanuel (CS)
 Puzzle 5 - Stick & Spin
-    High Score - 10,410 points b
+    High Score - 10,410 points
+    by Christian (MPDE) [Staff
+    Best - 11,130 points]
 Puzzle 6 - Triangle Twisters:
 Frenzy Mode
-    High Score - 299,530 points 
+    High Score - 299,530 points
+    by klnppv (JV)
 Puzzle 7 - Triangle Twisters:
 Focus Mode
-    High Score - 416,300 points 
+    High Score - 416,300 points
+    by klnppv (JV)
 
 
 oo------------------------oo
@@ -2894,7 +3635,8 @@ ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-   VIII. ACKNOWLEDGEMENT / CREDI
+   VIII. ACKNOWLEDGEMENT /
+   CREDITS [0801]
 ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -2905,17 +3647,28 @@ following:
 - God
 - My family
 - My friends
-- Hudson Soft - for developing t
+- Hudson Soft - for developing
+  this game
 - Nintendo - for publishing this
-- Microsoft - for Windows operat
-- Jeff Veasey aka CJayC - for es
-- Allen Tyner aka SBAllen - for 
+  game and for Nintendo DS
+- Microsoft - for Windows
+  operating system
+- Jeff Veasey aka CJayC - for
+  establishing GameFAQs
+- Allen Tyner aka SBAllen - for
+  maintaining GameFAQs
 - Squaresoft - for CHOCOBO!!!
-- http://www.network-science.de/
-- Mario Party DS board on GameFA
-- http://www.mariopartyds.com Fo
-- Chocobo aka Xcarvenger, i.e. m
-- ... and YOU! - for reading thi
+- http://www.network-
+  science.de/ascii - as an
+  awesome ASCII generator
+- Mario Party DS board on
+  GameFAQs/GameSpot
+- http://www.mariopartyds.com
+  Forum and High Scores
+- Chocobo aka Xcarvenger, i.e.
+  me - for writing this guide
+- ... and YOU! - for reading
+  this guide
 
 
 
@@ -2924,6 +3677,7 @@ ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
    IX. VERSION HISTORY / WHAT IS
+   NEW [0901]
 ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -2931,46 +3685,67 @@ ________________________________
 ________________________________
 
 VERSION 1.1.1   --  30 June 2008
-- Clarify a bit about board feat
-- Records updated up to 30 June 
-- Guide size - 109,650 Bytes (10
+- Clarify a bit about board
+  feature #71.
+- Records updated up to 30 June
+  2008.
+- Guide size - 109,650 Bytes
+  (107 KB).
 
 ________________________________
 
 VERSION 1.1.0   --  12 June 2008
-- Added "Tips" section from the 
+- Added "Tips" section from the
+  game to each Minigame.
 - Changed "live" to "life".
-- Guide size - 109,069 Bytes (10
+- Guide size - 109,069 Bytes
+  (106 KB).
 
 ________________________________
 
 VERSION 1.0.0   --  07 May 2008
-- Description for each Game Mode
+- Description for each Game
+  Modes is added.
 - Story Mode Walkthrough section
+  is now complete.
 - Boss strategies are complete.
-- Listing some missed music trac
-- Guide size - 96,645 Bytes (94 
+- Listing some missed music
+  tracks.
+- Guide size - 96,645 Bytes (94
+  KB).
 
 ________________________________
 
 VERSION 0.6.0 -- 09 April 2008
-- Added a new section: Mario Par
-- Minigames section is almost co
-- High Scores section is complet
+- Added a new section: Mario
+  Party OVERVIEW.
+- Minigames section is almost
+  complete.
+- High Scores section is
+  complete.
 - Story Mode Walkthrough section
-- Guide size - 63,960 Bytes (62 
+  is still under construction.
+- Guide size - 63,960 Bytes (62
+  KB).
 
 ________________________________
 
 VERSION 0.5.0 -- 04 April 2008
-- This is the original and the f
+- This is the original and the
+  first published version of
+  this guide.
 - Minigames layout is complete.
-- Puzzle Mode layout is complete
-- Gallery section is almost comp
-- High Scores section is under c
+- Puzzle Mode layout is
+  complete.
+- Gallery section is almost
+  complete.
+- High Scores section is under
+  construction.
 - Story Mode Walkthrough section
+  is under construction.
 - 9 sections + Special.
-- Guide size - 53,882 Bytes (53 
+- Guide size - 53,882 Bytes (53
+  KB).
 
 
 
@@ -2999,14 +3774,20 @@ ________________________________
 + Please DO send me:
 
 + new high score records
-+ links to your screenshots/vide
++ links to your
+  screenshots/videos
 + questions about this game
-+ any mistakes in the FAQ/Walkth
-+ anything that will improve thi
-+ grammar and spelling correctio
++ any mistakes in the
+  FAQ/Walkthrough
++ anything that will improve
+  this guide
++ grammar and spelling
+  corrections
 + broken links
-+ sites that used this guide ill
++ sites that used this guide
+  illegally
 + encouragement if you find this
+  guide to be useful
 
 ________________________________
 
@@ -3015,11 +3796,16 @@ ________________________________
 - spam
 - chain e-mails
 - hate mails
-- rubbish - things that have not
-- things I have covered in this 
-- attachment with extensions oth
+- rubbish - things that have
+  nothing to do with this game
+- things I have covered in this
+  guide
+- attachment with extensions
+  other than .txt, .gif, .png
+  and/or .jpg
 - anything bigger than 1 MB
-- virus, trojan and/or other mal
+- virus, trojan and/or other
+  malicious things
 
 
 
@@ -3027,7 +3813,8 @@ ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-   XI. DISCLAIMER / LEGAL STUFF 
+   XI. DISCLAIMER / LEGAL STUFF
+   [1101]
 ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -3051,9 +3838,10 @@ Rights Reserved.
 
 You MUST NOT use this document
 for anything to do with
-commercial activities, i.e. you
-MUST NOT sell this guide to gain
-profits under any circumstances.
+commercial activities,
+i.e. you MUST NOT sell this
+  guide to gain profits under
+  any circumstances.
 
 You are free to save this
 document to your computer hard
@@ -3118,6 +3906,7 @@ ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
    ~SPECIAL: GUIDE'S STATISTICS~
+   [1201]
 ________________________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -3140,31 +3929,47 @@ ________________________________
    GGii........::LLiiiittLLii
  jjEEEE::............::..::GGtt
   GGGGKK::............jjGGffff
-    ffiiGG................;;LL  
+    ffiiGG................;;LL
+    GGii ttLLii
    jjjjtt,,;;............::ffjjf
+   fGGLL ffff ffffLLii
   ttjj;;;;;;,,;;ffii........LLKK
-  LL;;;;;;;;;;::GGGG........LLLL
-  jj;;;;;;;;;;,,jjtt........ttEE
-  LL;;;;;;;;;;;;::........ttffKK
- -o-   ff;;;;;;;;tttt,,;;ttffttG
+  EEEELLiiff LLGGffiiLLLL LL;;;;
+  ;;;;;;::GGGG........LLLLXCGGGG
+  tt GGtt..;;GGff jj;;;;;;;;;;,,
+  jjtt........ttEEEEffff
+  fftt....LLGGffffffffGG LL;;;;;
+  ;;;;;;;::........ttffKKEELL
+  iiLL..::iiGGDDtt::..ttffii
+ -o- ff;;;;;;;;tttt,,;;ttffttGGD
+  DGG,,tt
+  LLiiiiGGGGtt......;;EEjj
   ffttffjjLLWWDDLLWWEEGGLLLLLLjj
-    E N D    LLjj          EEff:
+  ..ii ttGGttGGGGii......iiLLGG
+    E N D LLjj EEff::ii::;;iiiij
+    jffffKKKKLLGGff....;;LLGGff
       ff....ffGGKKDDGGGGffffffKK
- O F                 ff::..::KKG
+      GGLLff::::ffjjff
+ O F ff::..::KKGGii::..::iiDD;;E
+ Eff,,tt::::::::ffGGjj
      ttff....;;GG::....;;GGKKtt.
-  G U I D E            LL::.....
+     .;;;;..;;;;..::LLLLGG
+  G U I D E LL::......::..::GGDD
+  GG;;..........iittiiDDffffGG
      ttff............;;;;::.....
  -o-             LL::......::...
      GG........jj...............
-     GG;;..;;iiff;;..ttff......;
-     GGLLtt;;GGjjjj..::ttff::::i
-     GGff::GGiiLLii::LLWWii..::i
+     .....::;;LLDDffjjjj GG;;..;
+     ;iiff;;..ttff......;;tttttt
+     ttGGjj GGLLtt;;GGjjjj..::tt
+     ff::::ii;;LLKKKKLL GGff::GG
+     iiLLii::LLWWii..::iiGGWWWW
  LLDDDD;;,,LLLLiiDDKK;;..::LLGG
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~;;KKf
-f..iiGGKK..jjWWGG;;~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~
  ~~~;EEEKKGG..GG..ffttGGffE:~~~
-  ~~~~~~          ~~,KKfffffff..
+  ~~~~~~
+  ~~,KKfffffff..GGEXCEDD,~~
+  ~~~~~~ XC
  ~~~~~~                    ~~~~~
     ~~~~~~         ~~~~~~    ~~~
 
@@ -3173,4 +3978,5 @@ f..iiGGKK..jjWWGG;;~~~~~~~~~~~~~
 
 
 ________________________________
-          Copyright © 2008 Frand
+              Copyright © 2008
+Frandy "Xcarvenger" T.

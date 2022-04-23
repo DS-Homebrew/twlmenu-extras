@@ -9,12 +9,14 @@
  / /__  / _ `/ / _ \| |/ // _ `/
  \___/  \_,_/ /_//_/|___/ \_,_/ 
 
-     K i r b y  -  C a n v a s  
+     K i r b y - C a n v a s C u
+     r s e
 
 --------------------------------
 
 A walkthrough authored by snkupo
-     Document Version 1.0 - Augu
+     Document Version 1.0 -
+     August 08, 2006
 
         snkupo@gmail.com
 
@@ -36,10 +38,15 @@ and press ENTER to search.
 
  Introduction...................
  About Kirby: Canvas Course.....
+ ...............................
+ ..[KiAbou]
  The Menu.......................
  Game Basics....................
  Common Questions...............
- Controls and Overview..........
+ ...............................
+ ..[KiQues] Controls and Overvie
+ w..............................
+ .............[KiCtrl]
  Abilities......................
  Obstacles......................
  Items..........................
@@ -47,58 +54,110 @@ and press ENTER to search.
  The Walkthrough
 
  Read This First................
+ ...............................
+ ..[KiWsta]
 
  Reddy Land, Plant Plain 1-1....
- Reddy Land, Tiny Town 1-2......
- Reddy Land, Ravine Road 1-3....
+ ...............................
+ ..[KiW001] Reddy Land, Tiny
+ Town 1-2.......................
+ ................[KiW002] Reddy
+ Land, Ravine Road 1-3..........
+ ...........................[KiW
+ 003]
 
  Arange Gorge, Ghost Grounds 2-1
- Arange Gorge, Growth Grasses 2-
- Arange Gorge, Mag Mount 2-3....
+ ...............................
+ ..[KiW004] Arange Gorge, Growth
+ Grasses 2-2....................
+ ............[KiW005] Arange
+ Gorge, Mag Mount 2-3...........
+ ..........................[KiW0
+ 06]
 
  Iello Adventure, Rift Ruin 3-1.
- Iello Adventure, Contrast Cave 
- Iello Adventure, Silver Submari
+ ...............................
+ ..[KiW007] Iello Adventure,
+ Contrast Cave 3-2..............
+ ................[KiW008] Iello
+ Adventure, Silver Submarine 3-3
+ ...........................[KiW
+ 009]
 
  Neo Greo, Machine Mansion 4-1..
- Neo Greo, Dreamy Darkness 4-2..
- Neo Greo, Paletto Polis 4-3....
+ ...............................
+ ..[KiW010] Neo Greo, Dreamy
+ Darkness 4-2...................
+ ................[KiW011] Neo
+ Greo, Paletto Polis 4-3........
+ .............................[K
+ iW012]
 
  Bloo Hills, Cold Course 5-1....
- Bloo Hills, Dungeon Dome 5-2...
- Bloo Hills, Canvas Canyon 5-3..
+ ...............................
+ ..[KiW013] Bloo Hills, Dungeon
+ Dome 5-2.......................
+ .............[KiW014] Bloo
+ Hills, Canvas Canyon 5-3.......
+ ............................[Ki
+ W015]
 
  Omarine Zone, Collapse Castle 6
- Omarine Zone, Volatile Volcano 
+ -1.............................
+ ..[KiW016] Omarine Zone,
+ Volatile Volcano 6-2...........
+ ...................[KiW017]
  Omarine Zone, Silent Seabed 6-3
+ ...............................
+ ..[KiW018]
 
  Wonder Lilane, Frozen Fantasy 7
- Wonder Lilane, Mad Mechanism 7-
- Wonder Lilane, Spectacle Space 
+ -1.............................
+ ..[KiW019] Wonder Lilane, Mad
+ Mechanism 7-2..................
+ ..............[KiW020] Wonder
+ Lilane, Spectacle Space 7-3....
+ ..........................[KiW0
+ 21]
 
  The World of Drawcia 8-1.......
+ ...............................
+ ..[KiW022]
 
  Boss Battles and Mini Games....
+ ...............................
+ ..[KiWbos]
 
  Additional Information
 
  Character Profiles.............
+ ...............................
+ ..[KiChar]
  Medal Swap.....................
  Main Game Medal Locations......
- Rainbow Run Medals.............
+ ...............................
+ ..[KiMeda] Rainbow Run Medals..
+ ...............................
+ .............[KiReda]
  Other Medals...................
  Switch Locations...............
+ ...............................
+ ..[KiSwit]
 
  The End of Document
 
  Version History................
+ ...............................
+ ..[KiVers]
  Legal Stuff....................
  Contact Me.....................
  Credits and Thanks.............
+ ...............................
+ ..[KiThan]
 
 
   +-----------------------------
-  + Introduction                
+  + Introduction [KiIntr] +
   +-----------------------------
 
 Hello, and welcome to the Kirby:
@@ -129,7 +188,8 @@ will be appreciated, as long as
 you're constructive.
 
   +-----------------------------
-  + About Kirby: Canvas Curse   
+  + About Kirby: Canvas Curse
+    [KiAbou] +
   +-----------------------------
 
 Canvas Curse is the first Kirby
@@ -189,37 +249,59 @@ Canvas Curse!
 
  Main Game
  ---------
- This is the main game. Travel t
- medals as you can.
+ This is the main game. Travel
+ through all the Stages and
+ collect as many medals as you
+ can.
 
  Rainbow Run
  -----------
- Play different parts of the sta
- modes for each stage - Line Tri
- you have to use as little ink a
- that you complete Stages as fas
+ Play different parts of the
+ stages, and earn more medals.
+ There are two modes for each
+ stage - Line Trial and Time
+ Trial. Line Trial means that
+ you have to use as little ink
+ as possible, while Time Trial
+ will require that you complete
+ Stages as fast as possible.
 
  Sub Games
  ---------
- In here, your unlocked Mini Gam
- difficulty settings for each of
- you will be rewarded with a med
- sections of this FAQ for more i
+ In here, your unlocked Mini
+ Games/Boss Battles can be
+ played. There are 3 difficulty
+ settings for each of them. Beat
+ Level 3 and get the A Rank, and
+ you will be rewarded with a
+ medal. Check the Mini Game and
+ Other Medals sections of this
+ FAQ for more information.
 
  Medal Swap
  ----------
- Exchange your medals for unlock
+ Exchange your medals for
+ unlockables like new
+ characters, music, new Line
  colors and so on.
 
  Options
  -------
- Set sound mode, Line color, era
- training. There is also a Picto
- your system will search for oth
- If a Pictochat session is found
- conversation. If you choose YES
- will lose any unsaved progress.
- game.
+ Set sound mode, Line color,
+ erase data, use the sound test,
+ or visit the training. There is
+ also a Pictochat section in
+ options. If you turn it on,
+ your system will search for
+ other systems that have
+ Pictochat activated. If a
+ Pictochat session is found, you
+ will get the option to join the
+ conversation. If you choose
+ YES, the Nintendo DS will turn
+ off, and you will lose any
+ unsaved progress. Choose NO,
+ and you can return to the game.
 
   +-----------------------------
   + Game Basics                 
@@ -235,98 +317,165 @@ below. Not that you absolutely
 should read this before you
 start playing Canvas Curse.
 
- ~Enemies can be stunned by touc
+ ~Enemies can be stunned by
+ touching them with your stylus.
 
- ~You defeat enemies by running 
+ ~You defeat enemies by running
+ into them after having stunned
+ them.
 
- ~You can also defeat enemies th
+ ~You can also defeat enemies
+ that are not stunned by Dashing
+ into them.
 
- ~Star Blocks can be removed by 
+ ~Star Blocks can be removed by
+ touching them.
 
- ~You can interact with several 
+ ~You can interact with several
+ objects, just try touching
+ them!
 
- ~You can draw Rainbow Lines to 
+ ~You can draw Rainbow Lines to
+ either stop, or make mid-air
+ paths for Kirby.
 
- ~Drawing Rainbow Lines will dra
+ ~Drawing Rainbow Lines will
+ draw ink from the Ink Gauge.
 
- ~The Ink Gauge can be found on 
+ ~The Ink Gauge can be found on
+ the upper screen. It refills
+ automatically.
 
- ~When Kirby rolls on a rainbow 
+ ~When Kirby rolls on a rainbow
+ Line, he goes in the direction
+ you drew.
 
- ~Rainbow Lines disappear quickl
+ ~Rainbow Lines disappear
+ quickly. Be fast!
 
- ~To steal abilities from enemie
+ ~To steal abilities from
+ enemies, stun them and roll
+ into them.
 
  ~Touch Kirby to use an ability.
 
- ~To remove an ability, touch th
+ ~To remove an ability, touch
+ the bar in the left corner of
+ the lower screen.
 
  ~Rainbow Lines can also be used
+ to protect Kirby from bullets
+ and enemies.
 
- ~Rainbow Lines can even stop la
+ ~Rainbow Lines can even stop
+ laserbeams and the like!
 
- ~You can float mid-air by touch
+ ~You can float mid-air by
+ touching and holding you
+ character if you need Ink.
 
  ~You can push Kirby under water
+ by drawing Rainbow Lines above
+ him.
 
- ~Collecting 100 starts means 1U
+ ~Collecting 100 starts means
+ 1UP.
 
  ~There are medals hidden in the
+ game, they can be used to
+ unlock stuff.
 
- ~You will keep your Medal even 
+ ~You will keep your Medal even
+ if you quit a stage.
 
- ~There are several unlockable c
+ ~There are several unlockable
+ characters in addition to
+ Kirby.
 
- ~At the end of each Stage in Ma
+ ~At the end of each Stage in
+ Main Game there is a Mini Game
+ named Dash!
   Jump!
 
- ~Game Over means that you have 
+ ~Game Over means that you have
+ to start the Stage all over
+ again.
 
   +-----------------------------
-  + Common Questions            
+  + Common Questions [KiQues] +
   +-----------------------------
 
-  Q: How do I reset everything? 
-  A: At the startup screen sayin
+  Q: How do I reset everything?
+  Delete all saves, unlocked
+  things etc? A: At the startup
+  screen saying "Nintendo",
+  press A + B + X + Y + L + R.
 
-  Q: How many save files are the
-  A: There's three save files in
+  Q: How many save files are
+  there? I need several and my
+  friend want one too! A:
+  There's three save files in
+  the game.
 
-  Q: How do I get the game 100% 
-  A: Finish all Stages with all 
+  Q: How do I get the game 100%
+  completed? A: Finish all
+  Stages with all characters,
+  get all medals and
+  unlockables.
 
-  Q: Does anything special happe
-  A: The "Touch to Start" screen
+  Q: Does anything special
+  happen when I gain 100%? A:
+  The "Touch to Start" screen's
+  background goes blue.
 
-  Q: Does this game have a motio
-  A: No, it does not. The Touch 
+  Q: Does this game have a
+  motion sensor built in like
+  Yoshi Topsy-Turvy had? A: No,
+  it does not. The Touch Screen
+  is what you'll use.
 
-  Q: Is this game just a bad spi
-  A: No, this is one of the best
+  Q: Is this game just a bad
+  spin-off like Yoshi's Touch 'n
+  Go? A: No, this is one of the
+  best games in the Kirby
+  series. Fullworthy game.
 
-  Q: Is this game long?
-  A: Doing everything in the gam
+  Q: Is this game long? A: Doing
+  everything in the game without
+  an FAQ like this takes 10-20
+  Hours.
 
-  Q: Is Kirby to only playable c
-  A: No, there are four others, 
+  Q: Is Kirby to only playable
+  character? A: No, there are
+  four others, check out the
+  Character Profiles section.
 
-  Q: How can I unlock [insert me
-  A: It's all in the FAQ. Check 
+  Q: How can I unlock [insert
+  medal, character, subgame
+  etc.] A: It's all in the FAQ.
+  Check the Table of Contents at
+  the top.
 
-  Q: I've heard about the game c
-  A: Check the Character Profile
+  Q: I've heard about the game
+  connecting with the GBA Kirby
+  games! A: Check the Character
+  Profile of Waddle Doo to find
+  out about this.
 
-  Q: Something is wrong in this 
-  A: Mail me about it. You can a
+  Q: Something is wrong in this
+  FAQ! A: Mail me about it. You
+  can also provide alternate
+  strategies and so on.
 
   Q: Who is Drawcia?
   A: The witch herself.
 
-  Q: How many medals are there i
-  A: 250 Medals.
+  Q: How many medals are there
+  in this game? A: 250 Medals.
 
   +-----------------------------
-  + Controls and Overview       
+  + Controls and Overview
+    [KiCtrl] +
   +-----------------------------
 
 Since the developers focused
@@ -350,7 +499,8 @@ screens display.
    |             | STARS        
    |             | HEALTH       
    |             |+-----------+ 
-   |             ||INK GAUGE  | 
+   | ||INK GAUGE | /Stage Name |
+   |
    |-.           |+-----------+ 
  `-.__      +-------------------
    +````         +--------------
@@ -368,12 +518,15 @@ screens display.
 
 
    Press "ABILITY" to discard of
+   your current ability.
 
 Touch Enemy      -   Stun enemy
-   Touch Ability    -   Get rid 
-   Touch Kirby      -   Dash, us
-   Touch open Area  -   Draw Rai
-   START            -   Pause, r
+   Touch Ability - Get rid of
+   current ability Touch Kirby -
+   Dash, use ability Touch open
+   Area - Draw Rainbow Lines
+   START - Pause, read about
+   ability
 
   +-----------------------------
   + Abilities                   
@@ -395,14 +548,18 @@ your current ability. There are
 Balloon - this one makes Kirby
 able to float in the air. If you
 touch
-  Kirby, he will get bigger. Tou
-  him pop, and stun nearby enemi
-  even if he looses a Health Poi
+  Kirby, he will get bigger.
+  Touching Kirby three times
+  will make him pop, and stun
+  nearby enemies. Kirby won't
+  loose the ability even if he
+  looses a Health Point.
 
 Beam - Shoots several beams in a
 circle around Kirby. Good
 against
-  enemies, and useful to remove 
+  enemies, and useful to remove
+  Beam Blocks.
 
 Burning - Boost forward while
 burning. Useful for removing
@@ -412,18 +569,23 @@ Crash - Touch Kirby to make him
 generate a huge blast. Useful
 for
   taking out all nearby enemies,
-  found behind walls or other ob
+  and activating buttons that
+  are found behind walls or
+  other obstacles.
 
 Freeze - This one makes Kirby
 turn into ice, and then makes
 him glide
-  along the ground for a little 
+  along the ground for a little
+  while Useful for crunching
+  enemies
  and destroying Freeze Blocks.
 
 Missile - Kirby flies through
 the air like a Missile. Can
 break Missile
-  Blocks. Use Rainbow Lines to c
+  Blocks. Use Rainbow Lines to
+  control him.
 
 Needle - Clings you to walls,
 useful for rolling into enemies
@@ -437,20 +599,25 @@ Spark Blocks.
 Tornado - Kirby can now fly
 upwards when you tap him, even
 while being
-  inside No-Paint zones. You wil
-  have to stop.
+  inside No-Paint zones. You
+  will get dizzy after a while,
+  and have to stop.
 
 Stone - Makes it possible to
 fall fast downwards. Great for
 sinking
-  while being underwater. You wo
+  while being underwater. You
+  won't take damage while being
+  a stone.
    Not even spikes hurt you.
 
 Wheel - Similar to Sonic the
 Hedgehog, Kirby rolls at first
 and then
-  goes very fast forward, destro
-  his way. Great for progressing
+  goes very fast forward,
+  destroying and taking down
+  anything in his way. Great for
+  progressing fast.
 
   +-----------------------------
   + Obstacles                   
@@ -478,13 +645,15 @@ out
 
 Bumper - A small thing that will
 shoot you a little bit upwards.
-    Useful to start a good Rainb
+    Useful to start a good
+    Rainbow Line path with.
 
 Buttons - Small buttons that can
 be activated by running into
 them,
-    Or using a Crash Ability bla
-    buttons.
+    Or using a Crash Ability
+    blast. There are also
+    touchable buttons.
 
 Cannon - Not dangerous. Run into
 it to be blasted forward.
@@ -492,7 +661,9 @@ it to be blasted forward.
 Checkpoint - Sticks with a star
 on. When you get to a
 Checkpoint, you
-    will return to the location 
+    will return to the location
+    of it when you die on a
+    stage.
 
 Clouds - Not dangerous. Touch
 them to remove them.
@@ -555,7 +726,8 @@ of a stage.
 Star Blocks - Small blocks with
 a star on them. Can be removed
 by touching
-    them. There are big and smal
+    them. There are big and
+    small ones.
 
 Sticky Pad - A green sticky pad
 that makes Kirby unable to move
@@ -589,21 +761,23 @@ can pick up. Here is a list of
 what the items do:
 
 
-    1UP            -    Gives yo
-    Energy Drink   -    Refills 
-    Maximum Tomato -    Refills 
-    Medal          -    Used to 
-    Stars          -    100 Star
+    1UP - Gives you an extra
+    life. Energy Drink - Refills
+    2 Health Points. Maximum
+    Tomato - Refills all Health
+    Points. Medal - Used to
+    unlock stuff Stars - 100
+    Stars means 1UP
 
 
   ------------------------------
   +                             
-  +              Kirby Walkthrou
+  + Kirby Walkthrough +
   +                             
   ------------------------------
 
   +-----------------------------
-  + Read This First             
+  + Read This First [KiWsta] +
   +-----------------------------
 
 
@@ -640,7 +814,8 @@ document and check out where to
 find what you are looking for.
 
  -------------------------------
-   Reddy Land, Plant Plain 1-1 [
+   Reddy Land, Plant Plain 1-1
+   [KiW001]
  -------------------------------
 
  Area 1
@@ -695,7 +870,8 @@ to the left of the exit. Now you
 can exit the stage as well.
 
  -------------------------------
-   Reddy Land, Tiny Town 1-2 [Ki
+   Reddy Land, Tiny Town 1-2
+   [KiW002]
  -------------------------------
 
  Area 1
@@ -785,7 +961,8 @@ been placed. Get it. Continue
 until you can exit this stage.
 
  -------------------------------
-   Reddy Land, Ravine Road 1-3  
+   Reddy Land, Ravine Road 1-3
+   [KiW003]
  -------------------------------
 
  Area 1
@@ -848,7 +1025,8 @@ side. Now, exit stage at the
 top.
 
  -------------------------------
-   Arange Gorge, Ghost Grounds 2
+   Arange Gorge, Ghost Grounds
+   2-1 [KiW004]
  -------------------------------
 
  Area 1
@@ -956,7 +1134,8 @@ watch out for the spiked ceiling
 close to the exit.
 
  -------------------------------
-   Arange Gorge, Growth Grasses 
+   Arange Gorge, Growth Grasses
+   2-2 [KiW005]
  -------------------------------
 
  Area 1
@@ -1016,7 +1195,8 @@ below a Bomb Block. Now, exit
 level.
 
  -------------------------------
-   Arange Gorge, Mag Mount 2-3  
+   Arange Gorge, Mag Mount 2-3
+   [KiW006]
  -------------------------------
 
  Area 1
@@ -1094,7 +1274,8 @@ of the screen and exit the
 stage.
 
  -------------------------------
-   Iello Adventure, Rift Ruin 3-
+   Iello Adventure, Rift Ruin
+   3-1 [KiW007]
  -------------------------------
 
  Area 1
@@ -1191,7 +1372,8 @@ through the door in the lower
 right corner.
 
  -------------------------------
-   Iello Adventure, Contrast Cav
+   Iello Adventure, Contrast
+   Cave 3-2 [KiW008]
  -------------------------------
 
  Area 1
@@ -1271,7 +1453,8 @@ This requires that you have
 pressed the Green Switch.
 
  -------------------------------
-  Iello Adventure, Silver Submar
+  Iello Adventure, Silver
+  Submarine 3-3 [KiW009]
  -------------------------------
 
  Area 1
@@ -1384,6 +1567,7 @@ the spinning Exit Door.
 
  -------------------------------
    Neo Greo, Machine Mansion 4-1
+   [KiW010]
  -------------------------------
 
  Area 1
@@ -1463,6 +1647,7 @@ can exit the stage.
 
  -------------------------------
    Neo Greo, Dreamy Darkness 4-2
+   [KiW011]
  -------------------------------
 
 
@@ -1550,7 +1735,8 @@ after the another. Touch them
 all, and exit the Stage.
 
  -------------------------------
-   Neo Greo, Paletto Polis 4-3  
+   Neo Greo, Paletto Polis 4-3
+   [KiW012]
  -------------------------------
 
  Area 1
@@ -1707,7 +1893,8 @@ the exit for a medal. Now, you
 can exit stage.
 
  -------------------------------
-   Bloo Hills, Cold Course 5-1  
+   Bloo Hills, Cold Course 5-1
+   [KiW013]
  -------------------------------
 
  Area 1
@@ -1838,7 +2025,8 @@ watch out for ice spikes coming
 from above.
 
  -------------------------------
-   Bloo Hills, Dungeon Dome 5-2 
+   Bloo Hills, Dungeon Dome 5-2
+   [KiW014]
  -------------------------------
 
  Area 1
@@ -1975,6 +2163,7 @@ at the top is pretty close.
 
  -------------------------------
    Bloo Hills, Canvas Canyon 5-3
+   [KiW015]
  -------------------------------
 
 
@@ -2057,7 +2246,8 @@ platforms and Spiked Winders. At
 the top, you can exit the Stage.
 
  -------------------------------
-  Omarine Zone, Collapse Castle 
+  Omarine Zone, Collapse Castle
+  6-1 [KiW016]
  -------------------------------
 
 
@@ -2159,6 +2349,7 @@ Stage Exit.
 
  -------------------------------
   Omarine Zone, Volatile Volcano
+  6-2 [KiW017]
  -------------------------------
 
  Area 1
@@ -2274,7 +2465,8 @@ far right, the Stage Exit is
 waiting.
 
  -------------------------------
-  Omarine Zone, Silent Seabed 6-
+  Omarine Zone, Silent Seabed
+  6-3 [KiW018]
  -------------------------------
 
  Area 1
@@ -2355,7 +2547,8 @@ Medal fall down to you.
 
 
  -------------------------------
-  Wonder Lilane, Frozen Fantasy 
+  Wonder Lilane, Frozen Fantasy
+  7-1 [KiW019]
  -------------------------------
 
  Area 1
@@ -2510,7 +2703,8 @@ the left, and make your way to
 the Stage Exit.
 
  -------------------------------
-  Wonder Lilane, Mad Mechanism 7
+  Wonder Lilane, Mad Mechanism
+  7-2 [KiW020]
  -------------------------------
 
  Area 1
@@ -2599,6 +2793,7 @@ room.
 
  -------------------------------
   Wonder Lilane, Spectacle Space
+  7-3 [KiW021]
  -------------------------------
 
  Area 1
@@ -2660,7 +2855,8 @@ right until you have made your
 way to the end.
 
  -------------------------------
-   The World of Drawcia 8-1     
+   The World of Drawcia 8-1
+   [KiW022]
  -------------------------------
 
  Area 1
@@ -2805,7 +3001,8 @@ while, just don't die before
 her!
 
   +-----------------------------
-  + Boss Battles and Mini Games 
+  + Boss Battles and Mini Games
+    [KiWbos]+
   +-----------------------------
 
 Unlike most other platformers,
@@ -2978,7 +3175,8 @@ the other Subgames, it is
 possible to get an AAA rating.
 
   +-----------------------------
-  + Character Profiles          
+  + Character Profiles [KiChar]
+    +
   +-----------------------------
 
 Kirby is not the only character
@@ -2989,54 +3187,96 @@ information:
 
  Kirby
  -------
- Kirby is the hero of the game. 
- Ghost, but in Canvas Curse, he 
- Kirby is looking like a ball. H
- stages with help from Rainbow L
- character that can steal abilit
- stunned enemies. Kirby can also
- when he hasn't got any other ab
- at the start of the game, but y
+ Kirby is the hero of the game.
+ His normal form is a tiny pink
+ Ghost, but in Canvas Curse, he
+ has been cursed by a witch.
+ Now, Kirby is looking like a
+ ball. He rolls through the
+ various stages with help from
+ Rainbow Lines. Kirby is the
+ only playable character that
+ can steal abilities. He does
+ this by running into stunned
+ enemies. Kirby can also dash
+ forward if you touch him when
+ he hasn't got any other ability
+ Kirby has 4 Health Points at
+ the start of the game, but you
+ can unlock more of them in the
  Medal Swap section.
 
  Waddle Dee
  ----------
- Waddle Dee is also a ball like 
- Drawcia Soul in the Main Game u
- bouncy and lighter than Kirby, 
- so he doesn't compete with Kirb
- Waddle Dee has four Health Poin
+ Waddle Dee is also a ball like
+ Kirby. He is unlocked by
+ beating Drawcia Soul in the
+ Main Game using Kirby. Waddle
+ Dee is more bouncy and lighter
+ than Kirby, and is able to
+ dash. He is a slow one, so he
+ doesn't compete with Kirby when
+ it comes to fast movement.
+ Waddle Dee has four Health
+ Points.
 
  King DeDeDe
  -----------
- Once you've beat Drawcia using 
- in the Medal Swap section of th
- evil creature, but this time ar
- Maybe he's planning something f
- knows? Anyways, the King sinks 
- touch him, he will use his hamm
- certain blocks, Wodden Pieces a
- King DeDeDe has seven Health Po
- You need to have unlocked Waddl
+ Once you've beat Drawcia using
+ Waddle Dee, you can unlock King
+ DeDeDe in the Medal Swap
+ section of the game. King
+ DeDeDe was originally an evil
+ creature, but this time around,
+ he has teamed up with Kirby.
+ Maybe he's planning something
+ for the next game in the
+ series? Who knows? Anyways, the
+ King sinks when he gets into
+ water. If you touch him, he
+ will use his hammer, which is
+ useful for breaking certain
+ blocks, Wodden Pieces and
+ taking down enemies. King
+ DeDeDe has seven Health Points,
+ and costs 20 Medals to unlock.
+ You need to have unlocked
+ Waddle Dee to unlock the King.
 
  Meta Knight
  -----------
- This character is a little ener
- but has only three Health Point
- to take down enemis. You can he
- rolls into an enemy. He can be 
- once you've unlocked King DeDeD
- like Kirby. You need to have Ki
- Meta Knight.
+ This character is a little
+ energy bomb. He is very bouncy,
+ very fast, but has only three
+ Health Points. Meta Knight uses
+ an insisible sword to take down
+ enemis. You can hear a sound of
+ him using it when he rolls into
+ an enemy. He can be unlocked in
+ Medal Swap for 25 Medals, once
+ you've unlocked King DeDeDe.
+ Meta Knight floats in water,
+ just like Kirby. You need to
+ have King DeDeDe unlocked in
+ order to unlock Meta Knight.
 
  Waddle Doo
  ----------
- Waddle Doo is unlocked after yo
- playable characters. He has a B
- Health Points. Floats in water,
- to unlock Waddle Doo, is to bea
- "Nightmare in Dreamland" or "Ki
- your GBA slot. Next time you lo
+ Waddle Doo is unlocked after
+ you've beat Drawcia using all
+ of the other playable
+ characters. He has a Beam
+ Ability by default, and has
+ five Health Points. Floats in
+ water, and is not very fast. An
+ alternate way to unlock Waddle
+ Doo, is to beat Drawcia while
+ the GBA cartridges "Nightmare
+ in Dreamland" or "Kirby and the
+ Amazing Mirror" is inserted in
+ your GBA slot. Next time you
+ load a file, Waddle Doo will be
+ unlocked.
 
   +-----------------------------
   + Medal Swap                  
@@ -3053,39 +3293,72 @@ of them. In all, there are 250
 Medals.
 
 
- SONG 1 - 3 Medals - Unlocks Son
- SONG 2 - 3 Medals - Unlocks Son
- SONG 3 - 3 Medals - Unlocks Son
+ SONG 1 - 3 Medals - Unlocks
+ Songs 45-57 in Sound Test Mode
+ SONG 2 - 3 Medals - Unlocks
+ Songs 58-67 in Sound Test Mode
+ SONG 3 - 3 Medals - Unlocks
+ Songs 68-77 in Sound Test Mode
 
- ZEBRA LINE  - 6 Medals - Unlock
- BEAD LINE   - 6 Medals - Unlock
- TROPIC LINE - 6 Medals - Unlock
+ ZEBRA LINE - 6 Medals - Unlocks
+ the Zebra Rainbow Line in
+ Settings. BEAD LINE - 6 Medals
+ - Unlocks the Bead Rainbow Line
+ in Settings. TROPIC LINE - 6
+ Medals - Unlocks the Tropic
+ Rainbow Line in Settings.
 
- LIFE BOOST  - 7 Medals - Unlock
+ LIFE BOOST - 7 Medals - Unlocks
+ one more Health Point for
+ Kirby.
 
- STONE A     - 9 Medals - Unlock
- WHEEL A     - 9 Medals - Unlock
- MISSILE A   - 9 Medals - Unlock
- BALLOON A   - 9 Medals - Unlock
+ STONE A - 9 Medals - Unlocks
+ the Stone A Course in Rainbow
+ Run. WHEEL A - 9 Medals -
+ Unlocks the Wheel A Course in
+ Rainbow Run. MISSILE A - 9
+ Medals - Unlocks the Missile A
+ Course in Rainbow Run. BALLOON
+ A - 9 Medals - Unlocks the
+ Balloon A Course in Rainbow
+ Run.
 
- STONE B     - 10 Medals - Unloc
- WHEEL B     - 10 Medals - Unloc
- MISSILE B   - 10 Medals - Unloc
- BALLOON B   - 10 Medals - Unloc
+ STONE B - 10 Medals - Unlocks
+ the Stone B Course in Rainbow
+ Run. WHEEL B - 10 Medals -
+ Unlocks the Wheel B Course in
+ Rainbow Run. MISSILE B - 10
+ Medals - Unlocks the Missile B
+ Course in Rainbow Run. BALLOON
+ B - 10 Medals - Unlocks the
+ Balloon B Course in Rainbow
+ Run.
 
- LIFE BOOST - 12 Medals - Unlock
+ LIFE BOOST - 12 Medals -
+ Unlocks another Health Point
+ for Kirby.
 
- LIFE BOOST - 14 Medals - Unlock
+ LIFE BOOST - 14 Medals -
+ Unlocks yet another Health
+ Point for Kirby.
 
- DEDEDE BALL - 20 Medals - Unloc
+ DEDEDE BALL - 20 Medals -
+ Unlocks King DeDeDe as a
+ playable character.
 
- META KNIGHT BALL - 25 Medals - 
+ META KNIGHT BALL - 25 Medals -
+ Unlocks Meta Knight as a
+ playable character.
 
- -- When all of this has been un
-    classic Kirby music by spend
+ -- When all of this has been
+    unlocked, you will get to
+    unlock a set of
+    classic Kirby music by
+    spending another 50 medals.
 
   +-----------------------------
-  + Main Game Medal Locations   
+  + Main Game Medal Locations
+    [KiMeda] +
   +-----------------------------
 
 There are 65 Medals that you can
@@ -3105,440 +3378,739 @@ Stage.
 
  Medal 1 Plant Plain
  --------------------
- Can be found in the middle of R
+ Can be found in the middle of
+ Reddy Land, Stage 1, Area 1.
 
  Medal 2 Plant Plain
  --------------------
  In Reddy Land, Stage 1, Area 2,
- Bomb Blocks. You can find the l
- the start, and then up on the f
+ there is a medal located
+ between two Bomb Blocks. You
+ can find the location by going
+ straight forward from the
+ start, and then up on the first
+ brown hill you see.
 
  Medal 3 Plant Plain
  --------------------
  In Reddy Land, Stage 1, Area 3,
- It is located above, and to the
+ there is a medal at the end of
+ the area. It is located above,
+ and to the left of the stage
+ exit.
 
  Medal 1 Tiny Town
  ------------------
  In Reddy Land, Stage 2, Area 1,
- gap in the last room of Area 1.
+ there is a medal in the second-
+ from-left gap in the last room
+ of Area 1.
 
  Medal 2 Tiny Town
  -----------------
- In Reddy Land, Stage 2, At the 
- after you have defeated the fou
- going left when the cannon has 
- Medal behind a orange wall. You
- Switch locations in this FAQ.
+ In Reddy Land, Stage 2, At the
+ end of Area 2, a big cannon
+ will appear after you have
+ defeated the four enemies in
+ the last room. Instead of going
+ left when the cannon has shot
+ you upwards, go right. There is
+ a Medal behind a orange wall.
+ You need to press the orange
+ switch, so check Switch
+ locations in this FAQ.
 
  Medal 3 Tiny Town
  -----------------
  In Reddy Land, Stage 2, Area 3,
- and some spikes. Close to the s
+ there is a green room with a
+ checkpoint and some spikes.
+ Close to the spikes, this medal
+ is located.
 
  Medal 1 Ravine Road
  -------------------
  In Reddy Land, Stage 3, Area 1.
- Speedpad, draw Rainbow Lines to
- is a small cave with a Medal he
+ When you get to the room after
+ the first Speedpad, draw
+ Rainbow Lines to get to the top
+ left edge of the room. There is
+ a small cave with a Medal here.
 
  Medal 2 Ravine Road
  -------------------
  In Reddy Land, Stage 3, Area 2,
- to the upper left side of the r
- ability to blast through the bl
+ you can gain the Missile
+ Ability by going to the upper
+ left side of the room and
+ stunning a missile. Now use
+ your ability to blast through
+ the blocks in the upper right
+ part of the room.
 
  Medal 3 Ravine Road
  -------------------
  In Reddy Land, Stage 3, Area 3,
- on at the start. At the bottom 
- Wheel Ability, go all the way r
- Lines and collect the Medal abo
- to "escape" to the right.
+ there's several platforms with
+ Bomb Blocks on at the start. At
+ the bottom there is a Wheel
+ Type enemy. Steal the Wheel
+ Ability, go all the way right,
+ and take the lower path. Draw
+ Rainbow Lines and collect the
+ Medal above you. Drop down and
+ use the Wheel Ability to
+ "escape" to the right.
 
  Medal 1 Ghost Grounds
  ---------------------
- In Arange Gorge, Stage 1, Area 
- Flame Ability, and then going a
- exit door. Above, there is a me
+ In Arange Gorge, Stage 1, Area
+ 1, you can get the medal by
+ first stealing a Flame Ability,
+ and then going all the way to
+ the right until you see the
+ exit door. Above, there is a
+ medal behind some Flame Blocks.
 
  Medal 2 Ghost Grounds
  ---------------------
- In Arange Gorge, Stage 1, Area 
- area. Just make sure you've got
- Blocks at the upper right edge 
+ In Arange Gorge, Stage 1, Area
+ 2, you can find the medal at
+ the end of the area. Just make
+ sure you've got the Spark
+ Ability. Use it to clear out
+ some Blocks at the upper right
+ edge of the screen. Not far
+ from the exit door.
 
  Medal 3 Ghost Grounds
  ----------------------
- Just after the Checkpoint in Ar
- have to press the Orange Switch
- Medal.
+ Just after the Checkpoint in
+ Area 3, there is a Orange
+ Floor. You will have to press
+ the Orange Switch to remove the
+ floor. Below, there is a Medal.
 
  Medal 1 Growth Grasses
  ----------------------
- In Arange Gorge, Stage 2, Area 
- located in the middle of the ar
+ In Arange Gorge, Stage 2, Area
+ 1, there is a Hidden door. In
+ area 1, it's located in the
+ middle of the area, below the
+ Checkpoint. A medal lurks
  inside.
 
  Medal 2 Growth Grasses
  ----------------------
- In Arange Gorge, Stage 2, Area 
- are some Stone Blocks with a Bo
+ In Arange Gorge, Stage 2, Area
+ 2, drop down and keep to the
+ right. There are some Stone
+ Blocks with a Bomb Block at the
+ bottom. Inside, there is a
  medal.
 
  Medal 3 Growth Grasses
  ----------------------
- In Arange Gorge, Stage 2, Area 
- steal at the end. Use it to fly
+ In Arange Gorge, Stage 2, Area
+ 3, there is a Tornado ability
+ that you can steal at the end.
+ Use it to fly inside the No-
+ Paint zone, and collect a
  Medal.
 
  Medal 1 Mag Mount
  -----------------
- In Arange Gorge, Stage 3, Area 
- first Checkpoint. It is "sittin
- to make the Medal fly up to you
- platform the Medal is lying bel
+ In Arange Gorge, Stage 3, Area
+ 1, you will see a medal quite
+ near the first Checkpoint. It
+ is "sitting" on a Bomb Block,
+ so touch this block to make the
+ Medal fly up to you. Don't
+ stand on the middle of the
+ platform the Medal is lying
+ below.
 
  Medal 2 Mag Mount
  -----------------
- In Arange Gorge, Stage 3, Area 
- right part of the room. Continu
- Touch it, and draw Rainbow Line
- floor isn't there anymore.
+ In Arange Gorge, Stage 3, Area
+ 2, you will get to see a medal
+ at the upper right part of the
+ room. Continue left until you
+ see a small Bomb Block. Touch
+ it, and draw Rainbow Lines to
+ go back right to get the Medal,
+ as the floor isn't there
+ anymore.
 
  Medal 3 Mag Mount
  -----------------
- In Arange Gorge, Stage 3, Area 
- all the way to the upper right.
+ In Arange Gorge, Stage 3, Area
+ 3, there is a medal in the
+ final room, all the way to the
+ upper right. Use Rainbow Lines
+ to get there.
 
  Medal 1 Rift Ruin
  -----------------
- In Iello adventure, Stage 1, Ar
- part in the first real huge roo
- with water.
+ In Iello adventure, Stage 1,
+ Area 1, there is a Medal at the
+ upper left part in the first
+ real huge room. You get to this
+ room after the section with
+ water.
 
  Medal 2 Rift Ruin
  -----------------
- In Iello Adventure, Stage 1, Ar
- room. Use the cannon at the lef
- to blow up the Bomb Blocks here
+ In Iello Adventure, Stage 1,
+ Area 2, there is a Medal at the
+ top of the room. Use the cannon
+ at the left side of the room to
+ get high enough to blow up the
+ Bomb Blocks here, and make the
+ Medal fall down.
 
  Medal 3 Rift Ruin
  -----------------
- In Iello Adventure, Stage 1, Ar
- in the middle of the room. Stea
+ In Iello Adventure, Stage 1,
+ Area 3, there is a Medal behind
+ some stones in the middle of
+ the room. Steal the Beam
+ Ability from one of the enemies
  to destroy the stones.
 
  Medal 1 Contrast Cave
  ---------------------
- In Iello Adventure, Stage 2, Ar
- Just go down and then right.
+ In Iello Adventure, Stage 2,
+ Area 1, the Medal is located at
+ the start. Just go down and
+ then right.
 
  Medal 2 Contrast Cave
  ----------------------
- In Iello Adventure, Stage 2, Ar
- drop down, and then you will se
- an enemy and then go to the far
- piece and remove the stones. No
- opened, and then make your way 
- Ability from the patrolling ene
- bottom of the water you are in.
- to get now.
+ In Iello Adventure, Stage 2,
+ Area 2, you will first have to
+ go right, drop down, and then
+ you will see a Checkpoint.
+ Steal a Stone Ability from an
+ enemy and then go to the far
+ left of the room. Drop down on
+ the wooden piece and remove the
+ stones. Now go further left
+ through the path you opened,
+ and then make your way to the
+ surface. Here, steal the Crash
+ Ability from the patrolling
+ enemy, and use is at the button
+ on the bottom of the water you
+ are in. There is a medal here
+ that will be easy to get now.
 
  Medal 3 Contrast Cave
  ---------------------
- In Iello Adventure, Stage 2, Ar
- Touch the Blocks to get them ou
- and then up. If you have activa
- Hidden Door here.
+ In Iello Adventure, Stage 2,
+ Area 3, make your way to the
+ bottom floor. Touch the Blocks
+ to get them out of your way.
+ Now, go all the way right, and
+ then up. If you have activated
+ the Green Switch, there will be
+ a Hidden Door here.
 
  Medal 1 Silver Submarine
  ------------------------
- In Iello Adventure, Stage 3, Ar
- Blocks and a Wooden Piece actin
- from the nearby enemy on the pl
- You will get to collect the Med
- Blocks.
+ In Iello Adventure, Stage 3,
+ Area 1, you will get to an area
+ with Stone Blocks and a Wooden
+ Piece acting as the floor.
+ Steal a Stone Ability from the
+ nearby enemy on the platform,
+ and use it on the Wooden Piece.
+ You will get to collect the
+ Medal here now, as it was below
+ all the Stone Blocks.
 
  Medal 2 Silver Submarine
  ------------------------
- In Iello Adventure, Stage 3, Ar
- after the first Checkpoint. Go 
- inside a room.
+ In Iello Adventure, Stage 3,
+ Area 2, there is a water with
+ some current in after the first
+ Checkpoint. Go left towards the
+ current to find a Medal inside
+ a room.
 
  Medal 3 Silver Submarine
  ------------------------
- In Iello Adventure, Stage 3, Ar
- to touch three buttons to open 
- are in. Inside the room there i
- right from this room, you can g
+ In Iello Adventure, Stage 3,
+ Area 3, there is a room where
+ you will have to touch three
+ buttons to open a small cave to
+ the right of the room you are
+ in. Inside the room there is
+ another button. If you continue
+ rolling right from this room,
+ you can get behind the wall,
+ and collect a Medal.
 
 
  Medal 1 Machine Mansion
  -----------------------
  In Neo Greo, Stage 1, Area 1,
- At the start, there are some Bo
- Touch them all to make a Medal 
+ At the start, there are some
+ Bomb Blocks above the yellow
+ Mega Bumpers. Touch them all to
+ make a Medal fall down at the
+ other side.
 
  Medal 2 Machine Mansion
  -----------------------
- In Neo Greo, Stage 1, Area 2, t
- exit door. Touch the Bomb Block
- way to the right. You will arri
+ In Neo Greo, Stage 1, Area 2,
+ there is a cannon to the right
+ of the exit door. Touch the
+ Bomb Block that is keeping it
+ up, and blast your way to the
+ right. You will arrive in a
+ room with lots of enemies. Just
  outside the room, you can steal
- break the blocks on the floor i
- a medal.
+ a Missile Ability, and then use
+ it to break the blocks on the
+ floor in the room you arrived
+ at. Here, there is a medal.
 
  Medal 3 Machine Mansion
  -----------------------
- In Neo Greo, Stage 1, Area 3, k
- will eventually get to a Medal.
+ In Neo Greo, Stage 1, Area 3,
+ keep to the right at all times,
+ and you will eventually get to
+ a Medal.
 
  Medal 1 Dreamy Darkness
  -----------------------
  In Neo Greo, Stage 2, Area 1.
- Below and to the right of the f
- Ignore them and continue past t
+ Below and to the right of the
+ first Checkpoint, there are
+ some Blocks. Ignore them and
+ continue past two other
+ checkpoints. Steal the Needle
  Ability from an enemy, and head
- the first Checkpoint. Destroy t
+ back to the blocks that were
+ close to the first Checkpoint.
+ Destroy the blocks and get a
+ Medal.
 
  Medal 2 Dreamy Darkness
  -----------------------
  In Neo Greo, Stage 2, Area 2.
- You will need the Needle Abilit
- on the right. Get to the upper 
+ You will need the Needle
+ Ability from Area 1. use it to
+ get into the room on the right.
+ Get to the upper left part of
+ this room, and collect a Medal.
 
  Medal 3 Dreamy Darkness
  ------------------------
- In Neo Greo, Stage 2, Area 4, g
- Go back, and touch the Bomb Blo
+ In Neo Greo, Stage 2, Area 4,
+ go to the left, and light up
+ the area. Go back, and touch
+ the Bomb Block to make a Medal
+ appear.
 
  Medal 1 Paletto Polis
  ---------------------
  In Neo Greo, Stage 3, Area 1.
- At the start, below the Sticky 
- To get it, you must have presse
+ At the start, below the Sticky
+ Pad, there is a medal behind a
+ Green wall. To get it, you must
+ have pressed the Green Switch.
 
  Medal 2 Paletto Polis
  ---------------------
- In Neo Greo, Stage 3, Area 2, w
- keep going left from where you 
+ In Neo Greo, Stage 3, Area 2,
+ when you have removed the
+ yellow port, keep going left
+ from where you did this, and up
+ a pipe. Activate the button
  found between all the spikes to
+ make a medal fall down. Now go
+ and get it.
 
  Medal 3 Paletto Polis
  -----------------------
- In Neo Greo, Stage 3, Area 3, t
- end of area 3. Draw a Rainbow L
+ In Neo Greo, Stage 3, Area 3,
+ there is a medal behind the
+ stage exit at the end of area
+ 3. Draw a Rainbow Line to get
+ over the exit.
 
  Medal 1 Cold Course
  -----------------------
  In Bloo Hills Stage 1, Area 1.
  At the start of the Stage, some
- of the path, you will drop down
- wall covering the door is fake,
+ snowballs will roll behind you.
+ At the end of the path, you
+ will drop down. To the right,
+ there is a door, but the wall
+ covering the door is fake, so
+ just roll through it and enter
+ the door.
 
  Medal 2 Cold Course
  -------------------
  In Bloo Hills, Stage 1, Area 2.
- steal the Freeze ability from t
- ability to take out some Blocks
- some blocks and a cannon, there
+ From the start, go right, then
+ up and steal the Freeze ability
+ from the enemy. Then go left
+ and use the ability to take out
+ some Blocks. Now go further
+ left. At the top, behind some
+ blocks and a cannon, there is a
+ Medal.
 
  Medal 3 cold Course
  -------------------
  In Bloo Hills, Stage 1, Area 3,
- go to the left from here, there
- and touch the Bomb Block that i
- left, and press the button here
- opened, and watch a huge ball c
- preventing you from entering th
+ you will get to a Checkpoint.
+ When you go to the left from
+ here, there's free fall
+ downwards. Keep to the right,
+ and touch the Bomb Block that
+ is mounted in the wall. Now, go
+ to the left, and press the
+ button here. Go right again,
+ towards the passage that
+ opened, and watch a huge ball
+ crunch some Black Blocks that
+ were preventing you from
+ entering the door with Medal 3
+ in.
 
  Medal 1 Dungeon Dome
  --------------------
  In Bloo Hills, Stage 2, Area 1,
- some spikes. Ignore it and cont
+ you will see a medal after
+ you've passed some spikes.
+ Ignore it and continue to the
+ surface until you meet an enemy
  with the Beam Ability Steal it,
- the ability to break the Blocks
+ and go back to the Medal. You
+ can now use the ability to
+ break the Blocks here.
 
  Medal 2 Dungeon Dome
  ---------------------
  In Bloo Hills, Stage 2, Area 2,
- Ability from the first enemy yo
- the ability to blast to the lef
- button. Now carefully draw flat
- to the far left. You don't have
- ceiling, so be careful. Once yo
- out for the enemy here, and pre
- right using the Wheel Ability A
- into the spikes or the wall. we
- right, and you will drop into a
- getting into the cannon, and sh
- you use the cannon too fast, yo
- this a lot easier, just use Kin
+ when playing as Kirby, steal
+ the Wheel Ability from the
+ first enemy you meet. Now, go
+ to the far right, and use the
+ ability to blast to the left,
+ destroying some blocks and
+ pressing a button. Now
+ carefully draw flat Rainbow
+ Lines to quickly transport
+ Kirby to the far left. You
+ don't have time to crash into
+ the wall or the ceiling, so be
+ careful. Once you've made it to
+ the far left side, watch out
+ for the enemy here, and press
+ another button. Now blast to
+ the far right using the Wheel
+ Ability As before, you don't
+ have time to crash into the
+ spikes or the wall. well,
+ repeat this when you get to the
+ far right, and you will drop
+ into a cannon. Wait a half
+ second or so after getting into
+ the cannon, and shoot Kirby to
+ the far right for a Medal. If
+ you use the cannon too fast,
+ you will shoot into the
+ ceiling. - To make this a lot
+ easier, just use King DeDeDe
+ and smash the wall close to the
  medal. You won't have to bother
+ with all the lines and the
+ cannon.
 
  Medal 3 Dungeon Dome
  --------------------
  In Bloo Hills, Stage 2, Area 3,
- then right. When you meet the s
- left, behind a fake wall, there
+ after the first Checkpoint, go
+ upwards and then right. When
+ you meet the spikes, touch the
+ floor to break it. At the left,
+ behind a fake wall, there is a
+ Medal down here.
 
  Medal 1 Canvas Canyon
  ---------------------
  In Bloo Hills, Stage 3, Area 1,
- the right, and then up, you wil
- medal inside, behind the fake c
+ you will get to the Checkpoint.
+ A little to the right, and then
+ up, you will see a small room
+ on your map. There is a medal
+ inside, behind the fake
+ ceiling.
 
  Medal 2 Canvas Canyon
  ----------------------
  In Bloo Hills, Stage 3, Area 2,
- yellow jumping enemies. They ar
- laserbeam enemy in the area, an
+ you can get to a medal by
+ rolling under the yellow
+ jumping enemies. They are
+ located at the ground above the
+ first laserbeam enemy in the
+ area, and then slightly left.
 
  Medal 3 Canvas Canyon
  ---------------------
  In Bloo Hills, Stage 3, Area 3,
- that is located close to a Maxi
- time the shootout so that you h
- is mid air. You will need to ha
- through to where the medal is l
+ there is a cannon after the
+ Checkpoint that is located
+ close to a Maximum Tomato. Drop
+ down in the cannon, and time
+ the shootout so that you hit
+ the first Black Blocks while
+ the canyon is mid air. You will
+ need to have activated the Blue
+ Switch to get through to where
+ the medal is located.
 
  Medal 1 Collapse Castle
  -----------------------
- In Omarine Zone, Stage 1, Area 
- to the right of the first Check
+ In Omarine Zone, Stage 1, Area
+ 1, there is a Medal a the
+ bottom of the room to the right
+ of the first Checkpoint. The
+ Medal is located to the right
  in the room.
 
  Medal 2 Collapse Castle
  -----------------------
- In Omarine Zone, Stage 1, Area 
- area exit. There is a blue wall
- activate the Blue Switch to get
+ In Omarine Zone, Stage 1, Area
+ 2, there is a Medal at the end,
+ behind the area exit. There is
+ a blue wall blocking the path,
+ so you will have to activate
+ the Blue Switch to get the
+ Medal.
 
  Medal 3 Collapse Castle
  -----------------------
- In Omarine Zone, Stage 1, Area 
- that is placed on a Bomb Block.
- so that you can get to the meda
- is mid air.
+ In Omarine Zone, Stage 1, Area
+ 3, there is a cannon you will
+ get to, that is placed on a
+ Bomb Block. Touch the block,
+ and time the shootout, so that
+ you can get to the medal behind
+ the Black Blocks while the
+ cannon is mid air.
 
   Volatile Volcano Medal 1
   ------------------------
- In Omarine Zone, Stage 2, Area 
- first Checkpoint. Dash over a b
+ In Omarine Zone, Stage 2, Area
+ 1, there is a Medal to the
+ right of the first Checkpoint.
+ Dash over a button, and
+ continue dashing until you get
  to the Medal. Go back using the
- the No Paint Zone, you will arr
+ cannon to the right. At the far
+ left of the No Paint Zone, you
+ will arrive, so draw a Line
+ here to avoid dying.
 
   Volatile Volcano Medal 2
   ------------------------
- In Omarine Zone, Stage 2, Area 
- to the exit. Get up there using
- Ability from the enemy. Exit th
- Here, break the blocks using th
- medal that is located at the bo
+ In Omarine Zone, Stage 2, Area
+ 1 there is a divided No Paint
+ Zone close to the exit. Get up
+ there using Rainbow Lines and
+ steal the Freeze Ability from
+ the enemy. Exit the area, get
+ to area 2, and go far right.
+ Here, break the blocks using
+ the Freeze Ability. Now, you
+ can get the medal that is
+ located at the bottom right
+ part of this room.
 
   Volatile Volcano Medal 3
   ------------------------
- In Omarine Zone, Stage 2, Area 
- Checkpoint. Ignore it and conti
- you've hit the button you will 
- been opened. Watch out for risi
- the medal, as the lava can't re
+ In Omarine Zone, Stage 2, Area
+ 3, there is a port after the
+ first Checkpoint. Ignore it and
+ continue right using the upper
+ path. Once you've hit the
+ button you will meet, go back,
+ and enter the port that has
+ been opened. Watch out for
+ rising lava, and rest in the
+ small hole above the medal, as
+ the lava can't reach there.
 
  Silent Seabed Medal 1
  ---------------------
- In Omarine Zone, Stage 3, Area 
- start, and then go down a pipe.
- ceiling that you can move by to
- appears.
+ In Omarine Zone, Stage 3, Area
+ 1, you should drop all the way
+ down from the start, and then
+ go down a pipe. To the right,
+ there is a Block in the ceiling
+ that you can move by touching.
+ Do that, and enter the door
+ that appears.
 
  Silent Seabed Medal 2
  ---------------------
- In Omarine Zone, Stage 3, Area 
- get to the far top left, you wi
+ In Omarine Zone, Stage 3, Area
+ 2, you will first go to the
+ left. When you get to the far
+ top left, you will get to two
+ paths, one going up to a No
  Paint Zone, and one going down.
- then take the upper path. Draw 
- Kirby to the far right for a Me
+ Go down first, press the button
+ here, and then take the upper
+ path. Draw Lines below the No
+ Paint Zone to safely take Kirby
+ to the far right for a Medal.
+ Watch out for enemies.
 
  Medal 1 Frozen Fantasy
  ----------------------
  In Wonder Lilane, Stage 1, Area
- ceiling and on the floor. A spe
- side. Skip the button, and inst
- small gap. You will now be able
+ 1, you will get to lots of
+ spikes in the ceiling and on
+ the floor. A speedpad and a
+ button are waiting at the other
+ side. Skip the button, and
+ instead press the one further
+ right, down in a small gap. You
+ will now be able to reach the
+ Medal.
 
  Medal 2 Frozen Fantasy
  ----------------------
  In Wonder Lilane, Stage 1, Area
- the area. They are located insi
- draw a springboard using Rainbo
- Pad. Dash onto the Line to get 
+ 2, there are two Sticky Pads at
+ the start of the area. They are
+ located inside a No Paint Zone.
+ Outside of the Zone, draw a
+ springboard using Rainbow
+ Lines, so that Kirby can get
+ onto the upper Pad. Dash onto
+ the Line to get there. This can
+ be hard, but you'll make it
  after some tried.
 
  Medal 3 Frozen Fantasy
  ----------------------
  In Wonder Lilane, Stage 1, Area
- Stage Exit is. Press both butto
- upwards. Continue right until y
- Winders. Here, press a button t
- Break the ceiling by touching i
- Drop down at the far right to g
+ 3, you should get to the room
+ where the Stage Exit is. Press
+ both buttons, but instead of
+ exiting, go further upwards.
+ Continue right until you get to
+ the room with the Spiked
+ Winders. Here, press a button
+ to the right in the room, and
+ go upwards. Break the ceiling
+ by touching it, and head right
+ through the fake wall. Drop
+ down at the far right to get to
+ the Medal.
 
  Medal 1 Mad Mechanism
  ---------------------
  In wonder Lilane, Stage 2, Area
- will be some spikes to the righ
- above some Blocks. Don't go too
- see a small Bomb Block at the l
- the Medal drop down to you.
+ 1. Get to the first Checkpoint.
+ There will be some spikes to
+ the right, and you will see a
+ Medal above you above some
+ Blocks. Don't go too far right
+ here, but wait until you can
+ see a small Bomb Block at the
+ lower part of the place. Press
+ it, and make the Medal drop
+ down to you.
 
  Medal 2 Mad Mechanism
  ---------------------
  In Wonder Lilane, Stage 2, Area
- start of the area. Dash right, 
- and down. Dash at a good speed,
- Draw a Rainbow Line up and to t
+ 2, there is a No Paint Zone
+ close to the start of the area.
+ Dash right, but don't hit the
+ three enemies flying up and
+ down. Dash at a good speed, and
+ you will get to a tiny Paint
+ Zone. Draw a Rainbow Line up
+ and to the right to make Kirby
+ fly into a Medal.
 
  Medal 3 Mad Mechanism
  --------------------
  In Wonder Lilane, Stage 2, Area
- not moving. To the left of it, 
- Touch it to open a path with a 
+ 3, you will get to a Sticky
+ Platform that is not moving. To
+ the left of it, there is a Bomb
+ Block mounted into the wall.
+ Touch it to open a path with a
+ Medal inside.
 
  Medal 1 Spectacle Space
  -----------------------
  In Wonder Lilane, Stage 3, Area
- get
- to a Energy Drink. To the left 
- you can break by touching it. D
- opened. Drop down at the far le
+ 1, go right from the start. You
+ will soon get to a Energy
+ Drink. To the left and a little
+ up, there is a white wall that
+ you can break by touching it.
+ Do so, and continue through the
+ path that is opened. Drop down
+ at the far left, and go all the
+ way right for a Medal.
 
  Medal 2 Spectacle Space
  -----------------------
  In wonder Lilane, Stage 3, Area
- the room. Watch out for the dan
+ 2, there is a Medal at the
+ bottom right of the room. Watch
+ out for the dangerous floor.
 
  Medal 3 Spectacle Space
  -----------------------
  In Wonder Lilane, Stage 3, Area
- will get to a Checkpoint, and t
- with spikes in the ceiling and 
+ 3, the wall is chasing you from
+ behind. You will get to a
+ Checkpoint, and then you will
+ need to go through several gaps
+ with spikes in the ceiling and
+ on the floor. After this, you
+ will see a
 fork.
- Take either one, upper or lower
- will appear above/below you. Th
+ Take either one, upper or
+ lower, and be quick to touch
+ the Bomb Block that will appear
+ above/below you. There is a
+ Medal above/below the Bomb
+ Block.
 
  The World of Drawcia Medal 1
  ----------------------------
- In The World of Drawcia, Area 1
- before the Exit Door.
+ In The World of Drawcia, Area
+ 1, there is a Medal under the
+ last stairs before the Exit
+ Door.
 
  The World of Drawcia Medal 2
  -----------------------------
- In The World of Drawcia, Area 2
- the paintings close to the Fina
+ In The World of Drawcia, Area
+ 2, a Medal will appear when
+ you've beat all the paintings
+ close to the Final Door.
 
   +-----------------------------
-  + Rainbow Run Medals          
+  + Rainbow Run Medals [KiReda]
+    +
   +-----------------------------
 
 Rainbow Run is a mode where you
@@ -5345,7 +5917,7 @@ without using any Ink at all.
 
 
   +-----------------------------
-  + Other Medals                
+  + Other Medals [KiRest] +
   +-----------------------------
 
 The other Medals, that are not
@@ -5354,18 +5926,26 @@ Run, can be found in this
 section of the document.
 
  ~ You get a Medal by completing
- ~ You get a Medal by completing
- ~ You get a Medal by completing
- ~ You get one when you play as 
- ~ You get two medals when you b
- ~ You get a medal when you beat
- ~ You get a medal when you beat
- ~ You get three medals when you
+ Block Attack with Rating A. ~
+ You get a Medal by completing
+ Cart Run with Rating A. ~ You
+ get a Medal by completing Paint
+ Panic with Rating A. ~ You get
+ one when you play as Kirby and
+ gain 1500 points and Dash!
+ Jump! ~ You get two medals when
+ you beat the game as Meta
+ Knight. ~ You get a medal when
+ you beat the game as Waddle
+ Dee. ~ You get a medal when you
+ beat the game as Waddle Doo. ~
+ You get three medals when you
+ beat the game as King DeDeDe.
 
 
 
   +-----------------------------
-  + Switch Locations            
+  + Switch Locations [KiSwit] +
   +-----------------------------
 
 
@@ -5446,39 +6026,66 @@ Switch!
 
 
   +-----------------------------
-  + Version History             
+  + Version History [KiVers] +
   +-----------------------------
 
   Version 0.1, 17-07-2006
   -----------
-  This is the first version of t
-  Internet. It contains complete
-  up to Level 2 of the Main Game
-  It also contains descriptions 
-  different Abilities, and infor
-  as well as information about D
-  You can also read about the fi
-  uploaded to the next within a 
+  This is the first version of
+  the guide that has been
+  uploaded to the Internet. It
+  contains complete walkthrough
+  with all Medal Locations up to
+  Level 2 of the Main Game, and
+  Rainbow Run guides for a few
+  Stages. It also contains
+  descriptions of lots of
+  obstacles, about half of the
+  different Abilities, and
+  information on the Block
+  Attack Mini Game, as well as
+  information about Dash! Jump!
+  and Cart Run. You can also
+  read about the first
+  unlockables. A new version
+  should be uploaded to the next
+  within a few days.
 
   Version 0.5, 07-08-2006
   ----------------------
-  Main Game walkthrough complete
-  Switch locations complete.. Ha
-  added as well. The guide will 
-  Please give me feedback (not t
+  Main Game walkthrough
+  complete, main game medal
+  locations complete. Switch
+  locations complete.. Half of
+  Rainbow Run strategies have
+  been added as well. The guide
+  will most likely reach 1.0 the
+  next time I update. Please
+  give me feedback (not that I
+  fear a lack, heh).
 
   Version 0.9, 08-08-2006
   ------------------------
-  Well, only the last four Speci
-  the walkthrough. This is the l
-  v 1.0 will be released. Or.. T
+  Well, only the last four
+  Special Stages in Rainbow Run
+  are missing from the
+  walkthrough. This is the last
+  0.x version - tomorrow, the
+  complete v 1.0 will be
+  released. Or.. Today, as the
+  clock has passed 11:59 PM.
 
   Version 1.0, 08-08-2006
   -----------------------
   Ok, here we are, the guide now
-  and at the moment, it is the o
-  avaliable for free at the inte
-  and send me feedback at mail.
+  covers every single part of
+  this game, and at the moment,
+  it is the only complete
+  walkthrough for the game
+  avaliable for free at the
+  internet. I hope you enjoy the
+  document, and send me feedback
+  at mail.
 
   +-----------------------------
   + Legal Stuff                 
@@ -5524,7 +6131,8 @@ document are:
  - Neoseeker.com
  - Honestgamers.com
 
- ~ This document is copyright © 
+ ~ This document is copyright ©
+ 2006 snkupo
 
   +-----------------------------
   + Contact Me                  
@@ -5542,7 +6150,8 @@ MSN:     snkupo@gmail.com
 
 
   +-----------------------------
-  + Credits and Thanks          
+  + Credits and Thanks [KiThan]
+    +
   +-----------------------------
 
 This time around, I would like

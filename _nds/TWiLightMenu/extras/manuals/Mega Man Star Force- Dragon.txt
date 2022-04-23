@@ -164,6 +164,7 @@ about some stuff, namely the
 waveworld, and your visualizer.
 If you like plot, I
  suggest paying attention to the
+ cutscene.
 
 Then you hear a noise, and a
 train is blocking the exit.
@@ -3816,7 +3817,8 @@ Leo Kingdom
 
 You'll find the first form, a
 shadow of it's true self, on
- Amaken's roof. The real first f
+ Amaken's roof. The real first
+ form is found at the end of the
 DeepSpace Area, as a final boss
 of sorts. The EX form works the
 same as the other FM-ians with
@@ -3909,92 +3911,103 @@ Element
 
 Standard
 
-001.Cannon Hits the enemy ahead
-for 40 damage. Null
-
-002.PlusCannon Hits the enemy
-ahead for 90 damage, and knocks
-them back 1 space. Null
-
-003.HevyCannon Hits the enemy
-ahead for 150 damage, and knocks
-them back 2 spaces. Null
-
-004.PlasmaGun1 Hits the enemy
-ahead for 30 damage, and stuns
-them. Elec
-
-005.PlasmaGun2 Hits the enemy
-ahead for 50 damage, and
-explodes into a V, stunning all
-who are hit. Elec
-
-006.PlasmaGun3 Hits the enemy
-ahead for 70 damage, and
-explodes into an X, stunning all
-who are hit. Elec
-
-007.Gatling1 Hits the enemy
-ahead 4 times, 10 damage each,
-and knocks back the enemy. Null
-
-008.Gatling2 Hits the enemy
-ahead 5 times, 20 damage each,
-and knocks back the enemy. Null
-
-009.Gatling3 Hits the enemy
-ahead 6 times, 30 damage each,
-and knocks back the enemy. Null
-
-010.AirSpread Hits the enemy
-ahead, then hits all adjacent
-spaces 3 times for 10 damage.
-Null
-
-011.RdrMissil1 Hits all Null
-element enemies for 100 damage.
-Null
-
-012.RdrMissil2 Hits all enemies
-with an even digit in the 10s
-space for 130 damage. Null
-
-013.RdrMissil3 Hits all enemies
-with a status for 200 damage.
-Null
-
-014.HeatBall1 Throw a bomb ahead
-for 60 damage. Fire
-
-015.HeatBall2 Throw a bomb ahead
-for 100 damage. Fire
-
-016.HeatBall3 Throw a bomb ahead
-for 180 damage. Fire
-
-017.IceMeteor1 Hits the enemy
-row for 50 damage. Freezes
-Panels. Water
-
-018.IceMeteor2 Hits the enemy
-row for 90 damage. Freezes
-Panels. Water
-
-019.IceMeteor3 Hits the enemy
-row for 130 damage. Freezes
-Panels. Water
-
-020.StunNukle Hits one space
-ahead and stuns, dealing 130
-damage. Elec
-
-021.PoisNukle Hits one space
-ahead and drains HP, dealing 150
+001.Cannon
+Hits the enemy ahead for 40
 damage. Null
 
-022.FreezNukle Hits one space
-ahead and freezes, dealing 180
-damage. Water
+002.PlusCannon
+Hits the enemy ahead for 90
+damage, and knocks them back 1
+space. Null
+
+003.HevyCannon
+Hits the enemy ahead for 150
+damage, and knocks them back 2
+spaces. Null
+
+004.PlasmaGun1
+Hits the enemy ahead for 30
+damage, and stuns them. Elec
+
+005.PlasmaGun2
+Hits the enemy ahead for 50
+damage, and explodes into a V,
+stunning all who are hit. Elec
+
+006.PlasmaGun3
+Hits the enemy ahead for 70
+damage, and explodes into an X,
+stunning all who are hit. Elec
+
+007.Gatling1
+Hits the enemy ahead 4 times, 10
+damage each, and knocks back the
+enemy. Null
+
+008.Gatling2
+Hits the enemy ahead 5 times, 20
+damage each, and knocks back the
+enemy. Null
+
+009.Gatling3
+Hits the enemy ahead 6 times, 30
+damage each, and knocks back the
+enemy. Null
+
+010.AirSpread
+Hits the enemy ahead, then hits
+all adjacent spaces 3 times for
+10 damage. Null
+
+011.RdrMissil1
+Hits all Null element enemies
+for 100 damage. Null
+
+012.RdrMissil2
+Hits all enemies with an even
+digit in the 10s space for 130
+damage. Null
+
+013.RdrMissil3
+Hits all enemies with a status
+for 200 damage. Null
+
+014.HeatBall1
+Throw a bomb ahead for 60
+damage. Fire
+
+015.HeatBall2
+Throw a bomb ahead for 100
+damage. Fire
+
+016.HeatBall3
+Throw a bomb ahead for 180
+damage. Fire
+
+017.IceMeteor1
+Hits the enemy row for 50
+damage. Freezes Panels. Water
+
+018.IceMeteor2
+Hits the enemy row for 90
+damage. Freezes Panels. Water
+
+019.IceMeteor3
+Hits the enemy row for 130
+damage. Freezes Panels. Water
+
+020.StunNukle
+Hits one space ahead and stuns,
+dealing 130 damage. Elec
+
+021.PoisNukle
+Hits one space ahead and drains
+HP, dealing 150 damage. Null
+
+022.FreezNukle
+Hits one space ahead and
+freezes, dealing 180 damage.
+Water
 
 023.Sword
 Hits enemy ahead for 80 damage.
@@ -4004,8 +4017,9 @@ Null
 Hits row ahead for 80 damage.
 Null
 
-025.LongSword Hits two spaces
-ahead for 80 damage. Null
+025.LongSword
+Hits two spaces ahead for 80
+damage. Null
 
 026.BlazngEdge
 Hits row ahead for 160 damage.
@@ -4015,72 +4029,82 @@ Fire
 Hits row ahead for 190 damage.
 Water
 
-028.StrikeEdge Hits row ahead
-and stuns, for 150 damage. Elec
+028.StrikeEdge
+Hits row ahead and stuns, for
+150 damage. Elec
 
 029.ArboEdge
 Hits row ahead for 180 damage.
 Wood
 
-030.BreakSabre Hits in a
-diagonal slice that breaks
-guards for 200 damage. Null
-
-031.GrndWave1 Shoots a wave
-forward that can move one column
-left or right, and deals 50
-damage. Null
-
-032.GrndWave2 Shoots a wave
-forward that can move one column
-left or right, and deals 100
-damage. Null
-
-033.GrndWave3 Shoots a wave
-forward that can move one column
-left or right, and deals 150
-damage. Null
-
-034.JetAttack1 You fly ahead
-dealing 100 damage. Null
-
-035.JetAttack2 You fly ahead
-dealing 150 damage. Null
-
-036.JetAttack3 You fly ahead
-dealing 200 damage. Null
-
-037.PowerBomb1 Throw a bomb that
-explodes in a plus shape for 80
-damage. Null
-
-038.PowerBomb2 Throw a bomb that
-explodes in an X shape for 130
-damage. Null
-
-039.PowerBomb3 Throw a bomb that
-explodes, damaging all adjacent
-panels for 180 damage. Null
-
-040.GhstPulse1 T shaped ray that
-confuses and deals 90 damage.
+030.BreakSabre
+Hits in a diagonal slice that
+breaks guards for 200 damage.
 Null
 
-041.GhstPulse2 T shaped ray that
-stuns and deals 100 damage. Null
+031.GrndWave1
+Shoots a wave forward that can
+move one column left or right,
+and deals 50 damage. Null
 
-042.GhstPulse3 T shaped ray that
-drains HP and deals 120 damage.
-Null
+032.GrndWave2
+Shoots a wave forward that can
+move one column left or right,
+and deals 100 damage. Null
 
-043.FireRing1 Shoots a fiery
-yoyo that deals 60 damage. Fire
+033.GrndWave3
+Shoots a wave forward that can
+move one column left or right,
+and deals 150 damage. Null
 
-044.FireRing2 Shoots a fiery
-yoyo that deals 90 damage. Fire
+034.JetAttack1
+You fly ahead dealing 100
+damage. Null
 
-045.FireRing3 Shoots a fiery
-yoyo that deals 120 damage. Fire
+035.JetAttack2
+You fly ahead dealing 150
+damage. Null
+
+036.JetAttack3
+You fly ahead dealing 200
+damage. Null
+
+037.PowerBomb1
+Throw a bomb that explodes in a
+plus shape for 80 damage. Null
+
+038.PowerBomb2
+Throw a bomb that explodes in an
+X shape for 130 damage. Null
+
+039.PowerBomb3
+Throw a bomb that explodes,
+damaging all adjacent panels for
+180 damage. Null
+
+040.GhstPulse1
+T shaped ray that confuses and
+deals 90 damage. Null
+
+041.GhstPulse2
+T shaped ray that stuns and
+deals 100 damage. Null
+
+042.GhstPulse3
+T shaped ray that drains HP and
+deals 120 damage. Null
+
+043.FireRing1
+Shoots a fiery yoyo that deals
+60 damage. Fire
+
+044.FireRing2
+Shoots a fiery yoyo that deals
+90 damage. Fire
+
+045.FireRing3
+Shoots a fiery yoyo that deals
+120 damage. Fire
 
 046.TimeBomb1
 Plants a 100 damage timebomb.
@@ -4094,215 +4118,249 @@ Fire
 Plants a 220 damage timebomb.
 Fire
 
-049.FireBzook1 Cannon that deals
-100 damage, spreads to left and
-right. Fire
+049.FireBzook1
+Cannon that deals 100 damage,
+spreads to left and right. Fire
 
-050.FireBzook2 Cannon that deals
-130 damage, spreads to left and
-right. Fire
+050.FireBzook2
+Cannon that deals 130 damage,
+spreads to left and right. Fire
 
-051.FireBzook3 Cannon that deals
-160 damage, spreads to left and
-right. Fire
+051.FireBzook3
+Cannon that deals 160 damage,
+spreads to left and right. Fire
 
-052.TailBurnr1 Hits 3 squares
-ahead for 80 damage. Fire
+052.TailBurnr1
+Hits 3 squares ahead for 80
+damage. Fire
 
-053.TailBurnr2 Hits 3 squares
-ahead for 130 damage. Fire
+053.TailBurnr2
+Hits 3 squares ahead for 130
+damage. Fire
 
-054.TailBurnr3 Hits 3 squares
-ahead for 180 damage. Fire
+054.TailBurnr3
+Hits 3 squares ahead for 180
+damage. Fire
 
-055.WideWave1 Shoots a wave a
-row wide for 70 damage. Water
-
-056.WideWave2 Shoots a wave a
-row wide for 90 damage. Water
-
-057.WideWave3 Shoots a wave a
-row wide for 120 damage. Water
-
-058.ChainBubl1 Shoots ahead,
-explodes into a V, encases
-enemies in bubbles, deals 40
+055.WideWave1
+Shoots a wave a row wide for 70
 damage. Water
 
-059.ChainBubl2 Shoots ahead,
-explodes into a V, encases
-enemies in bubbles, deals 60
+056.WideWave2
+Shoots a wave a row wide for 90
 damage. Water
 
-060.ChainBubl3 Shoots ahead,
-explodes into a V, encases
-enemies in bubbles, deals 70
+057.WideWave3
+Shoots a wave a row wide for 120
 damage. Water
 
-061.GreenInk Shoots ahead,
-turning panels to grass, dealing
-90 damage. Null
+058.ChainBubl1
+Shoots ahead, explodes into a V,
+encases enemies in bubbles,
+deals 40 damage. Water
 
-062.BlueInk Shoots ahead,
-turning panels to ice, dealing
-110 damage. Null
+059.ChainBubl2
+Shoots ahead, explodes into a V,
+encases enemies in bubbles,
+deals 60 damage. Water
 
-063.PurpleInk Shoots ahead,
-turning panels to poison,
-dealing 130 damage. Null
+060.ChainBubl3
+Shoots ahead, explodes into a V,
+encases enemies in bubbles,
+deals 70 damage. Water
 
-064.StikyRain1 Hits all enemies
-6 times for 20 damage. Water
+061.GreenInk
+Shoots ahead, turning panels to
+grass, dealing 90 damage. Null
 
-065.StikyRain2 Hits all enemies
-6 times for 25 damage. Water
+062.BlueInk
+Shoots ahead, turning panels to
+ice, dealing 110 damage. Null
 
-066.StikyRain3 Hits all enemies
-6 times for 30 damage. Water
+063.PurpleInk
+Shoots ahead, turning panels to
+poison, dealing 130 damage. Null
 
-067.CloudShot1 Shoots a cloud
-ahead, that stuns all adjacent
-spaces for 110 damage. Elec
+064.StikyRain1
+Hits all enemies 6 times for 20
+damage. Water
 
-068.CloudShot2 Shoots a cloud
-ahead, that stuns all adjacent
-spaces for 140 damage. Elec
+065.StikyRain2
+Hits all enemies 6 times for 25
+damage. Water
 
-069.CloudShot3 Shoots a cloud
-ahead, that stuns all adjacent
-spaces for 170 damage. Elec
+066.StikyRain3
+Hits all enemies 6 times for 30
+damage. Water
 
-070.ThndrBall1 Shoots a slow
-ball that homes and stuns,
-dealing 80 damage. Elec
+067.CloudShot1
+Shoots a cloud ahead, that stuns
+all adjacent spaces for 110
+damage. Elec
 
-071.ThndrBall2 Shoots a slow
-ball that homes and stuns,
-dealing 120 damage. Elec
+068.CloudShot2
+Shoots a cloud ahead, that stuns
+all adjacent spaces for 140
+damage. Elec
 
-072.ThndrBall3 Shoots a slow
-ball that homes and stuns,
-dealing 150 damage. Elec
+069.CloudShot3
+Shoots a cloud ahead, that stuns
+all adjacent spaces for 170
+damage. Elec
 
-073.VolticEye1 Creates a cursor.
-Stop it with A to hit 3 times
-for 40 damage. Elec
-
-074.VolticEye2 Creates a cursor.
-Stop it with A to hit 3 times
-for 50 damage. Elec
-
-075.VolticEye3 Creates a cursor.
-Stop it with A to hit 3 times
-for 60 damage. Elec
-
-076.FlickrKck1 Hits enemies 3
-times for 40 damage and blinds.
+070.ThndrBall1
+Shoots a slow ball that homes
+and stuns, dealing 80 damage.
 Elec
 
-077.FlickrKck2 Hits enemies 3
-times for 50 damage and blinds.
+071.ThndrBall2
+Shoots a slow ball that homes
+and stuns, dealing 120 damage.
 Elec
 
-078.FlickrKck3 Hits enemies 3
-times for 60 damage and blinds.
+072.ThndrBall3
+Shoots a slow ball that homes
+and stuns, dealing 150 damage.
 Elec
 
-079.JumboHmmr1 Hits 2 rows ahead
-for 130 damage. Wood
+073.VolticEye1
+Creates a cursor. Stop it with A
+to hit 3 times for 40 damage.
+Elec
 
-080.JumboHmmr2 Hits 2 rows ahead
-for 160 damage. Wood
+074.VolticEye2
+Creates a cursor. Stop it with A
+to hit 3 times for 50 damage.
+Elec
 
-081.JumboHmmr3 Hits 2 rows ahead
-for 190 damage. Wood
+075.VolticEye3
+Creates a cursor. Stop it with A
+to hit 3 times for 60 damage.
+Elec
 
-082.MopLance1 Hits 3 spaces
-ahead for 120 damage. Wood
+076.FlickrKck1
+Hits enemies 3 times for 40
+damage and blinds. Elec
 
-083.MopLance2 Hits 3 spaces
-ahead for 140 damage. Wood
+077.FlickrKck2
+Hits enemies 3 times for 50
+damage and blinds. Elec
 
-084.MopLance3 Hits 3 spaces
-ahead for 160 damage. Wood
+078.FlickrKck3
+Hits enemies 3 times for 60
+damage and blinds. Elec
 
-085.Fokx-Fu1 Turn into a fox, if
-hit, attack enemy for 160
+079.JumboHmmr1
+Hits 2 rows ahead for 130
 damage. Wood
 
-086.Fokx-Fu2 Turn into a fox, if
-hit, attack enemy for 180
+080.JumboHmmr2
+Hits 2 rows ahead for 160
 damage. Wood
 
-087.Fokx-Fu3 Turn into a fox, if
-hit, attack enemy for 200
+081.JumboHmmr3
+Hits 2 rows ahead for 190
 damage. Wood
 
-088.VulcnSeed1 A 9 hit spreading
-vulcan that deals 20 damage.
-Wood
+082.MopLance1
+Hits 3 spaces ahead for 120
+damage. Wood
 
-089.VulcnSeed2 A 9 hit spreading
-vulcan that deals 30 damage.
-Wood
+083.MopLance2
+Hits 3 spaces ahead for 140
+damage. Wood
 
-090.VulcnSeed3 A 9 hit spreading
-vulcan that deals 40 damage.
-Wood-40
+084.MopLance3
+Hits 3 spaces ahead for 160
+damage. Wood
 
-091.BraveSwrd1 A longsword that
-breaks barriers and deals 100
+085.Fokx-Fu1
+Turn into a fox, if hit, attack
+enemy for 160 damage. Wood
+
+086.Fokx-Fu2
+Turn into a fox, if hit, attack
+enemy for 180 damage. Wood
+
+087.Fokx-Fu3
+Turn into a fox, if hit, attack
+enemy for 200 damage. Wood
+
+088.VulcnSeed1
+A 9 hit spreading vulcan that
+deals 20 damage. Wood
+
+089.VulcnSeed2
+A 9 hit spreading vulcan that
+deals 30 damage. Wood
+
+090.VulcnSeed3
+A 9 hit spreading vulcan that
+deals 40 damage. Wood-40
+
+091.BraveSwrd1
+A longsword that breaks barriers
+and deals 100 damage. Null
+
+092.BraveSwrd2
+A longsword that breaks barriers
+and deals 130 damage. Null
+
+093.BraveSwrd3
+A longsword that breaks barriers
+and deals 160 damage. Null
+
+094.JunkCube1
+Throws a cube ahead for 150
 damage. Null
 
-092.BraveSwrd2 A longsword that
-breaks barriers and deals 130
+095.JunkCube2
+Throws a cube ahead for 200
 damage. Null
 
-093.BraveSwrd3 A longsword that
-breaks barriers and deals 160
+096.JunkCube3
+Throws a cube ahead for 250
 damage. Null
 
-094.JunkCube1 Throws a cube
-ahead for 150 damage. Null
+097.SyncHook1
+Punches ahead for 120 damage.
+Also damages other enemies of
+the same name. Null
 
-095.JunkCube2 Throws a cube
-ahead for 200 damage. Null
+098.SyncHook2
+Punches ahead for 150 damage.
+Also damages other enemies of
+the same name. Null
 
-096.JunkCube3 Throws a cube
-ahead for 250 damage. Null
+099.SyncHook3
+Punches ahead for 180 damage.
+Also damages other enemies of
+the same name. Null
 
-097.SyncHook1 Punches ahead for
-120 damage. Also damages other
-enemies of the same name. Null
+100.PowerSong
+Summons an object. While it
+sings, you're invincible. Null
 
-098.SyncHook2 Punches ahead for
-150 damage. Also damages other
-enemies of the same name. Null
+101.QuakeSong
+Summons an object. While it
+sings, enemies can't move. Null
 
-099.SyncHook3 Punches ahead for
-180 damage. Also damages other
-enemies of the same name. Null
+102.TripSong
+Summons an object. While it
+sings, enemies are confused.
+Null
 
-100.PowerSong Summons an object.
-While it sings, you're
-invincible. Null
+103.MoaiFall1
+3 rocks fall, dealing 120
+damage. Null
 
-101.QuakeSong Summons an object.
-While it sings, enemies can't
-move. Null
+104.MoaiFall2
+3 rocks fall, dealing 160
+damage. Null
 
-102.TripSong Summons an object.
-While it sings, enemies are
-confused. Null
-
-103.MoaiFall1 3 rocks fall,
-dealing 120 damage. Null
-
-104.MoaiFall2 3 rocks fall,
-dealing 160 damage. Null
-
-105.MoaiFall3 3 rocks fall,
-dealing 200 damage. Null
+105.MoaiFall3
+3 rocks fall, dealing 200
+damage. Null
 
 106.BigAx1
 Slashes 2 rows for 150 damage.
@@ -4316,74 +4374,86 @@ Null
 Slashes 2 rows for 220 damage.
 Null
 
-109.MagiCrysl1 A crystal shoots
-fire, dealing 30 damage. Fire
+109.MagiCrysl1
+A crystal shoots fire, dealing
+30 damage. Fire
 
-110.MagiCrysl2 A crystal shoots
-water, dealing 40 damage. Water
-
-111.MagiCrysl3 A crystal shoots
-lightning, dealing 50 damage.
-Elec
-
-112.BlackHole1 Kills ememies
-with 100 HP or less. Null
-
-113.BlackHole2 Kills ememies
-with 130 HP or less. Null
-
-114.BlackHole3 Kills ememies
-with 160 HP or less. Null
-
-115.BrsrkSwrd1 Autotargeting 3
-slash attack dealing 60 damage
-each hit. Null
-
-116.BrsrkSwrd2 Autotargeting 3
-slash attack dealing 70 damage
-each hit. Null
-
-117.BrsrkSwrd3 Autotargeting 3
-slash attack dealing 80 damage
-each hit. Null
-
-118.GreenBurst Hits 1 time for
-each grass panel. Each hit deals
-30 damage. Wood
-
-119.IceBurst Hits 1 time for
-each ice panel. Each hit deals
+110.MagiCrysl2
+A crystal shoots water, dealing
 40 damage. Water
 
-120.PoisBurst Hits 1 time for
-each poison panel. Each hit
-deals 50 damage. Null
+111.MagiCrysl3
+A crystal shoots lightning,
+dealing 50 damage. Elec
 
-121.TyphDance Hits all adjecent
-spaces twice for 80 damage each.
+112.BlackHole1
+Kills ememies with 100 HP or
+less. Null
+
+113.BlackHole2
+Kills ememies with 130 HP or
+less. Null
+
+114.BlackHole3
+Kills ememies with 160 HP or
+less. Null
+
+115.BrsrkSwrd1
+Autotargeting 3 slash attack
+dealing 60 damage each hit. Null
+
+116.BrsrkSwrd2
+Autotargeting 3 slash attack
+dealing 70 damage each hit. Null
+
+117.BrsrkSwrd3
+Autotargeting 3 slash attack
+dealing 80 damage each hit. Null
+
+118.GreenBurst
+Hits 1 time for each grass
+panel. Each hit deals 30 damage.
+Wood
+
+119.IceBurst
+Hits 1 time for each ice panel.
+Each hit deals 40 damage. Water
+
+120.PoisBurst
+Hits 1 time for each poison
+panel. Each hit deals 50 damage.
 Null
 
-122.JamminPnch A jammer punches
-panel 2 spaces ahead of you for
-260 damage. Null
+121.TyphDance
+Hits all adjecent spaces twice
+for 80 damage each. Null
 
-123.JamMachGun Jammers appear
-next to you and shoot 5 shots
-for 30 damage each. Null
+122.JamminPnch
+A jammer punches panel 2 spaces
+ahead of you for 260 damage.
+Null
 
-124.Whistle Sucks in enemies,
-stops their attack, and removes
-any barriers they may have. Null
-
-125.Bombalizer Any field objects
-explode, dealing 200 damage to
-all adjacent spaces. Null
-
-126.AntiSword When set,
-activates when hit by a sword to
-fire off 3 wide slashes that fly
-down the columns for 120 damage
+123.JamMachGun
+Jammers appear next to you and
+shoot 5 shots for 30 damage
 each. Null
+
+124.Whistle
+Sucks in enemies, stops their
+attack, and removes any barriers
+they may have. Null
+
+125.Bombalizer
+Any field objects explode,
+dealing 200 damage to all
+adjacent spaces. Null
+
+126.AntiSword
+When set, activates when hit by
+a sword to fire off 3 wide
+slashes that fly down the
+columns for 120 damage each.
+Null
 
 127.Recover10
 Recover 10 HP.
@@ -4417,71 +4487,78 @@ Null
 Recover 300 HP.
 Null
 
-135.Barrier Creates a barrier
-soaking up the next 10 damage
-you take. Null
+135.Barrier
+Creates a barrier soaking up the
+next 10 damage you take. Null
 
-136.Barrier100 Creates a barrier
-soaking up the next 100 damage
-you take. Null
+136.Barrier100
+Creates a barrier soaking up the
+next 100 damage you take. Null
 
-137.Barrier200 Creates a barrier
-soaking up the next 200 damage
-you take. Null
+137.Barrier200
+Creates a barrier soaking up the
+next 200 damage you take. Null
 
-138.Aura Creates a barrier
-soaking up all attacks that deal
-less than 100 damage. Null
+138.Aura
+Creates a barrier soaking up all
+attacks that deal less than 100
+damage. Null
 
 139.Invisible
 Makes you invisible for a bit.
 Null
 
-140.SpiritFury When set,
-activates when hit by an
-elemental attack to fire off an
-instant elemental attack dealing
-220 damage. Null
+140.SpiritFury
+When set, activates when hit by
+an elemental attack to fire off
+an instant elemental attack
+dealing 220 damage. Null
 
-141.PoisnApple When set,
-activates when enemy heals.
-Instead of healing, they take
-that much damage. Null
+141.PoisnApple
+When set, activates when enemy
+heals. Instead of healing, they
+take that much damage. Null
 
-142.DoublCross When set,
-activates when enemy uses a Mega
-Card. You'll hijack and use that
-card. Null
+142.DoublCross
+When set, activates when enemy
+uses a Mega Card. You'll hijack
+and use that card. Null
 
-143.GigaMine When set, activates
-when enemy uses a Giga Card.
-Explodes dealing 300 damage.
+143.GigaMine
+When set, activates when enemy
+uses a Giga Card. Explodes
+dealing 300 damage. Null
+
+144.GrassStage
+Farthest 3x3 panels change into
+grass. Wood
+
+145.IceStage
+Farthest 3x3 panels change into
+ice. Water
+
+146.GraviStage
+Farthest 3x3 panels change into
+gravity panels. Enemies are
+trapped for a short period of
+time. Null
+
+147.GNullStage
+Enemy can't guard on far 3x3
+panels. Null
+
+148.HolyPanel
+Your panel becomes holy,
+reducing damage taken by half.
 Null
 
-144.GrassStage Farthest 3x3
-panels change into grass. Wood
+149.ParlyzPlus
+The previous attack card also
+stuns. Null
 
-145.IceStage Farthest 3x3 panels
-change into ice. Water
-
-146.GraviStage Farthest 3x3
-panels change into gravity
-panels. Enemies are trapped for
-a short period of time. Null
-
-147.GNullStage Enemy can't guard
-on far 3x3 panels. Null
-
-148.HolyPanel Your panel becomes
-holy, reducing damage taken by
-half. Null
-
-149.ParlyzPlus The previous
-attack card also stuns. Null
-
-150.Attack+10 The previous
-attack card deals 10 more
-damage. Null
+150.Attack+10
+The previous attack card deals
+10 more damage. Null
 
 MEGA
 
@@ -4492,198 +4569,230 @@ highest damage is acchieved
 after beating the SP form in
 under 10 seconds.
 
-01.TaurusFire TaurusFire shoots
-a cone of flames, dealing 100
+01.TaurusFire
+TaurusFire shoots a cone of
+flames, dealing 100 damage. Fire
+
+02.TaurusFireEX
+TaurusFire shoots a cone of
+flames, dealing 140 damage. Fire
+
+03.TaurusFireSP
+TaurusFire shoots a cone of
+flames, dealing 180 damage. Fire
+
+04.CygnusWing
+CygnusWing hits the edge of the
+field, dealing 130 damage. Null
+
+05.CygnusWingEX
+CygnusWing hits the edge of the
+field, dealing 170 damage. Null
+
+06.CygnusWingSP
+CygnusWing hits the edge of the
+field, dealing 200 damage. Null
+
+07.HarpNote
+Harp Note hits the enemy either
+3 or 5 times for 20 damage, and
+stuns them. Null
+
+08.HarpNoteEX
+Harp Note hits the enemy either
+3 or 5 times for 25 damage, and
+stuns them. Null
+
+09.HarpNoteSP
+Harp Note hits the enemy either
+3 or 5 times for 20 damage, and
+stuns them. Null
+
+10.LibraScals
+Hits for 70 fire and water
+damage Null
+
+11.LibraScalsEX
+Hits for 90 fire and water
+damage Null
+
+12.LibraScalsSP
+Hits for 110 fire and water
+damage Null
+
+13.QnOphiuca
+Hits 2 columns, turning panels
+to poison and dealing 120
+damage. Wood
+
+14.QnOphiucaEX
+Hits 2 columns, turning panels
+to poison and dealing 140
+damage. Wood
+
+15.QnOphiucaSP
+Hits 2 columns, turning panels
+to poison and dealing 160
+damage. Wood
+
+16.GeminSpark
+GeminiSpark punches and cuts the
+enemy for 70 damage per hit.
+Elec
+
+17.GemnSpkEX
+GeminiSpark punches and cuts the
+enemy for 80 damage per hit.
+Elec
+
+18.GemnSpkSP
+GeminiSpark punches and cuts the
+enemy for 110 damage per hit.
+Elec
+
+19.CancrBuble
+Hits nearest enemy row and row
+behind it for 100 damage. Water
+
+20.CancrBublEX
+Hits nearest enemy row and row
+behind it for 130 damage. Water
+
+21.CancrBublSP
+Hits nearest enemy row and row
+behind it for 200 damage.
+Aqua-160
+
+22.WolfWoods
+Hits enemy twice for 80 damage
+each. Wood
+
+23.WolfWoodsEX
+Hits enemy twice for 90 damage
+each. Wood
+
+24.WolfWoodsSP
+Hits enemy twice for 120 damage
+each. Wood
+
+25.CrwnThundr
+Hits in an X shape for 150
+damage. Elec
+
+26.CrwnThundrEX
+Hits in an X shape for 180
+damage. Elec
+
+27.CrwnThundrSP
+Hits in an X shape for 210
+damage. Elec
+
+28.DragonSky
+Hits enemy area for 170 damage.
+Removes barriers. Wood
+
+29.DragonSkyEX
+Hits enemy area for 200 damage.
+Removes barriers. Wood
+
+30.DragonSkySP
+Hits enemy area for 230 damage.
+Removes barriers. Wood
+
+28.PegasusMagic
+Fires 3 missiles that freeze
+enemies and deals 160 damage.
+Water
+
+29.PegasusMagicEX
+Fires 3 missiles that freeze
+enemies and deals 190 damage.
+Water
+
+30.PegasusMagicSP
+Fires 3 missiles that freeze
+enemies and deals 240 damage.
+Water
+
+28.LeoKingdom
+Hits the last two rows for 230
 damage. Fire
 
-02.TaurusFireEX TaurusFire
-shoots a cone of flames, dealing
-140 damage. Fire
+29.LeoKingdomEX
+Hits the last two rows for 260
+damage. Fire
 
-03.TaurusFireSP TaurusFire
-shoots a cone of flames, dealing
-180 damage. Fire
-
-04.CygnusWing CygnusWing hits
-the edge of the field, dealing
-130 damage. Null
-
-05.CygnusWingEX CygnusWing hits
-the edge of the field, dealing
-170 damage. Null
-
-06.CygnusWingSP CygnusWing hits
-the edge of the field, dealing
-200 damage. Null
-
-07.HarpNote Harp Note hits the
-enemy either 3 or 5 times for 20
-damage, and stuns them. Null
-
-08.HarpNoteEX Harp Note hits the
-enemy either 3 or 5 times for 25
-damage, and stuns them. Null
-
-09.HarpNoteSP Harp Note hits the
-enemy either 3 or 5 times for 20
-damage, and stuns them. Null
-
-10.LibraScals Hits for 70 fire
-and water damage Null
-
-11.LibraScalsEX Hits for 90 fire
-and water damage Null
-
-12.LibraScalsSP Hits for 110
-fire and water damage Null
-
-13.QnOphiuca Hits 2 columns,
-turning panels to poison and
-dealing 120 damage. Wood
-
-14.QnOphiucaEX Hits 2 columns,
-turning panels to poison and
-dealing 140 damage. Wood
-
-15.QnOphiucaSP Hits 2 columns,
-turning panels to poison and
-dealing 160 damage. Wood
-
-16.GeminSpark GeminiSpark
-punches and cuts the enemy for
-70 damage per hit. Elec
-
-17.GemnSpkEX GeminiSpark punches
-and cuts the enemy for 80 damage
-per hit. Elec
-
-18.GemnSpkSP GeminiSpark punches
-and cuts the enemy for 110
-damage per hit. Elec
-
-19.CancrBuble Hits nearest enemy
-row and row behind it for 100
-damage. Water
-
-20.CancrBublEX Hits nearest
-enemy row and row behind it for
-130 damage. Water
-
-21.CancrBublSP Hits nearest
-enemy row and row behind it for
-200 damage. Aqua-160
-
-22.WolfWoods Hits enemy twice
-for 80 damage each. Wood
-
-23.WolfWoodsEX Hits enemy twice
-for 90 damage each. Wood
-
-24.WolfWoodsSP Hits enemy twice
-for 120 damage each. Wood
-
-25.CrwnThundr Hits in an X shape
-for 150 damage. Elec
-
-26.CrwnThundrEX Hits in an X
-shape for 180 damage. Elec
-
-27.CrwnThundrSP Hits in an X
-shape for 210 damage. Elec
-
-28.DragonSky Hits enemy area for
-170 damage. Removes barriers.
-Wood
-
-29.DragonSkyEX Hits enemy area
-for 200 damage. Removes
-barriers. Wood
-
-30.DragonSkySP Hits enemy area
-for 230 damage. Removes
-barriers. Wood
-
-28.PegasusMagic Fires 3 missiles
-that freeze enemies and deals
-160 damage. Water
-
-29.PegasusMagicEX Fires 3
-missiles that freeze enemies and
-deals 190 damage. Water
-
-30.PegasusMagicSP Fires 3
-missiles that freeze enemies and
-deals 240 damage. Water
-
-28.LeoKingdom Hits the last two
-rows for 230 damage. Fire
-
-29.LeoKingdomEX Hits the last
-two rows for 260 damage. Fire
-
-30.LeoKingdomSP Hits the last
-two rows for 300 damage. Fire
+30.LeoKingdomSP
+Hits the last two rows for 300
+damage. Fire
 
 GIGA
 
-1.DragonSkyGX Hits last 3 rows
-for 10 hits of 50 damage.
-Removes barriers. Wood
+1.DragonSkyGX
+Hits last 3 rows for 10 hits of
+50 damage. Removes barriers.
+Wood
 
-2.Wood+50 The previous wood
-attack card deals 50 more
+2.Wood+50
+The previous wood attack card
+deals 50 more damage. Null
+
+3.GorgonEye
+Queen Ophiuca shoots a laser
+down the column, dealing 550
 damage. Null
 
-3.GorgonEye Queen Ophiuca shoots
-a laser down the column, dealing
-550 damage. Null
+4.DestrMissl
+Hits 12 times for 50 damage
+each. Null
 
-4.DestrMissl Hits 12 times for
-50 damage each. Null
+5.PoisonPhar
+Places a statue that drains
+enemy HP quickly. Null
 
-5.PoisonPhar Places a statue
-that drains enemy HP quickly.
-Null
+1.LeoKingdomGX
+Hits back 2 columns 11 times for
+40 damage each. Fire
 
-1.LeoKingdomGX Hits back 2
-columns 11 times for 40 damage
-each. Fire
+2.Fire+50
+The previous fire attack card
+deals 50 more damage. Null
 
-2.Fire+50 The previous fire
-attack card deals 50 more
+3.GeminiThunder
+Gemini Spark shoots a lightning
+blast that deals 400 damage and
+stuns. Elec
+
+4.DarknessHole
+Kills all enemies with 250 hp or
+less, and kills FM-ians with 500
+hp or less. Null
+
+5.LifeAura
+Creates a barrier soaking up all
+attacks that deal less than 200
 damage. Null
 
-3.GeminiThunder Gemini Spark
-shoots a lightning blast that
-deals 400 damage and stuns. Elec
+1.PegasusMagicGX
+Hits the last 3 rows and freezes
+enemies, dealing 450 damage.
+Water
 
-4.DarknessHole Kills all enemies
-with 250 hp or less, and kills
-FM-ians with 500 hp or less.
-Null
+2.Aqua+50
+The previous water attack card
+deals 50 more damage. Null
 
-5.LifeAura Creates a barrier
-soaking up all attacks that deal
-less than 200 damage. Null
+3.TaurusTackle
+Taurus Fire rushes forward,
+dealing 420 damage. Fire
 
-1.PegasusMagicGX Hits the last 3
-rows and freezes enemies,
-dealing 450 damage. Water
+4.BreakTimeBomb
+Plants a 600 damage time bomb.
+Hits both enemies. Fire
 
-2.Aqua+50 The previous water
-attack card deals 50 more
-damage. Null
-
-3.TaurusTackle Taurus Fire
-rushes forward, dealing 420
-damage. Fire
-
-4.BreakTimeBomb Plants a 600
-damage time bomb. Hits both
-enemies. Fire
-
-5.DarkSword Hits 2 rows ahead
-for 360 damage.
+5.DarkSword
+Hits 2 rows ahead for 360
+damage.
 
 #######
 #SHOPS#[SHP]

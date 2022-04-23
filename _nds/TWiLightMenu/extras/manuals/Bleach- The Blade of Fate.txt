@@ -56,15 +56,16 @@ to e-mail me.
 └-------------------------------
 
    I. Game Basics
- Basic Controls
- Main Menu Translation
- Character Select Screen
- Result Screen (Arcade/Time Atta
+ Basic Controls Main Menu
+ Translation Character Select
+ Screen Result Screen
+ (Arcade/Time Attack/Survival)
  Common Terms
-  Character List
-  Lexicon
-  Shorthand for Command List, Tr
-  II. Screen Explanation and Gam
+  Character List Lexicon
+  Shorthand for Command List,
+  Training, & Challenge Mode II.
+  Screen Explanation and Game
+  Rules
  Gameplay Screens
   Top Screen
   Bottom Screen
@@ -79,8 +80,8 @@ to e-mail me.
  Reifu
  Simple Mode
   IV. Story Mode
- Character and Control Method Se
- Ichigo Walkthrough
+ Character and Control Method
+ Select Ichigo Walkthrough
  Unlock Guide
    V. Arcade Mode
   VI. VS Mode
@@ -90,8 +91,8 @@ to e-mail me.
 VIII. Time Attack Mode
   IX. Survival Mode
    X. Challenge Mode
- General Tips
- Individual Challenge Walkthroug
+ General Tips Individual
+ Challenge Walkthroughs
   XI. Deck Construction
  Menu Navigation
  Deck Strategy
@@ -277,7 +278,8 @@ INFINITE/LIMITLESS SUPPLY 無制限
 UNLIMITED USE 無効 CANCEL (negate
 an effect/behavior)
 
-- SHORTHAND FOR COMMAND LIST, TR
+- SHORTHAND FOR COMMAND LIST,
+  TRAINING, & CHALLENGE MODE -
 
 立     STANDING
 屈     CROUCHING
@@ -386,15 +388,29 @@ shuffled. Two of them will be
 available for use at any one
 time.
  CARD EFFECT: The large Japanese
-   the reifu section below for a
+ text on the card indicates its
+ effect. Check
+   the reifu section below for
+   an explanation of each card.
  CARD TARGET: This indicates who
-   character (myself), all enemi
- CARD LEVEL: This indicates the 
+ will be effected by the card,
+ either your
+   character (myself), all
+   enemies, a single enemy, or
+   all players.
+ CARD LEVEL: This indicates the
+ strength of that particular
+ card. Most reifu
    have four levels of strength,
- CARD TIMER: Depending on the ty
+   level 1 being the weakest.
+ CARD TIMER: Depending on the
+ type of card, this indicates
+ either how long the
    reifu effect will last or how
-   to use up space on your scree
-   one.
+   long a used reifu card will
+   continue to use up space on
+   your screen before being
+   replaced by a fresh one.
 
 SPECIAL HOTKEYS Press the change
 button to toggle these on and
@@ -599,7 +615,9 @@ command list / use hotkeys
 REINFORCE SPECIALS: strongest
 variation of special attacks,
 always executed
-     with strong attack button, 
+     with strong attack button,
+     usually depletes 1/3 of
+     reiryoku
 gauge and abbreviated with "RF"
 
 All characters besides Bonnie
@@ -772,9 +790,14 @@ difference between the level
 and can be of any one of the
 following types:
  instantaneous: card's effect is
+ instant and will be immediately
+ replaced
     after use
- duration: card's effect lasts o
-  linger: card's effect is insta
+ duration: card's effect lasts
+ over a certain period of time
+  linger: card's effect is
+  instant, but the card will
+  remain onscreen for
 a set time before being replaced
 
 You'll notice that the timer for
@@ -1549,15 +1572,16 @@ settings. A translation of most
 of the menu:
 
 ログイン                LOGIN
- はい                    YES (CONF
- いいえ                  NO (CANCEL
+ はい YES (CONFIRM) いいえ NO
+ (CANCEL)
 友達管理 FRIEND CODE SETTINGS
 友達リストの確認 FRIEND CODE LIST
- 友達コード入力          INPUT FRIEND C
- 友達コード確認          MY FRIEND CODE
- 友達コード交換          EXCHANGE FRIEN
+ 友達コード入力 INPUT FRIEND CODE
+ 友達コード確認 MY FRIEND CODE 友達コード交換
+ EXCHANGE FRIEND CODES
 友達コード交換受付      SEND FRIEND CODES
-  友達コード交換？？？    RECEIVE FRIEND C
+  友達コード交換？？？ RECEIVE FRIEND
+  CODES
 接続先の設定            Wi-Fi SETTINGS
 
 If you have not gone online with
@@ -1596,10 +1620,11 @@ RESTRICTED デスマッチ ポイントマッチ
 DEATHMATCH POINTMATCH 霊符有 霊符無
 REIFU ON REIFU OFF
 
-  ＜尸魂界靈位争奪戦＞               <SOUL
+  ＜尸魂界靈位争奪戦＞ <SOUL SOCIETY
+  RANKING MATCH>
 
-  　霊圧　＃＃＃＃                      
-  　霊位　－－－－－                     
+  霊圧 ＃＃＃＃ SPIRIT LEVEL #### 霊位
+  －－－－－ RANK TITLE -----
 
 Using the REIFU OFF filter also
 prohibits the use of team
@@ -2010,8 +2035,10 @@ RUKIA 5: [IAD] aM → aH → cL → cH
 RUKIA 6A: [IAD] aL → aL → aL →
 [D] sL → sL → sL → sL → [FS] →
 sL → sL
-  → sL → sL → [FS] → sL → sL → s
-  → aL → aL → aL → aL → aL → aL 
+  → sL → sL → [FS] → sL → sL →
+  sL → sL → [FS] → sL → sL → cH
+  → aL → aL → aL → aL → aL → aL
+  → aL → aL
 This one isn't quite as
 intimidating as it might seem as
 first. When on the ground, stay
@@ -2025,8 +2052,10 @@ jump.
 RUKIA 6B: [IAD] aL → aL → aL →
 [D] sL → [D] sL → [D] sL → [D]
 sL
-  → [D] sL → [D] sL → [D] sL → [
-  → [D] sL → [D] sL → [D] sL → c
+  → [D] sL → [D] sL → [D] sL →
+  [D] sL → [D] sL → [D] sL → [D]
+  sL → [D] sL → [D] sL → [D] sL
+  → cH → aL → aL → aL → aL → aL
   → aL → aL → aL
 An alternate method for Rukia's
 6th combo. If you're fast
@@ -2070,7 +2099,8 @@ coming back towards you.
 
 ORIHIME 6: SU-B → [IAD] aM → aH
 → [IAD] aM → aH → [IAD] aM → aH
-  → [IAD] aM → aH → [IAD] aM → a
+  → [IAD] aM → aH → [IAD] aM →
+  aH → [IAD] aM → aH
 Pin the dummy against the wall
 with SU-B to hold him in place.
 Perform an IAD to connect two
@@ -2114,6 +2144,7 @@ ORIHIME 10: cL → cH → SU-A → [D]
 cL → cM → cH → [D] cL → cH →
 SU-A
    → [D] cL → cM → cH → [D] cL →
+   cH → SU-A → [D] cL → cM → cH
    → [D] cL → cH
 I can't think of much advice to
 give on this one besides getting
@@ -2360,7 +2391,8 @@ sH → RF-E → SU-B
 KENPACHI 6: [S-D] → [SU-A] →
 [SU-A] → [SU-A] → [IAD] aH → aH
 → [D] sL
-   → sH → sH → RF-E → aM → aM → 
+   → sH → sH → RF-E → aM → aM →
+   aM → aM → aH
 Fully charge S-D and perform
 three SU-As before starting this
 combo. Kenpachi's S-D
@@ -2376,8 +2408,10 @@ out of normal attacks.)
 KENPACHI 7: [S-D] → [SU-A] →
 [SU-A] → [SU-A] → sL → sL → sM →
 sH → sH
-   → [FS] → sL → sL → sM → sH → 
-   → sH → sH → [FS] → sL → sL → 
+   → [FS] → sL → sL → sM → sH →
+   sH → [FS] → sL → sL → sM → sH
+   → sH → [FS] → sL → sL → sM →
+   sH → sH
 
 KENPACHI 8: [S-D] → sM → RF-E →
 [SU-A] → sM → RF-E → [SU-A] → sM
@@ -2393,7 +2427,8 @@ KENPACHI 9: cL → cM → sH → S-B →
 [SU-A] → [OTG] cL → cM → sH →
 S-B
    → [SU-A] → [OTG] cL → cM → sH
-   → cM → sH → S-B
+   → S-B → [SU-A] → [OTG] cL →
+   cM → sH → S-B
 Use the light version of S-B, as
 it has a shorter set-up time
 than the medium version. Use
@@ -2632,6 +2667,7 @@ KUROTSUCHI 9: sL → sH → RF-B →
 [IAD] aM → aH → sL → sH → RF-A →
 sL
    → sH → RF-E → S-D → sL → sH →
+   SU-A
 Use the medium version of S-D
 immediately after RF-E. You do
 not have to follow it with an
@@ -2640,7 +2676,8 @@ OTG hit.
 KUROTSUCHI 10: [S-C] → T → S-D →
 sL → sH → RF-A → sL → sH → RF-A
 → sL
-   → sH → RF-B → [D] S-D → [D] s
+   → sH → RF-B → [D] S-D → [D]
+   sL → sH → SU-A
 Position Nemu at one side of the
 screen, and throw the dummy
 towards her from the other side.
@@ -2694,7 +2731,8 @@ going in mid-air.
 KYORAKU 10: [IAD] aM → aH → cL →
 cM → RF-A → cL → cH → SU-A →
 [OTG] cL
-   → cH → RF-B → aL → aM → aH → 
+   → cH → RF-B → aL → aM → aH →
+   RF-B → SU-B
 Perform this combo next to the
 wall. The crouching attacks will
 push you far enough away from
@@ -2757,7 +2795,8 @@ the combo.
 SOIFON 10: SU-B → [IAD] aL → aM
 → S-B → [IAD] aL → aM → S-B →
 [IAD] aL
-  → aM → S-B → [IAD] aL → aM → S
+  → aM → S-B → [IAD] aL → aM →
+  S-B → [IAD] aL → aM → S-B
 Same idea as the last combo.
 Time the aerial hits so that
 they occur in-between each set
@@ -2773,7 +2812,8 @@ GENRYUSAI 9: sL → sL → sM → S-E
 → SU-A → sL → sL → sM → S-E →
 SU-A
    → sL → sL → sM → S-E → SU-A →
-   → RF-D → aL → aH
+   sL → sH → RF-D → aL → aL →
+   RF-D → aL → aH
 This one is tricky, but you can
 do it just about exactly as it
 instructs you to. Use light
@@ -2782,8 +2822,10 @@ versions of S-E.
 GENRYUSAI 10: [IAD] aL → aM → sL
 → sM → RF-A → [IAD] aL → aM → sL
 → sM
-   → [SU-B] → [D] RF-B → [IAD] a
-   → [IAD] aL → aM → sL → sH → a
+   → [SU-B] → [D] RF-B → [IAD]
+   aL → aM → sL → sM → RF-C →
+   [IAD] aL → aM → sL → sH → aL
+   → aM → S-D
 It is tough (if not impossible)
 to follow RF-B with aL as this
 challenge is written. Use SU-B
@@ -2821,7 +2863,8 @@ S-C at the end.
 YORUICHI 9: [IAD] aL → aH → RF-A
 → [IAD] aL → aH → [IAD] aL → aH
 → sL
-   → sM → RF-B → SU-C → aM → aH 
+   → sM → RF-B → SU-C → aM → aH
+   → aM → aH → RF-C
 Start the combo with a mid-air
 RF-A, and then dash into the aL
 before you touch the ground. The
@@ -2866,11 +2909,19 @@ customize your own.
 
 The customize screen is laid out
 like so:
- - cards currently in your chose
- - cards remaining in reserves o
- - a filter at the top that narr
- - a filter at the bottom that n
- - a switch in the middle that s
+ - cards currently in your
+   chosen deck on the left
+ - cards remaining in reserves
+   on the right
+ - a filter at the top that
+   narrows the reserve selection
+   by category/color
+ - a filter at the bottom that
+   narrows the reserve selection
+   by level
+ - a switch in the middle that
+   swaps the selected cards on
+   the left and right
 
 Press B to go back one screen at
 a time. Press Y to exit from any
@@ -3078,20 +3129,22 @@ earned from the different
 gameplay modes.
 
 買い物                 BUY
- 霊符                   REIFU (spi
-  回復系                 RECOVERY S
-  強化系                 REINFORCEM
-  攻撃系                 ASSAULT SY
-  行動系                 CONDUCT SY
-  その他                 MISCELLANE
- カラー                 COLOR (alte
- グラフィック           GRAPHIC (bonus
- サウンド               SOUND (galle
- ＧＣパスワード         GC PASSWORD (un
+ 霊符 REIFU (spirit cards)
+  回復系 RECOVERY SYSTEM (blue) 強化系
+  REINFORCEMENT SYSTEM (green)
+  攻撃系 ASSAULT SYSTEM (red) 行動系
+  CONDUCT SYSTEM (purple) その他
+  MISCELLANEOUS (orange)
+ カラー COLOR (alternate outfits)
+ グラフィック GRAPHIC (bonus gallery
+ pictures) サウンド SOUND (gallery
+ BGM/SE/VOICE) ＧＣパスワード GC
+ PASSWORD (unlocks something in
+ the Bleach GC game)
 パスワード             PASSWORD
- ボタン入力             INPUT BUTTON 
- タッチスクリーン入力   INPUT TOUCH SCREEN
- ？？                   ENTERED PA
+ ボタン入力 INPUT BUTTON PASSWORD
+ タッチスクリーン入力 INPUT TOUCH SCREEN
+ PASSWORD ？？ ENTERED PASSWORDS
 
 Level 2 cards cost 10x as much
 as level 1 cards, and level 3
@@ -3200,18 +3253,18 @@ while viewing the rest of the
 gallery.
 
 ビジュアルギャラリー     VISUAL GALLERY
- イベントグラフィック１   EVENT GRAPHIC 1
- イベントグラフィック２   EVENT GRAPHIC 2
- キャラグラフィック       CHARACTER GRAPH
- おまけグラフィック１     BONUS GRAPHIC 1
- おまけグラフィック２     BONUS GRAPHIC 2
- おまけグラフィック３     BONUS GRAPHIC 3
- おまけグラフィック４     BONUS GRAPHIC 4
- おまけグラフィック５     BONUS GRAPHIC 5
+ イベントグラフィック１ EVENT GRAPHIC 1
+ イベントグラフィック２ EVENT GRAPHIC 2
+ キャラグラフィック CHARACTER GRAPHIC
+ おまけグラフィック１ BONUS GRAPHIC 1
+ おまけグラフィック２ BONUS GRAPHIC 2
+ おまけグラフィック３ BONUS GRAPHIC 3
+ おまけグラフィック４ BONUS GRAPHIC 4
+ おまけグラフィック５ BONUS GRAPHIC 5
 サウンドギャラリー       SOUND GALLERY
- [ＢＧＭ]                 [BACKGROU
- [効果音]                 [SOUND EF
- [音声] 黒崎一護          [VOICE] KURO
+ [ＢＧＭ] [BACKGROUND MUSIC] [効果音]
+ [SOUND EFFECTS] [音声] 黒崎一護
+ [VOICE] KUROSAKI ICHIGO
  [音声] ...               [VOICE] 
 
 ┌-------------------------------
@@ -3225,48 +3278,43 @@ money you earn from completing
 various tasks during gameplay.
 
 ゲーム設定 GAME SETTINGS
- 難易度                    DIFFICUL
+ 難易度 DIFFICULTY
   簡単                      EASY
   普通                      NORMAL
   難しい                    HARD
 対戦ルール                BATTLE RULE
 デスマッチ                DEATH MATCH
   ポイントマッチ            POINT MATCH
- 制限時間                  MATCH TIM
+ 制限時間 MATCH TIME LIMIT
 無制限                    UNLIMITED
 １分                      1 MINUTE
-  ３分                      3 MINU
-  ５分                      5 MINU
-  １０分                    10 MINU
- 超必殺伎演出              SUPER ATTAC
+  ３分 3 MINUTES ５分 5 MINUTES １０分
+  10 MINUTES
+ 超必殺伎演出 SUPER ATTACK ANIMATIONS
   あり                      ON
   なし                      OFF
- キー設定                  KEY CONFI
-  設定                      CONFIG
-   小攻撃                    LIGHT 
-   中攻撃                    MEDIUM
-   大攻撃                    HEAVY 
-   特殊移動                  SPECIAL
-   ガード                    GUARD
-   ライン移動                LINE CHA
-  標準に戻す                RESTORE D
+ キー設定 KEY CONFIGURATION
+  設定 CONFIGURATION
+   小攻撃 LIGHT ATTACK 中攻撃 MEDIUM
+   ATTACK 大攻撃 HEAVY ATTACK 特殊移動
+   SPECIAL MOVEMENT (Flash Step)
+   ガード GUARD ライン移動 LINE CHANGE
+  標準に戻す RESTORE DEFAULTS
 音楽設定 SOUND SETTINGS
  出力                      OUTPUT
-  ステレオ                  STEREO
-  モノラル                  MONOAURA
- 全体 音量                 MASTER VO
- ＢＧＭ 音量               BACKGROUND
- 効果音 音量               SOUND EFFE
- 音声 音量                 VOICE VOL
- 標準に戻す                RESTORE DE
+  ステレオ STEREO モノラル MONOAURAL
+ 全体 音量 MASTER VOLUME ＢＧＭ 音量
+ BACKGROUND MUSIC VOLUME 効果音 音量
+ SOUND EFFECT VOLUME 音声 音量 VOICE
+ VOLUME 標準に戻す RESTORE DEFAULTS
 その他 SYSTEM SETTINGS
- 壁紙                      MENU BA
- システムボイス            SYSTEM VOICE
- セーブデータ              SAVE DATA
+ 壁紙 MENU BACKGROUND GRAPHIC
+ システムボイス SYSTEM VOICE セーブデータ
+ SAVE DATA
 ゲームデータ初期化        ERASE GAME DATA
-  レコードデータ初期化      ERASE RECORD D
-  Ｗｉ－Ｆｉデータ初期化    ERASE Wi-Fi DAT
-  全初期化                  ERASE AL
+  レコードデータ初期化 ERASE RECORD DATA
+  Ｗｉ－Ｆｉデータ初期化 ERASE Wi-Fi DATA
+  全初期化 ERASE ALL
 記録閲覧                  RANKING
 
 In the Ranking screen, press
@@ -3305,27 +3353,52 @@ through some of the challenges.
  - initial release
 1.1 (June 27, 2006)
  - replaced section headers with
+   boxes for better readability
  - revised introduction
  - added non-playable characters
+   to character list
  - added flash step to shorthand
- - added more detailed informati
- - corrected minor errors in rei
- - corrected errors in reifu eff
- - completed the reifu timer dif
+   list (for story mode training
+   levels)
+ - added more detailed
+   information in character
+   control section
+ - corrected minor errors in
+   reifu names
+ - corrected errors in reifu
+   effect chart
+ - completed the reifu timer
+   differences
  - filled-in all but one level 4
- - added more information to sim
- - added bankai restriction info
- - cleaned-up and added more det
- - added more information to sto
- - corrected minor errors in unl
- - added more information for wi
- - corrected minor errors in ran
- - added more information on sur
- - completed reward section for 
- - added tips and walkthroughs f
- - added strategy section for de
- - replaced various "?" marks wi
+   reifu requirement
+ - added more information to
+   simple mode description
+ - added bankai restriction
+   information to story mode
+   section
+ - cleaned-up and added more
+   detail to Ichigo walkthrough
+ - added more information to
+   story mode unlock guide
+ - corrected minor errors in
+   unlock guide
+ - added more information for
+   wi-fi rank titles
+ - corrected minor errors in
+   ranking match description
+ - added more information on
+   survival mode rewards
+ - completed reward section for
+   challenge mode
+ - added tips and walkthroughs
+   for challenge mode
+ - added strategy section for
+   deck construction
+ - replaced various "?" marks
+   with their proper menu kanji
  - corrected other minor errors
  - made minor revisions to other
- - added additional names to cre
+   sections
+ - added additional names to
+   credits
  - added this section

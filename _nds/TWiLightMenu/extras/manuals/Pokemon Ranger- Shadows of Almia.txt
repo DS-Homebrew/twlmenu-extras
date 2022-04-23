@@ -1,11 +1,14 @@
 ********************************
 
-   Pokémon Ranger: Shadows of Al
+   Pokémon Ranger: Shadows of
+   Almia FAQ/Walkthrough
       For the Nintendo DS
 Version 1.0 (Created 1/14/2009)
         By Devin Morgan
 
- This file is Copyright (c)2009 
+ This file is Copyright (c)2009
+ Devin Morgan. All rights
+ reserved.
 
 ********************************
 
@@ -81,7 +84,9 @@ recommend this one!
 NOTE: Most of the controls are
 done entirely by using the touch
 screen; below
- are the usable buttons which so
+ are the usable buttons which
+ sometimes serve the same
+ purpose.
 
 Control Pad: Move character,
 move cursor on some menu screens
@@ -276,12 +281,14 @@ the Chroma Highlands area.
 Elevate: Allows you to float
 through a hole in the ceiling
 (as shown by a ray
-  of light) to reach an upper fl
+  of light) to reach an upper
+  floor.
 
 Flash: Brightens the current
 dark room/area, allowing you to
 see details
- about objects and Pokémon aroun
+ about objects and Pokémon
+ around you.
 
 Magma Flow: Allows you to ride
 that Pokémon on magma.
@@ -373,8 +380,11 @@ Poké Assist List
 Bug: Hold the Styler down to
 make some slime appear, then
 draw a line to pull
- it away like a slingshot. Aim i
- release the Styler to fling the
+ it away like a slingshot. Aim
+ it in the direction of the
+ Pokémon, then release the
+ Styler to fling the slime at
+ the target, causing damage and
   temporarily slowing it down.
 
 Dark: Draw circles around
@@ -385,14 +395,20 @@ Styler, and you
 Dragon: Hold the Styler down and
 a dark vortex will appear, which
 will become
-  larger as you hold it in place
-  onto that location a couple mo
+  larger as you hold it in
+  place. When you let go, a
+  meteor will fall onto that
+  location a couple moments
+  later. If it hits the Pokémon,
+  it
    will cause lots of damage.
 
 Electric: Hold the Styler down
 and a bolt of lightning will
 come down at that
   point. If it hits the Pokémon,
+  it will temporarily paralyze
+  it.
 
 Fighting: Doubles the amount of
 damage inflicted for each circle
@@ -401,34 +417,43 @@ drawn.
 Fire: Each time you draw a
 successful circle, the Pokémon
 is hit with a fire
- attack which temporarily makes 
+ attack which temporarily makes
+ it tired.
 
 Flying: Draw circles with the
 Styler and whirlwinds will
 appear, which will
-  become larger and damage the P
+  become larger and damage the
+  Pokémon as you continue
+  circling.
 
 Ghost: Draw circles with the
 Styler and ghosts will appear on
 the ground, and
- will move around the area. If t
- some damage.
+ will move around the area. If
+ the Pokémon is hit by one, it
+ will take some damage.
 
 Grass: Draw with the Styler to
 make grass appear, which will
 slow the Pokémon
- down when it moves through the 
+ down when it moves through the
+ grass.
 
 Ground: Move the Styler back and
 forth, and the ground will
 shake, causing
-  the Pokémon to temporarily bec
+  the Pokémon to temporarily
+  become unable to attack.
 
 Ice: Hold the Styler down to
 create a snowball, then draw
 circles to make it
- bigger. You can then slide it t
- towards them, freezing the Poké
+ bigger. You can then slide it
+ towards the Pokémon to roll the
+ snowball towards them, freezing
+ the Pokémon and temporarily
+ paralyzing it.
 
 Normal: Slightly more damage is
 inflicted for each circle drawn.
@@ -436,39 +461,51 @@ inflicted for each circle drawn.
 Psychic: Draw circles with the
 Styler to form a psychic wave,
 then slide it
-  in the direction of the Pokémo
-  will cause damage and temporar
+  in the direction of the
+  Pokémon to fling the wave
+  towards it. This will cause
+  damage and temporarily
+  paralyze the Pokémon.
 
 Poison: Hold the Styler down to
 create a sludge puddle, then
 slide it in the
-  direction of the Pokémon to fl
-  cause damage and slow them bri
+  direction of the Pokémon to
+  fling the puddle towards it.
+  This will cause damage and
+  slow them briefly.
 
 Recharge: Depending on the level
 of the ability, you will recover
 a certain
-  amount of HP at once (1: 10 HP
-  5: 50 HP).
+  amount of HP at once (1: 10
+  HP, 2: 20 HP, 3: 30 HP, 4: 40
+  HP, 5: 50 HP).
 
 Rock: Hold the Styler down and a
 rock will appear where you are
 holding.
- Slide it in the direction of th
- causing damage.
+ Slide it in the direction of
+ the Pokémon to fling the rock
+ towards it, causing damage.
 
 Steel: Hold the Styler down to
 make an energy orb appear, and
 draw circles to
  make it bigger. Slide it in the
- orb towards it. This will cause
+ direction of the Pokémon to
+ fling the orb towards it. This
+ will cause damage and
+ temporarily stop them from
  attacking.
 
 Water: Hold the Styler down to
 create a bubble, then slide it
 in the
- direction of the Pokémon to fli
- cause damage and slow them brie
+ direction of the Pokémon to
+ fling the bubble towards it.
+ This will cause damage and slow
+ them briefly.
 
 
 ===============
@@ -4782,1992 +4819,2264 @@ game once!
 -=-=-=-=-=-=-=-=-=-=-=
 
 R-001. Pichu
-    Found: Ranger School, School
+    Found: Ranger School,
+    Schoolyard, School Gate,
+    Nabiki Beach, Marine Cave,
   Vien Forest
-    Group: Electric
-    Poké Assist: Recharge
-    Map Move: Recharge 1
-    Description: It attacks by s
+    Group: Electric Poké Assist:
+    Recharge Map Move: Recharge
+    1 Description: It attacks by
+    shooting bolts of
+    electricity.
 
 R-002. Pikachu
-    Found: Volcano Cave, Cargo S
-  Trees), Chroma Ruins, Crysta C
-    Group: Electric
-    Poké Assist: Recharge
-    Map Move: Recharge 3
-    Description: It attacks by b
+    Found: Volcano Cave, Cargo
+    Ship, Chroma Road (use
+    Tackle 1 on Forest
+  Trees), Chroma Ruins, Crysta
+  Cave, Vien Forest
+    Group: Electric Poké Assist:
+    Recharge Map Move: Recharge
+    3 Description: It attacks by
+    blasting electricity from
+    its body.
 
 R-003. Raichu
  Found: Ice Lake, Volcano Cave
-    Group: Electric
-    Poké Assist: Recharge
-    Map Move: Recharge 4
-    Description: It attacks by p
-    body.
+    Group: Electric Poké Assist:
+    Recharge Map Move: Recharge
+    4 Description: It attacks by
+    powerfully blasting
+    thunderbolts from its body.
 
 R-004. Bidoof
-    Found: Ranger School, School
-    Group: Normal
-    Poké Assist: Normal
+    Found: Ranger School,
+    Schoolyard, Ascension
+    Square, Nabiki Beach Group:
+    Normal Poké Assist: Normal
     Field Move: Crush 1
     Description: It occasionally
+    pretends to attack.
 
 R-005. Bibarel
-    Found: Vien Forest, Pueltown
-    Group: Water
-    Poké Assist: Water
+    Found: Vien Forest,
+    Pueltown, Union Road, Ranger
+    Union, Cargo Ship Group:
+    Water Poké Assist: Water
     Field Move: Soak 2
-    Description: It attacks by s
+    Description: It attacks by
+    spitting out blobs of water.
 
 R-006. Taillow
     Found: Schoolyard, Ascension
+    Square, School Road, Nabiki
+    Beach,
   Vien Forest
-    Group: Flying
-    Poké Assist: Flying
-    Field Move: Cut 1
-    Description: It whips up gus
+    Group: Flying Poké Assist:
+    Flying Field Move: Cut 1
+    Description: It whips up
+    gusts with its wings to
+    attack.
 
 R-007. Swellow
-    Found: Union Road
-    Group: Flying
-    Poké Assist: Flying
+    Found: Union Road Group:
+    Flying Poké Assist: Flying
     Field Move: Cut 2
-    Description: It whips up gus
+    Description: It whips up
+    gusts with its wings to
+    attack. It also rams
     targets.
 
 R-008. Budew
-    Found: Schoolyard, School Ga
-    Group: Grass
-    Poké Assist: Grass
+    Found: Schoolyard, School
+    Gate, Chicole Path Group:
+    Grass Poké Assist: Grass
     Field Move: Tackle 1
     Description: It shoots seeds
+    to attack.
 
 R-009. Roselia
-    Found: Vien Forest
-    Group: Grass
-    Poké Assist: Grass
+    Found: Vien Forest Group:
+    Grass Poké Assist: Grass
     Field Move: Cut 2
-    Description: It attacks by s
+    Description: It attacks by
+    scattering pollen.
 
 R-010. Roserade
-    Found: Vien Forest (during/a
-    Group: Grass
-    Poké Assist: Grass
-    Field Move: Cut 3
-    Description: It shoots leave
-    attack.
+    Found: Vien Forest
+    (during/after "Roserade Red,
+    Roserade Blue?" Quest)
+    Group: Grass Poké Assist:
+    Grass Field Move: Cut 3
+    Description: It shoots
+    leaves and needles. It also
+    scatters pollen to attack.
 
 R-011. Squirtle
-    Found: Ascension Square, Mar
-    Group: Water
-    Poké Assist: Water
-    Field Move: Soak 1
-    Description: It attacks by s
+    Found: Ascension Square,
+    Marine Cave Group: Water
+    Poké Assist: Water Field
+    Move: Soak 1 Description: It
+    attacks by squirting water
+    from its mouth.
 
 R-012. Wartortle
-    Found: Vien Forest
-    Group: Water
-    Poké Assist: Water
+    Found: Vien Forest Group:
+    Water Poké Assist: Water
     Field Move: Soak 2
-    Description: It attacks by s
+    Description: It attacks by
+    squirting water from its
+    mouth.
 
 R-013. Blastoise
-    Found: Vien Forest
-    Group: Water
-    Poké Assist: Water
+    Found: Vien Forest Group:
+    Water Poké Assist: Water
     Area Move: Rain Dance
-    Description: It attacks by b
+    Description: It attacks by
+    blasting water from the
+    cannons on its back.
 
 R-014. Zubat
     Found: Ranger School, Marine
-    Group: Flying
-    Poké Assist: Flying
-    Field Move: Cut 1
-    Description: It flits around
+    Cave Group: Flying Poké
+    Assist: Flying Field Move:
+    Cut 1 Description: It flits
+    around and releases
+    supersonic waves to attack.
 
 R-015. Golbat
-    Found: Crysta Cave
-    Group: Flying
-    Poké Assist: Flying
+    Found: Crysta Cave Group:
+    Flying Poké Assist: Flying
     Field Move: Crush 2
-    Description: It lets loose s
+    Description: It lets loose
+    supersonic waves and spits
+    poison to attack.
 
 R-016. Crobat
-    Found: Altru Building
-    Group: Flying
-    Poké Assist: Flying
+    Found: Altru Building Group:
+    Flying Poké Assist: Flying
     Field Move: Crush 3
     Description: It spits poison
+    and lets loose supersonic
+    waves to attack.
 
 R-017. Gastly
-    Found: Ranger School
-    Group: Ghost
-    Poké Assist: Ghost
+    Found: Ranger School Group:
+    Ghost Poké Assist: Ghost
     Field Move: Psy Power 1
-    Description: It attacks by s
+    Description: It attacks by
+    spitting out eerie orbs.
 
 R-018. Haunter
-    Found: Almia Castle, Oil Fie
-    Group: Ghost
-    Poké Assist: Ghost
-    Field Move: Psy Power 2
-    Description: It attacks by s
-    emotions.
+    Found: Almia Castle, Oil
+    Field Hideout Group: Ghost
+    Poké Assist: Ghost Field
+    Move: Psy Power 2
+    Description: It attacks by
+    spitting out orbs imbued
+    with loathsome emotions.
 
 R-019. Gengar
-    Found: Hippowdon Temple, Alt
-    Group: Ghost
-    Poké Assist: Ghost
-    Field Move: Psy Power 3
-    Description: It attacks by s
+    Found: Hippowdon Temple,
+    Altru Building, Altru Tower
+    Group: Ghost Poké Assist:
+    Ghost Field Move: Psy Power
+    3 Description: It attacks by
+    spitting out eerir orbs and
+    sinister ones
      imbued with loathing.
 
 R-020. Buneary
 Found: School Road, Vien Forest
-    Group: Normal
-    Poké Assist: Normal
-    Field Move: Crush 1
+    Group: Normal Poké Assist:
+    Normal Field Move: Crush 1
     Description: It quickly hops
-
-R-021. Lopunny
-    Found: Vien Forest
-    Group: Normal
-    Poké Assist: Normal
-    Field Move: Crush 2
-    Description: Its jumps creat
-    attack.
-
-R-022. Happiny
-    Found: Vien Forest
-    Group: Normal
-    Poké Assist: Normal
-    Field Move: Crush 1
-    Description: Its jumps creat
-    attack.
-
-R-023. Starly
-    Found: Nabiki Beach (early i
-    Group: Flying
-    Poké Assist: Flying
-    Field Move: N/A
-    Description: It sends out tw
-
-R-024. Staravia
-    Found: Peril Cliffs
-    Group: Flying
-    Poké Assist: Flying
-    Field Move: Cut 2
-    Description: It sends out tw
-
-R-025. Staraptor
-    Found: Ranger Union, Altru P
-  Vien Forest, Chroma Road, Shiv
-  (after getting Fine Styler)
-    Group: Flying
-    Poké Assist: Flying
-    Map Move: Fly
-    Description: It creates gust
-
-R-026. Pachirisu
-    Found: Nabiki Beach (early i
-    Group: Electric
-    Poké Assist: Electric
-    Field Move: N/A
-    Description: It discharges e
-
-R-027. Munchlax
-    Found: Nabiki Beach (early i
-    Group: Normal
-    Poké Assist: Normal
-    Field Move: N/A
-    Description: It thrashes aro
-
-R-028. Makuhita
-    Found: Cargo Ship
-    Group: Fighting
-    Poké Assist: Fighting
-    Field Move: Crush 2
-    Description: It attacks with
-
-R-029. Hariyama
-    Found: Volcano Cave
-    Group: Fighting
-    Poké Assist: Fighting
-    Field Move: Crush 3
-    Description: It attacks with
-    about.
-
-R-030. Bonsly
-    Found: Schoolyard, Vien Fore
-    Group: Rock
-    Poké Assist: Rock
-    Field Move: Tackle 1
-    Description: It throws stone
-
-R-031. Sudowoodo
-    Found: Chroma Road, Haruba V
-    Group: Rock
-    Poké Assist: Rock
-    Field Move: Crush 2
-    Description: It attacks by d
-
-R-032. Slakoth
-    Found: School Gate (use Tack
-    Group: Normal
-    Poké Assist: Normal
-    Field Move: Cut 1
-    Description: It hardly ever 
-    occasion.
-
-R-033. Seedot
-    Found: Chicole Path (use Tac
-    Group: Grass
-    Poké Assist: Grass
-    Field Move: Tackle 1
-    Description: It attacks by s
-
-R-034. Nuzleaf
-    Found: Chroma Road
-    Group: Grass
-    Poké Assist: Grass
-    Field Move: Tackle 2
-    Description: While protectin
+    around and thrashes around
     to attack.
 
-R-035. Shiftry
-    Found: Vien Forest (after co
-    Group: Dark
-    Poké Assist: Dark
-    Field Move: Cut 3
-    Description: It whips up win
+R-021. Lopunny
+    Found: Vien Forest Group:
+    Normal Poké Assist: Normal
+    Field Move: Crush 2
+    Description: Its jumps
+    create shock waves. It also
+    thrashes around to attack.
+
+R-022. Happiny
+    Found: Vien Forest Group:
+    Normal Poké Assist: Normal
+    Field Move: Crush 1
+    Description: Its jumps
+    create shock waves. It also
+    throws rocks to attack.
+
+R-023. Starly
+    Found: Nabiki Beach (early
+    in game only) Group: Flying
+    Poké Assist: Flying Field
+    Move: N/A Description: It
+    sends out twisters. It also
+    rams to attack.
+
+R-024. Staravia
+    Found: Peril Cliffs Group:
+    Flying Poké Assist: Flying
+    Field Move: Cut 2
+    Description: It sends out
+    twisters. It also rams to
     attack.
 
-R-036. Tangrowth
-    Found: Ranger School (gradua
-    Group: Grass
-    Poké Assist: Grass
+R-025. Staraptor
+    Found: Ranger Union, Altru
+    Park, Boyleland, School
+    Road, Chicole Path,
+  Vien Forest, Chroma Road,
+  Shiver Camp, Ice Lake, Haruba
+  Desert (after getting Fine
+  Styler)
+    Group: Flying Poké Assist:
+    Flying Map Move: Fly
+    Description: It creates
+    gusts with its large wings
+    to attack.
+
+R-026. Pachirisu
+    Found: Nabiki Beach (early
+    in game only) Group:
+    Electric Poké Assist:
+    Electric Field Move: N/A
+    Description: It discharges
+    electricity from all over
+    its body to attack.
+
+R-027. Munchlax
+    Found: Nabiki Beach (early
+    in game only) Group: Normal
+    Poké Assist: Normal Field
+    Move: N/A Description: It
+    thrashes around to attack.
+
+R-028. Makuhita
+    Found: Cargo Ship Group:
+    Fighting Poké Assist:
+    Fighting Field Move: Crush 2
+    Description: It attacks with
+    punches and tackles.
+
+R-029. Hariyama
+    Found: Volcano Cave Group:
+    Fighting Poké Assist:
+    Fighting Field Move: Crush 3
+    Description: It attacks with
+    punches, shock waves, and by
+    thrashing about.
+
+R-030. Bonsly
+    Found: Schoolyard, Vien
+    Forest (use Soak 1 on
+    Planted Tree) Group: Rock
+    Poké Assist: Rock Field
+    Move: Tackle 1 Description:
+    It throws stones to attack.
+
+R-031. Sudowoodo
+    Found: Chroma Road, Haruba
+    Village (use Soak 2 on
+    Curious Tree) Group: Rock
+    Poké Assist: Rock Field
+    Move: Crush 2 Description:
+    It attacks by dropping rocks
+    every so often.
+
+R-032. Slakoth
+    Found: School Gate (use
+    Tackle 1 on Forest Tree)
+    Group: Normal Poké Assist:
+    Normal Field Move: Cut 1
+    Description: It hardly ever
+    does anything. It may try a
+    cutting slash on occasion.
+
+R-033. Seedot
+    Found: Chicole Path (use
+    Tackle 1 on Forest Tree)
+    Group: Grass Poké Assist:
+    Grass Field Move: Tackle 1
+    Description: It attacks by
+    shooting seeds.
+
+R-034. Nuzleaf
+    Found: Chroma Road Group:
+    Grass Poké Assist: Grass
     Field Move: Tackle 2
-    Description: It launches a p
+    Description: While
+    protecting itself with
+    leaves, it also scatters
+    them to attack.
+
+R-035. Shiftry
+    Found: Vien Forest (after
+    completing game once) Group:
+    Dark Poké Assist: Dark Field
+    Move: Cut 3 Description: It
+    whips up winds with its
+    arms, then sends out
+    twisters to attack.
+
+R-036. Tangrowth
+    Found: Ranger School
+    (graduation), School Gate
+    (use Crush 2 on Rock) Group:
+    Grass Poké Assist: Grass
+    Field Move: Tackle 2
+    Description: It launches a
+    poison powder to attack.
 
 R-037. Shellos
 Found: Nabiki Beach, Marine Cave
-    Group: Water
-    Poké Assist: Water
-    Field Move: Soak 1
-    Description: It spits orbs o
+    Group: Water Poké Assist:
+    Water Field Move: Soak 1
+    Description: It spits orbs
+    of water to attack.
 
 R-038. Gastrodon
-    Found: Marine Cave (use Crus
+    Found: Marine Cave (use
+    Crush 2 to enter room behind
+    boulder),
   Volcano Cave
-    Group: Water
-    Poké Assist: Water
-    Field Move: Soak 2
-    Description: It spits orbs o
+    Group: Water Poké Assist:
+    Water Field Move: Soak 2
+    Description: It spits orbs
+    of water and hunks of dirt
+    to attack.
 
 R-039. Glameow
-    Found: Nabiki Beach, Vien Fo
-    Group: Normal
-    Poké Assist: Normal
+    Found: Nabiki Beach, Vien
+    Forest (inside cave) Group:
+    Normal Poké Assist: Normal
     Field Move: Cut 1
     Description: It attacks with
+    cutting slashes.
 
 R-040. Purugly
-    Found: Cargo Ship
-    Group: Normal
-    Poké Assist: Normal
+    Found: Cargo Ship Group:
+    Normal Poké Assist: Normal
     Field Move: Tackle 2
     Description: It attacks with
+    shock waves.
 
 R-041. Geodude
-    Found: Marine Cave, Peril Cl
-    Group: Rock
-    Poké Assist: Rock
-    Field Move: Crush 1
-    Description: It hurls stones
+    Found: Marine Cave, Peril
+    Cliffs (use Soak 1 on Chunky
+    Rock) Group: Rock Poké
+    Assist: Rock Field Move:
+    Crush 1 Description: It
+    hurls stones to attack.
 
 R-042. Graveler
-    Found: Marine Cave, Peril Cl
+    Found: Marine Cave, Peril
+    Cliffs, Volcano Cave (use
+    Soak 2 on Rugged
   Rock)
-    Group: Rock
-    Poké Assist: Rock
-    Field Move: Crush 2
-    Description: It hurls rocks 
+    Group: Rock Poké Assist:
+    Rock Field Move: Crush 2
+    Description: It hurls rocks
+    and stones to attack.
 
 R-043. Golem
-    Found: Hippowdon Temple, Alt
-    Group: Rock
-    Poké Assist: Rock
-    Field Move: Crush 4
-    Description: It hurls stones
+    Found: Hippowdon Temple,
+    Altru Tower Group: Rock Poké
+    Assist: Rock Field Move:
+    Crush 4 Description: It
+    hurls stones to attack. It
+    also opens fissures in the
     ground.
 
 R-044. Nosepass
-    Found: Marine Cave
-    Group: Rock
-    Poké Assist: Rock
-    Field Move: Crush 2
-    Description: It hurls stones
+    Found: Marine Cave Group:
+    Rock Poké Assist: Rock Field
+    Move: Crush 2 Description:
+    It hurls stones to attack.
 
 R-045. Probopass
-    Found: Chroma Ruins
-    Group: Rock
-    Poké Assist: Rock
-    Field Move: Crush 4
-    Description: It hurls magnet
+    Found: Chroma Ruins Group:
+    Rock Poké Assist: Rock Field
+    Move: Crush 4 Description:
+    It hurls magnetic hunks. It
+    also triggers rockfalls to
     attack.
 
 R-046. Miltank
-    Found: Vientown (during "Cal
-    Group: Normal
-    Poké Assist: Normal
-    Field Move: Tackle 2
-    Description: It attacks by l
+    Found: Vientown (during
+    "Calm Down Miltank" Quest),
+    Chroma Road Group: Normal
+    Poké Assist: Normal Field
+    Move: Tackle 2 Description:
+    It attacks by letting loose
+    shock waves and thrashing
     around.
 
 R-047. Cherubi
-    Found: Vien Forest
-    Group: Grass
-    Poké Assist: Grass
+    Found: Vien Forest Group:
+    Grass Poké Assist: Grass
     Field Move: Tackle 1
     Description: It shoots seeds
+    to attack.
 
 R-048. Cherrim
-    Found: Peril Cliffs
-    Group: Grass
-    Poké Assist: Grass
+    Found: Peril Cliffs Group:
+    Grass Poké Assist: Grass
     Field Move: Tackle 2
-    Description: It scatters lea
+    Description: It scatters
+    leaves and seeds to attack.
 
 R-049. Shinx
-    Found: Vien Forest
-    Group: Electric
-    Poké Assist: Electric
-    Field Move: Electrify 1
-    Description: It discharges e
+    Found: Vien Forest Group:
+    Electric Poké Assist:
+    Electric Field Move:
+    Electrify 1 Description: It
+    discharges electricity from
+    all over its body to attack.
 
 R-050. Luxio
     Found: Cargo Ship, Oil Field
-    Group: Electric
-    Poké Assist: Electric
-    Field Move: Electrify 2
-    Description: It spits blobs 
-    from its body.
+    Hideout, Vien Forest Group:
+    Electric Poké Assist:
+    Electric Field Move:
+    Electrify 2 Description: It
+    spits blobs of electricity
+    and discharges electric
+    bolts from its body.
 
 R-051. Luxray
     Found: Oil Field Hideout
-    Group: Electric
-    Poké Assist: Electric
-    Field Move: Electrify 3
-    Description: It discharges e
+    Group: Electric Poké Assist:
+    Electric Field Move:
+    Electrify 3 Description: It
+    discharges electric bolts
+    from its body. It also makes
        thunderbolts fall.
 
 R-052. Turtwig
-    Found: Breeze Hill (during "
-    Group: Grass
-    Poké Assist: Grass
-    Field Move: N/A
-    Description: It attacks by s
+    Found: Breeze Hill (during
+    "Please Save Turtwig" Quest)
+    Group: Grass Poké Assist:
+    Grass Field Move: N/A
+    Description: It attacks by
+    spitting leaves and seeds.
 
 R-053. Grotle
-    Found: Vien Forest
-    Group: Grass
-    Poké Assist: Grass
+    Found: Vien Forest Group:
+    Grass Poké Assist: Grass
     Field Move: Tackle 2
-    Description: It attacks by l
+    Description: It attacks by
+    launching leaves like
+    daggers.
 
 R-054. Torterra
-    Found: Vien Forest (use Tack
-    Group: Grass
-    Poké Assist: Grass
-    Field Move: Tackle 4
-    Description: It attacks by s
+    Found: Vien Forest (use
+    Tackle 4 on Moving Tree)
+    Group: Grass Poké Assist:
+    Grass Field Move: Tackle 4
+    Description: It attacks by
+    scattering leaves and
+    shooting seeds.
 
 R-055. Buizel
-    Found: Vien Forest
-    Group: Water
-    Poké Assist: Water
+    Found: Vien Forest Group:
+    Water Poké Assist: Water
     Field Move: Soak 1
-    Description: It spits orbs o
+    Description: It spits orbs
+    of water to attack.
 
 R-056. Floatzel
-    Found: Union Road (after sta
-    Group: Water
-    Poké Assist: Water
+    Found: Union Road (after
+    starting Mission 10), Crysta
+    Cave, Vien Forest Group:
+    Water Poké Assist: Water
     Area Move: River Flow 1
-    Description: It spits orbs a
+    Description: It spits orbs
+    and blobs of water to
+    attack.
 
 R-057. Weedle
-    Found: Vien Forest (use Tack
-    Group: Bug
-    Poké Assist: Bug
+    Found: Vien Forest (use
+    Tackle 1 on Forest Trees)
+    Group: Bug Poké Assist: Bug
     Field Move: Tackle 1
-    Description: It attacks by s
+    Description: It attacks by
+    spitting sticky silk.
 
 R-058. Beedrill
-    Found: Vien Forest (use Tack
+    Found: Vien Forest (use
+    Tackle 1 on Forest Tree by
+    Save Machine),
   Chroma Highlands
-    Group: Bug
-    Poké Assist: Bug
+    Group: Bug Poké Assist: Bug
     Field Move: Crush 2
     Description: It attacks with
-    speed.
+    poison stingers while flying
+    around at high speed.
 
 R-059. Combee
-    Found: Vien Forest, Chroma R
-    Group: Bug
-    Poké Assist: Flying
-    Field Move: Cut 1
-    Description: It lets loose g
+    Found: Vien Forest, Chroma
+    Road (use Tackle 1 on Forest
+    Trees) Group: Bug Poké
+    Assist: Flying Field Move:
+    Cut 1 Description: It lets
+    loose gusts of wind to
+    attack.
 
 R-060. Vespiquen
-    Found: Chroma Road (during/a
-    Group: Bug
-    Poké Assist: Bug
-    Field Move: Crush 3
-    Description: It launches goo
+    Found: Chroma Road
+    (during/after "Apologies to
+    Vespiquen" Quest) Group: Bug
+    Poké Assist: Bug Field Move:
+    Crush 3 Description: It
+    launches gooey blobs and
+    poisonous needles to attack.
 
 R-061. Tyrogue
-    Found: Pueltown
-    Group: Fighting
-    Poké Assist: Fighting
-    Field Move: Crush 1
+    Found: Pueltown Group:
+    Fighting Poké Assist:
+    Fighting Field Move: Crush 1
     Description: It dashes about
+    quickly and throws punches
+    to attack.
 
 R-062. Magnemite
     Found: Pueltown, Union Road,
-    Group: Electric
-    Poké Assist: Recharge
-    Field Move: Recharge 2
-    Description: It attacks by s
+    Peril Cliffs, Volcano Cave
+    Group: Electric Poké Assist:
+    Recharge Field Move:
+    Recharge 2 Description: It
+    attacks by sending out bolts
+    of electricity.
 
 R-063. Magneton
-    Found: Oil Field Hideout, Ha
-    Group: Electric
-    Poké Assist: Recharge
-    Map Move: Recharge 5
-    Description: It discharges e
+    Found: Oil Field Hideout,
+    Haruba Desert, Hippowdon
+    Temple, Altru Building
+    Group: Electric Poké Assist:
+    Recharge Map Move: Recharge
+    5 Description: It discharges
+    electricity from its body.
+    It protects itself
    with an electric barrier.
 
 R-064. Magnezone
-    Found: Cargo Ship (after Mis
-    Group: Electric
-    Poké Assist: Electric
-    Field Move: Electrify 3
-    Description: It generates ma
+    Found: Cargo Ship (after
+    Mission 14) Group: Electric
+    Poké Assist: Electric Field
+    Move: Electrify 3
+    Description: It generates
+    magnetism from its body. It
+    protects itself
    with an electric barrier.
 
 R-065. Growlithe
     Found: Pueltown, Union Road
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 2
-    Description: It attacks by b
+    Group: Fire Poké Assist:
+    Fire Field Move: Burn 2
+    Description: It attacks by
+    breathing fire and throwing
+    tackles.
 
 R-066. Arcanine
-    Found: Oil Field Hideout, Al
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 4
-    Description: It blasts out e
+    Found: Oil Field Hideout,
+    Altru Tower Group: Fire Poké
+    Assist: Fire Field Move:
+    Burn 4 Description: It
+    blasts out expanding rings
+    of fire. It also throws
        tackles to attack.
 
 R-067. Rattata
-    Found: Pueltown
-    Group: Normal
-    Poké Assist: Normal
+    Found: Pueltown Group:
+    Normal Poké Assist: Normal
     Field Move: Tackle 1
-    Description: It attacks by c
+    Description: It attacks by
+    chomping with its powerful
+    front teeth.
 
 R-068. Raticate
     Found: Pueltown, Cargo Ship
-    Group: Normal
-    Poké Assist: Normal
-    Field Move: Cut 2
-    Description: It attacks by c
+    Group: Normal Poké Assist:
+    Normal Field Move: Cut 2
+    Description: It attacks by
+    chomping with its powerful
+    front teeth.
 
 R-069. Chatot
-    Found: Pueltown
-    Group: Flying
-    Poké Assist: Flying
+    Found: Pueltown Group:
+    Flying Poké Assist: Flying
     Field Move: Cut 1
-    Description: It uses sounds 
+    Description: It uses sounds
+    to attack.
 
 R-070. Elekid
-    Found: Pueltown
-    Group: Electric
-    Poké Assist: Electric
-    Field Move: Electrify 2
-    Description: It attacks by l
+    Found: Pueltown Group:
+    Electric Poké Assist:
+    Electric Field Move:
+    Electrify 2 Description: It
+    attacks by launching
+    electrified orbs.
 
 R-071. Electabuzz
-    Found: Cargo Ship, Chroma Ru
-    Group: Electric
-    Poké Assist: Electric
-    Area Move: Flash
-    Description: It discharges e
+    Found: Cargo Ship, Chroma
+    Ruins, Altru Building Group:
+    Electric Poké Assist:
+    Electric Area Move: Flash
+    Description: It discharges
+    electricity from its body.
+    It attacks by
  shooting bolts of electricity.
 
 R-072. Electivire
-    Found: Ranger Union (battle 
-    Group: Electric
-    Poké Assist: Electric
-    Field Move: Electrify 3
-    Description: It discharges e
+    Found: Ranger Union (battle
+    with Heath) Group: Electric
+    Poké Assist: Electric Field
+    Move: Electrify 3
+    Description: It discharges
+    electricity from its body.
+    It protects itself
    with an electric barrier.
 
 R-073. Magby
-    Found: Pueltown
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 1
-    Description: It attacks by l
+    Found: Pueltown Group: Fire
+    Poké Assist: Fire Field
+    Move: Burn 1 Description: It
+    attacks by launching
+    fireballs.
 
 R-074. Magmar
-    Found: Volcano Cave
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 2
-    Description: It attacks by l
-    of fire.
+    Found: Volcano Cave Group:
+    Fire Poké Assist: Fire Field
+    Move: Burn 2 Description: It
+    attacks by letting loose
+    fireballs and breathing
+    streams of fire.
 
 R-075. Magmortar
-    Found: Volcano Cave (after M
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 5
-    Description: It lets loose f
+    Found: Volcano Cave (after
+    Mission 16) Group: Fire Poké
+    Assist: Fire Field Move:
+    Burn 5 Description: It lets
+    loose flames from its hands.
+    It also has an
        explosive attack.
 
 R-076. Voltorb
     Found: Pueltown, Cargo Ship
-    Group: Electric
-    Poké Assist: Electric
-    Field Move: Electrify 2
-    Description: It lets loose b
-    explode!
+    Group: Electric Poké Assist:
+    Electric Field Move:
+    Electrify 2 Description: It
+    lets loose bolts of
+    electricity to attack.
+    Beware: It may explode!
 
 R-077. Electrode
-    Found: Altru Building
-    Group: Electric
-    Poké Assist: Electric
-    Field Move: Electrify 3
-    Description: It discharges e
+    Found: Altru Building Group:
+    Electric Poké Assist:
+    Electric Field Move:
+    Electrify 3 Description: It
+    discharges electricity from
+    its body. Beware: It may
     explode!
 
 R-078. Wingull
     Found: Pueltown, Boyleland
-    Group: Water
-    Poké Assist: Water
-    Field Move: Soak 1
-    Description: It rams to atta
+    Group: Water Poké Assist:
+    Water Field Move: Soak 1
+    Description: It rams to
+    attack.
 
 R-079. Pelipper
-    Found: Volcano Cave, Haruba 
-    Group: Water
-    Poké Assist: Water
-    Field Move: Soak 3
-    Description: It spits water 
+    Found: Volcano Cave, Haruba
+    Village Group: Water Poké
+    Assist: Water Field Move:
+    Soak 3 Description: It spits
+    water to attack.
 
 R-080. Croagunk
     Found: School Road (en route
-    Group: Poison
-    Poké Assist: Poison
-    Field Move: N/A
-    Description: It lets loose a
+    to Mission 7) Group: Poison
+    Poké Assist: Poison Field
+    Move: N/A Description: It
+    lets loose a poison gas and
+    a poisonous fluid from its
         mouth to attack.
 
 R-081. Toxicroak
-    Found: Pueltown
-    Group: Poison
-    Poké Assist: Poison
+    Found: Pueltown Group:
+    Poison Poké Assist: Poison
     Field Move: Crush 2
     Description: It lets loose a
+    poison gas and a poisonous
+    fluid from its
         mouth to attack.
 
 R-082. Kricketot
-    Found: Partner Farm
-    Group: Bug
-    Poké Assist: Bug
-    Field Move: N/A
-    Description: It attacks usin
+    Found: Partner Farm Group:
+    Bug Poké Assist: Bug Field
+    Move: N/A Description: It
+    attacks using sounds while
+    hopping around.
 
 R-083. Kricketune
-    Found: Vien Forest
-    Group: Bug
-    Poké Assist: Bug
-    Field Move: Cut 2
-    Description: It throws gooey
+    Found: Vien Forest Group:
+    Bug Poké Assist: Bug Field
+    Move: Cut 2 Description: It
+    throws gooey blobs. It also
+    attacks using sounds.
 
 R-084. Cranidos
-    Found: Vien Forest (during "
-    Group: Rock
-    Poké Assist: Rock
-    Field Move: N/A
-    Description: It rams with it
+    Found: Vien Forest (during
+    "Please Save Cranidos"
+    Quest) Group: Rock Poké
+    Assist: Rock Field Move: N/A
+    Description: It rams with
+    its rock-hard head.
 
 R-085. Rampardos
-    Found: Peril Cliffs
-    Group: Rock
-    Poké Assist: Rock
-    Field Move: Tackle 5
-    Description: It rams with it
-    attack.
+    Found: Peril Cliffs Group:
+    Rock Poké Assist: Rock Field
+    Move: Tackle 5 Description:
+    It rams with its rock-hard
+    head. It also hurls stones
+    to attack.
 
 R-086. Finneon
 Found: Puel Sea, Sea of Wailord
-    Group: Water
-    Poké Assist: Water
-    Field Move: Crush 1
-    Description: It spits bubble
+    Group: Water Poké Assist:
+    Water Field Move: Crush 1
+    Description: It spits
+    bubbles and orbs of water to
+    attack.
 
 R-087. Lumineon
     Found: Puel Sea (during "The
-    Group: Water
-    Poké Assist: Water
-    Field Move: Crush 2
-    Description: It spits bubble
+    Boy Who Cried Lumineon"
+    Quest) Group: Water Poké
+    Assist: Water Field Move:
+    Crush 2 Description: It
+    spits bubbles and orbs of
+    water to attack.
 
 R-088. Chinchou
-    Found: Puel Sea
-    Group: Electric
-    Poké Assist: Recharge
-    Map Move: Recharge 2
-    Description: It attacks by s
+    Found: Puel Sea Group:
+    Electric Poké Assist:
+    Recharge Map Move: Recharge
+    2 Description: It attacks by
+    shooting bolts of
+    electricity.
 
 R-089. Lanturn
-    Found: Sea of Wailord
-    Group: Electric
-    Poké Assist: Recharge
-    Map Move: Recharge 4
-    Description: It discharges e
+    Found: Sea of Wailord Group:
+    Electric Poké Assist:
+    Recharge Map Move: Recharge
+    4 Description: It discharges
+    electricity from its body.
+    It attacks by
  shooting bolts of electricity.
 
 R-090. Mantyke
-    Found: Puel Sea
-    Group: Water
-    Poké Assist: Water
-    Field Move: Tackle 1
-    Description: It spits bubble
+    Found: Puel Sea Group: Water
+    Poké Assist: Water Field
+    Move: Tackle 1 Description:
+    It spits bubbles to attack.
 
 R-091. Mantine
 Found: Puel Sea, Sea of Wailord
-    Group: Water
-    Poké Assist: Water
-    Area Move: Swim
-    Description: It swims leisur
+    Group: Water Poké Assist:
+    Water Area Move: Swim
+    Description: It swims
+    leisurely. It rams to
+    attack.
 
 R-092. Qwilfish
 Found: Puel Sea, Sea of Wailord
-    Group: Water
-    Poké Assist: Water
-    Field Move: Soak 1
-    Description: It shoots needl
+    Group: Water Poké Assist:
+    Water Field Move: Soak 1
+    Description: It shoots
+    needles to attack.
 
 R-093. Corsola
-    Found: Puel Sea
-    Group: Water
-    Poké Assist: Water
-    Field Move: Crush 2
-    Description: It blows bubble
+    Found: Puel Sea Group: Water
+    Poké Assist: Water Field
+    Move: Crush 2 Description:
+    It blows bubbles from its
+    mouth to attack.
 
 R-094. Staryu
-    Found: Puel Sea
-    Group: Water
-    Poké Assist: Water
-    Field Move: Cut 1
-    Description: It attacks by l
+    Found: Puel Sea Group: Water
+    Poké Assist: Water Field
+    Move: Cut 1 Description: It
+    attacks by launching strange
+    orbs and by spinning around.
 
 R-095. Starmie
-    Found: Sea of Wailord
-    Group: Water
-    Poké Assist: Water
+    Found: Sea of Wailord Group:
+    Water Poké Assist: Water
     Field Move: Cut 3
-    Description: It attacks by l
+    Description: It attacks by
+    launching strange orbs and
+    by spinning around.
 
 R-096. Sharpedo
 Found: Puel Sea, Sea of Wailord
-    Group: Water
-    Poké Assist: Water
-    Field Move: Crush 4
+    Group: Water Poké Assist:
+    Water Field Move: Crush 4
     Description: It swims around
-    ramming.
+    at wicked speed. It attacks
+    by biting and ramming.
 
 R-097. Eevee
-    Found: Pueltown (during/afte
-    Group: Normal
-    Poké Assist: Normal
+    Found: Pueltown
+    (during/after "Eevee for
+    Marital Bliss" Quest) Group:
+    Normal Poké Assist: Normal
     Field Move: Tackle 1
-    Description: It quickly dash
+    Description: It quickly
+    dashes about and charges to
+    attack.
 
 R-098. Vaporeon
 Found: Almia Castle, Altru Tower
-    Group: Water
-    Poké Assist: Water
-    Field Move: Soak 3
-    Description: It attacks by l
-    its mouth.
+    Group: Water Poké Assist:
+    Water Field Move: Soak 3
+    Description: It attacks by
+    letting loose blobs of water
+    and bubbles from its mouth.
 
 R-099. Jolteon
-    Found: Haruba Desert
-    Group: Electric
-    Poké Assist: Electric
-    Field Move: Electrify 3
-    Description: It attacks by d
+    Found: Haruba Desert Group:
+    Electric Poké Assist:
+    Electric Field Move:
+    Electrify 3 Description: It
+    attacks by discharging bolts
+    of electricity from all over
     its body.
 
 R-100. Flareon
-    Found: Volcano Cave
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 3
-    Description: It attacks by s
-    fire.
+    Found: Volcano Cave Group:
+    Fire Poké Assist: Fire Field
+    Move: Burn 3 Description: It
+    attacks by spitting
+    fireballs and breathing
+    streams of fire.
 
 R-101. Espeon
     Found: Hippowdon Temple
-    Group: Psychic
-    Poké Assist: Psychic
-    Area Move: Teleport
-    Description: It spits eerie 
-    with a psychic barrier.
+    Group: Psychic Poké Assist:
+    Psychic Area Move: Teleport
+    Description: It spits eerie
+    orbs of energy to attack. It
+    protects itself with a
+    psychic barrier.
 
 R-102. Umbreon
-    Found: Chroma Ruins
-    Group: Dark
-    Poké Assist: Dark
-    Field Move: Cut 3
-    Description: It attacks by r
+    Found: Chroma Ruins Group:
+    Dark Poké Assist: Dark Field
+    Move: Cut 3 Description: It
+    attacks by releasing a dark
+    pulse.
 
 R-103. Leafeon
-    Found: Vien Forest (during/a
-    Group: Grass
-    Poké Assist: Grass
-    Field Move: Cut 3
-    Description: It scatters lea
-    attack.
+    Found: Vien Forest
+    (during/after "Murph's
+    Ranger Contest" Quest)
+    Group: Grass Poké Assist:
+    Grass Field Move: Cut 3
+    Description: It scatters
+    leaves and makes vines grow
+    out of the ground to attack.
 
 R-104. Glaceon
-    Found: Ice Lake (during/afte
-    Group: Ice
-    Poké Assist: Ice
+    Found: Ice Lake
+    (during/after "Murph's
+    Ranger Contest" Quest)
+    Group: Ice Poké Assist: Ice
     Field Move: Crush 3
-    Description: It shoots an ic
-    hunks of ice.
+    Description: It shoots an
+    icy beam from its mouth. It
+    also attacks with hunks of
+    ice.
 
 R-105. Mareep
-    Found: Union Road
-    Group: Electric
-    Poké Assist: Electric
-    Field Move: Electrify 1
-    Description: It attacks by s
+    Found: Union Road Group:
+    Electric Poké Assist:
+    Electric Field Move:
+    Electrify 1 Description: It
+    attacks by shooting bolts of
+    electricity.
 
 R-106. Flaaffy
-    Found: Chroma Road
-    Group: Electric
-    Poké Assist: Electric
-    Field Move: Electrify 2
-    Description: It attacks by s
+    Found: Chroma Road Group:
+    Electric Poké Assist:
+    Electric Field Move:
+    Electrify 2 Description: It
+    attacks by shooting bolts of
+    electricity.
 
 R-107. Ampharos
     Found: Altru Building, Altru
-    Group: Electric
-    Poké Assist: Electric
-    Field Move: Electrify 3
-    Description: It attacks by s
-    shooting electric bolts.
+    Tower Group: Electric Poké
+    Assist: Electric Field Move:
+    Electrify 3 Description: It
+    attacks by scattering
+    charged orbs of electricity
+    and shooting electric bolts.
 
 R-108. Aipom
-    Found: Union Road
-    Group: Normal
-    Poké Assist: Normal
+    Found: Union Road Group:
+    Normal Poké Assist: Normal
     Field Move: Tackle 1
-    Description: It attacks by t
+    Description: It attacks by
+    throwing rocks with its tail
+    and by tackling.
 
 R-109. Ambipom
-    Found: Vien Forest (during t
-    Group: Normal
-    Poké Assist: Normal
-    Field Move: Crush 2
-    Description: It hurls rocks 
+    Found: Vien Forest (during
+    the "Who Ate My Lunch!?"
+    Quest) Group: Normal Poké
+    Assist: Normal Field Move:
+    Crush 2 Description: It
+    hurls rocks and stones with
+    its tails to attack.
 
 R-110. Pineco
 Found: Union Road, Peril Cliffs
-    Group: Bug
-    Poké Assist: Bug
+    Group: Bug Poké Assist: Bug
     Field Move: Tackle 1
     Description: It blows itself
+    up.
 
 R-111. Forretress
-    Found: Vien Forest
-    Group: Steel
-    Poké Assist: Steel
+    Found: Vien Forest Group:
+    Steel Poké Assist: Steel
     Field Move: Crush 2
     Description: It flings gooey
+    blobs. Beware: it may
+    explode.
 
 R-112. Spearow
 Found: Union Road, Peril Cliffs
-    Group: Flying
-    Poké Assist: Flying
-    Field Move: Cut 1
-    Description: It attacks by w
+    Group: Flying Poké Assist:
+    Flying Field Move: Cut 1
+    Description: It attacks by
+    whipping up twisters with
+    its wings.
 
 R-113. Fearow
-    Found: Haruba Desert
-    Group: Flying
-    Poké Assist: Flying
+    Found: Haruba Desert Group:
+    Flying Poké Assist: Flying
     Field Move: Cut 3
     Description: It flies around
+    at high speed and charges to
+    attack.
 
 R-114. Oddish
-    Found: Union Road (use Tackl
-    Group: Grass
-    Poké Assist: Grass
-    Field Move: Cut 1
-    Description: It attacks by s
+    Found: Union Road (use
+    Tackle 1 on Strange Weed)
+    Group: Grass Poké Assist:
+    Grass Field Move: Cut 1
+    Description: It attacks by
+    shooting its leaves and
+    letting loose
        poisonous pollen.
 
 R-115. Gloom
-    Found: Volcano Cave
-    Group: Grass
-    Poké Assist: Grass
+    Found: Volcano Cave Group:
+    Grass Poké Assist: Grass
     Field Move: Cut 2
-    Description: It attacks by s
+    Description: It attacks by
+    scattering clouds of
+    poisonous pollen.
 
 R-116. Vileplume
     Found: Chroma Highlands (use
-    Group: Poison
-    Poké Assist: Poison
-    Field Move: Cut 3
-    Description: It attacks by s
+    Tackle 3 on Huge Flower)
+    Group: Poison Poké Assist:
+    Poison Field Move: Cut 3
+    Description: It attacks by
+    scattering different kinds
+    of pollen.
 
 R-117. Bellossom
     Found: Hippowdon Temple
-    Group: Grass
-    Poké Assist: Grass
-    Field Move: Cut 3
-    Description: While protectin
-    to attack.
+    Group: Grass Poké Assist:
+    Grass Field Move: Cut 3
+    Description: While
+    protecting itself with
+    leaves, it also scatters
+    them to attack.
 
 R-118. Yanma
-    Found: Union Road (use Tackl
-    Group: Flying
-    Poké Assist: Flying
-    Field Move: Cut 2
+    Found: Union Road (use
+    Tackle 1 on Forest Tree)
+    Group: Flying Poké Assist:
+    Flying Field Move: Cut 2
     Description: It flits around
-    waves.
+    while launching supersonic
+    waves and shock waves.
 
 R-119. Yanmega
-    Found: Altru Park (after Mis
-    Group: Bug
-    Poké Assist: Bug
-    Field Move: N/A
-    Description: It spits gooey 
-    waves.
+    Found: Altru Park (after
+    Mission 15) Group: Bug Poké
+    Assist: Bug Field Move: N/A
+    Description: It spits gooey
+    silk. It attacks by letting
+    loose shock waves.
 
 R-120. Larvitar
-    Found: Peril Cliffs
-    Group: Ground
-    Poké Assist: Rock
+    Found: Peril Cliffs Group:
+    Ground Poké Assist: Rock
     Field Move: Crush 1
-    Description: It hurls rocks 
+    Description: It hurls rocks
+    and stones to attack.
 
 R-121. Pupitar
-    Found: Chroma Ruins
-    Group: Ground
-    Poké Assist: Rock
+    Found: Chroma Ruins Group:
+    Ground Poké Assist: Rock
     Field Move: Crush 2
     Description: It leaps around
+    incredibly quickly while
+    ramming to attack.
 
 R-122. Tyranitar
     Found: Hippowdon Temple
-    Group: Rock
-    Poké Assist: Rock
-    Field Move: Crush 4
+    Group: Rock Poké Assist:
+    Rock Field Move: Crush 4
     Description: It is a vicious
+    Pokémon that triggers
+    rockfalls and shoots
      beams from its mouth.
 
 R-123. Pinsir
-    Found: Peril Cliffs
-    Group: Bug
-    Poké Assist: Bug
-    Field Move: Cut 2
-    Description: It rams with th
+    Found: Peril Cliffs Group:
+    Bug Poké Assist: Bug Field
+    Move: Cut 2 Description: It
+    rams with the powerful horns
+    on its head to attack.
 
 R-124. Numel
-    Found: Peril Cliffs
-    Group: Fire
-    Poké Assist: Ground
+    Found: Peril Cliffs Group:
+    Fire Poké Assist: Ground
     Field Move: Burn 1
     Description: It spits embers
+    and blobs of fire to attack.
 
 R-125. Camerupt
-    Found: Crysta Cave
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 3
-    Description: It spits embers
+    Found: Crysta Cave Group:
+    Fire Poké Assist: Fire Field
+    Move: Burn 3 Description: It
+    spits embers and, from its
+    back, lobs blobs of fire.
 
 R-126. Mankey
-    Found: Peril Cliffs
-    Group: Fighting
-    Poké Assist: Fighting
-    Field Move: Crush 1
-    Description: It angers easil
+    Found: Peril Cliffs Group:
+    Fighting Poké Assist:
+    Fighting Field Move: Crush 1
+    Description: It angers
+    easily and thrashes about.
+    It is easier to capture
        after it thrashes.
 
 R-127. Primeape
     Found: Altru Building, Altru
-    Group: Fighting
-    Poké Assist: Fighting
-    Field Move: Crush 3
-    Description: It thrashes abo
-    when it stops.
+    Tower Group: Fighting Poké
+    Assist: Fighting Field Move:
+    Crush 3 Description: It
+    thrashes about extremely
+    wildly. It is easier to
+    capture when it stops.
 
 R-128. Gligar
-    Found: Peril Cliffs
-    Group: Ground
-    Poké Assist: Flying
+    Found: Peril Cliffs Group:
+    Ground Poké Assist: Flying
     Field Move: Cut 1
-    Description: It flits around
+    Description: It flits
+    around, ramming and slashing
+    to attack.
 
 R-129. Gliscor
-    Found: Oil Field Hideout (du
-    Group: Ground
-    Poké Assist: Flying
-    Field Move: N/A
-    Description: It launches twi
-    attack.
+    Found: Oil Field Hideout
+    (during Mission 12) Group:
+    Ground Poké Assist: Flying
+    Field Move: N/A Description:
+    It launches twisters and
+    hunks of dirt. It also rams
+    to attack.
 
 R-130. Mawile
-    Found: Peril Cliffs
-    Group: Steel
-    Poké Assist: Steel
+    Found: Peril Cliffs Group:
+    Steel Poké Assist: Steel
     Field Move: Crush 2
-    Description: It launches mag
+    Description: It launches
+    magnetic hunks to attack. It
+    also bites.
 
 R-131. Aron
-    Found: Peril Cliffs
-    Group: Steel
-    Poké Assist: Steel
+    Found: Peril Cliffs Group:
+    Steel Poké Assist: Steel
     Field Move: Tackle 1
-    Description: It rams with it
+    Description: It rams with
+    its iron head to attack.
 
 R-132. Lairon
-    Found: Volcano Cave
-    Group: Steel
-    Poké Assist: Steel
+    Found: Volcano Cave Group:
+    Steel Poké Assist: Steel
     Field Move: Tackle 2
-    Description: It rams with it
+    Description: It rams with
+    its iron head to attack.
 
 R-133. Aggron
-    Found: Volcano Cave
-    Group: Steel
-    Poké Assist: Steel
+    Found: Volcano Cave Group:
+    Steel Poké Assist: Steel
     Field Move: Tackle 4
-    Description: It opens up fis
+    Description: It opens up
+    fissures in the ground. It
+    also rams to attack.
 
 R-134. Doduo
     Found: Union Road, Pueltown,
-  Schoolyard, Chroma Road, Harub
-    Group: Normal
-    Poké Assist: Normal
-    Map Move: Agility
-    Description: It attacks by p
+    Vien Forest, Chicole Path,
+    School Road,
+  Schoolyard, Chroma Road,
+  Haruba Desert (after clearing
+  Mission 6)
+    Group: Normal Poké Assist:
+    Normal Map Move: Agility
+    Description: It attacks by
+    pecking with its sharp beaks
+    and charging.
 
 R-135. Dodrio
-    Found: Chroma Road
-    Group: Normal
-    Poké Assist: Normal
+    Found: Chroma Road Group:
+    Normal Poké Assist: Normal
     Field Move: Tackle 2
-    Description: It attacks by p
+    Description: It attacks by
+    pecking with its sharp
+    beaks.
 
 R-136. Carnivine
     Found: Chroma Highlands
-    Group: Grass
-    Poké Assist: Grass
-    Field Move: Cut 2
+    Group: Grass Poké Assist:
+    Grass Field Move: Cut 2
     Description: It shoots seeds
+    to attack.
 
 R-137. Charmander
-    Found: Volcano Cave, Schooly
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 1
-    Description: It attacks by s
+    Found: Volcano Cave,
+    Schoolyard (after Mission 8)
+    Group: Fire Poké Assist:
+    Fire Field Move: Burn 1
+    Description: It attacks by
+    spitting embers.
 
 R-138. Charmeleon
-    Found: Volcano Cave
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 2
-    Description: It attacks by s
+    Found: Volcano Cave Group:
+    Fire Poké Assist: Fire Field
+    Move: Burn 2 Description: It
+    attacks by spitting embers
+    and blobs of fire.
 
 R-139. Charizard
-    Found: Volcano (after comple
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 4
-    Description: It spits blobs 
+    Found: Volcano (after
+    completing game once) Group:
+    Fire Poké Assist: Fire Field
+    Move: Burn 4 Description: It
+    spits blobs of fire. It also
+    lets loose expanding rings
        of fire to attack.
 
 R-140. Slugma
-    Found: Volcano Cave
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 1
-    Description: It spits embers
+    Found: Volcano Cave Group:
+    Fire Poké Assist: Fire Field
+    Move: Burn 1 Description: It
+    spits embers and blobs of
+    fire to attack.
 
 R-141. Magcargo
-    Found: Volcano Cave
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 2
-    Description: It spits embers
+    Found: Volcano Cave Group:
+    Fire Poké Assist: Fire Field
+    Move: Burn 2 Description: It
+    spits embers and blobs of
+    fire to attack.
 
 R-142. Drifloon
-    Found: Volcano Cave
-    Group: Ghost
-    Poké Assist: Ghost
+    Found: Volcano Cave Group:
+    Ghost Poké Assist: Ghost
     Area Move: Airlift
-    Description: It launches eer
+    Description: It launches
+    eerie orbs to attack.
 
 R-143. Drifblim
     Found: Chroma Ruins, Volcano
-    Group: Ghost
-    Poké Assist: Ghost
-    Area Move: Elevate
-    Description: It launches eer
+    Cave, Hippowdon Temple
+    Group: Ghost Poké Assist:
+    Ghost Area Move: Elevate
+    Description: It launches
+    eerie orbs to attack.
 
 R-144. Stunky
-    Found: Volcano Cave
-    Group: Poison
-    Poké Assist: Poison
+    Found: Volcano Cave Group:
+    Poison Poké Assist: Poison
     Field Move: Crush 1
-    Description: It scatters poi
+    Description: It scatters
+    poison to attack.
 
 R-145. Skuntank
-    Found: Chroma Ruins
-    Group: Poison
-    Poké Assist: Poison
+    Found: Chroma Ruins Group:
+    Poison Poké Assist: Poison
     Area Move: Stink
-    Description: It lets loose p
+    Description: It lets loose
+    poison gas while it walks.
+    It attacks by
  spitting up a poisonous fluid.
 
 R-146. Kangaskhan
-    Found: Volcano Cave
-    Group: Normal
-    Poké Assist: Normal
+    Found: Volcano Cave Group:
+    Normal Poké Assist: Normal
     Field Move: Crush 2
-    Description: It launches pow
+    Description: It launches
+    powerful beams from its
+    mouth to attack.
 
 R-147. Shuppet
-    Found: Volcano Cave
-    Group: Ghost
-    Poké Assist: Ghost
+    Found: Volcano Cave Group:
+    Ghost Poké Assist: Ghost
     Field Move: Psy Power 1
     Description: It spits cursed
+    orbs to attack.
 
 R-148. Banette
     Found: Hippowdon Temple
-    Group: Ghost
-    Poké Assist: Ghost
-    Field Move: Psy Power 2
-    Description: While protectin
-    eerie orbs.
+    Group: Ghost Poké Assist:
+    Ghost Field Move: Psy Power
+    2 Description: While
+    protecting itself with
+    ghostly fire, it attacks
+    with eerie orbs.
 
 R-149. Rhyhorn
-    Found: Volcano Cave
-    Group: Ground
-    Poké Assist: Ground
+    Found: Volcano Cave Group:
+    Ground Poké Assist: Ground
     Field Move: Tackle 2
-    Description: It opens up fis
+    Description: It opens up
+    fissures in the ground to
+    attack.
 
 R-150. Rhydon
-    Found: Volcano Cave, Haruba 
-    Group: Ground
-    Poké Assist: Ground
+    Found: Volcano Cave, Haruba
+    Desert, Altru Tower Group:
+    Ground Poké Assist: Ground
     Field Move: Tackle 3
-    Description: It throws aroun
+    Description: It throws
+    around its body in a
+    rampage. It rams to attack.
 
 R-151. Rhyperior
-    Found: Altru Tower (during M
-    Group: Ground
-    Poké Assist: Ground
-    Field Move: N/A
-    Description: It lets loose s
+    Found: Altru Tower (during
+    Mission 16) Group: Ground
+    Poké Assist: Ground Field
+    Move: N/A Description: It
+    lets loose shock waves to
+    attack. It also triggers
     rockfalls.
 
 R-152. Muk
-    Found: Volcano Cave
-    Group: Poison
-    Poké Assist: Poison
+    Found: Volcano Cave Group:
+    Poison Poké Assist: Poison
     Field Move: Crush 3
-    Description: It attacks by s
-    fog.
+    Description: It attacks by
+    spitting poison and letting
+    loose poisonous fog.
 
 R-153. Houndour
-    Found: Cargo Ship, Almia Cas
-    Group: Dark
-    Poké Assist: Dark
-    Field Move: Tackle 1
-    Description: It spits blobs 
+    Found: Cargo Ship, Almia
+    Castle, Oil Field Hideout
+    Group: Dark Poké Assist:
+    Dark Field Move: Tackle 1
+    Description: It spits blobs
+    of fire and lets loose dark
+    pulses to attack.
 
 R-154. Houndoom
     Found: Hia Valley, Oil Field
-    Group: Dark
-    Poké Assist: Dark
-    Field Move: Burn 2
-    Description: It spits blobs 
+    Hideout Group: Dark Poké
+    Assist: Dark Field Move:
+    Burn 2 Description: It spits
+    blobs of fire and lets loose
+    dark pulses to attack.
 
 R-155. Spinarak
-    Found: Cargo Ship
-    Group: Bug
-    Poké Assist: Bug
-    Field Move: Tackle 1
-    Description: It spits gooey 
+    Found: Cargo Ship Group: Bug
+    Poké Assist: Bug Field Move:
+    Tackle 1 Description: It
+    spits gooey silk from its
+    mouth. It also spins webs
     around itself.
 
 R-156. Ariados
-    Found: Hippowdon Temple, Alt
-    Group: Bug
-    Poké Assist: Bug
-    Field Move: Tackle 3
-    Description: It spins webs a
+    Found: Hippowdon Temple,
+    Altru Building Group: Bug
+    Poké Assist: Bug Field Move:
+    Tackle 3 Description: It
+    spins webs around itself
+    while moving about.
 
 R-157. Ralts
-    Found: Cargo Ship
-    Group: Psychic
-    Poké Assist: Psychic
+    Found: Cargo Ship Group:
+    Psychic Poké Assist: Psychic
     Field Move: Tackle 1
-    Description: While warping f
-    to attack.
+    Description: While warping
+    from place to place, it
+    launches strange orbs to
+    attack.
 
 R-158. Kirlia
-    Found: Chroma Ruins
-    Group: Psychic
-    Poké Assist: Psychic
+    Found: Chroma Ruins Group:
+    Psychic Poké Assist: Psychic
     Map Move: Teleport
-    Description: While warping f
-    to attack.
+    Description: While warping
+    from place to place, it
+    launches strange orbs to
+    attack.
 
 R-159. Gardevoir
-    Found: Altru Tower
-    Group: Psychic
-    Poké Assist: Psychic
+    Found: Altru Tower Group:
+    Psychic Poké Assist: Psychic
     Field Move: Psy Power 3
-    Description: It scatters str
+    Description: It scatters
+    strange orbs while
+    protecting itself with a
         psychic barrier.
 
 R-160. Gallade
     Found: Altru Building (after
-    Group: Fighting
-    Poké Assist: Fighting
-    Field Move: Cut 5
-    Description: It attacks with
+    Mission 16) Group: Fighting
+    Poké Assist: Fighting Field
+    Move: Cut 5 Description: It
+    attacks with gusts of
+    luminous wind and strange
+    orbs. It
       also fakes attacks.
 
 R-161. Machop
-    Found: Peril Cliffs (during 
-    Group: Fighting
-    Poké Assist: Fighting
-    Field Move: N/A
-    Description: It attacks by p
+    Found: Peril Cliffs (during
+    "What Happened to Machop!?"
+    Quest) Group: Fighting Poké
+    Assist: Fighting Field Move:
+    N/A Description: It attacks
+    by punching and launching
+    orbs of aura power.
 
 R-162. Machoke
-    Found: Cargo Ship
-    Group: Fighting
-    Poké Assist: Fighting
-    Field Move: Tackle 2
-    Description: It attacks by t
+    Found: Cargo Ship Group:
+    Fighting Poké Assist:
+    Fighting Field Move: Tackle
+    2 Description: It attacks by
+    throwing punches and
+    launching shock waves.
 
 R-163. Machamp
     Found: Oil Field Hideout
-    Group: Fighting
-    Poké Assist: Fighting
-    Field Move: Crush 3
+    Group: Fighting Poké Assist:
+    Fighting Field Move: Crush 3
     Description: It attacks with
+    devastating punches and
+    shock waves.
 
 R-164. Mime Jr.
-    Found: Cargo Ship
-    Group: Psychic
-    Poké Assist: Psychic
-    Field Move: N/A
-    Description: It launches str
+    Found: Cargo Ship Group:
+    Psychic Poké Assist: Psychic
+    Field Move: N/A Description:
+    It launches strange orbs to
+    attack. It protects itself
+    with
        a psychic barrier.
 
 R-165. Mr. Mime
     Found: Oil Field Hideout
-    Group: Psychic
-    Poké Assist: Psychic
-    Map Move: Teleport
-    Description: It uses a psych
+    Group: Psychic Poké Assist:
+    Psychic Map Move: Teleport
+    Description: It uses a
+    psychically made barrier to
+    shield itself.
 
 R-166. Drowzee
-    Found: Cargo Ship
-    Group: Psychic
-    Poké Assist: Psychic
+    Found: Cargo Ship Group:
+    Psychic Poké Assist: Psychic
     Field Move: Crush 2
-    Description: It lets loose s
-    attack.
+    Description: It lets loose
+    strange orbs from the palms
+    of its hands to attack.
 
 R-167. Hypno
-    Found: Chroma Ruins, Altru B
-    Group: Psychic
-    Poké Assist: Psychic
-    Field Move: Psy Power 2
-    Description: It lets loose s
+    Found: Chroma Ruins, Altru
+    Building Group: Psychic Poké
+    Assist: Psychic Field Move:
+    Psy Power 2 Description: It
+    lets loose strange orbs from
+    the palms of its hands to
     attack.
 
 R-168. Chimchar
-    Found: Chroma Highlands (dur
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: N/A
-    Description: It spits embers
+    Found: Chroma Highlands
+    (during "Please Save
+    Chimchar" Quest) Group: Fire
+    Poké Assist: Fire Field
+    Move: N/A Description: It
+    spits embers to attack.
 
 R-169. Monferno
 Found: Cargo Ship, Volcano Cave
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 2
+    Group: Fire Poké Assist:
+    Fire Field Move: Burn 2
     Description: It spits embers
+    and blobs of fire to attack.
 
 R-170. Infernape
-    Found: Volcano Cave
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 3
-    Description: It spits blobs 
-    attack.
+    Found: Volcano Cave Group:
+    Fire Poké Assist: Fire Field
+    Move: Burn 3 Description: It
+    spits blobs of fire to
+    attack. It also has an
+    explosive attack.
 
 R-171. Vulpix
-    Found: Cargo Ship, Hia Valle
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 1
-    Description: It forms a ring
+    Found: Cargo Ship, Hia
+    Valley, Ice Lake, Almia
+    Castle Group: Fire Poké
+    Assist: Fire Field Move:
+    Burn 1 Description: It forms
+    a ring of ghostly fire
+    around itself for
     protection.
 
 R-172. Ninetales
-    Found: Almia Castle
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 4
-    Description: While protectin
-    breathes streams of fire to 
+    Found: Almia Castle Group:
+    Fire Poké Assist: Fire Field
+    Move: Burn 4 Description:
+    While protecting itself with
+    a ghostly ring of fire, it
+    breathes streams of fire to
+    attack.
 
 R-173. Skorupi
-    Found: Haruba Desert, Hippow
-    Group: Poison
-    Poké Assist: Poison
+    Found: Haruba Desert,
+    Hippowdon Temple Group:
+    Poison Poké Assist: Poison
     Field Move: Crush 1
     Description: It spits poison
+    needles and a poisonous
+    fluid to attack.
 
 R-174. Drapion
-    Found: Cargo Ship (during Mi
-    Group: Poison
-    Poké Assist: Poison
-    Field Move: N/A
-    Description: It spits poison
+    Found: Cargo Ship (during
+    Mission 8) Group: Poison
+    Poké Assist: Poison Field
+    Move: N/A Description: It
+    spits poison needles and
+    poisonous fluid. It also
+    forms
   poisonous puddles to attack.
 
 R-175. Lickilicky
-    Found: Cargo Ship (after com
-    Group: Normal
-    Poké Assist: Normal
+    Found: Cargo Ship (after
+    completing game once) Group:
+    Normal Poké Assist: Normal
     Field Move: Crush 3
-    Description: It pokes out it
+    Description: It pokes out
+    its tongue to attack.
 
 R-176. Ponyta
-    Found: Chroma Road
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 1
-    Description: It attacks by l
+    Found: Chroma Road Group:
+    Fire Poké Assist: Fire Field
+    Move: Burn 1 Description: It
+    attacks by launching fire
+    and charging.
 
 R-177. Rapidash
     Found: Chroma Highlands
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 3
-    Description: It attacks by l
+    Group: Fire Poké Assist:
+    Fire Field Move: Burn 3
+    Description: It attacks by
+    launching fire and charging.
 
 R-178. Girafarig
-    Found: Chroma Road
-    Group: Psychic
-    Poké Assist: Psychic
+    Found: Chroma Road Group:
+    Psychic Poké Assist: Psychic
     Field Move: Tackle 2
-    Description: It attacks by l
-    waves.
+    Description: It attacks by
+    launching psychic orbs and
+    psychic shock waves.
 
 R-179. Tauros
-    Found: Chroma Road
-    Group: Normal
-    Poké Assist: Normal
+    Found: Chroma Road Group:
+    Normal Poké Assist: Normal
     Field Move: Tackle 2
-    Description: It thrashes wil
+    Description: It thrashes
+    wildly and rams to attack.
 
 R-180. Ninjask
-    Found: Chroma Road (use Tack
-    Group: Bug
-    Poké Assist: Bug
+    Found: Chroma Road (use
+    Tackle 1 on Forest Trees)
+    Group: Bug Poké Assist: Bug
     Field Move: Cut 2
     Description: It flies around
+    at blinding speed.
 
 R-181. Shieldon
-    Found: Peril Cliffs (during 
-    Group: Steel
-    Poké Assist: Steel
-    Field Move: N/A
-    Description: It rams with it
-    to attack.
+    Found: Peril Cliffs (during
+    "Please Save Shieldon"
+    Quest) Group: Steel Poké
+    Assist: Steel Field Move:
+    N/A Description: It rams
+    with its rock-hard head. It
+    also makes stones drop to
+    attack.
 
 R-182. Bastiodon
-    Found: Chroma Highlands, Chr
-    Group: Steel
-    Poké Assist: Steel
-    Field Move: Tackle 3
-    Description: It rams with it
-    to attack.
+    Found: Chroma Highlands,
+    Chroma Ruins Group: Steel
+    Poké Assist: Steel Field
+    Move: Tackle 3 Description:
+    It rams with its rock-hard
+    head. It also makes stones
+    drop to attack.
 
 R-183. Abra
     Found: Chroma Highlands
-    Group: Psychic
-    Poké Assist: Psychic
-    Field Move: Tackle 1
+    Group: Psychic Poké Assist:
+    Psychic Field Move: Tackle 1
     Description: It warps around
-    your chance to catch it.
+    to evade capture. Listen for
+    its cries for your chance to
+    catch it.
 
 R-184. Alakazam
-    Found: Altru Tower
-    Group: Psychic
-    Poké Assist: Psychic
+    Found: Altru Tower Group:
+    Psychic Poké Assist: Psychic
     Map Move: Teleport
     Description: It warps around
-    orbs.
+    to move. It attacks by
+    letting loose strange orbs.
 
 R-185. Murkrow
     Found: Chroma Highlands
-    Group: Dark
-    Poké Assist: Dark
-    Field Move: Cut 1
-    Description: It attacks by r
+    Group: Dark Poké Assist:
+    Dark Field Move: Cut 1
+    Description: It attacks by
+    releasing a dark pulse.
 
 R-186. Honchkrow
     Found: Oil Field Hideout
-    Group: Dark
-    Poké Assist: Dark
-    Field Move: Cut 3
+    Group: Dark Poké Assist:
+    Dark Field Move: Cut 3
     Description: It looses gusts
+    of dark wind and twisters.
+    It also attacks
        with dark pulses.
 
 R-187. Koffing
     Found: Chroma Highlands
-    Group: Poison
-    Poké Assist: Poison
-    Field Move: Tackle 1
-    Description: It attacks by s
+    Group: Poison Poké Assist:
+    Poison Field Move: Tackle 1
+    Description: It attacks by
+    scattering poison gas.
 
 R-188. Weezing
-    Found: Almia Castle
-    Group: Poison
-    Poké Assist: Poison
+    Found: Almia Castle Group:
+    Poison Poké Assist: Poison
     Field Move: Tackle 2
-    Description: It attacks by s
-    poison.
+    Description: It attacks by
+    scattering poison gas and
+    spitting up pools of poison.
 
 R-189. Skarmory
     Found: Chroma Highlands
-    Group: Steel
-    Poké Assist: Steel
-    Area Move: Demist
-    Description: It whips up gus
-    ironclad body to attack.
+    Group: Steel Poké Assist:
+    Steel Area Move: Demist
+    Description: It whips up
+    gusts with its large wings.
+    It also uses its ironclad
+    body to attack.
 
 R-190. Duskull
-    Found: Chroma Ruins
-    Group: Ghost
-    Poké Assist: Ghost
+    Found: Chroma Ruins Group:
+    Ghost Poké Assist: Ghost
     Field Move: Psy Power 1
-    Description: While protectin
-    eerie orbs.
+    Description: While
+    protecting itself with
+    ghostly fire, it attacks
+    with eerie orbs.
 
 R-191. Dusclops
     Found: Oil Field Hideout
-    Group: Ghost
-    Poké Assist: Ghost
-    Field Move: Psy Power 3
-    Description: It attacks by l
+    Group: Ghost Poké Assist:
+    Ghost Field Move: Psy Power
+    3 Description: It attacks by
+    launching cursed orbs and
+    orbs imbued with
       loathsome emotions.
 
 R-192. Dusknoir
-    Found: Hippowdon Temple (aft
-    Group: Ghost
-    Poké Assist: Ghost
-    Field Move: Psy Power 3
-    Description: It protects its
-    eerie orbs.
+    Found: Hippowdon Temple
+    (after completing game once)
+    Group: Ghost Poké Assist:
+    Ghost Field Move: Psy Power
+    3 Description: It protects
+    itself with a ghostly fire.
+    It attacks with eerie orbs.
 
 R-193. Sableye
-    Found: Chroma Ruins, Hippowd
-    Group: Dark
-    Poké Assist: Dark
-    Field Move: Cut 2
-    Description: It launches eer
+    Found: Chroma Ruins,
+    Hippowdon Temple, Altru
+    Building Group: Dark Poké
+    Assist: Dark Field Move: Cut
+    2 Description: It launches
+    eerie orbs and dark pulses
+    to attack.
 
 R-194. Sandshrew
-    Found: Chroma Ruins
-    Group: Ground
-    Poké Assist: Ground
+    Found: Chroma Ruins Group:
+    Ground Poké Assist: Ground
     Field Move: Tunnel 1
-    Description: It hurls lumps 
+    Description: It hurls lumps
+    of sand to attack.
 
 R-195. Sandslash
     Found: Hippowdon Temple
-    Group: Ground
-    Poké Assist: Ground
-    Field Move: Tunnel 1
-    Description: It hurls lumps 
+    Group: Ground Poké Assist:
+    Ground Field Move: Tunnel 1
+    Description: It hurls lumps
+    of sand to attack.
 
 R-196. Spiritomb
-    Found: Chroma Ruins
-    Group: Ghost
-    Poké Assist: Ghost
-    Field Move: N/A
-    Description: It warps from r
+    Found: Chroma Ruins Group:
+    Ghost Poké Assist: Ghost
+    Field Move: N/A Description:
+    It warps from rock to rock.
+    It uses a variety of
+    attacks.
 
 R-197. Spheal
  Found: Crysta Cave, Hia Valley
-    Group: Ice
-    Poké Assist: Ice
+    Group: Ice Poké Assist: Ice
     Field Move: Tackle 1
-    Description: It attacks by s
+    Description: It attacks by
+    spitting hunks of ice.
 
 R-198. Sealeo
  Found: Crysta Cave, Hia Valley
-    Group: Ice
-    Poké Assist: Ice
+    Group: Ice Poké Assist: Ice
     Field Move: Crush 2
-    Description: It attacks by b
-    its mouth.
+    Description: It attacks by
+    blowing powdered snow and
+    hunks of ice from its mouth.
 
 R-199. Walrein
-    Found: Almia Castle
-    Group: Ice
-    Poké Assist: Ice
-    Field Move: Crush 3
-    Description: It attacks by s
+    Found: Almia Castle Group:
+    Ice Poké Assist: Ice Field
+    Move: Crush 3 Description:
+    It attacks by spitting hunks
+    of ice and letting loose
     blizzards.
 
 R-200. Swinub
-    Found: Crysta Cave
-    Group: Ground
-    Poké Assist: Ice
+    Found: Crysta Cave Group:
+    Ground Poké Assist: Ice
     Field Move: Tackle 1
-    Description: It breathes pow
+    Description: It breathes
+    powdered snow and rams to
+    attack.
 
 R-201. Piloswine
  Found: Crysta Cave, Hia Valley
-    Group: Ground
-    Poké Assist: Ice
-    Field Move: Tackle 3
-    Description: It breathes pow
+    Group: Ground Poké Assist:
+    Ice Field Move: Tackle 3
+    Description: It breathes
+    powdered snow to attack.
 
 R-202. Mamoswine
-    Found: Altru Building (durin
-    Group: Ground
-    Poké Assist: Ground
-    Field Move: N/A
-    Description: It triggers tre
+    Found: Altru Building
+    (during Mission 16) Group:
+    Ground Poké Assist: Ground
+    Field Move: N/A Description:
+    It triggers tremors and
+    breathes powdered snow to
+    attack.
 
 R-203. Jigglypuff
-    Found: Crysta Cave
-    Group: Normal
-    Poké Assist: Normal
+    Found: Crysta Cave Group:
+    Normal Poké Assist: Normal
     Field Move: Tackle 1
-    Description: It attacks by s
+    Description: It attacks by
+    singing to send out musical
+    notes.
 
 R-204. Wigglytuff
-    Found: Almia Castle
-    Group: Normal
-    Poké Assist: Normal
+    Found: Almia Castle Group:
+    Normal Poké Assist: Normal
     Field Move: Tackle 2
-    Description: It attacks by s
+    Description: It attacks by
+    singing to send out musical
+    notes. It also
   jumps to create shock waves.
 
 R-205. Chingling
-    Found: Crysta Cave
-    Group: Psychic
-    Poké Assist: Psychic
+    Found: Crysta Cave Group:
+    Psychic Poké Assist: Psychic
     Map Move: Teleport
     Description: It attacks with
+    strange orbs and sounds.
 
 R-206. Piplup
-    Found: Hia Valley (during "P
-    Group: Water
-    Poké Assist: Water
-    Field Move: N/A
-    Description: It spits water 
+    Found: Hia Valley (during
+    "Please Save Piplup" Quest)
+    Group: Water Poké Assist:
+    Water Field Move: N/A
+    Description: It spits water
+    to attack.
 
 R-207. Prinplup
-    Found: Hia Valley
-    Group: Ice
-    Poké Assist: Ice
-    Field Move: Cut 2
-    Description: It hurls blobs 
+    Found: Hia Valley Group: Ice
+    Poké Assist: Ice Field Move:
+    Cut 2 Description: It hurls
+    blobs of water. It also
+    attacks by ramming.
 
 R-208. Empoleon
-    Found: Ice Lake
-    Group: Water
-    Poké Assist: Water
-    Area Move: River Flow 2
-    Description: It attacks by s
+    Found: Ice Lake Group: Water
+    Poké Assist: Water Area
+    Move: River Flow 2
+    Description: It attacks by
+    spitting bubbles and blobs
+    of water.
 
 R-209. Delibird
-    Found: Hia Valley (use Tackl
-    Group: Ice
-    Poké Assist: Ice
+    Found: Hia Valley (use
+    Tackle 1 on Snow Trees)
+    Group: Ice Poké Assist: Ice
     Field Move: Crush 1
-    Description: It hurls hunks 
+    Description: It hurls hunks
+    of ice to attack.
 
 R-210. Jynx
  Found: Ice Lake, Almia Castle
-    Group: Psychic
-    Poké Assist: Psychic
-    Map Move: Teleport
-    Description: It attacks by l
-    with a psychic barrier.
+    Group: Psychic Poké Assist:
+    Psychic Map Move: Teleport
+    Description: It attacks by
+    launching strange orbs. It
+    protects itself with a
+    psychic barrier.
 
 R-211. Snover
-    Found: Volcano Cave (during 
-    Group: Ice
-    Poké Assist: Ice
-    Field Move: N/A
-    Description: It attacks by l
+    Found: Volcano Cave (during
+    "Snover's Mysterious
+    Presence" Quest) Group: Ice
+    Poké Assist: Ice Field Move:
+    N/A Description: It attacks
+    by launching leaves and
+    hurling hunks of ice.
 
 R-212. Abomasnow
-    Found: Ice Lake (use Tackle 
-    Group: Ice
-    Poké Assist: Ice
-    Field Move: Crush 3
-    Description: It throws leave
+    Found: Ice Lake (use Tackle
+    3 on Solid Snow) Group: Ice
+    Poké Assist: Ice Field Move:
+    Crush 3 Description: It
+    throws leaves to attack. It
+    also summons blizzards.
 
 R-213. Snorunt
-    Found: Almia Castle
-    Group: Ice
-    Poké Assist: Ice
-    Field Move: Crush 1
-    Description: It blows powder
-    attack.
+    Found: Almia Castle Group:
+    Ice Poké Assist: Ice Field
+    Move: Crush 1 Description:
+    It blows powdered snow and
+    hunks of ice from its mouth
+    to attack.
 
 R-214. Glalie
-    Found: Almia Castle, Altru B
-    Group: Ice
-    Poké Assist: Ice
-    Field Move: Crush 3
-    Description: It flies around
+    Found: Almia Castle, Altru
+    Building Group: Ice Poké
+    Assist: Ice Field Move:
+    Crush 3 Description: It
+    flies around at incredible
+    speed while making blocks of
     ice fall.
 
 R-215. Froslass
-    Found: Almia Castle
-    Group: Ice
-    Poké Assist: Ice
-    Field Move: Crush 4
-    Description: It makes hunks 
+    Found: Almia Castle Group:
+    Ice Poké Assist: Ice Field
+    Move: Crush 4 Description:
+    It makes hunks of ice fall.
+    It protects itself with a
     ghostly fire.
 
 R-216. Scyther
-    Found: Almia Castle, Altru B
-    Group: Bug
-    Poké Assist: Bug
-    Field Move: Cut 3
-    Description: It attacks by s
+    Found: Almia Castle, Altru
+    Building Group: Bug Poké
+    Assist: Bug Field Move: Cut
+    3 Description: It attacks by
+    slashing with both arms
+    while jumping around.
 
 R-217. Scizor
-    Found: Altru Building
-    Group: Steel
-    Poké Assist: Steel
+    Found: Altru Building Group:
+    Steel Poké Assist: Steel
     Field Move: Cut 4
-    Description: It dashes aroun
+    Description: It dashes
+    around quickly while
+    attacking with its steel
     pincers.
 
 R-218. Dratini
-    Found: Almia Castle
-    Group: Dragon
-    Poké Assist: Dragon
+    Found: Almia Castle Group:
+    Dragon Poké Assist: Dragon
     Field Move: Tackle 1
-    Description: It attacks by b
+    Description: It attacks by
+    breathing blue flames that
+    are unique to
      Dragon-group Pokémon.
 
 R-219. Dragonair
-    Found: Almia Castle (during/
-    Group: Dragon
-    Poké Assist: Dragon
+    Found: Almia Castle
+    (during/after "Elaine's
+    Favorite" Quest) Group:
+    Dragon Poké Assist: Dragon
     Field Move: Crush 3
-    Description: It attacks by b
-    mysterious barrier for prote
+    Description: It attacks by
+    breathing blue flames. It
+    also has a mysterious
+    barrier for protection.
 
 R-220. Misdreavus
-    Found: Chroma Ruins (during 
-    Group: Ghost
-    Poké Assist: Ghost
-    Field Move: N/A
-    Description: It attacks by l
+    Found: Chroma Ruins (during
+    "Misdreavus Mischief
+    Mystery" Quest) Group: Ghost
+    Poké Assist: Ghost Field
+    Move: N/A Description: It
+    attacks by letting loose
+    psychic orbs and ones imbued
     with loathsome emotions.
 
 R-221. Mismagius
-    Found: Almia Castle
-    Group: Ghost
-    Poké Assist: Ghost
+    Found: Almia Castle Group:
+    Ghost Poké Assist: Ghost
     Field Move: Psy Power 3
-    Description: It attacks by l
+    Description: It attacks by
+    launching eerie orbs and
+    orbs imbued with
       loathsome emotions.
 
 R-222. Riolu
-    Found: Almia Castle
-    Group: Fighting
-    Poké Assist: Fighting
-    Field Move: Crush 1
+    Found: Almia Castle Group:
+    Fighting Poké Assist:
+    Fighting Field Move: Crush 1
     Description: It leaps around
+    quickly while throwing
+    punches to attack.
 
 R-223. Lucario
-    Found: Almia Castle (during 
-    Group: Fighting
-    Poké Assist: Fighting
-    Field Move: N/A
-    Description: It launches orb
+    Found: Almia Castle (during
+    Mission 10) Group: Fighting
+    Poké Assist: Fighting Field
+    Move: N/A Description: It
+    launches orbs of aura power.
+    It becomes stronger if its
     aura cloaks it.
 
 R-224. Torkoal
-    Found: Volcano Cave
-    Group: Fire
-    Poké Assist: Fire
-    Area Move: Magma Flow
-    Description: It launches blo
+    Found: Volcano Cave Group:
+    Fire Poké Assist: Fire Area
+    Move: Magma Flow
+    Description: It launches
+    blobs of fire from its back
+    to attack.
 
 R-225. Bagon
-    Found: Volcano Cave
-    Group: Dragon
-    Poké Assist: Dragon
+    Found: Volcano Cave Group:
+    Dragon Poké Assist: Dragon
     Field Move: Tackle 1
-    Description: It tackles to a
+    Description: It tackles to
+    attack.
 
 R-226. Shelgon
-    Found: Volcano Cave
-    Group: Dragon
-    Poké Assist: Dragon
+    Found: Volcano Cave Group:
+    Dragon Poké Assist: Dragon
     Field Move: Tackle 2
-    Description: It breathes blu
+    Description: It breathes
+    blue flames and attacks
+    while thrashing about.
 
 R-227. Salamence
-    Found: Vien Forest, Crysta C
-    Group: Dragon
-    Poké Assist: Dragon
-    Field Move: Crush 4
-    Description: It lets loose s
+    Found: Vien Forest, Crysta
+    Cave (after completing game
+    once) Group: Dragon Poké
+    Assist: Dragon Field Move:
+    Crush 4 Description: It lets
+    loose shock waves and
+    breathes powerful flames.
 
 R-228. Heatran
-    Found: Volcano Cave (during 
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: N/A
-    Description: It attacks by l
+    Found: Volcano Cave (during
+    Mission 11) Group: Fire Poké
+    Assist: Fire Field Move: N/A
+    Description: It attacks by
+    launching magma that
+    explodes.
 
 R-229. Horsea
-    Found: Sea of Wailord
-    Group: Water
-    Poké Assist: Water
+    Found: Sea of Wailord Group:
+    Water Poké Assist: Water
     Field Move: Tackle 2
-    Description: It blows bubble
+    Description: It blows
+    bubbles from its mouth to
+    attack.
 
 R-230. Seadra
-    Found: Sea of Wailord
-    Group: Water
-    Poké Assist: Water
+    Found: Sea of Wailord Group:
+    Water Poké Assist: Water
     Field Move: Soak 3
-    Description: It blows bubble
+    Description: It blows
+    bubbles from its mouth to
+    attack.
 
 R-231. Kingdra
-    Found: Sea of Wailord
-    Group: Water
-    Poké Assist: Dragon
+    Found: Sea of Wailord Group:
+    Water Poké Assist: Dragon
     Field Move: Crush 4
-    Description: It blows bubble
+    Description: It blows
+    bubbles from its mouth and
+    lets loose widening
    rings of water to attack.
 
 R-232. Huntail
-    Found: Sea of Wailord
-    Group: Water
-    Poké Assist: Dark
+    Found: Sea of Wailord Group:
+    Water Poké Assist: Dark
     Field Move: Crush 3
-    Description: It attacks by l
+    Description: It attacks by
+    letting loose dark pulses
+    and biting.
 
 R-233. Gorebyss
-    Found: Sea of Wailord
-    Group: Water
-    Poké Assist: Psychic
+    Found: Sea of Wailord Group:
+    Water Poké Assist: Psychic
     Field Move: Crush 2
-    Description: It attacks by s
+    Description: It attacks by
+    spitting out orbs of psychic
+    power.
 
 R-234. Tentacruel
-    Found: Sea of Wailord
-    Group: Water
-    Poké Assist: Water
+    Found: Sea of Wailord Group:
+    Water Poké Assist: Water
     Field Move: Crush 2
-    Description: It shoots poiso
+    Description: It shoots
+    poisonous needles and
+    scatters poison to attack.
 
 R-235. Omanyte
-    Found: Sea of Wailord
-    Group: Water
-    Poké Assist: Water
+    Found: Sea of Wailord Group:
+    Water Poké Assist: Water
     Field Move: Tackle 2
-    Description: It blows bubble
+    Description: It blows
+    bubbles from its mouth to
+    attack.
 
 R-236. Omastar
-    Found: Sea of Wailord (durin
-    Group: Water
-    Poké Assist: Water
-    Field Move: Soak 3
-    Description: It shoots bubbl
+    Found: Sea of Wailord
+    (during/after "Unidentified
+    Fleeing Omastar" Quest)
+    Group: Water Poké Assist:
+    Water Field Move: Soak 3
+    Description: It shoots
+    bubbles from its mouth to
+    attack.
 
 R-237. Wailmer
-    Found: Sea of Wailord
-    Group: Water
-    Poké Assist: Water
+    Found: Sea of Wailord Group:
+    Water Poké Assist: Water
     Field Move: Tackle 2
-    Description: It blows bubble
+    Description: It blows
+    bubbles from its mouth and
+    lets loose widening
    rings of water to attack.
 
 R-238. Wailord
-    Found: Sea of Wailord
-    Group: Water
-    Poké Assist: Water
-    Field Move: N/A
-    Description: This Pokémon is
+    Found: Sea of Wailord Group:
+    Water Poké Assist: Water
+    Field Move: N/A Description:
+    This Pokémon is a
+    gargantuan. It is far too
+    big to capture.
 
 R-239. Cacnea
-    Found: Oil Field Hideout, Ha
-    Group: Grass
-    Poké Assist: Grass
-    Field Move: Tackle 1
-    Description: It attacks by s
+    Found: Oil Field Hideout,
+    Haruba Desert Group: Grass
+    Poké Assist: Grass Field
+    Move: Tackle 1 Description:
+    It attacks by scattering
+    needles.
 
 R-240. Cacturne
-    Found: Haruba Desert (use Ta
-    Group: Dark
-    Poké Assist: Dark
-    Field Move: Crush 2
-    Description: It attacks by s
+    Found: Haruba Desert (use
+    Tackle 2 on Scarecrow)
+    Group: Dark Poké Assist:
+    Dark Field Move: Crush 2
+    Description: It attacks by
+    scattering needles.
 
 R-241. Mothim
     Found: Oil Field Hideout
-    Group: Bug
-    Poké Assist: Flying
-    Field Move: Cut 2
-    Description: It lets loose t
+    Group: Bug Poké Assist:
+    Flying Field Move: Cut 2
+    Description: It lets loose
+    twisters and poison dust
+    while protecting
  itself with a psychic barrier.
 
 R-242. Victreebel
-    Found: Oil Field Hideout, Hi
-    Group: Grass
-    Poké Assist: Grass
+    Found: Oil Field Hideout,
+    Hippowdon Temple Group:
+    Grass Poké Assist: Grass
     Field Move: Cut 2
-    Description: It shoots leave
+    Description: It shoots
+    leaves and slops poison
+    around to attack.
 
 R-243. Sceptile
     Found: Oil Field Hideout
-    Group: Grass
-    Poké Assist: Grass
-    Field Move: Cut 3
+    Group: Grass Poké Assist:
+    Grass Field Move: Cut 3
     Description: It dashes about
+    quickly while shooting
+    leaves to attack.
 
 R-244. Sneasel
-    Found: Almia Castle (during 
-    Group: Dark
-    Poké Assist: Dark
-    Field Move: N/A
+    Found: Almia Castle (during
+    "Mischeivous Sneasel" Quest)
+    Group: Dark Poké Assist:
+    Dark Field Move: N/A
     Description: It hurls blocks
-    attack.
+    of ice and sends gusts of
+    dark wind to attack.
 
 R-245. Weavile
-    Found: Almia Castle (after c
-    Group: Dark
-    Poké Assist: Dark
-    Field Move: Cut 4
-    Description: Its attacks con
+    Found: Almia Castle (after
+    completing game once) Group:
+    Dark Poké Assist: Dark Field
+    Move: Cut 4 Description: Its
+    attacks consist of gusts of
+    dark wind, hunks of ice, and
     dark pulses.
 
 R-246. Hippopotas
-    Found: Hippowdon Temple (dur
-    Group: Ground
-    Poké Assist: Ground
-    Field Move: N/A
-    Description: It causes tremo
+    Found: Hippowdon Temple
+    (during "Who Is on
+    Hippowdon's Nose?" Quest)
+    Group: Ground Poké Assist:
+    Ground Field Move: N/A
+    Description: It causes
+    tremors and spits hunks of
+    sand to attack.
 
 R-247. Hippowdon
-    Found: Haruba Desert
-    Group: Ground
-    Poké Assist: Ground
+    Found: Haruba Desert Group:
+    Ground Poké Assist: Ground
     Area Move: Sand Fill
-    Description: It triggers tre
+    Description: It triggers
+    tremors and opens fissures
+    in the ground. It
    also spits hunks of sand.
 
 R-248. Bronzor
     Found: Hippowdon Temple
-    Group: Steel
-    Poké Assist: Steel
-    Field Move: Crush 1
-    Description: It launches iro
+    Group: Steel Poké Assist:
+    Steel Field Move: Crush 1
+    Description: It launches
+    iron balls and strange orbs
+    to attack.
 
 R-249. Bronzong
     Found: Hippowdon Temple
-    Group: Steel
-    Poké Assist: Steel
-    Field Move: Crush 3
-    Description: It launches iro
+    Group: Steel Poké Assist:
+    Steel Field Move: Crush 3
+    Description: It launches
+    iron balls and strange orbs
+    to attack.
 
 R-250. Claydol
     Found: Hippowdon Temple
-    Group: Psychic
-    Poké Assist: Psychic
-    Field Move: Crush 3
-    Description: It scatters mys
+    Group: Psychic Poké Assist:
+    Psychic Field Move: Crush 3
+    Description: It scatters
+    mysterious energy orbs. It
+    also lets loose
 psychic energy waves to attack.
 
 R-251. Gible
-    Found: Volcano Cave (during 
-    Group: Dragon
-    Poké Assist: Dragon
-    Field Move: N/A
-    Description: It spits hunks 
+    Found: Volcano Cave (during
+    "Pelipper's Plea" Quest)
+    Group: Dragon Poké Assist:
+    Dragon Field Move: N/A
+    Description: It spits hunks
+    of dirt to attack.
 
 R-252. Gabite
-    Found: Hippowdon Temple, Alt
-    Group: Dragon
-    Poké Assist: Dragon
-    Field Move: Cut 3
-    Description: It spits hunks 
+    Found: Hippowdon Temple,
+    Altru Building Group: Dragon
+    Poké Assist: Dragon Field
+    Move: Cut 3 Description: It
+    spits hunks of dirt to
+    attack. It also slashes with
     powerful claws.
 
 R-253. Garchomp
-    Found: Hippowdon Temple (aft
-    Group: Dragon
-    Poké Assist: Dragon
+    Found: Hippowdon Temple
+    (after Mission 15) Group:
+    Dragon Poké Assist: Dragon
     Field Move: Crush 5
-    Description: It spits hunks 
-    speed.
+    Description: It spits hunks
+    of dirt to attack. It also
+    rams at incredible speed.
 
 R-254. Cresselia
-    Found: Hippowdon Temple (dur
-    Group: Psychic
-    Poké Assist: Psychic
-    Field Move: N/A
-    Description: It lets loose s
-    psychic power.
+    Found: Hippowdon Temple
+    (during Mission 14) Group:
+    Psychic Poké Assist: Psychic
+    Field Move: N/A Description:
+    It lets loose strange orbs.
+    It attacks by spitting orbs
+    of psychic power.
 
 R-255. Blaziken
-    Found: Altru Building
-    Group: Fire
-    Poké Assist: Fire
-    Field Move: Burn 3
-    Description: Its kicks send 
+    Found: Altru Building Group:
+    Fire Poké Assist: Fire Field
+    Move: Burn 3 Description:
+    Its kicks send fireballs
+    flying. It also sends out
+    pillars
        of fire to attack.
 
 R-256. Absol
     Found: Altru Building, Altru
-    Group: Dark
-    Poké Assist: Dark
-    Field Move: Cut 4
-    Description: It launches dar
+    Tower Group: Dark Poké
+    Assist: Dark Field Move: Cut
+    4 Description: It launches
+    dark pulses and gusts of
+    dark wind to attack.
 
 R-257. Darkrai
-    Found: Altru Tower (during M
-    Group: Dark
-    Poké Assist: Dark
-    Area Move: Dark Power
-    Description: It sends gusts 
-    attack.
+    Found: Altru Tower (during
+    Mission 16) Group: Dark Poké
+    Assist: Dark Area Move: Dark
+    Power Description: It sends
+    gusts of dark wind and lets
+    loose dark pulses to attack.
 
 R-258. Aerodactyl
-    Found: Peril Cliffs (after c
-    Group: Rock
-    Poké Assist: Flying
+    Found: Peril Cliffs (after
+    completing game once) Group:
+    Rock Poké Assist: Flying
     Field Move: Crush 4
     Description: It flies around
+    while firing a powerful beam
+    and supersonic
      waves from its mouth.
 
 R-259. Flygon
-    Found: Habura Desert (after 
-    Group: Dragon
-    Poké Assist: Dragon
+    Found: Habura Desert (after
+    completing game once) Group:
+    Dragon Poké Assist: Dragon
     Field Move: Cut 4
     Description: It flies around
-    shock waves.
+    while letting loose
+    supersonic waves and shock
+    waves.
 
 R-260. Altaria
-    Found: Chroma Highlands (aft
-    Group: Dragon
-    Poké Assist: Dragon
-    Field Move: Cut 2
-    Description: It protects its
+    Found: Chroma Highlands
+    (after completing game once)
+    Group: Dragon Poké Assist:
+    Dragon Field Move: Cut 2
+    Description: It protects
+    itself with a curious
+    barrier. It attacks with
    twisters and blue flames.
 
 R-261. Togekiss
-    Found: Altru Tower (during "
-    Group: Normal
-    Poké Assist: Normal
-    Field Move: Cut 3
-    Description: It spits aura o
+    Found: Altru Tower (during
+    "White Pokémon for Peace?"
+    Quest) Group: Normal Poké
+    Assist: Normal Field Move:
+    Cut 3 Description: It spits
+    aura orbs and twisters to
+    attack. It protects
  itself with a strange barrier.
 
 R-262. Porygon-Z
-    Found: Oil Field Hideout (af
-    Group: Normal
-    Poké Assist: Normal
-    Field Move: Crush 3
-    Description: It protects its
+    Found: Oil Field Hideout
+    (after completing game once)
+    Group: Normal Poké Assist:
+    Normal Field Move: Crush 3
+    Description: It protects
+    itself with a strange
+    barrier. It attacks by
   discharging electric bolts.
 
 R-263. Celebi
-    Found: Vien Forest (during/a
-    Group: Grass
-    Poké Assist: Grass
-    Field Move: N/A
-    Description: It protects its
+    Found: Vien Forest
+    (during/after "Wish for Vien
+    Forest" Quest) Group: Grass
+    Poké Assist: Grass Field
+    Move: N/A Description: It
+    protects itself with a
+    psychic barrier. It attacks
+    by
   shooting high-speed leaves.
 
 R-264. Regirock
-    Found: Vien Forest (use Crus
-    Group: Rock
-    Poké Assist: Rock
-    Field Move: N/A
-    Description: It opens fissur
-    to attack.
+    Found: Vien Forest (use
+    Crush 5 on Rock Statue)
+    Group: Rock Poké Assist:
+    Rock Field Move: N/A
+    Description: It opens
+    fissures in the ground. It
+    also triggers rockfalls to
+    attack.
 
 R-265. Regice
-    Found: Almia Castle (use Bur
-    Group: Ice
-    Poké Assist: Ice
-    Field Move: N/A
-    Description: It sends out sh
+    Found: Almia Castle (use
+    Burn 5 on Ice Statue) Group:
+    Ice Poké Assist: Ice Field
+    Move: N/A Description: It
+    sends out shock waves. It
+    also attacks with blocks of
     ice.
 
 R-266. Registeel
     Found: Chroma Ruins (use Cut
-    Group: Steel
-    Poké Assist: Steel
-    Field Move: N/A
-    Description: It guards itsel
+    5 on Steel Statue) Group:
+    Steel Poké Assist: Steel
+    Field Move: N/A Description:
+    It guards itself with an
+    electric barrier. It hurls
+    hunks of
    magnetism and electricity.
 
 R-267. Regigigas
-    Found: Hippowdon Temple (aft
+    Found: Hippowdon Temple
+    (after capturing all 266
+    Pokémon and visiting
   Ranger Union)
-    Group: Normal
-    Poké Assist: Normal
-    Field Move: N/A
-    Description: It creates a sh
-    to attack.
+    Group: Normal Poké Assist:
+    Normal Field Move: N/A
+    Description: It creates a
+    shock wave with every step.
+    It throws punches to attack.
 
 ********************************
 
@@ -6784,8 +7093,11 @@ Reward: Grass Defense 1
 Description: I got asked to do
 the milking. I surely would,
 even though I'm
-   deathly a-scared of Pokémon, 
-   on me... Can you go to my far
+   deathly a-scared of Pokémon,
+   but our Miltank's gone all
+   feisty on me... Can you go to
+   my farm and calm down my
+   Miltank?
 
 For your very first quest, you
 are sent to the Vientown farm.
@@ -6809,8 +7121,10 @@ Reward: Dark Defense 1
 Description: A falling rock
 flattened the sign for Breeze
 Hill. I'm hoping to
-   fix the sign, but that giant 
-   you do something about it?
+   fix the sign, but that giant
+   rock is hopelessly in the
+   way. Can you do something
+   about it?
 
 Head to Nabiki Beach and follow
 the path going northwest towards
@@ -6836,7 +7150,8 @@ Reward: Electric Defense 1
 Description: After that awful
 forest fire, the cute Combee
 haven't come
-   around. It would reassure me 
+   around. It would reassure me
+   so if you would let me see an
      adorable Combee again.
 
 For this quest, all you need to
@@ -6858,8 +7173,11 @@ Reward: Bug Defense 1
 Description: Some sketchy
 characters ditched a bunch of
 wooden crates in the
-   forest near here. I broke mos
-   now, I'm plain worn out. Can 
+   forest near here. I broke
+   most of them up except for
+   two. But now, I'm plain worn
+   out. Can you take over for
+   me?
 
 From where you accept the quest,
 head into the next area of the
@@ -6885,9 +7203,11 @@ Reward: Rock Defense 1
 Description: I caught a
 Lumineon, but no one believes
 me. Can someone take a
-   boat out to Puel Sea and prov
-   capture one, its data will be
-   proof!
+   boat out to Puel Sea and
+   prove that Lumineon live
+   there? If you capture one,
+   its data will be recorded, so
+   that will do as proof!
 
 After accepting the quest, enter
 the boat house nearby. Talk to
@@ -6914,9 +7234,11 @@ Client: Man (Pueltown) Reward:
 Ground Defense 1 Description:
 What is it, you ask? The answer
 is Nosepass! It's Nosepass above
-   all! Nothing else will do! De
-   Nosepass! I can't tell you wh
-   Nosepass!
+   all! Nothing else will do!
+   Deprive me of my food, but
+   not Nosepass! I can't tell
+   you why now, but, please,
+   bring me a Nosepass!
 
 For this quest, you simply need
 to capture a Nosepass and bring
@@ -6935,8 +7257,11 @@ Reward: Power Plus A
 Description: A Pokémon grabbed
 my lunch and hightailed it. It
 went off to the
-   west of Vien Forest. The Poké
-   what I took to be hands. Can 
+   west of Vien Forest. The
+   Pokémon had two tails that
+   ended in what I took to be
+   hands. Can you find it and
+   bring it to me?
 
 For this quest, simply head to
 the area directly west of where
@@ -6957,7 +7282,8 @@ Description: Our Eevee has gone
 missing. Can someone fetch it
 for us? I'm not
    sure if this is a useful hint
-   sea breeze.
+   or not, but our Eevee likes
+   the sea breeze.
 
 Head to the harbor area of
 Pueltown after accepting the
@@ -6980,7 +7306,9 @@ Reward: Fire Defense 1
 Description: We need an Oddish
 for research purposes. We've had
 no success
-   finding one, however. Is it p
+   finding one, however. Is it
+   possible for you to bring one
+   in?
 
 Head to the second area of Union
 Road, by the cabin. You will
@@ -7003,8 +7331,9 @@ Reward: Time Assist A
 Description: I hurt my back
 while raking the leaves in the
 school yard. The
-   leaves are gathered in three 
-   them?
+   leaves are gathered in three
+   piles. Can I get you to set
+   fire to them?
 
 Go outside to the Schoolyard and
 you will spot three piles in the
@@ -7028,8 +7357,11 @@ Reward: Long Line A Description:
 I'd appreciate it if someone
 could clear away some fallen
 logs
-   in Vien Forest. They're block
-   and inconvenience of all. The
+   in Vien Forest. They're
+   blocking paths, much to the
+   annoyance and inconvenience
+   of all. There were two, if I
+   recall correctly.
 
 After accepting the quest, head
 back into Vien Forest. In the
@@ -7057,7 +7389,9 @@ Road) Reward: Ghost Defense 1
 Description: Bring us a Cherrim.
 Pretty please? Real ones should
 be on a
-   cliff. Yes, high up on Peril 
+   cliff. Yes, high up on Peril
+   Cliffs. That's where they
+   are.
 
 Head to the Peril Cliffs after
 accepting this quest. Make your
@@ -7083,7 +7417,9 @@ Description: That man all by
 himself in the hidden harbor...
 He's actually a
    member of Team Dim Sun. But I
-   alone. Can you go look in on 
+   feel sorry for him being out
+   there alone. Can you go look
+   in on him?
 
 After you accept the quest,
 enter the Volcano Cave to the
@@ -7109,9 +7445,12 @@ Reward: Poison Defense 1
 Description: I'm a collector of
 exquisite fragrances. I have
 long sought the
-   effervescent aroma of Muk to 
-   authority that one was seen i
-   have its aroma! You must capt
+   effervescent aroma of Muk to
+   no avail. I have it on good
+   authority that one was seen
+   in a cave in Boyle Volcano. I
+   must have its aroma! You must
+   capture it!
 
 For this quest, head into the
 Volcano Cave. Make your way to
@@ -7130,9 +7469,12 @@ Reward: Ice Defense 1
 Description: My two, squat,
 dark, and handsome darlings have
 left me for life
-   on the streets! They're runni
-   so please, reel them in back 
-   Sun are Murkrow!
+   on the streets! They're
+   running wild and cavorting in
+   Pueltown, so please, reel
+   them in back to Mama! Oh, my
+   darlings Dim and Sun are
+   Murkrow!
 
 There are two Murkrows on the
 loose in Pueltown, and you are
@@ -7156,8 +7498,11 @@ Client: Jam-maker (Union Road)
 Reward: Energy Plus Description:
 On the road to the Chroma
 Highlands, a Vespiquen and her
-   sidekicks are buzzing around 
-   I made them furious. Sorry, b
+   sidekicks are buzzing around
+   out of control. It's all my
+   fault. I made them furious.
+   Sorry, but can you go settle
+   them down?
 
 After accepting the quest, head
 to Chroma Road. Get to the
@@ -7180,8 +7525,11 @@ Client: Lady (Pueltown) Reward:
 Dragon Defense 1 Description:
 Our family Chingling spent all
 its time alone. Eventually, she
-   even forgot how to cry. I wou
-   heard there is a Chingling li
+   even forgot how to cry. I
+   would like her to meet a
+   friend. I've heard there is a
+   Chingling living deep in
+   Crysta Cave, which
       leads to Hia Valley.
 
 Head to the Crysta Cave and get
@@ -7208,6 +7556,7 @@ Description: I came to Hia
 Valley on orders from Prof.
 Hastings to study
    Abomasnow up close. May I ask
+   you to bring one here?
 
 When you accept this quest,
 first capture a Pilowswine in
@@ -7239,9 +7588,11 @@ Reward: Water Defense 2
 Description: Crysta Cave can be
 one dangerous place. Huge chunks
 of ice
-   crumble and come crashing dow
-   there are three big blocks of
-   them?
+   crumble and come crashing
+   down every so often. This
+   time around, there are three
+   big blocks of ice in the way.
+   Can you deal with them?
 
 For this quest, head to Crysta
 Cave and you will find three
@@ -7275,9 +7626,11 @@ Reward: Power Plus B
 Description: All the times I've
 moved, I've always had some
 Drifblim do all
-   the heavy lifting. But this t
-   Please, could you return with
-   dandy!
+   the heavy lifting. But this
+   time, I forgot about asking
+   them! Please, could you
+   return with some Drifblim?
+   Three would be dandy!
 
 For this quest, you need to get
 three Drifblims and bring them
@@ -7306,9 +7659,11 @@ Client: Fishing Guide
 2 Description: There's this
 excellent, out-of-the-way
 fishing spot deep inside
-   of Boyle Volcano. But now, I 
-   of fire have blocked the path
-   them out.
+   of Boyle Volcano. But now, I
+   can't get to it because two
+   walls of fire have blocked
+   the path there. It'd be great
+   if you'd put them out.
 
 After accepting this quest,
 first go into the eastern
@@ -7336,7 +7691,9 @@ Client: Research Team Member
 Defense 2 Description: The dome
 hut on the west side of Shiver
 Camp has a problem. A
-   lump of ice formed in front o
+   lump of ice formed in front
+   of its door. It's impossible
+   to open
   it. Can you open it for us?
 
 In the Shiver Camp, there will
@@ -7361,9 +7718,11 @@ Reward: Psychic Defense 2
 Description: I took a boat out
 and went fishing in the Sea of
 Wailord. I
-   hooked something big. The fac
-   with my fishing rod and all! 
-   please!
+   hooked something big. The
+   fact is, it was so big, it
+   took off with my fishing rod
+   and all! That rod's precious
+   to me. Find it, please!
 
 Head down to the Sea of Wailord
 (talk to the captain next to the
@@ -7397,9 +7756,12 @@ Reward: Latent Power A
 Description: What I'm asking you
 to do is take a boat out to the
 Sea of
-   Wailord, take a dive, and che
-   down there. When you capture 
-   nicely as evidence!
+   Wailord, take a dive, and
+   check that there really is an
+   Omastar down there. When you
+   capture it, you'll get its
+   data. That'll do nicely as
+   evidence!
 
 For this quest, head down to the
 Sea of Wailord. Make your way to
@@ -7429,8 +7791,9 @@ Reward: Grass Defense 2
 Description: This time, it's
 Cacturne I'm after. They are
 purportedly in the
-   desert, but they've thus far 
-   bring one here?
+   desert, but they've thus far
+   eluded my eye. May I ask you
+   to bring one here?
 
 Head into the Haruba Desert via
 the lower path (east of the
@@ -7458,9 +7821,11 @@ Reward: Dark Defense 2
 Description: So, you may ask
 yourself, "What is missing from
 Oscar's vast
-   collection of fragrances?" Wh
-   Skuntank! I implore you to br
-   naturally!
+   collection of fragrances?"
+   Why, none other than Weezing
+   and Skuntank! I implore you
+   to bring them back to me.
+   Both together, naturally!
 
 As the quest suggests, you need
 to find and capture a Skuntank
@@ -7485,8 +7850,11 @@ Reward: Ghost Defense 2
 Description: I was in Hippowdon
 Temple when I saw them! They
 must be the
-   latest model of Gigaremo! And
-   moving about on their own pow
+   latest model of Gigaremo!
+   And, wonder of wonders, they
+   were moving about on their
+   own power! Isn't this where
+   you come in?
 
 For this quest, head to
 Hippowdon Temple. Make your way
@@ -7508,7 +7876,9 @@ Client: Ollie (Vientown) Reward:
 Combo Bonus Description: I want
 to show Elaine her favorite kind
 of Pokémon up close.
-   That's why I'd like you to br
+   That's why I'd like you to
+   bring back a Dragonair for
+   her. They
 say there's one in Almia Castle.
 
 After you accept this quest,
@@ -7539,9 +7909,11 @@ Reward: Time Assist B
 Description: So, this is my
 contest, and the theme is Eevee!
 The seven
-   evolutions of Eevee are Vapor
-   Umbreon, Leafeon, and Glaceon
-   'em to me!
+   evolutions of Eevee are
+   Vaporeon, Jolteon, Flareon,
+   Espeon, Umbreon, Leafeon, and
+   Glaceon. Gotta capture 'em
+   all and bring 'em to me!
 
 As the quest states, you need to
 capture all seven evolutions of
@@ -7562,12 +7934,18 @@ evolutions can be found in the
 following locations:
 
     Vaporeon: Altru Tower
-    Jolteon: Habura Desert (uppe
-    Flareon: Volcano Cave (east 
-    Espeon: Hippowdon Temple (ea
+    Jolteon: Habura Desert
+    (upper exit from Habura
+    Village) Flareon: Volcano
+    Cave (east entrance) Espeon:
+    Hippowdon Temple (east room
+    from arrow-filled area)
     Umbreon: Chroma Ruins
-    Leafeon: Vien Forest (area a
-    Glaceon: Ice Lake (use River
+    Leafeon: Vien Forest (area
+    accessible with River Flow
+    1) Glaceon: Ice Lake (use
+    River Flow 2 from eastern
+    dock outside castle)
 
 Due to its proximity and lack of
 special abilities to access it,
@@ -7593,9 +7971,11 @@ Reward: Bug Defense 2
 Description: The flower on
 Roserade's right hand... I can't
 remember if it
-   was red or blue. There's a bi
-   Supposedly, there's one deep 
-   for us?
+   was red or blue. There's a
+   big argument going on over
+   that! Supposedly, there's one
+   deep in the forest. Will you
+   capture one for us?
 
 For this quest, you are sent to
 capture a Roserade. It is found
@@ -7631,7 +8011,10 @@ Description: Raichu, Luxray, and
 Ampharos. That threesome appears
 to be what
    we need for our studies. They
-   seriously powerful electricit
+   look capable of generating
+   seriously powerful
+   electricity. Please, bring
+   them to us.
 
 For this quest, you need to
 capture three Pokémon: Raichu,
@@ -7643,7 +8026,8 @@ them at these locations:
 
  Raichu: Volcano Cave, Ice Lake
     Luxray: Oil Field Hideout
-    Ampharos: Altru Building, Al
+    Ampharos: Altru Building,
+    Altru Tower
 
 Once you have them all, go back
 to Nage with them to complete
@@ -7664,8 +8048,9 @@ Reward: Flying Defense 2
 Description: Three huge blocks
 of ice are blocking the way to
 Almia Castle.
-   They're quite the nuisance! P
-   blocks of ice?
+   They're quite the nuisance!
+   Please, won't someone clear
+   those blocks of ice?
 
 For this quest, you will be sent
 to clear three blocks of solid
@@ -7693,15 +8078,18 @@ quest.
 NOTE: You must complete the game
 once to access this quest. You
 must also
- complete "Things That Go Bump..
+ complete "Things That Go
+ Bump...".
 
 Client: Mom (Chicole Village)
 Reward: Fighting Defense 2
 Description: This is your mother
 speaking. My hands aren't free,
 so please
-   read me the recipe I have tap
-   such a silly Quest.
+   read me the recipe I have
+   taped to the fridge. I'm
+   sorry this is such a silly
+   Quest.
 
 For this quest, all you have to
 do is check the fridge in your
@@ -7723,8 +8111,10 @@ Reward: Poison Defense 2
 Description: There is a white
 Pokémon at the top of Altru
 Tower that stands
-   for peace. Everyone should kn
-   Ranger, so you'll bring it to
+   for peace. Everyone should
+   know what it is. You're a
+   nice Ranger, so you'll bring
+   it to show me, won't you?
 
 Here, you are sent to capture
 the Pokémon atop Altru Tower.
@@ -7747,8 +8137,9 @@ Reward: Cranidos (Partner
 Pokémon) Description: Earlier, I
 saw a Cranidos being chased by a
 Wartortle in Vien
-   Forest. I felt sorry seeing t
-   it?
+   Forest. I felt sorry seeing
+   the Cranidos run. Can you go
+   rescue it?
 
 From where you accept the quest,
 head west to where the Shinx is.
@@ -7770,7 +8161,9 @@ Shieldon (Partner Pokémon)
 Description: That poor Shieldon
 got stuck on Peril Cliffs while
 trying to get
-   down. Please, Ranger, you hav
+   down. Please, Ranger, you
+   have to help that little
+   Shieldon out!
 
 After accepting the quest, head
 to the Peril Cliffs. Climb your
@@ -7797,8 +8190,9 @@ Reward: Chimchar (Partner
 Pokémon) Description: Near the
 Chroma Ruins, there's this
 Chimchar. It's tormented by
-   these Beedrill that chase it 
-   that Chimchar out?
+   these Beedrill that chase it
+   around. Can you see about
+   helping that Chimchar out?
 
 Head to the Chroma Highlands,
 and make your way to the area
@@ -7821,7 +8215,9 @@ Reward: Sneasel (Partner
 Pokémon) Description: A Sneasel
 is causing much mischief on the
 second floor of Almia
-   Castle. It's a nuisance. Plea
+   Castle. It's a nuisance.
+   Please do something about
+   this
       mischievous Sneasel.
 
 After you accept the quest, head
@@ -7849,8 +8245,11 @@ Reward: Snover (Partner Pokémon)
 Description: It's hard to
 believe, but I saw a Snover in
 Volcano Cave, toward
-   the east side. I don't think 
-   Ranger can, right? It appeare
+   the east side. I don't think
+   anyone can get to it on foot,
+   but a Ranger can, right? It
+   appeared to be suffering from
+   the heat...
 
 After accepting the quest from
 the explorer, exit the cave and
@@ -7879,9 +8278,12 @@ Highlands) Reward: Misdreavus
 (Partner Pokémon) Description:
 I'm having a real problem with a
 Misdreavus. It's been
-   disturbing me while I'm explo
-   Chroma Ruins. It likes to sne
-   anyone help me with this?
+   disturbing me while I'm
+   exploring the many chambers
+   in the Chroma Ruins. It likes
+   to sneak up and startle me
+   for fun. Can anyone help me
+   with this?
 
 For this quest, head into the
 Chroma Ruins. As soon as you get
@@ -7905,7 +8307,8 @@ Pokémon!
 NOTE: You must complete the game
 once to access this quest. Your
 first
- Partner Pokémon must NOT be Pac
+ Partner Pokémon must NOT be
+ Pachirisu.
 
 Client: Ms. April (Ranger
 School) Reward: Pachirisu
@@ -7913,8 +8316,11 @@ School) Reward: Pachirisu
 We've had a Pachirisu make its
 home in the School recently.
 It's
-   been a handful, though. It ch
-   things. I would like to see t
+   been a handful, though. It
+   chews up things, and it likes
+   to hide things. I would like
+   to see this Pachirisu
+   captured. It should
  still be in the School itself.
 
 After you accept the quest, you
@@ -7941,14 +8347,16 @@ earn a new Partner Pokémon!
 NOTE: You must complete the game
 once to access this quest. Your
 first
- Partner Pokémon must NOT be Mun
+ Partner Pokémon must NOT be
+ Munchlax.
 
 Client: Little Sis (Chicole
 Village) Reward: Munchlax
 (Partner Pokémon) Description:
 Huh? What's making all the noise
 upstairs? What could it be? I'm
-   scared... Please, go check up
+   scared... Please, go check
+   upstairs!
 
 When you get this quest, you
 will be in your house in Chicole
@@ -7970,7 +8378,8 @@ Pokémon!
 NOTE: You must complete the game
 once to access this quest. Your
 first
- Partner Pokémon must NOT be Sta
+ Partner Pokémon must NOT be
+ Starly.
 
 Client: Explorer (Hippowdon
 Temple) Reward: Starly (Partner
@@ -7978,7 +8387,9 @@ Pokémon) Description: A Starly
 wandered into Hippowdon Temple.
 It's gotten hopelessly
    lost somewhere deep in there,
-   if it sees you coming. Please
+   I think. It's also timid. It
+   flees if it sees you coming.
+   Please help this Starly!
 
 For this quest, you have to find
 the Starly inside the Hippowdon
@@ -8010,9 +8421,12 @@ Reward: Machop (Partner Pokémon)
 Description: There was a Machop
 up on Peril Cliffs that was
 training for
-   something. It's disappeared! 
-   trouble. It could be trapped 
-   it, please!
+   something. It's disappeared!
+   Maybe, just maybe, it could
+   be in trouble. It could be
+   trapped under a giant
+   boulder! Go check on it,
+   please!
 
 For this quest, head to the
 Peril Cliffs. Make your way
@@ -8041,8 +8455,9 @@ Client: Research Team Member
 (Partner Pokémon) Description: A
 while ago, I saw a Piplup being
 chased around the snowy fields
-   of Hia Valley by a Houndoom. 
-   yes?
+   of Hia Valley by a Houndoom.
+   A Ranger could save the
+   little guy, yes?
 
 For this quest, head to the
 southwestern area of Hia Valley.
@@ -8065,8 +8480,9 @@ Village) Reward: Turtwig
 Hey, I went to Breeze Hill.
 There was this Turtwig at the
 edge
-   of a cliff. It sure looked li
-   Turtwig.
+   of a cliff. It sure looked
+   like it was in trouble. Go
+   help that Turtwig.
 
 For this quest, head to Breeze
 Hill. When you get there, you
@@ -8089,8 +8505,9 @@ Village) Reward: Hippopotas
 (Partner Pokémon) Description: I
 saw it! Something big and weird
 squirming around on the nose
-   of Hippowdon Temple! It could
-   look, Ranger?
+   of Hippowdon Temple! It
+   could've been a Pokémon! Can
+   you go look, Ranger?
 
 After you get the quest, head
 over to Hippowdon Temple. When
@@ -8119,8 +8536,9 @@ Reward: Gible (Partner Pokémon)
 Description: In Volcano Cave,
 toward the doors, there was a
 Pelipper. It
-   seemed to be trying to say so
-   it.
+   seemed to be trying to say
+   something. You may want to
+   check on it.
 
 Once you accept the quest, enter
 the eastern entrance of the
@@ -8149,7 +8567,9 @@ Village) Reward: Water Defense 1
 Description: Do you know the
 bridge near the School? Well, I
 heard strange
-   cries from under it! It'd be 
+   cries from under it! It'd be
+   awful if it were a ghost! Can
+   a
      Ranger go investigate?
 
 For this simple quest, head to
@@ -8168,8 +8588,9 @@ Client: Boy (Vientown) Reward:
 Normal Defense 1 Description:
 Big wooden crates have been
 washing ashore at Nabiki Beach
-   lately. Can Rangers help do s
-   any on the beach?
+   lately. Can Rangers help do
+   something about them if they
+   find any on the beach?
 
 Head over to Nabiki Beach and
 you will find a wooden crate
@@ -8191,7 +8612,10 @@ Description: Hey, while you're
 out on patrol, can you drop in
 on my dear old
    mom for a friendly visit? She
-   in Pueltown. Look for the fou
+   could use the company. My
+   house is in Pueltown. Look
+   for the fountain in front,
+   okay?
 
 After you talk to Brook at his
 post by the bridge, he will send
@@ -8217,7 +8641,9 @@ Description: A newspaper
 reporter named Hans came by the
 house earlier. He
    left his pen behind. I'd like
-   said he's going to Altru next
+   you to to return it to him.
+   He said he's going to Altru
+   next for his story.
 
 For this quest, head to Altru
 Park. Take the northern path
@@ -8238,8 +8664,10 @@ Description: Please bring a
 Pokémon that can summon rain.
 And please keep it
    a secret from the children. I
-   that put out the terrible fir
-   a downpour.
+   have heard rumors of a
+   Pokémon that put out the
+   terrible fire in Vien Forest
+   by bringing about a downpour.
 
 After you receive this quest,
 head back to Vien Forest. Get to
@@ -8272,8 +8700,11 @@ Village) Reward: Supreme Defense
 Description: I was hoping that
 you would have a word with my
 son, who you
-   know as Ollie. He's still tor
-   Vien Forest... I think you ca
+   know as Ollie. He's still
+   torn up by guilt over what
+   happened to Vien Forest... I
+   think you can find him there
+   now.
 
 After accepting the quest, head
 into Vien Forest. Make your way
@@ -8316,8 +8747,10 @@ School) Reward: Dragon Defense 2
 Description: In all the world,
 there is one secret that is
 known to only the
-   three of us. Find where that 
-   the Pledge Stone in Ascension
+   three of us. Find where that
+   secret is hidden. Here's one
+   hint: the Pledge Stone in
+   Ascension Square.
 
 For this quest, head over to
 Ascension Square and check out
@@ -8355,7 +8788,9 @@ Client: Elder's Granddaughter
 looking forward to Boyleland's
 Snow Festival, but we
    have no snow. Please bring us
-   those Pokémon can be found in
+   a Froslass and a Glalie. They
+   say those Pokémon can be
+   found in Hia Valley.
 
 For this quest, you will need to
 capture a Froslass and a Glalie.
@@ -8383,7 +8818,9 @@ Reward: Ground Defense 2
 Description: You know how my
 husband's deathly afraid of
 Pokémon, don't you,
-   dear? I want to cure him of t
+   dear? I want to cure him of
+   that once and for all, so I'd
+   like
   you to bring back a Slakoth.
 
 For this quest, head over to the
@@ -8409,8 +8846,10 @@ Reward: Steel Defense 2
 Description: I woke up this
 morning to find Murph missing! I
 hate to impose,
-   but please search for Murph. 
-   wanted to ask Mrs. Winter som
+   but please search for Murph.
+   Come to think of it, he said
+   he wanted to ask Mrs. Winter
+   something yesterday.
 
 After you accept this quest,
 first head to Mrs. Winter's
@@ -8439,8 +8878,11 @@ Reward: Latent Power B
 Description: I think it will
 lift my guy's spirits to see
 wild Staraptor. It
-   will inspire him to soar agai
-   bring back six Staraptor for 
+   will inspire him to soar
+   again, I'm sure of it.
+   Please, can you bring back
+   six Staraptor for the two of
+   us?
 
 For this quest, you are asked to
 collect six Staraptors from
@@ -8466,8 +8908,11 @@ Client: Melody (Pueltown)
 Reward: Long Line B Description:
 I wrote a song as a present for
 my brother. I want to play a
-   concert with these Pokémon: C
-   Jigglypuff! Please, will you 
+   concert with these Pokémon:
+   Chatot, Kricketune,
+   Chingling, and Jigglypuff!
+   Please, will you bring them
+   here, all at once?
 
 As the quest description states,
 you are sent to capture four
@@ -8499,9 +8944,11 @@ Reward: Rock Defense 2
 Description: I'd like you to
 bring back the Pokémon I want to
 use as a model
-   for my wood carving. I can se
-   An impressive moustache! One 
-   heard.
+   for my wood carving. I can
+   see it now: a big, proud, red
+   nose! An impressive
+   moustache! One lives in the
+   Chroma Ruins, I've heard.
 
 For this quest, you will have to
 go into the Chroma Ruins. To
@@ -8692,7 +9139,8 @@ room)
   Abomasnow (lower-right room)
   Kangaskhan (upper-left room)
    Aggron (upper-right room)
-  Mamoswine & Rhyperior & Tangro
+  Mamoswine & Rhyperior &
+  Tangrowth (Boss)
 
 Room 3: Vaporeon (lower-left
 room)
@@ -8700,7 +9148,8 @@ room)
   Eevee (middle room)
    Jolteon (upper-left room)
    Espeon (upper-right room)
-  Umbreon & Leafeon & Glaceon (B
+  Umbreon & Leafeon & Glaceon
+  (Boss)
 
 Room 4: Houndoom (lower-left
 room)
@@ -8778,17 +9227,21 @@ Special Missions
 
 1. Recover the Manaphy Egg
     Prize: Manaphy Egg
-    Availability: 11/10/2008 - 1
-    All times (JP)
+    Availability: 11/10/2008 -
+    1/30/2009 (NA) All times
+    (JP)
 
 2. Rescue Kidnapped Riolu!
-    Prize: Riolu (with Aura Sphe
-    Availability: 11/10/2008 - 1
+    Prize: Riolu (with Aura
+    Sphere ability)
+    Availability: 11/10/2008 -
+    1/30/2009 (NA)
    3/20/2008 - 6/15/2008 (JP)
 
 3. Liberate the Tower
-    Prize: Darkrai (with Dark Vo
-    Availability: 11/10/2008 - 1
+    Prize: Darkrai (with Dark
+    Void ability) Availability:
+    11/10/2008 - 1/30/2009 (NA)
    3/20/2008 - 6/15/2008 (JP)
 
 
@@ -8814,7 +9267,8 @@ Reward: Shaymin data in Browser
 ********************************
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
--=  10. Secrets/Tips and Tricks 
+-= 10. Secrets/Tips and Tricks
+   -=
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ===================

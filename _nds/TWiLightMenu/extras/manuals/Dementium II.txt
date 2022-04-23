@@ -139,7 +139,8 @@ Start - Options menu
 
 Touch Screen - Look & turn, aim,
 examine, take and use
-   objects, change weapons, acce
+   objects, change weapons,
+   access the
      map, items and options
 
 
@@ -158,7 +159,8 @@ Start - Options menu
 
 Touch Screen - Look & turn, aim,
 examine, take and use
-   objects, change weapons, acce
+   objects, change weapons,
+   access the
      map, items and options
 
 
@@ -193,18 +195,21 @@ Bottom Screen -
 
 Action window - As you encounter
 objects the actions you
-    can take appear here. Touch 
-    the action.
+    can take appear here. Touch
+    here to perform the action.
 
 Health - Just below the action
 button is your health
-    display.  Green is good, red
+    display. Green is good, red
+    is bad.
 
 Map button - Tap to view the
 map.
 
-    - Green arrow is your curren
-    - Green doors are doors you 
+    - Green arrow is your
+      current position.
+    - Green doors are doors you
+      can enter.
     - Red doors are locked.
  - White dots are save mirrors.
 
@@ -220,8 +225,10 @@ you have collected.
 
 Flashlight Icon - Tap this to
 use or put away the flashlight
-    once you obtain it.  The fla
-    be dual weilded with one-han
+    once you obtain it. The
+    flashlight can be dual
+    weilded with one-handed
+    weapons.
 
 Reload icon - Tap this to relaod
 the gun you are currently
@@ -230,10 +237,12 @@ the gun you are currently
 Equipped Weapon Icon - Dead
 center at the bottom of the
      bottom screen is the weapon
-     currently equipped with.  T
-     weapons, touch the icon, th
-     your stylus to the weapon o
-     You also use items, like th
+     you are currently equipped
+     with. To switch weapons,
+     touch the icon, then drag
+     your stylus to the weapon
+     of choice. You also use
+     items, like the health
         pills this way.
 
 Options - Go to and adjust the
@@ -252,31 +261,37 @@ ________________________________
 
 Shank - Found in Chapter 1, this
 is your most basic weapon.
-  It can be dual weilded with th
+  It can be dual weilded with
+  the flashlight.
 
 Revolver - Also found in Chapter
 1, its a bit stronger than
-  the shank and can be used to a
-  a distance.  Requires ammo, ca
-  with the flashlight.
+  the shank and can be used to
+  attack enemies from a
+  distance. Requires ammo, can
+  be dual weilded with the
+  flashlight.
 
 Sledgehammer - Found in Chapter
 1, this can be used as a
    tool to break down boarded-up
-   as a weapon.  Hold the attack
-   stronger blow.  Cannot be dua
-   the flashlight.
+   doors but also as a weapon.
+   Hold the attack button for a
+   stronger blow. Cannot be dual
+   weilded with the flashlight.
 
 Shotgun - Found in Chapter 2.
 More powerful than the
   revolver but can only hold two
-  Requires ammo and cannot be du
-  flashlight.
+  shells at a time. Requires
+  ammo and cannot be dual
+  weilded with the flashlight.
 
 Assault Rifle - Found in Chapter
 3. About as strong as
     the revolver but has a rapid
-    Requires ammo and cannot be 
+    rate of fire. Requires ammo
+    and cannot be dual weilded
       with the flashlight.
 
 
@@ -284,19 +299,22 @@ Assault Rifle - Found in Chapter
 Flamethrower - Found in Chapter
 4, can be used as a tool
    to burn the vines on ccertain
-   Cannot be dual weilded with t
-   Refill the fuel at propane ta
+   doors. Cannot be dual weilded
+   with the flashlight. Refill
+   the fuel at propane tanks.
 
 Mysterious Relic - Boomerang-
 like weapon found in Chapter 4
-    also works as a key for spec
-    Can be dual weilded with the
+    also works as a key for
+    specific doors. Can be dual
+    weilded with the flashlight.
 
 Nailgun -
 
 Dynamite - Found in Chapter 4.
 Used for powerful enemies.
-  Cannot be dual weilded with th
+  Cannot be dual weilded with
+  the flashlight.
 
 Buzzsaw -
 
@@ -703,16 +721,21 @@ one of two things:
 
 1 - It will run around over head
     and try to drop on you. Just
-    keep an eye on it and d it
-    when it falls, but be clo
+    keep an eye on it and don't
+    be directly underneath it
+    when it falls, but be close
+    enough to hit it when it
     lands.
 
 2 - It will spew out eggs.
     QUickly hit the eggs beore
     they hatch. If they do
-    hatch, wo chase you. Be sure
-    to kill don't, more will
-    hatch and y them.
+    hatch, worms will come out
+    and slowly chase you. Be
+    sure to kill them if they
+    hatch. If you don't, more
+    will hatch and you will get
+    overwhelmed by them.
 
 Continue looking for
 opportunities to strike the Gnaw
@@ -2389,16 +2412,19 @@ ________________________________
 05-13-10 -
 
  - Submitted the 4th chapter and
+   puzzle keywords
 
 
 05-12-10 -
 
- - Submitted the first 3 chapter
+ - Submitted the first 3
+   chapters to GameFAQs.com
 
 
 05-7-10 -
 
  - Completed the game, began the
+   walkthrough
 
 
 05-4-10 -
@@ -2419,7 +2445,8 @@ ________________________________
 
 Renegade Kid -
 
- - A huge shout goes out to you 
+ - A huge shout goes out to you
+   guys, you have really out
 done yourselves with this game.
 
 

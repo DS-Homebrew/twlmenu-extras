@@ -25,7 +25,8 @@ III. Walkthrough [WKTR]
 - Baron [WKTR15]
 - Ancient Waterway [WKTR16]
 - Baron Castle [WKTR17]
-- Ancient Waterway (Optional) [O
+- Ancient Waterway (Optional)
+  [OPTL01]
 - Mysidia (Optional) [OPTL02]
 - Mythril (Optional) [OPTL03]
 - Mist (Optional) [OPTL04]
@@ -40,30 +41,42 @@ III. Walkthrough [WKTR]
 - Dwarven Castle [WKTR26]
 - Tower of Babil [WKTR27]
 - Baron Castle [WKTR28]
-- Eblan Castle (Optional) [OPTL0
+- Eblan Castle (Optional)
+  [OPTL05]
 - Cave of Eblan [WKTR29]
 - Tower of Babil [WKTR30]
 - Dwarven Castle [WKTR31]
 - Tomra (Optional) [OPTL06]
-- Passage of the Eidolons (Optio
-- The Feymarch (Optional) [OPTL0
+- Passage of the Eidolons
+  (Optional) [OPTL07]
+- The Feymarch (Optional)
+  [OPTL08]
 - Sylph Cave (Optional) [OPTL09]
 - Sealed Cave [WKTR32]
 - Dwarven Castle [WKTR33]
 - Adamant Isle Grotto (Optional)
-- Kokkol's Forge (Optional) [OPT
-- Baron Castle (Optional) [OPTL1
-- Fabul Castle {Optional) [OPTL1
+  [OPTL10]
+- Kokkol's Forge (Optional)
+  [OPTL11]
+- Baron Castle (Optional)
+  [OPTL12]
+- Fabul Castle {Optional)
+  [OPTL13]
 - Sylph Cave (Optional) [OPTL14]
 - Mysidia [WKTR34]
 - Lunar Tunnel [WKTR35]
 - Crystal Palace [WKTR36]
-- Lair of the Father (Optional) 
-- Hummingway Abode (Optional) [O
+- Lair of the Father (Optional)
+  [OPTL15]
+- Hummingway Abode (Optional)
+  [OPTL16]
 - Giant of Babil [WKTR37]
-- Baron Castle (Optional) [OPTL1
-- Kokkol's Forge (Optional) [OPT
-- The Feymarch (Optional) [OPTL1
+- Baron Castle (Optional)
+  [OPTL17]
+- Kokkol's Forge (Optional)
+  [OPTL18]
+- The Feymarch (Optional)
+  [OPTL19]
 - Crystal Palace [WKTR38]
 - Lunar Subterrane [WKTR39]
 IV. New Game+ Optional Bosses
@@ -378,8 +391,7 @@ Just follow the path until you
 find the boss.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Mist Dragon
+Boss: Mist Dragon
 Weak: Dark
 
 This is the first boss so it
@@ -395,9 +407,8 @@ It'll counter attack with Cold
 Mist that hits both Cecil and
 Kain. Wait for it to return to
 dragon form and then attack
-again. ~~~~~~~~~~~~~~~~~~~~~~~~~
+again.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~
 
 After the battle, exit the cave
 north. Head east to enter the
@@ -453,16 +464,14 @@ A battle will start after the
 scene.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: General
-Baron Soldier x3 Weak: None
+Boss: General
+	Baron Soldier x3
+Weak: None
 
 Easy battle. Just kill the Baron
 Soldiers and the General will
-retreat when they are all dead. 
+retreat when they are all dead.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~
 
 Rydia will join after the
 battle.
@@ -493,18 +502,24 @@ Underground Waterway [WKTR06]
 Monsters: Goblin, Sword Rat,
 Tiny Mage, Sahagin, Fangshell,
 Amoeba,
-    Killer Fish, Gigantoad, Toad
+    Killer Fish, Gigantoad,
+    Toadgre, Zombie, Alligator,
+    Red Mousse,
     *Octomammoth
 Items: Maiden's Kiss, Potion x4,
 Tent, Ether x4, Dry Ether,
 X-Potion,
  Phoenix Down, Ice Rod, 580 gil,
- Zeus's Wrath, Shadowblade, Bron
+ Bomb Fragment, Feathered Cap,
+ Zeus's Wrath, Shadowblade,
+ Bronze Hourglass, Hades Gloves,
  Hades Helm, Hades Armor, Hermes
+ Sandals
 Map Completion: First Map - Eye
 Drops x5, Second Map - Antidote
 x5,
-  Third Map - Tent x3, Fourth Ma
+  Third Map - Tent x3, Fourth
+  Map - Phoenix Down x3,
 Fifth Map - Ether, Sixth Map -
 Potion x5,
  Seventh Map - Zeus's Wrath x3
@@ -605,8 +620,7 @@ examine the tentacle for a boss
 battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Octomammoth
+Boss: Octomammoth
 Weak: Lightning, Dark
 
 This battle is pretty easy. Have
@@ -617,9 +631,8 @@ increase for each tentacle that
 it loses so you need to be
 careful. Make sure to have Rydia
 or Tellah use Cura when anyone's
-HP gets too low. ~~~~~~~~~~~~~~~
+HP gets too low.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Now head north to exit the cave.
 Head north and enter Damcyan.
@@ -630,7 +643,9 @@ Damcyan [WKTR07]
 Items: Power Bow, Feathered Cap,
 Ruby Ring, Eye Drops, Antidote,
 Potion,
- Ether, Phoenix Down, Gold Needl
+ Ether, Phoenix Down, Gold
+ Needle, Tent, Holy Arrows,
+ Elixir
 
 Before entering the castle, head
 east and then north. You'll find
@@ -684,7 +699,9 @@ Adamantoise, Yellow Jelly,
 Basilisk, *Antlion Items: Spider
 Silk x2, Potion x4, Tent, Gold
 Needle, Antarctic Wind,
- Phoenix Down, Emergency Exit, E
+ Phoenix Down, Emergency Exit,
+ Ether, Shadowblade, Ice Rod,
+ *Sand Pearl
 Map Completion: First Map -
 Potion x5, Second Map - Phoenix
 Down x3 My Party: Cecil Lv. 19
@@ -739,8 +756,7 @@ Just keep going south to start a
 boss battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Antlion
+Boss: Antlion
 Weak: Ice
 
 This is another easy boss. Have
@@ -758,8 +774,6 @@ Rydia might have a bit of
 trouble. Just heal her when she
 is countered so she doesn't die.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~
 
 Now you can walk back outside
 the Antlion's Den or you can use
@@ -831,10 +845,8 @@ should die. Now it's time for
 the boss.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Mom Bomb
-(Bomb x3, Gray Bomb x3) Weak:
-Ice, Dark
+Boss: Mom Bomb (Bomb x3, Gray
+Bomb x3) Weak: Ice, Dark
 
 This battle is a bit tougher
 than the others. Have Cecil
@@ -864,10 +876,8 @@ everyone and then have Cecil and
 Rosa attack, Yang kick, Rydia
 blizzard, and Edward life's
 anthem or have him attack
-regularly its up to you. ~~~~~~~
+regularly its up to you.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~
 
 Yang will join you after the
 battle. Head north to the next
@@ -884,7 +894,8 @@ Fabul Castle [WKTR11]
 Items: Potion, Antarctic Wind,
 Bomb Fragment, Tent, Hermes
 Sandals,
- Spider Silk, Demon Shield, Ethe
+ Spider Silk, Demon Shield,
+ Ether, Deathbringer
 Monsters: Captain, Baron Marine,
 Leshy, Domovoi, Sahagin,
 Gargoyle, *Dragoon My Party:
@@ -1129,9 +1140,9 @@ the bridge and continue north
 for a boss battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Scarmiglione
-Skulnant x4 Weak: Fire
+Boss: Scarmiglione
+	Skulnant x4
+Weak: Fire
 
 Have Cecil attack Scarmiglione,
 have Porom and Tellah cast cura
@@ -1140,10 +1151,8 @@ cast fira on all the enemies. If
 Scarmiglione's thunder magic is
 giving you a hard time then have
 Porom cast shell on the party.
-This battle is pretty easy. ~~~~
+This battle is pretty easy.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~
 
 There will be another boss
 battle after this so if you
@@ -1157,8 +1166,7 @@ everyone's positions in the
 Party Menu.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Scarmiglione
+Boss: Scarmiglione
 Weak: Fire
 
 This battle will be a lot harder
@@ -1176,9 +1184,8 @@ potions. Don't let Palom use any
 black magic because it will be
 countered by gas. Have Cecil
 attack normally and heal if
-necessary. ~~~~~~~~~~~~~~~~~~~~~
+necessary.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~
 
 Now head left and examine the
 tombstone. Watch the scene.
@@ -1186,16 +1193,14 @@ Cecil is now a Paladin YAY! A
 battle will start.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Dark Knight
+Boss: Dark Knight
 Weak: ??
 
 You will only use Cecil for this
 fight. Just do nothing and
 defend in this battle and you'll
-win. ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+win.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~
 
 Watch the scene. After the
 scene, equip Cecil with the
@@ -1260,8 +1265,7 @@ to the soldier. A battle will
 start.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Baron Guardsman x2
+Baron Guardsman x2
 Weak:
 
 This battle is pretty easy. The
@@ -1280,24 +1284,21 @@ shouldn't be a problem. If you
 use magic on both guards,
 they'll both counter Palom or
 Tellah with pig returning them
-back to humans. ~~~~~~~~~~~~~~~~
+back to humans.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 There is another battle after
 this.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Monk Weak:
-None
+Boss: Monk
+Weak: None
 
 This battle is easy. Have Cecil
 or Porom cast protect on the
 party and then have Tellah and
-Palom use magic. ~~~~~~~~~~~~~~~
+Palom use magic.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A scene will occur. Yang will
 rejoin your party. You will
@@ -1323,11 +1324,13 @@ Ancient Waterway [WKTR16]
 Monsters: Gigas Gator, Splasher,
 Devil's Castanet, Fangshell,
 Electrofish,
- 	    Alligator, Killer Fish, Ba
+ Alligator, Killer Fish, Baron
+ Guardsman
 Items: 1000 gil, Hi-Potion,
 Ether x2, Zeus's Wrath, Bronze
 Hourglass,
- Spider Silk, Hermes Sandals, An
+ Spider Silk, Hermes Sandals,
+ Ancient Sword
 Map Completion: First Map - Hi-
 Potion x3, Second Map - Ether,
 Third Map - Remedy x3 My Party:
@@ -1386,7 +1389,8 @@ Monsters: *Baigan, *Left Arm,
 *Right Arm Items: Ether x3,
 Unicorn Horn x2, Phoenix Down
 x2, Hermes Sandals x2,
- Bacchus's Wine x2, Elixir, Hi-P
+ Bacchus's Wine x2, Elixir, Hi-
+ Potion x2, Tent x2
 My Party: Cecil  Lv. 20
 	    Porom  Lv. 25
 	    Palom  Lv. 25
@@ -1403,9 +1407,10 @@ room. On your way there, a boss
 battle will start.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Baigan Left
-Arm Right Arm Weak: Ice
+Boss: Baigan
+	Left Arm
+	Right Arm
+Weak: Ice
 
 This battle shouldn't be too
 hard. Just target Baigan and
@@ -1456,10 +1461,8 @@ reflect but comet isn't. I don't
 really know since I've never
 used twincast on this version of
 FFIV. I've only tried it in the
-previous versions of FFIV. ~~~~~
+previous versions of FFIV.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~
 
 Before continuing to the throne
 room, head east. Head east again
@@ -1487,10 +1490,9 @@ go to the throne room for
 another boss.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Cagnazzo
-Weak: Ice (Lightning: only when
-water surrounds him)
+Boss: Cagnazzo Weak: Ice
+(Lightning: only when water
+surrounds him)
 
 Have Cecil attack this guy
 normally, Yang use focus and
@@ -1519,10 +1521,8 @@ It only restores a small amount
 of his HP so it isn't really a
 problem. His defense also
 increases so Cecil's and Yang's
-attacks will deal less damage. ~
+attacks will deal less damage.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~
 
 A scene will occur after the
 battle. Cid will join the party
@@ -1539,7 +1539,8 @@ Ancient Waterway (Optional)
 Monsters: Gigas Gator, Splasher,
 Devil's Castanet, Fangshell,
 Electrofish,
- 	    Alligator, Killer Fish, Ba
+ Alligator, Killer Fish, Baron
+ Guardsman
 Items: *Tsunami Augment
 My Party: Cecil  Lv. 23
 	    Tellah Lv. 26
@@ -1820,6 +1821,7 @@ Dragon Items: Hi-Potion x2,
 Unicorn Horn, Ether x2, 2000
 gil, Spider Silk,
  Bronze Hourglass, Faerie Claws,
+ Emergency Exit, *Earth Crystal
 Map Completion: First Map -
 Ether, Second Map - Vampire Fang
 x3, Third Map - Silent Bell x3,
@@ -1888,9 +1890,8 @@ ready, talk to the Dark Elf for
 the real battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Dark
-Elf/Dark Dragon Weak: Fire, Holy
+Boss: Dark Elf/Dark Dragon
+Weak: Fire, Holy
 
 The enemy has two forms. For the
 first form, have Cecil cast
@@ -1914,10 +1915,8 @@ Elf.
 
 Tellah's MP is very low so make
 sure to heal his MP by using
-Osmose or by using ether. ~~~~~~
+Osmose or by using ether.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~
 
 After the battle, grab the earth
 crystal and head back to Troia
@@ -1928,9 +1927,12 @@ Troia Castle [WKTR22]
 -------------------------------
 Items: Hi-Potion x2, Remedy x2,
 Ether x2, Dry Ether x2, Elixir,
- Echo Herbs x2, Great Bow, Fire 
- Lightning Arrows, 50000 gil, Ic
- *Bardsong Augment, *Hide Augmen
+ Echo Herbs x2, Great Bow, Fire
+ Arrows, 5000 gil, Lightning
+ Arrows, 50000 gil, Ice Arrows,
+ Silver Apple,
+ *Bardsong Augment, *Hide
+  Augment, *Salve Augment
 
 Go to the room where the Epopts
 are for a scene. Now leave this
@@ -1960,7 +1962,9 @@ Monsters: Centaur Knight,
 Frostbeast, Marionetteer,
 Marionette,
     Purple Bavarois, Flamehound,
-    Soldieress, Fell Turtle, Sor
+    Gremlin, Ice Lizard, Black
+    Knight, Soldieress, Fell
+    Turtle, Sorceress
 Items: Flame Mail, Flame Sword,
 Gaia Hammer, Hell Claws, Flame
 Shield, Sage's Surplice, *Recall
@@ -2016,9 +2020,10 @@ leave this room and continue
 west for a boss battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Sandy Cindy
-Mindy Weak: None
+Boss: Sandy
+	Cindy
+	Mindy
+Weak: None
 
 The Magus Sisters delta attack
 is pretty annoying. Sandy will
@@ -2047,10 +2052,8 @@ become easier. Have Cecil and
 Cid attack Sandy, Yang kick, and
 Tellah use an -aga spell on both
 Sandy and Mindy. Have Cecil or
-Tellah heal if necessary. ~~~~~~
+Tellah heal if necessary.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~
 
 Go back to the save point and
 heal. When you're ready, enter
@@ -2070,8 +2073,7 @@ equipment ready and then head
 south for another boss battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Barbariccia
+Boss: Barbariccia
 Weak: None
 
 This battle will be tough. Be
@@ -2088,10 +2090,8 @@ When Barbariccia turns into a
 tornado, all attacks won't work
 on her except for Kain's jump.
 Kain's jump will also turn her
-back into her normal form. ~~~~~
+back into her normal form.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~
 
 Watch the scene. You will then
 end up in Baron Castle.
@@ -2218,9 +2218,12 @@ Dragon,
 Items: *Draw Attacks Augment,
 Lustful Lali-Ho, *Eye Gouge
 Augment,
- *Reach Augment, Dwarven Axe, Ba
- Power Armlet, Elixir x2, Cottag
- Hi-Potion, Black Belt Gi, Gysah
+ *Reach Augment, Dwarven Axe,
+  Bacchus's Wine x2, Ether x2,
+ Power Armlet, Elixir x2,
+ Cottage x3, Silver Hourglass,
+ Hi-Potion, Black Belt Gi,
+ Gysahl Greens x3, Bomb Fragment
 My Party: Cecil Lv. 36
 	    Yang  Lv. 36
 	    Cid   Lv. 35
@@ -2279,9 +2282,8 @@ will leave the party. A boss
 battle will start after.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Calcabrina
-(Calca x3, Brina x3) Weak: None
+Boss: Calcabrina (Calca x3,
+Brina x3) Weak: None
 
 This boss has two forms. The
 first form will consist of three
@@ -2308,17 +2310,16 @@ attack, and Rosa use slow and
 then heal. Calcabrina will split
 up and turn back to Calcas and
 Brinas if you don't kill her
-fast enough. ~~~~~~~~~~~~~~~~~~~
+fast enough.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 There will be another boss
 battle after the scene.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Golbez
-Shadow Dragon Weak: ???
+Boss: Golbez
+	Shadow Dragon
+Weak: ???
 
 For the first part of the
 battle, Golbez will use an
@@ -2355,10 +2356,8 @@ weakness, he will use barrier
 shift again. Have Cecil or Rosa
 use libra again and then let
 Rydia summon again. Just keep
-doing this until Golbez dies. ~~
+doing this until Golbez dies.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
 
 Rydia will join the party. After
 the scene, exit south and then
@@ -2454,14 +2453,18 @@ Tower of Babil [WKTR27]
 Monsters: Flamehound, Black
 Lizard, Goblin Captain, Security
 Eye, Naga,
-    White Mousse, Marionetteer, 
-    Leshy, Skuldier, Mystery Egg
+    White Mousse, Marionetteer,
+    Evil Doll, Flame Knight,
+    Steel Golem, Leshy,
+    Skuldier, Mystery Egg, Green
+    Dragon
 Items: Emergency Exit, Hi-Potion
 x3, Ether, Green Beret,
 Icebrand, Ice Lance, Cat Claws,
 Phoenix Down, Killer Bow,
 Antarctic Wind, Ice Armor,
- Ice Shield, Arctic Wind, Dry Et
+ Ice Shield, Arctic Wind, Dry
+ Ether, *Lugae's Key
 Map Completion: First Map -
 Antarctic Wind x5, Second Map -
 Arctic Wind x3, Third Map -
@@ -2543,9 +2546,7 @@ follow the path on your touch
 screen for a boss battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss:
-Doctor/Barnabas-Z Barnabas
+Boss: Doctor/Barnabas-Z Barnabas
 (Weak: Lightning) Weak:
 Lightning (Barnabas-Z only)
 
@@ -2568,16 +2569,14 @@ You can also kill the doctor
 first if you want so you don't
 have to deal with Barnabas-Z.
 It's up to you how you want to
-do it. ~~~~~~~~~~~~~~~~~~~~~~~~~
+do it.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~
 
 Another battle will start after
 this.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Dr. Lugae
+Boss: Dr. Lugae
 Weak: Lightning
 
 This fight is very difficult. At
@@ -2627,8 +2626,6 @@ uses reverse gas to instantly
 kill him.
 ********************************
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~
 
 After the scene, go back to the
 save point and save. Return to
@@ -2680,7 +2677,8 @@ Bomb Core, Bacchus's Wine,
 Silencing Arrows, 10000 gil,
 Coeurl Whisker, Hermes Sandals,
 Emergency Exit,
- Blood Lance, Silver Hourglass, 
+ Blood Lance, Silver Hourglass,
+ Ether x2, Silver Apple
 My Party: Cecil Lv. 42
 	    Kain  Lv. 41
 	    Rosa  Lv. 38
@@ -2878,7 +2876,9 @@ Tower of Babil [WKTR30]
 Monsters: Coeurl, Sorcerer,
 Lamia, Mad Ogre, Balloon, Storm
 Anima,
-    Ghost Knight, Ironback, Blac
+    Ghost Knight, Ironback,
+    Black Lizard, Armadillo,
+    Blood Bat
 Items: Unicorn Horn, Silver
 Hourglass, Ogrekiller, Lilith's
 Kiss, Ashura, 10000 gil, Hi-
@@ -2937,10 +2937,8 @@ keep your party alive until the
 battle ends.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Rubicante
-Weak: Ice (When not wearing
-cloak)
+Boss: Rubicante Weak: Ice (When
+not wearing cloak)
 
 Rubicante has to be the hardest
 out of all the elemental
@@ -2977,10 +2975,8 @@ make sure that everyone's HP is
 full and they have shell on so
 everyone can survive the attack.
 Have Rosa ready with curaga or
-curaja before he uses inferno. ~
+curaja before he uses inferno.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~
 
 Head north to reach the crystal
 chamber. Approach the crystal
@@ -3081,7 +3077,8 @@ Dragon, Summoner, Goblin,
 Arachne Items: Phoenix Down x2,
 Ether, Hi-Potion x3, Cottage,
 Poison Axe,
- Kiku-ichimonji, Bestiary, Defen
+ Kiku-ichimonji, Bestiary,
+ Defender
 Map Completion: First Map - Soma
 Drop, Second Map - Soma Drop,
      Third Map - Soma Drop
@@ -3138,7 +3135,8 @@ Monsters: *Asura, *Leviathan
 Items: Ether, Bestiary x2, *Rat
 Tail, 5000 gil, 6000 gil, Yoichi
 Arrows,
- Elixir, Dry Ether, Yoichi Bow, 
+ Elixir, Dry Ether, Yoichi Bow,
+ Phoenix Down
 My Party: Cecil Lv. 53
 	    Kain  Lv. 53
 	    Rosa  Lv. 51
@@ -3226,9 +3224,8 @@ to the queen and answer yes. A
 boss battle will start.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Asura Weak:
-None
+Boss: Asura
+Weak: None
 
 This battle may seem hard but
 its pretty easy once you know
@@ -3258,10 +3255,8 @@ that. I don't know if it works
 against counter because I never
 actually tried it. Give it to
 Cecil since he probably has the
-highest defense in your party. ~
+highest defense in your party.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~
 
 Rydia can now summon Asura. Go
 back to Whyt's house and
@@ -3271,8 +3266,7 @@ the old man and answer yes for
 another boss battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Leviathan
+Boss: Leviathan
 Weak: Lightning
 
 This battle is really difficult.
@@ -3300,9 +3294,8 @@ Once all that is set, have Rydia
 summon Ramuh, Edge cast blitz,
 Cecil attack and heal, Kain
 jump, and Rosa cast haste and
-heal. ~~~~~~~~~~~~~~~~~~~~~~~~~~
+heal.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~
 
 Rydia can now summon Leviathan.
 You're done with this place now.
@@ -3318,10 +3311,15 @@ Tunneler, Evil Dreamer, Malboro,
 Elder Treant Items: Angel
 Arrows, Bestiary, Cottage, 1000
 gil, Elven Bow, Arctic Wind,
- Golden Apple, Soma Drop, Ether 
- Kiku-ichimonji, Aura Staff, Eli
- Remedy, Bomb Core, 2000 gil, 30
- White Fang, Blue Fang, Medusa A
+ Golden Apple, Soma Drop, Ether
+ x2, Hi-Potion x2, Mage Masher,
+ Kiku-ichimonji, Aura Staff,
+ Elixir, Maiden's Kiss x3,
+ Faerie Rod, Remedy, Bomb Core,
+ 2000 gil, 3000 gil, Emergency
+ Exit, Red Fang, White Fang,
+ Blue Fang, Medusa Arrows,
+ Avenger, Moonring Blade
 Map Completion: First Map -
 Silver Apple, Second Map -
 Silver Apple, Third Map - Silver
@@ -3414,8 +3412,11 @@ Bat, Nagaraja, Yellow Dragon,
 *Demon Wall Items: Kotetsu x2,
 Ether x3, Bestiary, Hi-Potion
 x2, Bestiary,
- Phoenix Down x2, Lustrous Sword
- Light Curtain, Black Cowl, Sile
+ Phoenix Down x2, Lustrous
+ Sword, Fuma Shuriken, Elixir,
+ Light Curtain, Black Cowl,
+ Silent Bell, Dry Ether,
+ X-Potion,
  *Dark Crystal
 Map Completion: First Map - Gaia
 Drum x3, Second Map - Red Fang
@@ -3513,8 +3514,7 @@ Head south and a boss battle
 will start.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Demon Wall
+Boss: Demon Wall
 Weak: None
 
 The boss battles are starting to
@@ -3532,10 +3532,8 @@ cast berserk on Cecil, Edge and
 Kain then have her use haste. If
 you she has the bardsong augment
 learned then you could use
-hastemarch instead. ~~~~~~~~~~~~
+hastemarch instead.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~
 
 Now head back to the entrance of
 the Sealed Cave for a scene.
@@ -3620,9 +3618,8 @@ down the stairs and then
 continue east for a boss battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Odin Weak:
-Lightning
+Boss: Odin
+Weak: Lightning
 
 Have Cecil attack normally,
 Rydia summon Ramuh or use
@@ -3638,10 +3635,8 @@ everyone defend. He is about to
 use Zantetsuken, which deals
 heavy damage to everyone in the
 party. Have Rosa cast curaga or
-curaja to recover from it. ~~~~~
+curaja to recover from it.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~
 
 Rydia can now summon Odin. Now
 leave the castle and head
@@ -3817,8 +3812,7 @@ Now head north for a boss
 battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Bahamut
+Boss: Bahamut
 Weak: None
 
 The strategy to win against
@@ -3846,9 +3840,8 @@ defend. Now heal everyone's HP
 and continue attacking. If
 you're lucky, you can defeat
 Bahamut before he is able to
-cast Mega Flare. ~~~~~~~~~~~~~~~
+cast Mega Flare.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Rydia can now summon Bahamut.
 Now head back outside by using
@@ -3905,7 +3898,8 @@ Giant of Babil [WKTR37]
 -------------------------------
 Monsters: Centaurion, Clockwork
 Soldier, Beam Cannon, Searcher,
-    Clockwork Dragon, Armor Cons
+    Clockwork Dragon, Armor
+    Construct
 Items: Fuma Shuriken, Hi-Potion,
 Ether, Yoichi Arrows, Siren,
 Silver Apple, Soma Drop, Elixir
@@ -3968,14 +3962,13 @@ Keep going north for a boss
 battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Elemental
-Archfiends Weak: Fire
-(Scarmiglione), Ice (Cagnazzo),
-Lightning (Cagnazzo surrounded
-by water), Holy (Barbariccia),
-Ice/Water (Rubicante, only when
-he is not wearing cloak)
+Boss: Elemental Archfiends Weak:
+Fire (Scarmiglione), Ice
+(Cagnazzo), Lightning (Cagnazzo
+surrounded by water), Holy
+(Barbariccia), Ice/Water
+(Rubicante, only when he is not
+wearing cloak)
 
 For this battle, you will have
 to fight the four elemental
@@ -4048,10 +4041,8 @@ Cecil attack normally or he can
 help with the healing. Be
 careful of inferno. Make sure to
 always have everyone's HP full
-so they don't die from it. ~~~~~
+so they don't die from it.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~
 
 Now go back and save the game
 and buy anything you need. There
@@ -4060,10 +4051,12 @@ you're ready, continue north for
 a boss battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: CPU Attack
-Node Defense Node Weak:
-Lightning Earth None
+Boss: CPU
+	Attack Node
+	Defense Node
+Weak: Lightning
+	Earth
+	None
 
 This battle is pretty difficult.
 The attack node does an attack
@@ -4103,9 +4096,8 @@ node first because the defense
 node absorbs elemental damage.
 Once the CPU is gone, then just
 start attacking the defense node
-until it dies. ~~~~~~~~~~~~~~~~~
+until it dies.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A scene will occur. Now you will
 have control of a kid. Head
@@ -4231,19 +4223,33 @@ Lunar Subterrane [WKTR39]
 Monsters: Dark Sage, Moonmaiden,
 Armor Construct, Silver Dragon,
 Gold Dragon,
-    Blue Dragon, Bone Dragon, Ar
-    Dino Zombie, Red Dragon, Fla
-    *Plague Horror, *Lunasaur, L
+    Blue Dragon, Bone Dragon,
+    Armored Fiend, *White
+    Dragon, Behemoth, Dino
+    Zombie, Red Dragon, Flan
+    Princess, Ahriman, *Dark
+    Bahamut,
+    *Plague Horror, *Lunasaur,
+     Li'l Murderer, Deathmask,
+     *Ogopogo,
     Zemus's Malice
 Items: Black Garb, Sage's Staff,
 Murasame, Flame Whip, Dragon
 Shield,
- Dragon Helm, Dragon Mail, Drago
- White Fang, X-Potion, Stardust 
- Crystal Mail, Crystal Gloves, W
- Fuma Shuriken x4, Cottage x2, G
- Holy Lance, Ribbon x2, Masamune
- *Treasure Hunter Augment, *Crys
+ Dragon Helm, Dragon Mail,
+ Dragon Gloves, Artemis Arrows,
+ Elixir x3, White Fang,
+ X-Potion, Stardust Rod, Crystal
+ Shield, Protect Ring x2,
+ Crystal Mail, Crystal Gloves,
+ White Robe, Crystal Helm, Red
+ Fang, Fuma Shuriken x4, Cottage
+ x2, Golden Apple, Ragnarok,
+ Minerva Bustier, Holy Lance,
+ Ribbon x2, Masamune, Gold
+ Hourglass,
+ *Treasure Hunter Augment,
+  *Crystal
 Map Completion: First Map - Hi-
 Potion x3, Second Map - Ether
 x5, Third Map - X-Potion x5,
@@ -4251,8 +4257,11 @@ Fourth Map - Dry Ether x3, Fifth
 Map - Elixir, Sixth Map - Siren
 x3, Seventh Map - Coeurl
 Whiskers x3,
-    Eight Map - Gold Hourglass x
-    Tenth Map - Stardust x3, Ele
+    Eight Map - Gold Hourglass
+    x3, Ninth Map - Lunar
+    Curtain x3, Tenth Map -
+    Stardust x3, Eleventh Map -
+    Lunar Curtain x3
 My Party: Cecil Lv. 66
 	    Edge  Lv. 63
 	    Kain  Lv. 62
@@ -4292,8 +4301,7 @@ sword on the pedestal for a boss
 battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: White Dragon
+Boss: White Dragon
 Weak: None
 
 This battle isn't very tough. If
@@ -4316,9 +4324,8 @@ on the party is because the
 White Dragon counters summon
 with quake. Your party won't be
 affected by it as long as they
-have float on. ~~~~~~~~~~~~~~~~~
+have float on.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You will get the Murasame for
 winning the battle. Now head
@@ -4458,8 +4465,7 @@ sword. Examine it for a boss
 battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Dark Bahamut
+Boss: Dark Bahamut
 Weak: None
 
 This battle is pretty hard. Dark
@@ -4502,10 +4508,8 @@ counter physical attacks with
 attack so make sure Cecil and
 Edge have blink on before
 attacking. Have Rosa cast slow
-and haste when she can. ~~~~~~~~
+and haste when she can.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~
 
 You will get Ragnarok for
 winning the battle. Now head
@@ -4529,9 +4533,8 @@ north. Examine the lance for a
 boss battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Plague
-Horror Weak: None
+Boss: Plague Horror
+Weak: None
 
 This battle is pretty easy.
 Plague will start by casting
@@ -4546,10 +4549,8 @@ should attack normally, Kain
 should jump, Rosa cast holy and
 Rydia summon Bahamut. Plague
 should die before any of your
-party dies from doom. ~~~~~~~~~~
+party dies from doom.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~
 
 You will get the holy lance for
 winning. Now go back to the save
@@ -4560,8 +4561,7 @@ occur when you approach the
 treasure chests.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Lunasaur
+Boss: Lunasaur
 Weak: Fire, Holy
 
 This battle is also pretty easy.
@@ -4576,8 +4576,6 @@ Kain jump and Rydia summon
 Bahamut. Bahamut should be able
 to deal 9999 damage on Lunasaur.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~
 
 Grab the two chests for a
 ribbon. Ribbon is considered to
@@ -4608,8 +4606,7 @@ boss. Get everyone's HP up and
 examine the sword.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Ogopogo
+Boss: Ogopogo
 Weak: None
 
 Another easy boss fight. Ogopogo
@@ -4624,9 +4621,8 @@ Ogopogo and then haste on the
 party when she can. Have Cecil
 and Edge attack normally, Kain
 jump and Rydia should summon
-Bahamut. ~~~~~~~~~~~~~~~~~~~~~~~
+Bahamut.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~
 
 You will receive the masamune
 for winning. You can go back and
@@ -4664,11 +4660,13 @@ before the battle starts.
 Head north and watch the scene.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Zeromus
-Weak: None My Party: Cecil Lv.
-79 Edge Lv. 78 Kain Lv. 77 Rosa
-Lv. 79 Rydia Lv. 79
+Boss: Zeromus
+Weak: None
+My Party: Cecil Lv. 79
+	    Edge  Lv. 78
+	    Kain  Lv. 77
+	    Rosa  Lv. 79
+	    Rydia Lv. 79
 
 Use the crystal that Golbez gave
 you to start the battle.
@@ -4707,9 +4705,8 @@ then have everyone who survives
 use a phoenix down on your KO'd
 party. Now continue attacking
 and Zermous should go down in no
-time. ~~~~~~~~~~~~~~~~~~~~~~~~~~
+time.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~
 
 Congratulations! You've beaten
 the game. Now enjoy the final
@@ -4728,11 +4725,13 @@ it and examine it. Use the Dark
 Matter for a boss battle.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Proto-Babil
-Weak: None My Party: Cecil Lv.
-99 Edge Lv. 99 Kain Lv. 99 Rosa
-Lv. 99 Rydia Lv. 99
+Boss: Proto-Babil
+Weak: None
+My Party: Cecil Lv. 99
+	    Edge  Lv. 99
+	    Kain  Lv. 99
+	    Rosa  Lv. 99
+	    Rydia Lv. 99
 
 I haven't successfully defeated
 Proto-Babil with this strategy
@@ -4863,8 +4862,6 @@ without the 999atk power of the
 Knife.
 ********************************
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~
 
 You can find the second optional
 boss in the Giant of Babil where
@@ -4875,11 +4872,13 @@ Mount Ordeals, where Cecil
 turned into a Paladin.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~ Boss: Geryon Weak:
-None My Party: Cecil Lv. 99 Edge
-Lv. 99 Kain Lv. 99 Rosa Lv. 99
-Rydia Lv. 99
+Boss: Geryon
+Weak: None
+My Party: Cecil Lv. 99
+	    Edge  Lv. 99
+	    Kain  Lv. 99
+	    Rosa  Lv. 99
+	    Rydia Lv. 99
 
 ********************************
 Thanks to Cecil for this info
@@ -4902,11 +4901,10 @@ has Omnicast Augment
 Beginning of the Battle - Rosa
 Omnicast Blink across the party
 Chain attack to slowly drain
-Geryon's HPs -Fin-
+Geryon's HPs
+-Fin-
 ********************************
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~
 
 
 ================================

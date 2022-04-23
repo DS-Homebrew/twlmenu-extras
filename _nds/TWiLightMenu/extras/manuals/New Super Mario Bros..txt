@@ -1,11 +1,15 @@
 ********************************
 
-     New Super Mario Bros. FAQ/W
+     New Super Mario Bros.
+     FAQ/Walkthrough
       For the Nintendo DS
-     Version 1.55 (Last Updated 
+     Version 1.55 (Last Updated
+     8/22/2006)
         By Devin Morgan
 
- This file is Copyright (c)2006 
+ This file is Copyright (c)2006
+ Devin Morgan. All rights
+ reserved.
 
 ********************************
 
@@ -215,9 +219,13 @@ this mess!
 Control Pad: Move Mario, move
 cursor on menu screens
 
-    Down: Go down pipes, slide (
+    Down: Go down pipes, slide
+    (press while running/going
+    down a hill)
 
-    Up: Climb vines, ropes, etc.
+    Up: Climb vines, ropes,
+    etc., climb onto a ledge
+    when hanging, enter
   doors, grab onto fences
 
 Start: Pause game, view menu
@@ -226,9 +234,13 @@ screens
 A: Jump (press Down while in air
 to ground pound; press again
 when landing
-   and while dashing to perform 
-   Control Pad in direction of w
-   selection on menu screens
+   and while dashing to perform
+   double or triple jumps), wall
+   jump (press Control Pad in
+   direction of wall you are
+   sliding on, then jump),
+   confirm selection on menu
+   screens
 
 B: Same as A for Mario's
 functions, cancel selection on
@@ -238,6 +250,8 @@ X/Y: Dash (hold while moving to
 go faster), pick up an item in
 front of you
  (hold to carry it), use current
+ special ability, punch through
+ fences
 
 L/R: Scrolls the map screen to
 the left and right
@@ -255,26 +269,41 @@ Main Menu Screen
 Mario Game: This option will let
 you enter the single-player
 adventure. You
-   can pick one of three save fi
+   can pick one of three save
+   files to play, or you can
+   copy/erase
      already existing data.
 
 Mario Vs. Luigi: Here is where
 you can connect to another
 player with a DS in
-    the same room, and play agai
-    choose if all players have t
-    the host of the match. In th
-    5 courses to run around in, 
-    can get items and attack eac
-    collect 8 coins, you will re
-    the coin counter will reset.
-    collects the most stars duri
+    the same room, and play
+    against them. You will have
+    to choose if all players
+    have this game card, or if
+    you will be the host of the
+    match. In the actual game,
+    you can pick 1 of 5 courses
+    to run around in, collecting
+    Stars. In there, you can get
+    items and attack each other
+    to steal Stars. If you
+    collect 8 coins, you will
+    receive a new item from
+    above and the coin counter
+    will reset. Based on your
+    settings, whoever collects
+    the most stars during the
+    course of the game, wins.
 
 Minigames: Here, you can access
 the various mini-games included
 with the
-  game. You will be able to choo
-  enter multiplayer mode, and pl
+  game. You will be able to
+  choose to play them by
+  yourself, or enter multiplayer
+  mode, and play against other
+  people in the same
  room with a DS and this game.
 
 Options: You can change the
@@ -383,17 +412,28 @@ Green House: In this house, you
 will play a mini-game of sorts.
 There will be
    several blocks lined up: most
-   1-Ups, one will have a multip
-   the last one will be a Bowser
-   more 1-Ups, but if you hit th
-   You get to keep what you won 
+   will have 1-Ups, one will
+   have 3 1-Ups, one will have a
+   multiplier to increase your
+   winnings, and the last one
+   will be a Bowser Card. You
+   can hit blocks and gain more
+   1-Ups, but if you hit the
+   Bowser Card, the game will
+   end. You get to keep what you
+   won up to that point, though.
 
 Item House: In the regular
 colored house, there will be a
 giant item box in
-   the middle of the room, visib
-   (Mushroom, Fire Flower, Blue 
-   item is displayed when you hi
+   the middle of the room,
+   visibly alternating between
+   several items (Mushroom, Fire
+   Flower, Blue Shell, and Mini
+   Mushroom). Whichever item is
+   displayed when you hit the
+   box, is what you will
+   receive.
 
 Mega House: This large-sized
 house will give you a Mega
@@ -491,8 +531,10 @@ House IT: Item Toad House MT:
 Mega Toad House BT: Background
 Toad House (only appears after
 you beat the game) X: Path
-Intersections/Empty Spots *:
-Secret path unlocked by findi
+Intersections/Empty Spots
+*: Secret path unlocked by
+ finding a secret exit within a
+ level.
 x#: Pay the designated amount of
 Star Coins to open the path.
 
@@ -697,9 +739,13 @@ door.
 NOTE: If you are Shell Mario and
 you go into this room, jump to
 the northeast
- opening and walk into a hidden 
- break through the blocks leadin
- jump to the flagpole and you wi
+ opening and walk into a hidden
+ room. There, use your shell
+ form to break through the
+ blocks leading to the red pipe
+ to the right. Then, jump to the
+ flagpole and you will open up
+ the Cannon stage outside.
 
 You will be to the right of the
 pipe now. Jump upward into the
@@ -1002,7 +1048,9 @@ Pipe W: Warp Zone Cannon GT:
 Green Toad House IT: Item Toad
 House MT: Mega Toad House X:
 Path Intersections/Empty Spots
-*: Secret path unlocked by findi
+*: Secret path unlocked by
+ finding a secret exit within a
+ level.
 x#: Pay the designated amount of
 Star Coins to open the path.
 
@@ -1163,12 +1211,20 @@ room.
 NOTE: If you are up for
 exploring and swim into the
 opening in the ceiling,
- you will reach a coin room and 
- that switch to raise the water 
- ledge. Note that if you don't d
- first switch again and the seco
- pressed, saving you some time. 
- reach a secret exit leading to 
+ you will reach a coin room and
+ a second ? switch on the
+ ceiling. Hit that switch to
+ raise the water some more,
+ allowing you to access a high
+ ledge. Note that if you don't
+ do this quick enough, you can
+ hit the first switch again and
+ the second switch will have
+ already been pressed, saving
+ you some time. When you go
+ outside there, you will reach a
+ secret exit leading to Stage
+ 2-A.
 
 In the next area, go right and
 jump over the giant plant (or
@@ -1610,10 +1666,12 @@ Warp Zone Cannon GH: Ghost House
 GT: Green Toad House IT: Item
 Toad House MT: Mega Toad House
 X: Path Intersections/Empty
-Spots *: Secret path unlocked by
-findi x#: Pay the designated
-amount of Star Coins to open the
-path.
+Spots
+*: Secret path unlocked by
+ finding a secret exit within a
+ level.
+x#: Pay the designated amount of
+Star Coins to open the path.
 
  /--- 1 ---------\           MT 
  |                 |            
@@ -2088,12 +2146,18 @@ door.
 NOTE: If you want to reach the
 secret exit that leads to the
 Cannon, follow
- these instructions. Hit the las
- right and wall jump against the
- quicker. Jump up the steps and 
- set of steps fast. Once at the 
- doors. Go into the left door an
- flagpole.
+ these instructions. Hit the
+ last ? switch in the room, then
+ quickly go right and wall jump
+ against the right wall to reach
+ the stairs slightly quicker.
+ Jump up the steps and hop to
+ the left, and go down the next
+ set of steps fast. Once at the
+ bottom, go right and you will
+ see two doors. Go into the left
+ door and you will end up at the
+ secret exit's flagpole.
 
 In the new room, first jump up
 the ledges to the left and you
@@ -2215,10 +2279,12 @@ Warp Zone Cannon GH: Ghost House
 GT: Green Toad House IT: Item
 Toad House MT: Mega Toad House
 X: Path Intersections/Empty
-Spots *: Secret path unlocked by
-findi x#: Pay the designated
-amount of Star Coins to open the
-path.
+Spots
+*: Secret path unlocked by
+ finding a secret exit within a
+ level.
+x#: Pay the designated amount of
+Star Coins to open the path.
 
   IT                      IT ---
    |                         <-x
@@ -2262,10 +2328,15 @@ ledge.
 NOTE: While riding Nessie, you
 can reach a secret exit. When
 you come to the
- part with 5 blocks you can stan
- reveal a hidden block containin
- pipe, then hop across the spide
- This path will lead to a Green 
+ part with 5 blocks you can
+ stand on, jump above the middle
+ one to reveal a hidden block
+ containing a beanstalk. Climb
+ it and go up the pipe, then hop
+ across the spider enemies to
+ reach the secret flagpole. This
+ path will lead to a Green Toad
+ House, as well as provides a
  shortcut to the Tower.
 
 Assuming you didn't take the
@@ -2662,9 +2733,13 @@ platform, then go into the pipe.
 NOTE: If you are Mini Mario,
 wall jump from the side of the
 pipe to a high
- ledge in the upper-right corner
- Star Coin #3. Go through the do
- the secret exit leading to the 
+ ledge in the upper-right
+ corner. Then, wall jump all the
+ way up to get Star Coin #3. Go
+ through the door that's up
+ there and you will reach the
+ secret exit leading to the
+ Cannon.
 
 When you emerge from the pipe
 (assuming you didn't take the
@@ -2896,8 +2971,10 @@ Pipe W: Warp Zone Cannon GH:
 Ghost House GT: Green Toad House
 IT: Item Toad House MT: Mega
 Toad House X: Path
-Intersections/Empty Spots *:
-Secret path unlocked by findi
+Intersections/Empty Spots
+*: Secret path unlocked by
+ finding a secret exit within a
+ level.
 x#: Pay the designated amount of
 Star Coins to open the path.
 
@@ -3005,10 +3082,15 @@ break through if you want.
 NOTE: If you want to reach the
 secret exit to the pipe, you
 need to be Super
- Mario or better here. Break thr
- platform that the Spiny enemies
- Plant goes back into the pipe, 
- right to the secret flagpole.
+ Mario or better here. Break
+ through the blocks and hop onto
+ the upper platform that the
+ Spiny enemies are crawling
+ around. When the Piranha Plant
+ goes back into the pipe, jump
+ into the upside-down pipe and
+ go right to the secret
+ flagpole.
 
 If you didn't take the secret
 exit, continue right across a
@@ -3552,8 +3634,10 @@ Locations T: Tower C: Castle W:
 Warp Zone Cannon GT: Green Toad
 House IT: Item Toad House MT:
 Mega Toad House X: Path
-Intersections/Empty Spots *:
-Secret path unlocked by findi
+Intersections/Empty Spots
+*: Secret path unlocked by
+ finding a secret exit within a
+ level.
 x#: Pay the designated amount of
 Star Coins to open the path.
 
@@ -4318,8 +4402,10 @@ Locations T: Tower C: Castle GH:
 Ghost House GT: Green Toad House
 IT: Item Toad House MT: Mega
 Toad House X: Path
-Intersections/Empty Spots *:
-Secret path unlocked by findi
+Intersections/Empty Spots
+*: Secret path unlocked by
+ finding a secret exit within a
+ level.
 x#: Pay the designated amount of
 Star Coins to open the path.
 
@@ -4460,11 +4546,18 @@ and the flagpole is there.
 NOTE: If you want to reach the
 secret exit instead, run left
 from the P
- switch and you will find a bloc
- Hit that block to make a beanst
- ledges to reach the stalk befor
- the hidden door at the top of t
- flagpole. This will open up the
+ switch and you will find a
+ block on the upper ledge with a
+ shine to it. Hit that block to
+ make a beanstalk grow, then
+ quickly jump up the ledges to
+ reach the stalk before the
+ blocks turn back into coins.
+ Enter the hidden door at the
+ top of the stalk and jump to
+ the secret exit flagpole. This
+ will open up the path to a
+ Green House, as well as
 provide a shortcut to the Tower.
 
 
@@ -4731,9 +4824,15 @@ NOTE: If you want to reach the
 secret exit, you need to be Mini
 Mario. From
  where you get Star Coin #3, use
- block above. Jump into the wall
- ledge, and go up the skinny pip
- secret exit's flagpole. This wi
+ the Spin Block and jump onto
+ the winged block above. Jump
+ into the wall alcove, then jump
+ from that to the top ledge, and
+ go up the skinny pipe as Mini
+ Mario. Then, go right to the
+ secret exit's flagpole. This
+ will open up a shortcut to the
+ Castle.
 
 In the next area, use the Spin
 Blocks to make your way upward
@@ -4841,13 +4940,22 @@ rows of blocks.
 NOTE: If you want to get the
 first star coin, as well as the
 secret exit
- (you'll have to return to this 
- follow these instructions. Brea
- Super Mario), then hit the midd
- beanstalk. Climb it to reach a 
- to the right, and jump to colle
- go up the pipe and head right t
- lead to the hidden Stage 7-7 on
+ (you'll have to return to this
+ stage to get the remaining
+ coins then), follow these
+ instructions. Break the top row
+ of blocks (need to be Super
+ Mario), then hit the middle
+ block in the bottom row to grow
+ a beanstalk. Climb it to reach
+ a hidden area. Ride the
+ mushroom platform to the right,
+ and jump to collect Star Coin
+ #1 in the air. At the end, go
+ up the pipe and head right to
+ the secret flagpole. This exit
+ will lead to the hidden Stage
+ 7-7 on the map.
 
 If you don't want the secret
 exit (or will return later to
@@ -5105,11 +5213,16 @@ World 8!
 World 8
 =======
 
-S: Start Point #: Stage
-Locations T: Tower C: Castle GT:
-Green Toad House IT: Item Toad
-House MT: Mega Toad House *:
-Secret path unlocked by findi
+S: Start Point
+#: Stage Locations
+T: Tower
+C: Castle
+GT: Green Toad House
+IT: Item Toad House
+MT: Mega Toad House
+*: Secret path unlocked by
+ finding a secret exit within a
+ level.
 x#: Pay the designated amount of
 Star Coins to open the path.
 
@@ -6000,416 +6113,614 @@ Super Mario Bros. game!
 Amp: These decent-sized black
 balls of electricity are found
 in certain Tower
- and Castle stages. They are usu
- you if you touch them. You cann
- to try your best to avoid it.
+ and Castle stages. They are
+ usually lined up in groups, and
+ will shock you if you touch
+ them. You cannot destroy them
+ though, so you just have to try
+ your best to avoid it.
 
 Balloon Boo: This ghost is the
 same as the regular Boo, but it
 has balloon
-   properties as well. If you tu
-   will start to increase in siz
-   its air.
+   properties as well. If you
+   turn away from it, the
+   Balloon Boo will start to
+   increase in size, but if you
+   face it, it'll lose its air.
 
 Banzai Bill: This is a extremely
 giant-sized Bullet Bill, shot
 out of a huge
-   cannon, and is a rare sight. 
-   size, but you can still jump 
+   cannon, and is a rare sight.
+   It is a very slow mover given
+   its size, but you can still
+   jump atop it to defeat it.
 
 Blockhopper: This enemy is
 disguised as a stack of blocks,
 and when you get
-   close enough, it'll start hop
-   pile of blocks, the only way 
-   through the stack. Usually if
+   close enough, it'll start
+   hopping around. Because it's
+   just a pile of blocks, the
+   only way to kill it is to
+   ground pound through the
+   stack. Usually if you destroy
+   the enemy, you'll get
 an item out of the bottom block.
 
 Blooper: These are the famous
 squid enemies that swim upward
 and to the side
-  in the water. If you get close
-  be careful and swim around the
-  areas where you will find Bloo
-  versions of itself. It will se
-  directions to attack you, so w
+  in the water. If you get
+  close, it will try swimming
+  towards you, so be careful and
+  swim around them to avoid
+  damage. There are a couple
+  areas where you will find
+  Bloopers surrounded by 4
+  miniature versions of itself.
+  It will send those mini
+  Bloopers in four directions to
+  attack you, so watch out!
 
 Bob-omb: The black bombs that
 walk around aimlessly. If you
 jump on one, its
   fuse will light and it'll be a
-  clearing blocks and other enem
-  and place it where you want be
+  matter of seconds before it
+  explodes, clearing blocks and
+  other enemies within range.
+  You can pick it up and place
+  it where you want before it
+  explodes, too.
 
 Boo: These shy round ghosts are
 back in this game, and are
 mainly found in
  the Ghost Houses, of course. If
- to hover towards you. However, 
- stay where it is. Use this to y
- away from a certain ledge and s
+ you turn your back to one, it
+ will start to hover towards
+ you. However, if you face it,
+ it'll hide its face and stay
+ where it is. Use this to your
+ advantage when trying to lure
+ them away from a certain ledge
+ and so on.
 
 Boomerang Bro: This turtle enemy
 stands still and tosses a slow-
 moving
-   boomerang in your direction t
-   jump on this enemy's head dir
+   boomerang in your direction
+   to attack. Avoid the weapon
+   and jump on this enemy's head
+   directly, since it's easy
+   enough.
 
 Broozer: These are the ghosts
 that walk around on certain
 platforms and punch
-  through blocks in their path. 
-  but are quite useful when tryi
-  obstructed by blocks.
+  through blocks in their path.
+  They can be tough to avoid at
+  times, but are quite useful
+  when trying to open up paths
+  that are otherwise obstructed
+  by blocks.
 
 Bullet Bill: Also from the
 original Super Mario Bros., this
 bullet with a
-   face flies straight ahead in 
-   it to destroy it without taki
-   Bills are usually shot out of
-   ones). If you stand directly 
-   shoot, which is useful to kee
+   face flies straight ahead in
+   the air to attack. You can
+   jump on it to destroy it
+   without taking damage
+   yourself. The Bullet Bills
+   are usually shot out of
+   cannons (stationary and
+   spinning ones). If you stand
+   directly next to/atop a
+   cannon, it will not shoot,
+   which is useful to keep in
+   mind.
 
 Buzzy Beetle: These hard-shelled
 beetles can be found crawling on
 ceilings in
-   underground levels. If you pa
-   from the ceiling and spin tow
-   on its shell and then pick it
+   underground levels. If you
+   pass below it, this enemy
+   will fall from the ceiling
+   and spin towards you to
+   attack. You can jump on its
+   shell and then pick it up to
+   use elsewhere if you want.
 
 Chain Chomp: This black ball
 with its teeth showing is
 chained to a post on
    certain platforms. If you get
-   quick to jump and avoid it. I
-   pound the stake it's chained 
-   Chomp, receiving several coin
+   close, it will lunge at you,
+   so be quick to jump and avoid
+   it. If you are feeling brave,
+   ground pound the stake it's
+   chained to a few times to
+   free the Chain Chomp,
+   receiving several coins as a
+   reward.
 
 Cheep-Cheep: A simple non-
 aggressive fish that swims
 around in the water
-   levels. It keeps to itself, s
+   levels. It keeps to itself,
+   so all you have to do is swim
+   around
 it, or use fireballs to kill it.
 
 Cheep-Chomp: This large blue-
 colored fish will not only
 follow you around if
-   you get too close, but it wil
-   Keep your distance or use fir
-   before you get caught and end
+   you get too close, but it
+   will also try to devour you
+   whole! Keep your distance or
+   use fireballs to quickly
+   dispose of it before you get
+   caught and end up losing
+   lives.
 
 Crowber: These black birds are
 only found in the final areas of
 the game.
   They circle high above the sky
-  they will swoop down to attack
-  a lot of them rather quickly, 
-  them.
+  where you can't reach them,
+  and then they will swoop down
+  to attack you. The screen can
+  be populated with a lot of
+  them rather quickly, so be
+  very cautious when dealing
+  with them.
 
 Deep-Cheep: This version of the
 Cheep-Cheep is green, and will
 swim towards
-   you if you get close enough. 
+   you if you get close enough.
+   Try to keep your distance to
+   avoid
  being attacked by these fish.
 
 Dry Bones: A skeletal
 incarnation of the infamous
 Koopa Troopa. If you jump
-  on this enemy, its bones will 
-  seconds before coming back tog
-  kick around.
+  on this enemy, its bones will
+  collapse along the floor for
+  several seconds before coming
+  back together. It also has no
+  shell you can kick around.
 
 Fire Bro: These red turtle
 enemies, usually in pairs, will
 spit fireballs at
-  you, much like your Fire Flowe
-  tricky to avoid since they bou
-  easy to jump on their heads an
+  you, much like your Fire
+  Flower's power. The fireballs
+  can be tricky to avoid since
+  they bounce off the ground,
+  but it is rather easy to jump
+  on their heads and defeat them
+  if you get that close.
 
 Fire Snake: Found mainly in the
 desert stages, this is a small
 snake made up
-   entirely of fireballs. It hop
-   slightly higher blocks and le
-   by normal means, so it may be
-   avoid it.
+   entirely of fireballs. It
+   hops along the path, jumping
+   onto slightly higher blocks
+   and ledges in its path. You
+   can't kill it by normal
+   means, so it may be for the
+   best to simply jump to avoid
+   it.
 
 Flame Chomp: This odd creature
 floating in the sky is comprised
 of a black
-   head, trailed by several fire
-   towards you, periodically spi
-   on its black head when it's s
-   reappears after several momen
+   head, trailed by several
+   fireballs. It will constantly
+   fly towards you, periodically
+   spitting out fireballs to
+   attack. Jump on its black
+   head when it's safe to kill
+   it. This enemy usually
+   reappears after several
+   moments if you defeat one,
+   though.
 
 Giant Spiked Ball: It's a much
 larger spiked ball, which also
 rolls along the
-    path. It is indestructible, 
+    path. It is indestructible,
+    so try your best to avoid it
       by jumping over it.
 
 Goomba: The trademark mushroom
 enemies are back yet again,
 which is no
-  surprise. They are among the m
-  straight ahead and nothing mor
+  surprise. They are among the
+  most basic of enemies, simply
+  walking straight ahead and
+  nothing more. A simple jump
+  will kill them.
 
 Green Koopa: The generic Koopa
 Troopa with a green shell. This
 version simply
-   walks straight ahead, and wil
-   it's into a pit. You can jump
-   it will temporarily retract i
-   shell and carry/throw it to b
-   etc.
+   walks straight ahead, and
+   will walk right off its
+   ledge, even if it's into a
+   pit. You can jump on this
+   enemy while it walks, and it
+   will temporarily retract into
+   its shell. You can pick up
+   the shell and carry/throw it
+   to break blocks, attack other
+   enemies, etc.
 
 Green Paratroopa: Here is the
 regular Koopa Troopa enemy, but
 with wings. The
-    green-shelled ones will fly 
-    can jump from them to reach 
-    you jump on a Paratroopa, it
-    a regular Koopa Troopa.
+    green-shelled ones will fly
+    up and down in place, and
+    you can jump from them to
+    reach higher/hard to reach
+    ledges. If you jump on a
+    Paratroopa, it will lose its
+    wings and become a regular
+    Koopa Troopa.
 
 Hammer Bro: This turtle enemy
 stands on a ledge and throws
 several hammers in
-   the air at you. It pauses aft
-   that time to stomp atop its h
-   up/down block ledges if it's 
-   when passing it.
+   the air at you. It pauses
+   after throwing a few hammers,
+   so use that time to stomp
+   atop its head. It can also
+   jump in the air and up/down
+   block ledges if it's situated
+   atop one, so be careful when
+   passing it.
 
 Kab-omb: They are the same as
 regular Bob-ombs, but if you
 stomp on one, it
-  will run around aimlessly befo
-  will not damage you; instead i
+  will run around aimlessly
+  before exploding. However, its
+  explosion will not damage you;
+  instead it will shoot off a
+  firework in the sky
  as a sign of peace or whatnot.
 
 Lakitu: Another famous enemy
 from the original Super Mario
 Bros., this turtle
-  floats in a cloud high above y
-  It is rather hard to jump on i
-  levels with Lakitu, but if you
-  its cloud for several moments,
-  above. If you kill a Lakitu, a
+  floats in a cloud high above
+  you, while tossing Spiny
+  enemies at you. It is rather
+  hard to jump on it, due to the
+  low elevation of most levels
+  with Lakitu, but if you manage
+  to pull it off, you can ride
+  in its cloud for several
+  moments, perhaps to reach
+  hidden coin clouds above. If
+  you kill a Lakitu, a new one
+  will definitely return after
   several moments, so beware.
 
 Mega Cheep-Cheep: These are a
 larger version of the regular
 Cheep-Cheeps.
-    Swim around to avoid it, or 
+    Swim around to avoid it, or
+    use fireballs to kill it if
       you're so inclined.
 
 Mega Deep-Cheep: A much larger
 version of the Deep-Cheep enemy,
 obviously.
-    Try to avoid them when they 
-    fireballs to kill it off qui
+    Try to avoid them when they
+    swim at you to attack, or
+    use fireballs to kill it off
+    quickly from a distance.
 
 Mega Unagi: A giant-sized eel,
 as the name implies. There are a
 couple of
-   underwater stages where it wi
-   the screen and you either hav
-   by it. Another stage late in 
-   having it eat you. You cannot
+   underwater stages where it
+   will swim across a large
+   portion of the screen and you
+   either have to get out of the
+   way or get hit by it. Another
+   stage late in the game forces
+   you to swim to avoid having
+   it eat you. You cannot kill
+   it, so staying away is the
      most you can do here.
 
 Mini Goomba: These are the tiny
 Goombas you will find in a few
 secret pipe
-   rooms, usually accessible as 
-   harder to see them, jumping w
+   rooms, usually accessible as
+   Mini Mario. Although it may
+   be harder to see them,
+   jumping will still defeat
+   them.
 
 Moneybag: This thief disguises
 himself as a coin, and will hop
 across
-  platforms to get away. If you 
-  its head a bunch of times, you
-  extra life!
+  platforms to get away. If you
+  manage to catch up to it and
+  stomp its head a bunch of
+  times, you can win a bunch of
+  coins and even an extra life!
 
 Paragoomba: A winged version of
 the regular Goomba enemy. It
 flies around in
-   the air, sometimes swooping d
+   the air, sometimes swooping
+   down to hit you.
 
 Piranha Plant: The classic plant
 that pops out of pipes for brief
 intervals.
-   This version does not attack 
-   for a couple moments before r
-   if you are standing directly 
-   plant inside will not come ou
-   be sometimes found on the gro
+   This version does not attack
+   you; it simply pokes its head
+   out for a couple moments
+   before returning into the
+   pipe. Note that if you are
+   standing directly next to or
+   atop the pipe, the plant
+   inside will not come out, so
+   keep this in mind. It can be
+   sometimes found on the
+   ground, moving its head to
+   try and
  bite you as you jump over it.
 
 Pokey: The segmented cactus
 enemy, as seen in Super Mario
 Brothers 3. It is
- primarily found in the desert s
- sizes. It moves rather slowly t
- jump over. Jump on its head or 
- segments until you defeat it en
+ primarily found in the desert
+ stages, and can come in a
+ variety of sizes. It moves
+ rather slowly to the sides, and
+ can prove difficult to jump
+ over. Jump on its head or throw
+ a shell at it to knock away its
+ segments until you defeat it
+ entirely.
 
 Red Koopa: This Koopa Troopa is
 the same as its green-shelled
 counterpart.
-  The difference is that this on
-  its platform without falling o
+  The difference is that this
+  one will walk back and forth
+  on its platform without
+  falling off.
 
 Red Paratroopa: This flying
 enemy is just like the green-
 shelled version, but
-    this one will fly horizontal
+    this one will fly
+    horizontally instead.
 
 Scuttlebug: These giant spiders
 hang from the ceiling, and may
 fall on you if
-   you pass underneath. If you a
-   can hop across them to reach 
-   such.
+   you pass underneath. If you
+   are quick you can avoid them,
+   or you can hop across them to
+   reach otherwise inaccessible
+   ledges and such.
 
 Skeeter: These are the spiders
 from Super Mario 64, which glide
 along the
-  surface of the water. If you a
-  will try to drop a bomb on you
-  difficult surfacing with them 
-  try to block you from jumping 
-  their heads will be enough to 
+  surface of the water. If you
+  are swimming in the water
+  below it, it will try to drop
+  a bomb on your head, so be
+  careful. It can be difficult
+  surfacing with them moving
+  around as well, since they may
+  try to block you from jumping
+  out of the water safely.
+  Jumping on their heads will be
+  enough to clear them, at
+  least.
 
 Snailicorn: Found in a few snowy
 stages, this snail/unicorn mix
 will charge
-   at you when it spots you on i
-   shell if you try jumping on i
-   jump over it when it charges 
+   at you when it spots you on
+   its ledge. You will bounce
+   off its shell if you try
+   jumping on it, so try not to
+   do that. Simply jump over it
+   when it charges at you, and
+   continue past it.
 
 Snow Spike: This robot-like
 enemy stands on a ledge (in
 snowy stages) and
-   throws snowballs at you. Avoi
-   jumping, then jump on this en
+   throws snowballs at you.
+   Avoid them by ducking,
+   running, or jumping, then
+   jump on this enemy's head to
+   destroy it.
 
 Spike Bass: This large spiked
 fish will periodically jump out
 of the water
-   and attempt to swallow you wh
-   platform. It only appears in 
-   water along the bottom. To ma
-   with a fireball, but a new on
-   so watch out.
+   and attempt to swallow you
+   whole if you are standing on
+   a low platform. It only
+   appears in a couple of land-
+   based levels with water along
+   the bottom. To make things
+   easier, you can kill it with
+   a fireball, but a new one
+   will appear several moments
+   later, so watch out.
 
 Spike Top: This enemy is
 essentially the same as Buzzy
 Beetle, but it has a
-  single spike on its shell, whi
-  They are primarily found in gr
-  of a block structure or other 
+  single spike on its shell,
+  which keeps you from jumping
+  onto it. They are primarily
+  found in groups, crawling
+  around the perimeter of a
+  block structure or other
+  surface.
 
 Spiked Ball: Rolling along in a
 couple of Towers/Castles, these
 small spiked
    balls break through balls and
-   towards you. All you can real
+   roll straight ahead, usually
+   towards you. All you can
+   really do is jump to avoid
+   getting hit.
 
 Spiny: These are the spiky-
 shelled enemies that Lakitu
 throws down at you
  from above. When on the ground,
- path. You cannot jump on it, so
- to defeat it, otherwise jump to
+ they simply walk straight along
+ the path. You cannot jump on
+ it, so you will have to use
+ alternate means to defeat it,
+ otherwise jump to avoid it.
 
 Splunkin: It's a walking pumpkin
 enemy, found mainly in the Ghost
 Houses as
-  well. If you jump on one, it w
-  much faster.
+  well. If you jump on one, it
+  will become red and will start
+  moving much faster.
 
 Squiggler: These are the much
 smaller offspring of the
 Wiggler. They crawl
-  out of pipes in one of the lat
-  defeated with ease by jumping 
+  out of pipes in one of the
+  later stages of the game, and
+  can be defeated with ease by
+  jumping on them.
 
 Sumo Bro: These extremely large
 and heavy turtles will throw
 hammers at you
-  before jumping in the air, cau
-  are on the ground when they la
-  so be prepared to jump when yo
+  before jumping in the air,
+  causing a tremor when they
+  land. If you are on the ground
+  when they land, you will be
+  temporarily stunned, so be
+  prepared to jump when you see
+  this enemy in your way.
 
 Super Dry Bones: This is the
 giant-sized version of the
 regular Dry Bones. It
-    will take several jumps and/
-    fall apart.
+    will take several jumps
+    and/or ground pounds to
+    cause it to fall apart.
 
 Super Piranha Plant: This is the
 giant-sized version of the
 Piranha Plant, as
-     you may have guessed. It ca
-     its size, and it will actua
-     kill it. Other than that, y
+     you may have guessed. It
+     can be harder to avoid due
+     to its size, and it will
+     actually take several
+     fireballs to kill it. Other
+     than that, your best bet is
+     to run and
   jump to get past it safely.
 
 Super Thwomp: A giant-sized
 version of the original Thwomps.
 It's just a much
-   larger block you have to avoi
-   indestructible blocks floatin
+   larger block you have to
+   avoid. It can crash through
+   other indestructible blocks
+   floating below it on the way
+   down, so
      stay clear to be safe!
 
 Sushi: In the watery stages, you
 have to worry about this shark
 enemy
- attacking you as well. As with 
+ attacking you as well. As with
+ most underwater enemies, keep
+ your
 distance and you should be fine.
 
 Swoop: These are the small blue
 bats found in certain
 underground levels.
  They can be quite annoying when
- at the right time, especially i
- the head will defeat them, thou
+ you're trying to make a crucial
+ jump at the right time,
+ especially if they are in
+ groups. A simple stomp on the
+ head will defeat them, though.
 
 Thwomp Trap: The gray blocks
 with mean faces, which come
 crashing down if you
-   get too close or try passing 
-   it's moving back up to its in
-   safely below.
+   get too close or try passing
+   underneath. You should wait
+   until it's moving back up to
+   its initial position before
+   passing safely below.
 
 Unagi: The Japanese word for
 eel, these small eel enemies can
 be found
- lurking in holes in the walls i
- too close to the hole, the eel 
- far enough away and you may avo
+ lurking in holes in the walls
+ in some underwater stages. If
+ you swim too close to the hole,
+ the eel will dart out to attack
+ you, so stay far enough away
+ and you may avoid being hit.
 
 Venus Fire Trap: This pipe-
 dwelling plant will emerge and
 spit a couple
     fireballs diagonally in your
+    direction before retreating
     into its pipe. The fireballs
-    want to fight back, use your
+    are easy to avoid, but if
+    you want to fight back, use
+    your own fireballs to kill
+    it!
 
 Whomp: Found in very few areas,
 these are the walking gray
 blocks as seen in
- Super Mario 64. If you try to p
- collapse onto you. When it does
- it instantly.
+ Super Mario 64. If you try to
+ pass in front of one, it will
+ try to collapse onto you. When
+ it does that, ground pound its
+ back to destroy it instantly.
 
 Wiggler: Here is the famous
 yellow caterpillar enemy first
 seen in Super
-  Mario World. It calmly walks a
-  it, it'll turn red and start c
-  really kill it by jumping on i
+  Mario World. It calmly walks
+  along the ground, but if you
+  jump on it, it'll turn red and
+  start charging around much
+  faster. You can't really kill
+  it by jumping on it, so use
+  shells or other means to
   defeat it if necessary.
 
 ********************************
@@ -6422,13 +6733,17 @@ seen in Super
 switch is triggered, it causes
 some special event
   to take place within the area.
-  or will only last for a limite
+  The event can either be
+  permanent, or will only last
+  for a limited time.
 
 ! Switch: In some stages, you
 may see outlines of blocks in
 certain areas. If
   you hit the usually nearby red
-  outlines with solid red blocks
+  ! switch, it will fill in
+  those outlines with solid red
+  blocks for a limited time.
 
 1-Up Mushroom: This classic
 green mushroom will give you an
@@ -6438,76 +6753,118 @@ Blue Shell: When you get this
 item, you will become Shell
 Mario. You will
    have a shell on your back; if
-   will retreat into the shell a
-   can break through blocks and 
-   defeat any enemies you hit. I
-   through underwater levels! To
-   around in shell form, simply 
+   you run while in this form,
+   you will retreat into the
+   shell and slide around. In
+   this form you can break
+   through blocks and speed
+   through low areas, and even
+   defeat any enemies you hit.
+   It even allows you to move
+   faster through underwater
+   levels! To revert back to
+   normal while sliding around
+   in shell form, simply let go
+   of the dash button.
 
 Coin: These are the yellow coins
 you find everywhere in the game.
 If you
- collect 100 of them, you will g
+ collect 100 of them, you will
+ gain an extra life.
 
 Fire Flower: Turns you into Fire
 Mario, and gives you the ability
 to shoot
    fireballs from your hands. If
-   it will turn into a coin you 
+   you hit an enemy with a
+   fireball, it will turn into a
+   coin you can collect.
 
 Mega Mushroom: When you use
 this, Mario becomes giant-sized
 for a limited
-   time. During this time, you c
-   anything in the stage, includ
-   meter will appear at the top 
-   colors after a certain amount
-   and objects you go through, t
-   When the power runs out, depe
+   time. During this time, you
+   can run through pretty much
+   anything in the stage,
+   including solid blocks and
+   pipes. A meter will appear at
+   the top of the screen, and it
+   will change colors after a
+   certain amount is filled in.
+   The more enemies and objects
+   you go through, the more your
+   meter will grow. When the
+   power runs out, depending on
+   how full the meter is,
       you will gain 1-Ups.
 
 Mini Mushroom: When used, you
 will shrink down to a miniature
 form. In this
-   form, you are highly vulnerab
-   killed on impact. However, be
-   able to fit through very smal
-   can walk on water and your ju
-   your size.
+   form, you are highly
+   vulnerable to enemy attacks
+   and can be killed on impact.
+   However, because of your size
+   you will be able to fit
+   through very small passages
+   and pipes. Also, you can walk
+   on water and your jumps will
+   be much lighter due to your
+   size.
 
 Mushroom: This ordinary
 mushroom, when grabbed, will
 turn you into Super
-  Mario. You will simply be larg
-  take a hit from an enemy (you 
+  Mario. You will simply be
+  larger than your normal form,
+  and can take a hit from an
+  enemy (you will shrink down
+  though).
 
 P Switch: This blue switch with
 the letter P on it will make all
 the coins in
   the area turn into blocks, and
-  few moments, so move quickly i
+  vice versa. This effect lasts
+  for a few moments, so move
+  quickly if you're looking to
+  find a secret!
 
 Red Ring/Coins: When you spot a
 red ring in the air, if you were
 to jump
     through it, 8 Red Coins will
-    8 coins quickly before they 
+    appear ahead. If you collect
+    the 8 coins quickly before
+    they disappear, you will get
+    either an
      item or an extra life.
 
 Spin Block: When you jump onto
 this blue spinning platform,
 then jump off it,
-   you will launch upward into t
-   be able to glide in the air, 
-   you press Down while spinning
+   you will launch upward into
+   the air while spinning. You
+   will then be able to glide in
+   the air, slowly descending in
+   the process. If you press
+   Down while spinning in the
+   air, you will perform a
    diving drill attack which can
-   bounce even higher if you hit
+   cut through blocks and cause
+   you to bounce even higher if
+   you hit a trampoline
+   platform.
 
 Starman: This yellow star will
 make you invincible to all
 attacks for several
-  moments. You can run through e
-  will not be damaged by other a
+  moments. You can run through
+  enemies to instantly kill
+  them, and you will not be
+  damaged by other attacks
+  during this time.
 
 ********************************
 
@@ -7196,7 +7553,8 @@ adding to their lot.
 ********************************
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
--=  10. Secrets/Tips and Tricks 
+-= 10. Secrets/Tips and Tricks
+   -=
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ============================
@@ -7325,52 +7683,96 @@ below:
 1. This method will require two
    indestructible blocks on the
    ground a fairly short
-   distance from each othe
-   throwing Spiny enemies at you
-   and take its shell. Anyway, w
-   in that area between the bloc
-   up points. Allow the Lakitu t
-   and the shell will keep killi
+   distance from each other
+   (several spaces wide), as
+   well as a Lakitu throwing
+   Spiny enemies at you. You
+   will also need to find a
+   Koopa Troopa and take its
+   shell. Anyway, wait for
+   Lakitu to toss several Spiny
+   enemies in that area between
+   the blocks, then toss the
+   shell into the mix to rack up
+   points. Allow the Lakitu to
+   continue dropping Spinies
+   into that area, and the shell
+   will keep killing them,
+   racking up more points and
    eventually 1-Ups.
 
 2. This next method will require
    a pipe that spits out an
    endless supply of Goomba
-   enemies. Wait for seve dash
-   button and start jumping some
-   extra air time between l
-   should never touch the ground
-   pour out, allowing yourself t
-   gain extra air in between Goo
-   Goombas as Mini Mario, holdin
-   defeat it, and you should hav
-   out.
+   enemies. Wait for several
+   Goombas to walk/fall out,
+   then hold the dash button and
+   start jumping on them one at
+   a time (you hold dash to have
+   some extra air time between
+   landings). If you are doing
+   this right, you should never
+   touch the ground,
+   continuously stomping the
+   Goombas as they pour out,
+   allowing yourself to gain a
+   steady stream of 1-Ups. Also,
+   to gain extra air in between
+   Goombas, do this as Mini
+   Mario. Ground pound the
+   Goombas as Mini Mario,
+   holding the jump button to
+   gain extra air as you defeat
+   it, and you should have extra
+   air time for the next Goomba
+   to come out.
 
 3. In 7-5, just before the block
    formation above the pipe,
    there are two Bullet Bill
-   cannon towers tha earlier in
-   the level and toss blocks
-   overhead. Then, just h
+   cannon towers that rotate.
+   Grab a Koopa Troopa shell
+   from earlier in the level and
+   toss it between those
+   cannons, then stand on the
+   blocks overhead. Then, just
+   hang around as the 1-Ups rack
+   up!
 
 4. This trick was found in the
    original Super Mario
    Brothers, and can be done in
-   this game as well. You nee
-   before the flagpole, and a Ko
-   good example). Jump on the en
+   this game as well. You need
+   to find a stage where there
+   are steps before the
+   flagpole, and a Koopa Troopa
+   walking down them (Stage 2-4
+   is a good example). Jump on
+   the enemy to make it go into
+   its shell, then bounce
    straight up on the left side
-   will hit the step again and y
-   the step again. With this met
-   in a minute!
+   of the shell. If done
+   correctly, the shell will hit
+   the step again and you'll
+   bounce on it again, causing
+   it to hit the step again.
+   With this method, you can
+   quickly rack up the extra
+   lives in a minute!
 
 5. This method may not be for
    "infinite" 1-Ups, but you can
    still get a considerable
-   amount by using where you
-   will meet the first the dash
-   button and jump from ending
-   at the midpoint flag,
+   amount by using it. Go to
+   Stage 4-1 and run to the
+   right, where you will meet
+   the first Koopa Troopa enemy.
+   Now, if you were to hold the
+   dash button and jump from
+   enemy to enemy as you move to
+   the right, ending at the
+   midpoint flag, you will be
+   able to net 11 1-Ups if done
    correctly.
 
 
@@ -7407,26 +7809,37 @@ who haven't beaten the game yet:
 Stage 1-4: When you reach the
 point where you drop down to a
 lower area
-  (before the Paratroopa), hit t
+  (before the Paratroopa), hit
+  the far-right ? block to find
+  it.
 
 Stage 2-Castle: In the second
 half of the stage, go right
 until you reach the
-    pit with a giant spike ball 
-    from the rope to reach the l
+    pit with a giant spike ball
+    and a rope hanging above.
+    Swing from the rope to reach
+    the ledge, then hit the
+    right ? block.
 
 Stage 3-A: After you pass the
 midpoint flag, go right until
 you can go into
-  the water again by the spiders
+  the water again by the
+  spiders. Under the water, hit
+  the ? block
    to find the Mini Mushroom.
 
 Stage 7-A: After you pass the
 midpoint flag, hop up the pipes
 above you with
-  the Squigglers coming out. Go 
-  then go right (above you will 
-  to). If you go right, hit the 
+  the Squigglers coming out. Go
+  up the upside-down pipe at the
+  top, then go right (above you
+  will be a tiny pipe you can
+  wall jump to). If you go
+  right, hit the ? block to get
+  a Mini Mushroom.
 
 
 =============

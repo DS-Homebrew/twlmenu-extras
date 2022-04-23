@@ -26,37 +26,89 @@ V. Miscellaneous................
 VI. Enemies.....................
 VII. Walkthrough................
     Prologue....................
-    Episode 01: Product Storage 
-    Episode 01: Product Storage 
-    Episode 02: Guardian I......
-    Episode 03: Escape Product S
-    Episode 04: Product Storage 
-    Episode 04: Product Storage 
-    Episode 05: Sanctus Vector..
-    Episode 06: Exit Product Sto
-    Episode 07: Non-ETO Transpor
-    Episode 08: LOLA-RR10 / Wast
-    Episode 08: LOLA-RR10 / Wast
+    Episode 01: Product Storage
+    Sector I....................
+    ............[ep101] Episode
+    01: Product Storage Sector I
+    (Part 2)....................
+    ...[epxx1] Episode 02:
+    Guardian I..................
+    ............................
+    [ep202] Episode 03: Escape
+    Product Storage Sector I....
+    .....................[ep303]
+    Episode 04: Product Storage
+    Sector II...................
+    ............[ep404] Episode
+    04: Product Storage Sector
+    II (Part 2).................
+    .....[epxx2] Episode 05:
+    Sanctus Vector..............
+    ............................
+    [ep505] Episode 06: Exit
+    Product Storage Sector II...
+    .......................[ep60
+    6] Episode 07: Non-ETO
+    Transport Vessel............
+    ....................[ep707]
+    Episode 08: LOLA-RR10 /
+    Waste Disposal..............
+    ................[ep808]
+    Episode 08: LOLA-RR10 /
+    Waste Disposal (Part 2).....
+    ................[epxx3]
     Episode 09: Guardian II.....
-    Episode 10: Power Station...
-    Episode 10: Power Station (P
-    Episode 11: Phexic Manifold.
+    ............................
+    ............[ep909] Episode
+    10: Power Station...........
+    ............................
+    ....[ep100] Episode 10:
+    Power Station (Part 2)......
+    ............................
+    [epxx4] Episode 11: Phexic M
+    anifold.....................
+    ....................[ep111]
     Episode 12: Cold Process....
-    Episode 13: Guardian III....
-    Episode 14: Irradiated Strat
-    Episode 14: Irradiated Strat
-    Episode 15: Matrix Progenito
+    ............................
+    ............[ep122] Episode
+    13: Guardian III............
+    ............................
+    ....[ep133] Episode 14:
+    Irradiated Stratum..........
+    ............................
+    [ep144] Episode 14:
+    Irradiated Stratum (Part 2).
+    ............................
+    [epxx5] Episode 15: Matrix P
+    rogenitor...................
+    ....................[ep155]
     Episode 16: Fermian Homeworl
-    Episode 17: Overlord........
+    d...........................
+    ............[ep166] Episode
+    17: Overlord................
+    ............................
+    ....[ep177]
 VIII. Bonus Episodes............
 ................................
 ........[bno00]
-    Episode 18: Tsukigami's VR T
-    Episode 19: Tsukigami's VR T
-    Episode 20: Tsukigami's VR T
-    Episode 21: Tsukigami's VR T
-    Episode 22: Tsukigami's VR T
-    Episode 23: Tsukigami's VR T
+    Episode 18: Tsukigami's VR
+    Training I..................
+    .............[bno01] Episode
+    19: Tsukigami's VR Training 
+    II..........................
+    ....[bno02] Episode 20:
+    Tsukigami's VR Training III.
+    ............................
+    [bno03] Episode 21:
+    Tsukigami's VR Training IV..
+    ............................
+    [bn004] Episode 22:
+    Tsukigami's VR Training V...
+    ............................
+    [bno05] Episode 23:
+    Tsukigami's VR Training VI..
+    ............................
+    [bno06]
 IX. Frequently Asked Questions..
 ................................
 ........[faq00] X. Version Histo
@@ -182,13 +234,21 @@ vehicle
 Top Screen Display
 ------------------
 
-- Reticule in the center of the 
-- HEALTH bar in the lower left-h
+- Reticule in the center of the
+  screen is what you use to aim
+  your weapon
+- HEALTH bar in the lower left-
+  hand corner displays how much
+  health you have
 left
 - Lower right hand corner of the
+  screen displays what weapon
+  you are currently
 using as well as how much
 ammunition you have left
 - At the bottom of the screen is
+  where a blinking arrow will
+  show up when you
 have the chance to use the
 Action Icon. This is basically
 here for a reminder to look at
@@ -198,20 +258,28 @@ time more than anything.
 Touch Screen Display
 --------------------
 
-- In the center is your navigati
+- In the center is your
+  navigational display. Whenever
+  you enter a new location
 this map will always load. The
 triangle represents your
 movement.
-- At the bottom is your weapon d
+- At the bottom is your weapon
+  display, showing you what
+  weapon you are using
 as well as how much ammo you
 have left. Tap this to alternate
 between weapons as well as the
 Remote Access Droid
-- In the upper left-hand corner 
+- In the upper left-hand corner
+  is the Options screen. You can
+  use this to
 adjust most game settings. This
 can also be accessed from the
 Main Menu
 - In the upper right-hand corner
+  is Map display. Once you have
+  downloaded the
 map for whatever area you are
 presently in you can use this
 feature to check locations.
@@ -219,7 +287,9 @@ Rooms shaded in blue are areas
 you have yet to explore, while
 rooms in red signify that you
 have been in those areas before.
-- At the very top of the Touch S
+- At the very top of the Touch
+  Screen is the Action Icon. You
+  use this to..well
 perform actions. Things like
 opening doors, picking up
 weapons, retrieving your Remote
@@ -342,7 +412,8 @@ you are bunched up in a narrow
 space and facing a large horde.
 
 --------------------------------
- ++ffmasterjose's anti-plagiaris
+ ++ffmasterjose's anti-
+   plagiarism check++
 --------------------------------
 
 --------------------------------
@@ -777,7 +848,8 @@ taken deeper into the Moon. End
 of the prologue.
 
 --------------------------------
- Episode 01: Product Storage Sec
+ Episode 01: Product Storage
+ Sector I [ep101]
 --------------------------------
 
 At the start of the Episode,
@@ -1092,11 +1164,13 @@ unlock the door and continue
 along.
 
 --------------------------------
- ++ffmasterjose's anti-plagiaris
+ ++ffmasterjose's anti-
+   plagiarism check++
 --------------------------------
 
 --------------------------------
- Episode 01: Product Storage Sec
+ Episode 01: Product Storage
+ Sector I (Part 2) [epxx1]
 --------------------------------
 
 I split this section because
@@ -1240,7 +1314,8 @@ Drones when the boss summons
 them.
 
 --------------------------------
- Episode 03: Escape Product Stor
+ Episode 03: Escape Product
+ Storage Sector I [ep303]
 --------------------------------
 
 Ugh, do I despise timer
@@ -1329,7 +1404,8 @@ This brings Episode 03 to a
 close.
 
 --------------------------------
- Episode 04: Product Storage Sec
+ Episode 04: Product Storage
+ Sector II [ep404]
 --------------------------------
 
 Descend the stairs and pass
@@ -1513,7 +1589,8 @@ through it to explore the next
 part of this area.
 
 --------------------------------
- Episode 04: Product Storage Sec
+ Episode 04: Product Storage
+ Sector II (Part 2) [epxx2]
 --------------------------------
 
 As soon as you enter the room,
@@ -1554,11 +1631,13 @@ this will bring Episode 04 to a
 close.
 
 --------------------------------
- ++ffmasterjose's anti-plagiaris
+ ++ffmasterjose's anti-
+   plagiarism check++
 --------------------------------
 
 --------------------------------
- Episode 05: Sanctus Vector [ep5
+ Episode 05: Sanctus Vector
+ [ep505]
 --------------------------------
 
 Pick up the Red Key lying in
@@ -1645,7 +1724,8 @@ When the boss is destroyed
 Episode 05 will come to a close.
 
 --------------------------------
- Episode 06: Exit Product Storag
+ Episode 06: Exit Product
+ Storage Sector II [ep606]
 --------------------------------
 
 This would be another level that
@@ -1752,7 +1832,8 @@ it will cut to a scene and the
 Episode will draw to a close.
 
 --------------------------------
- Episode 07: Non-ETO Transport V
+ Episode 07: Non-ETO Transport
+ Vessel [ep707]
 --------------------------------
 
 This is actually a fairly short
@@ -1834,7 +1915,8 @@ the Episode will be drawn to a
 close.
 
 --------------------------------
- Episode 08: LOLA-RR10 / Waste D
+ Episode 08: LOLA-RR10 / Waste
+ Disposal [ep808]
 --------------------------------
 
 You begin in the LOLA. At first
@@ -1981,7 +2063,8 @@ your game and restore your
 health in the next save room.
 
 --------------------------------
- Episode 08: LOLA-RR10 / Waste D
+ Episode 08: LOLA-RR10 / Waste
+ Disposal (Part 2) [epxx3]
 --------------------------------
 
 More narrow tunnels await you,
@@ -2090,7 +2173,8 @@ will be yours to claim and
 Episode 09 will be finished.
 
 --------------------------------
- Episode 10: Power Station [ep10
+ Episode 10: Power Station
+ [ep100]
 --------------------------------
 
 Exit out of the new door,
@@ -2246,11 +2330,13 @@ packet and backtrack all of the
 way to the center room.
 
 --------------------------------
- ++ffmasterjose's anti-plagiaris
+ ++ffmasterjose's anti-
+   plagiarism check++
 --------------------------------
 
 --------------------------------
  Episode 10: Power Station (Part
+ 2) [epxx4]
 --------------------------------
 
 Now we will explore the
@@ -2330,7 +2416,8 @@ them. After it is defeated
 Episode 10 will be over.
 
 --------------------------------
- Episode 11: Phexic Manifold [ep
+ Episode 11: Phexic Manifold
+ [ep111]
 --------------------------------
 
 This level is a boss fight, but
@@ -2568,7 +2655,8 @@ and bring this Episode to a
 close. Congratulations!
 
 --------------------------------
- Episode 14: Irradiated Stratum 
+ Episode 14: Irradiated Stratum
+ [ep144]
 --------------------------------
 
 Well you managed to shut down
@@ -2710,7 +2798,8 @@ go through the previously locked
 door in that room.
 
 --------------------------------
- Episode 14: Irradiated Stratum 
+ Episode 14: Irradiated Stratum
+ (Part 2) [epxx5]
 --------------------------------
 
 There is nothing noteworthy
@@ -2756,7 +2845,8 @@ the Episode will be drawn to a
 close.
 
 --------------------------------
- Episode 15: Matrix Progenitor [
+ Episode 15: Matrix Progenitor
+ [ep155]
 --------------------------------
 
 Snag the key that is sitting at
@@ -2796,7 +2886,8 @@ however you like. When it is
 destroyed, Episode 15 is over.
 
 --------------------------------
- Episode 16: Fermian Homeworld [
+ Episode 16: Fermian Homeworld
+ [ep166]
 --------------------------------
 
 Right off the bat you're dealing
@@ -2957,7 +3048,8 @@ Bonus Episodes walkthrough
 portion!
 
 --------------------------------
- Episode 18: Tsukigami's VR Trai
+ Episode 18: Tsukigami's VR
+ Training I [bno01]
 --------------------------------
 
 The first of the Bonus Episodes.
@@ -2996,7 +3088,8 @@ will bring the first training
 episode to a close.
 
 --------------------------------
- Episode 19: Tsukigami's VR Trai
+ Episode 19: Tsukigami's VR
+ Training II [bno02]
 --------------------------------
 
 Feel free to make a mad dash for
@@ -3047,7 +3140,8 @@ Access Droid together to bring
 this Episode to an end.
 
 --------------------------------
- Episode 20: Tsukigami's VR Trai
+ Episode 20: Tsukigami's VR
+ Training III [bno03]
 --------------------------------
 
 The first big area you will find
@@ -3078,7 +3172,8 @@ Tsuke on the east side of the
 room's area.
 
 --------------------------------
- Episode 21: Tsukigami's VR Trai
+ Episode 21: Tsukigami's VR
+ Training IV [bno04]
 --------------------------------
 
 The first two rooms in this
@@ -3151,7 +3246,8 @@ time before the force field goes
 back up.
 
 --------------------------------
- Episode 22: Tsukigami's VR Trai
+ Episode 22: Tsukigami's VR
+ Training V [bno05]
 --------------------------------
 
 The first area is pure running
@@ -3197,7 +3293,8 @@ is all a cinch. Tsuke is in the
 northeast region of the area.
 
 --------------------------------
- Episode 23: Tsukigami's VR Trai
+ Episode 23: Tsukigami's VR
+ Training VI [bno06]
 --------------------------------
 
 The first serious chamber you
@@ -3262,7 +3359,8 @@ Episode in Moon!
 
 
 --------------------------------
- IX. Frequently Asked Questions 
+ IX. Frequently Asked Questions
+ [faq00]
 --------------------------------
 
 The following section is

@@ -1,18 +1,15 @@
 :.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.
-:.:.:.:.:.:.:..:.:.:.:.:.:.:.:.:
-.:.:.:.:.:.:. Nanostray 2 -
-Nintendo DS
+Nanostray 2 - Nintendo DS
 
 Version 1.0 (27/03/2008)
 
-Version History: 1.0: Basic
-guide complete - (27/03/2008)
+Version History:
+1.0: Basic guide complete -
+  (27/03/2008)
 0.4: First four stages -
-(20/03/2008)
+  (20/03/2008)
 
 .:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:
-.:.:.:.:.:.:.:..:.:.:.:.:.:.:.:.
-:.:.:.:.:.:.:.
 
 Legality: This Guide is
 Copyright, 2008, Matthew
@@ -41,6 +38,8 @@ Game by Shin'en
 ********************************
 
 *To jump to a section, hold the
+ Control Key and press F, then
+ type in the
 section number as it appears (ie
 type NS1)
 
@@ -265,7 +264,8 @@ points.
 Blue Coin: Released after a wave
 has been downed. They will
 slightly refill
-  your secondary weapon's power 
+  your secondary weapon's power
+  meter.
 
 1-Up: Released after a wave has
 been downed and you have 1 life
@@ -866,12 +866,14 @@ change your satellite position
 as you go around.
 
    .---.
- .'  B  '.    -When you are at t
+ .' B '. -When you are at the
+ top, switch to a back shot.
 '         '
 'S S' -At the sides, switch to a
 side shot.
 '         '
- '.  F  .'    -And of course, a 
+ '. F .' -And of course, a
+ forward shot at the bottom.
    '---'
 
 When he stops firing the
@@ -1286,7 +1288,8 @@ ship just past the robots.
 Take out the wave of two ships
 that comes up.
 
-     ********Miniboss: Umihebi**
+     ********Miniboss:
+             Umihebi********
 
 Umihebi is a mechanical sea
 snake that jumps out of the
@@ -1605,8 +1608,10 @@ its sides, it is going to fire
 bullets. They kind of go like
 this:
  /\
- || X     While Ginyoku's spread
- || X     side from which bullet
+ || X While Ginyoku's spread
+ isn't quite this wide, it does
+ show the || X side from which
+ bullets are spread out (X).
     (  )
 X  // X\\
 X //  X \\
@@ -2000,7 +2005,8 @@ Set 15: Second from the bottom.
 
 Miniboss time.
 
-     ********Miniboss: Kagizume*
+     ********Miniboss:
+             Kagizume********
 
 
 Kagizume will appear from those
@@ -2233,7 +2239,8 @@ he walker falls off and destroys
 \____/ itself. At this point,
 you must quickly fly up in line
 with the
- //_          moving walls befor
+ //_ moving walls before you are
+ crushed.
 ------+
  |
  |
@@ -2331,7 +2338,8 @@ waves before they can fire too
 much upon you. The miniboss
 approaches.
 
-     ********Miniboss: Sankyaku*
+     ********Miniboss:
+             Sankyaku********
 
 
 Sankyaku walks forward. The
@@ -2346,15 +2354,22 @@ HOW Sankyaku walks depends
 largely on the screen's
 orientation.
 
-    ==       ==  ==      Essenti
-    ||       ||  ||->    will al
+    == == == Essentially, this
+       is how Sankyaku walks
+       forward. It
+    || || ||-> will always have
+    two paired legs and one
+    singular.
     ||       ||  ||->
-  ( () )     ( () )      The tri
+  ( () ) ( () ) The trick to
+  moving past it is to stay near
+  the single
 <-|| || || leg and you iwll
 eventually be between two. Then,
 you <-|| || || can simply escape
 when the leg you were originally
-  ==  ==       ==        next to
+  == == == next to moves down to
+     the other side.
 
 Sankyaku can use a greens pread
 of bullets as well, and these
@@ -2564,9 +2579,11 @@ so...
 (A) .' '. Getting just beside or
 above the top part of Nohkan
 seems
-  .'           '.    to be a saf
+  .' '. to be a safe spot.
  .               .
- '-............-'    You will be
+ '-............-' You will be
+ below the maximum passage of
+ the laser.
 
 A safe spot from Nohkan,
 anyways. You still have to worry
@@ -2720,12 +2737,14 @@ change your satellite position
 as you go around.
 
    .---.
- .'  B  '.    -When you are at t
+ .' B '. -When you are at the
+ top, switch to a back shot.
 '         '
 'S S' -At the sides, switch to a
 side shot.
 '         '
- '.  F  .'    -And of course, a 
+ '. F .' -And of course, a
+ forward shot at the bottom.
    '---'
 
 When he stops firing the
@@ -2875,7 +2894,8 @@ will eventually fall.
       '-................-'
 
 
-     ********Miniboss: Umihebi**
+     ********Miniboss:
+             Umihebi********
 
 Umihebi is a mechanical sea
 snake that jumps out of the
@@ -2998,8 +3018,10 @@ its sides, it is going to fire
 bullets. They kind of go like
 this:
  /\
- || X     While Ginyoku's spread
- || X     side from which bullet
+ || X While Ginyoku's spread
+ isn't quite this wide, it does
+ show the || X side from which
+ bullets are spread out (X).
     (  )
 X  // X\\
 X //  X \\
@@ -3142,7 +3164,8 @@ fall.
       ~NS5.7: Kohai City~
        '-.............-'
 
-     ********Miniboss: Kagizume*
+     ********Miniboss:
+             Kagizume********
 
 
 Kagizume will appear from those
@@ -3232,7 +3255,8 @@ when it comes down to it.
       ~NS5.8: Himuro Base~
       '-...............-'
 
-     ********Miniboss: Sankyaku*
+     ********Miniboss:
+             Sankyaku********
 
 
 Sankyaku walks forward. The
@@ -3247,15 +3271,22 @@ HOW Sankyaku walks depends
 largely on the screen's
 orientation.
 
-    ==       ==  ==      Essenti
-    ||       ||  ||->    will al
+    == == == Essentially, this
+       is how Sankyaku walks
+       forward. It
+    || || ||-> will always have
+    two paired legs and one
+    singular.
     ||       ||  ||->
-  ( () )     ( () )      The tri
+  ( () ) ( () ) The trick to
+  moving past it is to stay near
+  the single
 <-|| || || leg and you iwll
 eventually be between two. Then,
 you <-|| || || can simply escape
 when the leg you were originally
-  ==  ==       ==        next to
+  == == == next to moves down to
+     the other side.
 
 Sankyaku can use a greens pread
 of bullets as well, and these
@@ -3364,9 +3395,11 @@ so...
 (A) .' '. Getting just beside or
 above the top part of Nohkan
 seems
-  .'           '.    to be a saf
+  .' '. to be a safe spot.
  .               .
- '-............-'    You will be
+ '-............-' You will be
+ below the maximum passage of
+ the laser.
 
 A safe spot from Nohkan,
 anyways. You still have to worry
@@ -3408,6 +3441,7 @@ respect.
 But try whatever works for you.
 
      -=-=-=-NS6.A: Challenge Set
+            A-=-=-=-
      >--===---====---===--<
 
 *Challenge A.1
@@ -3670,6 +3704,7 @@ if you miss a few ships, 100000
 points is perfectly reachable.
 
      -=-=-=-NS6.B: Challenge Set
+            B-=-=-=-
      >--===---====---===--<
 
 
@@ -3875,6 +3910,7 @@ course.
 
 
      -=-=-=-NS6.C: Challenge Set
+            C-=-=-=-
      >--===---====---===--<
 
 
@@ -3968,13 +4004,16 @@ There's a definite pattern here.
 the run. Get hit with a
 flamethrower and use
   your temporary invulnerability
+  to grab all three.
 9. Grab the new coin under the
    brown block as you head back
    down.
 10. Stay to the left as you head
     down and wait for the
     flamethrowers
-   (horizontal) to blow. Grab th
+   (horizontal) to blow. Grab
+   the yellow coin beneath them
+   to the left.
 11, 12: When you see the last
 two coins, get hit by fire then
 quickly snatch
@@ -4026,6 +4065,7 @@ middle. 40 seconds: Move into
 the centre. Move down and right
 between the walls until
    the moving barricades get out
+   of the way.
 36: Move back up to the top
 middle. Move left, down, right
 between the two
@@ -4039,7 +4079,9 @@ into the top middle. 12: Move to
 the bottom middle, just between
 the two small walls. As the
     barricade passes above, head
-    beneath you crushes you.
+    back up to the top middle
+    before the one beneath you
+    crushes you.
 7: Move left until the barricade
 passes, move back right and stay
 there until
@@ -4187,6 +4229,7 @@ squeeze your SHN-Fighter
 through.
 
      -=-=-=-NS6.D: Challenge Set
+            D-=-=-=-
      >--===---====---===--<
 
 *Challenge D.1
@@ -4543,7 +4586,7 @@ each other.
   | | |           |      |      
   +-+-+           +------+      
 
-  Thin             Medium       
+  Thin Medium Large
 
 The size also determines the
 speed at which they can spin.

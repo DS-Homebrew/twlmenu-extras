@@ -20,7 +20,8 @@
 
  D R A G O N   Q U E S T   I X
 
-   S E N T I N E L S   O F   T H
+   S E N T I N E L S O F T H E S
+   T A R R Y S K I E S
 
 
         for Nintendo DS
@@ -61,10 +62,16 @@ navigation.
   II. GAME BASICS...............
 
  III. GAME CONTROLS.............
+ ...............................
+ ..........DQIX3
 
   IV. VARIOUS HINTS AND TIPS....
+  ..............................
+  ...........DQIX4
 
    V. THE WALKTHROUGH...........
+   .............................
+   ............DQIX5
  Prologue.......................
  Observatory....................
  Angel Falls....................
@@ -76,37 +83,57 @@ navigation.
  Coffinwell.....................
  Quarantomb.....................
  Alltrades Abbey................
- Tower of Trades................
+ ...............................
+ ....WALK11 Tower of Trades.....
+ ...............................
+ ...............WALK12
  Porth Llaffan..................
  Tywll Cave.....................
  Slurry Quay....................
  Dourbridge.....................
  Heights of Loneliness..........
+ ...............................
+ ....WALK17
  Bloomingdale...................
  The Bad Cave...................
  Gleeba.........................
  The Plumbed Depths.............
+ ...............................
+ ....WALK21
  Batsureg.......................
  Gerzuun........................
  Swinedimples Academy...........
+ ...............................
+ ....WALK24
  The Old School.................
  Wormwood Creek.................
+ ...............................
+ ....WALK26
  The Bowhole....................
  Upover.........................
  The Magmaroo...................
  Gortress.......................
  Realm of the Almighty..........
- Gittingham Palace..............
+ ...............................
+ ....WALK31 Gittingham Palace...
+ ...............................
+ ...............WALK32
  Oubliette......................
  Realm of the Mighty............
+ ...............................
+ ....WALK34
 
  POST-GAME......................
  Retrieving the Starflight Expre
+ ss.............................
+ ....WALK36
  Tower of Nod...................
 
   VI. LISTS.....................
  Shops..........................
  Abilities and Spells...........
+ ...............................
+ .....LIST2
  Items..........................
  Weapons........................
  Shields........................
@@ -124,22 +151,30 @@ VIII. MONSTER COMPENDIUM........
 .........DQIX8
 
   IX. BOSS STRATEGIES...........
+  ..............................
+  ...........DQIX9
 
    X. MINI MEDALS...............
 
   XI. ALCHEMY...................
 
  XII. QUEST SYSTEM..............
+ ...............................
+ .........DQIX12
 
 XIII. TAG MODE AND MULTIPLAYER..
 ................................
 ........DQIX13
 
  XIV. FREQUENTLY ASKED QUESTIONS
+ ...............................
+ .........DQIX14
 
   XV. CREDITS...................
 
  XVI. CONTACT INFO/LEGAL JAZZ...
+ ...............................
+ .........DQIX16
 
 
 ================================
@@ -251,96 +286,182 @@ The main menu is activated by
 pressing the X button in the
 field.
 
-• Items
-  This option lets you see the c
-  main categories by which the i
+• Items This option lets you see
+  the current items in your
+  inventory. There are 3 main
+  categories by which the items
+  are sorted:
   • Everyday Items
-    This submenu shows you the i
-    items that are placed in you
-    and use them in battle. The 
-    can carry up to 99 units of 
-    items in your bag.
+    This submenu shows you the
+    items that your characters
+    carry as well as the items
+    that are placed in your bag.
+    One character can carry up
+    to 8 items and use them in
+    battle. The bag's inventory
+    doesn't have restrictions.
+    It can carry up to 99 units
+    of one item. You can press
+    SELECT to sort the items in
+    your bag.
   • Important Items
-    This submenu shows you only 
+    This submenu shows you only
+    the items that are important
+    for the story.
   • Treasure Maps
-    This submenu shos you the Tr
-    the world map (by showing yo
-    as the info about them. You 
-    the info. Press SELECT to so
+    This submenu shos you the
+    Treasure Maps, their level,
+    their location on the world
+    map (by showing you a small
+    fragment on the top screen),
+    as well as the info about
+    them. You can press the
+    shoulder buttons to hide or
+    show the info. Press SELECT
+    to sort them by type, level
+    or status.
 
-• Equip
-  In this menu, you can equip yo
-  found/made. You can do that wi
-  icon of the piece of equipment
-  of your DS to do that. Press t
+• Equip In this menu, you can
+  equip your character with the
+  equipment you bought/
+  found/made. You can do that
+  with the help of the stylus
+  just by dragging the icon of
+  the piece of equipment on your
+  character. Or you can use the
+  D-Pad of your DS to do that.
+  Press the Y button to change
+  characters in this menu.
 
-• Attributes
-  This menu shows you the attrib
-  screen has the info about your
-  shows you your character's lev
-  of the chosen vocation. On the
-  member, like strength, agility
-  MP. Press the shoulder buttons
-  to change categories of stats:
-  vocation levels.
+• Attributes This menu shows you
+  the attributes (stats) of your
+  characters. The upper screen
+  has the info about your
+  current equipment, while the
+  lower screen shows you your
+  character's level, vocation,
+  current EXP and skill
+  allocation of the chosen
+  vocation. On the right, it
+  shows you the stats of your
+  party member, like strength,
+  agility, charm, etc, as well
+  as his/her max. HP and MP.
+  Press the shoulder buttons to
+  rotate your character. Press
+  the A button to change
+  categories of stats: overall
+  stats - spells - abilities -
+  traits - vocation levels.
 
-• Spells & Abilities
-  This menu lets you use your ch
-  Whistle, Squelch, etc.) in the
-  in battle, and thus, they are 
+• Spells & Abilities This menu
+  lets you use your characters'
+  spells and abilities (like
+  Heal, Whistle, Squelch, etc.)
+  in the field. Note that some
+  skills can only be used in
+  battle, and thus, they are not
+  shown in this menu.
 
-• Battle Records
-  The Battle Records menu become
-  Falls. It has seven submenus:
+• Battle Records The Battle
+  Records menu becomes available
+  after Stella joins you in
+  Angel Falls. It has seven
+  submenus:
   • Defeated Monster List
-    This submenu shows you the l
+    This submenu shows you the
+    list of monsters you've
+    defeated, as well their
     locations, item drops, etc.
   • Wardrobe
-    This submenu shows you the n
+    This submenu shows you the
+    number of equipment you've
+    collected (found/
     bought/made).
   • Item List
-    This submenu shows you the n
-    made), as well as all the im
+    This submenu shows you the
+    number of items you've
+    collected (found/bought/
+    made), as well as all the
+    important items you've
+    obtained so far.
   • Alchenomicon
     This submenu lists the items
-    alchemy. Note that you need 
-    items through alchemy.
+    and equipment you've made so
+    far by using alchemy. Note
+    that you need to find
+    recipes to be able to make
+    various items through
+    alchemy.
   • Accolades Earnt
-    This submenu shows you the a
-    awarded to for doing various
-    in your vocation proficiency
-    different accolades in the g
+    This submenu shows you the
+    accolades you've earnt so
+    far. Accolades are awarded
+    to for doing various things
+    in the game, like reaching
+    some level in your vocation
+    proficiency or fighting 500
+    battles. There are about 300
+    different accolades in the
+    game.
   • Quest List
-    This submenu shows you the n
-    The completed ones are marke
+    This submenu shows you the
+    number of quests you've
+    taken and completed. The
+    completed ones are marked
+    with a star.
   • First Completion Records
-    After beating the game, you'
-    spent playing before beating
-    etc.
+    After beating the game,
+    you'll get this submenu to
+    show you the time you spent
+    playing before beating the
+    game, battle victories,
+    completed quests, etc.
 
-• Misc.
-  This is a "Miscellaneous" menu
-  and has some other necessary f
+• Misc. This is a
+  "Miscellaneous" menu that lets
+  you deal with the game's
+  settings and has some other
+  necessary functions.
   • Heal All
     This is a very handy submenu
-    restore the party's HP as ef
-    need to heal yourself quickl
+    that uses party members'
+    magic to fully restore the
+    party's HP as efficiently as
+    possible. It's very useful
+    if you need to heal yourself
+    quickly.
   • Tactics
-    Allows you to change your pa
-    colours. You can't set tacti
+    Allows you to change your
+    party member's tactics,
+    line-up and personal
+    colours. You can't set
+    tactics for your Hero,
+    though.
   • Allocate Skill Points
-    This submenu allos you to di
-    members have saved up.
+    This submenu allos you to
+    distribute any unused skill
+    points your party members
+    have saved up.
   • Assign Party Tricks
-    This submenu lets you set wh
-    button and the D-Pad.
+    This submenu lets you set
+    which party tricks can be
+    performed with the B button
+    and the D-Pad.
   • Profile Settings
-    This submenu allows you to c
-    birthday, title, speach styl
+    This submenu allows you to
+    change your profile settings
+    (home country, birthday,
+    title, speach style and
+    greeting).
   • Volume Settings
-    Allows you to change setting
+    Allows you to change
+    settings such as the music
+    and sound effect volumes.
   • Quick Save
-    Temporarily suspends your ad
+    Temporarily suspends your
+    adventure in its current
+    state.
 
 ----------------
 4. BATTLE SYSTEM
@@ -364,49 +485,91 @@ battle starts, you'll have 4
 options:
 
   • Fight
-    This option allows you to st
+    This option allows you to
+    start the actual fight.
+    You'll have 6 different
     options here:
     • Attack
     Regular physical attack.
     • Abilities
     Weapon/shield abilities that
-    allocation. Note that you ca
+    you have learnt from the
+    skill point allocation. Note
+    that you can only use the
+    abilities of your current
     weapon type.
     • Spells
-    Spells that you've learned b
-    vocations (like Warrior) don
+    Spells that you've learned
+    by leveling up your
+    vocation. Note that some
+    vocations (like Warrior)
+    don't have any spells at
+    all.
     • Items
-    Use one of the 8 items that 
+    Use one of the 8 items that
+    you've put in your
+    character's inventory.
     • Defend
-    Defend to reduce the damage 
+    Defend to reduce the damage
+    for one turn.
     • Coup de Grace
-    Basically, Coup de Grace is 
-    has their own Coups, and the
-    the battle. Sometimes you ha
-    sometimes you have to just d
-    to discover what EXACTLY tri
-    about it, you're welcome to 
+    Basically, Coup de Grace is
+    a special attack in this
+    game. Every vocation has
+    their own Coups, and they
+    are triggered randomly
+    during the course of the
+    battle. Sometimes you have
+    to survive a critical hit to
+    trigger it, sometimes you
+    have to just defend for it
+    to kick in. I haven't been
+    able to discover what
+    EXACTLY triggers Coup de
+    Grace, so if you have some
+    info about it, you're
+    welcome to share it with me.
 
   • Examine
     This option lets you see the
-    move or remind you what they
+    enemies' reaction/possibly
+    predict their next move or
+    remind you what they did in
+    the previous turn.
 
   • Flee
-    This option allows you to es
-    if the enemies are too tough
-    a few retries. Also, you can
+    This option allows you to
+    escape the battle. Note that
+    it might not work if the
+    enemies are too tough for
+    you at your current level
+    and may require a few
+    retries. Also, you cannot
+    flee from boss battles or
+    chest ambushes.
 
   • Misc.
-    This option allows you to ch
+    This option allows you to
+    change your line-up,
+    equipment or tactics during
 the battle.
     • Tactics
-    Lets you choose the tactics 
+    Lets you choose the tactics
+    for your character (except
+    the Hero).
     • Equipment
-    Lets you switch you weapons 
-    the weapons your current voc
+    Lets you switch you weapons
+    during the battles. Note
+    that you can only use the
+    weapons your current
+    vocation lets you use.
     • Line-Up
-    Lets you change the line-up 
+    Lets you change the line-up
+    of your characters in
+    battle. Characters with
     vocations like Priest, Mage,
+    Sage should be out in the
+    Back Line.
 
 ================================
 III.............................
@@ -496,24 +659,34 @@ IOUS HINTS AND
 TIPS......................DQIX4
 ================================
 
- • Keep your money in the bank i
+ • Keep your money in the bank
+   in Stornway inn. If you die
+   in battle, you lose
 half of your money! So it's
 better just to store it
 somewhere safe, isn't it?
 
- • Use the "Heal All" command fr
+ • Use the "Heal All" command
+   from the Misc. menu to save
+   yourself some time.
 
- • Check all cupboards, wardrobe
+ • Check all cupboards,
+   wardrobes, jars and barrels
+   for hidden items. Check
 the bookshelves for achemy
 recipes.
 
  • Red chests can only be opened
+   by the Hero. Blue chests can
+   be opened by
 anyone in your party. Their
 contents respawn after a certain
 amount of time or after your
 turn off your DS.
 
- • Some blue chests can be trapp
+ • Some blue chests can be
+   trapped! There are three
+   kinds of chest traps in
 the game - Canniboxes, Mimics
 and Pandora's Boxes (Cannibox is
 the weakest). These enemies are
@@ -522,15 +695,21 @@ map grottoes, so be on your
 guard.
 
  • Steal items from enemies with
+   the thief's ability "Half-
+   inch". Trigger
 thief's Coup de Grace called
 "Itemised Kill" to get
 guaranteed loot from the enemy!
 
- • To kill Metal enemies quickly
+ • To kill Metal enemies
+   quickly, use moves like Metal
+   Slash (Sword), Hatchet
 Man (Axe) and Assassin's Stab
 (Knife).
 
- • Always keep the weaker party 
+ • Always keep the weaker party
+   members (like Priest or Sage)
+   in the back row.
 This may save them from a lot of
 attacks.
 
@@ -593,7 +772,8 @@ floor (or L2, as the map '------
 -------------------------------'
 informs you). Proceed north to
 meet
-          Apus Major. It turns o
+          Apus Major. It turns
+          out you must offer
 up that Benevolessence item you
 got earlier to the great tree of
 Yggdrasil. You can find some
@@ -671,6 +851,7 @@ in them, and respawn from '-----
 ' time to time. So be sure to
 check them
           every once in a while.
+          Talk to the
 little kid on this side of the
 village, and then press A on
 Ivor. Teach this guy a lesson.
@@ -770,6 +951,7 @@ Ivor soon. After the '----------
 conversation with Stornway
 soldiers,
           return to Angel Falls.
+          Looks like we
 will have to ask around about
 this Patty person. Simply go to
 Mayor's house and watch the
@@ -859,7 +1041,9 @@ about 100 HP. Just don't forget
 to use Heal spell/Medicinal
 Herbs when necessary.
 
-*Note: To get the chest with [SC
+*Note: To get the chest with
+ [SCALE ARMOR], you'll have to
+ enter the Hexagon
 from the Stornway region. The
 entrance is in the southwest
 corner of the Western Stornway.
@@ -1007,6 +1191,7 @@ inn and speak to '--------------
 -----------------------' Erinn,
 Patty and Pavo (who is visible
           only to you, as he's a
+          Celestrian).
 Pavo offers some multiplayer
 services, while Erinn handles
 the inn management. Talk to her
@@ -1069,7 +1254,9 @@ scene with Stella. Looks like
 Loch Storn is our next
 destination point. Exit Stornway
 and go north to Zere region.
-**Note: If you enter Stornway du
+**Note: If you enter Stornway
+  during nighttime, you'll find
+  a [MINI MEDAL] in
 the northeast part of town
 (behind the church). In Zere
 region, take the first road
@@ -1115,8 +1302,11 @@ about Brigadoom there. Zere is
 situated on the north coast of
 the Zere region (the village
 itself looks like a heart on the
-world map). *Note: If you talk
-to King Schot map.
+world map).
+*Note: If you talk to King
+ Schott later in the game, he'll
+ give you a treasure
+map.
 
 ================================
 ZERE............................
@@ -1178,6 +1368,7 @@ to hear her '-------------------
 ------------------' nursery
 rhyme. You'll find out that
           you need to head north
+          in order to
 learn more about this Brigadoom
 place. So basically all you need
 to do is head further north to
@@ -1239,7 +1430,8 @@ to the south to unlock it and '-
 --------------------------------
 ----' make a shortcut. Then
 proceed north to
-          the stairway. On L2, t
+          the stairway. On L2,
+          take the nearby
 stairs to L1. Read the notes on
 the table and open the chest
 that contains a [GOLD BRACER].
@@ -1415,7 +1607,8 @@ Soul | recipes. You should have
 loads of gold '-----------------
 --------------------' by now, so
 update your equipment. On
-          the floor above the in
+          the floor above the
+          inn, there's a
 magically locked door (similar
 to the one in Zere), so take
 note of it. There is also a
@@ -1638,7 +1831,8 @@ Corpse | hat is a merchant, so
 buy anything you '--------------
 -----------------------' need
 from him. Check the bookshelves
-          to learn some new reci
+          to learn some new
+          recipes and go back
 upstairs. Talk to the priest in
 the north twice, then go to B1
 and speak with man and woman at
@@ -1690,7 +1884,8 @@ Restless Armor | the path up. On
 L7, open the southwest '--------
 -----------------------------'
 chest to find [MINI MEDAL], then
-          the northeast one to g
+          the northeast one to
+          get [MAGIC WATER]
 and heal up. Enter the shining
 door. Talk to the man inside for
 a scene.
@@ -1859,7 +2054,9 @@ Mortoad | the stairs and enter
 the first hole '----------------
 ---------------------' you see.
 Head northeast for a chest
-          with [SEED OF AGILITY]
+          with [SEED OF
+          AGILITY]. Exit the
+          room
 and go through the west hole
 this time. Stick to the west
 side of the room to get to a
@@ -2070,6 +2267,7 @@ to check the '------------------
 -------------------' walkthrough
 and not miss any of the
           medals you can find in
+          red chests,
 although sometimes they can be
 found in blue ones. If you have
 at least four medals (and you
@@ -2181,7 +2379,8 @@ is situated. Don't '------------
 -------------------------'
 forget to open a blue chest on
 L7. In
-          Zere Rocks, enter the 
+          Zere Rocks, enter the
+          northeast house
 and check the bookshelf in the
 north for alchemy recipes. After
 that, talk to the slime inside.
@@ -2390,7 +2589,8 @@ Axolhotl | beaten the game. Talk
 to the old man '----------------
 ---------------------' for a
 scene. Talk to the woman near
-          the entrance. At dayti
+          the entrance. At
+          daytime, go to the
 mansion in the north. Speak with
 the guard and he'll let you
 enter it. Go to the second floor
@@ -2450,7 +2650,8 @@ Metal Medley | to B1, opening a
 blue chest on your '------------
 -------------------------' way.
 Go north first, and open a chest
-          with [MINI MEDAL]. Mak
+          with [MINI MEDAL].
+          Make your way to
 the west part of this floor and
 go north to pick up [1700 GOLD
 COINS] from the chest. There's
@@ -2654,7 +2855,8 @@ Exit Mirage Mahal and go in '---
 --------------------------------
 --' the northwest corner of
 Gleeba. Use a
-          "Clap" Party Trick nea
+          "Clap" Party Trick
+          near the tree in
 the shade for a scene. The
 lizard will start running
 around. Press A near it to catch
@@ -2715,7 +2917,8 @@ chest | 111 Ghoul | with
 '-------------------------------
 ------' to the northwest stairs
 leading to B2.
-          Go north and follow th
+          Go north and follow
+          the curvy path
 around this floor to the north
 exit. Grab the items from the
 two blue chests in the east, a
@@ -2897,7 +3100,8 @@ to trigger a scene. When you're
 done, '-------------------------
 ------------' leave Batsureg and
 head north to reach
-          Hunters' Yurts. Examin
+          Hunters' Yurts.
+          Examine the north yurt
 for a scene, then enter the
 south yurt and talk to Batzorig
 inside. Exit this area and go
@@ -2961,7 +3165,8 @@ Troll | [RESURROCK]. Head
 directly north into '-----------
 --------------------------' the
 underground passage filled with
-          ghosts of this ruined 
+          ghosts of this ruined
+          village. Follow
 the way to the spring and pick
 up some [BODURA GRASS]. Cast
 Evac and get back to Hunter's
@@ -3088,7 +3293,8 @@ to the dorm and rest in '-------
 ------------------------------'
 your room (where the three boys
 were).
-          At night, head to the 
+          At night, head to the
+          main building,
 and go all the way up to the
 balcony. Examine the statue and
 its forehead for a scene. Exit
@@ -3129,6 +3335,7 @@ the '---------------------------
 ----------' chest with
 [EINHANDER] in the center
           of this room. The exit
+          is in the south
 end. Heal up, and enter the
 classroom. Talk to the ghost.
 
@@ -3312,7 +3519,8 @@ corner. Exit the village and go
 north. '------------------------
 -------------' Cross the bridge
 to the east side, and
-          head north to find a h
+          head north to find a
+          hidden cave. Find
 a hole there and squeeze through
 it. Open the chest with [LUCIDA
 SHARD]. Then talk to Wallace.
@@ -3394,6 +3602,7 @@ southwest exit to '-------------
 ------------------------' B3. In
 here, go north for a blue chest
           and contine east, then
+          south until you
 hit a corner. Turn west from
 here to find a chest that
 contains [GOLD BAR]. Then take
@@ -3593,7 +3802,8 @@ armor shop to find yet '--------
 -----------------------------'
 another blue chest. Finally,
 enter the
-          weapon shop and open t
+          weapon shop and open
+          the chest for
 [MINI MEDAL]. Now go talk to the
 soldier, and he'll let you
 inside the cave.
@@ -3640,7 +3850,8 @@ Dragon | west, down the stairs,
 and all the way '---------------
 ----------------------' east to
 a chest with [HADES' HELM],
-          which is cursed, by th
+          which is cursed, by
+          the way. Head back
 to the west corner and make your
 way north to L5. Exit L5 via
 south opening to find a chest
@@ -3733,7 +3944,8 @@ priest to save your game. '-----
 --------------------------------
 ' Visit the graveyard, examine
 the
-          gallows, the barrier, 
+          gallows, the barrier,
+          talk to the
 soldier in the east corner and
 to the left soldier in the south
 corner of the map. After you're
@@ -3842,7 +4054,8 @@ floor. Go east and then '-------
 ------------------------------'
 west for a chest with [MIGHTY
 ARMLET].
-          Head back to the entra
+          Head back to the
+          entrance and go up
 the stairs. Approach the palace
 for a scene. Go north, west and
 up the stairs. Approach the
@@ -4179,7 +4392,8 @@ through B5, and continue going '
 --------------------------------
 -----' deeper and deeper to the
 end of B6.
-          Grab a blue chest on y
+          Grab a blue chest on
+          your way. Unlock
 the door, and talk to the
 captive. Release him, and
 he'll... attack you. This is a
@@ -4271,7 +4485,8 @@ Firn Fiend, 203 Sick Trigertaur
 Defeat him '--------------------
 -----------------' for good this
 time. I won't go into
-          details, because this 
+          details, because this
+          fight is exactly
 the same as the Gortress one. Go
 back a bit, head west, open the
 chest for [MINI MEDAL]. Go up
@@ -4758,7 +4973,8 @@ Run west and enter another door.
 On '----------------------------
 ---------' L5 again, go north
 for a chest with
-          [MINI MEDAL], then sou
+          [MINI MEDAL], then
+          southeast for a
 blue chest, and finally, take
 the central stairway to L6. Go
 east and open two red chests
@@ -6772,31 +6988,37 @@ Accessories.
  1. Warrior's Sword
  ------------------
  Soldier's Sword + Raging Ruby +
+ Warrior's Helm
 
 
  2. Fizzle Foil
  --------------
- Rapier + Narspicious x3 + Mithr
+ Rapier + Narspicious x3 +
+ Mithril Ore
 
 
  3. Steel Broadsword
  -------------------
- Iron Broadsword + Iron Ore + La
+ Iron Broadsword + Iron Ore +
+ Lava Lump
 
 
  4. Gigasteel Broadsword
  -----------------------
- Steel Broadsword + Iron Ore x2 
+ Steel Broadsword + Iron Ore x2
+ + Hephaestus' Flame
 
 
  5. Aurora Blade
  ---------------
- Cautery Sword + Brighten Rock x
+ Cautery Sword + Brighten Rock
+ x3 + Holy Water
 
 
  6. Platinum Sword
  -----------------
- Iron Broadsword + Platinum Ore 
+ Iron Broadsword + Platinum Ore
+ + Hephaestus' Flame
 
 
  7. Dragon Slayer
@@ -6817,26 +7039,31 @@ Accessories.
  10. Fire Blade
  --------------
  Valkyrie Sword + Lava Lump x3 +
+ Rockbomb Shard
 
 
  11. Inferno Blade
  -----------------
- Fire Blade + Sunstone + Rockbom
+ Fire Blade + Sunstone +
+ Rockbomb Shard x3
 
 
  12. Liquid Metal Sword
  ----------------------
- Metal Slime Sword + Orichalcum 
+ Metal Slime Sword + Orichalcum
+ + Slimedrop x6
 
 
  13. Metal King Sword
  --------------------
  Liquid Metal Sword + Orichalcum
+ + Slime Crown
 
 
  14. Erdrick's Sword
  -------------------
- Rusty Sword + Glass Frit x9 + O
+ Rusty Sword + Glass Frit x9 +
+ Orichalcum
 
 
  15. Stardust Sword
@@ -6846,18 +7073,22 @@ Accessories.
 
  16. Nebula Sword
  ----------------
- Stardust Sword + Agate of Evolu
+ Stardust Sword + Agate of
+ Evolution + Silver Orb
 
 
  17. Supernova Sword
  -------------------
- Nebula Sword + Agate of Evoluti
+ Nebula Sword + Agate of
+ Evolution x3 + Silver Orb x3
 
 
  18. Hypernova sword
  -------------------
- Nebula sword + Agate of Evoluti
- (20% chance to acquire when cre
+ Nebula sword + Agate of
+ Evolution x3 + Silver Orb x3
+ (20% chance to acquire when
+ creating Supernova Sword)
 
 
 .------------.
@@ -6867,17 +7098,20 @@ Accessories.
 
  1. Steel lance
  --------------
- Iron lance + Iron ore + Lava lu
+ Iron lance + Iron ore + Lava
+ lump
 
 
  2. Gigasteel lance
  ------------------
- Steel lance + Iron ore + Hephae
+ Steel lance + Iron ore +
+ Hephaestus' flame
 
 
  3. Celestial lance
  ------------------
- Long spear + Holy talisman + Pl
+ Long spear + Holy talisman +
+ Platinum ore
 
 
  4. Holy lance
@@ -6887,17 +7121,20 @@ Accessories.
 
  5. Trident
  ----------
- Battle fork + Seashell x2 + Cri
+ Battle fork + Seashell x2 +
+ Crimson coral x2
 
 
  6. Graco's trident
  ------------------
- Trident + Mighty armlet + Densi
+ Trident + Mighty armlet +
+ Densinium x2
 
 
  7. Sandstorm spear
  ------------------
- Holy lance + Kitty litter x2 + 
+ Holy lance + Kitty litter x2 +
+ Glass frit x2
 
 
  8. Halberd
@@ -6907,27 +7144,32 @@ Accessories.
 
  9. Lightning lance
  ------------------
- Celestial lance + Thunderball x
+ Celestial lance + Thunderball
+ x3 + Mithril ore
 
 
  10. Storm spear
  ---------------
- Lightning spear + Thunderball x
+ Lightning spear + Thunderball
+ x5 + Gold bar
 
 
  11. Demon spear
  ---------------
- Celestial lance + Terrible tatt
+ Celestial lance + Terrible
+ tattoo x3 + Malicite
 
 
  12. Liquid slime spear
  ----------------------
- Metal slime spear + Orichalcum 
+ Metal slime spear + Orichalcum
+ + Slimedrop x6
 
 
  13. Metal king spear
  --------------------
  Liquid slime spear + Orichalcum
+ + Slime crown
 
 
  14. Poker
@@ -6937,18 +7179,22 @@ Accessories.
 
  15. Stud poker
  --------------
- Poker + Agate of evolution + Re
+ Poker + Agate of evolution +
+ Red orb
 
 
  16. Split-pot poker
  -------------------
  Stud poker + Agate of evolution
+ x3 + Red orb x3
 
 
  17. Red-hot poker
  -----------------
  Stud poker + Agate of evolution
- (10% chance to acquire when cre
+ x3 + Red orb x3 (10% chance to
+ acquire when creating Split-pot
+ poker)
 
 
 .------------.
@@ -6963,17 +7209,20 @@ Accessories.
 
  2. Poison moth knife
  --------------------
- Divine dagger + Coagulant x2 + 
+ Divine dagger + Coagulant x2 +
+ Manky mud
 
 
  3. Batterfly knife
  ------------------
- Poison moth knife + Coagulant x
+ Poison moth knife + Coagulant
+ x3 + Butterfly wing x3
 
 
  4. Dread dagger
  ---------------
- Batterfly knife + Disturbin' tu
+ Batterfly knife + Disturbin'
+ turban + Butterfly wing x5
 
 
  5. Poison needle
@@ -6983,27 +7232,32 @@ Accessories.
 
  6. Falcon knife earring
  -----------------------
- Deadly nightblade + Slime earri
+ Deadly nightblade + Slime
+ earrings + Agility ring x3
 
 
  7. Assassin's dagger
  --------------------
- Deadly nightblade + Poison need
+ Deadly nightblade + Poison
+ needle + Evencloth x2
 
 
  8. Icicle dirk
  --------------
- Divine dagger + Ice crystal x3 
+ Divine dagger + Ice crystal x3
+ + Edged boomerang
 
 
  9. Fenrir fang
  --------------
- Icicle dirk + Ice crystal x5 + 
+ Icicle dirk + Ice crystal x5 +
+ Magic beast horn x3
 
 
  10. Soul breaker
  ----------------
- Sword breaker + Life bracer + S
+ Sword breaker + Life bracer +
+ Spirit bracer
 
 
  11. Gladius
@@ -7013,7 +7267,8 @@ Accessories.
 
  12. Flame tang
  --------------
- Gladius + Sunstone + Crimson co
+ Gladius + Sunstone + Crimson
+ coral x3
 
 
  13. Deft dagger
@@ -7023,18 +7278,22 @@ Accessories.
 
  14. Darting dagger
  ------------------
- Deft dagger + Agate of evolutio
+ Deft dagger + Agate of
+ evolution + Purple orb
 
 
  15. Dashing dagger
  ------------------
- Darting dagger + Agate of evolu
+ Darting dagger + Agate of
+ evolution x3 + Purple orb x3
 
 
  16. Dynamo dagger
  -----------------
- Darting dagger + Agate of evolu
- (10% chance to acquire when cre
+ Darting dagger + Agate of
+ evolution x3 + Purple orb x3
+ (10% chance to acquire when
+ creating Dashing dagger)
 
 
 .-----------.
@@ -7045,56 +7304,67 @@ Accessories.
  1. Staff of sentencing
  ----------------------
  Wizard's staff + Flurry feather
+ + Magic water
 
 
  2. Staff of divine wrath
  ------------------------
- Staff of sentencing + Flurry fe
+ Staff of sentencing + Flurry
+ feather x3 + Sage's elixir
 
 
  3. Watermaul wand
  -----------------
- Stolos' staff + Seashell x3 + C
+ Stolos' staff + Seashell x3 +
+ Crimson coral x3
 
 
  4. Tsunami staff
  ----------------
- Watermaul wand + Celestial skei
+ Watermaul wand + Celestial
+ skein + Enchanted stone
 
 
  5. Lightning staff
  ------------------
- Stolos' staff + Thunderball x3 
+ Stolos' staff + Thunderball x3
+ + Magic water
 
 
  6. Lightning conductor
  ----------------------
- Lightning staff + Thunderball x
+ Lightning staff + Thunderball
+ x5 + Sage's elixir
 
 
  7. Magma staff
  --------------
- Stolos' staff + Rockbomb shard 
+ Stolos' staff + Rockbomb shard
+ x3 + Brighten rock x3
 
 
  8. Rune staff
  -------------
- Stolos' staff + Ruby of protect
+ Stolos' staff + Ruby of
+ protection + Magic water x5
 
 
  9. Hieroglyph staff
  -------------------
- Rune staff + Sorcerer's ring + 
+ Rune staff + Sorcerer's ring +
+ Sage's elixir x3
 
 
  10. Mega-magical mace
  ---------------------
- Magical mace + Astral plume + M
+ Magical mace + Astral plume +
+ Mythril ore x3
 
 
  11. Savant's staff
  ------------------
- Sage's staff + Agate of evoluti
+ Sage's staff + Agate of
+ evolution + Sage's elixir x3
 
 
  12. Bright staff
@@ -7104,17 +7374,21 @@ Accessories.
 
  13. Shining staff
  -----------------
- Bright staff + Agate of evoluti
+ Bright staff + Agate of
+ evolution + Blue orb
 
  14. Brillant staff
  ------------------
- Shining staff + Agate of evolut
+ Shining staff + Agate of
+ evolution x3 + Blue orb x3
 
 
  15. Aurora staff
  ----------------
- Shining staff + Agate of evolut
- (10% chance to acquire when cre
+ Shining staff + Agate of
+ evolution x3 + Blue orb x3 (10%
+ chance to acquire when creating
+ Brillant staff)
 
 
 .-----------.
@@ -7130,11 +7404,13 @@ Accessories.
  2. Serpentine whip
  ------------------
  Snakeskin whip + Snakeskin x5 +
+ Magic beast horn
 
 
  3. Sidewinder
  -------------
- Serpentine whip + Snakeskin x6 
+ Serpentine whip + Snakeskin x6
+ + Tough guy tattoo
 
 
  4. Spiked steel whip
@@ -7144,22 +7420,26 @@ Iron whip + Iron ore + Lava lump
 
  5. Gigaspike whip
  -----------------
- Spiked steel whip + Iron ore + 
+ Spiked steel whip + Iron ore +
+ Hephaestus' flame
 
 
  6. Dragontail whip
  ------------------
- Iron whip + Dragon scale x3 + A
+ Iron whip + Dragon scale x3 +
+ Aggressence
 
 
  7. Demon whip
  -------------
- Iron whip + Terrible tattoo + W
+ Iron whip + Terrible tattoo +
+ Wing of bat x3
 
 
  8. Archdemon whip
  -----------------
  Demon whip + Terrible tattoo x2
+ + Malicite
 
 
  9. Scourge whip
@@ -7170,11 +7450,13 @@ Iron whip + Iron ore + Lava lump
  10. Empress's whip
  ------------------
  Queen's whip + Highness heels +
+ Monarchic mark
 
 
  11. Goddess whip
  ----------------
  Empress's whip + Goddess ring +
+ Agate of evolution
 
 
  12. Gringham whip
@@ -7184,18 +7466,22 @@ Giga Gringham whip + Reset stone
 
  13. Mega Gringham whip
  ----------------------
- Gringham whip + Agate of evolut
+ Gringham whip + Agate of
+ evolution + Green orb
 
 
  14. Giga Gringham whip
  ----------------------
- Mega Gringham whip + Agate of e
+ Mega Gringham whip + Agate of
+ evolution x3 + Green orb x3
 
 
  15. Uber Gringham whip
  ----------------------
- Mega Gringham whip + Agate of e
- (10% chance to acquire when cre
+ Mega Gringham whip + Agate of
+ evolution x3 + Green orb x3
+ (10% chance to acquire when
+ creating Giga Gringham whip)
 
 
 .------------.
@@ -7210,7 +7496,8 @@ Giga Gringham whip + Reset stone
 
  2. Gigasteel bar
  ----------------
- Steel bar + Iron ore x2 + Hepha
+ Steel bar + Iron ore x2 +
+ Hephaestus' flame
 
 
  3. Pillar of strength
@@ -7225,32 +7512,38 @@ Giga Gringham whip + Reset stone
 
  5. Slumber stick
  ----------------
- Sleepy stick + Sleeping hibiscu
+ Sleepy stick + Sleeping
+ hibiscus x3 + Narspicious
 
 
  6. Mistick
  ----------
  Driller pillar + Fresh water x3
+ + Flurry feather x3
 
 
  7. Optimistick
  --------------
- Mistick + Celestial skein x2 + 
+ Mistick + Celestial skein x2 +
+ Agility ring
 
 
  8. Ballistick
  -------------
- Optimistick + Technicolour drea
+ Optimistick + Technicolour
+ dreamcloth + Mercurys bandana
 
 
  9. Xenlon rod
  -------------
- Dragon rod + Dragon scale x3 + 
+ Dragon rod + Dragon scale x3 +
+ Sainted soma x3
 
 
  10. Orichalcudgel
  -----------------
- Orichalcum x3 + Hephaestus' fla
+ Orichalcum x3 + Hephaestus'
+ flame x3
 
 
  11. Knockout rod
@@ -7260,17 +7553,21 @@ Giga Gringham whip + Reset stone
 
  12. Senseless stick
  -------------------
- Knockout rod + Agate of evoluti
+ Knockout rod + Agate of
+ evolution + Blue orb
 
 
  13. Catatonic cosh
  ------------------
- Senseless stick + Agate of evol
+ Senseless stick + Agate of
+ evolution x3 + Blue orb x3
 
  14. Coma cudgel
  ---------------
- Senseless stick + Agate of evol
- (10% chance to acquire when cre
+ Senseless stick + Agate of
+ evolution x3 + Blue orb x3 (10%
+ chance to acquire when creating
+ Catatonic cosh)
 
 
 .-----------.
@@ -7280,12 +7577,14 @@ Giga Gringham whip + Reset stone
 
  1. Steel claws
  --------------
- Iron claws + Iron ore + Lava lu
+ Iron claws + Iron ore + Lava
+ lump
 
 
  2. Gigasteel claws
  ------------------
- Steel claws + Iron ore x2 + Hep
+ Steel claws + Iron ore x2 +
+ Hephaestus' flame
 
 
  3. Sacred claws
@@ -7300,58 +7599,70 @@ Giga Gringham whip + Reset stone
 
  5. Kite claws
  -------------
- Krestrel claws + Enchanted ston
+ Krestrel claws + Enchanted
+ stone x2
 
 
  6. Hammer handrills
  -------------------
- Handrills + Iron nails x5 + Iro
+ Handrills + Iron nails x5 +
+ Iron ore
 
 
  7. Fire claws
  -------------
- Dragon claws + Lava lump x3 + R
+ Dragon claws + Lava lump x3 +
+ Rockbomb shard
 
 
  8. Combusticlaws
  ----------------
- Fire claws + Sunstone + Rockbom
+ Fire claws + Sunstone +
+ Rockbomb shard x3
 
 
  9. King cobra claws
  -------------------
- Cobra claws + Terrible tattoo x
+ Cobra claws + Terrible tattoo
+ x4 + Wing of bat x4
 
 
  10. Beastmaster claws
  ---------------------
- Beast claws + Monarchic mark + 
+ Beast claws + Monarchic mark +
+ Magic beast horn x9
 
 
  11. Orichalcum claws
  --------------------
  Combusticlaws + Orichalcum x2 +
+ Hephaestus' flame x2
 
 
  12. Dragonlord claws
  --------------------
- Dragovian lord claws + Reset st
+ Dragovian lord claws + Reset
+ stone
 
 
  13. Dragovian claws
  -------------------
- Dragonlord claws + Agate of evo
+ Dragonlord claws + Agate of
+ evolution + Red orb
 
 
  14. Dragovian lord claws
  ------------------------
- Dragovian claws + Agate of evol
+ Dragovian claws + Agate of
+ evolution x3 + Red orb x3
 
 
  15. Xenlon claws
  ----------------
- Dragovian claws + Agate of evol
- (10% chance to acquire when cre
+ Dragovian claws + Agate of
+ evolution x3 + Red orb x3 (10%
+ chance to acquire when creating
+ Dragovian lord claws)
 
 
 .----------.
@@ -7366,72 +7677,86 @@ Giga Gringham whip + Reset stone
 
  2. Gigasteel fan
  ----------------
- Steel fan + Iron ore x2 + Hepha
+ Steel fan + Iron ore x2 +
+ Hephaestus' flame
 
 
  3. Foehn fan
  ------------
- Feather fan + Flurry feather + 
+ Feather fan + Flurry feather +
+ Agility ring
 
 
  4. Gale force fan
  -----------------
- Foehn fan + Enchanted stone + A
+ Foehn fan + Enchanted stone +
+ Agility ring
 
 
  5. Cobra fan
  ------------
  War fan + Snakeskin x2 + Dragon
+ scale
 
 
  6. Azure Dragon fan
  -------------------
- Cobra fan + Thunderball x3 + Dr
+ Cobra fan + Thunderball x3 +
+ Dragon scale x2
 
 
  7. Fowl fan
  -----------
- War fan + Flurry feather x2 + C
+ War fan + Flurry feather x2 +
+ Crimson coral x2
 
 
  8. Vermillion Bird fan
  ----------------------
- Fowl fan + Lava lump x3 + Razor
+ Fowl fan + Lava lump x3 +
+ Razor-wing boomerang
 
 
  9. Feline Fan
  -------------
- War fan + Kitty litter x2 + Sea
+ War fan + Kitty litter x2 +
+ Seashell x2
 
 
  10. White Tiger fan
  -------------------
- Feline fan + Ice crystal x3 + K
+ Feline fan + Ice crystal x3 +
+ Kitty shield
 
 
  11. Tortoiseshell fan
  ---------------------
- War fan + Tortoiseshell x2 + Ev
+ War fan + Tortoiseshell x2 +
+ Evencloth
 
 
  12. Black Tortoise fan
  ----------------------
- Tortoiseshell fan + Royal soil 
+ Tortoiseshell fan + Royal soil
+ x3 + Tortoise shell
 
 
  13. Lunar fan
  -------------
- Stellar fan + Full moon ring + 
+ Stellar fan + Full moon ring +
+ Lucida shard
 
 
  14. Solar fan
  -------------
- Lunar fan + Sunstone + Crimson 
+ Lunar fan + Sunstone + Crimson
+ coral x3
 
 
  15. Friendly fan
  ----------------
  Solar fan + Life bracer + Horse
+ manure x9
 
 
  16. Critical fan
@@ -7441,18 +7766,22 @@ Giga Gringham whip + Reset stone
 
  17. Overcritical fan
  --------------------
- Critical fan + Agate of evoluti
+ Critical fan + Agate of
+ evolution + Green orb
 
 
  18. Hypercritical fan
  ---------------------
- Overcritical fan + Agate of evo
+ Overcritical fan + Agate of
+ evolution x3 + Green orb x3
 
 
  19. Dire critical fan
  ---------------------
- Overcritical fan + Agate of evo
- (10% chance to acquire when cre
+ Overcritical fan + Agate of
+ evolution x3 + Green orb x3
+ (10% chance to acquire when
+ creating Hypercritical fan)
 
 
 .----------.
@@ -7467,7 +7796,8 @@ Giga Gringham whip + Reset stone
 
  2. Gigasteel axe
  ----------------
- Steel axe + Iron ore x2 + Hepha
+ Steel axe + Iron ore x2 +
+ Hephaestus' flame
 
 
  3. Golden axe
@@ -7477,12 +7807,14 @@ Giga Gringham whip + Reset stone
 
  4. Moon axe
  -----------
- Battle-axe + Lunaria + Mystifyi
+ Battle-axe + Lunaria +
+ Mystifying mixture
 
 
  5. Full moon axe
  ----------------
- Moon axe + Full moon ring + Mys
+ Moon axe + Full moon ring +
+ Mystifying mixture x3
 
 
  6. King axe
@@ -7492,22 +7824,26 @@ Giga Gringham whip + Reset stone
 
  7. Kaiser axe
  -------------
- King axe + Slime crown + Monarc
+ King axe + Slime crown +
+ Monarchic mark
 
 
  8. Executioner's axe
  --------------------
  Headsman's axe + Ethereal stone
+ x2 + Raging ruby
 
 
  9. Ice axe
  ----------
- Kaiser axe + Ice crystal x3 + I
+ Kaiser axe + Ice crystal x3 +
+ Icicle dirk x3
 
 
  10. Avalanche axe
  -----------------
- Ice axe + Ice crystal x6 + Agat
+ Ice axe + Ice crystal x6 +
+ Agate of evolution
 
 
  11. Bad axe
@@ -7517,18 +7853,22 @@ Giga Gringham whip + Reset stone
 
  12. Maxi axe
  ------------
- Bad axe + Agate of evolution + 
+ Bad axe + Agate of evolution +
+ Purple orb
 
 
  13. Climaxe
  -----------
- Maxi axe + Agate of evolution x
+ Maxi axe + Agate of evolution
+ x3 + Purple orb x3
 
 
  14. Galaxy axe
  --------------
- Maxi axe + Agate of evolution x
- (20% chance to acquire when cre
+ Maxi axe + Agate of evolution
+ x3 + Purple orb x3 (20% chance
+ to acquire when creating
+ Climaxe)
 
 
 .--------------.
@@ -7549,31 +7889,37 @@ Giga Gringham whip + Reset stone
  3. Terra tamper
  ---------------
  Uber war hammer + Royal soil x3
+ + Flintstone
 
 
  4. Terra firmer
  ---------------
- Terra tamper + Royal soil x5 + 
+ Terra tamper + Royal soil x5 +
+ Densinium x2
 
 
  5. Terra hammer
  ---------------
- Terra firmer + Royal soil x7 + 
+ Terra firmer + Royal soil x7 +
+ Ethereal stone x3
 
 
  6. Titan's hammer
  -----------------
- Giant's hammer + Agate of evolu
+ Giant's hammer + Agate of
+ evolution + Tough guy tattoo
 
 
  7. Megaton hammer
  -----------------
- Hela's hammer + Orichalcum + De
+ Hela's hammer + Orichalcum +
+ Densinium x3
 
 
  8. Warlord's hammer
  -------------------
- Megaton hammer + Orichalcum + M
+ Megaton hammer + Orichalcum +
+ Mighty armlet
 
 
  9. Groundbreaker
@@ -7583,18 +7929,22 @@ Giga Gringham whip + Reset stone
 
  10. Earthsplitter
  -----------------
- Groundbreaker + Agate of evolut
+ Groundbreaker + Agate of
+ evolution + Yellow orb
 
 
  11. Moonmasher
  --------------
- Earthsplitter + Agate of evolut
+ Earthsplitter + Agate of
+ evolution x3 + Yellow orb x3
 
 
  12. Starsmasher
  ---------------
- Earthsplitter + Agate of evolut
- (10% chance to acquire when cre
+ Earthsplitter + Agate of
+ evolution x3 + Yellow orb x3
+ (10% chance to acquire when
+ creating Moonmasher)
 
 
 .-----------------.
@@ -7609,47 +7959,56 @@ Giga Gringham whip + Reset stone
 
  2. Cutting-edge bommerang
  -------------------------
- Edged boomerang + Magic beast h
+ Edged boomerang + Magic beast
+ horn x3 + Iron nails x3
 
 
  3. Crucerang
  ------------
  Reinforced boomerang + Hunter's
+ bow + Gold rosary
 
 
  4. Razer-wing boomerang
  -----------------------
- Razor-wing boomerang + Lunaria 
+ Razor-wing boomerang + Lunaria
+ x3
 
 
  5. Erazor-wing boomerang
  ------------------------
- Razer-wing boomerang + Aggresse
+ Razer-wing boomerang +
+ Aggressence x3 + Mythril ore
 
 
  6. Eaglewing
  ------------
- Swallowtail + Kestrel claws + F
+ Swallowtail + Kestrel claws +
+ Flurry feather x3
 
 
  7. Gusterang
  ------------
  Swallowtail + Flurry feather x3
+ + Agility ring
 
 
  8. Blusterang
  -------------
- Gusterang + Staff of divine wra
+ Gusterang + Staff of divine
+ wrath + Agility ring x2
 
 
  9. Flametang boomerang
  ----------------------
- Gusterang + Lava lump x3 + Rock
+ Gusterang + Lava lump x3 +
+ Rockbomb shard x3
 
 
  10. Banefire boomerang
  ----------------------
- Flametang boomerang + Sunstone 
+ Flametang boomerang + Sunstone
+ + Rockbomb shard x3
 
 
  11. Pentarang
@@ -7659,7 +8018,8 @@ Giga Gringham whip + Reset stone
 
  12. Hexarang
  ------------
- Pentarang + Lucida shard x3 + M
+ Pentarang + Lucida shard x3 +
+ Mythril ore x3
 
 
  13. Meteorang
@@ -7669,18 +8029,22 @@ Giga Gringham whip + Reset stone
 
  14. Asterang
  ------------
- Meteorang + Agate of evolution 
+ Meteorang + Agate of evolution
+ + Silver orb
 
 
  15. Stellarang
  --------------
- Asterang + Agate of evolution x
+ Asterang + Agate of evolution
+ x3 + Silver orb x3
 
 
  16. Galaxrang
  -------------
- Asterang + Agate of evolution x
- (10% chance to acquire when cre
+ Asterang + Agate of evolution
+ x3 + Silver orb x3 (10% chance
+ to acquire when creating
+ Stellarang)
 
 
 .-----------.
@@ -7700,32 +8064,38 @@ Giga Gringham whip + Reset stone
 
  3. Hotshot bow
  --------------
- Potshot bow + Hunter's hat + Ar
+ Potshot bow + Hunter's hat +
+ Archer's armguard
 
 
  4. Blowy bow
  ------------
  Potshot bow + Flurry feather x3
+ + Agility ring
 
 
  5. Billowing bow
  ----------------
- Blowy bow + Staff of divine wra
+ Blowy bow + Staff of divine
+ wrath + Celestial skein x2
 
 
  6. Blustery bow
  ---------------
- Billowing bow + Gusterang + Cel
+ Billowing bow + Gusterang +
+ Celestial skein x3
 
 
  7. Purblind bow
  ---------------
- Great bow + Mystifying mixture 
+ Great bow + Mystifying mixture
+ + Enchanted stone x3
 
 
  8. Blinding bow
  ---------------
- Purblind bow + Mystifying mixtu
+ Purblind bow + Mystifying
+ mixture x2 + Ethereal stone x3
 
 
  9. Oh-no bow
@@ -7745,18 +8115,22 @@ Giga Gringham whip + Reset stone
 
  12. Archangel's bow
  -------------------
- Angel's bow + Agate of evolutio
+ Angel's bow + Agate of
+ evolution + Yellow orb
 
 
  13. Aeon's bow
  --------------
- Archangel's bow + Agate of evol
+ Archangel's bow + Agate of
+ evolution x3 + Yellow orb x3
 
 
  14. Seraph's bow
  ----------------
- Archangel's bow + Agate of evol
- (10% chance to acquire when cre
+ Archangel's bow + Agate of
+ evolution x3 + Yellow orb x3
+ (10% chance to acquire when
+ creating Aeon's bow)
 
 
 .----------.
@@ -7786,12 +8160,14 @@ Giga Gringham whip + Reset stone
 
  4. Steel shield
  ---------------
- Iron shield + Iron ore + Royal 
+ Iron shield + Iron ore + Royal
+ soil
 
 
  5. Gigasteel shield
  -------------------
- Steel shield + Iron ore x2 + He
+ Steel shield + Iron ore x2 +
+ Hephaestus' flame
 
 
  6. Kitty shield
@@ -7806,7 +8182,8 @@ Giga Gringham whip + Reset stone
 
  8. White shield
  ---------------
- Light shield + Seashell x5 + Ho
+ Light shield + Seashell x5 +
+ Holy water x5
 
 
  9. Enchanted shield
@@ -7816,36 +8193,43 @@ Giga Gringham whip + Reset stone
 
  10. Ethereal shield
  -------------------
- Enchanted shield + Ethereal sto
+ Enchanted shield + Ethereal
+ stone
 
 
  11. Flame shield
  ----------------
- Magic shield + Lava lump + Resu
+ Magic shield + Lava lump +
+ Resurrock
 
 
  12. Ice Shield
  --------------
- Magic shield + Ice crystal + Re
+ Magic shield + Ice crystal +
+ Resurrock
 
 
  13. Platinum shield
  -------------------
- Light shield + Platinum ore + H
+ Light shield + Platinum ore +
+ Hephaestus' flame
 
 
  14. Dragon shield
  -----------------
- Magic shield + Dragon scale x3 
+ Magic shield + Dragon scale x3
+ + Raging ruby
 
 
  15. Tempest shield
  ------------------
- Magic shield + Flurry feather x
+ Magic shield + Flurry feather
+ x3 + Ruby of protection
 
  16. Power shield
  ----------------
- Warrior's shield + Raging ruby 
+ Warrior's shield + Raging ruby
+ + Panacea
 
 
  17. Empowered shield
@@ -7855,47 +8239,56 @@ Giga Gringham whip + Reset stone
 
  18. White knight's shield
  -------------------------
- White shield + Holy talisman + 
+ White shield + Holy talisman +
+ Mythril ore
 
 
  19. Ogre shield
  ---------------
- Dark shield + Densinium x2 + Ma
+ Dark shield + Densinium x2 +
+ Magic beast horn x5
 
 
  20. Silver shield
  -----------------
- White knight's shield + Mirrors
+ White knight's shield +
+ Mirrorstone x3 + Mythril ore x2
 
 
  21. Big boss shield
  -------------------
- Boss shield + Agate of evolutio
+ Boss shield + Agate of
+ evolution + Mighty armlet
 
 
  22. Saintess shield
  -------------------
- Ruinous shield + Saint's ashes 
+ Ruinous shield + Saint's ashes
+ x3
 
 
  23. Goddess shield
  ------------------
- Saintess shield + Goddess ring 
+ Saintess shield + Goddess ring
+ + Orichalcum
 
 
  24. Liquid metal shield
  -----------------------
  Metal slime shield + Orichalcum
+ + Slimedrop x6
 
 
  25. Metal king shield
  ---------------------
- Liquid metal shield + Orichalcu
+ Liquid metal shield +
+ Orichalcum + Slime crown
 
 
  26. Erdrick's shield
  --------------------
- Rusty shield + Glass frit x9 + 
+ Rusty shield + Glass frit x9 +
+ Orichalcum
 
 
  27. Brain drainer
@@ -7905,17 +8298,21 @@ Giga Gringham whip + Reset stone
 
  28. Psyche swiper
  -----------------
- Brain drainer + Agate of evolut
+ Brain drainer + Agate of
+ evolution + Green orb
 
 
  29. Devilry drinker
  -------------------
- Psyche swiper + Agate of evolut
+ Psyche swiper + Agate of
+ evolution x3 + Green orb x3
 
  30. Soul sucker
  ---------------
- Psyche swiper + Agate of evolut
- (20% chance to acquire when cre
+ Psyche swiper + Agate of
+ evolution x3 + Green orb x3
+ (20% chance to acquire when
+ creating Devilry drinker)
 
 
 .----------.
@@ -7925,22 +8322,26 @@ Giga Gringham whip + Reset stone
 
  1. Steel helmet
  ---------------
- Iron helmet + Iron ore + Royal 
+ Iron helmet + Iron ore + Royal
+ soil
 
 
  2. Gigasteel helmet
  -------------------
- Steel helmet + Iron ore x2 + He
+ Steel helmet + Iron ore x2 +
+ Hephaestus' flame
 
 
  3. Filigree mask
  ----------------
- Iron mask + Silver platter + Si
+ Iron mask + Silver platter +
+ Silver tiara
 
 
  4. Platinum headgear
  --------------------
- Iron mask + Platinum ore + Heph
+ Iron mask + Platinum ore +
+ Hephaestus' flame
 
 
  5. Mythril coif
@@ -7950,22 +8351,26 @@ Giga Gringham whip + Reset stone
 
  6. Thinking cap
  ---------------
- Steel helmet + Gold circlet + S
+ Steel helmet + Gold circlet +
+ Sorcerer's stone x3
 
 
  7. Scholar's circlet
  --------------------
- Thinking cap + Brainy bracer + 
+ Thinking cap + Brainy bracer +
+ Safe's elixir
 
 
  8. Raging bull helm
  -------------------
- Gigasteel helmet + Magic beast 
+ Gigasteel helmet + Magic beast
+ horn x2 + Tough guy tattoo
 
 
  9. Minotaur helm
  ----------------
- Raging bull helm + Magic beast 
+ Raging bull helm + Magic beast
+ horn x4 + Mighty armlet
 
 
  10. Hades' helm
@@ -7976,6 +8381,7 @@ Giga Gringham whip + Reset stone
  11. Mythril helm
  ----------------
  Platinum headgear + Mythril ore
+ x3
 
 
  12. Great helm
@@ -7985,7 +8391,8 @@ Giga Gringham whip + Reset stone
 
  13. Crown of clarity
  --------------------
- Thinking cap + Thinkincense x5 
+ Thinking cap + Thinkincense x5
+ + Mythril ore
 
 
  14. Skull helm
@@ -8000,22 +8407,26 @@ Giga Gringham whip + Reset stone
 
  16. Apollo's crown
  ------------------
- Sun crown + Agate of evolution 
+ Sun crown + Agate of evolution
+ + Sunstone
 
 
  17. Liquid metal helm
  ---------------------
  Metal slime helm + Orichalcum +
+ Slimedrop x6
 
 
  18. Metal king helm
  -------------------
- Liquid metal helm + Orichalcum 
+ Liquid metal helm + Orichalcum
+ + Slime crown
 
 
  19. Erdrick's helmet
  --------------------
- Rusty helmet + Glass frit x9 + 
+ Rusty helmet + Glass frit x9 +
+ Orichalcum
 
 
  20. Hallowed helm
@@ -8025,18 +8436,22 @@ Giga Gringham whip + Reset stone
 
  21. Blessed helm
  ----------------
- Hallowed helm + Agate of evolut
+ Hallowed helm + Agate of
+ evolution + Purple orb
 
 
  22. Wonder helm
  ---------------
- Blessed helm + Agate of evoluti
+ Blessed helm + Agate of
+ evolution x3 + Purple orb x3
 
 
  23. Heavenly helm
  -----------------
- Blessed helm + Agate of evoluti
- (20% chance to acquire when cre
+ Blessed helm + Agate of
+ evolution x3 + Purple orb x3
+ (20% chance to acquire when
+ creating Wonder helm)
 
 
  24. Trailblazing bandana
@@ -8046,7 +8461,8 @@ Giga Gringham whip + Reset stone
 
  25. Mercury's bandana
  ---------------------
- Trailblazing bandana + Agility 
+ Trailblazing bandana + Agility
+ ring
 
 
  26. Feathered cap
@@ -8066,7 +8482,8 @@ Giga Gringham whip + Reset stone
 
  29. Fur hood
  ------------
- Leather hat + Magic beast hide 
+ Leather hat + Magic beast hide
+ + Lambswool
 
 
  30. Pointy hat
@@ -8077,6 +8494,7 @@ Giga Gringham whip + Reset stone
  31. Golden tiara
  ----------------
  Silver tiara + Gold ring + Gold
+ bracer
 
 
  32. Slood
@@ -8091,17 +8509,20 @@ Giga Gringham whip + Reset stone
 
  34. Hunter's hat
  ----------------
- Pointy hat + Lambswool + Magic 
+ Pointy hat + Lambswool + Magic
+ beast hide
 
 
  35. Ear cosy
  ------------
- Fur hood + Bunny tail + Lambswo
+ Fur hood + Bunny tail +
+ Lambswool
 
 
  36. Gold circlet
  ----------------
- Circlet + Gold ring + Gold brac
+ Circlet + Gold ring + Gold
+ bracer
 
 
  37. Star circlet
@@ -8121,12 +8542,14 @@ Giga Gringham whip + Reset stone
 
  40. Malleable mask
  ------------------
- Circlet + Butterfly wing x2 + N
+ Circlet + Butterfly wing x2 +
+ Narspicious x2
 
 
  41. Papillon mask
  -----------------
  Malleable mask + Dread dagger +
+ Narspicious x3
 
 
  42. Canny cap
@@ -8136,12 +8559,14 @@ Feathered cap + Brainy bracer x2
 
  43. Musketeer hat
  -----------------
- Feathered cap + Feather headban
+ Feathered cap + Feather
+ headband + Magic beast hide x3
 
 
  44. Mega-magical hat
  --------------------
- Magical hat + Prayer ring x2 + 
+ Magical hat + Prayer ring x2 +
+ Sorcerer's stone
 
 
  45. Happy hat
@@ -8152,31 +8577,37 @@ Feathered cap + Brainy bracer x2
  46. Spellward circlet
  ---------------------
  Gold circlet + Monarchic mark +
+ Gold bar
 
 
  47. Phantom mask
  ----------------
- Papillon mask + Dark robe + Sli
+ Papillon mask + Dark robe +
+ Slipweed x3
 
 
  48. Spring breeze hat
  ---------------------
- Winter sky hat + Agate of evolu
+ Winter sky hat + Agate of
+ evolution + Green orb
 
 
  49. Summer cloud hat
  --------------------
- Spring breeze hat + Agate of ev
+ Spring breeze hat + Agate of
+ evolution + Green orb
 
 
  50. Autumn shower hat
  ---------------------
- Summer cloud hat + Agate of evo
+ Summer cloud hat + Agate of
+ evolution + Green orb
 
 
  51. Winter sky hat
  ------------------
- Autumn shower hat + Agate of ev
+ Autumn shower hat + Agate of
+ evolution + Green orb
 
 
 .-----------.
@@ -8186,7 +8617,8 @@ Feathered cap + Brainy bracer x2
 
  1. Large-scale armour
  ---------------------
- Scale armour + Scale shield + S
+ Scale armour + Scale shield +
+ Snakeskin
 
 
  2. Silver cuirass
@@ -8196,31 +8628,37 @@ Feathered cap + Brainy bracer x2
 
  3. Full plate armour
  --------------------
- Iron armour + Iron ore + Royal 
+ Iron armour + Iron ore + Royal
+ soil
 
  4. Gigasteel armour
  -------------------
  Full plate armour + Iron ore x2
+ + Hephaestus' flame
 
 
  5. Tortoise shell
  -----------------
- Iron cuirass + Tortoiseshell + 
+ Iron cuirass + Tortoiseshell +
+ Emerald moss
 
 
  6. Tortoiseshell armour
  -----------------------
- Tortoise shell + Tortoiseshell 
+ Tortoise shell + Tortoiseshell
+ x2 + Emerald moss x2
 
 
  7. Gold mail
  ------------
- Silver mail + Gold ring + Gold 
+ Silver mail + Gold ring + Gold
+ bracer
 
 
  8. Platinum mail
  ----------------
- Gold mail + Platinum ore + Heph
+ Gold mail + Platinum ore +
+ Hephaestus' flame
 
 
  9. Enchanted armour
@@ -8230,52 +8668,62 @@ Feathered cap + Brainy bracer x2
 
  10. Ethereal armour
  -------------------
- Enchanted armour + Ethereal sto
+ Enchanted armour + Ethereal
+ stone
 
 
  11. Dragon mail
  ---------------
- Magic armour + Dragon scale x2 
+ Magic armour + Dragon scale x2
+ + Raging ruby
 
 
  12. Spiked armour
  -----------------
  Magic armour + Magic beast horn
+ x2 + Iron nails x5
 
 
  13. Holy mail
  -------------
- Chain mail + Holy talisman + My
+ Chain mail + Holy talisman +
+ Mythril ore
 
 
  14. Sacrosanct armour
  ---------------------
- Sacred armour + Ruby of protect
+ Sacred armour + Ruby of
+ protection + Life bracer
 
 
  15. Mirror armour
  -----------------
  Magic armour + Mirrorstone x3 +
+ Sober ring
 
 
  16. Catoptric armour
  --------------------
- Mirror armour + Mirrorstone x5 
+ Mirror armour + Mirrorstone x5
+ + Catholicon ring
 
 
  17. Liquid metal armour
  -----------------------
  Metal slime armour + Orichalcum
+ + Slimedrop x6
 
 
  18. Metal king armour
  ---------------------
- Liquid metal armour + Orichalcu
+ Liquid metal armour +
+ Orichalcum + Slime crown
 
 
  19. Erdrick's armour
  --------------------
- Rusty armour + Glass frit x9 + 
+ Rusty armour + Glass frit x9 +
+ Orichalcum
 
 
  20. Victorious armour
@@ -8285,18 +8733,22 @@ Feathered cap + Brainy bracer x2
 
  21. Glorious armour
  -------------------
- Victorious armour + Agate of ev
+ Victorious armour + Agate of
+ evolution + Red orb
 
 
  22. Mythical armour
  -------------------
- Glorious armour + Agate of evol
+ Glorious armour + Agate of
+ evolution x3 + Red orb x3
 
 
  23. Legendary armour
  --------------------
- Glorious armour + Agate of evol
- (20% chance to acquire when cre
+ Glorious armour + Agate of
+ evolution x3 + Red orb x3 (20%
+ chance to acquire when creating
+ Mythical armour)
 
 
  24. Tracksuit top
@@ -8307,11 +8759,13 @@ Feathered cap + Brainy bracer x2
  25. Fur poncho
  --------------
  Leather cape + Magic beast hide
+ x3
 
 
  26. Cloak of concealment
  ------------------------
- Cloak of evasion + Slipweed x2 
+ Cloak of evasion + Slipweed x2
+ + Lambswool
 
 
  27. Gooey gear
@@ -8321,27 +8775,32 @@ Feathered cap + Brainy bracer x2
 
  28. Majestic mantle
  -------------------
- Velvet cape + Bow tie + Brighte
+ Velvet cape + Bow tie +
+ Brighten rock x3
 
 
  29. Tussler's top
  -----------------
- Tracksuit top + Finessence + Ma
+ Tracksuit top + Finessence +
+ Magic beast hide x2
 
 
  30. Dragon dress
  ----------------
- Strongsam + Dragon scale + Fine
+ Strongsam + Dragon scale +
+ Finessence x2
 
 
  31. Flamenco shirt
  ------------------
- Garish garb + Brighten rock x3 
+ Garish garb + Brighten rock x3
+ + Technicolour dreamcloth
 
 
  32. Dancer's dress
  ------------------
  Dancers costume + Brighten rock
+ x3 + Technicolor dreamcloth
 
 
  33. Fur vest
@@ -8357,41 +8816,49 @@ Fur poncho + Magic beast hide x3
  35. Technicolour tutu
  ---------------------
  Tint-tastic tutu + Technicolour
+ dreamcloth
 
 
  36. Hot bikini top
  ------------------
  Dangerous bikini top + Seashell
+ x3 + Crimson coral x2
 
 
  37. Sizzling bikini top
  -----------------------
- Hot bikini top + Technicolour d
+ Hot bikini top + Technicolour
+ dreamcloth + Astral plume x2
 
 
  38. Dragon top
  --------------
  Tussler's top + Dragon scale x2
+ + Finessence x2
 
 
  39. Dark robe
  -------------
- Velvet cape + Evencloth x3 + Sl
+ Velvet cape + Evencloth x3 +
+ Slipweed x3
 
 
  40. Macabre mantle
  ------------------
- Dark robe + Wing of bat x4 + Te
+ Dark robe + Wing of bat x4 +
+ Terrible tattoo x3
 
 
  41. Twinkling tuxedo
  --------------------
  Smart suit + Bow tie + Brighten
+ rock x3
 
 
  42. Shimmering dress
  --------------------
- Spangled dress + Pink pearl + B
+ Spangled dress + Pink pearl +
+ Brighten rock x3
 
 
  43. Dangerous bustier
@@ -8401,12 +8868,14 @@ Fur poncho + Magic beast hide x3
 
  44. Silk bustier
  ----------------
- Dangerous bustier + Tangleweb x
+ Dangerous bustier + Tangleweb
+ x7 + Silk robe x3
 
 
  45. Divine bustier
  ------------------
- Silk bustier + Slipweed x7 + Sa
+ Silk bustier + Slipweed x7 +
+ Sainted soma x3
 
 
  46. Tropotoga
@@ -8416,23 +8885,27 @@ Fur poncho + Magic beast hide x3
 
  47. Stratotoga
  --------------
- Tropotoga + Agate of evolution 
+ Tropotoga + Agate of evolution
+ + Blue orb
 
 
  48. Mesotoga
  ------------
  Stratotoga + Agate of evolution
+ x3 + Blue orb x3
 
 
  49. Exotoga
  -----------
  Stratotoga + Agate of evolution
- (10% chance to acquire when cre
+ x3 + Blue orb x3 (10% chance to
+ acquire when creating Mesotoga)
 
 
  50. Robe of sweet dreams
  ------------------------
- Robe of serenity + Sleeping hib
+ Robe of serenity + Sleeping
+ hibiscus x3 + Lambswool x3
 
 
  51. Enchanted robes
@@ -8447,72 +8920,87 @@ Enchanted robes + Ethereal stone
 
  53. Saintly robe
  ----------------
- Ascetic robe + Rosary + Grubby 
+ Ascetic robe + Rosary + Grubby
+ bandage x3
 
 
  54. Fizzle-proof suit
  ---------------------
- Fizzle-retardant suit + Sorcere
+ Fizzle-retardant suit +
+ Sorcerer's ring + Grubby
+ bandage x3
 
 
  55. Sage's robe
  ---------------
- Saintly robe + Fizzle-proof sui
+ Saintly robe + Fizzle-proof
+ suit + Thinkincense x3
 
 
  56. Flowing dress
  -----------------
- Enchanted robes + Celestial ske
+ Enchanted robes + Celestial
+ skein x3
 
 
  57. Cape of good karma
  ----------------------
- Majestic mantle + Thinkincense 
+ Majestic mantle + Thinkincense
+ x6 + Sage's elixir x3
 
 
  58. Princess's robe
  -------------------
- Shimmering dress + Monarchic ma
+ Shimmering dress + Monarchic
+ mark
 
 
  59. Queen's robe
  ----------------
- Princess's robe + Monarch's mit
+ Princess's robe + Monarch's
+ mittens + Lambswool x2
 
 
  60. Empress's robe
  ------------------
- Queen's robe + Spellward circle
+ Queen's robe + Spellward
+ circlet + Lambswool x3
 
 
  61. Prince's pea coat
  ---------------------
- Twinkling tuxedo + Monarchic ma
+ Twinkling tuxedo + Monarchic
+ mark
 
 
  62. King's coat
  ---------------
- Prince's pea coat + King axe + 
+ Prince's pea coat + King axe +
+ Lambswool x2
 
 
  63. Emperor's attire
  --------------------
- King's coat + Slime crown + Lam
+ King's coat + Slime crown +
+ Lambswool x3
 
 
  64. Celestria's gown
  --------------------
- Nightmare gown + Saint's ashes 
+ Nightmare gown + Saint's ashes
+ x3
 
 
  65. Celestria's raiment
  -----------------------
- Celestria's gown + Agate of evo
+ Celestria's gown + Agate of
+ evolution + Astral plume x7
 
 
  66. Xenlon robe
  ---------------
- Dragon robe + Dragon top + Drag
+ Dragon robe + Dragon top +
+ Dragon dress
 
 
  67. Angel's robe
@@ -8522,18 +9010,22 @@ Enchanted robes + Ethereal stone
 
  68. Archangel's robe
  --------------------
- Angel's robe + Agate of evoluti
+ Angel's robe + Agate of
+ evolution + Yellow orb
 
 
  69. Aeon's robe
  ---------------
- Archangel's robe + Agate of evo
+ Archangel's robe + Agate of
+ evolution x3 + Yellow orb x3
 
 
  70. Seraph's robe
  -----------------
- Archangel's robe + Agate of evo
- (10% chance to acquire when cre
+ Archangel's robe + Agate of
+ evolution x3 + Yellow orb x3
+ (10% chance to acquire when
+ creating Aeon's robe)
 
 
 .-----------.
@@ -8543,12 +9035,14 @@ Enchanted robes + Ethereal stone
 
  1. Steel gauntlets
  ------------------
- Iron gauntlets + Iron ore + Roy
+ Iron gauntlets + Iron ore +
+ Royal soil
 
 
  2. Gigasteel gauntlets
  ----------------------
  Steel gauntlets + Iron ore x2 +
+ Hephaestus' flame
 
 
  3. Enchanted gloves
@@ -8558,58 +9052,71 @@ Enchanted robes + Ethereal stone
 
  4. Ethereal gloves
  ------------------
- Enchanted gloves + Ethereal sto
+ Enchanted gloves + Ethereal
+ stone
 
 
  5. Sturdy gauntlets
  -------------------
  Light gauntlets + Iron ore x2 +
+ Aggressence
 
 
  6. Heavy gauntlets
  ------------------
  Sturdy gauntlets + Densinium x2
+ + Aggressence
 
 
  7. Blessed bindings
  -------------------
- Bruiser's bracers + Thinkincens
+ Bruiser's bracers +
+ Thinkincense x3 + Sage's elixir
+ x2
 
 
  8. Liquid metal slime gloves
  ----------------------------
- Metal slime gauntlets + Orichal
+ Metal slime gauntlets +
+ Orichalcum + Slimedrop x6
 
 
  9. Metal king slime gloves
  --------------------------
- Liquid metal slime gloves + Ori
+ Liquid metal slime gloves +
+ Orichalcum + Slime crown
 
 
  10. Erdrick's gauntlets
  -----------------------
  Rusty gauntlets + Glass frit x9
+ + Orichalcum
 
 
  11. Vesta gauntlets
  -------------------
- Tempestes gauntlets + Reset sto
+ Tempestes gauntlets + Reset
+ stone
 
 
  12. Diana gauntlets
  -------------------
- Vesta gauntlets + Agate of evol
+ Vesta gauntlets + Agate of
+ evolution + Red orb
 
 
  13. Tempestes gauntlets
  -----------------------
- Diana gauntlets + Agate of evol
+ Diana gauntlets + Agate of
+ evolution x3 + Red orb x3
 
 
  14. Sol Invictus gauntlets
  --------------------------
- Diana gauntlets + Agate of evol
- (40% chance to acquire when cre
+ Diana gauntlets + Agate of
+ evolution x3 + Red orb x3 (40%
+ chance to acquire when creating
+ Tempestes gauntlets)
 
 
  15. Leather gloves
@@ -8619,17 +9126,20 @@ Cotton gloves + Magic beast hide
 
  16. Marquess's mittens
  ----------------------
- Mayoress's mittens + Monarchic 
+ Mayoress's mittens + Monarchic
+ mark
 
 
  17. Monarch's mittens
  ---------------------
- Marquess's mittens + Highness h
+ Marquess's mittens + Highness
+ heels
 
 
  18. Guru's gloves
  -----------------
- Heavy handwear + Thinkincense x
+ Heavy handwear + Thinkincense
+ x3 + Sage's elixir x2
 
 
  19. Gloomy gloves
@@ -8639,33 +9149,40 @@ Cotton gloves + Magic beast hide
 
  20. Murky mittens
  -----------------
- Gloomy gloves + Malicite + Even
+ Gloomy gloves + Malicite +
+ Evencloth x3
 
 
  21. Matador's gloves
  --------------------
- Mental mittens + Slipweed x4 + 
+ Mental mittens + Slipweed x4 +
+ Mercury's bandana
 
 
  22. Apprentice's gloves
  -----------------------
- Grandmaster's gloves + Reset st
+ Grandmaster's gloves + Reset
+ stone
 
 
  23. Master's gloves
  -------------------
- Apprentice's gloves + Agate of 
+ Apprentice's gloves + Agate of
+ evolution + Silver orb
 
 
  24. Grandmaster's gloves
  ------------------------
- Master's glove + Agate of evolu
+ Master's glove + Agate of
+ evolution x3 + Silver orb x3
 
 
  25. Godly gloves
  ----------------
- Master's glove + Agate of evolu
- (30% chance to acquire when cre
+ Master's glove + Agate of
+ evolution x3 + Silver orb x3
+ (30% chance to acquire when
+ creating Grandmaster's gloves)
 
 
 .----------.
@@ -8695,42 +9212,50 @@ Cotton gloves + Magic beast hide
 
  5. Steel kneecaps
  -----------------
- Iron kneecaps + Iron ore + Roya
+ Iron kneecaps + Iron ore +
+ Royal soil
 
 
  6. Gigasteel kneecaps
  ---------------------
- Steel kneecaps + Iron ore x2 + 
+ Steel kneecaps + Iron ore x2 +
+ Hephaestus' flame
 
 
  7. Hot bikini bottoms
  ---------------------
- Dangerous midriff wrap + Seashe
+ Dangerous midriff wrap +
+ Seashell x3 + Crimson coral x3
 
 
  8. Sizzling bikini bottoms
  --------------------------
- Hot bikinibottom + Technicolor 
+ Hot bikinibottom + Technicolor
+ dreamcloth + Astral plume x2
 
 
  9. Blessed bottoms
  ------------------
- Wizard's trousers + Sorcerer's 
+ Wizard's trousers + Sorcerer's
+ stone + Lambswool x2
 
 
  10. Tussler's torousers
  -----------------------
- Tracky bottoms + Finessence + M
+ Tracky bottoms + Finessence +
+ Magic beast hide x2
 
 
  11. Fancy pants
  ---------------
- Loud trousers + Belle cap x3 + 
+ Loud trousers + Belle cap x3 +
+ Narspicious
 
 
  12. Chainmail socks
  -------------------
- Pop socks + Chain mail x2 + Iro
+ Pop socks + Chain mail x2 +
+ Iron nails x2
 
 
  13. Red tights
@@ -8750,22 +9275,26 @@ Cotton gloves + Magic beast hide
 
  16. Transparent tights
  ----------------------
- Red tights + Green tights + Whi
+ Red tights + Green tights +
+ White tights
 
 
  17. Dragon trousers
  -------------------
- Tussler's trousers + Dragon sca
+ Tussler's trousers + Dragon
+ scale x2 + Finessence x2
 
 
  18. Tantric trousers
  --------------------
- Dragon trousers + Thinkincense 
+ Dragon trousers + Thinkincense
+ x3 + Sage's elixir x2
 
 
  19. Impregnable leggings
  ------------------------
- Sturdy slacks + Densinium + Ori
+ Sturdy slacks + Densinium +
+ Orichalcum
 
 
  20. Invincible trousers
@@ -8775,18 +9304,22 @@ Cotton gloves + Magic beast hide
 
  21. Immortal trousers
  ---------------------
- Invincible trousers + Agate of 
+ Invincible trousers + Agate of
+ evolution + Purple orb
 
 
  22. Eternity trousers
  ---------------------
- Immortal trousers + Agate of ev
+ Immortal trousers + Agate of
+ evolution x3 + Purple orb x3
 
 
  23. Infinity trousers
  ---------------------
- Immortal trousers + Agate of ev
- (20% chance to acquire when cre
+ Immortal trousers + Agate of
+ evolution x3 + Purple orb x3
+ (20% chance to acquire when
+ creating Eternity trousers)
 
 
 .----------.
@@ -8801,32 +9334,38 @@ Leather boots + Magic beast hide
 
  2. Steel sabatons
  -----------------
- Iron sabatons + Iron ore + Roya
+ Iron sabatons + Iron ore +
+ Royal soil
 
 
  3. Gigasteel sabatons
  ---------------------
- Steel sabatons + Iron ore x2 + 
+ Steel sabatons + Iron ore x2 +
+ Hephaestus' flame
 
 
  4. Payback pumps
  ----------------
- Steel sabatons + Magic beast ho
+ Steel sabatons + Magic beast
+ horn x2 + Iron nails x2
 
 
  5. Brahman boots
  ----------------
- Clever clogs + Thinkincense x3 
+ Clever clogs + Thinkincense x3
+ + Sage's elixir x2
 
 
  6. Liquid metal slime boots
  ---------------------------
- Metal slime sollerets + Orichal
+ Metal slime sollerets +
+ Orichalcum + Slimedrop x6
 
 
  7. Metal king slime boots
  -------------------------
- Liquid metal slime boots + Oric
+ Liquid metal slime boots +
+ Orichalcum + Slime crown
 
 
  8. Hero's boots
@@ -8836,18 +9375,22 @@ Leather boots + Magic beast hide
 
  9. Basilic boots
  ----------------
- Hero's boots + Agate of evoluti
+ Hero's boots + Agate of
+ evolution + Yellow orb
 
 
  10. Emperor's boots
  -------------------
- Basilic boots + Agate of evolut
+ Basilic boots + Agate of
+ evolution x3 + Yellow orb x3
 
 
  11. Boots of beatitude
  ----------------------
- Basilic boots + Agate of evolut
- (40% chance to acquire when cre
+ Basilic boots + Agate of
+ evolution x3 + Yellow orb x3
+ (40% chance to acquire when
+ creating Emperor's boots)
 
 
  12. Classy clogs
@@ -8867,7 +9410,8 @@ Leather boots + Magic beast hide
 
  15. Sorceress sandals
  ---------------------
- Siren sandals + Sleeping hibisc
+ Siren sandals + Sleeping
+ hibiscus x3 + Belle cap x2
 
 
  16. Wu shoes
@@ -8877,12 +9421,14 @@ Leather boots + Magic beast hide
 
  17. Safer shoes
  ---------------
- Safety shoes + Ruby of protecti
+ Safety shoes + Ruby of
+ protection + Mythril ore
 
 
  18. Safest shoes
  ----------------
- Safer shoes + Ruby of protectio
+ Safer shoes + Ruby of
+ protection + Orichalcum
 
 
  19. Elevating shoes
@@ -8907,18 +9453,22 @@ Pixie boots + Agate of evolution
 
  23. Sagacious sandals
  ---------------------
- Sensible sandals + Agate of evo
+ Sensible sandals + Agate of
+ evolution + Blue orb
 
 
  24. Sapient sandals
  -------------------
- Sagacious sandals + Agate of ev
+ Sagacious sandals + Agate of
+ evolution x3 + Blue orb x3
 
 
  25. Sentient sandals
  --------------------
- Sagacious sandals + Agate of ev
- (20% chance to acquire when cre
+ Sagacious sandals + Agate of
+ evolution x3 + Blue orb x3 (20%
+ chance to acquire when creating
+ Sapient sandals)
 
 
 .-----------------.
@@ -8943,7 +9493,8 @@ Pixie boots + Agate of evolution
 
  4. Might armlet
  ---------------
- Gold bracer + Strength ring + T
+ Gold bracer + Strength ring +
+ Tough guy tattoo
 
 
  5. Slime earrings
@@ -8958,12 +9509,14 @@ Pixie boots + Agate of evolution
 
  7. Bow tie
  ----------
- Butterfly wing x2 + Grubby band
+ Butterfly wing x2 + Grubby
+ bandage
 
 
  8. Utility belt
  ---------------
- Leather kilt + Ultramarine mitt
+ Leather kilt + Ultramarine
+ mittens + Grubby bandage
 
 
  9. Agility ring
@@ -8973,7 +9526,8 @@ Pixie boots + Agate of evolution
 
  10. Meteorite bracer
  --------------------
- Gold bar + Agility ring x2 + Lu
+ Gold bar + Agility ring x2 +
+ Lucida shard x3
 
 
  11. Sorcerer's ring
@@ -8983,12 +9537,14 @@ Pixie boots + Agate of evolution
 
  12. Rosary
  ----------
- Pink pearl + Fresh water x3 + T
+ Pink pearl + Fresh water x3 +
+ Thinkincense x3
 
 
  13. Brainy bracer
  -----------------
- Gold bracer + Sorcerer's stone 
+ Gold bracer + Sorcerer's stone
+ x2
 
 
  14. Life bracer
@@ -8998,12 +9554,14 @@ Pixie boots + Agate of evolution
 
  15. Spirit bracer
  -----------------
- Gold bracer + Prayer ring + Elf
+ Gold bracer + Prayer ring +
+ Elfin charm
 
 
  16. Monarchic mark
  ------------------
- Lucky pendant + Raging ruby + R
+ Lucky pendant + Raging ruby +
+ Ruby of protection
 
 
  17. Prayer ring
@@ -9013,37 +9571,44 @@ Pixie boots + Agate of evolution
 
  18. Holy talisman
  -----------------
- Gold rosary + Holy water x5 + R
+ Gold rosary + Holy water x5 +
+ Resurrock
 
 
  19. Sober ring
  --------------
- Gold ring + Sandstorm spear + P
+ Gold ring + Sandstorm spear +
+ Panacea
 
 
  20. Contra band
  ---------------
- Gold ring + Poison needle + Spe
+ Gold ring + Poison needle +
+ Special antidote
 
 
  21. Full moon ring
  ------------------
  Gold ring + Poison moth knife +
+ Lunaria
 
 
  22. Rousing ring
  ----------------
- Gold ring + Sleepy stick + Wake
+ Gold ring + Sleepy stick +
+ Wakerobin
 
 
  23. Ring of clarity
  -------------------
- Gold ring + Moon axe + Angel be
+ Gold ring + Moon axe + Angel
+ bell x3
 
 
  24. Catholicon ring
  -------------------
- Rousing ring + Sober ring + Con
+ Rousing ring + Sober ring +
+ Contra band
 
 
  25. Sull ring
@@ -9053,7 +9618,8 @@ Pixie boots + Agate of evolution
 
  26. Elfin charm
  ---------------
- Holy talisman + Elfin elixir + 
+ Holy talisman + Elfin elixir +
+ Emerald moss x3
 
 
  27. Life ring
@@ -9064,6 +9630,7 @@ Pixie boots + Agate of evolution
  28. Goddess ring
  ----------------
  Life ring + Sainted soma + Gold
+ bar
 
 
  29. Reckless necklace
@@ -9073,7 +9640,8 @@ Pixie boots + Agate of evolution
 
  30. Lucky pendant
  -----------------
- Reckless necklace + Saint's ash
+ Reckless necklace + Saint's
+ ashes
 
 
 .----------.
@@ -9118,12 +9686,14 @@ Medicinal Herb + Strong Medicine
 
  8. Birdsong Nectar
  ------------------
- Nectar x3 + Fresh Water + Sleep
+ Nectar x3 + Fresh Water +
+ Sleeping Hibiscus x5
 
 
  9. Panacea
  ----------
- Special Medicine + Superior Med
+ Special Medicine + Superior
+ Medicine + Moonwort Bulb
 
 
  10. Perfect Panacea
@@ -9143,22 +9713,26 @@ Holy water + Royal Soil + Nectar
 
  13. Sage's Elixir
  -----------------
- Magic Water + Royal Soil + Nect
+ Magic Water + Royal Soil +
+ Nectar x3
 
 
  14. Elfin Elixir
  ----------------
- Yggdrasil Leaf + Royal Soil x3 
+ Yggdrasil Leaf + Royal Soil x3
+ + Nectar x5
 
 
  15. Mystifying Mixture
  ----------------------
- Belle Cap + Manky Mud + Cowpat 
+ Belle Cap + Manky Mud + Cowpat
+ x3
 
 
  16. Sage's Stone
  ----------------
  Orichalcum + Birdsong Nectar x3
+ + Silver Orb
 
 
  17. Densinium
@@ -9168,27 +9742,32 @@ Holy water + Royal Soil + Nectar
 
  18. Gold Bar
  ------------
- Sainted Soma x3 + Ethereal Ston
+ Sainted Soma x3 + Ethereal
+ Stone x2 + Birdsong Nectar x5
 
 
  19) Hephaestus' Flame
  ---------------------
- Lava Lump + Royal Soil + Toad O
+ Lava Lump + Royal Soil + Toad
+ Oil
 
 
  20. Enchanted Stone
  -------------------
  Thunderball x2 + Ice Crystal x2
+ + Mystifying Mixture
 
 
  21. Ethereal Stone
  ------------------
- Enchanted Stone + Perfect Panac
+ Enchanted Stone + Perfect
+ Panacea + Narspicious x2
 
 
  22. Astral Plume
  ----------------
  Flurry Feather x3 + Fresh Water
+ x2 + Angel Bell
 
 
  23. Celestial Skein
@@ -9198,12 +9777,14 @@ Holy water + Royal Soil + Nectar
 
  24. Technicolour Dreamcloth
  ---------------------------
- Grubby Bandage x3 + Brighten Ro
+ Grubby Bandage x3 + Brighten
+ Rock + Celestial Skein
 
 
  25. Sainted Soma
  ----------------
  Lucida Shard x2 + Sage's Elixir
+ x2 + Astral Plume x2
 
 
  26. Lucida Shard
@@ -9213,27 +9794,32 @@ Holy water + Royal Soil + Nectar
 
  27. Agate of Evolution
  ----------------------
- Sainted Soma x2 + Ethereal Ston
+ Sainted Soma x2 + Ethereal
+ Stone x2 + Chronocrystal
 
 
  28. Sunstone
  ------------
- Lucida Shard x2 + Mirrorstone x
+ Lucida Shard x2 + Mirrorstone
+ x3 + Hephaestus' Flame
 
 
  29. Malicite
  ------------
  Pink Pearl + Terrible Tattoo x2
+ + Narspicious x3
 
 
  30. Finessence
  --------------
- Fisticup x2 + Slipweed + Superi
+ Fisticup x2 + Slipweed +
+ Superior Medicine
 
 
  31. Aggressence
  ---------------
- Fisticup x2 + Wakerobin + Softw
+ Fisticup x2 + Wakerobin +
+ Softwort
 
 
 ================================
@@ -9317,7 +9903,8 @@ center of the town How to
 complete: Use the alchemy pot to
 make a Panacea item (Special
 Medicine
-+ Superior Medicine + Moonwort B
++ Superior Medicine + Moonwort
+  Bulb). Give it to Bill.
 Reward: Gleeban Guinea
 
 
@@ -9398,7 +9985,8 @@ Location: Coffinwell, man in the
 well How to complete: Make
 Hammer Handrills via alchemy
 (Handrills + Iron Nails x5
-+ Iron Ore). Give the item to th
++ Iron Ore). Give the item to
+  the prisoner.
 Reward: Unhappy Hat
 
 
@@ -9529,7 +10117,8 @@ Location: Stornway, western
 house How to complete: Make a
 sunstone via alchemy (Lucida
 Shard x2 + Mirrorstone x3
-+ Hephaestus' Flame), and give i
++ Hephaestus' Flame), and give
+  it to Alison.
 Reward: Saint's Ashes
 
 
@@ -9540,7 +10129,8 @@ Location: Stornway, armor shop
 How to complete: Make a Macabre
 Mantle via alchemy (Dark Robe +
 Wing of Bat x4
-+ Terrible Tattoo x3) and give i
++ Terrible Tattoo x3) and give
+  it to the designer.
 Reward: Seed of Deftness
 
 
@@ -10107,7 +10697,9 @@ quest
 063. Fight the enemies outside
      the towns in this order:
      Bloomingdale - Gleeba
-- Angel Falls - Coffinwell - Swi
+- Angel Falls - Coffinwell -
+  Swinedimples Academy. Once you
+  get a badge from
 the area, move on to the next
 one. Reward: Gigagash ability
 
@@ -11561,7 +12153,9 @@ finish quest 159. Go to Upover
 and talk to the man in the inn.
 Bring him Lunaria (Moonwort Bulb
 x3), Aggressence (Fisticup x2
-+ Wakerobin + Softwort) and Trai
++ Wakerobin + Softwort) and
+  Trailblazing Bandana (Bandana
+  + Bow Tie). Zoom to
 the summit of the Magmaroo and
 talk to the man there. Talk to
 the mayor in Wormwood Creek
@@ -11757,7 +12351,8 @@ the entrance How to complete:
 Make a Megaton Hammer via
 alchemy (Hela's Hammer +
 Orichalcum
-+ Densinium x3) and give it to t
++ Densinium x3) and give it to
+  the man.
 Reward: Yellow Orb
 
 
@@ -11904,85 +12499,135 @@ ENTLY ASKED QUESTIONS...........
    to go with action-based
    battle system first,
 why did they change their mind?
-   - I'm glad that they changed 
- series. Probably they thought a
- like this - the Joker ones, for
- turn-based.
+   - I'm glad that they changed
+     their mind, because that
+     would destroy the
+ series. Probably they thought
+ about it and decided to make
+ other DQ games like this - the
+ Joker ones, for example. The
+ main series should remain turn-
+ based.
 
 3. - Is this game worth getting,
    if I'm a RPG enthusiast?
-   - If you're an RPG fan in gen
- style RPGs, you should love thi
- the coolest RPGs on the DS.
+   - If you're an RPG fan in
+     general, and like the old
+     fashioned turn-based
+ style RPGs, you should love
+ this game. By all means get it,
+ it's one of the coolest RPGs on
+ the DS.
 
 4. - I liked this game, anything
    else like this on DS?
    - If you've played DQ VIII on
- the DS. DQ V is amazing, and on
- series. Also, you can try Final
- Sun: Dark Dawn should be good, 
+     PS2 already, then go with
+     DQ IV and DQ V on
+ the DS. DQ V is amazing, and
+ one of the most prominent games
+ in the series. Also, you can
+ try Final Fantasy III and IV.
+ The upcoming Golden Sun: Dark
+ Dawn should be good, too.
 
 5. - Who is the developer of
    this game?
    - Level 5.
 
 6. - How long is this game?
-   - The main story is about 35-
- Might take you forever to finis
+   - The main story is about
+     35-40 hours, the post-game
+     content is very large.
+ Might take you forever to
+ finish everything.
 
 7. - How many quests does this
    game have?
-   - As of now, 120. But there w
- Fi. Make sure to download them 
+   - As of now, 120. But there
+     will be some new ones
+     (about 60) added via Wi-
+ Fi. Make sure to download them
+ onto your DS.
 
 8. - What's the best vocation?
-   - Hard to say. Everyone has t
+   - Hard to say. Everyone has
+     their own preferences, but
+     I like Paladins and
  Sages the most.
 
 9. - When can I create my party?
-   - Before the encounter with t
- inn in Stornway and talk to Pat
+   - Before the encounter with
+     the Wight Knight talk to
+     King Storn, go to the
+ inn in Stornway and talk to
+ Patty.
 
 10. - When can I change my
     vocations?
-    - Talk to Jack in Alltrades 
+    - Talk to Jack in Alltrades
+      Abbey after you beat the
+      boss at the Tower of
  Trades.
 
 11. - What's the deal with the
     blue chests?
     - These chests respawn their
+      contents every once in a
+      while. They contain
  random items all the time. They
+ can be opened by anyone in your
+ party.
 
 12. - Any missables in this
     game?
-    - The only one I can think o
- you get the Ultimate Key, you'l
- the plot. Open the cell door wi
- you won't be able to get them i
+    - The only one I can think
+      of is the chests in the
+      Observatory, L2. Once
+ you get the Ultimate Key,
+ you'll be brought to
+ Observatory as a part of the
+ plot. Open the cell door with
+ the key and grab those chests,
+ cause you won't be able to get
+ them in the post-game.
 
 13. - Any quick way to gain
     levels?
-    - Sure. There are Metal Slim
- Bad Cave, and Liquid Metal Slim
- King Slimes and Platinum King J
+    - Sure. There are Metal
+      Slimes in the Quarantomb,
+      Metal Medleys in the
+ Bad Cave, and Liquid Metal
+ Slimes in the Bowhole. There
+ are also Metal King Slimes and
+ Platinum King Jewels in the
+ treasure map dungeons called
  grottos. And there's this Slime
- is accessible only on Starfligh
+ Hill place north of Angel
+ Falls, but it is accessible
+ only on Starflight Express.
 
 14. - Any quick way to gain
     money?
-    - Gold Golems in the Djust D
+    - Gold Golems in the Djust
+      Desert.
 
 15. - Why does this game have
     some many puns (town names,
     enemy/boss names,
  etc.)?
     - Because it's Dragon Quest.
- famous for quirky enemy and bos
- from the game, so I'm fine with
+      No, seriously, DQ
+      localizations have been
+ famous for quirky enemy and
+ boss names. I mean, it doesn't
+ distract me from the game, so
+ I'm fine with it.
 
 16. - How do I quickly move
     around towns?
     - Chimaera Wing item or Zoom
+      spell.
 
 17. - Are there any overworld
     treasure chests?
@@ -11993,19 +12638,26 @@ why did they change their mind?
 
 19. - Where can I find my first
     Treasure Map?
-    - It's a reward for completi
- King Storn also gives you one. 
- map as a reward.
+    - It's a reward for
+      completing Quest 015 (in
+      the Heights of
+      Loneliness).
+ King Storn also gives you one.
+ Quest 062 gives a Legacy Boss
+ treasure map as a reward.
 
 20. - How do I get Starflight
     Express after I beat the
     game?
-    - Go to Porth Llaffan and ta
+    - Go to Porth Llaffan and
+      talk to Jona in her house
+      to start Quest 039.
 
 
 21. - Is there any story at all
     after beating the game?
-    - Yep. Although most of it i
+    - Yep. Although most of it
+      is DLC stuff.
 
 ================================
 XV..............................

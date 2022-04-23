@@ -49,26 +49,44 @@ Table of Contents
  (A) This Table of Contents
  (B) Controls
  (C) Walkthrough
-  -  (C-01) Mushroom Mayhem - Ro
-  -  (C-02) Mushroom Mayhem - Ro
-  -  (C-03) Mushroom Mayhem - Ro
-  -  (C-04) Mushroom Mayhem - Ro
-  -  (C-05) Mushroom Mayhem - Ro
-  -  (C-06) Mushroom Mayhem - Ro
-  -  (C-07) Mushroom Mayhem - Ro
-  -  (C-08) Mushroom Mayhem - Ro
-  -  (C-09) Mushroom Mayhem - Ro
+  - (C-01) Mushroom Mayhem -
+    Room 1
+  - (C-02) Mushroom Mayhem -
+    Room 2
+  - (C-03) Mushroom Mayhem -
+    Room 3
+  - (C-04) Mushroom Mayhem -
+    Room 4
+  - (C-05) Mushroom Mayhem -
+    Room 5
+  - (C-06) Mushroom Mayhem -
+    Room 6
+  - (C-07) Mushroom Mayhem -
+    Room 7
+  - (C-08) Mushroom Mayhem -
+    Room 8
+  - (C-09) Mushroom Mayhem -
+    Room 9
   -  (C-10) Mushroom Mayhem - DK
 
-  -  (C-11) Tropical Island - Ro
-  -  (C-12) Tropical Island - Ro
-  -  (C-13) Tropical Island - Ro
-  -  (C-14) Tropical Island - Ro
-  -  (C-15) Tropical Island - Ro
-  -  (C-16) Tropical Island - Ro
-  -  (C-17) Tropical Island - Ro
-  -  (C-18) Tropical Island - Ro
-  -  (C-19) Tropical Island - Ro
+  - (C-11) Tropical Island -
+    Room 1
+  - (C-12) Tropical Island -
+    Room 2
+  - (C-13) Tropical Island -
+    Room 3
+  - (C-14) Tropical Island -
+    Room 4
+  - (C-15) Tropical Island -
+    Room 5
+  - (C-16) Tropical Island -
+    Room 6
+  - (C-17) Tropical Island -
+    Room 7
+  - (C-18) Tropical Island -
+    Room 8
+  - (C-19) Tropical Island -
+    Room 9
   -  (C-20) Tropical Island - DK
 
   -  (C-21) Pipe Works - Room 1
@@ -83,13 +101,13 @@ Table of Contents
   -  (C-30) Pipe Works - DK
 
 -  (C-31) Magnet Mania - Room 1
-  -  (C-32) Magnet Mania - Room 
+  - (C-32) Magnet Mania - Room 2
 -  (C-33) Magnet Mania - Room 3
-  -  (C-34) Magnet Mania - Room 
+  - (C-34) Magnet Mania - Room 4
 -  (C-35) Magnet Mania - Room 5
-  -  (C-36) Magnet Mania - Room 
+  - (C-36) Magnet Mania - Room 6
 -  (C-37) Magnet Mania - Room 7
-  -  (C-38) Magnet Mania - Room 
+  - (C-38) Magnet Mania - Room 8
 -  (C-39) Magnet Mania - Room 9
   -  (C-40) Magnet Mania - DK
 
@@ -104,37 +122,55 @@ Table of Contents
   -  (C-49) Lava Dome - Room 9
   -  (C-50) Lava Dome - DK
 
-  -  (C-51) Toadstool Castle - R
-  -  (C-52) Toadstool Castle - R
-  -  (C-53) Toadstool Castle - R
-  -  (C-54) Toadstool Castle - R
-  -  (C-55) Toadstool Castle - R
-  -  (C-56) Toadstool Castle - R
-  -  (C-57) Toadstool Castle - R
-  -  (C-58) Toadstool Castle - R
-  -  (C-59) Toadstool Castle - R
+  - (C-51) Toadstool Castle -
+    Room 1
+  - (C-52) Toadstool Castle -
+    Room 2
+  - (C-53) Toadstool Castle -
+    Room 3
+  - (C-54) Toadstool Castle -
+    Room 4
+  - (C-55) Toadstool Castle -
+    Room 5
+  - (C-56) Toadstool Castle -
+    Room 6
+  - (C-57) Toadstool Castle -
+    Room 7
+  - (C-58) Toadstool Castle -
+    Room 8
+  - (C-59) Toadstool Castle -
+    Room 9
 -  (C-60) Toadstool Castle - DK
 
 -  (C-61) Spooky Attic - Room 1
-  -  (C-62) Spooky Attic - Room 
+  - (C-62) Spooky Attic - Room 2
 -  (C-63) Spooky Attic - Room 3
-  -  (C-64) Spooky Attic - Room 
+  - (C-64) Spooky Attic - Room 4
 -  (C-65) Spooky Attic - Room 5
-  -  (C-66) Spooky Attic - Room 
+  - (C-66) Spooky Attic - Room 6
 -  (C-67) Spooky Attic - Room 7
-  -  (C-68) Spooky Attic - Room 
+  - (C-68) Spooky Attic - Room 8
 -  (C-69) Spooky Attic - Room 9
   -  (C-70) Spooky Attic - DK
 
-  -  (C-71) Jungle Hijinks - Roo
-  -  (C-72) Jungle Hijinks - Roo
-  -  (C-73) Jungle Hijinks - Roo
-  -  (C-74) Jungle Hijinks - Roo
-  -  (C-75) Jungle Hijinks - Roo
-  -  (C-76) Jungle Hijinks - Roo
-  -  (C-77) Jungle Hijinks - Roo
-  -  (C-78) Jungle Hijinks - Roo
-  -  (C-79) Jungle Hijinks - Roo
+  - (C-71) Jungle Hijinks - Room
+    1
+  - (C-72) Jungle Hijinks - Room
+    2
+  - (C-73) Jungle Hijinks - Room
+    3
+  - (C-74) Jungle Hijinks - Room
+    4
+  - (C-75) Jungle Hijinks - Room
+    5
+  - (C-76) Jungle Hijinks - Room
+    6
+  - (C-77) Jungle Hijinks - Room
+    7
+  - (C-78) Jungle Hijinks - Room
+    8
+  - (C-79) Jungle Hijinks - Room
+    9
   -  (C-80) Jungle Hijinks - DK
 
   -  (C-81) Roof - Final Boss
@@ -1577,7 +1613,8 @@ card before using the exit.
 
 This is the first stage with a
 snifit, which spits bullets at
-you in bursts of 5.
+you in bursts of
+5.
 
 
 Carefully send the bottom right

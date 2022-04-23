@@ -28,29 +28,37 @@ forgotten.
 Version 1.0
 -----------
 
--Submitted FAQ on June 25th, 200
+-Submitted FAQ on June 25th,
+ 2007
 
 -----------
 Version 1.1
 -----------
 
 -Submitted FAQ on July 2nd, 2007
--Corrected an error in the Co se
+-Corrected an error in the Co
+ section for COlin (thanks to
+ Ahmed Luqman)
 
 -----------
 Version 1.2
 -----------
 
--Submitted FAQ on July 20th, 200
--Corrected an error that I had p
+-Submitted FAQ on July 20th,
+ 2007
+-Corrected an error that I had
+ previously overlooked
 
 -----------
 Version 1.5
 -----------
 
--Submitted FAQ on January 8th, 2
+-Submitted FAQ on January 8th,
+ 2008
 -Added in Mistwalker and Soul Of
- to Rydawg for the information)
+ Hachi to the Special Skills
+ section (thanks to Rydawg for
+ the information)
 
 --------------------------------
 -----------------------------Tab
@@ -72,14 +80,27 @@ Version 1.5
 1) With Sturm defeated and gone,
    it appeared that Black Hole
    might finally disappear into
-   the wilds... a leader and
-   with mostly new CO aiming
-   their mighty war machi does
-   raise an interesting que
-   producing such massive armies
-   defeats at the hands of the m
-   Blue Moon, Yellow Comet, and
-   going on, and enjoy what is a
+   the wilds... at least for a
+   while. However, under a new
+   leader and with mostly new
+   CO's, Black Hole has
+   returned, this time aiming
+   their mighty war machine upon
+   the people of Omega Land!
+   That does raise an
+   interesting query though...
+   how does Black Hole keep
+   producing such massive
+   armies? Especially after two
+   straight disastrous defeats
+   at the hands of the members
+   of the Allied Nations (Orange
+   Star, Blue Moon, Yellow
+   Comet, and Green Earth)? Play
+   on to find out what is going
+   on, and enjoy what is a great
+   expansion upon the AW
+   universe!
 
 --------------------------------
 --------------------------------
@@ -88,15 +109,28 @@ Version 1.5
 2) This section will give
    information on each type of
    unit, what their weaponry is
-   and what units th
+   and what units they can
+   fight.
 
-   The stats will be based on bo
-   Hit Points), the Defensive Te
-   take into account CO bonuses/
-   useful as a quick reference f
-   unit type.  Also note that an
-   type can not attack that unit
-   as 0% means that the unit typ
+   The stats will be based on
+   both units being at full
+   power (both have full Hit
+   Points), the Defensive
+   Terrain being a value of 0,
+   and this will not take into
+   account CO bonuses/penalties
+   on the attacks. It should be
+   useful as a quick reference
+   for offensive and defensive
+   abilities of each unit type.
+   Also note that any attack
+   listed as 0% means that the
+   unit type can not attack that
+   unit type. Al so note that
+   any defense listed as 0%
+   means that the unit type can
+   not be attacked by the unit
+   listed.
 
 
    o------------------------o
@@ -2039,7 +2073,7 @@ Bomber    :   0%
 3) This section will give you
    the heads up on how to use
    the terrain to your advantage
-   when battling the o
+   when battling the opposition.
 
 
          o------------o
@@ -2298,8 +2332,11 @@ amount of protection.
 4) This section will give
    statistics and strategies to
    get through each map in the
-   game. This includes t placed
-   after the map they are
+   game. This includes the
+   hidden lab areas as well,
+   which will be placed after
+   the map they are discovered
+   in.
 
 
          o------------o
@@ -4315,8 +4352,9 @@ complete! CONGRATULATIONS!!!
 5) This section will examine the
    special abilities that the
    CO's (Commanding Officers) of
-   the game possess CO Super
-   Power, and Tag Power
+   the game possess as well as
+   examining their CO Power, CO
+   Super Power, and Tag Power.
 
 
       o------------------o
@@ -4341,13 +4379,16 @@ CO Power: Hyper Repair Effect..:
 Restores 2 Hit Points to any of
 his damaged units while all
 units
-  experience a +10% Offense and 
+  experience a +10% Offense and
+  +10% Defense boost.
 
 Super CO Power: Effect........:
 Restores a whopping 5 Hit points
 to damaged units, adds an
-    extra movement space to all 
-    experience a +10% Offense an
+    extra movement space to all
+    of his units, AND his units
+    experience a +10% Offense
+    and +30% Defense boost.
 
 Tag Power Ratings: Nell=====>
 105%
@@ -4378,16 +4419,22 @@ under her leadership.
 CO Power: Double Time Effect..:
 Infantry and Mechs get A +40%
 Offense and 10% Defense boost in
-  addition to an extra movement 
+  addition to an extra movement
+  space. All other units get a
+  +10%
 Offense and +10% Defense boost.
 
 Super CO Power: Victory March
 Effect........: Infantry and
 Mechs get A +70% Offense and 10%
 Defense boost
-    in addition to 2 extra movem
-    any property on that turn re
-    All other units get a +10% O
+    in addition to 2 extra
+    movement spaces AND they can
+    capture any property on that
+    turn regardless of their Hit
+    Points. All other units get
+    a +10% Offense and +10%
+    Defense boost.
 
 Tag Power Ratings: Nell=====>
 105%
@@ -4415,12 +4462,15 @@ CO Power: Max Power Effect..:
 His direct combat units get +40%
 Offense and +10% Defense boost
   while all other units get +10%
+  Offense and +10% Defense
+  boost.
 
 Super CO Power: Max Blast
 Effect........: His direct
 combat units get +70% Offense
 and +10% Defense
-    boost while all other units 
+    boost while all other units
+    get +10% Offense and
       +10% Defense boost.
 
 Tag Power Ratings: Nell=====>
@@ -4447,15 +4497,21 @@ the Plains.
 CO Power: Beat Down Effect..:
 Indirect units gain an extra
 tile of range, on the plains his
-  units will get a +20% Offense 
-  +10% Offense and +10% Defense 
+  units will get a +20% Offense
+  boost, and all units get a
+  base
+  +10% Offense and +10% Defense
+   boost.
 
 Super CO Power: Block Rock
 Effect........: Indirect units
 gain an extra tile of range, on
 the plains his
-    units will get a +40% Offens
-    movement spaces, and all uni
+    units will get a +40%
+    Offense boost, land vehicles
+    gain 2 movement spaces, and
+    all units get a base +10%
+    Offense and
       +10% Defense boost.
 
 Tag Power Ratings: Sasha====>
@@ -4483,15 +4539,20 @@ or Defense.
 CO Power: Lucky Lass Effect..:
 In addition to the +10 Offense
 and +10% Defense boost, Rachel's
-  troops can deal up to an addit
+  troops can deal up to an
+  additional 40% damage.
 
 Super CO Power: Covering Fire
 Effect........: In addition to
 the +10 Offense and +10% Defense
 boost,
-    Rachel will launch 3 missile
-    Silos on a map) that will st
-    removing 3 Hit Points from e
+    Rachel will launch 3
+    missiles (just like they
+    were shot from Silos on a
+    map) that will strike three
+    random targets, removing 3
+    Hit Points from enemy units
+    in the area.
 
 Tag Power Ratings: Sasha====>
 105%
@@ -4514,15 +4575,19 @@ than should be possible.
 CO Power: Lucky Star Effect..:
 Her units get a +10 Offense and
 +10% Defense boost as well as
-  increasing the odds of her str
+  increasing the odds of her
+  striking the enemy with extra
+  force by
     as much as 60%.  LUCKY!
 
 Super CO Power: Lady Luck
 Effect........: Her units get a
 +10 Offense and +10% Defense
 boost as well
-    as increasing the odds of he
-    force by as much as 100%.  L
+    as increasing the odds of
+    her striking the enemy with
+    extra force by as much as
+    100%. LUCKY! LUCKY!
 
 Tag Power Ratings: Andy=====>
 105%
@@ -4550,14 +4615,18 @@ assigned for this advantage.
 CO Power: Barter Effect..: Units
 can be deployed for 50% cost and
 his units get a
-  +10% Offense and +10% Defense 
+  +10% Offense and +10% Defense
+   boost.
 
 Super CO Power: Merchant Union
 Effect........: Units can be
 deployed for 50% cost and his
 units get a
-    +10% Offense and +10% Defens
-    any bought units on this tur
+    +10% Offense and +10%
+     Defense boost. He also can
+     deploy
+    any bought units on this
+    turn from any City under his
     control.
 
 Tag Power Ratings: Sensei===>
@@ -4592,16 +4661,22 @@ the white stuff.
 CO Power: Blizzard Effect..:
 While increasing his units with
 a +10% Offense and +10% Defense
-  boost, this will also cause th
+  boost, this will also cause
+  the conditions to change to
+  snow
     for the next two turns.
 
 Super CO Power: Winter Fury
 Effect........: While increasing
 his units with a +10% Offense
 and
-    +10% Defense boost, this wil
-    change to snow for the next 
-    also damage all enemy units 
+    +10% Defense boost, this
+     will also cause the
+     conditions to
+    change to snow for the next
+    two turns. This attack will
+    also damage all enemy units
+    for 2 Hit Points of damage.
 
 Tag Power Ratings: Colin====>
 105%
@@ -4630,17 +4705,24 @@ CO Power: Snipe Attack Effect..:
 Adds an extra range space to
 each of his long range units in
 play
-  as well as adding some extra p
-  boost) to the shots.  All othe
+  as well as adding some extra
+  power (+40% Offense and +10%
+  Defense boost) to the shots.
+  All other units experience a
+  +10% Offense
     and +10% Defense boost.
 
 Super CO Power: Super Snipe
 Effect........: Adds two extra
 range spaces to each of his long
 range units
-    in play as well as adding so
-    +10% Defense boost) to the s
-    experience a +10% Offense an
+    in play as well as adding
+    some extra power (+40%
+    Offense and
+    +10% Defense boost) to the
+     shots. All other units
+    experience a +10% Offense
+    and +10% Defense boost.
 
 Tag Power Ratings: Colin====>
 105%
@@ -4668,15 +4750,22 @@ CO Power: Gold Rush Effect..:
 When used, your funds will be
 multiplied by 1.5, which is a
   fantastic way to get even more
-  All units receive a +10 Offens
+  cash to purchase cheap units
+  with. All units receive a +10
+  Offense and +10% Defense boost
+  as well.
 
 Super CO Power: Power Of Money
 Effect........: Weaponry in all
 active units will be increased
 by the war
-    coffers Colin possesses.  Th
+    coffers Colin possesses. The
+    more money he holds in
     reserve, the more powered-up
-    units receive a +10 Offense 
+    the weapons will be. All
+    units receive a +10 Offense
+    and +10% Defense boost as
+    well.
 
 Tag Power Ratings: Olaf=====>
 105%
@@ -4705,17 +4794,23 @@ CO Power: Market Crash Effect..:
 All units get a +10% Offense and
 +10% Defense boost in addition
 to
-  opposing Co star power meters 
-  Gold in Sasha's possession.
+  opposing Co star power meters
+  being reduced by 10% for every
+  5000 Gold in Sasha's
+  possession.
 
 Super CO Power: War Bonds
 Effect........: All units get a
 +10% Offense and +10% Defense
 boost in
-    addition to 50% of all damag
-    her war coffers (ie a Neotan
-    damages it for 5 Hit Points,
-    11000/2 = 5500 Gold for that
+    addition to 50% of all
+    damage dealt will be funded
+    back into her war coffers
+    (ie a Neotank is worth 22000
+    Gold, so if she damages it
+    for 5 Hit Points, she would
+    get 11000/2 = 5500 Gold for
+    that attack).
 
 Tag Power Ratings: Jake=====>
 105%
@@ -4750,7 +4845,8 @@ Super CO Power: Samurai Spirit
 Effect........: His units get a
 +40% Offense and +10% Defense
 boost while
-    his counter attacks by his u
+    his counter attacks by his
+    units deal twice the normal
   amount until his next turn.
 
 Tag Power Ratings: Sensei===>
@@ -4783,16 +4879,21 @@ CO Power: Copter Command
 Effect..: B Copter get a +30%
 Offense and a 10% Defense boost,
 all other
-  units get a +10% Offense and +
-  empty Cities will gain an Infa
+  units get a +10% Offense and
+  +10% Defense boost. All of
+  Sensei's empty Cities will
+  gain an Infantry each with 9
+  Hit Points.
 
 Super CO Power: Airbourne
 Assault Effect........: B Copter
 get a +30% Offense and a 10%
 Defense boost, all
-    other units get a +10% Offen
-    of Sensei's empty Cities wil
-    Points.
+    other units get a +10%
+    Offense and +10% Defense
+    boost. All of Sensei's empty
+    Cities will gain a Mech each
+    with 9 Hit Points.
 
 Tag Power Ratings: Kanbei===>
 105%
@@ -4825,21 +4926,33 @@ CO Power: Enhanced Vision
 Effect..: Her units gain an
 extra vision space in Fog Of War
 situations and
-  allows her units to see into t
-  right beside them.  All units 
-  Defense boost as well as getti
-  2 (ie City counts as 1 instead
+  allows her units to see into
+  the Woods and Reefs without
+  being right beside them. All
+  units also boast a +10%
+  Offense and +10% Defense boost
+  as well as getting the enemy
+  defense stars down by 2 (ie
+  City counts as 1 instead of
+  3).
 
 Super CO Power: Counter Break
 Effect........: Her units gain
 an extra vision space in Fog Of
 War
-    situations and allows her un
-    Reefs without being right be
-    boast a +10% Offense and +10
-    pushing the enemy defense st
-    counts as 1 instead of 4), a
-    during any attacks on the ne
+    situations and allows her
+    units to see into the Woods
+    and Reefs without being
+    right beside them. All units
+    also boast a +10% Offense
+    and +10% Defense boost as
+    well as pushing the enemy
+    defense stars down by 3 (ie
+    Headquarters counts as 1
+    instead of 4), and she also
+    strikes first during any
+    attacks on the next
+    opponent's turn.
 
 Tag Power Ratings: Sensei===>
 105%
@@ -4869,13 +4982,16 @@ CO Power: Knuckleduster
 Effect..: Grimm's already
 offensive minded units will get
 a +30% Offense
-  boost and a default +10% Defen
+  boost and a default +10%
+  Defense boost.
 
 Super CO Power: Haymaker
 Effect........: Grimm's units
 will get a ridiculous +60%
 Offense boost
-    (making them a whopping 190%
+    (making them a whopping
+    190%!) and a +10% Defense
+    boost.
 
 Tag Power Ratings: Sasha====>
 105%
@@ -4907,19 +5023,28 @@ CO Power: Lightning Drive
 Effect..: All of his units (sans
 Infantry and Mechs) will get a
 second turn
-  to attack, but on the second a
-  bonuses: Air units (-50% Offen
-  Land units (-40% Offense and +
-  Land units (-35% Offense and +
-  Mechs get a more typical +10 O
-  their one attack with this pow
+  to attack, but on the second
+  attack they get the following
+  bonuses: Air units (-50%
+  Offense and 10% Defense
+  boost), Direct Land units
+  (-40% Offense and +10% Defense
+  boost), and Indirect Land
+  units (-35% Offense and +10%
+  Defense boost). Infantry and
+  Mechs get a more typical +10
+  Offense and +10% Defense boost
+  for their one attack with this
+  power.
 
 Super CO Power: Lightning Strike
 Effect........: All of his units
 (sans Infantry and Mechs) will
 get a second
-    turn to attack, though all g
-    Defense boost for both round
+    turn to attack, though all
+    get a +10% Offense and +10%
+    Defense boost for both
+    rounds of attacks.
 
 Tag Power Ratings: Jess=====>
 105%
@@ -4950,17 +5075,24 @@ that would do the country harm.
 CO Power: Tsunami Effect..: This
 will remove 1 Hit Point from
 every enemy unit, and remove
-  half of their total fuel.  All
-  Offense and 10% Defense boost 
+  half of their total fuel. All
+  of his units will get a +10%
+  Offense and 10% Defense boost
+  as well.
 
 Super CO Power: Typhoon
 Effect........: This will remove
 2 Hit Points from every enemy
 unit, and
-    remove half of their total f
-    a +10% Offense and 10% Defen
-    weather changing to rain wit
-    rolling into play for a coup
+    remove half of their total
+    fuel. All of his units will
+    get a +10% Offense and 10%
+    Defense boost in addition to
+    the weather changing to rain
+    with the possibility of Fog
+    of War rolling into play for
+    a couple of turns following
+    the storm.
 
 Tag Power Ratings: Jess=====>
 105%
@@ -4985,15 +5117,20 @@ Vehicles gain one movement
 space, ammo and fuel are
 replenished
   completely, and a +30% Offense
-  experienced.  All other units 
-  boost.
+  and 10% Defense boost is
+  experienced. All other units
+  get a +10 Offense and +10%
+  Defense boost.
 
 Super CO Power: Overdrive
 Effect........:Vehicles gain two
 movement spaces, ammo and fuel
 are
    replenished completely, and a
-   boost is experienced.  All ot
+   +30% Offense and 10% Defense
+   boost is experienced. All
+   other units get a +10 Offense
+   and
       +10% Defense boost.
 
 Tag Power Ratings: Eagle====>
@@ -5013,8 +5150,10 @@ The newcomer to the Green Earth
 CO ranks, this honourable knight
 of the forest is a big supporter
 of defense as the way to
-victory, as he boasts a +20%
-Defense boost versus indire
+victory, as he boasts a
++20% Defense boost versus
+ indirect attacks as well as
+ getting +10 Defense
 boost from every Tower he
 controls (to go with the
 traditional +10 Offense boost
@@ -5023,14 +5162,16 @@ they give to everyone).
 CO Power: Tower Shield Effect..:
 Gets a +20% Defense boost versus
 indirect attacks and Tower
-  bonuses are now doubled.  All 
-  Defense boost.
+  bonuses are now doubled. All
+  units get a +10% Offense and
+  +10% Defense boost.
 
 Super CO Power: Tower of Power
 Effect........: Gets a +60%
 Defense boost versus indirect
 attacks and Tower
-    bonuses are now tripled.  Al
+    bonuses are now tripled. All
+    units get a +10% Offense and
       +10% Defense boost.
 
 Tag Power Ratings: Sensei===>
@@ -5064,8 +5205,12 @@ boost).
 CO Power: Brute Force Effect..:
 All units get a +10% Offense and
 +10% Defense boost. All units
-  will have an increased chance 
+  will have an increased chance
+  of landing a harsh blow (as
+  much as
   +50% Offense boost), but their
+   also is a chance of dealing
+   less
   damage (-20% Offense boost).
 
 Super CO Power: Barbaric Blow
@@ -5073,8 +5218,12 @@ Effect........: All units get a
 +10% Offense and +10% Defense
 boost. All
     units will have an increased
-    (as much as +90% Offense boo
-    of dealing less damage (-30%
+    chance of landing a harsh
+    blow (as much as +90%
+    Offense boost), but their
+    also is a chance of dealing
+    less damage (-30% Offense
+    boost).
 
 Tag Power Ratings: Adder=> 105%
     Lash==> 110%
@@ -5127,16 +5276,20 @@ CO Power: Terrain Tactics
 Effect..: All units get a +10%
 Offense and +10% Defense boost.
 All terrain
-  movement costs drop to 1, esse
-  roads.
+  movement costs drop to 1,
+  essentially making all spaces
+  like roads.
 
 Super CO Power: Prime Tactics
 Effect........: All units get a
 +10% Offense and +10% Defense
 boost. All
-    terrain movement costs drop 
-    spaces like roads.  All defe
-    (ie City becomes 6 instead o
+    terrain movement costs drop
+    to 1, essentially making all
+    spaces like roads. All
+    defensive ratings are
+    doubled (ie City becomes 6
+    instead of 3).
 
 Tag Power Ratings: Sonja====>
 105%
@@ -5166,14 +5319,19 @@ All of his damaged units gain
 one Hit Point while enemy units
 lose
   one Hit Point (will not kill a
-  a +10% Offense and +10% Defens
+  one Hit Point unit). All units
+  get a +10% Offense and +10%
+  Defense boost.
 
 Super CO Power: Black Storm
 Effect........: All of his
 damaged units gain two Hit
 Points while enemy
-    units lose two Hit Points (w
-    unit).  All units get a +10%
+    units lose two Hit Points
+    (will not kill a two Hit
+    Points unit). All units get
+    a +10% Offense and +10%
+    Defense boost.
 
 Tag Power Ratings: Andy=====>
 105%
@@ -5203,15 +5361,18 @@ paved pathways.
 CO Power: Forced March Effect..:
 His units gain an extra movement
 space and all get a +10% Offense
-  and +10% Defense boost.  They 
-  attacking on Roads.
+  and +10% Defense boost. They
+  also get a +20% Offense boost
+  when attacking on Roads.
 
 Super CO Power: Sidewinder
 Effect........: His units gain
 two extra movement spaces and
 all get a +10%
-    Offense and +10% Defense boo
+    Offense and +10% Defense
+    boost. They also get a +20%
     Offense boost when attacking
+    on Roads.
 
 Tag Power Ratings: Kindle=> 105%
     Adder==> 110%
@@ -5237,8 +5398,12 @@ damage than normal being dealt
 CO Power: Overclock Effect..:
 All units get a +10% Offense and
 +10% Defense boost. All units
-  will have an increased chance 
+  will have an increased chance
+  of landing a harsh blow (as
+  much as
   +55% Offense boost), but their
+   also is a chance of dealing
+   less
   damage (-25% Offense boost).
 
 Super CO Power: System Crash
@@ -5246,8 +5411,12 @@ Effect........: All units get a
 +10% Offense and +10% Defense
 boost. All
     units will have an increased
-    (as much as +95% Offense boo
-    of dealing less damage (-45%
+    chance of landing a harsh
+    blow (as much as +95%
+    Offense boost), but their
+    also is a chance of dealing
+    less damage (-45% Offense
+    boost).
 
 Tag Power Ratings: Kindle=> 105%
     Koal===> 110%
@@ -5272,17 +5441,25 @@ CO Power: Urban Blight Effect..:
 Any opposing forces that are
 residing on a property will
 receive
-  3 Hit Points worth of damage a
-  from properties (+80% Offense 
+  3 Hit Points worth of damage
+  and her units will deal more
+  damage from properties (+80%
+  Offense boost). All units get
+  a +10%
 Offense and +10% Defense boost.
 
 Super CO Power: High Society
 Effect........: Kindle's units
 will deal more damage from
 properties
-    (+130% Offense boost), and  
-    +10% Defense boost.  Her uni
-    boost for every property tha
+    (+130% Offense boost), and
+    All units get a +10% Offense
+    and
+    +10% Defense boost. Her
+     units will also get +3%
+     Offense
+    boost for every property
+    that she possesses.
 
 Tag Power Ratings: Jugger=> 105%
     Koal===> 105%
@@ -5313,9 +5490,13 @@ Super CO Power: Ex Machina
 Effect........: A bolt of
 electricity will smash into
 troops in a focused
-    area (same size as a Black B
-    3 Hit Points, and it has the
-    all units in the blast radiu
+    area (same size as a Black
+    Bomb's detonation area) to
+    remove 3 Hit Points, and it
+    has the secondary effect of
+    rendering all units in the
+    blast radius immobile for
+    one full turn.
 
 Tag Power Ratings: Orange Star
 CO's==> 90%
@@ -5330,7 +5511,7 @@ CO's==> 90%
 6) This section will examine the
    various skills that can be
    applied to a CO as they get
-   promoted to highe
+   promoted to higher levels.
 
 
           o----------o
@@ -5524,25 +5705,41 @@ Super CO Power
         | Rules Of Use |
         o--------------o
 
--As a CO gets promoted to new le
- potential use.
+-As a CO gets promoted to new
+ levels, each new Level will be
+ unlocked for potential use.
 
--With each promotion for the fir
- selected for use (up to a max o
+-With each promotion for the
+ first three levels, another
+ Skill may be selected for use
+ (up to a max of 4).
 
--If two Skills that affect the s
- values will actually stack, giv
+-If two Skills that affect the
+ same thing are selected, then
+ the Skill values will actually
+ stack, giving the value of
+ both.
 
--The Star Level if Skills are on
+-The Star Level if Skills are
+ only available after the
+ campaign is finished.
 
 --------------------------------
---------------------------Black 
+--------------------------Black
+                          Hole I
+                          nstall
+                          ations
+                          ------
+                          ------
+                          ------
+                          ------
+                          --
 --------------------------------
 
 7) This section will look at how
    each special installation of
    the Black Hole Army works,
-   and how to deal w
+   and how to deal with them.
 
 
            o--------o
@@ -5557,13 +5754,16 @@ destruction
 Power......: Removes up to 5 Hit
 Points, but it can not finish
 off an unit.
-   Also, the number of turns it 
+   Also, the number of turns it
+   takes to power a shot is
       determined per area.
 
 Weakness...: The doors on the
 front of these installations can
 be attacked.
-   After a total of at least 100
+   After a total of at least
+   100% damage has been dealt,
+   the
      Cannon will meltdown.
 
 
@@ -5591,12 +5791,15 @@ not be destroyed.
 Description: A smaller version
 of the Cannon, it's range is
 considerably
-   less, but it still packs a na
+   less, but it still packs a
+   nasty punch (one direction
+   only).
 
 Power......: Removes up to 3 Hit
 Points, but it can not finish
 off an unit.
-   Also, the number of turns it 
+   Also, the number of turns it
+   takes to power a shot is
       determined per area.
 
 Weakness...: After a total of at
@@ -5612,7 +5815,8 @@ dealt, the
 Description: These will snake
 through a map, often channeling
 troops through
-   certain areas.  Some sections
+   certain areas. Some sections
+   can be destroyed.
 
 Power......: They work as walls,
 not even allowing air units to
@@ -5631,27 +5835,53 @@ seam can be attacked, at least
 8) As is the usual, this
    walkthrough is copyright
    property of Brian P. Sulpher,
-   2007. The only webs post it
-   is www.gamefaqs.com,
-   www.honestgamers.com. You mu
-   as doing so without consent i
-   law.
+   2007. The only website,
+   group, person, etc. to have
+   access to post it is
+   www.gamefaqs.com,
+   www.ign.com,
+   www.retronintendo.com, and
+   www.honestgamers.com. You
+   must ask for permission
+   before posting this, as doing
+   so without consent is a
+   violation of international
+   copyright law.
 
-   If you liked it, hated it, ha
-   briansulpher@hotmail.com.  Yo
-   through the same E-mail addre
+   If you liked it, hated it,
+   have anything to add, then
+   please E-mail me at
+   briansulpher@hotmail.com. You
+   can also contact me through
+   MSN messenger through the
+   same E-mail address.
 
-   Great game!  Simply no other 
-   some people out with their tr
+   Great game! Simply no other
+   way to put it, and I hope
+   this FAQ helped some people
+   out with their troubles! Do
+   keep in mind that these
    strategies are rather general
-   strategies can be struck void
+   in the whole, and even the
+   specific strategies can be
+   struck void by an enemy CO
+   acting outside their regular
    behaviours.
 
-   Credit to Xenesis Xenon and h
-   some of the specific % boosts
+   Credit to Xenesis Xenon and
+   his CO FAQ on GameFAQs, as it
+   helped me with some of the
+   specific % boosts for some
+   CO's.
 
-   Thanks to all readers who sen
-   often unable t further improv
-   always accept new material (a
-   concise when you send in a st
-   should go in the FAQ or not.
+    Thanks to all readers who
+send in suggestions, as without
+input I am    often unable t
+further improve my FAQ, which
+does not help anyone.  I
+always accept new material (as
+stated before), just be polite,
+clear, and    concise when you
+send in a strategy and I will
+evaluate it to see if it
+should go in the FAQ or not.

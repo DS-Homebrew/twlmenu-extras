@@ -23,28 +23,52 @@ this guide (in short).
 + Provide basic game info
 + Provide information on drones
 + Provide information on enemies
-+ Provide information on all Gal
-+ Provide some strategies on lev
-  (the reader) on really good st
++ Provide information on all
+  Galaxies and Planets
++ Provide some strategies on
+  levels, but hopefully get
+  feedback from you (the reader)
+  on really good strategies for
+  levels.
 
 Let us begin then...
 
-*** This FAQ was written with th
-    I find that the Wii version 
-    graphics and more powerful p
-    screen action! So, let it be
+*** This FAQ was written with
+    the DS version of Geometries
+    Wars: Galaxies, I find that
+    the Wii version is MUCH more
+    difficult! The higher
+    quality graphics and more
+    powerful processor allow for
+    a lot more chaotic on screen
+    action! So, let it be known.
+    ***
 ................................
 
  *******************************
  **                             
     *** Searching:              
-    *** I have implemented the c
+    *** I have implemented the
+        classic search and find
+        feature ***
     *** into this guide. Next to
-    *** contents you'll find a "
-    *** you copy this code, hit 
-    *** code you can use your br
-    *** locate that section of t
-    *** there to make your use o
+        each item in the table
+        of ***
+    *** contents you'll find a
+        "code" in square
+        brackets. If ***
+    *** you copy this code, hit
+        ctrl+f and then paste
+        this ***
+    *** code you can use your
+        browser or text file
+        viewer to ***
+    *** locate that section of
+        the guide. It's easy to
+        use and ***
+    *** there to make your use
+        of this guide easier.
+        Enjoy ***
  **                             
  *******************************
 
@@ -58,6 +82,8 @@ I. Basic Info___________________
     b. Game Modes...............
     c. Gameplay.................
     d. Tips and Tricks..........
+    ............................
+    .[#TIPSS]
 II. Drones______________________
     a. Attack...................
     b. Defend...................
@@ -69,31 +95,53 @@ II. Drones______________________
     h. Bait.....................
 III. Enemies____________________
     a. Classic Enemy Types......
+    ............................
+    .[#CLASS]
   i. Wanderer...................
+     ................[#CLWAN]
   ii. Grunt.....................
   iii. Weaver...................
+       ................[#CLWEA]
   iv. Spinner...................
-  v. Tiny Spinner...............
-  vi. Gravity Well..............
-  vii. Proton...................
-  viii. Snake...................
-  ix. Repulsor..................
+  ................[#CLSPI] v.
+  Tiny Spinner..................
+  .............[#CLTIN] vi.
+  Gravity Well..................
+  ............[#CLGWE] vii. Prot
+  on............................
+  .......[#CLPRO] viii. Snake...
+  ..............................
+  ..[#CLSNA] ix. Repulsor.......
+  ...........................[#C
+  LREP]
   x. Mayfly.....................
     b. New Enemy Types..........
+    ............................
+    .[#NEWEN]
   i. Mutator....................
   ii. Mutated...................
+      ................[#NEMTD]
   iii. UFO......................
   iv. Generator.................
-  v. Black Hole.................
-  vi. Asteroids.................
-  vii. Cell Mass................
+  ................[#NEGEN] v.
+  Black Hole....................
+  .............[#NEBLA] vi. Aste
+  roids.........................
+  ........[#NEAST] vii. Cell Mas
+  s.............................
+  ...[#NECEL]
   viii. Dart....................
   ix. Neutron...................
+  ................[#NENEU]
   x. NUFO.......................
   xi. Wormhole..................
-  xii. Meteor...................
-  xiii. Mine Layer..............
-  xiv. Flipper..................
+  ................[#NEWOR] xii. 
+  Meteor........................
+  ...........[#NEMET] xiii. Mine
+  Layer.........................
+  .....[#NEMIN] xiv. Flipper....
+  ..............................
+  [#NEFLI]
 IV. Galaxies and Planets________
 ________________________________
 ____[#GALAX]
@@ -137,7 +185,9 @@ used to than the 360 version,
 but despite the learning curve
 they work fairly well.
 
-*correction* - if you have the C
+*correction* - if you have the
+ Classic Controller for the Wii
+ you can
 actually use it and then you
 have that Dual Joystick style
 control. Thanks to Kilroy84 for
@@ -146,7 +196,8 @@ pointing this out.
     o===========================
     |                    In Menu
     o--------------o------------
-    | Control Pad  |         Cha
+    | Control Pad | Change
+    Selection |
     o--------------o------------
     |      A       |            
     o--------------o------------
@@ -156,11 +207,13 @@ pointing this out.
     o===========================
     |                    In Game
     o--------------o------------
-    | Control Pad  |            
+    | Control Pad | Move Ship |
     o--------------o------------
-    |  A, B, X, Y  |        Firi
+    | A, B, X, Y | Firing
+    Direction |
     o--------------o------------
-    |   Stylus     |        Firi
+    | Stylus | Firing Direction
+    |
     o--------------o------------
     |   L or R     |            
     o===========================
@@ -419,8 +472,11 @@ lives/bombs in those levels.
 I've been sent these numbers
 that I want to share:
 + at 350 geoms is your first gun
+  upgrade.
 + at 5000 geoms is an extra life
+  (in applicable levels)
 + at 7500 geoms is an extra bomb
+  (once again, where applicable)
 
 ~~~~ Lives ~~~~ Pretty
 straightforward, each level has
@@ -458,20 +514,20 @@ yourself. Bombs should be used
 when you get caught in a corner
 and can't get out.
 
-~~~~ Gun ~~~~~ At the beginning
-of a stage your gun fires out 2
-shots. There are no bullet
-amounts that you can run out or
-anything, it's a constant steady
-fire in whatever direction you
-choose. After collecting X
-number of Geoms (I don't know
-the exact number) you will
-upgrade to a higher level gun.
-There are 2 higher level guns
-that will randomly swap between
-each other throughout the rest
-of the stage.
+~~~~ Gun ~~~~~
+At the beginning of a stage your
+gun fires out 2 shots. There are
+no bullet amounts that you can
+run out or anything, it's a
+constant steady fire in whatever
+direction you choose. After
+collecting X number of Geoms (I
+don't know the exact number) you
+will upgrade to a higher level
+gun. There are 2 higher level
+guns that will randomly swap
+between each other throughout
+the rest of the stage.
 
 One has 3 rapid fire shots, the
 other has 5 slower shooting
@@ -677,9 +733,13 @@ you're stuck on which one to use
 maybe my votes will point you in
 the right direction.
 
-** For more in depth info on dro
-   While I am trying to cover th
-   out if that is what you want 
+** For more in depth info on
+   drones there is a FAQ
+   dedicated soley to them!
+   While I am trying to cover
+   the game more broadly, you
+   should check it out if that
+   is what you want info on. **
     ________
 ___/ Attack \___________________
 Cost: 0 Geoms Behavior: Attacks
@@ -697,6 +757,8 @@ Flys around collecting geoms
 around you. Usefulness Rating: 2
 
 *I just want to note here that I
+ have had a disagreance with
+ this rating,
 while I'm not going to change
 it, because these were my
 opinions. May it be known that
@@ -707,14 +769,16 @@ ___/ Snipe \____________________
 Cost: 28,000 Geoms Behavior:
 This Drone literally picks out
 targets and then snipes them. It
-  shot will also pierce through 
+  shot will also pierce through
+  enemies.
 Usefulness Rating: 2
     _______
 ___/ Sweep \____________________
 Cost: 57,000 Geoms Behavior:
 Flys in circles around your ship
 and if enemies run into it they
-  die. This becomes extremely af
+  die. This becomes extremely
+  affective at high levels.
 Usefulness Rating: 4
     _____
 ___/ Ram \______________________
@@ -778,132 +842,170 @@ Geoms for the enemies!
    _____________________
 __/ Classic Enemy Types \_______
 ________________________________
-____[#CLASS] ~~~~ Wanderer ~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~[#CLWAN] Look: Kinda
-like a propeller Color: Purple
-Base Points: 25 Geoms Dropped:
-10 Behavior: As the name
-implies, they kinda just wander
-around with no real
+____[#CLASS]
+~~~~ Wanderer ~~~~~~~~~~~~~~~~~~
+Look: Kinda like a propeller
+Color: Purple Base Points: 25
+Geoms Dropped: 10 Behavior: As
+the name implies, they kinda
+just wander around with no real
   set path. They are pretty slow
+  moving and easy to kill.
+  Essentially
    the most basic of enemies.
 Strategy: Just shoot 'em. They
 only take one hit so you can fly
 straight at
   them while shooting and you'll
+  be fine.
 
 ~~~~ Grunt ~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
-LGRU] Look: Diamond Color: Blue
-Base Points: 50 Geoms Dropped:
-20 Behavior: Heads straight for
+Look: Diamond Color: Blue Base
+Points: 50 Geoms Dropped: 20
+Behavior: Heads straight for
 your ship, nothing special.
 Strategy: Just shoot 'em. Yeah,
 I said it for wanderer's to.
 
-  Fun fact: I've been told that 
-  around (for literally, like 2 
-  the point where they become fa
+  Fun fact: I've been told that
+  if you let these guys just sit
+  around (for literally, like 2
+  minutes) they will gain speed
+  to the point where they become
+  faster than your ship!
 
 ~~~~ Weaver ~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
-LWEA] Look: Diamond in a Square
-Color: Green Base Points: 100
-Geoms Dropped: 50 Behavior:
-Annoying! These guys will avoid
-your shots and then work their
-way
+Look: Diamond in a Square Color:
+Green Base Points: 100 Geoms
+Dropped: 50 Behavior: Annoying!
+These guys will avoid your shots
+and then work their way
   at you.
 Strategy: Kilroy84 has pointed
 out an important point on
 Weavers so I am
-  revising the strategy here. Th
-  every shot, whether it is dire
-  "Turret Drone" style sweep the
-  infinitely. However, a direct 
-  them to dodge and will kill th
-  other misguided shots around t
+  revising the strategy here.
+  The Weavers like to dodge
+  pretty much every shot,
+  whether it is direction
+  towards them or not. So, a
+  "Turret Drone" style sweep
+  they will more than likely
+  just dodge infinitely.
+  However, a direct on shot is
+  much more difficult for them
+  to dodge and will kill them no
+  problem (unless there are
+  other misguided shots around
+  them).
 
   It's also helpful to get these
-  where to dodge.
+  guys cornered so that they
+  have no where to dodge.
 
 ~~~~ Spinner ~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
-LSPI] Look: X in a Square Color:
-Pink Base Points: 100 Geoms
-Dropped: 0 Behavior: These guys
-come straight for you, but
-release 3 Tiny Spinners after
+Look: X in a Square Color: Pink
+Base Points: 100 Geoms Dropped:
+0 Behavior: These guys come
+straight for you, but release 3
+Tiny Spinners after
   being destroyed.
 Strategy: It only takes 1 shot
 to beat these guys, and they
 behave just as
-  the grunts, however, you want 
-  because of the Tiny Spinners t
-  then slightly back off (if you
-  these little guys, or just mak
-  don't give the little ones a c
+  the grunts, however, you want
+  to watch out when you kill
+  them because of the Tiny
+  Spinners they release. It's
+  good to shoot and then
+  slightly back off (if you have
+  the space behind you) to avoid
+  these little guys, or just
+  make sure you plow straight
+  through and don't give the
+  little ones a chance to catch
+  you off guard.
 
 ~~~~ Tiny Spinner ~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
-LTIN] Look: Tiny version of the
+Look: Tiny version of the
 Spinners...literally Color: Pink
 Base Points: 50 Geoms Dropped:
 10 Behavior: Another really
 annoying one, they do a circular
 pattern while
-  moving towards you. Can be ver
-  enemies on screen and you aren
+  moving towards you. Can be
+  very sneaky when there are a
+  lot of enemies on screen and
+  you aren't watching them.
+  Elminate quickly!
 Strategy: These guys only come
 from defeating Spinners, and
 you'll more than
-  likely destroy the first one w
-  But the other two you really h
-  catch you off guard. It's usua
-  defeating a Spinner and spray 
-  these guys; or plow straight t
-  shots behind you to hopefully 
+  likely destroy the first one
+  when you defeat the Spinner
+  itself. But the other two you
+  really have to watch out that
+  they don't catch you off
+  guard. It's usually best to
+  back off right after defeating
+  a Spinner and spray some shots
+  in that direction to get these
+  guys; or plow straight through
+  the Spinner then spray some
+  shots behind you to hopefully
+  get these guys.
 
 ~~~~ Gravity Well ~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
-LGWE] Look: Big Circle Color:
-Red Base Points: ? Geoms
-Dropped: ? Behavior: Harmless
-until shot, but after one shot
-starts sucking in any
-  enemies (or you) that get to c
-  swells up until it can't hold 
-  several protons out.
+Look: Big Circle Color: Red Base
+Points: ? Geoms Dropped: ?
+Behavior: Harmless until shot,
+but after one shot starts
+sucking in any
+  enemies (or you) that get to
+  close. As it sucks in enemies
+  it swells up until it can't
+  hold anymore at which point it
+  releases several protons out.
 
   Often these can become hard to
-  enemies into orbit around them
+  approach because they will
+  pull enemies into orbit around
+  them. Also note that when they
   explode they push enemies away
+  from them.
 Strategy: There are two ways to
 go about these: First is the way
 I like,
-  when you see one go straight t
-  don't have to worry about it e
-  once and let it fill up a bit 
-  makes it shrink in size slight
-  up with stuff it will be worth
-  when it's empty, but you also 
+  when you see one go straight
+  towards it and take it out.
+  Then you don't have to worry
+  about it exploding. Or, you
+  could shoot it once and let it
+  fill up a bit and then destroy
+  it. Each shot makes it shrink
+  in size slightly until it's
+  gone, and as it fills up with
+  stuff it will be worth more
+  points than if you destroy it
+  when it's empty, but you also
+  run the risk of it rupturing.
 
 ~~~~ Proton ~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
-LPRO] Look: Small Circle Color:
-Blue Base Points: ? Geoms
-Dropped: ? Behavior: Fast and
-head straight for you. Strategy:
-These guys won't come out unless
-you let a Gravity Well explode,
-  but when they do watch out bec
-  will come out at a time. They 
-  catch you off guard due to the
+Look: Small Circle Color: Blue
+Base Points: ? Geoms Dropped: ?
+Behavior: Fast and head straight
+for you. Strategy: These guys
+won't come out unless you let a
+Gravity Well explode,
+  but when they do watch out
+  because they come quick and
+  several will come out at a
+  time. They die in one hit, but
+  can easily catch you off guard
+  due to their speed.
 
 ~~~~ Snake ~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
-LSNA] Look: Like a snake! Color:
+Look: Like a snake! Color:
 Yellow body, Blue head Base
 Points: 150 Geoms Dropped: 50
 Behavior: These guys snake
@@ -911,58 +1013,81 @@ around in funky patterns, real
 long bodies. Strategy: Getting
 in between a handful of these
 can be a real headache and
-  can call for a good bombing du
-  defeat them by shooting them i
-  will do nothing, but running i
+  can call for a good bombing
+  due to the fact that you can
+  only defeat them by shooting
+  them in the head. Shooting
+  their bodies will do nothing,
+  but running in to any part of
+  them will kill you.
 
   I've been told by a few people
-  of these snakes. So that's som
-  (haven't tried this) I've been
-  blind spot that allows you to 
-  move at all) and they will not
-  this will only be of assistanc
+  that you can fly through the
+  tails of these snakes. So
+  that's something else to keep
+  in mind, also (haven't tried
+  this) I've been told that
+  snakes have a sort of blind
+  spot that allows you to
+  actually just sit still (yes,
+  not move at all) and they will
+  not be able to hit you. Of
+  course, this will only be of
+  assistance in an area with
+  only snakes.
 
 ~~~~ Repulsor ~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
-LREP] Look: Like your ship with
-a shield in front Color: Red
-Base Points: ? Geoms Dropped: ?
+Look: Like your ship with a
+shield in front Color: Red Base
+Points: ? Geoms Dropped: ?
 Behavior: These guys will head
 at you and follow you around.
 However, their
-  ability to turn is much worse 
-  stop, turn, and then start mov
+  ability to turn is much worse
+  than yours so sometimes they
+  have to stop, turn, and then
+  start moving again.
 Strategy: You can't hit these
 guys straight on due to their
 shield, but if
-  do a quick circle around them 
-  stop to get back on track and 
-  them. Like the Snakes, several
-  calls for a good bombing in my
+  do a quick circle around them
+  when they head you they will
+  have to stop to get back on
+  track and that is the perfect
+  time to shoot them. Like the
+  Snakes, several of these on
+  screen at once usually calls
+  for a good bombing in my case,
+  but they are manageable with
   some practice.
 
 ~~~~ Mayfly ~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#C
-LMFL] Look: Small Triangles
-Color: Blue Base Points: ? Geoms
+Look: Small Triangles Color:
+Blue Base Points: ? Geoms
 Dropped: ? Behavior: These are
 like a flocking type enemy. They
 always come in packs
-  and travel on a fairly quick p
+  and travel on a fairly quick
+  path straight at you.
 Strategy: With these guys you
 really want to shoot straight
 into them and
-  fly in the same direction. Bec
-  you want to cut straight throu
-  around and cut through it agai
-  first time) because they trave
-  around you easy if you aren't 
+  fly in the same direction.
+  Because they always travel in
+  packs you want to cut straight
+  through the pack one way and
+  then turn around and cut
+  through it again (if you don't
+  get them all the first time)
+  because they travel at a
+  decent speed and can flock
+  around you easy if you aren't
+  careful.
    _________________
 __/ New Enemy Types \___________
 
 ~~~~ Mutator ~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
-EMUT] Look: All Ziggity Zaggety
+Look: All Ziggity Zaggety
 (yeah..) Color: Blue Base
 Points: ? Geoms Dropped: ?
 Behavior: Float around and
@@ -970,193 +1095,261 @@ occasionally spawns mutateds
 Strategy: I'm not sure I
 completely understand this
 enemy, but from what
-  I've picked up they just kind 
-  random intervals will spawn ou
-  They can be an annoying enemy 
-  the fact that they spawn other
-  are one of the few enemies tha
+  I've picked up they just kind
+  of linger around and then and
+  random intervals will spawn
+  out some mutateds (maybe like
+  3-5). They can be an annoying
+  enemy when to many are around
+  because of the fact that they
+  spawn other enemies, but also
+  because they are one of the
+  few enemies that take more
+  than one hit to defeat.
 
-  Okay, from what I've gathered 
-  another enemy spawn Mutateds. 
-  latch onto another enemy and t
-  handful of Mutateds to deal wi
-  careful when there are Cell Ma
-  they will latch on and just ke
+  Okay, from what I've gathered
+  the Mutators actually require
+  another enemy spawn Mutateds.
+  So what they like to do are
+  latch onto another enemy and
+  then after a short time you
+  get a handful of Mutateds to
+  deal with. You need to
+  especially be careful when
+  there are Cell Masses around
+  Mutators because they will
+  latch on and just keep
+  spawning Mutateds over and
   over.
 
 ~~~~ Mutated ~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
-EMTD] Look: Kinda like a
-Biohazard symbol Color: Blue
-Base Points: ? Geoms Dropped: ?
-Behavior: Quick moving and head
-for you. Similar to the
-Mayflowers or Protons. Strategy:
-These guys spawn from the
-Mutators so the quicker you can
-take
-  those out the less of these yo
-  killing them though I recommen
-  while shooting at them because
+Look: Kinda like a Biohazard
+symbol Color: Blue Base Points:
+? Geoms Dropped: ? Behavior:
+Quick moving and head for you.
+Similar to the Mayflowers or
+Protons. Strategy: These guys
+spawn from the Mutators so the
+quicker you can take
+  those out the less of these
+  you'll have to deal with. As
+  far as killing them though I
+  recommend a little bit of a
+  backward movement while
+  shooting at them because they
+  come in fast and kind of
   swarm.
 
 ~~~~ UFO ~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
-EUFO] Look: A big Eye Color: Red
-Base Points: 5000 Geoms Dropped:
-0 Behavior: Fly in and out at
+Look: A big Eye Color: Red Base
+Points: 5000 Geoms Dropped: 0
+Behavior: Fly in and out at
 random times on certain levels
 Strategy: Defeat it if you see
 it because it's worth good
 points. Normally
-  doesn't stick around long thou
+  doesn't stick around long
+  though can move quickly.
 
 ~~~~ Generator ~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
-EGEN] Look: Double ringed circle
-with enemy symbol in the middle
+Look: Double ringed circle with
+enemy symbol in the middle
 Color: Red when releasing
 enemies, Blue when vulnerable
 Base Points: 150(ish?) Geoms
 Dropped: 100 Behavior: These
 guys have 2 states to them, when
 they are red they will
-  release a constant flow of ene
-  based on the level you are on,
-  general, but are *usually* one
-  After they have released a num
-  for awhile and do nothing. Aft
+  release a constant flow of
+  enemies. The enemy type is
+  different based on the level
+  you are on, or just the
+  Generator type in general, but
+  are *usually* one of the basic
+  Classic enemies. After they
+  have released a number of
+  enemies, they turn blue for
+  awhile and do nothing. After a
+  short time they switch back to
   red and repeat.
 Strategy: You can only defeat
 these when they are blue and I
 recommend you
-  get rid of them as quickly as 
-  I like to sit kind of close to
-  the enemies quickly then when 
+  get rid of them as quickly as
+  possible. While releasing
+  enemies I like to sit kind of
+  close to them and shoot at
+  them to take out the enemies
+  quickly then when it stops a
+  few shots will do it in.
 
 ~~~~ Black Hole ~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
-EBLA] Look: A big swirling
-vortex, usually in the center of
-a planet. Color: Blue Base
-Points: 0 Geoms Dropped: 0
-Behavior: Switches between a
-clockwise and counter-clockwise
-pull. Creates
-  a swirling effect on the plane
-  trying to swim upstream and th
-  On planets that have these the
+Look: A big swirling vortex,
+usually in the center of a
+planet. Color: Blue Base Points:
+0 Geoms Dropped: 0 Behavior:
+Switches between a clockwise and
+counter-clockwise pull. Creates
+  a swirling effect on the
+  planet. Trying to fly against
+  is like trying to swim
+  upstream and the opposite when
+  you go with it. On planets
+  that have these they are
+  usually right in the middle.
 Strategy: These cannot be
 defeated, so there really isn't
 much strategy
-  to be said here. I recommend f
-  the enemies are coming at you 
+  to be said here. I recommend
+  fighting "upstream" because
+  then the enemies are coming at
+  you instead of from your
+  backside.
 
 ~~~~ Asteroids ~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
-EAST] Look: Bigger versions of
-normal enemies Color: Orange
-Base Points: ? Geoms Dropped: ?
+Look: Bigger versions of normal
+enemies Color: Orange Base
+Points: ? Geoms Dropped: ?
 Behavior: Just float around,
 then explode into two smaller
 versions of
-  themselves, then those each ex
-  that the resemble. When they e
+  themselves, then those each
+  explode into a bunch of the
+  enemies that the resemble.
+  When they explode they push
+  everything away.
 
-  Here are some numbers (thanks 
-  - Grunt Asteroids spawn somewh
-  - Wanderer Asteroids spawn bet
+  Here are some numbers (thanks
+  to Kevin):
+  - Grunt Asteroids spawn
+    somewhere between 14-22
+    Grunts
+  - Wanderer Asteroids spawn
+    between 14-26 Wanderers
 Strategy: These guys can be
 overwhelming if to many get on
 screen because
-  after you fight a few you'll s
-  asteroid you see, you've got s
-  hands. But they won't do anyti
-  want to kind of corner them (i
-  shots on them steady so that a
-  all of the enemies that come o
+  after you fight a few you'll
+  soon realize that for every
+  one asteroid you see, you've
+  got something like 20 enemies
+  on your hands. But they won't
+  do anyting until you shoot
+  them so you'll want to kind of
+  corner them (if you can) and
+  then just keep the shots on
+  them steady so that as they
+  break apart you can defeat all
+  of the enemies that come out
+  of them real easily.
 
-  Watch out for when these explo
-  they can push a lot of enemies
-  of enemies).
+  Watch out for when these
+  explode in the narrow levels
+  because they can push a lot of
+  enemies on to you (or you on
+  to a lot of enemies).
 
 ~~~~ Cell Mass ~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
-ECEL] Look: Kind of like frog
-eggs all bunched together Color:
-Beige Base Points: ? Geoms
-Dropped: ? Behavior: None
-Strategy: These guys really
-don't do anything, they are just
-there to be
-  an obstacle in your way and ca
-  of them all bunched together. 
-  bunches of them here and there
-  get rid of them every now and 
-  and become to overwhelming.
+Look: Kind of like frog eggs all
+bunched together Color: Beige
+Base Points: ? Geoms Dropped: ?
+Behavior: None Strategy: These
+guys really don't do anything,
+they are just there to be
+  an obstacle in your way and
+  can be a pain when there are a
+  lot of them all bunched
+  together. Certain levels will
+  just have bunches of them here
+  and there and you'll want to
+  make sure you get rid of them
+  every now and then so that
+  they don't reproduce and
+  become to overwhelming.
 
-  These often appear on levels t
-  are an easy target for the Mut
-  Mutateds from.
+  These often appear on levels
+  that have Mutators because
+  they are an easy target for
+  the Mutators to latch on and
+  create Mutateds from.
 
 ~~~~ Dart ~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
-EDAR] Look: Like a paper
-airplane Color: Red Base Points:
-? Geoms Dropped: ? Behavior:
-Slightly hard to describe, but
-they kind of zig-zag around.
-Strategy: These guys are really
-easy to run into because of
-their pattern.
-  Where most enemies you can jus
-  the ones around you won't hit 
-  front of you, with the pattern
-  the ones around you to hit you
-  off for a second and defeat th
+Look: Like a paper airplane
+Color: Red Base Points: ? Geoms
+Dropped: ? Behavior: Slightly
+hard to describe, but they kind
+of zig-zag around. Strategy:
+These guys are really easy to
+run into because of their
+pattern.
+  Where most enemies you can
+  just plow straight through
+  knowing that the ones around
+  you won't hit you and you'll
+  kill the ones in front of you,
+  with the pattern of these guys
+  it's real easy for the ones
+  around you to hit you so
+  personally I prefer to just
+  back off for a second and
+  defeat these guys before
+  moving in.
 
 ~~~~ Neutron ~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
-ENEU] Look: A Circle with 3
-smaller attached circles Color:
-Blue Base Points: ? Geoms
-Dropped: ? Behavior: Fast and
-head straight for you, but kind
-of surround you at the
-  same time. Slow when turning a
+Look: A Circle with 3 smaller
+attached circles Color: Blue
+Base Points: ? Geoms Dropped: ?
+Behavior: Fast and head straight
+for you, but kind of surround
+you at the
+  same time. Slow when turning
+  around.
 Strategy: These guys are almost
 like bigger protons, except they
 appear at
-  any time like other normal ene
-  flying backwards a bit because
-  ship slighlty. Flying backward
-  front of you so you can take t
+  any time like other normal
+  enemies. I like to defeat them
+  while flying backwards a bit
+  because of how they try to
+  surround your ship slighlty.
+  Flying backwards causing them
+  to land right in front of you
+  so you can take them out with
+  easy.
 
   Similar to Repulsors, circling
-  to turn around can be extremel
+  around these to cause them to
+  have to turn around can be
+  extremely effective.
 
 ~~~~ NUFO ~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
-ENUF] Look: Smaller eyes Color:
-Orange Base Points: 500 Geoms
-Dropped: 0 Behavior: These guys
-will be floating around various
-levels in huge packs.
-  They can't hurt you, but are w
-  They do try to avoid your shot
-  but since they don't move very
+Look: Smaller eyes Color: Orange
+Base Points: 500 Geoms Dropped:
+0 Behavior: These guys will be
+floating around various levels
+in huge packs.
+  They can't hurt you, but are
+  worth decent points if you
+  kill them. They do try to
+  avoid your shots though when
+  you shoot at them, but since
+  they don't move very quickly
+  is pretty easy to get 'em.
 Strategy: Just fly into a pack
 of them without shooting then
 fire a handful
   of shots in various directions
-  them when you see them because
-  them. They are worth grabbing 
-  easy points.
+  to take some out. Don't focus
+  on them when you see them
+  because they won't hurt you if
+  you fly over them. They are
+  worth grabbing though when you
+  have the chance for easy
+  points.
 
 ~~~~ Wormhole ~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
-EWOR] Look: Blue hole that has
-that effect like when you shoot
+Look: Blue hole that has that
+effect like when you shoot
 Gravity Wells. Color: Blue Base
 Points: 0 Geoms Dropped: 0
 Behavior: Just sit there and
@@ -1168,94 +1361,154 @@ ues them to transport from one
 to the other.
 
 ~~~~ Meteor ~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
-EMET] Look: Squares/Diamonds
-depending on falling angle
-Color: Red Base Points: ? Geoms
-Dropped: ? Behavior: Some levels
-literally have Meteor showers in
-which tons of meteors
-  fall across the screen in diff
-  and you will have to destroy t
-  the whole screen, or a decent 
+Look: Squares/Diamonds depending
+on falling angle Color: Red Base
+Points: ? Geoms Dropped: ?
+Behavior: Some levels literally
+have Meteor showers in which
+tons of meteors
+  fall across the screen in
+  different directions. These
+  will hurt you and you will
+  have to destroy them to
+  survive. They normally grid
+  the whole screen, or a decent
+  chunk of the screen when they
   "shower".
 Strategy: Just aim in the
 opposite direction they are
 falling and shoot. You
   will destroy the ones that are
-  If there are a lot of enemies 
-  try to be shooting in the oppo
-  matter which way you are flyin
+  a direct threat to you by
+  doing this. If there are a lot
+  of enemies around while
+  meteors are falling just try
+  to be shooting in the opposite
+  direction of the meteors no
+  matter which way you are
+  flying to keep them from
+  hitting you.
 
 ~~~~ Mine Layer ~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
-EMIN] Look: A Jaggedy type
-circle Color: Blue, mines are
-little green circles Base
-Points: n/a Geoms Dropped: n/a
-Behavior: These guys fly around
-laying mines on the ground and
-then setting
-  them off. To be honest, I've n
-  don't even know if they can ha
-  but you can definitely run int
+Look: A Jaggedy type circle
+Color: Blue, mines are little
+green circles Base Points: n/a
+Geoms Dropped: n/a Behavior:
+These guys fly around laying
+mines on the ground and then
+setting
+  them off. To be honest, I've
+  never been hit by one of the
+  mines and don't even know if
+  they can harm you or if they
+  harm the enemies, but you can
+  definitely run into them and
+  will be killed if you do.
 Strategy: You can't kill these
 guys, but the mines do indeed
 have a purpose.
   If you kill enemies by setting
-  each enemy they kill, but the 
-  you some huge points if you ki
-  each when you have a 150x mult
-  this info!
+  them off you get double points
+  for each enemy they kill, but
+  the same number of Geoms. This
+  can net you some huge points
+  if you kill NUFO's with them
+  (about 150,000 each when you
+  have a 150x multiplier!) <-
+  Thanks to Kevin for this info!
 
-  Following strategy sent in cou
-  Basically, any level with a Mi
-  because this "enemies" actuall
-  The only way that it can harm 
-  really shouldn't do because it
-  DS version with the toned down
-  totally harmless, you can sit 
-  and it won't harm you at all, 
-  are over top of one when it go
+  Following strategy sent in
+  courtesy of Phizzo89:
+  Basically, any level with a
+  Mine Layer is a guaranteed
+  Gold Medal because this
+  "enemies" actually helps you
+  mroe than it hurts you. The
+  only way that it can harm you
+  is if you run into it, which
+  you really shouldn't do
+  because it's super obvious
+  where it is (in the DS version
+  with the toned down graphics
+  at least). The mines are
+  totally harmless, you can sit
+  right over them when they
+  explode and it won't harm you
+  at all, but it will destroy
+  enemies if they are over top
+  of one when it goes off.
 
-  A mine layer will lay about 6-
-  keep moving around, but won't 
-  the ones that are already out 
-  fly over it (completely over i
-  1.5 seconds later that mine wi
+  A mine layer will lay about
+  6-8 mines and then after that
+  it will keep moving around,
+  but won't lay any more mines
+  until you blow up the ones
+  that are already out there. To
+  trigger a mine you simply fly
+  over it (completely over it,
+  not just skim the edge) and
+  about
+  1.5 seconds later that mine
+    will blow up creating a
+    chain reaction
 to any other mines within range.
 
   So, where this really comes in
-  and your getting rocked just f
-  take care of this guys really 
-  set off one of these mines in 
-  packed and your bound to not o
-  millions of points from it.
+  handy is when your screen is
+  packed and your getting rocked
+  just fly over a mine and set
+  it off to take care of this
+  guys really easy and get some
+  major points. So, set off one
+  of these mines in a row of
+  them when the screen is jam
+  packed and your bound to not
+  only clear it but get
+  literally millions of points
+  from it.
 
-  Another good use of them is no
-  stand type of thing. If your a
-  around try to set them off to 
+  Another good use of them is
+  not only for points, but as a
+  last stand type of thing. If
+  your about to die and there
+  are mines around try to set
+  them off to give you a
+  fighting chance.
 
-  The rate that Mines are laid i
-  to be any way to speed it up. 
-  let it lay it's mines and leav
-  use them or have no other choi
+  The rate that Mines are laid
+  is rather slow and there
+  doesn't seem to be any way to
+  speed it up. So, it's
+  recommended that you simply
+  let it lay it's mines and
+  leave them alone until you are
+  ready to use them or have no
+  other choice, but to set them
+  off.
 
-  That's all there is to it! Dri
-  chain reaction of all that are
-  clearing and insane point grab
+  That's all there is to it!
+  Drive directly over one to set
+  off a chain reaction of all
+  that are near and do some
+  major screen clearing and
+  insane point grabbing.
 
 ~~~~ Flipper ~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[#N
-EFLI] Look: Square Color: Blue
-Base Points: n/a Geoms Dropped:
-n/a Behavior: These are
-basically moving boundries in
-the middle of the playing
+Look: Square Color: Blue Base
+Points: n/a Geoms Dropped: n/a
+Behavior: These are basically
+moving boundries in the middle
+of the playing
   field. You'll know them by the
-  they will flip and move their 
-  you won't die by running into 
-  walls. But they do block your 
+  fact that at periodic
+  intervals they will flip and
+  move their position. They
+  can't hurt you and you won't
+  die by running into them, as I
+  said, they are just like
+  walls. But they do block your
+  shots and you do need to work
+  around
     them to defeat enemies.
 Strategy: As I said, you can't
 kill them, so there's really no
@@ -1263,11 +1516,13 @@ strategy here.
 
  o------------------------------
  |/                             
- |                        Galaxi
+ | Galaxies and Planets |
  0______________________________
  \                              
  o------------------------------
-*in the following synopis the wo
+*in the following synopis the
+ word planet and level are
+ interchangeable,
 sorry in advance for the
 inconsitancy of use*
 
@@ -1325,56 +1580,69 @@ referring to
 : note : I was going to list the
 enemy types that you will find
 in each
-  level, however, most levels se
-  more and more points, so some 
-  others would be incomplete if 
-  I decided to leave that out.
+  level, however, most levels
+  seem to change enemy types as
+  you get more and more points,
+  so some of these lists would
+  be huge and others would be
+  incomplete if I wasn't scoring
+  enough points. So, I decided
+  to leave that out.
 : note : On some of the funny
 shaped levels I'll try and Ascii
 draw the
   layouts, but some are to funny
+  looking and the others are to
 basic, so no drawings for those.
     _______
 ___/ Alpha \____________________
 Cost: 0
 Planets: 3
     1. Trainer Eis
-  o-| I-n-f-o |-o
-  Cost: 0
-  Bronze: 600,000
-  Silver: 2,500,000
-  Gold: 6,000,000
-  Layout: Very small rectangle, 
-  Recommended Drone: Any
-  Starting Lives: 3
+  o-| I-n-f-o |-o Cost: 0
+  Bronze: 600,000 Silver:
+  2,500,000 Gold: 6,000,000
+  Layout: Very small rectangle,
+  no obstacles. Recommended
+  Drone: Any Starting Lives: 3
   Initial Bombs: 3
 
   o-| S-t-r-a-t-e-g-y |-o
-  Essentially this is meant to b
-  you're new to the series this 
-  and try and get used to the co
-  constantly from the corners of
+  Essentially this is meant to
+  be a training level for the
+  game. If you're new to the
+  series this is a good place to
+  play a few times and try and
+  get used to the controls.
+  Enemies come pretty constantly
+  from the corners of the stage
+  and not much more happens.
 
-  This is also a pretty good sta
-  it's easy difficulty.
+  This is also a pretty good
+  stage for leveling up Drones
+  due to it's easy difficulty.
 
     2. Trainer Duo
-  o-| I-n-f-o |-o
-  Cost: 0
-  Bronze: 400,000
-  Silver: 1,750,000
-  Gold: 6,000,000
+  o-| I-n-f-o |-o Cost: 0
+  Bronze: 400,000 Silver:
+  1,750,000 Gold: 6,000,000
   Layout: Larger square grid, no
-  Recommended Drone: Any
-  Starting Lives: 3
-  Initial Bombs: 3
+  obstacles. Recommended Drone:
+  Any Starting Lives: 3 Initial
+  Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  Yet another training level. Sl
-  not to far in. You'll be faced
-  a million points in. Just keep
-  play the game here, it's a goo
-  handle lots of enemies at the 
+  o-| S-t-r-a-t-e-g-y |-o Yet
+  another training level. Slow
+  to start, but kicks it in to
+  gear not to far in. You'll be
+  faced with a ton of enemies
+  before your a million points
+  in. Just keep practicing and
+  learning how to play the game
+  here, it's a good stage for
+  learning how to move and
+  handle lots of enemies at the
+  same time.
 
     3. Claeis
   o-| I-n-f-o |-o
@@ -1387,10 +1655,13 @@ Planets: 3
   Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This planet is the last of the
-  like the last one tilted 45 de
-  takes even longer to up it's d
+  o-| S-t-r-a-t-e-g-y |-o This
+  planet is the last of the
+  training planets and is
+  literally like the last one
+  tilted 45 degrees on it's side
+  except this one takes even
+  longer to up it's difficulty.
    ______
 __/ Beta \______________________
 Cost: 10,000
@@ -1412,103 +1683,170 @@ Planets: 4
   Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This level will be your first 
-  overwhelming at first. At the 
-  have 1 or 2 asteroids on scree
-  for there to be quite a few mo
-  Wanderers spawning regularly. 
-  short you'll want to work up a
-  left and right as much as poss
+  o-| S-t-r-a-t-e-g-y |-o This
+  level will be your first
+  encounter with Asteroids and
+  can be overwhelming at first.
+  At the beginning of the level
+  you'll only have 1 or 2
+  asteroids on screen at a time,
+  but it doesn't take long for
+  there to be quite a few more
+  surrounding you along with
+  Wanderers spawning regularly.
+  Due to the level layout being
+  very short you'll want to work
+  up and down as little as
+  possible and left and right as
+  much as possible.
 
-  Since on the left and right th
-  asteroids wedged into, your be
-  directions so that they explod
-  enemies are all bunched up wit
-  very quick and easily.
+  Since on the left and right
+  there are flat areas you can
+  get the asteroids wedged into,
+  your best bet is to shoot them
+  into those directions so that
+  they explode while they are in
+  there and all the enemies are
+  all bunched up with nowhere to
+  go for you to destroy very
+  quick and easily.
 
-  Keep in mind as well that you 
-  be afraid to use them in a sit
-  out as well for the Spinner As
-  there will be a lot of Tiny Sp
-  get the main Spinners defeated
-  destroy those Asteroids you ca
+  Keep in mind as well that you
+  do have bombs on this stage
+  and don't be afraid to use
+  them in a situation where you
+  get cornered. Watch out as
+  well for the Spinner Asteroids
+  when they come out because
+  there will be a lot of Tiny
+  Spinners for you to deal with
+  when you get the main Spinners
+  defeated and if you are
+  cornered when you destroy
+  those Asteroids you can easily
+  cost yourself a life.
 
     2. Claduo
-  o-| I-n-f-o |-o
-  Cost: 860
-  Bronze: 2,000,000
-  Silver: 5,000,000
-  Gold: 11,000,000
-  Layout: Large Square, no obsta
-  Recommended Drone: Turret, Att
-  Starting Lives: 3
-  Initial Bombs: 3
+  o-| I-n-f-o |-o Cost: 860
+  Bronze: 2,000,000 Silver:
+  5,000,000 Gold: 11,000,000
+  Layout: Large Square, no
+  obstacles. Recommended Drone:
+  Turret, Attack or Defend.
+  Starting Lives: 3 Initial
+  Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  I recommend the 3 drones above
-  defeat enemies and this level 
-  are so many enemies here is be
-  this planet. Mainly Grunt and 
-  are 3 or 4 of them on screen a
-  in a sea of 100+ Wanderers. Gr
-  can actually be a lot of fun t
-  numbers it's nice to have a dr
-  watch your back and fend off t
+  o-| S-t-r-a-t-e-g-y |-o I
+  recommend the 3 drones above
+  because they all help you
+  attack and defeat enemies and
+  this level has a lot of
+  enemies. The reason there are
+  so many enemies here is
+  because a lot of Generators
+  spawn on this planet. Mainly
+  Grunt and Wanderer Generators,
+  but when there are 3 or 4 of
+  them on screen at a time you
+  can easily find yourself in a
+  sea of 100+ Wanderers. Granted
+  these aren't to hard to kill
+  and can actually be a lot of
+  fun to battle against such
+  ridiculous numbers it's nice
+  to have a drone out there
+  who's helping you out to watch
+  your back and fend off these
+  guys with you.
 
-  There's really not to much str
-  just that there are a ton of e
+  There's really not to much
+  strategy though because the
+  challenge is just that there
+  are a ton of enemies. I
+  personally like to kind of
   stay close to an edge (but not
-  spawned on top of you) and sho
-  to clear out lots of enemies w
+  on the edge so you don't get
+  enemies spawned on top of you)
+  and shoot towards the middle.
+  This allows me to clear out
+  lots of enemies while being
+  out of harms way a bit. But
   then when a lot of enemies get
-  through them all shooting to a
-  until I have a comfortable spo
+  close to me I just fly
+  straight through them all
+  shooting to another side and
+  go back and forth until I have
+  a comfortable spot to sit
+  again. Trust in your guns on
   this one.
 
-  Also keep an eye out for Gravi
-  screen that you can't see beca
-  it, it doesn't take much time 
-  of the number of enemies spawn
+  Also keep an eye out for
+  Gravity Wells appearing in the
+  parts of the screen that you
+  can't see because if you set
+  one off and don't know it, it
+  doesn't take much time for it
+  to fill up and explode because
+  of the number of enemies
+  spawning on this planet.
 
     3. Sureis
-  o-| I-n-f-o |-o
-  Cost: 875
-  Bronze: 400,000
-  Silver: 1,850,000
-  Gold: 5,000,000
+  o-| I-n-f-o |-o Cost: 875
+  Bronze: 400,000 Silver:
+  1,850,000 Gold: 5,000,000
   Layout: Large Octagon
-  Recommended Drone: Defend or T
-  Starting Lives: 1
+  Recommended Drone: Defend or
+  Turret Starting Lives: 1
   Initial Bombs: 0
 
-  o-| S-t-r-a-t-e-g-y |-o
-  Once again because there are n
-  of open space I'm recommending
-  fend off enemies. Since you on
-  the list and I highly recommen
-  and can get that one you don't
+  o-| S-t-r-a-t-e-g-y |-o Once
+  again because there are no
+  boundries and this planet has
+  a lot of open space I'm
+  recommending you use a drone
+  that can help you fend off
+  enemies. Since you only have 1
+  life I dropped Attack off the
+  list and I highly recommend
+  Defend because it shoots
+  behind you and can get that
+  one you don't see.
 
-  This level starts off with a b
-  Grunts right from the beginnin
-  there is a decent amount of ro
-  careful with only 1 life and n
-  circular in shape it's really 
-  alternating shots between stra
+  This level starts off with a
+  bang though, a lot of
+  Wanderers and Grunts right
+  from the beginning. Like I
+  said, it's an open area so
+  there is a decent amount of
+  room to move, but you have to
+  be extra careful with only 1
+  life and no bombs. Since the
+  level is basically circular in
+  shape it's really easy to just
+  fly around in circles
+  alternating shots between
+  straight ahead of you and
+  behind you.
 
-  Flying in circles will cause e
-  just kinda linger chase you so
-  of your ship you can shoot at 
-  serious points. Defend helps o
-  shooting behind you so you onl
+  Flying in circles will cause
+  enemies to cluster up behind
+  you and just kinda linger
+  chase you so then when you get
+  an opening in front of your
+  ship you can shoot at the mass
+  behind you and collect some
+  serious points. Defend helps
+  out a lot here to because it's
+  always shooting behind you so
+  you only have to half worry
+  about that mass.
 
     4. Bateis
-  o-| I-n-f-o |-o
-  Cost: 1,775
-  Bronze: 3,500,000
-  Silver: 7,000,000
-  Gold: 14,000,000
-  Layout: Rectangle with zig-zag
+  o-| I-n-f-o |-o Cost: 1,775
+  Bronze: 3,500,000 Silver:
+  7,000,000 Gold: 14,000,000
+  Layout: Rectangle with zig-
+  zagged edges
      ______________________
      \                    /
      /                    \
@@ -1517,162 +1855,255 @@ Planets: 4
      \                    /
      /                    \
      \/\/\/\/\/\/\/\/\/\/\/
-  Recommended Drone: Turret or A
-  Starting Lives: 3
+  Recommended Drone: Turret or
+  Attack Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This level is what I call wave
-  kind of randomly spawning all 
-  set up in waves. A line of ene
-  then another, etc. Throughout 
-  here and there, but for the mo
+  o-| S-t-r-a-t-e-g-y |-o This
+  level is what I call wave
+  based. Most other levels have
+  enemies kind of randomly
+  spawning all over the place,
+  but this one is really set up
+  in waves. A line of enemies
+  all across the top will head
+  down, then another, etc.
+  Throughout this time there
+  will be random spawns here and
+  there, but for the most part
+  it'll be waves coming down
   from the top.
 
-  This leaves the obvious strate
-  I like to do is kinda linger i
-  from left to right while shoot
-  waves appear. This makes it pr
-  when they come out. You have t
-  spawning enemies though becaus
-  for them to kill you if you ar
+  This leaves the obvious
+  strategy of hanging out by the
+  bottom. What I like to do is
+  kinda linger in the middle of
+  the screen and move from left
+  to right while shooting at the
+  top of the screen while waves
+  appear. This makes it pretty
+  easy to take out the waves
+  right when they come out. You
+  have to keep your eye out for
+  those randomly spawning
+  enemies though because when
+  they get beneath you it's easy
+  for them to kill you if you
+  aren't careful.
 
-  Not to long in you'll also fin
-  bottom. When this happens you'
-  priority so do you don't get c
+  Not to long in you'll also
+  find that Generators start
+  appearing at the bottom. When
+  this happens you're probably
+  going to want to make them
+  priority so do you don't get
+  cornered.
 
-  The many creveces in this scre
-  but bad for getting yourself t
-  decides it's going to spawn th
-  you don't put yourself in one.
-  level so watch out for them an
-  playing this one for a short t
+  The many creveces in this
+  screen can be good for
+  trapping enemies in, but bad
+  for getting yourself trapped
+  in. Especially if something
+  decides it's going to spawn
+  there while you're in there so
+  be careful you don't put
+  yourself in one. There are a
+  lot of Dart enemies in this
+  level so watch out for them
+  and their funky pattern as
+  well. After playing this one
+  for a short time though you'll
+  get in a quick habit
  of how to take care of things.
    _______
 __/ Gamma \_____________________
 Cost: 30,000
 Planets: 5
     1. Flieis
-  o-| I-n-f-o |-o
-  Cost: 0
-  Bronze: 2,000,000
-  Silver: 5,500,000
-  Gold: 12,500,000
-  Layout: Small Octagon with sev
-  Recommended Drone: Sweep or Sn
-  Starting Lives: 3
-  Initial Bombs: 3
+  o-| I-n-f-o |-o Cost: 0
+  Bronze: 2,000,000 Silver:
+  5,500,000 Gold: 12,500,000
+  Layout: Small Octagon with
+  several flippers Recommended
+  Drone: Sweep or Snipe Starting
+  Lives: 3 Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This stage is really tiny and 
-  to defeat the enemies because 
-  enemies can move through them.
-  stage for how small it is and 
-  don't help any.
+  o-| S-t-r-a-t-e-g-y |-o This
+  stage is really tiny and the
+  flippers can make it a real
+  pain to defeat the enemies
+  because you can't shoot
+  through them, but the enemies
+  can move through them. There
+  are a lot of enemies in this
+  stage for how small it is and
+  the Generators adn Gravity
+  Well's don't help any.
 
-  I recommend the sweep drone a 
-  because all the flippers stop 
-  only going to help so much, bu
+  I recommend the sweep drone a
+  lot (especially at higher
+  levels) because all the
+  flippers stop bullets so any
+  attacking drone is only going
+  to help so much, but the sweep
+  drone will help fend off
   anything that gets to close to
-  constantly. I think that the s
-  which is why I recommend it, b
-  someone wanted to double check
+  you because it spins around
+  you constantly. I think that
+  the snipe can shoot through
+  the flippers, which is why I
+  recommend it, but I'm not
+  positive on this. If someone
+  wanted to double check that'd
+  be great.
 
   Being another circular level I
-  around this one like the other
-  flippers I do a lot more targe
-  The Generators are a for sure 
-  go straight for them and take 
-  things around.
+  like to kind of do the circle
+  thing around this one like the
+  other octagon level, but
+  because of the flippers I do a
+  lot more target focused moving
+  than just circling. The
+  Generators are a for sure
+  target everytime I see one, I
+  like to go straight for them
+  and take them out and then
+  focus on the other things
+  around.
 
     2. Vareis
-  o-| I-n-f-o |-o
-  Cost: 2,150
-  Bronze: 5,000,000
-  Silver: 9,000,000
-  Gold: 33,000,000
-  Layout: Open Square with angle
-  Recommended Drone: Defend, Tur
-  Starting Lives: 3
-  Initial Bombs: 3
+  o-| I-n-f-o |-o Cost: 2,150
+  Bronze: 5,000,000 Silver:
+  9,000,000 Gold: 33,000,000
+  Layout: Open Square with
+  angled corners Recommended
+  Drone: Defend, Turret or Sweep
+  Starting Lives: 3 Initial
+  Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This level is a huge cluster o
-  are tons of tons of enemies. T
-  drone that can help you attack
-  aren't any Generators to watch
+  o-| S-t-r-a-t-e-g-y |-o This
+  level is a huge cluster of
+  enemies. From the beginning
+  there are tons of tons of
+  enemies. This is why I
+  recommend having a drone that
+  can help you attack them or
+  defend yourself. There aren't
+  any Generators to watch out
+  for. But you'll get all kinds
   of other basic enemies.
 
-  The best strategy in my opinio
-  this one. It's held true for R
-  in this game, but it's really 
-  strategy. Just keep going in c
-  behind you shooting straight a
-  behind you when you get the ch
+  The best strategy in my
+  opinion is to go the circle
+  route around this one. It's
+  held true for Retro Evolved
+  along with other levels in
+  this game, but it's really a
+  pretty simple and effective
+  strategy. Just keep going in
+  circles letting enemies build
+  up behind you shooting
+  straight ahead and taking out
+  the cluster behind you when
+  you get the chance.
 
-  Keep your eyes out for the Sna
-  coming out not far in. Good ne
-  number of enemies in this leve
-  and extra bombs.
+  Keep your eyes out for the
+  Snakes and the Repulsor's that
+  start coming out not far in.
+  Good news is though because of
+  the large number of enemies in
+  this level it's easy to gain
+  extra lives and extra bombs.
 
     3. Mineis
-  o-| I-n-f-o |-o
-  Cost: 3,200
-  Bronze: 5,000,000
-  Silver: 15,000,000
-  Gold: 50,000,000
-  Layout: Large octagon with Min
-  Recommended Drone: Defend or S
-  Starting Lives: 3
-  Initial Bombs: 3
+  o-| I-n-f-o |-o Cost: 3,200
+  Bronze: 5,000,000 Silver:
+  15,000,000 Gold: 50,000,000
+  Layout: Large octagon with
+  Mine Layers Recommended Drone:
+  Defend or Sweep. Starting
+  Lives: 3 Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  Ahh, the mine layers. I don't 
-  just kind of fly around laying
-  them, they will cost you your 
-  mines really do any harm. You 
+  o-| S-t-r-a-t-e-g-y |-o Ahh,
+  the mine layers. I don't quite
+  understand these guys, but
+  they just kind of fly around
+  laying mines everywhere. If
+  you run into them, they will
+  cost you your life, however, I
+  don't know that the mines
+  really do any harm. You also
+  can't kill them. So, for these
   reasons, I consider them to be
-  for them.
+  an obstacle. So, keep your eye
+  out for them.
 
-  This level once again has a lo
-  more Geoms to gain bombs or li
-  gaining to many throughout pla
-  one. On a more positive note, 
-  quicker on this one that the 3
+  This level once again has a
+  lot of enemies, however,
+  requires a lot more Geoms to
+  gain bombs or lives so it's
+  likely that you won't be
+  gaining to many throughout
+  playing like you may have in
+  the last one. On a more
+  positive note, 50,000,000
+  points will come a lot quicker
+  on this one that the
+  33,000,000 on the last level.
 
-  There are a lot of Darts and G
-  basic enemies in this level so
-  your playing based on the type
-  The Defend will help a lot wit
-  also like sweep because bullet
-  sweep is also protecting close
-  strategy though. I recommend t
-  and keep the number of Darts a
-  as they are probably the most 
+  There are a lot of Darts and
+  Gravity Wells along with most
+  of the basic enemies in this
+  level so you need to kind of
+  curve the way your playing
+  based on the types of enemies
+  that are currently out. The
+  Defend will help a lot with
+  it's backwards shooting, but I
+  also like sweep because
+  bullets get stopped by the
+  mines and sweep is also
+  protecting close by. Not to
+  much of a technical strategy
+  though. I recommend the
+  circling technique as usual
+  and keep the number of Darts
+  and Gravity Wells on screen
+  down as they are probably the
+  most dangerous.
 
     4. Batduo
-  o-| I-n-f-o |-o
-  Cost: 9,300
-  Bronze: 2,500,000
-  Silver: 6,000,000
-  Gold: 16,500,000
+  o-| I-n-f-o |-o Cost: 9,300
+  Bronze: 2,500,000 Silver:
+  6,000,000 Gold: 16,500,000
   Layout: Jagged edged Octagon
-  Recommended Drone: Turret or S
-  Starting Lives: 3
+  Recommended Drone: Turret or
+  Sweep Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  Lots of Spinners in this level
+  o-| S-t-r-a-t-e-g-y |-o Lots
+  of Spinners in this level make
+  it very difficult to manevuer
   comfortably. Most of the enemy
-  or all sides of your ship at t
-  having to cut through enemies 
-  screen off. These Spinners can
-  to the Tiny Spinners that they
+  waves like to appear on either
+  2 or all sides of your ship at
+  the same time so you are
+  almost having to cut through
+  enemies to get to a save zone
+  and clear the screen off.
+  These Spinners can make this a
+  very uneasy task due to the
+  Tiny Spinners that they are
+  always spawning.
 
-  I'm not really sure what to re
-  just cut back and forth throug
-  yourself out of the creveces, 
-  the middle areas.
+  I'm not really sure what to
+  recommend because you really
+  have to just cut back and
+  forth through the enemies and
+  try and keep yourself out of
+  the creveces, but around the
+  edges to clear out the middle
+  areas.
 
     5. Orbeis
   o-| I-n-f-o |-o
@@ -1692,34 +2123,50 @@ __/ Delta \_____________________
 Cost: 50,000
 Planets: 6
     1. Clatris
-  o-| I-n-f-o |-o
-  Cost: 0
-  Bronze: 1,500,000
-  Silver: 3,500,000
-  Gold: 7,000,000
+  o-| I-n-f-o |-o Cost: 0
+  Bronze: 1,500,000 Silver:
+  3,500,000 Gold: 7,000,000
   Layout: Large Hexagon
-  Recommended Drone: Defend, Tur
-  Starting Lives: 3
-  Initial Bombs: 3
+  Recommended Drone: Defend,
+  Turret or Sweep Starting
+  Lives: 3 Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  Pretty standard level. The hex
-  the Octagon, you have no reaso
-  bottom corners so it's basical
+  o-| S-t-r-a-t-e-g-y |-o Pretty
+  standard level. The hexagon
+  shape isn't much different
+  than the Octagon, you have no
+  reason to stick yourself in
+  the top and bottom corners so
+  it's basicallly just a circle
+  while playing.
 
-  If you've been following this 
-  probably predict the strategy 
-  jumped into this level I'll st
+  If you've been following this
+  guide like a walkthrough you
+  can probably predict the
+  strategy I'm about to give, if
+  you just jumped into this
+  level I'll state it again for
+  good measure.
 
   Go in circles, let the enemies
-  out when you get the chance. D
-  it shoots behind you while you
-  to because it'll clear out a l
+  bunch up behind you and take
+  them out when you get the
+  chance. Defend is a great
+  Drone to use because it shoots
+  behind you while you fly
+  forward, but turret helps out
+  to because it'll clear out a
+  lot of dudes while you fly
+  around.
 
   There are a particularly large
-  keep your eyes out for them an
-  encounter Mutator's though the
-  really are.
+  amount of snakes in this level
+  so keep your eyes out for them
+  and shoot for the head. You'll
+  also encounter Mutator's
+  though they look more
+  threatening than they really
+  are.
 
     2. Masduo
   o-| I-n-f-o |-o
@@ -1735,33 +2182,59 @@ Planets: 6
    |                        /
    /                        |
    \________________________/
-  Recommended Drone: Attack or S
-  Starting Lives: 3
+  Recommended Drone: Attack or
+  Sweep Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This is another claustrophobic
-  Bronze medal is pretty slow an
-  Asteroid at a time; general ru
-  take 'em out quick. I recommen
-  always have double the fire po
-  recommend defend or turret bec
-  level like this is an asteroid
-  enemies at you while you are d
-  then you end up with enemies o
+  o-| S-t-r-a-t-e-g-y |-o This
+  is another claustrophobic
+  asteroid filled level. Up
+  until the Bronze medal is
+  pretty slow and you'll only
+  need to focus on one Asteroid
+  at a time; general rule
+  applies, keep 'em cornered and
+  take 'em out quick. I
+  recommend the attack drone
+  because then you always have
+  double the fire power on the
+  Asteroids. I don't recommend
+  defend or turret because the
+  last thing you want in a level
+  like this is an asteroid
+  behind you exploding and
+  sending enemies at you while
+  you are destroying one in
+  front of you and then you end
+  up with enemies on all sides
+  and no where to go.
 
-  After the bronze medal this le
-  though because generators star
-  Wells. The Generators like to 
-  of them at the same time so do
-  them as quick as possible beca
-  of enemies along with the incr
+  After the bronze medal this
+  level gets real frantic real
+  fast though because generators
+  start coming out along with
+  Gravity Wells. The Generators
+  like to spawn in large groups,
+  like 4 or 5 of them at the
+  same time so do all that is in
+  your power to destroy them as
+  quick as possible because they
+  can make impossible amounts of
+  enemies along with the
+  increasingly rapid spawning
+  asteroids.
 
   Keep the Asteroids cornered no
-  and don't let one side build u
-  because then you won't even be
-  side. Try to keep your destruc
-  should be able to rack up some
+  matter how many appear on
+  screen and don't let one side
+  build up while you take out
+  the other side because then
+  you won't even be able to work
+  through the other side. Try to
+  keep your destruction evenly
+  spaced out and you should be
+  able to rack up some major
+  points here.
 
     3. Zooeis
   o-| I-n-f-o |-o
@@ -1785,39 +2258,73 @@ Planets: 6
   Starting Lives: 3
   Initial Bombs: 0
 
-  o-| S-t-r-a-t-e-g-y |-o
-  Now, lets look at the layout o
-  first off, and all of those bl
-  your way. You can't pass throu
-  can the enemies. So you've got
+  o-| S-t-r-a-t-e-g-y |-o Now,
+  lets look at the layout of
+  this level for a second. It's
+  small first off, and all of
+  those blocks and diamonds are
+  obstacles in your way. You
+  can't pass through them, your
+  bullets can't and nor can the
+  enemies. So you've got a few
+  tight corridors to work with.
   Enemies like to spawn from all
-  generators like to appear some
+  four corners in large numbers
+  and generators like to appear
+  somewhere in the middle.
 
-  Because the enemies in this ga
-  you can use all of the boundri
-  enemies appear in the middle a
-  under one of the side blocks s
-  kind of struggle their way aro
-  hit right when they get around
-  mind.
+  Because the enemies in this
+  game don't exactly have
+  intelligence, you can use all
+  of the boundries to your
+  advantage. For example, if
+  enemies appear in the middle
+  and you are on the bottom and
+  sit right under one of the
+  side blocks shooting towards
+  the middle they'll kind of
+  struggle their way around the
+  block to get to you and get
+  hit right when they get
+  around. This is a good
+  strategy to keep in mind.
 
-  The problem is that large mass
-  specifically - more than one c
-  out for those guys while deali
-  it doesn't sound like it would
-  care of the corner spawning gu
-  corridor. It's such a tight sp
-  from the side as long as you k
+  The problem is that large
+  masses like to appear in the
+  corners, more specifically -
+  more than one corner at a
+  time. So you need to watch out
+  for those guys while dealing
+  with guys in the middle.
+  Although it doesn't sound like
+  it would work in this level, I
+  like to take care of the
+  corner spawning guys by doing
+  circles around the outside
+  corridor. It's such a tight
+  space that nothing can really
+  get you from the side as long
+  as you keep on moving.
 
-  When Generators appear in the 
-  do a quick run through there a
-  shoot back towards the middle 
-  probably get in a pretty decen
+  When Generators appear in the
+  middle (as they like to do) I
+  like to do a quick run through
+  there and then stop on the
+  other side and shoot back
+  towards the middle to take out
+  any followers. You'll probably
+  get in a pretty decent rythmn
+  after playing the level a bit.
 
-  I recommend the Sweep drone be
-  anythings tried to get you fro
-  good chance of taking it out. 
-  useless with all these obstacl
+  I recommend the Sweep drone
+  because it's always around you
+  and if anythings tried to get
+  you from the side when you're
+  rushing it has a good chance
+  of taking it out. Anything
+  that shoots is pretty much
+  useless with all these
+  obstacles to block shots.
 
     4. Fliduo
   o-| I-n-f-o |-o
@@ -1833,35 +2340,60 @@ Planets: 6
    |__   |__
     |     |
     |_____|
-  Recommended Drone: Defend or S
-  Starting Lives: 3
+  Recommended Drone: Defend or
+  Sweep Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This is officially a level tha
-  circles because the layout sim
-  basically play this level in q
-  own quadrent.
+  o-| S-t-r-a-t-e-g-y |-o This
+  is officially a level that you
+  cannot play by going around in
+  circles because the layout
+  simply will not allow it. So,
+  I like to basically play this
+  level in quadrants. I consider
+  each square it's own quadrent.
 
   The enemies in this level sort
-  enemies, or very few enemies f
-  (probably wanderer) spawns fro
-  some generators and random spa
+  of come in phases. There will
+  be no enemies, or very few
+  enemies for awhile, then
+  you'll get a bunch of
+  (probably wanderer) spawns
+  from a quadrent or two, then
+  probably some generators and
+  random spawns, then it
+  repeats.
 
-  During the down times I like t
-  quadrents killing off the NUFO
-  appear. Then when the mass wan
+  During the down times I like
+  to just travel up and down
+  through all quadrents killing
+  off the NUFO's around and any
+  random enemies that appear.
+  Then when the mass wanderer
+  spawns start to happen I hang
   out around there and take them
-  to the neighboring one to see 
-  there is something, I deal wit
+  out. When a quad is clear I
+  move on to the neighboring one
+  to see if anything is
+  happening there. If there is
+  something, I deal with it, if
+  not I move on to the next.
 
-  Whenever Generators appear I h
-  were mass wanderer spawn point
-  generate along with the Genera
+  Whenever Generators appear I
+  hang out by them for awhile as
+  if they were mass wanderer
+  spawn points and take care of
+  anything they generate along
+  with the Generator itself.
+  Rinse and repeat.
 
   It's a pretty slow paced level
-  it's shape the defense drone i
-  be shooting through all of the
+  and isn't to difficult.
+  Because of it's shape the
+  defense drone is pretty good
+  so you can basically be
+  shooting through all of the
+  quadrents at the same time.
 
     5. Battris
   o-| I-n-f-o |-o
@@ -1876,22 +2408,34 @@ Planets: 6
    \            |
    /            |
    \/\/\/\/\/\/\/
-  Recommended Drone: Defend or T
-  Starting Lives: 3
+  Recommended Drone: Defend or
+  Turret Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  Very similar to the last level
-  90 degrees. Enemies like to ap
-  head left. So, what works for 
-  me and hang out near the left 
-  bottom type movements. Keep a 
-  like to appear in line with th
+  o-| S-t-r-a-t-e-g-y |-o Very
+  similar to the last level that
+  looked like this only turned
+  90 degrees. Enemies like to
+  appear in waves on the right
+  side and head left. So, what
+  works for me is to have a
+  drone attacking with me and
+  hang out near the left side
+  attacking the right in top to
+  bottom type movements. Keep a
+  close eye out for Gravity
+  Wells that like to appear in
+  line with the enemy waves.
 
-  Keep an eye to your backside t
-  mischievious beings. If that d
-  Bateis in the Beta galaxy beca
-  Maybe that strategy will help 
+  Keep an eye to your backside
+  though for Gravity Wells and
+  other mischievious beings. If
+  that doesn't help you much
+  check out planet Bateis in the
+  Beta galaxy because it was
+  basically the same level.
+  Maybe that strategy will help
+  you out.
 
     6. Surpente
   o-| I-n-f-o |-o
@@ -1904,8 +2448,9 @@ Planets: 6
   Starting Lives: 1
   Initial Bombs: 0
 
-  o-| S-t-r-a-t-e-g-y |-o
-  ...i hate 1 life levels, strat
+  o-| S-t-r-a-t-e-g-y |-o ...i
+  hate 1 life levels, strategy
+  coming soon...
    _________
 __/ Epsilon \___________________
 Cost: 90,000
@@ -1937,22 +2482,34 @@ Planets: 7
   \        /
   |__  __|
    \/
-  Recommended Drone: Turret or D
-  Starting Lives: 3
+  Recommended Drone: Turret or
+  Defend Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This planet has a lot of empty
-  when the mass tons of enemies 
-  the standard enemies are here 
-  Weavers and Gravity Wells. Sta
+  o-| S-t-r-a-t-e-g-y |-o This
+  planet has a lot of empty
+  space, but you'll be grateful
+  for it when the mass tons of
+  enemies start coming at you.
+  Pretty much all the standard
+  enemies are here in fair
+  amounts: Spinners, Grunts,
+  Weavers and Gravity Wells.
+  Standard rules apply to,
+  circle theory.
 
-  Try to keep moving in circles 
-  you while taking out the ones 
-  when you have some breathing r
-  due to the sheer amount of roo
-  number of foes it can be hard 
-  lives and bombs.
+  Try to keep moving in circles
+  letting all the guys build up
+  behind you while taking out
+  the ones in front of you and
+  then the cluster when you have
+  some breathing room. Turret
+  and Defend will both help due
+  to the sheer amount of room in
+  this level. With the large
+  number of foes it can be hard
+  to stay alive, but easy to
+  collect lives and bombs.
 
     3. Minduo
   o-| I-n-f-o |-o
@@ -1972,26 +2529,51 @@ Planets: 7
   Initial Bombs: 3
 
   o-| S-t-r-a-t-e-g-y |-o
-  Alright, since I've had some v
-  Mine Layers I now understand w
-  There are a few Mine Layers yo
-  in to, but mainly your going t
-  some huge points. If you've re
-  enemies section you're good to
-  me give you a short run down h
+  Alright, since I've had some
+  very helpful info sent in to
+  me about Mine Layers I now
+  understand why this level is
+  set up how it is. There are a
+  few Mine Layers you'll need to
+  watch out for running in to,
+  but mainly your going to want
+  to use their mines to net you
+  some huge points. If you've
+  read the Mine Layer strategy
+  in the enemies section you're
+  good to go on this planet
+  already, but let me give you a
+  short run down here (head
+  there for more info).
 
   As I said there are a few Mine
-  your going to want to avoid fl
-  be very useful to you after a 
-  It takes a bit of time for the
-  level, but use the early ones 
+  Layers here laying mines for
+  you, your going to want to
+  avoid flying over the mines
+  because they will be very
+  useful to you after a handful
+  of them get laid out on
+  screen. It takes a bit of time
+  for the enemies to really
+  swarm up in this level, but
+  use the early ones to build up
+  your combo then when the
   NUFO's start pouring on screen
+  and the enemy spawns start
+  building
 up start setting off the mines.
 
-  To set off a mine just fly com
-  COMPLETELY) and this will star
-  and every enemy killed by a mi
-  good mine explosions and you'l
+  To set off a mine just fly
+  completely over it (not
+  partially, COMPLETELY) and
+  this will start a chain
+  reaction to all nearby mines
+  and every enemy killed by a
+  mine will give you DOUBLE
+  points! A few good mine
+  explosions and you'll have a
+  Gold Medal like it was
+  nothing.
 
     4. Loseis
   o-| I-n-f-o |-o
@@ -2007,34 +2589,59 @@ _________________   ____________
    |___    |___|          |_____
  |____________________________|
 
-  Recommended Drone: Sweep or De
-  Starting Lives: 3
+  Recommended Drone: Sweep or
+  Defend Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This is a fun chaotic level he
-  around and the enemies spawn q
-  planet spawns a lot of Grunts 
-  take care of, but be weary of 
+  o-| S-t-r-a-t-e-g-y |-o This
+  is a fun chaotic level here.
+  You don't haev much room to
+  move around and the enemies
+  spawn quick and all over the
+  place. This planet spawns a
+  lot of Grunts and Darts. The
+  Grunts are easy to take care
+  of, but be weary of the Darts
+  when rounding corners.
 
-  I like to treat this level lik
-  During the early parts you can
-  because it's not to hectic yet
-  probably want to get in the ha
+  I like to treat this level
+  like it's 2 halves, the right
+  and left. During the early
+  parts you can kind of wander
+  where you please because it's
+  not to hectic yet. Hoewver, as
+  it goes on you'll probably
+  want to get in the habit of
+  having a pattern for yourself.
 
   I go across the top from right
-  side then run across the botto
-  both sides are ever clear and 
-  then take the time to clear th
-  this pattern because the top a
-  you can't really get hit on an
-  up and you'll rack up all your
+  to left and clear out the far
+  left side then run across the
+  bottom and clear out the right
+  side. If both sides are ever
+  clear and stuff gets stuck in
+  the middle I then take the
+  time to clear that part. I
+  like to just keep repeating
+  this pattern because the top
+  and bottom parts are nice thin
+  paths you can't really get hit
+  on and the sides are where
+  enemies build up and you'll
+  rack up all your points and
+  Geoms.
 
-  As far as Drones go the Sweep 
-  it can sweep through the bound
-  boundry thing if you sit on th
-  to the left and there are enem
-  without you even having any ri
+  As far as Drones go the Sweep
+  is the ultimate for this level
+  because it can sweep through
+  the boundries. For example, on
+  the right boundry thing if you
+  sit on the bottom of the part
+  that sticks out to the left
+  and there are enemies on top
+  your sweep can kill them
+  without you even having any
+  risk! It's great!
 
     5. Surduo
   o-| I-n-f-o |-o
@@ -2050,98 +2657,155 @@ _________________   ____________
    /                \
   |                  |
    \_______/\_______/
-  Recommended Drone: Defend or T
-  Starting Lives: 1
+  Recommended Drone: Defend or
+  Turret Starting Lives: 1
   Initial Bombs: 0
 
   o-| S-t-r-a-t-e-g-y |-o
   Another 1 life level, this one
-  bad. The circle method implies
-  this point in the game just lo
-  previous planets and read up o
+  is pretty hectic, but it's not
+  that bad. The circle method
+  implies, if you don't know
+  what that is by this point in
+  the game just look back in
+  pretty much any of the
+  previous planets and read up
+  on it.
 
-  The little peaks that stick ou
-  circling around because you ne
-  from the edges at all times. B
-  feel for the area. Lot's of Gr
+  The little peaks that stick
+  out can be off-putting
+  sometimes when circling around
+  because you need to basically
+  stay that far away from the
+  edges at all times. But with a
+  few tries you'll get the feel
+  for the area. Lot's of Grunts
+  and Wanderers to fend off, so
   no real tricky enemies and the
-  immensely.
+  Defend and Turret Drones will
+  help immensely.
 
     6. Battetra
-  o-| I-n-f-o |-o
-  Cost: 18,200
-  Bronze: 2,500,000
-  Silver: 5,500,000
-  Gold: 20,000,000
-  Layout: Kinda along these line
+  o-| I-n-f-o |-o Cost: 18,200
+  Bronze: 2,500,000 Silver:
+  5,500,000 Gold: 20,000,000
+  Layout: Kinda along these
+  lines...
    /\/\/\/\
    /        \
    \        /
    /        \
    \/\/\/\/\/
-  Recommended Drone: Defend, Tur
-  Starting Lives: 3
-  Initial Bombs: 3
+  Recommended Drone: Defend,
+  Turret or Attack Starting
+  Lives: 3 Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This level can be very difficu
-  the annoying enemies. Lots of 
-  Neutrons. All together these c
-  don't have a ton of room and y
-  through packs of spinners whic
+  o-| S-t-r-a-t-e-g-y |-o This
+  level can be very difficult
+  because it has mass amounts of
+  all the annoying enemies. Lots
+  of Spinners, Weavers, Snakes
+  and Neutrons. All together
+  these can be a major headache
+  because you don't have a ton
+  of room and you'll have to do
+  a lot of cutting through packs
+  of spinners which is always a
+  dangerous stunt.
 
   However, it is do-able as long
-  drone that will be attacking w
-  a plus becasue you need all th
-  never want to find yourself su
-  boundries there's really nowhe
+  as you are careful and
+  vicious. Any drone that will
+  be attacking with you or
+  watching yoru backside is a
+  plus becasue you need all the
+  firepower you can get here.
+  You never want to find
+  yourself surround becasue with
+  the peaks in the boundries
+  there's really nowhere to hide
+  without trapping yourself.
 
   If you ever get surround don't
-  if you've got Snakes and Neutr
-  most dangerous to have togethe
-  to kill.
+  hesitate to use a bomb.
+  Especially if you've got
+  Snakes and Neutrons nearby,
+  those are probably the most
+  dangerous to have together
+  because they are both very
+  annoying to kill.
 
-  I don't actually do much circl
-  a lot more straight path cutti
-  to cut through the thin areas 
-  then turn around and kill as m
-  cutting again. If you want to 
-  the Attack or Turret drones ov
-  facing the enemies more than s
+  I don't actually do much
+  circling around in this level,
+  but I do a lot more straight
+  path cutting from one side to
+  the other. I like to cut
+  through the thin areas so they
+  all bunch up behind me, but
+  then turn around and kill as
+  many as I can right away
+  before cutting again. If you
+  want to use this method I
+  would recommend the Attack or
+  Turret drones over the Defense
+  one since you'll be facing the
+  enemies more than staying
+  ahead.
 
     7. Clahex
-  o-| I-n-f-o |-o
-  Cost: 38,500
-  Bronze: 1,000,000
-  Silver: 4,250,000
-  Gold: 11,500,000
+  o-| I-n-f-o |-o Cost: 38,500
+  Bronze: 1,000,000 Silver:
+  4,250,000 Gold: 11,500,000
   Layout: Upside down Triangle
-  Recommended Drone: Defend or T
-  Starting Lives: 3
+  Recommended Drone: Defend or
+  Turret Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This can be a tricky level to 
-  triangle. The Defense drone wi
-  following the edges of the pla
-  behind you and more than likel
-  by your Drones fire.
+  o-| S-t-r-a-t-e-g-y |-o This
+  can be a tricky level to
+  circle around due to it being
+  a triangle. The Defense drone
+  will help a ton because if
+  you're following the edges of
+  the planet there will always
+  be a pocket behind you and
+  more than likely enemies in
+  that pocket getting shot by
+  your Drones fire.
 
-  However, there are a ton of en
-  really enough alone to pass so
-  well. What I like to do is sti
-  clockwise fashion but try to a
-  left and right ones. I'm decen
-  break towards the bottom to cl
-  are to small to sit in and to 
-  like to take this level one pa
+  However, there are a ton of
+  enemies on this planet so
+  thats not really enough alone
+  to pass so you need to be
+  doing your part as well. What
+  I like to do is still go
+  around the level in a counter-
+  clockwise fashion but try to
+  avoid the deep pockets,
+  especially the left and right
+  ones. I'm decently comfortable
+  with taking a short break
+  towards the bottom to clear up
+  any followers, but the side
+  ones are to small to sit in
+  and to easy to get trapped in.
+  So, I literally like to take
+  this level one pass at a time.
 
-  For the most part you'll be se
-  pretty easy to take care of. B
-  spawn points when they decide 
-  get yourself killed. You'll wa
-  Gravity Well's that appear bec
-  isn't a ton of room to run and
+  For the most part you'll be
+  seeing Wanderer's in this
+  level which are pretty easy to
+  take care of. Be aware that
+  you are not next to their
+  spawn points when they decide
+  to spawn because thats a sure
+  way to get yourself killed.
+  You'll want to be most aware
+  though of the Gravity Well's
+  that appear because they will
+  fill up quick and there isn't
+  a ton of room to run and hide
+  when they explode.
    ______
 __/ Zeta \______________________
 Cost: 145,000
@@ -2153,36 +2817,63 @@ Planets: 7
   Silver: 6,000,000
   Gold: 18,750,000
    Layout: A giant plus sign
-  Recommended Drone: Sweep or De
-  Starting Lives: 3
+  Recommended Drone: Sweep or
+  Defend Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  Being a plus sign there is no 
-  it became more of a push throu
-  your life. Which suprisingly w
-  you'll receive the silver meda
-  Weavers and Darts to adding Re
-  of throws everything off. Not 
+  o-| S-t-r-a-t-e-g-y |-o Being
+  a plus sign there is no circle
+  strategy in this level. For me
+  it became more of a push
+  through then turn around and
+  fight for your life. Which
+  suprisingly worked...for
+  awhile. Around the time you'll
+  receive the silver medal
+  though it changes up a bit
+  from Weavers and Darts to
+  adding Repulsors and Metero
+  Showers which kind of throws
+  everything off. Not to mention
+  the tons of Spinners you'll
 need to fend off at this point.
 
   At this time is when you'll be
-  you out because when the Meteo
-  going to want to either try to
+  really thankful for that Drone
+  helping you out because when
+  the Meteor showers start
+  raining down you are going to
+  want to either try to against
+  or with them. In some of the
   other Meteor Shower levels you
-  them the whole time, but this 
-  enough space to do that so you
+  can survive easy by flying
+  against them the whole time,
+  but this level has to many
+  enemies and not enough space
+  to do that so you'll need to
+  go with and against it.
 
-  Trying to perpindicular with i
-  way of defending yourself agai
-  fending off the enemies in you
-  a ton when flying with it beca
-  behind you, however Sweep is a
+  Trying to perpindicular with
+  it is a bad idea because you
+  have no way of defending
+  yourself against it while
+  flying this way and fending
+  off the enemies in your path.
+  The Defense Drone will help a
+  ton when flying with it
+  because it will destroy the
+  Shower rocks behind you,
+  however Sweep is a great
+  choice to because when you get
  swarmed it can be a huge help.
 
-  Not really a whole lot I can h
-  pretty tough for me to. It's a
-  amount of tough enemies. Hopef
+  Not really a whole lot I can
+  help you with here as this
+  stage is pretty tough for me
+  to. It's a very constrained
+  area with a mass amount of
+  tough enemies. Hopefully my
+  little bit of advice helps
   out.
 
     2. Mastris
@@ -2201,29 +2892,46 @@ need to fend off at this point.
     \___________/
 
 
-  Recommended Drone: Attack or S
-  Starting Lives: 3
+  Recommended Drone: Attack or
+  Sweep Starting Lives: 3
   Initial Bombs: 3
 
   o-| S-t-r-a-t-e-g-y |-o
-  Another claustrophobic Asteroi
-  Let's cover the basics first. 
-  where we aren't shooting so we
-  killed behind us. We want a dr
-  on what we are focusing on or 
-  Sweep drone.
+  Another claustrophobic
+  Asteroid stage so standard
+  rules apply. Let's cover the
+  basics first. We want a drone
+  that doesn't shoot where we
+  aren't shooting so we don't
+  get suprised by Asteroid's
+  killed behind us. We want a
+  drone that can help us up our
+  attack on what we are focusing
+  on or that sweet close
+  protection of the Sweep drone.
 
-  We want to corner the Asteroid
-  enemies are concentrated when 
-  them fast. Don't let one side 
+  We want to corner the
+  Asteroids when we attack them
+  so that the enemies are
+  concentrated when they explode
+  and we can eliminate them
+  fast. Don't let one side fill
+  up with Asteroids, try to
 evenly disperse your attacking.
 
-  Now, this area in perticular i
-  literally nowhere to run. On t
-  enemies (Grunts a lot of the t
-  no matter if there are Asteroi
-  to make sure you are ready to 
-  on the Asteroids because this 
+  Now, this area in perticular
+  is the smallest one yet. There
+  is literally nowhere to run.
+  On top of that it likes to
+  spawn enemies (Grunts a lot of
+  the time) all the way around
+  the border no matter if there
+  are Asteroids on screen or
+  not. So you need to make sure
+  you are ready to fend off
+  these guys while taking on the
+  Asteroids because this is
+  going to be a very hectic
   battle (but a fun one!)
 
     3. Zooduo
@@ -2244,46 +2952,81 @@ evenly disperse your attacking.
    |  \_\ \/  /_/ |
    /  ____________  \
    \/              \/
-  Recommended Drone: Sweep or De
-  Starting Lives: 3
+  Recommended Drone: Sweep or
+  Defend Starting Lives: 3
   Initial Bombs: 0
 
-  o-| S-t-r-a-t-e-g-y |-o
-  First off, I apologize for the
-  looks pretty bad, but point is
-  of objects in our way so we wa
-  through them and give us a bit
-  attacking drone will be stoppe
-  to no good.
+  o-| S-t-r-a-t-e-g-y |-o First
+  off, I apologize for the
+  really pitiful Ascii Layout
+  here, it looks pretty bad, but
+  point is we have another small
+  field with lots of objects in
+  our way so we wanna go with
+  the Sweep to attack through
+  them and give us a bit of a
+  shield since bullets from any
+  attacking drone will be
+  stopped by the boundry walls
+  doins us next to no good.
 
-  If you've already played some 
-  this one you should have a goo
-  haven't, I'll give you the low
+  If you've already played some
+  of the stages of the same
+  essence as this one you should
+  have a good idea of how to
+  treat it. If you haven't, I'll
+  give you the low down.
 
-  Stick to the outside edges as 
-  there are a lot of enemies com
-  The areas are so thin that it'
-  you from the sides, or even fo
-  need an escape route jet throu
-  sides and then start looping a
+  Stick to the outside edges as
+  much as possible and keep
+  moving when there are a lot of
+  enemies coming at you from
+  either side, or both. The
+  areas are so thin that it's
+  very difficult for enemies to
+  hit you from the sides, or
+  even for Tiny Spinners to get
+  you. If you need an escape
+  route jet through the middle
+  to one of the other sides and
+  then start looping around
+  again.
 
-  Since the A.I. isn't super int
-  advantage by hanging out under
-  the enemies are coming from th
-  slowly inch around it and you 
+  Since the A.I. isn't super
+  intelligent you can use this
+  to your advantage by hanging
+  out underneath one of the
+  blocades and if the enemies
+  are coming from the other side
+  of it they will kind of slowly
+  inch around it and you can
+  pound shots into the opening
   where they will appear killing
+  them the second they round the
   corner.
 
-  Most spawns come from the 4 co
-  at times, this includes some G
-  likes to release a lot of Spin
-  Spinners, but like I said, the
-  getting you here in these cons
-  where there movement pattern c
+  Most spawns come from the 4
+  corners, but others appear in
+  the middle at times, this
+  includes some Generators. This
+  level in particular likes to
+  release a lot of Spinners so
+  be careful of the Tiny
+  Spinners, but like I said,
+  they have a much more
+  difficult time getting you
+  here in these constrained
+  areas than in big open areas
+  where there movement pattern
+  can be hard to keep track of.
 
-  Just keep moving at a steady p
-  If Sweep doesn't work out for 
-  cover your backside well when 
+  Just keep moving at a steady
+  pace and keep shooting
+  straight ahead. If Sweep
+  doesn't work out for you try
+  using Defend because it will
+  cover your backside well when
+  traveling around the border.
 
     4. Flitris
   o-| I-n-f-o |-o
@@ -2299,35 +3042,61 @@ evenly disperse your attacking.
    /                \
   |                  |
    \_______/\_______/
-  Recommended Drone: Sweep or De
-  Starting Lives: 3
+  Recommended Drone: Sweep or
+  Defend Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  I'm a little weary to put Defe
-  of all the Flippers it's shots
-  to far into this planet Meteor
-  you start getting Meteor Showe
-  this is when Defend will reall
-  is an excellent choice as well
-  out and see which method works
+  o-| S-t-r-a-t-e-g-y |-o I'm a
+  little weary to put Defend as
+  a recommended drone here
+  because of all the Flippers
+  it's shots will get blocked a
+  lot. However, not to far into
+  this planet Meteor Showers
+  begin and not to long after
+  you start getting Meteor
+  Showers from 2 sides at the
+  same time and this is when
+  Defend will really help you
+  out. Although I think Sweep is
+  an excellent choice as well,
+  you'll probably have to try
+  both out and see which method
+  works best for you.
 
-  This planet has a lot of Wande
-  around, not to forget the Mete
-  types of enemies aren't normal
+  This planet has a lot of
+  Wanderers spawning about and
+  darts flying around, not to
+  forget the Meteor Showers I
+  mentioned above. These types
+  of enemies aren't normally to
+  hard to avoid, but with the
   Flippers added in your path is
-  pay a lot of attention to wher
-  caught behind a flipper in the
-  kinda funny).
+  constantly changing and you
+  need to pay a lot of attention
+  to where you're going so that
+  you don't get caught behind a
+  flipper in the middle of a
+  Shower (ha, that sounds kinda
+  funny).
 
-  The best strategy I can think 
-  with what the Meteors do. Try 
-  them your focus while taking o
-  take out enemies while avoidin
+  The best strategy I can think
+  of right now is to really play
+  along with what the Meteors
+  do. Try to always go against
+  them and make them your focus
+  while taking out the enemies
+  instead of trying to take out
+  enemies while avoiding the
+  shower, if you catch my drift.
 
-  The enemies themselves really 
-  you've faced way worse in say 
-  practicing how to deal with th
+  The enemies themselves really
+  shouldn't give you much
+  trouble, you've faced way
+  worse in say the Asteroid
+  levels, it's really just
+  practicing how to deal with
+  the Meteor Showers.
 
     5. Surtris
   o-| I-n-f-o |-o
@@ -2340,8 +3109,9 @@ evenly disperse your attacking.
   Starting Lives: 1
   Initial Bombs: 0
 
-  o-| S-t-r-a-t-e-g-y |-o
-  ...i hate 1 life planets, stra
+  o-| S-t-r-a-t-e-g-y |-o ...i
+  hate 1 life planets, strategy
+  coming soon...
 
     6. Batpente
   o-| I-n-f-o |-o
@@ -2355,41 +3125,72 @@ evenly disperse your attacking.
   |        |
   |        |
    \/\/\/\/
-  Recommended Drone: Attack, Tur
-  Starting Lives: 3
-  Initial Bombs: 3
+  Recommended Drone: Attack,
+  Turret or Defend Starting
+  Lives: 3 Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  You may recognize the layout o
-  and realize that it is yet ano
-  there are 2 flat sides! Yeah, 
-  planet is also smaller than th
-  however, I think it actually m
-  at least for awhile.
+  o-| S-t-r-a-t-e-g-y |-o You
+  may recognize the layout of
+  this planet from some previous
+  ones and realize that it is
+  yet another Wave planet!
+  Except this time there are 2
+  flat sides! Yeah, you get
+  waves from both sides. This
+  planet is also smaller than
+  the previous wave based
+  planets, however, I think it
+  actually makes your job a
+  little bit easier... at least
+  for awhile.
 
-  You will get waves of all the 
-  Weavers, Grunts, Neutrons, Sna
-  hidden Gravity Wells you love 
+  You will get waves of all the
+  standard types of enemies:
+  Spinners, Weavers, Grunts,
+  Neutrons, Snakes and all those
+  wonderfully hidden Gravity
+  Wells you love so much. These
+  waves come fast to.
 
   You're going to want to do all
-  everything as quickly as possi
-  stay in there as close as poss
-  things out, but collect the Ge
-  a lot with the wave stages is 
-  they all fall where the next w
-  enough you will be able to des
-  you'll especially want to try 
+  that is in your power to
+  destroy everything as quickly
+  as possible when it spawns. I
+  like to really stay in there
+  as close as possible so that I
+  can not only take things out,
+  but collect the Geoms they
+  drop. One problem I find a lot
+  with the wave stages is that I
+  don't collect many Geoms since
+  they all fall where the next
+  wave spawns. If you stay in
+  close enough you will be able
+  to destory the enemies and
+  collect them, you'll
+  especially want to try and do
+  this with Weaver waves since
   they drop the big Geoms.
 
-  Up until you reach the Gold me
-  with waves from one side at a 
-  periodically, but it won't be 
-  the middle till you know what 
-  to town on the wave. Never str
+  Up until you reach the Gold
+  medal amount you'll only have
+  to deal with waves from one
+  side at a time. That side will
+  alternate periodically, but it
+  won't be both sides at once.
+  So just hang in the middle
+  till you know what side it's
+  going to be and then go to
+  town on the wave. Never stray
+  to far to one side or the
+  other.
 
-  After you get the Gold Medal y
-  crazy waves from both sides at
-  what to tell you to help you o
+  After you get the Gold Medal
+  your on your own because you
+  get crazy waves from both
+  sides at the same tim eand I
+  don't even know what to tell
+  you to help you out there.
 
     7. Virduo
   o-| I-n-f-o |-o
@@ -2410,31 +3211,52 @@ evenly disperse your attacking.
   \__               /
    \___          /
     \________/
-  Recommended Drone: Defend or S
-  Starting Lives: 3
+  Recommended Drone: Defend or
+  Sweep Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  I had some trouble getting int
-  I think it's because of the Ce
-  enemy because they just hang o
-  want to take care of them, don
-  Mutators will give you a lot m
+  o-| S-t-r-a-t-e-g-y |-o I had
+  some trouble getting into a
+  good rhythmn with this level
+  and I think it's because of
+  the Cell Masses. They are kind
+  of a funky enemy because they
+  just hang out and multiply. So
+  while you will want to take
+  care of them, don't make them
+  your main focus. The Mutators
+  will give you a lot more
+  trouble than they will.
 
-  There isn't a ton of enemies i
-  give you a lot of trouble if y
-  that Generators can. Speaking 
-  this level as well, but they a
-  care of them as you come acros
+  There isn't a ton of enemies
+  in this level, but the
+  Mutators can give you a lot of
+  trouble if you don't take care
+  of them in the way that
+  Generators can. Speaking of
+  which, a few Generators show
+  in this level as well, but
+  they are few and far between
+  so just take care of them as
+  you come across them.
 
-  The Mutators though like to ru
-  because of that one island in 
-  much, but I found it in my way
-  Mutateds and Gravity Well expl
+  The Mutators though like to
+  run around and can be tricky
+  to get because of that one
+  island in this level. It
+  doesn't look like much, but I
+  found it in my way quite often
+  and caused a few more Mutateds
+  and Gravity Well explosions
+  than I was comfortable with.
 
-  As I said, I wasn't very good 
-  strategy to share, but taking 
-  for the Gravity wells is key. 
+  As I said, I wasn't very good
+  at this level so I don't have
+  a good strategy to share, but
+  taking care of the Mutators
+  and watching out for the
+  Gravity wells is key. Please
+  send me any strategies you may
   have to help out here.
 
    _____
@@ -2442,50 +3264,77 @@ __/ Eta \_______________________
 Cost: 200,000
 Planets: 8
     1. Flitetra
-  o-| I-n-f-o |-o
-  Cost: 0
-  Bronze: 1,500,000
-  Silver: 4,750,000
-  Gold: 9,000,000
+  o-| I-n-f-o |-o Cost: 0
+  Bronze: 1,500,000 Silver:
+  4,750,000 Gold: 9,000,000
   Layout: Puzzle piece with lots
+  of flippers
    __    __
    __|  |__|  |__
   |__          __|
    __|        |__
   |__    __    __|
    |__|  |__|
-  Recommended Drone: Sweep or ma
-  Starting Lives: 3
+  Recommended Drone: Sweep or
+  maybe Snipe Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  Ugh, the flippers! So many of 
-  places to get stuck in and a l
-  that can cause it to be quite 
-  Darts, which are unpredictable
-  later on which just don't help
+  o-| S-t-r-a-t-e-g-y |-o Ugh,
+  the flippers! So many of them
+  to. This level has a lot of
+  places to get stuck in and a
+  lot of flippers to get caught
+  on. So, that can cause it to
+  be quite a headache. There are
+  also a lot of Darts, which are
+  unpredictable and then Snakes
+  and Generators later on which
+  just don't help anything.
 
   I recommend Sweep as usual for
-  through the flippers. I'm also
-  reason, however, I don't use i
-  testing to figure out how it w
+  flipper levels because it can
+  attack through the flippers.
+  I'm also recommending Snipe
+  for the same reason, however,
+  I don't use it much so thats
+  up to your personal testing to
+  figure out how it works for
+  you.
 
-  Strategy wise you need to be a
-  like to spawn in real big pack
-  few times I was hanging out in
-  Darts. So be aware of that and
-  getting cornered because with 
-  backed into one and then get k
+  Strategy wise you need to be
+  aware of the middle area
+  because Darts like to spawn in
+  real big packs there. There
+  have definitely been a few
+  times I was hanging out in the
+  area and was killed by
+  spawning Darts. So be aware of
+  that and also try to keep
+  yourself from getting cornered
+  because with all these edges
+  it's easy to get backed into
+  one and then get killed there
+  by some Darts or Spinners
   lingering around.
 
-  I like to kind of treat the mi
-  area and cut through it a lot 
-  everything piled in there. Of 
-  the enemies that spawn around 
-  get everything kind of coralle
-  of having stuff everywhere att
-  time. This level can be fairly
-  flippers, but with some practi
+  I like to kind of treat the
+  middle of this level as the
+  main enemy area and cut
+  through it a lot from side to
+  side trying to keep everything
+  piled in there. Of course
+  you'll need to take care of
+  the enemies that spawn around
+  the edges as well, but if you
+  can get everything kind of
+  coralled you'll be much better
+  off instead of having stuff
+  everywhere attacking you from
+  all sides all the time. This
+  level can be fairly difficult,
+  mainly thanks to the flippers,
+  but with some practice it can
+  be manageable.
 
     2. Losduo
   o-| I-n-f-o |-o
@@ -2507,42 +3356,64 @@ Planets: 8
          |            |
           \          /
       \______/
-  Recommended Drone: Defend or S
-  Starting Lives: 3
+  Recommended Drone: Defend or
+  Sweep Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This level isn't to bad, the s
-  a lot so always be aware of wh
-  a lot of circling then hanging
+  o-| S-t-r-a-t-e-g-y |-o This
+  level isn't to bad, the shape
+  can cause you to corner
+  yourself a lot so always be
+  aware of whats around you. I
+  found myself doing a lot of
+  circling then hanging out in
+  the bottom, but it could get
   very unnerving at times.
 
-  Because of the straightaways d
-  through the middle I recommend
-  coming from behind you. There 
-  (and the number only increases
-  with a lot of enemies. The Spi
-  because it's so easy to get co
-  that you'll often end up getti
-  cornered.
+  Because of the straightaways
+  down up the sides, across the
+  top and through the middle I
+  recommend defend to help you
+  clear out stuff coming from
+  behind you. There are a lot of
+  generators in this level (and
+  the number only increases as
+  time goes on) so you'll be
+  dealing with a lot of enemies.
+  The Spinners can be
+  particularly annoying because
+  it's so easy to get cornered
+  trying to back away from them
+  that you'll often end up
+  getting hit by the Tiny
+  Spinners while cornered.
 
   I tried to play the level from
-  one and taking care of it and 
-  didn't have one in site I woul
-  edge of this planet taking out
-  planets that have boundries I 
-  middle because it's to easy to
+  Generator to Generator.
+  Targetting one and taking care
+  of it and then moving on to
+  another. When I didn't have
+  one in site I would just loop
+  around the outside edge of
+  this planet taking out
+  whatever was around. As with
+  most planets that have
+  boundries I don't like to
+  spend much time in the middle
+  because it's to easy to get
+  attacked from all sides.
 
-  So, basically the circle metho
-  or Sweep for when things get t
+  So, basically the circle
+  method applies and Defend will
+  be of help or Sweep for when
+  things get tight.
 
     3. Mintris
-  o-| I-n-f-o |-o
-  Cost: 22,550
-  Bronze: 5,000,000
-  Silver: 25,000,000
-  Gold: 55,000,000
-  Layout: Funky shape with sever
+  o-| I-n-f-o |-o Cost: 22,550
+  Bronze: 5,000,000 Silver:
+  25,000,000 Gold: 55,000,000
+  Layout: Funky shape with
+  several Mine Layers
    __    __
   /  \__/  \
   |          \
@@ -2562,16 +3433,28 @@ Planets: 8
   Initial Bombs: 3
 
   o-| S-t-r-a-t-e-g-y |-o
-  Alright, Mine Layer strategy a
-  you'll have a Gold in no time.
-  Mine Layers to get the full st
+  Alright, Mine Layer strategy
+  applies here in the full. Use
+  it and you'll have a Gold in
+  no time. Read up in the
+  enemies section on Mine Layers
+  to get the full strategy, but
+  here it is in short.
 
-  Take out the early enemies to 
-  Mine Layers lay their mines ou
-  really start building up. When
-  screen is getting full drive C
-  chain reaction of all the mine
-  enemies and give you DOUBLE po
+  Take out the early enemies to
+  build up your multiplier and
+  let the Mine Layers lay their
+  mines out for you to use when
+  the enemies really start
+  building up. When the waves
+  start coming fast and the
+  screen is getting full drive
+  COMPLETELY over a mine to set
+  off a chain reaction of all
+  the mines on screen which will
+  annihilate the enemies and
+  give you DOUBLE points for
+  each one killed by a mine!
 
     4. Mastetra
   o-| I-n-f-o |-o
@@ -2592,26 +3475,45 @@ Planets: 8
   Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This stage is a crazy hectic A
-  Asteroid stages like to be. Ho
-  switched to the Attack Drone a
+  o-| S-t-r-a-t-e-g-y |-o This
+  stage is a crazy hectic
+  Asteroid stage just as the
+  other Asteroid stages like to
+  be. However, after a few plays
+  I switched to the Attack Drone
+  and went to town on it. So,
+  that
 is why I recommend only it here.
 
-  This Asteroid stage is more he
-  the fact that it likes to spaw
-  with spawning a lot of Asteroi
-  on the right side to destroy t
-  to keep them really focus when
+  This Asteroid stage is more
+  hectic than the others have
+  been for the fact that it
+  likes to spawn a lot of other
+  enemies along with spawning a
+  lot of Asteroids. However it's
+  got a good crevece on the
+  right side to destroy them in
+  and 2 good ones on the left to
+  keep them really focus when
+  they explode.
 
-  You'll get a lot of Neutron As
-  very hard to deal with if you 
-  destroy them because the Neutr
-  use the Attack drone and just 
-  to the top left, down and back
-  everything in yoru path and yo
+  You'll get a lot of Neutron
+  Asteroids in this level which
+  can be very hard to deal with
+  if you don't keep them focused
+  when you destroy them because
+  the Neutron's move so fast.
+  But honestly, use the Attack
+  drone and just work your way
+  around from the right, to the
+  top left, down and back to the
+  right powering through
+  everything in yoru path and
+  you'll rock this one in no
+  time.
 
-  It's crazy and chaotic, but it
+  It's crazy and chaotic, but
+  it's really not that bad.
 
     5. Clatetra
   o-| I-n-f-o |-o
@@ -2625,32 +3527,52 @@ is why I recommend only it here.
   /                   \
   \                   /
   \_________________/
-  Recommended Drone: Defend, Att
-  Starting Lives: 3
-  Initial Bombs: 3
+  Recommended Drone: Defend,
+  Attack or Turret Starting
+  Lives: 3 Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This is a good old fashioned h
-  no tricks or traps here, but y
-  classic enemies: Weavers, Grun
-  plenty of Generators upping th
+  o-| S-t-r-a-t-e-g-y |-o This
+  is a good old fashioned hectic
+  circle method stage. There are
+  no tricks or traps here, but
+  you get a healthy dosage of
+  all the classic enemies:
+  Weavers, Grunts and Wanderers.
+  Not to mention plenty of
+  Generators upping the number
+  of enemies on screen.
 
-  The Circle Method in short: Mo
-  fashion around the screen shoo
-  enemies gather behind you and 
-  room turn around and destroy t
-  This method works great, but I
-  this level was the Mutateds.
+  The Circle Method in short:
+  Move in a clockwise or
+  counter-clockwise fashion
+  around the screen shooting
+  straight ahead letting the
+  enemies gather behind you and
+  then when you have some
+  breathing room turn around and
+  destroy the mass that is
+  following behind you. This
+  method works great, but I
+  found the biggest hassle for
+  me in this level was the
+  Mutateds.
 
-  Mutadeds are very hard to see 
-  level and I often ran into the
-  there which of course resulted
-  sure how to tell you to avoid 
-  as a warning to you.
+  Mutadeds are very hard to see
+  in the clusters of enemies in
+  this level and I often ran
+  into them without even
+  noticing that they were there
+  which of course resulted in me
+  losing lives. I'm not really
+  sure how to tell you to avoid
+  this, but I guess I'll just
+  leave it as a warning to you.
 
-  Any Drone that is helping you 
-  because of the volume of enemi
-  go to town.
+  Any Drone that is helping you
+  attack will be a plus in this
+  level because of the volume of
+  enemies. So, use the standard
+  method and just go to town.
 
     6. Vireis
   o-| I-n-f-o |-o
@@ -2668,41 +3590,70 @@ is why I recommend only it here.
    |         ______         |
     \_______/      \_______/
 
-  Recommended Drone: Attack or T
-  Starting Lives: 3
+  Recommended Drone: Attack or
+  Turret Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This level is extremely claust
-  annoying enemies like Mutators
-  is best to do is to position y
-  or left corner and keep your f
-  Enemies will spawn in these co
-  and most of the time when they
-  for the other side.
+  o-| S-t-r-a-t-e-g-y |-o This
+  level is extremely
+  claustrophobic and flooded
+  with some annoying enemies
+  like Mutators and Gravity
+  Wells. What I find is best to
+  do is to position yourself in
+  either the bottom right or
+  left corner and keep your
+  focus on attacking towards the
+  middle. Enemies will spawn in
+  these corners so you need to
+  watch for them and most of the
+  time when they do is when I
+  decide to make a break for the
+  other side.
 
-  Switching sides periodically w
-  middle and attack in this fash
-  I recommend bringing the attac
-  your firepower on the mass and
-  with my back to a wall it does
-  wall. The Turret can be of hel
-  middle and starts taking enemi
-  time when it's relocating make
-  bit.
+  Switching sides periodically
+  will keep the enemies hung up
+  in the middle and attack in
+  this fashion seems to be
+  easisest. This is why I
+  recommend bringing the attack
+  Drone in with you. It will
+  double your firepower on the
+  mass and although the Defense
+  Drone is great, with my back
+  to a wall it doesn't do me
+  much good shooting the wall.
+  The Turret can be of help to
+  if it positions itself in the
+  middle and starts taking
+  enemies out from there, but
+  the down time when it's
+  relocating makes me want to
+  stray away from it a bit.
 
   Essentially your going to want
-  Asteroid level because there a
-  enemies in a small area. Keep 
-  that appear in the middle beca
-  When I see these appear is ano
-  side being sure to take it out
-  because they like to appear ab
-  together.
+  to treat this level like its
+  an Asteroid level because
+  there are just a ridiculous
+  amount of enemies in a small
+  area. Keep a close eye out for
+  the Gravity Wells that appear
+  in the middle because they can
+  fill up really fast here. When
+  I see these appear is another
+  time I make a break for the
+  other side being sure to take
+  it out on the way. Watch the
+  Mutators to because they like
+  to appear about 4 or 5 at a
+  time and bunch up together.
 
-  Stay focused on keeping the en
-  your attack power on them. It'
-  you hit 30,000,000.
+  Stay focused on keeping the
+  enemies in the middle and
+  putting all your attack power
+  on them. It's gonna be pretty
+  crazy by the time you hit
+  30,000,000.
 
     7. Bathex
   o-| I-n-f-o |-o
@@ -2725,53 +3676,98 @@ is why I recommend only it here.
     \/
 
 
-  Recommended Drone: Defend or A
-  Starting Lives: 3
+  Recommended Drone: Defend or
+  Attack Starting Lives: 3
   Initial Bombs: 3
 
-  _STRATEGY__
-  Right when you spawn something
-  you, this can be overwhelming 
-  seconds of invincibility at th
-  top or the bottom and move out
+  _STRATEGY__ Right when you
+  spawn something like 30 Darts
+  will spawn all around you,
+  this can be overwhelming at
+  first, but you've got like 2
+  seconds of invincibility at
+  the beginning of the level so
+  pick the top or the bottom and
+  move out of the middle of
+  them.
 
-  Now, this level likes to const
-  usuals to: Wanderers, Weavers,
-  Towards the Gold Medal point o
-  occasional Snake and a handful
-  to get really annoying, but up
+  Now, this level likes to
+  constantly spawn enemies like
+  this. All the usuals to:
+  Wanderers, Weavers, Spinners,
+  Darts and Gravity Wells.
+  Towards the Gold Medal point
+  of the level you'll start
+  getting the occasional Snake
+  and a handful of Repulsor's.
+  That's when it starts to get
+  really annoying, but up to
+  that point it's pretty
+  manageable.
 
-  You'll notice the 4 peaks in t
-  were key to my survival. I oft
-  but in this level I find that 
-  helps to corner yourself so yo
-  coming from the sides, however
-  in these peaks so you have to 
-  much time to form an escape pl
+  You'll notice the 4 peaks in
+  the layout of the level. For
+  me, these were key to my
+  survival. I often preach not
+  to ever corner yourself, but
+  in this level I find that
+  there are so many enemies it
+  often helps to corner yourself
+  so you don't have to worry
+  about them coming from the
+  sides, however, enemies also
+  like to spawn like mad in
+  these peaks so you have to
+  watch for that because you
+  don't have much time to form
+  an escape plan when they do.
 
-  So, there were about 3 things 
-  and foremost was the circle me
-  inside part of this level is t
-  care of the enemies. As usual 
-  recommend the defend Drone to 
+  So, there were about 3 things
+  I did while playing this
+  level. First and foremost was
+  the circle method. Going
+  around in circles in the
+  inside part of this level is
+  the easiest way to stay alive
+  and take care of the enemies.
+  As usual with the Circle
+  Method is that I recommend the
+  defend Drone to help get your
+  backside while circling
   around.
 
-  This planet really doesn't hav
-  the big mass you accumulate be
-  up I like to take a break in o
-  towards the middle. This cause
-  into my guns and makes them ea
-  though, you need to keep a clo
-  peak.
+  This planet really doesn't
+  have much down time though to
+  take out the big mass you
+  accumulate behind you, so when
+  I get them all built up I like
+  to take a break in one of the
+  peaks and just shoot out
+  towards the middle. This
+  causes all the enemies to
+  funnel right into my guns and
+  makes them easy to take out.
+  As I said before though, you
+  need to keep a close eye for
+  enemies spawning in your peak.
 
   When they spawn I just jet out
-  start circling again, or I jus
-  for a short time.
+  straight through the middle
+  and then start circling again,
+  or I just jet back and forth
+  between peaks for a short
+  time.
 
-  When the Repulsors start comin
-  want to back off the peak stra
-  them and they find your peak y
-  to run and it's either going t
+  When the Repulsors start
+  coming out though you're
+  probably going to want to back
+  off the peak strategy because
+  when there are 3 or 4 of them
+  and they find your peak you
+  are literally left with no
+  where to run and it's either
+  going to cost you a life, or a
+  bomb.
 
     8. Surtetra
   o-| I-n-f-o |-o
@@ -2814,23 +3810,41 @@ Planets: 9
   Starting Lives: 3
   Initial Bombs: 3
 
-  _STRATEGY__
-  This is a pretty low key level
-  spawns and then an increasing 
-  on. As you can see by the layo
-  ring so we'll want to keep wit
-  sweep that is going to help pr
+  _STRATEGY__ This is a pretty
+  low key level really, decent
+  amount of time between spawns
+  and then an increasing amount
+  of Generators as the level
+  goes on. As you can see by the
+  layout the level is kind of
+  set up like a ring so we'll
+  want to keep with a circling
+  strategy and a Drone like
+  sweep that is going to help
+  protect us when things get
+  close.
 
-  Lots of Darts, Spinners and We
-  annoying because they'll get t
-  blockades and when you get aro
+  Lots of Darts, Spinners and
+  Weavers here. The Weavers can
+  be really annoying because
+  they'll get themselves on one
+  side of the middle blockades
+  and when you get around to
+  them they'll jump to the other
   side. This level seems like it
-  gone before it spawns more so 
-  really slow.
+  often waits for everything to
+  be gone before it spawns more
+  so situations like this can
+  make it feel really slow.
 
-  But keep with the circle metho
-  the middle as much as possible
-  it's really easy to get ambush
+  But keep with the circle
+  method around the outside
+  ring, stay out of the middle
+  as much as possible because
+  with multiple Generators out
+  it's really easy to get
+  ambushed from all sides when
+  you get in there.
 
     2. Vartetra
   o-| I-n-f-o |-o
@@ -2846,49 +3860,76 @@ Planets: 9
    /                \
   |                  |
    \_______/\_______/
-  Recommended Drone: Your favori
-  Starting Lives: 3
+  Recommended Drone: Your
+  favorite! Starting Lives: 3
   Initial Bombs: 3
 
-  _STRATEGY__
-  This is a pretty fun level and
-  fast. At the beginning you'll 
-  Weavers, but not to far in a M
+  _STRATEGY__ This is a pretty
+  fun level and it ramps up the
+  difficulty pretty fast. At the
+  beginning you'll get a lot of
+  spawns from Darts and Weavers,
+  but not to far in a Mine Layer
+  will appear and everything
   will change.
 
-  Now, if you look at the explan
-  the Enemies Section ( [#ENEMI]
-  give us some great Mine Layer 
-  goes on more Mine Layers will 
-  oppurtunity for big points.
+  Now, if you look at the
+  explanation of the Mine Layer
+  enemies in the Enemies Section
+  ( [#ENEMI] ) I've had some
+  contributions that give us
+  some great Mine Layer strategy
+  information. As the level goes
+  on more Mine Layers will
+  appear which gives us even
+  more oppurtunity for big
+  points.
 
-  Alright, so basically here's h
-  The Drone you choose to bring 
-  because we are really going to
-  points. As enemies spawn you a
-  of circling so that they colle
-  right over some mines (you'll 
-  let the points flow in. If you
-  will make more sense to you th
-  is written there so I'm not go
+  Alright, so basically here's
+  how we want to look at this
+  level. The Drone you choose to
+  bring here isn't of as much
+  importance because we are
+  really going to be using the
+  Mine Layers to gather points.
+  As enemies spawn you are going
+  to want to be doing a bit of
+  circling so that they collect
+  behind you, then lead them
+  right over some mines (you'll
+  need to set the first one off)
+  and let the points flow in. If
+  you read the Mine Layer
+  section this will make more
+  sense to you than if you
+  didn't, but everything is
+  written there so I'm not going
+  to rewrite it all here.
 
   Now, what we need to watch out
-  appearing up near 20k. You'll 
-  you do Repulsor's any other ti
-  for this level, but I'm giving
-  quite obnoxious when 4 or 5 st
+  for are the Repulsor's that
+  begin appearing up near 20k.
+  You'll have to take care of
+  them just like you do
+  Repulsor's any other time,
+  there's not a different
+  strategy for this level, but
+  I'm giving you a warning now
+  that they can be quite
+  obnoxious when 4 or 5 start
+  appearing at the same time in
   the clutter.
 
-  This level is seriously all ab
-  your advantage.
+  This level is seriously all
+  about the mine layers so use
+  them to your advantage.
 
     3. Poreis
-  o-| I-n-f-o |-o
-  Cost: 42,550
-  Bronze: 1,000,000
-  Silver: 2,500,000
-  Gold: 6,000,000
-  Layout: B = Box/boundry, W = W
+  o-| I-n-f-o |-o Cost: 42,550
+  Bronze: 1,000,000 Silver:
+  2,500,000 Gold: 6,000,000
+  Layout: B = Box/boundry, W =
+  Wormhole
  _____________   ______________
 |           b  |_| b        w  |
 |              b               |
@@ -2901,51 +3942,85 @@ Planets: 9
 | w         b   _  b           |
 |______________| |_____________|
 
-  Recommended Drone: Attack or D
-  Starting Lives: 3
+  Recommended Drone: Attack or
+  Defend Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This is an interesting level a
-  with Wormholes up to this poin
-  should be definition though in
-  other. In this level thats a g
-  is not much fun to navigate th
-  there are plenty of boxes ther
-  through a little maze.
+  o-| S-t-r-a-t-e-g-y |-o This
+  is an interesting level as I
+  don't beleive we've ever dealt
+  with Wormholes up to this
+  point. The Wormholes act just
+  as they should be definition
+  though in that going in one
+  sends you out the other. In
+  this level thats a good thing
+  because the middle section is
+  not much fun to navigate
+  through. As you can see in the
+  layout there are plenty of
+  boxes there that make it like
+  trying to get through a little
+  maze.
 
-  I recommend bringing in the at
-  of Asteroids like to appear. T
-  you spend to much time on one 
-  go to the other side and find 
-  Most of the time they are just
-  but you want to try and spread
-  level so one side doesn't get 
+  I recommend bringing in the
+  attack Drone to this level
+  because lots of Asteroids like
+  to appear. They don't spawn
+  super quick, but if you spend
+  to much time on one half of
+  the level you're likely to go
+  to the other side and find 4
+  or 5 Asteroids waiting for
+  you. Most of the time they are
+  just Wanderers which aren't a
+  big deal, but you want to try
+  and spread your attack over
+  both halves of the level so
+  one side doesn't get to backed
+  up.
 
-  Be aware that enemies can go t
-  out to close to it may not be 
-  Enemies will not purposefully 
-  will try and traverse through 
-  Wormhole for escape when you n
+  Be aware that enemies can go
+  through the Wormhole as well
+  so hanging out to close to it
+  may not be very wise and you
+  may get suprised. Enemies will
+  not purposefully use it
+  though, most of the time they
+  will try and traverse through
+  the middle area so you can use
+  the Wormhole for escape when
+  you need to.
 
   Not to far in the level Snakes
-  can be decently annoying with 
-  you'll need to take care of th
+  and Repulsor's start to appear
+  which can be decently annoying
+  with all of the Asteroids
+  around, but you'll need to
+  take care of them same as
+  always. This is where the
   Defend Drone would probably be
-  concerned with getting overwhe
-  Repulsor's. If all else fails 
+  of more help. However, I get
+  more concerned with getting
+  overwhelmed by the Asteroids
+  than a few Repulsor's. If all
+  else fails you've always got
+  some bombs.
 
-  One final note is that when yo
-  the temporary invincibility yo
-  that to your advantage if you 
+  One final note is that when
+  you go through a Wormhole
+  you'll have the temporary
+  invincibility you get when you
+  start a level so use that to
+  your advantage if you get
+  cornered.
 
     4. Flipente
-  o-| I-n-f-o |-o
-  Cost: 43,625
-  Bronze: 2,000,000
-  Silver: 6,000,000
-  Gold: 12,000,000
-  Layout: Lots of flippers, B = 
+  o-| I-n-f-o |-o Cost: 43,625
+  Bronze: 2,000,000 Silver:
+  6,000,000 Gold: 12,000,000
+  Layout: Lots of flippers, B =
+  Box/Boundry
    ____________
   ___|            |___
   |       b    b       |
@@ -2953,23 +4028,36 @@ Planets: 9
   |       b    b       |
   |___              ___|
    |____________|
-  Recommended Drone: Sweep or De
-  Starting Lives: 3
+  Recommended Drone: Sweep or
+  Defend Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This planet isn't to bad, the 
-  stuck behind the flippers. Wha
-  a point to get in there way at
-  I actually got them all pushed
-  level and then I just did U pa
-  the right, bottom and left qua
+  o-| S-t-r-a-t-e-g-y |-o This
+  planet isn't to bad, the main
+  challenge is trying to not get
+  stuck behind the flippers.
+  What I actually did though was
+  make it a point to get in
+  there way at the very
+  beginning of the level and I
+  actually got them all pushed
+  up into the top quadrent of
+  the level and then I just did
+  U patterns (instead of
+  circles) between the right,
+  bottom and left quadrants.
+  This gave me a pretty easy
   time.
 
-  I recommend the sweep Drone be
-  stuck behind them it just may 
-  part you've got a lot of stand
-  constant flow so this level di
+  I recommend the sweep Drone
+  because of the flippers, when
+  you get stuck behind them it
+  just may be your saving grace.
+  But for the most part you've
+  got a lot of standard enemies
+  at a pretty slow, but constant
+  flow so this level didn't
+  boast much trouble or much to
   worry about.
 
     5. Rocduo
@@ -2993,29 +4081,43 @@ Planets: 9
   Starting Lives: 1
   Initial Bombs: 0
 
-  o-| S-t-r-a-t-e-g-y |-o
-  One of the easier single life 
-  constant Meteor Showers to wat
-  all Darts as far as other enem
-  to help take care of the Meteo
+  o-| S-t-r-a-t-e-g-y |-o One of
+  the easier single life levels
+  here actually. There are
+  constant Meteor Showers to
+  watch out for, but it's pretty
+  much all Darts as far as other
+  enemies go. Bring in the
+  Defend Drone to help take care
+  of the Meteor Showers when you
+  need to take
 care of enemies and vice versa.
 
   There are two blockades in the
-  pretty decent amount of space 
-  as with other Meteor Shower le
-  the shower and it'll never bot
-  enemies as you do it, but ther
-  on this planet.
+  level, but you actually have a
+  pretty decent amount of space
+  to move around. Same rule
+  stands as with other Meteor
+  Shower levels. Try and always
+  be facing into the shower and
+  it'll never bother you. Just
+  watch out for other enemies as
+  you do it, but there aren't to
+  many to bother you on this
+  planet.
 
     6. Orbduo
-  o-| I-n-f-o |-o
-  Cost: 54,700
-  Bronze: 1,000,000
-  Silver: 2,500,000
-  Gold: 4,250,000
-  Layout: The slashes in the mid
-    are also some little triangl
-    but they would have made the
+  o-| I-n-f-o |-o Cost: 54,700
+  Bronze: 1,000,000 Silver:
+  2,500,000 Gold: 4,250,000
+  Layout: The slashes in the
+  middle are 3d blockades, and
+  there
+    are also some little
+    triangles in the 2 corner
+    peaks, but they would have
+    made the scale of the
+    drawing look
   awkward so I left them out.
    _
    |  \____________
@@ -3028,24 +4130,36 @@ care of enemies and vice versa.
    \    \     /    |
     \____________  \
               \_|
-  Recommended Drone: Attack, Def
-  Starting Lives: 3
-  Initial Bombs: 3
+  Recommended Drone: Attack,
+  Defend or Sweep Starting
+  Lives: 3 Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  Black Hole levels all seem the
-  boring. You can't really do mu
-  pull from the Black Hole so I 
-  bottom and face "upstream" or 
-  Hole so that the enemies are a
-  behind. With this one in perti
-  the left blocade and shoot up 
+  o-| S-t-r-a-t-e-g-y |-o Black
+  Hole levels all seem the same
+  to me and all seem pretty
+  boring. You can't really do
+  much of anything because of
+  the pull from the Black Hole
+  so I choose to just hang out
+  on the bottom and face
+  "upstream" or against the pull
+  from the Black Hole so that
+  the enemies are always coming
+  to me and not from behind.
+  With this one in perticular if
+  you just sit kinda under the
+  left blocade and shoot up the
+  left side at an angle nothing
   will ever get to you from that
-  things coming down on top of y
+  side, but you do have to watch
+  things coming down on top of
+  you (the Neutrons and Mayflys
   especially).
 
-  To me though there's nothing m
-  better idea, by all means, sen
+  To me though there's nothing
+  more to it, so if you have a
+  better idea, by all means,
+  send it my way.
 
     7. Clapente
   o-| I-n-f-o |-o
@@ -3054,100 +4168,161 @@ care of enemies and vice versa.
   Silver: 6,250,000
   Gold: 18,000,000
    Layout: Really big square
-  Recommended Drone: Attack or D
-  Starting Lives: 3
+  Recommended Drone: Attack or
+  Defend Starting Lives: 3
   Initial Bombs: 3
 
   o-| S-t-r-a-t-e-g-y |-o
-  Nothing I say here is really g
-  because there are no boundries
-  those wonderful enemies here t
-  Gravity Wells, Mutators, Gener
-  worst of all, Repulsors. The R
-  in. Circle Method applies, but
-  can give.
+  Nothing I say here is really
+  going to help you on this
+  level because there are no
+  boundries, no crazy Wormholes,
+  just all those wonderful
+  enemies here to hunt you down.
+  Spinners, Weavers, Gravity
+  Wells, Mutators, Generaters,
+  Wanderers, Snakes and worst of
+  all, Repulsors. The Repulsor's
+  are what always do me in.
+  Circle Method applies, but
+  that's really the best advice
+  I can give.
 
     8. Bathepta
-  o-| I-n-f-o |-o
-  Cost: 97,900
-  Bronze: 2,000,000
-  Silver: 6,250,000
-  Gold: 19,000,000
+  o-| I-n-f-o |-o Cost: 97,900
+  Bronze: 2,000,000 Silver:
+  6,250,000 Gold: 19,000,000
   Layout: Kinda like a Cog
-  Recommended Drone: Attack or D
-  Starting Lives: 3
+  Recommended Drone: Attack or
+  Defend Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This is a pretty hard level be
+  o-| S-t-r-a-t-e-g-y |-o This
+  is a pretty hard level because
+  it's pretty hectic and there
   really isn't much room to move
-  avoid the Tiny Spinners and Re
-  Circle Method, but the spawns 
-  it really isn't a very easy me
+  around, especially when trying
+  to avoid the Tiny Spinners and
+  Repulsors. I want to recommend
+  the Circle Method, but the
+  spawns like to come from all 4
+  corners so it really isn't a
+  very easy method to carry out
+  here.
 
-  The reason I recommend the Att
-  these crazy spawns. It's up to
-  focus on doubling the attack w
-  attack to the front and back a
-  are equally helpful, but eithe
+  The reason I recommend the
+  Attack or Defend drone is
+  because of these crazy spawns.
+  It's up to you whether you
+  want to put your focus on
+  doubling the attack where your
+  focused or trying to attack to
+  the front and back at the same
+  time. I'd say that both are
+  equally helpful, but either
+  way this stage is going to be
   difficult.
 
-  About the time of the Silver m
-  coming out just as the last fe
-  annoying with all the Tiny Spi
-  crazy from all the Spinners yo
+  About the time of the Silver
+  medal a lot of Repulsor's
+  start coming out just as the
+  last few levels have done.
+  This is really annoying with
+  all the Tiny Spinners you'll
+  have driving you crazy from
+  all the Spinners you'll be
+  defeating.
 
-  I didn't have a ton of luck an
-  get up to the Silver Medal, bu
-  I took in the Attack Drone per
-  to the bottom while I was invi
-  out the Darts. From here I hun
-  when the bunches of enemies wo
-  of them and drive straight thr
-  the opposite corner and then t
+  I didn't have a ton of luck
+  and it took me a few tries to
+  even get up to the Silver
+  Medal, but here's what I ended
+  up doing. I took in the Attack
+  Drone personally right off the
+  bat jumped to the bottom while
+  I was invincible and then
+  started clearing out the
+  Darts. From here I hung out
+  towards the middle and when
+  the bunches of enemies would
+  spawn I would pick one set of
+  them and drive straight
+  through them, then drive my
+  way to the opposite corner and
+  then try and get back to the
+  middle if
  I could to repeat the process.
 
-  When the Repulsor's started co
-  them and keep up the same stra
-  back to the other side they wo
-  take them out in a quick sweep
-  bit, this stage won't be easy 
+  When the Repulsor's started
+  coming out I tried not to
+  focus on them and keep up the
+  same strategy so when I
+  started driving back to the
+  other side they would all be
+  behind me and I could take
+  them out in a quick sweep.
+  Hopefully that helps you out a
+  bit, this stage won't be easy
+  though.
 
     9. Varpente
-  o-| I-n-f-o |-o
-  Cost: 123,500
-  Bronze: 2,000,000
-  Silver: 5,250,000
-  Gold: 13,000,000
-  Layout: A big Cog (I know I sa
-    but this one literally is a 
-  Recommended Drone: Defend or A
-  Starting Lives: 3
+  o-| I-n-f-o |-o Cost: 123,500
+  Bronze: 2,000,000 Silver:
+  5,250,000 Gold: 13,000,000
+  Layout: A big Cog (I know I
+  said the last stage was *like*
+  a cog,
+    but this one literally is a
+    big cog)
+  Recommended Drone: Defend or
+  Attack Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This planet has a lot more roo
-  a lot easier to navigate aroun
-  similar in design. It's got 8 
-  shape and you are going to wan
-  same reason I've always preach
+  o-| S-t-r-a-t-e-g-y |-o This
+  planet has a lot more room
+  than the last one which makes
+  it a lot easier to navigate
+  around, however, it is
+  actually very similar in
+  design. It's got 8 "pockets"
+  that give it it's cog shape
+  and you are going to want to
+  stay out of these for the same
+  reason I've always preached to
+  stay out of areas like this.
 
   This planet has plenty of room
-  to gather enemies and let the 
-  annihilate yourself. Now, I'm 
-  said and tell you that you may
-  peaks to get in line with the 
-  circling) and then head straig
-  But I still stand firmly on th
-  out in those areas.
+  for you to use the circle
+  method to gather enemies and
+  let the Defend Drone
+  annihilate or you can
+  annihilate yourself. Now, I'm
+  going to go back on what I
+  just said and tell you that
+  you may want to dip in one of
+  the cog peaks to get in line
+  with the mass following you
+  (if you are circling) and then
+  head straight through them to
+  take them out. But I still
+  stand firmly on the fact that
+  you shouldn't hang out in
+  those areas.
 
-  With the Defend drone at your 
-  pretty easy time. I didn't do 
-  this planet or else I'd write 
-  over doubled the Gold Medal ju
-  care of things as they come. A
-  good friends with your Defend 
-  it to your advantage.
+  With the Defend drone at your
+  back though you should have a
+  pretty easy time. I didn't do
+  anything out of the ordinary
+  on this planet or else I'd
+  write about it to let you
+  know, but I over doubled the
+  Gold Medal just circling
+  around and taking care of
+  things as they come. At this
+  point you should be pretty
+  good friends with your Defend
+  drone and be able to really
+  work it to your advantage.
 
    _______
 __/ Kappa \_____________________
@@ -3170,83 +4345,140 @@ Planets: 8
    |        \/    |
    /              /
    \_____________/
-  Recommended Drone: Attack or D
-  Starting Lives: 3
+  Recommended Drone: Attack or
+  Defend Starting Lives: 3
   Initial Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  The layout of this level just 
-  trust me that it won't let you
-  worry about here, just a slew 
-  want to watch for Gravity Well
-  can both cause problems. But r
-  is going to be on the Mutators
+  o-| S-t-r-a-t-e-g-y |-o The
+  layout of this level just
+  screams Circle Method and you
+  can trust me that it won't let
+  you down. There are no
+  Repulsor's to worry about
+  here, just a slew or standard
+  type enemies. You'll want to
+  watch for Gravity Wells and
+  Generators because those can
+  both cause problems. But
+  really the majority of your
+  concern is going to be on the
+  Mutators and Cell Masses.
 
   As you circle around don't let
-  the Mutaters can make a real m
-  Also, because there isn't a to
-  to do when a mass of enemies b
-  the direction that I'm circlin
+  the Cell Masses build because
+  the Mutaters can make a real
+  mess if they get a hold of
+  them. Also, because there
+  isn't a ton of extra space
+  around what I like to do when
+  a mass of enemies builds up
+  behind me is just switch the
+  direction that I'm circling in
+  and it makes it real easy to
   take them out.
 
-  The other little trick I like 
-  around one of the middle bound
-  masses get stuck inside of the
-  focus on taking out the Genera
-  you should be fine here.
+  The other little trick I like
+  to pull here is to do a mini-
+  circle around one of the
+  middle boundries when some
+  enemies or Cell masses get
+  stuck inside of there. Circle,
+  circle, circle and focus on
+  taking out the Generators as
+  quickly as possible and you
+  should be fine here.
 
     2. Zootris
-  o-| I-n-f-o |-o
-  Cost:
-  Bronze: 300,000
-  Silver: 800,000
-  Gold: 3,500,000
-  Layout: This level has to much
-    offhand that it's got A LOT 
+  o-| I-n-f-o |-o Cost: Bronze:
+  300,000 Silver: 800,000 Gold:
+  3,500,000 Layout: This level
+  has to much stuff to draw out,
+  so just to know
+    offhand that it's got A LOT
+    of boundries to avoid.
   Recommended Drone: Sweep
   Starting Lives: 3
   Initial Bombs: 0
 
-  o-| S-t-r-a-t-e-g-y |-o
-  There isn't much breathing roo
-  of enemies to push you around 
-  with tight levels bring in the
-  With most I also recommend sta
-  enemies build up there that yo
-  choice but to get in there and
+  o-| S-t-r-a-t-e-g-y |-o There
+  isn't much breathing room in
+  this level, but there are
+  plenty of enemies to push you
+  around including Gravity
+  Wells. As usual with tight
+  levels bring in the Sweep to
+  help attack around edges. With
+  most I also recommend staying
+  out of the middle, but so many
+  enemies build up there that
+  you probably won't have much
+  of a choice but to get in
+  there and clean those areas
+  out.
 
-  Almost all the enemies spawn s
-  you'll get some out of the cor
-  you don't let them spawn on to
-  appear in the middle to so if 
-  wave after wave you may want t
-  take out.
+  Almost all the enemies spawn
+  somewhere in the middle,
+  however you'll get some out of
+  the corners and sides as well
+  so be aware you don't let them
+  spawn on top of you.
+  Generators like to appear in
+  the middle to so if you start
+  getting a ton of enemies wave
+  after wave you may want to
+  take a look for one of those
+  to take out.
 
-  Not to far into the level you'
-  tight Meteor Showers. Literall
-  Don't be afraid, because they 
+  Not to far into the level
+  you'll also start getting some
+  crazy tight Meteor Showers.
+  Literally with no space
+  between the Meteors. Don't be
+  afraid, because they don't
+  last for long and you should
   be able to just to hang out by
-  completely avoid it because th
-  screen.
+  the side until they are done
+  or completely avoid it because
+  they don't normally take up
+  the whole screen.
 
   Main strategy I like to go for
-  The enemies have to filter the
-  so use this to your advantage.
-  openings firing shots into it 
-  to it they'll just get blown u
+  is use the open area as
+  alleys. The enemies have to
+  filter themselves through them
+  to get to you so use this to
+  your advantage. Hang out
+  looking down one of the
+  openings firing shots into it
+  and as the enemies make their
+  way to it they'll just get
+  blown up by their shots.
 
-  If you hang out by one of the 
-  then enemies will filter down 
-  kill them twice as fast. If yo
-  start getting to close just ba
-  care of them or relocate to an
-  with you you'll also be in luc
-  (even if they are behind a bou
+  If you hang out by one of the
+  angled ones on the top or
+  bottom then enemies will
+  filter down both sides and you
+  can essentially kill them
+  twice as fast. If you get a
+  little behind and they start
+  getting to close just back off
+  to one of the sides and take
+  care of them or relocate to
+  another side. If you brought
+  Sweep with you you'll also be
+  in luck because as enemies get
+  close (even if they are behind
+  a boundry) it'll take care of
+  them.
 
   So, use all these boundries to
-  filter in to where you want th
-  in the middle areas just get i
-  out then retreat back to the s
+  your advantage and let the
+  enemies filter in to where you
+  want them to be. When you get
+  Generators in the middle areas
+  just get in there a little bit
+  and take them out then retreat
+  back to the safer zones.
 
     3. Roctris
   o-| I-n-f-o |-o
@@ -3271,57 +4503,96 @@ Planets: 8
   Initial Bombs: 0
 
   o-| S-t-r-a-t-e-g-y |-o
-  Alright, as 1 life level's alw
-  here's what happens. The level
-  Meteor Showers come. You get a
-  most part that is all you real
-  little ways in you actually st
-  opposite sides at the same tim
-  starts getting really tricky b
-  showers at the same time while
+  Alright, as 1 life level's
+  always are, this 1 is hard for
+  me. But here's what happens.
+  The level starts off with
+  Mayflys and then Meteor
+  Showers come. You get an
+  occasional Grunt, but for the
+  most part that is all you
+  really have to deal with.
+  However, a little ways in you
+  actually start getting Meteor
+  Shower's from opposite sides
+  at the same time. This is the
+  point where it starts getting
+  really tricky because you have
+  to dodge both showers at the
+  same time while avoiding the
+  Teeny Tiny Mayflys.
 
-  Defend is pretty much indispos
-  the Meteor showers on one side
-  the other side. Just watch the
-  can make them a little harder 
-  Grunt or Wanderer. But really 
+  Defend is pretty much
+  indisposable here because
+  while you attack the Meteor
+  showers on one side it will
+  take care of the one on the
+  other side. Just watch the
+  Mayflys because their small
+  size can make them a little
+  harder to target than
+  something like a Grunt or
+  Wanderer. But really there
+  aren't many tricks to this
   planet.
 
     4. Lostetra
-  o-| I-n-f-o |-o
-  Cost: 70,000
-  Bronze: 1,500,000
-  Silver: 4,500,000
-  Gold: 9,500,000
-  Layout: Big square with lots o
-  Recommended Drone: Defend or A
-  Starting Lives: 3
-  Initial Bombs: 3
+  o-| I-n-f-o |-o Cost: 70,000
+  Bronze: 1,500,000 Silver:
+  4,500,000 Gold: 9,500,000
+  Layout: Big square with lots
+  of funky boundries Recommended
+  Drone: Defend or Attack
+  Starting Lives: 3 Initial
+  Bombs: 3
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This levels got some crazy bou
-  a big square so treat it like 
-  to all of the weird boundries 
-  plenty of space to move around
-  far between (minus the Generat
+  o-| S-t-r-a-t-e-g-y |-o This
+  levels got some crazy
+  boundries in it, but really
+  it's just a big square so
+  treat it like one. This level
+  feels so big due to all of the
+  weird boundries that I always
+  felt like I had plenty of
+  space to move around and that
+  the enemies were few and far
+  between (minus the Generator
+  spawns).
 
-  So, I basically went with the 
+  So, I basically went with the
+  method of circling around the
   outside edge and then whenever
-  got empty I went through one o
-  those enemies.
+  the middle got full or the
+  outside got empty I went
+  through one of the middle
+  paths to take out those
+  enemies.
 
   Often Generators will spawn on
-  be sure to get over there and 
-  they spawn or take them out. T
-  on this planet due to the boun
-  cornered and if you get corner
-  you can't kill them and won't 
-  problem that occurs is that yo
-  from destroying Generators spa
+  the sides, normally 2 at a
+  time so be sure to get over
+  there and either feed points
+  off the enemies they spawn or
+  take them out. These are
+  probably the biggest pain on
+  this planet due to the
+  boundries because it's easy to
+  get cornered and if you get
+  cornered while the Generators
+  are spawning you can't kill
+  them and won't be able to get
+  out. The other problem that
+  occurs is that you get trapped
+  by the Tiny Spinners from
+  destroying Generators spawning
+  Spinners.
 
   As long as your careful though
-  and keep enemies out of your d
-  trouble taking care of this pl
+  and use the boundries to hide
+  behind and keep enemies out of
+  your direct path you shouldn't
+  have much trouble taking care
+  of this planet.
 
     5. Surhex
   o-| I-n-f-o |-o
@@ -3336,27 +4607,43 @@ Planets: 8
   \        /
   |__  __|
    \/
-  Recommended Drone: Defend or S
-  Starting Lives: 1
+  Recommended Drone: Defend or
+  Sweep Starting Lives: 1
   Initial Bombs: 0
 
-  o-| S-t-r-a-t-e-g-y |-o
-  This is a small stage Neutron 
-  many of the stages like this t
-  enough Geoms to get upgraded t
+  o-| S-t-r-a-t-e-g-y |-o This
+  is a small stage Neutron
+  filled single life voyage. As
+  with many of the stages like
+  this the most difficult part
+  is getting enough Geoms to get
+  upgraded to the 3 shot burst.
 
-  I'm torn between whether I do 
-  to be honest because most of t
-  the Sweep taking care of enemi
-  general strategy with the Nuet
-  slow is to position myself in 
-  coming for me do a little "c" 
-  keep shooting towards where I 
-  sweep. It's not perfect, but i
+  I'm torn between whether I do
+  better with the Defend or the
+  Sweep to be honest because
+  most of teh time when I die is
+  prevented by the Sweep taking
+  care of enemies that are to
+  close. But my general strategy
+  with the Nuetrons since they
+  move fast, but turn slow is to
+  position myself in the middle
+  and then when they start
+  coming for me do a little "c"
+  shape (to one side or the
+  other) and keep shooting
+  towards where I was to kind of
+  take them out in my sweep.
+  It's not perfect, but it works
+  pretty well.
 
-  I'm really quite bad at this s
-  have to tell you. It takes con
-  keep practicing and you should
+  I'm really quite bad at this
+  stage so that's about the best
+  I have to tell you. It takes
+  concetration and dilligence so
+  just keep practicing and you
+  should get it.
 
     6. Maspente
   o-| I-n-f-o |-o
@@ -3379,19 +4666,33 @@ Planets: 8
   Initial Bombs: 3
 
   o-| S-t-r-a-t-e-g-y |-o
-  Another Asteroid level only th
-  Snakes and a handful of Repuls
-  relatively small even compared
-  levels, but the same rules app
-  the sides to keep them concent
-  your focus evenly over both si
-  up more than the other. Bring 
-  everything out twice as fast a
-  take care of them then go back
+  Another Asteroid level only
+  this time it packs in quite a
+  few Snakes and a handful of
+  Repulsors along with the
+  Asteroids. It's relatively
+  small even compared to some of
+  the other Asteroid levels, but
+  the same rules apply. Keep the
+  Asteroids shoved into the
+  sides to keep them
+  concentrated when they explode
+  and spread your focus evenly
+  over both sides so that one
+  side doesn't fill up more than
+  the other. Bring in the Attack
+  drone so you can take
+  everything out twice as fast
+  and whenever extra enemies
+  spawn take care of them then
+  go back to the Asteroids.
 
-  That's it in a nutshell, if yo
-  back to some of the earlier As
-  rules apply.
+  That's it in a nutshell, if
+  you need more strategy than
+  that look back to some of the
+  earlier Asteroid levels
+  because all the same rules
+  apply.
 
     7. Orbtris
   o-| I-n-f-o |-o
@@ -3480,10 +4781,15 @@ Tricks added
 done in Galaxy "Eta" : Some
 basic info put up : Some extra
 enemy stats put up
-** Progress has been halted for 
-   pts on planet Vireis in Eta a
-   and find out if you can get o
-   findings as soon as I'm done.
+** Progress has been halted for
+   today because I am currently
+   at 500,000,000 pts on planet
+   Vireis in Eta and it's taking
+   forever, but I must press on
+   and find out if you can get
+   over a billion points. I will
+   report my findings as soon as
+   I'm done. **
 
 ~~~~ Version 0.6 __ January 7,
 2008 ~~~~ : Up through galaxy
@@ -3495,7 +4801,7 @@ for everything in the game.
 
  o------------------------------
  |/                             
- |                      About Me
+ | About Me and this Guide |
  0______________________________
  \                              
  o------------------------------

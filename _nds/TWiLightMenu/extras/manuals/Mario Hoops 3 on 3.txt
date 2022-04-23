@@ -1,45 +1,40 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~
    Mario Hoops 3 on 3
     Version 1.0
 
    Written by Devicho
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~
  *+-----------------------------
- *| Table of Contents           
+ *| Table of Contents |*
  *+-----------------------------
 
  +------------------------------
- | 1. Introduction          [A.0
- | 2. Game Information      [B.0
- |      -Basics             [B.0
- | 3. Challenges            [C.0
- |      -Practice           [C.0
- |      -Special Shot       [C.0
- |      -Dribble Race       [C.0
- | 4. Tourney               [D.0
- |      -About Trophies     [D.0
- |      -Mushroom Tourney   [D.0
- |      -Flower Tourney     [D.0
- |      -Star Tourney       [D.0
- |      -Rainbow Tourney    [D.0
- | 5. Exhibition            [E.0
- | 6. Matchup               [F.0
- |      -DS Wireless Play   [F.0
- |      -DS Download Play   [F.0
- | 7. Character Information [G.0
- | 8. Court Information     [H.0
- | 9. Items                 [I.0
- |10. Unlockables           [J.0
- |11. Contact               [K.0
- |12. Copyright             [L.0
- |13. Version History       [M.0
+ | 1. Introduction [A.00]| | 2.
+ Game Information [B.00]| |
+ -Basics [B.01]| | 3. Challenges
+ [C.00]| | -Practice [C.01]| |
+ -Special Shot [C.02]| |
+ -Dribble Race [C.03]| | 4.
+ Tourney [D.00]| | -About
+ Trophies [D.01]| | -Mushroom
+ Tourney [D.02]| | -Flower
+ Tourney [D.03]| | -Star Tourney
+ [D.04]| | -Rainbow Tourney
+ [D.05]| | 5. Exhibition [E.00]|
+ | 6. Matchup [F.00]| | -DS
+ Wireless Play [F.01]| | -DS
+ Download Play [F.02]| | 7.
+ Character Information [G.00]| |
+ 8. Court Information [H.00]| |
+ 9. Items [I.00]| |10.
+ Unlockables [J.00]| |11.
+ Contact [K.00]| |12. Copyright
+ [L.00]| |13. Version History
+ [M.00]|
  +------------------------------
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
  *+-----------------------------
- *| Introduction           [A.00
+ *| Introduction [A.00]|*
  *+-----------------------------
 
 Hello. I'm Devicho, the author
@@ -50,9 +45,8 @@ I hope this guide can aid you in
 some way.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
  *+-----------------------------
- *| Game Information       [B.00
+ *| Game Information [B.00]|*
  *+-----------------------------
 
 Mario Hoops 3 on 3 is a game
@@ -89,9 +83,8 @@ more can be added, but I'll go
 over that a little later.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
  *+-----------------------------
- *| Challenges             [C.00
+ *| Challenges [C.00]|*
  *+-----------------------------
 
 The Challenges section is where
@@ -111,93 +104,137 @@ different techniques.
 
     *Offense*
 01. Dribble!
- "Tap the Touch Screen and you c
- you like.Dribble over the [?] p
- collect coins!"
+ "Tap the Touch Screen and you
+ can dribble wherever you
+ like.Dribble over the [?] panel
+ to quickly collect coins!"
 02. Guard the ball!
  "If an opponent's steal attempt
- you'll lose it! Control where y
- protect the ball!"
+ touches the ball, you'll lose
+ it! Control where you dribble
+ to protect the ball!"
 03. Shoot the ball!
- "Stroke up to shoot the ball! S
- and release to 'stroke'."
+ "Stroke up to shoot the ball!
+ Slide up quickly and release to
+ 'stroke'."
 04. Do a charge shot!
- "Press and hold the Touch Scree
- and charge it! The longer you c
- it will be to make the shot!"
+ "Press and hold the Touch
+ Screen to pick up the ball and
+ charge it! The longer you
+ charge it, the easier it will
+ be to make the shot!"
 05. Pass!
- "Stroke sideways to pass the ba
- the direct you stroked."
+ "Stroke sideways to pass the
+ ball to the teammate the direct
+ you stroked."
 06. Run and dribble!
- "Use the control pad to move! Q
- direction you run to pick up sp
- panel with quick dribbles to co
+ "Use the control pad to move!
+ Quikly dribble in the direction
+ you run to pick up speed! Chase
+ the [?] panel with quick
+ dribbles to collect coins!"
 07. Quick-dash!
- "Use quick dash to make a sudde
- turn, to  make a quick dash, dr
+ "Use quick dash to make a
+ sudden turn! To make a sudden
+ turn, to make a quick dash,
+ dribble the ball in the
   directon you want to move."
 08. Dunk the ball!
- "Shoot the ball while running t
- dunk. The green zone is the are
- make dunks."
+ "Shoot the ball while running
+ towards the basket to dunk. The
+ green zone is the area from
+ where you can make dunks."
 
     *Offense 2*
 09. Do a fake!
- "Slide while getting ready to s
- do fakes at will. Use fakes to 
- while fending off steals, then 
+ "Slide while getting ready to
+ shoot a charge shot to do fakes
+ at will. Use fakes to charge
+ down the court while fending
+ off steals, then make a charge
+ shot!"
 10. Rebound-dunk!
- "Catch the ball as it bounces o
- dunk it! Stroke up while runnni
- to make a rebound dunk."
+ "Catch the ball as it bounces
+ off the basket rim to dunk it!
+ Stroke up while runnning toward
+ the basket to make a rebound
+ dunk."
 11. Charge-dunk!
- "Stoke up repeatedly while runn
- perform a charge dunk. Rub the 
- midair to get more coins. Strok
+ "Stoke up repeatedly while
+ running toward the hoop to
+ perform a charge dunk. Rub the
+ touch screen while in midair to
+ get more coins. Stroke down to
+ do a quick dunk."
 12. Do a trick!
- "Stroke in the direction of you
- down to perform a trick move. U
- off the defense!"
+ "Stroke in the direction of
+ your choice after you stroke
+ down to perform a trick move.
+ Use a trick move to fend off
+ the defense!"
 13. Direct-pass!
- "Pass the ball while holding do
- the direction you stroke. Use a
- the ball up and down."
+ "Pass the ball while holding
+ down 'L' to pass it in the
+ direction you stroke. Use a
+ direct pass to pass the ball up
+ and down."
 
     *Defense*
 01. Steal the ball!
- "You play defense whenever you 
- basket and get the ball back! S
+ "You play defense whenever you
+ lose the ball. Protect the
+ basket and get the ball back!
+ Stroke down to steal the ball."
 02. Jump!
  "Stroke up to jump! Jump up and
+ block shots!"
 03. Jump-steal!
- "Use a jump steal to fend off d
- Stroke up repeatedly to perform
- the basket!"
+ "Use a jump steal to fend off
+ dunks and rebound balls! Stroke
+ up repeatedly to perform a jump
+ steal. Protect the basket!"
 04. Items!
- "Stroke the stylus towards the 
- throw the item you picked up! G
+ "Stroke the stylus towards the
+ direction of your choice and
+ throw the item you picked up!
+ Get an item from the [?] panel!
  Stroke towards the opponent and
+ hit him with the shell!
 05. Swap characters!
  "Briefly press 'L' to switch to
- Stroke sideways while holding d
+ a teammate close to the ball.
+ Stroke sideways while holding
+ down 'L' to switch to a
+ teammate
   in the stroke's direction."
 
     *Defense 2*
 06. Block'em!
- "Move while holding the stylus 
- pad while blocking! Deny oppone
+ "Move while holding the stylus
+ down to block! Move the control
+ pad while blocking! Deny
+ opponent's dribbles and shots
+ with blocks!"
 07. Charge-steal!
- "If you keep blocking, the bloc
- charge steal. While the block c
- a charge steal!"
+ "If you keep blocking, the
+ block color turns red and you
+ can do a charge steal. While
+ the block color turns red,
+ stroke down to do a charge
+ steal!"
 08. Drop-steal!
- "Stroke down while jumping to m
+ "Stroke down while jumping to
+ make your foe drop the ball!"
 09. Sidestep!
- "Stroke sideways to side step. 
- to the opponent's side and stea
+ "Stroke sideways to side step.
+ Use side steps to sneak around
+ to the opponent's side and
+ steal the ball!"
 10. Rebound!
- "Jump and catch the ball as it 
- the timing of your jump to the 
+ "Jump and catch the ball as it
+ bounces around the basket!
+ Match the timing of your jump
+ to the bouncing ball."
 
 +------------------------------+
 | Special Shot           [C.02]|
@@ -280,9 +317,8 @@ will cause you to lose coins.
 Time to beat: 1:00:00
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
  *+-----------------------------
- *| Tourney                [D.00
+ *| Tourney [D.00]|*
  *+-----------------------------
 
 Tournaments are a major part of
@@ -300,11 +336,15 @@ match of a tourney will
 determine which trophy you will
 recieve.
 
-   1-99 higher than your opponen
+   1-99 higher than your
+   opponent each match: bronze
+   trophy.
 100-199 higher than your
 opponent each match: silver
 trophy.
-   200+ higher than your opponen
+   200+ higher than your
+   opponent each match: gold
+   trophy.
 
 +------------------------------+
 | Mushroom Tourney       [D.02]|
@@ -396,9 +436,8 @@ follows:
    -Rainbow Ship
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
  *+-----------------------------
- *| Exhibition             [E.00
+ *| Exhibition [E.00]|*
  *+-----------------------------
 
 Exhibition mode is where you can
@@ -421,9 +460,8 @@ Along with this, you can choose
 the difficulty of the AI.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
  *+-----------------------------
- *| Matchup                [F.00
+ *| Matchup [F.00]|*
  *+-----------------------------
 
 Matchup is where you get
@@ -472,9 +510,9 @@ apologize for not having it
 ready.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
  *+-----------------------------
- *| Character Information  [G.00
+ *| Character Information
+  [G.00]|*
  *+-----------------------------
 
 Here is an overview of each
@@ -486,10 +524,14 @@ to be based on:
 
 All-around: No apparent
 weaknesses or advantages.
- Technical: Great at shooting, b
-  Powerful: Good defense and ste
-    Tricky: Best trick moves, bu
-    Speedy: Fast running and dun
+ Technical: Great at shooting,
+ but take a while to shoot.
+  Powerful: Good defense and
+  stealing, but slow.
+    Tricky: Best trick moves,
+    but slow dunks. Speedy: Fast
+    running and dunking, but
+    poor defense.
 
 +------------------------------+
 | Mario                        |
@@ -546,7 +588,8 @@ making.
 
   Type: Technical
  Special: Flower Shot
-  Baller Name: Cash Money Coin C
+  Baller Name: Cash Money Coin
+  Collector
 
 Diamonds might be a girl's best
 friend, but tons of coins are a
@@ -669,7 +712,8 @@ Konga Dunk? Didn't think so.
 
   Type: Speedy
  Special: Jet Shot
-  Baller Name: Diddy? No he didn
+  Baller Name: Diddy? No he
+  didn't!
 
 Diddy Kong's aerobatics are
 nothing short of amazing. Just
@@ -800,9 +844,8 @@ when he unleashes his 1000
 Needles shot.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
  *+-----------------------------
- *| Court Information      [H.00
+ *| Court Information [H.00]|*
  *+-----------------------------
 
 Here is an overview of each
@@ -976,32 +1019,43 @@ amongst the clouds. There are no
 obsticles on this court.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
  *+-----------------------------
  *| Items                  [I.00
  *+-----------------------------
 
-  Coin: Add 1 point to score whe
- Red Coin: Worth 10 coins.
- Slot Coin: Opens up slots in Jr
- Mushroom: Speed up character.
+  Coin: Add 1 point to score
+  when basket is made.
+ Red Coin: Worth 10 coins. Slot
+ Coin: Opens up slots in Jr.
+ Street. Mushroom: Speed up
+ character.
 Poison Mushroom: Slow down
 character.
-    Green Shell: Flies in the di
- Red Shell: Chases whoever has t
-    Spiny Shell: Chases the ball
-  Bomb: Flies in direction you t
-  Banana: Flies in direction you
- Fake [?] Panel: Flies in direct
- Lightning: Trips up everyone el
+    Green Shell: Flies in the
+    direction to throw it.
+ Red Shell: Chases whoever has
+ the ball.
+    Spiny Shell: Chases the
+    ball, and explodes on
+    contact.
+  Bomb: Flies in direction you
+  throw it, explodes. Banana:
+  Flies in direction you throw
+  it, trips people.
+ Fake [?] Panel: Flies in
+ direction you throw it, trips
+ people. Lightning: Trips up
+ everyone else.
   Star: Makes you invincible and
-  Mimic: Chases ball or drops co
-  Freezy: Encases whoever it tou
+  offers speed boost. Mimic:
+  Chases ball or drops coins in
+  Bloocheep Sea. Freezy: Encases
+  whoever it touches in ice in
+  Sherbet Land.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
  *+-----------------------------
- *| Unlockables            [J.00
+ *| Unlockables [J.00]|*
  *+-----------------------------
 
 (H) denotes that said unlockable
@@ -1121,9 +1175,8 @@ Tourney |
 +--------------+----------------
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
  *+-----------------------------
- *| Contact                [K.00
+ *| Contact [K.00]|*
  *+-----------------------------
 
 If you have a question, comment,
@@ -1148,9 +1201,8 @@ question, please send me a
 message.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
  *+-----------------------------
- *| Copyright              [L.00
+ *| Copyright [L.00]|*
  *+-----------------------------
 
 This guide belongs to Devicho.
@@ -1169,24 +1221,24 @@ violation of copyright.
 The current websites with
 permission to host this guide:
 
--GameFAQs     ( Gamefaqs.com    
--Super Cheats ( Supercheats.com 
--NeoSeeker    ( Neoseeker.com   
+-GameFAQs ( Gamefaqs.com )
+-Super Cheats ( Supercheats.com
+ )
+-NeoSeeker ( Neoseeker.com )
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
  *+-----------------------------
- *| Version History        [M.00
+ *| Version History [M.00]|*
  *+-----------------------------
 
 10-15-06: Version 1.0
 
 10-26-05: Version 2.0
-  Added character bios,
-  Updated websites with hosting 
+  Added character bios, Updated
+  websites with hosting
+  permission.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~
 
 
 

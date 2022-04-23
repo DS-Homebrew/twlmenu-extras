@@ -28,7 +28,9 @@ Last Update - 04-21-2008
 Note - To find a specific
 section fast, hit Ctrl + F to
 open the Find command.
- Type in 1.) for the Character L
+ Type in 1.) for the Character
+ List, or Day # 1 for the
+ section on Day #
  1.  See, not hard at all
 Other Note - This game is rumble
 pack compatible, so use it if
@@ -97,7 +99,7 @@ there!
 11.) Version History
 
 12.) Credits/Contact/Legal
-Information
+   Information
 
 --------------------------------
 1.) Character List
@@ -177,85 +179,80 @@ Information
 
 1) Controls
    > Overworld
-    D-Pad    - Move character; m
-    A Button - Talk/check; choos
-    B Button - N/A; back or canc
-    X Button - Open/close overwo
-    Y Button - N/A
-    L Button - N/A
-    R Button - N/A
-    Start    - N/A
-    Select   - N/A
-    Screen   - Displays your cur
+    D-Pad - Move character; move
+    cursor in menu A Button -
+    Talk/check; choose
+    highlighted item in menu B
+    Button - N/A; back or cancel
+    in menu X Button -
+    Open/close overworld menu Y
+    Button - N/A L Button - N/A
+    R Button - N/A Start - N/A
+    Select - N/A Screen -
+    Displays your current robo,
+    name, class, and cash
 
    > In Battle
    Control Scheme A
-    D-Pad    - Move robo
-    A Button - Jump
-    B Button - Use Gun
-    X Button - Use dash attack
-    Y Button - N/A
-    L Button - Launch Pod
-    R Button - Launch Bomb
-    Start    - N/A
-    Select   - Change view
-    Screen   - Activate Soulboos
+    D-Pad - Move robo A Button -
+    Jump B Button - Use Gun X
+    Button - Use dash attack Y
+    Button - N/A L Button -
+    Launch Pod R Button - Launch
+    Bomb Start - N/A Select -
+    Change view Screen -
+    Activate Soulboost
 
    Control Scheme B
-    D-Pad    - Move robo
-    A Button - Use dash attack
-    B Button - Jump
-    X Button - N/A
-    Y Button - Use Gun
-    L Button - Launch Pod
-    R Button - Launch Bomb
-    Start    - N/A
-    Select   - Change view
-    Screen   - Activate Soulboos
+    D-Pad - Move robo A Button -
+    Use dash attack B Button -
+    Jump X Button - N/A Y Button
+    - Use Gun L Button - Launch
+    Pod R Button - Launch Bomb
+    Start - N/A Select - Change
+    view Screen - Activate
+    Soulboost
 
    Control Scheme C
-    D-Pad    - Move robo
-    A Button - Launch Bomb
-    B Button - Jump
-    X Button - Launch Pod
-    Y Button - Use Gun
-    L Button - N/A
-    R Button - Use dash attack
-    Start    - N/A
-    Select   - Change view
-    Screen   - Activate Soulboos
+    D-Pad - Move robo A Button -
+    Launch Bomb B Button - Jump
+    X Button - Launch Pod Y
+    Button - Use Gun L Button -
+    N/A R Button - Use dash
+    attack Start - N/A Select -
+    Change view Screen -
+    Activate Soulboost
 
    Control Scheme D
-    D-Pad    - Move robo
-    A Button - N/A
-    B Button - Use Gun
-    X Button - Use dash attack
-    Y Button - Launch Bomb
-    L Button - Launch Pod
-    R Button - Jump
-    Start    - N/A
-    Select   - Change view
-    Screen   - Activate Soulboos
+    D-Pad - Move robo A Button -
+    N/A B Button - Use Gun X
+    Button - Use dash attack Y
+    Button - Launch Bomb L
+    Button - Launch Pod R Button
+    - Jump Start - N/A Select -
+    Change view Screen -
+    Activate Soulboost
 
    Control Scheme E
-    D-Pad    - Move robo
-    A Button - Use Gun
-    B Button - Launch Pod
-    X Button - Use dash attack
-    Y Button - Launch Bomb
-    L Button - Jump
-    R Button - N/A
-    Start    - N/A
-    Select   - Change view
-    Screen   - Activate Soulboos
+    D-Pad - Move robo A Button -
+    Use Gun B Button - Launch
+    Pod X Button - Use dash
+    attack Y Button - Launch
+    Bomb L Button - Jump R
+    Button - N/A Start - N/A
+    Select - Change view Screen
+    - Activate Soulboost
 
 2) Menus
   > Overworld Menu
 
    <Garage> Accesses your garage
-   Press R to test-fire current 
-   Press L + A to have your part
-   1st Icon - Customize
+   to customize, pose, or polish
+   your robo. Press R to test-
+   fire current customization
+   against a computer. Press L +
+   A to have your parts chosen
+   randomly 1st Icon - Customize
         - Change Bodies
          - Change Guns
          - Change Bombs
@@ -263,36 +260,64 @@ Information
          - Change Legs
    2nd Icon - Diorama
        - View diorama and change
+         camera angle
           - Pose robo
     - Switch current diorama
      3rd Icon - Maintenance
-        - Clean (Opens Polish Ro
+        - Clean (Opens Polish
+          Robo screen)
  - Choose a cloth to clean with
      4th Icon - Garage Bank
         - Load Data - Load saved
-        - Save Data - Save curre
+          Garage Bank data
+        - Save Data - Save
+          current Garage Bank
+          data
 
-   <Notes> Strategy Advice - Sho
+   <Notes> Strategy Advice -
+   Shows various battle
+   techniques and such.
   Lexicon - Gives the meaning of
-  Movies - The list of movies yo
-  Mission Battle - Categorizes t
-       crown symbolizes you comp
-       red cube shows ones you h
-       ? cube are ones you haven
-       a completed battle to fig
+  certain terms in Custom Robo
+  Arena. Movies - The list of
+  movies you currently have.
+  Press A to view. Mission
+  Battle - Categorizes the 80
+  Mission Battles. The yellow
+       crown symbolizes you
+       completed that battle,
+       while red cube shows ones
+       you have fought and lost.
+       The ? cube are ones you
+       haven't fought yet. Press
+       A on a completed battle
+       to fight it again.
 
-   <Items> A list of the items t
+   <Items> A list of the items
+   that you currently have (i.e.
+   cell phone, map)
 
    <Battle Data> Shows the parts
-    have fought with them.  Pres
+   you currently have, and how
+   many battles you
+    have fought with them. Press
+    R to change the mode (Story,
  Multiplayer, and Nintendo WFC)
 
-   <System> Battle Control - Cho
-   Garage Control - Flip side of
-   Battle Camera - Changes the b
-   Press the R button to return 
+   <System> Battle Control -
+   Choose 1 of 5 different
+   battle control methods Garage
+   Control - Flip side of pose,
+   polish, and view in your
+   garage Battle Camera -
+   Changes the battle camera (In
+   battle press select) Press
+   the R button to return to the
+   default settings.
 
    <Exit to Title> Brings you to
+   the main title screen. Asks
+   if you want to
       save before leaving.
 
    <Save> Saves your game
@@ -1612,6 +1637,7 @@ you a test 1st, so here are the
 answers.
 
    1) I draw the line at illegal
+      parts
    2) Go outside and find him
    3) Tell him to stop
    4) Nope
@@ -2050,7 +2076,8 @@ really.
    10) C: Formula Legs
    11) B: Damage to surroundings
    12) C: Safety lock
-   13) C: Police Squad Special L
+   13) C: Police Squad Special
+       License
 14) B: Holosseum destabilization
    15) C: Touching magma
    16) C: Super cloth
@@ -3998,7 +4025,7 @@ cafeteria
     daughter; she's in
     Hillside's park. Press A
     near the girl with the cube
-    in th
+    in the first flower patch
 Body - Borane
 Gun - Right Spike Gun
 Bomb - Left Wave Bomb
@@ -4009,8 +4036,10 @@ Location - Midheart High
 14) Polly - Collect ingredients
     for her coffee; legendary
     coffee beans - in
-   vase at Stark's house; rare m
-   supersweet sugar - girl behin
+   vase at Stark's house; rare
+   milk - chef at Midheart High;
+   supersweet sugar - girl
+   behind tree at Forester Prep
 Body - Nano
 Gun - Twin Fang Gun
 Bomb - Winder Bomb
@@ -4821,20 +4850,27 @@ Legs - Ground Legs
 1) Chick - Press A on the boxes
    in your Clubhouse. Fight him,
    and he'll give
-  you the Chick, Chick Gun, Chic
+  you the Chick, Chick Gun,
+  Chick Bomb, Chick Pod, and
+  Chick Legs.
 2) X-Ray - Capture Coyote and
    turn him into the police
    before leaving for the
-  Robo Cup, and the police will 
-  X-Ray.  Otherwise, you have to
+  Robo Cup, and the police will
+  have a ceremony and give you
+  the X-Ray. Otherwise, you have
+  to buy it from Underground.
 3) Majel - Fight the hologram
    outside of your Clubhouse,
    and he'll give you the
-  Majel, Indigo Gun, Indigo Bomb
+  Majel, Indigo Gun, Indigo
+  Bomb, Indigo Pod, and the
+  Indigo Legs.
 4) Carat - Fight Angelica at
    NeoBrain 2F, and she'll give
    you the Carat, Carat
-  Gun, Carat Bomb, Carat Pod, an
+  Gun, Carat Bomb, Carat Pod,
+  and the Carat Legs.
 5) AIRS - After getting the Ray
    Sky, battle Stark again, and
    if you win, he'll
@@ -4920,7 +4956,9 @@ Win # = Prize Amount
 Note: For any non-Roman numeral
 readers, I is one, II is two,
 III is three, IV
- is four, V is five, VI is six, 
+ is four, V is five, VI is six,
+ VII is seven, and VIII is
+ eight.
 
 I) Bodies
 
@@ -5217,7 +5255,8 @@ V) Leg
 
 VI) Dioramas
 
-    Series 1 - Central Diorama S
+    Series 1 - Central Diorama
+    Shop - Left
    > Hanger Alpha
    > Steampunk
    > Secret Base
@@ -5239,7 +5278,8 @@ VI) Dioramas
    > On the Beach
    > Dogfighters
 
-    Series 3 - Central Diorama S
+    Series 3 - Central Diorama
+    Shop - Right
    > Hangar Bravo
    > Midbattle Reentry
    > Comet Course
@@ -5267,7 +5307,8 @@ Series 4 - NeoBrain Diorama Shop
    > Savanna Swing
    > Soccer Stadium
 
-    Series 5 - Underground Diora
+    Series 5 - Underground
+    Diorama Shop
    > Penguinvasion!
    > Alley
    > Custom Dojo
@@ -5373,60 +5414,88 @@ VIII) Movies
    1) Ray Mk II Eye-Scan
  > Kid in cafeteria
    2) Ray Mk III Eye-Scan
- > Press A on the Holosseum in K
+ > Press A on the Holosseum in
+ Kindjal's old lab
    3) School
  > Same kid in cafeteria
    4) Setting Sail
  > Talk to the police officer in
+ the bottom right of HQ
    5) Liv
  > Press A on Liv's computer
    6) Hadron
  > Press A on Dennis' bookshelf
    7) Ending
- > Press A on Tamara's left book
+ > Press A on Tamara's left
+ bookshelf
    8) Basic Combo
- > Press A on the bottom of Fore
+ > Press A on the bottom of
+ Forester High's fountain
    9) Jolt Needle
  > Press A on the last bookshelf
+ in school
    10) Sky High Beat
- > Press A on the flowers in Bay
+ > Press A on the flowers in
+ Bayside's front
    11) Poison Needle
- > Press A on the plant in NeoBr
+ > Press A on the plant in
+ NeoBrain's lounge area, 7F
    12) Dragon's Heat
- > Press A on the second set of 
+ > Press A on the second set of
+ lockers in Midheart High
    13) Dinosaur Rush
- > Press A on the Holosseum in y
+ > Press A on the Holosseum in
+ your Dad's lab
    14) Chronos Breaker
- > Press A on the right glass ca
+ > Press A on the right glass
+ case in the board game club in
+ Midheart High
    15) Venom Kiss
- > Press A on Stubbs' bookshelf 
+ > Press A on Stubbs' bookshelf
+ (in his home)
    16) Eagle Lancer
- > Press A on the lower left wal
- Training Gym
+ > Press A on the lower left
+ wall near the police officer in
+ the Training Gym
    17) Buster Tackle
- > Press A on the first locker i
+ > Press A on the first locker
+ in left set of lockers at
+ Police HQ
    18) Stun Blaster
 > Press A behind the Clock Tower
    19) Rough 'n' Tussle
- > Press A on Stark's shelf in t
+ > Press A on Stark's shelf in
+ the top right corner of his
+ house
    20) Meteor Lightning Slash
- > Press A on lockers in the For
+ > Press A on lockers in the
+ Forester Clubhouse
    21) Brass Knucklebone
- > Press A on Tanya's computer (
+ > Press A on Tanya's computer
+ (in her home)
    22) Beanbag Fire
- > Press A on the counter above 
+ > Press A on the counter above
+ the staff member at the
+ Robocenter
    23) Gravity Prison
- > Press A on Serene's shelf wit
+ > Press A on Serene's shelf
+ with the bear on top of it
    24) Wolf Fang
- > Press A on Tamara's right boo
+ > Press A on Tamara's right
+ bookshelf
    25) Explosion Step
- > Press A on the computers in t
+ > Press A on the computers in
+ the NeoBrain facility on the
+ right
    26) Jumping Smash
- > Press A on microwave in your 
+ > Press A on microwave in your
+ Clubhouse
    27) Sliding Bomber
- > Press A on plant thing your h
+ > Press A on plant thing your
+ hallway upstairs
    28) Spider Assault
- > Press A on NeoBrain's upper r
+ > Press A on NeoBrain's upper
+ right Holosseum
    29) Soulboost
  > Given to you by Tanya
 
@@ -5449,18 +5518,28 @@ and understanding) Note 2: I DO
 NOT want hateful and vulgar
 emails. I am not your slave. In
 fact
-  you are probably mine.  Go get
+  you are probably mine. Go get
+  me some tacos! :P
 
 From Dan Q: My son is playing
 the Custom Robo Arena game and
 is stuck on a certain
-   section.  We went to your web
-   to find what we need.  I hope
-   because he is really frustrat
+   section. We went to your
+   website to look for answers
+   and still cannot seem to find
+   what we need. I hope it is
+   okay for us to E-Mail you
+   directly because he is really
+   frustrated and needs some
+   direction.
 
-   Specifically, he is stuck on 
-   Clubhouse.  Can you give us a
-   look on the internet for an a
+   Specifically, he is stuck on
+   Day 10 because he cannot find
+   Team Numero Uno's Clubhouse.
+   Can you give us an idea of
+   what to do at this point or
+   where to look on the internet
+   for an answer?
 
    Sincerly,
 
@@ -5469,26 +5548,40 @@ is stuck on a certain
 A: The Clubhouse is in MidHeart
 High. When you walk into the
 school, go
-   immediately to your right.  T
-   building in that screen.
+   immediately to your right.
+   The clubhouse (Team Numero
+   Uno's) is the only building
+   in that screen.
 
-   To get to Bull's clubhouse, y
-   school.  Head left from there
+   To get to Bull's clubhouse,
+   you must walk into the main
+   central part of school. Head
+   left from there and go into
+   the first door you see.
 
 From Bobby Q: Hey dude, I read
 your walkthrough in GameFAQs. It
 was very helpful but, I
-   didn't understand you in one 
-   get to the underground?
+   didn't understand you in one
+   part. Can you please tell me
+   again how I can get to the
+   underground?
 
 A: First you need to be in the
 grudge match section of the
 game. You need to
    get the Dark Commander's Mark
-   outside of your clubhouse aft
-   you beat him, he will give yo
-   Harbor District.  Talk to the
-   ladder opening to the undergr
+   from the hologram of you. He
+   is located outside of your
+   clubhouse after about 10-13
+   completed grudge battles.
+   When you beat him, he will
+   give you the Mark. Then go to
+   the lower left house in
+   Harbor District. Talk to the
+   man inside, and underneath
+   his bed, will be a ladder
+   opening to the underground.
 
 From R FISH Q: What is your most
 recommended customization with
@@ -5497,7 +5590,9 @@ no illegal parts?
 A: Well, I would recommend
 trying to find parts that best
 fit your playing
-   style.  Not everyone is going
+   style. Not everyone is going
+   to be amazing with the same
+   set up.
 
    Personally, I like:
 
@@ -5510,17 +5605,26 @@ fit your playing
 From Paul
 Q: Hello,
 
-   My name is Paul and I love Cu
-   pond area in Hillside.  I cou
-   still be there?  What would y
-   the Robin especially for him.
-   store?
+   My name is Paul and I love
+   Custom Robo Arena. I am
+   battling Coyote in the pond
+   area in Hillside. I couldn't
+   beat him so I went to sleep.
+   Will he still be there? What
+   would you recommend fighting
+   him with because I bought the
+   Robin especially for him.
+   What guns should I get at the
+   harbor parts store?
 
 A: If you went to sleep, he is
 gone for now, and that probably
 wasn't the best
-   decision.  I recommend using 
-   strong guns, I use the Magnum
+   decision. I recommend using a
+   Metal Ape, as it increases
+   the power. For strong guns, I
+   use the Magnum Gun, but my
+   favorite is the 3-Way Gun.
 
 From Henry Q: Is it OK if I
 download your FAQ? If so, can
@@ -5530,18 +5634,30 @@ you please send it as an
 A: Download for what? Personal
 use? If so, then you can just
 copy it straight
-   from GameFAQs and paste it in
+   from GameFAQs and paste it
+   into notepad. If not, then
+   no.
 
 From Jesper aka jespoOo Q: Hey
 James (I can say James right??)
 
-   I got a suggestion for your F
+   I got a suggestion for your
+   FAQ on Custom Robo Arena.
+   When you have to beat'
    Winchell for Stark's test you
-   Triassic Trouble, Dolphin Mar
-   Dolphin March you don't have 
-   comes the best part) 10,000 c
+   have to give him a diorama
+   right? He wants Triassic
+   Trouble, Dolphin March, or
+   Mummy's Curse. when you give
+   him Dolphin March you don't
+   have to fight him. You'll
+   pass his test and (here comes
+   the best part) 10,000
+   cash/credit whatever.
 
    I hope you can use this info.
+   (Put credit on behalf of
+   jespoOo)
 
 A: Really? That's pretty cool. I
 will add it, it'll probably take
@@ -5556,7 +5672,8 @@ a reaction to
 A: Really, that's pretty funny.
 I have work and stuff, and I'm
 pretty lazy,
-   but I'll add it within the ne
+   but I'll add it within the
+   next ten years or so.
 
 Q: That's a lot faster than
 usual....:P
@@ -5564,13 +5681,24 @@ usual....:P
 From Jon
 Q: To blcklblskt,
 
-   I used your walkthrough for C
-   one question.  After you comp
-   grudge battles, and all of th
-   Liv, what do you do then?  Do
-   get accepted into the IPC?  I
-   be accepted into the IPC like
-   would be great.
+   I used your walkthrough for
+   Custom Robo Arena and it
+   rocked. I just have one
+   question. After you complete
+   all of the mission battles,
+   all of the grudge battles,
+   and all of the underground
+   battles, and then beat Eddy
+   and Liv, what do you do then?
+   Do you go to Liv's house for
+   the party? Do you get
+   accepted into the IPC? I'm
+   kinda confused because I
+   thought that you'd be
+   accepted into the IPC like
+   Kris said. If you could
+   answer this, that would be
+   great.
 
    From,
 
@@ -5579,61 +5707,84 @@ Q: To blcklblskt,
 A: I haven't played in forever.
 But I believe that you still
 don't get into
-   the IPC.  You just get the li
-   that the game is pretty much 
+   the IPC. You just get the
+   license. Did you beat it yet?
+   I'm pretty sure that the game
+   is pretty much over after you
+   beat Liv.
 
 --------------------------------
 11.) Version History
 --------------------------------
 
 .25 - 07-27-2007
- Main structure laid out; walkth
- art done; Controls, Menus, and 
+ Main structure laid out;
+ walkthrough partially done; all
+ planned ASCII art done;
+ Controls, Menus, and Garage
+ done.
 .5 -  07-28-2007
  Walkthrough halfway done.
 1.0 - 07-29-2007
- Walkthrough complete; Grand Bat
+ Walkthrough complete; Grand
+ Battles are next;
 1.5 - 07-30-2007
- Major changes done; Grudge Batt
- done
+ Major changes done; Grudge
+ Battles are almost done, almost
+ all items are done
 2.0 - 07-31-2007
- Grudge Battles are now complete
- some mission battles, but other
+ Grudge Battles are now
+ complete; items are complete.
+ Only thing left are some
+ mission battles, but otherwise
+ done. First time uploaded to
  GameFAQs.com
 2.01- 07-31-2007
- Figures, found one stinkin spel
+ Figures, found one stinkin
+ spelling error.
 2.02- 08-01-2007
  All spelling errors (hopefully)
- list.
+ gone. Supercheats.com added to
+ accepted list.
 2.1 - 08-02-2007
- All mission battles complete, s
- this will be the final update.
+ All mission battles complete,
+ so everything is complete. Most
+ likely, this will be the final
+ update.
 2.2 - 10-21-2007
- Well, I'm back.  I fixed some g
- and silly comments.  Just as a 
- from you guys...
+ Well, I'm back. I fixed some
+ grammar errors, and added a few
+ more dumb and silly comments.
+ Just as a reminder, I still
+ haven't gotten any CDs from you
+ guys...
 2.3 - 1-28-2008
- Fixed some more info, and final
- exist.
+ Fixed some more info, and
+ finally made the "FAQ" part of
+ this walkthru exist.
 Final-4-21-2008
- This will most likely be the fi
- questions, so please post them 
+ This will most likely be the
+ final update. I probably won't
+ answer any questions, so please
+ post them on the CRA board.
+ Thanks guys.
 
 --------------------------------
 12.) Credits/Contact/Legal
-Information
+   Information
 --------------------------------
 
 Lets start with the thankings
 
-1 - GameFAQs.com
-    For hosting my guide and the
+1 - GameFAQs.com For hosting my
+    guide and the legal help;
+    and being awesome
 2 - Me
     For being so awesome
-3 - You
-    For reading this guide, and 
-4 - jespoOo
-    For giving me the $10,000 Wi
+3 - You For reading this guide,
+    and being awesome
+4 - jespoOo For giving me the
+    $10,000 Winchell secret
 
 All trademarks and copyrights
 contained in this document are

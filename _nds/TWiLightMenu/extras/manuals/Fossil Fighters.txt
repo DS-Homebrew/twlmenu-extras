@@ -57,7 +57,7 @@ open the Find command.
 6.) Version History
 
 7.) Credits/Contact/Legal
-Information
+  Information
 
 --------------------------------
 1.) Character List
@@ -108,31 +108,38 @@ Information
 --------------------------------
 
    > Overworld
-    D-Pad    - Move character; m
-    A Button - Talk/interact; ch
-    B Button - N/A; back or canc
-    X Button - Open/close menu
-    Y Button - Open/close team m
-    L Button - Use sonar (only i
-    R Button - Use sonar (only i
-    Start    - Open Save/Options
-    Select   - Open Help Menu
-    TopScreen- Displays Map (Fig
+    D-Pad - Move character; move
+    cursor in menu A Button -
+    Talk/interact; choose
+    highlighted item in menu B
+    Button - N/A; back or cancel
+    in menu X Button -
+    Open/close menu Y Button -
+    Open/close team menu L
+    Button - Use sonar (only in
+    dig sites) R Button - Use
+    sonar (only in dig sites)
+    Start - Open Save/Options
+    Menu Select - Open Help Menu
+    TopScreen- Displays Map
+    (Fighter Area)/
    Displays Sonar, Suitcase fill
+   level (Dig site)
     B.Screen - Displays world
 
    > In Battle
-    D-Pad    - Move cursor
-    A Button - Choose highlighte
-    B Button - back or cancel in
-    X Button - N/A
-    Y Button - N/A
-    L Button - N/A
-    R Button - N/A
-    Start    - Open Surrender me
-    Select   - Open Help Menu
-    TopScreen- Displays useless 
-    B.Screen - Displays battle a
+    D-Pad - Move cursor A Button
+    - Choose highlighted item in
+    menu B Button - back or
+    cancel in menu X Button -
+    N/A Y Button - N/A L Button
+    - N/A R Button - N/A Start -
+    Open Surrender menu Select -
+    Open Help Menu TopScreen-
+    Displays useless
+    commentators/Vivosaurs
+    B.Screen - Displays battle
+    arena
 
 --------------------------------
 3.) Walkthrough
@@ -1057,20 +1064,22 @@ you request me not to.
 --------------------------------
 
 1.0 - 01-28-2010
- Main walkthrough done; main str
- First time submitted to GameFAQ
+ Main walkthrough done; main
+ structure; side missions to
+ come soon! First time submitted
+ to GameFAQs.com
 
 --------------------------------
 7.) Credits/Contact/Legal
-Information
+  Information
 --------------------------------
 
 Lets start with the thankings
 
-1 - GameFAQs.com
-    For hosting my guide and the
-2 - Me
-    This guide didn't write itse
+1 - GameFAQs.com For hosting my
+    guide and the legal help
+2 - Me This guide didn't write
+    itself now did it?
 3 - You
     For reading this guide
 

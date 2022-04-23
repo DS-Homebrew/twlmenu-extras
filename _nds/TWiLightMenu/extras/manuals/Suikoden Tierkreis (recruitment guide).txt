@@ -50,8 +50,11 @@ this version (and at the same
 time, the suikox version)
 correct/updated]
 
-**At this point in time. This Fa
+**At this point in time. This
+  FaQ's completion is 98%
 --As I believe I could probably
+  always think of something to
+  add to this FAQ
 in the future...I'll probably
 never say it's 100% done...--
 
@@ -314,7 +317,8 @@ SoDs I had missed in 1st and 2nd
 playthrough. "Pre-English game
 release" version of this FAQ now
 pretty much complete!
---Submitted to GameFAQs for uplo
+--Submitted to GameFAQs for
+  upload..
 --------------------------------
 
 3/10/09- Got very far on the 2nd
@@ -355,7 +359,8 @@ the game, using "What was the
 last auto recruit you got" as a
 "bookmark"
 
- CTRL+F and/or COMMAND+F and/or 
+ CTRL+F and/or COMMAND+F and/or
+ EDIT>FIND is your best friend!
 
 ((IMPORTANT:: Make your searches
 case sensitive if you can! If
@@ -382,6 +387,14 @@ suggestion.
 ================================
 [QNA01]
 --------------------------(RANDO
+                          M) QUE
+                          STIONS
+                          AND AN
+                          SWERS-
+                          ------
+                          ------
+                          ------
+                          ---
 
 ================================
 ((Possible spoilers in this
@@ -440,10 +453,14 @@ mentioned).
 
 I do know for certain that the
 attack on [Cynas] is the cutoff
-for getting *ANY* SoDs. So if
-you wanted to
+for getting
+*ANY* SoDs. So if you wanted to
+ get all 108 SoDs in your
+ playthrough.
 
-***BE SURE TO GET THEM ALL BEFOR
+***BE SURE TO GET THEM ALL
+   BEFORE YOU LEAVE TO ATTACK
+   CYNAS!!!***
 ===
 
 [where is Cynas? ] ~ Have you
@@ -545,46 +562,58 @@ It's on Rizon.
 
  NOTE::
 
-*Firstly this is a ROUGH LIST--y
+*Firstly this is a ROUGH LIST--
+ you DO NOT have to follow the
+ exact order
 ...although if you attempt to
 recruit someone way after where
 I put them on this list...you
 might find out later they are no
 longer available...
 
-* Names with [ ] OR ( ) around t
+* Names with [ ] OR ( ) around
+  them are NOT recruited
+  automatically
 
-* If their name is in square bra
+* If their name is in square
+  brackets [ ] it means it is
+  the earliest you can
 trigger a (non-automatic)
 event/mission/talk to them etc.
 at that time but they will not
 yet join.
 
-* If their name is in circle bra
+* If their name is in circle
+  brackets ( ) it means you can
+  *ATTEMPT* to
 recruit them from that point on.
 Though there is no guarantee
 you'll succeed.
 
 *If their name is starred AND in
+ circle brackets (* *)...it is
+ the
 APPROXIMATE last chance to
 initialize recruitment of a
 chara... ((Please note that
 these are not 100% confirmed
 'cut-offs'))
 
-* If it's is starred AND in squa
+* If it's is starred AND in
+  square brackets [* *] it is
+  the APPROXIMATE
 last chance to initialize
 event/talk to em so to be able
 to recruit for later. ((Please
 note that these are not 100%
 confirmed 'cut-offs'))
 
-* Automatic/forced meeting of an
+* Automatic/forced meeting of
+  any SoD has been omitted
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~ HERO, JALE,
-MARICA, [YADIMA] HOTUPA, MOANA
+HERO, JALE, MARICA, [YADIMA]
+HOTUPA, MOANA
 
 LOGAN, ERIN, [ANJA] [BALSAM &
 YOD], [LUVAIS], (ANJA), (SELEN)
@@ -656,8 +685,6 @@ ON CYNAS!
 are in [ ] for now...))
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~
 
 Tenkai --HERO
 
@@ -681,8 +708,8 @@ isolated area containing a ruin.
 Approach the Mysterious Ruins
 and you'll first run into him
 (not as a battle encounter, just
-as a cutscene) -[this step may
-be optional]
+as a cutscene)
+-[this step may be optional]
 
 A little after the event that
 results in the automatic
@@ -701,7 +728,8 @@ where you first saw Megion and
 go into the deepest part(of
 those ruins). Dailf & co. will
 fight Megion & co. Win and you
-can ask Megion to join. ~~
+can ask Megion to join.
+~~
 
 Tenmou --VASLOF :: Automatic
 recruit
@@ -721,7 +749,8 @@ Rarohenga plot mission)
 
 Towards the end of the "Get rid
 of Woodland Monster" mission,
-you can ask him to join. ~~
+you can ask him to join.
+~~
 
 Tenei --MARICA :: Automatic
 recruit
@@ -744,8 +773,10 @@ before your first "attack on
 [Chapter Hall]. Luvais will pop
 out and tease/scare you, then
 mention he needs to go look for
-more info on the Order. **Note:
-This "first part" appear
+more info on the Order.
+**Note: This "first part"
+  appears to be triggerable for
+  a LIMITED time
 
 Later, in the middle of your
 trek to visit the porpos-kin, he
@@ -761,8 +792,10 @@ the Order on your HQ.
 Successfully fight them off and
 he'll join after the battle
 after some dialogue in your
-strategy room. **recruit window
-for the "Grayri
+strategy room.
+**recruit window for the
+  "Grayridge event" still not
+  100% clarified **
 
 Tensyo --BELEMUEL :: joins with
 Keflen ((see KEFLEN))
@@ -779,15 +812,18 @@ Consort's quest. Second (titled
 after HQ upgrades.
 
 Note: joins with Minen and
-Buchse **1st part only available
-for li ~~
+Buchse
+**1st part only available for
+  limited time**
+~~
 
 Tensyo --ZAYIN :: Lies dormant
 at the deepest part of the the
 ruins at [Rarohenga] Bring
 Balsam & Yod to fix him and
 afterwards he will automatically
-join. ~~
+join.
+~~
 
 Tenan --LUO TAO :: Automatic
 recruit
@@ -807,7 +843,8 @@ one. Fight her (you do not have
 to win) then return to the
 King's room in [Cragbark]. After
 some talking you can get her to
-join. ~~
+join.
+~~
 
 Tenku --NHAZU :: After your HQ
 has upgraded, travel to the peak
@@ -836,7 +873,8 @@ temporarily. Find where Nhazu is
 standing in your HQ (east exit)
 and you'll find Dogha standing
 next to him. Talk to Dogha again
-and then he'll join. ~~
+and then he'll join.
+~~
 
 Tensoku --TSAUBERN :: Sometime
 after the event where you've
@@ -860,7 +898,8 @@ IMPORTANT NOTE: When you go to
 initially meet him, make sure
 that Yula is NOT in your party,
 otherwise Tsaubern WILL NOT
-APPEAR. ~~
+APPEAR.
+~~
 
 Teni --DOGHA :: joins shortly
 after Nhazu does ((see NHAZU))
@@ -893,7 +932,8 @@ and speak with her again, this
 time picking the new option that
 appears. Afterwards you can ask
 her to join you after some
-dialogue. ~~
+dialogue.
+~~
 
 Tenkyu --SELEN :: After settling
 into your HQ, she will appear
@@ -905,7 +945,8 @@ automatically join.
 Note: The first time you see her
 she introduces herself only and
 you can't actually try to beat
-her yet until the next time. ~~
+her yet until the next time.
+~~
 
 Tentai --JALE :: Automatic
 recruit
@@ -948,7 +989,8 @@ series of scenes, you can ask
 them to join you and he will
 agree to on the condition that
 you beat them first. Defeat them
-and his group will join. ~~
+and his group will join.
+~~
 
 Tenhei --CHRODECHILD ::
 Automatic recruit
@@ -1002,7 +1044,8 @@ YOU MUST SUCCEED in the mission,
 then go back to speak to Gilliam
 in his office. He will then
 insist on joining your army as
-repayment for your help. ~~
+repayment for your help.
+~~
 
 Chisatsu --MISRACH :: You will
 first meet him during the escort
@@ -1036,7 +1079,8 @@ show him something. You'll
 automatically be taken to an
 area in Mislato River and after
 some dialogue & a tiny event, he
-has joined. ~~
+has joined.
+~~
 
 Chiyu --REKAREKA :: You first
 run into her and her son outside
@@ -1057,7 +1101,8 @@ Afterwards she will make another
 request titled "I need Laggart
 Pelts". Accept and complete it
 successfully and they will
-finally join you. ~~
+finally join you.
+~~
 
 Chiketsu --MUBAL :: Automatic
 recruit
@@ -1081,7 +1126,8 @@ conquered Fort [Ark], visit
 Chapter Hall you'll see the two
 standing there. Talk to them
 again and you can ask them to
-join you. ~~
+join you.
+~~
 
 Chiei --CHIHAYA :: Joins with
 Yomi ((See YOMI))
@@ -1113,7 +1159,8 @@ follow the path then at fork go
 straight south)
 
 Note: Ordovik confirmed NOT to
-work ((mysterious huh?)) ~~
+work ((mysterious huh?))
+~~
 
 Chisei --HAFIN :: After Asad
 'officially' joins you (along
@@ -1132,7 +1179,8 @@ triggers randomly]
 events can be flipped and can be
 done out of order-- see NAKIL
 for the description of the other
-recruit event)) ~~
+recruit event))
+~~
 
 Chikatsu --KEFLEN :: After
 [Janam] kingdom dissapears, you
@@ -1156,7 +1204,8 @@ him collapsed in...go to the
 deepest part of the ruins again
 and an event will occur. After
 some dialogue Keflen will join
-you. ~~
+you.
+~~
 
 Chitou --YADIMA :: Be sure to
 talk to him in his little hamlet
@@ -1181,7 +1230,8 @@ Complete it successfully
 (sending people with high attack
 should work) then go back and
 talk to him afterwards. He'll
-"officially" join. ~~
+"officially" join.
+~~
 
 Chikyou --HINA :: A little after
 the automatic recruiting of
@@ -1199,10 +1249,13 @@ room- chat a bit- and then after
 awhile she will ask to join your
 army.
 
-*Note: If you can't get the requ
+*Note: If you can't get the
+ request to appear, talk to
+ Xebec first and have
 him mention something about
 "needing to contact his island's
-leaders somehow" ~~
+leaders somehow"
+~~
 
 Chian --MOURGENT :: At some
 point after recruiting Yula,
@@ -1231,7 +1284,8 @@ will fight one-on-one. If she
 beats him, Mourgent will be
 recruited. ((Possibly do not
 need to beat him to join?
-*untested)) ~~
+*untested))
+~~
 
 Chijiku --KHEMIA :: After
 recruiting Geschutz, Buchse, and
@@ -1250,7 +1304,8 @@ talk to them and Quillard will
 run off. Chase after him and
 rescue him from enemy soldiers.
 After some dialogue, they'll
-agree to join your army. ~~
+agree to join your army.
+~~
 
 Chiyu --QUILLARD :: joins with
 Amaralicht ((See AMARALICHT))
@@ -1266,7 +1321,8 @@ recruit ((Extra note: be sure to
 talk to him in Manaril's room
 after the plot event, otherwise
 he isn't "officially" added to
-the tablet quite yet)) ~~
+the tablet quite yet))
+~~
 
 Chikyu --YULA :: After your
 return from [Woodland Village]
@@ -1281,7 +1337,8 @@ recruit Yula. (Note: If
 Chrodechild is in your party
 when you initially go to find
 her, you'll have to speak with
-her twice) ~~
+her twice)
+~~
 
 Chibaku --NOMNO :: After your HQ
 upgrades, try talking to Nomno
@@ -1295,7 +1352,8 @@ within your HQ (after talking to
 Nemne) and Nomno will finally
 get up and move. He'll then
 officially be added to your
-roster/tablet. ~~
+roster/tablet.
+~~
 
 Chizen --NUZHAT :: You will
 first run into her if you enter
@@ -1316,7 +1374,8 @@ Afterwards, bring Mubal to speak
 with Nuzhat (she's inside the
 residence house in Sarusabil)
 and after an event (and a "boss
-battle"), she will join. ~~
+battle"), she will join.
+~~
 
 Chikou --SERVILLAH :: Automatic
 recruit
@@ -1339,7 +1398,8 @@ further to run into Rufa and
 another mandatory battle will
 occur. There will be a small
 event after and then he (and
-Rufa) will be recruited. ~~
+Rufa) will be recruited.
+~~
 
 Chisou --BALSAM :: You can first
 meet him in [Grayridge]'s
@@ -1367,7 +1427,8 @@ found in [Naineneis]'s trading
 post--check the open chest) and
 bring it to him. After he fixes
 the elevator (he needs 10 days
-to fix it) he will join you. ~~
+to fix it) he will join you.
+~~
 
 Chikou --GUNTRAM :: Automatic
 recruit
@@ -1395,7 +1456,8 @@ join you after looking at his
 (Note: You might need to look
 through his "info" several times
 before the option to ask him to
-join pops up) ~~
+join pops up)
+~~
 
 Chisyu --KASHGAR :: Automatic
 recruit
@@ -1467,7 +1529,8 @@ afterwards find him cowering in
 a corner of the town's alley.
 Bring Logan to talk to him and
 after they talk, you can recruit
-him. ~~
+him.
+~~
 
 Chisyun --YOD :: joins with
 Balsam ((see BALSAM))
@@ -1496,7 +1559,8 @@ Immediately after you enter a
 battle and he shows off his
 support ability and Hero decides
 he better take Ramin back to HQ
-with him. ~~
+with him.
+~~
 
 Chitatsu --HOTUPA :: Automatic
 recruit
@@ -1536,7 +1600,8 @@ back to Nofret -again with Shams
 and Manaril in your party- and
 speak with her again. After some
 more dialogue, she'll finally
-join you. ~~
+join you.
+~~
 
 Chikei --MINEN :: Joins with
 Buchse and Geschutz
@@ -1566,12 +1631,14 @@ in Neira's room when it's
 "Sprout" season as well...
 
 **2nd note: PLEASE TRY TO START
+  TALKING TO HIM ASAP!!!!!
 If you start talking to him VERY
 LATE in the game, he will be
 missable as the game won't think
 enough time has passed for the
 Hero to ask him why he won't
-stay instead.** ~~
+stay instead.**
+~~
 
 Chiyou --SISUCA :: After
 recruiting more than 10 SoDs (A
@@ -1583,10 +1650,12 @@ the mayor's house and after some
 dialogue go back to your HQ's
 cafeteria(or bar if HQ has not
 upgraded yet) and she will be
-there --aka a forced join--
+there
+--aka a forced join--
 Note: Bringing Marica to meet
 her will trigger additional
-dialogue from Marica ~~
+dialogue from Marica
+~~
 
 Chiyu --NAKIL :: Sometime after
 Hafin joins, return to Mislato
@@ -1601,11 +1670,14 @@ done out of order-- see HAFIN
 for the description of the other
 recruit event))
 
-**NOTE: This recruit event, if t
+**NOTE: This recruit event, if
+  triggered first, can
+  potentially speed up
 the other recruit event related
 to Hafin and Nakil ((See HAFIN
 for description the other
-event)) ~~
+event))
+~~
 
 Chifuku --LEN LIEN :: Automatic
 recruit (joins with Luo Tao)
@@ -1628,7 +1700,8 @@ Astrasia ] kingdom)
 
 After running into him those 5
 times and some dialogue...he'll
-finally join. ~~
+finally join.
+~~
 
 
 Chiku --NEMNE :: Automatic
@@ -1648,7 +1721,8 @@ your visit to [Janam] (Note:
 From the mine entrance, turn
 east and approach the first
 "bend" in the path and Anju
-should be standing there ) ~~
+should be standing there )
+~~
 
 Chitan --MORRIN :: Do a mission
 requested by her titled "Find
@@ -1675,7 +1749,8 @@ Chrodechild, and Erin] )
 and after Icas joins you, Morrin
 and Yovel will as well after a
 mini-event (which includes a
-battle). ~~
+battle).
+~~
 
 Chikaku --YOVEL :: Joins with
 Morrin ((see MORRIN))
@@ -1686,7 +1761,8 @@ request titled "Gather Animals!"
 will become available. Complete
 the quest successfully and
 return to [Cragbark] to ask him
-to join. ~~
+to join.
+~~
 
 Chizou --WUSTUM :: After
 finishing the plot mission "Make
@@ -1725,7 +1801,8 @@ and you'll trigger a scene and a
 battle. After the battle you can
 convince Wustum to join. (Note:
 You will automatically fail the
-actual request) ~~
+actual request)
+~~
 
 Chihei --BUCHSE :: Joins with
 MINEN & GESCHUTZ
@@ -1738,7 +1815,8 @@ Valley]. Go to that area and go
 to the dead end area where there
 is a waterfall. You will find
 him standing there and then you
-can convince him to join you. ~~
+can convince him to join you.
+~~
 
 Chido --HAO SHI :: Talk to Hao
 Shi immediately after Defending
@@ -1759,7 +1837,8 @@ you've talked to him about
 the Woodlands." Sucessfully
 complete the mission and Hao Shi
 will finally agree to join after
-all the quest/mission events. ~~
+all the quest/mission events.
+~~
 
 Chisatsu --LATHILDA :: After the
 liberation of [ Astrasia ]. Talk
@@ -1803,7 +1882,8 @@ recruiting process]]
 of the "scribes" (Liu, Luo Tao,
 Len Lien, etc) with you. You
 will not be able to find
-Lathilda and Bosche)) ~~
+Lathilda and Bosche))
+~~
 
 Chiaku --DIIWICA :: Automatic
 recruit
@@ -1826,7 +1906,8 @@ porpos-kin, he'll leave again.
 Then after that he'll appear in
 your HQ's tavern area after it
 upgrades. Just talk to him one
-last time and he'll join. ~~
+last time and he'll join.
+~~
 
 Chisu --LOGAN :: Automatic
 recruit
@@ -1852,7 +1933,8 @@ screen and tries to approach him
 he will run off. To stop him
 from running off, bring Savina
 to meet him and after some
-dialogue you can recruit him. ~~
+dialogue you can recruit him.
+~~
 
 Chisou --SAVINA :: After your
 return from [Woodland Village]
@@ -1867,7 +1949,8 @@ have some dialogue where Hero
 recalls about them beforehand in
 order for Savina to appear (Talk
 to Icas at HQ to make the
-conversation appear) ~~
+conversation appear)
+~~
 
 Chiretsu --NUMNU :: After
 gaining the support of the
@@ -1878,7 +1961,8 @@ he'll mention he likes humans.
 Later on he will join you after
 you complete the "Porpos
 abducted" request ((Check DROMON
-for details)) ~~
+for details))
+~~
 
 Chiken --ICAS :: Joins in the
 middle of Morrin's recruit event
@@ -1910,7 +1994,8 @@ with Moana.
 Now go into the portal to talk
 to Tongatihi again and after
 some dialogue, you can convince
-him to join your army. ~~
+him to join your army.
+~~
 
 Chizoku --MUN TSANG :: You will
 first find her in [Gineh Valley]
@@ -1935,7 +2020,8 @@ Rarohenga) you can find her
 standing at the northern
 entrance to Fort [Ark]. Bring
 Liu to talk to her and you can
-finally convince her to join. ~~
+finally convince her to join.
+~~
 
 Chikou --TUHULULU :: Joins with
 his mother Rekareka ((See

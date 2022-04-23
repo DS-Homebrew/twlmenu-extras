@@ -1,7 +1,8 @@
 ________________________________
 
 ////////////////////////////////
-     Soul Bubbles (DS) FAQ/Walkt
+     Soul Bubbles (DS)
+     FAQ/Walkthrough
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 _______________________________b
 
@@ -9,19 +10,25 @@ _______________________________b
 ================================
        Table of Contents
 ================================
-    Press Ctrl+F and enter a cod
-   to the right to jump to a sec
+    Press Ctrl+F and enter a
+    code listed
+   to the right to jump to a
+   section of the guide.
 ________________________________
 
   1. Legal Disclaimer...........
+     ..............[LD0]
   2. Version History............
+     ..............[VH0]
 
     2.1 Version 0.25
     2.2 Version 0.3
     2.3 Version 0.x
 
   3. Introduction...............
+     ..............[IN0]
   4. How to Play................
+     ..............[CT0]
 
      4.1 Moving Psychopomp
        4.2 Moving Bubbles
@@ -31,28 +38,38 @@ ________________________________
     4.6 Options
 
   5. Enemies and Obstacles......
+     ..............[EO0]
 
     5.1 Enemies.................
+      ..........[EO1]
     5.2 Obstacles...............
+      ..........[EO2]
 
   6. Unlockables................
+     ..............[UL0]
 
     6.1 Ranks
        6.2 Golden Clocks
-      6.3 Secret Messages
+    6.3 Secret Messages
     6.4 Gallery
        6.5 Secret Levels
 
   7. Gameplay Tips..............
+     ..............[GT0]
 
        8.1 Time and Rank
     8.2 Less Baggage
 
   8. Walkthrough................
+     ..............[WT0]
 
-    8.1 Initiation Levels.......
+    8.1 Initiation
+      Levels.................[WT
+      1]
     8.2 Tir Taingire............
+      ..........[WT2]
     8.3 Altjeringa..............
+      ..........[WT3]
     8.4 ........................
     8.5 ........................
     8.6 ........................
@@ -92,10 +109,13 @@ on the following sites:
 Version 0.25                    
 --------------------------------
 
-+ General information, tips, ene
-  done up to Altjeringa 1.
++ General information, tips,
+  enemies, obstacles, and the
+  walkthrough are done up to
+  Altjeringa 1.
 
-- The table of contents isn't fu
+- The table of contents isn't
+  functional.
 
 - The guide is unpolished.
 
@@ -103,32 +123,42 @@ Version 0.25
 Version 0.3                     
 --------------------------------
 
-+ The Altjeringa 1 walkthrough i
++ The Altjeringa 1 walkthrough
+  is finished.
 
-+ The guide has had cosmetic rec
++ The guide has had cosmetic
+  reconstruction.
 
-+ Enemies and obstacles are now 
++ Enemies and obstacles are now
+  separate.
 
-+ The table of contents is now f
-  codes.
++ The table of contents is now
+  functional and contains
+  3-digit Ctrl+F codes.
 
 --------------------------------
 Version 0.x                     
 --------------------------------
 
 + The table of contents has been
+  updated.
 
-+ "Unlockables" now contains "Se
++ "Unlockables" now contains
+  "Secret Messages".
 
-+ "Controls" is now "How to Play
-  it.
++ "Controls" is now "How to
+  Play" and has "Important
+  Objects" added to it.
 
-+ Rather than being an entire se
-  subsection in "How to Play".
++ Rather than being an entire
+  section, "Collectibles" is now
+  a subsection in "How to Play".
 
-+ Various minor tweaks and updat
++ Various minor tweaks and
+  updates have been made.
 
-+ The Altjeringa walkthrough is 
++ The Altjeringa walkthrough is
+  complete.
 
 ================================
 3. Introduction                 
@@ -164,10 +194,11 @@ you are credited.
 4.1 Moving Psychopomp
 --------------------------------
 
-4.1a Great Spirit Tree ~~~~ From
-the Spirit Tree overview, you
-can see you calabash stash in
-the middle, seven surrounding
+4.1a Great Spirit Tree
+~~~~
+From the Spirit Tree overview,
+you can see you calabash stash
+in the middle, seven surrounding
 worlds, a back arrow, and a down
 arrow. Tap a world to make
 Psychopomp move there. Double
@@ -187,14 +218,15 @@ return to the main menu.
 
   *  *  *
 
-4.1b Gameplay ~~~~ Your screen
-will generally follow the
-spirits. To move your character
-(Psychopomp), click a spot on
-the screen and he will move
-there. To move your screen away
-from the spirits, slide your
-stylus to the edge of the
+4.1b Gameplay
+~~~~
+Your screen will generally
+follow the spirits. To move your
+character (Psychopomp), click a
+spot on the screen and he will
+move there. To move your screen
+away from the spirits, slide
+your stylus to the edge of the
 screen. You can also bring up
 your map (hold down) and click
 somewhere to move there.
@@ -233,71 +265,80 @@ holding corresponding direction
 button. While wearing a mask,
 you gain a unique ability.
 
-4.3a Tiger Mask ~~~~ You will
-receive this mask at the start
-of Initiation 3. It allows you
-to cut obstacles and enemies as
-well as divide and combine
-bubbles. To wear this mask, hold
-right. Slide your stylus while
-wearing this mask to make a cut.
-To divide a bubble, cut a
-straight line from one side of
-the bubble to the other. To
-combine two touching bubbles,
-cut a line from the middle of
-one bubble to the middle of
-another.
+4.3a Tiger Mask
+~~~~
+You will receive this mask at
+the start of Initiation 3. It
+allows you to cut obstacles and
+enemies as well as divide and
+combine bubbles. To wear this
+mask, hold right. Slide your
+stylus while wearing this mask
+to make a cut. To divide a
+bubble, cut a straight line from
+one side of the bubble to the
+other. To combine two touching
+bubbles, cut a line from the
+middle of one bubble to the
+middle of another.
 
   *  *  *
 
-4.3b Bird Mask ~~~~ You will
-receive this mask at the start
-of Tir Taingire 1. It allows you
-to create new bubbles. To create
-a bubble, hold up and draw a
-circle in and open space. This
-mask also allows you to increase
-the size of a bubble by creating
-a new bubble and binding it to
-another via the Tiger Mask.
+4.3b Bird Mask
+~~~~
+You will receive this mask at
+the start of Tir Taingire 1. It
+allows you to create new
+bubbles. To create a bubble,
+hold up and draw a circle in and
+open space. This mask also
+allows you to increase the size
+of a bubble by creating a new
+bubble and binding it to another
+via the Tiger Mask.
 
   *  *  *
 
-4.3c Elephant Mask ~~~~ You will
-receive this mask with the Bird
-Mask. It allows you to deflate
-bubbles, even to the point of
-popping. To deflate a bubble,
-hold left and touch the bubble
-with the stylus. This can be
-used to collect items that are
-completely blocked off by making
-a new bubble inside the closed-
-off area.
+4.3c Elephant Mask
+~~~~
+You will receive this mask with
+the Bird Mask. It allows you to
+deflate bubbles, even to the
+point of popping. To deflate a
+bubble, hold left and touch the
+bubble with the stylus. This can
+be used to collect items that
+are completely blocked off by
+making a new bubble inside the
+closed-off area.
 
 --------------------------------
 4.4 Important Objects
 --------------------------------
 
-4.4a Celestial Stones ~~~~ These
-are safe spots for spirits. When
-you start a level, you will find
-seven spirits gathered in one of
-these spheres.
+4.4a Celestial Stones
+~~~~
+These are safe spots for
+spirits. When you start a level,
+you will find seven spirits
+gathered in one of these
+spheres.
 
   *  *  *
 
-4.4b Gateway Cube ~~~~ Placed at
-the end of a level this is your
-destination for your spirits.
-Let your spirit-filled bubble
-hover here for a few seconds and
-the spirits will enter.
+4.4b Gateway Cube
+~~~~
+Placed at the end of a level
+this is your destination for
+your spirits. Let your spirit-
+filled bubble hover here for a
+few seconds and the spirits will
+enter.
 
   *  *  *
 
-4.4c All-Knowing Stones ~~~~
+4.4c All-Knowing Stones
+~~~~
 This is a stone with a question
 mark on it. All-Knowing Stones
 appear in many levels throughout
@@ -308,20 +349,23 @@ it for a helpful hint.
 4.5 Collectibles
 --------------------------------
 
-4.5a Stardust ~~~~ Stardust will
-show you the way through the
-level. You can collect stardust
-by touching it with a bubble.
-Collecting more stardust will
-earn you a higher rank at the
-end of a level. When you collect
-the final piece of stardust in a
-level, it will glow green and
-make a different sound.
+4.5a Stardust
+~~~~
+Stardust will show you the way
+through the level. You can
+collect stardust by touching it
+with a bubble. Collecting more
+stardust will earn you a higher
+rank at the end of a level. When
+you collect the final piece of
+stardust in a level, it will
+glow green and make a different
+sound.
 
   *  *  *
 
-4.5b Stardust Clusters ~~~~
+4.5b Stardust Clusters
+~~~~
 Stardust clusters appear in more
 obscure locations than stardust
 and consist of a red star in the
@@ -332,16 +376,17 @@ cluster worth eighteen.
 
   *  *  *
 
-4.5c Spirits ~~~~ Seven spirits
-are found at the beginning of a
-level, huddled together in a a
-celestial stone. To complete a
-level, at least one of those
-spirits must make it to the
-Gateway Cube at the end of the
-level. Spirits must be
-transported inside a bubble. If
-a spirit is left outside a
+4.5c Spirits
+~~~~
+Seven spirits are found at the
+beginning of a level, huddled
+together in a a celestial stone.
+To complete a level, at least
+one of those spirits must make
+it to the Gateway Cube at the
+end of the level. Spirits must
+be transported inside a bubble.
+If a spirit is left outside a
 bubble or celestial sphere for
 too long, it will die.
 
@@ -355,17 +400,19 @@ from the previous world.
 
   *  *  *
 
-4.5d Calabashes ~~~~ Vitamin
-filled treasures. Mmmmm...
-These, coupled with stardust and
-spirits, determine your rank for
-a level, but calabash are much
-more rare. There are three of
-them per level starting with Tir
-Taingire 2. When spirits are
-near a calabash, they will turn
-into hearts. Calabashes can only
-be collected by spirits. When
+4.5d Calabashes
+~~~~
+Vitamin filled treasures.
+Mmmmm... These, coupled with
+stardust and spirits, determine
+your rank for a level, but
+calabash are much more rare.
+There are three of them per
+level starting with Tir Taingire
+2. When spirits are near a
+calabash, they will turn into
+hearts. Calabashes can only be
+collected by spirits. When
 replaying a level, calabashes
 that have already been collected
 will be blue.
@@ -374,13 +421,14 @@ will be blue.
 4.6 Options
 --------------------------------
 
-4.6a Sound ~~~~ Go here first
-and switch the sound to
-"Surround" if you're using the
-DS speakers. It makes the sound
-quality much better. The other
-two options are "Stereo" and
-"Headphones".
+4.6a Sound
+~~~~
+Go here first and switch the
+sound to "Surround" if you're
+using the DS speakers. It makes
+the sound quality much better.
+The other two options are
+"Stereo" and "Headphones".
 
   *  *  *
 
@@ -390,14 +438,16 @@ A gallery of unlockable images.
 
   *  *  *
 
-4.6c Credits ~~~~ View the names
-of the people responsible for
-Soul Bubbles. Tap the letters to
-make them break away and make a
-sound. Letters farther to the
-left will make lower sounds and
-letters to the right will make
-higher sounds.
+4.6c Credits
+~~~~
+View the names of the people
+responsible for Soul Bubbles.
+Tap the letters to make them
+break away and make a sound.
+Letters farther to the left will
+make lower sounds and letters to
+the right will make higher
+sounds.
 
   *  *  *
 
@@ -407,10 +457,11 @@ No surprises here.
 
   *  *  *
 
-4.6e Saving ~~~~ Saving is
-automatic in Soul Bubbles and
-happens whenever you exit a
-level.
+4.6e Saving
+~~~~
+Saving is automatic in Soul
+Bubbles and happens whenever you
+exit a level.
 
 
 ================================
@@ -421,52 +472,59 @@ level.
 5.1 Enemies                     
 --------------------------------
 
-5.1a Canaries ~~~~ These yellow
-birds will grab your bubble and
-toss it around like like a beach
-ball and will also toss it into
-wind channels. Tap them once or
-twice to kill them.
-
-  *  *  *
-
-5.1b Owls ~~~~ These gray birds
-will grab your bubble and run
-off with it, preventing you from
-moving the bubble until you kill
-them. To kill these birds, cut
-them with your Tiger Mask.
-
-  *  *  *
-
-5.1c Ravens ~~~~ These black
-birds are fast and will not
-hesitate to throw your bubble
-into spikes. One touch will kill
+5.1a Canaries
+~~~~
+These yellow birds will grab
+your bubble and toss it around
+like like a beach ball and will
+also toss it into wind channels.
+Tap them once or twice to kill
 them.
 
   *  *  *
 
-5.1d Bees ~~~~ More like a
-humming bird on drugs, these
-things will fly at your bubble
-and try to grab a spirit out of
-it. Two taps will take this
-sucker out.
+5.1b Owls
+~~~~
+These gray birds will grab your
+bubble and run off with it,
+preventing you from moving the
+bubble until you kill them. To
+kill these birds, cut them with
+your Tiger Mask.
 
   *  *  *
 
-5.1e Chameleons ~~~~ Chameleons
-are green lizards that attack
-with their tongues. A chameleon
-will attach its tongue to a
-bubble with a spirit in it and
-reel it in to eat a spirit
-inside. They will eat one spirit
-and then fall asleep, but to
-prevent this, you can either cut
-their tongue when they stick it
-out, or tap to stun them.
+5.1c Ravens
+~~~~
+These black birds are fast and
+will not hesitate to throw your
+bubble into spikes. One touch
+will kill them.
+
+  *  *  *
+
+5.1d Bees
+~~~~
+More like a humming bird on
+drugs, these things will fly at
+your bubble and try to grab a
+spirit out of it. Two taps will
+take this sucker out.
+
+  *  *  *
+
+5.1e Chameleons
+~~~~
+Chameleons are green lizards
+that attack with their tongues.
+A chameleon will attach its
+tongue to a bubble with a spirit
+in it and reel it in to eat a
+spirit inside. They will eat one
+spirit and then fall asleep, but
+to prevent this, you can either
+cut their tongue when they stick
+it out, or tap to stun them.
 Stunning won't release their
 grip, but it will prevent them
 from grabbing you in the first
@@ -476,7 +534,8 @@ times.
 
   *  *  *
 
-5.1f Moles (Itjaritjari) ~~~~
+5.1f Moles (Itjaritjari)
+~~~~
 Moles are found with a pair of
 holes that look like really
 short tree stumps. They will pop
@@ -501,15 +560,17 @@ consistent blows.
 
   *  *  *
 
-5.2b Tight Spaces ~~~~ To get
-through a tight space, cut or
-deflate your bubble until you
-have small enough bubbles to
+5.2b Tight Spaces
+~~~~
+To get through a tight space,
+cut or deflate your bubble until
+you have small enough bubbles to
 blow through the space.
 
   *  *  *
 
-5.2c Mushroom Switches ~~~~
+5.2c Mushroom Switches
+~~~~
 These switches generally open a
 nearby log door. To activate it,
 push it with a bubble. If there
@@ -521,83 +582,98 @@ touch both of the switches.
 
   *  *  *
 
-5.2d Vines ~~~~ Vines will trap
-your bubble by sticking
-themselves to it. Cut them to
-free your bubble from their
-grasp.
+5.2d Vines
+~~~~
+Vines will trap your bubble by
+sticking themselves to it. Cut
+them to free your bubble from
+their grasp.
 
   *  *  *
 
-5.2e Shroud ~~~~ Shroud is the
-black mass that prevent you from
-seeing a level before you
-venture it. Spirits will remove
-any surrounding shroud.
+5.2e Shroud
+~~~~
+Shroud is the black mass that
+prevent you from seeing a level
+before you venture it. Spirits
+will remove any surrounding
+shroud.
 
   *  *  *
 
-5.2f Moving Scenery ~~~~ To put
-it frankly, this is scenery that
-moves. They move in the way and
-they move out of the way. They
-come in two sizes, big and
-small. Simple enough. Just blow
-past them.
+5.2f Moving Scenery
+~~~~
+To put it frankly, this is
+scenery that moves. They move in
+the way and they move out of the
+way. They come in two sizes, big
+and small. Simple enough. Just
+blow past them.
 
   *  *  *
 
-5.2g Spikes ~~~~ Spikes don't
-move, but if your bubble touches
-one, it will pop. Take caution
-around these things.
+5.2g Spikes
+~~~~
+Spikes don't move, but if your
+bubble touches one, it will pop.
+Take caution around these
+things.
 
   *  *  *
 
-5.2h Spinning Wheels ~~~~ Much
-like wind channels, these will
-move your bubble in the same
-direction they are spinning.
+5.2h Spinning Wheels
+~~~~
+Much like wind channels, these
+will move your bubble in the
+same direction they are
+spinning.
 
   *  *  *
 
-5.2i Closed-Off Areas ~~~~ To
-traverse an area with no
+5.2i Closed-Off Areas
+~~~~
+To traverse an area with no
 entrance, draw a new bubble
 inside the area.
 
   *  *  *
 
-5.2j Sandstorms ~~~~ This is an
-area covered by airborne sand
-that blows back and forth. A
-wind channel with no sense of
-direction.
+5.2j Sandstorms
+~~~~
+This is an area covered by
+airborne sand that blows back
+and forth. A wind channel with
+no sense of direction.
 
   *  *  *
 
-5.2k Fragile Rocks ~~~~ These
-are round rocks that can be
-broken. When a spirit gets near
-one, a hand-print will appear on
-it. Tap the rock to destroy it.
+5.2k Fragile Rocks
+~~~~
+These are round rocks that can
+be broken. When a spirit gets
+near one, a hand-print will
+appear on it. Tap the rock to
+destroy it.
 
   *  *  *
 
-5.2l Falling Rocks ~~~~ These
-are harmless rocks that fall and
-knock your bubble out of the
-way. They are continuous, much
-like a wind channel.
+5.2l Falling Rocks
+~~~~
+These are harmless rocks that
+fall and knock your bubble out
+of the way. They are continuous,
+much like a wind channel.
 
   *  *  *
 
-5.2m Sturdy Rocks ~~~~ These are
-the same as fragile rocks except
-they are varied in shape and
-size, don't glow, and they break
-by sliding your stylus over them
-rather than tapping.
+5.2m Sturdy Rocks
+~~~~
+These are the same as fragile
+rocks except they are varied in
+shape and size, don't glow, and
+they break by sliding your
+stylus over them rather than
+tapping.
 
 ================================
 6. Unlockables                  
@@ -642,15 +718,17 @@ messages for fulfilling a
 certain requirement.
 
 6.3a "Faster than the wind!"
-~~~~ You finished the level very
+~~~~
+You finished the level very
 fast. This will give you a
 golden clock.
 
   *  *  *
 
-6.3b "Petal Blower!" ~~~~ I
-don't know what this one means.
-I got it when I finished
+6.3b "Petal Blower!"
+~~~~
+I don't know what this one
+means. I got it when I finished
 Altjeringa 3 in 33:03 with an S
 ranking. Maybe it just means
 you're extremely slow.
@@ -664,9 +742,10 @@ flowers in a level.
 
   *  *  *
 
-6.3c "Nature Lover!" ~~~~ Thanks
-to dirty_cowboy of GameFAQs.
-Here's his quote.
+6.3c "Nature Lover!"
+~~~~
+Thanks to dirty_cowboy of
+GameFAQs. Here's his quote.
 
 "On a couple of levels I've had
 'nature lover' on the end of
@@ -770,11 +849,12 @@ the start of Initiation 3.
 
 --------------------------------
 8.2 Tir Taingire - Where the
-wind blows [WT2]
+  wind blows [WT2]
 --------------------------------
 
-8.2a Tir Taingire 1 ~~~~ Total
-Stardust: 62 (There are no
+8.2a Tir Taingire 1
+~~~~
+Total Stardust: 62 (There are no
 calabashes in this level)
 
 Bubble the spirits and head
@@ -1113,7 +1193,7 @@ cluster above the branch.
 
 --------------------------------
 8.3 Altjeringa - Where earth
-itches [WT3]
+  itches [WT3]
 --------------------------------
 
 8.3a Altjeringa 1

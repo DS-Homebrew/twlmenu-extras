@@ -7,54 +7,58 @@ by Lisa Hayes Version 1.3 -
 Table of Contents
 #################
 0. Introduction
-  Author's Info                 
-  Guide/Game Info               
-  Version History               
-  Acknowledgement               
+  Author's Info LH-LISA
+  Guide/Game Info LH-GUIDE
+  Version History LH-HISTORY
+  Acknowledgement LH-
+  ACKNOWLEDGEMENT
 
 1. The Game
-  Overview                      
-  The Game's Beginning          
-  The Start Menu                
-   Inventory                    
-   Skills                       
-   Friends                      
+  Overview LH-OVERVIEW The
+  Game's Beginning LH-BEGIN The
+  Start Menu LH-START
+   Inventory LH-INVENTORY Skills
+   LH-SKILLS Friends LH-FRIENDS
    Farm                         
-   Shipping History             
-   Friendliness                 
-   Plot Items                   
+   Shipping History LH-SHIPPING
+   Friendliness LH-FRIENDLINESS
+   Plot Items LH-PLOT
 Farming LH-FARMING
-   Using Touch Screen           
-   Farming Basics               
-   Farming QnA                  
-   Types Of Seeds               
-    Spring Seeds                
-    Summer Seeds                
-    Fall Seeds                  
-   Farm Tools                   
-    Tool Upgrades               
-  Spelunking                    
-   Caves and Seasons            
-   Character Status             
-   Healing Status Changes       
-   Monster and You              
-    Fighting Type Monsters      
-    Farming Type Monsters       
-    Monster Care and Produce    
-  The Village                   
-   Village Shops                
-   Marriage Requirements        
-   Bachelorettes                
-   Festivals                    
+   Using Touch Screen LH-
+   FARMTOUCH Farming Basics LH-
+   FARMBASICS Farming QnA LH-
+   FARMQNA Types Of Seeds LH-
+   SEEDTYPES
+    Spring Seeds LH-SEEDSPRING
+    Summer Seeds LH-SEEDSUMMER
+    Fall Seeds LH-SEEDFALL
+   Farm Tools LH-TOOLS
+    Tool Upgrades LH-TOOLUPGRADE
+  Spelunking LH-DUNGEON
+   Caves and Seasons LH-CAVES
+   Character Status LH-STATUS
+   Healing Status Changes LH-
+   STATHEAL Monster and You LH-
+   MONSTERS
+    Fighting Type Monsters LH-
+    MONFIGHT Farming Type
+    Monsters LH-MONFARM Monster
+    Care and Produce LH-MONCARE
+  The Village LH-VILLAGE
+   Village Shops LH-SHOPS
+   Marriage Requirements LH-
+   MARRIAGE Bachelorettes LH-
+   GIRLS Festivals LH-FESTIVALS
   Miscellaneous
-   Fishing Lists                
-   Mining Lists                 
-   Monster Drop Item List       
-   The 4 Empty Bottles          
-   The Power Foods              
-  Walkthrough                   
+   Fishing Lists LH-FISHLIST
+   Mining Lists LH-MINELIST
+   Monster Drop Item List LH-
+   MONITEMLIST The 4 Empty
+   Bottles LH-BOTTLES The Power
+   Foods LH-POWERFOODS
+  Walkthrough LH-WALKTHROUGH
 
-  Copyright                     
+  Copyright LH- COPYRIGHT
 
 ********************************
 Author's Info LH-LISA
@@ -95,12 +99,16 @@ home with this game.
 Version History LH-HISTORY
 ********************************
 Version 1.3 - 2/09/2008
-    - Small correction on the mo
-    - Minor modification on the 
+    - Small correction on the
+      monster items.
+    - Minor modification on the
+      Copyright Section
 
 Version 1.2 - 2/07/2008
     - Added Walkthrough
-    - Removed Credits Section an
+    - Removed Credits Section
+      and added Acknowledgement
+      Section
     - Accepted in GameFAQs
 
 Version 1.1 - 2/06/2008
@@ -118,14 +126,18 @@ Version 0.5 - 2/02/2008
     - Added Monster and You
 
 Version 0.4 - 2/01/2008
-    - Added Character Status, an
-    - Added the Village, and Vil
+    - Added Character Status,
+      and Healing Status Changes
+    - Added the Village, and
+      Village Shops
 
 Version 0.3 - 1/30/2008
-    - Added Spelunking section, 
+    - Added Spelunking section,
+      and Caves and Seasons
 
 Version 0.2 - 1/29/2008
-    - Added Farm Tools and Farm 
+    - Added Farm Tools and Farm
+      Upgrades
 
 Version 0.1 - 1/28/2008
     - Started the FAQ
@@ -137,15 +149,23 @@ ACKNOWLEDGEMENT
 The following are acknowledged
 to post my guide on their
 website. GameFAQs
- - the original purpose of this 
+ - the original purpose of this
+   guide.
+   (http://www.gamefaqs.com)
 HongFire
- - where i usually stay on the w
+ - where i usually stay on the
+   web.
+   (http://wwww.hongfire.com)
 Dave Allison
- - affiliated with (Cheat Code C
+ - affiliated with (Cheat Code
+   Central -
+   http://www.cheatcc.com)
 Leo Chan
- - affiliated with (NeoSeeker - 
+ - affiliated with (NeoSeeker -
+   http://www.neoseeker.com)
 Dennis
- - affiliated with (SuperCheats 
+ - affiliated with (SuperCheats
+   - http://www.supercheats.com)
 
 The following are acknowledged
 for helping me create this
@@ -153,12 +173,20 @@ guide. I thank them sincerely
 for granting me permission to
 use their information in the
 creation of this guide. Cherubae
- - proprietor of (Ushi No Tae We
+ - proprietor of (Ushi No Tae
+   Website -
+   http://www.fogu.com/hm/)
  - most of the monster names and
- gather them all. Also the boss 
+   drops. I just don't have the
+   time to
+ gather them all. Also the boss
+ stats of the game.
 cfai84
- - for the schedules of the bach
- the timetable a bit to suit my 
+ - for the schedules of the
+   bachelorettes in the game. I
+   had to modify
+ the timetable a bit to suit my
+ formatting.
 
 ********************************
 OVERVIEW LH-OVERVIEW
@@ -589,29 +617,40 @@ Farming QnA LH-FARMQNA
 Q. I did all that was written on
 the farming basics but on the
 next day, the
-   seeds disappear! Why is this 
+   seeds disappear! Why is this
+   happening?
 A. One explanation would be you
 are planting the seeds on the
 wrong season.
-   Certain seeds only grow on ce
-   the wrong season, they would 
+   Certain seeds only grow on
+   certain seasons, and if you
+   plant the seed on the wrong
+   season, they would dissapear
+   on the next day.
 
 Q. I spread the wrong seed! How
 do i erase/remove them from the
 soil? A. As far as i can tell,
 there is no method in removing
 the seeds once they
-   are placed on the tilled soil
-   wasted a pack of seeds, i gue
+   are placed on the tilled
+   soil. Not even fully-charged
+   tools work. You just wasted a
+   pack of seeds, i guess. Seeds
+   are invulnerable in the game.
 
 Q. I missed watering the
 seeds/plants! Will it wither and
 die? A. Actually, it does not
 affect the growth of the plants
 in anyway, save that
-   you just missed it on that da
-   you missed watering them on t
-   equivalent to a third day of 
+   you just missed it on that
+   day. If the plant needs five
+   days to grow, and you missed
+   watering them on the third
+   day, watering them the next
+   day is equivalent to a third
+   day of growth of the plant.
 
 Q. What is this Greenifier? And
 how do i use it in farming? A. A
@@ -619,27 +658,42 @@ greenifier is an item that can
 be bought in the Clinic. It's
 effect on
    the seeds increases its level
-   the cursor to a patch of seed
-   is no visual indication that 
-   crops, you should notice one 
-   rest.
-   <>NOTE<>
-   Don't be greedy and drop mult
-   different days. It doesn't wo
+   by one. To use the
+   greenifier, position the the
+   cursor to a patch of seeds.
+   Take out the greenifier and
+   use it. There is no visual
+   indication that the item is
+   used, but when you harvest
+   the crops, you should notice
+   one crop with a higher level,
+   separated from the rest.
+   <>NOTE<> Don't be greedy and
+   drop multiple greenifiers on
+   the same seed, even on
+   different days. It doesn't
+   work that way.
 
 Q. What is this formula A? And
 how do i use it in farming? A.
 Formula A is another item that
 has its uses in farming. It
 shortens the
-   crop to ripen in 1 day. How t
-   greenifier. You can also use 
-   same day. That way, you get t
-   rest.
-   <>NOTE<>
-   Like the greenifier, don't be
-   seed on the same day. Wait fo
-   the same seed/plant.
+   crop to ripen in 1 day. How
+   to use the item is just the
+   same as using the greenifier.
+   You can also use this item
+   after using the greenifier on
+   the same day. That way, you
+   get to harvest the crop a day
+   earlier than the rest.
+   <>NOTE<> Like the greenifier,
+   don't be greedy and use
+   multiple formula on the same
+   seed on the same day. Wait
+   for next day and you can use
+   another formula on the same
+   seed/plant.
 
 Q. When the crops have fully
 grown, i see glowing spheres on
@@ -649,14 +703,24 @@ A. My, those are the blessings
 of the earth! Just my guess
 though, but they
    are known in the game as rune
-   growing the crops, the game a
-   spheres restores a bit of RP 
-   after utilizing your rune poi
-   <>NOTE<>
-   Take note that when you have 
-   rune spheres also disappears!
-   harvested the crops, instead 
-   find that they have also disa
+   spheres. In addition to
+   successfully growing the
+   crops, the game also rewards
+   you with rune spheres. These
+   spheres restores a bit of RP
+   on your character, so it is
+   best to grab them after
+   utilizing your rune points in
+   the game. <>NOTE<> Take note
+   that when you have harvested
+   the crops and leave the area,
+   the rune spheres also
+   disappears! So don't be silly
+   and grab them when you have
+   harvested the crops, instead
+   of saving them and leaving
+   the area, only to find that
+   they have also disappeared.
 
 Q. What is this level on my
 crops? I use a greenifier, and
@@ -666,21 +730,36 @@ A. That is actually a good
 thing. Higher level crops have
 higher values than
    lower level crops. They raise
-   crop nets ten times the amoun
-   <>NOTE<>
-   While theoretically, the high
-   you plant a lv100 seed, you'l
-   your crops is already the max
+   the value by a factor of 1.
+   So a level ten crop nets ten
+   times the amount compared to
+   a level 1 crop. <>NOTE<>
+   While theoretically, the
+   highest level attainable in
+   this game is 100, when you
+   plant a lv100 seed, you'll
+   only harvest lv10 crops. So
+   having lv10 on your crops is
+   already the maximum profit
+   you can achieve.
 
 Q. I hear phantom crops. Is this
 real? A. Yep, phantom crops are
 real, though the way Mist said
 it is misleading. An
-   accurate description for phan
-   number of days in a season fo
-   the farmland found in dungeon
-   takes a really long time to g
-   storyline so don't expect the
+   accurate description for
+   phantom crops, would be crops
+   that exceeds the number of
+   days in a season for them to
+   grow. Simply put, you'll
+   mostly use the farmland found
+   in dungeons for them to fully
+   grow since phantom crops
+   takes a really long time to
+   grow. They are available
+   after you beat the storyline
+   so don't expect them too
+   soon.
 
 ********************************
 Types Of Seeds LH-SEEDTYPES
@@ -882,6 +961,7 @@ HOW TO OBTAIN: Visit the Seed
 Shop and talk to Rosetta, but
 before she gives
    the item, you need to till at
+   least 50 patches of farmland.
 
 The sickle can be used to cut
 plants and weeds on your farm.
@@ -909,8 +989,10 @@ Hammer
 HOW TO OBTAIN: Visit the
 Blacksmith Shop and talk to Leo,
 but before he gives
-   the item, you need to have a 
-   at least 50 patches of farmla
+   the item, you need to have a
+   pass on the first cave, and
+   till at least 50 patches of
+   farmland inside the cave.
 
 While hammer is mainly used for
 mining ores, it also has its
@@ -995,163 +1077,171 @@ Hoe
 --------------------------------
 Level 2 - Sturdy Hoe (Skill
 Level 10)
-  1 Cheap Hoe
-  2 Iron            |  mine in C
-  1 Bronze          |  mine in C
+  1 Cheap Hoe 2 Iron | mine in
+  Carmite Cave 1 Bronze | mine
+  in Carmite Cave
 
 Level 3 - Seasoned How (Skill
 Level 20)
-  1 Sturdy Hoe
-  3 Silver          |  mine in C
-  1 Iron            |  mine in C
+  1 Sturdy Hoe 3 Silver | mine
+  in Carmite Cave 1 Iron | mine
+  in Carmite Cave
 
 Level 4 - Shiny Hoe (Skill Level
 30)
-  1 Seasoned Hoe
-  2 Gold            |  mine in M
-  1 Silver          |  mine in C
-  1 Diamond         |  mine in T
+  1 Seasoned Hoe 2 Gold | mine
+  in Mt. Gigant 1 Silver | mine
+  in Carmite Cave 1 Diamond |
+  mine in Toros Cave
 
 Level 5 - Blessed Hoe (Skill
 Level 40)
-  1 Seasoned Hoe
-  1 Platinum        |  mine in K
-  2 Gold            |  mine in M
-  1 Earth Crystal   |  mine in M
-  1 Broken Hilt     |  Faust in 
+  1 Seasoned Hoe 1 Platinum |
+  mine in Kasimir Ruins 2 Gold |
+  mine in Mt. Gigant 1 Earth
+  Crystal | mine in Mt. Gigant 1
+  Broken Hilt | Faust in Greed
+  Cave
 
 Watering Can
 --------------------------------
 Level 2 - Tin Waterpot (Skill
 Level 10)
-  1 Cheap Waterpot
-  2 Iron            |  mine in C
-  1 Bronze          |  mine in C
+  1 Cheap Waterpot 2 Iron | mine
+  in Carmite Cave 1 Bronze |
+  mine in Carmite Cave
 
 Level 3 - Lion Waterpot (Skill
 Level 20)
-  1 Tin Waterpot
-  2 Silver          |  mine in C
-  1 Bronze          |  mine in C
-  1 Sapphire        |  mine in T
+  1 Tin Waterpot 2 Silver | mine
+  in Carmite Cave 1 Bronze |
+  mine in Carmite Cave 1
+  Sapphire | mine in Toros Cave
 
 Level 4 - Rainbow Waterpot
 (Skill Level 30)
-  1 Lion Waterpot
-  1 Gold            |  mine in M
-  1 Ruby            |  mine in C
-  1 Emerald         |  mine in K
-  1 Amethyst        |  mine in M
-  1 Aquamarine      |  mine in M
+  1 Lion Waterpot 1 Gold | mine
+  in Mt Gigant 1 Ruby | mine in
+  Clemens Cave 1 Emerald | mine
+  in Kasimir Ruins 1 Amethyst |
+  mine in Mt. Gigant 1
+  Aquamarine | mine in Misty
+  Bloom Cave
 
 Level 5 - Joy Waterpot (Skill
 Level 40)
-  1 Rainbow Waterpot
-  2 Platinum        |  mine in K
-  1 Emerald         |  mine in K
-  1 Magic Powder    |  you can b
-  1 Fairy Powder    |  Fairy in 
+  1 Rainbow Waterpot 2 Platinum
+  | mine in Kasimir Ruins 1
+  Emerald | mine in Kasimir
+  Ruins 1 Magic Powder | you can
+  buy in the Medicine Shop 1
+  Fairy Powder | Fairy in
+  Kasimir Ruins
 
 Axe
 --------------------------------
 Level 2 - Chopping Axe (Skill
 Level 10)
-  1 Cheap Axe
-  2 Iron            |  mine in C
-  1 Bronze          |  mine in C
+  1 Cheap Axe 2 Iron | mine in
+  Carmite Cave 1 Bronze | mine
+  in Carmite Cave
 
 Level 3 - Lumber Axe (Skill
 Level 20)
-  1 Chopping Axe
-  2 Silver          |  mine in C
-  1 Bronze          |  mine in C
+  1 Chopping Axe 2 Silver | mine
+  in Carmite Cave 1 Bronze |
+  mine in Carmite Cave
 
 Level 4 - Mountain Axe (Skill
 Level 30)
-  1 Lumber Axe
-  2 Gold            |  mine in M
-  1 Bronze          |  mine in C
-  1 Ruby            |  mine in C
+  1 Lumber Axe 2 Gold | mine in
+  Mt. Gigant 1 Bronze | mine in
+  Carmite Cave 1 Ruby | mine in
+  Clemens Cave
 
 Level 5 - Miracle Axe (Skill
 Level 40)
-  1 Mountain Axe
-  3 Platinum        |  mine in K
-  1 Angered Fang    |  Blood Pha
+  1 Mountain Axe 3 Platinum |
+  mine in Kasimir Ruins 1
+  Angered Fang | Blood Phanter
+  in Danann Cave
 
 Sickle
 --------------------------------
 Level 2 - Iron Sickle (Skill
 Level 10)
-  1 Cheap Sickle
-  2 Iron            |  mine in C
-  1 Scrap Iron      |  mine in C
+  1 Cheap Sickle 2 Iron | mine
+  in Carmite Cave 1 Scrap Iron |
+  mine in Carmite Cave
 
 Level 3 - Quality Sickle (Skill
 Level 20)
-  1 Iron Sickle
-  2 Silver          |  mine in C
-  1 Bronze          |  mine in C
+  1 Iron Sickle 2 Silver | mine
+  in Carmite Cave 1 Bronze |
+  mine in Carmite Cave
 
 Level 4 - Super Sickle (Skill
 Level 30)
-  1 Quality Sickle
-  3 Gold            |  mine in M
+  1 Quality Sickle 3 Gold | mine
+  in Mt. Gigant
 
 Level 5 - Legend Sickle (Skill
 Level 40)
-  1 Super Sickle
-  2 Platinum        |  mine in K
-  1 Bronze          |  mine in C
-  1 Iron            |  mine in C
-  1 Scrap Iron      |  mine in C
+  1 Super Sickle 2 Platinum |
+  mine in Kasimir Ruins 1 Bronze
+  | mine in Carmite Cave 1 Iron
+  | mine in Carmite Cave 1 Scrap
+  Iron | mine in Carmite Cave
 
 Hammer
 --------------------------------
 Level 2 - Iron Hammer (Skill
 Level 10)
-  1 Cheap Hammer
-  2 Iron            |  mine in C
-  1 Scrap Iron      |  mine in C
+  1 Cheap Hammer 2 Iron | mine
+  in Carmite Cave 1 Scrap Iron |
+  mine in Carmite Cave
 
 Level 3 - Silver Hammer (Skill
 Level 20)
-  1 Iron Hammer
-  2 Silver          |  mine in C
-  1 Bronze          |  mine in C
+  1 Iron Hammer 2 Silver | mine
+  in Carmite Cave 1 Bronze |
+  mine in Carmite Cave
 
 Level 4 - Golden Hammer (Skill
 Level 30)
-  1 Silver Hammer
-  4 Gold            |  mine in M
+  1 Silver Hammer 4 Gold | mine
+  in Mt. Gigant
 
 Level 5 - Platinum Hammer (Skill
 Level 40)
-  4 Platinum        |  mine in K
-  1 Hammer Piece    |  Hammer Tr
+  4 Platinum | mine in Kasimir
+  Ruins 1 Hammer Piece | Hammer
+  Troll in Clemens Cave
 
 Rod
 --------------------------------
 Level 2 - Bamboo Rod (Skill
 Level 10)
-  1 Cheap Rod
-  1 Scrap Iron      |  mine in C
-  1 Bronze          |  mine in C
+  1 Cheap Rod 1 Scrap Iron |
+  mine in Carmite Cave 1 Bronze
+  | mine in Carmite Cave
 
 Level 3 - Willow Rod (Skill
 Level 20)
-  1 Bamboo Rod
-  1 Iron            |  mine in C
-  1 Strong String   |  Spider in
-  1 Strong Vine     |  Plantcore
+  1 Bamboo Rod 1 Iron | mine in
+  Carmite Cave 1 Strong String |
+  Spider in Mt. Gigant 1 Strong
+  Vine | Plantcore in Danann
+  Cave
 
 Level 4 - Famous Rod (Skill
 Level 30)
-  1 Willow Rod
-  2 Silver          |  mine in C
-  1 Strong String   |  Spider in
-  1 Strong Vine     |  Plantcore
-  1 Fairy Powder    |  Fairy in 
+  1 Willow Rod 2 Silver | mine
+  in Carmite Cave 1 Strong
+  String | Spider in Mt. Gigant
+  1 Strong Vine | Plantcore in
+  Danann Cave 1 Fairy Powder |
+  Fairy in Kasimir Ruins
 
 ********************************
 Spelunking LH-DUNGEON
@@ -1159,8 +1249,9 @@ Spelunking LH-DUNGEON
 HOW TO OBTAIN: You can obtain a
 permit from Godwin, the mayor of
 the town, but
-   before he gives you one, you 
-   of farmland.
+   before he gives you one, you
+   are required to till 100
+   patches of farmland.
 
 Spelunking, or exploring the
 caves is another feature in Rune
@@ -1208,6 +1299,7 @@ HOW TO OBTAIN: Till at least 50
 patches of farmland inside
 Carmite Cave. Visit
    Godwin, and he should issue a
+   permit for this cave.
 BOSS         : Chimera  (460 HP)
 
 
@@ -1216,7 +1308,8 @@ Clemens Cave  (Summer Season)
 HOW TO OBTAIN: Visit the library
 and a scene should occur. Then,
 visit Godwin
-   on his manor, and he should i
+   on his manor, and he should
+   issue a permit for this cave.
 BOSS : Rafflesia (780 HP)
 
 
@@ -1226,6 +1319,7 @@ HOW TO OBTAIN: Till at least 100
 patches of farmland inside
 Clemens Cave. The
    mayor should issue a pass for
+   this dungeon.
 BOSS         : Grimoa  (999 HP)
 
 
@@ -1234,19 +1328,25 @@ Misty Bloom Cave  (Fall Season)
 HOW TO OBTAIN: Till at least 100
 patches of farmland on Mt.
 Gigant. Visit the
-   mayor, and he will issue a pe
+   mayor, and he will issue a
+   permit for this dungeon.
 BOSS : Siren (1300 HP) NOTE :
 Misty Bloom Cave is only
 accessible in Winter. Also, make
 sure
-   to bring the teleport spell w
-   overshoot the winter season, 
-   using the teleport spell.
+   to bring the teleport spell
+   when spelunking. That way,
+   even if overshoot the winter
+   season, you can still return
+   to your home using the
+   teleport spell.
 NOTE2 : This is important, and a
 warning. Using a sleeping bag,
 on
-   Winter 30 will corrupt your s
-   not use the sleeping bag on t
+   Winter 30 will corrupt your
+   save game and the game
+   itself. Do not use the
+   sleeping bag on that day.
 
 
 Kasimir Ruins  (Spring Season)
@@ -1254,10 +1354,15 @@ Kasimir Ruins  (Spring Season)
 How TO OBTAIN: There are two
 requirements for Kasimir Ruins
 to be unlocked in
-   the game. One is to Till at l
-   Misty Bloom Cave. The second 
-   at least 10 monsters in your 
-   Godwin should give you the pe
+   the game. One is to Till at
+   least 100 patches of farmland
+   on Misty Bloom Cave. The
+   second requirement is to
+   befriend and own at least 10
+   monsters in your farm. If you
+   fulfill these two, Godwin
+   should give you the permit to
+   this dungeon.
 BOSS         : Golum  (1680 HP)
 
 
@@ -1267,6 +1372,7 @@ HOW TO OBTAIN: Just defeat the
 boss of the last dungeon, and
 the mayor should
    issue the permit to this cave
+   without too much fuss.
 BOSS : Battle Tank (2000 HP)
 
 
@@ -1276,6 +1382,7 @@ HOW TO OBTAIN: Just defeat the
 boss of the last dungeon, and
 the mayor should
    issue the permit to this cave
+   without too much fuss.
 BOSS : Grimoire (2600 HP)
 
 
@@ -1355,28 +1462,36 @@ items)
 Friendship Glove : Find Tabatha
 and talk to her. She will give
 the friend
-     ship glove. Use the glove t
-     do not necessarily have to 
-     friendship level of 2 to Ta
+     ship glove. Use the glove
+     to befriend the monsters.
+     You do not necessarily have
+     to build a Monster Hut,
+     just a friendship level of
+     2 to Tabatha is enough.
 Brush : Once you have
 successfully captured any type
 of monster,
-     head over to Neumann's hous
+     head over to Neumann's
+     house and talk to Felicity.
+     She
    will give the item to you.
 Gathering Basket : Once you have
 successfully captured any
 monster that can
      produce honey or eggs, talk
+     to Neumann at his store. He
    will give the item to you.
 Shears/Clippers : Capture
 Woolly! The only monster capable
 of producing furs
      in the game. Once captured,
+     talk to Camus and he will
     give the item for free.
 Milker : Once you have
 successfully captured any
 monster, you can
      obtain this item by talking
+     to Jasper in his mansion.
 
 
 On your first encounter with
@@ -1559,7 +1674,8 @@ hut gets one unit of grass.
 feeds, the friendship level of
 your monsters go
   down, so make sure to check on
-  via the start menu.
+  the amount of feeds left on
+  each hut via the start menu.
 
 ********************************
 The Village LH-VILLAGE
@@ -2081,9 +2197,12 @@ so that they can be married, but
 there are general requirements
 in marrying a girl.
 
-* Upgrade your house   =  talk t
-* Own a double bed     =  buy fr
-* Complete Kitchen     =  buy th
+* Upgrade your house = talk to
+  Neumann to upgrade the house.
+* Own a double bed = buy from
+  Ivan
+* Complete Kitchen = buy the
+  Accessories from Ivan
 * FP and LP at 10
 
 
@@ -2111,17 +2230,22 @@ gifts you give to her. RAISING
 LOVE POINT: Talk to her
 everyday. Festivals.
 REQUIREMENTS FOR MARRIAGE:
- Raise your friendship with Jasp
+ Raise your friendship with
+ Jasper to at least 3 points.
 PROPOSAL:
- Find Bianca on a holiday, 9:00a
+ Find Bianca on a holiday,
+ 9:00am - 3:00pm in the plaza.
 SCHEDULE:
 Weekdays:
- 6:00am  -  5:50am   =  Jasper's
-    10:00pm  - 11:00pm   =  Giga
+ 6:00am - 5:50am = Jasper's
+ Mansion
+    10:00pm - 11:00pm = Gigant
+    Hot Springs (friday)
 Weekends:
- 6:00am  -  9:00am   =  Jasper's
- 9:00am  -  5:00pm   =  Park
- 5:00pm  -  5:50am   =  Jasper's
+ 6:00am - 9:00am = Jasper's
+ Mansion 9:00am - 5:00pm = Park
+ 5:00pm - 5:50am = Jasper's
+ Mansion
 
 
 Felicity  (Fall 05)
@@ -2137,28 +2261,41 @@ POINT: Talk to her during
 festivals. REQUIREMENTS FOR
 MARRIAGE:
  Solve her mystery illness!
- First, head to the library and 
- Wait until you reach the part w
- After the rescue, talk to her i
- the book.
- Visit Felicity in the evening i
- a round stone to you.
- Take the stone and give it to t
- will dispose of it.
- Talk to Felicity. She is reliev
+ First, head to the library and
+ read the book about cursed
+ stones. Wait until you reach
+ the part where you rescue
+ Cecilia in Clemens cave. After
+ the rescue, talk to her in the
+ library. Ceci will mention
+ about the book. Visit Felicity
+ in the evening in the Mayor's
+ mansion. She will hand over a
+ round stone to you. Take the
+ stone and give it to the
+ doctor. It is a cursed stone
+ and he will dispose of it. Talk
+ to Felicity. She is relieved
+ and her health returns to
+ normal.
 PROPOSAL:
- Find Felicity on a holiday, noo
+ Find Felicity on a holiday,
+ noon - 4:00pm in the plaza.
 SCHEDULE:
 Weekdays:
- 6:00am  -  9:00am   =  Mayor's 
- 9:00am  -  5:00pm   =  Neumann'
- 6:00pm  -  5:50am   =  Mayor's 
- 7:00pm  -  8:00pm   =  Gigant H
+ 6:00am - 9:00am = Mayor's
+ Mansion 9:00am - 5:00pm =
+ Neumann's Farm 6:00pm - 5:50am
+ = Mayor's Mansion 7:00pm -
+ 8:00pm = Gigant Hot Springs
+ (friday)
 
 Weekends:
- 6:00am  - 00:00pm   =  Mayor's 
+ 6:00am - 00:00pm = Mayor's
+ Mansion
     00:00pm  -  5:00pm   =  Park
- 6:00pm  -  5:50am   =  Mayor's 
+ 6:00pm - 5:50am = Mayor's
+ Mansion
 
 
 Lara  (Winter 01)
@@ -2173,24 +2310,28 @@ someone cares about you. RAISING
 LOVE POINT: Gifts. She likes
 strawberries, so give some for
 her. REQUIREMENTS FOR MARRIAGE:
- Find Lapis Lazuli!
- Wait until you reach the part w
+ Find Lapis Lazuli! Wait until
+ you reach the part where you
+ rescue Cecilia in Clemens cave.
  After the rescue, visit Ceci in
- the Lapis Lazuli.
+ the library in the evening. She
+ will give the Lapis Lazuli.
  Give the Lapis Lazuli to Lara.
 PROPOSAL:
  Anywhere.
 SCHEDULE:
 Weekdays:
- 6:00am  -  9:00am   =  Chapel
- 9:00am  -  6:00pm   =  Edward's
- 6:00pm  -  5:00am   =  Chapel
- 7:00pm  -  8:00pm   =  Gigant H
+ 6:00am - 9:00am = Chapel 9:00am
+ - 6:00pm = Edward's Clinic
+ 6:00pm - 5:00am = Chapel 7:00pm
+ - 8:00pm = Gigant Hot Springs
+ (monday)
 
 Weekends:
- 6:00am  -  9:00am   =  Chapel
- 9:00am  - 00:00pm   =  Edward's
-    00:00pm  -  6:00pm   =  outs
+ 6:00am - 9:00am = Chapel 9:00am
+ - 00:00pm = Edward's Clinic
+    00:00pm - 6:00pm = outside
+    of Library
  6:00pm  -  5:50am   =  Chapel
 
 
@@ -2206,21 +2347,27 @@ from place to place everyday.
 RAISING LOVE POINT: Gifts.
 Festivals. REQUIREMENTS FOR
 MARRIAGE:
- Raise everyone's friendship poi
+ Raise everyone's friendship
+ points to 8 points and above.
 PROPOSAL:
  Anywhere.
 SCHEDULE:
 Weekdays:
- 6:00am  -  9:00pm   =  outside 
- 6:00am  -  9:00pm   =  outside 
- 6:00am  -  9:00pm   =  outside 
- 6:00am  -  9:00pm   =  Plaza  (
- 6:00am  -  9:00pm   =  stairs t
- 9:00pm  -  5:50am   =  Mist's H
- 6:00am  -  6:00pm   =  Library 
+ 6:00am - 9:00pm = outside
+ Jean's Shop (monday) 6:00am -
+ 9:00pm = outside Camus' Farm
+ (tuesday) 6:00am - 9:00pm =
+ outside Mayor's Mansion
+ (wednesday) 6:00am - 9:00pm =
+ Plaza (thursday) 6:00am -
+ 9:00pm = stairs to beach
+ (friday) 9:00pm - 5:50am =
+ Mist's House 6:00am - 6:00pm =
+ Library (raining)
 Weekends:
- 6:00am  -  9:00pm   =  Chapel
- 6:00am  -  6:00pm   =  Sabrina'
+ 6:00am - 9:00pm = Chapel 6:00am
+ - 6:00pm = Sabrina's Shop
+ (raining)
 
 
 Mei  (fall 10)
@@ -2235,17 +2382,25 @@ appreciate it much. RAISING LOVE
 POINT: Fish, specifically Lover
 Snapper. Festivals. REQUIREMENTS
 FOR MARRIAGE:
- Catch a Lover Snapper using you
- Trade the fish via wifi to rais
+ Catch a Lover Snapper using
+ your best fishing rod in Misty
+ Bloom Cave. Trade the fish via
+ wifi to raise its level. Reach
+ at least 10+ levels.
 PROPOSAL:
- Give the leveled-up lover snapp
+ Give the leveled-up lover
+ snapper to Mei.
 SCHEDULE:
 Weekdays:
- 6:00am  -  5:50am   =  Lady Ann
- 9:00pm  - 10:00pm   =  Pub Spri
-    00:00pm  -  9:00pm   =  Clem
- 9:00pm  - 10:00pm   =  Gigant H
- 9:00am  -  6:00pm   =  Pier at 
+ 6:00am - 5:50am = Lady Ann's
+ Inn 9:00pm - 10:00pm = Pub
+ Spring Rabbit (tuesday)
+    00:00pm - 9:00pm = Clemen's
+    Mountain View (wednesday)
+ 9:00pm - 10:00pm = Gigant Hot
+ Springs (wednesday) 9:00am -
+ 6:00pm = Pier at the Beach
+ (thursday)
 Weekends:
  none available
 
@@ -2262,18 +2417,24 @@ be a witch, but ends up in the
 hot springs instead. RAISING
 LOVE POINT: Take a bath.
 REQUIREMENTS FOR MARRIAGE:
- Follow her conversations!
- On friday 9:00am - 3:00pm, visi
- Visit Sharron in Lady Ann's Inn
+ Follow her conversations! On
+ friday 9:00am - 3:00pm, visit
+ Kasimir Ruins. Talk to both of
+ them. Visit Sharron in Lady
+ Ann's Inn in the evening. She
+ is present at 9:00pm.
 PROPOSAL:
- Talk to Melody before the Hot S
+ Talk to Melody before the Hot
+ Springs open at 3:00pm.
 SCHEDULE:
 Weekdays:
- 6:00am  -  5:50am   =  Gigant H
- 9:00am  -  3:00pm   =  Beach  (
- 9:00am  -  3:00pm   =  Kasimir 
+ 6:00am - 5:50am = Gigant Hot
+ Springs 9:00am - 3:00pm = Beach
+ (wednesday) 9:00am - 3:00pm =
+ Kasimir Ruins (friday)
 Weekends:
- 6:00am  -  5:50am   =  Gigant H
+ 6:00am - 5:50am = Gigant Hot
+ Springs
 
 
 Mist  (Fall 01)
@@ -2292,21 +2453,25 @@ radishes. RAISING LOVE POINT:
 Gifts. Give her radishes, or an
 emery flower. REQUIREMENTS FOR
 MARRIAGE:
- Complete the storyline.
- Till ALL the soil in your farml
+ Complete the storyline. Till
+ ALL the soil in your farmland.
 PROPOSAL:
- Visit Mist in her house and tal
+ Visit Mist in her house and
+ talk to her.
 SCHEDULE
 Weekdays:
- 6:00am  - 00:00pm   =  Mist's H
-    00:00pm  -  6:00pm   =  Your
- 6:00pm  -  5:50am   =  Mist's H
- 9:00pm  - 10:00pm   =  Gigant H
-    00:00pm  -  6:00pm   =  Insi
+ 6:00am - 00:00pm = Mist's House
+    00:00pm - 6:00pm = Your farm
+ 6:00pm - 5:50am = Mist's House
+ 9:00pm - 10:00pm = Gigant Hot
+ Springs (friday)
+    00:00pm - 6:00pm = Inside
+    your home (raining)
 Weekends:
- 6:00am  -  3:00pm   =  Mist's H
- 3:00pm  -  6:00pm   =  Clemens 
- 6:00pm  -  5:50am   =  Mist's H
+ 6:00am - 3:00pm = Mist's House
+ 3:00pm - 6:00pm = Clemens
+ Mountain View 6:00pm - 5:50am =
+ Mist's House
 
 
 Rosetta  (Fall 21)
@@ -2324,26 +2489,34 @@ before Mist. RAISING LOVE POINT:
 Gifts. Using the shipping bin.
 Corn on a Cob. REQUIREMENTS FOR
 MARRIAGE:
- Find the White Stone!
- Read about the legend of the wh
- Visit Rosetta in the evening. T
- Go to Toros Cave. There is an a
- boulders stacked together. Sear
+ Find the White Stone! Read
+ about the legend of the white
+ stone in the library. Visit
+ Rosetta in the evening. Talk
+ about the white stone. Go to
+ Toros Cave. There is an area on
+ the 1st floor with a bunch of
+ ice boulders stacked together.
+ Search the area to find a white
+ stone.
 Give the white stone to Rosetta.
 PROPOSAL:
  Anywhere.
 SCHEDULE:
 Weekdays:
- 6:00am  -  5:00pm   =  Material
+ 6:00am - 5:00pm = Material
+ Items Store
 5:00pm  -  6:00pm   =  Your farm
- 6:00pm  -  5:50am   =  Material
- 6:00pm  -  7:00pm   =  Gigant H
+ 6:00pm - 5:50am = Material
+ Items Store 6:00pm - 7:00pm =
+ Gigant Hot Springs (tuesday)
 Weekends:
- 6:00am  -  9:00am   =  Material
- 9:00am  -  3:00pm   =  Kardia C
- 3:00pm  -  8:00pm   =  2nd Stre
- 8:00pm  -  5:50am   =  Material
- 3:00pm  -  9:00pm   =  Library 
+ 6:00am - 9:00am = Material
+ Items Store 9:00am - 3:00pm =
+ Kardia Chapel 3:00pm - 8:00pm =
+ 2nd Street 8:00pm - 5:50am =
+ Material Items Store 3:00pm -
+ 9:00pm = Library (raining)
 
 
 Sharron  (Winter 19)
@@ -2362,19 +2535,24 @@ Gifts. Fire Crystals works
 great. REQUIREMENTS FOR
 MARRIAGE:
  Acquire the Grimoire Sword!
- Head towards Mt. Gigant and def
- Give the grimoire scales to Leo
+ Head towards Mt. Gigant and
+ defeat the monster boss. Give
+ the grimoire scales to Leo. It
+ will take 3 days.
 Give the Grimoire Sword to her.
 PROPOSAL:
  Anywhere.
 SCHEDULE:
 Weekdays:
- 6:00am  -  9:00pm   =  front of
- 9:00pm  -  5:50am   =  Lady Ann
- 6:00am  -  9:00pm   =  inside K
+ 6:00am - 9:00pm = front of
+ Kasimir Ruins 9:00pm - 5:50am =
+ Lady Ann's Inn 6:00am - 9:00pm
+ = inside Kasimir Ruins
+ (wednesday)
 Weekends:
- 6:00am  -  9:00pm   =  front of
- 9:00pm  -  5:50am   =  Lady Ann
+ 6:00am - 9:00pm = front of
+ Kasimir Ruins 9:00pm - 5:50am =
+ Lady Ann's Inn
 
 
 Tabatha  (Fall 12)
@@ -2392,18 +2570,23 @@ RAISING LOVE POINT: Capture
 monsters. Raise their friendship
 level. REQUIREMENTS FOR
 MARRIAGE:
- You need at least 50 monsters i
- Raise their friendship levels.
+ You need at least 50 monsters
+ in your farm. Raise their
+ friendship levels.
 PROPOSAL:
- Holiday near Kasimir Ruins 9:00
+ Holiday near Kasimir Ruins
+ 9:00am - 6:00pm. Talk to her.
 SCHEDULE:
 Weekdays:
- 6:00am  -  5:50am   =  Jasper's
-    10:00pm  - 11:00pm   =  Giga
+ 6:00am - 5:50am = Jasper's
+ Manor
+    10:00pm - 11:00pm = Gigant
+    Hot Springs (friday)
 Weekends:
- 6:00am  -  9:00am   =  Jasper's
- 9:00am  -  6:00pm   =  outside 
- 6:00pm  -  5:50am   =  Jasper's
+ 6:00am - 9:00am = Jasper's
+ Manor 9:00am - 6:00pm = outside
+ Kasimir Ruins 6:00pm - 5:50am =
+ Jasper's Manor
 
 
 Tori  (Winter 26)
@@ -2418,25 +2601,32 @@ the books also. RAISING LOVE
 POINT: Read the books.
 Festivals. REQUIREMENTS FOR
 MARRIAGE:
- 1 Large Milk.
- Find Tori on a holiday at Cleme
- Give the milk.
+ 1 Large Milk. Find Tori on a
+ holiday at Clemens Mountain Top
+ 9:00pm - 10:00pm. Give the
+ milk.
 PROPOSAL:
  Anytime.
 SCHEDULE:
 Weekdays:
- 6:00am  -  9:00am   =  Lady Ann
- 9:00am  -  6:00pm   =  Kardia L
- 6:00pm  -  5:50am   =  Lady Ann
- 4:00pm  -  9:00pm   =  Gigant H
- 4:00pm  -  8:00pm   =  Gigant H
- 4:00pm  -  7:00pm   =  Gigant H
+ 6:00am - 9:00am = Lady Ann's
+ Inn 9:00am - 6:00pm = Kardia
+ Library 6:00pm - 5:50am = Lady
+ Ann's Inn 4:00pm - 9:00pm =
+ Gigant Hot Springs (tuesday)
+ 4:00pm - 8:00pm = Gigant Hot
+ Springs (thursday) 4:00pm -
+ 7:00pm = Gigant Hor Springs
+ (raining)
 Weekends:
- 6:00am  -  9:00am   =  Lady Ann
- 9:00am  -  3:00pm   =  Kardia C
+ 6:00am - 9:00am = Lady Ann's
+ Inn 9:00am - 3:00pm = Kardia
+ Chapel
   3:00pm  -  9:00pm   =  Beach
- 9:00pm  - 10:00pm   =  Clemens 
-    10:00pm  -  5:50am   =  Lady
+ 9:00pm - 10:00pm = Clemens
+ Mountain Top
+    10:00pm - 5:50am = Lady
+    Ann's Inn
 
 
 ********************************
@@ -2611,26 +2801,27 @@ ITEM NAME MONSTER LOCATION
 --------------------------------
 Aero Element | Weegull | Mt.
 Gigant
-     |  Big Mushroom            
-     |  Hades                   
+     | Big Mushroom | Mt. Gigant
+     | Hades | Greed Cave
 Amethyst | Packun Box | Kasimir
 Ruins Angered Fang | Blood
 Panther | Danann Cave Apple |
 Apple | Toros Cave Aqua Element
 | Shindra | Toros Cave
-     |  Shira                   
-     |  Fairy                   
+     | Shira | Misty Bloom Cave
+     | Fairy | Kasimir Ruins
 Aquamarine | Monster Box |
 Kasimir Ruins Aqua Sword |
 Shindra | Toros Cave Arrowhead |
 Orc Archer | Carmite Cave
-     |  Orc Hunter              
+     | Orc Hunter | Misty Bloom
+     Cave
 Bandana | Hornet | Carmite Cave
 Battle Axe | Minotaur | Clemens
 Cave Battle Hammer | Hammer
 Troll | Clemens Cave Bird Wing |
 Weegull | Mt. Gigant
-     |  Cockadoodle             
+     | Cockadoodle | Mt. Gigant
 Blue Crystal Seeds | Sky Fish |
 Misty Bloom Cave Broadsword |
 Orc | Carmite Cave Broken Box |
@@ -2640,39 +2831,41 @@ Bullhorn | Buffalo | Mt. Gigant
 Cheap Bandage | Goblin Archer |
 Carmite Cave Cheap Cloth | Orc |
 Carmite Cave
-     |  Orc Archer              
-     |  High Orc                
+     | Orc Archer | Carmite Cave
+     | High Orc | Misty Bloom
+     Cave
 Clay | Slime | Toros Cave Devil
 Blood | Arch Demon | Danann Cave
 Devil Horn | Demon | Toros Cave
 Earth Crystal | Minotaur |
 Clemens Cave
-     |  Beetle                  
-     |  Orc Hunter              
-     |  Hell Spider             
-     |  Dark Slime              
-     |  Death Stalker           
+     | Beetle | Clemens Cave |
+     Orc Hunter | Misty Bloom
+     Cave | Hell Spider |
+     Kasimir Ruins | Dark Slime
+     | Kasimir Ruins | Death
+     Stalker | Greed Cave
 Emerald | Monster Box | Kasimir
 Ruins Emery Flower Seeds | Mini-
 Dragon | Greed Cave Evil Charm |
 Faust | Greed Cave Fairy Powder
 | Fairy | Kasimir Ruins
-     |  Hades                   
+     | Hades | Greed Cave
 Field Glove | Titan | Clemens
 Cave Fire Crystal | Fox |
 Carmite Cave
-     |  Ignis                   
-     |  Dark Slime              
-     |  Arch Demon              
-     |  Mini Dragon             
+     | Ignis | Clemens Cave |
+     Dark Slime | Kasimir Ruins
+     | Arch Demon | Danann Cave
+     | Mini Dragon | Greed Cave
 Fireflower Seeds | Leafball |
 Danann Cave Fish Fossil | Sky
 Fish | Misty Bloom Cave
-     |  Shira                   
+     | Shira | Misty Bloom Cave
 Flame Saber | Ignis | Clemens
 Cave Flare Element | Ignis |
 Clemens Cave
-     |  Heracross               
+     | Heracross | Kasimir Ruins
 Giant Claw | Titan | Clemens
 Cave Giant Gloves | Gigantus |
 Kasimir Ruins Glue | Goblin
@@ -2680,19 +2873,21 @@ Master | Greed Cave Green
 Crystal Seeds | Flower | Mt.
 Gigant Gunpowder | Goblin |
 Carmite Cave
-     |  Goblin Archer           
-     |  Goblin Sniper           
+     | Goblin Archer | Carmite
+     Cave | Goblin Sniper |
+     Greed Cave
 Hammer Piece | Hammer Troll |
 Clemens Cave Heart Drink |
 Buffalo | Mt. Gigant Hood |
 Ghost | Toros Cave Insect Jaw |
 Ant | Carmite Cave Insect Skin |
 Ant | Carmite Cave
-     |  Hornet                  
-     |  Beetle                  
+     | Hornet | Carmite Cave |
+     Beetle | Clemens Cave
 Knowledge Supply | Little Mage |
 Toros Cave
-     |  Little Emperor          
+     | Little Emperor | Greed
+     Cave
 Lamp Grass Seeds | Ant | Carmite
 Cave Leather Belt | Goblin
 Master | Greed Cave Leather
@@ -2700,14 +2895,16 @@ Glove | Gigantus | Kasimir Ruins
 Little Crystal | Slime | Toros
 Cave Long Sword | Goblin |
 Carmite Cave
-     |  Orc Lord                
+     | Orc Lord | Greed Cave
 Magic Crystal | Little Wizard |
 Danann Cave
-     |  Little Emperor          
+     | Little Emperor | Greed
+     Cave
 Magic Earrings | Little Emperor
 | Greed Cave Magic Powder |
 Little Mage | Toros Cave
-     |  Dr. Edwards             
+     | Dr. Edwards | Medicine
+     Shop (winter)
 Plant Stem | Leafball | Danann
 Cave Poison Powder | Tricky
 Mushroom | Misty Bloom Cave
@@ -2717,21 +2914,23 @@ Danann Cave Pom-Pom Grass Seeds
 Skin | Scorpion | Misty Bloom
 Cave Pretty String | Spider |
 Mt. Gigant
-     |  Hell Spider             
+     | Hell Spider | Kasimir
+     Ruins
 Protein | Troll | Clemens Cave
-     |  Titan                   
+     | Titan | Clemens Cave
 Quality Cloth | High Orc | Misty
 Bloom Cave
-     |  Orc Lord                
+     | Orc Lord | Greed Cave
 Quality Skin | Fuwori | Mt.
 Gigant
-     |  Hunter Wolf             
-     |  Mini-Dragon             
+     | Hunter Wolf | Danann Cave
+     | Mini-Dragon | Greed Cave
 Red Crystal Seeds | Flower | Mt.
 Gigant Rigid Horn | Heracross |
 Kasimir Ruins Root | Flower |
 Mt. Gigant
-     |  Dr. Edwards             
+     | Dr. Edwards | Medicine
+     Shop (winter)
 Ruby | Packun Box | Kasimir
 Ruins Small Milk | Buffamoo |
 Mt. Gigant Sapphire | Packun Box
@@ -2744,37 +2943,38 @@ Troll | Clemens Cave Silk Cloth
 Ring | Goblin Archer | Carmite
 Cave Skin | Chipmunk | Carmite
 Cave Skull | Ghost | Toros Cave
-     |  Necromancer             
+     | Necromancer | Danann Cave
 Spear | Demon | Toros Cave Spore
 | Big Mushroon | Mt. Gigant
 Strong String | Spider | Mt.
 Gigant Strong Vine | Plantcore |
 Danann Cave Tech Bottle | Shadow
 Panther | Misty Bloom Cave
-     |  Blood Panther           
+     | Blood Panther | Danann
+     Cave
 Terra Element | Death Stalker |
 Greed Cave Turtle Shell |
 Tortoise | Danann Cave
-     |  Sabrina                 
+     | Sabrina | Spearfish Shack
 Vital Gummi | Beetle | Clemens
 Cave
-     |  Heracross               
+     | Heracross | Kasimir Ruins
 Warrior Certificate | Goblin |
 Carmite Cave Water Crystal |
 Shindra | Toros Cave
-     |  Slime                   
-     |  Sky Fish                
-     |  Shira                   
-     |  Fairy                   
-     |  Little Wizard           
-     |  Tortoise                
+     | Slime | Toros Cave | Sky
+     Fish | Misty Bloom Cave |
+     Shira | Misty Bloom Cave |
+     Fairy | Kasimir Ruins |
+     Little Wizard | Danann Cave
+     | Tortoise | Danann Cave
 Wind Crystal | Hornet | Carmite
 Cave
-     |  Weegull                 
-     |  Cockadoodle             
-     |  Dark Slime              
-     |  Little Wizard           
-     |  Hades                   
+     | Weegull | Mt. Gigant |
+     Cockadoodle | Mt. Gigant |
+     Dark Slime | Kasimir Ruins
+     | Little Wizard | Danann
+     Cave | Hades | Greed Cave
 Wolf Claws | Shadow Panther |
 Misty Bloom Cave Wolf Fang |
 Silver Wolf | Toros Cave Woolly
@@ -2790,10 +2990,14 @@ can be used as containers for
 recovery potions. They can be
 obtained in the following:
 
-*  Check the cabinet on Mist's H
-*  Check the basement on Jasper'
-*  Win the Treasure Hunt event o
-*  Win the Egg Contest on Spring
+* Check the cabinet on Mist's
+  House
+* Check the basement on Jasper's
+  Manor
+* Win the Treasure Hunt event on
+  Summer 26
+* Win the Egg Contest on Spring
+  23
 
 Dr. Edwards can use the empty
 bottles to store recovery
@@ -2879,23 +3083,35 @@ monster boss.
 BOSS : Greater Daemon HP : 250
 MAGIC DEF : 17 DEF : 6 EARTH DEF
 : 30 FIRE DEF : 30
-     WATER DEF  :  30       WIND
+     WATER DEF : 30 WIND DEF :
+     30
 
 ATTACKS : Arm Swing - he will
 swing his arms to hit you.
-   Charge       -  he will stay 
-       chest. Then he will charg
-   Earth Spikes -  he will raise
+   Charge - he will stay put and
+   flings his arms on his
+       chest. Then he will
+       charge at you.
+   Earth Spikes - he will raise
+   spikes from the ground.
 
 STRATEGY : Make sure you are
 well-equipped when fighting this
 boss. Bring
- some potions too just to be saf
- swing. Start running when he's 
- attack him right after he charg
- few moments. When he starts to 
+ some potions too just to be
+ safe. Stay away from him to
+ avoid his arm swing. Start
+ running when he's about to
+ charge to avoid it. It's best
+ to attack him right after he
+ charges towards you as he will
+ stay put for a few moments.
+ When he starts to glow, that
+ means he is near defeat. It is
  inportant to defeat him as soon
- faster. You'll receive no items
+ as possible, since his attacks
+ will be faster. You'll receive
+ no items when you defeat him.
 
 
 Toros Cave
@@ -2916,25 +3132,40 @@ find and destroy the machines.
 BOSS : Chimera HP : 460 MAGIC
 DEF : 20 DEF : 7 EARTH DEF : 30
 FIRE DEF : 70
-     WATER DEF  :  80       WIND
+     WATER DEF : 80 WIND DEF :
+     30
 
 ATTACKS : Lunge - he will
 scratch the ground and lunges at
 you.
-   Water Razor  -  he will shoot
-   Freeze       -  he will breat
-    (low HP) Water Razor  -  the
+   Water Razor - he will shoot
+   two beams from his head.
+   Freeze - he will breath a
+   frozen gas towards you.
+    (low HP) Water Razor - there
+    will be 4 beams instead of
+    2.
 
 STRATEGY : You did bought some
 new swords in the blacksmith
 shop, did you?
  Anyways, this boss shouldn't be
- around the room until he sees f
+ too tough to beat. He will
+ lazily walk around the room
+ until he sees fit to attack
+ you. Lunge is easy to dodge,
  and it has limited range. Water
- and also easy to dodge, When fr
- away as far from it as possible
- around. When he glows, he becom
- to dodge instead of two. Defeat
+ Razor occurs when you are far
+ from him, and also easy to
+ dodge, When freeze breath is
+ used against you, just run away
+ as far from it as possible.
+ It's best to attack him when
+ it's moving around. When he
+ glows, he becomes faster, and
+ there are now four lasers to
+ dodge instead of two. Defeat
+ him to unlock the next cave.
 
 
 Clemens Cave
@@ -2955,22 +3186,32 @@ those machines and destroy them.
 BOSS : Rafflesia HP : 780 MAGIC
 DEF : 10 DEF : 8 EARTH DEF : 40
 FIRE DEF : 15
-     WATER DEF  :  80       WIND
+     WATER DEF : 80 WIND DEF :
+     40
 
 ATTACKS : Left Stalk - produces
 Queen Bee monsters.
-   Right Stalk  -  casts Swordst
-   Top Stalk    -  sprays Paraly
-   Bottom Stalk -  summons Kille
+   Right Stalk - casts
+   Swordstorm across the room.
+   Top Stalk - sprays Paralysis
+   Gas towards your character.
+   Bottom Stalk - summons Killer
+   Ant monsters
 
 STRATEGY : By this time, you can
 buy a parasite ring in the
 Material Items
  Shop to decrease the chances of
- You can also buy and equip the 
- being sealed when attacked by k
- when it's attacking the gas. Ki
- and it should fall down.
+ being paralyzed in that breath
+ attack. You can also buy and
+ equip the silent ring to
+ decrease the chances of being
+ sealed when attacked by killer
+ ants. Just hack away at it, and
+ run when it's attacking the
+ gas. Kill the monsters and
+ continue attacking it and it
+ should fall down.
 
 
 Mt. Gigant
@@ -2989,25 +3230,40 @@ unlock the door to the boss.
 BOSS : Grimoa HP : 999 MAGIC DEF
 : 16 DEF : 10 EARTH DEF : 50
 FIRE DEF : 100
-     WATER DEF  :  15       WIND
+     WATER DEF : 15 WIND DEF :
+     60
 
 ATTACKS : Dragon Breath -
 breaths fire from its mouth.
-   Tail Sweep    -  uses the tai
+   Tail Sweep - uses the tail to
+   attack you.
   Dragon Bite   -  bites you.
-    (low HP) Luftmesa      -  wi
-    (low HP) Inferno       -  fi
+    (low HP) Luftmesa - wind
+    blades scattered towards
+    you. (low HP) Inferno - fire
+    based attack. Ground covered
+    in flames.
 
 STRATEGY : Based on the stats,
 water-based spells and
 equipments will deal
- more damage than standard equip
- Grimoa is no exception. He is f
- attack. And the patented fire b
- expect from a dragon. Don't sta
- back and he'll do a tail sweep.
- When he glows, be careful as hi
- spells. Stay focused, stick to 
+ more damage than standard
+ equipments. As with any dragons
+ in any game, Grimoa is no
+ exception. He is fire-based.
+ Has the bite and tail sweep
+ attack. And the patented fire
+ breath attack. Something that
+ you would expect from a dragon.
+ Don't stay too close or he'll
+ bite you. Stay on his back and
+ he'll do a tail sweep. So stay
+ close on his side and hack
+ away. When he glows, be careful
+ as his arsenal is added with
+ two devastating spells. Stay
+ focused, stick to his side and
+ you should win over him.
 
 
 Misty Bloom Cave
@@ -3024,28 +3280,45 @@ boss of the cave
 BOSS : Siren HP : 1300 MAGIC DEF
 : 10 DEF : 9 EARTH DEF : 30 FIRE
 DEF : 80
-     WATER DEF  : 100       WIND
+     WATER DEF : 100 WIND DEF :
+     15
 
 ATTACKS : Siren Song - notes fly
 across the screen. Can paralyze.
-   Water Laser   -  two beams of
-   Summon Aid    -  siren summon
+   Water Laser - two beams of
+   water attack. Summon Aid -
+   siren summons a monster that
+   has the one beam
 Water Laser and Luftmesa spell.
-    (low HP) Water Laser   -  fo
-    (low HP) Cure          -  re
+    (low HP) Water Laser - four
+    beams instead of two beams
+    towards you. (low HP) Cure -
+    restores HP.
 
 STRATEGY : This is going to be
 one of those weak bosses that is
 extremely
- annoying to defeat. That is, be
- one of the four points around t
- items that restores your health
- parasite ring to minimize the c
- Song. Use swords with high wind
- the enemy. When she glows, the 
- decreases so be quick. Eventual
- luck). Honestly, if you're havi
- It's the only sure way to defea
+ annoying to defeat. That is,
+ because your avenue of attack
+ would be only one of the four
+ points around the ring of land.
+ Bring lots of medicinal items
+ that restores your health if
+ you're having trouble. Also
+ equip a parasite ring to
+ minimize the chances of being
+ paralyzed on that Siren Song.
+ Use swords with high wind-based
+ element, to inflict more damage
+ to the enemy. When she glows,
+ the time she will stay on one
+ of the 4 points decreases so be
+ quick. Eventually, you'll
+ defeat her with skills (or with
+ luck). Honestly, if you're
+ having difficulty, raise your
+ level some more. It's the only
+ sure way to defeat her.
 
 
 Kasimir Ruins
@@ -3091,24 +3364,37 @@ to unlock the door of the boss.
 BOSS : Golum HP : 1680 MAGIC DEF
 : 6 DEF : 11 EARTH DEF : 30 FIRE
 DEF : 50
-     WATER DEF  :  30       WIND
+     WATER DEF : 30 WIND DEF :
+     20
 
 ATTACKS : Rocket Punch - arm
 detaches and punches towards
 you.
-   Earth Cannon  -  uses his sho
-   Whirlwind     -  he spins his
+   Earth Cannon - uses his
+   shoulder cannon and fire
+   rocks. Whirlwind - he spins
+   his arms around his body.
 
 STRATEGY : Use ranged Attacks!
 This is where your charged
 attacks will come
- in handy. Golum looks like a bi
- attacks from him, you are right
- missiles, too bad no blazing sw
- stay far away when he does the 
- and he should fall down like a 
- attacks can topple your charact
- that decreases the chance of to
+ in handy. Golum looks like a
+ big robot, so if you are
+ expecting robotlike attacks
+ from him, you are right. He's
+ got the robot punch, the robot
+ missiles, too bad no blazing
+ sword. Ok, so just dodge the
+ robot punch, stay far away when
+ he does the earth cannon, and
+ just attack him in range and he
+ should fall down like a robot.
+ Oh, and because he's a robot,
+ his attacks can topple your
+ character, so be very careful.
+ Craft some items that decreases
+ the chance of toppling, and you
+ should be okay.
 
 
 Danann Cave
@@ -3140,26 +3426,44 @@ second gate.
 BOSS : Battle Tank HP : 2000
 MAGIC DEF : 40 DEF : 12 EARTH
 DEF : 80 FIRE DEF : 80
-     WATER DEF  :  20       WIND
+     WATER DEF : 20 WIND DEF :
+     80
 
 ATTACKS : Flame Sweep - the tank
 shoots flames on its sides.
-   Main Cannon   -  fires a beam
-    (low HP) Beam Cannon   -  fi
+   Main Cannon - fires a beam of
+   water laser attack.
+    (low HP) Beam Cannon - fires
+    a huge beam from the main
+    cannon.
 
 STRATEGY : Notice the tracks?
 Good, because the Battle Tank
 will only appear
- on those tracks. See those stat
- without elements because it won
- off the tracks and keep moving 
- on to you. The flames should be
- worrying is how to damage the t
- especially to elemental weapons
- blown to bits. Unfortunately, i
- cannon. Just watch as it rechar
- beam. The flame sweep also beco
- Hack it until it is destroyed.
+ on those tracks. See those
+ stats? It would be a good idea
+ to use swords without elements
+ because it won't do any decent
+ damage to the tank. Stay off
+ the tracks and keep moving so
+ that the cannon cannot
+ accurately lock on to you. The
+ flames should be easy to dodge
+ also. The most you'll be
+ worrying is how to damage the
+ tank, as it has somewhat high
+ defense, especially to
+ elemental weapons. Attack it
+ until the main cannon shell is
+ blown to bits. Unfortunately,
+ it also unveils its secret
+ weapon. The beam cannon. Just
+ watch as it recharges twice,
+ and dodge when it fires the
+ beam. The flame sweep also
+ becomes aggresive, so watch out
+ for it too. Hack it until it is
+ destroyed.
 
 Greed Cave
 --------------------------------
@@ -3183,31 +3487,52 @@ in the game.
 BOSS : Grimoire HP : 2600 MAGIC
 DEF : 12 DEF : 12 EARTH DEF : 60
 FIRE DEF : 60
-     WATER DEF  :  60       WIND
+     WATER DEF : 60 WIND DEF :
+     60
 
 ATTACKS : Lightning Bolt - 5
 bolts strike the ground. Can
 paralyze.
-   Tail Sweep     -  uses the ta
-   Fireball Sweep -  fireballs s
-   Divine Beam    -  a beam of c
-   Divine Breath  -  can inflict
-    (low HP) Lightning Bolt -  1
+   Tail Sweep - uses the tail to
+   attack you. Fireball Sweep -
+   fireballs spread in front of
+   the beast. Divine Beam - a
+   beam of concentrated light
+   from its mouth. Divine Breath
+   - can inflict poison.
+    (low HP) Lightning Bolt - 10
+    instead of 5. Can paralyze.
 
 STRATEGY : This is it! Defeat
 this boss, and you have
 successfully completed
- the storyline of the game. Bein
- and will definitely use his adv
- that's not what we want. So her
- it will strike and immediately 
- attack the Grimoire when it is 
- will come down eventually, so t
- sweep can be dodged by staying 
- watch out for the tail sweep. H
- it is imperative that you do no
- just as you did on the Grimoa i
- of luck, you should be able to 
+ the storyline of the game.
+ Being the last boss, it doesn't
+ hold its punch and will
+ definitely use his advantages
+ to bring demise to our hero.
+ But that's not what we want. So
+ here goes. Dodge the bolts by
+ marking where it will strike
+ and immediately move away from
+ the spot. Also, you cannot
+ attack the Grimoire when it is
+ airborne, so wait for it to
+ come down. It will come down
+ eventually, so that is your
+ avenue of attack. The fireball
+ sweep can be dodged by staying
+ between the gaps or stay at his
+ back, but watch out for the
+ tail sweep. His breath attacks
+ are also devastating so it is
+ imperative that you do not take
+ this boss head-on! Stick
+ sideways just as you did on the
+ Grimoa in Mt. Gigant. With
+ skill and a little bit of luck,
+ you should be able to defeat
+ it.
 
 
 ********************************

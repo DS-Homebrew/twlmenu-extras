@@ -29,7 +29,8 @@ Castlevania: Dawn of Sorrow
 Walkthrough
   for the Nintendo DS
   Version 1.25 by nmlynch2004
- COPYRIGHT (c) 2005 Nate Lynch. 
+ COPYRIGHT (c) 2005 Nate Lynch.
+ All rights reserved.
   E-Mail: bucktwenty@gmail.com
 
 Table of Contents
@@ -106,7 +107,8 @@ Submitted to
 Version 1.00 - Finished first
 draft of Walkthrough section,
 added Quick
-   Walkthrough section. Submitte
+   Walkthrough section.
+   Submitted 10/17/05.
 Version 0.75 - Updated 10/16/05.
 Added more to the Walkthrough
 section. Version 0.50 - First
@@ -121,6 +123,7 @@ Began October 9, 2005.
 --------------------------------
 
 *** WARNING! ARIA OF SORROW PLOT
+    SPOILERS!!!***
 
 (taken from the game's
 introduction)
@@ -178,8 +181,9 @@ feeling
 Soma Cruz: It's probably
 nothing... Look, don't worry,
 okay? This past
-  year, I haven't been able to u
-  And-
+  year, I haven't been able to
+  use any of the powers I
+  gained. And-
 
 (a woman appears)
 
@@ -238,18 +242,24 @@ Genya Arikado: The power didn't
 "return." It was always with
 you. You just
    never had a need for it since
-   set free all the souls you ga
+   you fled the castle. And that
+   set free all the souls you
+   gained dominance over.
 
 Soma Cruz: You mean I couldn't
 use the power because I was
 never in any
-  danger? Hmm. Anyway, who was t
+  danger? Hmm. Anyway, who was
+  that woman? She seemed to know
+  you.
 
 Genya Arikado: Celia Fortner.
 She's the priestess of a new and
 rapidly
-   growing cult. We suspected sh
-   been keeping tabs on her.
+   growing cult. We suspected
+   she was up to something, so
+   we've been keeping tabs on
+   her.
 
 Mina Hakuba: But why would
 someone like that come after
@@ -307,8 +317,9 @@ Soma Cruz: Well, yeah, but...
 Hammer: Hey, you got your mind
 on doin' somethin' wicked, huh?
 I want in,
-  buddy. And hey, what happened 
-  remember, right?
+  buddy. And hey, what happened
+  to that pretty little lady?
+  You remember, right?
 
 Soma Cruz: You mean Yoko? She's
 not coming. In fact, I haven't
@@ -318,7 +329,9 @@ Hammer: Huh? She ain't comin'?
 Well, why not?! Aw, man... Well,
 since I'm
   here, I'd better make the best
-  and you're my customer!
+  of it. I guess I'm back in
+  business, and you're my
+  customer!
 
 Soma Cruz: Hammer, look, I'm
 saying this for your own good.
@@ -336,8 +349,9 @@ it.
 Hammer: I'll scope out the area
 and find a spot to set up shop.
 See ya
-  around! (to himself) Man, why 
-  this...?
+  around! (to himself) Man, why
+  wouldn't he just tell her
+  about this...?
 
 Soma Cruz: ...
 
@@ -348,14 +362,16 @@ Soma Cruz: ...
 
 (taken from the game's manual)
 
-+Control Pad Move player A
-BUTTON Perform a special attack
-with your equipped weapon.
++Control Pad     Move player
+A BUTTON Perform a special
+attack with your equipped
+weapon.
     This attack consumes MP.
 B BUTTON Jump X BUTTON Swap
 between your A and B equipment
 sets. You must acquire
-    the Doppleganger Tactical So
+    the Doppleganger Tactical
+    Soul to use this ability.
 Y BUTTON Perform a normal attack
 with your equipped weapon. R
 BUTTON Use the Guardian-Type
@@ -407,8 +423,9 @@ ending in the game.
 10. Fight Bat Company in the
     Silenced Ruins
    a. Get the Axe Armor soul**
-   b. Get the Killer Clown soul*
-   c. Get the Ukoback soul**
+   b. Get the Killer Clown
+   soul** c. Get the Ukoback
+   soul**
 11. Fight Paranoia in the Demon
     Guest House
 12. Fight Aguni in the mirror of
@@ -419,11 +436,18 @@ ending in the game.
 14. Fight Abaddon in the Abyss
 15. Fight Menace in the Abyss
 
-*These bosses can be fought in a
-**These souls are needed to acce
-  in the upper left portion of t
-  by going through the Pinnacle.
-  point in the game, not just af
+*These bosses can be fought in
+ any order.
+**These souls are needed to
+  access the Paranoia boss
+  battle room, located in the
+  upper left portion of the
+  Demon Guest House, which can
+  be reached by going through
+  the Pinnacle. Obviously, these
+  souls can be gotten at any
+  point in the game, not just
+  after you beat Bat Company.
 
 Send me an email if you think
 more information is needed in
@@ -471,7 +495,7 @@ head left, and your first boss
 battle will begin.
 
    -----------------------------
-   ///          Boss: Flying Arm
+   /// Boss: Flying Armor \\\
    -----------------------------
 
 This boss shouldn't give you any
@@ -1286,7 +1310,7 @@ fight the next boss.
 
 
    -----------------------------
-   ///          Boss: Puppet Mas
+   /// Boss: Puppet Master \\\
    -----------------------------
 
 This boss can hurt you in three
@@ -2077,7 +2101,7 @@ due to the low ceiling. Next, is
 a boss battle.
 
    -----------------------------
-   ///           Boss: Bat Compa
+   /// Boss: Bat Company \\\
    -----------------------------
 
 A bunch of red bats come
@@ -2903,588 +2927,788 @@ KEY- |#: Name of Enemy Soul
 Rarity: (the higher the number
 of stars, |
  |                              
- |   Games description of enemy.
+ | Games description of enemy. |
  |                              
- |  Soul: Description of soul po
+ | Soul: Description of soul
+ power, if applicable. |
  -------------------------------
 NOTE: Some enemies don't have
 souls that you can obtain, such
 as Dmitrii,
- Dario, and Menace, therefore th
- you always obtain boss souls, s
- you always get the Flying Human
- does not have Soul Rarity.
+ Dario, and Menace, therefore
+ they do not have Soul
+ descriptions. Also, you always
+ obtain boss souls, so they do
+ not have Soul Rarity - but you
+ always get the Flying Humanoid
+ soul when you kill it, so that
+ also does not have Soul Rarity.
 
 
 1. Zombie Soul Rarity: ** A
-   rotting corpse of a village
+   rotting corpse of a villager,
+   animated by magic.
 
    Soul: Summon Zombie.
 
 2. Bat Soul Rarity: ** A
    bloodsucking bat that lurks
+   in the castle.
 
 Soul: Summon Bat as a familiar.
 
 3. Ghost Soul Rarity: *** A
-   small spirit doomed to wand
+   small spirit doomed to wander
+   the castle grounds for all
+   eternity.
 
-   Soul: Seperate from the body 
+   Soul: Seperate from the body
+   and conduct reconnaissance.
 
 4. Skeleton Soul Rarity: ** A
-   skeletal corpse controlled
+   skeletal corpse controlled by
+   magic.
 
    Soul: Throw bones.
 
 5. Ouiji Table Soul Rarity: ***
-   An enchanted desk possessed b
+   An enchanted desk possessed
+   by a spririt summoned in
+   seance.
 
  Sit in the chair to regain HP.
 
 6. Peeping Eye Soul Rarity: ***
-   A creature that keeps watch i
+   A creature that keeps watch
+   in the castle.
 
 Soul: Identify breakable walls.
 
 7. Axe Armor Soul Rarity: * An
    armor-clad soldier that is
+   highly skilled with axes.
 
    Soul: Throw an axe upwards.
 
 8. Skull Archer Soul Rarity: **
    An archer made of bone.
 
-   Soul: Shoot arrows with deadl
+   Soul: Shoot arrows with
+   deadly accuracy.
 
 9. Warg Soul Rarity: * A wolf
-   that breathes intense
+   that breathes intense flames.
 
 Soul: Use fangs to tear at foes.
 
 10. Spin Devil Soul Rarity: * An
     evil blade possessed by a
+    demented demon.
 
     Soul: Create tornadoes.
 
 11. Armor Knight Soul Rarity: **
-    An armor-clad soldier equipp
+    An armor-clad soldier
+    equipped with a deadly
+    spear.
 
     Soul: Attack with a spinning
+    spear.
 
 12. Student Witch Soul Rarity:
     ** A witch-in-training who
-    is s
+    is still learning how to
+    cast spells properly.
 
     Soul: Summon a cat.
 
 13. Slaughterer Soul Rarity: **
     A savage man that kills with
+    its bare hands.
 
-    Soul: Smack enemies with qui
+    Soul: Smack enemies with
+    quick straight punches.
 
 14. Bomber Armor Soul Rarity: **
-    An armor-clad soldier that t
+    An armor-clad soldier that
+    tosses bombs.
 
-    Soul: Toss a high-power expl
+    Soul: Toss a high-power
+    explosive.
 
 15. Golem Soul Rarity: ** A
-    giant clay figure imbued w
+    giant clay figure imbued
+    with an artificial life
+    force.
 
     Soul: Raise STR.
 
 16. Slime Soul Rarity: * A
     monster composed of a gel-
+    like substance.
 
     Soul: Summon a bouncy slime.
 
 17. Une Soul Rarity: ** An eerie
-    plant that feeds on
+    plant that feeds on blood.
 
     Soul: Throw Une at a foe.
 
 18. Skeleton Ape Soul Rarity:
     *** A skeletal corpse of an
-    ape
+    ape that is controlled by
+    magic.
 
-    Soul: Throw a foe with incre
+    Soul: Throw a foe with
+    incredible power.
 
 19. Manticore Soul Rarity: ** A
     monster with the body of a
-    tail.
+    lion, the wings of a bat,
+    and a scorpion's tail.
 
     Soul: Grow a tail.
 
 20. Mollusca Soul Rarity: ** A
-    monstrous mollusk imbued w
+    monstrous mollusk imbued
+    with the castle's dark
+    power.
 
     Soul: Summon a Mollusca.
 
 21. Rycuda Soul Rarity: ** A
     monstrous bird that wields
+    lightning.
 
     Soul: Summon thunderbolts.
 
 22. Mandragora Soul Rarity: ** A
-    mythical plant that is sai
+    mythical plant that is said
+    to inflict death to those
+    who uproot it.
 
     Soul: Shout to send monsters
+    flying.
 
 23. Yorick Soul Rarity: ** A
     skeleton that ceaselessly
+    chases after its own skull.
 
 Soul: Kick a skull like a ball.
 
 24. Skeleton Farmer Soul Rarity:
     *** A skeleton that sows
-    haunted
+    haunted plants.
 
-    Soul: Enhance the performanc
+    Soul: Enhance the
+    performance of plant-type
+    abilities.
 
 25. The Creature Soul Rarity:
     *** A humanoid creature
-    construc
+    constructed from numerous
+    corpses.
 
     Soul: Restore HP gradually.
 
 26. Catoblepas Soul Rarity: **
     This ox-like beast's breath
+    turns living thing s to
+    stone.
 
-    Soul: Breath clouds of petri
+    Soul: Breath clouds of
+    petrifying gas.
 
 27. Ghoul Soul Rarity: *** A
     foul being that rose from
+    the grave to feed on
+    corpses.
 
-    Soul: Eat food that is norma
+    Soul: Eat food that is
+    normally unpalatable.
 
 28. Corpseweed Soul Rarity: * An
-    Une that feeds off the nu
+    Une that feeds off the
+    nutrients of corpses.
 
     Soul: Summon Corpseweed as a
+    familiar.
 
 29. Yeti Soul Rarity: * The
-    notorious abominable sno
+    notorious abominable
+    snowman.
 
-    Soul: Create a white orb of 
+    Soul: Create a white orb of
+    dark power that grows as it
+    rolls.
 
 30. Tombstone Soul Rarity: ***
     Possessed by the grudges of
+    the dead, it attacks all
+    living things.
 
     Soul: Nullify petrification.
 
 31. Ghost Dancer Soul Rarity: **
-    The spirits of nobles that d
+    The spirits of nobles that
+    dance with great elegance.
 
     Soul: Raise LUCK.
 
 32. Flying Humanoid Soul Rarity:
     - A mysterious figure that
-    hov
+    hovers in the distance.
 
     Soul: Raise INT and LUCK.
 
 33. Mini Devil Soul Rarity: ** A
-    little demon with a big he
+    little demon with a big
+    heart.
 
     Soul: Summon Mini Devil as a
+    familiar.
 
 34. Quetzalcoatl Soul Rarity: **
-    A reincarnation of the ancie
+    A reincarnation of the
+    ancient snake god.
 
     Soul: Summon Quetzalcoatl as
+    a familiar.
 
 35. Treant Soul Rarity: *** An
-    ancient tree animated by
+    ancient tree animated by a
+    purely malevolent will.
 
-    Soul: Increase MP recovery s
+    Soul: Increase MP recovery
+    speed.
 
 36. Amalaric Sniper Soul Rarity:
     ** A fearsome archer and
-    fallen
+    fallen angel.
 
-    Soul: Summon an archer to su
+    Soul: Summon an archer to
+    support you.
 
 37. Valkyrie Soul Rarity: *** A
-    female warrior with a pret
+    female warrior with a pretty
+    face and a wicked heart.
 
-    Soul: Transform into a Valky
+    Soul: Transform into a
+    Valkyrie and charge at foes.
 
 38. Great Armor Soul Rarity: **
-    A heavily armored knight bui
+    A heavily armored knight
+    built out of the corpses of
+    powerful warriors.
 
-    Soul: Summon Great Armor as 
+    Soul: Summon Great Armor as
+    a familiar.
 
 39. Killer Doll Soul Rarity: ***
-    A murderous doll that wander
+    A murderous doll that
+    wanders about in search of
+    living bodies.
 
     Soul: Nullify curses.
 
 40. Waiter Skeleton Soul Rarity:
     ** A skeleton that inhabits
-    the curry.
+    the castle. Always carries
+    around a pot of curry.
 
     Soul: Serve delicious curry.
 
 41. Persephone Soul Rarity: ** A
     demonic maid in the employ
+    of an unearthly baron.
 
     Soul: Enable "magic vacuum."
+    Vacuums up enemy HP.
 
 42. Witch Soul Rarity: ** A
-    spell caster with the abil
+    spell caster with the
+    ability to cast a wide
+    variety of clever spells.
 
-    Soul: Launch magic shots tha
+    Soul: Launch magic shots
+    that track targets.
 
 43. Buer Soul Rarity: * A beast
     with many legs.
 
-    Soul: Wear a cloak of tumbli
+    Soul: Wear a cloak of
+    tumbling fire.
 
 44. Lilith Soul Rarity: ** An
-    alluring demon that delud
+    alluring demon that deludes
+    its victims with its
+    mystefying beauty.
 
     Soul: Increase INT.
 
 45. Killer Clown Soul Rarity: **
-    A creepy jester with murdero
+    A creepy jester with
+    murderous intent. Also a
+    shrewd poker player.
 
  Soul: Throw cards as weapons.
 
 46. Skelerang Soul Rarity: ** A
-    skeleton that expertly hur
+    skeleton that expertly hurls
+    boomerangs.
 
 Soul: Enhance throwing ability.
 
 47. Fleaman Soul Rarity: ** A
-    sinister little man that l
+    sinister little man that
+    leaps about as if he were a
+    flea.
 
     Soul: Summon Fleaman.
 
 48. Devil Soul Rarity: ** Hell's
     keeper.
 
-    Soul: Enter a pact with the 
+    Soul: Enter a pact with the
+    devil to sharply raise STR.
 
 49. Guillotiner Soul Rarity: *
     Rumored to have chopped off
-    guillotine.
+    hundreds of heads with its
+    bloody guillotine.
 
-    Soul: Summon a guillotine fr
+    Soul: Summon a guillotine
+    from hell.
 
 50. Draghignazzo Soul Rarity:
     *** One of the guardians of
-    the
+    the dungeons of hell. He is
+    quite the pessimist.
 
-    Soul: Raise resistance to fl
+    Soul: Raise resistance to
+    flinching upon taking
+    damage.
 
 51. Needles Soul Rarity: ** A
     giant sea urchin that has
-    over-fishing.
+    been driven close to
+    extinction from over-
+    fishing.
 
-    Soul: Summon Needles as a fa
+    Soul: Summon Needles as a
+    familiar.
 
 52. Hell Boar Soul Rarity: ** A
-    boar from hell with except
+    boar from hell with
+    exceptional fighting skills.
 
-    Soul: Knock down enemies wit
+    Soul: Knock down enemies
+    with power-packed uppercuts.
 
 53. Bone Pillar Soul Rarity: ***
-    The skulls of dinosaurs anim
+    The skulls of dinosaurs
+    animated by a demonic force.
 
     Soul: Increase CON.
 
 54. White Dragon Soul Rarity: **
     The fossilized remains of a
-    force.
+    long-necked dinosaur
+    animated by a demonic force.
 
     Soul: Breathe fire.
 
 55. Wakwak Tree Soul Rarity: **
-    A horrifying tree that can p
+    A horrifying tree that can
+    produce pods of men.
 
  Soul: Lower STR and raise CON.
 
 56. Imp Soul Rarity: ** A tiny
-    demon who loves misch
+    demon who loves mischief.
 
-    Soul: Create a space that in
+    Soul: Create a space that
+    inflicts spiritual damage.
 
 57. Harpy Soul Rarity: ** A
     bizarre bird-like creature
+    with the torso of a woman.
 
-    Soul: Summon Harpie as a fam
+    Soul: Summon Harpie as a
+    familiar.
 
 58. Barbariccia Soul Rarity: ***
     One of the guardians of the
+    dungeons of hell.
 
-    Soul: Transform into Barbari
+    Soul: Transform into
+    Barbariccia.
 
 59. Malachi Soul Rarity: ** A
-    pagan being from ancient t
-    presence.
+    pagan being from ancient
+    times that strikes fear into
+    all in its presence.
 
-    Soul: Summon a dark sphere t
+    Soul: Summon a dark sphere
+    that spews dark energy.
 
 60. Cave Troll Soul Rarity: * A
-    blood-sucking beast that e
-    tongue.
+    blood-sucking beast that
+    extracts the entrails of
+    cattle with its tongue.
 
-    Soul: Attack by lashing out 
+    Soul: Attack by lashing out
+    the tongue.
 
 61. Larva Soul Rarity: ** A
     wickedly cruel spirit that
+    inhabits a giant worm.
 
     Soul: Summon Larva.
 
 62. Heart Eater Soul Rarity: ***
     A horrific bug that loves to
+    feed on hearts.
 
     Soul: Obtain more hearts.
 
 63. Merman Soul Rarity: * An
-    aquatic monster that atta
+    aquatic monster that attacks
+    prey near water.
 
  Soul: Shoot a stream of water.
 
 64. Fish Head Soul Rarity: **
     The skeletal remains of fish
+    animated by dark power.
 
  Soul: Throw Fish Head's head.
 
 65. Medusa Head Soul Rarity: ***
-    A monster created in great n
+    A monster created in great
+    number from the head of
+    Medusa.
 
-    Soul: Become capable of hove
+    Soul: Become capable of
+    hovering in one location.
 
 66. Ukoback Soul Rarity: ** An
-    enraged demon whose body
+    enraged demon whose body is
+    engulfed in flames.
 
     Soul: Set fires.
 
 67. Killer Fish Soul Rarity: **
     An ancient, man-eating fish.
+    Rumored to be quite tasty.
 
 Soul: Launch torpedoes in water.
 
 68. Mimic Soul Rarity: *** It
-    assumes the guise of a tr
-    victims.
+    assumes the guise of a
+    treasure chest to lure in
+    unsuspecting victims.
 
     Soul: Gain money when taking
+    damage.
 
 69. Dead Pirate Soul Rarity: **
-    A zombie pirate cursed by it
+    A zombie pirate cursed by
+    its own greed.
 
-    Soul: May cause greater dama
+    Soul: May cause greater
+    damage on enemies attacked
+    from behind.
 
 70. Frozen Shade Soul Rarity: **
-    A wraith that manipulates fr
+    A wraith that manipulates
+    frigid air.
 
-    Soul: Create a blade of ice 
+    Soul: Create a blade of ice
+    that causes freezing.
 
 71. Homunculus Soul Rarity: * A
-    malevolent, artificial lif
+    malevolent, artificial life
+    form created by a demonic
+    scholar.
 
     Soul: Summon Homunculus.
 
 72. Disc Armor Soul Rarity: **
-    An armor-clad soldier that i
-    blades.
+    An armor-clad soldier that
+    is an expert at throwing
+    giant circular blades.
 
-    Soul: Hurl a sharp-edged cir
+    Soul: Hurl a sharp-edged
+    circular blade.
 
 73. Decarabia Soul Rarity: * A
-    demon in the shape of a st
+    demon in the shape of a
+    starfish.
 
     Soul: Hurl a Decarabia.
 
 74. Dead Mate Soul Rarity: * A
-    zombie that protects grave
+    zombie that protects
+    graveyards together with its
+    beloved dog.
 
     Soul: Summon a dog.
 
 75. Bugbear Soul Rarity: *** A
-    single-eyed fiend cloaked
+    single-eyed fiend cloaked in
+    thunderbolts.
 
-    Soul: Gain resistance to lig
+    Soul: Gain resistance to
+    lightning.
 
 76. Procel Soul Rarity: *** A
-    liquid demon that appears
+    liquid demon that appears on
+    the surface of water.
 
-    Soul: Increase mobility in w
+    Soul: Increase mobility in
+    water.
 
 77. Bone Ark Soul Rarity: *** A
     mobile Bone Pillar. It is
+    considered an innovative
+    breakthrough.
 
-    Soul: Summon a skeleton to p
+    Soul: Summon a skeleton to
+    provide transportation.
 
 78. Gorgon Soul Rarity: *** A
-    monstrous bull that breath
+    monstrous bull that breathes
+    clouds of toxic gas.
 
     Soul: Breath a toxic gas.
 
 79. Alura Une Soul Rarity: ** An
     Une fattened with copious
+    pools of blood.
 
-    Soul: Summon Alura Une as a 
+    Soul: Summon Alura Une as a
+    guardian.
 
 80. Great Axe Armor Soul Rarity:
     *** An armor-clad soldier
-    that m
+    that mows down its victims
+    with a massive axe.
 
-    Soul: Perform a spinning swe
+    Soul: Perform a spinning
+    sweep with a huge axe.
 
 81. Mothman Soul Rarity: * Half
-    man, half moth. It appe
+    man, half moth. It appears
+    to be attracted to the
+    light.
 
-    Soul: Gain more experience p
+    Soul: Gain more experience
+    points.
 
 82. Mushussu Soul Rarity: ** A
     furious beast from ancient
+    Babylonia.
 
     Soul: Grow a poisonous tail.
 
 83. Dead Crusader Soul Rarity:
     *** A zombie warrior bearing
-    a s
+    a sturdy shield.
 
-    Soul: Reduce the amount of d
+    Soul: Reduce the amount of
+    damage from attacks.
 
 84. Dead Warrior Soul Rarity:
     *** A dead knight that seeks
-    to
+    to fight for all eternity.
 
-    Soul: Use Bullet-type souls 
+    Soul: Use Bullet-type souls
+    while executing standard
+    attacks.
 
 85. Erinys Soul Rarity: *** The
     goddess of revenge.
 
-    Soul: Unleash divine energy 
+    Soul: Unleash divine energy
+    that causes widespread
+    damage.
 
 86. Succubus Soul Rarity: ** A
-    demon that assumes the for
+    demon that assumes the form
+    of a beautiful maiden to
+    drain vitality.
 
-    Soul: Regain HP by drinking 
+    Soul: Regain HP by drinking
+    blood.
 
 87. Ripper Soul Rarity: ** A
-    fiend that takes great ple
+    fiend that takes great
+    pleasure in slaughtering
+    people with knives.
 
     Soul: Throw knives.
 
 88. Black Panther Soul Rarity: *
     A jet-black beast that runs
+    with great speed.
 
-    Soul: Move at high speed whi
+    Soul: Move at high speed
+    while creating a shock wave.
 
 89. Mud Demon Soul Rarity: ** A
     good-looking demon formed
+    out of dirt.
 
-    Soul: Prevent loss of mobili
+    Soul: Prevent loss of
+    mobility even in sand.
 
 90. Giant Slug Soul Rarity: ***
-    A gigantic mollusk with an e
+    A gigantic mollusk with an
+    equally huge shell.
 
     Soul: Nullify poison.
 
 91. Werewolf Soul Rarity: ** A
     madman that can transform
+    into a savage wolf.
 
     Soul: Perform short dashes.
 
 92. Flame Demon Soul Rarity: **
-    A fire-wielding demon born i
+    A fire-wielding demon born
+    in the fiery pits of the
+    underworld.
 
-    Soul: Shoot devastating fire
+    Soul: Shoot devastating
+    fireballs.
 
 93. Tanjelly Soul Rarity: *** A
     jelly-like monster that is
+    resistant to physical
+    attacks.
 
-    Soul: Gain resistance to phy
+    Soul: Gain resistance to
+    physical attacks.
 
 94. Arc Demon Soul Rarity: ***
     Uses the powers of darkness
+    to wreak havoc upon the
+    world.
 
-    Soul: Gain resistance agains
+    Soul: Gain resistance
+    against dark spells and
+    attacks.
 
 95. Gaibon Soul Rarity: ** A
     fiend that serves the Grim
+    Reaper. It can spit fire
+    while flying.
 
-    Soul: Summon Gaibon as a fam
+    Soul: Summon Gaibon as a
+    familiar.
 
 96. Slogra Soul Rarity: * A
     fiend that serves the Grim
-    spear.
+    Reaper. It fights on the
+    ground with a spear.
 
     Soul: Throw spears.
 
 97. Stolas Soul Rarity: *** A
     wise, old creature said to
+    have considerable
+    intelligence.
 
  Soul: Raise INT and lower STR.
 
 98. Final Guard Soul Rarity: ***
-    A powerful armored soldier g
-    spots.
+    A powerful armored soldier
+    given the task of guarding
+    the castle's key spots.
 
  Soul: Gain iron-clad defense.
 
 99. Malacoda Soul Rarity: ** A
-    long-tailed demon that ser
+    long-tailed demon that
+    serves as the head of the
+    dungeon guardians.
 
     Soul: Attack with a tail.
 
 100. Alastor Soul Rarity: **
- A possessed sword driven to see
- soldiers.
+ A possessed sword driven to
+ seek revenge by the souls of
+ slain soldiers.
 
- Soul: Summon Alastor as a famil
+ Soul: Summon Alastor as a
+ familiar.
 
 101. Iron Golem Soul Rarity: ***
- A golem with impenetrable durab
+ A golem with impenetrable
+ durability. It has no known
+ weaknesses.
 
- Soul: Transform into an invinci
+ Soul: Transform into an
+ invincible Iron Golem.
 
 102. Flying Armor Soul Rarity: -
- A sinister cape-clad figure tha
+ A sinister cape-clad figure
+ that hovers in the air.
 
- Soul: Reduce the speed of falli
+ Soul: Reduce the speed of
+ falling.
 
 103. Balore Soul Rarity: -
- A demon with a fear-inducing ga
+ A demon with a fear-inducing
+ gaze.
 
  Soul: Touch the Touch Screen to
+ shatter certain blocks.
 
 104. Malphas Soul Rarity: -
- A black demon that is accompani
+ A black demon that is
+ accompanied by crows.
 
   Soul: Execute a double jump.
 
 105. Dmitrii Soul Rarity: -
- He can learn the abilities of o
- candidates.
+ He can learn the abilities of
+ others. He is one of the dark
+ lord's candidates.
 
  Soul: -
 
 106. Dario Soul Rarity: -
  A man with inflammatory powers.
+ He is one of the dark lord's
  candidates.
 
  Soul: -
 
 107. Puppet Master Soul Rarity:
      -
- The cursed king of dolls. It co
+ The cursed king of dolls. It
+ controls dolls and the
+ dimensions.
 
  Soul: Throw a puppet and switch
+ places with it.
 
 108. Rahab Soul Rarity: -
- A monster that dominates the se
+ A monster that dominates the
+ seas.
 
- Soul: Gain the ability to move 
+ Soul: Gain the ability to move
+ underwater.
 
 109. Gergoth Soul Rarity: -
- Imprisoned in solitude long ago
+ Imprisoned in solitude long
+ ago, it gradually grew evil and
+ demented.
 
- Soul: Fire a devastating laser 
+ Soul: Fire a devastating laser
+ beam.
 
 110. Zephyr Soul Rarity: -
  A demon with mastery over time.
@@ -3493,31 +3717,42 @@ Soul: Launch torpedoes in water.
 
 111. Bat Company Soul Rarity: -
  A group of bats that thinks and
+ acts as one.
 
- Soul: Transform into a bat and 
+ Soul: Transform into a bat and
+ fly.
 
 112. Paranoia Soul Rarity: -
- A foul fiend that nests inside 
+ A foul fiend that nests inside
+ mirrors.
 
  Soul: Gain the ability to enter
+ mirrors.
 
 113. Aguni Soul Rarity: -
- A being that is the embodiment 
+ A being that is the embodiment
+ of fire.
 
- Soul: Create a pillar of fire t
+ Soul: Create a pillar of fire
+ that races across the ground.
 
 114. Death Soul Rarity: -
  Dracula's confidant.
 
- Soul: Summon the Grim Reaper's 
+ Soul: Summon the Grim Reaper's
+ scythe to attack enemies.
 
 115. Abaddon Soul Rarity: -
  The master of pestilent locusts
+ from the deep abyss of the
+ underworld.
 
  Soul: Summon a cloud of locusts
+ to swarm foes.
 
 116. Menace Soul Rarity: -
- A humongous amalgamation of pow
+ A humongous amalgamation of
+ powerful demons.
 
  Soul: -
 
@@ -3550,54 +3785,81 @@ with the spikes in Subterranean
 Hell? Answer: There are a couple
 ways to do this. The easiest way
 is if you
-  have the Bone Ark soul. Activa
-  carry you across the barrier. 
-  you can use that as well, just
-  Puppet Master soul. The Skelet
-  puppet farther, letting you ge
+  have the Bone Ark soul.
+  Activate the Bone Ark soul,
+  and it will carry you across
+  the barrier. If you have the
+  Skeleton Ape soul, you can use
+  that as well, just have it
+  equipped and use the Puppet
+  Master soul. The Skeleton Ape
+  soul will make you throw the
+  puppet farther, letting you
+  get across.
 
 FAQ 2: What is the piano for in
 the Demon Guest House? Answer:
 As far as anyone knows right
 now, absolutely nothing. It is
 just
-  there. There are no songs you 
+  there. There are no songs you
+  can play on it to recieve
+  items.
 
 FAQ 3: Where can I get the
 Konami Man? Answer: You can get
 the Konami Man in the Cursed
 Clock Tower, in a room with
-  a Slime and a Tanjelly and a b
-  there aren't spikes on the pla
-  fly across the screen and you 
-  this item is sell it to Hammer
+  a Slime and a Tanjelly and a
+  bunch of spikes. If you stand
+  where there aren't spikes on
+  the platform and wait, the
+  Konami Man will fly across the
+  screen and you can get him.
+  All you can do with this item
+  is sell it to Hammer for 2500
+  gold.
 
 FAQ 4: Where can I get the Bell?
 Answer: You can get the Bell by
 going to the Dark Chapel with
 the Hippogryph
   soul, and using it to fly into
-  the three giant bells. The Bel
-  Konami Man, you can only sell 
+  the leftmost bell in the room
+  with the three giant bells.
+  The Bell item will fall out.
+  As with the Konami Man, you
+  can only sell this to Hammer
+  for 2500 gold.
 
 FAQ 5: Where can I find the
 Crown? Answer: In the Demon
 Guest House, there is a room
 that is very tall, and
-  has three rooms to the right t
-  the bottom of this set of room
-  Skeleton and a chair. Kill the
-  The crown will rise out of the
-  Konami Man, you can sell it fo
+  has three rooms to the right
+  that are only one screen long.
+  At the bottom of this set of
+  rooms, there is a room with a
+  Waiter Skeleton and a chair.
+  Kill the Waiter Skeleton and
+  sit in the chair. The crown
+  will rise out of the ground,
+  and similar to the Bell and
+  Konami Man, you can sell it
+  for 2500 gold.
 
 FAQ 6: What are the items you
 get for beating Boss Rush Mode?
-  (credit goes to amaravati, tan
+  (credit goes to amaravati,
+  tancients, and Zaraf)
 Answer: You get these: RPG for
 beating it under 5 minutes,
 Death's Robe
-  for beating it under 6 minutes
-  7 minutes, Nunchakus for beati
+  for beating it under 6
+  minutes, Terror Bear for
+  beating it under 7 minutes,
+  Nunchakus for beating it under
+  8 minutes, and a Potion
 for any times higher than that.
 
 FAQ 7: Where can I get the Yeti,
@@ -3605,27 +3867,44 @@ Mothman, and Flying Humanoid
 souls? Answer: Yeti: You need
 the Waiter Skeleton soul to get
 him. Go to the very
-   first room in the game and us
-   jump out of the background an
+   first room in the game and
+   use the soul there. The Yeti
+   will jump out of the
+   background and will be
+   attackable.
 
-  Flying Humanoid: You need the 
-   room in the Cursed Clock Towe
-   You'll see a little guy flyin
-   Use the Mandragora soul here,
+  Flying Humanoid: You need the
+  Mandragora soul to get him. Go
+  to the
+   room in the Cursed Clock
+   Tower that is right before
+   Zephyr. You'll see a little
+   guy flying around in the
+   background. Use the
+   Mandragora soul here, and
+   you'll kill the enemy, and
   automatically get this soul.
 
-  Mothman: In the Pinnacle, ther
-   a wierd spotlight thing in th
-   soul, use it on the battery l
+  Mothman: In the Pinnacle,
+  there is a room with two Final
+  Guards and
+   a wierd spotlight thing in
+   the middle. If you have the
+   Rycuda soul, use it on the
+   battery looking thing by the
+   spotlight and
       Mothman will fly in.
 
 FAQ 8: How do I open the slot
 machine doors? Answer: The last
 three digits of the amount of
 gold you have need to match
-  the three digits on the door. 
-  if you had 5777 gold, you woul
-  a 666 door that work the same 
+  the three digits on the door.
+  For example, to get into the
+  777 door, if you had 5777
+  gold, you would get in. There
+  is also a 573 door and a 666
+  door that work the same way.
 
 FAQ 9: What are the 3 hidden
 ability souls? (credit goes to
@@ -3634,35 +3913,55 @@ Allows you to move through the
 water at a faster rate. Can
  be found in Subterranean Hell.
 
-  Hippogryph: Pushing L + Up wil
-    high, without using any MP. 
+  Hippogryph: Pushing L + Up
+  will make you jump really
+  fast, really
+    high, without using any MP.
+    Can be found in the Abyss,
+    under
       a sand pit in a jar.
 
-  Mud Demon: Allows you to move 
+  Mud Demon: Allows you to move
+  through mud as normal. Also
+  found in
     the Abyss.
 
 FAQ 10: What are the endings in
 the game? Answer: These are the
 endings, and how to get them:
 
-  Worst Ending: Obtained by beat
+  Worst Ending: Obtained by
+  beating Dario for the second
+  time in the
      Pinnacle.
-  Bad Ending: Obtained by beatin
-     equipping Mina's Talisman w
+  Bad Ending: Obtained by
+  beating Paranoia and Aguni,
+  then not
+     equipping Mina's Talisman
+     when entering the room in
      the center of the castle in
-  Best Ending: Wear the Mina's T
-     of the Garden of Madness, t
+     the Garden of Madness.
+  Best Ending: Wear the Mina's
+  Talisman to the room in the
+  center
+     of the Garden of Madness,
+     then head to the Condemned
      Tower and go to the room on
-     now allow you to enter the 
-     leads to two more boss batt
+     the bottom right. It will
+     now allow you to enter the
+     Mine of Judgement, which
+     leads to two more boss
+     battles, the last area of
+     the
  game, and the real last boss.
 
 FAQ 11: How do I get Julius
 Mode? Answer: Obtain the Bad
 Ending. Note that if you DO get
 this ending, you can
-  continue to play the file you 
-  get the best ending.
+  continue to play the file you
+  got it with and then continue
+  on to get the best ending.
 
 --------------------------------
          9. LEGAL INFO

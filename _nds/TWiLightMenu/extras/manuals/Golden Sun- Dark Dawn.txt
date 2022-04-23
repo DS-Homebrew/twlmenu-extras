@@ -49,13 +49,19 @@ navigation.
 
   II. GAME BASICS...............
  Navigating the World...........
+ ...............................
+ .....GSGB1
  Psynergy.......................
  Battle System..................
  Djinni System..................
 
  III. GAME CONTROLS.............
+ ...............................
+ ..........GSDD3
 
   IV. CHARACTER INTRODUCTION....
+  ..............................
+  ...........GSDD4
 
    V. WALKTHROUGH...............
  Prologue.......................
@@ -65,14 +71,21 @@ navigation.
  Abandoned Mine.................
  Patcher's Place................
  Psynergy Training Grounds......
- Goma Highlands Road............
+ ...............................
+ .....DDWT7 Goma Highlands Road.
+ ...............................
+ ................DDWT8
  Carver's Camp..................
  Carver's Lumberyard............
+ ...............................
+ ....DDWT10
  Konpa Gate.....................
  Konpa Ruins....................
  Konpa Cave.....................
  Harapa.........................
  Passaj Mountain Climb..........
+ ...............................
+ ....DDWT15
  Passaj.........................
  Kaocho.........................
  Ayutay.........................
@@ -80,7 +93,10 @@ navigation.
  The Ouroboros..................
  Harapa Ruins...................
  Clouds of Passaj...............
- Craggy Peak Ruins..............
+ ...............................
+ ....DDWT22 Craggy Peak Ruins...
+ ...............................
+ ...............DDWT23
  Te Rya Village.................
  Teppe Ruins....................
  Belinsk........................
@@ -88,14 +104,21 @@ navigation.
  Port Rago......................
  Saha Town......................
  Kolima Village.................
- Phantasmal Bog.................
+ ...............................
+ ....DDWT30 Phantasmal Bog......
+ ...............................
+ ...............DDWT31
  Kolima Forest..................
  Talon Peak.....................
  Belinsk Ruins..................
 
   VI. MONSTER COMPENDIUM........
+  ..............................
+  ...........GSDD6
 
  VII. BOSS STRATEGIES...........
+ ...............................
+ ..........GSDD7
 
 VIII. FREQUENTLY ASKED QUESTIONS
 ................................
@@ -104,6 +127,8 @@ VIII. FREQUENTLY ASKED QUESTIONS
   IX. CREDITS...................
 
    X. CONTACT INFO/LEGAL JAZZ...
+   .............................
+   ...........GSDD10
 
 ================================
 I...............................
@@ -220,9 +245,11 @@ PROLOGUE........................
 
 
 Long ago, the ancients of Weyard
-     discovered the secrets of A
+     discovered the secrets of
+     Alchemy.
 
      They found that all life in
+     Weyard
 was based on the four elements:
   earth, wind, fire and water.
 
@@ -237,8 +264,10 @@ civilization from the elements.
      nightmare of Alchemy.
 
 Abuses of Alchemy threatened to
-    tear apart their entire civi
-     So the ancients did the unt
+    tear apart their entire
+    civilization.
+     So the ancients did the
+     unthinkable:
  They sealed away the power of
 Alchemy so no one could use it.
 
@@ -251,34 +280,45 @@ Alchemy so no one could use it.
    what held Weyard together.
 
  Without the force of Alchemy,
-     lands went barren, seas wen
+     lands went barren, seas
+     went dry,
 and the planet began to crumble.
 
-     And civilization itself fel
+     And civilization itself
+     fell into
  the darkest of ages that came
-     before its final, fatal ext
+     before its final, fatal
+     extinction...
 
   The ancients had sealed away
  Alchemy to save civilization.
   But they had doomed Weyard.
 
 But while the oceans churned and
-     life on the continent slid 
+     life on the continent slid
+     slowly
 toward oblivion over the eons...
 
-     A legend was kept alive tha
+     A legend was kept alive
+     that held
  the key to Weyard's survival.
 
-    If four Elemental Lighthouse
+    If four Elemental
+    Lighthouses could be
      ignited, their energy would
-     the Golden Sun event over W
+     trigger the Golden Sun
+     event over Weyard.
 
 The Golden Sun would unleash the
-     force of Alchemy - saving t
+     force of Alchemy - saving
+     the world!
 
     Thirty years ago, a group of
-     save the world with the Gol
-    But now a shadowy threat is 
+    heroes did
+     save the world with the
+     Golden Sun.
+    But now a shadowy threat is
+    spreading...
 
 
 After the lenghty inrtoduction
@@ -1094,7 +1134,7 @@ through the door and watch the
 scene.
 
 .-------------------------------
-| BOSS: Stealthy Scout x3 |
+| BOSS: Stealthy Scout x3       
 |-------------------------------
 | Experience: 798               
 | Gold: 426                     
@@ -1461,7 +1501,8 @@ G | | Bronze Shield | 500 G | |
 Battle Mace | 2600 G | | Leda's
 Bracelet | 900 G |
 '-------------------------------
-         | Silver Circlet       
+         | Silver Circlet | 1300
+         G |
          '----------------------
 
 .-----------.
@@ -1714,7 +1755,7 @@ castle and the generals will
 stop you.
 
 .-------------------------------
-| BOSS: Ku-Tsung & Ku-Embra |
+| BOSS: Ku-Tsung & Ku-Embra     
 |-------------------------------
 | Experience: 1647              
 | Gold: 762                     
@@ -3092,15 +3133,21 @@ in here. Here's how to get to a
 chest with [HAGBONE MACE]:
 
  x  x  O  x
-    x  O  O  O       ("x" marks 
-    O  O  x  x        "O" marks 
+    x O O O ("x" marks the
+    places where no pillar is
+    present, O O x x "O" marks
+    the places where a pillar
+    needs to be)
 
 And here's the path to the
 northeast door:
 
  x  x  O  x
-    O  O  O  x       ("x" marks 
-    x  x  O  O        "O" marks 
+    O O O x ("x" marks the
+    places where no pillar is
+    present, x x O O "O" marks
+    the places where a pillar
+    needs to be)
 
 At the end of the path, cast
 "Fireball" on the orb and slide
@@ -3281,7 +3328,7 @@ level 6-7 should do the job. |
 '-------------------------------
 
 .-------------------------------
-| BOSS: Stealthy Scout x3 |
+| BOSS: Stealthy Scout x3       
 |-------------------------------
 | Experience: 798               
 | Gold: 426                     
@@ -3339,7 +3386,7 @@ needed. |
 '-------------------------------
 
 .-------------------------------
-| BOSS: Ku-Tsung & Ku-Embra |
+| BOSS: Ku-Tsung & Ku-Embra     
 |-------------------------------
 | Experience: 1647              
 | Gold: 762                     
@@ -3503,17 +3550,23 @@ ENTLY ASKED QUESTIONS...........
 
 1. - When was this game
    released?
-   - October 28th, 2010 in Japan
+   - October 28th, 2010 in
+     Japan. November 29th, 2010
+     in US. December 10th,
  2010 in Europe.
 
 2. - How does this game fit in
    the Golden Sun timeline?
    - It's set 30 years after the
+     events of the first two
+     games.
 
 3. - Should I play the first two
    games, if I'm new to the
    series?
-   - Honestly? You should. You'l
+   - Honestly? You should.
+     You'll miss quite a few
+     references to the previous
  games in Dark Dawn.
 
 4. - How many playable
@@ -3522,10 +3575,13 @@ ENTLY ASKED QUESTIONS...........
    - Eight.
 
 5. - How long is this game?
-   - 20 to 30 hours, depending o
+   - 20 to 30 hours, depending
+     on how you play.
 
 6. - Is this game good?
-   - Everyone should decide for 
+   - Everyone should decide for
+     themselves. IMO, yes, it's
+     a worthy sequel to
  the GBA games.
 
 7. - Is Felix in the game?
@@ -3536,7 +3592,9 @@ ENTLY ASKED QUESTIONS...........
 
 9. - Does this game have any
    missables?
-   - Yep, lots of Djinni can be 
+   - Yep, lots of Djinni can be
+     missed. This won't happen
+     if you follow the
  walkthrough :P
 
 10. - Any post game bosses?

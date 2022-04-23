@@ -20,7 +20,8 @@ Version: 0.50 Date: 10/5/2009
   5.1 The Blorbs
   5.2 A Nasty Surprise
   5.3 Blocks, Flames, & Dogs
-  5.4 Over the Wigglers and Thro
+  5.4 Over the Wigglers and
+    Through the Woods
   5.5 To The Castle!
   5.6 Falling Stars
   5.7 The Hunt For a Cure
@@ -82,7 +83,8 @@ v0.50: This is the first version
 I uploaded to GameFAQs. The
 walkthrough is
  about half done, and nearly all
- come!
+ the sections are incomplete.
+ More to come!
 
 
 ---(1. Introduction)------------
@@ -151,6 +153,8 @@ used Touch Screen: Not used Mic:
 Not used
 
 +++Field Controls (Mario and Lui
+   gi)++++++++++++++++++++++++++
+   ++++++++++++++++++
 
 Control Pad: Move A Button:
 Mario Jump / Mario Hammer* /
@@ -165,6 +169,8 @@ Select Button: View map Touch
 Screen: Not used Mic: Not used
 
 +++Battle Controls (Mario and Lu
+   igi)+++++++++++++++++++++++++
+   ++++++++++++++++++
 
 Note: The controls listed may
 not pertain to special attacks
@@ -180,6 +186,8 @@ Not used Touch Screen: Not Used
 Mic: Not used
 
 +++Field Controls (Bowser)++++++
+   +++++++++++++++++++++++++++++
+   ++++++++++++++++++
 
 Control Pad: Move A/B Buttons:
 Switch to Mario Bros. (Only
@@ -194,6 +202,8 @@ map Touch Screen: Not used Mic:
 Not used
 
 +++Battle Controls (Bowser)+++++
+   +++++++++++++++++++++++++++++
+   ++++++++++++++++++
 
 Control Pad: Select action block
 A/B Buttons: Not used X/Y
@@ -205,6 +215,8 @@ Touch Screen: Used for special
 attacks Mic: Not used
 
 +++Giant Battle Controls (Bowser
+   )++++++++++++++++++++++++++++
+   ++++++++++++++++++
 
 Control Pad: Not used A/B
 Buttons: Not used X/Y Buttons:
@@ -225,7 +237,8 @@ info screen.
 Name: This is the name of the
 character you are looking at. It
 will
-   either be Mario, Luigi, or Bo
+   either be Mario, Luigi, or
+   Bowser.
 
 LV: This is your current level.
 The higher it is, the stronger
@@ -235,8 +248,10 @@ you
 HP: Health Points. If you have
 ever played any other RPG, you
 know
-   what these are. Basically, th
-   if you don't want to see a ga
+   what these are. Basically,
+   this is your health. Keep it
+   above 0 if you don't want to
+   see a game over screen.
 
 SP: Special Points. You need
 these to execute special
@@ -251,12 +266,14 @@ mean you take less damage.
 SPEED: The speed of your
 character. This determines who
 gets to attack
-   first in battle. Higher numbe
+   first in battle. Higher
+   numbers win.
 
 STACHE / HORN: This affects the
 number of LUCKY strikes you get
 in battle and
-   how high your chances are at 
+   how high your chances are at
+   winning with scratch cards.
 
 RANK: This is your current rank.
 These increase as you level, and
@@ -279,8 +296,9 @@ you can access in the game.
 ITEMS: Displays a list of the
 items you have acquired in the
 game.
-  Eventually, it also lists how 
-  area.
+  Eventually, it also lists how
+  many beans you have collected
+  in each area.
 
 GEAR: Displays the gear you have
 equiped on each character.
@@ -292,18 +310,21 @@ you control.
 BADGES: This is where you set
 what badges Mario and Luigi
 equip. This menu is
-  locked until you get your firs
+  locked until you get your
+  first badge.
 
 SPECIALS: Displays a list of
 your current special attacks and
 allows you to
-  practice with them. This is lo
-  piece.
+  practice with them. This is
+  locked until you earn your
+  first attack piece.
 
 MAP: Views the map of the
 current area as well as the
 world map. The area
-  map can also be viewed by pres
+  map can also be viewed by
+  pressing the Select Button.
 
 
 ---(2.4 Leveling Up)------------
@@ -342,26 +363,34 @@ effects.
 Poison: Mario Brothers only.
 This status effect causes Mario
 or Luigi to
-   take damage at the beginning 
-   this will turn purple. Poison
+   take damage at the beginning
+   of their turn. Bros afflicted
+   with this will turn purple.
+   Poison wears off after a few
+   turns.
 
 Sick: This is Bowser's
 equivalent of poison. It does
 the same thing to
-   him, but he turns light-blue 
+   him, but he turns light-blue
+   when affected.
 
 Burn: Same as Poison or Sick,
 but also prevents whatever is
 affected
-   from doing anything until it 
-   attacks.
+   from doing anything until it
+   wears off. Brought on by
+   fire-based attacks.
 
 Fury: Bowser only. If Bowser
 gets hit enough times in a
 single fight, HE
-   WILL HAVE FURY! Fury causes h
-   causes his defense to lower a
-   fury, and it wears off after 
+   WILL HAVE FURY! Fury causes
+   his attack to double, but it
+   also causes his defense to
+   lower a bit. Bowser flashes
+   red when he has fury, and it
+   wears off after a few turns.
 
 POW Up: Gives a temporary boost
 to POW stat.
@@ -660,6 +689,8 @@ Jump: A basic jump attack
 ================================
 
 ===Boss: Bowser (Tutorial)======
+   =============================
+   ==================
 
 This is a pretty basic fight.
 Toadsworth will offer you
@@ -932,7 +963,8 @@ attack!
 Elite Goombule: Looks like a
 blue Goombule, but wears a
 helmet that stops
-    damage from jumps. Kill it w
+    damage from jumps. Kill it
+    with the Green Shell!
 
 ================================
 
@@ -983,7 +1015,9 @@ Hammer: The current Bro will
 swing a hammer backwards and
 strike an enemy.
    Useful for enemies that can't
-   to strike, but don't overchar
+   be jumped on. Wait for the
+   right time to strike, but
+   don't overcharge it!
 
 ================================
 
@@ -1146,9 +1180,14 @@ Punch: Bowser's basic melee
 attack. Bowser will walk up to
 an enemy and begin
  charging a punch. Press X as he
- force. Overcharge it, though, a
+ finishes to hit the enemy with
+ full force. Overcharge it,
+ though, and Bowser will fall on
+ the enemy.
 
 ===Boss: Midbus (Tutorial)======
+   =============================
+   ==================
 
 This is a basic tutorial fight
 to teach you how to use Bowser.
@@ -1235,6 +1274,8 @@ through the southeast exit and
 enter Plack Beach.
 
 ---(5.3 Blocks, Flames, & Dogs)-
+   -----------------------------
+   -----------------
 
 ***Plack Beach******************
 
@@ -1251,7 +1292,8 @@ path.
 Drillbit Crab: A hermit crab
 with a drill for a shell. It can
 not fight Bowser.
-   Yields 5 coins if killed by B
+   Yields 5 coins if killed by
+   Bowser.
 
 ================================
 
@@ -1281,6 +1323,7 @@ Toothy: A column of teeth that
 roams Plack Beach. Looks like
 the
     cactus enemies from previous
+    Mario games.
 
 ===New Item Drop================
 
@@ -1344,8 +1387,11 @@ of a tutorial boss battle
 Vacuum: Not really an attack so
 much as a feature of Bowser.
 Bowser can inhale
-  small enemies and take things 
-  that are inhaled will be sent 
+  small enemies and take things
+  from some larger enemies.
+  Small enemies that are inhaled
+  will be sent to the Mario
+  Brothers to be dealt with.
 
 ===Boss: Broque Monsieur========
 
@@ -1445,20 +1491,26 @@ access your first challenge in
 the Challenge Node.
 
 ===New Cholesteroad Challenge===
+   =============================
+   ==================
 
 Green Shell: This challenges you
 to kick a green shell back and
 forth
-    between Mario and Luigi as m
-    missing. B Rank score is 100
-    Rank, you will get a Challen
+    between Mario and Luigi as
+    many times as you can
+    without missing. B Rank
+    score is 100, A Rank is 150.
+    If you pass A Rank, you will
+    get a Challenge Medal.
 
 ===New Challenge Gear===========
 
 Challenge Medal: This medal
 increases all the stats of the
 enemies, but also
-    makes them drop more coins. 
+    makes them drop more coins.
+    Use this if you want tougher
      fights or more money!
 
 ================================
@@ -1482,7 +1534,8 @@ only appear
 Dried Blooper: A Bubble Blooper
 that has lost all of its water
 content. They
-    only appear when Pump Works 
+    only appear when Pump Works
+    os dry.
 
 ================================
 
@@ -1698,9 +1751,14 @@ a new Special Attack!
 Fire Flower: Mario and Luigi
 will each get a Fire Flower and
 hold a fireball.
-   Press the button of the broth
-   fire at random enemies. At th
-   may be able to throw firebsal
+   Press the button of the
+   brother with the big fireball
+   to throw fire at random
+   enemies. At the end of the
+   attack, Mario and Luigi may
+   be able to throw firebsalls
+   simultaneously. Costs 4 SP to
+   use.
 May cause burns to your enemies.
 
 ================================
@@ -1853,9 +1911,12 @@ and tutorial boss fight.
 Flame: Bowser unleashes his
 flame breath upon the enemy.
 This attack hits all
- enemies on the bottom screen an
- Press and hold X when Bowser re
- amount of damage.
+ enemies on the bottom screen
+ and has a chance to inflict
+ burn status. Press and hold X
+ when Bowser reaches full charge
+ to deal the highest amount of
+ damage.
 
 ===Boss: Broggy=================
 
@@ -1882,7 +1943,9 @@ trees so you can go north.
 Save at the Save Block, then
 proceed north into Dimble Wood.
 
----(5.4 Over the Wigglers & Thro
+---(5.4 Over the Wigglers &
+   Through the Woods)-----------
+   ----------------------
 
 
 ***Dimble Wood******************
@@ -1892,8 +1955,11 @@ proceed north into Dimble Wood.
 Treevil: An evil tree that roams
 Dimble Wood. It throws branches
 at its foes,
-  and is weak to fire attacks. S
-  branches that Bowser can inhal
+  and is weak to fire attacks.
+  Sometimes, it will have a
+  fruit on its branches that
+  Bowser can inhale to recover
+  some HP.
 
 ================================
 
@@ -1939,7 +2005,8 @@ will do business
 
 Broggy's Gear Shop: Broggy sells
 gear to Bowser. This is the only
-       gear shop that will sell 
+       gear shop that will sell
+       to Bowser.
 
 ===New Gear=====================
 
@@ -1970,8 +2037,9 @@ ramp down into the next area.
 Scutlet: A smaller version of
 the Scutlet boss that the Mario
 Brothers had to
-  fight in Bowser's Flame Pipe. 
-  Bowser kills it.
+  fight in Bowser's Flame Pipe.
+  It can't fight Bowser. Yields
+  5 coins if Bowser kills it.
 
 ================================
 
@@ -2177,9 +2245,13 @@ Head east one screen.
 Trashure: A treasure box enemy
 that attacks by throwing stuff.
 Don't avoid the
-  Mushrooms or coins it throws a
-  stuff! After a certain amount 
-  you will be able to inhale coi
+  Mushrooms or coins it throws
+  at you, but be sure to punch
+  the other stuff! After a
+  certain amount of damage, the
+  lock will fly off and you will
+  be able to inhale coins from
+  it. The Trashure will randomly
   run away.
 
 ===New Blitty===================
@@ -2201,6 +2273,7 @@ Block Band: Gives a 20% DEF
 boost to Bowser when equipped.
 This is a reward for
    giving 4 Blitties to Monsieur
+   Broque.
 
 ================================
 
@@ -2218,7 +2291,9 @@ first Special Attack!
 Goomba Storm: Goombas will rush
 toward an enemy. Touch them with
 the stylus to
-   set them on fire and deal add
+   set them on fire and deal
+   additional damage! Costs 6 SP
+   per use.
     May inflict burn status.
 
 ================================
@@ -2442,7 +2517,8 @@ by 10%. Dropped by Durmite.
 Durmite X: This is the first
 class of the Guantlet in the
 Challenge Node.
-   Costs 200 coins to attempt. M
+   Costs 200 coins to attempt.
+   Must KO enemy within 5 turns.
  Recommended level: 18 and up.
 
 ================================
@@ -2552,19 +2628,22 @@ Save Block. Head north.
 Flifit: An enemy that lives in
 Bumpsy Plains and looks like a
 Sunflower.
-   Vacuum it to drain it of its 
-   watered.
+   Vacuum it to drain it of its
+   leaves and disable it until
+   it gets watered.
 
 Lakitu King: A Lakitu with a
 crown on its head. This enemy
 never appears in the
-   field, but it may appear alon
-   to the Brothers!
+   field, but it may appear
+   alongside a Flifit. Vacuum it
+   to send it to the Brothers!
 
 Sneed: A baby Flifit that looks
 like a sunflower seed. It can't
 fight
-   Bowser. If Bowser kills it, i
+   Bowser. If Bowser kills it,
+   it will yield 5 coins.
 
 ===New Blitty===================
 
@@ -2688,7 +2767,8 @@ Fawful clone off of
 Fawful Guy: A Fawfulized Shy
 Guy. It is too small to fight
 Bowser. It will
-   yield 10 coins if Bowser kill
+   yield 10 coins if Bowser
+   kills it.
 
 ===New Blitty===================
 
@@ -2726,9 +2806,13 @@ a new special attack!
 Shy Guy Squad: A squad of Shy
 Guys will appear, and Bowser
 will roll into a
-   ball. Move the stylus across 
-   them push him further into it
-   is up, Bowser will fly toward
+   ball. Move the stylus across
+   Bowser from right to left to
+   make them push him further
+   into it and power up the
+   attack. When time is up,
+   Bowser will fly toward the
+   enemy for massive damage.
        Costs 8 SP to use.
 
 ================================
@@ -2741,8 +2825,11 @@ get out of the cave.
 Fawfulcopter: A remote UFO used
 by Fawful to spy and
 communicate. It appears
-   alongside Chain Chawfuls outs
-   the Brothers deal with it. If
+   alongside Chain Chawfuls
+   outside of the cave. Inhale
+   it to let the Brothers deal
+   with it. If you don't, it
+   will call more Chain
      Chawfuls to the fight.
 
 ================================
@@ -2911,8 +2998,10 @@ badges!
 Good Badge: A badge for Luigi.
 This causes your meter to rise
 when you pull
-    off any Good to Excellent st
-    badges, but also the easiest
+    off any Good to Excellent
+    strike. It is the weakest of
+    Luigi's badges, but also the
+    easiest to use.
 
 Mushroom Badge: A badge for
 Mario. This causes the Brothers
@@ -3120,24 +3209,36 @@ attack!
 Jump Helmet: Luigi will wear a
 helmet with a spring platform,
 and Mario
-    will try to jump on it repea
-    Mario, and press A as Mario 
-    Press A as Mario lands on th
-    further. This attack costs 6
+    will try to jump on it
+    repeatedly. Move Luigi so he
+    is under Mario, and press A
+    as Mario lands to power this
+    atttack up. Press A as Mario
+    lands on the enemy to power
+    it up even further. This
+    attack costs 6 SP to use.
 
 ===New Cholesteroad Challenge===
+   =============================
+   ==================
 
 Juuuuump Mode: This is the Jump
 Helmet Cholesteroad challenge.
 Unlike other
     challenges, this one doesn't
-    time goes on. Collect red ti
-    avoid the blue ones that dec
-    yellow timer, time will free
+    speed up or get much harder
+    as time goes on. Collect red
+    timers to increase your
+    time, and avoid the blue
+    ones that decrease your
+    time. If you get a yellow
+    timer, time will freeze and
+    the blue timers will
       disappear for a bit.
 
     If you get an A Rank on this
-    Boots.
+    challenge, you will get
+    Daredevil Boots.
 
 ===New Gear=====================
 
@@ -3265,11 +3366,14 @@ detailed info.
 Max Syrup Jar:  Recovers 40 SP.
 
 ===New Guantlet Challenge=======
+   =============================
+   ==================
 
 Alpha Kretin X: This is the
 second guantlet challenge. It's
 a powered up
-    version of Alpha Kretin. Cos
+    version of Alpha Kretin.
+    Costs 400 coins to attempt.
      Recommended level: 22.
 
 ================================
@@ -3315,15 +3419,25 @@ eat two Drumsticks at once.
 99 Block: This is a VERY tough
 challenge. The 99 Block is
 located in the
-   upper part of the Challenge N
-   challenge like the ones in th
-   to 99. It continually speeds 
-   very tricky to keep it going 
+   upper part of the Challenge
+   Node. It's basically a block
+   challenge like the ones in
+   the Flab Zone, but it goes
+   all the way to 99. It
+   continually speeds up until
+   it hits about 75, and it's
+   very tricky to keep it going
+   until the end.
 
-   If you successfully complete 
-   double your coins. You don't 
-   best to save it for when you 
-   bonus will only be given out 
+   If you successfully complete
+   it, you will be given the
+   option to double your coins.
+   You don't have to do it
+   immediately, so it's best to
+   save it for when you have a
+   large amount of them. The
+   bonus will only be given out
+   once.
 
 ================================
 
@@ -3341,15 +3455,18 @@ east.
 Choomba: A train-like mecha-
 Goomba. It attacks by charging
 toward Bowser. If
-  there are Coalbits on the scre
-  up.
+  there are Coalbits on the
+  screen, it may eat them to
+  power itself up.
 
 Coalbit: A lump of coal with
 pinchers. Inhale them to send
 them to Mario and
   Luigi. If you don't, they will
-  can only be fought alongside C
-  by fire.
+  be eaten by the Choomba.
+  Coalbit's can only be fought
+  alongside Choombas. This enemy
+  can not be harmed by fire.
 
 ===New Blitty===================
 
@@ -3589,27 +3706,43 @@ You Who Cannon: Mario and Luigi
 will multiply and jump into
 several barrels.
     Remember their positions! As
-    button of the Bro within to 
+    the cannons bounce up, press
+    the button of the Bro within
+    to fire him out!
 
-    To make it easier to remembe
-    try to memorize the position
-    pattern. If a cannon lifts t
+    To make it easier to
+    remember which cannon has
+    which Bro, only try to
+    memorize the position of the
+    Bro with the easier pattern.
+    If a cannon lifts that
+    doesn't match the pattern,
     press the other button!
 
 This attack costs 7 SP per use.
 
 ===New Cholesteroad Challenge===
+   =============================
+   ==================
 
 Yoo Who Cannon: This will test
 your mastery of the Yoo Who
 Cannon special
-    attack as well as your eye s
-    yourself. Like all Cholester
-    to unimaginable levels as yo
-    calm, and feel free to read 
-    Cholesteroad section further
+    attack as well as your eye
+    speed and ability to control
+    yourself. Like all
+    Cholesteroad challenges,
+    this will speed up to
+    unimaginable levels as you
+    near that coveted A rank.
+    Stay calm, and feel free to
+    read the detailed hints in
+    the Cholesteroad section
+    further down in this guide.
 
-    If you get an A rank, you wi
+    If you get an A rank, you
+    will be rewarded with 500
+    coins and
       a pair of Bro Socks.
 
 ===New Gear=====================
@@ -3775,7 +3908,8 @@ extra damage and initiate a
 second jump. Press the action
 button again just before landing
 a second time to stomp and do
-even more damage. ***CAUTION***
+even more damage.
+***CAUTION***
 Jumping on enemies that use
 their heads to damage you will
 do no damage to the enemy.
@@ -4014,7 +4148,8 @@ Notes: These are the hammers you
 get early in the game. They
 enable hammer
   attacks in battle and are used
-  game.
+  in a variety of ways
+  throughout the game.
 
 ++++++++++++++++++++++++++++++++
 
@@ -4026,9 +4161,11 @@ Bowser inhales
 Notes: The Vacuum Block allows
 Bowser to control the powers
 granted to
-   him by the Vacuum Shroom. He 
-   eat things on the battlefield
-   Blitties!
+   him by the Vacuum Shroom. He
+   can use it to suck up small
+   enemies, eat things on the
+   battlefield, and even collect
+   the rare Blitties!
 
 ++++++++++++++++++++++++++++++++
 
@@ -4330,9 +4467,9 @@ SPEED:  +0
 STACHE: +0
 
 1.5x Luck Booster: Increases
-rate of lucky hits. Get From:
-Nooz in caves of Toad Town Sell
-Value: 125 Coins
+  rate of lucky hits.
+Get From: Nooz in caves of Toad
+Town Sell Value: 125 Coins
 
 ++++++++++++++++++++++++++++++++
 
@@ -4730,7 +4867,8 @@ Description: This badge is the
 weakest of Luigi's badges, but
 the easiest to
    use. Any attack with at least
-   meter.
+   a Good rating will increase
+   the meter.
 
 Combinations-
 
@@ -4775,7 +4913,9 @@ Found: Trash Pit, Pump Works
 Description: These are enemies
 you fight early in the game.
 They are very weak
-   and shouldn't pose much of a 
+   and shouldn't pose much of a
+   threat. They look like a
+   cross
 between a Goomba and an amoeba.
 
 Attacks-
@@ -4784,14 +4924,20 @@ Charge: The Goombule will run
 toward one of the Bros. and
 pause a short
     distance away. Then, it will
+    charge toward its target.
+    Jump and
        land on its head!
 
 Rolling Charge: The Goombule
 will charge towards Mario or
 Luigi and pause
-    between them. If it lifts th
-    Mario. If it lifts the leg o
-    Then, it will roll toward it
+    between them. If it lifts
+    the leg on the left, it will
+    attack Mario. If it lifts
+    the leg on the right, it's
+    going for Luigi. Then, it
+    will roll toward its target.
+    Jump in the air and stomp
     it!
 
 ++++++++++++++++++++++++++++++++
@@ -4805,17 +4951,22 @@ encounter)
 Description: A blue Goombule
 with a helmet on its head. These
 guys are only
-   fought while Starlow teaches 
-   can't hurt them with jumps, s
-   take them out.
+   fought while Starlow teaches
+   you how to use special
+   attacks. You can't hurt them
+   with jumps, so you should use
+   the Green Shell to take them
+   out.
 
 Attacks-
 
 Charge: The Elite Goombule will
 run toward one of the Bros,
 pause, then charge
-  into them. Jump on them or ove
-  damage from counterattacks.
+  into them. Jump on them or
+  over them, but don't expect to
+  deal any damage from
+  counterattacks.
 
 ++++++++++++++++++++++++++++++++
 
@@ -4830,8 +4981,10 @@ Found: Trash Pit, Pump Works
 Description: A green glob with
 spikes on its head. It looks
 similar to the
-   Spiny enemies found in other 
-   won't hurt it and you will ta
+   Spiny enemies found in other
+   Mario games. Don't jump on
+   it! You won't hurt it and you
+   will take damage yourself!
 
 Attacks-
 
@@ -4844,7 +4997,10 @@ Spike Drop: The Spike Blop will
 jump onto the ceiling and move
 toward one of
    the Bros. When it is over the
-   towards them. Time an attack 
+   head of one of them, it will
+   drop towards them. Time an
+   attack with the hammer to
+   smack it away!
 
 ++++++++++++++++++++++++++++++++
 
@@ -4859,8 +5015,11 @@ Found: Pump Works (Wet)
 Description: A Blooper that is
 full of water. They only appear
 when the Pump
-   Works is underwater. Attacks 
-   turn into a Dried Blooper if 
+   Works is underwater. Attacks
+   on the ground will miss. It
+   will turn into a Dried
+   Blooper if the Pump Works
+   dries up.
 
 Attacks-
 
@@ -4868,12 +5027,16 @@ Roll: The Bubble Blooper will
 jump in the air and land in
 front of one of the
  Bros. Then, it will roll toward
+ its target. Hit it with your
+ hammer!
 
 Jump: The Bubble Blooper will
 leap high in the air (higher
 than Roll), and
- bounce when it lands. Then, it 
- it with the hammer as it gets c
+ bounce when it lands. Then, it
+ will try to land on its
+ target's head. Hit it with the
+ hammer as it gets close!
 
 ++++++++++++++++++++++++++++++++
 
@@ -4888,18 +5051,24 @@ Found: Pump Works (Dry)
 Description: Looks like a normal
 Blooper, but wafer-thin. These
 only appear if
-   Pump Works dries up. It will 
-   Pump Works is underwater.
+   Pump Works dries up. It will
+   turn into a Bubble Blooper
+   when Pump Works is
+   underwater.
 
 Attacks-
 
 Paper Drift: The Dried Blooper
 will jump over Mario or Luigi
 and begin to drift
-   toward the ground like a piec
-   hits! Depending on the height
-   immediately or drift once bef
-   may knock you off balance.
+   toward the ground like a
+   piece of paper. Jump over it
+   before it hits! Depending on
+   the height of its jump, it
+   may attack immediately or
+   drift once before hitting.
+   Watch out! This attack may
+   knock you off balance.
 
 ++++++++++++++++++++++++++++++++
 
@@ -4921,8 +5090,9 @@ Attacks-
 Cloud Shot: The Protobatter will
 spit a cloud out of its mouth
 and bat it with
-   its club toward its target. H
-   close!
+   its club toward its target.
+   Hit the cloud with a hammer
+   as it gets close!
 
 ++++++++++++++++++++++++++++++++
 
@@ -4943,13 +5113,16 @@ Attacks-
 Roll: The Tenderling will walk
 toward its target, jump at the
 same height as
-  Mario or Luigi's head, then ro
+  Mario or Luigi's head, then
+  roll along the ground toward
+  them. Jump!
 
 Bounce: The Tenderling will walk
 toward its target as if it would
 roll, but it
   will jump higher into the air.
-  jump!
+  It will bounce over your head,
+  so don't jump!
 
 ++++++++++++++++++++++++++++++++
 
@@ -4964,17 +5137,24 @@ Found: Flab Zone
 Description: Looks like a flame
 with a face. It holds a stick in
 each hand.
-   Don't jump on it! If a Tender
-   Calorite may eat it to produc
+   Don't jump on it! If a
+   Tenderling is in the battle
+   with it, a Calorite may eat
+   it to produce another
+   Calorite.
 
 Attacks-
 
 Flame Broil: The Calorite will
 toss the sticks into its head,
 then it will roll
-   vertically along the ground t
-   attention to how many times i
-   each set of sticks it throws,
+   vertically along the ground
+   to attack Mario and Luigi.
+   Pay attention to how many
+   times it throws sticks into
+   its head. For each set of
+   sticks it throws, it will
+   roll one additional time
    before ending its attack.
 
 ++++++++++++++++++++++++++++++++
@@ -4996,22 +5176,26 @@ Description: A fat Goomba with a
 huge lollipop on its back. If
 Bowser inhales
    the lollipop, he will recover
-   away crying.
+   20 HP and the Chuboomba will
+   run away crying.
 
 Attacks-
 
 Charge: The Chuboomba will
 charge into its target. Bowser
 should punch
-   it when it gets close. The Ma
-   head.
+   it when it gets close. The
+   Mario Brothers should jump on
+   its head.
 
 Cough, Charge: The Chuboomba
 will cough, then it will charge
 at its target. It
    will pause near its target to
-   the attack. Bowser should pun
-   it.
+   caugh again, then it will
+   continue the attack. Bowser
+   should punch, the Mario Bros.
+   should jump on it.
 
 ++++++++++++++++++++++++++++++++
 
@@ -5024,7 +5208,9 @@ Refreshing Herb Found: Cavi Cape
 Description: A small, purple
 blob with plus signs over the
 main part of its
-   body. This enemy can only be 
+   body. This enemy can only be
+   fought by the Mario Bros. If
+   Bowser
   kills it, it yields 1 coin.
 
 Attacks-
@@ -5033,6 +5219,8 @@ Air Puff: The Borp will inhale
 air and spit it at the Bros. It
 will spit air as
   many times as it inhales. Jump
+  over the clouds! This attack
+  can
     inflict POW Down status.
 
 ++++++++++++++++++++++++++++++++
@@ -5049,25 +5237,36 @@ Description: A hermit crab with
 a shell on its back. It can only
 be fought by
    the Mario Bros. Don't jump on
-   Bowser kills it, it yields ??
+   it unless you want foot pain!
+   If Bowser kills it, it yields
+   ??? coins.
 
 Attacks-
 
 Drill Charge: The Drillbit Crab
 will point its shell forward and
 rush toward
-    one of the Bros. Before the 
-    depending on if it is target
-    down is Luigi. Whack it with
+    one of the Bros. Before the
+    charge, it will lean up or
+    down depending on if it is
+    targeting Mario or Luigi. Up
+    is Mario, down is Luigi.
+    Whack it with the hammer
+    when it gets close.
 
 Look Out Below: The Drillbit
 Crab will lean a direction, then
 burrow into the
-    ground. It will reappear und
-    it once when the dust appear
-    its second target. If it lea
-    go toward Mario. If it leans
-    to Luigi.
+    ground. It will reappear
+    underneath one of the Bros!
+    Jump over it once when the
+    dust appears, and again when
+    it gets close to its second
+    target. If it leans down, it
+    will start at Luigi and go
+    toward Mario. If it leans
+    up, it will start at Mario
+    and go to Luigi.
 
 ++++++++++++++++++++++++++++++++
 
@@ -5080,11 +5279,16 @@ Found: Plack Beach
 Description: A tall, column of
 teeth that roams Plack Beach. It
 looks like the
-   cactus enemies from previous 
-   from attacks to the head. If 
-   head are destroyed, it will r
-   Bowser inhales the body porti
-   boost.
+   cactus enemies from previous
+   Mario games. It can only take
+   damage from attacks to the
+   head. If the teeth that do
+   not make up the head are
+   destroyed, it will regrow
+   them a couple of turns. If
+   Bowser inhales the body
+   portion, he will gain a
+   temporary DEF boost.
 
 Attacks-
 
@@ -5092,17 +5296,26 @@ Charge: The Toothy will move
 toward its target, pausing at a
 close
    distance, and will crash into
-   to stop it and knock its head
+   it. Punch it or hit it with a
+   hammer to stop it and knock
+   its head to the ground.
 
 Virus Spit: This attack is only
 used when the Toothy's head is
 on the ground.
-   It will spit something that l
-   at its target, and the virus 
-   jump on it to avoid taking da
-   or Luigi, pay attention to th
-   before running at its target,
-   jump over you.
+   It will spit something that
+   looks like the viruses from
+   Dr. Mario at its target, and
+   the virus will strike with a
+   spear. Punch it or jump on it
+   to avoid taking damage. If
+   this attack is used on Mario
+   or Luigi, pay attention to
+   the virus when it pauses. If
+   it jumps before running at
+   its target, don't jump!
+   Instead, just let it jump
+   over you.
 
 ++++++++++++++++++++++++++++++++
 
@@ -5117,8 +5330,11 @@ Found: Dimble Wood
 Description: Looks like a tree
 with eyes. The eyes are usually
 blue, but you
-   will sometimes find a red-eye
-   Bowser can inhale the fruit t
+   will sometimes find a red-
+   eyed one with fruit on its
+   branches. Bowser can inhale
+   the fruit to recover some HP.
+   Treevils are weak
      to fire based attacks.
 
 Attacks-
@@ -5146,18 +5362,25 @@ Found: Dimble Wood
 Description: A treasure box that
 throws things at you. After
 about 100 HP of
-   damage, the lock will come of
-   the coins. This enemy will ru
+   damage, the lock will come
+   off and Bowser will be able
+   to vacuum the coins. This
+   enemy will run away,
+   randomly.
 
 Attacks-
 
 Random Junk: The lock on the
 Trashure will reach inside and
 throw stuff at you.
-   If it throws a Scutlet, a ham
-   counterattack. If it throws a
-   you for free HP or money. If 
-   will recover.
+   If it throws a Scutlet, a
+   hammer, or ball at you, punch
+   it to counterattack. If it
+   throws a Mushroom or coin,
+   allow it to hit you for free
+   HP or money. If you punch a
+   Mushroom, the Trashure will
+   recover.
 
 ++++++++++++++++++++++++++++++++
 
@@ -5172,24 +5395,30 @@ Found: Bumpsy Plains
 Description: An evil sunflower
 that spits Sneeds. If its petals
 are vacuumed
-   off, it will be disabled unti
-   to fire.
+   off, it will be disabled
+   until it is watered. This
+   enemy is weak to fire.
 
 Attacks-
 
 Sneed Shot: The Flifit will spit
 a Sneed toward Bowser. Punch it
 to knock it
-   back! If it hits you, duck in
-   If this attack is successfull
-   born.
+   back! If it hits you, duck
+   into your shell to avoid
+   further damage. If this
+   attack is successfully
+   completed, a new Flifit will
+   be born.
 
 Sneed Spit: The Flifit will spit
 a Sneed onto the ground. The
 Sneed will bounce
-   toward Bowser, so duck to avo
-   different sound than Sneed Sh
-   happen.
+   toward Bowser, so duck to
+   avoid damage. This attack
+   makes a different sound than
+   Sneed Shot, so pay attention
+   to tell what will happen.
 
 ++++++++++++++++++++++++++++++++
 
@@ -5203,13 +5432,16 @@ Description: A Lakitu with a
 crown on its head. It only
 appears alongside other
    enemies. Vacuum it to send it
+   to Mario and Luigi.
 
 Attacks-
 
 Freebies: The Lakitu King will
 throw stuff at the brothers.
 Usually, he will
-  throw coins. If he does, let t
+  throw coins. If he does, let
+  them hit you. However, if he
+  pulls out
     a spike ball, dodge it!
 
 ++++++++++++++++++++++++++++++++
@@ -5225,17 +5457,21 @@ Found: Bowser Path
 Description: A Fawfulized Chain
 Chomp. You can inhale the Fawful
 clone in its
-   head if it pokes out. If you 
-   normal and leave.
+   head if it pokes out. If you
+   do, the Chain Chomp will
+   revert to normal and leave.
 
 Attacks-
 
 Rush: The Chain Chawful will
 make several motions, then rush
 toward you. Pay
- attention to the order of its a
- will jump and Bowser will need 
- need to punch.
+ attention to the order of its
+ actions. If the Fawful clone
+ leans up, it will jump and
+ Bowser will need to duck. If it
+ leans forward, Bowser will need
+ to punch.
 
 ++++++++++++++++++++++++++++++++
 
@@ -5248,16 +5484,21 @@ Path (Alongside Chain Chawful)
 Description: These are the UFOs
 that Fawful uses to spy and
 communicate. It
-   doubles as an alert system fo
-   captures it. Inhale it to sen
+   doubles as an alert system
+   for Bowser's Castle after
+   Fawful captures it. Inhale it
+   to send it to Mario and
+   Luigi.
 
 Attacks-
 
 ALERT!: Not really an attack.
 The Fawfulcopter will flash its
 light and send
-  off an alert. If it does this 
-  will join the fight.
+  off an alert. If it does this
+  outside of Bowser, another
+  Chain Chawful will join the
+  fight.
 
 ++++++++++++++++++++++++++++++++
 
@@ -5273,6 +5514,8 @@ Description: A large, mechanical
 Goomba that acts like a train.
 It will attack
    Bowser by rushing toward him.
+   If there are Coalbits on
+   screen, it
 may eat them to power itself up.
 
 Attacks-
@@ -5280,9 +5523,12 @@ Attacks-
 Charge: The Choomba will step
 back and release several puffs
 of smoke. The
-  smoke will form into shells an
-  Then, the Choomba will charge 
-  duck for each shell.
+  smoke will form into shells
+  and fists. Pay attention to
+  the order. Then, the Choomba
+  will charge toward Bowser.
+  Punch it for each fist, duck
+  for each shell.
 
 ++++++++++++++++++++++++++++++++
 
@@ -5298,15 +5544,19 @@ Description: A live lump of coal
 with pinchers. They serve as
 fuel for the
    Choombas. Inhale them to stop
-   may randomly run away if it i
-   damageds by fire.
+   them from feeding it. This
+   enemy may randomly run away
+   if it is not inhaled. This
+   enemy is not damageds by
+   fire.
 
 Attacks-
 
 Pincher Train: The Coalbits will
 line up, point their pinchers
 upward, and run
-   toward Mario or Luigi. Jump t
+   toward Mario or Luigi. Jump
+   to avoid damage!
 
 ++++++++++++++++++++++++++++++++
 
@@ -5319,8 +5569,11 @@ Found: Toad Town
 Description: An enemy that looks
 like the nose of Mario or Luigi.
 Occasionally,
-   they may switch colors and ha
-   power while the Luigi types h
+   they may switch colors and
+   hair styles. The Mario types
+   have more power while the
+   Luigi types have more
+   defense.
 
 Attacks-
 
@@ -5331,14 +5584,19 @@ Launch: If there are both types
 of Nooz on screen, a Luigi type
 may launch a
   Mario type into the air. If it
-  Mario and try to land on his h
+  does, the Mario type will
+  drift toward Mario and try to
+  land on his head. Then, the
+  Luigi type will run toward
   Luigi. Smack them with hammers
+  to stop them!
 
 Puff: The Nooz will stand in
 front of the Brothers, inhale
 air, and blow it
-  at them. Watch the direction i
-  Jump to avoid!
+  at them. Watch the direction
+  it inhales to know who it is
+  targeting. Jump to avoid!
 
 ++++++++++++++++++++++++++++++++
 
@@ -5353,21 +5611,26 @@ Found: Toad Town
 Description: These Fawfulized
 ants have drills on their
 abdomens. They love to
-   attack in groups, and may poi
+   attack in groups, and may
+   poison you if they hit. Watch
+   out!
 
 Attacks-
 
 Drill Charge: The Fawflant uses
 this attack when there are no
 other Fawflants
-   around. It will move up and d
-   then it will charge toward th
+   around. It will move up and
+   down in front of Mario and
+   Luigi, then it will charge
+   toward them. Hammer it!
 
 Drill Rush: This attack is used
 if there are multiple Fawflants.
 All the
-   Fawflants will attack simulta
-   getting drilled!
+   Fawflants will attack
+   simultaneously! Jump on them
+   to avoid getting drilled!
 
 ++++++++++++++++++++++++++++++++
 
@@ -5399,7 +5662,9 @@ Drops: N/A
 Description: Bowser get's to
 play the role of tutorial boss
 in this game.
-   Since he's fought so early, d
+   Since he's fought so early,
+   don't expect anything too
+   challenging.
 
 Attacks-
 
@@ -5420,30 +5685,41 @@ Drops: 1-Up Deluxe
 Description: This is a huge
 version of the Scutlets that
 live in Dimble Wood.
-   It's blocking Bowser's flame 
-   restore his awesome fire brea
+   It's blocking Bowser's flame
+   pipe, so you need to kill it
+   to restore his awesome fire
+   breath! On a side note, it
+   ate Starlow.
  It will use her to attack you.
 
 Attacks-
 
 Starlow Throw: The Scutlet will
 look at its target,
-   throw Starlow into the air ab
-   her with a hammer before she 
-   After the attack is over, the
+   throw Starlow into the air
+   above Mario or Luigi's head.
+   Whack her with a hammer
+   before she lands on you to
+   counterattack. After the
+   attack is over, the Scutlet
+   will eat her again.
 
 Lick: The Scutlet will stick out
 its tongue at whoever it is
 looking
-   at and try to eat Mario or Lu
+   at and try to eat Mario or
+   Luigi. Jump on its tongue to
    counterattack.
 
 Drifting Fall: The Scutlet will
 be launched high in the air by
 the fire in
    Bowser's flame pipe. Then, it
-   Jump on or over it to avoid t
-   you off balance.
+   will drift toward Mario or
+   Luigi. Jump on or over it to
+   avoid taking damage! This
+   attack may knock you off
+   balance.
 
 ++++++++++++++++++++++++++++++++
 
@@ -5465,29 +5741,43 @@ Description: This bug looks like
 a Wiggler and was living inside
 the giga-
    carrot. Occasionally, it will
-   Destroy the straw to keep it 
-   a group of Biffidus (the whit
+   stick a straw into the
+   ground. Destroy the straw to
+   keep it from regerating 40
+   HP. Occasionally, a group of
+   Biffidus (the white guys)
+   will come in to fight you.
 
 Attacks: Durmite-
 
 Charge: The Durmite will store
 up power, then charge toward one
 of the
-  Brothers. Smack it with the ha
-  time or a fast one, so watch o
+  Brothers. Smack it with the
+  hammer! This attack can have a
+  slow prep time or a fast one,
+  so watch out!
 
 Web: The Durmite will stick a
 web out of its mouth and swing
 it back and
-  forth. Jump over it to avoid i
-  will be eaten and fired at the
-  rear, jump over him as he come
-  front, don't jump. This attack
+  forth. Jump over it to avoid
+  it! If it hits one of the
+  Bros, that Bro will be eaten
+  and fired at the other Bro. If
+  the Bro is fired from the
+  rear, jump over him as he
+  comes from behind. If he is
+  fired from the front, don't
+  jump. This attack may inflict
+  POW Down status.
 
 Spear: If Biffidus are on
 screen, the Durmite may eat
 them. If it does, it
-  will fire their spears at Mari
+  will fire their spears at
+  Mario and Luigi. Jump to
+  avoid!
 
 Attacks: Biffidus-
 
@@ -5510,17 +5800,28 @@ Drops: Max Syrup Jar
 Description: This group of globs
 attacked Princess Peach. When
 you first fight
-   it, you will have to destroy 
-   have to destroy the core Beta
+   it, you will have to destroy
+   each part separately. Then,
+   you will have to destroy the
+   core Beta Kretin.
 
-   During the Alpha Kretin stage
-   by Mario. The green ones can 
+   During the Alpha Kretin
+   stage, the orange ones can
+   only be harmed by Mario. The
+   green ones can only be
+   defeated by Luigi. The colors
 will change as they take damage.
 
-   In the Beta Kretin stage, the
-   several fakes. Pay attention 
-   fakes is a waste of time. Aft
-   reform into another Alpha Kre
+   In the Beta Kretin stage,
+   there will be one true Beta
+   Kretin and several fakes. Pay
+   attention to the real one,
+   since fighting the fakes is a
+   waste of time. After a few
+   turns, the Beta Kretin may
+   reform into another Alpha
+   Kretin. If it does, you will
+   have to
  repeat the Alpha Kretin Stage.
 
 Attacks: Alpha Kretin-
@@ -5528,17 +5829,24 @@ Attacks: Alpha Kretin-
 Energy Ball: The Alpha Kretin
 will fire balls of energy at
 Mario and Luigi. Pay
-   attention to the order that t
-   since that will tell you the 
-   targeted in. This attack can 
+   attention to the order that
+   the initial ball of light
+   moves in, since that will
+   tell you the order that the
+   Brothers will be targeted in.
+   This attack can cause DEF
+   Down status.
 
 Attacks: Beta Kretin-
 
 Lightning Bolt: The Beta Kretin
 will multiply itself and fire
 lightning bolts
-    back and forth between itsel
-    one jumps, that means it wil
+    back and forth between
+    itself and the other Beta
+    Kretins. When one jumps,
+    that means it will be fired
+    at by the last one to
   be hit. Jump over the bolts!
 
 ++++++++++++++++++++++++++++++++
@@ -5558,9 +5866,11 @@ N/A Coins: N/A Drops: N/A
 Description: Midbus is Fawful's
 right-hand pig. In this fight,
 he basically
-   gets to (sort of) teach Bowse
-   win the fight, so just deflec
-   it ends.
+   gets to (sort of) teach
+   Bowser how to fight. There is
+   no way to win the fight, so
+   just deflect his attacks and
+   deal damage until it ends.
 
 Attacks-
 
@@ -5573,7 +5883,9 @@ Bouncing Slam: Midbus will
 bounce on the ground a couple of
 times, then he will
    slam Bowser from above. There
-   battle, and the fight will en
+   is no way to dodge this in
+   this battle, and the fight
+   will end when he does it.
 
 ++++++++++++++++++++++++++++++++
 
@@ -5587,28 +5899,37 @@ battle) Drops: N/A
 Description: This is a tutorial
 battle to show you how to
 properly use the
-   Vacuum Block. If you attack h
-   and use Green Shell against h
+   Vacuum Block. If you attack
+   him, he will drop a coin.
+   Inhale him and use Green
+   Shell against him repeatedly
+   for lots of coins!
 
 Attacks-
 
 Mushroom: Broque Monsieur will
 hit a ? block and a mushroom
 will pop out.
-   He will then recover 30 HP. S
-   way and the Mushroom will go 
+   He will then recover 30 HP.
+   Sometimes, he will step the
+   wrong way and the Mushroom
+   will go to Bowser instead.
 
 Mega Mushroom: Broque Monsieur
 will eat a Mega Mushroom and
 charge into you.
-   Punch him as he gets close, a
-   this opportunity to hit his h
+   Punch him as he gets close,
+   and his body will fly away.
+   Take this opportunity to hit
+   his head repeatedly for free
+   coins!
 
 Coin Block: Broque Monsieur will
 punch a ? block like he does for
 his other
-   attacks, but sometimes he wil
-   powerup.
+   attacks, but sometimes he
+   will just get a coin instead
+   of a powerup.
 
 ++++++++++++++++++++++++++++++++
 
@@ -5625,8 +5946,11 @@ Coins: 50 Drops: Hot Drumstick,
 Description: This is a
 Fawfulized version of the Sea
 Pipe Statue on Plack
-   Beach. It takes no damage fro
-   Blooper on its head is vulner
+   Beach. It takes no damage
+   from attacks to its body, but
+   the Stone Blooper on its head
+   is vulnerable. Inhale it as
+   Bowser, then
   fight it as the Mario Bros.
 
 Attacks: Sea Pipe Statue-
@@ -5634,15 +5958,20 @@ Attacks: Sea Pipe Statue-
 Blooper Shot: The Sea Pipe
 Statue will point its arm toward
 Bowser and fire the
-   Stone Blooper at him. Punch a
-   back!
+   Stone Blooper at him. Punch
+   as the Blooper emerges to
+   knock it back!
 
 Blooper Lob: The Sea Pipe Statue
 will point its arm above
 Bowser's head and
    fire the Stone Blooper out of
-   over Bowser's head and reappe
-   where it will make a slow des
+   it. The Stone Blooper will
+   then fly over Bowser's head
+   and reappear on the other
+   side of the screen; where it
+   will make a slow descent
+   toward Bowser. Punch it as it
    gets close!
 
 Attacks: Stone Blooper-
@@ -5651,17 +5980,23 @@ Drill: The Stone Blooper will
 turn itself upside down and
 drill into Bowser,
   damaging him. There is nothing
+  you can do to stop or counter
+  this.
 
 Drop: The Stone Blooper will
 jump a few times and try to land
 on the head of
-  Mario or Luigi. Hit it with a 
+  Mario or Luigi. Hit it with a
+  hammer to avoid damage!
 
 Rocket: After the Stone Blooper
 takes enough hits, it will flash
 red and fly
   toward one of the Bros. Hit it
-  Bowser. If you miss, it will t
+  with a hammer to send it
+  flying out of Bowser. If you
+  miss, it will try the attack
+  again.
 
 ++++++++++++++++++++++++++++++++
 
@@ -5675,8 +6010,12 @@ Description: This is a basic
 tutorial fight to teach you how
 to use Bowser's
    flame breath. and defend with
-   turn around, then punch his b
-   Broque Monsieur, he will drop
+   the shell. Flame him to get
+   him to turn around, then
+   punch his back to damage him!
+   Like his master, Broque
+   Monsieur, he will drop a coin
+   each time he is hit.
 
 Attacks-
 
@@ -5684,8 +6023,11 @@ Pounce: Broggy will leap high in
 the air and try to land on
 Bowser. Then, he
   will make a second attack from
-  the first attack, then listen 
-  the second part.
+  behind. Duck into your shell
+  to dodge the first attack,
+  then listen for eight beats
+  before ducking to avoid the
+  second part.
 
 Charge: Broggy will lean
 forward, then charge at Bowser.
@@ -5708,38 +6050,52 @@ Description: Wiggler is angry
 about that giga-carrot! Before
 you can deal any
    damage, you will need to turn
-   attacking each segment, then 
-   Wiggler's face. Occasionally,
-   the top screen. Vacuum them t
-   Wiggler yellow.
+   each body segment yellow. Do
+   this by attacking each
+   segment, then turn loose
+   Bowser's power on Wiggler's
+   face. Occasionally, a couple
+   of Leaf Guys will appear on
+   the top screen. Vacuum them
+   to send them to the Bros and
+   turn Wiggler yellow.
 
 Attacks: Wiggler-
 
 Grow 'N Throw: Wiggler will pull
 out a watering can and water the
 ground. Then,
-   he will pull what grows out a
-   a Leaf Guy, duck. If he throw
+   he will pull what grows out
+   and throw them at you. If he
+   throws a Leaf Guy, duck. If
+   he throws a turnip, punch.
 
 CHARGE!: Wiggler will rush
 toward Bowser. As he approaches,
 punch him 3
-   times. Then, duck to finish t
+   times. Then, duck to finish
+   the evasion.
 
 Round & Round: Wiggler will run
 around Bowser in a circle. Punch
 his flashing
    face to send him away. If you
-   after 6 circles. You can use 
-   change Wiggler's body segment
-   right.
+   don't, he will charge into
+   Bowser after 6 circles. You
+   can use this attack as an
+   opportunity to change
+   Wiggler's body segments
+   yellow if you time your
+   attacks right.
 
 Attacks: Leaf Guy-
 
 Turnip Drop: This is the only
 attack they will use against
 Bowser. If you
-   don't inhale them, they will 
+   don't inhale them, they will
+   drop a giant turnip on him.
+   There
     is no way to dodge this.
 
 Copter: The Leaf Guys will fly
@@ -5760,33 +6116,51 @@ Description: This is no tutorial
 battle. This time, Midbus means
 business. The
    fight takes place in front of
-   reward well done hits and dod
-   to Midbus, vacuum it away to 
-   recovering. If you vacuum a h
+   a live audience. The audience
+   will reward well done hits
+   and dodges with powerups. If
+   they give food to Midbus,
+   vacuum it away to heal
+   yourself and keep him from
+   recovering. If you vacuum a
+   ham, you will get POW Up
+   status.
 
 Attacks-
 
 Ball & Chain: Midbus will
 diasappear offscreen and
 reappear swinging a ball
-   and chain. As he nears you, d
-   he will throw the ball at Bow
+   and chain. As he nears you,
+   duck! Midbus will step back.
+   Then, he will throw the ball
+   at Bowser. If it goes low,
+   punch it. If
       it goes high, duck.
 
 Bouncing Slam: This is the same
 attack he used to end the last
 fight you had
    with him. This time, however,
-   front of you, punch him befor
-   down on top of you, duck. You
+   it can be blocked! If he
+   lands in front of you, punch
+   him before he hits the
+   ground. If he comes down on
+   top of you, duck. You can
+   tell where he will land by
    watching the top screen as he
+   jumps.
 
 Wind Up: Midbus will inhale air
 and walk toward Bowser. After a
 set
-   amount of time, he will unlea
-   him repeatedly! After you sto
-   bounces toward you to deal da
+   amount of time, he will
+   unleash an uppercut. To stop
+   this, punch him repeatedly!
+   After you stop the attack,
+   punch him again as he bounces
+   toward you to deal damage to
+   him.
 
 ++++++++++++++++++++++++++++++++
 
@@ -5912,21 +6286,29 @@ basic moves.
 Punch: This is one of Bowser's
 basic attacks. Slide the stylus
 quickly
-   from the left side of the scr
-   used in defense.
+   from the left side of the
+   screen to the right. This may
+   also be used in defense.
 
 Flame: Another of Bowser's basic
 attacks. Inhale until you get
 the
-   message to blow, then blow ai
-   until the attack ends. Stay a
-   screen. If you get too close,
+   message to blow, then blow
+   air into the mic as long as
+   you can until the attack
+   ends. Stay at your current
+   distance from the screen. If
+   you get too close, the sound
+   may not be read correctly.
 
 Fireball: This is only used in
 defense. Enemies will fly toward
 Bowser. Tap
-   the screen to fire at them! D
-   do, the fireballs will be too
+   the screen to fire at them!
+   Don't fire too quickly,
+   though. If you do, the
+   fireballs will be too small
+   to do any damage.
 
 Refreshroom: If you collect a
 Refreshroom in battle, you can
@@ -5957,13 +6339,16 @@ into him.
 Shy Guy Copters: Several Shy Guy
 Copters will fly out of the
 castle. They will
-    shoot at Bowser with metal b
+    shoot at Bowser with metal
+    balls. Shoot them down with
     fireballs!
 
 Spiny Shield: Several Spinies
 will come out of the castle and
 sit in front
-    of it. You won't be able to 
+    of it. You won't be able to
+    punch it while they are
+    there.
  Use Flame breath to burn them!
 
 ++++++++++++++++++++++++++++++++
@@ -6039,7 +6424,8 @@ Pump Works Attack Pieces-
 #1: Acquired by completing a
 memory puzzle in the room you go
 to by entering
- the orange pipe in the first Sa
+ the orange pipe in the first
+ Save Block room.
 
 #2: Found on the left side of
 the room directly right of the
@@ -6064,7 +6450,8 @@ will see
 #7: In the lower right corner of
 the room where the Emoglobin
 tells you
- about Chombones. You have to pl
+ about Chombones. You have to
+ play a memory game to earn it.
 
 #8: In an alcove on the lower
 left side of the room you enter
@@ -6093,11 +6480,14 @@ entrance of the second room.
 challenge in the lower right
 corner of the room you
  get to by taking the green pipe
+ at the entrance of the pipe
+ maze.
 
 #6-#9: Complete the block
 challenge in the room in the
 pipe maze with a Save
- Block after the second Nutsoglo
+ Block after the second
+ Nutsoglobin.
 
 #10: On the left side of the
 room where you learn the Spin
@@ -6128,8 +6518,10 @@ ground.
 Cavi Cape Cave: In a rock in the
 area where you have to open a
 gate by
-     punching a falling ball. Th
-     found the Chakroad for Cavi
+     punching a falling ball.
+     This only appears after you
+     have found the Chakroad for
+     Cavi Cape Exit.
 
 Plack Beach: Located in a tree
 at the entrance near Cavi Cape.
@@ -6146,6 +6538,8 @@ Tunnel.
 
 
 ---(12.4 Cholesteroad Challenges
+   )----------------------------
+   ------------------
 
 Before I list any of these, I
 need to make a disclaimer. The
@@ -6179,9 +6573,13 @@ Challenge Medal
 Tips: This is your first
 Cholesteroad challenge, but
 don't expect it to be
- easy! As with all of them, a si
- gets to Mario or Luigi, never b
- speed as time goes on, but you 
+ easy! As with all of them, a
+ single miss = fail. Kick the
+ shell when it gets to Mario or
+ Luigi, never before. The rhythm
+ will slowly build up speed as
+ time goes on, but you can do it
+ if you stay focused.
 
 ++++++++++++++++++++++++++++++++
 
@@ -6194,21 +6592,35 @@ Bro Socks
 Tips: This challenge could
 either be easy for you or hard
 depending on how fast
- your eyes are. At the later sta
- as fast as a flicker of light a
+ your eyes are. At the later
+ stages, the Bros will pop out
+ of the barrels as fast as a
+ flicker of light and you won't
+ have time to memorize them
  individually.
 
  Pay attention to one character.
- that is easiest to follow. If a
- button of the Bro inside. If a 
- hold the other button.
+ Watch for the one that has the
+ pattern that is easiest to
+ follow. If a barrel raises from
+ that pattern, hold the button
+ of the Bro inside. If a barrel
+ raises from outside that
+ pattern, hold the other button.
 
- Don't wait for the barrel to fi
- At the later stages, you will o
- once the barrel finishes rising
+ Don't wait for the barrel to
+ finish raising before pressing
+ the button! At the later
+ stages, you will only have 0.05
+ seconds to press the button
+ once the barrel finishes
+ rising. Hold the button as it
+ starts to rise.
 
  Don't try to guess which barrel
- yourself pressing the wrong but
+ will rise next. If you do, you
+ will find yourself pressing the
+ wrong button!
 
 ++++++++++++++++++++++++++++++++
 
@@ -6234,19 +6646,30 @@ Daredevil Boots
 Tips: Don't worry too much about
 the timer. You are a lot more
 likely to fail
- from missing a jump than you ar
- control how high or far Mario j
- lands on the back of the platfo
- lands on the front, he will jum
- combination with pressing the A
- blue ones.
+ from missing a jump than you
+ are from running out of time.
+ You can control how high or far
+ Mario jumps by moving Luigi
+ under him. If Mario lands on
+ the back of the platform, he
+ will fly high into the air. If
+ he lands on the front, he will
+ jump far forward. Use this
+ information in combination with
+ pressing the A button to gather
+ red timers and avoid blue ones.
 
- Keep your focus on Mario, not L
- will move Luigi almost by insti
- though.
+ Keep your focus on Mario, not
+ Luigi. Once you get the hang of
+ things, you will move Luigi
+ almost by instinct. You NEED to
+ know where Mario is, though.
 
- Unlike other challenges, this o
- time goes on. Just stay calm an
+ Unlike other challenges, this
+ one doesn't speed up or get
+ much harder as time goes on.
+ Just stay calm and hang in
+ there. You will get the A rank
  if you can endure.
 
 
@@ -6312,12 +6735,16 @@ You've earned it.
 
 
 ---(12.5 Madame Broque Challenge
+   s)---------------------------
+   ------------------
 
 
 Coming soon!
 
 
 ---(12.6 Guantlet Classes)------
+   -----------------------------
+   ------------------
 
 
 The Guantlet consists of several
@@ -6396,6 +6823,8 @@ Rewards-
 
 
 ---(12.9 Stache / Horn Levels)--
+   -----------------------------
+   ------------------
 
 
 As the Mario Brothers and Bowser
@@ -6592,6 +7021,8 @@ accidentally overlook anything.
 
 
 ---(16. Frequently Asked Questio
+   ns)--------------------------
+   ------------------
 
 
 Coming soon!

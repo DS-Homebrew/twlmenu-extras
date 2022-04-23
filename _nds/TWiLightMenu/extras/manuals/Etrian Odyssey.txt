@@ -2,44 +2,51 @@ abcdefghijklmnopqrstuvwxyzabcdef
 ghijklmnopqrstuvwxyzabcdefghijkl
 mnopqrstuvwxyz1
 
-    EEEEE  TTTTT  RRRRR  IIIII  
+    EEEEE TTTTT RRRRR IIIII A NN
+    N
     E        T    R   R    I    
-    EEEEE    T    RRRRR    I    
+    EEEEE T RRRRR I AAAAA N N N
     E        T    R   R    I    
-    EEEEE    T    R    R IIIII A
+    EEEEE T R R IIIII A A N N
 
-    OOOOO  DD   YY YY  SSSSS  SS
-    O   O  D D   YYY   S      S 
-    O   O  D  D   Y    SSSSS  SS
+    OOOOO DD YY YY SSSSS SSSSS
+    EEEEE YY YY O O D D YYY S S
+    E YYY O O D D Y SSSSS SSSSS
+    EEEEE Y
     O   O  D D    Y        S    
-    OOOOO  DD     Y    SSSSS  SS
+    OOOOO DD Y SSSSS SSSSS EEEEE
+    Y
 
 W W A L K K TTTTT H H RRRRR OOO
 U U GGGG H H
- W         W  A A     L      K K
-  W   W   W  AAAAA    L      KK 
-   W W W W  A     A   L      K K
-    W   W  A       A  LLLLL  K  
+ W W A A L K K T H H R R O O U U
+ G H H
+  W W W AAAAA L KK T HHHHH RRRRR
+  O O U U G GG HHHHH
+   W W W W A A L K K T H H R R O
+   O U U G G H H
+    W W A A LLLLL K K T H H R R
+    OOO UUU GGGG H H
 
 --------------------------------
 Table of Contents
 --------------------------------
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~Part 1~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~
 
 1.Introduction..................
-..[INRT] 2.Story................
-...........[STRY] 3.Controls....
-....................[CNTR] 4.The
-Basics......................[BAS
-C] 5.Terms......................
-.....[TRMS] 6.Version
-Update..................[VRUP]
+  ..[INRT]
+2.Story.........................
+  ..[STRY]
+3.Controls......................
+  ..[CNTR]
+4.The Basics....................
+  ..[BASC]
+5.Terms.........................
+  ..[TRMS]
+6.Version
+  Update..................[VRUP]
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~Part 2~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~
 
 1.Walkthrough
 
@@ -86,31 +93,39 @@ Floor 28........................
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~Part 3~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~
 
 1.Classes.......................
-...[ClSS] 1.1 Landskencht.......
-.............[LAND] 1.2 Protecto
-r......................[PROT]
+  ...[ClSS]
+1.1 Landskencht.................
+  ...[LAND]
+1.2 Protector...................
+  ...[PROT]
 1.3 Dark
-Hunter....................[DRKH]
+  Hunter....................[DRK
+  H]
 1.4 Survivalist.................
-...[SURV] 1.5 Medic.............
-.............[MEDC] 1.6 Alchemes
-t......................[ALCH]
+  ...[SURV]
+1.5 Medic.......................
+  ...[MEDC]
+1.6 Alchemest...................
+  ...[ALCH]
 1.7 Troubadour..................
-...[TROU] 1.8 Ronin.............
-.............[RONI] 1.9 Hexer...
-.......................[HEXR]
+  ...[TROU]
+1.8 Ronin.......................
+  ...[RONI]
+1.9 Hexer.......................
+  ...[HEXR]
 
 2.Verda Plaza...................
-...[VERD] 3.Quests..............
-.............[QEST] 4.Missions..
-.......................[MISS] 5.
-Stratagies......................
-.[STRA] 5.Other stuff...........
-...........[OTHR]
+  ...[VERD]
+3.Quests........................
+  ...[QEST]
+4.Missions......................
+  ...[MISS]
+5.Stratagies....................
+  ...[STRA]
+5.Other stuff...................
+  ...[OTHR]
 6.Legal.........................
 
 
@@ -118,21 +133,15 @@ Stratagies......................
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~
 --------------------------------
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~Part 1~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~
 --------------------------------
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~
 
 
 --------------------------------
 1.Introduction..................
-..[INRT]
+  ..[INRT]
 --------------------------------
 
 This is my Third FAQ I have made
@@ -164,10 +173,11 @@ contributer_hangid@hotmail.com
 
 --------------------------------
 2.Story.........................
-..[STRY]
+  ..[STRY]
 --------------------------------
 
-**Story taken directly from the 
+**Story taken directly from the
+  website**
 
 In a vast and fertile land lies
 a small town known as Etria,a
@@ -197,7 +207,7 @@ town gates.
 
 --------------------------------
 3.Controls......................
-..[CNTR]
+  ..[CNTR]
 --------------------------------
 
 The controls in this game are
@@ -215,7 +225,7 @@ button controls.
 
 --------------------------------
 4.The Basics....................
-..[BASC]
+  ..[BASC]
 --------------------------------
 
 In Etrian Odyssey you have to
@@ -270,7 +280,7 @@ that much trouble.
 
 --------------------------------
 5.Terms.........................
-..[TRMS]
+  ..[TRMS]
 --------------------------------
 
 In my walkthrough I use terms to
@@ -380,7 +390,7 @@ Turn around-Simply turn around
 
 --------------------------------
 6.Version
-Update..................[VRUP]
+  Update..................[VRUP]
 --------------------------------
 
 This the Walkthrough's version
@@ -394,8 +404,10 @@ be at the bottom.
 
 0.27
 
--Introduction to floors 8 and 9 
--All the extras done except Roni
+-Introduction to floors 8 and 9
+ added.
+-All the extras done except
+ Ronin and Hexer
 -Checked spelling and grammar
 
 0.30
@@ -406,7 +418,8 @@ be at the bottom.
 0.33
 
 -Finished B10F
--Added Monsters on floor to intr
+-Added Monsters on floor to
+ introduction to floor.
 
 0.38
 
@@ -461,19 +474,14 @@ be at the bottom.
 
 Coming soon:
 
--Nothing, walkthrouugh is done. 
+-Nothing, walkthrouugh is done.
+ YAY!
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~
 --------------------------------
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~Part 2~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~
 --------------------------------
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~
 
 All floors will have the
 following setup:
@@ -523,11 +531,8 @@ then you finally enter the
 Forest.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stratum 1 Emerald Grove
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~ Stratum 1
-Emerald Grove ~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 --------------------------------
 Floor 01........................
@@ -1298,10 +1303,7 @@ YOU CAN WARP TO THE SECOND
 STRATUM ANYTIME. W00T!!
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~ Stratum 2
-Primitive Jungle ~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stratum 2 Primitive Jungle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 --------------------------------
@@ -1503,6 +1505,10 @@ can now get to areas you
 couldn't before.
 
 -------------------This is where
+                   the back
+                   tracking star
+                   ts-----------
+                   -----------
 
 If you don't want to backtrack
 just skip this section, although
@@ -1586,7 +1592,14 @@ formations until you get to the
 Nectar. After you are done here
 head back to B7F
 
-------------------------The walk
+------------------------The
+                        walkthro
+                        ugh cont
+                        inues he
+                        re------
+                        --------
+                        --------
+                        ---
 
 Head back to those trees I
 mentioned before (the one where
@@ -2039,11 +2052,8 @@ ROOM. IT'S JUST AROUND THE
 CORNER IN A DOOR.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stratum 3 Azure Rainforest
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~ Stratum 3 Azure
-Rainforest ~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 --------------------------------
 Floor 11........................
@@ -2738,6 +2748,14 @@ will be Violet key, you can now
 open purple doors.
 
 --------------------------Backtr
+                          acking
+                          starts
+                          here--
+                          ------
+                          ------
+                          ------
+                          ------
+                          ---
 
 For the first part of this
 backtracking go B1F (it's been a
@@ -2761,6 +2779,14 @@ Hamao and Moccasins. That's the
 end head back to B14F
 
 --------------------------Backtr
+                          acking
+                          ends h
+                          ere---
+                          ------
+                          ------
+                          ------
+                          ------
+                          ----
 
 Go back to the island that
 looked like a + sign. Once again
@@ -2836,11 +2862,8 @@ IT'S RIGHT INFRONT OF YOU WHEN
 YOU GET DOWN.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stratum 4 Sandy Barrens
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~ Stratum 4 Sandy
-Barrens ~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~
 
 --------------------------------
 Floor 16........................
@@ -3344,11 +3367,8 @@ through the secret passage on
 B20F to proceed to B21F
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stratum 5 Lost Shinjuku
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~ Stratum 5 Lost
-Shinjuku ~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~
 
 --------------------------------
 Floor 21........................
@@ -3812,11 +3832,8 @@ sixth stratum. The next 5 floors
 are known as post-game.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stratum 6 Claret Hollows
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~ Stratum 6 Claret
-Hollows ~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~
 
 --------------------------------
 Floor 26........................
@@ -4166,11 +4183,13 @@ defeat Primevil you beat the
 game.
 
 
- Y   Y OOOOO U   U   BBBB  EEEEE
- Y Y  O   O U   U   B   B E     
- Y   O   O U   U   BBBBB EEEE   
+ Y Y OOOOO U U BBBB EEEEE A
+ TTTTT TTTTT H H EEEEE Y Y O O U
+ U B B E A A T T H H E Y O O U U
+ BBBBB EEEE AAAAA T T HHHHH EEEE
  Y   O   O U   U   B   B E      
- Y   OOOOO  UUU    BBBB  EEEEE A
+ Y OOOOO UUU BBBB EEEEE A A T T
+ H H EEEEE
 
  GGGGG      A     MM   MM EEEEE
    G         A A    M M M M E
@@ -4179,23 +4198,17 @@ game.
  GGGGG  A       A M     M EEEEE
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~
 --------------------------------
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~Part 3~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~
 --------------------------------
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~
 
 This part talks about the extra
 stuff of the game.
 
 --------------------------------
 1.Classes.......................
-...[ClSS]
+  ...[ClSS]
 --------------------------------
 
 For this part of the walkthrough
@@ -4231,7 +4244,7 @@ My Description:
 
 --------------------------------
 1.1 Landskencht.................
-...[LAND]
+  ...[LAND]
 --------------------------------
 
 Name: Landsknecht Description:
@@ -4321,7 +4334,7 @@ world.
 
 --------------------------------
 1.2 Protector...................
-...[PROT]
+  ...[PROT]
 --------------------------------
 
 Name:Protector Description: Holy
@@ -4446,7 +4459,8 @@ that position.
 
 --------------------------------
 1.3 Dark
-Hunter....................[DRKH]
+  Hunter....................[DRK
+  H]
 --------------------------------
 
 Name: Dark Hunter Description:
@@ -4552,7 +4566,7 @@ Troubador.
 
 --------------------------------
 1.4 Survivalist.................
-...[SURV]
+  ...[SURV]
 --------------------------------
 
 Name: Survivalist Description:
@@ -4652,7 +4666,7 @@ would definately recommend one.
 
 --------------------------------
 1.5 Medic.......................
-...[MEDC]
+  ...[MEDC]
 --------------------------------
 
 Name: Medic Description:
@@ -4763,7 +4777,7 @@ loli) package.
 
 --------------------------------
 1.6 Alchemest...................
-...[ALCH]
+  ...[ALCH]
 --------------------------------
 
 Name: Alchemest Description:
@@ -4864,7 +4878,7 @@ they are actually quite useful.
 
 --------------------------------
 1.7 Troubadour..................
-...[TROU]
+  ...[TROU]
 --------------------------------
 
 Name: Troubadour Description:
@@ -4984,7 +4998,7 @@ definately be there.
 
 --------------------------------
 1.8 Ronin.......................
-...[RONI]
+  ...[RONI]
 --------------------------------
 
 Name: Ronin Description:Foreign
@@ -5083,7 +5097,7 @@ still own.
 
 --------------------------------
 1.9 Hexer.......................
-...[HEXR]
+  ...[HEXR]
 --------------------------------
 
 Name:Hexer Description: Thier
@@ -5184,7 +5198,7 @@ stats.
 
 --------------------------------
 2.Verda Plaza...................
-...[VERD]
+  ...[VERD]
 --------------------------------
 
 Verda Plaza is the second place
@@ -5317,7 +5331,7 @@ when you...uh...return to town.
 
 --------------------------------
 3.Quests........................
-...[QEST]
+  ...[QEST]
 --------------------------------
 
 Quests are are mini-missions
@@ -5334,7 +5348,7 @@ walkthroughs section.
 
 --------------------------------
 4.Missions......................
-...[MISS]
+  ...[MISS]
 --------------------------------
 
 Missions can be accepted from
@@ -5354,7 +5368,7 @@ probably better though.
 
 --------------------------------
 5.Stratagies....................
-...[STRA]
+  ...[STRA]
 --------------------------------
 
 This is the strategies section

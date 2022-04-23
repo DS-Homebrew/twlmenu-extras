@@ -32,22 +32,38 @@ NEVER be published in CheatCC.
    2.1~. Single Player
  2.1.1~. Single Match
  2.1.2~. Circuit
-  2.1.2.1~. Beginner's Class - M
-  2.1.2.2~. Beginner's Class - V
-  2.1.2.3~. Beginner's Class - J
-  2.1.2.4~. Beginner's Class - S
-  2.1.2.5~. Beginner's Class - M
-  2.1.2.6~. Advanced Class - Sta
-  2.1.2.7~. Advanced Class - Pla
-  2.1.2.8~. Advanced Class - Com
-  2.1.2.9~. Advanced Class - Sat
-  2.1.2.10~. Advanced Class - Su
-  2.1.2.11~. Master's Class - Me
-  2.1.2.12~. Master's Class - Su
-  2.1.2.13~. Master's Class - Co
-  2.1.2.14~. Master's Class - Ga
-  2.1.2.15~. Master's Class - Un
-  2.1.2.16~. Master's Class - Bi
+  2.1.2.1~. Beginner's Class -
+        Mercury Circuit
+  2.1.2.2~. Beginner's Class -
+        Venus Circuit
+  2.1.2.3~. Beginner's Class -
+        Jupiter Circuit
+  2.1.2.4~. Beginner's Class -
+        Saturn Circuit
+  2.1.2.5~. Beginner's Class -
+        Moonlight Circuit
+  2.1.2.6~. Advanced Class -
+        Stardust Circuit
+  2.1.2.7~. Advanced Class -
+        Planet Circuit
+  2.1.2.8~. Advanced Class -
+        Comet Circuit
+  2.1.2.9~. Advanced Class -
+        Satellite Circuit
+  2.1.2.10~. Advanced Class -
+        Sunlight Circuit
+  2.1.2.11~. Master's Class -
+        Meteorite Circuit
+  2.1.2.12~. Master's Class -
+        Supernova Circuit
+  2.1.2.13~. Master's Class -
+        Cosmos Circuit
+  2.1.2.14~. Master's Class -
+        Galaxy Circuit
+  2.1.2.15~. Master's Class -
+        Universal Circuit
+  2.1.2.16~. Master's Class -
+        Big Bang Circuit
   2.1.2.17~. Free
  2.1.3~. Mission
    2.2~. Versus Play
@@ -62,12 +78,14 @@ NEVER be published in CheatCC.
  2.3.4~. Nintendo WFC Settings
    2.4~. Gallery
  2.4.1~. Olympic Trivia
-  2.4.2~. Modern Olympic Games
+ 2.4.2~. Modern Olympic Games
  2.4.3~. Beijing 2008
  2.4.4~. Ancient Olympic Games
  2.4.5~. About Athletes
  2.4.6~. Jukebox
-   2.5~. Options (Audio Settings
+   2.5~. Options (Audio
+     Settings, User Settings and
+     Microphone Test)
 3~. Characters (and "Mission"
 mode mini-walkthrough)
    3.1~. Knuckles
@@ -125,32 +143,41 @@ END. Contacts
 0~. Version History
 
 -> version 1.05 <-
-- Fixed yet another minor proble
--- Added some more information t
-   events.
+- Fixed yet another minor
+  problem;
+-- Added some more information
+   to the "Dream Race" and
+   "Dream Canoe" events.
 
 -> version 1.01 <-
-- Fixed a minor problem in one o
+- Fixed a minor problem in one
+  of the sections.
 
 -> version 1.0 <-
-- Added yet another missing miss
+- Added yet another missing
+  mission.
 
 -> version 0.99 <-
 - Added one missing mission;
--- Added missing information on 
+-- Added missing information on
+   "Versus Play".
 
 -> version 0.98 <-
 - Added some missing missions;
--- Added some more information t
+-- Added some more information
+   to the "Gallery" section;
 --- Fixed some emblems;
 ---- Added some more information
+     to the "Jukebox" section.
 
 -> version 0.97 <-
 - Added some missing emblems;
 -- Re-wrote some sections.
 
 -> version 0.95 <-
-- Did most of the guide, but som
+- Did most of the guide, but
+  some minor informations are
+  still missing.
 
 
 
@@ -330,7 +357,7 @@ offer...
 
 
 2.1.2.1~. Beginner's Class -
-Mercury Circuit
+      Mercury Circuit
 
 This Circuit is composed by the
 following events:
@@ -351,7 +378,7 @@ power and fair skill.
 
 
 2.1.2.2~. Beginner's Class -
-Venus Circuit
+      Venus Circuit
 
 This Circuit is composed by the
 following events:
@@ -369,7 +396,7 @@ and speed, such as "Peach".
 
 
 2.1.2.3~. Beginner's Class -
-Jupiter Circuit
+      Jupiter Circuit
 
 This Circuit is composed by the
 following events:
@@ -388,7 +415,7 @@ and "Shadow" into good options.
 
 
 2.1.2.4~. Beginner's Class -
-Saturn Circuit
+      Saturn Circuit
 
 This Circuit is composed by the
 following events:
@@ -414,7 +441,7 @@ fit your personal taste.
 
 
 2.1.2.5~. Beginner's Class -
-Moonlight Circuit
+      Moonlight Circuit
 
 This Circuit is composed by the
 following events:
@@ -434,7 +461,7 @@ for example, is a good option.
 
 
 2.1.2.6~. Advanced Class -
-Stardust Circuit
+      Stardust Circuit
 
 This Circuit is composed by the
 following events:
@@ -455,7 +482,7 @@ pick for this circuit.
 
 
 2.1.2.7~. Advanced Class -
-Planet Circuit
+      Planet Circuit
 
 This Circuit is composed by the
 following events:
@@ -476,7 +503,7 @@ choice.
 
 
 2.1.2.8~. Advanced Class - Comet
-Circuit
+      Circuit
 
 This Circuit is composed by the
 following events:
@@ -502,7 +529,7 @@ fair speed and good stamina.
 
 
 2.1.2.9~. Advanced Class -
-Satellite Circuit
+      Satellite Circuit
 
 This Circuit is composed by the
 following events:
@@ -522,7 +549,7 @@ someone just like "Waluigi".
 
 
 2.1.2.10~. Advanced Class -
-Sunlight Circuit
+      Sunlight Circuit
 
 This Circuit is composed by the
 following events:
@@ -543,7 +570,7 @@ circuit.
 
 
 2.1.2.11~. Master's Class -
-Meteorite Circuit
+      Meteorite Circuit
 
 This Circuit is composed by the
 following events:
@@ -564,7 +591,7 @@ option, but so is "Knuckles".
 
 
 2.1.2.12~. Master's Class -
-Supernova Circuit
+      Supernova Circuit
 
 This Circuit is composed by the
 following events:
@@ -587,7 +614,7 @@ also works just fine.
 
 
 2.1.2.13~. Master's Class -
-Cosmos Circuit
+      Cosmos Circuit
 
 This Circuit is composed by the
 following events:
@@ -610,7 +637,7 @@ option.
 
 
 2.1.2.14~. Master's Class -
-Galaxy Circuit
+      Galaxy Circuit
 
 This Circuit is composed by the
 following events:
@@ -632,7 +659,7 @@ someone like "Waluigi".
 
 
 2.1.2.15~. Master's Class -
-Universal Circuit
+      Universal Circuit
 
 This Circuit is composed by the
 following events:
@@ -653,7 +680,7 @@ good options.
 
 
 2.1.2.16~. Master's Class - Big
-Bang Circuit
+      Bang Circuit
 
 This Circuit is composed by the
 following events:
@@ -843,65 +870,85 @@ get:.
 
 First Page, First Line
 
--- 100m   (Gold, Silver or Bronz
+-- 100m (Gold, Silver or Bronze)
 
--- 400m   (Gold, Silver or Bronz
+-- 400m (Gold, Silver or Bronze)
 
--- 400m Hurdles   (Gold, Silver 
+-- 400m Hurdles (Gold, Silver or
+   Bronze)
 
--- Long Jump   (Gold, Silver or 
+-- Long Jump (Gold, Silver or
+   Bronze)
 
--- Triple Jump   (Gold, Silver o
+-- Triple Jump (Gold, Silver or
+   Bronze)
 
--- Javelin Throw   (Gold, Silver
+-- Javelin Throw (Gold, Silver
+   or Bronze)
 
 
 First Page, Second Line
 
--- Hammer Throw   (Gold, Silver 
+-- Hammer Throw (Gold, Silver or
+   Bronze)
 
--- 100m Freestyle   (Gold, Silve
+-- 100m Freestyle (Gold, Silver
+   or Bronze)
 
--- 10m Platform   (Gold, Silver 
+-- 10m Platform (Gold, Silver or
+   Bronze)
 
--- Trampoline   (Gold, Silver or
+-- Trampoline (Gold, Silver or
+   Bronze)
 
--- Vault   (Gold, Silver or Bron
+-- Vault (Gold, Silver or
+   Bronze)
 
--- Archery   (Gold, Silver or Br
+-- Archery (Gold, Silver or
+   Bronze)
 
 
 First Page, Third Line
 
--- Table Tennis   (Gold, Silver 
+-- Table Tennis (Gold, Silver or
+   Bronze)
 
--- Fencing   (Gold, Silver or Br
+-- Fencing (Gold, Silver or
+   Bronze)
 
--- Shooting   (Gold, Silver or B
+-- Shooting (Gold, Silver or
+   Bronze)
 
--- Cycling   (Gold, Silver or Br
+-- Cycling (Gold, Silver or
+   Bronze)
 
 
 Second Page, First Line
 
--- Dream Race   (1st, 2nd or 3rd
+-- Dream Race (1st, 2nd or 3rd)
 
--- Dream Canoe   (1st, 2nd or 3r
+-- Dream Canoe (1st, 2nd or 3rd)
 
--- Dream Boxing   (1st, 2nd or 3
+-- Dream Boxing (1st, 2nd or
+   3rd)
 
--- Dream Long Jump   (1st, 2nd o
+-- Dream Long Jump (1st, 2nd or
+   3rd)
 
--- Dream Table Tennis   (1st, 2n
+-- Dream Table Tennis (1st, 2nd
+   or 3rd)
 
--- Dream Fencing   (1st, 2nd or 
+-- Dream Fencing (1st, 2nd or
+   3rd)
 
 
 Second Page, Second Line
 
--- Dream Shooting   (1st, 2nd or
+-- Dream Shooting (1st, 2nd or
+   3rd)
 
--- Dream Basketball   (1st, 2nd 
+-- Dream Basketball (1st, 2nd or
+   3rd)
 
 
 Be sure to remember that all
@@ -992,115 +1039,178 @@ tasks in some of the events.
 
 First Page, First Line
 
--- Mario Emblem - complete all s
+-- Mario Emblem - complete all
+   six of "Mario"'s missions
 
--- Luigi Emblem - complete all s
+-- Luigi Emblem - complete all
+   six of "Luigi"'s missions
 
--- Peach Emblem - complete all s
+-- Peach Emblem - complete all
+   six of "Peach"'s missions
 
--- Daisy Emblem - complete all s
+-- Daisy Emblem - complete all
+   six of "Daisy"'s missions
 
--- Yoshi Emblem - complete all s
+-- Yoshi Emblem - complete all
+   six of "Yoshi"'s missions
 
--- Bowser Emblem - complete all 
+-- Bowser Emblem - complete all
+   six of "Bowser"'s missions
 
 
 First Page, Second Line
 
--- Wario Emblem - complete all s
+-- Wario Emblem - complete all
+   six of "Wario"'s missions
 
 -- Waluigi Emblem - complete all
+   six of "Waluigi"'s missions
 
--- Sonic Emblem - complete all s
+-- Sonic Emblem - complete all
+   six of "Sonic"'s missions
 
--- Tails Emblem - complete all s
+-- Tails Emblem - complete all
+   six of "Tails"' missions
 
 -- Amy Emblem - complete all six
+   of "Amy"'s missions
 
--- Dr. Eggman Emblem - complete 
+-- Dr. Eggman Emblem - complete
+   all six of "Dr. Eggman"'s
+   missions
 
 
 First Page, Third Line
 
--- Knuckles Emblem - complete al
+-- Knuckles Emblem - complete
+   all six of "Knuckles"'
+   missions
 
--- Shadow Emblem - complete all 
+-- Shadow Emblem - complete all
+   six of "Shadow"'s missions
 
--- Vector Emblem - complete all 
+-- Vector Emblem - complete all
+   six of "Vector"'s missions
 
--- Blaze Emblem - complete all s
+-- Blaze Emblem - complete all
+   six of "Blaze"'s missions
 
--- Olympic Record Emblem - beat 
+-- Olympic Record Emblem - beat
+   an Olympic Record, in any
+   event (easy to
       do if you take, let's say,
+      "Sonic" for the 100m
              event)
 
--- World Record Emblem - beat a 
-      you take, let's say, "Soni
+-- World Record Emblem - beat a
+   World Record, in any event
+   (easy to do if
+      you take, let's say,
+      "Sonic" for the 100m
+      event)
 
 
 Second Page, First Line
 
--- Track Emblem - get a gold med
+-- Track Emblem - get a gold
+   medal in all track events
 
--- Field Emblem - get a gold med
+-- Field Emblem - get a gold
+   medal in all field events
 
--- Aquatics Emblem - get a gold 
+-- Aquatics Emblem - get a gold
+   medal in all swimming events
 
--- Gymnastics Emblem - get a gol
+-- Gymnastics Emblem - get a
+   gold medal in all gymnastics
+   events
 
--- Dream Emblem - get a 1st meda
+-- Dream Emblem - get a 1st
+   medal in all Dream events
 
--- Full Play Emblem - play each 
+-- Full Play Emblem - play each
+   event at least once
 
 
 Second Page, Second Line
 
--- Fencing Emblem - get a 10-0 s
+-- Fencing Emblem - get a 10-0
+   score in the "Fencing" event
+   (easier to do
  if you fight against "Bowser")
 
--- Archery Emblem - get 120 poin
+-- Archery Emblem - get 120
+   points in the "Archery" event
 
--- Shooting Emblem - get 40 poin
+-- Shooting Emblem - get 40
+   points in the "Shooting"
+   event
 
--- Bouncing Emblem - get a perfe
+-- Bouncing Emblem - get a
+   perfect 10 in the
+   "Trampoline" event
 
--- Somersault Emblem - get a per
+-- Somersault Emblem - get a
+   perfect 10 in the "Vault"
+   event
 
 -- Table Tennis Perfect Emblem -
+   win the "Table Tennis" event
+   by 5-0
 
 
 Second Page, Third Line
 
 -- Full Game Emblem - unlock all
+   events
 
--- Thanks for Playing Emblem - l
-       your savegame, you can pr
-       to the previous menu - us
-       achieve 50 loads)
+-- Thanks for Playing Emblem -
+   load your savegame 50 times
+   (after loading
+       your savegame, you can
+       press "B" to return to
+       the previous menu - use
+       this to quickly achieve
+       50 loads)
 
--- Collaboration Emblem - play a
+-- Collaboration Emblem - play
+   as each character at least
+   once
 
--- Mario Family Emblem - get a g
+-- Mario Family Emblem - get a
+   gold medal in every event
+   with every
 character from the Mario series
 
--- Sonic Family Emblem - get a g
+-- Sonic Family Emblem - get a
+   gold medal in every event
+   with every
 character from the Sonic series
 
--- Gallery Owner Emblem - comple
+-- Gallery Owner Emblem -
+   complete all mini-games of
+   the five areas of the
          "Gallery" mode
 
 
 Third Page
 
--- Friendly Emblem - play "Versu
-     this game, you can use "Dow
+-- Friendly Emblem - play
+   "Versus Play" once (if none
+   of your friends have
+     this game, you can use
+     "Download Play" to get this
      one)
 
--- Network Emblem - connect to N
+-- Network Emblem - connect to
+   Nintendo WFC Rankings once
 
--- Rocket Emblem - successfully 
+-- Rocket Emblem - successfully
+   perform a start dash on a
+   track event
 
--- Penalty Emblem - commit a fou
+-- Penalty Emblem - commit a
+   foul in any sort of event
 
 
 In order to unlock each emblem,
@@ -1120,45 +1230,66 @@ these items.
 
 First Line
 
--- Mario Crown - get all gold an
+-- Mario Crown - get all gold
+   and 1st medals using "Mario"
 
--- Luigi Crown - get all gold an
+-- Luigi Crown - get all gold
+   and 1st medals using "Luigi"
 
--- Peach Crown - get all gold an
+-- Peach Crown - get all gold
+   and 1st medals using "Peach"
 
--- Daisy Crown - get all gold an
+-- Daisy Crown - get all gold
+   and 1st medals using "Daisy"
 
--- Yoshi Crown - get all gold an
+-- Yoshi Crown - get all gold
+   and 1st medals using "Yoshi"
 
--- Bowser Crown - get all gold a
+-- Bowser Crown - get all gold
+   and 1st medals using "Bowser"
 
 
 Second Line
 
--- Wario Crown - get all gold an
+-- Wario Crown - get all gold
+   and 1st medals using "Wario"
 
--- Waluigi Crown - get all gold 
+-- Waluigi Crown - get all gold
+   and 1st medals using
+   "Waluigi"
 
--- Sonic Crown - get all gold an
+-- Sonic Crown - get all gold
+   and 1st medals using "Sonic"
 
--- Tails Crown - get all gold an
+-- Tails Crown - get all gold
+   and 1st medals using "Tails"
 
--- Amy Crown - get all gold and 
+-- Amy Crown - get all gold and
+   1st medals using "Amy"
 
--- Dr. Eggman Crown - get all go
+-- Dr. Eggman Crown - get all
+   gold and 1st medals using
+   "Dr. Eggman"
 
 
 Third Line
 
 -- Knuckles Crown - get all gold
+   and 1st medals using
+   "Knuckles"
 
--- Shadow Crown - get all gold a
+-- Shadow Crown - get all gold
+   and 1st medals using "Shadow"
 
--- Vector Crown - get all gold a
+-- Vector Crown - get all gold
+   and 1st medals using "Vector"
 
--- Blaze Crown - get all gold an
+-- Blaze Crown - get all gold
+   and 1st medals using "Blaze"
 
--- Complete Crown  - get all oth
+-- Complete Crown - get all
+   other crowns, i.e. get all
+   gold and 1st
   medals using all characters
 
 
@@ -1237,7 +1368,8 @@ symbol?
 A: In order, they are blue,
 yellow, black, red, and green.
 At least one of
-   these five colors is used in 
+   these five colors is used in
+   every national flag.
 
 
 Q: How do they determine
@@ -1248,7 +1380,9 @@ the Olympic Games
 A: The Host City for each
 Olympic Games is chosen from
 among the candidate
-   cities by a vote of the Inter
+   cities by a vote of the
+   International Olympic
+   Committee.
 
 
 Q: Which continent hasn't been
@@ -1332,7 +1466,8 @@ A: Yes. From the 1912 to 1948
 Games of the Olympiad, there
 were art
    competitions in architecture,
-   music.
+   literature, painting,
+   sculpture and music.
 
 
 Q: Was the ocean ever used for
@@ -1393,8 +1528,10 @@ official mascots of the Beijing
 A: "Fuwa," which translates to
 "good luck dolls." They carry a
 message of
-   friendship and peace and thei
-   Olympic Rings.
+   friendship and peace and
+   their colors are the same as
+   those used in the Olympic
+   Rings.
 
 
 Q: What is the meaning of the
@@ -1405,7 +1542,10 @@ A: If you put together the names
 of the five mascots, Beibei,
 Jingjing,
    Huanhuan, Yingying, and Nini,
-   means "Welcome to Beijing" in
+   you will get: "Beijing
+   huanying ni." This means
+   "Welcome to Beijing" in
+   Chinese.
 
 
 Q: What are the missing words in
@@ -1425,7 +1565,8 @@ Opening Ceremony for the Beijing
 A: It will begin at 8:08:08 pm,
 August 8, 2008. (Eight is a
 lucky number
-   in China, symbolizing growth 
+   in China, symbolizing growth
+   and development.)
 
 
 Q: How much distance will the
@@ -1435,8 +1576,11 @@ cover?
 A: The torch relay will last 130
 miles and travel 85,128 miles
 (137,000km)
-   from Olympia to Beijing. It w
-   include the largest number of
+   from Olympia to Beijing. It
+   will travel the longest
+   distance and include the
+   largest number of people of
+   any torch relay so far.
 
 
 That's all for this section....
@@ -1482,7 +1626,9 @@ B.C.?
 A: Yes. It was a running event,
 called the stadion or stade.
 Athletes ran
-   the length of the stadium, a 
+   the length of the stadium, a
+   distance of about 219 yards
+   (200 meters).
 
 
 Q: Were there any team sports in
@@ -1499,7 +1645,9 @@ races?
 A: Yes. A competition for a
 four-horse chariot race, a
 tethrippon, was
-   introduced in 680 B.C. Two mo
+   introduced in 680 B.C. Two
+   more chariot races were added
+   later on.
 
 
 Q: What was the "pankration"
@@ -1508,8 +1656,10 @@ event?
 A: An event in the ancient
 Olympic Games, the "pankration"
 event was a
-   combination of wrestling and 
-   the athletes surrendered.
+   combination of wrestling and
+   boxing. The match continued
+   until one of the athletes
+   surrendered.
 
 
 That's all for this section....
@@ -1545,7 +1695,9 @@ like?
 A: The athletes live in the
 Athletes' Village during the
 Games, and it has
-   training fields and cafeteria
+   training fields and
+   cafeterias. There are even
+   banks, post offices,
    cleaners, and souvenir shops.
 
 
@@ -1565,7 +1717,9 @@ in the opening ceremony?
 A: An athlete from the nation
 that hosts the Olympic Games
 gives the oath,
-   on behalf of the participatin
+   on behalf of the
+   participating athletes from
+   every country.
 
 
 Q: A perfect performance only
@@ -1574,9 +1728,13 @@ got a 1.00 score!?
 A: In the Montreal 1976 Olympic
 Games, Nadia Comaneci, a
 Romanian gymnast,
-   performed a perfect routine f
-   scoreboards were not equipped
-   was reported on the boards as
+   performed a perfect routine
+   for the first time on the
+   uneven bars. The scoreboards
+   were not equipped to display
+   scores of 10.0, so the
+   routine was reported on the
+   boards as 1.00 instead.
 
 
 Q: How old was the youngest
@@ -1587,8 +1745,9 @@ the Olympic
 A: Greek athlete Dimitrios
 Loundras was 10 and 218 days old
 when he came
-   in 3rd in the parallel bars g
-   Games.
+   in 3rd in the parallel bars
+   gymnastics team event at the
+   1896 Olympic Games.
 
 
 That's all for this section....
@@ -1622,26 +1781,34 @@ screen)
 --- Tetris DS Mario Puzzle Mix
 
 --- Super Mario 64 DS Mini-Games
+    Coincentration
 
 --- Tetris DS Bowser Battle
 
 --- Super Mario 64 DS Mini-Games
+    Bounce and Pounce
 
---- Mario Kart: Double Dash!! Ma
+--- Mario Kart: Double Dash!!
+    Mario Bros. Circuits
 
 
 Sonic songs (right side of the
 screen)
 
---- SONIC THE HEDGEHOG Green Hil
+--- SONIC THE HEDGEHOG Green
+    Hill Zone
 
---- SONIC THE HEDGEHOG Star Ligh
+--- SONIC THE HEDGEHOG Star
+    Light Zone
 
 --- SONIC THE HEDGEHOG 2 Emerald
+    Hill Zone
 
 --- SONIC RUSH Right There, Ride
+    On
 
---- SONIC RUSH ADVENTURE New Ven
+--- SONIC RUSH ADVENTURE New
+    Venture
 
 
 That's all for this section....
@@ -1649,8 +1816,8 @@ That's all for this section....
 
 
 2.5~. Options (Audio Settings,
-User Settings and Microphone
-Test)
+  User Settings and Microphone
+  Test)
 
 Ah... the classical "Options"
 mode. I really hope you know
@@ -1742,7 +1909,8 @@ then:
 WHEN SHOULD YOU USE HIM? (some
 information on when you should
 use this
-      particular character, for 
+      particular character, for
+      those of you who
   have trouble reading charts)
 
 Also, be aware that the enemies
@@ -1793,11 +1961,18 @@ TIPS - This may sound like a
 tough objective, but once you
 figure the
  trick it is an easy one. If you
- 3-second countdown expires, he 
- which will be easy to outdo. On
- spin your character faster than
- simply throw the hammer as you'
- record and finish this objectiv
+ keep spinning "Knuckles" after
+ the 3-second countdown expires,
+ he will perform a slightly weak
+ throw, which will be easy to
+ outdo. On your second throw,
+ repeat it but spin your
+ character faster than before.
+ For the last attempt, simply
+ throw the hammer as you'd
+ usually do, to perform a good
+ record and finish this
+ objective once and for all.
 
 
 MISSION EVENT - 400m
@@ -1808,13 +1983,21 @@ place!"
 TIPS - Perform this event as
 you'd normally do, but keep
 track of your
- current position by looking at 
- top screen. If, when you see th
- first place, you may want to se
- opponent magically outperform y
- run at cruiser speed. Also, thi
- want to get specific opponents 
- have a Speed Type may be hard t
+ current position by looking at
+ the lower left side of the
+ console's top screen. If, when
+ you see the "Final Sprint"
+ warning, are in first place,
+ you may want to settle down and
+ let the second opponent
+ magically outperform your
+ character, before starting to
+ run at cruiser speed. Also,
+ this is the kind of event which
+ you may want to get specific
+ opponents on, since outdoing
+ characters who have a Speed
+ Type may be hard to complete.
 
 
 MISSION EVENT - 10m Platform
@@ -1826,12 +2009,20 @@ event!"
 TIPS - Try to keep the initial
 bar (i.e. the one that pops up
 when you
- start your jump) as high as pos
- on the jump itself, input all c
- that one, simply try to input t
- without commiting any mistakes.
- press "A" only when Knuckles is
- angle of around 0º from the ver
+ start your jump) as high as
+ possible, before letting "A"
+ go. Then, on the jump itself,
+ input all commands, there's no
+ easy way out of that one,
+ simply try to input them as
+ quickly as possible and without
+ commiting any mistakes.
+ Finally, after the small
+ cutscene, press "A" only when
+ Knuckles is looking down, and
+ try to aim at an angle of
+ around 0º from the vertical
+ line of your jump.
 
 
 MISSION EVENT - Table Tennis
@@ -1842,12 +2033,19 @@ successful smashes and win!"
 TIPS - Even though it is
 possible to accomplish this
 objective against any
- enemy, I suggest you try doing 
- event, such as Bowser. The obje
- they are asking you to do is sc
- smashes i.e. those moves in whi
- yellow) tail behind it, as your
- but if you're facing a weak opp
+ enemy, I suggest you try doing
+ it with someone who is weak at
+ this event, such as Bowser. The
+ objective is not very clear,
+ but what they are asking you to
+ do is score at least five
+ points by using smashes i.e.
+ those moves in which the ball
+ leaves a red (or yellow) tail
+ behind it, as your final move.
+ It is hard to master, but if
+ you're facing a weak opponent
+ it becomes easier to do.
 
 
 MISSION EVENT - Dream Basketball
@@ -1858,10 +2056,15 @@ within 30 seconds!"
 TIPS - Doing a combo is easy,
 you just need to throw the ball
 in a way it
- passes across two baskets, and 
- ball to the top (or middle) bas
- you fail it by then, you should
- other's path, but be aware they
+ passes across two baskets, and
+ you can easily do it by
+ throwing a ball to the top (or
+ middle) baskets as soon as the
+ level begins. If you fail it by
+ then, you should do it when two
+ baskets cross each other's
+ path, but be aware they move at
+ different speeds.
 
 
 FINAL MISSION - Dream Boxing
@@ -1873,19 +2076,30 @@ TIPS - By "top condition", they
 mean that his attacks are
 stronger and
  that he will block most of your
- necessary, dodge to the left an
- and use your specials only when
- counter your special, but if yo
- your attack will outdo his, and
- your strike, which is a good wa
+ special attacks. Defend as much
+ as necessary, dodge to the left
+ and right (followed by quick
+ punches) and use your specials
+ only when his gloves are
+ sparkly - he will counter your
+ special, but if you press "A"
+ as quickly as possible your
+ attack will outdo his, and he
+ will suffer all the damage of
+ your strike, which is a good
+ way to defeat him here.
 
 
 WHEN SHOULD YOU USE HIM? His
 high power, good stamina and
 fair speed make
-      him great for circuits tha
-      javelins/hammers, alongsid
-      that rely on stamina, inst
+      him great for circuits
+      that rely on throwing
+      javelins/hammers,
+      alongside with running
+      events that rely on
+      stamina, instead of high
+      speed.
 
 
 
@@ -1911,9 +2125,11 @@ opponent's attacks, and win!"
 TIPS - Simple, to parry you just
 have to do an upward motion with
 your
- stylus - focus mostly on that a
- just fine, it is harder to parr
- enemy.
+ stylus - focus mostly on that
+ aspect of this level and you'll
+ do just fine, it is harder to
+ parry than it is to actually
+ defeat your enemy.
 
 
 MISSION EVENT - Hammer Throw
@@ -1926,6 +2142,7 @@ TIPS - Do the best you can for
 the three throws, complete with
 shouting
  when you see the "!" symbol (it
+ appears just after throwing the
 hammer), and that will be fine.
 
 
@@ -1959,8 +2176,11 @@ points in a single rally!"
 TIPS - Keep on trading the ball
 back and forth until the counter
 is over
- 20, use your special attack (pr
- side of the field) and, if succ
+ 20, use your special attack
+ (press X when the ball is in
+ your side of the field) and, if
+ successful, it will all be
+ over.
 
 
 FINAL MISSION - Dream Fencing
@@ -1971,14 +2191,18 @@ he's in top condition!"
 TIPS - Strike as much as
 possible, try to parry a few
 attacks, use your
- special attack as soon as you g
- to be just next to your opponen
+ special attack as soon as you
+ get one (and, obviously, you
+ may want to be just next to
+ your opponent) and you won't
+ have much trouble.
 
 
 WHEN SHOULD YOU USE HIM? For
 events (or circuits) which
 require a lot of
-      power, such as throwing ja
+      power, such as throwing
+      javelins and hammers, or
           for boxing.
 
 
@@ -2005,10 +2229,14 @@ place, within 50 seconds!"
 TIPS - Perform as you'd normally
 do, but always keep track of
 your current
- position by looking at the lowe
- screen. If, at the time you're 
- place, keep on swimming BUT slo
- at the end.
+ position by looking at the
+ lower left corner of the
+ console's upper screen. If, at
+ the time you're reaching the
+ goal, you're in first place,
+ keep on swimming BUT slower, so
+ that you end up being second at
+ the end.
 
 
 MISSION EVENT - Hammer Throw
@@ -2019,9 +2247,12 @@ throw!"
 TIPS - Spin as fast as you can,
 throw as soon as the countdown
 gets all
- the way down to 1 and be sure t
- which appear as soon as you thr
- probably get you the requiremen
+ the way down to 1 and be sure
+ to shout when you see the "!"
+ prompt, which appear as soon as
+ you throw the hammer. Doing all
+ this will probably get you the
+ requirement you're asked for.
 
 
 MISSION EVENT - Trampoline
@@ -2033,6 +2264,7 @@ TIPS - Jump as high as possible,
 complete all the inputs that you
 see in
  your screen and you'll get this
+ one.
 
 
 MISSION EVENT - Fencing
@@ -2043,9 +2275,13 @@ handicap and win!"
 TIPS - try to parry a few
 attacks, strike as much as you
 can and you'll
- probably win. Be sure to rememb
- chosen, and if you just can't d
- find an opponent that better fi
+ probably win. Be sure to
+ remember that your opponent is
+ randomly chosen, and if you
+ just can't do it, keep on
+ heading out until you find an
+ opponent that better fits your
+ needs.
 
 
 MISSION EVENT - Dream Canoe
@@ -2057,9 +2293,12 @@ TIPS - It's all a matter of
 timing. Try to get the best
 items as quickly
  as possible (red, blue or green
- your opponents quickly. If you 
- trying and, sooner or later, I'
- this mission.
+ shells are great) and aim them
+ at your opponents quickly. If
+ you just can't do it in time,
+ keep on trying and, sooner or
+ later, I'm sure you'll be able
+ to complete this mission.
 
 
 FINAL MISSION - Dream Table
@@ -2071,15 +2310,18 @@ he's in top condition!"
 TIPS - This isn't very hard, but
 you may want to use your own
 Special Move
- to counter the one of your oppo
- easier time with it.
+ to counter the one of your
+ opponent, in an attempt to have
+ an easier time with it.
 
 
 WHEN SHOULD YOU USE HIM? For
 events that require throwing
 something, such
-      as javelins/hammers, or fo
-      Circuits with lots of even
+      as javelins/hammers, or
+      for boxing matches.
+      Circuits with lots of
+      events that require power
    and stamina will do, too.
 
 
@@ -2103,19 +2345,29 @@ MISSION EVENT - 100m
 OBJECTIVE - "Cross the finish
 line while lunging forward and
 come in 2nd
-   place! (Lift up, then slide r
+   place! (Lift up, then slide
+   right when you see the "!"
    indicator.)"
 
 TIPS - This one sounds more
 complicated than it actually
 is... you're
- basically being told that you n
- and, when you're close to the f
- lift you stylus and start slidi
- screen. The best way to accompl
- has high speed (such as Sonic o
- time!), run normally, let them 
- the finish line, perform the ta
+ basically being told that you
+ need to end the race in second
+ place and, when you're close to
+ the finish line and see a "!",
+ simply lift you stylus and
+ start sliding it to the right
+ side of the screen. The best
+ way to accomplish this is by
+ facing someone who has high
+ speed (such as Sonic or Shadow,
+ but NOT both at the same
+ time!), run normally, let them
+ win AND, when you're really
+ next to the finish line,
+ perform the task I've just
+ mentioned.
 
 
 MISSION EVENT - 100m Freestyle
@@ -2127,9 +2379,12 @@ stamina!"
 TIPS - Trace the symbol, as this
 event usually requires you, and
 when you
- are almost running out of stami
- restore it. If done correctly, 
- each time you restore your stam
+ are almost running out of
+ stamina press either "R" or "L"
+ to restore it. If done
+ correctly, you'll achieve the
+ required rating each time you
+ restore your stamina.
 
 
 MISSION EVENT - Shooting
@@ -2141,8 +2396,11 @@ TIPS - Unlike it usually hapens,
 you'll be throw targets two at
 each point
  in time. Simply wait until they
- destroying two with a single sh
- master it, but it's not difficu
+ cross each other's path and
+ shoot, destroying two with a
+ single shot. It may take you a
+ while to master it, but it's
+ not difficult at all.
 
 
 MISSION EVENT - Dream Long Jump
@@ -2153,10 +2411,15 @@ rings!"
 TIPS - Usually, this could sound
 like an hard objective, but
 you'll be
- taking in a different stage, wh
- items. Instead, acelerate as mu
- angle for the jump and keep "Wa
- the rings that cross your path.
+ taking in a different stage,
+ where there are no islands,
+ enemies or items. Instead,
+ acelerate as much as possible,
+ try to aim at 45º angle for the
+ jump and keep "Wario" as up as
+ possible, entering all the
+ rings that cross your path.
+ It's also a matter of luck, but
  this isn't that hard.
 
 
@@ -2168,12 +2431,20 @@ boxes!"
 TIPS - There's nobody to race
 against, and that's a good
 thing. Instead of
- rushing across the place, simpl
- use any mushrooms) to collect a
- path. Be sure to notice the pre
- has two possible paths to follo
- sure to look for all the item b
- fine - in fact, it is even poss
+ rushing across the place,
+ simply take your time (don't
+ acelerate or use any mushrooms)
+ to collect all the item boxes
+ that cross your path. Be sure
+ to notice the presence of a
+ part of this stage which has
+ two possible paths to follow,
+ and they both contain items. Be
+ sure to look for all the item
+ boxes, DON'T ACELERATE, and
+ you'll be fine - in fact, it is
+ even possible to complete this
+ stage without
    ever taking the third lap.
 
 
@@ -2185,14 +2456,18 @@ he's in top condition!"
 TIPS - Acelerate as much as
 possible (pressing "R" and "L",
 as usual),
- pick up all the items that cros
- stamina, and "Knuckles" won't e
+ pick up all the items that
+ cross your path, since they
+ restore your stamina, and
+ "Knuckles" won't even stand a
+ chance to beat you.
 
 
 WHEN SHOULD YOU USE HIM? He is
 good for swimming or cycling
 events, or for
       circuits that require very
+      few skill and limited
       speed.
 
 
@@ -2220,7 +2495,8 @@ three times for a total of over
 TIPS - Accomplish three good
 jumps, as you'd normally do,
 following with
- an angle of close to 45º, and t
+ an angle of close to 45º, and
+ this won't be hard at all.
 
 
 MISSION EVENT - Vault
@@ -2231,8 +2507,10 @@ and 8.000!"
 TIPS - Do a good initial jump,
 get a couple points in the air,
 and do a
- good landing. It's also a matte
- to instantly do exactly what th
+ good landing. It's also a
+ matter of luck, and there's no
+ sure way to instantly do
+ exactly what they want.
 
 
 MISSION EVENT - Shooting
@@ -2243,8 +2521,11 @@ red clays only!"
 TIPS - Out of the five clays
 thrown, only three of those will
 be red. Be
- sure to look at their colour an
- practice, and it may take you a
+ sure to look at their colour
+ and shoot quickly - it's a
+ matter of practice, and it may
+ take you a while to master what
+ you are
    supposed to be doing here.
 
 
@@ -2256,13 +2537,20 @@ three small islands!"
 TIPS - Do the usual run and jump
 sequence. Next, try to enter all
 the
- golden rings until you reach th
- 600m after the departure point.
- and land on one of the islands,
- beginning of it, or "Mario" may
- he touches the ground, be sure 
- give him some more stability, a
- water.
+ golden rings until you reach
+ three small islands, placed
+ around 600m after the departure
+ point. When you get there,
+ quickly go down and land on one
+ of the islands, but try to aim
+ at the very same beginning of
+ it, or "Mario" may be thrown to
+ the water. As soon as he
+ touches the ground, be sure to
+ quickly rub him, as that will
+ give him some more stability,
+ and he won't as easily fall on
+ the water.
 
 
 MISSION EVENT - Dream Boxing
@@ -2273,8 +2561,10 @@ times!"
 TIPS - Keep on defending, and
 once your opponent strikes with
 his right
- fist quickly dodge to your own 
- jab. Repeat four more times, an
+ fist quickly dodge to your own
+ right side, and hit him with a
+ quick jab. Repeat four more
+ times, and you'll win.
 
 
 FINAL MISSION - 100m
@@ -2285,17 +2575,23 @@ he's in top condition!"
 TIPS - Your opponent is
 obviously much faster than you,
 and the only way
- to beat him is by performing a 
- by the race of your life. Witho
- stand much of a chance against 
+ to beat him is by performing a
+ successful starting dash,
+ followed by the race of your
+ life. Without that initial
+ boost, you don't stand much of
+ a chance against him.
 
 
 WHEN SHOULD YOU USE HIM? All-
 around characters are good at
 almost
-      everything, but this one i
-      table tennis and fencing. 
+      everything, but this one
+      is better fit for normal
+      table tennis and fencing.
+      Also, he is good for
       circuits which have a wide
+      variety of events.
 
 
 
@@ -2321,8 +2617,10 @@ distance between 70m and 85m!"
 TIPS - Both luck and skill are
 important in this one. Try
 different kinds
- of initial runs and different a
- after a while you'll manage to 
+ of initial runs and different
+ angles for throwing the
+ javelin, and after a while
+ you'll manage to beat it.
 
 
 MISSION EVENT - Trampoline
@@ -2344,7 +2642,8 @@ win!"
 TIPS - Quickly advance for your
 opponent and give it some fast
 attacks. If
- done correctly, and you're luck
+ done correctly, and you're
+ lucky, you'll win like that.
 
 
 MISSION EVENT - Long Jump
@@ -2355,8 +2654,9 @@ on your jump!"
 TIPS - Be sure to appeal to
 everyone. Then, start with the
 best run you
- can do, followed by jumping nex
- 45º.
+ can do, followed by jumping
+ next to the line in an angle of
+ around 45º.
 
 
 MISSION EVENT - Dream Long Jump
@@ -2367,14 +2667,24 @@ three opponents ahead of you!"
 TIPS - It may get you a couple
 tries to fulfill this one.
 Basically, you
- have to get all the possible it
- as quickly as possible, in orde
- (or them) fall on the water. Yo
- small departure angle (i.e. les
- enable you to get the items whi
- making your life a lot easier. 
- first three lines, throw them a
- stops spinning and, eventually,
+ have to get all the possible
+ items and throw them at your
+ opponents as quickly as
+ possible, in order to eliminate
+ them all before you (or them)
+ fall on the water. You may want
+ to give your character a small
+ departure angle (i.e. less than
+ 30º), since doing so will
+ enable you to get the items
+ which are close to the
+ departure point, making your
+ life a lot easier. Keep on
+ trying to get items from the
+ first three lines, throw them
+ as quickly as the item
+ selection stops spinning and,
+ eventually, you'll win.
 
 
 FINAL MISSION - Dream Boxing
@@ -2386,16 +2696,22 @@ TIPS - Try to dodge as many of
 "Peach"'s attacks, and counter
 them all. If
  she uses her special attack and
- to use yours to counter hers. S
- countering her special attacks 
- moves is the best way to defeat
+ you have one of your own, be
+ sure to use yours to counter
+ hers. She is tougher than she
+ looks, but countering her
+ special attacks and trying to
+ dodge most of her moves is the
+ best way to defeat her.
 
 
 WHEN SHOULD YOU USE HER? For
 events that require running and
 involve
-      stamina, but she is also g
-      require jumping. Circuits 
+      stamina, but she is also
+      good at events which
+      require jumping. Circuits
+      which require limited
 power will be good for her, too.
 
 
@@ -2421,10 +2737,13 @@ OBJECTIVE - "Earn 3rd place!"
 TIPS - Start by giving it
 everything you've got. On your
 way back, be
- sure to keep track of your curr
- until you're in the third place
- everything you got again, and y
- objective.
+ sure to keep track of your
+ current position, and hold
+ yourself until you're in the
+ third place. When that happens,
+ start giving it everything you
+ got again, and you'll manage to
+ complete this objective.
 
 
 MISSION EVENT - Triple Jump
@@ -2435,7 +2754,9 @@ and 15m!"
 TIPS - start with a fair run.
 Then, aim at angles around
 30~40º and, if
- you're lucky, you may be able t
+ you're lucky, you may be able
+ to do this one without much
+ effort.
 
 
 MISSION EVENT - Archery
@@ -2447,7 +2768,8 @@ order!"
 TIPS - Simply do what you're
 told. Easy, hum? Sure, there's
 some wind, but
- with a bit of practice it becom
+ with a bit of practice it
+ becomes easier to do.
 
 
 MISSION EVENT - Table Tennis
@@ -2458,7 +2780,8 @@ using spin shots."
 TIPS - Basically, you have to
 score five points by using shots
 from either
- your "A" or "Y" buttons, which 
+ your "A" or "Y" buttons, which
+ is rather easy to do.
 
 
 MISSION EVENT - Dream Basketball
@@ -2469,8 +2792,9 @@ points in 10 consecutive shots!"
 TIPS - Throw 10 balls into the
 baskets to quickly end this one,
 but be
- sure to release the ball ONLY w
- will score that shot.
+ sure to release the ball ONLY
+ when you're absolutely sure
+ that you will score that shot.
 
 
 FINAL MISSION - Dream Race
@@ -2481,18 +2805,25 @@ he's in top condition!"
 TIPS - Race as you'd normally
 do, but always take the left
 path on the
- bifurcation. Try to jump over a
- items in the way that better be
- for example, if you have a bomb
- simply throw it away), and alwa
- maximum possible value.
+ bifurcation. Try to jump over
+ all the spiky walls, use the
+ acquired items in the way that
+ better beneficts your current
+ situation (if, for example, if
+ you have a bomb and you're in a
+ clear first place, simply throw
+ it away), and always try to
+ keep your speed at its maximum
+ possible value.
 
 
 WHEN SHOULD YOU USE HIM? During
 events that require speed and
 stamina,
-      such as 400m (normal and h
-      cycling. Circuits which re
+      such as 400m (normal and
+      hurdles ones) ones or
+      cycling. Circuits which
+      require limited stamina
      and power are ok, too.
 
 
@@ -2531,8 +2862,9 @@ time!"
 TIPS - Usually with the same
 angle (I always try to aim at
 around 45º),
- give an initial run with differ
- this one.
+ give an initial run with
+ different speeds and you'll
+ manage to do this one.
 
 
 MISSION EVENT - 10m Platform
@@ -2543,9 +2875,13 @@ combo with command inputs!"
 TIPS - For the initial jump, try
 to make it as big as possible,
 and then
- fulfill the entire button seque
- easier to do if you realise tha
- cyclic, and that the buttons yo
+ fulfill the entire button
+ sequence seen in your screen.
+ It is easier to do if you
+ realise that the available
+ sequences are always cyclic,
+ and that the buttons you have
+ to press tend to repeat
  themselves rather frequently.
 
 
@@ -2557,9 +2893,13 @@ seconds of Peach!"
 TIPS - You don't have to win
 this one, just accomplish the
 objective
- stated above. So, instead of tr
- "Peach"'s current position and 
- and she cross the finish line n
+ stated above. So, instead of
+ trying to win it, always
+ monitor "Peach"'s current
+ position and try to keep up
+ with her, so that you and she
+ cross the finish line next to
+ each other.
 
 
 MISSION EVENT - Dream Shooting
@@ -2570,9 +2910,13 @@ back from a 200-point deficit!"
 TIPS - Try to score as many
 points as quickly as possible,
 hitting lots of
- combos and as many ballons as p
- the points that your enemies ha
- final result depends heavily on
+ combos and as many ballons as
+ possible, since they also
+ decrease the points that your
+ enemies have. This is an hard
+ event, and your final result
+ depends heavily on who you're
+ confronting.
 
 
 FINAL MISSION - Table Tennis
@@ -2583,7 +2927,9 @@ she's in top condition!"
 TIPS - Try to hit as many quick
 moves as possible, and your
 opponent will
- soon start missing the ball, al
+ soon start missing the ball,
+ allowing you to score some
+ points.
 
 
 WHEN SHOULD YOU USE HER? When
@@ -2616,8 +2962,11 @@ finish in 1st place!"
 TIPS - Try to do exactly what
 you're told, doing a starting
 dash that
- allows you to be the first one 
- From there on, just give it "So
+ allows you to be the first one
+ departing from the starting
+ line. From there on, just give
+ it "Sonic"'s all and you'll be
+ fine.
 
 
 MISSION EVENT - Triple Jump
@@ -2629,10 +2978,15 @@ degrees!"
 TIPS - The biggest problem here
 is getting that specific
 combination
- angle/distance. Try to inspire 
- followed by a dash as quick as 
- nothing I can help you with - k
- or later you'll manage to do th
+ angle/distance. Try to inspire
+ your character as much as
+ possible, followed by a dash as
+ quick as possible. As for the
+ angles, there's nothing I can
+ help you with - keep on trying
+ and practising, sooner or later
+ you'll manage to do this
+ extremely hard task.
 
 
 MISSION EVENT - 400m Hurdles
@@ -2643,10 +2997,15 @@ jumps!"
 TIPS - Give it all of "Sonic"'s
 speed, and once you're next to a
 hurdle
- you must simply tap the console
- jump. Obviously, at such a time
- instead focusing on jumping - i
- that you have to repeat seven t
+ you must simply tap the
+ console's lower screen, which
+ makes him jump. Obviously, at
+ such a time you should stop
+ rubbing the screen, instead
+ focusing on jumping - if done
+ correctly, this is the action
+ that you have to repeat seven
+ times, which isn't that hard.
 
 
 MISSION EVENT - Dream Boxing
@@ -2658,9 +3017,14 @@ TIPS - Instead of protecting
 yourself, try to dodge the
 attacks as quickly
  as possible. You can either try
- (which is slightly hard to do) 
- effective but may work better -
- right, left, right is perhaps m
+ to predict the opponent's moves
+ (which is slightly hard to do)
+ or stick to a pattern, which is
+ less effective but may work
+ better - something among the
+ lines of left, right, left,
+ right is perhaps more effective
+ than it sounds.
 
 
 MISSION EVENT - Dream Fencing
@@ -2673,12 +3037,19 @@ the
 TIPS - Always try to push the
 opponent to his corner, and then
 either
- parry his attacks or let yourse
- your special bar. When it is fu
- associated to it is higher or e
- special to throw the opponent o
- works if the opponent is next t
- suffer some damage. Repeat unti
+ parry his attacks or let
+ yourself be hit by them, in
+ order to raise your special
+ bar. When it is full enough
+ (i.e. if the number associated
+ to it is higher or equal to
+ one), quickly use your special
+ to throw the opponent out of
+ the ring. Be aware this only
+ works if the opponent is next
+ to his corner, or else he will
+ just suffer some damage. Repeat
+ until you're done.
 
 
 FINAL MISSION - 400m
@@ -2689,9 +3060,12 @@ he's in top condition!"
 TIPS - The basic idea here is to
 try to keep your speed as high
 as
- possible, but without ever spen
- that "Sonic"'s greatest flaw is
- you will be able to win without
+ possible, but without ever
+ spending any stamina. Bearing
+ in mind that "Sonic"'s greatest
+ flaw is his lack of stamina, by
+ doing so you will be able to
+ win without much effort.
 
 
 WHEN SHOULD YOU USE HIM?
@@ -2724,7 +3098,9 @@ hurdle!"
 TIPS - This is an easy one,
 focus on jumping over all the
 hurdles, which
- you can do in the usual fashion
+ you can do in the usual
+ fashion, and you'll easily get
+ across it.
 
 
 MISSION EVENT - Trampoline
@@ -2747,8 +3123,11 @@ TIPS - Since the requisites for
 "great" jumps appear not to have
 been set
  in stone, this ends up being an
- really quick dashes and angles 
- be able to do it.
+ hard mission. Keep on trying,
+ using really quick dashes and
+ angles close to 45º, and
+ eventually you may be able to
+ do it.
 
 
 MISSION EVENT - Dream Table
@@ -2762,14 +3141,26 @@ TIPS - Here, it's all a matter
 of whom you're facing, since
 some special
  moves are harder to return than
- is close to impossible, while "
- easier to hit back. Keep on get
- one that you can predict, and d
- tip that you can use - return t
- when the third one is approachi
- special attack. If done correct
- special shot with one of your o
- than simply use yet another nor
+ others. "Tails"' one, for
+ example, is close to
+ impossible, while "Bowser"'s
+ (or "Luigi"'s) one is much
+ easier to hit back. Keep on
+ getting new characters until
+ you find one that you can
+ predict, and defeat him. Also,
+ there is a small tip that you
+ can use - return the first two
+ shots normally, and when the
+ third one is approaching your
+ character be sure to use her
+ special attack. If done
+ correctly, this will return the
+ opponent's special shot with
+ one of your own, which is
+ perhaps easier to do than
+ simply use yet another normal
+ return.
 
 
 MISSION EVENT - Dream Shooting
@@ -2782,15 +3173,25 @@ flower
 TIPS - You just need to be
 specially careful with "Tails"'
 ballons, since
- those have the same colour as "
- always look for the flower on t
- part of the level is indeed eas
- to shot down 12 baloons with 10
- becomes a lot easier if, by the
- and there are no balloons cross
- the content of your weapon and 
- will lose this level, since you
- balloons that will later be see
+ those have the same colour as
+ "Daisy"'s - yellow - and you
+ should always look for the
+ flower on the baloon before
+ shooting. The first part of the
+ level is indeed easy, but the
+ second one requires you to shot
+ down 12 baloons with 10 bullets
+ - a hard task, which becomes a
+ lot easier if, by the time you
+ have a few bullets left and
+ there are no balloons crossing
+ the screen, you quickly release
+ the content of your weapon and
+ reload it - unless you do that,
+ you will lose this level, since
+ you won't have enough bullets
+ for the balloons that will
+ later be seen in your screen.
 
 
 FINAL MISSION - 100m Freestyle
@@ -2801,8 +3202,9 @@ she's in top condition!"
 TIPS - Simply do what you'd
 normally do and, provided you
 move the stylus
- as quickly as you can and resto
- will easily win.
+ as quickly as you can and
+ restore your stamina when
+ required, you will easily win.
 
 
 WHEN SHOULD YOU USE HER? For
@@ -2834,10 +3236,15 @@ TIPS - The only way to achieve
 this objective is by performing
 a good
  starting dash, which will allow
- "Sonic". If you fail that part 
- quickly end up in front of you 
- have to dash as quickly as you 
- these two have the same speed, 
+ you to quickly be in front of
+ "Sonic". If you fail that part
+ of the event, your opponent
+ will quickly end up in front of
+ you and you'll lose. Next, you
+ just have to dash as quickly as
+ you can - if done correctly,
+ and since these two have the
+ same speed, you will win.
 
 
 MISSION EVENT - Javelin Throw
@@ -2849,7 +3256,8 @@ row for a total of at least
 TIPS - Not very difficult, just
 perform the quickest dash you
 can and try
- to throw the javelin in an angl
+ to throw the javelin in an
+ angle of around 45º.
 
 
 MISSION EVENT - Cycling
@@ -2860,11 +3268,17 @@ stamina!"
 TIPS - You face this event
 alone, which makes it a lot
 easier. Instead of
- rushing across the stage, simpl
- stamina as quickly as possible.
- pieces of stamina in a single l
- two laps, with the second one s
- have missed in your first one.
+ rushing across the stage,
+ simply take your time, and try
+ to get the stamina as quickly
+ as possible. It's not
+ impossible to collect all
+ pieces of stamina in a single
+ lap, but it's easier if you do
+ it in two laps, with the second
+ one serving for the items that
+ you may have missed in your
+ first one.
 
 
 MISSION EVENT - Dream Fencing
@@ -2875,10 +3289,14 @@ attack as your final move!"
 TIPS - Attack as usual, but be
 sure to store at least one
 special attack
- for the end. When you see that 
- enough, i.e. when one or two ex
- get close to him/her and launch
- will probably end this stage.
+ for the end. When you see that
+ your opponent is actually weak
+ enough, i.e. when one or two
+ extra jabs would defeat it,
+ simple get close to him/her and
+ launch your special attack, an
+ action that will probably end
+ this stage.
 
 
 MISSION EVENT - Dream Race
@@ -2889,11 +3307,17 @@ your opponents."
 TIPS - Instead of rushing across
 the stage, focus on getting new
 items to
- throw at your opponents. Red an
- specially good to throw the opp
- on, the only opponents left are
- can do so by hitting the green 
- and wait until they are in fron
+ throw at your opponents. Red
+ and green shells, for example,
+ are specially good to throw the
+ opponents in front of you. If,
+ later on, the only opponents
+ left are behind you, reduce
+ your speed (you can do so by
+ hitting the green walls or the
+ limits of the stage) and wait
+ until they are in front of you
+ to throw them some item.
 
 
 FINAL MISSION - Dream Shooting
@@ -2904,14 +3328,17 @@ he's in top condition!"
 TIPS - Perform this event as
 you'd normally do, but be aware
 that "Luigi"
- is slightly faster than he woul
+ is slightly faster than he
+ would normally be.
 
 
 WHEN SHOULD YOU USE HIM? Just
 like a certain friend of his,
 this is a
-      character that you should 
-      circuits) that only requir
+      character that you should
+      use in events (or
+      circuits) that only
+      require a lot of speed.
 
 
 
@@ -2941,7 +3368,10 @@ TIPS - You can neglect the other
 parts of this events, but after
 the
  command input you should simply
- looking up and then quickly pre
+ wait until your character is
+ looking up and then quickly
+ press "A". It's all a matter of
+ timing.
 
 
 MISSION EVENT - Table Tennis
@@ -2954,9 +3384,12 @@ your
 TIPS - Play this event as you
 would normally do, but don't let
 your
- opponent get more than three po
- you. This is easier to do if yo
- this event, such as "Bowser".
+ opponent get more than three
+ points, just like the objective
+ tells you. This is easier to do
+ if you're facing characters
+ weaker at this event, such as
+ "Bowser".
 
 
 MISSION EVENT - Trampoline
@@ -2967,8 +3400,10 @@ performance commands!"
 TIPS - While in the air, try to
 correctly follow as many
 performance
- commands as possible. There's n
- do them all as quickly as possi
+ commands as possible. There's
+ no tip I can give you, simply
+ try to do them all as quickly
+ as possible.
 
 
 MISSION EVENT - Dream Basketball
@@ -2990,12 +3425,19 @@ within 60 seconds!"
 TIPS - The basic idea here is
 trying to get as many coins as
 possible,
- while collecting items that wil
- opponents. Keep on heading to i
- your way there, and as soon as 
- they will stalk your opponents 
- quickly. It's a matter of luck 
- and, sooner or later, you'll be
+ while collecting items that
+ will help take coins away from
+ your opponents. Keep on heading
+ to item points, getting new
+ coins on your way there, and as
+ soon as you get red shells use
+ them, since they will stalk
+ your opponents and give you
+ important coins quickly. It's a
+ matter of luck and timing, try
+ it a couple times and, sooner
+ or later, you'll be able to do
+ it.
 
 
 FINAL MISSION - 400m Hurdles
@@ -3006,17 +3448,23 @@ he's in top condition!"
 TIPS - There's not much I can
 advise you here, just try to do
 a good
- starting dash and maximize the 
- speed, lifting the stylus for a
- hurdle. Since your opponent isn
- difference victory and a loss r
- which may easily put you in fro
+ starting dash and maximize the
+ points at which you travel at
+ high speed, lifting the stylus
+ for a bit before attempting to
+ jump each hurdle. Since your
+ opponent isn't normally that
+ quick, the difference victory
+ and a loss relies only on your
+ starting dash, which may easily
+ put you in front of him.
 
 
 WHEN SHOULD YOU USE HIM? Mostly
 for the 400m hurdles event, or
 circuits
-      which rely heavily on runn
+      which rely heavily on
+      running events.
 
 
 
@@ -3042,8 +3490,10 @@ landing!"
 TIPS - It doesn't need to be
 "perfect", but your character
 must be left
- standing at the end of the jump
- feet will be standing and it wi
+ standing at the end of the
+ jump. Try to tap the place
+ where her feet will be standing
+ and it will go fine.
 
 
 MISSION EVENT - Long Jump
@@ -3054,9 +3504,13 @@ OBJECTIVE - "Jump between 6m and
 TIPS - It's more a matter of
 luck that anything else... a
 good idea ends
- up being the one of giving it y
- locked you should some meters b
- require some practise, but if d
+ up being the one of giving it
+ your all, and once your speed
+ is locked you should some
+ meters before the actual line -
+ it may require some practise,
+ but if done correctly you'll
+ have an easier
 time getting the required mark.
 
 
@@ -3069,7 +3523,10 @@ TIPS - Start with a jump as
 powerful as possible (as usual,
 hold the "A"
  button until the bar is filled)
- will appear. If you input the 1
+ and then input the sequence
+ that will appear. If you input
+ the 10 keys shown in there,
+ you'll win.
 
 
 MISSION EVENT - Fencing
@@ -3080,9 +3537,13 @@ up a point to your opponent!"
 TIPS - You may want to get an
 easy opponent for this one, such
 as "Bowser"
- or "Dr. Eggman". Next, attack a
- the opponent will never manage 
- seem weaker when you're facing 
+ or "Dr. Eggman". Next, attack
+ as much as you can and,
+ hopefully, the opponent will
+ never manage to hit you - for
+ some reason, they seem weaker
+ when you're facing this
+ mission.
 
 
 MISSION EVENT - Dream Shooting
@@ -3093,10 +3554,15 @@ consecutive hits!"
 TIPS - While facing this event,
 be sure to shot ONLY when you're
  absolutely sure that you'll hit
- and they'll even reset the coun
- all, you just have to shot ONLY
- something, and if you actually 
- stage rather easily.
+ something (no, shields won't
+ count, and they'll even reset
+ the counter). Your score isn't
+ important at all, you just have
+ to shot ONLY when you are going
+ to hit something, and if you
+ actually follow that advice you
+ will win this stage rather
+ easily.
 
 
 FINAL MISSION - Dream Table
@@ -3108,9 +3574,11 @@ in top condition!"
 TIPS - Even at "top condition",
 your opponent isn't much a
 threat. Simply
- demolish her as you'd normally 
- attack to counter the one of he
- fine.
+ demolish her as you'd normally
+ do, using "Peach"'s own special
+ attack to counter the one of
+ her opponent, and everything
+ will go fine.
 
 
 WHEN SHOULD YOU USE HER?
@@ -3142,8 +3610,10 @@ once!"
 TIPS - "Practice makes
 perfection", that's a phrase
 which fully applies
- here. You just have to hit all 
- able to easily do after trainin
+ here. You just have to hit all
+ the moving targets, which
+ you'll be able to easily do
+ after training a bit.
 
 
 MISSION EVENT - Vault
@@ -3156,8 +3626,10 @@ performance command
 TIPS - Be sure to press the
 jumper, an action which gives
 you more time to
- do the performance commands. Th
- you? It's not that hard to acco
+ do the performance commands.
+ Then, just don't do any
+ mistakes, will you? It's not
+ that hard to accomplish.
 
 
 MISSION EVENT - Trampoline
@@ -3181,7 +3653,9 @@ under strong
 TIPS - Practice this event
 before attempting to do this,
 and always keep
- track of the wind before unleas
+ track of the wind before
+ unleashing your arrow - failure
+ to do so
 will lead to your harsh defeat.
 
 
@@ -3194,13 +3668,22 @@ once!"
 TIPS - This ends up being way
 harder than it sounds. Since you
 don't have
- to win the race, simply wait un
- a significant part of the race 
- your goal. Try to jump while ru
- your opponents will throw items
- damage and will make you lose t
- green shield item, use it as qu
- actually protects you against d
+ to win the race, simply wait
+ until all your opponents have
+ reached a significant part of
+ the race before actually
+ attempting to reach your goal.
+ Try to jump while running, but
+ be aware that sometimes your
+ opponents will throw items at
+ you, which actually count as
+ damage and will make you lose
+ the event. Also, if you ever
+ get the green shield item, use
+ it as quickly as possible,
+ since that one actually
+ protects you against damage,
+ i.e. you may be damaged twice
  before losing.
 
 
@@ -3212,18 +3695,25 @@ he's in top condition!"
 TIPS - Even though you have
 three opponents while facing
 this event, be
- sure to remember that you just 
- the others. Get as many items a
- coins that your other opponents
- green dinosaur, since he is the
- try to dodge all the items thro
- important threat here.
+ sure to remember that you just
+ have to defeat "Yoshi", and
+ none of the others. Get as many
+ items as possible, and use them
+ to receive coins that your
+ other opponents may have
+ captured, specially the green
+ dinosaur, since he is the one
+ that matters the most. Also,
+ try to dodge all the items
+ thrown at you, since they are
+ also an important threat here.
 
 
 WHEN SHOULD YOU USE HIM? For
 table tennis, jumping events, or
 circuits
       which rely mostly on skill
+      and stamina.
 
 
 
@@ -3249,9 +3739,12 @@ handicap to win!"
 TIPS - Once more, it all comes
 up to characters that you are
 facing. Ones
- such as "Tails" are hard to def
- different opponents by exiting 
- which is actually worth a shot 
+ such as "Tails" are hard to
+ defeat, but remember that you
+ can get different opponents by
+ exiting this mode and later re-
+ entering it, which is actually
+ worth a shot here.
 
 
 MISSION EVENT - Shooting
@@ -3262,7 +3755,8 @@ targets only!"
 TIPS - Out of five targets,
 three of them are blue, and
 therefore this
- event depends only on your own 
+ event depends only on your own
+ skills.
 
 
 MISSION EVENT - Vault
@@ -3272,14 +3766,24 @@ OBJECTIVE - "Earn a 10.000!"
 TIPS - Asking for a perfect
 score, hum? Yes, this is as hard
 as it sounds,
- and it may take you quite a whi
- you are asked for in here. You 
- jumping, a time during which yo
- air, try to do all the motions 
- and you may want to try several
- available and how hard to compl
- without falling. If you follow 
- closer to that perfect score, b
+ and it may take you quite a
+ while to successfully
+ accomplish what you are asked
+ for in here. You need to have a
+ full dash before jumping, a
+ time during which you should
+ press the jumper. In the air,
+ try to do all the motions
+ you're asked for (they are
+ random, and you may want to try
+ several times to see all the
+ motions available and how hard
+ to complete they actually are)
+ and land without falling. If
+ you follow all these
+ guidelines, you'll be closer to
+ that perfect score, but
+ ultimately it also depends on
  your own personal skills.
 
 
@@ -3293,9 +3797,13 @@ TIPS - Aim at the best
 inspiration possible, do the
 best dash you can and
  try to get angles around 45º in
- practise for a while before you
- it isn't as hard as some of the
- characters are asked for.
+ all three jumps. You may have
+ to practise for a while before
+ you manage to do this entire
+ task, but it isn't as hard as
+ some of the Triple Jump events
+ that other characters are asked
+ for.
 
 
 MISSION EVENT - Dream Canoe
@@ -3307,9 +3815,13 @@ seconds!"
 TIPS - Move around for a bit,
 and try to conceal your position
 to the back
- of one of the big mountains. Be
- over without much effort - don'
- since they aren't helpful for t
+ of one of the big mountains.
+ Before you notice it, the time
+ will be over without much
+ effort - don't bother with
+ either coins or items, since
+ they aren't helpful for the
+ task you're trying to achieve.
 
 
 FINAL MISSION - Dream Fencing
@@ -3321,14 +3833,18 @@ TIPS - Really easy, just strike
 as much as you can, use your
 special move
  as soon as you attain one (this
- your opponent, and is effective
- later you'll win.
+ one throws a tetris-like block
+ at your opponent, and is
+ effective even at long range)
+ and sooner than later you'll
+ win.
 
 
 WHEN SHOULD YOU USE HIM? For
 events which require jumping,
 table tennis or
-      circuits which require hig
+      circuits which require
+      high skill and a lot of
             stamina.
 
 
@@ -3357,8 +3873,11 @@ TIPS - It may take you a while
 to master this one, but at least
 it is
  easier than doing triple jumps.
- dash, try to aim at an angle be
- it possible for you to easily r
+ After full inspiration and a
+ good dash, try to aim at an
+ angle between 50º and 60º,
+ which will make it possible for
+ you to easily reach this goal.
 
 
 MISSION EVENT - 400m
@@ -3371,12 +3890,19 @@ in 1st
 TIPS - This ends up being easier
 than it sounds, but it may also
 depend on
- who you're facing. Instead of l
- look at your stamina bar and fo
- being used, since that would le
- rubbing the lower screen, as yo
- do some slow rubs, as they make
+ who you're facing. Instead of
+ looking at your opponents,
+ constantly look at your stamina
+ bar and focus only on keeping
+ it from ever being used, since
+ that would lead to your defeat.
+ Instead of rubbing the lower
+ screen, as you'd normally do,
+ it is better if you do some
+ slow rubs, as they make it
+ easier to keep track on the
  speed bar, and easily allow you
+ to focus on the stamina issue.
 
 
 MISSION EVENT - Hammer Throw
@@ -3384,15 +3910,20 @@ MISSION EVENT - Hammer Throw
 OBJECTIVE - "Perform a
 successfull yell 3 throws in a
 row! (Make noise
-   towards the microphone when y
+   towards the microphone when
+   you see the "!" indicator.)"
 
 TIPS - How well you throw your
 hammer isn't important here.
 Instead,
- exactly after you throw it, you
- next to your character - when t
- sort of noise, either yelling o
- will do.
+ exactly after you throw it,
+ you'll see a small "!" sign
+ appearing next to your
+ character - when that happens,
+ quickly produce some sort of
+ noise, either yelling or
+ tapping the console's
+ microphone will do.
 
 
 MISSION EVENT - Javelin Throw
@@ -3403,10 +3934,15 @@ throw!"
 TIPS - In order to achieve that
 objective, you need to perform
 the best
- initial dash possible, along wi
- you should only throw the Javel
- to the line as possible. It may
- these sections, but it's not th
+ initial dash possible, along
+ with a throw angle of around
+ 45º, and you should only throw
+ the Javelin when your character
+ is as close to the line as
+ possible. It may take you a
+ while to master all these
+ sections, but it's not that
+ hard to do.
 
 
 MISSION EVENT - Dream Basketball
@@ -3416,10 +3952,14 @@ OBJECTIVE - "Score a basket!"
 TIPS - This one is also a very
 easy mission - you just have to
 score a
- single point, by throwing the b
- only problem is that they are m
- will be it - score once, even i
- strike, and you'll win.
+ single point, by throwing the
+ ball into one of the baskets.
+ The only problem is that they
+ are moving faster than usual,
+ and that will be it - score
+ once, even if it ends up being
+ with a lucky strike, and you'll
+ win.
 
 
 FINAL MISSION - Cycling
@@ -3430,9 +3970,13 @@ he's in top condition!"
 TIPS - The trick here is using
 "Waluigi"'s position to move
 faster without
- spending any of your own stamin
- reach the final lap, an action 
- dash. If done correctly, you'll
+ spending any of your own
+ stamina, and then surpass him
+ when you reach the final lap,
+ an action which you should
+ follow with a quick dash. If
+ done correctly, you'll be able
+ to defeat him without much
  effort.
 
 
@@ -3502,22 +4046,29 @@ events this game has to offer.
 2. When you see the word
    "Ready?" on the upper screen,
    press the lower screen with
-   your stylus. A fe that very
-   same place, quickly will
-   perform a good starting
+   your stylus. A few seconds
+   later, when "Go!" is seen in
+   that very same place, quickly
+   drag your stylus to the left
+   - doing so will perform a
+   good starting dash.
 
 3. Quickly drag your stylus from
    the left to the right side
    (and vice-versa) of the
-   screen. Th character will
-   run.
+   screen. The faster you drag
+   it, the quicker your
+   character will run.
 
 4. When you're reaching the
    finish line, you'll see a "!"
    symbol next to your
-   character. If, by then, side
-   of the screen, he will m
-   amount of time.
+   character. If, by then, you
+   quickly drag your stylus to
+   the right side of the screen,
+   he will move slightly faster
+   for a very short amount of
+   time.
 
 As you can now understand, this
 is probably one of the simplest
@@ -3550,32 +4101,48 @@ to cross the finish line.
 2. When you see the word
    "Ready?" on the upper screen,
    press the lower screen with
-   your stylus. A fe that very
-   same place, quickly will
-   perform a good starting
+   your stylus. A few seconds
+   later, when "Go!" is seen in
+   that very same place, quickly
+   drag your stylus to the left
+   - doing so will perform a
+   good starting dash.
 
 3. After the previous step,
    quickly drag the stylus from
    the left to the right side of
-   the screen, and your
-   character will run, but
+   the screen, and back. The
+   faster you drag it, the
+   quicker your character will
+   run, but your stamina will
+   also deplete faster.
 
 4. During the race, you should
    be specially careful with the
    bar seen in the upper left
-   corner of the speed. If it is
-   shown as betw bar, it will
-   mean that you're the small
-   heart seen next to it, simply
-   drag your stylus s yellow
+   corner of the upper screen,
+   which shows your current
+   speed. If it is shown as
+   between the yellow line and
+   the end of the bar, it will
+   mean that you're losing
+   stamina, which you can check
+   in the small heart seen next
+   to your character - in order
+   to regenerate it, simply drag
+   your stylus slower, to keep
+   your speed left of the yellow
    line.
 
 5. When you're reaching the
    finish line, you'll see a "!"
    symbol next to your
-   character. If, by then, side
-   of the screen, he will m
-   amount of time.
+   character. If, by then, you
+   quickly drag your stylus to
+   the right side of the screen,
+   he will move slightly faster
+   for a very short amount of
+   time.
 
 Optimal characters for this
 event would be either "Amy" or
@@ -3609,37 +4176,56 @@ reach the finish line.
 2. When you see the word
    "Ready?" on the upper screen,
    press the lower screen with
-   your stylus. A fe that very
-   same place, quickly will
-   perform a good starting
+   your stylus. A few seconds
+   later, when "Go!" is seen in
+   that very same place, quickly
+   drag your stylus to the left
+   - doing so will perform a
+   good starting dash.
 
 3. After the previous step,
    quickly drag the stylus from
    the left to the right side of
-   the screen, and your
-   character will run, but
+   the screen, and back. The
+   faster you drag it, the
+   quicker your character will
+   run, but your stamina will
+   also deplete faster.
 
 4. During the race, you should
    be specially careful with the
    bar seen in the upper left
-   corner of the speed. If it is
-   shown as betw bar, it will
-   mean that you're the small
-   heart seen to your simply
-   drag your stylus slowe line.
+   corner of the upper screen,
+   which shows your current
+   speed. If it is shown as
+   between the yellow line and
+   the end of the bar, it will
+   mean that you're losing
+   stamina, which you can check
+   in the small heart seen to
+   your character - in order to
+   regenerate it, simply drag
+   your stylus slower, to keep
+   your speed left of the yellow
+   line.
 
 5. When a hurdle is seen next to
    your character, tap stop
    dragging the stylus and give
-   a quick tap t your character
-   jump over the
+   a quick tap to the lower
+   screen. Doing so will make
+   your character jump over the
+   hurdle.
 
 6. When you're reaching the
    finish line, you'll see a "!"
    symbol next to your
-   character. If, by then, side
-   of the screen, he will m
-   amount of time.
+   character. If, by then, you
+   quickly drag your stylus to
+   the right side of the screen,
+   he will move slightly faster
+   for a very short amount of
+   time.
 
 You can actually manage to beat
 this event with characters such
@@ -3665,24 +4251,37 @@ three attempts to do so.
 2. Before the actual event, you
    can clap your hands (or give
    small touches in the
-   microphone, if you're
-   character. I'm not sure if it
-   working, but you might as wel
+   microphone, if you're playing
+   in a public place) to inspire
+   your character. I'm not sure
+   if it really works or it's
+   just psychology working, but
+   you might as well do it. You
+   can skip it by pressing "B".
 
 3. Quickly drag the stylus from
    the left to the right side of
    the screen, and back, until
-   you see a "Sp arrow will show
-   up - quickly settle the angle
-   for your jum is probably the
-   best possible
+   you see a "Speed Locked"
+   message. Shortly after, a big
+   arrow will show up - quickly
+   move your stylus in that
+   direction to settle the angle
+   for your jump, counting from
+   an horizontal line - 45º is
+   probably the best possible
+   angle.
 
 4. You may want to time your
    jump, so that you leave the
    floor as close to the line as
-   possible, but be
-   disqualified. Other factors t
-   speed of your initial dash an
+   possible, but be careful not
+   to surpass it, or you'll be
+   disqualified. Other factors
+   that influenciate your final
+   result are the speed of your
+   initial dash and the actual
+   angle of your jump.
 
 You may want to try both "Amy"
 or "Dr. Eggman" for this event,
@@ -3711,35 +4310,48 @@ do so.
 2. Before the actual event, you
    can clap your hands (or give
    small touches in the
-   microphone, if you're
-   character. I'm not sure if it
-   working, but you might as wel
+   microphone, if you're playing
+   in a public place) to inspire
+   your character. I'm not sure
+   if it really works or it's
+   just psychology working, but
+   you might as well do it. You
+   can skip it by pressing "B".
 
 3. Quickly drag the stylus from
    the left to the right side of
    the screen, and back, until
-   you see a "Sp
+   you see a "Speed Locked"
+   message.
 
 4. A few seconds later, you'll
    see a big arrow. When you're
    next to the line, quickly
-   move your stylu for your
-   first jump. Once mor for all
+   move your stylus in that
+   direction to settle the angle
+   for your first jump. Once
+   more, 45º is probably the
+   best possible angle for all
    the jumps.
 
 5. Whenever your character
    touches the ground, quickly
    move your stylus, in order to
-   perform two other same way as
-   before.
+   perform two other jumps. The
+   angles are calculated in the
+   same way as before.
 
 6. You may want to time your
    jumps, so that you first
    leave the floor as close to
-   the line as possible you'll
-   be disqualified. Other result
-   are the speed of your three
-   jumps.
+   the line as possible, but be
+   careful not to surpass it, or
+   you'll be disqualified. Other
+   factors that influenciate
+   your final result are the
+   speed of your initial dash
+   and the angles of all your
+   three jumps.
 
 "Sonic" and "Dr. Eggman" are
 some of the best characters for
@@ -3766,20 +4378,26 @@ attempts to do so.
 2. Quickly drag the stylus from
    the left to the right side of
    the screen, and back, until
-   you see a "Sp
+   you see a "Speed Locked"
+   message.
 
 3. A few seconds later, you'll
    see a big arrow pointing to
    the lower left corner.
-   Quickly move your sty
-   instantly, another arrow will
+   Quickly move your stylus in
+   that direction and hold it.
+   Almost instantly, another
+   arrow will appear - when
+   you're nearer the the line,
    move it in that direction to
-   being the optimal value.
+   settle the angle of your
+   throw, with 45º being the
+   optimal value.
 
 4. Both the speed of your dash,
    the angle of the throw and
    the power of your character
-   influenciate t
+   influenciate the result.
 
 For this event, you may want to
 try characters who have a lot of
@@ -3806,15 +4424,22 @@ three attempts to do so.
 2. Draw circles with your
    stylus, as seen with the
    shiny circle, until a
-   countdown from three up to on
-   let your character give yet a
-   which will throw the hammer.
+   countdown from three up to
+   one appears. That countdown
+   reaches one, let your
+   character give yet another
+   spin, and then lift the
+   stylus, which will throw the
+   hammer.
 
 3. When the hammer is in the
    air, a small "!" will be seen
    next to your character. You
-   can either scr microphone, as
-   doing so appea hammer is
+   can either scream or give
+   gentle taps to the console's
+   microphone, as doing so
+   appears to increase the power
+   with which the hammer is
    thrown.
 
 Here, you may want to pick a
@@ -3855,34 +4480,47 @@ sounds.
 2. When all the five characters
    are in the podium, and you
    see the word "Ready?" on the
-   upper screen, A few seconds
-   later, when "Go sure to
-   quickly drag your sty good
-   starting dash.
+   upper screen, press the lower
+   screen with your stylus. A
+   few seconds later, when "Go!"
+   is seen in that very same
+   place, be sure to quickly
+   drag your stylus to the left
+   - doing so will perform a
+   good starting dash.
 
 3. When in the water, trace the
    shape seen in the lower
    screen. That shape changes
-   depending on the char get
-   it?), and doing so will m
-   will also lose his stamina qu
+   depending on the character
+   you're controlling
+   ("freestyle", you get it?),
+   and doing so will make your
+   character move faster, but he
+   will also lose his stamina
+   quicker.
 
 4. If your character is running
    out of stamina (which you can
    monitor by looking at the
-   heart placed n or "R". The
-   less stamina you
+   heart placed next to your
+   character), quickly press "L"
+   or "R". The less stamina you
+   have, the more this command
+   will restore.
 
 5. When you reach the other side
    of the pool, a small "!" will
    be seen next to your
-   character. When in order to
-   perform a quick d
+   character. When that happens,
+   quickly tap the lower screen
+   in order to perform a quick
+   dash on your way back.
 
 6. When you're going back to the
    right side of the swimming
    pool, keep on repeating the
-   very same shape
+   very same shape from before.
 
 Characters such as "Dr. Eggman"
 and "Peach" are your best option
@@ -3916,28 +4554,39 @@ total of the three jumps.
 2. When your character is on top
    of the platform, hold "A" to
    see a small bar reacting. Try
-   to have tha releasing the
+   to have that bar as filled as
+   possible before releasing the
    button.
 
 3. A few seconds later, when
    your character is in the air,
    you will see the appearance
-   of a certain c as possible,
-   but try not to m
+   of a certain combination of
+   buttons. Input it as quickly
+   as possible, but try not to
+   miss any keys at all.
 
 4. Shortly after, you'll see a
    small cutscene, which
    generally depicts your
-   current character scream that
-   happens, he/she will sta the
-   chance to press "A". Do s
-   down, directly over the verti
+   current character screaming,
+   or something among those
+   lines. Once that happens,
+   he/she will start spinning
+   around, and you'll be offered
+   the chance to press "A". Do
+   so ONLY when your character
+   is looking down, directly
+   over the vertical axis, for
+   best results.
 
 5. The last part is specially
    important, since a bad angle
    will heavily hurt your score,
-   but all part of points,
-   depending on how g
+   but all parts of this event
+   give you a certain number of
+   points, depending on how good
+   you performed them.
 
 When it comes to picking someone
 to face this event, "Tails" and
@@ -3976,21 +4625,28 @@ between 0 and 10.
 2. When your character starts
    the event, give him some
    quick upward drags whenever
-   he touches the tramp the
-   level will proceed.
+   he touches the trampoline.
+   When he reaches a certain
+   height, the level will
+   proceed.
 
 3. Each time your character is
    in the air, try to use your
    stylus to quickly mime the
-   forms shown to the
-   trampoline, give him a
+   forms shown in the screen.
+   Whenever he goes back down to
+   the trampoline, give him
+   another upward drag.
 
 4. It is possible to perform up
    to 30 jumps, but you should
    be aware that the sequences
-   you must input of jumps, and
-   even if that do make it
-   harder to achieve cer
+   you must input become harder
+   as you increase your number
+   of jumps, and even if that
+   doesn't penalize your final
+   score, it may make it harder
+   to achieve certain scores.
 
 Strangely, the character you
 pick for this event doesn't seem
@@ -4019,27 +4675,43 @@ in those two attempts.
 2. Start by quickly (as quickly
    as possible!) dragging the
    stylus from the left to the
-   right side of the Very, very
-   soon you will see rapid "!"
-   sign when he reches perform a
-   good jump, which ma next
+   right side of the screen,
+   until the speed bar is
+   filled. Very, very soon you
+   will see the vault (your
+   character will display a
+   rapid "!" sign when he reches
+   it), and you MUST quickly tap
+   it to perform a good jump,
+   which makes it possible to
+   effectively play the next
    part.
 
 3. When you're in the air,
    you'll see some shapes, with
    a number in each of their
-   vertices. What you h in an
-   increasing order (from that
-   you must do it as quickl each
+   vertices. What you have to do
+   is quickly tap those
+   vertices, in an increasing
+   order (from one up to the
+   highest number), be aware
+   that you must do it as
+   quickly as possible, and You
+   will gain points by each
    tapped vertice.
 
 4. After you've done four
    different shapes, you'll
    start falling to the ground.
-   When you see your cha feet,
-   to make a perfect landi the
-   middle area of the bar th but
-   then you'll receive less
+   When you see your character
+   almost reaching the floor,
+   tap his feet, to make a
+   perfect landing. Be aware
+   that you may also quickly tap
+   the middle area of the bar
+   that will appear to get a
+   similar effect, but then
+   you'll receive less points.
 
 Once more, the character you
 pick for this event doesn't
@@ -4062,7 +4734,9 @@ in all those classical "Robin
 Hood" films, you can hit the
 center of bullseye to get 10
 points,
- with the other bigger circles a
+ with the other bigger circles
+ awarding you less points. In
+ the end, the
 goal is getting more points than
 all your opponents, during the
 12 shooting attempts that you
@@ -4074,16 +4748,24 @@ are allowed to make.
 2. When you start playing, drag
    the stylus down once, to pull
    the string of your bow. Next,
-   aim at the stylus to actually
-   send your
+   aim at the center of the
+   bullseye and lift your stylus
+   to actually send your arrow
+   flying towards its target.
 
 3. At first, this sounds simple,
    but as you advance further
    the environment will become
-   *magi to aim at the proper
-   location since it will make
-   it easier pointing your arrow
-   at, in or
+   *magically* more windy, and
+   it will be harder to aim at
+   the proper location. This is
+   where practice starts
+   mattering, since it will make
+   it easier for you to
+   understand where you should
+   be pointing your arrow at, in
+   order to hit the center of
+   the bullseye.
 
 Characters with high skill, such
 as "Tails" and ones with a lot
@@ -4133,41 +4815,69 @@ field.
 2. When you see the word
    "Ready?" on the upper screen,
    press the lower screen with
-   your stylus. A fe that very
-   same place, quickly screen -
-   doing so will perfor
+   your stylus. A few seconds
+   later, when "Go!" is seen in
+   that very same place, quickly
+   drag your stylus to the front
+   of the screen - doing so will
+   perform a good starting dash.
 
 3. Quickly drag your stylus from
    the left to the right side
    (and vice-versa) of the
-   screen. Th speed of your
-   character will stylus your
-   speed will be mai obstacle or
-   wall. If that hap again, by
-   repeating this acti
+   screen. The faster you drag
+   it, the quicker the speed of
+   your character will increase,
+   but if you stop dragging the
+   stylus your speed will be
+   maintained until you're hit
+   by an item, obstacle or wall.
+   If that happens, simply
+   increase your speed once
+   again, by repeating this
+   action.
 
 4. To move your character in the
    field, you can either press
    left and right (or "A" and
-   "Y"), and y tapping the lower
-   screen. Fai current speed of
-   your charact
+   "Y"), and you can jump over
+   obstacles by quickly tapping
+   the lower screen. Failure to
+   do so will slightly lower the
+   current speed of your
+   character.
 
 5. Eventually, you will see some
    boxes in the field - touching
    one of those awards you a
-   single ite item box spinning,
-   and after item you just
-   acquired: there limited
-   amount of time), a gr who is
-   in front of it), a red
-   (thrown in front of you, it e
-   it), a shield (protects you f
-   blocks in front of all your o
-   to the back of your character
-   items, simply tap the item bo
-   opponent character affected b
-   decreased.
+   single item. In the lower
+   screen, you'll see the item
+   box spinning, and after a
+   while it will stop, showing
+   you what item you just
+   acquired: there's a mushroom
+   (increases your speed for a
+   limited amount of time), a
+   green shell (flies forward,
+   hitting someone who is in
+   front of it), a red shell
+   (homes an opponent), a bomb
+   (thrown in front of you, it
+   explodes and damages those
+   who are next to it), a shield
+   (protects you from damage
+   once) and a block (which
+   drops blocks in front of all
+   your other opponents). All
+   effects can be sent to the
+   back of your character by
+   holding the "down" key. To
+   use these items, simply tap
+   the item box or press "L" (or
+   "R"), and be aware the
+   opponent character affected
+   by them will see his/her
+   speed heavily decreased.
 
 For this one, you may want to
 take the fastest possible
@@ -4194,30 +4904,52 @@ than done.
 2. Quickly drag your stylus up
    and down to increase the
    speed of your own canoe, and
-   control your direc "Y").
-   Tapping the lower scree
-   useful to avoid items thrown
+   control your direction by
+   using left and right (or "A"
+   and "Y"). Tapping the lower
+   screen makes your character
+   jump, which is useful to
+   avoid items thrown at you.
 
 3. Since the final goal is
    getting as many coins as
    possible, you should try to
-   locate them in the map
-   quickly head to those locatio
+   locate them in the map (they
+   show up as huge golden orbs)
+   and quickly head to those
+   locations.
 
 4. Eventually, you will see some
    boxes in the sea - touching
    one of those awards you a few
-   items. In th spinning, and
-   after a while i just
-   acquired: there are gree is
-   in front of it), a red she
-   (magically hits an opponent,
+   items. In the lower screen,
+   you'll see the item box
+   spinning, and after a while
+   it will stop, showing you
+   what items you just acquired:
+   there are green shell (flies
+   forward, hitting anyone who
+   is in front of it), a red
+   shell (homes opponents), a
+   blue winged shell (magically
+   hits an opponent, no matter
+   when they are), a star (makes
    you invencible for a limited
-   front of you, it explodes and
-   effects can be sent to the ba
-   key. To use an item, simply t
-   be aware the opponent charact
-   their coins, but the same hap
+   amount of time) and a bomb
+   (thrown in front of you, it
+   explodes and damages those
+   who are next to it). All
+   effects can be sent to the
+   back of your character by
+   holding the "down" key. To
+   use an item, simply tap the
+   item box or press "L" (or
+   "R"), and be aware the
+   opponent character affected
+   by them will lose some of
+   their coins, but the same
+   happens to you, if you're hit
+   with an item.
 
 Since this is an unusual event,
 I would suggest you use some
@@ -4247,39 +4979,64 @@ two different characters.
 2. Press "A" to give a straight
    punch with your right fist,
    "Y" to give a couple quick
-   punches with you increase the
-   power of those a strike your
-   opponent, with ea kind of
-   attack.
+   punches with your left fist,
+   and be aware that you can
+   increase the power of those
+   attacks by pressing up (or
+   down) as you strike your
+   opponent, with each
+   combination resulting in a
+   different kind of attack.
 
 3. You can also hold "L" (or
    "R") to protect from physical
    attacks, and dodge opponent's
-   punches by p own strikes.
+   punches by pressing left and
+   right in time with his own
+   strikes.
 
 4. Eventually, these actions
    will increase your special
    meter, and once it displays
-   (at least) one small your
-   special punch. If your o you,
-   you can quickly hold "L"
+   (at least) one small golden
+   ball, you can press "X" to
+   launch your special punch. If
+   your opponent throws this
+   kind of technique at you, you
+   can quickly hold "L" (or "R")
+   to defend it, suffering less
    damage. Also, be aware that
-   opponent) have at least one s
+   this move can countered, if
+   you (or your opponent) have
+   at least one special punch
+   left, which is easy to notice
    by looking at their gloves -
-   one special left. To counter
-   on the screen, which leads to
-   "A" as quickly as possible -
-   suffers no damage.
+   if they're sparkling, they
+   have at least one special
+   left. To counter it, simply
+   press "X" when a prompt
+   appears on the screen, which
+   leads to a small mini-game
+   where you have to tap "A" as
+   quickly as possible - the
+   winner damages his opponent
+   and suffers no damage.
 
 5. Each time somebody's health
    drops down to zero, that
    character will fall to the
-   ground, and his o a little
-   bit. If your charact
+   ground, and his opponent will
+   have his health increased for
+   a little bit. If your
+   character is in the ground,
+   you'll have to
 
-   quickly tap "A" to get him up
-   lose by KO, but if someone fa
-   will lose by TKO.
+   quickly tap "A" to get him
+   up. The character who fails
+   to get up will lose by KO,
+   but if someone falls to the
+   ground three times that
+   player will lose by TKO.
 
 This is the kind of event you
 should take a powerful character
@@ -4312,47 +5069,83 @@ a foul.
 2. Quickly drag the stylus from
    the left to the right side of
    the screen, and back, until
-   you see a "Sp arrow will show
-   up - when you quickly move
-   your stylus in t jump,
-   counting from an horizo
+   you see a "Speed Locked"
+   message. Shortly after, a big
+   arrow will show up - when you
+   are reaching the end of the
+   platform, quickly move your
+   stylus in that direction to
+   settle the angle for your
+   jump, counting from an
+   horizontal line - 45º is
+   generally the best.
 
 3. Depending on your speed and
    jump angle, you'll fly higher
    or lower in the sky. From
-   there on, use t right side,
-   such as "A", "B", your
-   character's glide. While
+   there on, use the control pad
+   (or the buttons on the right
+   side, such as "A", "B", "X"
+   and "Y") to control the
+   direction of your character's
+   glide. While left and right
+   control his movement
    direction, pressing up makes
-   down increases his speed but
+   him climb (and lose speed),
+   while pressing down increases
+   his speed but makes your
+   character approach the sea.
 
 4. Eventually, you will see the
    direction of the wind
    changing, and that's
-   something that you need to us
-   move in the direction of the
+   something that you need to
+   use for your advantage. If
+   possible, try to move in the
+   direction of the wind, as
+   doing so will help you move.
 
 5. It's easy to notice the
    presence of some rings in the
    field - just like what
-   happened in a certain cl
-   increases your speed. You can
-   the boxes seen floating on th
-   "L" (or "R") or tapping the p
-   event are a green shell (flie
-   shell (which homes one oppone
-   increases your speed for a wh
-   an emerald (raises wind that
-   (increases your speed). All e
-   character by holding the "dow
+   happened in a certain
+   classical Sega game, passing
+   through them increases your
+   speed. You can also pick up
+   items, by grabbing some of
+   the boxes seen floating on
+   the air, which you can later
+   use by pressing "L" (or "R")
+   or tapping the proper square.
+   The items included in this
+   event are a green shell
+   (flies in straight in front
+   of you), a red shell (which
+   homes one opponent), a star
+   (makes you invencible and
+   increases your speed for a
+   while), a shield (protects
+   you from damage), an emerald
+   (raises wind that affects all
+   opponents) and a boot
+   (increases your speed). All
+   effects can be sent to the
+   back of your character by
+   holding the "down" key.
 
 6. When you see that your
    character is getting too
    close to the ocean, you may
-   want to land in one of th the
-   ocean (which generally ha
+   want to land in one of the
+   small islands. If you land
+   too close to the ocean (which
+   generally happens in small
+   islands), you will have to
    quickly drag the stylus from
-   back) to prevent your charact
+   left to the right side of the
+   screen (and back) to prevent
+   your character from falling
+   in the water.
 
 All-Around characters, such as
 "Mario" or "Luigi", are probably
@@ -4385,29 +5178,49 @@ possible position.
 2. Start by tossing the ball,
    which you can do by pressing
    "A" (or either "B" and "Y").
-   Next, you can m same keys,
-   and when you and y each
-   other, each of the contr of
+   Next, you can move left and
+   right by pressing those very
+   same keys, and when you and
+   your opponent are returning
+   the ball to each other, each
+   of the controls stated above
+   perform a different kind of
    shot - "A" spins the ball
-   correctly timing it, you'll d
-   ball left. Also, you can chan
-   left (or right) while you are
+   right, "B" performs a
+   straight hit (by correctly
+   timing it, you'll do a fast
+   smash shot) and "Y" spins the
+   ball left. Also, you can
+   change the direction of the
+   ball by pressing left (or
+   right) while you are
+   returning it.
 
 3. As you return the ball, and
    depending on the shots you
    perform, your special bar
-   will increase, ad you have at
-   least one golden special
-   attack, with its effe playing
+   will increase, adding golden
+   balls to your character. When
+   you have at least one golden
+   ball up, you can press "X" to
+   unleash a special attack,
+   with its effect depending on
+   the character you're playing
    with.
 
 4. You can easily see a counter
    increasing its value as you
    and your opponent return the
-   ball - wh surpass the
-   opponent, he will that
-   counter. Be sure to noti to
+   ball - when one of you
+   manages to make the ball
+   surpass the opponent, he will
+   gain the number of points
+   mentioned on that counter. Be
+   sure to notice that you can
+   use your own special move to
    counter the effect of the
+   opponent's one, if you
+   properly time it.
 
 "Tails" and "Waluigi", due to
 their amazing special shot and
@@ -4442,19 +5255,32 @@ possible position.
 2. Use left and right (or "Y"
    and "A") to move your
    character, and you can
-   double-tap those keys in orde
-   attack, simply slide your sty
-   that you can also slide your
-   parry the attacks of your opp
+   double-tap those keys in
+   order to give a quick step.
+   In order to attack, simply
+   slide your stylus towards the
+   opponent, but be aware that
+   you can also slide your
+   stylus up, which makes your
+   character parry the attacks
+   of your opponent, which
+   shortly stuns him and leaves
    him open for a free attack.
 
 3. When one of your special
    meters is filled, you can
    slide your stylus down in
-   order to launch your on who
-   you're playing with, a corner
-   he may get throw out o also
-   delay the attack by not down.
+   order to launch your special
+   attack, with its effect
+   depending on who you're
+   playing with, and if you do
+   that next to the opponent's
+   corner he may get throw out
+   of the field, causing extra
+   damage. You can also delay
+   the attack by not lifting the
+   stylus, after dragging it
+   down.
 
 "Dr. Eggman" and "Waluigi", due
 to their stats and amazing
@@ -4487,31 +5313,55 @@ the end of the event.
 2. Move your crosshair by
    dragging your stylus across
    the lower screen, and shoot
-   by pressing "L" (or left, and
-   even if they are re their
-   position, you may want
-   bullets in the most important
+   by pressing "L" (or "R").
+   Keep track of the bullets you
+   have left, and even if they
+   are restored each time the
+   characters change their
+   position, you may want to
+   manage them so that you
+   always have bullets in the
+   most important times of the
+   event. Once you run out of
    shells, you can quickly drag
-   of the center of screen, and
+   the stylus from the left to
+   the right side of the center
+   of screen, and back, to
+   reload your weapon.
 
 3. Unusual enemies are worth
    more points than the robots
    that constantly come to the
-   screen, and you s Hitting
-   balloons also give yo you to
-   steal points from your
-   somebody else's. Another way
-   combos, which is done by scor
-   a single shot.
+   screen, and you should use
+   them to get more points
+   quickly. Hitting balloons
+   also give you extra points,
+   and doing so even ables you
+   to steal points from your
+   opponents, if you hit
+   balloons which are somebody
+   else's. Another way of
+   getting more points is
+   performing combos, which is
+   done by scoring consecutive
+   hits without ever missing a
+   single shot.
 
 4. As you progress across the
    three parts of the event,
    you'll see the usual item
-   boxes. They always look for
-   mushrooms (increase you
-   limitless ammo for a shor
-   damage to everything in its s
-   power of your shots).
+   boxes. They always benefict
+   your characters, and you
+   should look for mushrooms
+   (increase the size of your
+   crosshair), stars (give you
+   limitless ammo for a short
+   amount of time), bombs
+   (explode, giving damage to
+   everything in its
+   surroundings) and balloons
+   (double the power of your
+   shots).
 
 Characters with a lot of power,
 such as "Bowser" or "Knuckles",
@@ -4545,22 +5395,37 @@ saved.
 2. When you see a ball coming in
    your direction, touch it with
    your stylus in order for your
-   character t (the lenght of
-   your slide con want to throw
-   the ball in. If multiple
-   baskets, which you c you'll
-   get extra points.
+   character to grab it. Next,
+   slide the stylus upward (the
+   lenght of your slide controls
+   the strenght), in the
+   direction you want to throw
+   the ball in. If you manage to
+   get a single ball inside
+   multiple baskets, which you
+   can do when they cross each
+   other's paths, you'll get
+   extra points.
 
 3. Once in a while, you may see
    some balls that come with a
    sticker. Those are items, and
-   grant you spec the baskets
-   bigger for a whil balls), an
-   emerald (speeds op which
-   makes it impossible for
-   basket) and a balloon (aligns
-   time). You may also see golde
-   points you get from them.
+   grant you special effects -
+   there's a mushroom (makes the
+   baskets bigger for a while),
+   a star (you'll receive more
+   golden balls), an emerald
+   (speeds opponent's baskets
+   and summons a "Boo", which
+   makes it impossible for an
+   opponent to score in a
+   particular basket) and a
+   balloon (aligns all the
+   baskets for a short amount of
+   time). You may also see
+   golden balls, which simply
+   triple the number of points
+   you get from them.
 
 All characters seem to be good
 at this sort of event, but
@@ -4598,13 +5463,23 @@ position.
 2. Start by tossing the ball,
    which you can do by pressing
    "A" (or either "B" and "Y").
-   Next, you can m same keys,
-   and when you and y each
-   other, each of the contr of
+   Next, you can move left and
+   right by pressing those very
+   same keys, and when you and
+   your opponent are returning
+   the ball to each other, each
+   of the controls stated above
+   perform a different kind of
    shot - "A" spins the ball
-   correctly timing it, you'll d
-   ball left. Also, you can chan
-   left (or right) while you are
+   right, "B" performs a
+   straight hit (by correctly
+   timing it, you'll do a fast
+   smash shot) and "Y" spins the
+   ball left. Also, you can
+   change the direction of the
+   ball by pressing left (or
+   right) while you are
+   returning it.
 
 "Tails" and "Waluigi", due to
 their high skill, are probably
@@ -4638,10 +5513,16 @@ position.
 2. Use left and right (or "Y"
    and "A") to move your
    character, and you can
-   double-tap those keys in orde
-   attack, simply slide your sty
-   that you can also slide your
-   parry the attacks of your opp
+   double-tap those keys in
+   order to give a quick step.
+   In order to attack, simply
+   slide your stylus towards the
+   opponent, but be aware that
+   you can also slide your
+   stylus up, which makes your
+   character parry the attacks
+   of your opponent, which
+   shortly stuns him and leaves
    him open for a free attack.
 
 "Luigi" and "Peach", with a lot
@@ -4671,21 +5552,29 @@ the most points wins.
 2. As soon as the event starts,
    call for targets by pressing
    "A", tapping the lower screen
-   or simply ye unnecessary, but
-   in case you took to do this
-   is actually t
+   or simply yelling to the
+   console. This is usually
+   unnecessary, but in case you
+   tie with another character
+   the time you took to do this
+   is actually the tie-breaker.
 
 3. Move your crosshair by
    dragging your stylus across
    the lower screen, and shoot
-   by pressing "L" (or single
-   bullet on each target,
+   by pressing "L" (or "R"), but
+   be aware you can only spend a
+   single bullet on each target,
+   since you can't reload your
+   weapon.
 
 4. When your crosshair is on top
    of a target, it will turn
    yellow. When you see that,
-   quickly shoot a every target
-   across the eight
+   quickly shoot and you'll
+   destroy the target. Repeat
+   for every target across the
+   eight different stations.
 
 All-around characters, such as
 "Mario" or "Luigi", seem just
@@ -4713,28 +5602,44 @@ position.
 2. When you see the word
    "Ready?" on the upper screen,
    hold "L" and "R" to build up
-   some power. A few se that
-   very same place, quickly take
-   off.
+   some power. A few seconds
+   later, when "Go!" is seen in
+   that very same place, quickly
+   release those two buttons to
+   have a quick take off.
 
 3. Alternate between "L" and "R"
    to pedal, just like you would
    do on a real bike. While
-   doing so, yo pad to change
-   your course. Be quicker you
-   will run out of s specially
-   careful with the ba upper
-   screen, which shows you the
-   yellow line and the end o
+   doing so, you can press left
+   and right on the control pad
+   to change your course. Be
+   aware that the faster you
+   pedal the quicker you will
+   run out of stamina, and
+   therefore you should be
+   specially careful with the
+   bar seen in the upper left
+   corner of the upper screen,
+   which shows your current
+   speed. If it is shown as
+   between the yellow line and
+   the end of the bar, it will
+   mean that you're losing
    stamina, which you can check
-   character - in order to regen
-   the heart-shaped items placed
+   in the small heart seen next
+   to your character - in order
+   to regenerate it, simply
+   pedal slower or collect the
+   heart-shaped items placed
+   along the track.
 
 4. If you're running below your
    opponent, be aware that you
    can move behind his current
-   position t spending any
-   stamina.
+   position to win some extra
+   speed and stop you from
+   spending any stamina.
 
 Picking the best character for
 this event depends on how you
@@ -4769,8 +5674,11 @@ have this
 A: No, there isn't. The closest
 thing that this game has to
 offer is the
-   "Nintendo WFC Rankings" optio
-   records with those of other p
+   "Nintendo WFC Rankings"
+   option, which allows you to
+   compare your own records with
+   those of other players from
+   all over the world.
 
 
 Q: You're mentioning an event
@@ -4781,7 +5689,8 @@ unlock [insert
 A: Simply play across the entire
 "Circuit" mode, and sooner or
 later you
-   will unlock all the events th
+   will unlock all the events
+   this game has to offer.
 
 
 Q: This mission is way too hard,
@@ -4790,8 +5699,11 @@ can't you help me?
 A: Apart from the tips mentioned
 above, there's not much else I
 can tell
-   you, sorry. Also, be aware th
-   and even I have some trouble 
+   you, sorry. Also, be aware
+   that some missions are
+   frustratingly hard, and even
+   I have some trouble facing
+   them.
 
 
 Q: What is the difference
@@ -4802,8 +5714,10 @@ acquired from
 A: While normal medals respect
 the rules of the Olympic Games,
 and come as
-   gold, silver and bronze, the 
-   rankings instead, 1st, 2nd an
+   gold, silver and bronze, the
+   ones you get from "Dream"
+   events have rankings instead,
+   1st, 2nd and 3rd.
 
 
 That's all for now...
@@ -4817,22 +5731,37 @@ people:
 
 - Everyone who made this game;
 
-- Wikipedia, for the dates and g
+- Wikipedia, for the dates and
+  games where each character
+  first appeared;
 
-- Nintendo_Mania, for informatio
+- Nintendo_Mania, for
+  information on Vector's final
+  mission;
 
-- Firoz and Brian H., for inform
+- Firoz and Brian H., for
+  information on Mario's final
+  mission;
 
-- raimundowind95 and JKiii, for 
+- raimundowind95 and JKiii, for
+  information on Daisy's final
+  mission;
 
-- zr55, for information on Versu
+- zr55, for information on
+  Versus Play with multiple
+  carts;
 
-- RacerX, for noticing some mino
+- RacerX, for noticing some
+  minor problems in some
+  sections of this guide;
 
-- Everyone who mailed me on the 
+- Everyone who mailed me on the
+  "Gallery" section;
 
-- Everyone who likes my works, i
-  in this type of project.
+- Everyone who likes my works,
+  it's for those people that I
+  like to work in this type of
+  project.
 
 
 

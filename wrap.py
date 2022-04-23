@@ -19,7 +19,7 @@ def processLine(line: str, indent: int) -> str:
 		line = re.sub("^ +", lambda x: x[0][:len(x[0]) // 4], line)
 
 	# probably a horizontal rule, just cut it
-	if isHr(line):
+	if isHr(line) > .75:
 		line = line[:32]
 
 	return line
@@ -27,17 +27,17 @@ def processLine(line: str, indent: int) -> str:
 def isArt(line: str) -> float:
 	"""Returns the percentage of the line that seems like art"""
 
-	return len(re.findall(r"[_\-=+*|/\\^#\[\],.'\" ]", line)) / len(line) if len(line) > 0 else 0
+	return len(re.findall(r"[_\-=+~*:;|/\\^@#\[\],.'\" ]", line)) / len(line) if len(line) > 0 else 0
 
 def isHr(line: str) -> float:
 	"""Retruns the percentage of the line that seems like a horizontal rule"""
 
-	return len(re.findall(r"[\-=+* ]*", line)[0]) / len(line) if len(line) > 0 else 0
+	return len(re.findall(r"[\-=+~*: ]*", line)[0]) / len(line) if len(line) > 0 else 0
 
 def isBullet(line: str) -> int:
 	"""Returns the length of the bullet if the line looks like a bullet"""
 
-	match = re.findall(r"^ {0,8}(?:[0-9i]+(?:st|nd|rd|th)?(?:[.)]| -)|[-*=+•])+ ", line)
+	match = re.findall(r"^ {0,8}(?:[0-9i]+(?:st|nd|rd|th)?(?:[.)]| -)|[-*=+•])+ ?", line)
 	return len(match[0]) if len(match) > 0 else 0
 
 def lineIndent(line: str) -> int:

@@ -54,6 +54,7 @@ much as I did writing it.
 
 0~. Version History
     0.1~. Notes for the American
+      Version
 --------------------------------
 1~. Controls
     1.1~. Menus
@@ -105,10 +106,13 @@ much as I did writing it.
     3.9~. Extra Mission 3
     3.10~. Win Town
     3.11~. Special Missions
-  3.11.1~. Special Mission 1 (De
-  3.11.2~. Special Mission 2 (Ce
+  3.11.1~. Special Mission 1
+       (Deoxys)
+  3.11.2~. Special Mission 2
+       (Celebi)
 3.11.3~. Special Mission 3 (Mew)
-  3.11.4~. Special Mission 4 (Ma
+  3.11.4~. Special Mission 4
+       (Manaphy's Egg)
 4~. Acquirable Pokemon and their
 moves 5~. Frequently Asked
 Questions
@@ -125,73 +129,112 @@ EN~. Contacts
 - Fixed an important typo.
 
 -> version 1.6 <-
-- Added more information on the 
+- Added more information on the
+  Manaphy mission for European
+  users;
 -- Fixed some minor problems;
---- Added one more question to t
+--- Added one more question to
+    the FAQ.
 
 -> version 1.5 <-
-- Fixed the location where you c
+- Fixed the location where you
+  can find Machamp;
 -- Fixed Porygon's location;
 --- Fixed some minor typos.
 
 -> version 1.4 <-
-- Added information on the "Mana
--- Added one more question to th
+- Added information on the
+  "Manaphy Egg"'s quest;
+-- Added one more question to
+   the FAQ.
 
 -> version 1.3 <-
-- Added a lot more information o
--- Fixed many mistakes in the gu
+- Added a lot more information
+  on the American version of the
+  game;
+-- Fixed many mistakes in the
+   guide.
 
 -> version 1.2 <-
 - Fixed some minor typos;
 -- Added a more proper answer to
+   a certain question of the
+   FAQ.
 
 -> version 1.1 <-
 - Added some more information on
-  in the American version of the
--- Added some misc notes about t
---- Added information about the 
-    the non-Japanese version of 
+  extra Pokemon, and the way to
+  unlock them in the American
+  version of the game;
+-- Added some misc notes about
+   the American version of the
+   game;
+--- Added information about the
+    way to capture Deoxys, Mew
+    and Celebi in the non-
+    Japanese version of the
+    game.
 
 -> version 1.0 <-
-- Added ALL pokemon to "Acquirab
--- Fixed some erroneous informat
---- Added more questions to "Fre
----- Updated most of the section
+- Added ALL pokemon to
+  "Acquirable Pokemon and their
+  moves";
+-- Fixed some erroneous
+   information in that same
+   section;
+--- Added more questions to
+    "Frequently Asked
+    Questions";
+---- Updated most of the
+     sections.
 
 -> version 0.8 <-
-- Added some more pokemon to "Ac
--- Completed the "Mini-games" se
+- Added some more pokemon to
+  "Acquirable Pokemon and their
+  moves";
+-- Completed the "Mini-games"
+   section.
 
 -> version 0.7 <-
-- Corrected a mistake on how muc
--- Fully completed the "What now
---- Added some more "Frequently 
+- Corrected a mistake on how
+  much HP "Charge x2" increased;
+-- Fully completed the "What
+   now?" section;
+--- Added some more "Frequently
+    Asked Questions".
 
 -> version 0.6 <-
 - Added some information to most
+  of the sections;
 -- Checked most of the guide for
+   errors.
 
 -> version 0.5 <-
-- Completed the "Walkthrough" se
+- Completed the "Walkthrough"
+  section.
 
 -> version 0.4 <-
 - Completed the "Walkthrough" up
+  to mission number 9.
 
 -> version 0.3 <-
 - Completed the "Walkthrough" up
+  to the mission inside the
+  pyramid.
 
 -> version 0.2 <-
 - Completed the "Walkthrough" up
+  to mission number 6.
 
 -> version 0.1 <-
 - Started the main guide;
--- Added some information to alm
+-- Added some information to
+   almost all the sections.
 
 
 
 0.1~. Notes for the American
-Version
+  Version
 
 As you may suppose, most of the
 information available in this
@@ -232,31 +275,47 @@ original japanese title), you
 can read about them in the
 following lines.
 
-- The menu now features "Release
-  (instead of "Tutorials") and B
+- The menu now features
+  "Release" (instead of
+  "Pokemon"), "Glossary"
+  (instead of "Tutorials") and
+  Browser (instead of
+  "Encyclopedia");
 
-- "Medals" are now called "Ranks
+- "Medals" are now called
+  "Ranks";
 
 - "Paralyze", the special attack
+  that only Plusle and Minun
+  have, was now
    renamed to "Discharge";
 
-- The "older guy" is actually ca
+- The "older guy" is actually
+  called "Professor Hastings";
 
-- "Team Go-go" is now called "Go
+- "Team Go-go" is now called
+  "Go-rock Squad";
 
-- "Forest" is now called "Lyra F
+- "Forest" is now called "Lyra
+  Forest";
 
 - "Tunnel" is now called "Krokka
+  Tunnel";
 
-- "Jungle" is now called "Olive 
+- "Jungle" is now called "Olive
+  Jungle";
 
-- "Temple" is now called "Fiore 
+- "Temple" is now called "Fiore
+  Temple";
 
-- "Cave" is now called "Panula C
+- "Cave" is now called "Panula
+  Cave";
 
 - "Mountain Range" is now called
+  "Sekra Range";
 
-- "Factory" is now called "Dusk 
+- "Factory" is now called "Dusk
+  Factory".
 
 
 
@@ -306,26 +365,46 @@ game. So, eventually you will
 discover that the lower screen
 of the console can be used to:
 
-- Move your character (you simpl
-  direction you wish to take) an
-  them with your stylus).
+- Move your character (you
+  simply need to have your
+  stylus pointed at the
+  direction you wish to take)
+  and talk to other characters
+  (simply tap them with your
+  stylus).
 
 In battles, you can use it to:
 
-- Draw closed lines around your 
-  Keep on doing it until the HP 
-  points after the end of the ba
-  Those are the points you will 
+- Draw closed lines around your
+  opponent, which makes it HP go
+  down by 1. Keep on doing it
+  until the HP is below 1, in
+  order to gain extra EXP points
+  after the end of the battle.
+  Do you see the green/red
+  numbers? Those are the points
+  you will win after the battle;
 
 - Tap the blue area on the lower
-  pokemons usable in the battle.
-  pokemon you select, but such t
-  "Pokemon Type" section of this
+  right corner, to make one of
+  your current pokemons usable
+  in the battle. Their effects
+  largely depend on what pokemon
+  you select, but such thematic
+  will be further developed in
+  the "Pokemon Type" section of
+  this guide;
 
-- By "capturing" a Pokemon when 
-  area appearing on the lower le
-  only be available sometimes an
-  current battle, something that
+- By "capturing" a Pokemon when
+  its HP isn't below 1, you'll
+  see a blue area appearing on
+  the lower left corner of the
+  screen. Such option will only
+  be available sometimes and it
+  allows you to run away from
+  your current battle, something
+  that you should use if you are
+  into trouble.
 
 That's basically it, for this
 section...
@@ -457,33 +536,62 @@ your best interest to
 acknowledge them as soon as
 possible.
 
-- As stated before, after droppi
-  usually still give it a few ex
-  This way, you can get more EXP
-  enemies;
+- As stated before, after
+  dropping a pokemon's HP to
+  below 1, you can usually still
+  give it a few extra rounds, to
+  max out the EXP you win. This
+  way, you can get more EXP and
+  still face the exact same
+  amount of enemies;
 
-- More EXP means more levels, an
+- More EXP means more levels,
+  and more levels mean more HP
+  for you;
 
-- Shortly after starting to play
-  special bar. However, when you
-  you will also receive a new sp
-  that your main pokemon will be
-  you could consider them to be 
+- Shortly after starting to
+  play, your character will gain
+  his first special bar.
+  However, when you gain your
+  3rd, 5th, 7th and 9th medals,
+  you will also receive a new
+  special bar. Since more
+  special bars mean that your
+  main pokemon will be able to
+  use a stronger paralyzing
+  attack, you could consider
+  them to be quite important;
 
-- When acquiring your 4th, 7th a
-  increase the number of pokemon
-  the initial value of 4 up to a
+- When acquiring your 4th, 7th
+  and 10th medals, you will be
+  able to increase the number of
+  pokemon you can carry with you
+  at any time, from the initial
+  value of 4 up to a maximum of
+  7, after getting your 10th
   medal;
 
-- Like what happens in the class
-  find "capturing all Pokemon" t
-  each time you see a unique pok
-  everything you've got to captu
-  pokemon in the guide;
+- Like what happens in the
+  classical pokemon games, in
+  here you could also find
+  "capturing all Pokemon" to be
+  an interesting sidequest.
+  Therefore, each time you see a
+  unique pokemon in front of
+  you, you should give
+  everything you've got to
+  capture it, EVEN if I have no
+  mention to such pokemon in the
+  guide;
 
-- Save a lot and save often, as 
-  mission all over again, do you
+- Save a lot and save often, as
+  you don't want to have to
+  replay a certain mission all
+  over again, do you? Therefore,
+  EVERY time you see a save
   point, be sure to use it, even
+  if that isn't stated in this
+  guide.
 
 That's all for now, I guess...
 
@@ -503,25 +611,38 @@ game, the abilities that you can
 use in the field are kinda
 limited, and they include:
 
-- Break - destroys something, li
+- Break - destroys something,
+  like a huge rock.
 
-- Burn - burns something down, l
+- Burn - burns something down,
+  like a tree or a huge ice
+  block.
 
 - Charge - restores your life.
 
 - Cross - allows your characters
-  this ability on something they
+  to be taken to another place,
+  by using this ability on
+  something they can grab.
 
 - Cut - simply cuts something in
+  front of you, like a fence or
+  a bush.
 
 - Flash - lights up an area.
 
-- Gust - creates a windy attack 
+- Gust - creates a windy attack
+  that can lift stuff off the
+  floor.
 
-- Tackle - pushes something, as 
+- Tackle - pushes something, as
+  a box or a tree.
 
-- Water - throws some water, whi
-  extinguishing something that i
+- Water - throws some water,
+  which can be used for tasks
+  such as extinguishing
+  something that is on fire or
+  very hot.
 
 Besides "Flash" (an ability that
 only Staryu can use), all the
@@ -548,47 +669,73 @@ in the section "Acquirable
 Pokemon and their moves" of this
 guide. They include:
 
-- Bug - entraps your opponent in
+- Bug - entraps your opponent
+  inside the lines you created.
 
-- Dark - decreases your current 
+- Dark - decreases your current
+  HP BUT makes your stylus' line
+  longer.
 
-- Electric - simply restores you
+- Electric - simply restores
+  your HP.
 
-- Fighting - Each time you do a 
-   by 2 points, instead of the u
+- Fighting - Each time you do a
+  full closed line, opponent's
+  HP is halved
+   by 2 points, instead of the
+   usual 1.
 
-- Fire - when you complete a ful
-  massive explosions in the insi
-  the opponent from attacking.
+- Fire - when you complete a
+  full line around an opponent,
+  this causes massive explosions
+  in the inside of that area,
+  usually preventing the
+  opponent from attacking.
 
-- Flying - throws gusts, which m
-  while.
+- Flying - throws gusts, which
+  may lift opponent's from the
+  ground for a while.
 
-- Ghost - when you complete a fu
-  opponents inside the circle, m
-  going to do.
+- Ghost - when you complete a
+  full closed line, ghosts
+  appear and stun the opponents
+  inside the circle, making them
+  stop whatever they were going
+  to do.
 
 - Grass - this attack allows you
-  opponent.
+  to create a grass barrier
+  around your opponent.
 
-- Ground - breaks the ground, st
+- Ground - breaks the ground,
+  stopping your enemies from
+  crossing that
  particular place for a while.
 
-- Ice - creates ice areas that c
-  them.
+- Ice - creates ice areas that
+  can freeze the opponent, if he
+  runs into them.
 
-- Paralyze - this electrical att
-   the number of special bars th
+- Paralyze - this electrical
+  attack stuns the opponent for
+  as much time as
+   the number of special bars
+   that were currently filled.
 
-- Poison - poisons your enemy, m
+- Poison - poisons your enemy,
+  making it weaker.
 
-- Psychic - stuns your opponent 
+- Psychic - stuns your opponent
+  for a while, taking it off the
+  floor.
 
 - Rock - causes sandstorms.
 
-- Water - allows you to create b
-  inside, with the time being de
-  bubble you created.
+- Water - allows you to create
+  bubbles that can imprison your
+  enemies inside, with the time
+  being defined only by the size
+  of the bubble you created.
 
 Some of these functions are
 instantly used (like the Psychic
@@ -956,14 +1103,22 @@ the left, where another woman
 will ask you to find her Skitty
 pokemons. You can find them in
 the following places:
-- the top floor of the building 
-- behind a wooden fence, on the 
-  away, but you can easily get h
+- the top floor of the building
+  you just visited.
+- behind a wooden fence, on the
+  central area of this city. He
+  will run away, but you can
+  easily get him later, by
+  checking the behind of one of
   the trees.
-- near the fountain, on the cent
+- near the fountain, on the
+  central area of this city.
 - on the right trash can, on the
-- On the upper left house, on th
-  middle of some plushies.
+  central area of this city.
+- On the upper left house, on
+  the upper area of this city,
+  hidden in the middle of some
+  plushies.
 When you give the 5th to the
 woman, she will go away and take
 them all. Obviously, it is
@@ -1677,44 +1832,96 @@ suggest you start by the left
 side, but it is really up to
 you. In there, you will face:
 
-- On the upper left side, you wi
-  need to reach the upper centra
-  In case you have been using th
-  you'd better use the direction
-  task into something easier. At
-  beat) a Flygon, which is weak 
-  wait for him to be in the midd
-  then circle him as quickly as 
-  without much trouble.
+- On the upper left side, you
+  will find a windy room, where
+  you simply need to reach the
+  upper central area, which
+  contains a door to a battle.
+  In case you have been using
+  the stylus to control the
+  character, in here you'd
+  better use the directional
+  controls to do it, as it will
+  turn your task into something
+  easier. At the end, you should
+  face (and obviously beat) a
+  Flygon, which is weak but
+  REALLY quick. Therefore, you
+  should wait for him to be in
+  the middle of the screen,
+  preparing to attack, and then
+  circle him as quickly as
+  possible. Hopefully, you will
+  capture it without much
+  trouble.
 
-- On the lower right side, you w
-  water bubbles. In case you are
-  floor below and you'll have to
-  simply need to see where the b
-  when you're sure that you won'
-  2 Kingdra, which aren't even v
-  (and quickly capture) one of t
-  can simply normally capture th
-  when they are inside the water
-  that, this one is probably the
+- On the lower right side, you
+  will find a room with 5
+  Gyarados shooting water
+  bubbles. In case you are hit
+  by one of those, you will fall
+  to the floor below and you'll
+  have to start over. This isn't
+  very hard, you simply need to
+  see where the bubbles are
+  heading and try to walk only
+  when you're sure that you
+  won't be hit. At the end,
+  you'll have to face 2 Kingdra,
+  which aren't even very hard to
+  capture. You can simply stun
+  (and quickly capture) one of
+  them with your thundershock,
+  and then you can simply
+  normally capture the other. Be
+  aware not to lift the stylus
+  when they are inside the
+  water, or your capture will
+  fail. Apart from that, this
+  one is probably the most easy
+  of the 4 areas.
 
-- On the upper right side, you w
-  step on the huge yellow switch
+- On the upper right side, you
+  will find a room where you
+  simply need to step on the
+  huge yellow switches to spawn
+  some enemies, which you should
   capture and use to destroy the
-  you should destroy all the blo
-  There's no way you can take mo
-  destroy the last block all you
+  blocks nearby. It is an easy
+  task, and you should destroy
+  all the blocks before
+  proceeding to the last door.
+  There's no way you can take
+  more pokemon with you there,
+  and when you destroy the last
+  block all your pokemon will
+  run away (well, besides the
   one which always follows you),
-  dragon, Salamence. This will p
-  as you will need to be extreme
-  attack of your pokemon doesn't
-  by skill, which turns out bein
-  22 points of HP. Your best bes
-  lands on the floor (causing a 
-  beam and when he starts flying
-  possible, always without touch
-  manage to beat him, but beside
-  sorry about that.
+  as you will have to face a
+  powerful dragon, Salamence.
+  This will probably be your
+  toughest battle this far, as
+  you will need to be extremely
+  careful with your foe. The
+  stunning attack of your
+  pokemon doesn't seem to help
+  at all, so you have to do it
+  by skill, which turns out
+  being really hard, as your
+  enemy has a nice 22 points of
+  HP. Your best best is to start
+  circling him as soon as he
+  lands on the floor (causing a
+  massive explosion...), be
+  aware of his beam and when he
+  starts flying, try to circle
+  him as quickly as possible,
+  always without touching it.
+  With some tries, you will
+  probably manage to beat him,
+  but besides that there's not
+  much I can tell you, sorry
+  about that.
 
 After beat these 3 areas, you
 will finally be able to enter
@@ -2527,12 +2734,14 @@ the fence, where you will find
 an Electabuzz. First, use him to
 fully heal you, but you should
 then return to this same screen
-and capture him *again*. When
-you're ready, take fighting
-against a Team GoGo member, who
-you should defeat with the aid
-of the water pokemon you
-captured before.
+and capture him
+*again*. When you're ready, take
+ the red door and you will find
+ yourself
+fighting against a Team GoGo
+member, who you should defeat
+with the aid of the water
+pokemon you captured before.
 
 After the scene, heal yourself
 with the Electabuzz and then
@@ -3161,7 +3370,7 @@ about in a minute.
 
 
 3.11.1~. Special Mission 1
-(Deoxys)
+     (Deoxys)
 
 First, you get to battle Deoxys,
 which eventually runs away from
@@ -3186,7 +3395,7 @@ quickly as possible.
 
 
 3.11.2~. Special Mission 2
-(Celebi)
+     (Celebi)
 
 In the forest, you'll see this
 pokemon and a couple scenes.
@@ -3210,7 +3419,7 @@ time.
 
 
 3.11.4~. Special Mission 4
-(Manaphy's Egg)
+     (Manaphy's Egg)
 
 In the Japanese version of the
 game, you acquired this quest by
@@ -3336,7 +3545,8 @@ reading this entire guide,
 meaning that if you can't seem
 to find a certain pokemon in a
 proper location, maybe he isn't
-there *YET* !
+there
+*YET* !
 
 Now, on to what probably you
 wanna read...
@@ -3347,7 +3557,8 @@ FIELD MOVE: Cross BATTLE MOVE:
 Grass HOW TO GET HIM: in the
 forest, all down and slightly to
 the left before
-    entering the tunnel, you wil
+    entering the tunnel, you
+    will need to use "Cut".
 
 R-002 -> Ivysaur
 TYPE: Grass
@@ -3361,6 +3572,7 @@ Grass HOW TO GET HIM: in the
 forest, on mission 6 or later,
 you will need to use
     "Cut" on a bush, just before
+    the labyrinthic area.
 
 R-004 -> Bellsprout TYPE: Grass
 FIELD MOVE: none BATTLE MOVE:
@@ -3446,7 +3658,9 @@ FIELD MOVE: Burn x3 BATTLE MOVE:
 Fire HOW TO GET HIM: as part of
 the storyline OR in the Ring
 Town mini-game,
-    where he will only appear af
+    where he will only appear
+    after you capturing 2
+    Spoink.
 
 R-019 -> Cyndaquil TYPE: Fire
 FIELD MOVE: Burn BATTLE MOVE:
@@ -3464,14 +3678,17 @@ FIELD MOVE: Burn x3 BATTLE MOVE:
 Fire HOW TO GET HIM: in the
 forest, you have to use "Cut" in
 one of the bushes,
-    probably the one in the lowe
+    probably the one in the
+    lower right part of that
+    area.
 
 R-022 -> Pichu TYPE: Electric
 FIELD MOVE: Charge BATTLE MOVE:
 Electric HOW TO GET HIM: in
 several places. However, he is
 easily found in the
-    forest, as soon as mission n
+    forest, as soon as mission
+    number 1.
 
 R-023 -> Pikachu TYPE: Electric
 FIELD MOVE: Charge x2 BATTLE
@@ -3503,15 +3720,19 @@ FIELD MOVE: none BATTLE MOVE:
 Psychic HOW TO GET HIM: in the
 tunnel (you will need to use a
 Graveler), OR on
-    mission number 5 (or later) 
+    mission number 5 (or later)
+    OR in the plain capture
     mini-game OR at the Mountain
+    Range.
 
 R-028 -> Gardevoir TYPE: Psychic
 FIELD MOVE: none BATTLE MOVE:
 Psychic HOW TO GET HIM: during
 Extra Mission 3 OR at the
 Mountain Range OR in the
-    Ring Town mini-game, where s
+    Ring Town mini-game, where
+    she will only appear after
+    you
       capturing 2 Kirlia.
 
 R-029 -> Abra TYPE: Psychic
@@ -3578,7 +3799,8 @@ FIELD MOVE: none BATTLE MOVE:
 Flying HOW TO GET HIM: in the
 Ring Town mini-game, but it will
 only appear after
-    you getting more than 50000 
+    you getting more than 50000
+    points in the Fall City
     mini-game.
 
 R-041 -> Doduo TYPE: Flying
@@ -3593,7 +3815,8 @@ FIELD MOVE: none BATTLE MOVE:
 Flying HOW TO GET HIM: in the
 Ring Town mini-game, but he will
 only appear if you
-    previously scored more than 
+    previously scored more than
+    5000 points in this same
     mini-game.
 
 R-043 -> Scyther TYPE: Bug FIELD
@@ -3611,15 +3834,17 @@ FIELD MOVE: none BATTLE MOVE:
 Flying HOW TO GET HIM: in the
 Ring Town mini-game, but he will
 only appear if you
-    previously scored more than 
-    mini-game.
+    previously scored more than
+    5000 points in the Summer
+    Town mini-game.
 
 R-046 -> Murkrow TYPE: Dark
 FIELD MOVE: none BATTLE MOVE:
 Dark HOW TO GET HIM: as part of
 the storyline OR in the forest,
 by using
-    "Tackle" in the tree where y
+    "Tackle" in the tree where
+    you previously saw him.
 
 R-047 -> Zigzagoon TYPE: Normal
 FIELD MOVE: none BATTLE MOVE:
@@ -3686,6 +3911,7 @@ MOVE: Electric HOW TO GET HIM:
 in several places, but one of
 them is by using a Meditite
     to throw a wall down, on the
+    Fall City sewers.
 
 R-058 -> Zubat TYPE: Poison
 FIELD MOVE: none BATTLE MOVE:
@@ -3713,8 +3939,11 @@ FIELD MOVE: none BATTLE MOVE:
 Ground HOW TO GET HIM: in the
 tunnel, you need to use "Cross"
 on the lower left
-    corner of the area filled wi
-    in the next room and you wil
+    corner of the area filled
+    with Zubat. Then, use "Break
+    x3" in the next room and you
+    will find this pokemon in
+    there.
 
 R-063 -> Rhydon TYPE: Ground
 FIELD MOVE: Break x3 BATTLE
@@ -3775,8 +4004,11 @@ FIELD MOVE: Cut x3 BATTLE MOVE:
 Water HOW TO GET HIM: Fall City
 sewers, you will need to have a
 Raticate with
-    you and simply break the fen
-    tube with many different exi
+    you and simply break the
+    fence which is placed before
+    the tube with many different
+    exits. You can also get it
+    as
      part of the storyline.
 
 R-073 -> Totodile TYPE: Water
@@ -3794,7 +4026,8 @@ FIELD MOVE: Break x3 BATTLE
 MOVE: Water HOW TO GET HIM: on
 the Fall City sewers, you need
 to use "Cross" and then
-    "Fire x2" in the room after 
+    "Fire x2" in the room after
+    the one which contains
     Koffing.
 
 R-076 -> Squirtle TYPE: Water
@@ -3802,7 +4035,8 @@ FIELD MOVE: Water BATTLE MOVE:
 Water HOW TO GET HIM: on the
 Fall City sewers, you need to
 use "Cross" in the
-    room after the one which con
+    room after the one which
+    contains the Koffing.
 
 R-077 -> Wartortle TYPE: Water
 FIELD MOVE: Water x2 BATTLE
@@ -3810,6 +4044,7 @@ MOVE: Water HOW TO GET HIM:
 forest, on mission 6 or later,
 you need to use "Break" in
     order to remove a huge stone
+    which is near the river.
 
 R-078 -> Blastoise TYPE: Water
 FIELD MOVE: Water x3 BATTLE
@@ -3960,9 +4195,13 @@ none HOW TO GET HIM: at the
 factory, but this is one of the
 most difficult ones
     to
- find. He is sometimes invisible
-    makes himself, visible, and 
-    capture it. Look closely ins
+ find. He is sometimes
+ invisible, but other times he
+    makes himself, visible, and
+    that's when you can actually
+    capture it. Look closely
+    inside the factory and
+    eventually
        you will find it.
 
 R-104 -> Kecleon TYPE: Normal
@@ -3970,9 +4209,13 @@ FIELD MOVE: none BATTLE MOVE:
 none HOW TO GET HIM: before
 entering the factory, destroy
 the trash on the
-    left side using a "Burn x2" 
-    be careful as he is invisibl
-    Also, you may find him as pa
+    left side using a "Burn x2"
+    ability. He will be there,
+    but be careful as he is
+    invisible when he isn't
+    attacking. Also, you may
+    find him as part of the Ring
+    Town mini-game.
 
 R-105 -> Snorlax TYPE: Normal
 FIELD MOVE: none BATTLE MOVE:
@@ -3980,6 +4223,7 @@ none HOW TO GET HIM: in the
 Mountain Range, in a cave near
 where you fought the
     Charizard. He will only wake
+    up (and be capturable) after
 capturing all other 209 pokemon.
 
 R-106 -> Lapras TYPE: Ice FIELD
@@ -4044,7 +4288,8 @@ FIELD MOVE: none BATTLE MOVE:
 Water HOW TO GET HIM: in the
 Summer City mini-game, but only
 appears after
-    you've captured 2 Remoraid a
+    you've captured 2 Remoraid
+    and 2 Octillery.
 
 R-117 -> Carvanha TYPE: Water
 FIELD MOVE: none BATTLE MOVE:
@@ -4089,8 +4334,9 @@ FIELD MOVE: none BATTLE MOVE:
 Water HOW TO GET HIM: in the
 Summer City mini-game, but it
 will only appear
-    after you've previously beat
-    5000 points.
+    after you've previously
+    beaten this game's top score
+    of 5000 points.
 
 R-124 -> Magikarp TYPE: Water
 FIELD MOVE: none BATTLE MOVE:
@@ -4109,7 +4355,8 @@ FIELD MOVE: Cut BATTLE MOVE:
 Grass HOW TO GET HIM: by using a
 Meditite to throw a wall down,
 on the Fall City
-    sewers OR in the jungle, req
+    sewers OR in the jungle,
+    requiring a "Gust" ability.
 
 R-127 -> Gloom TYPE: Grass FIELD
 MOVE: none BATTLE MOVE: Grass
@@ -4135,31 +4382,38 @@ FIELD MOVE: Cut x2 BATTLE MOVE:
 Grass HOW TO GET HIM: there are
 some different places to get it,
 but in the
-    jungle you can do it by usin
-    near the place where you can
+    jungle you can do it by
+    using "Water" on a small
+    plant, near the place where
+    you can throw a tree down.
 
 R-131 -> Sceptile TYPE: Grass
 FIELD MOVE: Cut x3 BATTLE MOVE:
 Grass HOW TO GET HIM: on the
 Pyramid, after it becomes full
 of fire. You need to
-    use a "Break x2" to remove t
-    the right of your initial po
+    use a "Break x2" to remove
+    the huge rock, exactly all
+    to the right of your initial
+    position.
 
 R-132 -> Lotad TYPE: Water FIELD
 MOVE: Water BATTLE MOVE: Water
 HOW TO GET HIM: jungle, and
 while you could usually need to
 lift him from
-    the water, they seem to rand
+    the water, they seem to
+    randomly get out of it
 
 R-133 -> Lombre TYPE: Water
 FIELD MOVE: Water x2 BATTLE
 MOVE: Water HOW TO GET HIM: in
 the jungle, Where you can see a
 Grovyle, simply use
-    someone in the bush nearby a
-    place where 2 of this pokemo
+    someone in the bush nearby
+    and you will be taken to a
+    place where 2 of this
+    pokemon can be seen.
 
 R-134 -> Ludicolo TYPE: Water
 FIELD MOVE: none BATTLE MOVE:
@@ -4208,7 +4462,8 @@ FIELD MOVE: Burn x2 BATTLE MOVE:
 Fire HOW TO GET HIM: during
 Extra Mission 2 OR on the
 Pyramid, after it
-    becomes full of fire (which 
+    becomes full of fire (which
+    will require a "Water x3"
     ability).
 
 R-142 -> Charizard TYPE: Fire
@@ -4221,7 +4476,9 @@ FIELD MOVE: Burn x2 BATTLE MOVE:
 Fire HOW TO GET HIM: at the
 cave. Use a "Burn x3" ability to
 destroy the huge
-    block of ice inside a room a
+    block of ice inside a room
+    and then continue following
+    the
    path, going up the stairs.
 
 R-144 -> Growlithe
@@ -4274,7 +4531,8 @@ FIELD MOVE: none BATTLE MOVE:
 Poison HOW TO GET HIM: as part
 of the storyline OR in the
 jungle, where they seem
-    to randomly jump out of the 
+    to randomly jump out of the
+    bushes.
 
 R-152 -> Arbok TYPE: Poison
 FIELD MOVE: none BATTLE MOVE:
@@ -4378,7 +4636,8 @@ FIELD MOVE: none BATTLE MOVE:
 Psychic HOW TO GET HIM: at the
 cave, you will need to break a
 big rock near the
-    area with water, using a "Br
+    area with water, using a
+    "Break x2" pokemon.
 
 R-171 -> Dusclops
 TYPE: Ghost
@@ -4556,7 +4815,9 @@ MOVE: Cut x3 BATTLE MOVE: Dark
 HOW TO GET HIM: at the cave. Use
 a "Burn x3" ability to destroy
 the huge
-    block of ice inside a room a
+    block of ice inside a room
+    and then continue following
+    the
   path, taking the lower exit.
 
 R-201 -> Kangashkan TYPE: Normal
@@ -4564,8 +4825,10 @@ FIELD MOVE: Break x3 BATTLE
 MOVE: none HOW TO GET HIM: on
 the first area, found by exiting
 Win Town by its upper
-    entrance, next to the right 
-    will need a pokemon with a "
+    entrance, next to the right
+    side of the small lake. You
+    will need a pokemon with a
+    "Break x3" ability.
 
 R-202 -> Entei TYPE: Fire FIELD
 MOVE: Burn x3 BATTLE MOVE: Fire
@@ -4587,10 +4850,14 @@ FIELD MOVE: none BATTLE MOVE:
 Rock HOW TO GET HIM: Exactly
 before entering the temple, use
 "Break x3" on the
-    rock on the right. Use "Wate
-    and us "Break x3" on the oth
-    on the ice block and continu
-    door, where you will find th
+    rock on the right. Use
+    "Water" on the small flower,
+    go up and us "Break x3" on
+    the other rock. Inside, use
+    "Fire x3" on the ice block
+    and continue going up and
+    inside the huge door, where
+    you will find this enemy.
 
 R-206 -> Regice TYPE: Ice FIELD
 MOVE: none BATTLE MOVE: Ice HOW
@@ -4598,19 +4865,27 @@ TO GET HIM: in the cave, use a
 "Fire x3" pokemon to remove the
 lower
     giant ice cube. Use a "Break
-    huge rock in the right side 
+    x2" ability to remove the
+    huge rock in the right side
+    and go down the hole. Use a
     "Cross" ability to go to the
-    Inside the huge door, you wi
+    left and down the next hole.
+    Inside the huge door, you
+    will find this enemy.
 
 R-207 -> Registeel TYPE: Steel
 FIELD MOVE: Break x3 BATTLE
 MOVE: none HOW TO GET HIM:
 tunnel, you need to use "Cross"
 on the lower left corner
-    of the area filled with Zuba
-    next room and continue going
-    pokemon with a "Break x2" an
-    "Cross" ability. You will fi
+    of the area filled with
+    Zubat. Then, use "Cut x2" in
+    the next room and continue
+    going up. You will at least
+    4 pokemon with a "Break x2"
+    and yet another one with a
+    "Cross" ability. You will
+    find him inside a huge door.
 
 R-208 -> Kyogre TYPE: Water
 FIELD MOVE: none BATTLE MOVE:
@@ -4632,7 +4907,9 @@ FIELD MOVE: none BATTLE MOVE:
 Psychic HOW TO GET HIM: in
 Japan, you had to pre-book
 tickets for the 9th pokemon
-    movie. In the other versions
+    movie. In the other
+    versions, you can get it by
+    completing
 Special Mission 1 in Ranger Net.
 
 R-212 -> Celebi TYPE: Grass
@@ -4640,7 +4917,8 @@ FIELD MOVE: none BATTLE MOVE:
 Grass HOW TO GET HIM: in Japan,
 you could only get it in special
 events. In the
-    other versions, you can get 
+    other versions, you can get
+    it by completing Special
     Mission 2 in Ranger Net.
 
 R-213 -> Mew TYPE: Psychic FIELD
@@ -4648,7 +4926,8 @@ MOVE: none BATTLE MOVE: Psychic
 HOW TO GET HIM: in Japan, you
 could only get it in special
 events. In the
-    other versions, you can get 
+    other versions, you can get
+    it by completing Special
     Mission 3 in Ranger Net.
 
 R-??? -> Manafi's egg TYPE:
@@ -4657,8 +4936,11 @@ probably none BATTLE MOVE:
 probably none HOW TO GET HIM: in
 Japan, you had to pre-book
 tickets for the 9th pokemon
-    movie. In the other versions
-    password, as stated in the p
+    movie. In the other
+    versions, you have to input
+    a certain password, as
+    stated in the proper section
+    of this guide.
 
 
 
@@ -4675,7 +4957,8 @@ Q: What exactly is the name of
 this game? A: It is "Pokemon
 Ranger". "Pokemon Rangers" and
 "The Road to Diamond and
-   Pearl" are just slight mistra
+   Pearl" are just slight
+   mistranslations.
 
 Q: Are pokemon an it/she/he ? A:
 Haven't got a clue, and that's
@@ -4698,7 +4981,8 @@ the place where there are the 3
 legendary dogs? A: By talking to
 that man, you will be taken back
 to the past and fight
-   the 3 legendary dogs once aga
+   the 3 legendary dogs once
+   again. WHAT? >_>
 
 Q: What happens after you
 capture the Snorlax? A: After
@@ -4706,7 +4990,10 @@ exiting its cave, you will
 receive a call and a cutscene
 will
    occur where all the important
-   badge, stating that you captu
+   characters appear and you get
+   a special badge, stating that
+   you captured all the possible
+   pokemon. That's all,
    unfortunately.
 
 Q: Besides Manaphy's one, is
@@ -4721,10 +5008,16 @@ but I can't get it right. What
 am I doing wrong? A: Probably
 nothing, but be aware that there
 are several different
-   passwords that you need to in
-   you're playing. While a singl
-   different ones were found for
-   ones stated in this guide wor
+   passwords that you need to
+   input, depending on what
+   region of the game you're
+   playing. While a single one
+   is used for the USA, at least
+   two different ones were found
+   for the European version, and
+   if none of the ones stated in
+   this guide work for you, it's
+   probably because you have
    another version of the game.
 
 You can also contribute your own
@@ -4741,40 +5034,64 @@ people:
 
 - Everyone who made this game;
 
-- Everyone who likes my works he
-  that I like to work in this ty
+- Everyone who likes my works
+  here on gamefaqs, it's for
+  those people that I like to
+  work in this type of project;
 
-- People I know personally and t
+- People I know personally and
+  that make me smile;
 
-- http://www.serebii.net , for t
-  inserted in sections "Acquirab
-  Type", along with the proper t
-  wasn't for their help, I would
-  guide;
+- http://www.serebii.net , for
+  the information that was
+  adapted and inserted in
+  sections "Acquirable Pokemon
+  and their moves" and "Pokemon
+  Type", along with the proper
+  translation of the City's
+  names. If it wasn't for their
+  help, I would have taken a lot
+  more time writing this guide;
 
-- greatfire , for correcting som
+- greatfire , for correcting
+  some of my mystakes in the
+  pokemon list;
 
-- Matthew Galvin, for informatio
-  in the American version of the
+- Matthew Galvin, for
+  information on how to capture
+  Celebi, Mew and Deoxys in the
+  American version of the game;
 
 - Hayden, for information on the
+  3 legendary Pokemon obtained
+  from events;
 
 - Cardz, for pointing out a typo
-  forgotten to include;
+  and giving me an information I
+  had forgotten to include;
 
 - Tom, for pointing out what the
+  Drowzee man was all about;
 
-- Louis, for providing a lot of 
-  game and correcting some of th
+- Louis, for providing a lot of
+  information in the American
+  version of the game and
+  correcting some of the
+  problems in this guide;
 
-- Ryan L., for correcting the lo
+- Ryan L., for correcting the
+  location of Machamp;
 
-- Everyone who mailed me asking 
+- Everyone who mailed me asking
+  about Porygon's location;
 
-- Everyone I forgot to credit (i
+- Everyone I forgot to credit
+  (if anyone at all...);
 
-- BethanyM and CjayC, for inspir
-  and in all other projects as w
+- BethanyM and CjayC, for
+  inspiring me to continue
+  working in this faq and in all
+  other projects as well.
 
 
 

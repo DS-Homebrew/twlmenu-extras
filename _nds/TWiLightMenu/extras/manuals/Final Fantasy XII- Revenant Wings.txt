@@ -1,8 +1,10 @@
     ~*~*~*~*~*~*~*~*~*~*~*~*~*~*
      Final Fantasy XII: Revenant
+     Wings
 Copyright 2007, Square Enix Co.
  Walkthrough and Strategy Guide
-    Written by: sparksmf (sparks
+    Written by: sparksmf
+    (sparksmf@yahoo.com)
     ~*~*~*~*~*~*~*~*~*~*~*~*~*~*
 
 Glossary:
@@ -32,52 +34,70 @@ Glossary:
 200 - Chapter Two
   201 - Mission 2-1
   202 - Monster Melee (The Bosco
+        Pampa)
   203 - Mission 2-2
   204 - Mission 2-3
   205 - Mission 2-4
 300 - Chapter Three
-  301 - Monster Melee (Fane of G
-  302 - Sky Pirate Melee (Fane o
+  301 - Monster Melee (Fane of
+        Gucuma Qul)
+  302 - Sky Pirate Melee (Fane
+        of Gucuma Qul)
   303 - Summoning Melee (Fane of
+        Gucuma Qul)
   304 - Bug Hunt
   305 - Once Bitten, Twice Shy
   306 - Maleficent Mayhem
   307 - The Scofflaw
   308 - Mission 3-1
   309 - Monster Melee (The Kisne
+        Rise)
   310 - Mission 3-2
   311 - Mission 3-3
   312 - Mission 3-4
   313 - Mission 3-5
 400 - Chapter Four
   401 - Summoning Melee (Fane of
+        Tehp Qul)
   402 - Summoning Melee (Fane of
+        Tehp Qul)
   403 - Monster Melee (Shadow of
+        Paharo)
    404 - Baubles And Banditry
   405 - Easier Said Than Done
   406 - Harmony In Discord
   407 - The Trodden Past
   408 - Mission 4-1
-  409 - Monster Melee (Isshu, Je
+  409 - Monster Melee (Isshu,
+        Jewel of the Skysea)
   410 - Mission 4-2
-  411 - Summoning Melee (Cebe, I
+  411 - Summoning Melee (Cebe,
+        Isle of Treasures)
   412 - Mission 4-3
   413 - Mission 4-4
   414 - Mission 4-5
 500 - Chapter Five
-  501 - Monster Melee (Zwaua Rai
+  501 - Monster Melee (Zwaua
+        Rainwood)
   502 - Mission 5-1
-  503 - Monster Melee (The Gugue
+  503 - Monster Melee (The
+        Guguerro Greendeep)
   504 - Mission 5-2
-  505 - Monster Melee (Gugoza Fa
+  505 - Monster Melee (Gugoza
+        Falls)
   506 - Mission 5-3
   507 - Mission 5-4
 600 - Chapter Six
-  601 - Monster Melee (Tomaj's C
-  602 - Summoning Melee (Oghu, t
+  601 - Monster Melee (Tomaj's
+        Camp)
+  602 - Summoning Melee (Oghu,
+        the Veiled Isle)
   603 - Monster Melee (Underfane
+        of Huin Qul)
   604 - Monster Melee (Underfane
-  605 - Summoning Melee (Underfa
+        of Huin Qul)
+  605 - Summoning Melee
+        (Underfane of Huin Qul)
   606 - A Savory Task
   607 - Rally To The Cause
   608 - Stroke Of Luck
@@ -89,21 +109,27 @@ Glossary:
    614 - Rumble In The Jungle
   615 - Mission 6-1
   616 - Mission 6-2
-  617 - Summoning Melee (Heaven'
+  617 - Summoning Melee
+        (Heaven's Vigil)
   618 - Mission 6-3
-  619 - Sky Pirate Melee (The Ym
-  620 - Monster Melee (The Ymir 
+  619 - Sky Pirate Melee (The
+        Ymir Qul Range)
+  620 - Monster Melee (The Ymir
+        Qul Range)
   621 - Mission 6-4
   622 - Mission 6-5
 700 - Chapter Seven
-  701 - Monster Melee (Illusion'
+  701 - Monster Melee
+        (Illusion's Home)
   702 - Mission 7-1
   703 - Mission 7-2
-  704 - Monster Melee (The Never
+  704 - Monster Melee (The
+        Neverwood)
   705 - Mission 7-3
   706 - Mission 7-4
 800 - Chapter Eight
-  801 - Summoning Melee (Ymir Qu
+  801 - Summoning Melee (Ymir
+        Qul Underground)
   802 - Battlefield Strahl
   803 - Comfort Food
   804 - Ordered Chaos
@@ -111,19 +137,26 @@ Glossary:
    806 - Destiny In The Stars
   807 - Mission 8-1
   808 - Incentive
-  809 - Summoning Melee (Dalmasc
-  810 - Monster Melee (Dalmasca 
+  809 - Summoning Melee
+        (Dalmasca Estersand)
+  810 - Monster Melee (Dalmasca
+        Estersand)
   811 - Mission 8-2
-  812 - Monster Melee (Giza Plai
+  812 - Monster Melee (Giza
+        Plains)
   813 - Mission 8-3
-  814 - Summoning Melee (The Par
+  814 - Summoning Melee (The
+        Paramina Rift)
   815 - Mission 8-4
-  816 - Monster Melee (The Glaba
+  816 - Monster Melee (The
+        Glabados Ruins)
   817 - Mission 8-5
   818 - Mission 8-6
 900 - Chapter Nine
-  901 - Monster Melee (The Feol 
-  902 - Summoning Melee (The Feo
+  901 - Monster Melee (The Feol
+        Warren)
+  902 - Summoning Melee (The
+        Feol Warren)
   903 - Escape Escapade
  904 - An Uninvited Invitation
   905 - For A Moment's Peace
@@ -134,7 +167,8 @@ Glossary:
   910 - Restoring Honor
  911 - Darkening Clouds Gather
   912 - Mission 9-1
-  913 - Summoning Melee (Gates o
+  913 - Summoning Melee (Gates
+        of Shattered Time)
   914 - Mission 9-2
   915 - Mission 9-3
   916 - Mission 9-4
@@ -256,57 +290,109 @@ would like to understand more.
 
 031 - Game Controls
 
-  Start: Pause during a mission 
-  Select: ...I haven't seen it d
-  Directional: Move the camera d
-  A: The selection button, can a
-  B: The cancel button.
-  X: Important! Selects all of y
-  Y: Allows you to switch betwee
+  Start: Pause during a mission
+  where you can leave, etc.
+  Select: ...I haven't seen it
+  do anything in the game so
+  far. Directional: Move the
+  camera during battle, move
+  around on the map. A: The
+  selection button, can also
+  jump to one of your summoning
+  gates. B: The cancel button.
+  X: Important! Selects all of
+  your characters during battle.
+  Y: Allows you to switch
+  between groups during battle.*
   L: Toggles between the top and
-  R: Same function as the L butt
+  button screens. R: Same
+  function as the L button.
 
-  * Also allows you to view any 
+  * Also allows you to view any
+    stat changes when buying a
+    new weapon.
 
  Stylus-Related:
 
- - Tab Selection: Tabs make it e
+ - Tab Selection: Tabs make it
+   easy to select units or
+   groups of units.
   Touch a tab once to select the
-  only the leader. Pull down a t
-  the stylus to select multiple 
-  the up icon at the bottom righ
+  entire group. Touch a tab
+  twice to select only the
+  leader. Pull down a tab to
+  select units within a group.
+  Drag the stylus to select
+  multiple units. To close a
+  tab, push it up or touch the
+  up icon at the bottom right of
+  the drop down.
 
- - Select and Deselect: Select u
+ - Select and Deselect: Select
+   units in view on the bottom
+   screen by
   touching them with the stylus.
-  at once. Touch the Deselect ic
-  of the bottom screen to clear 
+  Drag the stylus to select
+  multiple units at once. Touch
+  the Deselect icon (the red X)
+  in the upper-right corner of
+  the bottom screen to clear all
+  selections.
 
- - Moving: Touching an open spac
-  selected will change the curso
-  order the selected unit(s) to 
-  stylus to select an off-screen
+ - Moving: Touching an open
+   space on the battlefield
+   while a unit is
+  selected will change the
+  cursor to a pair of boots.
+  Lift the stylus to order the
+  selected unit(s) to move to
+  that location. You can drag
+  the stylus to select an off-
+  screen destination.
 
- - Attacking: Touching an enemy 
-  cursor to a pair of crossed sw
-  selected unit(s) to attack. Yo
+ - Attacking: Touching an enemy
+   while a unit is selected will
+   change the
+  cursor to a pair of crossed
+  swords. Lift the stylus to
+  order the selected unit(s) to
+  attack. You can drag the
+  stylus to select an off-
   screen enemy.
 
- - Healing: Healers cannot attac
-  their allies' HP. Touching an 
-  change the cursor to a heart. 
+ - Healing: Healers cannot
+   attack, but instead use a
+   magick to restore
+  their allies' HP. Touching an
+  ally while a healer is
+  selected will change the
+  cursor to a heart. Life the
+  stylus to heal.
 
- - Camera: Touch the bottom scre
-  to move the camera. You can dr
-  while selecting targets for at
+ - Camera: Touch the bottom
+   screen and drag the stylus to
+   the screen's edge
+  to move the camera. You can
+  drag the stylus to move the
+  camera even while selecting
+  targets for attacks and other
+  abilities.
 
 032 - Menu Screen
 
-  Equip: Where you can change eq
-  Ring of Pacts: Allows you to f
-  Espers: Select this to modify 
-  Inventory: Go here to view wea
-  Primer: A helpful bunch of bat
-  Save: Allows you to save the c
+  Equip: Where you can change
+  equipment, magicks, abilities,
+  and gambits. Ring of Pacts:
+  Allows you to forge pacts with
+  new Espers. Espers: Select
+  this to modify your Esper
+  troupes. Inventory: Go here to
+  view weapons, armor,
+  accessories, and materials.
+  Primer: A helpful bunch of
+  battling tips. Save: Allows
+  you to save the current game
+  progress.
 
 033 - Buffs and Debuffs
 
@@ -553,40 +639,58 @@ Here is a complete list of each
 character's quickening:
 
 Vaan: Pyroclasm
-  - Deal heavy damage to all foe
-  - You obtain this after beatin
+  - Deal heavy damage to all
+    foes in range.
+  - You obtain this after
+    beating Belias.
 
 Penelo: Dance of Rapture
   - Fully restore all allies' HP
-  - You obtain this after beatin
+    and remove all debuffs.
+  - You obtain this after
+    beating Ultima.
 
 Kytes: Nature's Wrath
-  - Deal heavy elemental damage 
-  - You obtain this after beatin
+  - Deal heavy elemental damage
+    to all foes in range.
+  - You obtain this after
+    beating Chaos.
 
 Filo: Wind Soul
-  - Allow allies to act immediat
-  - You obtain this after beatin
+  - Allow allies to act
+    immediately.
+  - You obtain this after
+    beating Mateus.
 
 Lluyd: Fanfare
-  - Fortify all friendly Espers 
-  - You obtain this after beatin
+  - Fortify all friendly Espers
+    (granted an additional
+    level).
+  - You obtain this after
+    beating Hashmal.
 
 Balthier: Element of Treachery
 - Deal heavy damage to one foe.
-  - You obtain this after beatin
+  - You obtain this after
+    beating Shemhazai.
 
 Fran: Gaze of the Void
  - Remove buffs from all foes.
-  - You obtain this after beatin
+  - You obtain this after
+    beating Exodus.
 
 Ashe: Empyrean's Edict
-  - Prevent all foes from summon
-  - You obtain this after beatin
+  - Prevent all foes from
+    summoning Espers.
+  - You obtain this after
+    beating Famfrit.
 
 Basch: Apocalypse Shield
-  - Nullifies all damage to lead
-  - You obtain this after beatin
+  - Nullifies all damage to
+    leader's team in a short
+    while.
+  - You obtain this after
+    beating Zalera.
 
 036 - Attack Types
 
@@ -637,12 +741,15 @@ weaknesses:
         Ground  |   Fire
         Healing |   None
 
-* The exception is Shivan, Shiva
+* The exception is Shivan,
+  Shivar, and Shiva, who are
+  weak to fire. There are
 also enemies with a water (but
 ice really) nature who are weak
 to fire.
 
-** The exception is Remora and R
+** The exception is Remora and
+   Ramih, who are weak to water.
 
 038 - Summoning 101
 
@@ -825,15 +932,25 @@ World Map: You can access menus
 and functions using the icons in
 the bottom- right corner of the
 World Map Screen.
- - Menu Icon: Opens the Party Me
+ - Menu Icon: Opens the Party
+   Menu. You can also open the
+   Party Menu by
   pressing the X button.
- - Tomaj Icon: Talk to Tomaj to 
-  identically to the notice boar
- - Airship Icon: Opens the Airsh
+ - Tomaj Icon: Talk to Tomaj to
+   undertake an expedition.
+   Functions
+  identically to the notice
+  board on the airship's bridge.
+ - Airship Icon: Opens the
+   Airship Menu, from which you
+   can board or
   disembark the airship.
- - Named locations on the World 
+ - Named locations on the World
+   Map mark battlefields and
+   other points of
   interest. Locations containing
-  marked with a flag.
+  missions that advance the
+  story are marked with a flag.
 
 Melee Battles: Entering a
 location not marked by a flag
@@ -854,89 +971,188 @@ while completing the missions. I
 really hope my list will assist
 you for some battles:
 
-- Always review the stats, attac
-  battle. This is because you ma
-  enough level to win, b) your c
-  that the enemy is strong again
-  the majority of the enemies ar
+- Always review the stats,
+  attack types, and nature of
+  all your opponents before
+  battle. This is because you
+  may a) realize your characters
+  are not a high enough level to
+  win, b) your characters could
+  be emphasized on one attack
+  type that the enemy is strong
+  against, and c) you may be
+  weak to the nature that the
+  majority of the enemies are
+  under.
 
-- Always check areas around befo
-  case there is an optional batt
-  extra leveling, and miscellane
+- Always check areas around
+  before proceeding to the next
+  storyline fight in case there
+  is an optional battle
+  available! That way you can
+  obtain auracite, extra
+  leveling, and miscellaneous
+  items.
 
-- Also, be SURE to talk to every
-  storyline mission. If you have
-  trigger new missions and cutsc
+- Also, be SURE to talk to
+  everyone on the airship before
+  completing another storyline
+  mission. If you have, talk to
+  them twice. This is because
+  they can trigger new missions
+  and cutscenes.
 
-- If you have extra materials fr
-  then sell it. Especially the l
-  room in your inventory, and in
-  have to discard something. I w
-  material should be carried aro
+- If you have extra materials
+  from scavenging that you will
+  probably never use, then sell
+  it. Especially the low grades.
+  At some point you will run out
+  of room in your inventory, and
+  instead of being able to sell
+  the item you will have to
+  discard something. I would say
+  no more than three of any low
+  grade material should be
+  carried around by you.
 
-- Before you approach a "boss" o
-  give your characters a quick b
-  all the difference during a to
-  a window of opportunity to do 
-  few seconds or a precious heal
+- Before you approach a "boss"
+  or the hardest enemy in the
+  area, don't forget to give
+  your characters a quick buff-
+  up using Penelo's dances, etc.
+  This can make all the
+  difference during a tough
+  battle. Although sometimes you
+  will not have a window of
+  opportunity to do this, so
+  don't bother if it means
+  costing you a few seconds or a
+  precious heal with Penelo.
 
-- Check Tomaj's missions! You ca
-  from the first game and more a
-  so you'll play more for your m
+- Check Tomaj's missions! You
+  can find all sorts of things,
+  including the Espers from the
+  first game and more auracite.
+  It makes the game run longer
+  as well, so you'll play more
+  for your money with these
+  optional missions.
 
 - Instead of buying weapons, try
-  because they are made differen
-  weapon if you wish, and also s
-  certain number of items. Don't
+  to craft them as much as you
+  can. This is because they are
+  made differently (usually
+  better), it's fun to rename a
+  weapon if you wish, and also
+  some missions only appear once
+  you have crafted a certain
+  number of items. Don't
+  hesitate!
 
-- Although the battlefield can o
-  to have your party split into 
-  the stylus to maneuver a group
-  together, but there are a few 
-  point out when the time comes.
+- Although the battlefield can
+  often become very hectic,
+  sometimes it is better to have
+  your party split into two
+  groups to fight two different
+  fronts. Use the stylus to
+  maneuver a group together.
+  Usually it is better to stick
+  together, but there are a few
+  occasions where separate is
+  good, which I will point out
+  when the time comes.
 
-- Pay attention during the start
-  info about whether or not a su
-  change a rank III Esper down t
+- Pay attention during the
+  starting screen before a
+  battle where it gives the info
+  about whether or not a
+  summoning gate is provided on
+  the field. If not, change a
+  rank III Esper down to a rank
+  II.
 
 - Most attacking characters will
-  you can only set one as a gamb
-  especially true for Kytes, who
+  have multiple excellent attack
+  abilities. Since you can only
+  set one as a gambit, don't
+  forget about the others. This
+  is especially true for Kytes,
+  whose abilities are mostly
+  magick attacks.
 
 - Try not to have too many melee
-  times they will be left trying
-  field, which wastes important 
-  them room to fit in with the r
-  about this problem. Keep in mi
+  attackers on the field. This
+  is because many times they
+  will be left trying to walk
+  over to the enemy between a
+  crowded field, which wastes
+  important attack time. The
+  game is bad with not allowing
+  them room to fit in with the
+  rest there. Ranged attackers
+  do not need to worry about
+  this problem. Keep in mind
+  that this tip is mostly for
+  boss fights.
 
-- Always take your time picking 
-  guy. The minor enemies can be 
-  main boss and the Espers keep 
+- Always take your time picking
+  off minor enemies before going
+  for the MAIN guy. The minor
+  enemies can be VERY annoying
+  when you're trying to focus on
+  the main boss and the Espers
+  keep wanting to focus their
+  attention elsewhere.
 
-- Before you battle, check out t
-  status effects. If you fight s
-  consider buying one of Tomaj's
-  matter. It can make all the di
+- Before you battle, check out
+  the enemy list to see if any
+  can give you certain status
+  effects. If you fight
+  something and die because of
+  these effects, consider buying
+  one of Tomaj's accessories
+  that deal specifically with
+  this matter. It can make all
+  the difference.
 
 - Check carefully how many enemy
-  start the battle. If one is my
-  him or her, s/he could have po
+  leaders there are supposed to
+  be before you start the
+  battle. If one is mysteriously
+  gone and you don't remember
+  killing him or her, s/he could
+  have possibly performed a
+  Vanishing spell.
 
-- Do NOT complete the Ring of Pa
-  out to keep the variety betwee
-  type you'll need next.
+- Do NOT complete the Ring of
+  Pacts for one or two groups of
+  natures. Spread it out to keep
+  the variety between your
+  party. You'll never know which
+  nature type you'll need next.
 
 - I strongly, strongly recommend
-  because he is the only other p
-  for a small HP sacrifice). If 
-  in big trouble there.
+  always having Lluyd in your
+  party. This is because he is
+  the only other person than
+  Penelo who can Raise someone
+  (though for a small HP
+  sacrifice). If he is not in
+  your party and Penelo dies,
+  you're in big trouble there.
 
-- If you forget how to do someth
-  means, remember that the Prime
+- If you forget how to do
+  something, or if you're not
+  sure what a certain term
+  means, remember that the
+  Primer in the menu offers
+  helpful advice and also an
   explanation about certain game
+  elements.
 
     ~*~*~*~*~*~*~*~*~*~*~*~*~*~*
-     050 - Mission Appearance Re
+     050 - Mission Appearance
+           Requirements
     ~*~*~*~*~*~*~*~*~*~*~*~*~*~*
 
 Some side missions require
@@ -1605,10 +1821,10 @@ Starter Manual |
 Earth Magacite, Earth Crystal,
 Earth Gem | | Center Timber:
 Cherrywood Chips, Cherrywood
-Stick, Cherrywood Log | | East
-Treasure: Gaia Rod | | West
-Bones: Rat Pelt, Bat Wing,
-Insect Husk | | Northwest
+Stick, Cherrywood Log |
+| East Treasure: Gaia Rod       
+| West Bones: Rat Pelt, Bat
+Wing, Insect Husk | | Northwest
 Treasure: Mythril Vest |
 |_______________________________
 
@@ -5712,8 +5928,8 @@ will keep trying to attack her.
 |                               
 |-------------------------------
 |                               
-| Final Items: 3 Auracite | |
-Goblin Pouch: Coeurl Belt,
+| Final Items: 3 Auracite       
+| Goblin Pouch: Coeurl Belt,
 Beastlord Pelt |
 |_______________________________
 
@@ -8400,8 +8616,8 @@ keep the supply up. |
 |                               
 |-------------------------------
 |                               
-| Final Items: 3 Auracite | |
-Goblin Pouch: Water Magicite,
+| Final Items: 3 Auracite       
+| Goblin Pouch: Water Magicite,
 Water Crystal |
 |_______________________________
 
@@ -9253,8 +9469,8 @@ where |
 |                               
 |-------------------------------
 |                               
-| Final Items: Zodiac Ore | |
-Goblin Pouch: Zodiac Ore |
+| Final Items: Zodiac Ore       
+| Goblin Pouch: Zodiac Ore |
 |                               
 |-------------------------------
 |                               
@@ -11731,7 +11947,8 @@ people who already have their
 ultimates, though. Here's a list
 of what you should have at this
 point for your characters:
-  - Kytes (if crafted--to me tha
+  - Kytes (if crafted--to me
+    that's the Zeus Mace)
   - Filo's Vortex
   - Balthier's Formalhaut
   - Fran's Sagittarius
@@ -12744,18 +12961,34 @@ is an in-depth explanation/list:
  Common Metal         |
  ---------------------+---------
      | Silvery fragments teeming
- Mythril Shards       | crafting
-     | of Gucuma Qul), Monster M
-     | And Banditry, Midlight's 
+     with magick, often used in
+     the
+ Mythril Shards | crafting of
+ armor. Locations: 2-2, Monster
+ Melee (Fane
+     | of Gucuma Qul), Monster
+     Melee (The Kisne Rise),
+     Baubles | And Banditry,
+     Midlight's Deep, Material
+     Shop (ch 4)
  ---------------------+---------
-     | Mythril often used in wea
- Mythril Nugget       | effects.
-     | Qul), Monster Melee (The 
+     | Mythril often used in
+     weapons for its soul-
+     soothing
+ Mythril Nugget | effects.
+ Locations: 2-2, Monster Melee
+ (Fane of Gucuma
+     | Qul), Monster Melee (The
+     Kisne Rise), Baubles And
 | Banditry, Material Shop (ch 6)
  ---------------------+---------
-     | Mythril in a highly pure 
- Mythril Ore          | Location
-     | Monster Melee (The Kisne 
+     | Mythril in a highly pure
+     form, prized by engineers.
+ Mythril Ore | Locations: 2-2,
+ Monster Melee (Fane of Gucuma
+ Qul),
+     | Monster Melee (The Kisne
+     Rise), Pirates In Peril!,
     | Material Shop (ch 6),
  -------------------------------
 
@@ -12763,104 +12996,192 @@ is an in-depth explanation/list:
 
  Lustrous Metal       |
  ---------------------+---------
-     | Metallic powder that shim
- Orichalcum Grains    | hourglas
-     | Monster Melee (Underfane 
-     | Cause, Monster Melee (Ill
-     | (Ymir Qul Underground), M
+     | Metallic powder that
+     shimmers gently, ideal for
+ Orichalcum Grains |
+ hourglasses. Locations: Easier
+ Said Than Done, 4-3,
+     | Monster Melee (Underfane
+     of Huin Qul), Rally To The
+     | Cause, Monster Melee
+     (Illusion's Home),
+     Summoning Melee | (Ymir Qul
+     Underground), Material Shop
+     (ch 6)
  ---------------------+---------
-     | Clump of legendary metal 
- Orichalcum Nugget    | weapons.
-     | Melee (Underfane of Huin 
-     | Monster Melee (Illusion's
-     | Qul Underground), Materia
+     | Clump of legendary metal
+     that produces high-caliber
+ Orichalcum Nugget | weapons.
+ Locations: Easier Said Than
+ Done, 4-3, Monster
+     | Melee (Underfane of Huin
+     Qul), Rally To The Cause,
+     6-5, | Monster Melee
+     (Illusion's Home),
+     Summoning Melee (Ymir | Qul
+     Underground), Material Shop
+     (ch 8)
  ---------------------+---------
-     | Ore replete with orichalc
- Orichalcum Ore       | Location
-     | (Underfane of Huin Qul), 
-     | Monster Melee (Illusion's
-     | Qul Underground), Materia
+     | Ore replete with
+     orichalcum that appears to
+     burn indigo.
+ Orichalcum Ore | Locations:
+ Easier Said Than Done, 4-3,
+ Monster Melee
+     | (Underfane of Huin Qul),
+     Rally To The Cause, 6-3,
+     6-5, | Monster Melee
+     (Illusion's Home),
+     Summoning Melee (Ymir | Qul
+     Underground), Material Shop
+     (ch 8)
  -------------------------------
 
 
 
  Durable Metal        |
  ---------------------+---------
-     | Incredibly hard granules 
- Adamant Grains       | formidab
-     | Feol Warren), Restoring H
+     | Incredibly hard granules
+     that can be ground into
+ Adamant Grains | formidable
+ weapons. Locations: 7-1,
+ Summoning Melee (The
+     | Feol Warren), Restoring
+     Honor, Material Shop (ch 8)
  ---------------------+---------
-     | Clump of adamant that cou
- Adamant Nugget       | stronges
-     | (The Feol Warren), Restor
+     | Clump of adamant that
+     could fatigue the arm of
+     even the
+ Adamant Nugget | strongest
+ armorer. Locations: 7-1, 8-6,
+ Summoning Melee
+     | (The Feol Warren),
+     Restoring Honor
  ---------------------+---------
-     | Hardest known naturally o
- Adamantite           | surpasse
-     | since antiquity. Location
-     | (The Feol Warren), Restor
+     | Hardest known naturally
+     occurring metal, its
+     strength
+ Adamantite | surpasses that of
+ most alloys. It has been widely
+ used
+     | since antiquity.
+     Locations: 7-1, 8-6,
+     Summoning Melee | (The Feol
+     Warren), Restoring Honor
  -------------------------------
 
 
 
  Brilliant Ore        |
  ---------------------+---------
-     | Faintly lit ore that appe
- Pink Silver          | touch. L
-     | Harmony In Discord, Monst
-     | Monster Melee (Underfane 
+     | Faintly lit ore that
+     appears to blush. Smooth to
+     the
+ Pink Silver | touch. Locations:
+ Summoning Melee (Fane of Tehp
+ Qul),
+     | Harmony In Discord,
+     Monster Melee (Zwaua
+     Rainwood), | Monster Melee
+     (Underfane of Huin Qul),
+     Rumble In The
  | Jungle, Material Shop (ch 4)
  ---------------------+---------
      | Ore casting light cold as
- White Silver         | over tim
+     snow. May cause frostbite
+ White Silver | over time.
+ Locations: Summoning Melee
+ (Fane of Tehp
      | Qul), Harmony In Discord,
-     | Rainwood), Monster Melee 
-     | In The Jungle, Material S
+     Monster Melee (Zwaua |
+     Rainwood), Monster Melee
+     (Underfane of Huin Qul),
+     Rumble | In The Jungle,
+     Material Shop (ch 6)
  ---------------------+---------
-     | Translucent ore used as w
- Pure Silver          | Location
-     | And Banditry, Harmony In 
+     | Translucent ore used as
+     window material in the
+     airship.
+ Pure Silver | Location:
+ Summoning Melee (Fane of Tehp
+ Qul), Baubles
+     | And Banditry, Harmony In
+     Discord, 4-1, Monster Melee
      | (Zwaua Rainwood), Monster
-     | Rumble In The Jungle, Mat
+     Melee (Underfane of Huin
+     Qul), | Rumble In The
+     Jungle, Material Shop (ch
+     6)
  -------------------------------
 
 
 
  Precious Ore         |
  ---------------------+---------
-     | Gold ore with a surface t
- Pink Gold            | length. 
-     | Ymir Qul Range), Monster 
-     | Incentive, Summoning Mele
-     | Moment's Peace, Material 
+     | Gold ore with a surface
+     that grows red when exposed
+     at
+ Pink Gold | length. Locations:
+ Materialistic, Monster Melee
+ (The
+     | Ymir Qul Range), Monster
+     Melee (The Neverwood), |
+     Incentive, Summoning Melee
+     (Dalmasca Estersand), For A
+     | Moment's Peace, Material
+     Shop (ch 8)
  ---------------------+---------
      | Gold ore that flakes into
- White Gold           | blade. L
+     white when sliced with a
+     sharp
+ White Gold | blade. Locations:
+ Materialistic, Monster Melee
+ (The Ymir
      | Qul Range), Monster Melee
-     | 8-1, Incentive, Summoning
-     | For A Moment's Peace
+     (The Neverwood), Comfort
+     Food, | 8-1, Incentive,
+     Summoning Melee (Dalmasca
+     Estersand), | For A
+     Moment's Peace
  ---------------------+---------
-     | Rumors dub it the materia
- Pure Gold            | is mere 
-     | Melee (The Ymir Qul Range
+     | Rumors dub it the
+     material gil is coined
+     from, but that
+ Pure Gold | is mere conjecture.
+ Locations: Materialistic,
+ Monster
+     | Melee (The Ymir Qul
+     Range), Monster Melee (The
      | Neverwood), Comfort Food,
-     | Melee (Dalmasca Estersand
+     8-1, Incentive, Summoning |
+     Melee (Dalmasca Estersand),
+     For A Moment's Peace
  -------------------------------
 
 
 
  Ephemeral Ore        |
  ---------------------+---------
-     | Metal so magnificent, it 
- Damascus Steel       | battle s
+     | Metal so magnificent, it
+     is said that any who bear
+     it in
+ Damascus Steel | battle shall
+ be victorious.
 | Location: Material Shop (ch 8)
  ---------------------+---------
-     | Mythical metal spoken of 
- Scarletite           | in pure 
+     | Mythical metal spoken of
+     in fables. Cannot be
+     processed
+ Scarletite | in pure form.
 | Location: Material Shop (ch 8)
  ---------------------+---------
-     | Unparalleled ore said to 
- Zodiac Ore           | struck b
+     | Unparalleled ore said to
+     contain the fury of a god
+ Zodiac Ore | struck by a blade
+ of this metal. Locations:
+ Incentive,
      | Summoning Melee (Gates of
+     Shattered Time), Midlight's
     | Deep (multiple areas)
  -------------------------------
 
@@ -12869,8 +13190,13 @@ is an in-depth explanation/list:
  Everburn             |
  ---------------------+---------
      | Flame flickers within the
- Everburn             | countles
+     crystal that has formed
+     over
+ Everburn | countless eons.
+ Locations: Stroke of Luck,
+ Summoning
      | Melee (Gates of Shattered
+     Time)
  -------------------------------
 
 
@@ -12878,133 +13204,237 @@ is an in-depth explanation/list:
  Yellow Gemstone      |
  ---------------------+---------
      | Yellow gemstone possessed
- Tiger-Eye            | forms wi
-     | Melee (Fane of Gucuma Qul
+     by a beast's soul. Thunder
+ Tiger-Eye | forms within when
+ it is rubbed. Locations: 2-2,
+ Monster
+     | Melee (Fane of Gucuma
+     Qul), Midlight's Deep,
+     Material
          | Shop (ch 4)
  ---------------------+---------
-     | Yellow gemstone blessed b
- Beryl                | sunlight
-     | Locations: 2-2, Monster M
+     | Yellow gemstone blessed
+     by the earth. Resonates
+     with
+ Beryl | sunlight at dawn and
+ radiates a light of its own.
+     | Locations: 2-2, Monster
+     Melee (Fane of Gucuma Qul),
      | Material Shop (ch 6)
  ---------------------+---------
-     | Yellow gemstone in the sh
- Topaz                | holder w
-     | (Fane of Gucuma Qul), Mat
+     | Yellow gemstone in the
+     shape of a Hume heart.
+     Fills its
+ Topaz | holder with bloodlust.
+ Locations: 2-2, Monster Melee
+     | (Fane of Gucuma Qul),
+     Material Shop (ch 6)
  -------------------------------
 
 
 
  Green Gemstone       |
  ---------------------+---------
-     | Green gemstone with the f
- Peridot              | a clear 
+     | Green gemstone with the
+     fragrance of a forest
+     breeze on
+ Peridot | a clear day.
+ Locations: Summoning Melee
+ (Fane of Tehp
      | Qul), Harmony In Discord,
-     | Veiled Isle), Material Sh
+     Summoning Melee (Oghu, the
+     | Veiled Isle), Material
+     Shop (ch 4)
  ---------------------+---------
-     | Green gemstone imbued wit
- Malachite            | phoenix.
-     | Harmony In Discord, Summo
+     | Green gemstone imbued
+     with the eternal breath of
+     the
+ Malachite | phoenix. Locations:
+ Summoning Melee (Fane of Tehp
+ Qul),
+     | Harmony In Discord,
+     Summoning Melee (Oghu, the
+     Veiled
  | Isle), Material Shop (ch 6)
  ---------------------+---------
      | Green gemstone blessed by
- Emerald              | when lic
+     a saint. May reveal the
+     future
+ Emerald | when licked.
+ Locations: Summoning Melee
+ (Fane of Tehp
      | Qul), Harmony In Discord,
-     | the Veiled Isle), Materia
+     4-1, Summoning Melee (Oghu,
+     | the Veiled Isle),
+     Material Shop (ch 6)
  -------------------------------
 
 
 
  Blue Gemstone        |
  ---------------------+---------
-     | Blue gemstone loved by a 
- Lapis Lazuli         | nightmar
-     | 5-2, A Savory Task, Rumbl
-     | Pirate Melee (The Ymir Qu
-     | (Illusion's Home), Materi
+     | Blue gemstone loved by a
+     moon goddess. Wards off
+ Lapis Lazuli | nightmares.
+ Locations: Monster Melee (Zwaua
+ Rainwood),
+     | 5-2, A Savory Task,
+     Rumble In The Jungle, 6-1,
+     Sky | Pirate Melee (The
+     Ymir Qul Range), Monster
+     Melee | (Illusion's Home),
+     Material Shop (ch 6)
  ---------------------+---------
      | Blue gemstone deep as the
- Aquamarine           | dances. 
-     | A Savory Task, Rumble In 
-     | Melee (The Ymir Qul Range
+     sea. Often utilized in rain
+ Aquamarine | dances. Locations:
+ Monster Melee (Zwaua Rainwood),
+ 5-2,
+     | A Savory Task, Rumble In
+     The Jungle, 6-1, Sky Pirate
+     | Melee (The Ymir Qul
+     Range), Monster Melee
+     (Illusion's
  | Home), Material Shop (ch 8)
  ---------------------+---------
-     | Blue gemstone that resemb
- Sapphire             | Location
-     | Task, Serpent's Rage, Rum
-     | Sky Pirate Melee (The Ymi
-     | (Illusion's Home), Materi
+     | Blue gemstone that
+     resembles a fragment of
+     fallen sky.
+ Sapphire | Locations: Monster
+ Melee (Zwaua Rainwood), 5-2, A
+ Savory
+     | Task, Serpent's Rage,
+     Rumble In The Jungle, 6-1,
+     6-3, | Sky Pirate Melee
+     (The Ymir Qul Range),
+     Monster Melee | (Illusion's
+     Home), Material Shop (ch 8)
  -------------------------------
 
 
 
  Red Gemstone         |
  ---------------------+---------
-     | Red gemstone sharing its 
- Garnet               | prevent 
+     | Red gemstone sharing its
+     name with a saint. Said to
+ Garnet | prevent misfortune.
+ Locations: 7-1, Summoning Melee
      | (Dalmasca Estersand), For
+     A Moment's Peace, Material
          | Shop (ch 8)
  ---------------------+---------
-     | Red gemstone reminiscent 
- Spinel               | among wa
+     | Red gemstone reminiscent
+     of a fire dragon. Venerated
+ Spinel | among warriors as a
+ symbol of strength. Locations:
+ 7-1,
      | Summoning Melee (Dalmasca
+     Estersand), For A Moment's
      | Peace
  ---------------------+---------
-     | Red gemstone born from th
- Ruby                 | Recircul
+     | Red gemstone born from
+     the eye of a fire god.
+ Ruby | Recirculates lost blood.
+ Locations: 7-1, Summoning Melee
      | (Dalmasca Estersand), For
+     A Moment's Peace
  -------------------------------
 
 
 
  Glistening Shard     |
  ---------------------+---------
-     | Embodies the prayers of w
- Coral Fragment       | like a f
-     | Veiled Isle), Serpent's R
+     | Embodies the prayers of
+     water spirits. Light and
+     soft
+ Coral Fragment | like a
+ feather. Locations: Summoning
+ Melee (Oghu, the
+     | Veiled Isle), Serpent's
+     Rage, Darkening Clouds
+     Gather,
       Material Shop (ch 8)
  ---------------------+---------
-     | An elegant specimen. Nowa
- Coral Branch         | young lo
-     | Veiled Isle), Serpent's R
+     | An elegant specimen.
+     Nowadays it is exchanged
+     between
+ Coral Branch | young lovers.
+ Locations: Summoning Melee
+ (Oghu, the
+     | Veiled Isle), Serpent's
+     Rage, Darkening Clouds
+     Gather
  ---------------------+---------
      | Pure white miracle of the
- Pearl                | magick p
-     | Veiled Isle), Serpent's R
+     sea. Endowed with immense
+ Pearl | magick power.
+ Locations: Summoning Melee
+ (Oghu, the
+     | Veiled Isle), Serpent's
+     Rage, Darkening Clouds
+     Gather
  -------------------------------
 
 
 
  Rare Gemstone        |
  ---------------------+---------
-     | Gemstone traditionally fe
- Moonstone            | to open 
-     | Dalmascan Treasure, Mater
+     | Gemstone traditionally
+     feared to bring misfortune.
+     Said
+ Moonstone | to open the gateway
+ to another world. Locations:
+     | Dalmascan Treasure,
+     Material Shop (ch 8)
  ---------------------+---------
      | Gemstone that mirrors the
- Opal                 | holder's
-     | Dalmascan Treasure, Mater
+     bond of the gods. Draws its
+ Opal | holder's soul to the
+ heavens after death. Locations:
+     | Dalmascan Treasure,
+     Material Shop (ch 8)
  ---------------------+---------
-     | Brilliant gemstone symbol
- Diamond              | itself m
-     | Dalmascan Treasure, Summo
-     | Time), Midlight's Deep (m
+     | Brilliant gemstone
+     symbolic of the conqueror.
+     The stone
+ Diamond | itself may conquer
+ those of a weak heart.
+ Locations:
+     | Dalmascan Treasure,
+     Summoning Melee (Gates of
+     Shattered | Time),
+     Midlight's Deep (multiple
+     levels)
  -------------------------------
 
 
 
  Fine-grained Wood    |
  ---------------------+---------
-     | Pink, lightly scented woo
- Cherrywood Chips     | potpourr
- | Pampa), Material Shop (ch 4)
+     | Pink, lightly scented
+     wood chips that make for
+     excellent
+ Cherrywood Chips | potpourri.
+ Locations: 2-1, Monster Melee
+ (The Bosco | Pampa), Material
+ Shop (ch 4)
  ---------------------+---------
-     | Delicate sticks often fas
- Cherrywood Stick     | monks. L
+     | Delicate sticks often
+     fashioned into pen shafts
+     by
+ Cherrywood Stick | monks.
+ Locations: 2-1, Monster Melee
+ (The Bosco Pampa),
      | Material Shop (ch 6)
  ---------------------+---------
-     | Thick log of cherrywood w
- Cherrywood Log       | about th
-     | (The Bosca Pampa), Materi
+     | Thick log of cherrywood
+     with a fragrance that will
+     waft
+ Cherrywood Log | about the
+ hearth and home. Location: 2-1,
+ Monster Melee
+     | (The Bosca Pampa),
+     Material Shop (ch 6)
  -------------------------------
 
 
@@ -13012,55 +13442,105 @@ is an in-depth explanation/list:
  Fragrant Wood        |
  ---------------------+---------
      | Colorful chips of a maple
- Maplewood Chips      | Location
-     | (Cebe, Isle of Treasures)
+     tree with a sweet flavor.
+ Maplewood Chips | Locations:
+ 3-5, Easier Said Than Done,
+ Summoning Melee
+     | (Cebe, Isle of
+     Treasures), Material Shop
+     (ch 4)
  ---------------------+---------
-     | Stick carrying delicious 
- Maplewood Stick      | morning.
-     | Summoning Melee (Cebe, Is
-     | (ch 6)
+     | Stick carrying delicious
+     syrup, best relished in the
+ Maplewood Stick | morning.
+ Locations: 3-5, Easier Said
+ Than Done,
+     | Summoning Melee (Cebe,
+     Isle of Treasures),
+     Material Shop | (ch 6)
  ---------------------+---------
-     | Lovely log of maplewood t
- Maplewood Log        | buried. 
-     | Said Than Done, 4-1, Summ
-     | Treasures), Material Shop
+     | Lovely log of maplewood
+     that calls fortune where it
+     is
+ Maplewood Log | buried.
+ Locations: 3-5, Baubles And
+ Banditry, Easier
+     | Said Than Done, 4-1,
+     Summoning Melee (Cebe, Isle
+     of | Treasures), Material
+     Shop (ch 6)
  -------------------------------
 
 
 
  Smooth Wood          |
  ---------------------+---------
-     | Chips of gentle cedarwood
- Cedarwood Chips      | Location
-     | Behind, Summoning Melee (
-     | (Illusion's Home), Materi
+     | Chips of gentle
+     cedarwood. Ideal for making
+     paper.
+ Cedarwood Chips | Locations:
+ 5-2, Monster Melee (Tomaj's
+ Camp), That Left
+     | Behind, Summoning Melee
+     (Heaven's Vigil), Monster
+     Melee | (Illusion's Home),
+     Material Shop (ch 8)
  ---------------------+---------
-     | Cheap cedar stick commonl
- Cedarwood Stick      | homeware
-     | That Left Behind, Summoni
-     | Monster Melee (Illusion's
+     | Cheap cedar stick
+     commonly used in furniture
+     and
+ Cedarwood Stick | homewares.
+ Locations: 5-2, Monster Melee
+ (Tomaj's Camp),
+     | That Left Behind,
+     Summoning Melee (Heaven's
+     Vigil), | Monster Melee
+     (Illusion's Home), Material
+     Shop (ch 8)
  ---------------------+---------
-     | Log of the barkless cedar
- Cedarwood Log        | roof. Lo
-     | Left Behind, Summoning Me
-     | Monster Melee (illusion's
+     | Log of the barkless
+     cedarwood one might use to
+     support a
+ Cedarwood Log | roof.
+ Locations: 5-2, Monster Melee
+ (Tomaj's Camp), That
+     | Left Behind, Summoning
+     Melee (Heaven's Vigil),
+     6-3, | Monster Melee
+     (illusion's Home), Material
+     Shop (ch 8)
  -------------------------------
 
 
 
  Sturdy Wood          |
  ---------------------+---------
-     | Hard chips of oak. Perfec
- Oakwood Chips        | Location
-     | (Giza Plains), Material S
+     | Hard chips of oak.
+     Perfect for carving crafts.
+ Oakwood Chips | Locations: 7-2,
+ Destiny In The Stars, Monster
+ Melee
+     | (Giza Plains), Material
+     Shop (ch 8)
  ---------------------+---------
-     | Sturdy stick of oak. Any 
- Oakwood Stick        | least on
+     | Sturdy stick of oak. Any
+     home with a boy will have
+     at
+ Oakwood Stick | least one.
+ Locations: 7-2, Destiny In The
+ Stars, Monster
      | Melee (Giza Plains), 8-4,
+     Dance Of The Dead
  ---------------------+---------
-     | Mighty log of oak. Its im
- Oakwood Log          | shrine a
-     | In The Stars, Monster Mel
+     | Mighty log of oak. Its
+     imposing appearance is
+     suited to
+ Oakwood Log | shrine and temple
+ construction. Locations: 7-2,
+ Destiny
+     | In The Stars, Monster
+     Melee (Giza Plains), 8-4,
+     8-5,
       | Dance Of The Dead
  -------------------------------
 
@@ -13068,168 +13548,320 @@ is an in-depth explanation/list:
 
  Small Bone           |
  ---------------------+---------
-     | Fragments of shattered bo
- Bone Chips           | before u
-     | Pirate Melee (Fane of Guc
-     | Material Shop (ch 4)
+     | Fragments of shattered
+     bone. Douse with holy water
+ Bone Chips | before use, or
+ suffer dire consequences.
+ Locations: Sky
+     | Pirate Melee (Fane of
+     Gucuma Qul), Maleficent
+     Mayhem, | Material Shop (ch
+     4)
  ---------------------+---------
-     | Bone that has retained it
- Sturdy Bone          | purified
+     | Bone that has retained
+     its original form. Must be
+ Sturdy Bone | purified by a
+ cleric before it can be used.
+ Locations:
      | Sky Pirate Melee (Fane of
+     Gucuma Qul), Maleficent
  | Mayhem, Material Shop (ch 6)
  ---------------------+---------
-     | Bone of one who led a blo
- Blood-darkened Bone  | sorcery 
-     | Of Gucuma Qul), Maleficen
+     | Bone of one who led a
+     blood-soaked life.
+     Effective in
+ Blood-darkened Bone | sorcery
+ and alchemy. Locations: Sky
+ Pirate Melee (Fane
+     | Of Gucuma Qul),
+     Maleficent Mayhem, Material
+     Shop (ch 6)
  -------------------------------
 
 
 
  Large Bone           |
  ---------------------+---------
-     | Bone from a dead wolf tha
- Wolf Bone            | out. Loc
+     | Bone from a dead wolf
+     that attracts beasts when
+     held
+ Wolf Bone | out. Locations:
+ Monster Melee (The Kisne Rise),
+ Monster
      | Melee (Shadow of Paharo),
-     | Monster Melee (The Guguer
-     | (Underfane of Huin Qul), 
-     | (ch 4)
+     Baubles And Banditry, 5-1,
+     | Monster Melee (The
+     Guguerro Greendeep),
+     Monster Melee | (Underfane
+     of Huin Qul),
+     Materialistic, Material
+     Shop | (ch 4)
  ---------------------+---------
-     | Bone of a knight's warhor
- Destrier Bone        | Location
-     | (Shadow of Paharo), Baubl
-     | Melee (The Guguerro Green
-     | of Huin Qul), Materialist
+     | Bone of a knight's
+     warhorse. Brings luck in
+     dodging.
+ Destrier Bone | Locations:
+ Monster Melee (The Kisne Rise),
+ Monster Melee
+     | (Shadow of Paharo),
+     Baubles And Banditry, 5-1,
+     Monster | Melee (The
+     Guguerro Greendeep),
+     Monster Melee (Underfane |
+     of Huin Qul),
+     Materialistic, Material
+     Shop (ch 6)
  ---------------------+---------
      | Bone of a hundred beasts'
- Beastlord Bone       | trophies
-     | Monster Melee (Shadow of 
-     | Melee (The Guguerro Green
-     | of Huin Qul), Materialist
+     master. Used for weapons
+     and
+ Beastlord Bone | trophies.
+ Locations: Monster Melee (The
+ Kisne Rise),
+     | Monster Melee (Shadow of
+     Paharo), 4-1, 5-1, Monster
+     | Melee (The Guguerro
+     Greendeep), Monster Melee
+     (Underfane | of Huin Qul),
+     Materialistic, Material
+     Shop (ch 6)
  -------------------------------
 
 
 
  Massive Bone         |
  ---------------------+---------
-     | Burly bone as rigid as me
- Tyrant Bone          | it is st
-     | Melee (The Ymir Qul Range
+     | Burly bone as rigid as
+     metal. An airy sound echoes
+     when
+ Tyrant Bone | it is struck.
+ Locations: Stroke Of Luck, Sky
+ Pirate
+     | Melee (The Ymir Qul
+     Range), Monster Melee (The
      | Neverwood), Monster Melee
-     | Dalmascan Treasure, Mater
+     (Dalmasca Estersand), |
+     Dalmascan Treasure,
+     Material Shop (ch 8)
  ---------------------+---------
-     | Supple and pliant bone th
- Wyvern Bone          | bows. Lo
-     | Ymir Qul Range), Monster 
-     | Melee (Dalmasca Estersand
+     | Supple and pliant bone
+     that extends the firing
+     range of
+ Wyvern Bone | bows. Locations:
+ Stroke Of Luck, Sky Pirate
+ Melee (The
+     | Ymir Qul Range), Monster
+     Melee (The Neverwood),
+     Monster | Melee (Dalmasca
+     Estersand), Dalmascan
+     Treasure
  ---------------------+---------
-     | Dragon bone that retains 
- Wyrm Bone            | death. L
-     | Ymir Qul Range), Monster 
-     | Melee (Dalmasca Estersand
+     | Dragon bone that retains
+     its magickal properties
+     after
+ Wyrm Bone | death. Locations:
+ Stroke Of Luck, Sky Pirate
+ Melee (The
+     | Ymir Qul Range), Monster
+     Melee (The Neverwood),
+     Monster | Melee (Dalmasca
+     Estersand), Dalmascan
+     Treasure
  -------------------------------
 
 
 
  Timeworn Carapace    |
  ---------------------+---------
-     | Hard and glossy insect sh
- Insect Husk          | color. L
-     | Qul), Maleficent Mayhem, 
+     | Hard and glossy insect
+     shell. Price varies by size
+     and
+ Insect Husk | color. Locations:
+ 2-1, Sky Pirate Melee (Fane of
+ Gucuma
+     | Qul), Maleficent Mayhem,
+     Summoning Melee (Fame of
+     Tehp
   | Qul), Material Shop (ch 4)
  ---------------------+---------
-     | Scales of a unique fish. 
- Ichthon Scales       | collecto
-     | Qul), Maleficent Mayhem, 
+     | Scales of a unique fish.
+     The pattern is adored by
+ Ichthon Scales | collectors.
+ Locations: Sky Pirate Melee
+ (Fane of Gucuma
+     | Qul), Maleficent Mayhem,
+     Baubles And Banditry,
+     Material
          | Shop (ch 6)
  ---------------------+---------
-     | Carapace celebrated by en
- Ancient Turtle Shell | luster f
-     | Gucuma Qul), Maleficent M
-     | The Trodden Past, Materia
+     | Carapace celebrated by
+     engineers. Remains hard
+     after
+ Ancient Turtle Shell | luster
+ fades. Locations: Sky Pirate
+ Melee (Fane of
+     | Gucuma Qul), Maleficent
+     Mayhem, Baubles And
+     Banditry, | The Trodden
+     Past, Material Shop (ch 6)
  -------------------------------
 
 
 
  Solid Carapace       |
  ---------------------+---------
-     | Armor of a knight's warho
- Destrier Barding     | Location
-     | Skysea), Monster Melee (G
-     | The Sword In The Shell, S
-     | Vigil), Monster Melee (Il
-     | (ch 6)
+     | Armor of a knight's
+     warhorse. Favors form over
+     function.
+ Destrier Barding | Locations:
+ 4-1, Monster Melee (Isshu,
+ Jewel of the
+     | Skysea), Monster Melee
+     (Gugoza Falls), A Savory
+     Task, | The Sword In The
+     Shell, Summoning Melee
+     (Heaven's | Vigil), Monster
+     Melee (Illusion's Home),
+     Material Shop | (ch 6)
  ---------------------+---------
-     | Heat-resistant scales tha
- Lamia Scales         | Location
-     | Skysea), Monster Melee (G
-     | The Sword In The Shell, S
-     | Vigil), Monster Melee (Il
-     | (ch 6)
+     | Heat-resistant scales
+     that melt when immersed in
+     water.
+ Lamia Scales | Locations: 4-1,
+ Monster Melee (Isshu, Jewel of
+ the
+     | Skysea), Monster Melee
+     (Gugoza Falls), A Savory
+     Task, | The Sword In The
+     Shell, Summoning Melee
+     (Heaven's | Vigil), Monster
+     Melee (Illusion's Home),
+     Material Shop | (ch 6)
  ---------------------+---------
-     | Shell of a vicious dragon
- Battlewyrm Carapace  | Location
-     | Skysea), Monster Melee (G
-     | The Sword In The Shell, S
-     | Vigil), Monster Melee (Il
-     | (ch 8)
+     | Shell of a vicious
+     dragon, robust beyond
+     compare.
+ Battlewyrm Carapace |
+ Locations: 4-1, 4-3, Monster
+ Melee (Isshu, Jewel of the
+     | Skysea), Monster Melee
+     (Gugoza Falls), A Savory
+     Task, | The Sword In The
+     Shell, Summoning Melee
+     (Heaven's | Vigil), Monster
+     Melee (Illusion's Home)
+     Material Shop | (ch 8)
  -------------------------------
 
 
 
  Robust Carapace      |
  ---------------------+---------
-     | Scales from the dragon th
- Wyvern Scales        | their us
+     | Scales from the dragon
+     that rules the skies, known
+     for
+ Wyvern Scales | their use in
+ skybandits. Locations: 7-2,
+ Monster Melee
      | (The Feol Warren), Flames
-     | (ch 8)
+     Of Torment, Material Shop |
+     (ch 8)
  ---------------------+---------
-     | Scales that prove the rou
- Ring Wyrm Scales     | a mighty
-     | Melee (The Feol Warren), 
+     | Scales that prove the
+     round dragon's existence.
+     It takes
+ Ring Wyrm Scales | a mighty
+ weapon to break them.
+ Locations: 7-2, Monster
+     | Melee (The Feol Warren),
+     Flames Of Torment
  ---------------------+---------
-     | Scales from an ancient sp
- Emperor Scales       | sturdine
-     | Monster Melee (The Feol W
+     | Scales from an ancient
+     species, now extinct. Their
+ Emperor Scales | sturdiness is
+ undiminished by the ages.
+ Locations: 7-2,
+     | Monster Melee (The Feol
+     Warren)
  -------------------------------
 
 
 
  Worn Hide            |
  ---------------------+---------
-     | Commonplace and inexpensi
- Rat Pelt             | but can 
-     | Bosco Pampa), Material Sh
+     | Commonplace and
+     inexpensive skins that are
+     easily torn,
+ Rat Pelt | but can be
+ stretched. Locations: 2-1,
+ Monster Melee (The
+     | Bosco Pampa), Material
+     Shop (ch 4)
  ---------------------+---------
-     | More delicate that one wo
- Bat Wing             | it appea
-     | Bosco Pampa), Material Sh
+     | More delicate that one
+     would ever imagine from the
+     way
+ Bat Wing | it appears in
+ flight. Locations: 2-1, Monster
+ Melee (The
+     | Bosco Pampa), Material
+     Shop (ch 6)
  ---------------------+---------
      | Snakeskin with a peculiar
- Serpentskin          | to the u
-     | Monster Melee (The Bosco 
+     glossy finish. Often
+     applied
+ Serpentskin | to the undersides
+ of crafts and armor. Locations:
+ 2-1,
+     | Monster Melee (The Bosco
+     Pampa), Material Shop (ch
+     6)
  -------------------------------
 
 
 
  Furry Hide           |
  ---------------------+---------
-     | Fluffy, white swatch of f
- Rabbit Pelt          | Location
-     | Easier Said Than Done, Mo
-     | Summoning Melee (Oghu, th
-     | That Left Behind, Materia
+     | Fluffy, white swatch of
+     fur. Hard to resist
+     touching.
+ Rabbit Pelt | Location: 3-5,
+ Summoning Melee (Fane of Tehp
+ Qul),
+     | Easier Said Than Done,
+     Monster Melee (Tomaj's
+     Camp), | Summoning Melee
+     (Oghu, the Veiled Isle),
+     Serpent's Rage, | That Left
+     Behind, Material Shop (ch
+     4)
  ---------------------+---------
      | Wavy, thermally insulated
- Coeurl Pelt          | regions 
+     pelt that is a must-have in
+ Coeurl Pelt | regions of cold.
+ Locations: 3-5, Summoning Melee
+ (Fane
      | of Tehp Qul), Easier Said
-     | (Tomaj's Camp), Summoning
-     | Serpent's Rage, That Left
+     Than Done, 5-4, Monster
+     Melee | (Tomaj's Camp),
+     Summoning Melee (Oghu, the
+     Veiled Isle), | Serpent's
+     Rage, That Left Behind,
+     Material Shop (ch 6)
  ---------------------+---------
-     | Legendary beastlord pelt 
- Beastlord Pelt       | soft. Lo
-     | Qul), Easier Said Than Do
-     | Monster Melee (Tomaj's Ca
-     | Veiled Isle), Serpent's R
+     | Legendary beastlord pelt
+     that appears spiny, but
+     feels
+ Beastlord Pelt | soft.
+ Locations: 3-5, Summoning Melee
+ (Fane of Tehp
+     | Qul), Easier Said Than
+     Done, The Trodden Past,
+     4-3, 5-4, | Monster Melee
+     (Tomaj's Camp), Summoning
+     Melee (Oghu, the | Veiled
+     Isle), Serpent's Rage, That
+     Left Behind, Material
          | shop (ch 6)
  -------------------------------
 
@@ -13237,44 +13869,81 @@ is an in-depth explanation/list:
 
  Luxuriant Hide       |
  ---------------------+---------
-     | Wing that leaks viscous, 
- Ahriman Wing         | hold mor
+     | Wing that leaks viscous,
+     black oil. The oil tends to
+ Ahriman Wing | hold more value
+ than the wing itself.
+ Locations:
      | Summoning Melee (Heaven's
-     | Neverwood), Summoning Mel
-     | Moment's Peace, Material 
+     Vigil), Monster Melee (The
+     | Neverwood), Summoning
+     Melee (Dalmasca Estersand),
+     For A | Moment's Peace,
+     Material Shop (ch 8)
  ---------------------+---------
-     | Wing as hard as rock. Hea
- Tyrant Wing          | mechanis
+     | Wing as hard as rock.
+     Heaviness is attributable
+     to the
+ Tyrant Wing | mechanism being
+ more for attack than flight.
+ Locations:
      | Summoning Melee (Heaven's
-     | Neverwood), Echo Of Thund
-     | Estersand), For A Moment'
+     Vigil), Summoning Melee
+     (The | Neverwood), Echo Of
+     Thunder, Summoning Melee
+     (Dalmasca | Estersand), For
+     A Moment's Peace
  ---------------------+---------
-     | Great arching wing design
- Wyvern Wing          | flight. 
+     | Great arching wing
+     designed to lift a gigantic
+     mass into
+ Wyvern Wing | flight.
+ Inspiration for the airship.
+ Locations:
      | Summoning Melee (Heaven's
-     | Neverwood), Echo Of Thund
-     | Estersand), For A Moment'
+     Vigil), Monster Melee (The
+     | Neverwood), Echo Of
+     Thunder, Summoning Melee
+     (Dalmasca | Estersand), For
+     A Moment's Peace
  -------------------------------
 
 
 
  Braided Twine        |
  ---------------------+---------
-     | Tail used prominently in 
- Rat Tail             | Location
-     | Treasures), 5-2, Monster 
-     | In The Shell, Material Sh
+     | Tail used prominently in
+     Alchemy. Putrid flavor.
+ Rat Tail | Locations: 4-2,
+ Summoning Melee (Cebe, Isle of
+     | Treasures), 5-2, Monster
+     Melee (Gugoza Falls), The
+     Sword | In The Shell,
+     Material Shop (ch 6)
  ---------------------+---------
-     | Enchanted tail demons whi
- Demon Tail           | Location
-     | Treasures), 5-2, Monster 
-     | In The Shell, Monster Mel
-     | Material Shop (ch 8)
+     | Enchanted tail demons
+     whip about to express
+     themselves.
+ Demon Tail | Locations: 4-2,
+ Summoning Melee (Cebe, Isle of
+     | Treasures), 5-2, Monster
+     Melee (Gugoza Falls), The
+     Sword | In The Shell,
+     Monster Melee (The Ymir Qul
+     Range), | Material Shop (ch
+     8)
  ---------------------+---------
-     | A slender, scissile tenta
- Malboro Vine         | bunch. L
+     | A slender, scissile
+     tentacle. Usually shipped
+     by the
+ Malboro Vine | bunch.
+ Locations: 4-2, Summoning Melee
+ (Cebe, Isle Of
      | The Treasures), 4-3, 5-2,
-     | The Sword In The Shell, M
+     Monster Melee (Gugoza
+     Falls), | The Sword In The
+     Shell, Monster Melee (The
+     Ymir Qul
  | Range), Material Shop (ch 8)
  -------------------------------
 
@@ -13282,17 +13951,30 @@ is an in-depth explanation/list:
 
  Starched Twine       |
  ---------------------+---------
-     | Whip-shaped whisker purch
- Coeurl Whisker       | novelty.
-     | (Giza Plains), Material S
+     | Whip-shaped whisker
+     purchased for sorcery and
+     as a
+ Coeurl Whisker | novelty.
+ Locations: Destiny In The
+ Stars, Monster Melee
+     | (Giza Plains), Material
+     Shop (ch 8)
  ---------------------+---------
-     | This warhorse mane is wel
- Destrier Mane        | Location
+     | This warhorse mane is
+     well-known spell reagent.
+ Destrier Mane | Locations:
+ Destiny In The Stars, Monster
+ Melee (Giza
 | Plains), 8-3, Just For Penelo
  ---------------------+---------
      | Thick and firm whisker of
- Dragon Whisker       | warrior 
-     | Destiny In The Stars, Mon
+     a dragon. Hung proudly in
+ Dragon Whisker | warrior houses
+ as a testament to might.
+ Locations:
+     | Destiny In The Stars,
+     Monster Melee (Giza
+     Plains), 8-3,
        | Just For Penelo
  -------------------------------
 
@@ -13301,62 +13983,114 @@ is an in-depth explanation/list:
  Viscous Fluid        |
  ---------------------+---------
      | Gelatinous, clouded green
- Green Liquid         | Location
-     | Melee (Underfane of Huin 
-     | Left Behind, Monster Mele
-     | Melee (Illusion's Home), 
+     ooze effusing a foul
+     stench.
+ Green Liquid | Locations: 4-3,
+ Monster Melee (Tomaj's Camp),
+ Monster
+     | Melee (Underfane of Huin
+     Qul), Rally To The Cause,
+     That | Left Behind, Monster
+     Melee (The Ymir Qul Range),
+     Monster | Melee (Illusion's
+     Home), Material Shop (ch 6)
  ---------------------+---------
-     | Constantly frothy yellow 
- Yellow Liquid        | Location
-     | Monster Melee (Underfane 
-     | Cause, That Left Behind, 
-     | Qul Range), Monster Melee
+     | Constantly frothy yellow
+     liquid. Audibly corrodes
+     metal.
+ Yellow Liquid | Locations: 4-3,
+ 5-3, Monster Melee (Tomaj's
+ Camp),
+     | Monster Melee (Underfane
+     of Huin Qul), Rally To The
+     | Cause, That Left Behind,
+     6-3, Monster Melee (The
+     Ymir | Qul Range), Monster
+     Melee (Illusion's Home),
+     Material
          | Shop (ch 8)
  ---------------------+---------
      | Liquid metal. Turns toxic
- Silver Liquid        | than iro
-     | Camp), Monster Melee (Und
-     | The Cause, That Left Behi
-     | Ymir Qul Range), Monster 
-     | Material Shop (ch 8)
+     when exposed to metal other
+ Silver Liquid | than iron.
+ Locations: 4-3, 5-3, Monster
+ Melee (Tomaj's
+     | Camp), Monster Melee
+     (Underfane of Huin Qul),
+     Rally To | The Cause, That
+     Left Behind, 6-3, Monster
+     Melee (The | Ymir Qul
+     Range), Monster Melee
+     (Illusion's Home), 7-1, |
+     Material Shop (ch 8)
  -------------------------------
 
 
 
  Aqueous Fluid        |
  ---------------------+---------
-     | Colorless, odorless oil e
- Slime Oil            | new medi
+     | Colorless, odorless oil
+     essential to the
+     formulation of
+ Slime Oil | new medicines.
+ Locations: 7-1, Monster Melee
+ (The Feol
 | Warren), Material Shop (ch 8)
  ---------------------+---------
-     | Fluid lighter and more lu
- Unpurified Ether     | right an
-     | 8-5, Monster Melee (The F
+     | Fluid lighter and more
+     lucid than air. Seen from
+     the
+ Unpurified Ether | right angle,
+ it shimmers iridescently.
+ Locations: 7-1,
+     | 8-5, Monster Melee (The
+     Feol Warren)
  ---------------------+---------
-     | Concoction only a demon c
- Demon Drink          | fought i
-     | Monster Melee (The Feol W
+     | Concoction only a demon
+     could brew. Wars have been
+ Demon Drink | fought in hopes
+ of seizing it. Locations: 7-1,
+ 8-5,
+     | Monster Melee (The Feol
+     Warren)
  -------------------------------
 
 
 
  Volatile Compound    |
  ---------------------+---------
-     | Smoldering ash left in a 
- Bomb Cinder          | instantl
-     | Melee (The Neverwood), Su
-     | Underground), Summoning M
-     | Restoring Honor, Material
+     | Smoldering ash left in a
+     bomb's wake. Can boil water
+ Bomb Cinder | instantly.
+ Locations: Stroke Of Luck, 6-4,
+ Monster
+     | Melee (The Neverwood),
+     Summoning Melee (The Ymir
+     Qul | Underground),
+     Summoning Melee (The Feol
+     Warren), | Restoring Honor,
+     Material Shop (ch 8)
  ---------------------+---------
      | Shrapnel from a detonated
- Bomb Shell           | improper
-     | (The Neverwood), Summonin
-     | Summoning Melee (The Feol
+     bomb. Combusts if handled
+ Bomb Shell | improperly.
+ Locations: Stroke Of Luck,
+ Monster Melee
+     | (The Neverwood),
+     Summoning Melee (Ymir Qul
+     Underground), | Summoning
+     Melee (The Feol Warren),
+     Restoring Honor
  ---------------------+---------
-     | Arm of a bomb turned to c
- Bomb Crank           | roasting
-     | Melee (The Neverwood), Su
-     | Underground), Summoning M
+     | Arm of a bomb turned to
+     coal, its fire ideal for
+ Bomb Crank | roasting meat.
+ Locations: Stroke Of Luck, 6-4,
+ Monster
+     | Melee (The Neverwood),
+     Summoning Melee (Ymir Qul |
+     Underground), Summoning
+     Melee (The Feol Warren),
        | Restoring Honor
  -------------------------------
 
@@ -13364,36 +14098,67 @@ is an in-depth explanation/list:
 
  Grim Dust            |
  ---------------------+---------
-     | Powder that subverts all 
- Zombie Powder        | on perso
-     | Summoning Melee (The Para
+     | Powder that subverts all
+     recognition and reasoning.
+     Use
+ Zombie Powder | on persons is
+ prohibited by law. Locations:
+ 7-2,
+     | Summoning Melee (The
+     Paramina Rift), Material
+     Shop (ch
      | 8)
  ---------------------+---------
-     | Light-absorbing black pow
- Death Powder         | darkenin
+     | Light-absorbing black
+     powder. Popular among
+     artists as a
+ Death Powder | darkening agent.
+ Locatons: 7-2, Summoning Melee
+ (The
         | Paramina Rift)
  ---------------------+---------
-     | The scent of the soul in 
- Soul Powder          | simulacr
+     | The scent of the soul in
+     material form. Summons a
+ Soul Powder | simulacrum when
+ sprinkled about the body.
+ Locations:
      | 7-1, 7-2, Summoning Melee
+     (The Paramina Rift), 8-5
  -------------------------------
 
 
 
  Glittering Dust      |
  ---------------------+---------
-     | Sand that sparkles like t
- Stardust             | insist i
-     | The Stars, Monster Melee 
+     | Sand that sparkles like
+     the night sky. Many
+     scholars
+ Stardust | insist it is not of
+ this world. Locations: Destiny
+ In
+     | The Stars, Monster Melee
+     (Dalmasca Estersand),
+     Dalmascan
 | Treasure, Material Shop (ch 8)
  ---------------------+---------
-     | Crescent-shaped grains of
- Moondust             | Location
-     | Estersand), 8-2, Dalmasca
+     | Crescent-shaped grains
+     often bottled and given as
+     gifts.
+ Moondust | Locations: Destiny
+ In The Stars, Monster Melee
+ (Dalmasca
+     | Estersand), 8-2,
+     Dalmascan Treasure
  ---------------------+---------
-     | Heliotropic sand that har
- Sundust              | and radi
-     | In The Stars, Monster Mel
+     | Heliotropic sand that
+     harnesses sunlight during
+     the day
+ Sundust | and radiates a golden
+ glow by night. Locations:
+ Destiny
+     | In The Stars, Monster
+     Melee (Dalmasca Estersand),
+     8-2,
       | Dalmascan Treasure
  -------------------------------
 
@@ -13401,16 +14166,26 @@ is an in-depth explanation/list:
 
  Fire Shard           |
  ---------------------+---------
-     | Stone enchanted by fire. 
- Fire Stone           | unnatura
+     | Stone enchanted by fire.
+     Plain at first glance, but
+ Fire Stone | unnaturally warm.
+ Locations: Many many places,
+ Material
          | Shop (ch 4)
  ---------------------+---------
-     | Stone imbued with fire. C
- Fire Magicite        | blazing 
+     | Stone imbued with fire.
+     Can stoke a campfire into a
+ Fire Magicite | blazing
+ inferno. Locations: Many many
+ places, Material
          | Shop (ch 6)
  ---------------------+---------
      | Crystallized form of fire
- Fire Crystal         | synthesi
+     so pure, it holds the power
+     of
+ Fire Crystal | synthesis.
+ Locations: Many, many places,
+ Material Shop
      | (ch 6)
  -------------------------------
 
@@ -13419,15 +14194,26 @@ is an in-depth explanation/list:
  Water Shard          |
  ---------------------+---------
      | Stone enchanted by water.
- Water Stone          | moist wh
+     Plain at first glance, but
+ Water Stone | moist when split.
+ Locations: Many, many places,
+ Material
          | Shop (ch 4)
  ---------------------+---------
-     | Stone imbued with water. 
- Water Magicite       | clear. L
+     | Stone imbued with water.
+     Renders muddy waters
+     crystal
+ Water Magicite | clear.
+ Locations: Many, many places,
+ Material Shop (ch
      | 6)
  ---------------------+---------
-     | Crystallized form of wate
- Water Crystal        | hydratin
+     | Crystallized form of
+     water that holds life-
+     giving
+ Water Crystal | hydrating
+ power. Locations: Many, many
+ places, Material
          | Shop (ch 6)
  -------------------------------
 
@@ -13435,16 +14221,28 @@ is an in-depth explanation/list:
 
  Storm Shard          |
  ---------------------+---------
-     | Stone enchanted by a stor
- Storm Stone          | electros
+     | Stone enchanted by a
+     storm. Plain at first
+     glance, but
+ Storm Stone | electrostatic.
+ Locations: Many, many places,
+ Material
          | Shop (ch 4)
  ---------------------+---------
-     | Stone imbued with a storm
- Storm Magicite       | small ai
+     | Stone imbued with a
+     storm. Used as a power
+     source in
+ Storm Magicite | small
+ airships. Locations: Many, many
+ places, Material
          | Shop (ch 6)
  ---------------------+---------
-     | Crystallized storm that r
- Storm Crystal        | fracture
+     | Crystallized storm that
+     releases destructive power
+     when
+ Storm Crystal | fractured.
+ Locations: Many, many places,
+ Material Shop
      | (ch 6)
  -------------------------------
 
@@ -13453,15 +14251,26 @@ is an in-depth explanation/list:
  Earth Shard          |
  ---------------------+---------
      | Stone enchanted by earth.
- Earth Stone          | ponderou
+     Plain at first glance, but
+ Earth Stone | ponderous.
+ Locations: Many, many places,
+ Material Shop
      | (ch 4)
  ---------------------+---------
-     | Stone imbued with earth. 
- Earth Magicite       | buried. 
+     | Stone imbued with earth.
+     Spawns vegetation where it
+     is
+ Earth Magicite | buried.
+ Locations: Many, many places,
+ Material Shop (ch
      | 6)
  ---------------------+---------
-     | Crystallized earth that c
- Earth Crystal        | Location
+     | Crystallized earth that
+     carries the weight of
+     reason.
+ Earth Crystal | Locations:
+ Many, many places, Material
+ Shop (ch 6)
      |
  -------------------------------
 
@@ -13469,10 +14278,17 @@ is an in-depth explanation/list:
 
  Inferno Crystal      |
  ---------------------+---------
-     | Gemstone afire with a sou
- Fire Gem             | at its c
-     | Ruins), Summoning Melee (
-     | Honor, 9-1, Masterless Mi
+     | Gemstone afire with a
+     soul of ignition. Hellfire
+     seethes
+ Fire Gem | at its core.
+ Locations: Monster Melee (The
+ Glabados
+     | Ruins), Summoning Melee
+     (The Feol Warren),
+     Restoring | Honor, 9-1,
+     Masterless Minions,
+     Midlight's Deep
       | (multiple levels)
  -------------------------------
 
@@ -13480,10 +14296,17 @@ is an in-depth explanation/list:
 
  Tide Crystal         |
  ---------------------+---------
-     | Gemstone springing with t
- Water Gem            | ocean un
-     | (The Paramina Rift), Dark
-     | Of Midnight, Midlight's D
+     | Gemstone springing with
+     the vitality of the well.
+     An
+ Water Gem | ocean undulates at
+ its core. Locations: Summoning
+ Melee
+     | (The Paramina Rift),
+     Darkening Clouds Gather,
+     9-2, Wings | Of Midnight,
+     Midlight's Deep (multiple
+     levels)
  -------------------------------
 
 
@@ -13491,9 +14314,16 @@ is an in-depth explanation/list:
  Empyrean Crystal     |
  ---------------------+---------
      | Gemstone roaring with the
- Storm Gem            | Lightnin
-     | (Dalmasca Estersand), Dal
-     | Precepts, Midlight's Deep
+     authority of the
+     thundercloud.
+ Storm Gem | Lightning flashes
+ at its core. Locations: Monster
+ Melee
+     | (Dalmasca Estersand),
+     Dalmascan Treasure, 9-3,
+     Keeper Of | Precepts,
+     Midlight's Deep (multiple
+     levels)
  -------------------------------
 
 
@@ -13501,9 +14331,16 @@ is an in-depth explanation/list:
  Terra Crystal        |
  ---------------------+---------
      | Gemstone as awe-inspiring
- Earth Gem            | ruptures
+     as the boundless land.
+     Seismic
+ Earth Gem | ruptures rage at
+ its core. Locations: Summoning
+ Melee
      | (Dalmasca Estersand), For
-     | On THe Big Bridge, Midlig
+     A Moment's Peace, 9-4,
+     Battle | On THe Big Bridge,
+     Midlight's Deep (multiple
+     levels)
  -------------------------------
 
 
@@ -13525,163 +14362,242 @@ be in treasure chests:
 
  Longsword
  -------------------------------
- Simple weapon, favored for its 
+ Simple weapon, favored for its
+ ease of use. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? No
  -------------------------------
- Stats: 10 Attack, 5 Magick Atta
+ Stats: 10 Attack, 5 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Mythril Blade
  -------------------------------
- Sword of mythril, used widely a
+ Sword of mythril, used widely
+ among travelers. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Mission 2-2            
+ Reward: Mission 2-2 | Element:
+ N/A | Craft Shop? Yes
  -------------------------------
- Stats: 20 Attack, 10 Magick Att
+ Stats: 20 Attack, 10 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Tempestblade
  -------------------------------
- Lightning-forged blade imbued w
+ Lightning-forged blade imbued
+ with the heaven's wrath. |
+ Tomaj's Shop? Yes
  -------------------------------
- Reward: Bug Hunt               
+ Reward: Bug Hunt | Element:
+ Lightning | Craft Shop? Yes
  -------------------------------
- Stats: 30 Attack, 15 Magick Att
+ Stats: 30 Attack, 15 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Flametongue
  -------------------------------
- Inferno-forged blade that cuts 
+ Inferno-forged blade that cuts
+ swaths of flame. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Fire |
+ Craft Shop? Yes
  -------------------------------
- Stats: 40 Attack, 20 Magick Att
+ Stats: 40 Attack, 20 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Icebrand
  -------------------------------
- Chilling blade quenched in glac
+ Chilling blade quenched in
+ glacial ice. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Water |
+ Craft Shop? Yes
  -------------------------------
- Stats: 49 Attack, 29 Magick Att
+ Stats: 49 Attack, 29 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Runeblade
  -------------------------------
- Mystical sword adorned with anc
+ Mystical sword adorned with
+ ancient glyphs. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? Yes
  -------------------------------
- Stats: 50 Attack, 25 Magick Att
+ Stats: 50 Attack, 25 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Earthsabre
  -------------------------------
  Speed-reducing sword capable of
+ slicking rock. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: The Sword In The Shell 
+ Reward: The Sword In The Shell
+ | Element: Ground | Craft Shop?
+ Yes
  -------------------------------
- Stats: 60 Attack, 30 Magick Att
+ Stats: 60 Attack, 30 Magick
+ Attack, 40 Attack Speed | Slow
+ Hit
  -------------------------------
 
 
  Blood Sword
  -------------------------------
  Crimson sword that craves enemy
+ HP. | Tomaj's Shop? Yes
  -------------------------------
- Reward: Mission 7-1            
+ Reward: Mission 7-1 | Element:
+ N/A | Craft Shop? Yes
  -------------------------------
- Stats: 70 Attack, 35 Magick Att
+ Stats: 70 Attack, 35 Magick
+ Attack, 40 Attack Speed | HP
+ Absorb
  -------------------------------
 
 
  Pyroblade
  -------------------------------
- Sword forged of everburn, carna
+ Sword forged of everburn,
+ carnage incarnate. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Fire |
+ Craft Shop? Yes
  -------------------------------
- Stats: 65 Attack, 30 Magick Att
+ Stats: 65 Attack, 30 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Anastasia
  -------------------------------
- Godsblade entrusted to Vaan by 
+ Godsblade entrusted to Vaan by
+ the Yarhi. | Tomaj's Shop? No
  -------------------------------
- Reward: Mission 7-3            
+ Reward: Mission 7-3 | Element:
+ N/A | Craft Shop? No
  -------------------------------
- Stats*: 80 Attack, 40 Magick At
+ Stats*: 80 Attack, 40 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
- * the stats of this weapon incr
+ * the stats of this weapon
+   increase with each completion
+   of Midlight Deep.
 
 
  Durandal
  -------------------------------
- Fabled sword of saintly glory. 
+ Fabled sword of saintly glory.
+ | Tomaj's Shop? No
  -------------------------------
- Reward: Battle On The Big Bridg
+ Reward: Battle On The Big
+ Bridge | Element: N/A | Craft
+ Shop? No
  -------------------------------
- Stats: 95 Attack, 45 Magick Att
+ Stats: 95 Attack, 45 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Laevateinn
  -------------------------------
- Flaming sword enchanted by impe
+ Flaming sword enchanted by
+ imperious flames. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Fire |
+ Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Stoneblade
  -------------------------------
- Rumbing sword enchanted by crus
+ Rumbing sword enchanted by
+ crushing stone. | Tomaj's Shop?
+ No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Ground |
+ Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Coral Blade
  -------------------------------
  Fluid sword enchanted by raging
+ seas. | Tomaj's Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Water |
+ Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Rudra Talwar
  -------------------------------
- Charged sword enchanted by blin
+ Charged sword enchanted by
+ blinding lightning. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element:
+ Lightning | Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Ultima Weapon
  -------------------------------
- Sword capable of returning all 
+ Sword capable of returning all
+ to naught. | Tomaj's Shop? No
  -------------------------------
- Reward: Keeper Of Precepts     
+ Reward: Keeper Of Precepts |
+ Element: N/A | Craft Shop? No
  -------------------------------
- Stats: 100 Attack, 50 Magick At
+ Stats: 100 Attack, 50 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
@@ -13692,110 +14608,164 @@ be in treasure chests:
  Crescent Pole
  -------------------------------
  Ceremonial staff topped with an
+ ornamental headpiece. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Healing
+ | Craft Shop? No
  -------------------------------
- Stats: 5 Attack, 10 Magick Atta
+ Stats: 5 Attack, 10 Magick
+ Attack, 12 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Cherry Staff
  -------------------------------
- Pink-hued staff of fragrant che
+ Pink-hued staff of fragrant
+ cherry wood. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: Mission 2-2            
+ Reward: Mission 2-2 | Element:
+ Healing | Craft Shop? Yes
  -------------------------------
- Stats: 10 Attack, 20 Magick Att
+ Stats: 10 Attack, 20 Magick
+ Attack, 12 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Mythril Staff
  -------------------------------
- The mythril of this staff shimm
+ The mythril of this staff
+ shimmers in the sun. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Mission 3-3            
+ Reward: Mission 3-3 | Element:
+ Healing | Craft Shop? Yes
  -------------------------------
- Stats: 15 Attack, 30 Magick Att
+ Stats: 15 Attack, 30 Magick
+ Attack, 12 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Vesper Pole
  -------------------------------
- Mighty spirits swell within thi
+ Mighty spirits swell within
+ this luminous staff. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Healing
+ | Craft Shop? Yes
  -------------------------------
- Stats: 20 Attack, 40 Magick Att
+ Stats: 20 Attack, 40 Magick
+ Attack, 12 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Staff Of Protection
  -------------------------------
- Durable staff that strengthens 
+ Durable staff that strengthens
+ defense. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Healing
+ | Craft Shop? No
  -------------------------------
- Stats: 25 Attack, 50 Magick Att
+ Stats: 25 Attack, 50 Magick
+ Attack, 12 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Pole Of Blessings
  -------------------------------
- Pole bearing the sages' wishes 
+ Pole bearing the sages' wishes
+ of prosperity. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: Mission 7-2            
+ Reward: Mission 7-2 | Element:
+ Healing | Craft Shop? No
  -------------------------------
- Stats: 35 Attack, 70 Magick Att
+ Stats: 35 Attack, 70 Magick
+ Attack, 12 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Silver Staff
  -------------------------------
- Elegant staff that emits a silv
+ Elegant staff that emits a
+ silvery light. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Healing
+ | Craft Shop? Yes
  -------------------------------
- Stats: 30 Attack, 60 Magick Att
+ Stats: 30 Attack, 60 Magick
+ Attack, 12 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Golden Staff
  -------------------------------
- Lustrous staff leden with the p
+ Lustrous staff leden with the
+ precious metal. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Healing
+ | Craft Shop? Yes
  -------------------------------
- Stats: 35 Attack, 80 Magick Att
+ Stats: 35 Attack, 80 Magick
+ Attack, 12 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Pyroscepter
  -------------------------------
- Celestial fire scepter wrought 
+ Celestial fire scepter wrought
+ by ancient rites. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Healing
+ | Craft Shop? Yes
  -------------------------------
- Stats: 30 Attack, 65 Magick Att
+ Stats: 30 Attack, 65 Magick
+ Attack, 12 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Raqs Sharqi
  -------------------------------
- Mystic staff that cleanses ailm
+ Mystic staff that cleanses
+ ailments. | Tomaj's Shop? No
  -------------------------------
- Reward: Keeper Of Precepts     
+ Reward: Keeper Of Precepts |
+ Element: Healing | Craft Shop?
+ No
  -------------------------------
- Stats: 50 Attack, 100 Magick At
+ Stats: 50 Attack, 100 Magick
+ Attack, 20 Attack Speed | Auto
+ Esuna
  -------------------------------
 
 
  Nirvana
  -------------------------------
- Baton used in somber, contempla
+ Baton used in somber,
+ contemplative dances. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Healing
+ | Craft Shop? Yes
  -------------------------------
- Stats: 40 Attack, 90 Magick Att
+ Stats: 40 Attack, 90 Magick
+ Attack, 12 Attack Speed | No
+ Ability
  -------------------------------
 
 
@@ -13806,130 +14776,192 @@ be in treasure chests:
  Rod Of Fire
  -------------------------------
  Apprentice's rod cast in plumes
+ of flame. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Fire |
+ Craft Shop? No
  -------------------------------
- Stats: 5 Attack, 10 Magick Atta
+ Stats: 5 Attack, 10 Magick
+ Attack, 36 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Gaia Rod
  -------------------------------
- Apprentice's rod graced with th
+ Apprentice's rod graced with
+ the earth's blessing. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Mission 2-1            
+ Reward: Mission 2-1 | Element:
+ Ground | Craft Shop? Yes
  -------------------------------
- Stats: 10 Attack, 20 Magick Att
+ Stats: 10 Attack, 20 Magick
+ Attack, 36 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Rod Of Lightning
  -------------------------------
- Rod fashioned in the likeness o
+ Rod fashioned in the likeness
+ of a lightning bolt. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element:
+ Lightning | Craft Shop? Yes
  -------------------------------
- Stats: 15 Attack, 30 Magick Att
+ Stats: 15 Attack, 30 Magick
+ Attack, 36 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Storm Wand
  -------------------------------
  Harnesses the fury of the storm
+ to slow foes. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: Mission 4-2            
+ Reward: Mission 4-2 | Element:
+ Lightning | Craft Shop? Yes
  -------------------------------
- Stats: 20 Attack, 45 Magick Att
+ Stats: 20 Attack, 45 Magick
+ Attack, 22 Attack Speed | Slow
+ Hit
  -------------------------------
 
 
  Rod Of Ice
  -------------------------------
  Rod crafted from a crystallized
+ undin entite. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Water |
+ Craft Shop? Yes
  -------------------------------
- Stats: 25 Attack, 40 Magick Att
+ Stats: 25 Attack, 40 Magick
+ Attack, 36 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Earth Wand
  -------------------------------
  Wand that blinds foes with mud.
+ | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Ground |
+ Craft Shop? Yes
  -------------------------------
- Stats: 25 Attack, 50 Magick Att
+ Stats: 25 Attack, 50 Magick
+ Attack, 20 Attack Speed | Blind
+ Hit
  -------------------------------
 
 
  Rime Wand
  -------------------------------
  Water wand that silences target
+ with a torrent. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Water |
+ Craft Shop? Yes
  -------------------------------
- Stats: 30 Attack, 60 Magick Att
+ Stats: 30 Attack, 60 Magick
+ Attack, 22 Attack Speed |
+ Silence Hit
  -------------------------------
 
 
  Pyrowand
  -------------------------------
  Wand pulsing with the flames of
+ ancient spirits. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Fire |
+ Craft Shop? Yes
  -------------------------------
- Stats: 30 Attack, 65 Magick Att
+ Stats: 30 Attack, 65 Magick
+ Attack, 15 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Wizard's Rod
  -------------------------------
  Rod that sets even the farthest
+ target ablaze. | Tomaj's Shop?
+ No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Fire |
+ Craft Shop? Yes
  -------------------------------
- Stats: 45 Attack, 90 Magick Att
+ Stats: 45 Attack, 90 Magick
+ Attack, 36 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Terra Wand
  -------------------------------
- Rod that immobilizes enemy in q
+ Rod that immobilizes enemy in
+ quicksand. | Tomaj's Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Ground |
+ Craft Shop? Yes
  -------------------------------
- Stats: 5 Attack, 10 Magick Atta
+ Stats: 5 Attack, 10 Magick
+ Attack, 36 Attack Speed |
+ Immobilize Hit
  -------------------------------
 
 
  Lava Wand
  -------------------------------
- Fire wand that confuses target 
+ Fire wand that confuses target
+ with an eruption. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Mission 7-2            
+ Reward: Mission 7-2 | Element:
+ Fire | Craft Shop? Yes
  -------------------------------
- Stats: 40 Attack, 80 Magick Att
+ Stats: 40 Attack, 80 Magick
+ Attack, 12 Attack Speed |
+ Confuse Hit
  -------------------------------
 
 
  Whale Whisker
  -------------------------------
  Rod that overwhelms target with
+ a flash flood. | Tomaj's Shop?
+ No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Water |
+ Craft Shop? Yes
  -------------------------------
- Stats: 45 Attack, 90 Magick Att
+ Stats: 45 Attack, 90 Magick
+ Attack, 36 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Zeus Mace
  -------------------------------
- Rod that scatters bolts in thre
+ Rod that scatters bolts in
+ three directions. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element:
+ Lightning | Craft Shop? Yes
  -------------------------------
- Stats: 45 Attack, 90 Magick Att
+ Stats: 45 Attack, 90 Magick
+ Attack, 20 Attack Speed | Split
+ Shots
  -------------------------------
 
 
@@ -13939,130 +14971,193 @@ be in treasure chests:
 
  Spectral Edge
  -------------------------------
- Colorful skybandit ideal for be
+ Colorful skybandit ideal for
+ beginners. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? No
  -------------------------------
- Stats: 10 Attack, 5 Magick Atta
+ Stats: 10 Attack, 5 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Mythril Cutter
  -------------------------------
- Skybandit popular on the street
+ Skybandit popular on the
+ streets of Rabanastre. |
+ Tomaj's Shop? Yes
  -------------------------------
- Reward: Mission 2-3            
+ Reward: Mission 2-3 | Element:
+ N/A | Craft Shop? Yes
  -------------------------------
- Stats: 20 Attack, 10 Magick Att
+ Stats: 20 Attack, 10 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Detonator
  -------------------------------
  Skybandit that leaves a wake of
+ flame. | Tomaj's Shop? Yes
  -------------------------------
- Reward: Once Bitten, Twice Shy 
+ Reward: Once Bitten, Twice Shy
+ | Element: Fire | Craft Shop?
+ Yes
  -------------------------------
- Stats: 30 Attack, 15 Magick Att
+ Stats: 30 Attack, 15 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Wavefront
  -------------------------------
- Skybandit that unleashes powerf
+ Skybandit that unleashes
+ powerful shock waves. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? Yes
  -------------------------------
- Stats: 40 Attack, 20 Magick Att
+ Stats: 40 Attack, 20 Magick
+ Attack, 40 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Discharger
  -------------------------------
  New skybandit that electrocutes
+ its target. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element:
+ Lightning | Craft Shop? Yes
  -------------------------------
- Stats: 50 Attack, 25 Magick Att
+ Stats: 50 Attack, 25 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Pressurizer
  -------------------------------
- Prototype skybandit with a powe
+ Prototype skybandit with a
+ powerful cannon. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Serpent's Rage         
+ Reward: Serpent's Rage |
+ Element: N/A | Craft Shop? Yes
  -------------------------------
- Stats: 60 Attack, 30 Magick Att
+ Stats: 60 Attack, 30 Magick
+ Attack, 40 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Pyroglide
  -------------------------------
- Skybandit mounted with a lamben
+ Skybandit mounted with a
+ lambent blade of flame. |
+ Tomaj's Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Fire |
+ Craft Shop? Yes
  -------------------------------
- Stats: 65 Attack, 30 Magick Att
+ Stats: 65 Attack, 30 Magick
+ Attack, 40 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Rainmaker
  -------------------------------
  Aquatic skybandit with the fury
+ of a squall. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Water |
+ Craft Shop? Yes
  -------------------------------
- Stats: 80 Attack, 40 Magick Att
+ Stats: 80 Attack, 40 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Duster
  -------------------------------
- Atypically earth-attack oriente
+ Atypically earth-attack
+ oriented skybandit. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Ground |
+ Craft Shop? Yes
  -------------------------------
- Stats: 70 Attack, 35 Magick Att
+ Stats: 70 Attack, 35 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Divider
  -------------------------------
- Skybandit with unprecedented sh
+ Skybandit with unprecedented
+ shearing force. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 40 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Eruptor
  -------------------------------
- Skybandit with firepower defyin
+ Skybandit with firepower
+ defying imagination. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Fire |
+ Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Resonator
  -------------------------------
  Decoding skybandit that siphons
+ target's HP. | Tomaj's Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 40 Attack Speed | No
+ Ability
  -------------------------------
 
  Vortex
  -------------------------------
- Storm skybandit that wreaks sho
+ Storm skybandit that wreaks
+ shock-wave havoc. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: Echo Of Thunder        
+ Reward: Echo Of Thunder |
+ Element: Lightning | Craft
+ Shop? No
  -------------------------------
- Stats: 100 Attack, 50 Magick At
+ Stats: 100 Attack, 50 Magick
+ Attack, 40 Attack Speed | No
+ Ability
  -------------------------------
 
 
@@ -14073,120 +15168,176 @@ be in treasure chests:
  Spear
  -------------------------------
  Typical spear common throughout
+ Ivalice. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? No
  -------------------------------
- Stats: 20 Attack, 10 Magick Att
+ Stats: 20 Attack, 10 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Storm Lance
  -------------------------------
- Lance tipped with a lightning-c
+ Lance tipped with a lightning-
+ charged cross. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: Mission 2-3            
+ Reward: Mission 2-3 | Element:
+ Lightning | Craft Shop? No
  -------------------------------
- Stats: 25 Attack, 10 Magick Att
+ Stats: 25 Attack, 10 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Mythril Lance
  -------------------------------
- Lance with a translucent blue m
+ Lance with a translucent blue
+ mythril tip. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: Mission 3-2            
+ Reward: Mission 3-2 | Element:
+ N/A | Craft Shop? No
  -------------------------------
- Stats: 30 Attack, 15 Magick Att
+ Stats: 30 Attack, 15 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Trident
  -------------------------------
  Three-pronged spear imbued with
+ the essence of water. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Water |
+ Craft Shop? No
  -------------------------------
- Stats: 40 Attack, 20 Magick Att
+ Stats: 40 Attack, 20 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Red Halberd
  -------------------------------
- Axe-tipped pole wrapped in inte
+ Axe-tipped pole wrapped in
+ intense flames. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Fire |
+ Craft Shop? Yes
  -------------------------------
- Stats: 50 Attack, 25 Magick Att
+ Stats: 50 Attack, 25 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Ice Lance
  -------------------------------
  Lance with an icy tip to freeze
+ enemies. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Water |
+ Craft Shop? Yes
  -------------------------------
- Stats: 60 Attack, 30 Magick Att
+ Stats: 60 Attack, 30 Magick
+ Attack, 20 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Pyrolance
  -------------------------------
  A lance of fire conceived by an
+ aegyl warrior. | Tomaj's Shop?
+ No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Fire |
+ Craft Shop? Yes
  -------------------------------
- Stats: 65 Attack, 35 Magick Att
+ Stats: 65 Attack, 35 Magick
+ Attack, 20 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Blood Lance
  -------------------------------
- Lance that devours life force f
+ Lance that devours life force
+ from its victim. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? Yes
  -------------------------------
- Stats: 80 Attack, 80 Magick Att
+ Stats: 80 Attack, 80 Magick
+ Attack, 40 Attack Speed | HP
+ Absorb
  -------------------------------
 
 
  Buluc Chabtan
  -------------------------------
  Spear of earth that takes cruel
+ sacrifices. | Tomaj's Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Ground |
+ Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Holy Lance
  -------------------------------
- A glorious spear with angel win
+ A glorious spear with angel
+ wings engraved. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Luin
  -------------------------------
- Barbed lance imbued with the mi
+ Barbed lance imbued with the
+ might of the storm. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element:
+ Lightning | Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 40 Attack Speed |
+ Spread Damage
  -------------------------------
 
 
  Gungnir
  -------------------------------
- Forked lance that dances with f
+ Forked lance that dances with
+ flame. | Tomaj's Shop? No
  -------------------------------
- Reward: Wings Of Midnight      
+ Reward: Wings Of Midnight |
+ Element: Fire | Craft Shop? No
  -------------------------------
- Stats: 100 Attack, 50 Magick At
+ Stats: 100 Attack, 50 Magick
+ Attack, 40 Attack Speed |
+ Spread Damage
  -------------------------------
 
 
@@ -14196,51 +15347,76 @@ be in treasure chests:
 
  Rigel
  -------------------------------
- Elaborate gun inscribed with no
+ Elaborate gun inscribed with
+ noble words. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? Yes
  -------------------------------
- Stats: 70 Attack, 35 Magick Att
+ Stats: 70 Attack, 35 Magick
+ Attack, 36 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Arcturus
  -------------------------------
- Rifle specifically crafted to h
+ Rifle specifically crafted to
+ hunt monsters. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? Yes
  -------------------------------
- Stats: 80 Attack, 40 Magick Att
+ Stats: 80 Attack, 40 Magick
+ Attack, 36 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Regulus
  -------------------------------
  Earthen gun with a roaring lion
+ on the muzzle. | Tomaj's Shop?
+ No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Ground |
+ Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 36 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Polaris
  -------------------------------
- State-of-the-art gun designed f
+ State-of-the-art gun designed
+ for range. | Tomaj's Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 MAgick Att
+ Stats: 90 Attack, 45 MAgick
+ Attack, 36 Attack Speed | +
+ Attack Range
  -------------------------------
 
 
  Formalhaut
  -------------------------------
- Magicite-inlaid gun with aquati
+ Magicite-inlaid gun with
+ aquatic force. | Tomaj's Shop?
+ No
  -------------------------------
  Reward: Darkening Clouds Gather
+ | Element: Water | Craft Shop?
+ No
  -------------------------------
- Stats: 100 Attack, 50 Magick At
+ Stats: 100 Attack, 50 Magick
+ Attack, 36 Attack Speed | No
+ Ability
  -------------------------------
 
 
@@ -14250,51 +15426,74 @@ be in treasure chests:
 
  Elfin Bow
  -------------------------------
- Bow preferred by the masterful 
+ Bow preferred by the masterful
+ archers. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? Yes
  -------------------------------
- Stats: 80 Attack, 40 Magick Att
+ Stats: 80 Attack, 40 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Artemis Bow
  -------------------------------
- Radiant bow carbed by the moon 
+ Radiant bow carbed by the moon
+ goddess. | Tomaj's Shop? Yes
  -------------------------------
- Reward: Ordered Chaos          
+ Reward: Ordered Chaos |
+ Element: N/A | Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Raijoudou
  -------------------------------
- Long-range bow that unfurls thu
+ Long-range bow that unfurls
+ thunderbolts. | Tomaj's Shop?
+ No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element:
+ Lightning | Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 20 Attack Speed | +
+ Attack Range
  -------------------------------
 
 
  Perseus Bow
  -------------------------------
  Hero's bow hails arrows of mist
+ to slow target. | Tomaj's Shop?
+ No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Water |
+ Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 20 Attack Speed | Stop
+ Hit
  -------------------------------
 
 
  Sagittarius
  -------------------------------
- Heavenly bow that seals the fat
+ Heavenly bow that seals the
+ fate of its target. | Tomaj's
+ Shop? No
  -------------------------------
  Reward: An Uninvited Invitation
+ | Element: N/A | Craft Shop? No
  -------------------------------
- Stats: 100 Attack, 50 Magick At
+ Stats: 100 Attack, 50 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
@@ -14305,50 +15504,72 @@ be in treasure chests:
  Hornito
  -------------------------------
  Small explosive found in castle
+ armories. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? Yes
  -------------------------------
- Stats: 80 Attack, 40 Magick Att
+ Stats: 80 Attack, 40 Magick
+ Attack, 30 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Fumarole
  -------------------------------
- Sneaky smoke bomb that blinds t
+ Sneaky smoke bomb that blinds
+ target. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? Yes
  -------------------------------
- Stats: 85 Attack, 40 Magick Att
+ Stats: 85 Attack, 40 Magick
+ Attack, 30 Attack Speed | Blind
+ Hit
  -------------------------------
 
 
  Tumulus
  -------------------------------
- Hand-bomb packed with fiery pow
+ Hand-bomb packed with fiery
+ power. | Tomaj's Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Fire |
+ Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 30 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Caldera
  -------------------------------
- Lighter, thinner, and easier-to
+ Lighter, thinner, and easier-
+ to-wield hand-bomb. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 30 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Volcano
  -------------------------------
- Quicker explosive with wider bl
+ Quicker explosive with wider
+ blast radius. | Tomaj's Shop?
+ No
  -------------------------------
- Reward: Dance Of The Dead      
+ Reward: Dance Of The Dead |
+ Element: N/A | Craft Shop? No
  -------------------------------
- Stats: 100 Attack, 50 Magick At
+ Stats: 100 Attack, 50 Magick
+ Attack, 27 Attack Speed |
+ Spread Damage
  -------------------------------
 
 
@@ -14358,51 +15579,74 @@ be in treasure chests:
 
  Defender
  -------------------------------
- Durable sword that strengthens 
+ Durable sword that strengthens
+ defense. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: N/A |
+ Craft Shop? Yes
  -------------------------------
- Stats: 80 Attack, 40 Magick Att
+ Stats: 80 Attack, 40 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Tyrfing
  -------------------------------
- Lightning sword that feeds on i
+ Lightning sword that feeds on
+ its bearer's life. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element:
+ Lightning | Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 30 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Galatyn
  -------------------------------
- Sword given to a knight by a sp
+ Sword given to a knight by a
+ spirit of the lake. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Element: Water |
+ Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Save The Queen
  -------------------------------
- Knight's sword emblematic of pr
+ Knight's sword emblematic of
+ proud loyalty. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: Mission 8-6            
+ Reward: Mission 8-6 | Element:
+ N/A | Craft Shop? Yes
  -------------------------------
- Stats: 90 Attack, 45 Magick Att
+ Stats: 90 Attack, 45 Magick
+ Attack, 60 Attack Speed | No
+ Ability
  -------------------------------
 
 
  Excalibur
  -------------------------------
  Mythical sword only a true king
+ may wield. | Tomaj's Shop? No
  -------------------------------
- Reward: Wings Of Midnight      
+ Reward: Wings Of Midnight |
+ Element: N/A | Craft Shop? No
  -------------------------------
- Stats: 100 Attack, 50 Magick At
+ Stats: 100 Attack, 50 Magick
+ Attack, 60 Attack Speed |
+ Spread Damage
  -------------------------------
 
 
@@ -14420,101 +15664,140 @@ index:
 
  Bronze Chestplate
  -------------------------------
- Light armor designed for sparri
+ Light armor designed for
+ sparring. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 9 Defense, 6 Magick Defe
+ Stats: 9 Defense, 6 Magick
+ Defense
  -------------------------------
 
 
  Kenpogi
  -------------------------------
- Training vesture common in the 
+ Training vesture common in the
+ eastern kingdoms. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Mission 2-3            
+ Reward: Mission 2-3 | Weakness:
+ N/A | Resistance: N/A
  -------------------------------
- Stats: 18 Defense, 12 Magick De
+ Stats: 18 Defense, 12 Magick
+ Defense
  -------------------------------
 
 
  Silver Chestplate
  -------------------------------
- Resplendent silver armor vulner
+ Resplendent silver armor
+ vulnerable to lightning. |
+ Tomaj's Shop? Yes
  -------------------------------
- Reward: Mission 3-2            
+ Reward: Mission 3-2 | Weakness:
+ Lightning | Resistance: N/A
  -------------------------------
- Stats: 27 Defense, 18 Magick De
+ Stats: 27 Defense, 18 Magick
+ Defense, 10 Magick, 5 Mind
  -------------------------------
 
 
  Ruby Chestplate
  -------------------------------
- Vermilion armor enchanted to re
+ Vermilion armor enchanted to
+ resist fire. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: Fire
  -------------------------------
- Stats: 36 Defense, 24 Magick De
+ Stats: 36 Defense, 24 Magick
+ Defense
  -------------------------------
 
 
  Jujitsu Gi
  -------------------------------
- Martial art garment of laced th
+ Martial art garment of laced
+ thick cloth. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 45 Defense, 30 Magick De
+ Stats: 45 Defense, 30 Magick
+ Defense, 10 Mind
  -------------------------------
 
 
  Black Garb
  -------------------------------
- Stealth battle gear dyed the co
+ Stealth battle gear dyed the
+ color of night. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: Mission 6-4            
+ Reward: Mission 6-4 | Weakness:
+ N/A | Resistance: N/A
  -------------------------------
- Stats: 54 Defense, 36 Magick De
+ Stats: 54 Defense, 36 Magick
+ Defense
  -------------------------------
 
 
  Power Vest
  -------------------------------
- Pure white vest of lightning-re
+ Pure white vest of lightning-
+ resistant threads. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Mission 7-2            
+ Reward: Mission 7-2 | Weakness:
+ N/A | Resistance: Lightning
  -------------------------------
- Stats: 63 Defense, 42 Magick De
+ Stats: 63 Defense, 42 Magick
+ Defense
  -------------------------------
 
 
  Ninja Gear
  -------------------------------
- Ninja battle gear ideal for con
+ Ninja battle gear ideal for
+ conducting espionage. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Comfort Food           
+ Reward: Comfort Food |
+ Weakness: N/A | Resistance: N/A
  -------------------------------
- Stats: 72 Defense, 48 Magick De
+ Stats: 72 Defense, 48 Magick
+ Defense, 10 Speed
  -------------------------------
 
 
  Diamond Chestplate
  -------------------------------
- Sturdy armor laden with the rar
+ Sturdy armor laden with the
+ rare gemstone. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 81 Defense, 54 Magick De
+ Stats: 81 Defense, 54 Magick
+ Defense, 15 Magick
  -------------------------------
 
 
  Gigas Chestplate
  -------------------------------
- Armor forbidden to all but the 
+ Armor forbidden to all but the
+ best warriors. | Tomaj's Shop?
+ No
  -------------------------------
- Reward: Masterless Minions     
+ Reward: Masterless Minions |
+ Weakness: N/A | Resistance: N/A
  -------------------------------
- Stats: 90 Defense, 60 Magick De
+ Stats: 90 Defense, 60 Magick
+ Defense, 10 Strength, 15 Speed
  -------------------------------
 
 
@@ -14524,101 +15807,139 @@ index:
 
  Dancer's Garb
  -------------------------------
- Gorgeous garment featuring need
+ Gorgeous garment featuring
+ needlework flowers. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 6 Defense, 9 Magick Defe
+ Stats: 6 Defense, 9 Magick
+ Defense
  -------------------------------
 
 
  Kilimweave Shirt
  -------------------------------
- Colorful shirt woven from rare 
+ Colorful shirt woven from rare
+ kilim silk. | Tomaj's Shop? Yes
  -------------------------------
- Reward: Mission 2-3            
+ Reward: Mission 2-3 | Weakness:
+ N/A | Resistance: N/A
  -------------------------------
- Stats: 12 Defense, 18 Magick De
+ Stats: 12 Defense, 18 Magick
+ Defense
  -------------------------------
 
 
  Raincloud Raiment
  -------------------------------
- Water-resistant shroud from an 
+ Water-resistant shroud from an
+ age of ice. | Tomaj's Shop? Yes
  -------------------------------
- Reward: Bug Hunt               
+ Reward: Bug Hunt | Weakness:
+ N/A | Resistance: Water
  -------------------------------
- Stats: 18 Defense, 27 Magick De
+ Stats: 18 Defense, 27 Magick
+ Defense
  -------------------------------
 
 
  Bard's Tunic
  -------------------------------
- Tunic with ancient verse embroi
+ Tunic with ancient verse
+ embroidered in its sleeves. |
+ Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 24 Defense, 34 Magick De
+ Stats: 24 Defense, 34 Magick
+ Defense, 5 Mind
  -------------------------------
 
 
  Traveler's Vestment
  -------------------------------
- Garment reinforced to prevent c
+ Garment reinforced to prevent
+ cuts and scrapes. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: Earth
  -------------------------------
- Stats: 30 Defense, 45 Magick De
+ Stats: 30 Defense, 45 Magick
+ Defense
  -------------------------------
 
 
  Storm Gear
  -------------------------------
- Silky attire with the pride of 
+ Silky attire with the pride of
+ thunder itself. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: A Savory Task          
+ Reward: A Savory Task |
+ Weakness: N/A | Resistance:
+ Lightning
  -------------------------------
- Stats: 36 Defense, 54 Magick De
+ Stats: 36 Defense, 54 Magick
+ Defense
  -------------------------------
 
 
  Maduin Gear
  -------------------------------
- Gear representing unfathomable 
+ Gear representing unfathomable
+ horror. | Tomaj's Shop? Yes
  -------------------------------
- Reward: Mission 7-1            
+ Reward: Mission 7-1 | Weakness:
+ N/A | Resistance: N/A
  -------------------------------
- Stats: 42 Defense, 63 Magick De
+ Stats: 42 Defense, 63 Magick
+ Defense, 10 Magick
  -------------------------------
 
 
  Crimson Gear
  -------------------------------
- Glamorous apparel enchanted by 
+ Glamorous apparel enchanted by
+ imperious flames. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Comfort Food           
+ Reward: Comfort Food |
+ Weakness: N/A | Resistance:
+ Fire
  -------------------------------
- Stats: 48 Defense, 72 Magick De
+ Stats: 48 Defense, 72 Magick
+ Defense
  -------------------------------
 
 
  Gaia Gear
  -------------------------------
- Glamorous apparel enchanted by 
+ Glamorous apparel enchanted by
+ imperious flames. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: Earth
  -------------------------------
- Stats: 54 Defense, 84 Magick De
+ Stats: 54 Defense, 84 Magick
+ Defense, 10 Stamina
  -------------------------------
 
 
  Dancing Queen
  -------------------------------
- Ethereal garment for the young 
+ Ethereal garment for the young
+ and sweet. | Tomaj's Shop? No
  -------------------------------
- Reward: Destiny In The Stars   
+ Reward: Destiny In The Stars |
+ Weakness: N/A | Resistance: N/A
  -------------------------------
- Stats: 60 Defense, 90 Magick De
+ Stats: 60 Defense, 90 Magick
+ Defense, 15 Mind, 10 Speed
  -------------------------------
 
 
@@ -14628,101 +15949,138 @@ index:
 
  Cotton Robes
  -------------------------------
- Robes of soft cotton.          
+ Robes of soft cotton. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 5 Defense, 10 Magick Def
+ Stats: 5 Defense, 10 Magick
+ Defense
  -------------------------------
 
 
  Silk Robes
  -------------------------------
- Sheet white robes of flowing si
+ Sheet white robes of flowing
+ silk. | Tomaj's Shop? Yes
  -------------------------------
- Reward: Mission 2-2            
+ Reward: Mission 2-2 | Weakness:
+ N/A | Resistance: N/A
  -------------------------------
- Stats: 10 Defense, 30 Magick De
+ Stats: 10 Defense, 30 Magick
+ Defense
  -------------------------------
 
 
  Mage's Robes
  -------------------------------
- Indigo robes adorned with stars
+ Indigo robes adorned with
+ stars. | Tomaj's Shop? Yes
  -------------------------------
- Reward: Maleficent Mayhem      
+ Reward: Maleficent Mayhem |
+ Weakness: N/A | Resistance: N/A
  -------------------------------
- Stats: 15 Defense, 30 Magick De
+ Stats: 15 Defense, 30 Magick
+ Defense
  -------------------------------
 
 
  Hermit's Robes
  -------------------------------
- Robes of a hermit who forsook f
+ Robes of a hermit who forsook
+ fire for water. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: Fire |
+ Resistance: Water
  -------------------------------
- Stats: 20 Defense, 40 Magick De
+ Stats: 20 Defense, 40 Magick
+ Defense, 5 Mind
  -------------------------------
 
 
  Druid's Robes
  -------------------------------
- Robes of a druid who forsook li
+ Robes of a druid who forsook
+ lightning for earth. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness:
+ Lightning | Resistance: Earth
  -------------------------------
- Stats: 25 Defense, 50 Magick De
+ Stats: 25 Defense, 50 Magick
+ Defense, 5 Magick
  -------------------------------
 
 
  Shaman's Robes
  -------------------------------
- Robes of a shaman who forsook e
+ Robes of a shaman who forsook
+ earth for lightning. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Rally To The Cause     
+ Reward: Rally To The Cause |
+ Weakness: Earth | Resistance:
+ Lightning
  -------------------------------
- Stats: 30 Defense, 50 Magick De
+ Stats: 30 Defense, 50 Magick
+ Defense, 5 Agility
  -------------------------------
 
 
  Wizard's Robes
  -------------------------------
- Robes of a wizard who forsook w
+ Robes of a wizard who forsook
+ water for fire. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: Mission 7-1            
+ Reward: Mission 7-1 | Weakness:
+ Water | Resistance: Fire
  -------------------------------
- Stats: 35 Defense, 50 Magick De
+ Stats: 35 Defense, 50 Magick
+ Defense, 10 Mind
  -------------------------------
 
 
  White Robes
  -------------------------------
- Heavenly robes that strengthen 
+ Heavenly robes that strengthen
+ magick defense. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 40 Defense, 85 Magick De
+ Stats: 40 Defense, 85 Magick
+ Defense, 15 Mind
  -------------------------------
 
 
  Black Robes
  -------------------------------
- Netherworldly robes that increa
+ Netherworldly robes that
+ increase magick potency. |
+ Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 40 Defense, 85 Magick De
+ Stats: 40 Defense, 85 Magick
+ Defense, 15 Magick
  -------------------------------
 
 
  Lordly Robes
  -------------------------------
- Robes of light blessed by an ar
+ Robes of light blessed by an
+ archangel. | Tomaj's Shop? No
  -------------------------------
- Reward: Wings Of Midnight      
+ Reward: Wings Of Midnight |
+ Weakness: N/A | Resistance: N/A
  -------------------------------
- Stats: 50 Defense, 100 Magick D
+ Stats: 50 Defense, 100 Magick
+ Defense, 5 Everything Else
  -------------------------------
 
 
@@ -14732,101 +16090,137 @@ index:
 
  Rose Gilet
  -------------------------------
- Vest featuring a prominent rose
+ Vest featuring a prominent
+ rose. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 7 Defense, 7 Magick Defe
+ Stats: 7 Defense, 7 Magick
+ Defense
  -------------------------------
 
 
  Mythril Vest
  -------------------------------
- Slender vest gleaming mythril-b
+ Slender vest gleaming mythril-
+ blue. | Tomaj's Shop? Yes
  -------------------------------
- Reward: Mission 2-1            
+ Reward: Mission 2-1 | Weakness:
+ N/A | Resistance: N/A
  -------------------------------
- Stats: 15 Defense, 15 Magick De
+ Stats: 15 Defense, 15 Magick
+ Defense
  -------------------------------
 
 
  Ochre Gilet
  -------------------------------
- Leather vest with optional name
+ Leather vest with optional
+ nameplate. | Tomaj's Shop? Yes
  -------------------------------
- Reward: Mission 3-2            
+ Reward: Mission 3-2 | Weakness:
+ N/A | Resistance: N/A
  -------------------------------
- Stats: 22 Defense, 22 Magick De
+ Stats: 22 Defense, 22 Magick
+ Defense, 5 Speed
  -------------------------------
 
 
  Survival Vest
  -------------------------------
- Camouflage vest that stands up 
+ Camouflage vest that stands up
+ to the elements. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: Earth
  -------------------------------
- Stats: 30 Defense, 30 Magick De
+ Stats: 30 Defense, 30 Magick
+ Defense, 5 Stamina
  -------------------------------
 
 
  Sheer Doublet
  -------------------------------
- Thin jacket that flares at the 
+ Thin jacket that flares at the
+ hem. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 37 Defense, 37 Magick De
+ Stats: 37 Defense, 37 Magick
+ Defense
  -------------------------------
 
 
  Prismatic Vest
  -------------------------------
- Rainbow-colored vest that refra
+ Rainbow-colored vest that
+ refracts lightning. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Mission 6-1            
+ Reward: Mission 6-1 | Weakness:
+ N/A | Resistance: Lightning
  -------------------------------
- Stats: 45 Defense, 45 Magick De
+ Stats: 45 Defense, 45 Magick
+ Defense
  -------------------------------
 
 
  Violet Gilet
  -------------------------------
- Thick vest with garnish violet 
+ Thick vest with garnish violet
+ stripes. | Tomaj's Shop? Yes
  -------------------------------
- Reward: Mission 7-2            
+ Reward: Mission 7-2 | Weakness:
+ N/A | Resistance: N/A
  -------------------------------
- Stats: 52 Defense, 52 Magick De
+ Stats: 52 Defense, 52 Magick
+ Defense, 10 Speed
  -------------------------------
 
 
  Adamant Vest
  -------------------------------
- Heat-resistant vest vulnerable 
+ Heat-resistant vest vulnerable
+ to wet and cold. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Mission 8-5            
+ Reward: Mission 8-5 | Weakness:
+ Water | Resistance: Fire
  -------------------------------
- Stats: 60 Defense, 60 Magick De
+ Stats: 60 Defense, 60 Magick
+ Defense, 15 Speed
  -------------------------------
 
 
  Azure Gilet
  -------------------------------
- Seemingly transparent vest the 
+ Seemingly transparent vest the
+ color of sky. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 67 Defense, 67 Magick De
+ Stats: 67 Defense, 67 Magick
+ Defense, 15 Speed
  -------------------------------
 
 
  Mirage Vest
  -------------------------------
  Water-resistant vest vulnerable
+ to fire. | Tomaj's Shop? No
  -------------------------------
- Reward: Masterless Minions     
+ Reward: Masterless Minions |
+ Weakness: Fire | Resistance:
+ Water
  -------------------------------
- Stats: 75 Defense, 75 Magick De
+ Stats: 75 Defense, 75 Magick
+ Defense, 10 Strength, 10
+ Stamina, 10 Speed
  -------------------------------
 
 
@@ -14836,91 +16230,129 @@ index:
 
  Amulet Of Warding
  -------------------------------
- Decorative trinket that also af
+ Decorative trinket that also
+ affords protection. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 12 Defense, 18 Magick De
+ Stats: 12 Defense, 18 Magick
+ Defense
  -------------------------------
 
 
  Medallion Of Water
  -------------------------------
- Symbol of defiance that can tur
+ Symbol of defiance that can
+ turn back waves. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: The Scofflaw           
+ Reward: The Scofflaw |
+ Weakness: N/A | Resistance:
+ Earth
  -------------------------------
- Stats: 18 Defense, 27 Magick De
+ Stats: 18 Defense, 27 Magick
+ Defense
  -------------------------------
 
 
  Steel Gorget
  -------------------------------
- Neck armor that shines with a w
+ Neck armor that shines with a
+ warrior's pride. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 24 Defense, 36 Magick De
+ Stats: 24 Defense, 36 Magick
+ Defense, 5 Stamina
  -------------------------------
 
 
  Medallion Of Earth
  -------------------------------
- Symbol of strength that can pul
+ Symbol of strength that can
+ pulverize stone. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: Fire
  -------------------------------
- Stats: 30 Defense, 45 Magick De
+ Stats: 30 Defense, 45 Magick
+ Defense
  -------------------------------
 
 
  Osseous Torque
  -------------------------------
- Neckwear savagely fashioned fro
+ Neckwear savagely fashioned
+ from beast bone. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Rumble In The Jungle   
+ Reward: Rumble In The Jungle |
+ Weakness: N/A | Resistance: N/A
  -------------------------------
- Stats: 36 Defense, 54 Magick De
+ Stats: 36 Defense, 54 Magick
+ Defense, 10 Magick
  -------------------------------
 
 
  Medallion Of Fire
  -------------------------------
- Symbol of fortitude atop smolde
+ Symbol of fortitude atop
+ smoldering coals. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Mission 7-1            
+ Reward: Mission 7-1 | Weakness:
+ N/A | Resistance: Fire
  -------------------------------
- Stats: 42 Defense, 63 Magick De
+ Stats: 42 Defense, 63 Magick
+ Defense
  -------------------------------
 
 
  Sky Amulet
  -------------------------------
  Teal amulet that depicts a bird
+ taking flight. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: Battlefield Strahl     
+ Reward: Battlefield Strahl |
+ Weakness: N/A | Resistance: N/A
  -------------------------------
- Stats: 48 Defense, 72 Magick De
+ Stats: 48 Defense, 72 Magick
+ Defense, 10 Magick, 10 Mind
  -------------------------------
 
 
  Guardian's Torque
  -------------------------------
  War god amulet the color of the
+ sunset. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 54 Defense, 81 Magick De
+ Stats: 54 Defense, 81 Magick
+ Defense, 5 Stamina
  -------------------------------
 
 
  Gaia Amulet
  -------------------------------
- Amulet bearing love of earth an
+ Amulet bearing love of earth
+ and fear of sky. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: Battle On The Big Bridg
+ Reward: Battle On The Big
+ Bridge | Weakness: Lightning |
+ Resistance: Earth
  -------------------------------
- Stats: 60 Defense, 90 Magick De
+ Stats: 60 Defense, 90 Magick
+ Defense, 10 Strength, 10
+ Magick, 10 Mind
  -------------------------------
 
 
@@ -14930,41 +16362,57 @@ index:
 
  Metal Jerkin
  -------------------------------
- Sleeveless armor of simple meta
+ Sleeveless armor of simple
+ metal. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 63 Defense, 53 Magick De
+ Stats: 63 Defense, 53 Magick
+ Defense
  -------------------------------
 
 
  Silk Coat
  -------------------------------
- Coat of superior quality vulner
+ Coat of superior quality
+ vulnerable to fire. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: Mission 8-3            
+ Reward: Mission 8-3 | Weakness:
+ Fire | Resistance: N/A
  -------------------------------
- Stats: 72 Defense, 49 Magick De
+ Stats: 72 Defense, 49 Magick
+ Defense, 10 Strength, 10
+ Stamina, 10 Speed
  -------------------------------
 
 
  Corsair's Frock
  -------------------------------
  Pirate's armor. Waterproof, but
+ flammable. | Tomaj's Shop? No
  -------------------------------
  Reward: Darkening Clouds Gather
+ | Weakness: Fire | Resistance:
+ Water
  -------------------------------
- Stats: 81 Defense, 54 Magick De
+ Stats: 81 Defense, 54 Magick
+ Defense, 15 Stamina
  -------------------------------
 
 
  Brave Suit
  -------------------------------
- Battle armor with a pronounced 
+ Battle armor with a pronounced
+ air of nobility. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: Echo Of Thunder        
+ Reward: Echo Of Thunder |
+ Weakness: N/A | Resistance: N/A
  -------------------------------
- Stats: 90 Defense, 60 Magick De
+ Stats: 90 Defense, 60 Magick
+ Defense, 15 Strength, 10 Speed
  -------------------------------
 
 
@@ -14974,41 +16422,54 @@ index:
 
  Black Bolero
  -------------------------------
- Sable, suede bolero.           
+ Sable, suede bolero. | Tomaj's
+ Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 52 Defense, 52 Magick De
+ Stats: 52 Defense, 52 Magick
+ Defense
  -------------------------------
 
 
  Rubber Suit
  -------------------------------
- Finely crafted, insulated suit 
+ Finely crafted, insulated suit
+ for battle. | Tomaj's Shop? Yes
  -------------------------------
- Reward: Mission 8-6            
+ Reward: Mission 8-6 | Weakness:
+ N/A | Resistance: Lightning
  -------------------------------
- Stats: 60 Defense, 60 Magick De
+ Stats: 60 Defense, 60 Magick
+ Defense
  -------------------------------
 
 
  Minerva Bustier
  -------------------------------
  Garment fit for the art goddess
+ herself. | Tomaj's Shop? No
  -------------------------------
- Reward: Mission 9-4            
+ Reward: Mission 9-4 | Weakness:
+ N/A | Resistance: N/A
  -------------------------------
- Stats: 67 Defense, 67 Magick De
+ Stats: 67 Defense, 67 Magick
+ Defense, 15 Mind
  -------------------------------
 
 
  Battle Suit
  -------------------------------
- Sleek battle suit of simple des
+ Sleek battle suit of simple
+ design. | Tomaj's Shop? No
  -------------------------------
- Reward: Destiny In The Stars   
+ Reward: Destiny In The Stars |
+ Weakness: N/A | Resistance: N/A
  -------------------------------
- Stats: 75 Defense, 75 Magick De
+ Stats: 75 Defense, 75 Magick
+ Defense, 10 Strength, 10
+ Magick, 10 Speed
  -------------------------------
 
 
@@ -15019,41 +16480,59 @@ index:
 
  Samite Coat
  -------------------------------
- Luxuriously regal coat embroide
+ Luxuriously regal coat
+ embroidered with silver. |
+ Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 40 Defense, 80 Magick De
+ Stats: 40 Defense, 80 Magick
+ Defense
  -------------------------------
 
 
  Carmagnole
  -------------------------------
- Coat of a fabric that flits gin
+ Coat of a fabric that flits
+ gingerly about. | Tomaj's Shop?
+ Yes
  -------------------------------
- Reward: Mission 8-6            
+ Reward: Mission 8-6 | Weakness:
+ N/A | Resistance: N/A
  -------------------------------
- Stats: 90 Defense, 60 Magick De
+ Stats: 90 Defense, 60 Magick
+ Defense
  -------------------------------
 
 
  Cleric's Robes
  -------------------------------
- Distinguished robes of the sacr
+ Distinguished robes of the
+ sacred vocation. | Tomaj's
+ Shop? No
  -------------------------------
  Reward: Darkening Clouds Gather
+ | Weakness: N/A | Resistance:
+ N/A
  -------------------------------
- Stats: 45 Defense, 90 Magick De
+ Stats: 45 Defense, 90 Magick
+ Defense
  -------------------------------
 
 
  Glimmering Robes
  -------------------------------
- Robes bearing love of sky and f
+ Robes bearing love of sky and
+ fear of earth. | Tomaj's Shop?
+ No
  -------------------------------
  Reward: Darkening Clouds Gather
+ | Weakness: Earth | Resistance:
+ Lightning
  -------------------------------
- Stats: 50 Defense, 100 Magick D
+ Stats: 50 Defense, 100 Magick
+ Defense
  -------------------------------
 
 
@@ -15063,41 +16542,56 @@ index:
 
  Judicer's Plate
  -------------------------------
- Sanctified armor worn by judges
+ Sanctified armor worn by
+ judges. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 80 Defense, 40 Magick De
+ Stats: 80 Defense, 40 Magick
+ Defense
  -------------------------------
 
 
  Armatura
  -------------------------------
- Stout metal armor colored a dee
+ Stout metal armor colored a
+ deep brown. | Tomaj's Shop? Yes
  -------------------------------
- Reward: N/A                    
+ Reward: N/A | Weakness: N/A |
+ Resistance: N/A
  -------------------------------
- Stats: 70 Defense, 60 Magick De
+ Stats: 70 Defense, 60 Magick
+ Defense, 5 Stamina, 5 Mind
  -------------------------------
 
 
  Carabineer Mail
  -------------------------------
  Mythril armor stoic in the face
+ of any blow. | Tomaj's Shop? No
  -------------------------------
- Reward: Mission 9-2            
+ Reward: Mission 9-2 | Weakness:
+ N/A | Resistance: N/A
  -------------------------------
- Stats: 90 Defense, 45 Magick De
+ Stats: 90 Defense, 45 Magick
+ Defense, 5 Strength, 5 Stamina
  -------------------------------
 
 
  Maximillian
  -------------------------------
- Armor that conquers hellfire, b
+ Armor that conquers hellfire,
+ but falls to water. | Tomaj's
+ Shop? No
  -------------------------------
- Reward: Dance Of The Dead      
+ Reward: Dance Of The Dead |
+ Weakness: Water | Resistance:
+ Fire
  -------------------------------
- Stats: 100 Defense, 50 Magick D
+ Stats: 100 Defense, 50 Magick
+ Defense, 15 Strength, 10
+ Stamina
  -------------------------------
 
 
@@ -15115,7 +16609,8 @@ list:
 
  Wayfarer's Boots
  -------------------------------
- Vaan's old, sturdy boots.      
+ Vaan's old, sturdy boots. |
+ Tomaj's Shop? No
  -------------------------------
  No support ability.
  -------------------------------
@@ -15123,41 +16618,53 @@ list:
 
  Sprint Shoes
  -------------------------------
- Nimble boots fashioned by a tan
+ Nimble boots fashioned by a
+ tanner. | Tomaj's Shop? Yes
  -------------------------------
- Swiftness: Increases group's mo
+ Swiftness: Increases group's
+ movement speed.
  -------------------------------
 
 
  Battle Boots
  -------------------------------
- Mythril-toed battle boots.     
+ Mythril-toed battle boots. |
+ Mission 3-4
  -------------------------------
  Pain Chain: Gives user a chance
+ to deal an extra attack with
+ each hit.
  -------------------------------
 
 
  Winged Boots
  -------------------------------
  Fancy boots adorned with wings.
+ | Tomaj's Shop? Yes
  -------------------------------
  Resist Immobilize: Grants group
+ immunities to Immobilize.
  -------------------------------
 
 
  Germinas Boots
  -------------------------------
- Rugged boots preferred by pirat
+ Rugged boots preferred by
+ pirates. | Tomaj's Shop? Yes
  -------------------------------
  Mistify: Increases rate of Mist
+ Charge accumulation.
  -------------------------------
 
 
  Rogue's Boots
  -------------------------------
- Heavy boots preferred by sky pi
+ Heavy boots preferred by sky
+ pirates. | Mission 7-4
  -------------------------------
- Pirate's Monograph: Increases s
+ Pirate's Monograph: Increases
+ success rate of steal
+ abilities.
  -------------------------------
 
 
@@ -15167,7 +16674,8 @@ list:
 
  Wayfarer's Bracelet
  -------------------------------
- Simple bracelet Penelo wears ar
+ Simple bracelet Penelo wears
+ around town. | Tomaj's Shop? No
  -------------------------------
  No support abilities.
  -------------------------------
@@ -15175,41 +16683,54 @@ list:
 
  Argyle Armlet
  -------------------------------
- Armlet chased with magicked inc
+ Armlet chased with magicked
+ incantations. | Mission 2-4
  -------------------------------
  Clairvoyance: Increases group's
+ Mind.
  -------------------------------
 
 
  Corsage Bracelet
  -------------------------------
  Bracelet etched with a charming
+ rose. | Tomaj's Shop? Yes
  -------------------------------
- Resist Silence: Grants group im
+ Resist Silence: Grants group
+ immunity to Silence.
  -------------------------------
 
 
  Protective Armlet
  -------------------------------
- Glass armlet from which magicke
+ Glass armlet from which
+ magicked water springs eternal.
+ | Mission 4-4
  -------------------------------
- Auto-Regen: Gives Regen to the 
+ Auto-Regen: Gives Regen to the
+ group.
  -------------------------------
 
 
  Healing Armlet
  -------------------------------
- Armlet polished by the wing of 
+ Armlet polished by the wing of
+ the phoenix. | Otherworldly
+ Beauty
  -------------------------------
  Healing Step: Increases potency
+ of healing magicks on group.
  -------------------------------
 
 
  Rune Armlet
  -------------------------------
- Refined armlet infused with a p
+ Refined armlet infused with a
+ princess's prayers. | Just For
+ Penelo
  -------------------------------
- Dancer's Monograph: Increases d
+ Dancer's Monograph: Increases
+ duration of dance abilities.
  -------------------------------
 
 
@@ -15220,6 +16741,8 @@ list:
  Apprentice's Pouch
  -------------------------------
  Worn and threadbare pouch Kytes
+ is seldom without. | Tomaj's
+ Shop? No
  -------------------------------
  No support ability.
  -------------------------------
@@ -15227,41 +16750,56 @@ list:
 
  Incanter's Pouch
  -------------------------------
- Pouch suffused with arcane know
+ Pouch suffused with arcane
+ knowledge. | Mission 2-2
  -------------------------------
  Intelligence: Increases group's
+ Magick.
  -------------------------------
 
 
  Traveler's Pouch
  -------------------------------
- Trusty pouch treated with poiso
+ Trusty pouch treated with
+ poison-warding magicks. |
+ Tomaj's Shop? Yes
  -------------------------------
- Resist Poison: Grants group imm
+ Resist Poison: Grants group
+ immunity to Poison.
  -------------------------------
 
 
  Goblin Pouch
  -------------------------------
- Goblins use these pouches to hi
+ Goblins use these pouches to
+ hide away their treasures. |
+ Harmony In Discord
  -------------------------------
- Treasure Hunter: Awards additio
+ Treasure Hunter: Awards
+ additional loot at the end of
+ battle.
  -------------------------------
 
 
  Faerie Pouch
  -------------------------------
  Pouch that hastens its bearer's
+ magick incantations. | Tomaj's
+ Shop? Yes
  -------------------------------
- Tonguetwister: Reduces magick c
+ Tonguetwister: Reduces magick
+ cast time.
  -------------------------------
 
 
  Wizard's Satchel
  -------------------------------
- Great wizard's satchel with a m
+ Great wizard's satchel with a
+ mind of its own. | Dalmascan
+ Treasure
  -------------------------------
- Mage's Monograph: Increases mag
+ Mage's Monograph: Increases
+ magick damage.
  -------------------------------
 
 
@@ -15271,7 +16809,8 @@ list:
 
  Pirate's Earring
  -------------------------------
- One of Filo's favorite accessor
+ One of Filo's favorite
+ accessories. | Tomaj's Shop? No
  -------------------------------
  No support ability.
  -------------------------------
@@ -15279,41 +16818,52 @@ list:
 
  Silver Earrings
  -------------------------------
- Unique jewelry with dangling si
+ Unique jewelry with dangling
+ silver chains. | Mission 2-3
  -------------------------------
- Rejuvenate: Increases group's S
+ Rejuvenate: Increases group's
+ Speed.
  -------------------------------
 
 
  Gold Earrings
  -------------------------------
- Earrings crafted by a master go
+ Earrings crafted by a master
+ goldsmith. | Tomaj's Shop? Yes
  -------------------------------
- Resist Stop: Grants group immun
+ Resist Stop: Grants group
+ immunity to Stop.
  -------------------------------
 
 
  Terra Earrings
  -------------------------------
- Subtle earrings bearing pale re
+ Subtle earrings bearing pale
+ red jewels. | The Trodden Past
  -------------------------------
- Materialism: Increases scavengi
+ Materialism: Increases
+ scavenging speed.
  -------------------------------
 
 
  Moon Earrings
  -------------------------------
- Crescent earrings that encourag
+ Crescent earrings that
+ encourage growth. | Mission 6-5
  -------------------------------
- Havoc: Increases rate of AP acc
+ Havoc: Increases rate of AP
+ accumulation.
  -------------------------------
 
 
  Sun Earrings
  -------------------------------
  Crystal earrings as blue as the
+ summer sky. | For A Moment's
+ Peace
  -------------------------------
- Aviator's Monograph: Increases 
+ Aviator's Monograph: Increases
+ duration of trap abilities.
  -------------------------------
 
 
@@ -15323,7 +16873,9 @@ list:
 
  Prayer Bangle
  -------------------------------
- Aegyl armwear worn to commemora
+ Aegyl armwear worn to
+ commemorate the fallen. |
+ Tomaj's Shop? No
  -------------------------------
  No support ability.
  -------------------------------
@@ -15331,31 +16883,39 @@ list:
 
  Gauntlets
  -------------------------------
- Metal gloves the color of scorc
+ Metal gloves the color of
+ scorched earth. | Tomaj's Shop?
+ Yes
  -------------------------------
- Valor: Increases group's Streng
+ Valor: Increases group's
+ Strength.
  -------------------------------
 
 
  Mythril Gloves
  -------------------------------
- Gloves crafted of quality mythr
+ Gloves crafted of quality
+ mythril. | Tomaj's Shop? Yes
  -------------------------------
- Resist Confuse: Grants group im
+ Resist Confuse: Grants group
+ immunity to Confuse.
  -------------------------------
 
 
  Winged Gloves
  -------------------------------
- Gloves embossed with wyvern win
+ Gloves embossed with wyvern
+ wings. | Tomaj's Shop? Yes
  -------------------------------
- Auto-Float: Gives Float to the 
+ Auto-Float: Gives Float to the
+ group.
  -------------------------------
 
 
  Blazer Gloves
  -------------------------------
- Elixir-treated dragonskin glove
+ Elixir-treated dragonskin
+ gloves. | Mission 6-2
  -------------------------------
  Attunement: Increases Affinity.
  -------------------------------
@@ -15363,9 +16923,11 @@ list:
 
  Dragon Bracers
  -------------------------------
- Bracers set with talons of a gr
+ Bracers set with talons of a
+ great dragon. | Mission 9-1
  -------------------------------
- Dragoon's Monograph: Increases 
+ Dragoon's Monograph: Increases
+ HP drained by Lancet.
  -------------------------------
 
 
@@ -15375,41 +16937,55 @@ list:
 
  Golden Ring
  -------------------------------
- Ring of gold the wealthy vie fo
+ Ring of gold the wealthy vie
+ for. | Tomaj's Shop? Yes
  -------------------------------
- Headhunter: Increases gil gaine
+ Headhunter: Increases gil
+ gained during battle.
  -------------------------------
 
 
  Emerald Ring
  -------------------------------
- Ring inset with a gem like a su
+ Ring inset with a gem like a
+ sunlit evergreen. | Tomaj's
+ Shop? Yes
  -------------------------------
- Resist Blind: Grants group immu
+ Resist Blind: Grants group
+ immunity to Blind.
  -------------------------------
 
 
  Sapphire Ring
  -------------------------------
- Ring featuring a white wind gem
+ Ring featuring a white wind
+ gem. | Tomaj's Shop? Yes
  -------------------------------
- Rapid Fire: Reduces time betwee
+ Rapid Fire: Reduces time
+ between attacks.
  -------------------------------
 
 
  Garnet Ring
  -------------------------------
- Scarlet ring that evokes a sain
+ Scarlet ring that evokes a
+ saint's fading memory. |
+ Restoring Honor
  -------------------------------
  Aspect Blitz: Increases potency
+ of quickenings.
  -------------------------------
 
 
  Diamond Ring
  -------------------------------
  Mesmerizing ring encrusted with
+ the rare gemstone. | Uninvited
+ Invitation
  -------------------------------
- Marksman's Monograph: Drastical
+ Marksman's Monograph:
+ Drastically increases attack
+ range.
  -------------------------------
 
 
@@ -15419,41 +16995,54 @@ list:
 
  Goggle Mask
  -------------------------------
- Helm with lenses that see beyon
+ Helm with lenses that see
+ beyond the horizon. | Tomaj's
+ Shop? Yes
  -------------------------------
- Steady Grip: Increases group's 
+ Steady Grip: Increases group's
+ ranged damage.
  -------------------------------
 
 
  Lamia's Tiara
  -------------------------------
- Pompous crown modeled after tha
+ Pompous crown modeled after
+ that of a goddess. | Tomaj's
+ Shop? Yes
  -------------------------------
- Resist Sleep: Grants group immu
+ Resist Sleep: Grants group
+ immunity to Sleep.
  -------------------------------
 
 
  Crown of Laurels
  -------------------------------
- Ancient crown of branches entwi
+ Ancient crown of branches
+ entwined. | Tomaj's Shop? Yes
  -------------------------------
- Attrition: Increases amount of 
+ Attrition: Increases amount of
+ HP restored when foraging.
  -------------------------------
 
 
  Black Mask
  -------------------------------
- Mask that shines black in the m
+ Mask that shines black in the
+ moonless night. | Mission 8-4
  -------------------------------
  Pinpoint: Increases duration of
+ fletch abilities.
  -------------------------------
 
 
  Dueling Mask
  -------------------------------
  Visceral combat mask with claw-
+ marked cheeks. | Escape
+ Escapade
  -------------------------------
- Hunter's Monograph: Increases p
+ Hunter's Monograph: Increases
+ potency of Barrage.
  -------------------------------
 
 
@@ -15463,41 +17052,56 @@ list:
 
  Golden Amulet
  -------------------------------
- Pure-gold talisman with a summo
+ Pure-gold talisman with a
+ summoner's soul. | Tomaj's
+ Shop? Yes
  -------------------------------
- Whistlewind: Reduces summoning 
+ Whistlewind: Reduces summoning
+ time.
  -------------------------------
 
 
  Embroidered Tippet
  -------------------------------
- Cape of wings that represents a
+ Cape of wings that represents
+ ascension. | Mission 8-2
  -------------------------------
- Knowledge to Power: Increases E
+ Knowledge to Power: Increases
+ EXP gained during battle.
  -------------------------------
 
 
  Jade Collar
  -------------------------------
- Valuable collar that drives evi
+ Valuable collar that drives
+ evil spirits away. | Tomaj's
+ Shop? Yes
  -------------------------------
- Full Protection: Increases grou
+ Full Protection: Increases
+ group's Stamina and Mind when
+ leader's HP is full.
  -------------------------------
 
 
  Noble's Collar
  -------------------------------
- Formal collar embroidered with 
+ Formal collar embroidered with
+ a sword. | Tomaj's Shop? Yes
  -------------------------------
- Full Force: Increases group's S
+ Full Force: Increases group's
+ Strength and Magick when
+ leader's HP is full.
  -------------------------------
 
 
  Ribbon
  -------------------------------
- Dainty ribbon once adored by a 
+ Dainty ribbon once adored by a
+ revered saint. | Wings Of
+ Midnight
  -------------------------------
- Monarch's Monograph: Increases 
+ Monarch's Monograph: Increases
+ group's resistance to debuffs.
  -------------------------------
 
 
@@ -15508,40 +17112,53 @@ list:
  Judicer's Helm
  -------------------------------
  Helm that certifies the keepers
+ of the law. | Tomaj's Shop? Yes
  -------------------------------
- Lifeshield: Increases group's m
+ Lifeshield: Increases group's
+ max HP.
  -------------------------------
 
 
  Winged Helm
  -------------------------------
- Helm branded with the seal of t
+ Helm branded with the seal of
+ the phoenix. | Mission 8-3
  -------------------------------
- Resist Slow: Grants group immun
+ Resist Slow: Grants group
+ immunity to slow.
  -------------------------------
 
 
  Atlas Helm
  -------------------------------
- Brawny helm granting colossal s
+ Brawny helm granting colossal
+ strength. | Tomaj's Shop? Yes
  -------------------------------
- Gallantry: Increases group's St
+ Gallantry: Increases group's
+ Stamina and Mind when leader's
+ HP is low.
  -------------------------------
 
 
  Dragon Helm
  -------------------------------
- Unyielding helm of dragon scale
+ Unyielding helm of dragon
+ scales. | Tomaj's Shop? Yes
  -------------------------------
- Chivalry: Increases group's Str
+ Chivalry: Increases group's
+ Strength and Magick when
+ leader's HP is low.
  -------------------------------
 
 
  Grand Helm
  -------------------------------
- Helm of the knightly oath to ho
+ Helm of the knightly oath to
+ honor and loyalty. | Mission
+ 9-4
  -------------------------------
- Hero's Monograph: Increases Def
+ Hero's Monograph: Increases
+ Defense when using Cover.
  -------------------------------
 
 
@@ -15559,41 +17176,62 @@ of the ring:
 
             Zodiark
                |
-   Chaos----------------Zalera--
+   Chaos----------------Zalera
+   ----------------Exodus
    /    \                       
-   /   Balasa------------Carbunc
+   / Balasa------------Carbuncle
+   -----------Atomos \
    /      /                     
- Ifrit--Wyvern  Salamander--Bomb
+ Ifrit--Wyvern Salamander--Bomb
+ Cactoid--Goblin Cu Sith--Titan
   /      /     /            \   
- Belias  Lamia--Djinn           
+ Belias Lamia--Djinn \ / Gnoam--
+ Golem Hashmal
   /      /                    Al
  /      /                     / 
-   Bahamut  Tonberry    Garchima
+   Bahamut Tonberry Garchimacera
+   Sylph Diablos Odin
  \      \                /    \ 
   \      \              /   Whit
- Shemhazai  Raiden--Quetzalcoatl
+ Shemhazai Raiden--Quetzalcoatl
+ Aquarius--Shivar Mateus
   \      \      \               
- Tiamat  Ixion  Remora-----Ramih
+ Tiamat Ixion Remora-----Ramih
+ Shivan---Sahagin Siren
+ Leviathan
    \      \                \    
-   \    Sagittarius       Chocob
+   \ Sagittarius Chocobo
+   Cuchulainn / Famfrit
    \    /                       
-   Ramuh----------------Ultima--
+   Ramuh----------------Ultima
+   ----------------Shiva
                |
            Gilgamesh
 
 072 - Full List
 
- Non-Elemental |    Fire    |   
+ Non-Elemental | Fire | Water |
+ Lightning | Ground | Healing
  --------------+------------+---
-    Alraune    |   Djinn    |  S
- Sylph     | Salamander |   Shiv
-  Garchimacera |    Bomb    |  A
-    Chocobo    |   Balasa   | Cu
-    Tonberry   |   Lamia    |   
-    Diablos    |   Wyvern   |   
- Odin      |   Ifrit    | Leviat
-    Zalera     |   Belias   |   
-    Bahamut    |   Chaos    |  F
+    Alraune | Djinn | Sahagin |
+    Remora | Goblin | White Hare
+ Sylph | Salamander | Shivan |
+ Quetzalcoatl | Cactoid |
+ Carbuncle
+  Garchimacera | Bomb | Aquarius
+  | Ramih | Gnoam | Ultima
+    Chocobo | Balasa |
+    Cuchulainn | Ixion | Golem |
+    Tonberry | Lamia | Shivar |
+    Sagittarius | Cu Sith |
+    Diablos | Wyvern | Siren |
+    Raiden | Atomos |
+ Odin | Ifrit | Leviathan |
+ Shemhazai | Titan |
+    Zalera | Belias | Shiva |
+    Tiamat | Hashmal | Bahamut |
+    Chaos | Famfrit | Ramuh |
+    Exodus |
    Gilgamesh   |            |   
     Zodiark    |            |   
 
@@ -15607,64 +17245,94 @@ Alraune:
  - Ram: Deal damage to one foe.
 
 Aquarius:
-  - Bubblebath: Deal water damag
+  - Bubblebath: Deal water
+    damage to one foe.
 
 Atomos:
-  - Uppercut: Deal earth damage 
-  - Drain: Transfer HP from one 
+  - Uppercut: Deal earth damage
+    to all foes in range.
+  - Drain: Transfer HP from one
+    foe to the caster.
 
 Bahamut:
   - Bahamut Claw: Deal damage to
-  - Megaflare: Inflict Disable a
+    all foes in range.
+  - Megaflare: Inflict Disable
+    and deal heavy damage to all
+    foes in range.
 
 Balasa:
-  - Fire Fist: Inflict Slow and 
+  - Fire Fist: Inflict Slow and
+    deal fire damage to one foe.
 
 Belias:
-  - Painflare: Deal heavy fire d
-  - Firaja: Deal heavy fire dama
+  - Painflare: Deal heavy fire
+    damage to one foe.
+  - Firaja: Deal heavy fire
+    damage to all foes in range.
 
 Bomb:
-  - Bomb Blast: Deal damage to o
+  - Bomb Blast: Deal damage to
+    one foe.
   - Self-Destruct: Sacrifice all
+    HP to deal massive damage to
+    surrounding
   foes.
 
 Cactoid:
   - 1000 Needles: Deal damage to
+    one foe.
 
 Carbuncle:
 - Cure: Restore HP to one ally.
   - Ruby Balm: Restore HP to all
+    allies in range.
 
 Chaos:
   - Quadrastrike: Deal damage to
-  - Flare: Deal heavy damage to 
+    one foe with four successive
+    hits.
+  - Flare: Deal heavy damage to
+    one foe.
 
 Chocobo:
 - Beak: Deal damage to one foe.
 
 Cuchulainn:
-  - Malaise: Deal damage to one 
-  - Blight: Inflict Poison on on
+  - Malaise: Deal damage to one
+    foe.
+  - Blight: Inflict Poison on
+    one foe.
 
 Cu Sith:
-  - Stone: Deal earth damage to 
-  - Bedevil: Inflict Blind on on
+  - Stone: Deal earth damage to
+    one foe.
+  - Bedevil: Inflict Blind on
+    one foe.
 
 Diablos:
   - Nightmare: Inflict Sleep and
-  - Gravity: Deal damage based o
+    deal damage to one foe.
+  - Gravity: Deal damage based
+    on targets' current HP to
+    one foe.
 
 Djinn:
-  - Flame Sneeze: Deal fire dama
+  - Flame Sneeze: Deal fire
+    damage to one foe.
 
 Exodus:
-  - Judgment: Deal earth damage 
+  - Judgment: Deal earth damage
+    to surrounding foes.
   - Meteor: Deal heavy damage to
+    all foes in range.
 
 Famfrit:
-  - Briny Cannonade: Deal water 
-  - Tsunami: Deal water damage t
+  - Briny Cannonade: Deal water
+    damage to one foe.
+  - Tsunami: Deal water damage
+    to all foes in a line
+    extending from the
   user.
 
 Garchimacera:
@@ -15672,111 +17340,171 @@ Garchimacera:
 
 Gilgamash:
   - Slice Thrice: Deal damage to
+    one foe with three
+    successive hits.
   - Masamune: Deal damage to one
+    foe. Ignore's target's
+    Defense.
 
 Gnoam:
-  - Floating Kick: Deal earth da
+  - Floating Kick: Deal earth
+    damage to one foe.
 
 Goblin:
   - Goblin Punch: Deal damage to
+    one foe.
 
 Golem:
-  - Wild Charge: Inflict immobil
+  - Wild Charge: Inflict
+    immobilize and deal damage
+    to one foe.
 
 Hashmal:
   - Roxxor: Deal earth damage to
-  - Stoneja: Deal heavy earth da
+    all foes in range.
+  - Stoneja: Deal heavy earth
+    damage to all foes in range.
 
 Ifrit:
-  - Burning Strike: Deal fire da
-  - Hellfire: Inflict Slow and d
+  - Burning Strike: Deal fire
+    damage to one foe with two
+    successive blows.
+  - Hellfire: Inflict Slow and
+    deal fire damage to
+    surrounding foes.
 
 Ixion:
   - Deal lightning damage to one
+    foe.
 
 Lamia:
-  - Fire: Deal fire damage to on
-  - Entice: Inflict Confuse on o
+  - Fire: Deal fire damage to
+    one foe.
+  - Entice: Inflict Confuse on
+    one foe.
 
 Leviathan:
-  - Barracuda Dive: Deal damage 
-  - Tidal Wave: Deal water damag
+  - Barracuda Dive: Deal damage
+    to surrounding foes.
+  - Tidal Wave: Deal water
+    damage to multiple foes.
 
 Mateus:
-  - Flash-Freeze: Deal water dam
+  - Flash-Freeze: Deal water
+    damage to foes in a line
+    extending from the
   user.
-  - Blizzaja: Deal heavy water d
+  - Blizzaja: Deal heavy water
+    damage to all foes in range.
 
 Odin:
-  - Zantetsuken: Deal damage to 
+  - Zantetsuken: Deal damage to
+    multiple foes.
 
 Quetzalcoatl:
-  - Thunder: Deal lightning dama
+  - Thunder: Deal lightning
+    damage to one foe.
 
 Raiden:
-  - Silent Storm: Inflict Silenc
+  - Silent Storm: Inflict
+    Silence and deal lightning
+    damage to one foe.
 
 Ramih:
   - Spark: Deal lightning damage
+    to one foe.
 
 Ramuh:
-  - Judgment Storm: Deal lightni
-  - Judgment Bolt: Inflict Silen
+  - Judgment Storm: Deal
+    lightning damage to one foe.
+  - Judgment Bolt: Inflict
+    Silence and deal lightning
+    damage to all foes
   in range.
 
 Remora:
-  - Thunderchop: Deal lightning 
+  - Thunderchop: Deal lightning
+    damage to one foe.
 
 Sagittarius:
   - Plasma Arrow: Deal lightning
-  - Triple Shot: Loose three arr
+    damage to one foe.
+  - Triple Shot: Loose three
+    arrows, dealing lightning
+    damage to any foes
   they strike.
 
 Sahagin:
 - Smack: Deal damage to one foe.
 
 Salamander:
-  - Fireball: Deal fire damage t
+  - Fireball: Deal fire damage
+    to one foe.
 
 Shemhazai:
-  - Soul Purge: Deal lightning d
+  - Soul Purge: Deal lightning
+    damage to foes in a line
+    extending from the
   user.
-  - Thundaja: Deal heavy lightni
+  - Thundaja: Deal heavy
+    lightning damage to all foes
+    in range.
 
 Shiva:
-  - Triple Slap: Deal water dama
-  - Diamond Dust: Inflict Stop a
+  - Triple Slap: Deal water
+    damage to one foe with three
+    successive hits.
+  - Diamond Dust: Inflict Stop
+    and deal water damage to all
+    foes in range.
 
 Shivan:
-  - Blizzard: Deal water damage 
+  - Blizzard: Deal water damage
+    to one foe.
 
 Shivar:
-  - Blizzard: Deal water damage 
-  - Absolute Zero: Inflict Stop 
+  - Blizzard: Deal water damage
+    to one foe.
+  - Absolute Zero: Inflict Stop
+    on one foe.
 
 Siren:
   - Kickline Dance: Inflict Stop
+    and deal damage to one foe.
 
 Sylph:
 - Aero: Deal damage to one foe.
 
 Tiamat:
   - Plasma Storm: Deal lightning
-  - Mighty Guard: Increase Defen
+    damage to multiple foes.
+  - Mighty Guard: Increase
+    Defense and Magick Resist of
+    all allies in
   range.
 
 Titan:
   - Landslide: Deal earth damage
-  - Gaia's Wrath: Inflict Immobi
+    to all foes in range.
+  - Gaia's Wrath: Inflict
+    Immobilize and deal earth
+    damage to surrounding
   foes.
 
 Tonberry:
-  - Knife: Lower Stamina and dea
-  - Karma: Deal damage based on 
+  - Knife: Lower Stamina and
+    deal damage to one foe.
+  - Karma: Deal damage based on
+    the number of target's kills
+    to one foe.
 
 Ultima:
-  - Revitalize: Restore HP and r
-  - Eschaton: Deal heavy damage 
+  - Revitalize: Restore HP and
+    remove debuffs from one
+    ally.
+  - Eschaton: Deal heavy damage
+    to all foes in a line
+    extending from the
   user.
 
 White Hare:
@@ -15784,16 +17512,21 @@ White Hare:
 
 Wyvern:
 - Gnaw: Deal damage to one foe.
-  - Fire Breath: Deal fire damag
+  - Fire Breath: Deal fire
+    damage to multiple foes.
 
 Zalera:
 - Holy: Deal damage to one foe.
   - Holyja: Deal heavy damage to
+    all foes in range.
 
 Zodiark:
-  - Graviga: Deal damage based o
+  - Graviga: Deal damage based
+    on targets' current HP to
+    all foes in
   range.
-  - Final Eclipse: Deal massive 
+  - Final Eclipse: Deal massive
+    damage to all foes in range.
 
 
     ~*~*~*~*~*~*~*~*~*~*~*~*~*~*
@@ -15833,58 +17566,76 @@ under Equipment.
         | Chapter Four |
         +--------------+
 
-    Mythril Shards    300 | Inse
-    Pink Silver       930 | Rat 
-    Tiger-Eye         150 | Rabb
-    Peridot           570 | Fire
-    CherryWood Chips  150 | Wate
-    MapleWood Chips   570 | Stor
-    Bone Chips        150 | Eart
-    Wolf Bone        1020 |
+    Mythril Shards 300 | Insect
+    Husk 300 Pink Silver 930 |
+    Rat Pelt 150 Tiger-Eye 150 |
+    Rabbit Pelt 1020 Peridot 570
+    | Fire Stone 380 CherryWood
+    Chips 150 | Water Stone 380
+    MapleWood Chips 570 | Storm
+    Stone 380 Bone Chips 150 |
+    Earth Stone 380 Wolf Bone
+    1020 |
 
         +-------------+
-        | Chapter Six | <--with 
+        | Chapter Six | <--with
+        5% discount
         +-------------+
 
-   Mythril Nugget       427 | Ic
-   Mythril Ore          570 | An
-   Orichalcum Grains   1425 | De
-   White Silver        1325 | Ba
-   Pure Silver         1766 | Se
-   Beryl                213 | Co
-   Topaz                285 | Be
-   Malachite            812 | Ra
-   Emerald             1082 | Gr
-   Lapis Lazuli        2137 | Fi
-   Cherrywood Stick     213 | Fi
-   Cherrywood Log       285 | Wa
-   Maplewood Stick      812 | Wa
-   Maplewood Log       1082 | St
-   Sturdy Bone          213 | St
-   Blood-Darkened Bone  285 | Ea
-   Destrier Bone       1453 | Ea
-   Beastlord Bone      1937 |
+   Mythril Nugget 427 | Ichthon
+   Scales 427 Mythril Ore 570 |
+   Ancient Turtle Shell 570
+   Orichalcum Grains 1425 |
+   Destrier Barding 1425 White
+   Silver 1325 | Bat Wing 213
+   Pure Silver 1766 |
+   Serpentskin 285 Beryl 213 |
+   Coeurl Pelt 1453 Topaz 285 |
+   Beastlord Pelt 1937 Malachite
+   812 | Rat Tail 1425 Emerald
+   1082 | Green Liquid 1425
+   Lapis Lazuli 2137 | Fire
+   Magicite 541 Cherrywood Stick
+   213 | Fire Crystal 721
+   Cherrywood Log 285 | Water
+   Magicite 541 Maplewood Stick
+   812 | Water Crystal 721
+   Maplewood Log 1082 | Storm
+   Magicite 541 Sturdy Bone 213
+   | Storm Crystal 721 Blood-
+   Darkened Bone 285 | Earth
+   Magicite 541 Destrier Bone
+   1453 | Earth Crystal 721
+   Beastlord Bone 1937 |
 
        +---------------+
        | Chapter Eight | <--with
+       10% discount
        +---------------+
 
-    Orichalcum Nugget 2025 | Tyr
-    Orichalcum Ore    2700 | Lam
-    Adamant Grains    3887 | Bat
-    Pink Gold         2861 | Wyv
-    Damascus Steel    5066 | Ahr
-    Scarletite        7600 | Dem
-    Aquamarine        3037 | Mal
-    Sapphire          4050 | Coe
-    Garnet            3887 | Gre
-    Coral Fragment    3887 | Yel
-    Moonstone         5066 | Sil
-    Opal              7600 | Sli
-    Cedarwood Chips   2025 | Bom
-    Cedarwood Stick   3037 | Zom
-    Cedarwood Log     4050 | Sta
-    Oakwood Chips     3887 |
+    Orichalcum Nugget 2025 |
+    Tyrant Bone 2861 Orichalcum
+    Ore 2700 | Lamia Scales 2025
+    Adamant Grains 3887 |
+    Battlewyrm Carapace 2700
+    Pink Gold 2861 | Wyvern
+    Scales 3887 Damascus Steel
+    5066 | Ahriman Wing 2861
+    Scarletite 7600 | Demon Tail
+    2025 Aquamarine 3037 |
+    Malboro Vine 2700 Sapphire
+    4050 | Coeurl Whisker 3887
+    Garnet 3887 | Green Liquid
+    1350 Coral Fragment 3887 |
+    Yellow Liquid 2025 Moonstone
+    5066 | Silver Liquid 2700
+    Opal 7600 | Slime Oil 3887
+    Cedarwood Chips 2025 | Bomb
+    Cinder 2861 Cedarwood Stick
+    3037 | Zombie Powder 3887
+    Cedarwood Log 4050 |
+    Stardust 3887 Oakwood Chips
+    3887 |
 
 082 - Craft Shop
 
@@ -16592,7 +18343,9 @@ move up. Two of them are staying
 at rank I. What do I need to do
 to fix this?
 
-  A: Once you unlock at least 3 
+  A: Once you unlock at least 3
+  rank II Espers, three of the
+  five troupe
 spots will upgrade to rank II.
 Two of the spots will always
 stay at rank I. When you unlock
@@ -16610,7 +18363,9 @@ things, or should I ignore the
 low grade and use the higher
 ones?
 
-  A: It depends how much you sca
+  A: It depends how much you
+  scavenge and how much you
+  value using some of
 the higher grade quality.
 Generally though, it's okay to
 at least go medium. See above to
@@ -16622,7 +18377,9 @@ Q: I've heard that there is a
 New Game+ mode in Revenant
 Wings. Is this true?
 
-  A: No, once you finish the gam
+  A: No, once you finish the
+  game there is no mode like
+  that. The ending
 screen will show like all the
 other Final Fantasy games.
 
@@ -16630,7 +18387,9 @@ Q: What is the significance
 behind the craft master's
 questions?
 
-  A: That has to do with the ass
+  A: That has to do with the
+  assigned bonuses given to the
+  weapon (i.e.,
 a bonus in strength or agility,
 etc). I won't make a list of all
 the questions and the bonuses
@@ -16640,13 +18399,17 @@ you know that's what it means.
 Q: Does Penelo EVER sell
 anything in her shop?
 
-  A: Not that I have seen. You d
+  A: Not that I have seen. You
+  do need to talk with her to
+  unlock certain
 missions, though.
 
 Q: Which characters should I use
 in my party?
 
-  A: Well for awhile it won't ma
+  A: Well for awhile it won't
+  matter because there's only
+  five you can
 deal with anyway. Do NOT use
 Ba'Gamnan in your party when he
 is available since he'll be gone
@@ -16665,14 +18428,18 @@ Her gambit sorta sucks. :/
 Q: Which gambits for ____ player
 should I use?
 
-  A: See above. It depends on wh
+  A: See above. It depends on
+  what you value most and what
+  type of battle
 situation you are in.
 
 Q: What happens if you complete
 all the mandatory and optional
 missions?
 
-  A: When you reach a game compl
+  A: When you reach a game
+  completion of 100%, you will
+  be able to see the
 additional ending. Note that the
 final confrontation, if you
 choose to do this, will have
@@ -16689,17 +18456,27 @@ e-mail address that I'm going to
 use for this guide. Here are the
 things that I will accept:
 
-  - Game help questions regardin
-  - Problems/incorrect informati
-  - Alternative strategies with 
-  - Anything else in general wit
+  - Game help questions
+    regarding this game that
+    haven't been addressed
+  - Problems/incorrect
+    information within this
+    guide
+  - Alternative strategies with
+    bosses ONLY
+  - Anything else in general
+    with Revenant Wings that I
+    may need to add
 
 Versus the things that I won't
 accept:
 
   - Attachments
-  - E-mail titles that are irrel
-  - Flames/'your guide sucks' (w
+  - E-mail titles that are
+    irrelevant to this guide
+  - Flames/'your guide sucks'
+    (well then let's see you
+    write one!)
 
 I'm assuming my readers will use
 good judgment, but I've also
@@ -16724,11 +18501,18 @@ Here is a list of people I would
 like to thank now that this
 guide is done:
 
- - gamefaqs.com/CJayC: For hosti
- - Those who gave me some questi
- - Sean Trout: For the strategy 
- - Rick: For real no reason rega
- - Square: For making the game, 
+ - gamefaqs.com/CJayC: For
+   hosting this guide.
+ - Those who gave me some
+   questions to put in the FAQs
+   section.
+ - Sean Trout: For the strategy
+   with Yiazmat.
+ - Rick: For real no reason
+   regarding the guide at all.
+   Oh well.
+ - Square: For making the game,
+   duh.
 
 094 - Disclaimer/Legal Stuff
 

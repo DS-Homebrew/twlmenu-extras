@@ -1,14 +1,16 @@
  888    d8P   d8b           888
  888   d8P    Y8P           888
  888  d8P                   888
-   888d88K      888  888d888  88
-   8888888b     888  888P"    88
-   888  Y88b    888  888      88
-   888   Y88b   888  888      88
-   888    Y88b  888  888      88
+   888d88K 888 888d888 88888b.
+   888 888 8888888b 888 888P"
+   888 "88b 888 888 888 Y88b 888
+   888 888 888 888 888 888 Y88b
+   888 888 888 d88P Y88b 888 888
+   Y88b 888 888 88888P" "Y88888
    .-.             .    .-.     
    `-..-.. ..-,.-. |_,  `-..-.. 
-   `-'`-|'-'`'-`-`-' `  `-'`-|'-
+   `-'`-|'-'`'-`-`-' `
+   `-'`-|'-'`-`-`-'- "Y88P"
 ================================
 FAQ/Walkthrough written by
 DbZ_Smash Copyright (C) 2007
@@ -16,26 +18,27 @@ DbZ_Smash Version 0.6
 ================================
       -Table of Contents-
 ================================
--Version History                
--Introduction                   
+-Version History [VRHS]
+-Introduction [INTD]
 -Controls                       
 -Abilities                      
--Characters                     
--Walkthrough                    
+-Characters [CTRS]
+-Walkthrough [WKTH]
   -Prologue                     
-  -Prism Plains                 
-  -Nature Notch                 
-  -Cushy Cloud                  
-  -Jam Jungle                   
-  -Vocal Volcano                
-  -Ice Island                   
-  -Secret Sea                   
-  -Gamble Galaxy                
+  -Prism Plains [PRPL]
+  -Nature Notch [NTNO]
+  -Cushy Cloud [CSCL]
+  -Jam Jungle [JMJG]
+  -Vocal Volcano [VCVL]
+  -Ice Island [ICIL]
+  -Secret Sea [SCSE]
+  -Gamble Galaxy [GMGL]
 -Treasures                      
 -Extras                         
   -Sub-Games                    
   -Extra                        
--Legal Stuff, Contact Info, and 
+-Legal Stuff, Contact Info, and
+ Special Thanks [LSCI]
 
 
 ================================
@@ -73,8 +76,9 @@ Controls
 
 D-Pad: Left and right to move,
 double tap to run
- Up to jump/fly
- Down to crouch/drop through flo
+ Up to jump/fly Down to
+ crouch/drop through floor (if
+ possible)
 
 A: Jump/fly
 
@@ -226,7 +230,9 @@ Scroll Abilities: Tap D-Pad
 wildly + B: Even stronger spark
 attack
 
-     Tap D-Pad wildly + Left/Rig
+     Tap D-Pad wildly +
+     Left/Right + B: Shoot
+     sparks
 
 -----
 
@@ -313,8 +319,11 @@ Scroll ability: You can mix the
 sword ability with fire, ice, or
 spark to make
     fire, ice, or thnder swords.
-    in water, and they all have 
-    sword, just with the element
+    None of the abilities can be
+    used in water, and they all
+    have the same attacks as the
+    regular sword, just with the
+    elemental powers.
 
 -----
 
@@ -341,7 +350,8 @@ enemies it touches
 -----
 
 Laser - "OPTICAL WEAPON ARMED
-  It's rumored to be a bigger be
+  It's rumored to be a bigger
+  beam than it used to be"
 
 B: Laser attack
 
@@ -413,8 +423,9 @@ Throw the bomb forward
 Scroll ability: You can mix the
 bomb ability with ice or spark
 to make ice or
-    thunder bombs.  They both ha
-    bomb
+    thunder bombs. They both
+    have the same attacks as a
+    regular bomb
 
 -----
 
@@ -595,7 +606,8 @@ waddle doo, copy it. Room 2:
 Destroy all of the enemies and
 blocks that you come across. If
 you get
-  hurt, you might wanna get the 
+  hurt, you might wanna get the
+  cherries.
 Room 3: Jump up the platforms
 (or fly) to the top of the room.
 Don't forget to
@@ -603,7 +615,8 @@ Don't forget to
 Room 4: Run through the room and
 get the Maxim Tomato if you need
 to. Destroy
-  the bomb block and enter the l
+  the bomb block and enter the
+  last door.
 -----
 
 1-2 - There is 1 chest in this
@@ -615,8 +628,10 @@ if you need helath. Room 3: Get
 the 2 bubbles at the top of the
 room. Mix them together to make
 a
-  Maxim tomato, which you can sa
-  the next room.
+  Maxim tomato, which you can
+  save for later use.
+  Afterwards, move on to the
+  next room.
 Room 4: Go down the room and
 defeat the enemy if you have an
 ability, otherwise
@@ -624,37 +639,49 @@ ability, otherwise
 Room 5: Fly up to the platform
 and grab the treasure chest.
 Kill any enemies
-  in your way, and finish the le
+  in your way, and finish the
+  level.
 -----
 
 1-3 - There are 2 chests in this
 level Room 1: Copy the fire
 enemy's ability. Burn all of the
 grass in the room, one
-  hides a door which leads to a 
-  enemies next to it.
+  hides a door which leads to a
+  1-up. Attack the flame to burn
+  the enemies next to it.
 Room 2: Go through the room
 killing enemies, and get the
 fire bubble if you
    don't have any abilities.
-  Miniboss Battle: Mr Frosty.  U
-  throw ice and charge at you.  
-  him when he charges at you.  H
+  Miniboss Battle: Mr Frosty.
+  Use the ability on the
+  miniboss. He will throw ice
+  and charge at you. Dodge (or
+  attack) the ice and jump over
+  him when he charges at you. He
+  should be very easy.
 Room 3: Go through the room
 killing the enemies, but do not
 try to absorb them,
-  because they will attack you w
+  because they will attack you
+  when you try to inhale them.
 Room 4: Run through the level
 and destroy the blockwhen you
 get to the second
-  invincible enemy.  Copy the an
-  and the chest.
+  invincible enemy. Copy the
+  animal ability and dig to get
+  the one up and the chest.
 Room 5: When you grab the chest
 in this room, one of the Squeak
 Squad members
-  will chase you, and in this ca
-  if he hits you, you will lose 
-  of it.  Get to the big door to
+  will chase you, and in this
+  case, it's Spinni. He will
+  chase you, and if he hits you,
+  you will lose the chest. Grab
+  it before he gets a hold of
+  it. Get to the big door to
+  complete the level.
 -----
 
 1-4 - There are 3 chests in this
@@ -666,17 +693,25 @@ room, freezing any enemies in
 your way. Room 4: Run until you
 get to the big swordsman.
 Destroy the blocks on the
-  ceiling to reveal a chest.  Cl
+  ceiling to reveal a chest.
+  Climb the ladder and exit the
+  room.
 Room 5: Hit the switch to get a
 lollipop. Use the invimcibility
 to run through
-  the enemies.  Grab the chest b
-  have invincibility, you get ru
+  the enemies. Grab the chest
+  between 2 rows of spikes. If
+  you still have invincibility,
+  you get run through the enemy
+  and grab the cherry.
 Room 6: Get the fire bubble
 before you grab the chest. Once
 you grab the
-  chest, you will have to fight 
-  him with the fire breath, and 
+  chest, you will have to fight
+  Storo. He isn't very hard.
+  Just corner him with the fire
+  breath, and he will be
+  defeated easily.
 -----
 
 1-EX - There are 2 chests in
@@ -697,14 +732,16 @@ Room 5: Go through the room
 killing enemies Room 6: When you
 grab the chest, Doc will start
 chasing you, so run to the top
-  right of the room to escape (o
+  right of the room to escape
+  (or you can fight Doc).
 -----
 
 1-5 - There is 1 chest in this
 level Room 1: Fly to the very
 top of the room and break the
 barrel to find a chest.
-  Hit the switch and finish the 
+  Hit the switch and finish the
+  level.
 -----
 
 1-Boss - King Dedede First of
@@ -725,8 +762,9 @@ Nature Notch
 level Room 1: Copy the flying
 enemy's ability. Go down and
 kill enemies in your way.
-  Destroy the blocks on the lowe
-  door.
+  Destroy the blocks on the
+  lower right side of the room
+  to reveal a door.
 Room 2: Run through the room
 killing enemies that are in your
 way. Nothing
@@ -734,13 +772,15 @@ way. Nothing
 Room 3: Jump in the cannon and
 when you have to choose between
 paths, choose
-  the right path.  The barrel re
-  door.
+  the right path. The barrel
+  reveals a chest. Go down the
+  room to the door.
 Room 4: Go through the room
 until you see the bomb blocks.
 Destroy the first 2
   to get past them, but fly over
-  get the chest.
+  the third one. Go under the
+  platform to get the chest.
 Room 5: When you get the big
 chest, Spinni will start chasing
 you. You can
@@ -757,15 +797,23 @@ any enemies that
 Room 3: You can destroy the bomb
 block to get to the door and get
 a Kirby
-  bubble if you want.  Go up awh
-  Behind it is a doorway which l
-  platform, and go down to the b
-  through the doorway.
+  bubble if you want. Go up
+  awhen you see the water, and
+  press a switch. Behind it is a
+  doorway which leads to a
+  chest. Drop through the
+  platform, and go down to the
+  bottom of the room. Dodge the
+  cannons and through the
+  doorway.
 Room 4: Run through the room as
 fast as you can, and get to
 Storo before he
-  goes into the castle.  You mig
-  switch and go through the door
+  goes into the castle. You
+  might have to fight him for
+  it. Hit the switch and go
+  through the doorway to finish
+  the level.
 -----
 
 2-3 - There are 3 chests in this
@@ -778,28 +826,40 @@ level, killing
 Room 3: When you get the big
 chest, Doc will start chasing
 you. Use the
-  wheel's ability to go thorugh 
-  on water.
+  wheel's ability to go thorugh
+  the whole room, riding through
+  spikes and on water.
 Room 4: Get the bubble ability
 and go on the platform. Aim the
 ability to hit
-  the bomb block and get the che
+  the bomb block and get the
+  chest.
 Room 5: Miniboss battle: Gao
 Gao. He's not very hard to
-  defeat.  Use your ability on h
-  just dodge his attacks, inhale
-  can copy his ability if you wa
-  some items, but other than tha
+  defeat. Use your ability on
+  him when he's no attacking,
+  otherwise, just dodge his
+  attacks, inhale the stars and
+  shoot him with them. You can
+  copy his ability if you want.
+  You can dig wherever you want
+  to get some items, but other
+  than that, there's not much in
+  this room.
 Room 6: Use the scroll ability
 (assuming you have it already)
 to dig easily
-  into the ground.  The chest is
-  can get some other items if yo
+  into the ground. The chest is
+  almost at the bottom of the
+  room. You can get some other
+  items if you want.
 Room 7: When you enter the room,
 Doc will start chasing you.
 After yo go up the
-  ladder, go left, up, left, dow
-  right, up, then go right to th
+  ladder, go left, up, left,
+  down, left, up, up, right, up,
+  right, down, right, up, then
+  go right to the doorway.
 -----
 
 2-4 - There is 1 chest in this
@@ -810,7 +870,9 @@ boulder, then fly over the
 Room 2: Hit the bomb block,
 which lets the boulder go, then
 go down. Hit the
-  next bomb block to let the bou
+  next bomb block to let the
+  boulder go. Make it the bottom
+  before the
 boulder does, to get the chest.
 -----
 
@@ -826,13 +888,18 @@ platform and
 Room 3: Go thorugh the room
 until you see a doorwy. Use the
 ice ability to
-  put out the flames so you can 
+  put out the flames so you can
+  walk to the doorway, which
+  hides a chest.
    Go to the end of the room.
 Room 4: Miniboss battle: Big
 Metalum. Inhale the rocks that
-  fall from the ceiling, and thr
-  after about 10 hits.  Copy his
-  find a chest in the barrel.
+  fall from the ceiling, and
+  throw them at him. He should
+  be defeated after about 10
+  hits. Copy his ability, and
+  break the metal blocks to find
+  a chest in the barrel.
 Room 5: Go through the room
 killing any enemies, and then go
 through the door. Room 6: Spinni
@@ -847,24 +914,35 @@ enemy's ability and burn
 anything you come across. Room
 2: Go up the ladders, and kill
 enemies.
-  Miniboss battle: Bonkers.  If 
-  have an ability, use it on him
-  them at him.  Copy his ability
-  the wooden stump and reveal a 
-  ladder and hit the metal block
-  right, and take the bottom doo
+  Miniboss battle: Bonkers. If
+  you have an ability, use it on
+  him, or else just inhale the
+  stars and shoot them at him.
+  Copy his ability when you
+  defeat him, so that you can
+  hit the wooden stump and
+  reveal a doorway which holds a
+  chest. Go down the ladder and
+  hit the metal blocks on the
+  left to get a 1-up, then go
+  right, and take the bottom
+  doorway.
 Room 3: Go thorugh the path,
 killing enemies in your way,
 then hit the barrel
-  at the end of the room to get 
+  at the end of the room to get
+  a lollipop.
 Room 4: Hit the switch as fast
 as you can, so that the golden
 Waddle Dee
-  doesn't fall.  Kill the golden
+  doesn't fall. Kill the golden
+  Waddle Dee to get a chest.
 Room 5: Use the lollipop in this
 room, and then run to Storo, and
 if you still
-  have invincibility, you can ru
+  have invincibility, you can
+  run into him and take the
+  chest.
 -----
 
 2-Boss - Mrs. Moley Use the
@@ -889,21 +967,34 @@ Release any ability that you
 have and copy the laser ability.
 The
   lasers will bounce off slopes.
-  shoot the block, then shoot th
-  When you hear the bomb go off 
-  the Kirby bubble and drop thor
-  are massive amounts of blocks,
-  The top right has a room with 
-  bubble, which then leads to th
+  When you get all the way to
+  the right, shoot the block,
+  then shoot the laser at the
+  slope to destroy blocks. When
+  you hear the bomb go off fly
+  up there and shoot the blocks.
+  Get the Kirby bubble and drop
+  thorugh the floor to get a
+  chest. When there are massive
+  amounts of blocks, you can
+  destroy them to reveal 2
+  doors. The top right has a
+  room with a Kirby bubble and a
+  throw ability bubble, which
+  then leads to the next room.
+  The lower left just goes
    straight to the next room.
 Room 4: Kill the enemies, climb
 down the ladder, and copy the
 fire enemy's
-  ability.  Do the fireball atta
+  ability. Do the fireball
+  attack to the metal blocks to
+  get the chest.
 Room 5: Kill the Squeaker that
 holds the chest. Spinni will
 start chasing you,
   so run to the right, and go in
+  the doorway.
 -----
 
 3-2 - There are 2 chests in this
@@ -913,12 +1004,14 @@ the bubble in the middle of the
 room, if you want. Room 2: Jump
 into the water and hit the bomb
 block from underneath. Go into
-  the door to get a 1-up and a c
+  the door to get a 1-up and a
+  chest.
 Room 3: Miniboss battle: Boxy.
 If you have an ability, use it
 on it,
-  otherwise, Hit it with the sta
-  abillity.
+  otherwise, Hit it with the
+  stars. I would suggest that
+  you copy its abillity.
 Room 4: Run through the room,
 and kill enemies that cross your
 path. Room 5: Grab the chest
@@ -938,15 +1031,22 @@ the blocks on the upper left
 Room 4: Run until you see one of
 the guys with the cutter. Copy
 his ability
-  and destroy the blocks below h
-  to cut the rope as fast as you
-  falling.  Kill the Waddle Dee 
+  and destroy the blocks below
+  him to reveal a door. Use the
+  cutter to cut the rope as fast
+  as you can to stop the golden
+  Waddle Dee from falling. Kill
+  the Waddle Dee to get a chest.
 Room 5: Run up, kiling any
 enemies that stand in your way.
 When you see a
-  switch, go next to the stone, 
-  ability), Aim the cutter down 
-  chest.  Stro will appear.  Hit
+  switch, go next to the stone,
+  and (assuming you still have
+  the cutter ability), Aim the
+  cutter down so that it hits
+  the switch and get the chest.
+  Stro will appear. Hit the bomb
+  block and fly over him to get
   to the end.
 -----
 
@@ -956,7 +1056,9 @@ room and kill enemies to get to
 the door. Room 2: Get the fire
 ability, burn the rope, and get
 in the cannon. Burn
-  through the clouds to get the 
+  through the clouds to get the
+  chest. Then go through the
+  door.
 Room 3: Fly up and get on the
 warpstar. There is also a ?
 bubble on the other
@@ -968,8 +1070,11 @@ burn through the
 Room 5: Run through the room,
 killing enemies, until you see
 the chest. DON'T
-  hit the first bomb block.  Go 
-  jump to the platform and use t
+  hit the first bomb block. Go
+  on the other sideand hit that
+  bomb, then jump to the
+  platform and use the fire
+  breath to burn the bomb block,
    and quickly get the chest.
 Room 6: Storo will get the
 chest. Race him to the end, and
@@ -983,11 +1088,17 @@ ability and hit the bomb block.
 Room 2: Keep going up the
 ladders, killing enemies. When
 you get to the top,
-  you can go left to get a one u
-  with the beam, to get a chest 
-  up the next ladder, then when 
-  one, then go through the door 
-  Spinni will chase you into the
+  you can go left to get a one
+  up, then go right, and hit the
+  bomb block with the beam, to
+  get a chest in the room. After
+  that, head down, then up the
+  next ladder, then when you
+  have to take 2 paths, take the
+  right one, then go through the
+  door to get a chest. Get the
+  big chest, and Spinni will
+  chase you into the next room.
 Room 3: Run away from Spinni,
 and hit the switches to make the
 spikes go away.
@@ -997,13 +1108,17 @@ spikes go away.
 level Room 1: Get the spark
 ability. If you use the spark on
 the cloud, the cloud
-  spark.  Jump form cloud to clo
+  spark. Jump form cloud to
+  cloud, and kill enemies with
+  the spark.
 Room 2: Hop on the clouds to go
 up, while using the spark. Room
 3: Race the cloud which holds
 the chest. The cloud will stop,
 and drop
-  the chest in a pit.  Get the c
+  the chest in a pit. Get the
+  chest just before it falls in
+  the pit.
 -----
 
 3-Boss - Mecha Kracko GET THE
@@ -1033,13 +1148,19 @@ level Room 1: Get the cutter
 ability and chop up bushes to
 reveal hidden items.
   When you see a bridge, aim the
-  1-up.  When you see a switch, 
-  the cutter down to hit the swi
+  cutter down to hit the fire,
+  and get a 1-up. When you see a
+  switch, stand next to the
+  stone wall, and aim the cutter
+  down to hit the switch and get
+  the chest.
 Room 2: Miniboss battle: Bow
 Fighter. If you still have the
 cutter, or any
-  other ability, use it.  If not
-  very hard.  Just keep your dis
+  other ability, use it. If not,
+  inhale the stars, and hit him.
+  Its not very hard. Just keep
+  your distance.
 Room 3: Get the hi-jump ability.
 Jump your way through the blocks
 to get to
@@ -1047,14 +1168,19 @@ to get to
 Room 4: Get teh laser ability.
 Go until you see blocks high up
 on the
-  ceiling.  Use the laser to bou
-  When there are spikes blocking
-  to hit the block.  Get the che
+  ceiling. Use the laser to
+  bounce off the slopes and hit
+  the blocks. When there are
+  spikes blocking your way,
+  shoot the laser into the slope
+  to hit the block. Get the
+  chest and move right.
 Room 5: Go down the room,
 killing enemies. Room 6: Get the
 fire ability, and burn the
 bushes to find the big chest.
-  Doc will chase you, so escape 
+  Doc will chase you, so escape
+  from the room.
 -----
 
 4-2 - There are 2 chests in this
@@ -1067,11 +1193,13 @@ killing enemies. Nothing
 special. Room 3: Hit any flames
 you see, to burn the part of the
 level. When you see a
-  bush, burn (or slash) it, so t
+  bush, burn (or slash) it, so
+  that you can reach the chest.
 Room 4: You'll have to race
 Spinni to a chest that is on a
 moving platform.
-  grab it before he does, and ru
+  grab it before he does, and
+  run through the door.
 -----
 
 4-3 - There are 3 chests in this
@@ -1079,8 +1207,10 @@ level Room 1: Go through the
 door. Room 2: Hit the bomb block
 to let boulders go. Run into the
 ditch to dodge the
-  boulder, then run to the right
-  start taking you to the next r
+  boulder, then run to the
+  right. Run up the platforms,
+  then water will start taking
+  you to the next room.
 Room 3: Burn the bomb block and
 take the to door. Go through the
 room, and
@@ -1088,19 +1218,26 @@ room, and
 Room 4: Go through the room,
 lighting candles with the fire
 ability. When you
-  get close to the door, go left
+  get close to the door, go
+  left, and break a barrel to
+  find a chest.
 Room 5: The Doc will take the
 chest, so get the wheel ability,
 and chase him.
-  Hit him, and he'll drop the ch
+  Hit him, and he'll drop the
+  chest. Go right, instead of
+  going down, so
 that you can reach the end door.
 -----
 4-4 - There are 3 chests in this
 level Room 1: Get the spark
 ability. Run through the room,
 killing enemies. Little
-  sparks will go along the groun
-  ability.  Hit the switch to go
+  sparks will go along the
+  ground, damaging enemies, when
+  you use the ability. Hit the
+  switch to go down, into the
+  door, to get a 1-up, then
    go back to the other door.
 Room 2: Go through the room,
 straight to the door. Room 3:
@@ -1113,15 +1250,22 @@ gets to the end of
 Room 5: Hit the switch and go
 through, then hit the bomb
 block.
-  Miniboss battle: Buboo:  Inhal
-  After a few hits, Bubbo will f
-  Run to the door.  You can get 
-  Get the fire ability to burn t
-  the door.
+  Miniboss battle: Buboo: Inhale
+  the bubbles and shoot them at
+  him. After a few hits, Bubbo
+  will fall to the ground and
+  start running. Run to the
+  door. You can get the items in
+  the barrels if you want. Get
+  the fire ability to burn the
+  blocks to get the chest. Go
+  down to the door.
 Room 6: Go up and either burn
 the blocks to the left or go up
 to get to the
-  door. You will have to go thro
+  door. You will have to go
+  through this level twice to
+  get the chests.
 Room 7: Grab the chest, then run
 to the door. Room 8: You will
 fight Storo here.
@@ -1141,12 +1285,14 @@ left path to find a
 Room 5: Go down, then right,
 then hit a switch to disable
 spikes and get a
-  chest.  Hit the bomb block and
+  chest. Hit the bomb block and
+  go through the doorway.
 Room 6: Fly over the boulders,
 then keep going up. When you see
 a boulder at
-  the top, go to the side, becau
-  rolling on.
+  the top, go to the side,
+  because it will destroy the
+  floor that it's rolling on.
 Room 7: Hit the switch to make a
 chest appear. Spinni will chase
 you. Run and
@@ -1163,7 +1309,8 @@ that are in the room. Room 2:
 You should the wheel ability
 from another level, then ride
 through the
-  bomb block, and get the chest 
+  bomb block, and get the chest
+  right away.
 -----
 
 4-Boss - Yadogaine Use the
@@ -1185,20 +1332,27 @@ Vocal Volcano
 level Room 1: In here, you can
 get the fire ability and burn
 the rope, and get in the
-  cannon, where you can get a Ma
-  also just take the door.  They
+  cannon, where you can get a
+  Maxim Tomato and a magic
+  bubble. You can also just take
+  the door. They will both lead
+  to the same place.
 Room 2: You can get the throwing
 ability, which will be used in
 the next room. Room 3: Grab the
 block and throw it at the
 switch, if you want to get a ?
-  bubble.  Grab one of thw sword
-  deactivate the spikes.  At the
+  bubble. Grab one of thw sword
+  enemies and throw it at the
+  switch to deactivate the
+  spikes. At the bottom of the
+  room is a chest.
 Room 4: Keep going up until you
 see a stone wall with a chest
 behind it.
-  Inhale an enemy, and shoot it 
-  wall.
+  Inhale an enemy, and shoot it
+  at the switch while standing
+  next to the wall.
 Room 5: A squeaker will start
 with the chest. Grab it before
 it runs away and run to the end
@@ -1211,18 +1365,22 @@ lava, and go to the end of the
 room. Room 2: Go up until you
 see a waterfall of lava with a
 hest behind it. Get an
-  ability such as the fire, wher
+  ability such as the fire,
+  where you can hit a switch
+  from a distance.
 Hit he switch and get the chest.
 Room 3: Fly through the room,
 dodging the flying enemies. Room
 4: Go up and left to the door.
 Hit the switches to the right
 and get the
-  chest.  Hit the switch at the 
+  chest. Hit the switch at the
+  top and go through the door.
 Room 5: Get the beam ability and
 hit the switch. Spinni will
 start chasing
-  you.  The door is at the top r
+  you. The door is at the top
+  right of the room.
 -----
 
 5-3 - There are 3 chests in this
@@ -1233,21 +1391,28 @@ cutter because you can
 Room 2: Miniboss battle:
 Bonkers. If you have the cutter,
 keep throwing it at
-  him, and dodge his attacks.  H
-  you have, and copy his.
+  him, and dodge his attacks.
+  He's not very hard. Release
+  any ability you have, and copy
+  his.
 Room 3: Hit the wooden stump to
 get the chest. Room 4: Miniboss
 battle: Gao Gao. He will spin at
 you and jump on you while
-  spinning.  The best thing to d
-  back at him.  Copy his ability
+  spinning. The best thing to do
+  is to inhale the stars and
+  shoot them back at him. Copy
+  his ability when he is
+  defeated.
 Room 5: Dig to the chest and get
 the cherries if needed. Room 6:
 Miniboss battle: Big Metalum. He
 will walk, and rocks will fall
 from
-  ceiling.  He will also roll at
-  When he's defeated, copy his a
+  ceiling. He will also roll at
+  you. Inhale and spit the rocks
+  at him. When he's defeated,
+  copy his ability.
 Room 7: Get do the rock attack
 on the metal spikes, and get the
 chest. Room 8: You will fight
@@ -1261,7 +1426,8 @@ Room 9: Enter the door.
 level Room 1: Go up to the top
 left of the room and copy the
 animal ability. You can
-  dig to get the cherries and th
+  dig to get the cherries and
+  the lollipop.
 Room 2: Get the ice ability and
 cool down the fires, and get
 moving to the next
@@ -1271,18 +1437,23 @@ freezing enemies that cross your
 path. Room 4: Go through the
 room until you see 2 blocks at
 the top of the room.
-  Destroy them and go through th
-  It will make the golden Waddle
-  and grab the chest.
+  Destroy them and go through
+  the door. DO NOT press this
+  switch. It will make the
+  golden Waddle Dee fall. Kill
+  the golden Waddle Dee and grab
+  the chest.
 Room 5: When you hit the switch,
 you have to run as fast as you
 can to get the
-  chest.  Kill and dodge enemies
+  chest. Kill and dodge enemies
+  that you come across.
 Room 6: When you enter this
 room, Doc will take the chest.
 Get the ice ability
-  and cool down the flames to ge
-  your prize.
+  and cool down the flames to
+  get to the top fast. Fight Doc
+  to claim your prize.
 -----
 
 5-EX - There are 3 chests in
@@ -1297,13 +1468,19 @@ not to get
 Middle: Use the ice ability to
 freeze all of the lava and fire.
 The chest is
-  in the top right part of the r
-  ladder, get the hammer ability
+  in the top right part of the
+  room. Instead of going back
+  down the ladder, get the
+  hammer ability and hit the
+  stump.
 Top Left: Hit the first stump,
 then go down. Hit the stump on
 the right to
-  clear the path.  Hit the stump
-  the far right.  Break the barr
+  clear the path. Hit the stump
+  on the right, then hit the
+  stump on the far right. Break
+  the barrel to claim your
+  prize. Hit the stump
    to get the cupid ability.
 Top Right: Spinni will take the
 chest. Chase him to the hideout

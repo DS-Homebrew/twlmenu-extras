@@ -170,10 +170,16 @@ to Route 201, follow him.
 4.2: Route 201
 ------------------
 --Route 201 Wild Pokemon--------
-*	Starly-Tall Grass-50%-Normal/F
-*	Bidoof- Tall Grass- 40%- Norma
-*	Kricketot- Tall Grass- 10%- Bu
-*	Growlithe- Fire Red in GBA slo
+  ------------------------------
+  ---------
+* Starly-Tall
+ Grass-50%-Normal/Flying
+* Bidoof- Tall Grass- 40%-
+ Normal
+* Kricketot- Tall Grass- 10%-
+ Bug
+* Growlithe- Fire Red in GBA
+ slot- Fire
 --------------------------------
 
 Professor Rowan will come to you
@@ -350,9 +356,12 @@ gotten the items, head to Route
 -----------------
 
 --Route 202 Wild Pokemon--------
+  ------------------------------
+  ---------
 *	Shinx-Tall Grass-30%-Electric
 *	Bidoof-Tall Grass-40%-Normal
-*	Starly-Tall Grass-20%-Normal/F
+* Starly-Tall
+ Grass-20%-Normal/Flying
 *	Kricketot-Tall Grass-10%-Bug
 *	Growlithe-Fire Red in GBA slot
 --------------------------------
@@ -392,13 +401,17 @@ Jubilife.
 ------------------
 
 --Route 203 Wild Pokemon--------
-*	Starly-Tall Grass-35%-Normal/F
+  ------------------------------
+  ---------
+* Starly-Tall
+ Grass-35%-Normal/Flying
 *	Shinx-Tall Grass-25%-Electric
 *	Kricketot-Tall Grass-10%-Bug
 *	Bidoof-Tall Grass-15%-Normal
 *	Abra-Tall Grass-15%-Psychic
 *	Seedot-Ruby in GBA slot-Grass
-*	Lotad-Sapphire in GBA slot-Gra
+* Lotad-Sapphire in GBA slot-
+ Grass/Water
 *	Pineco-Emerald in GBA slot-Bug
 --------------------------------
 
@@ -444,6 +457,8 @@ right of the 203.
 -----------------------
 
 --Oreburgh Gate Wild Pokemon----
+  ------------------------------
+  ---------
 *	Zubat-Cave-50%-Poison/Flying
 *	Psyduck-Cave-35%-Water
 *	Geodude-Cave-15%-Rock/Ground
@@ -473,7 +488,9 @@ southern part of Oreburgh.
 4.9: Oreburgh Mine
 ------------------------
 
---Oreburgh Mine 1st Floor & Base
+--Oreburgh Mine 1st Floor &
+  Basement Wild
+  Pokemon-----------------------
 *	Geodude-Cave-65%-Rock/Ground
 *	Zubat-Cave-25%-Poison/Flying
 *	Onix-Cave-10%-Rock/Ground
@@ -498,13 +515,14 @@ and only battle Roark.
 
 (--Boss 3---Oreburgh Gym Leader 
 Roark---------------------------
-------) * Lv12 Geodude-
-Rock/Ground o Rock Throw,
-Stealth Rock * Lv12 Onix-
-Rock/Ground o Screech, Rock
-Throw, Stealth Rock * Lv 14
-Cranidos-Rock o Headbutt, Leer,
-Pursuit
+------)
+*	Lv12 Geodude-Rock/Ground
+o	Rock Throw, Stealth Rock
+*	Lv12 Onix-Rock/Ground
+o Screech, Rock Throw, Stealth
+Rock
+*	Lv 14 Cranidos-Rock
+o	Headbutt, Leer, Pursuit
 
 Suggested Lv: 13 Advice: Turtwig
 and Piplup can sweep through
@@ -541,18 +559,25 @@ Route 204.
 ------------------
 
 --Southern Route 204 Wild Pokemo
-*	Starly-Tall Grass-25%-Normal/F
+  n-----------------------------
+  ---------
+* Starly-Tall
+ Grass-25%-Normal/Flying
 *	Bidoof-Tall Grass-25%-Normal
 *	Wurmple-Tall Grass-10%-Bug
 *	Kricketot-Tall Grass-10%-Bug
-*	Budew-Tall Grass-15%-Grass/Poi
+* Budew-Tall
+ Grass-15%-Grass/Poison
 *	Shinx-Tall Grass-15%-Electric
 *	Zubat-Night-Poison/Flying
 *	Seedot-Ruby in GBA slot
-*	Lotad-Sapphire in GBA slot-Gra
+* Lotad-Sapphire in GBA slot-
+ Grass/Water
 *	Pineco-Emerald in GBA slot-Bug
-*	Caterpie-Fire Red in GBA slot-
-*	Weedle-Leaf Green in GBA slot-
+* Caterpie-Fire Red in GBA slot-
+ Bug
+* Weedle-Leaf Green in GBA slot-
+ Bug/Poison
 --------------------------------
 
 You will see Professor Rowan and
@@ -570,6 +595,8 @@ Path) go inside there.
 ----------------------
 
 --Ravaged Path Wild Pokemon-----
+  ------------------------------
+  ---------
 *	Zubat-Cave-65%-Poison/Flying
 *	Psyduck-Cave-35%-Water
 --------------------------------
@@ -583,18 +610,25 @@ right.
 ------------------
 
 --Northern Route 204 Wild Pokemo
-*	Starly-Tall Grass-25%-Normal/F
+  n-----------------------------
+  ---------
+* Starly-Tall
+ Grass-25%-Normal/Flying
 *	Bidoof-Tall Grass-25%-Normal
 *	Wurmple-Tall Grass-10%-Bug
 *	Kricketot-Tall Grass-10%-Bug
-*	Budew-Tall Grass-15%-Grass/Poi
+* Budew-Tall
+ Grass-15%-Grass/Poison
 *	Shinx-Tall Grass-15%-Electric
 *	Zubat-Night-Poison/Flying
 *	Seedot-Ruby in GBA slot
-*	Lotad-Sapphire in GBA slot-Gra
+* Lotad-Sapphire in GBA slot-
+ Grass/Water
 *	Pineco-Emerald in GBA slot-Bug
-*	Caterpie-Fire Red in GBA slot-
-*	Weedle-Leaf Green in GBA slot-
+* Caterpie-Fire Red in GBA slot-
+ Bug
+* Weedle-Leaf Green in GBA slot-
+ Bug/Poison
 --------------------------------
 
 Nothing much here, just make
@@ -614,10 +648,13 @@ Windworks right of the Town.
 ----------------------------
 
 --Valley Windworks Wild Pokemon-
+  ------------------------------
+  ---------
 *	Shellos-Tall Grass-45%-Water
 *	Shinx-Tall Grass-25%-Electric
 *	Buizel-Tall Grass-25%-Water
-*	Pachirisu-Tall Grass-10%-Elect
+* Pachirisu-Tall
+ Grass-10%-Electric
 --------------------------------
 
 You’ll see a girl standing in
@@ -645,10 +682,13 @@ holding the girl’s father
 hostage.
 
 --Boss 4---Commander Mars-------
-* Lv15 Zubat: Poison/Flying o
-Toxic, Bite, Leech Life * Lv17
-Purugly: Normal o Scratch, Faint
-Attack, Fake Out
+  ------------------------------
+  ---------
+*	Lv15 Zubat: Poison/Flying
+o	Toxic, Bite, Leech Life
+*	Lv17 Purugly: Normal
+o Scratch, Faint Attack, Fake
+Out
 
 Suggested Lv: 16-17 Advice:
 Okay, this is where things get a
@@ -673,10 +713,13 @@ Route 205.
 ------------------
 
 --Southern Route 205 Wild Pokemo
+  n-----------------------------
+  ---------
 *	Shellos-Tall Grass-65%-Water
 *	Bidoof-Tall Grass-10%-Normal
 *	Buizel-Tall Grass-15%-Water
-*	Pachirisu-Tall Grass-10%-Elect
+* Pachirisu-Tall
+ Grass-10%-Electric
 --------------------------------
 
 Keep going North to get to
@@ -690,23 +733,33 @@ team.
 ----------------------
 
 --Eterna Forest Wild Pokemon----
+  ------------------------------
+  ---------
 *	Buneary-Tall Grass-24%-Normal
 *	Bidoof-Tall Grass-10%-Normal
 *	Wurmple-Tall Grass-10%-Bug
 *	Kricketot-Tall Grass-10%-Bug
-*	Budew-Tall Grass-30%-Grass/Poi
+* Budew-Tall
+ Grass-30%-Grass/Poison
 *	Silcoon-Tall Grass-5%-Bug
 *	Cascoon-Tall Grass-5%-Bug
-*	Gastly-Tall Grass-4%-Ghost/Poi
-*	Beautifly-Tall Grass-1%-Bug/Fl
-*	Dustox-Tall Grass-1%-Bug/Poiso
+* Gastly-Tall
+ Grass-4%-Ghost/Poison
+* Beautifly-Tall
+ Grass-1%-Bug/Flying
+* Dustox-Tall
+ Grass-1%-Bug/Poison
 *	Hoothoot-Night-Normal/Flying
 *	Seedot-Ruby in GBA slot
 *	Pineco-Emerald in GBA slot-Bug
-*	Caterpie-Fire Red in GBA slot-
-*	Weedle-Leaf Green in GBA slot-
-*	Metapod-Fire Red in GBA slot-B
-*	Kakuna-Leaf Green in GBA slot-
+* Caterpie-Fire Red in GBA slot-
+ Bug
+* Weedle-Leaf Green in GBA slot-
+ Bug/Poison
+* Metapod-Fire Red in GBA slot-
+ Bug
+* Kakuna-Leaf Green in GBA slot-
+ Bug/Poison
 --------------------------------
 
 Once you’re in the forest,
@@ -727,16 +780,22 @@ Now exit the forest.
 ------------------
 
 --Northern Route 205 Wild Pokemo
+  n-----------------------------
+  ---------
 *	Bidoof-Tall Grass-30%-Normal
 *	Wurmple-Tall Grass-10%-Bug
 *	Kricketot-Tall Grass-10%-Bug
-*	Budew-Tall Grass-28%-Grass/Poi
+* Budew-Tall
+ Grass-28%-Grass/Poison
 *	Silcoon-Tall Grass-10%-Bug
 *	Cascoon-Tall Grass-10%-Bug
-*	Beautifly-Tall Grass-1%-Bug/Fl
-*	Dustox-Tall Grass-1%-Bug/Poiso
+* Beautifly-Tall
+ Grass-1%-Bug/Flying
+* Dustox-Tall
+ Grass-1%-Bug/Poison
 *	Hoothoot-Night-Normal/Flying
-*	Lotad-Sapphire in GBA slot-Gra
+* Lotad-Sapphire in GBA slot-
+ Grass/Water
 --------------------------------
 
 Nothing important here so keep
@@ -776,14 +835,16 @@ trainer the clock will move.
 
 (--Boss 5---Eterna Gym Leader Ga
 rdenia--------------------------
-------) * Lv20 Turtwig: Grass o
-Grass Knot, Razor Leaf, Sunny
-Day, Reflect * Lv20 Cherrim:
-Grass o Grass Knot, Leech Seed,
-Magical Leaf, Safeguard * Lv22
-Roserade: Grass/Poison o Grass
-Knot, Magical Leaf, Poison
-Sting, Stun Spore
+------)
+*	Lv20 Turtwig: Grass
+o Grass Knot, Razor Leaf, Sunny
+Day, Reflect
+*	Lv20 Cherrim: Grass
+o Grass Knot, Leech Seed,
+Magical Leaf, Safeguard
+*	Lv22 Roserade: Grass/Poison
+o Grass Knot, Magical Leaf,
+Poison Sting, Stun Spore
 
 Suggested Lv: 20 Advice:
 Chimchar or any flying type can
@@ -817,10 +878,12 @@ Galactic Commander and a man
 talking. Talk to the Commander.
 
 --Boss 6---Commander Jupiter----
-* Lv21 Zubat: Poison/Flying o
-Giga Drain, Bite, Wing Attack *
-Lv23 Skuntank: Poison/Dark o
-Night Slash, Poison Gas,
+  ------------------------------
+  ---------
+*	Lv21 Zubat: Poison/Flying
+o	Giga Drain, Bite, Wing Attack
+*	Lv23 Skuntank: Poison/Dark
+o Night Slash, Poison Gas,
 Screech, Smokescreen
 
 Suggested Lv: 22 Advice: Why
@@ -876,9 +939,13 @@ blocking it.
 ------------------
 
 --Route 206 Wild Pokemon--------
+  ------------------------------
+  ---------
 *	Ponyta-Tall Grass-20%-Fire
-*	Geodude-Tall Grass-30%-Rock/Gr
-*	Gligar-Tall Grass-20%-Ground/F
+* Geodude-Tall
+ Grass-30%-Rock/Ground
+* Gligar-Tall
+ Grass-20%-Ground/Flying
 *	Kricketune-Tall Grass-10%-Bug
 *	Machop-Tall Grass-20%-Fighting
 --------------------------------
@@ -888,9 +955,12 @@ blocking it.
 ------------------
 
 --Route 207 Wild Pokemon--------
+  ------------------------------
+  ---------
 *	Machop-Tall Grass-30%-Fighting
 *	Kricketot-Tall Grass-10%-Bug
-*	Geodude-Tall Grass-30%-Rock/Gr
+* Geodude-Tall
+ Grass-30%-Rock/Ground
 *	Ponyta-Tall Grass-25%-Fire
 --------------------------------
 
@@ -902,10 +972,13 @@ the entrance to Mt. Coronet.
 --------------------
 
 --Southern Mt. Coronet Wild Poke
+  mon---------------------------
+  ---------
 *	Machop-Cave-10%-Fighting
 *	Geodude-Cave-20%-Rock/Ground
 *	Bronzor-Cave-20%-Steel/Psychic
-*	Meditite-Cave-20%-Psychic/Figh
+* Meditite-
+ Cave-20%-Psychic/Fighting
 *	Clefairy-Cave-10%-Normal
 *	Chingling-Cave-10%-Psychic
 *	Nosepass-Cave-5%-Rock
@@ -926,14 +999,21 @@ you’re at Route 208.
 ------------------
 
 --Route 208 Wild Pokemon--------
-*	Budew-Tall Grass-30%-Grass/Poi
+  ------------------------------
+  ---------
+* Budew-Tall
+ Grass-30%-Grass/Poison
 *	Bidoof-Tall Grass-20%-Normal
 *	Ralts-Tall Grass-15%-Psychic
-*	Roselia-Tall Grass-15%-Grass/P
-*	Bibareal-Tall Grass-20%-Normal
+* Roselia-Tall
+ Grass-15%-Grass/Poison
+* Bibareal-Tall
+ Grass-20%-Normal/Water
 *	Zubat-Night-Poison/Flying
-*	Zangoose-Ruby in GBA slot-Norm
-*	Seviper-Sapphire in GBA slot-P
+* Zangoose-Ruby in GBA slot-
+ Normal
+* Seviper-Sapphire in GBA slot-
+ Poison
 --------------------------------
 
 Nothing that useful except the
@@ -991,14 +1071,16 @@ start over.
 
 (--Boss 7---Hearthome Gym Leader
 Fantina-------------------------
------) * Lv24 Duskull: Ghost o
-Will-o-Wisp, Pursuit, Shadow
-Sneak, Future Sight * Lv24
-Haunter: Ghost/Poison o Shadow
-Claw, Sucker Punch, Hypnosis,
-Confuse Ray * Lv26 Mismagius:
-Ghost o Shadow Ball, Psybeam,
-Magical Leaf, Confuse Ray
+-----)
+*	Lv24 Duskull: Ghost
+o Will-o-Wisp, Pursuit, Shadow
+Sneak, Future Sight
+*	Lv24 Haunter: Ghost/Poison
+o Shadow Claw, Sucker Punch,
+Hypnosis, Confuse Ray
+*	Lv26 Mismagius: Ghost
+o Shadow Ball, Psybeam, Magical
+Leaf, Confuse Ray
 
 Suggested Lv: 25-26 Advice: This
 is going to be an annoying
@@ -1030,37 +1112,44 @@ your rival and will have a
 battle.
 
 --Boss 8---Rival----------------
-If you choose Turtwig: * Lv25
-Staravia: Normal/Flying o Wing
-Attack, Quick Attack, Endeavor,
-Double Team * Lv23 Buizel: Water
+If you choose Turtwig:
+*	Lv25 Staravia: Normal/Flying
+o Wing Attack, Quick Attack,
+Endeavor, Double Team
+*	Lv23 Buizel: Water
 o Water Gun, Quick Attack,
-Pursuit, Growl * Lv23 Roselia:
-Grass/Poison o Mega Drain,
-Poison Sting, Leech Seed, Stun
-Spore * Lv27 Monferno:
-Fire/Fighting o Flame Wheel,
-Mach Punch, Fury Swipes, Leer If
-you choose Chimchar: * Lv25
-Staravia: Normal/Flying o Wing
-Attack, Quick Attack, Endeavor,
-Double Team * Lv23 Roselia:
-Grass/Poison o Mega Drain,
-Poison Sting, Leech Seed, Stun
-Spore * Lv23 Ponyta: Fire o
-Ember, Tackle, Tail Whip, Growl
-* Lv27 Prinplup: Water o
-Bubblebeam, Peck, Metal Claw,
-Growl If you choose Piplup: *
-Lv25 Staravia: Normal/Flying o
-Wing Attack, Quick Attack,
-Endeavor, Double Team * Lv23
-Buizel: Water o Water Gun, Quick
-Attack, Pursuit, Growl * Lv23
-Ponyta: Fire o Ember, Tackle,
-Tail Whip, Growl * Lv27 Grotle:
-Grass o Razor Leaf, Tackle,
-Absorb, Withdraw
+Pursuit, Growl
+*	Lv23 Roselia: Grass/Poison
+o Mega Drain, Poison Sting,
+Leech Seed, Stun Spore
+*	Lv27 Monferno: Fire/Fighting
+o Flame Wheel, Mach Punch, Fury
+Swipes, Leer If you choose
+Chimchar:
+*	Lv25 Staravia: Normal/Flying
+o Wing Attack, Quick Attack,
+Endeavor, Double Team
+*	Lv23 Roselia: Grass/Poison
+o Mega Drain, Poison Sting,
+Leech Seed, Stun Spore
+*	Lv23 Ponyta: Fire
+o Ember, Tackle, Tail Whip,
+Growl
+*	Lv27 Prinplup: Water
+o Bubblebeam, Peck, Metal Claw,
+Growl If you choose Piplup:
+*	Lv25 Staravia: Normal/Flying
+o Wing Attack, Quick Attack,
+Endeavor, Double Team
+*	Lv23 Buizel: Water
+o Water Gun, Quick Attack,
+Pursuit, Growl
+*	Lv23 Ponyta: Fire
+o Ember, Tackle, Tail Whip,
+Growl
+*	Lv27 Grotle: Grass
+o Razor Leaf, Tackle, Absorb,
+Withdraw
 
 Suggested Lv: 26-27 Advice: This
 battle can be easy with the
@@ -1085,14 +1174,20 @@ Route 209.
 ------------------
 
 --Route 209 Wild Pokemon--------
-*	Roselia-Tall Grass-25%-Grass/P
-*	Bibareal-Tall Grass-30%-Normal
-*	Staravia-Tall Grass-20%-Normal
+  ------------------------------
+  ---------
+* Roselia-Tall
+ Grass-25%-Grass/Poison
+* Bibareal-Tall
+ Grass-30%-Normal/Water
+* Staravia-Tall
+ Grass-20%-Normal/Flying
 *	Ralts-Tall Grass-20%-Psychic
 *	Chansey-Tall Grass-5%-Normal
 *	Zubat-Night-Poison/Flying
 *	Duskull-Night-Ghost
-*	Vulpix-Leaf Green in GBA slot-
+* Vulpix-Leaf Green in GBA slot-
+ Fire
 --------------------------------
 
 On a corner of the 209, there is
@@ -1106,12 +1201,16 @@ Spiritomb.
 -------------------
 
 --Lost Tower 1st Floor Wild Poke
+  mon---------------------------
+  ---------
 *	Gastly-Cave-65%-Ghost/Poison
 *	Zubat-Cave-35%-Poison/Flying
 *	Duskull-Night-Ghost
 --------------------------------
 
 --Lost Tower 2nd Floor Wild Poke
+  mon---------------------------
+  ---------
 ------------------------
 *	Gastly-Cave-65%-Ghost/Poison
 *	Zubat-Cave-35%-Poison/Flying
@@ -1119,6 +1218,8 @@ Spiritomb.
 --------------------------------
 
 --Lost Tower 3rd Floor Wild Poke
+  mon---------------------------
+  ---------
 *	Gastly-Cave-64%-Ghost/Poison
 *	Zubat-Cave-35%-Poison/Flying
 *	Golbat-Cave-1%-Poison/Flying
@@ -1126,6 +1227,8 @@ Spiritomb.
 --------------------------------
 
 --Lost Tower 4th Floor Wild Poke
+  mon---------------------------
+  ---------
 *	Gastly-Cave-60%-Ghost/Poison
 *	Zubat-Cave-35%-Poison/Flying
 *	Golbat-Cave-5%-Poison/Flying
@@ -1133,6 +1236,8 @@ Spiritomb.
 --------------------------------
 
 --Lost Tower 5th Floor Wild Poke
+  mon---------------------------
+  ---------
 *	Gastly-Cave-55%-Ghost/Poison
 *	Zubat-Cave-35%-Poison/Flying
 *	Golbat-Cave-10%-Poison/Flying
@@ -1166,6 +1271,8 @@ see the Solaceon Ruins.
 ------------------------
 
 --Solaceon Ruins Wild Pokemon---
+  ------------------------------
+  ---------
 *	Unown-Cave-100%-Psychic
 --------------------------------
 
@@ -1189,16 +1296,23 @@ Solaceon.
 ------------------
 
 --Route 210 Wild Pokemon--------
-*	Roselia-Tall Grass-15%-Grass/P
-*	Staravia-Tall Grass-20%-Normal
-*	Scyther-Tall Grass-15%-Bug/Fly
+  ------------------------------
+  ---------
+* Roselia-Tall
+ Grass-15%-Grass/Poison
+* Staravia-Tall
+ Grass-20%-Normal/Flying
+* Scyther-Tall
+ Grass-15%-Bug/Flying
 *	Ponyta-Tall Grass-25%-Fire
-*	Geodude-Tall Grass-20%-Rock/Gr
+* Geodude-Tall
+ Grass-20%-Rock/Ground
 *	Chansey-Tall Grass-5%-Normal
 *	Hoothoot-Night-Normal/Flying
 *	Noctowl-Night-Normal/Flying
 *	Seedot-Ruby in GBA slot-Grass
-*	Nuzleaf-Ruby in GBA slot-Grass
+* Nuzleaf-Ruby in GBA slot-
+ Grass/Dark
 *	Pineco-Emerald in GBA slot-Bug
 --------------------------------
 
@@ -1214,10 +1328,15 @@ North.
 ------------------
 
 --Route 215 Wild Pokemon--------
-*	Staravia-Tall Grass-30%-Normal
-*	Scyther-Tall Grass-15%-Bug/Fly
+  ------------------------------
+  ---------
+* Staravia-Tall
+ Grass-30%-Normal/Flying
+* Scyther-Tall
+ Grass-15%-Bug/Flying
 *	Marill-Tall Grass-25%-Water
-*	Lickitung-Tall Grass-10%-Norma
+* Lickitung-Tall
+ Grass-10%-Normal
 *	Abra-Tall Grass-10%-Psychic
 *	Kadabra-Tall Grass-10%-Psychic
 --------------------------------
@@ -1263,15 +1382,17 @@ Maylene.
 
 (--Boss 9---Veilstone Gym Leader
 Maylene-------------------------
------) * Lv28 Meditite:
-Psychic/Fightin o Drain Punch,
-Confusion, Rock Tomb, Fake Out *
-Lv29 Machoke: Fighting o Karate
-Chop, Rock Tomb, Strength, Focus
-Energy * Lv32 Lucario:
-Steel/Fighting o Drain Punch,
-Force Palm, Metal Claw, Bone
-Rush
+-----)
+* Lv28 Meditite:
+ Psychic/Fighting
+o Drain Punch, Confusion, Rock
+Tomb, Fake Out
+*	Lv29 Machoke: Fighting
+o Karate Chop, Rock Tomb,
+Strength, Focus Energy
+*	Lv32 Lucario: Steel/Fighting
+o Drain Punch, Force Palm, Metal
+Claw, Bone Rush
 
 
 Suggested Lv: 31 Advice: Okay by
@@ -1330,12 +1451,19 @@ Veilstone to Route 214.
 ------------------
 
 --Route 214 Wild Pokemon--------
-*	Graveler-Tall Grass-35%-Rock/G
-*	Geodude-Tall Grass-20%-Rock/Gr
-*	Rhyhorn-Tall Grass-30%-Rock/Gr
-*	Houndour-Tall Grass-15%-Dark/F
+  ------------------------------
+  ---------
+* Graveler-Tall
+ Grass-35%-Rock/Ground
+* Geodude-Tall
+ Grass-20%-Rock/Ground
+* Rhyhorn-Tall
+ Grass-30%-Rock/Ground
+* Houndour-Tall
+ Grass-15%-Dark/Fire
 *	Zubat-Night-Poison/Flying
-*	Vulpix-Leaf Green in GBA slot-
+* Vulpix-Leaf Green in GBA slot-
+ Fire
 --------------------------------
 
 Here you can find the Ruin
@@ -1352,10 +1480,16 @@ south to get to Valor Lakefront.
 --------------------------
 
 --Valor Lakefront Wild Pokemon--
-*	Girafarig-Tall Grass-25%-Norma
-*	Staravia-Tall Grass-25%-Normal
-*	Bibareal-Tall Grass-30%-Normal
-*	Houndour-Tall Grass-10%-Dark/F
+  ------------------------------
+  ---------
+* Girafarig-Tall
+ Grass-25%-Normal/Psychic
+* Staravia-Tall
+ Grass-25%-Normal/Flying
+* Bibareal-Tall
+ Grass-30%-Normal/Water
+* Houndour-Tall
+ Grass-10%-Dark/Fire
 *	Kricketune-Tall Grass-10%-Bug
 --------------------------------
 
@@ -1376,8 +1510,12 @@ and go down to Route 213.
 ------------------
 
 --Route 213 Wild Pokemon--------
-*	Wingull-Tall Grass-20%-Water/F
-*	Chatot-Tall Grass-20%-Normal/F
+  ------------------------------
+  ---------
+* Wingull-Tall
+ Grass-20%-Water/Flying
+* Chatot-Tall
+ Grass-20%-Normal/Flying
 *	Buizel-Tall Grass-25%-Water
 *	Shellos-Tall Grass-35%-Water
 --------------------------------
@@ -1400,37 +1538,42 @@ going to come test your
 abilities.
 
 --Boss 10---Rival---------------
-If you choose Turtwig: * Lv34
-Staravia: Normal/Flying o Wing
-Attack, Quick Attack, Endeavor,
-Double Team * Lv32 Buizel: Water
+If you choose Turtwig:
+*	Lv34 Staravia: Normal/Flying
+o Wing Attack, Quick Attack,
+Endeavor, Double Team
+*	Lv32 Buizel: Water
 o Aqua Jet, Quick Attack,
-Pursuit, Growl * Lv32 Roselia:
-Grass/Poison o Mega Drain,
-Poison Sting, Leech Seed,
-Magical Leaf * Lv36 Monferno:
-Fire/Fighting o Flame Wheel,
-Mach Punch, Fury Swipes, Leer If
-you choose Chimchar: * Lv34
-Staravia: Normal/Flying o Wing
-Attack, Quick Attack, Endeavor,
-Double Team * Lv32 Roselia:
-Grass/Poison o Mega Drain,
-Poison Sting, Leech Seed,
-Magical Leaf * Lv32 Ponyta: Fire
-o Ember, Stomp, Tail Whip, Growl
-* Lv36 Prinplup: Water o
-Bubblebeam, Peck, Metal Claw,
-Growl If you choose Piplup: *
-Lv34 Staravia: Normal/Flying o
-Wing Attack, Quick Attack,
-Endeavor, Double Team * Lv32
-Buizel: Water o Aqua Jet, Quick
-Attack, Pursuit, Growl * Lv32
-Ponyta: Fire o Ember, Stomp,
-Tail Whip, Growl * Lv36 Grotle:
-Grass o Razor Leaf, Bite, Mega
-Drain, Withdraw
+Pursuit, Growl
+*	Lv32 Roselia: Grass/Poison
+o Mega Drain, Poison Sting,
+Leech Seed, Magical Leaf
+*	Lv36 Monferno: Fire/Fighting
+o Flame Wheel, Mach Punch, Fury
+Swipes, Leer If you choose
+Chimchar:
+*	Lv34 Staravia: Normal/Flying
+o Wing Attack, Quick Attack,
+Endeavor, Double Team
+*	Lv32 Roselia: Grass/Poison
+o Mega Drain, Poison Sting,
+Leech Seed, Magical Leaf
+*	Lv32 Ponyta: Fire
+o	Ember, Stomp, Tail Whip, Growl
+*	Lv36 Prinplup: Water
+o Bubblebeam, Peck, Metal Claw,
+Growl If you choose Piplup:
+*	Lv34 Staravia: Normal/Flying
+o Wing Attack, Quick Attack,
+Endeavor, Double Team
+*	Lv32 Buizel: Water
+o Aqua Jet, Quick Attack,
+Pursuit, Growl
+*	Lv32 Ponyta: Fire
+o	Ember, Stomp, Tail Whip, Growl
+*	Lv36 Grotle: Grass
+o Razor Leaf, Bite, Mega Drain,
+Withdraw
 
 Suggested Lv: 34 Advice: Same as
 your last battle with him, just
@@ -1464,14 +1607,16 @@ this should be cake.
 
 (--Boss 11---Pastoria Gym Leader
 Crasher
-Wake-------------------------) *
-Lv33 Gyarados: Water/Flying o
-Brine, Waterfall, Bite, Twister
-* Lv34 Quagsire: Water/Ground o
-Mud Bomb, Rock Tomb, Water
-Pulse, Yawn * Lv37 Floatzel:
-Water o Brine, Ice Fang, Crunch,
-Ice Fang
+Wake-------------------------)
+*	Lv33 Gyarados: Water/Flying
+o Brine, Waterfall, Bite,
+Twister
+*	Lv34 Quagsire: Water/Ground
+o Mud Bomb, Rock Tomb, Water
+Pulse, Yawn
+*	Lv37 Floatzel: Water
+o Brine, Ice Fang, Crunch, Ice
+Fang
 
 Suggested Lv: 35-36 Advice: If
 you thought the rival battle was
@@ -1522,16 +1667,25 @@ Celestic Town.
 ------------------
 
 --Route 210 Wild Pokemon--------
-*	Swablu-Tall Grass-20%-Normal/F
-*	Bibareal-Tall Grass-20%-Normal
-*	Scyther-Tall Grass-15%-Bug/Fly
-*	Meditite-Tall Grass-20%-Psychi
+  ------------------------------
+  ---------
+* Swablu-Tall
+ Grass-20%-Normal/Flying
+* Bibareal-Tall
+ Grass-20%-Normal/Water
+* Scyther-Tall
+ Grass-15%-Bug/Flying
+* Meditite-Tall
+ Grass-20%-Psychic/Fighting
 *	Machop-Tall Grass-15%-Fighting
-*	Machoke-Tall Grass-10%-Fightin
+* Machoke-Tall
+ Grass-10%-Fighting
 *	Hoothoot-Night-Normal/Flying
 *	Noctowl-Night-Normal/Flying
-*	Zangoose-Ruby in GBA slot-Norm
-*	Seviper-Sapphire in GBA slot-P
+* Zangoose-Ruby in GBA slot-
+ Normal
+* Seviper-Sapphire in GBA slot-
+ Poison
 --------------------------------
 
 You should use Defog here.
@@ -1555,14 +1709,17 @@ of the Psychic Trio and the
 Cyrus will come and battle you
 
 --Boss 12---Galactic Boss Cyrus-
-* Lv34 Sneasel: Dark/Ice o
-Slash, Ice Punch, Quick Attack,
-Screech * Lv34 Golbat:
-Poison/Flying o Poison Fang, Air
-Cutter, Bite, Supersonic * Lv36
-Murkrow: Dark/Flying o Drill
-Peck, Night Shade, Astonish,
-Faint Attack
+  ------------------------------
+  ---------
+*	Lv34 Sneasel: Dark/Ice
+o Slash, Ice Punch, Quick
+Attack, Screech
+*	Lv34 Golbat: Poison/Flying
+o Poison Fang, Air Cutter, Bite,
+Supersonic
+*	Lv36 Murkrow: Dark/Flying
+o Drill Peck, Night Shade,
+Astonish, Faint Attack
 
 Suggested Lv: 38 Advice: You
 will have a tough time dealing
@@ -1591,17 +1748,25 @@ Route 218.
 ------------------
 
 --Route 218 Wild Pokemon--------
-*	Gastrodon-Tall Grass-25%-Water
+  ------------------------------
+  ---------
+* Gastrodon-Tall
+ Grass-25%-Water/Ground
 *	Floatzel-Tall Grass-30%-Water
-*	Chatot-Tall Grass-20%-Normal/F
-*	Mr. Mime-Tall Grass-25%-Psychi
-*	Tentacool-Surf-60%-Poison/Wate
+* Chatot-Tall
+ Grass-20%-Normal/Flying
+* Mr. Mime-Tall
+ Grass-25%-Psychic
+* Tentacool-
+ Surf-60%-Poison/Water
 *	Shellos-Surf-30%-Water
-*	Tentacruel-Surf-9%-Water/Groun
+* Tentacruel-
+ Surf-9%-Water/Ground
 *	Magikarp-Old Rod-100%-Water
 *	Magikarp-Good Rod-65%-Water
 *	Finneon-Good Rod-35%-Water
-*	Gyarados-Super Rod-65%-Water/F
+* Gyarados-Super
+ Rod-65%-Water/Flying
 *	Lumineon-Super Rod-35%-Water
 --------------------------------
 
@@ -1618,47 +1783,54 @@ will meet you there for another
 match.
 
 --Boss 13---Rival---------------
-If you choose Turtwig: * Lv36
-Staraptor: Normal/Flying o
-Aerial Ace, Quick Attack, Take
-Down, Double Team * Lv37
-Heracross: Bug Fighting o Brick
-Break, Aerial Ace, Night Slash,
-Horn Attack * Lv35 Floatzel:
-Water o Aqua Jet, Quick Attack,
-Pursuit, Swift * Lv35 Roserade:
-Grass/Poison o Giga Drain, Toxic
-Spikes, Leech Seed, Grass
-Whistle * Lv38 Infernape:
-Fire/Fighting o Flame Wheel,
-Brick Break, Mach Punch, Aerial
-Ace If you choose Chimchar: *
-Lv36 Staraptor: Normal/Flying o
-Aerial Ace, Quick Attack, Take
-Down, Double Team * Lv37
-Heracross: Bug Fighting o Brick
-Break, Aerial Ace, Night Slash,
-Horn Attack * Lv35 Roserade:
-Grass/Poison o Giga Drain, Toxic
-Spikes, Leech Seed, Grass
-Whistle * Lv35 Rapidash: Fire o
-Fire Spin, Stomp, Tail Whip,
-Take Down * Lv38 Empoleon:
-Water/Steel o Bubblebeam, Aerial
-Ace, Metal Claw, Fury Attack If
-you choose Piplup: * Lv36
-Staraptor: Normal/Flying o
-Aerial Ace, Quick Attack, Take
-Down, Double Team * Lv37
-Heracross: Bug Fighting o Brick
-Break, Aerial Ace, Night Slash,
-Horn Attack * Lv35 Floatzel:
-Water o Aqua Jet, Quick Attack,
-Pursuit, Swift * Lv35 Rapidash:
-Fire o Fire Spin, Stomp, Tail
-Whip, Take Down * Lv37 Torterra:
-Grass/Ground o Razor Leaf, Bite,
-Mega Drain, Leech Seed
+If you choose Turtwig:
+*	Lv36 Staraptor: Normal/Flying
+o Aerial Ace, Quick Attack, Take
+Down, Double Team
+*	Lv37 Heracross: Bug Fighting
+o Brick Break, Aerial Ace, Night
+Slash, Horn Attack
+*	Lv35 Floatzel: Water
+o Aqua Jet, Quick Attack,
+Pursuit, Swift
+*	Lv35 Roserade: Grass/Poison
+o Giga Drain, Toxic Spikes,
+Leech Seed, Grass Whistle
+*	Lv38 Infernape: Fire/Fighting
+o Flame Wheel, Brick Break, Mach
+Punch, Aerial Ace If you choose
+Chimchar:
+*	Lv36 Staraptor: Normal/Flying
+o Aerial Ace, Quick Attack, Take
+Down, Double Team
+*	Lv37 Heracross: Bug Fighting
+o Brick Break, Aerial Ace, Night
+Slash, Horn Attack
+*	Lv35 Roserade: Grass/Poison
+o Giga Drain, Toxic Spikes,
+Leech Seed, Grass Whistle
+*	Lv35 Rapidash: Fire
+o Fire Spin, Stomp, Tail Whip,
+Take Down
+*	Lv38 Empoleon: Water/Steel
+o Bubblebeam, Aerial Ace, Metal
+Claw, Fury Attack If you choose
+Piplup:
+*	Lv36 Staraptor: Normal/Flying
+o Aerial Ace, Quick Attack, Take
+Down, Double Team
+*	Lv37 Heracross: Bug Fighting
+o Brick Break, Aerial Ace, Night
+Slash, Horn Attack
+*	Lv35 Floatzel: Water
+o Aqua Jet, Quick Attack,
+Pursuit, Swift
+*	Lv35 Rapidash: Fire
+o Fire Spin, Stomp, Tail Whip,
+Take Down
+*	Lv37 Torterra: Grass/Ground
+o Razor Leaf, Bite, Mega Drain,
+Leech Seed
 
 Suggested Lv: 39 Advice:
 Hmm…Since when did he get
@@ -1699,14 +1871,15 @@ battle.
 
 (--Boss 14---Canalave Gym Leader
 Byron---------------------------
------) * Lv37 Magneton:
-Electric/Steel o Flash Cannon,
-Tri-Attack, Thunderbolt, Metal
-Sound * Lv38 Steelix:
-Steel/Ground o Flash Cannon, Ice
-Fang, Earthquake, Sandstorm *
-Lv41 Bastiodon: Rock/Steel o
-Metal Burst, Stone Edge, Iron
+-----)
+*	Lv37 Magneton: Electric/Steel
+o Flash Cannon, Tri-Attack,
+Thunderbolt, Metal Sound
+*	Lv38 Steelix: Steel/Ground
+o Flash Cannon, Ice Fang,
+Earthquake, Sandstorm
+*	Lv41 Bastiodon: Rock/Steel
+o Metal Burst, Stone Edge, Iron
 Defense, Taunt
 
 Suggested Lv: 40-41 Advice: This
@@ -1754,14 +1927,18 @@ what was a lake to find the
 third Galactic Commander.
 
 --Boss 15---Galactic Commander S
-* Lv35 Golbat: Poison/Flying o
-Air Cutter, Bite, Toxic,
-Supersonic * Lv35 Bronzor:
-Psychic/Steel o Gyro Ball,
-Shadow Ball, Rock Tomb, Iron
-Defense * Lv37 Toxicroak:
-Poison/Fightin o Poison Jab, Mud
-Bomb, Revenge, Mud Bomb
+  aturn-------------------------
+  ---------
+*	Lv35 Golbat: Poison/Flying
+o Air Cutter, Bite, Toxic,
+Supersonic
+*	Lv35 Bronzor: Psychic/Steel
+o Gyro Ball, Shadow Ball, Rock
+Tomb, Iron Defense
+* Lv37 Toxicroak:
+ Poison/Fighting
+o Poison Jab, Mud Bomb, Revenge,
+Mud Bomb
 
 Suggested Lv: 41 Advice: Psychic
 and Electric moves can destroy
@@ -1788,13 +1965,16 @@ Team Galactic. You’ll also see a
 familiar face: Commander Mars.
 
 --Boss 15---Galactic Commander M
-* Lv38 Golbat: Poison/Flying o
-Air Cutter, Bite, Toxic,
-Supersonic * Lv38 Bronzor:
-Psychic/Steel o Gyro Ball,
-Extrasensory, Confuse Ray, Iron
-Defense * Lv40 Purugly: Normal o
-Slash, Faint Attack, Hypnosis,
+  ars---------------------------
+  ---------
+*	Lv38 Golbat: Poison/Flying
+o Air Cutter, Bite, Toxic,
+Supersonic
+*	Lv38 Bronzor: Psychic/Steel
+o Gyro Ball, Extrasensory,
+Confuse Ray, Iron Defense
+*	Lv40 Purugly: Normal
+o Slash, Faint Attack, Hypnosis,
 Fake Out
 
 Suggested Lv: 41-42 Advice: Same
@@ -1825,7 +2005,10 @@ stairs to get to the basement of
 Mt. Coronet.
 
 --Mt. Coronet Basement Wild Poke
-*	Meditite-Cave-20%-Fighting/Psy
+  mon---------------------------
+  ---------
+* Meditite-
+ Cave-20%-Fighting/Psychic
 *	Bronzor-Cave-20%-Steel/Psychic
 *	Graveler-Cave-20%-Rock/Ground
 *	Clefairy-Cave-10%-Normal
@@ -1837,15 +2020,20 @@ Mt. Coronet.
 *	Golbat-Surf-10%-Poison/Flying
 *	Magikarp-Old Rod-100%-Water
 *	Magikarp-Good Rod-65%-Water
-*	Barboach-Good Rod-35%-Water/Gr
-*	Gyarados-Super Rod-65%-Water/F
+* Barboach-Good
+ Rod-35%-Water/Ground
+* Gyarados-Super
+ Rod-65%-Water/Flying
 --------------------------------
 
 Just keep going North to the
 stairs.
 
 --Northern Mt. Coronet Wild Poke
-*	Meditite-Cave-20%-Fighting/Psy
+  mon---------------------------
+  ---------
+* Meditite-
+ Cave-20%-Fighting/Psychic
 *	Bronzor-Cave-20%-Steel/Psychic
 *	Graveler-Cave-20%-Rock/Ground
 *	Clefairy-Cave-10%-Normal
@@ -1864,13 +2052,20 @@ exit.
 --------------------
 
 --Route 216 Wild Pokemon--------
-*	Meditite-Tall Grass-20%-Fighti
-*	Sneasel-Tall Grass-35%-Dark/Ic
-*	Graveler-Tall Grass-5%-Rock/Gr
-*	Snover-Tall Grass-30%-Ice/Gras
+  ------------------------------
+  ---------
+* Meditite-Tall
+ Grass-20%-Fighting/Psychic
+* Sneasel-Tall
+ Grass-35%-Dark/Ice
+* Graveler-Tall
+ Grass-5%-Rock/Ground
+* Snover-Tall
+ Grass-30%-Ice/Grass
 *	Zubat-Night-Poison/Flying
 *	Snorunt-Night-Ice
-*	Ursaring-Leaf Green in GBA slo
+* Ursaring-Leaf Green in GBA
+ slot
 --------------------------------
 
 This place is riddled with
@@ -1885,11 +2080,17 @@ Up North is Route 217.
 --------------------
 
 --Route 217 Wild Pokemon--------
-*	Sneasel-Tall Grass-25%-Dark/Ic
-*	Swinub-Tall Grass-35%-Ice/Grou
-*	Snover-Tall Grass-40%-Ice/Gras
+  ------------------------------
+  ---------
+* Sneasel-Tall
+ Grass-25%-Dark/Ice
+* Swinub-Tall
+ Grass-35%-Ice/Ground
+* Snover-Tall
+ Grass-40%-Ice/Grass
 *	Snorunt-Night-Ice
-*	Ursaring-Leaf Green in GBA slo
+* Ursaring-Leaf Green in GBA
+ slot
 --------------------------------
 
 Keep going up and behind the
@@ -1902,11 +2103,17 @@ get to the Acuity Lakefront.
 ----------------------------
 
 --Acuity Lakefront Wild Pokemon-
-*	Sneasel-Tall Grass-25%-Dark/Ic
-*	Swinub-Tall Grass-35%-Ice/Grou
-*	Snover-Tall Grass-40%-Ice/Gras
+  ------------------------------
+  ---------
+* Sneasel-Tall
+ Grass-25%-Dark/Ice
+* Swinub-Tall
+ Grass-35%-Ice/Ground
+* Snover-Tall
+ Grass-40%-Ice/Grass
 *	Snorunt-Night-Ice
-*	Ursaring-Leaf Green in GBA slo
+* Ursaring-Leaf Green in GBA
+ slot
 --------------------------------
 
 You’ll see your rival at the top
@@ -1933,18 +2140,19 @@ your next Gym battle.
 
 (--Boss 16---Snowpoint Gym
 Leader Candace------------------
------------) * Lv40 Sneasel:
-Dark/Ice o Slash, Aerial Ace,
-Faint Attack, Ice Shard * Lv40
-Piloswine: Ice/Ground o
-Avalanche, Stone Edge,
-Earthquake, Hail * Lv42
-Abomasnow: Ice/Grass o
-Avalanche, Wood Hammer, Water
-Pulse, Focus Blast * Lv44
-Frosslass: Ice/Ghost o Blizzard,
-Double Team, Shadow Ball,
-Psychic
+-----------)
+*	Lv40 Sneasel: Dark/Ice
+o Slash, Aerial Ace, Faint
+Attack, Ice Shard
+*	Lv40 Piloswine: Ice/Ground
+o Avalanche, Stone Edge,
+Earthquake, Hail
+*	Lv42 Abomasnow: Ice/Grass
+o Avalanche, Wood Hammer, Water
+Pulse, Focus Blast
+*	Lv44 Frosslass: Ice/Ghost
+o Blizzard, Double Team, Shadow
+Ball, Psychic
 
 Suggested Lv: 43-44 Advice:
 Okay, for this match Fire types
@@ -2018,14 +2226,17 @@ take the warp pad on the left
 will get you to Cyrus.
 
  --Boss 17---Galactic Boss Cyrus
-* Lv44 Sneasel: Dark/Ice o
-Slash, Ice Punch, Quick Attack,
-Screech * Lv44 Crobat:
-Poison/Flying o Poison Fang, Air
-Cutter, Bite, Supersonic * Lv46
-Honchkrow: Dark/Flying o Drill
-Peck, Night Slash, Astonish,
-Faint Attack
+   -----------------------------
+   ----------
+*	Lv44 Sneasel: Dark/Ice
+o Slash, Ice Punch, Quick
+Attack, Screech
+*	Lv44 Crobat: Poison/Flying
+o Poison Fang, Air Cutter, Bite,
+Supersonic
+*	Lv46 Honchkrow: Dark/Flying
+o Drill Peck, Night Slash,
+Astonish, Faint Attack
 
 Suggested Lv: 45 Advice: Use a
 Fighting move to end Sneasel
@@ -2046,13 +2257,17 @@ trapped by Saturn. Talk to him
 and you will battle.
 
 --Boss 18---Galactic Commander S
-* Lv42 Bronzor: Steel/Psychic o
-Gyro Ball, Extrasensory, Shadow
-Ball, Confuse Ray * Lv42 Golbat:
-Poison/Flying o Poison Fang, Air
-Cutter, Bite, Confuse Ray * Lv46
-Toxicroak: Fighting/Poiso o
-Poison Jab, Brick Break,
+  aturn-------------------------
+  ---------
+*	Lv42 Bronzor: Steel/Psychic
+o Gyro Ball, Extrasensory,
+Shadow Ball, Confuse Ray
+*	Lv42 Golbat: Poison/Flying
+o Poison Fang, Air Cutter, Bite,
+Confuse Ray
+* Lv46 Toxicroak:
+ Fighting/Poison
+o Poison Jab, Brick Break,
 X-Scissor, Faint Attack
 
 Suggested Lv: 45-46 Advice: This
@@ -2084,16 +2299,22 @@ and Strength.
 ----------------------
 
 --Mt. Coronet 2nd Floor Wild Pok
-*	Bronzong-Cave-20%-Steel/Psychi
+  emon--------------------------
+  ---------
+* Bronzong-
+ Cave-20%-Steel/Psychic
 *	Graveler-Cave-20%-Rock/Ground
-*	Medicham-Cave-20%-Psychic/Figh
+* Medicham-
+ Cave-20%-Psychic/Fighting
 *	Clefairy-Cave-10%-Normal
 *	Machoke-Cave-10%-Fighting
 *	Chingling-Cave-10%-Psychic
 *	Nosepass-Cave-5%-Rock
 *	Golbat-Cave-5%-Poison/Flying
-*	Solrock-Ruby in GBA slot-Rock/
-*	Lunatone-Sapphire in GBA slot-
+* Solrock-Ruby in GBA slot-
+ Rock/Psychic
+* Lunatone-Sapphire in GBA slot-
+ Rock/Psychic
 --------------------------------
 Use Surf on the Water a little
 North from the entrance. Then
@@ -2106,16 +2327,22 @@ the Detective will catch up to
 you to give you a Black Flute.
 
 --Mt. Coronet 3rd Floor Wild Pok
-*	Bronzong-Cave-20%-Steel/Psychi
+  emon--------------------------
+  ---------
+* Bronzong-
+ Cave-20%-Steel/Psychic
 *	Graveler-Cave-20%-Rock/Ground
-*	Medicham-Cave-21%-Psychic/Figh
+* Medicham-
+ Cave-21%-Psychic/Fighting
 *	Clefairy-Cave-10%-Normal
 *	Machoke-Cave-10%-Fighting
 *	Chingling-Cave-10%-Psychic
 *	Nosepass-Cave-5%-Rock
 *	Golbat-Cave-4%-Poison/Flying
-*	Solrock-Ruby in GBA slot-Rock/
-*	Lunatone-Sapphire in GBA slot-
+* Solrock-Ruby in GBA slot-
+ Rock/Psychic
+* Lunatone-Sapphire in GBA slot-
+ Rock/Psychic
 --------------------------------
 
 There is a fork in the middle of
@@ -2125,15 +2352,24 @@ Grunts to the snowing part of
 the mountain.
 
 --Mt. Coronet Snow Wild Pokemon-
-*	Snover-Tall Grass-20%-Ice/Gras
-*	Abomasnow-Tall Grass-30%-Ice/G
-*	Medicham-Tall Grass-20%-Psychi
-*	Machoke-Tall Grass-10%-Fightin
-*	Chingling-Tall Grass-10%-Psych
+  ------------------------------
+  ---------
+* Snover-Tall
+ Grass-20%-Ice/Grass
+* Abomasnow-Tall
+ Grass-30%-Ice/Grass
+* Medicham-Tall
+ Grass-20%-Psychic/Fighting
+* Machoke-Tall
+ Grass-10%-Fighting
+* Chingling-Tall
+ Grass-10%-Psychic
 *	Nosepass-Tall Grass-5%-Rock
 *	Absol-Tall Grass-5%-Dark
-*	Solrock-Ruby in GBA slot-Rock/
-*	Lunatone-Sapphire in GBA slot-
+* Solrock-Ruby in GBA slot-
+ Rock/Psychic
+* Lunatone-Sapphire in GBA slot-
+ Rock/Psychic
 *	Golbat-Night-Poison/Flying
 *	Noctowl-Night-Normal/Flying
 --------------------------------
@@ -2144,24 +2380,33 @@ till you find another cave
 opening.
 
 --Mt. Coronet 4th Floor Wild Pok
-*	Bronzong-Cave-20%-Steel/Psychi
+  emon--------------------------
+  ---------
+* Bronzong-
+ Cave-20%-Steel/Psychic
 *	Graveler-Cave-20%-Rock/Ground
-*	Medicham-Cave-20%-Psychic/Figh
+* Medicham-
+ Cave-20%-Psychic/Fighting
 *	Clefairy-Cave-10%-Normal
 *	Machoke-Cave-10%-Fighting
 *	Chingling-Cave-10%-Psychic
 *	Nosepass-Cave-5%-Rock
 *	Golbat-Cave-5%-Poison/Flying
-*	Solrock-Ruby in GBA slot-Rock/
-*	Lunatone-Sapphire in GBA slot-
+* Solrock-Ruby in GBA slot-
+ Rock/Psychic
+* Lunatone-Sapphire in GBA slot-
+ Rock/Psychic
 *	Zubat-Surf-90%-Poison/Flying
 *	Golbat-Surf-10%-Poison/Flying
 *	Magikarp-Old Rod-100%-Water
 *	Magikarp-Good Rod-65%-Water
-*	Barboach-Good Rod-35%-Water/Gr
-*	Gyarados-Super Rod-60%-Water/F
+* Barboach-Good
+ Rod-35%-Water/Ground
+* Gyarados-Super
+ Rod-60%-Water/Flying
 *	Dratini-Super Rod-30%-Dragon
-*	Whiscash-Super Rod-5%-Water/Gr
+* Whiscash-Super
+ Rod-5%-Water/Ground
 *	Dragonair-Super Rod-5%-Dragon
 --------------------------------
 
@@ -2172,44 +2417,62 @@ enter it. Keep going upstairs
 until you’re outside again.
 
 --Mt. Coronet 5th Floor Wild Pok
-*	Bronzong-Cave-20%-Steel/Psychi
+  emon--------------------------
+  ---------
+* Bronzong-
+ Cave-20%-Steel/Psychic
 *	Graveler-Cave-20%-Rock/Ground
-*	Medicham-Cave-20%-Psychic/Figh
+* Medicham-
+ Cave-20%-Psychic/Fighting
 *	Clefairy-Cave-10%-Normal
 *	Machoke-Cave-10%-Fighting
 *	Chingling-Cave-9%-Psychic
 *	Nosepass-Cave-5%-Rock
 *	Golbat-Cave-5%-Poison/Flying
 *	Chimecho-Cave-1%-Psychic
-*	Solrock-Ruby in GBA slot-Rock/
-*	Lunatone-Sapphire in GBA slot-
+* Solrock-Ruby in GBA slot-
+ Rock/Psychic
+* Lunatone-Sapphire in GBA slot-
+ Rock/Psychic
 --------------------------------
 
 --Mt. Coronet 6th Floor Wild Pok
-*	Bronzong-Cave-20%-Steel/Psychi
+  emon--------------------------
+  ---------
+* Bronzong-
+ Cave-20%-Steel/Psychic
 *	Graveler-Cave-20%-Rock/Ground
-*	Medicham-Cave-20%-Psychic/Figh
+* Medicham-
+ Cave-20%-Psychic/Fighting
 *	Clefairy-Cave-10%-Normal
 *	Machoke-Cave-10%-Fighting
 *	Chingling-Cave-5%-Psychic
 *	Nosepass-Cave-5%-Rock
 *	Golbat-Cave-5%-Poison/Flying
 *	Chimecho-Cave-5%-Psychic
-*	Solrock-Ruby in GBA slot-Rock/
-*	Lunatone-Sapphire in GBA slot-
+* Solrock-Ruby in GBA slot-
+ Rock/Psychic
+* Lunatone-Sapphire in GBA slot-
+ Rock/Psychic
 --------------------------------
 
 --Mt. Coronet 7th Floor Wild Pok
-*	Bronzong-Cave-20%-Steel/Psychi
+  emon--------------------------
+  ---------
+* Bronzong-
+ Cave-20%-Steel/Psychic
 *	Graveler-Cave-20%-Rock/Ground
-*	Medicham-Cave-20%-Psychic/Figh
+* Medicham-
+ Cave-20%-Psychic/Fighting
 *	Clefairy-Cave-10%-Normal
 *	Machoke-Cave-10%-Fighting
 *	Chingling-Cave-10%-Psychic
 *	Nosepass-Cave-5%-Rock
 *	Golbat-Cave-5%-Poison/Flying
-*	Solrock-Ruby in GBA slot-Rock/
-*	Lunatone-Sapphire in GBA slot-
+* Solrock-Ruby in GBA slot-
+ Rock/Psychic
+* Lunatone-Sapphire in GBA slot-
+ Rock/Psychic
 --------------------------------
 
 
@@ -2226,23 +2489,27 @@ your rival comes right on que to
 help.
 
 --Boss 19---Galactic Commanders
-Commander Mars’ Pokemon * Lv44
-Bronzor: Steel/Psychic o Gyro
-Ball, Extrasensory, Light
-Screen, Confuse Ray * Lv44
-Golbat: Poison/Flying o Poison
-Fang, Air Cutter, Bite, Confuse
-Ray * Lv46 Purugly: Normal o
-Slash, Shadow Claw, Aerial Ace,
-Hypnosis Commander Jupiter’s
-Pokemon * Lv44 Bronzor:
-Steel/Psychic o Gyro Ball,
-Extrasensory, Rock Slide,
-Reflect * Lv44 Golbat:
-Poison/Flying o Sludge Bomb, Air
-Cutter, Giga Drain, Mean Look *
-Lv46 Skuntank: Poison/Dark o
-Night Slash, Flamethrower,
+  Mars and
+  Jupiter-----------------------
+Commander Mars’ Pokemon
+*	Lv44 Bronzor: Steel/Psychic
+o Gyro Ball, Extrasensory, Light
+Screen, Confuse Ray
+*	Lv44 Golbat: Poison/Flying
+o Poison Fang, Air Cutter, Bite,
+Confuse Ray
+*	Lv46 Purugly: Normal
+o Slash, Shadow Claw, Aerial
+Ace, Hypnosis Commander
+Jupiter’s Pokemon
+*	Lv44 Bronzor: Steel/Psychic
+o Gyro Ball, Extrasensory, Rock
+Slide, Reflect
+*	Lv44 Golbat: Poison/Flying
+o Sludge Bomb, Air Cutter, Giga
+Drain, Mean Look
+*	Lv46 Skuntank: Poison/Dark
+o Night Slash, Flamethrower,
 Poison Jab, Smokescreen
 
 Suggested Lv: 50 Advice: Don’t
@@ -2354,19 +2621,23 @@ appear to take you to Cyrus.
 Talk to him and battle.
 
 --Boss 20---Galactic Boss Cyrus-
-* Lv45 Houndoom: Dark/Fire o
-Flamethrower, Dark Pulse, Will-
-o-Wisp, Thunder Fang * Lv47
-Honchkrow: Dark/Flying o Drill
-Peck, Night Slash, Heat Wave,
-Psychic * Lv46 Crobat:
-Poison/Flying o Cross Poison,
-Air Slash, Confuse Ray, Toxic *
-Lv46 Gyarados: Water/Flying o
-Giga Impact, Water Fall, Ice
-Fang, Earthquake * Lv48 Weavile:
-Dark/Ice o Night Slash, Ice
-Punch, Fake Out, X-Scissor
+  ------------------------------
+  ---------
+*	Lv45 Houndoom: Dark/Fire
+o Flamethrower, Dark Pulse,
+Will-o-Wisp, Thunder Fang
+*	Lv47 Honchkrow: Dark/Flying
+o Drill Peck, Night Slash, Heat
+Wave, Psychic
+*	Lv46 Crobat: Poison/Flying
+o Cross Poison, Air Slash,
+Confuse Ray, Toxic
+*	Lv46 Gyarados: Water/Flying
+o Giga Impact, Water Fall, Ice
+Fang, Earthquake
+*	Lv48 Weavile: Dark/Ice
+o Night Slash, Ice Punch, Fake
+Out, X-Scissor
 
 Suggested Lv: 50-51 Advice:
 Don’t be afraid to hold back
@@ -2425,19 +2696,28 @@ Path near Route 214.
 ----------------------
 
 --Spring Path Wild Pokemon------
-*	Bibareal-Tall Grass-30%-Normal
-*	Graveler-Tall Grass-35%-Rock/G
-*	Staravia-Tall Grass-20%-Normal
-*	Chingling-Tall Grass-10%-Psych
+  ------------------------------
+  ---------
+* Bibareal-Tall
+ Grass-30%-Normal/Water
+* Graveler-Tall
+ Grass-35%-Rock/Ground
+* Staravia-Tall
+ Grass-20%-Normal/Flying
+* Chingling-Tall
+ Grass-10%-Psychic
 *	Dusclops-Tall Grass-5%-Ghost
 *	Golduck-Surf-100%-Water
 *	Golbat-Night-Poison/Flying
-*	Solrock-Ruby in GBA slot-Rock/
-*	Lunatone-Sapphire in GBA slot-
+* Solrock-Ruby in GBA slot-
+ Rock/Psychic
+* Lunatone-Sapphire in GBA slot-
+ Rock/Psychic
 *	Magikarp-Old Rod-100%-Water
 *	Magikarp-Good Rod-65%-Water
 *	Goldeen-Good Rod-35%-Water
-*	Gyarados-Super Rod-65%-Water/F
+* Gyarados-Super
+ Rod-65%-Water/Flying
 *	Seaking-Super Rod-35%-Water
 --------------------------------
 
@@ -2451,21 +2731,31 @@ what happened in the Torn World.
 --------------------
 
 --Route 222 Wild Pokemon--------
-*	Electabuzz-Tall Grass-30%-Elec
+  ------------------------------
+  ---------
+* Electabuzz-Tall
+ Grass-30%-Electric
 *	Luxio-Tall Grass-10%-Electric
 *	Floatzel-Tall Grass-20%-Water
-*	Chatot-Tall Grass-10%-Normal/F
-*	Magnemite-Tall Grass-10%-Steel
-*	Magneton-Tall Grass-5%-Steel/E
-*	Pelliper-Tall Grass-5%-Water/F
-*	Tentacool-Surf-60%-Water/Poiso
+* Chatot-Tall
+ Grass-10%-Normal/Flying
+* Magnemite-Tall
+ Grass-10%-Steel/Electric
+* Magneton-Tall
+ Grass-5%-Steel/Electric
+* Pelliper-Tall
+ Grass-5%-Water/Flying
+* Tentacool-
+ Surf-60%-Water/Poison
 *	Wingull-Surf-30%-Water/Flying
-*	Tentacruel-Surf-9%-Water/Poiso
+* Tentacruel-
+ Surf-9%-Water/Poison
 *	Pelliper-Surf-1%-Water/Flying
 *	Magikarp-Old Rod-100%-Water
 *	Magikarp-Good Rod-65%-Water
 *	Remoraid-Good Rod-35%-Water
-*	Gyarados-Super Rod-65%-Water/F
+* Gyarados-Super
+ Rod-65%-Water/Flying
 *	Octillery-Super Rod-35%-Water
 --------------------------------
 
@@ -2502,22 +2792,25 @@ the last Gym leader.
 
 (--Boss 22---Sunnyshore Gym
 Leader Volkner------------------
-----------) * Lv46 Jolteon:
-Electric o Thunder Wave, Charge
-Beam, Iron Tail, Quick Attack *
-Lv46 Raichu: Electric o Charge
-Beam, Focus Blast, Signal Beam,
-Quick Attack * Lv48 Luxray:
-Electric o Thunder Fang, Ice
-Fang, Fire Fang, Crunch * Lv50
-Electrivire: Electric o Thunder
-Punch, Fire Punch, Quick Attack,
-Giga Impact Suggested Lv: 53
-Advice: Torterra or any Ground
-type can make a Texas Chainsaw
-Massacre in this battle. But
-watch out for Luxray’s Ice Fang
-because that can cause trouble.
+----------)
+*	Lv46 Jolteon: Electric
+o Thunder Wave, Charge Beam,
+Iron Tail, Quick Attack
+*	Lv46 Raichu: Electric
+o Charge Beam, Focus Blast,
+Signal Beam, Quick Attack
+*	Lv48 Luxray: Electric
+o Thunder Fang, Ice Fang, Fire
+Fang, Crunch
+*	Lv50 Electrivire: Electric
+o Thunder Punch, Fire Punch,
+Quick Attack, Giga Impact
+Suggested Lv: 53 Advice:
+Torterra or any Ground type can
+make a Texas Chainsaw Massacre
+in this battle. But watch out
+for Luxray’s Ice Fang because
+that can cause trouble.
 Jolteon’s Iron Tail and Raichu’s
 Focus Blast can do serious
 damage to Rock types so hit them
@@ -2534,14 +2827,19 @@ fast and hard.
 --------------------
 
 --Route 223 Wild Pokemon--------
-*	Tentacruel-Surf-60%-Water/Pois
-*	Pellipper-Surf-30%-Water/Flyin
+  ------------------------------
+  ---------
+* Tentacruel-
+ Surf-60%-Water/Poison
+* Pellipper-
+ Surf-30%-Water/Flying
 *	Mantyke-Surf-10%-Water/Flying
 *	Magikarp-Old Rod-100%-Water
 *	Magikarp-Good Rod-65%-Water
 *	Remoraid-Good Rod-30%-Water
 *	Octillery-Good Rod-5%-Water
-*	Gyarados-Super Rod-60%-Water/F
+* Gyarados-Super
+ Rod-60%-Water/Flying
 *	Wailmer-Super Rod-30%-Water
 *	Octillery-Super Rod-5%-Water
 *	Wailord-Super Rod-5%-Water
@@ -2571,6 +2869,8 @@ done. Let’s start going into the
 cave.
 
 --Victory Road 1st Floor Wild Po
+  kemon-------------------------
+  ---------
 *	Graveler-Cave-30%-Rock/Ground
 *	Rhyhorn-Cave-20%-Rock/Ground
 *	Onix-Cave-20%-Rock/Ground
@@ -2590,8 +2890,11 @@ and you’ll see the path to the
 next floor.
 
 --Victory Road 2nd Floor Wild Po
+  kemon-------------------------
+  ---------
 *	Graveler-Cave-15%-Rock/Ground
-*	Magneton-Cave-30%-Electric/Ste
+* Magneton-
+ Cave-30%-Electric/Steel
 *	Onix-Cave-5%-Rock/Ground
 *	Golbat-Cave-5%-Poison/Flying
 *	Steelix-Cave-40%-Steel/Ground
@@ -2615,6 +2918,8 @@ again. Keep going right and
 you’ll be in the basement.
 
 --Victory Road Basement Wild Pok
+  emon--------------------------
+  ---------
 *	Graveler-Cave-15%-Rock/Ground
 *	Floatzel-Cave-30%-Water
 *	Azumarill-Cave-30%-Water
@@ -2626,7 +2931,8 @@ you’ll be in the basement.
 *	Golbat-Surf-10%-Poison/Flying
 *	Magikarp-Old Rod-100%-Water
 *	Magikarp-Good Rod-100%-Water
-*	Gyarados-Super Rod-100%-Water/
+* Gyarados-Super
+ Rod-100%-Water/Flying
 --------------------------------
 
 Once your down, use Surf on the
@@ -2662,56 +2968,62 @@ your Rival will come for one
 last battle.
 
 --Boss 23---Rival---------------
-If you choose Turtwig: * Lv48
-Staraptor: Normal/Flying o
-Aerial Ace, U-Turn, Close
-Combat, Steel Wing * Lv48
-Heracross: Bug/Fighting o Close
-Combat, Rock Slide, Night Slash,
-Aerial Ace * Lv49 Snorlax:
-Normal o Body Slam, Crunch,
-Rest, Earthquake * Lv47
-Floatzel: Water o Aqua Jet,
-Crunch, Ice Fang, Brick Break *
-Lv47 Roserade: Grass/Poison o
-Giga Drain, Poison Jab, Shadow
-Ball, GrassWhistle * Lv51
-Infernape: Fire/Fighting o
-Flamethrower, Focus Blast,
+If you choose Turtwig:
+*	Lv48 Staraptor: Normal/Flying
+o Aerial Ace, U-Turn, Close
+Combat, Steel Wing
+*	Lv48 Heracross: Bug/Fighting
+o Close Combat, Rock Slide,
+Night Slash, Aerial Ace
+*	Lv49 Snorlax: Normal
+o Body Slam, Crunch, Rest,
+Earthquake
+*	Lv47 Floatzel: Water
+o Aqua Jet, Crunch, Ice Fang,
+Brick Break
+*	Lv47 Roserade: Grass/Poison
+o Giga Drain, Poison Jab, Shadow
+Ball, GrassWhistle
+*	Lv51 Infernape: Fire/Fighting
+o Flamethrower, Focus Blast,
 Shadow Claw, Aerial Ace If you
-choose Chimchar: * Lv48
-Staraptor: Normal/Flying o
-Aerial Ace, U-Turn, Close
-Combat, Steel Wing * Lv48
-Heracross: Bug/Fighting o Close
-Combat, Rock Slide, Night Slash,
-Aerial Ace * Lv49 Snorlax:
-Normal o Body Slam, Crunch,
-Rest, Earthquake * Lv47
-Roserade: Grass/Poison o Giga
-Drain, Poison Jab, Shadow Ball,
-GrassWhistle * Lv47 Rapidash:
-Fire o Fire Blast, Sunny Day,
-Bounce, Will-o-Wisp * Lv51
-Empoleon: Water/Steel o Brine,
-Aerial Ace, Metal Claw, Aerial
-Ace If you choose Piplup: * Lv48
-Staraptor: Normal/Flying o
-Aerial Ace, U-Turn, Close
-Combat, Steel Wing * Lv48
-Heracross: Bug/Fighting o Close
-Combat, Rock Slide, Night Slash,
-Aerial Ace * Lv49 Snorlax:
-Normal o Body Slam, Crunch,
-Rest, Earthquake * Lv47
-Rapidash: Fire o Fire Blast,
-Sunny Day, Bounce, Will-o-Wisp *
-Lv47 Roserade: Grass/Poison o
-Giga Drain, Poison Jab, Shadow
-Ball, GrassWhistle * Lv51
-Torterra: Grass/Ground o Leaf
-Storm, Earthquake, Crunch,
-Synthesis
+choose Chimchar:
+*	Lv48 Staraptor: Normal/Flying
+o Aerial Ace, U-Turn, Close
+Combat, Steel Wing
+*	Lv48 Heracross: Bug/Fighting
+o Close Combat, Rock Slide,
+Night Slash, Aerial Ace
+*	Lv49 Snorlax: Normal
+o Body Slam, Crunch, Rest,
+Earthquake
+*	Lv47 Roserade: Grass/Poison
+o Giga Drain, Poison Jab, Shadow
+Ball, GrassWhistle
+*	Lv47 Rapidash: Fire
+o Fire Blast, Sunny Day, Bounce,
+Will-o-Wisp
+*	Lv51 Empoleon: Water/Steel
+o Brine, Aerial Ace, Metal Claw,
+Aerial Ace If you choose Piplup:
+*	Lv48 Staraptor: Normal/Flying
+o Aerial Ace, U-Turn, Close
+Combat, Steel Wing
+*	Lv48 Heracross: Bug/Fighting
+o Close Combat, Rock Slide,
+Night Slash, Aerial Ace
+*	Lv49 Snorlax: Normal
+o Body Slam, Crunch, Rest,
+Earthquake
+*	Lv47 Rapidash: Fire
+o Fire Blast, Sunny Day, Bounce,
+Will-o-Wisp
+*	Lv47 Roserade: Grass/Poison
+o Giga Drain, Poison Jab, Shadow
+Ball, GrassWhistle
+*	Lv51 Torterra: Grass/Ground
+o Leaf Storm, Earthquake,
+Crunch, Synthesis
 
 Suggested Lv: 55+ Advice:
 Staraptor with Close Combat will
@@ -2742,19 +3054,20 @@ done.)
 12.4
 Elite Four Aaron
 (-------------------------------
-* Lv 49 Yanmega: Bug/Flying o
-Air Slash, Bug Buzz, U-Turn,
-Double Team * Lv49 Scizor:
-Bug/Steel o Iron Head,
-X-Scissor, Night Slash, Quick
-Attack * Lv50 Vespiquen:
-Bug/Flying o Attack Order,
-Defend Order, Heal Order, Power
-Gem * Lv51 Heracross:
-Bug/Fighting o Megahorn, Close
-Combat, Night Slash, Stone Edge
-* Lv53 Drapion: Poison/Dark o
-X-Scissor, Cross Poison, Ice
+*	Lv 49 Yanmega: Bug/Flying
+o Air Slash, Bug Buzz, U-Turn,
+Double Team
+*	Lv49 Scizor: Bug/Steel
+o Iron Head, X-Scissor, Night
+Slash, Quick Attack
+*	Lv50 Vespiquen: Bug/Flying
+o Attack Order, Defend Order,
+Heal Order, Power Gem
+*	Lv51 Heracross: Bug/Fighting
+o Megahorn, Close Combat, Night
+Slash, Stone Edge
+*	Lv53 Drapion: Poison/Dark
+o X-Scissor, Cross Poison, Ice
 Fang, Aerial Ace
 
 Advice: Use Rock-Type moves for
@@ -2773,19 +3086,21 @@ strong it is.
 12.5
 Elite Four Bertha
 (-------------------------------
-* Lv50 Whiscash: Water/Ground o
-Earth Power, Aqua Tail, Zen
-Headbutt, Sandstorm * Lv53
-Gliscor: Ground/Flying o
-Earthquake, Ice Fang, Thunder
-Fang, Fire Fang * Lv52
-Hippowdon: Ground o Earthquake,
-Crunch, Stone Edge, Yawn * Lv52
-Golem: Rock/Ground o Earthquake,
-Fire Punch, Thunder Punch,
-Sandstorm * Lv55 Rhyperior:
-Ground/Rock o Earthquake, Rock
-Wrecker, Megahorn, Avalanche
+*	Lv50 Whiscash: Water/Ground
+o Earth Power, Aqua Tail, Zen
+Headbutt, Sandstorm
+*	Lv53 Gliscor: Ground/Flying
+o Earthquake, Ice Fang, Thunder
+Fang, Fire Fang
+*	Lv52 Hippowdon: Ground
+o Earthquake, Crunch, Stone
+Edge, Yawn
+*	Lv52 Golem: Rock/Ground
+o Earthquake, Fire Punch,
+Thunder Punch, Sandstorm
+*	Lv55 Rhyperior: Ground/Rock
+o Earthquake, Rock Wrecker,
+Megahorn, Avalanche
 
 Advice: Grass is going to be
 your friend in here but the
@@ -2802,19 +3117,21 @@ elemental Fang moves he has.
 12.6
 Elite Four Flint
 (-------------------------------
-* Lv52 Houndoom: Dark/Fire o
-Flamethrower, Sunny Day, Sludge
-Bomb, Dark Pulse * Lv55 Flareon:
-Fire o Overheat, Giga Impact,
-Quick Attack, Will-o-Wisp * Lv53
-Rapidash: Fire o Flare Blitz,
-Solarbeam, Bounce, Sunny Day *
-Lv55 Infernape: Fire/Fighting o
-Flare Blitz, Thunder Punch, Mach
-Punch, Earthquake * Lv57
-Magmortar: Fire o Flamethrower,
-Thunderbolt, Solarbeam, Hyper
-Beam
+*	Lv52 Houndoom: Dark/Fire
+o Flamethrower, Sunny Day,
+Sludge Bomb, Dark Pulse
+*	Lv55 Flareon: Fire
+o Overheat, Giga Impact, Quick
+Attack, Will-o-Wisp
+*	Lv53 Rapidash: Fire
+o Flare Blitz, Solarbeam,
+Bounce, Sunny Day
+*	Lv55 Infernape: Fire/Fighting
+o Flare Blitz, Thunder Punch,
+Mach Punch, Earthquake
+*	Lv57 Magmortar: Fire
+o Flamethrower, Thunderbolt,
+Solarbeam, Hyper Beam
 
 Advice: A Fighting type can take
 care of Houndoom. A Flying type
@@ -2830,18 +3147,20 @@ Solarbeam can be used whenever.
 12.7
 Elite Four Lucian
 (-------------------------------
-* Lv53 Mr. Mime: Psychic o
-Psychic, Thunderbolt, Reflect,
-Light Screen * Lv55 Espeon:
-Psychic o Psychic, Shadow Ball,
-Quick Attack, Signal Beam * Lv54
-Bronzong: Steel/Psychic o
-Psychic, Gyro Ball, Earthquake,
-Calm Mind * Lv56 Alakazam:
-Psychic o Psychic, Energy Ball,
-Focus Blast, Recover * Lv59
-Gallade: Psychic/Fighting o
-Drain Punch, Psycho Cut, Leaf
+*	Lv53 Mr. Mime: Psychic
+o Psychic, Thunderbolt, Reflect,
+Light Screen
+*	Lv55 Espeon: Psychic
+o Psychic, Shadow Ball, Quick
+Attack, Signal Beam
+*	Lv54 Bronzong: Steel/Psychic
+o Psychic, Gyro Ball,
+Earthquake, Calm Mind
+*	Lv56 Alakazam: Psychic
+o Psychic, Energy Ball, Focus
+Blast, Recover
+*	Lv59 Gallade: Psychic/Fighting
+o Drain Punch, Psycho Cut, Leaf
 Blade, Stone Edge
 
 Advice: Dark and Bug type moves
@@ -2865,23 +3184,25 @@ fast on this one.
 Champion Cynthia
 <<<<<<<<<<<<<<<<<<<<<<<< XXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXX * Lv58 Spiritomb:
-Ghost/Dark o Dark Pulse,
-Psychic, Silver Wind, Shadow
-Pulse * Lv58 Roserade:
-Grass/Poison o Energy Ball,
-Sludge Bomb, Toxic, Extrasensory
-* Lv60 Togekiss: Normal/Flying o
-Air Slash, Aura Sphere, Water
-Pulse, Shock Wave * Lv60
-Lucario: Fighting/Steel o Aura
-Sphere, Extremespeed, Shadow
-Ball, Stone Edge * Lv58 Milotic:
-Water o Surf, Ice Beam, Mirror
-Coat, Dragon Pulse * Lv62
-Garchomp: Dragon/Ground o Dragon
-Rush, Earthquake, Flamethrower,
-Giga Impact
+XXXXXXXXX
+*	Lv58 Spiritomb: Ghost/Dark
+o Dark Pulse, Psychic, Silver
+Wind, Shadow Pulse
+*	Lv58 Roserade: Grass/Poison
+o Energy Ball, Sludge Bomb,
+Toxic, Extrasensory
+*	Lv60 Togekiss: Normal/Flying
+o Air Slash, Aura Sphere, Water
+Pulse, Shock Wave
+*	Lv60 Lucario: Fighting/Steel
+o Aura Sphere, Extremespeed,
+Shadow Ball, Stone Edge
+*	Lv58 Milotic: Water
+o Surf, Ice Beam, Mirror Coat,
+Dragon Pulse
+*	Lv62 Garchomp: Dragon/Ground
+o Dragon Rush, Earthquake,
+Flamethrower, Giga Impact
 
 Advice: Let me start by saying
 congrats on getting this far,
@@ -2934,77 +3255,83 @@ Alright lets get started.
 
 (-----Oreburgh Gym Leader Roark-
 --------------------------------
-------) * Lv62 Aerodactyl:
-Rock/Flying * Lv61 Probopass:
-Rock/Steel * Lv61 Golem:
-Rock/Ground * Lv63 Rampardos:
-Rock * Lv65 Tyranitar: Rock/Dark
+------)
+*	Lv62 Aerodactyl: Rock/Flying
+*	Lv61 Probopass: Rock/Steel
+*	Lv61 Golem: Rock/Ground
+*	Lv63 Rampardos: Rock
+*	Lv65 Tyranitar: Rock/Dark
 (///////////////////////////////
 
 (-----Eterna Gym Leader Gardenia
 --------------------------------
-------) * Lv61 Jumpluff:
-Grass/Flying * Lv62 Cherrim:
-Grass * Lv61 Bellossom: Grass *
-Lv63 Torterra: Grass/Ground *
-Lv65 Roserade: Grass/Poison
+------)
+*	Lv61 Jumpluff: Grass/Flying
+*	Lv62 Cherrim: Grass
+*	Lv61 Bellossom: Grass
+*	Lv63 Torterra: Grass/Ground
+*	Lv65 Roserade: Grass/Poison
 (///////////////////////////////
 
 (-----Hearthome Gym Leader Fanti
 na------------------------------
-------) * Lv61 Banette: Ghost *
-Lv61 Drifblim: Ghost/Flying *
-Lv62 Dusknoir: Ghost * Lv63
-Mismagius: Ghost * Lv65 Gengar:
-Ghost/Poison
+------)
+*	Lv61 Banette: Ghost
+*	Lv61 Drifblim: Ghost/Flying
+*	Lv62 Dusknoir: Ghost
+*	Lv63 Mismagius: Ghost
+*	Lv65 Gengar: Ghost/Poison
 (///////////////////////////////
 
 (-----Veilstone Gym Leader Mayle
 ne------------------------------
-------) * Lv62 Hitmontop:
-Fighting * Lv63 Medicham:
-Psychic/Fightin * Lv62 Breloom:
-Grass/Fighting * Lv64 Machamp:
-Fighting * Lv66 Lucario:
-Fighting/Steel
+------)
+*	Lv62 Hitmontop: Fighting
+* Lv63 Medicham:
+ Psychic/Fighting
+*	Lv62 Breloom: Grass/Fighting
+*	Lv64 Machamp: Fighting
+*	Lv66 Lucario: Fighting/Steel
 (///////////////////////////////
 
 (-----Pastoria Gym Leader
 Crasher Wake--------------------
-------------) * Lv61 Sharpedo:
-Water/Dark * Lv61 Quagsire:
-Water/Ground * Lv62 Gyarados:
-Water/Flying * Lv63 Floatzel:
-Water * Lv65 Ludicolo:
-Water/Grass
+------------)
+*	Lv61 Sharpedo: Water/Dark
+*	Lv61 Quagsire: Water/Ground
+*	Lv62 Gyarados: Water/Flying
+*	Lv63 Floatzel: Water
+*	Lv65 Ludicolo: Water/Grass
 (///////////////////////////////
 
 (-----Canalave Gym Leader Byron-
 --------------------------------
-------) * Lv61 Skamory:
-Steel/Flying * Lv61 Steelix:
-Steel/Ground * Lv62 Magnezone:
-Steel/Electric * Lv63 Bastiodon:
-Rock/Steel * Lv65 Aggron:
-Steel/Rock
+------)
+*	Lv61 Skamory: Steel/Flying
+*	Lv61 Steelix: Steel/Ground
+*	Lv62 Magnezone: Steel/Electric
+*	Lv63 Bastiodon: Rock/Steel
+*	Lv65 Aggron: Steel/Rock
 (///////////////////////////////
 
 (-----Snowpoint Gym Leader Canda
 ce------------------------------
-------) * Lv62 Weavile: Dark/Ice
-* Lv61 Mamoswine: Ground/Ice *
-Lv61 Abomnasnow: Ice/Grass *
-Lv63 Frosslass: Ice/Ghost * Lv65
-Glaceon: Ice
+------)
+*	Lv62 Weavile: Dark/Ice
+*	Lv61 Mamoswine: Ground/Ice
+*	Lv61 Abomnasnow: Ice/Grass
+*	Lv63 Frosslass: Ice/Ghost
+*	Lv65 Glaceon: Ice
 (///////////////////////////////
 
 (-----Sunnyshore Gym Leader Volk
 ner-----------------------------
-------) * Lv61 Jolteon: Electric
-* Lv61 Raichu: Electric * Lv62
-Luxray: Electric * Lv63 Lanturn:
-Water/Electric * Lv65
-Electrivire: Electric
+------)
+*	Lv61 Jolteon: Electric
+*	Lv61 Raichu: Electric
+*	Lv62 Luxray: Electric
+*	Lv63 Lanturn: Water/Electric
+*	Lv65 Electrivire: Electric
 (///////////////////////////////
 
 (-------------------------------
@@ -3051,14 +3378,15 @@ Elite Four Lucian
 Champion Cynthia
 <<<<<<<<<<<<<<<<<<<<<<<< XXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXX * Lv74 Spiritomb:
-Ghost/Dark * Lv74 Roserade:
-Grass/Poison * Lv76 Togekiss:
-Normal/Flying * Lv76 Lucario:
-Fighting/Steel * Lv74 Milotic:
-Water * Lv78 Garchomp:
-Dragon/Ground XXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXX
+*	Lv74 Spiritomb: Ghost/Dark
+*	Lv74 Roserade: Grass/Poison
+*	Lv76 Togekiss: Normal/Flying
+*	Lv76 Lucario: Fighting/Steel
+*	Lv74 Milotic: Water
+*	Lv78 Garchomp: Dragon/Ground
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX
 
 --------------------------------
 14. Conclusion

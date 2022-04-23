@@ -881,7 +881,9 @@ heal, you may use it on yourself
 if you wish. You can use as many
 POW moves per round as turns you
 get
-- for instance, Sonic can use Ax
+- for instance, Sonic can use
+  Axe Kick up to three times per
+  round, but Big
 may only use Battering Ram once
 per round. After choosing who to
 use a POW move on, if your
@@ -2424,9 +2426,10 @@ and get the rings. Fly to the
 next island to get more rings,
 and at the bottom of the island
 you'll find more rings and Chao
-egg #7 (Ring count: 160). On
-this island is also the first of
-the projectors you need to
+egg #7 (Ring count:
+160). On this island is also the
+    first of the projectors you
+    need to
 deactivate. You may want to heal
 your team with items and save
 before you do this, because this
@@ -3799,8 +3802,8 @@ you to a spring which gives you
 access to Chao egg #5 and the
 last three rings (Ring count:
 45). Now take the dimensional
-buffer to Tails, and you're
-ready to go after Ix.
+   buffer to Tails, and you're
+   ready to go after Ix.
 
 MISSION - Black Hole Sun
 COMPLETE
@@ -3832,7 +3835,9 @@ Kron. You'll probably find out
 pretty quickly that your regular
 attacks don't do a lot of damage
 against these guys
-- not entirely surprising, consi
+- not entirely surprising,
+  considering that they're made
+  of rock. You'll need
 to rely on your POW moves a lot
 here, so you may want to take
 Cream along with you. After the
@@ -4361,12 +4366,14 @@ Zoah inside to fight, and four
 rings (Ring count: 48). Go back
 outside, and take the ramp on
 the left. Get the rings up here
-(Ring count: 51). Right at the
-top of the ramp you'll find a
-fly point. Use it, and then take
-the next fly point to get to the
-roof of the citadel. In the
-corner you'll find Chao egg #3.
+(Ring count:
+51). Right at the top of the
+   ramp you'll find a fly point.
+   Use it, and then
+take the next fly point to get
+to the roof of the citadel. In
+the corner you'll find Chao egg
+#3.
 
 Jump down from the roof, and run
 over to the other end of this
@@ -4412,7 +4419,9 @@ You'll be given an example first
 right, 6, is bigger than the
 other three. What you're looking
 at is a mathematical equation
-- three numbers that when added 
+- three numbers that when added
+  and subtracted together
+  properly, will give
 you the answer in the fourth
 circle. 9 + 1 - 4 = 6. Make one
 character stand on the switch on
@@ -5129,12 +5138,14 @@ right, past a climbing wall, and
 to a doorway. Go through the
 door and it will take you to a
 path with more rings (Ring
-count: 63), and another gizoid
-to face. Go back to the climbing
-wall and climb up to confront
-Scylla. Don't worry about saving
-- you switch back to Sonic's
-team before the battle begins.
+count:
+63), and another gizoid to face.
+   Go back to the climbing wall
+   and climb up
+to confront Scylla. Don't worry
+about saving - you switch back
+to Sonic's team before the
+battle begins.
 
 Head outside now, back to the
 point where you flipped the
@@ -5255,11 +5266,11 @@ upper path, gathering the rings
 and dealing with a Nocturnus and
 a gizoid as you go (Ring count:
 111). Where you fight the
-Nocturnus there's a climbing
-wall - don't go up there until
-after you've finished getting
-the rings. When you do, it will
-take you to Ix.
+    Nocturnus there's a climbing
+    wall - don't go up
+there until after you've
+finished getting the rings. When
+you do, it will take you to Ix.
 
 Back on Sonic's team, go back to
 the central room you were in
@@ -5275,10 +5286,11 @@ outside the door to Ix's lair,
 guarded by a Nocturnus. The last
 rings remaining are to the left,
 where another Nocturnus is
-hovering (Ring count: 124). Go
-back to the door and save. When
-you're ready, go inside to
-confront Ix.
+hovering (Ring count:
+124). Go back to the door and
+    save. When you're ready, go
+    inside to confront
+Ix.
 
 Your total for Nocturnus should
 be:
@@ -5751,17 +5763,34 @@ SECTION 14 - THANKS TO:
 I'd like to thank the
 following...
 
-- Sonictrainer, who gave me the 
+- Sonictrainer, who gave me the
+  full Chao list when I still
+  hadn't found them
 all.
 - xShadowoftheNight, for his tip
-- Shane (Mayor_Quimby), for find
+  about Shadow's Atomic Strike
+  POW move.
+- Shane (Mayor_Quimby), for
+  finding the Chao egg I
+  couldn't track down on
 Nocturne, and also alerting me
 to the water valve glitch and
 his tip on raising further money
 when you've found all the rings.
-- QA Monkey, for his tip on how 
-- Hypersupersonicthehedgehog, fo
-- Evildarknight and SpacePirateK
+- QA Monkey, for his tip on how
+  the experience and level up
+  system works.
+- Hypersupersonicthehedgehog,
+  for his tip on maxxing your
+  characters' levels.
+- Evildarknight and
+  SpacePirateKhan, for
+  explaining the Zoah number
+  puzzle to
 me.
-- gamefaqs.com, for always havin
-- and you, for reading. Seriousl
+- gamefaqs.com, for always
+  having answers when I'm
+  struggling with a game.
+- and you, for reading.
+  Seriously, I thrive on
+  attention. :P

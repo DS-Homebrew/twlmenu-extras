@@ -6,6 +6,8 @@
 Spoiler-Free Guide by
 Moogle_Warrior |
  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ________
 Contents\_______________________
 To find something specific, use
@@ -21,7 +23,8 @@ CTRL+F and paste in the shortcut
   d. Mognet [MAYL]
     4. Walkthrough [FIII]
     5. Extras [EXTR]
-    6. Frequently Asked Question
+    6. Frequently Asked
+       Questions [IFAQ]
     7. Contact Me [KUPO]
     8. Legal Stuff [LEGL]
     9. Thanks [TTFN]
@@ -156,38 +159,56 @@ ______________________
 
 In the next release:
 -Boss stats
--Formatting adjustments (for com
+-Formatting adjustments (for
+ compatibility)
 
 4/19/07 1.1 Full Walkthrough+ -
 It's been put off long enough
--Minor ammendments to some secti
--A few more typos fixed (I'll ne
--Sunken Cave optional level walk
+-Minor ammendments to some
+ sections (esp. the FAQ)
+-A few more typos fixed (I'll
+ never catch 'em all...)
+-Sunken Cave optional level
+ walkthrough added
 -Troll Tales Episode 2 added to
--Game Systems section replaced w
+ the Contact Me section
+-Game Systems section replaced
+ with Begginer's Guide
 
 1/6/07 1.0 Full Walkthrough -
-Happy New Year -Main Guide
-complete -Minor section updates
--FC-DS changes guide complete (a
--ALL TYPOS CORRECTED This marks
-the completion of the guide.
+Happy New Year
+-Main Guide complete
+-Minor section updates
+-FC-DS changes guide complete
+ (as far as I know)
+-ALL TYPOS CORRECTED
+This marks the completion of the
+guide.
 
 11/26/06 0.75 Release two-and-a-
-half -Sections revised slightly
-with -No progress on the guide,
-yet.. -Extra rules added to the
-"Conta
+half
+-Sections revised slightly with
+ new info (I've gotten many
+ e-mails)
+-No progress on the guide,
+ yet...
+-Extra rules added to the
+ "Contact Me" section
 
 11/23/06 0.7 Second Release -
-Happy Thanksgiving -Minor text
-clean-up in the Prol -Complete
-guide up until the Cav -More
-Characters added -Partial Job
-descriptions and re -Most Shops
-have been listed -FC to DS
-changes section added, -Minor
-corrections to the above
+Happy Thanksgiving
+-Minor text clean-up in the
+ Prologue
+-Complete guide up until the
+ Cave of the Circle
+-More Characters added
+-Partial Job descriptions and
+ reviews
+-Most Shops have been listed
+-FC to DS changes section added,
+ still in progress
+-Minor corrections to the above
+ history
 
 11/18/06 0.1 Initial Release
 -Basic formatting
@@ -291,14 +312,26 @@ impossible. (See section The
 Final Battle)
 
 DS Version Tweaks:
- - Less monsters. The original v
-   the DS it's only 3 (except fo
+ - Less monsters. The original
+   version had a max enemy party
+   size of 9, while on
+   the DS it's only 3 (except
+   for 1 plot event)
  - Stylus Targetting. The stylus
-   list, then select the enemy y
-   selection box around the mult
- - Enemies can target someone wh
-   Phoenix Down on Arc only to h
-   after).
+   can be used to pick options
+   from the command
+   list, then select the enemy
+   you want to target. You can
+   also drag to draw a selection
+   box around the multiple
+   enemies you want to target
+   (with spells).
+ - Enemies can target someone
+   who was revived that round of
+   combat (i.e. using a
+   Phoenix Down on Arc only to
+   have an enemy attack and kill
+   him again right after).
 
 Magic System_ _ _ _ _ _ _ _ _ _ 
 ¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
@@ -321,12 +354,20 @@ does not always mean that a
 spell is stronger.
 
 Magic Types:
-    -White Magic has mostly spel
+    -White Magic has mostly
+     spells for healing and
+     restoring status, with a
+     bare
  minimum of attack spells.
-    -Black Magic has mostly spel
+    -Black Magic has mostly
+     spells for attacking, with
+     a few for changing enemy
  status.
-    -Summon Magic has different 
- to spells from the other two ty
+    -Summon Magic has different
+     effects based on the
+     caster. They can be similar
+ to spells from the other two
+ types.
 
 For a character to use a
 specific spell, they must have
@@ -373,67 +414,124 @@ Default:
 Freelancer
    Pros: Equip most everything
   Basic L.1 Magic
-   Cons: Low MP
-   The Freelancer class is what 
-   Red Mage class does everythin
+   Cons: Low MP The Freelancer
+   class is what you start out
+   with, and it's not that
+   great. The Red Mage class
+   does everything it can and
+   more, and gets more MP.
 
 First Set (Wind Crystal):
 Warrior
    Pros: High attack/defense
-   Cons: No exclusive weapons/ar
-   Since fighter classes aren't 
-   downside to this class, excep
-   exclusive to specific classes
+   Cons: No exclusive
+   weapons/armor Since fighter
+   classes aren't supposed to
+   have magic, there really
+   isn't a downside to this
+   class, except that weapons
+   and armor after a point are
+   exclusive to specific
+   classes, and Warrior isn't
+   one of them.
 Monk
    Pros: No weapons necessary
    High damage from back row
-   Cons: Pitiful defense/m-defen
-   The Monk is what I call a bac
-   damage from the back row than
-   Magic defense, however, is th
-   death to Monks.
+   Cons: Pitiful
+   defense/m-defense The Monk is
+   what I call a back row
+   fighter. It can deal as much,
+   if not more, damage from the
+   back row than the Warrior or
+   Red Mage can do in the front.
+   Magic defense, however, is
+   this Job's weak point. A high
+   level spell means death to
+   Monks.
 *White Mage
    Pros: High MP
    Cons: Low defense
-  Weak attack (compared to warri
-   The White Mage heals. That's 
-   either row, and White Magic i
-   status attacks don't work all
-   high MP for seven levels of m
-   of the game. The spell Aero i
-   it is only useful against fly
-   undead enemies, but why use C
-   boss fight?
+  Weak attack (compared to
+  warrior, anyway)
+   The White Mage heals. That's
+   about it. They can't do very
+   much damage from either row,
+   and White Magic is only good
+   when someone needs healing,
+   as status attacks don't work
+   all that often. The healing
+   alone, combined with high MP
+   for seven levels of magic
+   makes the White Mage a
+   necessity for most of the
+   game. The spell Aero is the
+   White Mage's only offensive
+   spell, but it is only useful
+   against flying monsters. You
+   can use healing spells on
+   undead enemies, but why use
+   Cure to attack when it can
+   save your skin in a boss
+   fight?
 Black Mage
-   Pros: High MP
-   Cons: Low defense/attack
-   The black mage can do lots of
-   an enemy with, it's gone. Onl
-   hard sometimes to last long e
+   Pros: High MP Cons: Low
+   defense/attack The black mage
+   can do lots of damage. Lots.
+   If you know exactly what to
+   hit an enemy with, it's gone.
+   Only problem is, the Black
+   Mage's defense makes it hard
+   sometimes to last long enough
+   to cast that crucial spell.
 *Red Mage
-   Pros: Extremely similar to Wa
-  5 levels of White and Black Ma
+   Pros: Extremely similar to
+   Warrior
+  5 levels of White and Black
+  Magic
    Cons: Low MP
   Few exclusive items
-   The Red Mage, starting out, i
-   do everything a Mage does wit
-   6 spells until much later in 
-   Mage stops getting armor upgr
-   Red Mage in my party, however
+   The Red Mage, starting out,
+   is a viable alternative to
+   the Black Mage. It can do
+   everything a Mage does
+   without the defense risk, and
+   you won’t get level 6 spells
+   until much later in the game,
+   anyway. After a point,
+   though, the Red Mage stops
+   getting armor upgrades, so
+   you may want to change. I
+   still have a Red Mage in my
+   party, however.
 Thief
    Pros: Steal items
 Unlock doors without Magic Keys
    Cons: Low attack and defense
-   From Michael Gilliam:
-   While the thief seems to be a
-   I used the thief until Job Cl
-   butt in a boss battle.  While
-   the thief was getting 30-34 h
-   is disadvantaged by his lack 
-   problem there are boomerangs 
-   a defense bonus.
-   NOTE: The Thief character has
+   From Michael Gilliam: While
+   the thief seems to be a weak
+   class their advantage is
+   their agility. I used the
+   thief until Job Class Level
+   99 and often it was him that
+   saved my butt in a boss
+   battle. While the other
+   classes were averaging 14-18
+   hits, the thief was getting
+   30-34 hits and was doing
+   almost twice the damage. He
+   is disadvantaged by his lack
+   of armor choices, but by the
+   time it becomes a problem
+   there are boomerangs
+   available that let you move
+   him to the back for a defense
+   bonus. NOTE: The Thief
+   character has to be leading
+   the party (that's slot one)
+   for
   the unlocking ability to work.
+  For details, see the game
+  manual.
 
 Second Set (Fire Crystal):
 *Knight
@@ -443,124 +541,217 @@ Second Set (Fire Crystal):
   Takes damage for allies
    Cons: Takes damage for allies
    The knight is like a Warrior,
-   leap into harm's way. It gets
-   Fighter classes come along la
+   but with White Magic and a
+   desperate need to leap into
+   harm's way. It gets an
+   exclusive set of armor, but
+   better Fighter classes come
+   along later. This Job becomes
+   much more useful later on,
    when the best weapons are all
-   he takes when Defending someo
+   Swords, and the Armor can
+   greatly reduce damage he
+   takes when Defending someone
+   else.
 Scholar
    Pros: Scan enemies
   L3 White/Black Magic
   Double item damage
    Cons: Low attack/defense
   Very low MP
-   The Scholar is necessary for 
-   useless. It can double the da
-   many of those, anyway.
+   The Scholar is necessary for
+   one part of the game, but
+   afterwards is fairly useless.
+   It can double the damage from
+   Attack Items, but you don't
+   get too many of those,
+   anyway.
 Geomancer
    Pros: Terrain command
   High-ish attack
-   Cons: Pitiful defense
-   Another high-damage, low defe
-   Terrain command, though which
-   only downside to Terrain is t
-   low defense makes it hard to 
+   Cons: Pitiful defense Another
+   high-damage, low defense
+   class, like the Monk. The
+   Geomancer has the Terrain
+   command, though which can
+   deal lots of damage without
+   failing. The only downside to
+   Terrain is that the instant
+   death effects often fail, and
+   low defense makes it hard to
+   get out attacks against
+   bosses.
 Ranger
-   Pros: Ranged attack (same dam
-   Cons: Needs ammo to attack
-   I never used the Ranger. Ther
-   have four party members.
+   Pros: Ranged attack (same
+   damage from front/back) Cons:
+   Needs ammo to attack I never
+   used the Ranger. There are
+   better classes out there, and
+   you only have four party
+   members.
 
 Third Set (Water Crystal):
 Viking
    Pros: Highest defense
   Exclusive armor
-   Cons: Slow development
-   I never used the Viking, eith
-   balanced party, and the two b
+   Cons: Slow development I
+   never used the Viking,
+   either. You only should have
+   two fighters to have a
+   balanced party, and the two
+   better fighters are listed
+   below.
 *Dragoon
    Pros: High attack/defense
-  Exclusive (and really good) ar
+  Exclusive (and really good)
+  armor/weapons
    Equip highest-level armor
-  Jump command makes user untarg
+  Jump command makes user
+  untargetable by enemies
    Cons: Jump command makes user
-   The Dragoon is awesome, and a
-   and fast without Jump, and Ju
-   hit by enemies. The flipside 
+   untargetable by allies The
+   Dragoon is awesome, and also
+   mandatory for one boss. It
+   can attack hard and fast
+   without Jump, and Jump can do
+   major damage without the user
+   getting hit by enemies. The
+   flipside is that a severely
+   wounded Dragoon can't be
    healed while Jumping.
 *Dark Knight
    Pros: High attack/defense
-  Exclusive weapons/armor (exclu
+  Exclusive weapons/armor
+  (exclusive village, really...)
   Do MAJOR damage to all enemies
+  with Souleater
    Cons: Souleater costs HP
   Souleater is slow
-   The Dark Knight can do all so
-   kill enemies in one hit if yo
-   is that doing so costs about 
-   a Blood Sword, though, and it
+   The Dark Knight can do all
+   sorts of damage with
+   Souleater, which can often
+   kill enemies in one hit if
+   your Job level is high
+   enough. The only downside is
+   that doing so costs about 100
+   HP, which can leave it
+   vulnerable. Give it a Blood
+   Sword, though, and it can
+   attack and recover the lost
+   health.
 Evoker
    Pros: Summon spells
   Same MP for L2-L5
    Cons: Low attack/defense
-  Summons (except Titan) can do 
-   Summons can do either major d
-   Other than the coin flipping 
-   seeing as its stats are no be
+  Summons (except Titan) can do
+  stupid things
+   Summons can do either major
+   damage or a lame status
+   effect that often fails.
+   Other than the coin flipping
+   aspect, the Evoker is
+   definitely a back-row Job,
+   seeing as its stats are no
+   better than any other spell
+   caster.
 Bard
-   Pros: Status attacks
-   Cons: Low attack/defense
-   From Stephen Matthews:
-   The Bard isn't terribly handy
-   your party with the melodies 
+   Pros: Status attacks Cons:
+   Low attack/defense From
+   Stephen Matthews: The Bard
+   isn't terribly handy, in all
+   honesty. Its job is really to
+   support your party with the
+   melodies that vary by what
+   harp you have, but all of
    those are overshadowed by the
-   Its attack power is negligibl
-   variation of Attack Power bet
-   every job level, I'd avoid th
+   supportive magic of an
+   experienced White Mage. Its
+   attack power is negligible
+   (even though it's ranged),
+   and there's no variation of
+   Attack Power between the
+   harps. Unless you want to max
+   out every job level, I'd
+   avoid this one.
 
 Fourth Set (Earth Crystal):
 Black Belt
   Pros: Huge attack combo
   Cons: Low defense
 	  Lousy armor
-  I tried having a Black Belt br
-  capable of equipping Crystal M
-  ultimate armor.
+  I tried having a Black Belt
+  briefly, but then I realized
+  that I had no fighter capable
+  of equipping Crystal Mail,
+  which is rather important as
+  it's the ultimate armor.
 *Devout
   Pros: Funky (but high) MP
-  Nekomimi!
-  Cons: Punching bag
-  The Devout is the upgrade to t
-  compared to other mage Jobs. I
-  for many casts of Curaga, whic
+  Nekomimi! Cons: Punching bag
+  The Devout is the upgrade to
+  the White Mage. It get's a
+  rather unique MP curve
+  compared to other mage Jobs.
+  It has the most MP at spell
+  level 5. This allows for many
+  casts of Curaga, which is
+  nice, but illogical.
 Magus
 Pros: Funkier MP than the Devout
-  Cons: Seriously, it's a mage, 
-  The Magus is the Black Mage up
-  Devout, which makes no sense a
-  completely different in terms 
-  and Sage are better choices fo
+  Cons: Seriously, it's a mage,
+  you know the downside by now
+  The Magus is the Black Mage
+  upgrade. Duh. However, it has
+  the same MP as the Devout,
+  which makes no sense at all
+  because Black Magic spell
+  levels are completely
+  different in terms of
+  usefulness. In conclusion: the
+  Summoner and Sage are better
+  choices for a mage-class
+  character.
 *Summoner
-  Pros: High Summons
-  Cons: Low attack/defense
-  The Summoner, contrary to its 
-  Summons. This means Odin becom
+  Pros: High Summons Cons: Low
+  attack/defense The Summoner,
+  contrary to its description in
+  the manual, performs ONLY High
+  Summons. This means Odin
+  becomes useless while every
+  other Summon triples its
   power.
 Sage
   Pros: All Black/White Magic
-  Cons: Lower MP than Devout or 
+  Cons: Lower MP than Devout or
+  Magus (though still pretty
+  high)
   Sssssslllllooooowwwwwwww......
-  The Sage can cast both Black a
+  Really slow. The Sage can cast
+  both Black and White magic,
+  which makes it automatically
   better than the Devout, right?
-  handful of Jobs that recieves 
-  slow, slow final boss is faste
+  Wrong. The Sage is a slow
+  bugger, and one of a handful
+  of Jobs that recieves no
+  Agility bonus. As a result,
+  even the slow, slow, slow
+  final boss is faster. That
+  means death.
 *Ninja
   Pros: Huge attack combo
 	  Same weapons as Dark Knight
-  Cons: Rebalanced from the orig
+  Cons: Rebalanced from the
+  original
 Only slightly better armor than
 Black Belt
-  Originally, the Ninja was the 
-  Weapon or Armor, including exc
-  however have the Throw command
+  Originally, the Ninja was the
+  ultimate Fighter Job, capable
+  of equipping any Weapon or
+  Armor, including exclusive
+  throwing weapons. Not anymore.
+  It does, however have the
+  Throw command, which can deal
+  9999 damage to any boss in the
   game with the right items.
 
 Mognet_ _ _ _ _ _ _ _ _ _ _ _ _ 
@@ -599,6 +790,7 @@ Call them up or e-mail them to
 check their Mognet inbox, which
 ruins the
   point but gets them their mail
+  before its deleted
 
 Communicating with NPCs: You can
 send 1 letter per hour (you
@@ -625,6 +817,8 @@ __________________
 [FIII] Walkthrough\_____________
 
   Prologue: The Four Warriors As
+  semble........................
+  ......[PRLG]
  A. Crystal Cave................
  B. Wind Crystal................
  C. Ur..........................
@@ -633,6 +827,8 @@ __________________
  F. Castle Sasune...............
  G. Sealed Cave.................
   Chapter 1: The Journey Begins.
+  ..............................
+  ......[CHP1]
  A. Castle Sasune...............
  B. Kazus.......................
  C. Canaan......................
@@ -642,62 +838,104 @@ __________________
  G. Vikings' Cove...............
  H. Nepto Temple................
    Chapter 2: Desch's Destiny...
+   .............................
+   .......[CHP2]
  A. Vikings' Cove...............
  B. Tokkul......................
  C. Village of the Ancients.....
+ ...............................
+ .[CTRA]
  D. Living Woods................
  E. Castle Argus................
  F. Gulgan Gulch................
  G. Tower of Owen...............
    Chapter 3: The Crystal of Fir
+   e............................
+   .......[CHP3]
  A. Gysahl......................
  B. Dwarven Hollows.............
- C. Subterranean Lake...........
- D. Dwarven Hollows.............
+ ...............................
+ .[LALI] C. Subterranean Lake...
+ ...............................
+ .........[LOCH] D. Dwarven Holl
+ ows............................
+ .................[HOHO]
  E. Molten Cave.................
  F. Fire Crystal................
    Chapter 4: The Tyrant and the
+   Tree.........................
+   ......[CHP4]
  A. Dwarven Hollows.............
+ ...............................
+ .[LAHO]
  B. Castle Hein.................
  C. Castle Argus................
  D. Canaan......................
    Chapter 5: The Outside World.
+   .............................
+   .......[CHP5]
  A. Wrecked Ship................
  B. Temple of Water.............
+ ...............................
+ .[KRBY]
  C. Cave of Tides...............
  D. Water Crystal...............
    Chapter 6: The Man in Gold...
+   .............................
+   .......[CHP6]
  A. Amur........................
  B. Sewers......................
  C. Goldor Manor................
    Chapter 7: Siege From Within.
+   .............................
+   .......[CHP7]
  A. Duster......................
  B. Saronia.....................
  C. Dragon Spire................
  D. Saronia.....................
    Chapter 8: The Apprentices of
+   Noah.........................
+   ......[CHP8]
  A. Replito.....................
  B. Doga's Manor................
  C. Cave of the Circle..........
+ ...............................
+ .[TINY]
  D. Temple of Time..............
  E. Unei's Shrine...............
  F. Ancient Ruins...............
  G. Falgabard...................
  H. Cave of Shadows.............
+ ...............................
+ .[DARK]
  I. Doga's Grotto...............
-   Chapter 9: Eureka, The Forbid
+   Chapter 9: Eureka, The
+   Forbidden Land...............
+   .............[CHP9]
  A. Earth Crystal...............
  B. Ancient's Maze..............
  C. Eureka, The Forbidden Land..
+ ...............................
+ .[ERKA]
    Chapter 10: This is the Last 
+   Battle.......................
+   .......[CHP0]
  A. Crystal Tower...............
  B. World of Darkness...........
+ ...............................
+ .[YAMI]
  C. Final Battle................
  D. Epilogue....................
    Master Summons (and more!)...
+   .............................
+   .......[SIDE]
  A. Odin, the Sealed Knight.....
- B. Leviathan, the Sea King.....
- C. Bahamut, King of Dragons....
+ ...............................
+ .[ODIN] B. Leviathan, the Sea K
+ ing............................
+ .........[LVIA] C. Bahamut,
+ King of Dragons................
+ ....................[BHAM]
  D. Sunken Cave.................
 
         _______________
@@ -785,16 +1023,15 @@ Ur_ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
 ¯ ¯ ¯ ¯ ¯[BABL] Weapon Store:
 Armor Store:
-  Dagger                 60     
-  Longsword             100     
-  Staff                  40     
-  Bow                   100     
-  Wooden Arrow            4
+  Dagger 60 Leather Armor 90
+  Longsword 100 Leather Shield
+  40 Staff 40 Leather Cap 15 Bow
+  100 Bronze Bracers 80 Wooden
+  Arrow 4
 
 Item Store: Magic Store:
-  Potion                 50     
-  Eyedrops               40
-  Antidote               80
+  Potion 50 Poisona 100 Eyedrops
+  40 Antidote 80
 
 Inn price: Free
 
@@ -1045,16 +1282,17 @@ Kazus_ _ _ _ _ _ _ _ _ _ _ _ _ _
 ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
 ¯ ¯ ¯ ¯ ¯ [RFIA] Weapon Store:
 Armor Store:
-  Mythril Rod           400     
-  Mythril Knife         500     
-  Mythril Sword         500     
-  					  Mythril Gloves        1
+  Mythril Rod 400 Mythril Armor
+  350 Mythril Knife 500 Mythril
+  Shield 180 Mythril Sword 500
+  Mythril Helm 130 Mythril
+  Gloves 120
 					  Mythril Bracers	      120
 
 Item Store: Magic Store:
-  Potion                50      
-  Eyedrops              40      
-  Antidote              80      
+  Potion 50 Fire 100 Eyedrops 40
+  Blizzard 100 Antidote 80 Sleep
+  100
 
 Inn price: Free
 
@@ -1091,19 +1329,19 @@ Canaan_ _ _ _ _ _ _ _ _ _ _ _ _
 ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
 ¯ ¯ ¯ ¯ ¯[CIDH]
 
- Weapon Store:                Ar
-  Mythril Rod            400    
-  Mythril Knife          500    
-  Mythril Sword          500    
-  Great Bow             1200    
-  Iron Arrow               8    
+ Weapon Store: Armor Store:
+  Mythril Rod 400 Mythril Armor
+  350 Mythril Knife 500 Mythril
+  Shield 180 Mythril Sword 500
+  Mythril Helm 130 Great Bow
+  1200 Mythril Gloves 120 Iron
+  Arrow 8 Mythril Bracers 120
 
 Item Store: Magic Store:
-  Potion                50      
-  Eyedrops              40      
-  Antidote              80      
-  Echo Herbs            100     
-  Gold Needle           100
+  Potion 50 Cure 100 Eyedrops 40
+  Thunder 700 Antidote 80 Poison
+  700 Echo Herbs 100 Blind 700
+  Gold Needle 100
 
 Inn price: 40
 
@@ -1189,13 +1427,13 @@ Tozus_ _ _ _ _ _ _ _ _ _ _ _ _ _
 ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
 ¯ ¯ ¯ ¯ ¯ [MIDG] Item Stores:
 Magic Store:
-  Potion                 50     
-  Eyedrops               40     
-  Antidote               80     
+  Potion 50 Fire 100 Eyedrops 40
+  Blizzard 100 Antidote 80 Sleep
+  100
 					  Thunder               700
    Poison                700
    Blind                 700
-  Gnomish Bread          150    
+  Gnomish Bread 150 Aero 700
 
 Inn price: 80
 
@@ -1210,7 +1448,8 @@ What that means: you've gotta be
 mages when mini. That's the only
 way to survive. Equipment
 doesn't matter much, your
-defense is either 1 or 0.
+defense is either 1 or
+0.
 
 If you haven't already, go and
 buy 99 potions. You'll never use
@@ -1249,11 +1488,10 @@ Vikings' Cove_ _ _ _ _ _ _ _ _ _
 ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
 ¯ ¯ ¯ ¯ ¯ [VIKS] Item Store:
 Magic Store:
-  Potion                 50	  Fi
-  Eyedrops               40	  Bl
-  Antidote               80	  Sl
-  Echo Herbs            100	  Th
-  Gold Needle           100	  Po
+  Potion 50 Fire 100 Eyedrops 40
+  Blizzard 100 Antidote 80 Sleep
+  100 Echo Herbs 100 Thunder 700
+  Gold Needle 100 Poison 700
    Blind                  700
    Mini                  1000
 
@@ -1383,24 +1621,22 @@ _ _ _ _ _______
 ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
 ¯ ¯ ¯ ¯ ¯ [CTRA] Weapon Store:
 Armor Store:
-  Serpent Sword         1500	  S
-  Fire Staff            3500	  F
-  Ice Staff             3500	  H
-  Light Staff           3500	  K
-  Killer Bow            4000	  M
-  Fire Arrow             150
-  Ice Arrow              150
-  Light Arrow            150
+  Serpent Sword 1500 Shell Armor
+  1250 Fire Staff 3500 Flame
+  Mail 2400 Ice Staff 3500
+  Headband 1200 Light Staff 3500
+  Kenpo Gi 2000 Killer Bow 4000
+  Mage Robe 2000 Fire Arrow 150
+  Ice Arrow 150 Light Arrow 150
 
 Item Store: Magic Store:
-  Potion                 50	  Si
-  Hi-Potion             600	  Fi
-  Gold Needle           100	  Bl
-  Maiden's Kiss         100	  Th
-  Echo Herbs            150	  Cu
-  Mallet                100	  Te
-  Eye Drops              40	  Bl
-  Antidote               80
+  Potion 50 Sight 100 Hi-Potion
+  600 Fira 1500 Gold Needle 100
+  Blizzara 1500 Maiden's Kiss
+  100 Thundara 1500 Echo Herbs
+  150 Cura 1500 Mallet 100
+  Teleport 1500 Eye Drops 40
+  Blindna 1500 Antidote 80
 
 Inn price: 120
 
@@ -1588,9 +1824,9 @@ Gysahl_ _ _ _ _ _ _ _ _ _ _ _ _
 ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
 ¯ ¯ ¯ ¯ ¯[SHEP] Item Stores:
 Magic Store:
-  Gysahl Greens         150	  To
+  Gysahl Greens 150 Toad 1000
    Mini                  1000
-  Magic Key             100	  Br
+  Magic Key 100 Break 3000
    Shade                 3000
    Libra                 3000
    Confuse               3000
@@ -1632,12 +1868,12 @@ Dwarven Hollows_ _ _ _ _ _ _ _ _
 ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
 ¯ ¯ ¯ ¯ ¯ [LALI] Weapon Store:
 Armor Store:
-  Tyrfing			1500    Ice Armor   
-  Fire Staff	      3500    Ice H
-  Ice Staff 		3500    Ice Shield
-  Diamond Bell		4500    Mage Rob
-  Iron Arrow               8    
-  Fire Arrow              10
+  Tyrfing 1500 Ice Armor 2400
+  Fire Staff 3500 Ice Helm 1200
+  Ice Staff 3500 Ice Shield 1800
+  Diamond Bell 4500 Mage Robe
+  2000 Iron Arrow 8 Kenpo Gi
+  2000 Fire Arrow 10
 
 Item Store: Magic Store:
   Potion                 50     
@@ -2102,14 +2338,16 @@ Amur_ _ _ _ _ _ _ _ _ _ _ _ _ _
 ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
 ¯ ¯ ¯ ¯ ¯[AWAK] Weapon Store:
 Armor Store:
-  Battleaxe        7400         
-  Main Gauche      7000         
-  Thunder Spear    8000         
-  Selene Bow      16000         
-  Boomerang        9000         
-  Iron Arrow          8         
-  Holy Arrow         10         
-  Madhura Harp    10000         
+  Battleaxe 7400 Viking Helm
+  5500 Main Gauche 7000 Viking
+  Mail 8000 Thunder Spear 8000
+  Heroic Shield 3500 Selene Bow
+  16000 Thief Gloves 2500
+  Boomerang 9000 Black Garb 5000
+  Iron Arrow 8 Black Cowl 4000
+  Holy Arrow 10 Black Belt Gi
+  6000 Madhura Harp 10000 Chakra
+  Band 4500
 
 Item Store:					Magic Store:
   Potion           50           
@@ -2304,11 +2542,12 @@ Duster_ _ _ _ _ _ _ _ _ _ _ _ _
 ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
 ¯ ¯ ¯ ¯ ¯[BARD] Weapon Store:
 Armor Store:
-  Diamond Bell           4500   
-  Madhura Harp          10000   
-  Loki Harp	            10000   
-  Lamia Harp            12000   
-  Dream Harp            12000
+  Diamond Bell 4500 Gaia Vest
+  5500 Madhura Harp 10000 Bard
+  Vest 8000 Loki Harp 10000
+  Feathered Hat 3500 Lamia Harp
+  12000 Rune Bracers 2500 Dream
+  Harp 12000
 
 Item Store: Magic Store:
   Hi-Potion			600			N/A
@@ -2732,20 +2971,18 @@ Falgabard_ _ _ _ _ _ _ _ _ _ _ _
 ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯
 ¯ ¯ ¯ ¯ ¯ [KNGT] Weapon Store:
 Armor Store:
-  Ashura		16000			  Demon Mail	2
-  Yoichi Bow	42000			  Demon Shi
-  Yoichi Arrow	  500
-  Demon Axe 	40000
+  Ashura 16000 Demon Mail 25000
+  Yoichi Bow 42000 Demon Shield
+  12500 Yoichi Arrow 500 Demon
+  Axe 40000
 
 Item Store:					Magic Store:
-  Hi-Potion		 600			  (All L3)		
-  Gold Needle	 100
-  Echo Herbs	 100
-  Eye Drops 	  40
-  Antidote		  50
-  Ottershroom	2000
-  Gysahl Greens	 150
-  Gnomish Bread	 200
+  Hi-Potion 600 (All L3) 1500
+  each Gold Needle 100 Echo
+  Herbs 100 Eye Drops 40
+  Antidote 50 Ottershroom 2000
+  Gysahl Greens 150 Gnomish
+  Bread 200
 
 The cave here gives a sampling
 of what the enemies are like in
@@ -3238,12 +3475,13 @@ LAZY BUMS.
 
 Magic Stores: Armor and Weapon
 Store:
-  Flare		60000			  Shuriken  	65
-  Death     	60000			  Crystal S
-  Meteor    	60000			  Crystal M
-  Tornado   	60000			  Crystal G
-  Arise		60000			  Crystal Helm	
-  Holy		60000			  Apollo Harp	60
+  Flare 60000 Shuriken 65600
+  Death 60000 Crystal Shield
+  50000 Meteor 60000 Crystal
+  Mail 50000 Tornado 60000
+  Crystal Gloves 50000 Arise
+  60000 Crystal Helm 50000 Holy
+  60000 Apollo Harp 60000
 
   Catastro		40000
   Leviath		50000
@@ -3835,149 +4073,243 @@ process, so here is list. If I
 don't mention something here,
 that means it hasn't changed.
 
--A 3-minute FMV intro has been a
+-A 3-minute FMV intro has been
+ added
 
--The ending lines of the Gulgan 
- intro segment
+-The ending lines of the Gulgan
+ prophecy have been modified to
+ fit the revised intro segment
 
--At the start of the game, Lunet
+-At the start of the game,
+ Luneth is the only party member
 
 -The four Warriors have distinct
+ names, personalities, and
+ backgrounds
 
--Chests here and there have diff
+-Chests here and there have
+ different contents
 
--A Quicksave feature has been ad
- saving like in I&II Advance)
+-A Quicksave feature has been
+ added (it's only a suspend-type
+ save, not free saving like in
+ I&II Advance)
 
--Enemy party size has been reduc
- maximum of three enemies per ra
+-Enemy party size has been
+ reduced due to graphical
+ limitations, now there is a
+ maximum of three enemies per
+ random battle, but four in one
+ special case
 
--Enemy difficulty has increased 
+-Enemy difficulty has increased
+ to offset party size reduction
+ (see above)
 
 ENemy turns are no longer
 calculated alonside player turns
 (see Battle section)
 
--Monsters give more experience a
+-Monsters give more experience
+ and Gil
 
--The Crystal Chambers have been 
+-The Crystal Chambers have been
+ almost completely redesigned
 
 -The Wind Crystal does not grant
- defeated
+ jobs to the heroes after the
+ Land Turtle is defeated
 
--A scene in Ur introducing Arc h
+-A scene in Ur introducing Arc
+ has been added
 
--Topapa has a few extra lines ex
+-Topapa has a few extra lines
+ explaining how he adopted
+ Luneth
 
 -The scene at the Kazus entrance
+ has been modified to include
+ Arc
 
--The Blacksmith in Kazus now com
+-The Blacksmith in Kazus now
+ complains about his daughter
 
--A scene in Cid's Airship introd
+-A scene in Cid's Airship
+ introducing Refia has been
+ added
 
--The background music for the Ai
- has been extended
+-The background music for the
+ Airship inner/Dragon's Peak,
+ "Road to the Summit," has been
+ extended
 
--The lone guard at Sasune has be
- him has been added
+-The lone guard at Sasune has
+ been replaced with Ingus, and a
+ scene introducing him has been
+ added
 
--The romance between Sara and a 
+-The romance between Sara and a
+ party member has been switched
+ to focus on Ingus
 
 -The Djinn is fought without the
+ use of Jobs
 
--The party no longer leaves Seal
- Crystal and separated from her
+-The party no longer leaves
+ Sealed Cave with Sara, they are
+ warped to the Wind Crystal and
+ separated from her
 
--The party receives Jobs from th
+-The party receives Jobs from
+ the Crystal in a scene added
+ after defeating Djinn
 
--The Thief Job is now received f
+-The Thief Job is now received
+ from the Wind Crystal
 
--A moogle shows up briefly expla
+-A moogle shows up briefly
+ explaining the Job system
 
--The Capacity system has been re
+-The Capacity system has been
+ removed and replaced with a
+ "job transition phase"
 
--The party now meets up with Sar
+-The party now meets up with
+ Sara at the entrance to Sasune
+ Castle
 
--The scenes involving the Airshi
- Refia
+-The scenes involving the
+ Airship's upgrade have been
+ modified to center on Refia
 
 -Dragon's peak now has cliffs
 
--The Tozas theme has been slight
+-The Tozas theme has been
+ slightly extended
 
--The Tozas Map (and all Mini-exc
- longer appear mini on them
+-The Tozas Map (and all Mini-
+ exclusive areas) have been
+ resized so you no longer appear
+ mini on them
 
--The spell Sight now shows area 
- instead of showing a zoomed out
+-The spell Sight now shows area
+ locations on the upper screen
+ temporarily instead of showing
+ a zoomed out map
 
--The Fat Chocobo theme is somewh
+-The Fat Chocobo theme is
+ somewhat extended
 
--The Geomancer Job is now receiv
+-The Geomancer Job is now
+ received from the Fire Crystal
 
--The Living Forest map has a gia
+-The Living Forest map has a
+ giant crater in it
 
 -A secret room has been added to
+ Gysahl where you can view the
+ Bestiary
 
--An area of Hein's Castle has be
+-An area of Hein's Castle has
+ been moved to outside
 
 -A scene with Cid explaining the
+ back story of the four orphans
+ has been added
 
--A scene with the four leaving t
+-A scene with the four leaving
+ the Floating Continent has been
+ added
 
--The flooded surface world now h
+-The flooded surface world now
+ has a darker look with cool
+ warping water
 
 -Aria's theme has been extended
 
 -The Magic Knight job has become
- weaknesses
+ the Dark Knight, with its own
+ new strengths and weaknesses
 
--The Black Belt job is not obtai
- have not been changed to reflec
+-The Black Belt job is not
+ obtained from the Water
+ Crystal; the shops in Amur have
+ not been changed to reflect
+ this
 
 -You cannot board you ship after
- sail a short distance before th
+ Goldor's chained it, in the
+ original, you could sail a
+ short distance before the chain
+ was taut
 
--The Saronia theme is somewhat e
+-The Saronia theme is somewhat
+ extended, and not quite as dark
 
--Every level after Goldor's Mano
+-Every level after Goldor's
+ Manor has been almost
+ completely redesigned
 
 -The Submarine theme is slightly
+ extended
 
 -The Underwater Cave theme has a
+ longer intro
 
 -Falgabard has been changed to a
- Knights...)
+ town of Dark Knights (Instead
+ of Magic Knights...)
 
--Doga has a few more lines, desc
+-Doga has a few more lines,
+ describing the Lights of the
+ individual characters
 
--The Ninja and Sage Jobs are obt
+-The Ninja and Sage Jobs are
+ obtained from the Earth
+ Crystal. WTF?
 
--The Syrcus (Sylx) Tower is now 
+-The Syrcus (Sylx) Tower is now
+ HUGE but with the same layout
 
--The Eureka theme has a longer i
+-The Eureka theme has a longer
+ intro
 
--Shuriken are no longer equipabl
+-Shuriken are no longer
+ equipable weapons
 
--You can now buy the three highe
- your inventory XD
+-You can now buy the three
+ highest Summon Spells without
+ first having them in your
+ inventory XD
 
 -The party is fully healed after
+ each boss in Eureka and the
+ World of Darkness
 
--The sped up version of the CoD'
- Dark show up
+-The sped up version of the
+ CoD's theme doesn't play when
+ the Warriors of the Dark show
+ up
 
--The Cloud of Darkness is accomp
+-The Cloud of Darkness is
+ accompanied by two Tentacles
 
--The Cloud of Darkness now has a
+-The Cloud of Darkness now has
+ an attack pattern, not just
+ FlareWave every turn
 
 -The Nautilus no longer has long
+ pauses when flying in the
+ ending
 
--The player is allowed to save a
+-The player is allowed to save
+ after the credits
 
 -The Onion Knight Job is acquied
+ through annoying WiFi hurdles
 
--Miscillaneous side quests are u
+-Miscillaneous side quests are
+ unlocked through Mognet
 
 ________________________________
 [IFAQ] Frequently Asked Question
@@ -3999,7 +4331,9 @@ problem: 1. Read the manual 2.
 Read the in-game help text (i.e.
 The description for Mini says
 that it
-  shrinks AND unshrinks the targ
+  shrinks AND unshrinks the
+  target, pretty useful
+  knowledge, huh?)
 4. Check the guide, including
 sections before the spot where
 you have
@@ -4016,32 +4350,45 @@ Q: Where do I get the [such and
 such] Job? A: Look at the Jobs
 Section. I'd post exactly where
 you get each job before I
-   actually got to that part of 
-   locations from the Famicom re
+   actually got to that part of
+   the game, but they've changed
+   a few Job locations from the
+   Famicom release, so I don't
+   know for certain yet.
 
 Q: HELP MEEEE!!!!! I don't know
 how to change Jobs! How do I
 change Jobs? A: I was shocked
 and appalled by the number of
 times I got this question. I
-   really thought it was self-ex
-   first have gotten the first s
+   really thought it was self-
+   explanatory. In order to
+   change Jobs, you must first
+   have gotten the first set of
+   Jobs after beating Djinn.
 
 Q: I ran out of Phoenix Down.
 Where can I get more? A: If
 you've snagged every chest in
 every dungeon and ran out, I'd
 say you're
-   pretty much screwed. I can't 
-   chests you've gotten. However
-   option of stealing them off t
-   this requires access to Drago
+   pretty much screwed. I can't
+   tell you where to get more,
+   as I don't know what chests
+   you've gotten. However, a
+   recent email has enlightened
+   me to the option of stealing
+   them off the Rustbirds on
+   Dragon's Peak. Unfortunately,
+   this requires access to
+   Dragon's Peak.
 
    To conserve Phoenix Down:
 -NEVER use Phoenix Downs when
 you're in a random encounter.
 Just don't.
- You can always redo the level, 
+ You can always redo the level,
+ they're usually pretty short.
 -NEVER sell them, even if you
 need the 1 gold you get from the
 sale. -NEVER use too many
@@ -4055,33 +4402,42 @@ Q: How do weapons that cast
 spells work? A: Use the Item
 command (in battle) and select
 that weapon as if it were any
-   other attack item. You can us
-   same effect as if that charac
+   other attack item. You can
+   use it as many times as you
+   want and it has the same
+   effect as if that character
+   was casting the spell.
 
 Q: How do I board/disembark from
 the Enterprise? A: Just walk
 into it to board (you may have
 to try a different angle) and
 sail
-   into the shore to disembark. 
+   into the shore to disembark.
+   It takes patience and
+   persistence sometimes.
 
 Q: How do I cast Mini?
 A: Menu ->
-   Magic ->
-   [White Mage, Red Mage, Schola
-   LV.2 ->
-   Mini ->
-   All Party Members
-   You need at least 1 MP at spe
+   Magic -> [White Mage, Red
+   Mage, Scholar, Devout, or
+   Sage] -> LV.2 -> Mini -> All
+   Party Members You need at
+   least 1 MP at spell LV.2 or
+   this won't work
 
 Q: Where is [such and such
 location]? I can't find it! A:
 The magic Sight marks all
 locations on your map
 temporarily. If you're
-   looking for a dungeon, fly ar
-   haven't visited yet. This can
-   overworld, and underwater.
+   looking for a dungeon, fly
+   around and visit the dungeons
+   it marks that you haven't
+   visited yet. This can be done
+   on the floating continent,
+   the main overworld, and
+   underwater.
 
 Q: Tell me what Jobs to use.
 A: No.
@@ -4091,7 +4447,10 @@ A: I have this annoying thing
 called a life. As devoted as I
 am to Final Fantasy
    III, sometimes there are more
-   a while, it means I'm having 
+   important things to do. If I
+   haven't updated in a while,
+   it means I'm having a bad
+   week.
 
 Q: What does [this word] mean?
 A: Oy. This is why God invented
@@ -4104,9 +4463,15 @@ have your friend code? A: NO. I
 don't want to, and it wouldn't
 work anyway due to the
 ingeniously
-   crafted friend code system th
-   which is nearly impossible wi
-   room. Or you could use AIM, b
+   crafted friend code system
+   that requires simultaneous
+   logons by both players, which
+   is nearly impossible without
+   synchronized watches or being
+   in the same room. Or you
+   could use AIM, but I'm a
+   conscientious objector to
+   AOL.
 
 _________________
 [KUPO] Contact Me\______________
@@ -4183,6 +4548,7 @@ ones even gonna use it after
 reading the first sentence. what
 a dumb ass."
   --"Jon Rosenberg" <respectandt
+    olerance@gmail.com>
 
 You shall be remembered for all
 time as a moron. Something tells
@@ -4209,7 +4575,9 @@ a dumb ass.
 
 P.S. I know that "u" is not a
 pronoun"
-   --<SkatrElementJ@aol.com> (J 
+   --<SkatrElementJ@aol.com> (J
+     for Jon Rosenburg,
+     perchance?)
 
 If you know that "u" is not a
 pronoun, why do you insist on

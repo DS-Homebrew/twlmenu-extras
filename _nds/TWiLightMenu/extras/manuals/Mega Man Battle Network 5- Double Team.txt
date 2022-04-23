@@ -45,37 +45,35 @@ section that you're looking for.
 1. Introduction Int
 
 2.     a. Story                 
- b. Characters                  
- c. Controls                    
+ b. Characters Chrac c. Controls
+ Cntrl
 
 3. Soul Unison Solz
 
 4. Walkthrough Wlkthru
 
- a. Scenario 1                  
- b. Liberate Mission 1          
- c. Scenario 2                  
- d. Liberate Mission 2          
- e. Scenario 3                  
- f. Liberate Mission 3          
- g. Scenario 4                  
- h. Liberate Mission 4          
- i. Scenario 5                  
- j. Liberate Mission 5          
- k. Scenario 6                  
- l. Liberate Mission 6          
- m. Scenario 7                  
+ a. Scenario 1 Sce1 b. Liberate
+ Mission 1 Lbm1 c. Scenario 2
+ Sce2 d. Liberate Mission 2 Lbm2
+ e. Scenario 3 Sce3 f. Liberate
+ Mission 3 Lbm3 g. Scenario 4
+ Sce4 h. Liberate Mission 4 Lbm4
+ i. Scenario 5 Sce5
+ j. Liberate Mission 5 Lbm5 k.
+ Scenario 6 Sce6 l. Liberate
+ Mission 6 Lbm6 m. Scenario 7
+ Sce7
 
 5. Title Screen Marks Tsmk
 
 6. After Scenario Afsc
 
- a. Liberate Mission 7          
- b. Nebula Hole Area 2          
- c. Liberate Mission 8          
- d. Nebula Hole Area 4          
- e. Liberate Mission 9          
- f. Nebula Hole Area 6          
+ a. Liberate Mission 7 Lbm7 b.
+ Nebula Hole Area 2 Nha2 c.
+ Liberate Mission 8 Lbm8 d.
+ Nebula Hole Area 4 Nha4 e.
+ Liberate Mission 9 Lbm9 f.
+ Nebula Hole Area 6 Nha6
 
 7. SP/DS Deletion Spds
 
@@ -85,13 +83,14 @@ section that you're looking for.
 
 10. Shops                       
 
- a. Higureya's Order Service    
+ a. Higureya's Order Service
+ Hosv
 
 11. Chips                       
 
- a. Standard Chips              
- b. Mega-Class Chips            
- c. Giga-Class Chips            
+ a. Standard Chips SChps b.
+ Mega-Class Chips MChps c. Giga-
+ Class Chips GChps
 
 12. Program Advances PAz
 
@@ -1128,25 +1127,29 @@ will be credited.
 9) Switch the Ko and I. Now it
    should say I Ko N.
 10)Take the next turn, and then
-take the top path to an open
-area. 11)When you get to a
-split, take the left path.
+   take the top path to an open
+   area.
+11)When you get to a split, take
+   the left path.
 12)You should get to a Blue
-Mystery Data that contains a HP
-Memory. 13)Head back to the
-split and take the other path.
+   Mystery Data that contains a
+   HP Memory.
+13)Head back to the split and
+   take the other path.
 14)You should now be at a place
-with 6 blocks. 3 on each side.
-The one on the
-   left is Ki Sa Ta. The other i
+   with 6 blocks. 3 on each
+   side. The one on the left is
+   Ki Sa Ta. The other is U Gi
+   Nu.
 15)Talk to the Program Dude.
-Switch the Gi and Sa. Then the
-Gi with Nu. Then
-   the Ki and Ta.
+   Switch the Gi and Sa. Then
+   the Gi with Nu. Then the Ki
+   and Ta.
 16)Follow the Ta Nu Ki path to a
-switch. 17)Step on it. 18)Head
-to the U Sa Gi path and enter
-Main System Comp 2.
+   switch.
+17)Step on it.
+18)Head to the U Sa Gi path and
+   enter Main System Comp 2.
 
 -------------------
 Main System Comp 2
@@ -1159,7 +1162,8 @@ Main System Comp 2
 3) The blocks should look like
    Ni ya Mu N and No Mi Bo Ki.
    Switch the Mu with Ki. Then
-   Ki with Ni. Ni with
+   Ki with Ni. Ni with No. And
+   Mi with No.
 4) Follow the Mi Ni Bo Mu path
    to a switch.
 5) Step on it and head back to
@@ -1170,25 +1174,26 @@ Main System Comp 2
 8) The block should say from the
    left, Bi Ma Te, Gi Yu Ta, and
    Mi Bu Ko. Talk to the Program
-   Dude to get hi
+   Dude to get hints.
 9) Switch the Bi with Mi, Gi
    with Ma, Ma with Bi, Ta with
    Ko, the Ko with Mi.
 10)Take the Mi Gi Te path and
-step on the switch. 11)Take the
-Ma Bu Ta path and step on the
-switch. 12)Take the Ko Yu Bi
-path. Ignore the Transporter for
-now and follow the path
-   to a Blue Mystery Data that c
+   step on the switch.
+11)Take the Ma Bu Ta path and
+   step on the switch.
+12)Take the Ko Yu Bi path.
+   Ignore the Transporter for
+   now and follow the path to a
+   Blue Mystery Data that
+   contains a Full Energy.
 13)Take the Transporter now.
 14)Take the next Transporter.
 15)Follow the path and grab the
-Blue Mystery Data with a Spread
-Gun E on the
-   way.
+   Blue Mystery Data with a
+   Spread Gun E on the way.
 16)Follow the path to the last
-puzzle with the #s 12345.
+   puzzle with the #s 12345.
 17)Talk to the Program Dude.
 
 Cut-Scene
@@ -1356,10 +1361,9 @@ Prizes
 --------------------------------
 | Clear Phase | Item            
 --------------------------------
-| 1 ~ 5 | Blizzardman SP B |
-******************* | 6 ~ 7 |
-Blizzardman B | | 8 ~ 99 | 1000
-Zennys |
+|   1  ~  5   | Blizzardman SP B
+| 6 ~ 7 | Blizzardman B | | 8 ~
+99 | 1000 Zennys |
 --------------------------------
 
 ********************************
@@ -1387,7 +1391,8 @@ Chg: -- |
 | Colonel HP: 200 Chp: 80 Chg:
 50 |
  -------------------------------
-  Chp- Their own Chip           
+  Chp- Their own Chip Chg- Their
+  Charge Shot
 
 ================================
 4.     c. Scenario 2            
@@ -1482,7 +1487,7 @@ Oran Isle Area 1
 2) Take the path heading to the
    South-East. You'll get to a
    Blue Mystery Data that
-   contains a Earth Quake 1
+   contains a Earth Quake 1 A.
 3) Head back to the split.
 4) Keep following the path to
    another split.
@@ -1550,16 +1555,17 @@ Cut-Scene
 9) Now head to where you were
    fishing.
 10)Behing that area are some
-bushes. Examine them to get some
-Hay. 11)Head to where the
-Speaker is. 12)Right next to the
-Speaker is a small tree. Examine
-it to get a Dead Branch. 13)Head
-to the Beachside. 14)To the East
-are some woods on the floor.
-Examine them to get a Wooden
-Board
-   and you're done.
+   bushes. Examine them to get
+   some Hay.
+11)Head to where the Speaker is.
+12)Right next to the Speaker is
+   a small tree. Examine it to
+   get a Dead Branch.
+13)Head to the Beachside.
+14)To the East are some woods on
+   the floor. Examine them to
+   get a Wooden Board and you're
+   done.
 15)Go talk to Dekao.
 
 Cut-Scene
@@ -1773,14 +1779,16 @@ Conveyor.
 2) Break the Rock in front of
    you by pressing A. It should
    make a crack. Hit it 2 more
-   times to destroy it
+   times to destroy it.
 3) Follow the path to your first
    Belt Conveyor.
 4) When you're ready head on the
    Conveyor and start running to
    the North-East. On the way
-   are Rocks, but des resting
-   spot. So rest there a
+   are Rocks, but destroy them
+   as fast as you can. On the
+   way is a resting spot. So
+   rest there and start again.
 5) If you managed to get
    through, follow the path to a
    split.
@@ -1792,25 +1800,27 @@ Conveyor.
    Rock.
 9) Hit this one 5 times.
 10)At the split take the North-
-East path to a Blue Mystery Data
-that contains
-   a HP Memory.
+   East path to a Blue Mystery
+   Data that contains a HP
+   Memory.
 11)Head back to the split and
-head to the West to another
-Conveyor. 12)Head through when
-you think can. 13)Do the same
-thing. 14)Destroy the Rock by
-hitting it 3 times. 15)Follow
-the path to a row of Rocks. Very
-easy to destroy. 16)The last
-Conveyor of the area. Remember
-to Save. On the way is another
-rest
-   stop.
+   head to the West to another
+   Conveyor.
+12)Head through when you think
+   can.
+13)Do the same thing.
+14)Destroy the Rock by hitting
+   it 3 times.
+15)Follow the path to a row of
+   Rocks. Very easy to destroy.
+16)The last Conveyor of the
+   area. Remember to Save. On
+   the way is another rest stop.
 17)When you get through, follow
-the path to the last Rock of
-this area. 18)Destroy it and
-examine the Control Panel.
+   the path to the last Rock of
+   this area.
+18)Destroy it and examine the
+   Control Panel.
 19)Plug-Out.
 
 -------------
@@ -1845,28 +1855,32 @@ Rock Drilling Comp 2
 9) Destroy both Rocks to get to
    another Conveyor.
 10)That one should've been easy.
-Take the obvious path and follow
-it to
-   another Conveyor.
+   Take the obvious path and
+   follow it to another
+   Conveyor.
 11)You should definitely Save
-here. There are no rest spots on
-the way. 12)At the split take
-the left path to get to a Blue
-Mystery Data to get a
-   Stone Cube *.
+   here. There are no rest spots
+   on the way.
+12)At the split take the left
+   path to get to a Blue Mystery
+   Data to get a Stone Cube *.
 13)Go back to the split and take
-the other path to the last
-Conveyor of this
-   area. There is a rest stop on
+   the other path to the last
+   Conveyor of this area. There
+   is a rest stop one the way.
+   Take it.
 14)You should now be at the rest
-spot. SAVE. To go on from here
-there is a
-   Rock that is on the path that
-   time. You are on the Conveyor
+   spot. SAVE. To go on from
+   here there is a Rock that is
+   on the path that we want to
+   go through. You must destroy
+   it in time. You are on the
+   Conveyor, so if you miss
+   you're toast.
 15)When you successfully destroy
-the Rock head to the Control
-Panel. 16)Examine it and Plug-
-Out.
+   the Rock head to the Control
+   Panel.
+16)Examine it and Plug-Out.
 
 -------------
 Great Cavern
@@ -1884,14 +1898,15 @@ Rock Drilling Comp 3
 2) This Conveyor is really long.
    On the way are 2 rest stops,
    so use them to your choice.
-   If you want a HP the Rock at
-   the end.
+   If you want a HP +100 (Pink)
+   you must go all the way and
+   break the Rock at the end.
 3) Follow the path to another
    Coveyor.
 4) This one has 2 rest stops.
    This one has a Rock at the
    end like the one in Comp 2.
-   So Save, and time you
+   So Save, and time your hit.
 5) Ignore the Rock and head to
    the next Conveyor.
 6) This one has only 1 rest
@@ -1902,21 +1917,23 @@ Rock Drilling Comp 3
 8) Now head back to that Rock we
    didn't break.
 9) Break the Rock.
-10)Destory the next Rock. 11)At
-the split take the Left path to
-a Blue Mystery Data that
-contains a
-   Full Energy.
+10)Destory the next Rock.
+11)At the split take the Left
+   path to a Blue Mystery Data
+   that contains a Full Energy.
 12)Now follow the path to
-another Conveyor. 13)Do your
-best to go around the Conveyor.
+   another Conveyor.
+13)Do your best to go around the
+   Conveyor.
 14)Follow the path to a Rock.
-15)Destroy it. 16)Use the
-Suspension Device Key on the
-Suspension Device. 17)Now head
-back to where the Program Dude
-is. 18)Head through the last
-Conveyor to the Control Panel.
+15)Destroy it.
+16)Use the Suspension Device Key
+   on the Suspension Device.
+17)Now head back to where the
+   Program Dude is.
+18)Head through the last
+   Conveyor to the Control
+   Panel.
 19)Examine it and Plug-Out.
 
 -------------
@@ -1942,34 +1959,40 @@ Rock Drilling Comp 4
 5) When you get to the next
    Conveyor, head to the North
    to get to a Blue Mystery Data
-   that contains a
+   that contains a HP Memory.
 6) Now head back to where you
    were on Step 5. This time
    head to the bottom and
    destroy the Rock while you're
+   on the Conveyor.
 7) This next Conveyor has one
    resting spot. At the top is
    another Rock in your way.
 8) After you get through the
    Rock, there will be another
    Conveyor. Go past this one
-   and you'll come to a
+   and you'll come to another
+   Conveyor.
 9) Follow the path to the
    longest Conveyor. Well maybe
    it's the same length as the
-   one in Comp 3. Doesn't ma
+   one in Comp 3. Doesn't
+   matter, just head to the very
+   end.
 10)Follow the path to the last
-Conveyor Belt. After the 2nd
-time going through
-   the Conveyor from side to sid
-   Data that contains a Long Swo
+   Conveyor Belt. After the 2nd
+   time going through the
+   Conveyor from side to side,
+   head to the North to get to a
+   Blue Mystery Data that
+   contains a Long Sword S.
 11)Follow the Conveyor Belt's
-path from here and use the
-Suspension Device Key
-   on the Suspension Device then
+   path from here and use the
+   Suspension Device Key on the
+   Suspension Device then Save.
 12)When you're ready head to the
-Control Panel where
-Magnetman/Knightman is.
+   Control Panel where
+   Magnetman/Knightman is.
 
 Cut-Scene
 
@@ -2137,7 +2160,8 @@ Chg: -- |
 40 | Knightman HP: 400 Chp: 80
 Chg: 80 |
  -------------------------------
-  Chp- Their own Chip           
+  Chp- Their own Chip Chg- Their
+  Charge Shot
 
 ================================
 4.     e. Scenario 3            
@@ -2167,20 +2191,23 @@ have a guide for this you're
 going to have some kind of
 trouble. Here's a little diagram
 of how the Areas are located.
-    6            I know it sucks
-   /              breakdown of t
-   4                contains Ite
+    6 I know it sucks, but live
+    with it. Here's is a
+   / breakdown of this place.
+   Some of the areas 4 contains
+   Items. Here is a list of
+   those items in
  /   \              each area.
  2 - 3      7 - 8
    /      \                   3-
-  /         5      13         4-
+  / 5 13 4- 200 Zennys
 1 / 5- Charge +1 (White)
-  \           11              6-
+  \ 11 6- Gun Del Sol 1 A
    \        /    \            8-
- 9 - 10        14 - 16   10- 300
+ 9 - 10 14 - 16 10- 300 Zennys
 \                11- 400 Zennys
 12             13- Regular Up +1
-    \           15- First Barrie
+    \ 15- First Barrier (Blue)
     15
 
 The items are usually in the
@@ -2230,7 +2257,9 @@ Higureya
 1) So this is Higureya. This is
    where you will buy Chips.
    Come here any time you want.
-   I'll also tell you
+   I'll also tell you when
+   Higure gets new Chips during
+   the game.
 2) Go to the Show Case and buy
    the Bubble Wrap Y. Put it in
    your folder.
@@ -2297,8 +2326,8 @@ Battle
    East and follow the path to a
    transporter.
 10)Use it to get back to the
-entrance of this area. Head back
-to Area 1.
+   entrance of this area. Head
+   back to Area 1.
 
 -----------------
 Oran Isle Area 1
@@ -2370,7 +2399,8 @@ Kagakushou Area 1
 2) Take the right path and
    follow it to the North-East
    to get to a Blue Mystery Data
-   that contains a
+   that contains a Custom 1
+   (Blue).
 3) Now head back to the split.
 4) Take the left path and follow
    it to a split.
@@ -2395,7 +2425,8 @@ Kagakushou Area 2
 2) Take the left path and follow
    the path all the way to the
    South-West to get to a Blue
-   Mystery Data that c
+   Mystery Data that contains a
+   HP Memory.
 3) Head directly North from here
    to a small tiny Orange Path.
 4) Head directly West from here
@@ -2464,7 +2495,8 @@ Rock Drilling Comp 1
 1) Head to where the Control
    Panel is. Don't worry the
    Conveyor Belts aren't moving
-   anymore. So it should
+   anymore. So it should be
+   easier.
 2) Get the Thought Program and
    Plug-Out.
 
@@ -2581,18 +2613,38 @@ Cut-Scene
 3) From here and on what you
    must do is to suck up the
    Clouds that are in your way.
-   The thing is the Mega Va
-   There are also Clouds that ha
-   slots they take up. A White C
+   The thing is the Mega Vacuum
+   can only hold up to 10 Slots
+   of Clouds. There are also
+   Clouds that have different
+   colors with different amounts
+   of slots they take up. A
+   White Cloud takes up 1 slot,
+   a Gray Cloud takes up 3
    slots, a Black Cloud takes up
-   What's so special about the G
-   my guide I'm not going to put
-   worthless. You don't need the
-   necessary ones. If you want t
-   telling you this, they are a
-   actually went through all the
-   E-mail me and tell me what th
-   Clouds contain. Remember your
+   5 slots, and the Gold Cloud
+   takes up 1 slot. What's so
+   special about the Gold
+   Cloud...it sometimes gives
+   you items. In my guide I'm
+   not going to put any, because
+   I think most of them are
+   worthless. You don't need
+   them. So I'm only going to
+   guide you through the
+   necessary ones. If you want
+   to get those Gold Clouds get
+   them yourself. I'm telling
+   you this, they are a waste of
+   time. You do not need them.
+   If you actually went through
+   all the Gold Clouds and know
+   what you got, you can E-mail
+   me and tell me what those
+   are. This can help people
+   what those Gold Clouds
+   contain. Remember your name
+   will be credited.
 4) Just head to Area 2. On the
    way are only White Clouds.
    Just follow the Green Path
@@ -2615,7 +2667,8 @@ Cut-Scene
 2) Follow the path to the hill.
    On the way, you can suck up
    everything until you get to
-   the White Cloud af
+   the White Cloud after you
+   suck up the Gray Cloud.
 3) Then you must go empty it
    out.
 4) When you get to the hill
@@ -2654,7 +2707,10 @@ Kagakushou Area 1
    actually have to think on
    which Clouds to suck up,
    because if you mess up...you
-   First empty out your Vaccum i
+   mess up. Follow my guide as
+   much as possible. First empty
+   out your Vaccum in the
+   entrance of this area.
 2) Start by taking the right
    path at the split.
 3) Suck up the White Cloud here.
@@ -2676,18 +2732,19 @@ Kagakushou Area 1
    Dude that can empty out half
    of what's inside your Vacuum.
 10)Suck up the Black Cloud. Now
-go back and empty your Vacuum.
+   go back and empty your
+   Vacuum.
 11)Follow the path to another
-Black Cloud. 12)Suck up the Gray
-Cloud next. Then you should get
-to another Program Dude
-   that'll empty your Vacuum.
+   Black Cloud.
+12)Suck up the Gray Cloud next.
+   Then you should get to
+   another Program Dude that'll
+   empty your Vacuum.
 13)Suck up the Black Cloud and
-empty it out again. 14)Now
-follow the path to Area 2. There
-are 4 White Clouds, and 1 Gray
-Cloud
-   on the way.
+   empty it out again.
+14)Now follow the path to Area
+   2. There are 4 White Clouds,
+   and 1 Gray Cloud on the way.
 
 ------------------
 Kagakushou Area 2
@@ -2712,24 +2769,27 @@ Kagakushou Area 2
 9) Head to the North-East to
    another Gold Cloud.
 10)Talk to the Program Dude. Now
-go back to where the other Gold
-Cloud was. 11)Take the path
-right next to where the Gold
-Cloud was. Suck up the Black
-   Cloud then the Gray Cloud.
+   go back to where the other
+   Gold Cloud was.
+11)Take the path right next to
+   where the Gold Cloud was.
+   Suck up the Black Cloud then
+   the Gray Cloud.
 12)Head to the South-West to
-another Program Dude. 13)After
-emptying the Vacuum, head
-directly North to a Black Cloud.
+   another Program Dude.
+13)After emptying the Vacuum,
+   head directly North to a
+   Black Cloud.
 14)Suck up the Black Cloud then
-head North-East to another Black
-Cloud. 15)Go back to the Program
-Dude and come back. 16)Head
-North-East again to your last
-Cloud you will suck in. 17)Save.
-When you're ready follow the
-path to where Gyroman/Shadowman
-is.
+   head North-East to another
+   Black Cloud.
+15)Go back to the Program Dude
+   and come back.
+16)Head North-East again to your
+   last Cloud you will suck in.
+17)Save. When you're ready
+   follow the path to where
+   Gyroman/Shadowman is.
 
 Cut-Scene
 
@@ -2788,9 +2848,9 @@ Boss- Shadowman
 Cut-Scene
 
 18)Now head to those Clouds that
-you couldn't get through a long
-time ago. (The beginning of this
-scenario)
+   you couldn't get through a
+   long time ago. (The beginning
+   of this scenario)
 
 Cut-Scene
 
@@ -2835,7 +2895,7 @@ Prizes                     |_ _
 | Clear Phase | Item |
 |R|_|X|X|X|X|_|X|X|X|X|_|
 --------------------------------
-| 1 ~ 7 | Cloudman SP S | |G|
+|   1  ~  7   | Cloudman SP S   
 |   8  ~  9   | Cloudman S      
 | 10 ~ 99 | 3000 Zennys |
 |P|_|X|_|X|_|X|_|3|
@@ -2873,7 +2933,8 @@ Chg: 80 |
 20 | Shadowman HP: 250 Chp: 80
 Chg: 60 |
  -------------------------------
-  Chp- Their own Chip           
+  Chp- Their own Chip Chg- Their
+  Charge Shot
 
 ================================
 4.     g. Scenario 4            
@@ -3001,8 +3062,9 @@ Kagakushou Area 4
 9) Now take the transporter
    closest to you.
 10)Head to the North-East to
-another transporter. 11)Follow
-the path to another transporter.
+   another transporter.
+11)Follow the path to another
+   transporter.
 12)Follow the path to a Navi.
 13)Save and talk to him.
 
@@ -3013,14 +3075,16 @@ Battle
 You get the Science Key.
 
 14)Take the transporter right
-next to you and run to the
-South-West to another
+   next to you and run to the
+   South-West to another
    transporter.
 15)Take it and follow to another
-split. 16)Follow the South-East
-path and follow the right path
-to a transporter. 17)Take it and
-head through the warp.
+   split.
+16)Follow the South-East path
+   and follow the right path to
+   a transporter.
+17)Take it and head through the
+   warp.
 
 ------------
 Server Comp
@@ -3032,7 +3096,8 @@ Server Comp
 Note: Come back here when you're
 Rockman to get the HP Memory and
 to do
- something else. It might be in 
+ something else. It might be in
+ the guide.
 
 -----------------
 Oran Isle Area 2
@@ -3189,7 +3254,9 @@ Corridor
 2) You need to unlock it with a
    code. You get this code from
    a guy on Deck, but I have the
-   answer already there.
+   answer already. I'll save you
+   the time of traveling over
+   there.
 3) Input the code 11922911.
 4) Head inside.
 
@@ -3412,12 +3479,15 @@ Cut-Scene
 4) When you get to the bottom,
    you'll start losing oxygen.
    Head to the left path to a
-   area with a Whirlpo
+   area with a Whirlpool.
 5) Just go pass the Whirlpool
    and head to the North to
    another Whirlpool. There's
    also a bubble that'll
-   actually need it, but that's
+   replenish some of your
+   oxygen. You don't actually
+   need it, but that's what it
+   looks like.
 6) Head to the North-East to get
    to a Blue Mystery Data that
    contains a Water Proof Key.
@@ -3428,32 +3498,34 @@ Cut-Scene
 9) Head to the right and you
    should see a Whirlpool.
 10)Make your way to the South-
-East to get to a Blue Mystery
-Data that contains
-   a Yo Yo F.
+   East to get to a Blue Mystery
+   Data that contains a Yo Yo F.
 11)Now head to the North-East
-and head to the North-West.
+   and head to the North-West.
 12)Soon you should see a
-Whirlpool and a Blue Mystery
-Data. 13)Grab the Blue Mystery
-Data that contains a Water Proof
-Key and enter the
-   warp.
+   Whirlpool and a Blue Mystery
+   Data.
+13)Grab the Blue Mystery Data
+   that contains a Water Proof
+   Key and enter the warp.
 14)Open the door and head down
-the next hill you come across.
-15)Head to the South. 16)Head
-North-East to get to a Blue
-Mystery Data with a Spin White
-inside. 17)Now head to the
-South-West to find another
-Whirlpool. 18)Pass it and head
-to the West to a warp. 19)To the
-right is a Whirlpool and a Blue
-Mystery Data. Get the Blue
-Mystery
-   Data that contains a Water Pr
-20)Head to the warp. 21)Open the
-door and head to Comp 2.
+   the next hill you come
+   across.
+15)Head to the South.
+16)Head North-East to get to a
+   Blue Mystery Data with a Spin
+   White inside.
+17)Now head to the South-West to
+   find another Whirlpool.
+18)Pass it and head to the West
+   to a warp.
+19)To the right is a Whirlpool
+   and a Blue Mystery Data. Get
+   the Blue Mystery Data that
+   contains a Water Proof Key.
+20)Head to the warp.
+21)Open the door and head to
+   Comp 2.
 
 ----------------------
 Luxurious Ship Comp 2
@@ -3465,9 +3537,14 @@ Luxurious Ship Comp 2
 3) After you pass the Whirlpool,
    there is a tide that will
    push you to the South-West.
-   You're trying to for the tide
-   to stop for awhi of the tide.
-   Whatever you do tide.
+   You're trying to go to the
+   South-East. You can choose to
+   wait for the tide to stop for
+   awhile, or you can run in the
+   opposite direction of the
+   tide. Whatever you do just
+   head to the South-East to get
+   out of the tide.
 4) Follow the path to a
    Whirlpool.
 5) Go past this one and head to
@@ -3476,59 +3553,69 @@ Luxurious Ship Comp 2
 6) This one is also pushing to
    the South-West. Wait for the
    tide to stop for this one.
-   When it stops run a
+   When it stops run and head to
+   the first turn you see.
 7) There will be a Whirlpool and
    a Blue Mystery Data here. You
    can't get it because it's a
-   HP Memory. Jus Rockman. Right
-   now take the t saves you a
+   HP Memory. Just remember to
+   come back here when you're
+   Rockman. Right now take the
+   tide that's right next to the
+   HP Memory. It saves you a
    little running.
 8) Follow the path to another
    Whirlpool.
 9) Go past this one and head to
    the right to get some oxygen.
 10)Head to the North to another
-Whirlpool. 11)Past this one is
-another Whirlpool and a Blue
-Mystery Data that contains a
-   Water Proof Key.
+   Whirlpool.
+11)Past this one is another
+   Whirlpool and a Blue Mystery
+   Data that contains a Water
+   Proof Key.
 12)Head to the West and enter
-the warp. Be careful on the way
-because there's
-   a tide pushing to the South-E
+   the warp. Be careful on the
+   way because there's a tide
+   pushing to the South-East.
 13)Open the door and head to the
-next hill going down. 14)When
-you go down the hill follow the
-path to the right. 15)When you
-get to the area with the tide,
-wait until it stops. Then run to
-   the resting stop in the middl
+   next hill going down.
+14)When you go down the hill
+   follow the path to the right.
+15)When you get to the area with
+   the tide, wait until it
+   stops. Then run to the
+   resting stop in the middle.
+   Then continue when it stops
+   again.
 16)Stop at the corner. You
-should see a tide that's pushing
-to the North-West
-   and another tide pushing to t
-   the tide that pushes you to t
+   should see a tide that's
+   pushing to the North-West and
+   another tide pushing to the
+   South-East. Time your run so
+   that you go on the tide that
+   pushes you to the South-East.
 17)When you get pushed Save.
 18)Head to the right, but don't
-go on the tide or else you go
-back to where
-   you were.
+   go on the tide or else you go
+   back to where you were.
 19)Go past the Whirlpools and
-get on the next tide you see.
+   get on the next tide you see.
 20)Follow the path and you
-should see a Blue Mystery Data
-that contains a
-   Regular Up +3.
+   should see a Blue Mystery
+   Data that contains a Regular
+   Up +3.
 21)Follow the path to a square
-panel with a Whirlpool. 22)In
-the square panel is also a place
-to get oxygen. 23)Head to the
-West to get to a Blue Mystery
-Data that contains a Water Proof
-   Key.
+   panel with a Whirlpool.
+22)In the square panel is also a
+   place to get oxygen.
+23)Head to the West to get to a
+   Blue Mystery Data that
+   contains a Water Proof Key.
 24)Now head to the North and use
-the warp. 25)Open the door and
-follow the path to Comp 3.
+   the warp.
+25)Open the door and follow the
+   path to Comp 3.
 
 ----------------------
 Luxurious Ship Comp 3
@@ -3550,58 +3637,69 @@ Luxurious Ship Comp 3
 6) Go past them and head to the
    South-East to a Blue Mystery
    Data that contains the Water
-   Proof Key
+   Proof Key A.
 7) Now go through the warp.
 8) Head down the hill.
 9) Head to the South-West. You
    should come across the 2
    Whirlpools again.
 10)Head to the West like last
-time. At the split, head North
-this time. 11)Go on the tide and
-follow the path to a Blue
-Mystery Data that contains a
-   Sub Memory. There should also
+   time. At the split, head
+   North this time.
+11)Go on the tide and follow the
+   path to a Blue Mystery Data
+   that contains a Sub Memory.
+   There should also be some
+   oxygen nearby.
 12)Follow the path to another
-tide. 13)Head to the North-East
-after getting pushed by the
-tide. 14)The should be a
-Whirlpool. After getting past
-this one, there will be 2
-   more waiting for you.
+   tide.
+13)Head to the North-East after
+   getting pushed by the tide.
+14)The should be a Whirlpool.
+   After getting past this one,
+   there will be 2 more waiting
+   for you.
 15)After passing the Whirlpools,
-there's a tide. 16)Wait until it
-stops. Then move in that
-direction to get a Blue Mystery
-Data that contains a Kusamura
-Seed A. 17)Now take the tide and
-go back to where you were.
+   there's a tide.
+16)Wait until it stops. Then
+   move in that direction to get
+   a Blue Mystery Data that
+   contains a Kusamura Seed A.
+17)Now take the tide and go back
+   to where you were.
 18)Keep following the path and
-up the hill to a Blue Mystery
-Data that contains the Water
-Proof Key C. 19)Head down the
-hill and head to the right and
-enter the warp. 20)Head down the
-hill. 21)This time head South-
-East and you should come across
-2 Whirlpools. 22)Just go pass
-them and at the split, go to the
-left to get some oxygen. 23)Now
-head to the right and get on the
-first tide you see. 24)Follow
-the only path to some more
-oxygen. 25)Don't worry about the
-Whirlpool you see and head to
-the left and go up at
-   the next split.
+   up the hill to a Blue Mystery
+   Data that contains the Water
+   Proof Key C.
+19)Head down the hill and head
+   to the right and enter the
+   warp.
+20)Head down the hill.
+21)This time head South-East and
+   you should come across 2
+   Whirlpools.
+22)Just go pass them and at the
+   split, go to the left to get
+   some oxygen.
+23)Now head to the right and get
+   on the first tide you see.
+24)Follow the only path to some
+   more oxygen.
+25)Don't worry about the
+   Whirlpool you see and head to
+   the left and go up at the
+   next split.
 26)Don't get pushed by the tides
-coming up. 27)Keep following the
-path and you'll get to 2 more
-Whirlpools. 28)Follow the path
-to a Blue Mystery Data that
-contains the Water Proof key B.
-29)Take the warp. 20)Open the
-door and head to Comp 4.
+   coming up.
+27)Keep following the path and
+   you'll get to 2 more
+   Whirlpools.
+28)Follow the path to a Blue
+   Mystery Data that contains
+   the Water Proof key B.
+29)Take the warp.
+20)Open the door and head to
+   Comp 4.
 
 ----------------------
 Luxurious Ship Comp 4
@@ -3614,7 +3712,8 @@ Luxurious Ship Comp 4
 3) Wait until it stops and
    follow the path to a Blue
    Mystery Data that contains a
-   Kakuchou Memory.(E
+   Kakuchou Memory.(Expansion
+   Memory)
 4) Take the tide to another
    area.
 5) Get the oxygen in the corner
@@ -3624,7 +3723,8 @@ Luxurious Ship Comp 4
 7) Get some oxygen from the
    corner and follow the path to
    the North-West. On the way
-   are tides, but don't
+   are tides, but don't get
+   pushed by it.
 8) When you get past the two
    tides, you'll come to another
    tide. Ride on this one to
@@ -3634,36 +3734,41 @@ Luxurious Ship Comp 4
    North-West where a Whirlpool
    is waiting.
 10)Just follow the path until
-you come across another tide.
+   you come across another tide.
 11)Ride on this tide to another
-part of the area. 12)Follow the
-path North-East to encounter
-another Whirlpool. 13)From here
-keep heading to the East to get
-to another tide. On the way are
-   2 Whirlpools.
+   part of the area.
+12)Follow the path North-East to
+   encounter another Whirlpool.
+13)From here keep heading to the
+   East to get to another tide.
+   On the way are 2 Whirlpools.
 14)Pass the first tide and
-you'll come to another tide.
-This one will push you
- to the North-East. Ride on it.
+   you'll come to another tide.
+   This one will push you to the
+   North-East. Ride on it.
 15)Grab the Blue Mystery Data
-that contains a Attack +1
-(White). 16)Take the other tide
-to get back. 17)Head to the West
-and you'll come across another
-Whirlpool. 18)Follow the path
-South and you should come to
-another tide that will push
-   you to the South-East.
+   that contains a Attack +1
+   (White).
+16)Take the other tide to get
+   back.
+17)Head to the West and you'll
+   come across another
+   Whirlpool.
+18)Follow the path South and you
+   should come to another tide
+   that will push you to the
+   South-East.
 19)Follow the path to another
-tide that will push you to the
-North-East. 20)Follow the path
-to a Blue Mystery Data that
-contains the last Water Proof
-   key you will ever need.
-21)Take the warp. 22)Save.
+   tide that will push you to
+   the North-East.
+20)Follow the path to a Blue
+   Mystery Data that contains
+   the last Water Proof key you
+   will ever need.
+21)Take the warp.
+22)Save.
 23)When you're ready, head
-through.
+   through.
 
 Cut-Scene
 
@@ -3865,7 +3970,8 @@ Chg: 80 |
 Chg: 5 | Tomahawkman HP: 300
 Chp: 100 Chg: 60 |
  -------------------------------
-  Chp- Their own Chip           
+  Chp- Their own Chip Chg- Their
+  Charge Shot
 
 ================================
 4.     i. Scenario 5            
@@ -3914,7 +4020,7 @@ End Area 1
 2) Head to the North-West and
    follow the path to the West
    to a Blue Mystery Data that
-   contains a Regular
+   contains a Regular Up +2.
 3) Head to End Area 2.
 
 -----------
@@ -3947,7 +4053,7 @@ End Area 3
 3) On the way is a split, but
    just keep following the path
    to a Blue Mystery Data that
-   contains a HP Memor
+   contains a HP Memory.
 4) Now head back to the split.
 5) Follow that path to a hill.
 6) Go up the hill and head to
@@ -3958,10 +4064,10 @@ End Area 3
 9) Follow the path to another
    hill.
 10)Go down this hill and follow
-the path to the West. 11)When
-you get to a one way path, head
-North-West all the way to Area
-4.
+   the path to the West.
+11)When you get to a one way
+   path, head North-West all the
+   way to Area 4.
 
 -----------
 End Area 4
@@ -3981,7 +4087,7 @@ End Area 4
 6) At the split take the right
    path and follow it straight
    to a Blue Mystery Data that
-   contains a Spin Yel
+   contains a Spin Yellow.
 7) Head back to the split.
 8) Run to the left and you
    should see another path going
@@ -3990,14 +4096,15 @@ End Area 4
    will get you to a
    transporter.
 10)Don't take this one. Keep
-following the path to another
-transporter. 11)Take this one
-and head to the North-West to a
-hill. 12)Go up the hill and
-follow the path to a split.
+   following the path to another
+   transporter.
+11)Take this one and head to the
+   North-West to a hill.
+12)Go up the hill and follow the
+   path to a split.
 13)Head to the North-East.
 14)You should now come across a
-huge door.
+   huge door.
 
 Cut-Scene
 
@@ -4327,7 +4434,7 @@ Battle
 *******
 
 11)Talk to the Heel Navi to the
-left of Higureya's building.
+   left of Higureya's building.
 
 *******
 Battle
@@ -4336,7 +4443,7 @@ Battle
 Cut-Scene
 
 12)Head to the front of your
-house.
+   house.
 
 Cut-Scene
 
@@ -4534,19 +4641,41 @@ Chrysanthemum Room
 2) Take the Wooden Sword and
    start the 100 Man-Cut Mini
    Game. Now let me tell you
-   this. This is where most be
-   standing in the middle, an
-   every direction.(Up, Right, D
-   the Wooden Sword you just got
-   come at you. Now why do peopl
-   that's broken. The handheld s
-   Game Boy Advance is fine. Any
-   Pad is big and fat. So it act
-   move. The problem is for thos
-   and the DS Lite. Looking at t
-   move down there is a chance i
-   before that. It's hard, but j
-   took me 7 tries to do it. Luc
+   this. This is where most
+   people stop playing this
+   game. You're going to be
+   standing in the middle, and
+   these dolls are going to come
+   at you from every
+   direction.(Up, Right, Down,
+   Left) Your mission is to hit
+   them with the Wooden Sword
+   you just got. The closer you
+   get to a 100 the faster they
+   come at you. Now why do
+   people stop playing the game?
+   Simple. It's not them that's
+   broken. The handheld system
+   they are holding is broken.
+   You see the Game Boy Advance
+   is fine. Anyone who uses this
+   can beat this. The Control
+   Pad is big and fat. So it
+   actually moves in the
+   direction you want it to
+   move. The problem is for
+   those who uses the Game Boy
+   Advance SP, the DS, and the
+   DS Lite. Looking at the
+   Control Pad they are small.
+   When you try to move down
+   there is a chance it's still
+   facing the direction you were
+   facing before that. It's
+   hard, but just keep at it. I
+   did it with a DS Lite. It
+   took me 7 tries to do it.
+   Lucky #7!!!
 3) When you are done with that
    Mini Game, follow the path.
 
@@ -4618,8 +4747,10 @@ had behind.
 Example: You're running with a
 Red Ninja, and you touch a White
 Ninja. The Red
-  Ninja will stand where the Whi
-  follow you from there.
+  Ninja will stand where the
+  White Ninja was and the White
+  Ninja will follow you from
+  there.
 
 ********
 Rule #2
@@ -4653,7 +4784,8 @@ Example: You're running with 2
 White Ninjas, and you touch a
 Red Ninja. The
   White Ninja in front will stay
-  the back.
+  and the Red Ninja will follow
+  you from the back.
 
 Cut-Scene
 
@@ -4679,59 +4811,69 @@ Cut-Scene
    split.
 9) Take the transporter.
 10)Follow the path to the West.
-Then to the North to a split.
+   Then to the North to a split.
 11)Take the obvious path. First
-head to the North-East and
-follow this path to
-   a Blue Mystery Data that cont
+   head to the North-East and
+   follow this path to a Blue
+   Mystery Data that contains a
+   Rapid +1 (Pink).
 12)Head back to the split and
-take the other path to another
-trap.
+   take the other path to
+   another trap.
 
 Cut-Scene
 
 13)He can Jump!!! Follow the
-path until you see a Blue Ninja.
+   path until you see a Blue
+   Ninja.
 14)This part is a little
-confusing. Get the White Ninja
-to follow you. 15)Now head to
-the Blue Ninja to switch them.
+   confusing. Get the White
+   Ninja to follow you.
+15)Now head to the Blue Ninja to
+   switch them.
 16)Now follow the path to a Red
-Ninja. Switch them and head to
-the North-West
-   to a transporter.
+   Ninja. Switch them and head
+   to the North-West to a
+   transporter.
 17)Now follow the path back to
-where you were with the White
-Ninja. 18)Head to where the Blue
-Ninja is and switch. After
-switching head to the
-   North-East.
+   where you were with the White
+   Ninja.
+18)Head to where the Blue Ninja
+   is and switch. After
+   switching head to the North-
+   East.
 19)Switch the Blue Ninja with
-the White Ninja here. 20)Now go
-around the square thing back to
-the Blue Ninja and switch.
+   the White Ninja here.
+20)Now go around the square
+   thing back to the Blue Ninja
+   and switch.
 21)Follow the path to another
-trap.
+   trap.
 
 Cut-Scene
 
 22)Huh that looked like the same
-move the Red Ninja does. I guess
-the Red
-   Ninja can't run over water. A
-   It all makes sense...follow t
+   move the Red Ninja does. I
+   guess the Red Ninja can't run
+   over water. And the Blue
+   Ninja has cold feet at the
+   Spears. It all makes
+   sense...follow the path to a
+   Red Ninja.
 23)Follow the path to a Blue
-Ninja and switch. 24)Go around
-the square and switch again.
+   Ninja and switch.
+24)Go around the square and
+   switch again.
 25)Follow the path to a White
-Ninja. Switch with the White
-Ninja and head to
-   the North-West and follow thi
-   HP Memory.
+   Ninja. Switch with the White
+   Ninja and head to the North-
+   West and follow this path to
+   a Blue Mystery Data that
+   contains a HP Memory.
 26)Head back and switch with the
-Red Ninja and head to the North-
-East to the
-   final trap of this area.
+   Red Ninja and head to the
+   North-East to the final trap
+   of this area.
 
 Cut-Scene
 
@@ -4757,92 +4899,105 @@ Cut-Scene
 7) Head South without touching
    any Ninjas on the way. There
    should be a Blue Mystery Data
-   here that contai
+   here that contains a Regular
+   Up +2.
 8) You should also see a Blue
    Ninja right by you. Touch him
    and head to the South to
-   switch with a Red Ni
+   switch with a Red Ninja.
 9) Now head to the North-East to
    another Blue Ninja. Switch
    again and follow the path to
    a White Ninja.
 10)Switch with this White Ninja
-and take the transporter.
+   and take the transporter.
 11)Head back to where you left
-the Red Ninja. 12)Switch again
-and follow the path to the Blue
-Ninja. Switch and head to the
-   East to the transporter here.
+   the Red Ninja.
+12)Switch again and follow the
+   path to the Blue Ninja.
+   Switch and head to the East
+   to the transporter here.
 13)Now switch again with the Red
-Ninja. Now you should have the
-Red Ninja in
-   the end.
+   Ninja. Now you should have
+   the Red Ninja in the end.
 14)Follow the path to a trap.
 
 Cut-Scene
 
 15)Now follow the path to a
-split.(Not the one with the
-transporter) 16)Follow the path
-which ever way you want to a
-Blue Ninja. 17)Now head to the
-left transporter. 18)Head to the
-North-West to pass the Red
-Ninjas and head to the South
-from
-   here to get to a trap.
+   split.(Not the one with the
+   transporter)
+16)Follow the path which ever
+   way you want to a Blue Ninja.
+17)Now head to the left
+   transporter.
+18)Head to the North-West to
+   pass the Red Ninjas and head
+   to the South from here to get
+   to a trap.
 
 Cut-Scene
 
 19)Take the White Ninja here to
-the North to a transporter.
+   the North to a transporter.
 20)You should soon meet with a
-Red Ninja. Switch. 21)Follow the
-path to another transporter.
+   Red Ninja. Switch.
+21)Follow the path to another
+   transporter.
 22)Head South and take the
-transporter. 23)Remember this
-place? Well head to the left
-transporter again. 24)Take the
-transporter in the North.
+   transporter.
+23)Remember this place? Well
+   head to the left transporter
+   again.
+24)Take the transporter in the
+   North.
 25)Follow the path back to the
-White Ninja. Switch once again.
+   White Ninja. Switch once
+   again.
 26)Head to the transporter and
-head to the East around the Red
-Ninjas and head
-   to the North to another trap.
+   head to the East around the
+   Red Ninjas and head to the
+   North to another trap.
 
 Cut-Scene
 
 27)Follow the path to a
-transporter. 28)Follow the path
-to a Blue Mystery Data that
-contains a Mega Energy Bomb C.
+   transporter.
+28)Follow the path to a Blue
+   Mystery Data that contains a
+   Mega Energy Bomb C.
 29)Now head back to the place
-after the trap. 30)Follow the
-path and head to the South to a
-Red Ninja. 31)Head to the East
-and switch with the Blue Ninja.
+   after the trap.
+30)Follow the path and head to
+   the South to a Red Ninja.
+31)Head to the East and switch
+   with the Blue Ninja.
 32)Head to the North-East and
-switch with the White Ninja.
+   switch with the White Ninja.
 33)Head to the West then to the
-South to switch with the Red
-Ninja. 34)Now head to the South-
-East to encounter another White
-Ninja. 35)Switch and head to the
-North to switch with the Blue
-Ninja. 36)Head back to where the
-Red Ninja is and switch. 37)Now
-head South-East to find another
-Red Ninja. 38)There should be 2
-Red Ninjas following you now.
-Head to the North and
-   follow the path to the last t
+   South to switch with the Red
+   Ninja.
+34)Now head to the South-East to
+   encounter another White
+   Ninja.
+35)Switch and head to the North
+   to switch with the Blue
+   Ninja.
+36)Head back to where the Red
+   Ninja is and switch.
+37)Now head South-East to find
+   another Red Ninja.
+38)There should be 2 Red Ninjas
+   following you now. Head to
+   the North and follow the path
+   to the last trap of this
+   area.
 
 Cut-Scene
 
 39)That is so cool!!! Follow the
-path to Area 3. Getting a
-Headache yet?
+   path to Area 3. Getting a
+   Headache yet?
 
 ------------------
 Shachihoko Comp 3
@@ -4865,8 +5020,10 @@ Shachihoko Comp 3
 6) Head to the South-East until
    you see a White Ninja. Take
    him and follow the path to a
-   Blue Mystery Data t where you
-   got the White Ninja
+   Blue Mystery Data that
+   contains a HP +100 (Pink).
+   Head back to where you got
+   the White Ninja.
 7) Take the transporter facing
    to the South-West to a Red
    Ninja. Switch.
@@ -4876,73 +5033,82 @@ Shachihoko Comp 3
    the transporter. Back to
    where we started.
 10)Head to the left and switch
-with the White Ninja. 11)Follow
-the path to the South-East to
-switch with a Red Ninja. 12)Head
-back to the other Red Ninja. Now
-you should have 2 Red Ninjas
-with you
-   for your hard work.
+   with the White Ninja.
+11)Follow the path to the South-
+   East to switch with a Red
+   Ninja.
+12)Head back to the other Red
+   Ninja. Now you should have 2
+   Red Ninjas with you for your
+   hard work.
 13)Head back to where all those
-transporters are without
-touching any other
-   Ninjas on the way.
+   transporters are without
+   touching any other Ninjas on
+   the way.
 14)Head to where that White
-Ninja is. 15)This time take the
-transporter facing to the North-
-East. 16)Head to the North-West
-while passing other Ninjas to
-get to a trap.
+   Ninja is.
+15)This time take the
+   transporter facing to the
+   North-East.
+16)Head to the North-West while
+   passing other Ninjas to get
+   to a trap.
 
 Cut-Scene
 
 17)At the split take the path
-heading to the South and follow
-the path to a
-   trap.
+   heading to the South and
+   follow the path to a trap.
 18)It seems we need 2 Blue
-Ninjas. Follow the path right
-next to you to a
-   split.
+   Ninjas. Follow the path right
+   next to you to a split.
 19)Take the middle path to a
-White Ninja. 20)Head East at the
-next split to a Red Ninja.
-Switch. 21)Take the transporter.
+   White Ninja.
+20)Head East at the next split
+   to a Red Ninja. Switch.
+21)Take the transporter.
 22)Follow the path to the West
-to a White Ninja. Switch.
+   to a White Ninja. Switch.
 23)Switch with the Red One to
-the left. 24)Now head South to
-come back to the split. 25)Head
-to the East to the White Ninja.
-Switch. 26)Take the transporter.
+   the left.
+24)Now head South to come back
+   to the split.
+25)Head to the East to the White
+   Ninja. Switch.
+26)Take the transporter.
 27)Follow the other path to a
-trap.
+   trap.
 
 Cut-Scene
 
 28)To the South of the trap is a
-Blue Mystery Data that contains
-a HP Memory. 29)Head to the
-North to get a Blue Ninja.
+   Blue Mystery Data that
+   contains a HP Memory.
+29)Head to the North to get a
+   Blue Ninja.
 30)Now head back to the trap and
-follow the path to the Red
-Ninja. Switch. 31)Switch with
-the White Ninja right next to
-you. 32)Now head South to come
-back to the split. 33)Head to
-the East to the Red Ninja.
-Switch. 34)Take the transporter.
+   follow the path to the Red
+   Ninja. Switch.
+31)Switch with the White Ninja
+   right next to you.
+32)Now head South to come back
+   to the split.
+33)Head to the East to the Red
+   Ninja. Switch.
+34)Take the transporter.
 35)Follow the path to the West
-to switch with the Blue Ninja.
+   to switch with the Blue
+   Ninja.
 36)Take the transporter right
-next to you. 37)From where you
-are standing head to the South-
-West and follow the path to a
+   next to you.
+37)From where you are standing
+   head to the South-West and
+   follow the path to a
    transporter.
 38)Take it and take the other
-Blue Ninja to get 2 Blue Ninjas
-following you. 39)Head back to
-the trap.
+   Blue Ninja to get 2 Blue
+   Ninjas following you.
+39)Head back to the trap.
 
 Cut-Scene
 
@@ -4980,134 +5146,144 @@ screwed.
 9) Swap with the Red Ninja and
    take the transporter.
 10)Take the other path you
-didn't take to a area with a
-White Ninja and a Blue
-   Ninja.
+   didn't take to a area with a
+   White Ninja and a Blue Ninja.
 11)Swap with the White Ninja.
 12)Now swap with the Blue Ninja
-heading to the North-East.
+   heading to the North-East.
 13)Now go switch the Blue Ninja
-with the Red Ninja. 14)Keep
-following the path to another
-area with a White Ninja and a
-Blue Ninja
+   with the Red Ninja.
+14)Keep following the path to
+   another area with a White
+   Ninja and a Blue Ninja
    waiting.
 15)Switch with the White Ninja.
 16)Now take the transporter in
-the middle and switch back with
-the Red Ninja. 17)Follow the
-path to the South to get to
-another Red Ninja. Now you have
-2. 18)Take the other path to a
-transporter. 19)Head to the
-North-East until you get to a
-Blue Ninja. 20)Run around him
-and keep heading to the North-
-East. 21)At the last corner,
-turn to get your 3rd Red Ninja.
+   the middle and switch back
+   with the Red Ninja.
+17)Follow the path to the South
+   to get to another Red Ninja.
+   Now you have 2.
+18)Take the other path to a
+   transporter.
+19)Head to the North-East until
+   you get to a Blue Ninja.
+20)Run around him and keep
+   heading to the North-East.
+21)At the last corner, turn to
+   get your 3rd Red Ninja.
 22)Run back to where the Blue
-Ninja is. 23)Head to the West
-directly from there to get to a
-trap.
+   Ninja is.
+23)Head to the West directly
+   from there to get to a trap.
 
 Cut-Scene
 
 24)Wow...follow the path to a
-long transporter. 25)Follow the
-path to see a trap. That's the
-last trap you have to get
-through
-   just so you know. Now take th
-   transporter.
+   long transporter.
+25)Follow the path to see a
+   trap. That's the last trap
+   you have to get through just
+   so you know. Now take the
+   path to the left and follow
+   it to a transporter.
 26)Follow the path to a split.
 27)Take the North-West path and
-head South at the split. 28)Keep
-following the path to a
-transporter without touching any
-of the Ninjas
-   around you.
+   head South at the split.
+28)Keep following the path to a
+   transporter without touching
+   any of the Ninjas around you.
 29)Head South-West and then to
-the North-West to a White Ninja.
-Make him
-   follow you.
+   the North-West to a White
+   Ninja. Make him follow you.
 30)Head to the South-East. There
-should be a Red Ninja and a
-transporter here. 31)Head to the
-South-West and switch with the
-Red Ninja. 32)Go around the
-square to switch with the White
-Ninja. 33)Head to the West to a
-transporter. 34)Follow the path
-to a Red Ninja. Switch. 35)Head
-to the West to a Blue Mystery
-Data that contains an Iai Form
-R. 36)Head back to the White
-Ninja and switch. 37)Follow the
-path to the East then to the
-South to meet your last White
-Ninja
-   in your life. Unless you're g
+   should be a Red Ninja and a
+   transporter here.
+31)Head to the South-West and
+   switch with the Red Ninja.
+32)Go around the square to
+   switch with the White Ninja.
+33)Head to the West to a
+   transporter.
+34)Follow the path to a Red
+   Ninja. Switch.
+35)Head to the West to a Blue
+   Mystery Data that contains an
+   Iai Form R.
+36)Head back to the White Ninja
+   and switch.
+37)Follow the path to the East
+   then to the South to meet
+   your last White Ninja in your
+   life. Unless you're going to
+   play again.
 38)Head back a corner to the
-trap.
+   trap.
 
 Cut-Scene
 
 39)Man they know how to jump.
-Touch the Blue Ninja to make him
-follow you. 40)Head back to
-where the Iai Form was.
+   Touch the Blue Ninja to make
+   him follow you.
+40)Head back to where the Iai
+   Form was.
 41)Switch with the Red Ninja and
-run around the square to switch
-again. 42)Take the next
-transporter you see. 43)Follow
-the path and switch with the Red
-Ninja. Now switch again by
-running
+   run around the square to
+   switch again.
+42)Take the next transporter you
+   see.
+43)Follow the path and switch
+   with the Red Ninja. Now
+   switch again by running
    around the square.
 44)Head to the North-East to an
-area with a transporter and a
-Red Ninja. 45)Go North-East from
-there to another area with a
-transporter with a Red
-   Ninja.
+   area with a transporter and a
+   Red Ninja.
+45)Go North-East from there to
+   another area with a
+   transporter with a Red Ninja.
 46)To the right of the Red Ninja
-is a path that takes you to
-another Blue
-   Ninja. That's 2 Blue Ninjas.
+   is a path that takes you to
+   another Blue Ninja. That's 2
+   Blue Ninjas.
 47)Head back to the area with
-the transporter and the Red
-Ninja. Head to the
-   North-West from here to a tra
+   the transporter and the Red
+   Ninja. Head to the North-West
+   from here to a transporter.
 48)Take the one that heads to
-the North-East. Follow the path
-to the
-   North-West to the last Blue N
+   the North-East. Follow the
+   path to the North-West to the
+   last Blue Ninja.
 49)Head to the transporter to
-the East from here. 50)Follow to
-the East more to another
-transporter. 51)Head to the
-trap.
+   the East from here.
+50)Follow to the East more to
+   another transporter.
+51)Head to the trap.
 
 Cut-Scene
 
 52)Stop. You now have a choice.
-You can keep following my guide
-to go get a
-   Regular Up +2, or you can jus
-   that Regular Up +2 if I were 
+   You can keep following my
+   guide to go get a Regular Up
+   +2, or you can just follow
+   the path. Your choice. I
+   would go get that Regular Up
+   +2 if I were you.
 53)Remember where you got the
-2nd Blue Ninja? Head there. Oh
-no more Ninjas. 54)Now from
-there head to the North-West to
-a transporter. Don't take the
-   first one you see. There's an
+   2nd Blue Ninja? Head there.
+   Oh no more Ninjas.
+54)Now from there head to the
+   North-West to a transporter.
+   Don't take the first one you
+   see. There's another one more
+   to the West.
 55)Head to the West to a Blue
-Mystery Data that contains the
-Regular Up +2. 56)Now head back
-to the trap that we just
-finished. 57)Save. Follow the
-newly opened path. Finally we're
-done!!!
+   Mystery Data that contains
+   the Regular Up +2.
+56)Now head back to the trap
+   that we just finished.
+57)Save. Follow the newly opened
+   path. Finally we're done!!!
 
 Cut-Scene
 
@@ -5304,7 +5480,8 @@ Chp: 100 Chg: 60 |
 Chg: 10 | Numberman HP: 300 Chp:
 120 Chg: 10 |
  -------------------------------
-  Chp- Their own Chip           
+  Chp- Their own Chip Chg- Their
+  Charge Shot
 
 ================================
 4.     k. Scenario 6            
@@ -5872,24 +6049,31 @@ Save often.
    transporter.
 9) Go up the hill and follow the
    path down another hill.
-10)Then another hill. 11)You now
-have a choice. You can get a
-Blue Mystery Data, but you'll
-have to
-   repeat steps 4~10 again. I wo
-   Then follow the path to a Blu
-   (White). Worth it? Now take t
-   steps 4~10 again.
+10)Then another hill.
+11)You now have a choice. You
+   can get a Blue Mystery Data,
+   but you'll have to repeat
+   steps 4~10 again. I would do
+   it. If you are take the
+   transporter. Then follow the
+   path to a Blue Mystery Data
+   that contains a Soul Time +1
+   (White). Worth it? Now take
+   the transporter right next to
+   you and repeat steps 4~10
+   again.
 12)Follow the path and up
-another hill. 13)Then another.
-14)Take the transporter. 15)Go
-down the next hill. 16)Go up the
-next hill you see to a Blue
-Mystery Data that contains a
-   HP Memory.
+   another hill.
+13)Then another.
+14)Take the transporter.
+15)Go down the next hill.
+16)Go up the next hill you see
+   to a Blue Mystery Data that
+   contains a HP Memory.
 17)Now head back to the
-transporter. 18)Go up the hill
-to the left to Ura Internet 2.
+   transporter.
+18)Go up the hill to the left to
+   Ura Internet 2.
 
 ---------------
 Ura Internet 2
@@ -5901,7 +6085,7 @@ Ura Internet 2
 3) Head to the West from here to
    a path that leads you to a
    Blue Mystery Data that
-   contains a Regular Up +3
+   contains a Regular Up +3.
 4) Head back to where the warp
    is.
 5) Now head to the North to
@@ -5917,14 +6101,15 @@ Ura Internet 2
    V.
 9) Now head back to the warp.
 10)Follow the path to another
-warp. 11)Go up the hill and
-follow the path to go down a
-hill. 12)Head to the East and
-there should be a Heel Navi
-nearby. 13)Talk to him and buy
-Roll DS R for 3000 Zennys.
+   warp.
+11)Go up the hill and follow the
+   path to go down a hill.
+12)Head to the East and there
+   should be a Heel Navi nearby.
+13)Talk to him and buy Roll DS R
+   for 3000 Zennys.
 14)Follow the path to the North
-to Ura Internet 3.
+   to Ura Internet 3.
 
 ---------------
 Ura Internet 3
@@ -5953,8 +6138,8 @@ Ura Internet 3
    transporter.
 10)Follow the path to a hill.
 11)Save. Go up the hill and
-follow the path when you're
-ready.
+   follow the path when you're
+   ready.
 
 Cut-Scene
 
@@ -6019,7 +6204,7 @@ Boss- Toadman
 Cut-Scene
 
 12)Save. Now head through to Ura
-Internet 4.
+   Internet 4.
 
 ================================
 4. l. Liberate Mission 6 Lbm6
@@ -6119,7 +6304,8 @@ Chg: 10 | Numberman HP: 350 Chp:
 Toadman HP: 300 Chp: 100 Chg: 80
 |
  -------------------------------
-  Chp- Their own Chip           
+  Chp- Their own Chip Chg- Their
+  Charge Shot
 
 ================================
 4.     m. Scenario 7            
@@ -6372,7 +6558,7 @@ Shachihoko Comp 1
 1) Ahh we're back here again.
    Head to Shachihoko Comp 4. It
    should be easy now because
-   there's no Ninjas and
+   there's no Ninjas and traps.
 
 Shachihoko Comp 1 >>> Shachihoko
 Comp 2 >>> Shachihoko Comp 3 >>>
@@ -6454,7 +6640,7 @@ Shachihoko Castle's HP
 2) After taking the transporter,
    talk to the Program Dude to
    your left to get the
-   Shachihoko Castle's Banne
+   Shachihoko Castle's Banner.
 3) Now head South to get to a
    warp.
 
@@ -6571,7 +6757,7 @@ Past Vision Kagakushou
 1) Examine the stuff in the
    South Corner to get a Regular
    Up +1. I know we came all the
-   way here just fo
+   way here just for this.
 2) Get out of here.
 
 ------------------
@@ -6713,41 +6899,49 @@ Cut-Scene
 9) Now follow the left path to
    where the Blue Door was.
 10)Follow the path to where the
-transporters are. 11)Rockman
-went left. You're going right.
-Follow the path to another
-Cannon.
-   On the way is a Blue Mystery 
+   transporters are.
+11)Rockman went left. You're
+   going right. Follow the path
+   to another Cannon. On the way
+   is a Blue Mystery Data that
+   contains a Mega Cannon F.
 
 Cut-Scene
 
-12)Step on the switch. 13)Switch
-to Rockman. Head back to where
-the transporters are. 14)Take
-the next transporter. 15)Take
-the left path and follow the
-path to the South-West to get to
-a Blue
-   Mystery Data that contains a 
+12)Step on the switch.
+13)Switch to Rockman. Head back
+   to where the transporters
+   are.
+14)Take the next transporter.
+15)Take the left path and follow
+   the path to the South-West to
+   get to a Blue Mystery Data
+   that contains a HP Memory.
 16)Head back to where the
-transporters are. 17)This time
-take the right path and follow
-it to another switch. 18)Step on
-it. 19)Switch to
-Magnetman/Knightman. Head to the
-door that Rockman just unlocked.
+   transporters are.
+17)This time take the right path
+   and follow it to another
+   switch.
+18)Step on it.
+19)Switch to
+   Magnetman/Knightman. Head to
+   the door that Rockman just
+   unlocked.
 20)Follow the path to the
-transporters. 21)Head to the
-left path and follow it to a
-split. 22)Take the North-West
-path to a Cannon.
+   transporters.
+21)Head to the left path and
+   follow it to a split.
+22)Take the North-West path to a
+   Cannon.
 
 Cut-Scene
 
-23)Step on the switch. 24)Switch
-to Rockman. 25)Head to where the
-transporters are. 26)Save. When
-you're ready head through.
+23)Step on the switch.
+24)Switch to Rockman.
+25)Head to where the
+   transporters are.
+26)Save. When you're ready head
+   through.
 
 Cut-Scene
 
@@ -6825,44 +7019,51 @@ Cut-Scene
    Head back to where you
    started this area.
 10)Now take the left path and
-follow it to a split. 11)Take
-the left path and head to the
-West to a Blue Mystery Data that
-   contains a Oil Body (Red).
+   follow it to a split.
+11)Take the left path and head
+   to the West to a Blue Mystery
+   Data that contains a Oil Body
+   (Red).
 12)Now head to the North to
-another Cloud.
+   another Cloud.
 
 Cut-Scene
 
-13)Step on the switch. 14)Switch
-to Rockman. Head back to where
-the transporters are. 15)Take
-the transporter then the next
-one. 16)Take the right path and
-follow it all the way to the
-North. 17)Now head to the East
-from there and follow the path
-to a switch and step on
-   it.
+13)Step on the switch.
+14)Switch to Rockman. Head back
+   to where the transporters
+   are.
+15)Take the transporter then the
+   next one.
+16)Take the right path and
+   follow it all the way to the
+   North.
+17)Now head to the East from
+   there and follow the path to
+   a switch and step on it.
 18)Switch to Gyroman/Shadowman.
-Now follow the path and go down
-the hill. 19)Head to where
-Rockman is. Before the path that
-leads you to him is another
-   path with a hill going up.
+   Now follow the path and go
+   down the hill.
+19)Head to where Rockman is.
+   Before the path that leads
+   you to him is another path
+   with a hill going up.
 20)Go up the hill to another
-Cloud.
+   Cloud.
 
 Cut-Scene
 
-21)Step on the switch. 22)Switch
-to Rockman. Take the
-transporter. 23)Head to where
-the transporters are. 24)Follow
-the other path and follow it to
-another transporter. 25)Take it
-and Save. 26)When you're ready
-head through.
+21)Step on the switch.
+22)Switch to Rockman. Take the
+   transporter.
+23)Head to where the
+   transporters are.
+24)Follow the other path and
+   follow it to another
+   transporter.
+25)Take it and Save.
+26)When you're ready head
+   through.
 
 Cut-Scene
 
@@ -6932,7 +7133,7 @@ Cut-Scene
    going to call the
    transporters in the middle
    the main transporters, so
-   it'll b
+   it'll be easier to navigate.
 6) Head to the left to another
    door.
 
@@ -6947,60 +7148,68 @@ Cut-Scene
 
 9) Step on the switch.
 10)Switch to Rockman. Now head
-foward. 11)Head to the same way
-Searchman/Numberman took.
+   foward.
+11)Head to the same way
+   Searchman/Numberman took.
 12)Grab the Blue Mystery Data
-that's at the end of the path to
-get a HP Memory
-   that will help you.
+   that's at the end of the path
+   to get a HP Memory that will
+   help you.
 13)Now head back to where the
-main transporters are. 14)Head
-to the right and take the 3rd
-path. 15)Take the transporter to
-the North-East. 16)Follow the
-path to a switch and step on it.
+   main transporters are.
+14)Head to the right and take
+   the 3rd path.
+15)Take the transporter to the
+   North-East.
+16)Follow the path to a switch
+   and step on it.
 17)Switch to
-Napalmmman/Tomahawkman. Follow
-the path to where the main
-   transporters are.
+   Napalmmman/Tomahawkman.
+   Follow the path to where the
+   main transporters are.
 18)Take the transporter.
 19)Follow the path to a split.
 20)Keep heading East to get to a
-Blue Mystery Data that contains
-a
-   Aka Tsunami Hole A.
+   Blue Mystery Data that
+   contains a Aka Tsunami Hole
+   A.
 21)Head back to the split.
 22)Take the North-East path to a
-door.
+   door.
 
 Cut-Scene
 
 23)Switch to Rockman. Head back
-to where the main transporter
-is. 24)Take the transporter and
-head to the West and take the
-transporter here. 25)Take the
-left path and follow it to a
-switch. Step on it. 26)Switch to
-Searchman/Numberman. Follow the
-path to a door.
+   to where the main transporter
+   is.
+24)Take the transporter and head
+   to the West and take the
+   transporter here.
+25)Take the left path and follow
+   it to a switch. Step on it.
+26)Switch to
+   Searchman/Numberman. Follow
+   the path to a door.
 
 Cut-Scene
 
-27)Step on the switch. 28)Switch
-to Napalmman/Tomahawkman. Follow
-the path that just opened to the
-   North.
+27)Step on the switch.
+28)Switch to
+   Napalmman/Tomahawkman. Follow
+   the path that just opened to
+   the North.
 29)Then to the West to a door.
 
 Cut-Scene
 
-30)Step on the switch. 31)Switch
-to Rockman. Take the transporter
-above you. 32)Then head to the
-middle path at the split and
-take the transporter. 33)Save.
-When you're ready head through.
+30)Step on the switch.
+31)Switch to Rockman. Take the
+   transporter above you.
+32)Then head to the middle path
+   at the split and take the
+   transporter.
+33)Save. When you're ready head
+   through.
 
 Cut-Scene
 
@@ -7069,72 +7278,81 @@ Cut-Scene
 8) Step on it.
 9) Switch to Blues/Colonel.
 10)Head to the transporter
-that's under where the Mystery
-Data was. 11)Take it and follow
-the path to a switch. 12)Step on
-it. 13)Switch to Medi/Toadman.
+   that's under where the
+   Mystery Data was.
+11)Take it and follow the path
+   to a switch.
+12)Step on it.
+13)Switch to Medi/Toadman.
 14)Take the transporter. Get
-close to that toxic looking
-door.
+   close to that toxic looking
+   door.
 
 Cut-Scene
 
-15)Step on the switch. 16)Switch
-to Rockman. 17)Head through the
-transporter. Then the next one.
+15)Step on the switch.
+16)Switch to Rockman.
+17)Head through the transporter.
+   Then the next one.
 18)Switch to Blues/Colonel. Take
-the transporter here.
+   the transporter here.
 19)Remember seeing a hill on the
-way here? Head there. It's to
-the South. 20)Go up the hill and
-down the hill. 21)Head to the
-North-East to a door.
+   way here? Head there. It's to
+   the South.
+20)Go up the hill and down the
+   hill.
+21)Head to the North-East to a
+   door.
 
 Cut-Scene
 
-22)Step on the switch. 23)Switch
-to Medi/Toadman. Head to where
-Blues/Colonel is. 24)On the way
-is another path that takes you
-to a Blue Mystery Data that
-   contains a Sub Memory.
+22)Step on the switch.
+23)Switch to Medi/Toadman. Head
+   to where Blues/Colonel is.
+24)On the way is another path
+   that takes you to a Blue
+   Mystery Data that contains a
+   Sub Memory.
 25)Now head to the hill that
-Blues/Colonel went down from.
+   Blues/Colonel went down from.
 26)Go up the hill then down the
-hill. 27)Follow the path that
-Blues/Colonel went the first
-time. 28)To the right of the
-door that Blues/Colonel cut down
-is the toxic door.
+   hill.
+27)Follow the path that
+   Blues/Colonel went the first
+   time.
+28)To the right of the door that
+   Blues/Colonel cut down is the
+   toxic door.
 
 Cut-Scene
 
-29)Step on the switch. 30)Switch
-to Rockman. Take the
-transporter. 31)Step on the
-switch. 32)Switch to
-Blues/Colonel and head to the
-left path that takes you to
-where
-   Rockman is.
+29)Step on the switch.
+30)Switch to Rockman. Take the
+   transporter.
+31)Step on the switch.
+32)Switch to Blues/Colonel and
+   head to the left path that
+   takes you to where Rockman
+   is.
 33)Head foward and take a left
-at the split to a door.
+   at the split to a door.
 
 Cut-Scene
 
-34)Step on the switch. 35)Switch
-to Medi/Toadman and head to the
-right path that takes you to
-where
-   Rockman is.
+34)Step on the switch.
+35)Switch to Medi/Toadman and
+   head to the right path that
+   takes you to where Rockman
+   is.
 36)Head foward and take a right
-at the split to the last door.
+   at the split to the last
+   door.
 
 Cut-Scene
 
 37)Switch to Rockman and Save.
 38)When you're ready head
-foward.
+   foward.
 
 Cut-Scene
 
@@ -7181,7 +7399,7 @@ Experiment Server Comp
 1) Head to the North to a Purple
    Mystery Data. You should have
    one more Open Lock. Open it
-   for a Doro
+   for a Doro Tsunami Hole D.
 2) Now talk to the Navi on the
    floor.
 3) Plug-Out.
@@ -7496,9 +7714,9 @@ Ura Internet 3
    South-West to another
    transporter.
 10)Take it and follow the path
-to another transporter. 11)Take
-it and follow the path to Ura
-Internet 2.
+   to another transporter.
+11)Take it and follow the path
+   to Ura Internet 2.
 
 ---------------
 Ura Internet 2
@@ -7607,7 +7825,8 @@ Chp: 120 Chg: 80 |
 Chg: 15 | Numberman HP: 450 Chp:
 140 Chg: 20 |
  -------------------------------
-  Chp- Their own Chip           
+  Chp- Their own Chip Chg- Their
+  Charge Shot
 
 ================================
 6. b. Nebula Hole Area 2 Nha2
@@ -7654,31 +7873,33 @@ Nebula Hole Area 2
 8) Enter the warp.
 9) Follow the path to a split.
 10)Head to the East and follow
-the path to Blue Mystery Data
-that contains a
-   Recovery 300 Y.
+   the path to Blue Mystery Data
+   that contains a Recovery 300
+   Y.
 11)Now head back and follow the
-other path to a warp. 12)Alright
-now to the South-West path is a
-Purple Mystery Data that
-contains
-   a Death Match 3 A.
+   other path to a warp.
+12)Alright now to the South-West
+   path is a Purple Mystery Data
+   that contains a Death Match 3
+   A.
 13)Right next to the warp is a
-split. The right path will take
-you to a warp
-   that will take you to the Net
-   Area 3.
+   split. The right path will
+   take you to a warp that will
+   take you to the Net Merchant.
+   The left path will take you
+   to Area 3.
 14)When you're done getting the
-Purple Mystery Data or done
-shopping with the
-   Net Merchant, head to the lef
+   Purple Mystery Data or done
+   shopping with the Net
+   Merchant, head to the left
+   path and head through the
+   warp.
 15)Follow the path to a split.
 16)Take the right path and
-follow it to a door. 17)If you
-have at least 140 Standard Chips
-the door will open. If not go
-get
-   them.
+   follow it to a door.
+17)If you have at least 140
+   Standard Chips the door will
+   open. If not go get them.
 
 ================================
 6. c. Liberate Mission 8 Lbm8
@@ -7696,17 +7917,23 @@ Target Clear Phase- 14
   _|_|X|X|X|_|_|X|_|           |
   |_|X|X|X|D|1|X|X|_|          _
   |_|1|X|G|X|T|X|B|X|         |_
-   |X|_|X| |1|X|X|X|        _|1|
+   |X|_|X| |1|X|X|X| _|1|1|1|
+   _|X|X|X|X|_ |X|X|X|
    |X|X|     |_|X|3|       |X|X|
-  _|X|X|     |X|X|_ _   _|X|W|W|
-  |_|_|_|     |_|X|X|X|_|X|W|W|M
-  |START|     |_|X|1|X|_|X|W|W|B
-   | |       |1|X|X|R|X|X|W|W|M|
+  _|X|X| |X|X|_ _ _|X|W|W|W|_
+  |X|3|R|D|2|X|P| |_| |_|_|_|
+  |_|X|X|X|_|X|W|W|M|M|M|_
+  |X|X|X|X|X|X| |_| |START|
+  |_|X|1|X|_|X|W|W|B|D|M|P|
+  |X|X|X|M|X|_ |_|
+   | | |1|X|X|R|X|X|W|W|M|M|M| _
+   |_|_|X|X|X| |_|
   _| |_        |X|X|D|X|X|_|W|W|
   \   /         _|X|X|X|_  |_|_|
    \ /      _ _|W|H|X|X|P| |_|  
      |I|W|T|W|W|X|              
-     |X| |W|W|Z|X|              
+     |X| |W|W|Z|X| Boss-
+     Cloudman V3
       |_|_|                     
 
 X- Dark Panel P- Bonus Panel M-
@@ -7768,7 +7995,8 @@ Chg: 15 | Numberman HP: 550 Chp:
 | Toadman HP: 500 Chp: 100 Chg:
 80 |
  -------------------------------
-  Chp- Their own Chip           
+  Chp- Their own Chip Chg- Their
+  Charge Shot
 
 ================================
 6. d. Nebula Hole Area 4 Nha4
@@ -7943,7 +8171,8 @@ guide at the end of the Area.
 5) Take the bottom path and
    follow the obvious path to
    Door #3. You'll have to open
-   this door to move on fro
+   this door to move on from
+   here.
 6) Follow the path after opening
    Door #3 to Door #4.
 7) Follow the bottom path to a
@@ -7953,19 +8182,21 @@ guide at the end of the Area.
    You must open this door to
    move on.
 10)You can just head straight to
-Door #6. 11)You can go up the
-hill to the right to Door #7.
+   Door #6.
+11)You can go up the hill to the
+   right to Door #7.
 12)To get to Door #8, you must
-open Door #7. Then take the
-transporter and
-   take the upper path at the sp
+   open Door #7. Then take the
+   transporter and take the
+   upper path at the split.
+   Follow it to Door #8.
 13)Now if you didn't go anywhere
-during Steps 10,11,12 then head
-to the left
-   and take the transporter to A
+   during Steps 10,11,12 then
+   head to the left and take the
+   transporter to Area 5.
 14)You should Save here because
-the next Liberate Mission is
-hard to beat.
+   the next Liberate Mission is
+   hard to beat.
 
 ================================
 6. e. Liberate Mission 9 Lbm9
@@ -8061,7 +8292,8 @@ Chg: 100 |
 | Toadman HP: 600 Chp: 100 Chg:
 80 |
  -------------------------------
-  Chp- Their own Chip           
+  Chp- Their own Chip Chg- Their
+  Charge Shot
 
 ================================
 6. f. Nebula Hole Area 6 Nha6
@@ -8191,8 +8423,7 @@ Lord of Chaos will be |
 | 03:00:01 or over | Nebula Grey
 V3 |
 --------------------------------
-| 02:00:00 ~ 03:00:00 | Forte V3
-|
+| 02:00:00 ~ 03:00:00         | 
 --------------------------------
 | 02:00:00 or under | Dark
 Rockman |
@@ -8988,9 +9219,9 @@ Credits:
 --------------------------------
 
 To the Battle Master's Bible
- Rockman Exe 5
- Team of Blues
- Team of Colonel                
+ Rockman Exe 5 Team of Blues
+ Team of Colonel : For most of
+ things in this guide
 such as items, chips, enemy HPs,
        attacks and souls.
 
