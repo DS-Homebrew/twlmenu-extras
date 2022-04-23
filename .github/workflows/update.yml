@@ -9,19 +9,12 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
-    container: devkitpro/devkitarm
+    container: universalteam/db
 
     steps:
     - uses: actions/checkout@v3
       with:
         fetch-depth: 0
-    
-    - name: Install packages
-      run: |
-        echo deb http://deb.debian.org/debian stable main contrib non-free >> /etc/apt/sources.list
-        sudo apt-get update
-        sudo apt-get install python3-pip -y
-        pip3 install -r requirements.txt
 
     - name: Delete old pages
       run: rm -rf docs/_nintendo-3ds/* docs/_nintendo-dsi/* docs/_r4-original/* docs/_wood-ui/* docs/_unlaunch/* docs/nintendo-3ds/category/* docs/nintendo-dsi/category/* docs/r4-original/category/* docs/wood-ui/category/* docs/unlaunch/category/*
