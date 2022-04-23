@@ -1,5 +1,5 @@
 ---
-author: Allixter
+author: Allinxter
 category:
 - nds
 - ace-attorney
