@@ -207,7 +207,7 @@
 		"categories": ["gba", "mario"]
 	},
 	"Metroid Fusion": {
-		"title": "Metroid Fusiom",
+		"title": "Metroid Fusion",
 		"author": "NandoLawson",
 		"categories": ["gba", "metroid"]
 	},
@@ -221,49 +221,49 @@
 		"author": "NandoLawson",
 		"categories": ["gba", "zelda"]
 	},
-	"beebzDS": {
+	"beebzDS.nds": {
 		"title": "beebzDS",
 		"author": "spellboundtriangle",
 		"categories": ["nds", "homebrew"]
 	},
-	"moonshineDS": {
+	"moonshineDS.nds": {
 		"title": "moonshineDS",
 		"author": "spellboundtriangle",
 		"categories": ["nds", "homebrew", "mario"]
 	},
 	"AceAttorney": {
 		"title": "Phoenix Wright: Ace Attorney",
-		"author": "Allixter",
+		"author": "Allinxter",
 		"categories": ["nds", "ace-attorney", "phoenix", "wright"]
 	},
 	"AceAttorneyI": {
 		"title": "Ace Attorney Investigations: Miles Edgeworth",
-		"author": "Allixter",
+		"author": "Allinxter",
 		"categories": ["nds", "ace-attorney", "miles", "edgeworth", "investigations"]
 	},
 	"AceAttorneyIPP": {
 		"title": "Ace Attorney Investigations: Miles Edgeworth - Prosecutor's Path",
-		"author": "Allixter",
+		"author": "Allinxter",
 		"categories": ["nds", "ace-attorney", "miles", "edgeworth", "investigations"]
 	},
 	"AceAttorneyJFA": {
 		"title": "Phoenix Wright: Ace Attorney - Justice for All",
-		"author": "Allixter",
+		"author": "Allinxter",
 		"categories": ["nds", "ace-attorney", "phoenix", "wright", "justice-for-all"]
 	},
 	"AceAttorneyTAT": {
 		"title": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
-		"author": "Allixter",
+		"author": "Allinxter",
 		"categories": ["nds", "ace-attorney", "phoenix", "wright", "trials-and-tribulations"]
 	},
 	"ApolloJustice": {
 		"title": "Apollo Justice: Ace Attorney",
-		"author": "Allixter",
+		"author": "Allinxter",
 		"categories": ["nds", "ace-attorney", "apollo", "justice"]
 	},
 	"MarioKartDS": {
 		"title": "Mario Kart DS",
-		"author": "Allixter",
+		"author": "Allinxter",
 		"categories": ["nds", "mario", "kart"]
 	},
 	"FabStyle": {
