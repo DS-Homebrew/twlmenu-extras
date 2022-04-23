@@ -1,0 +1,7 @@
+---
+layout: cards
+title: Icon - justice
+system: icon
+category: justice
+---
+<div class="alert alert-secondary mb-4"><span class="i18n innerHTML-category">Category: </span><span class="i18n innerHTML-cat-justice">justice</span></div>
