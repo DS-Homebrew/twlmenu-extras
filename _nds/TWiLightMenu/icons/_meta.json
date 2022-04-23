@@ -284,12 +284,12 @@
 	"Advance Wars 2 - Black Hole Rising": {
 		"title": "Advance Wars 2: Black Hole Rising",
 		"author": "NandoLawson",
-		"categories": ["gba", "Advance Wars"]
+		"categories": ["gba", "advance-wars"]
 	}
 	"Advance Wars": {
 		"title": "Advance Wars",
 		"author": "NandoLawson",
-		"categories": ["gba", "Advance Wars"]
+		"categories": ["gba", "advance-wars"]
 	}
 	"F-Zero - Maximum Velocity": {
 		"title": "F-Zero: Maximum Velocity",
@@ -299,7 +299,7 @@
 	"Fire Emblem": {
 		"title": "Fire Emblem",
 		"author": "NandoLawson",
-		"categories": ["gba", "fire emblem"]
+		"categories": ["gba", "fire-emblem"]
 	}
 	"Kirby & the Amazing Mirror": {
 		"title": "Kirby & the Amazing Mirror",
@@ -309,7 +309,7 @@
 	"Mario vs. Donkey Kong": {
 		"title": "Mario vs. Donkey Kong",
 		"author": "NandoLawson",
-		"categories": ["gba", "mario", "Donkey Kong"]
+		"categories": ["gba", "mario", "donkey-kong"]
 	}
 	"Sonic Advance": {
 		"title": "Sonic Advance",
