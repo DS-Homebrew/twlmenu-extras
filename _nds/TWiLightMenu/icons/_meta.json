@@ -265,5 +265,25 @@
 		"title": "Mario Kart DS",
 		"author": "Allixter",
 		"categories": ["nds", "mario", "kart"]
+	},
+	"FabStyle": {
+		"title": "FabStyle",
+		"author": "Rocket Robz",
+		"categories": ["nds", "fabstyle", "fashion"]
+	},
+	"KirbyCanvasCurse": {
+		"title": "Kirby: Canvas Curse",
+		"author": "Rocket Robz",
+		"categories": ["nds", "kirby", "canvas-curse", "power-paintbrush"]
+	},
+	"KirbySqueakSquad": {
+		"title": "Kirby: Squeak Squad",
+		"author": "Rocket Robz",
+		"categories": ["nds", "kirby", "squeak-squad", "mouse-attack"]
+	},
+	"SonicRush": {
+		"title": "Sonic Rush",
+		"author": "Rocket Robz",
+		"categories": ["nds", "sonic", "rush"]
 	}
 }
