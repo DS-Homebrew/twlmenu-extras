@@ -25,6 +25,45 @@ screenshots:
 systems:
 - Icon
 title: 'Phoenix Wright: Ace Attorney - Justice for All'
+titles:
+- '逆転裁判２
+
+  ＣＡＰＣＯＭ'
+- 'Phoenix Wright: Ace Attorney
+
+  Justice for All
+
+  Capcom'
+- 'Phoenix Wright: Ace Attorney
+
+  Justice for All
+
+  Capcom'
+- 'Phoenix Wright: Ace Attorney
+
+  Justice for All
+
+  Capcom'
+- 'Phoenix Wright: Ace Attorney
+
+  Justice for All
+
+  Capcom'
+- 'Phoenix Wright: Ace Attorney
+
+  Justice for All
+
+  Capcom'
+- 'Phoenix Wright: Ace Attorney
+
+  Justice for All
+
+  Capcom'
+- 'Phoenix Wright: Ace Attorney
+
+  Justice for All
+
+  Capcom'
 updated: '2022-04-23T01:02:18Z'
 version: v1.0.0
 ---

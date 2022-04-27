@@ -11,9 +11,9 @@ category:
 color: '#7c5636'
 console: Nintendo 3DS
 created: '2022-04-08T05:53:13Z'
-description: "Skin contains images with cartoony grotesque physique and blood. Follow\
-  \ Isaac into the basement to face deranged enemies, find lost brothers and sisters,\
-  \ face his fears, and play Mario Kart, Pok\xE9mon and Tetris on his old DS."
+description: Skin contains images with cartoony grotesque physique and blood. Follow
+  Isaac into the basement to face deranged enemies, find lost brothers and sisters,
+  face his fears, and play Mario Kart, Pokémon and Tetris on his old DS.
 downloads:
   TBOI.7z:
     size: 2398151

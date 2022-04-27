@@ -24,6 +24,31 @@ screenshots:
 systems:
 - Icon
 title: 'Kirby: Squeak Squad'
+titles:
+- 'Kirby: Squeak Squad
+
+  Nintendo'
+- 'Kirby: Squeak Squad
+
+  Nintendo'
+- 'Kirby: Squeak Squad
+
+  Nintendo'
+- 'Kirby: Squeak Squad
+
+  Nintendo'
+- 'Kirby: Squeak Squad
+
+  Nintendo'
+- 'Kirby: Squeak Squad
+
+  Nintendo'
+- 'Kirby: Squeak Squad
+
+  Nintendo'
+- 'Kirby: Squeak Squad
+
+  Nintendo'
 updated: '2022-04-23T01:51:19Z'
 version: v1.0.0
 ---

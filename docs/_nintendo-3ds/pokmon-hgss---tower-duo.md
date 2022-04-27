@@ -30,7 +30,7 @@ screenshots:
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/HGSS/screenshots/per-game-settings.png
 systems:
 - Nintendo 3DS
-title: "Pok\xE9mon HGSS - Tower Duo"
+title: Pokémon HGSS - Tower Duo
 updated: '2022-04-27T00:00:54Z'
 version: v1.2.0
 ---

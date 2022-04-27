@@ -22,6 +22,47 @@ screenshots:
 systems:
 - Icon
 title: Sonic the Hedgehog (16-bit)
+titles:
+- 'ソニック・ザ・ヘッジホッグ
+
+  メガドライブ
+
+  SEGA'
+- 'Sonic the Hedgehog
+
+  Genesis/Mega Drive
+
+  SEGA'
+- 'Sonic the Hedgehog
+
+  Mega Drive
+
+  SEGA'
+- 'Sonic the Hedgehog
+
+  Mega Drive
+
+  SEGA'
+- 'Sonic the Hedgehog
+
+  Mega Drive
+
+  SEGA'
+- 'Sonic the Hedgehog
+
+  Mega Drive
+
+  SEGA'
+- '刺猬索尼克
+
+  Mega Drive
+
+  SEGA'
+- '수퍼알라딘 보이
+
+  소닉 더 헤지호그
+
+  SEGA'
 updated: '2022-04-27T17:43:16Z'
 version: v1.0.0
 ---

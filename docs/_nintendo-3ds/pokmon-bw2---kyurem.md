@@ -28,7 +28,7 @@ screenshots:
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/KyuremBW2/screenshots/per-game-settings.png
 systems:
 - Nintendo 3DS
-title: "Pok\xE9mon BW2 - Kyurem"
+title: Pokémon BW2 - Kyurem
 updated: '2022-04-27T00:00:54Z'
 version: v1.2.0
 ---

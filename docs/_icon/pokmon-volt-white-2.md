@@ -25,7 +25,48 @@ screenshots:
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/voltwhite2.gif
 systems:
 - Icon
-title: "Pok\xE9mon Volt White 2"
+title: Pokémon Volt White 2
+titles:
+- 'ポケットモンスター
+
+  ボルトホワイト２ＲＥＤＵＸ
+
+  Drayano & AphexCubed'
+- 'Pokémon
+
+  Volt White 2 Redux
+
+  Drayano & AphexCubed'
+- 'Pokémon
+
+  Volt White 2 Redux
+
+  Drayano & AphexCubed'
+- 'Pokémon
+
+  Volt White 2 Redux
+
+  Drayano & AphexCubed'
+- 'Pokémon
+
+  Volt White 2 Redux
+
+  Drayano & AphexCubed'
+- 'Pokémon
+
+  Volt White 2 Redux
+
+  Drayano & AphexCubed'
+- 'Pokémon
+
+  Volt White 2 Redux
+
+  Drayano & AphexCubed'
+- 'Pokémon
+
+  Volt White 2 Redux
+
+  Drayano & AphexCubed'
 updated: '2022-04-22T01:30:13Z'
 version: v1.1.0
 ---

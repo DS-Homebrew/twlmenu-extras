@@ -7,8 +7,7 @@ category:
 color: '#f3f3f3'
 console: Font
 created: '2022-02-21T02:38:34Z'
-description: "11px \u6587\u6CC9\u9A7F (WenQuanYi) bitmap song font for Simplified\
-  \ Chinese"
+description: 11px 文泉驿 (WenQuanYi) bitmap song font for Simplified Chinese
 downloads:
   WenQuanYi Bitmap Song.7z:
     size: 139701

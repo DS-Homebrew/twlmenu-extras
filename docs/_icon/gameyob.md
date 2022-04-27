@@ -23,6 +23,47 @@ screenshots:
 systems:
 - Icon
 title: GameYob
+titles:
+- 'GameYob
+
+  A Game Boy emulator for DS
+
+  Author: Drenn'
+- 'GameYob
+
+  A Game Boy emulator for DS
+
+  Author: Drenn'
+- 'GameYob
+
+  A Game Boy emulator for DS
+
+  Author: Drenn'
+- 'GameYob
+
+  A Game Boy emulator for DS
+
+  Author: Drenn'
+- 'GameYob
+
+  A Game Boy emulator for DS
+
+  Author: Drenn'
+- 'GameYob
+
+  A Game Boy emulator for DS
+
+  Author: Drenn'
+- 'GameYob
+
+  A Game Boy emulator for DS
+
+  Author: Drenn'
+- 'GameYob
+
+  A Game Boy emulator for DS
+
+  Author: Drenn'
 updated: '2022-04-27T17:43:16Z'
 version: v1.0.0
 ---

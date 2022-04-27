@@ -25,7 +25,48 @@ screenshots:
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/blazeblack2.gif
 systems:
 - Icon
-title: "Pok\xE9mon Blaze Black 2"
+title: Pokémon Blaze Black 2
+titles:
+- 'ポケットモンスター
+
+  ブレイズブラック２ＲＥＤＵＸ
+
+  Drayano & AphexCubed'
+- 'Pokémon
+
+  Blaze Black 2 Redux
+
+  Drayano & AphexCubed'
+- 'Pokémon
+
+  Blaze Black 2 Redux
+
+  Drayano & AphexCubed'
+- 'Pokémon
+
+  Blaze Black 2 Redux
+
+  Drayano & AphexCubed'
+- 'Pokémon
+
+  Blaze Black 2 Redux
+
+  Drayano & AphexCubed'
+- 'Pokémon
+
+  Blaze Black 2 Redux
+
+  Drayano & AphexCubed'
+- 'Pokémon
+
+  Blaze Black 2 Redux
+
+  Drayano & AphexCubed'
+- 'Pokémon
+
+  Blaze Black 2 Redux
+
+  Drayano & AphexCubed'
 updated: '2022-04-22T01:30:13Z'
 version: v1.1.0
 ---

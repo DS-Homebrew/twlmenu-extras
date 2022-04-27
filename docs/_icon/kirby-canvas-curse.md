@@ -24,6 +24,31 @@ screenshots:
 systems:
 - Icon
 title: 'Kirby: Canvas Curse'
+titles:
+- 'Kirby: Canvas Curse
+
+  Nintendo'
+- 'Kirby: Canvas Curse
+
+  Nintendo'
+- 'Kirby: Canvas Curse
+
+  Nintendo'
+- 'Kirby: Canvas Curse
+
+  Nintendo'
+- 'Kirby: Canvas Curse
+
+  Nintendo'
+- 'Kirby: Canvas Curse
+
+  Nintendo'
+- 'Kirby: Canvas Curse
+
+  Nintendo'
+- 'Kirby: Canvas Curse
+
+  Nintendo'
 updated: '2022-04-23T01:52:48Z'
 version: v1.0.0
 ---

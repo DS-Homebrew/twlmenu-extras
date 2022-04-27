@@ -25,6 +25,45 @@ screenshots:
 systems:
 - Icon
 title: 'Ace Attorney Investigations: Miles Edgeworth - Prosecutor''s Path'
+titles:
+- '逆転検事２
+
+  ＣＡＰＣＯＭ'
+- 'Ace Attorney Investigations
+
+  Prosecutor''s Path
+
+  Capcom'
+- 'Ace Attorney Investigations
+
+  Prosecutor''s Path
+
+  Capcom'
+- 'Ace Attorney Investigations
+
+  Prosecutor''s Path
+
+  Capcom'
+- 'Ace Attorney Investigations
+
+  Prosecutor''s Path
+
+  Capcom'
+- 'Ace Attorney Investigations
+
+  Prosecutor''s Path
+
+  Capcom'
+- 'Ace Attorney Investigations
+
+  Prosecutor''s Path
+
+  Capcom'
+- 'Ace Attorney Investigations
+
+  Prosecutor''s Path
+
+  Capcom'
 updated: '2022-04-23T01:02:18Z'
 version: v1.0.0
 ---

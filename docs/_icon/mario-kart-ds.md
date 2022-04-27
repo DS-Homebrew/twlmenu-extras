@@ -23,6 +23,31 @@ screenshots:
 systems:
 - Icon
 title: Mario Kart DS
+titles:
+- 'MARIO KART DS
+
+  Nintendo'
+- 'MARIO KART DS
+
+  Nintendo'
+- 'MARIO KART DS
+
+  Nintendo'
+- 'MARIO KART DS
+
+  Nintendo'
+- 'MARIO KART DS
+
+  Nintendo'
+- 'MARIO KART DS
+
+  Nintendo'
+- 'MARIO KART DS
+
+  Nintendo'
+- 'MARIO KART DS
+
+  Nintendo'
 updated: '2022-04-23T01:02:18Z'
 version: v1.0.0
 ---

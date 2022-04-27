@@ -26,7 +26,7 @@ screenshots:
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Suicune/screenshots/per-game-settings.png
 systems:
 - Nintendo 3DS
-title: "Pok\xE9mon - Suicune"
+title: Pokémon - Suicune
 updated: '2021-01-28T04:04:29Z'
 version: v1.0.1
 ---

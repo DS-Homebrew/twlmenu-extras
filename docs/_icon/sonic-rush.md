@@ -23,6 +23,31 @@ screenshots:
 systems:
 - Icon
 title: Sonic Rush
+titles:
+- 'ソニック ラッシュ
+
+  SEGA'
+- 'SONIC RUSH
+
+  SEGA'
+- 'SONIC RUSH
+
+  SEGA'
+- 'SONIC RUSH
+
+  SEGA'
+- 'SONIC RUSH
+
+  SEGA'
+- 'SONIC RUSH
+
+  SEGA'
+- 'SONIC RUSH
+
+  SEGA'
+- 'SONIC RUSH
+
+  SEGA'
 updated: '2022-04-23T01:51:19Z'
 version: v1.0.0
 ---

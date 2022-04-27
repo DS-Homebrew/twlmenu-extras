@@ -24,6 +24,45 @@ screenshots:
 systems:
 - Icon
 title: 'Phoenix Wright: Ace Attorney'
+titles:
+- '逆転裁判
+
+  ＣＡＰＣＯＭ'
+- 'Phoenix Wright
+
+  Ace Attorney
+
+  Capcom'
+- 'Phoenix Wright
+
+  Ace Attorney
+
+  Capcom'
+- 'Phoenix Wright
+
+  Ace Attorney
+
+  Capcom'
+- 'Phoenix Wright
+
+  Ace Attorney
+
+  Capcom'
+- 'Phoenix Wright
+
+  Ace Attorney
+
+  Capcom'
+- 'Phoenix Wright
+
+  Ace Attorney
+
+  Capcom'
+- 'Phoenix Wright
+
+  Ace Attorney
+
+  Capcom'
 updated: '2022-04-23T01:02:18Z'
 version: v1.0.0
 ---

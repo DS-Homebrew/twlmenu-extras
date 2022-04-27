@@ -25,6 +25,45 @@ screenshots:
 systems:
 - Icon
 title: 'Ace Attorney Investigations: Miles Edgeworth'
+titles:
+- '逆転検事
+
+  ＣＡＰＣＯＭ'
+- 'Ace Attorney
+
+  Investigations
+
+  Capcom'
+- 'Ace Attorney
+
+  Investigations
+
+  Capcom'
+- 'Ace Attorney
+
+  Investigations
+
+  Capcom'
+- 'Ace Attorney
+
+  Investigations
+
+  Capcom'
+- 'Ace Attorney
+
+  Investigations
+
+  Capcom'
+- 'Ace Attorney
+
+  Investigations
+
+  Capcom'
+- 'Ace Attorney
+
+  Investigations
+
+  Capcom'
 updated: '2022-04-23T01:02:18Z'
 version: v1.0.0
 ---
