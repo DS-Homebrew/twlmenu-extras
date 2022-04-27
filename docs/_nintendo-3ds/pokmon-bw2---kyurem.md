@@ -12,11 +12,11 @@ created: '2021-08-14T03:41:19Z'
 description: Monochromatic theme based on the fused forms of Kyurem
 downloads:
   KyuremBW2.7z:
-    size: 289352
+    size: 2911637
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/KyuremBW2.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/KyuremBW2/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/KyuremBW2/icon.png
-last_updated: 2021-08-14 at 02:35 (UTC)
+last_updated: 2022-04-27 at 00:00 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -29,6 +29,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: "Pok\xE9mon BW2 - Kyurem"
-updated: '2021-08-14T02:35:56Z'
-version: v1.0.0
+updated: '2022-04-27T00:00:54Z'
+version: v1.2.0
 ---
