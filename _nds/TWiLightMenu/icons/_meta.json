@@ -350,5 +350,15 @@
 		"title": "Domo-Kun no Fushigi Terebi",
 		"author": "NandoLawson",
 		"categories": ["gba"]
+	},
+	"Sonic1Genesis": {
+		"title": "Sonic the Hedgehog (16-bit)",
+		"author": "SombrAbsol",
+		"categories": ["md", "sonic"]
+	},
+	"gameyob": {
+		"title": "GameYob",
+		"author": "SombrAbsol",
+		"categories": ["nds", "homebrew", "gbc"]
 	}
 }
