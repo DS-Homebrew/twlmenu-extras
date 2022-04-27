@@ -203,6 +203,51 @@ layout: compress
 										</div>
 									</div>
 								{% endif %}
+								{% if page.titles %}
+									<div class="row mt-3">
+										<div class="col-12">
+											<h2 class="i18n innerHTML-titles">Titles</h2>
+											<div class="row">
+												<div class="col-6 col-sm-3">
+													<h3 class="i18n innerHTML-japanese">Japanese</h3>
+													<p>{{ page.titles[0] | newline_to_br }}</p>
+												</div>
+												<div class="col-6 col-sm-3">
+													<h3 class="i18n innerHTML-english">English</h3>
+													<p>{{ page.titles[1] | newline_to_br }}</p>
+												</div>
+												<div class="col-6 col-sm-3">
+													<h3 class="i18n innerHTML-french">French</h3>
+													<p>{{ page.titles[2] | newline_to_br }}</p>
+												</div>
+												<div class="col-6 col-sm-3">
+													<h3 class="i18n innerHTML-german">German</h3>
+													<p>{{ page.titles[3] | newline_to_br }}</p>
+												</div>
+												<div class="col-6 col-sm-3">
+													<h3 class="i18n innerHTML-italian">Italian</h3>
+													<p>{{ page.titles[4] | newline_to_br }}</p>
+												</div>
+												<div class="col-6 col-sm-3">
+													<h3 class="i18n innerHTML-spanish">Spanish</h3>
+													<p>{{ page.titles[5] | newline_to_br }}</p>
+												</div>
+												{% if page.titles.size >= 7 %}
+													<div class="col-6 col-sm-3">
+														<h3 class="i18n innerHTML-chinese">Chinese</h3>
+														<p>{{ page.titles[6] | newline_to_br }}</p>
+													</div>
+												{% endif %}
+												{% if page.titles.size == 8 %}
+													<div class="col-6 col-sm-3">
+														<h3 class="i18n innerHTML-korean">Korean</h3>
+														<p>{{ page.titles[7] | newline_to_br }}</p>
+													</div>
+												{% endif %}
+											</div>
+										</div>
+									</div>
+								{% endif %}
 								{% if page.screenshots.size > 0 %}
 									<div class="row mt-3">
 										<div class="col-12">

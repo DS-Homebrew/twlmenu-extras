@@ -187,6 +187,7 @@ for skin in files:
 				info = j[skinName]
 
 	screenshots = []
+	titles = None
 	if path.exists(path.join(skin[:skin.rfind("/")], "meta", skinName, "screenshots")):
 		dirlist = listdir((path.join(skin[:skin.rfind("/")], "meta", skinName, "screenshots")))
 		dirlist.sort()
@@ -207,7 +208,8 @@ for skin in files:
 
 		gifPath = path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
 		with open(skin, "rb") as f:
-			bannergif(f, gifPath)
+			titles = bannergif(f, gifPath)  # convert to GIF and get titles
+
 
 		screenshots.append({
 			"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + gifPath,
@@ -270,6 +272,8 @@ for skin in files:
 	web["systems"] = [web["console"]]
 	if color:
 		web["color"] = color
+	if titles:
+		web["titles"] = titles
 	web["downloads"] = {skin[skin.rfind("/") + 1:]: {
 		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin,
 		"size": path.getsize(skin)
@@ -288,7 +292,7 @@ for skin in files:
 		if not path.exists(path.join("docs", "_" + webName(web["console"]))):
 			mkdir(path.join("docs", "_" + webName(web["console"])))
 		with open(path.join("docs", "_" + webName(web["console"]), webName(web["title"]) + ".md"), "w", encoding="utf8") as file:
-			file.write("---\n" + yaml.dump(web) + "---\n")
+			file.write("---\n" + yaml.dump(web, allow_unicode=True) + "---\n")
 
 	for category in web["category"]:
 		if not path.exists(path.join("docs", webName(web["console"]), "category")):

@@ -165,6 +165,15 @@ def bannergif(rom, output):
 	# Save output image
 	images[0].save(output, save_all=True, append_images=images[1:], duration=delays, loop=0, optimize=False)
 
+	# Read titles
+	rom.seek(0x240)
+	titles = []
+	for _ in range(5 + (version & 0xFF)):
+		titles.append(rom.read(0x100).decode("utf-16le").strip("\0"))
+
+	return titles
+
+
 
 if __name__ == "__main__":
 	parser = ArgumentParser(description="Extracts a DS(i) ROM's icon to an image")
