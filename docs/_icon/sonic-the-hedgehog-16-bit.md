@@ -3,6 +3,7 @@ author: SombrAbsol
 category:
 - md
 - sonic
+- animated
 color: '#6083bc'
 console: Icon
 created: '2022-04-27T17:43:16Z'

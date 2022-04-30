@@ -4,6 +4,7 @@ category:
 - nds
 - homebrew
 - gbc
+- animated
 color: '#a44d64'
 console: Icon
 created: '2022-04-27T17:43:16Z'

@@ -6,6 +6,7 @@ category:
 - miles
 - edgeworth
 - investigations
+- animated
 color: '#64554e'
 console: Icon
 created: '2022-04-23T01:02:18Z'

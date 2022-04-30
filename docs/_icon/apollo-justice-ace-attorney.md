@@ -5,6 +5,7 @@ category:
 - ace-attorney
 - apollo
 - justice
+- animated
 color: '#765740'
 console: Icon
 created: '2022-04-23T01:02:18Z'

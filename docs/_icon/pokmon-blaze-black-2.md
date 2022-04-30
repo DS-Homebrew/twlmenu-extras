@@ -7,6 +7,7 @@ category:
 - blaze
 - black
 - blazeblack
+- animated
 color: '#3e5c78'
 console: Icon
 created: '2022-04-03T01:58:24Z'

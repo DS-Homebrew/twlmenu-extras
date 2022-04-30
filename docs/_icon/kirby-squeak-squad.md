@@ -5,6 +5,7 @@ category:
 - kirby
 - squeak-squad
 - mouse-attack
+- animated
 color: '#913c21'
 console: Icon
 created: '2022-04-23T01:51:19Z'

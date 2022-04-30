@@ -7,6 +7,7 @@ category:
 - volt
 - white
 - voltwhite
+- animated
 color: '#b4796f'
 console: Icon
 created: '2022-04-03T01:58:24Z'

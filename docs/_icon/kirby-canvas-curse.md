@@ -5,6 +5,7 @@ category:
 - kirby
 - canvas-curse
 - power-paintbrush
+- animated
 color: '#b4a1ae'
 console: Icon
 created: '2022-04-23T01:52:48Z'

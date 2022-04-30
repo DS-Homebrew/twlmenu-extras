@@ -4,6 +4,7 @@ category:
 - nds
 - fabstyle
 - fashion
+- animated
 color: '#f1dfd8'
 console: Icon
 created: '2022-04-23T01:51:19Z'

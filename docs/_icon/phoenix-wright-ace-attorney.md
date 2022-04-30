@@ -5,6 +5,7 @@ category:
 - ace-attorney
 - phoenix
 - wright
+- animated
 color: '#6b5448'
 console: Icon
 created: '2022-04-23T01:02:18Z'
