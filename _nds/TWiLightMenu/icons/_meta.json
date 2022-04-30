@@ -97,13 +97,13 @@
 	"voltwhite2": {
 		"title": "Pokémon Volt White 2",
 		"author": "Allinxter",
-		"categories": ["nds", "pokemon", "drayano", "volt", "white", "voltwhite"],
+		"categories": ["nds", "pokemon", "drayano", "volt", "white", "voltwhite", "animated"],
 		"version": "v1.1.0"
 	},
 	"blazeblack2": {
 		"title": "Pokémon Blaze Black 2",
 		"author": "Allinxter",
-		"categories": ["nds", "pokemon", "drayano", "blaze", "black", "blazeblack"],
+		"categories": ["nds", "pokemon", "drayano", "blaze", "black", "blazeblack", "animated"],
 		"version": "v1.1.0"
 	},
 	"Mario Kart - Super Circuit": {
@@ -244,32 +244,32 @@
 	"AceAttorney": {
 		"title": "Phoenix Wright: Ace Attorney",
 		"author": "Allinxter",
-		"categories": ["nds", "ace-attorney", "phoenix", "wright"]
+		"categories": ["nds", "ace-attorney", "phoenix", "wright", "animated"]
 	},
 	"AceAttorneyI": {
 		"title": "Ace Attorney Investigations: Miles Edgeworth",
 		"author": "Allinxter",
-		"categories": ["nds", "ace-attorney", "miles", "edgeworth", "investigations"]
+		"categories": ["nds", "ace-attorney", "miles", "edgeworth", "investigations", "animated"]
 	},
 	"AceAttorneyIPP": {
 		"title": "Ace Attorney Investigations: Miles Edgeworth - Prosecutor's Path",
 		"author": "Allinxter",
-		"categories": ["nds", "ace-attorney", "miles", "edgeworth", "investigations"]
+		"categories": ["nds", "ace-attorney", "miles", "edgeworth", "investigations", "animated"]
 	},
 	"AceAttorneyJFA": {
 		"title": "Phoenix Wright: Ace Attorney - Justice for All",
 		"author": "Allinxter",
-		"categories": ["nds", "ace-attorney", "phoenix", "wright", "justice-for-all"]
+		"categories": ["nds", "ace-attorney", "phoenix", "wright", "justice-for-all", "animated"]
 	},
 	"AceAttorneyTAT": {
 		"title": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
 		"author": "Allinxter",
-		"categories": ["nds", "ace-attorney", "phoenix", "wright", "trials-and-tribulations"]
+		"categories": ["nds", "ace-attorney", "phoenix", "wright", "trials-and-tribulations", "animated"]
 	},
 	"ApolloJustice": {
 		"title": "Apollo Justice: Ace Attorney",
 		"author": "Allinxter",
-		"categories": ["nds", "ace-attorney", "apollo", "justice"]
+		"categories": ["nds", "ace-attorney", "apollo", "justice", "animated"]
 	},
 	"MarioKartDS": {
 		"title": "Mario Kart DS",
@@ -279,22 +279,22 @@
 	"FabStyle": {
 		"title": "FabStyle",
 		"author": "Rocket Robz",
-		"categories": ["nds", "fabstyle", "fashion"]
+		"categories": ["nds", "fabstyle", "fashion", "animated"]
 	},
 	"KirbyCanvasCurse": {
 		"title": "Kirby: Canvas Curse",
 		"author": "Rocket Robz",
-		"categories": ["nds", "kirby", "canvas-curse", "power-paintbrush"]
+		"categories": ["nds", "kirby", "canvas-curse", "power-paintbrush", "animated"]
 	},
 	"KirbySqueakSquad": {
 		"title": "Kirby: Squeak Squad",
 		"author": "Rocket Robz",
-		"categories": ["nds", "kirby", "squeak-squad", "mouse-attack"]
+		"categories": ["nds", "kirby", "squeak-squad", "mouse-attack", "animated"]
 	},
 	"SonicRush": {
 		"title": "Sonic Rush",
 		"author": "Rocket Robz",
-		"categories": ["nds", "sonic", "rush"]
+		"categories": ["nds", "sonic", "rush", "animated"]
 	},
 	"Advance Wars 2 - Black Hole Rising": {
 		"title": "Advance Wars 2: Black Hole Rising",
@@ -364,11 +364,11 @@
 	"Sonic1Genesis": {
 		"title": "Sonic the Hedgehog (16-bit)",
 		"author": "SombrAbsol",
-		"categories": ["md", "sonic"]
+		"categories": ["md", "sonic", "animated"]
 	},
 	"gameyob": {
 		"title": "GameYob",
 		"author": "SombrAbsol",
-		"categories": ["nds", "homebrew", "gbc"]
+		"categories": ["nds", "homebrew", "gbc", "animated"]
 	}
 }
