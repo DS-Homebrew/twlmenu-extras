@@ -94,6 +94,16 @@
 		"author": "Zdrmonster1",
 		"categories": ["gbc", "nickelodeon", "spongebob", "thq", "animated"]
 	},
+	"Parasol Stars": {
+		"title": "Parasol Stars (Game Boy)",
+		"author": "Zdrmonster1",
+		"categories": ["gb", "game-boy", "bubblebobble", "rainbowislands", "parasolstars", "taito", "animated"]
+	},
+	"Popn Pop": {
+		"title": "Pop'n Pop (Game Boy Colour)",
+		"author": "Zdrmonster1",
+		"categories": ["gbc", "bubblebobble", "popnpop", "taito", "animated"]
+	},
 	"voltwhite2": {
 		"title": "Pokémon Volt White 2",
 		"author": "Allinxter",
