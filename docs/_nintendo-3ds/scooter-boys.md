@@ -17,7 +17,13 @@ image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/
 last_updated: 2021-09-22 at 23:54 (UTC)
 layout: app
 license: ''
-screenshots: []
+screenshots:
+- description: App list
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/scooterboys/screenshots/app-list.png
+- description: Background
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/scooterboys/screenshots/background.png
+- description: Per game settings
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/scooterboys/screenshots/per-game-settings.png
 systems:
 - Nintendo 3DS
 title: Scooter Boys
