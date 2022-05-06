@@ -2,6 +2,7 @@
 
 import git
 import json
+import re
 import urllib.parse
 import yaml
 
@@ -11,6 +12,8 @@ from glob import glob
 from os import listdir, makedirs, mkdir, path, system
 from PIL import Image
 from py7zr import SevenZipFile
+
+SKIN_FOLDER_REGEX = r"(.*?\/?)(?:theme.ini|background|battery|grf|quickmenu|ui|video|volume|(?:bckgrd_1|bckgrd_2|icons|logo)\.png|(?:large|small)(?:-ds|-dsi)?\.nftr)$"
 
 
 def webName(name: str) -> str:
@@ -75,7 +78,7 @@ def lastUpdated(sevenZip):
 	return latest
 
 
-def downloadScript(skin: str, inFolder: bool) -> list:
+def downloadScript(skin: str, folder: str) -> list:
 	"""Makes a script to download the specified skin"""
 
 	skinName = skin[skin.rfind("/") + 1:skin.rfind(".")]
@@ -90,7 +93,7 @@ def downloadScript(skin: str, inFolder: bool) -> list:
 			{
 				"type": "extractFile",
 				"file": f"/{skinName}.7z",
-				"input": (skinName + "/") if inFolder else "",
+				"input": folder,
 				"output": f"/{skin[:-3]}/"
 			},
 			{
@@ -165,13 +168,13 @@ for skin in files:
 
 	info = {}
 	updated = datetime.utcfromtimestamp(0)
-	inFolder = False
+	folder = ""
 	skinName = skin[skin.rfind("/") + 1:skin.rfind(".")]
 
 	if skin[-2:] == "7z":
 		with SevenZipFile(skin) as a:
 			updated = lastUpdated(a)
-			inFolder = skinName in a.getnames()
+			folder, = next((re.findall(SKIN_FOLDER_REGEX, x.filename) for x in a.files if len(re.findall(SKIN_FOLDER_REGEX, x.filename)) > 0), ("",))
 	else:
 		updated = datetime.utcfromtimestamp(int(git.Repo(".").git.log(["-n1", "--pretty=format:%ct", "--", skin]) or 0))
 
@@ -261,7 +264,7 @@ for skin in files:
 		# Add entry to UniStore
 		unistore["storeContent"].append({
 			"info": skinInfo,
-			info["title"] if "title" in info else skinName: downloadScript(skin, inFolder)
+			info["title"] if "title" in info else skinName: downloadScript(skin, folder)
 		})
 
 	# Website file
@@ -315,7 +318,7 @@ if unistore != unistoreOld:
 
 # Write unistore to file
 with open(path.join("unistore", "twlmenu-skins.unistore"), "w", encoding="utf8") as file:
-	file.write(json.dumps(unistore, sort_keys=True))
+	file.write(json.dumps(unistore, sort_keys=True, ensure_ascii=False))
 
 # Write output file
 if not path.exists(path.join("docs", "data")):
