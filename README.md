@@ -13,7 +13,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - [Pk11](https://github.com/epicpkmn11): Adding UniStore generation
 
 ## Theme Credits:
-- [Allinxter](https://github.com/Allinxter): 3DS Kyurem, Tower Duo, The Legend of Zelda, Windows XP, Spider-Man and The Binding of Isaac skins
+- [Allinxter](https://github.com/Allinxter): 3DS Kyurem, Tower Duo, The Legend of Zelda, Windows XP, Spider-Man, The Binding of Isaac and Phantom Thieves skins
 - [DVDo](https://github.com/DieGo367): DSi Minecraft and Relaxing Space skins
 - [Emran_Ahmed](https://github.com/Emran54320): Unlaunch Call of Duty: Modern Warfare 2 background
 - [Equillun](https://github.com/Equillun): DSi Windows 95 skin
