@@ -6,7 +6,7 @@ category:
 - blue
 - hedgehog
 - snowboard
-color: '#6686bc'
+color: '#6586bc'
 console: Nintendo 3DS
 created: '2022-05-02T20:26:00Z'
 description: A cold theme, based on IceCap Zone from Sonic the Hedgehog 3. Watch the
@@ -14,11 +14,11 @@ description: A cold theme, based on IceCap Zone from Sonic the Hedgehog 3. Watch
   nostalgic music. Will you find the easter egg?
 downloads:
   SonicICZ.7z:
-    size: 2844814
+    size: 3204788
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/SonicICZ.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/SonicICZ/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/SonicICZ/icon.png
-last_updated: 2022-05-05 at 18:44 (UTC)
+last_updated: 2022-05-20 at 15:44 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -31,6 +31,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Sonic - IceCap Zone
-updated: '2022-05-05T18:44:20Z'
-version: v1.1.0
+updated: '2022-05-20T15:44:12Z'
+version: v1.2.0
 ---
