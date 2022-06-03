@@ -1,6 +1,7 @@
 {
 	"title": "Sonic Rush Theme",
 	"author": "ktutts13",
-	"description": "I spent 3 hours making this Sonic Rush themed theme. Inspired by Sonic Rush.",
-	"categories": ["sonic", "sonic-rush"]
+	"description": "Enjoy this Sonic Rush inspired theme. Now in version 2.0!",
+	"categories": ["sonic", "sonic-rush", "blaze"],
+	"version": "v2.0.0"
 }
