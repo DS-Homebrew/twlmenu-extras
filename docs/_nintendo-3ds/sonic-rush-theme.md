@@ -4,7 +4,7 @@ category:
 - sonic
 - sonic-rush
 - blaze
-color: '#7385ad'
+color: '#687ca7'
 console: Nintendo 3DS
 created: '2022-06-02T00:51:33Z'
 description: Enjoy this Sonic Rush inspired theme. Now in version 2.0!
