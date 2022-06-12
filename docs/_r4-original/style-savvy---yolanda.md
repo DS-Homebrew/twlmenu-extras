@@ -7,7 +7,8 @@ category:
 - girls-mode
 console: R4 Original
 created: '2021-07-28T07:25:18Z'
-description: 'Featuring Yolanda (aka Lady Moon) from Style Savvy: Styling Star'
+description: 'Featuring Yolanda Artemisia (aka Lady Moon) from Style Savvy: Styling
+  Star'
 downloads:
   Style Savvy - Yolanda.7z:
     size: 138345
