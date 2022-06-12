@@ -5,6 +5,7 @@ category:
 - style-savvy
 - style-boutique
 - girls-mode
+color: '#d7c1b1'
 console: R4 Original
 created: '2021-07-28T07:25:18Z'
 description: 'Featuring Angelique Noir from Style Savvy: Styling Star'
@@ -13,8 +14,8 @@ downloads:
     size: 147800
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Style
       Savvy - Angelique.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
+icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Style%20Savvy%20-%20Angelique/icon.png
+image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Style%20Savvy%20-%20Angelique/icon.png
 last_updated: 2021-07-28 at 07:33 (UTC)
 layout: app
 license: ''
