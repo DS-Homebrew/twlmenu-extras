@@ -128,14 +128,12 @@
 		"categories": ["nds", "pokemon", "drayano", "renegade", "platinum", "renegadeplatinum"],
 		"version": "v1.3.0"
 	},
-},
 	"alteredplatinum": {
 		"title": "Pokémon Altered Platinum",
 		"author": "Bice",
 		"categories": ["nds", "pokemon", "lithobraker", "altered", "platinum", "alteredplatinum"],
 		"version": "b1.5.3"
 	},
-},
 	"explorersofthespirit": {
 		"title": "Pokémon Mystery Dungeon: Explorers of the Spirit",
 		"author": "Bice",
