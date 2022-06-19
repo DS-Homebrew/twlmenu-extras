@@ -121,7 +121,6 @@
 		"categories": ["nds", "pokemon", "drayano", "blaze", "black", "blazeblack", "animated"],
 		"version": "v1.1.0"
 	},
-	},
 	"renegadeplatinum": {
 		"title": "Pokémon Renegade Platinum",
 		"author": "Bice",
@@ -405,3 +404,4 @@
 		"author": "SombrAbsol",
 		"categories": ["nds", "homebrew", "gbc", "animated"]
 	}
+}
