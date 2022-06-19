@@ -121,6 +121,27 @@
 		"categories": ["nds", "pokemon", "drayano", "blaze", "black", "blazeblack", "animated"],
 		"version": "v1.1.0"
 	},
+	},
+	"renegadeplatinum": {
+		"title": "Pokémon Renegade Platinum",
+		"author": "Bice",
+		"categories": ["nds", "pokemon", "drayano", "renegade", "platinum", "renegadeplatinum"],
+		"version": "v1.3.0"
+	},
+},
+	"alteredplatinum": {
+		"title": "Pokémon Altered Platinum",
+		"author": "Bice",
+		"categories": ["nds", "pokemon", "lithobraker", "altered", "platinum", "alteredplatinum"],
+		"version": "b1.5.3"
+	},
+},
+	"explorersofthespirit": {
+		"title": "Pokémon Mystery Dungeon: Explorers of the Spirit",
+		"author": "Bice",
+		"categories": ["nds", "pokemon", "mysterydungeon", "mystery", "dungeon", "pmd", "explorers", "spirit", "explorersofthespirit"],
+		"version": "v1.01"
+	},
 	"Mario Kart - Super Circuit": {
 		"title": "Mario Kart: Super Circuit",
 		"author": "NandoLawson",
