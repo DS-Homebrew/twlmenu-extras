@@ -15,9 +15,9 @@ layout: compress
 		{% for app in apps limit: 4 %}
 			<item>
 				{% if app.version == nil or app.version == "v1.0.0" %}
-					<title>{{ app.title }} has been created</title>
+					<title>Unlaunch background "{{ app.title }}" has been created</title>
 				{% else %}
-					<title>{{ app.title }} updated to {{ app.version | default: "new version" }}</title>
+					<title>Unlaunch background "{{ app.title }}" updated to {{ app.version | default: "new version" }}</title>
 				{% endif %}
 				<link>{{ app.url | absolute_url | remove: ".html" }}</link>
 				<description>

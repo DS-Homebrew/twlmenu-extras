@@ -14,10 +14,20 @@ layout: compress
 		{% assign apps = site.nintendo-3ds | concat: site.nintendo-dsi | concat: site.r4-original | concat: site.font | concat: site.icon | concat: site.unlaunch | uniq | sort: "updated" | reverse %}
 		{% for app in apps limit: 4 %}
 			<item>
-				{% if app.version == nil or app.version == "v1.0.0" %}
-					<title>{{ app.title }} has been created</title>
+				{% if app.collection == "font" %}
+					{% assign type = "Font" %}
+				{% elsif app.collection == "icon" %}
+					{% assign type = "Icon" %}
+				{% elsif app.collection == "unlaunch" %}
+					{% assign type = "Unlaunch background" %}
 				{% else %}
-					<title>{{ app.title }} updated to {{ app.version | default: "new version" }}</title>
+					{% assign type = site.data.i18n["en-US"][app.collection] | append: " skin" %}
+				{% endif %}
+
+				{% if app.version == nil or app.version == "v1.0.0" %}
+					<title>{{ type }} "{{ app.title }}" has been created</title>
+				{% else %}
+					<title>{{ type }} "{{ app.title }}" updated to {{ app.version | default: "new version" }}</title>
 				{% endif %}
 				<link>{{ app.url | absolute_url | remove: ".html" }}</link>
 				<description>
