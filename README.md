@@ -27,7 +27,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - [Shiori](https://github.com/EgoisTamamono): 3DS Rune Factory 3 and Love Plus skins 
 - [SkyLark](https://github.com/SleepyLark): Unlaunch Cork and various Kirby/Mario backgrounds
 - [SNBeast](https://github.com/SNBeast): Unlaunch Windows Vista backgrounds
-- [SombrAbsol](https://github.com/SombrAbsol): 3DS IceCap Zone and Kuckles Manua skin
+- [SombrAbsol](https://github.com/SombrAbsol): 3DS IceCap Zone and Kuckles Mania skins
 - [spellboundtriangle](https://github.com/spellboundtriangle): Unlaunch Bliss, Mario Kart DS, ZZT, and old Unlaunch backgrounds
 - [TomRannd](https://github.com/TomRannd): simpleR4 skins
 - Vague Rant: Various GBA borders
