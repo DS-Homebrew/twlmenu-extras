@@ -19,12 +19,12 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - [Equillun](https://github.com/Equillun): DSi Windows 95 skin
 - Nicoboy: 3DS Scooter Boys skin
 - [Pk11](https://github.com/epicpkmn11): 3DS Suicune skin, DSi Switch and iQue skins, Unlaunch Black, macOS, and Safari Pink backgrounds
+- [Rilukian](https://github.com/rilukian): Omori and PMD EoS 3DS skins
 - [Rocket Robz](https://github.com/RocketRobz): R4 Style Savvy skins, DSi Default skins, and 3DS Default Light skin
 - [Shiori](https://github.com/EgoisTamamono): 3DS Rune Factory 3 and Love Plus skins 
 - [SkyLark](https://github.com/SleepyLark): Unlaunch Cork and various Kirby/Mario backgrounds
 - [SNBeast](https://github.com/SNBeast): Unlaunch Windows Vista backgrounds
 - [SombrAbsol](https://github.com/SombrAbsol): 3DS IceCap Zone skin
-- [Rilukian](https://github.com/rilukian): Omori and PMD EoS 3DS skins
 - [spellboundtriangle](https://github.com/spellboundtriangle): Unlaunch Bliss, Mario Kart DS, ZZT, and old Unlaunch backgrounds
 - [TomRannd](https://github.com/TomRannd): simpleR4 skins
 - Vague Rant: Various GBA borders
