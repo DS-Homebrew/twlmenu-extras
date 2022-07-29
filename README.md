@@ -14,6 +14,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 
 ## Theme Credits:
 - [Allinxter](https://github.com/Allinxter): 3DS Kyurem, Tower Duo, The Legend of Zelda, Windows XP, Spider-Man, The Binding of Isaac, Phantom Thieves, Investigation Team, S.E.E.S. and iDS skins, and DSi Persona 5 skin
+- [Dhalian.](https://github.com/Dhalian): 3DS Douze Coups de Midi skin, Unlaunch Douze Coups de Midi background 
 - [DVDo](https://github.com/DieGo367): DSi Minecraft and Relaxing Space skins
 - [Emran_Ahmed](https://github.com/Emran54320): Unlaunch Call of Duty: Modern Warfare 2 background
 - [Equillun](https://github.com/Equillun): DSi Windows 95 skin

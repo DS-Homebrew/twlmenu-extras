@@ -1,4 +1,9 @@
 {
+        "12coups": {
+                "title": "Les Douze Coups de Midi",
+                "author": "Dhalian",
+                "categories": ["jean-luc", "tv", "tf1", "12coups"]
+        },
 	"aurora": {
 		"title": "Aurora",
 		"author": "SNBeast",
