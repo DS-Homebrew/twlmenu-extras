@@ -11,11 +11,11 @@ created: '2022-02-08T20:47:10Z'
 description: iQue version of TWiLight Menu++'s default DSi skin in white
 downloads:
   white-ique.7z:
-    size: 15002
+    size: 15312
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/white-ique.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/white-ique/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/white-ique/icon.png
-last_updated: 2022-02-08 at 20:40 (UTC)
+last_updated: 2022-08-14 at 06:20 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -30,6 +30,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Default White (iQue)
-updated: '2022-02-08T20:40:17Z'
-version: v1.0.0
+updated: '2022-08-14T06:20:40Z'
+version: v1.0.1
 ---

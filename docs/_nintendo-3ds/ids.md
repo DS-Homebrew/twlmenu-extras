@@ -12,11 +12,11 @@ created: '2022-05-12T19:20:36Z'
 description: Think Distinct.
 downloads:
   iDS.7z:
-    size: 610910
+    size: 610525
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/iDS.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/iDS/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/iDS/icon.png
-last_updated: 2022-05-12 at 19:02 (UTC)
+last_updated: 2022-09-02 at 04:19 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -29,6 +29,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: iDS
-updated: '2022-05-12T19:02:42Z'
-version: v1.0.0
+updated: '2022-09-02T04:19:02Z'
+version: v1.0.1
 ---

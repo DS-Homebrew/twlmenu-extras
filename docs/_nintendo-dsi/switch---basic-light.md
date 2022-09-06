@@ -11,12 +11,12 @@ created: '2020-11-22T06:23:23Z'
 description: Simple skin designed after the Nintendo Switch's Basic Light theme
 downloads:
   Switch - Basic Light.7z:
-    size: 9183
+    size: 8957
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Switch
       - Basic Light.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Switch%20-%20Basic%20Light/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Switch%20-%20Basic%20Light/icon.png
-last_updated: 2021-01-28 at 04:08 (UTC)
+last_updated: 2022-08-14 at 06:06 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -29,6 +29,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Switch - Basic Light
-updated: '2021-01-28T04:08:39Z'
-version: v1.1.1
+updated: '2022-08-14T06:06:22Z'
+version: v1.1.2
 ---

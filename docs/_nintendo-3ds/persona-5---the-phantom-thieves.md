@@ -14,12 +14,12 @@ description: You grab your console wanting to play something before you go to sl
   the bottom screen. You flip it over
 downloads:
   Phantom Thieves.7z:
-    size: 7991897
+    size: 7992660
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Phantom
       Thieves.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Phantom%20Thieves/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Phantom%20Thieves/icon.png
-last_updated: 2022-07-15 at 19:34 (UTC)
+last_updated: 2022-09-02 at 04:19 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -34,6 +34,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Persona 5 - The Phantom Thieves
-updated: '2022-07-15T19:34:37Z'
-version: v1.0.1
+updated: '2022-09-02T04:19:02Z'
+version: v1.0.2
 ---

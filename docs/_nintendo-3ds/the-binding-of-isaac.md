@@ -16,11 +16,11 @@ description: Skin contains images with cartoony grotesque physique and blood. Fo
   face his fears, and play Mario Kart, Pokémon and Tetris on his old DS.
 downloads:
   TBOI.7z:
-    size: 2398151
+    size: 2397619
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/TBOI.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/TBOI/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/TBOI/icon.png
-last_updated: 2022-04-16 at 02:18 (UTC)
+last_updated: 2022-09-02 at 04:19 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -35,6 +35,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: The Binding of Isaac
-updated: '2022-04-16T02:18:10Z'
-version: v1.0.1
+updated: '2022-09-02T04:19:02Z'
+version: v1.0.2
 ---
