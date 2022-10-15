@@ -13,11 +13,11 @@ description: Blue, green and golden colors, a landscape of Hyrule and a familiar
   welcome you to TWiLight Menu++
 downloads:
   TLoZ.7z:
-    size: 5724630
+    size: 5725658
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/TLoZ.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/TLoZ/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/TLoZ/icon.png
-last_updated: 2022-05-07 at 00:15 (UTC)
+last_updated: 2022-09-02 at 04:02 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -30,6 +30,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: The Legend of Zelda
-updated: '2022-05-07T00:15:31Z'
-version: v1.1.0
+updated: '2022-09-02T04:02:48Z'
+version: v1.1.1
 ---

@@ -408,5 +408,11 @@
 		"title": "GameYob",
 		"author": "SombrAbsol",
 		"categories": ["nds", "homebrew", "gbc", "animated"]
+	},
+	"Sonic the Hedgehog Pocket Adventure": {
+		"title": "Sonic The Hedgehog Pocket Adventure",
+		"author": "KaiSonicX",
+		"description": "An animated icon for Neo Geo Pocket Color game Sonic The Hedgehog Pocket Adventure",
+		"categories": ["sonic", "animated", "ngp"]
 	}
 }

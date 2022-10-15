@@ -14,12 +14,12 @@ description: A look into deep space backed with soothing music. (Ported from an 
   3DS theme by BlakCake)
 downloads:
   Relaxing Space.7z:
-    size: 744133
+    size: 743104
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Relaxing
       Space.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Relaxing%20Space/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Relaxing%20Space/icon.png
-last_updated: 2022-04-26 at 02:55 (UTC)
+last_updated: 2022-08-25 at 18:46 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -32,6 +32,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Relaxing Space
-updated: '2022-04-26T02:55:24Z'
-version: v1.1.0
+updated: '2022-08-25T18:46:59Z'
+version: v1.1.1
 ---

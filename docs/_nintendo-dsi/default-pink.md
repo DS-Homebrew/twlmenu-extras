@@ -9,11 +9,11 @@ created: '2020-06-01T23:44:11Z'
 description: TWiLight Menu++'s default DSi skin in pink
 downloads:
   pink.7z:
-    size: 18133
+    size: 15568
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/pink.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/pink/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/pink/icon.png
-last_updated: 2021-01-28 at 04:02 (UTC)
+last_updated: 2022-08-14 at 04:28 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -26,6 +26,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Default Pink
-updated: '2021-01-28T04:02:30Z'
-version: v1.0.1
+updated: '2022-08-14T04:28:05Z'
+version: v1.0.2
 ---

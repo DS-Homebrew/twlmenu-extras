@@ -14,11 +14,11 @@ description: A cold theme, based on IceCap Zone from Sonic the Hedgehog 3. Watch
   nostalgic music. Will you find the easter egg?
 downloads:
   SonicICZ.7z:
-    size: 3204815
+    size: 3082556
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/SonicICZ.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/SonicICZ/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/SonicICZ/icon.png
-last_updated: 2022-06-16 at 08:10 (UTC)
+last_updated: 2022-09-02 at 03:35 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -31,6 +31,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Sonic - IceCap Zone
-updated: '2022-06-16T08:10:52Z'
-version: v1.2.1
+updated: '2022-09-02T03:35:17Z'
+version: v1.2.2
 ---

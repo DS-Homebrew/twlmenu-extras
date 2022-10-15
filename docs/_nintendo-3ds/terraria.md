@@ -14,11 +14,11 @@ created: '2022-08-13T00:33:11Z'
 description: Don't worry, no boulders to watch out for in here!
 downloads:
   Terraria.7z:
-    size: 3556645
+    size: 3554597
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Terraria.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Terraria/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Terraria/icon.png
-last_updated: 2022-08-11 at 22:43 (UTC)
+last_updated: 2022-09-02 at 04:19 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -31,6 +31,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Terraria
-updated: '2022-08-11T22:43:36Z'
-version: v1.0.0
+updated: '2022-09-02T04:19:02Z'
+version: v1.0.1
 ---

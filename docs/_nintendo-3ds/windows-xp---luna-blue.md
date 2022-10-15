@@ -12,12 +12,12 @@ created: '2022-05-06T04:37:58Z'
 description: 'Welcome back to 2005! This is a rendition of Windows XP''s default theme. '
 downloads:
   XP Luna Blue.7z:
-    size: 876121
+    size: 876641
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/XP
       Luna Blue.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/XP%20Luna%20Blue/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/XP%20Luna%20Blue/icon.png
-last_updated: 2022-05-06 at 03:24 (UTC)
+last_updated: 2022-09-02 at 04:19 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -30,6 +30,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Windows XP - Luna Blue
-updated: '2022-05-06T03:24:12Z'
-version: v1.1.1
+updated: '2022-09-02T04:19:02Z'
+version: v1.1.2
 ---
