@@ -29,7 +29,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - [SkyLark](https://github.com/SleepyLark): Unlaunch Cork and various Kirby/Mario backgrounds
 - [SNBeast](https://github.com/SNBeast): Unlaunch Windows Vista backgrounds
 - [SombrAbsol](https://github.com/SombrAbsol): 3DS IceCap Zone and Knuckles Mania skins
-- [spellboundtriangle](https://github.com/spellboundtriangle): Darker DSi skin, Unlaunch Bliss, Mario Kart DS, ZZT, and old Unlaunch backgrounds
+- [spellboundtriangle](https://github.com/spellboundtriangle): Darker and Mario Kart DS DSi skins, Unlaunch Bliss, Mario Kart DS, ZZT, and old Unlaunch backgrounds
 - [TomRannd](https://github.com/TomRannd): simpleR4 skins
 - Vague Rant: Various GBA borders
 - [Void Star](https://github.com/unresolvedsymbol): Dark 3DS skin
