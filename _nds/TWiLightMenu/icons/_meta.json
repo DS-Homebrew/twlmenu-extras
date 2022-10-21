@@ -114,6 +114,21 @@
 		"author": "Zdrmonster1",
 		"categories": ["gbc", "bubblebobble", "popnpop", "taito", "animated"]
 	},
+	"hamhamsunite": {
+		"title": "Hamtaro: Ham-Hams Unite!",
+		"author": "YSB573",
+		"categories": ["gbc", "hamtaro"]
+	},
+	"hamhamheartbreak": {
+		"title": "Hamtaro: Ham-Ham Heartbreak",
+		"author": "YSB573",
+		"categories": ["gba", "hamtaro"]
+	},
+	"rainbowrescue": {
+		"title": "Hamtaro: Rainbow Rescue",
+		"author": "YSB573",
+		"categories": ["gba", "hamtaro"]
+	},
 	"voltwhite2": {
 		"title": "Pokémon Volt White 2",
 		"author": "Allinxter",
