@@ -5,6 +5,7 @@ category:
 - blue
 - Macro-Mode
 - game
+color: '#503c3c'
 console: Nintendo DSi
 created: '2022-10-21T13:28:55Z'
 description: Rev up your engines! Prepare to play your favorite games with this skin
@@ -14,8 +15,8 @@ downloads:
     size: 1470996
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Mario
       Kart DS.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/dsi.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/dsi.png
+icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Mario%20Kart%20DS/icon.png
+image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Mario%20Kart%20DS/icon.png
 last_updated: 2022-10-15 at 21:39 (UTC)
 layout: app
 license: ''
