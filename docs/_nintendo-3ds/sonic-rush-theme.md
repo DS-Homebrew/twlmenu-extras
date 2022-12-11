@@ -12,7 +12,7 @@ created: '2022-06-02T00:51:33Z'
 description: Jam out to this Sonic Rush themed theme!
 downloads:
   Sonic Rush Theme.7z:
-    size: 3167994
+    size: 3168013
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Sonic
       Rush Theme.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Sonic%20Rush%20Theme/icon.png
