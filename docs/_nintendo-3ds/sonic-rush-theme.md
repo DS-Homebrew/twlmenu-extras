@@ -20,7 +20,13 @@ image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/
 last_updated: 2022-12-12 at 21:46 (UTC)
 layout: app
 license: ''
-screenshots: []
+screenshots:
+- description: App list
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Sonic%20Rush%20Theme/screenshots/App-List.png
+- description: Background
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Sonic%20Rush%20Theme/screenshots/Background.png
+- description: Per game settings
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Sonic%20Rush%20Theme/screenshots/Per-Game-Settings.png
 systems:
 - Nintendo 3DS
 title: Sonic Rush Theme
