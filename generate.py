@@ -294,13 +294,13 @@ for skin in files:
 	if "title" in web:
 		if not path.exists(path.join("docs", "_" + webName(web["console"]))):
 			mkdir(path.join("docs", "_" + webName(web["console"])))
-		with open(path.join("docs", "_" + webName(web["console"]), webName(web["title"]) + ".md"), "w", encoding="utf8") as file:
+		with open(path.join("docs", "_" + webName(web["console"]), webName(web["title"]).lower() + ".md"), "w", encoding="utf8") as file:
 			file.write("---\n" + yaml.dump(web, allow_unicode=True) + "---\n")
 
 	for category in web["category"]:
 		if not path.exists(path.join("docs", webName(web["console"]), "category")):
 			makedirs(path.join("docs", webName(web["console"]), "category"))
-		with open(path.join("docs", webName(web["console"]), "category", category + ".md"), "w", encoding="utf8") as file:
+		with open(path.join("docs", webName(web["console"]), "category", category.lower() + ".md"), "w", encoding="utf8") as file:
 			file.write(f"---\nlayout: cards\ntitle: {getTheme(skin)} - {category}\nsystem: {webName(web['console'])}\ncategory: {category}\n---\n<div class=\"alert alert-secondary mb-4\"><span class=\"i18n innerHTML-category\">Category: </span><span class=\"i18n innerHTML-cat-{category}\">{category}</span></div>\n")
 
 	output.append(web)
