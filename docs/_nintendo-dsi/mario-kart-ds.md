@@ -1,9 +1,9 @@
 ---
 author: spellboundtriangle
 category:
-- Mario
+- mario
 - blue
-- Macro-Mode
+- macro-mode
 - game
 color: '#503c3c'
 console: Nintendo DSi
