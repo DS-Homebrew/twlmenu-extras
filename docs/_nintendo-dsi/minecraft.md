@@ -10,11 +10,11 @@ description: A Minecraft theme featuring one of the most iconic renders of all t
   Includes music and sounds from the game.
 downloads:
   Minecraft.7z:
-    size: 8952996
+    size: 8953006
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Minecraft.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Minecraft/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Minecraft/icon.png
-last_updated: 2022-08-26 at 00:16 (UTC)
+last_updated: 2023-01-25 at 20:22 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -27,6 +27,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Minecraft
-updated: '2022-08-26T00:16:32Z'
-version: v2.1.0
+updated: '2023-01-25T20:22:15Z'
+version: v2.1.1
 ---
