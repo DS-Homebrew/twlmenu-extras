@@ -3,17 +3,17 @@ author: Rocket Robz
 category:
 - default
 - sord-m5
-color: '#bc3ab9'
+color: '#3b3a39'
 console: Icon
 created: '2022-03-02T00:08:48Z'
 description: ''
 downloads:
   default-m5.png:
-    size: 587
+    size: 386
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/default-m5.png
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/default-m5.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/default-m5.png
-last_updated: 2022-03-02 at 00:08 (UTC)
+last_updated: 2023-03-14 at 20:06 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -22,6 +22,6 @@ screenshots:
 systems:
 - Icon
 title: Default Sord M5
-updated: '2022-03-02T00:08:48Z'
+updated: '2023-03-14T20:06:17Z'
 version: v1.0.0
 ---

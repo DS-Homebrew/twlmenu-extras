@@ -3,17 +3,17 @@ author: Rocket Robz
 category:
 - default
 - gba
-color: '#9414cc'
+color: '#291461'
 console: Icon
 created: '2022-03-02T00:08:48Z'
 description: ''
 downloads:
   default-gba.png:
-    size: 514
+    size: 303
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/default-gba.png
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/default-gba.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/default-gba.png
-last_updated: 2022-03-02 at 00:08 (UTC)
+last_updated: 2023-03-14 at 20:06 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -22,6 +22,6 @@ screenshots:
 systems:
 - Icon
 title: Default Game Boy Advance
-updated: '2022-03-02T00:08:48Z'
+updated: '2023-03-14T20:06:17Z'
 version: v1.0.0
 ---
