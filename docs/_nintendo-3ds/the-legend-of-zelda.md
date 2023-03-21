@@ -13,11 +13,11 @@ description: Blue, green and golden colors, a landscape of Hyrule and a familiar
   welcome you to TWiLight Menu++
 downloads:
   TLoZ.7z:
-    size: 5725658
+    size: 5723017
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/TLoZ.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/TLoZ/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/TLoZ/icon.png
-last_updated: 2022-09-02 at 04:02 (UTC)
+last_updated: 2023-03-16 at 05:25 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -25,11 +25,13 @@ screenshots:
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/TLoZ/screenshots/app-list.png
 - description: Background
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/TLoZ/screenshots/background.png
+- description: Macro
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/TLoZ/screenshots/macro.png
 - description: Per game settings
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/TLoZ/screenshots/per-game-settings.png
 systems:
 - Nintendo 3DS
 title: The Legend of Zelda
-updated: '2022-09-02T04:02:48Z'
-version: v1.1.1
+updated: '2023-03-16T05:25:40Z'
+version: v1.2.1
 ---
