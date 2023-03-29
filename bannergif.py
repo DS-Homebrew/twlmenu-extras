@@ -51,7 +51,7 @@ def crc16(data):
 
 
 def bannergif(rom, output):
-	"""Extracts a DS(i) ROM's icon to an image"""
+	"""Extracts a DS(i) banner's icon to an image"""
 
 	# Load version and check checksums
 	version, _, _, _, dsiChecksum = unpack("<HHHHH", rom.read(10))
@@ -176,8 +176,8 @@ def bannergif(rom, output):
 
 
 if __name__ == "__main__":
-	parser = ArgumentParser(description="Extracts a DS(i) ROM's icon to an image")
-	parser.add_argument("input", metavar="input.nds", type=FileType("rb"), help="DS ROM")
+	parser = ArgumentParser(description="Extracts a DS(i) banner's icon to an image")
+	parser.add_argument("input", metavar="input.nds", type=FileType("rb"), help="DS banner")
 	parser.add_argument("-o", "--output", metavar="output.gif", default="output.gif", type=str, help="output image")
 
 	args = parser.parse_args()
