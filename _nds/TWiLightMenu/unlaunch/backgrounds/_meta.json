@@ -154,6 +154,11 @@
 		"author": "SleepyLark",
 		"categories": ["mario", "nes"]
 	},
+	"minecraft_menu": {
+		"title": "Minecraft Menu",
+		"author": "Egon370",
+		"categories": ["minecraft"]
+        },
 	"mkds": {
 		"title": "Mario Kart DS",
 		"author": "spellboundtriangle",
