@@ -1,8 +1,8 @@
-name: Update UniStore and pages
+name: Pull request test build
 
 on:
   pull_request:
-    branches: ["main"]
+    branches: [ master ]
     paths: [ 
       generate.py, 
       bannergif.py, 
