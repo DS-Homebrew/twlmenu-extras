@@ -3,7 +3,15 @@ name: Update UniStore and pages
 on:
   push:
     branches: [ master ]
-    paths: [ generate.py, bannergif.py, "_nds/TWiLightMenu/*menu/themes/**", "_nds/TWiLightMenu/unlaunch/backgrounds/**", "_nds/TWiLightMenu/unlaunch/extras/fonts/**", "_nds/TWiLightMenu/icons/**", .github/workflows/update.yml ]
+    paths: [ 
+      generate.py,
+      bannergif.py,
+      "_nds/TWiLightMenu/*menu/themes/**",
+      "_nds/TWiLightMenu/unlaunch/backgrounds/**",
+      "_nds/TWiLightMenu/unlaunch/extras/fonts/**",
+      "_nds/TWiLightMenu/icons/**",
+      .github/workflows/update.yml
+      ]
   workflow_dispatch:
 
 jobs:
@@ -15,7 +23,7 @@ jobs:
     - uses: actions/checkout@v3
       with:
         fetch-depth: 0
-    
+
     - name: Install packages
       run: |
         echo deb http://deb.debian.org/debian stable main contrib non-free >> /etc/apt/sources.list
