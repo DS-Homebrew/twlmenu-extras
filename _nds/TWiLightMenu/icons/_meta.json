@@ -440,5 +440,36 @@
 		"author": "KaiSonicX",
 		"description": "A icon for the rom hack Mega Man World 5 DX",
 		"categories": ["megaman", "gbc", "icon"]
+	},
+	"glitchDS.nds": {
+		"title": "glitchDS",
+		"author": "ryba"
+	},
+	"Animanatee.nds": {
+		"title": "Animanatee",
+		"author": "ryba"
+	},
+	"Gameboy Camera.gb": {
+		"title": "Gameboy Camera",
+		"author": "ryba"
+	},
+	"DuckSlinger.nds": {
+		"title": "DuckSlinger",
+		"author": "ryba",
+		"description": "Little Music tracker for DS"
+	},
+	"giana.nds": {
+		"title": "Giana Sisters C64",
+		"author": "ryba",
+		"description": "Homebrew port of C64 game The Great Giana Sisters"
+	},
+	"ik.nds": {
+		"title": "International Karate DS",
+		"author": "ryba",
+		"description": "Homebrew port of C64 game International Karate"
+	},
+	"ToneSynthDS.nds": {
+		"title": "ToneSynthDS",
+		"author": "ryba"
 	}
 }
