@@ -434,5 +434,11 @@
 		"author": "KaiSonicX",
 		"description": "An animated icon for Neo Geo Pocket Color game Sonic The Hedgehog Pocket Adventure",
 		"categories": ["sonic", "animated", "ngp"]
+	},
+	"MMW5DX": {
+		"title": "Mega Man World 5 DX",
+		"author": "KaiSonicX",
+		"description": "A icon for the rom hack Mega Man World 5 DX",
+		"categories": ["megaman", "gbc", "icon"]
 	}
 }
