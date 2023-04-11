@@ -1,7 +1,7 @@
 {
 	"title": "Template",
 	"author": "lamsmallcritter",
-	"description": "A template theme with brightly colored rectangles in place of UI elements, with the idea of making theme developing easier! (Clock and date might not be 100% accurate)",
+	"description": "A template theme with brightly colored rectangles in place of UI elements, with the idea of making theme creating easier! (Made with lots of trial and error! The rectangles for clock and date might not be 100% accurate)",
 	"categories": ["High Contrast", "Template", "bright"],
 	"version": "v1.0.1"
 }
