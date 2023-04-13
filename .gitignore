@@ -8,3 +8,5 @@ unistore/temp
 *.jekyll-metadata
 *Gemfile.lock
 *__pycache__
+docs/.bundle
+docs/vendor
