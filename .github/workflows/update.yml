@@ -31,6 +31,11 @@ jobs:
         sudo apt-get install python3-pip -y
         pip3 install -r requirements.txt
 
+    - name: Workaround Git issue by chowning the repo
+      run: |
+        # when will github fix this
+        chown -R $(id -u):$(id -g) $PWD
+
     - name: Delete old pages
       run: rm -rf docs/_nintendo-3ds/* docs/_nintendo-dsi/* docs/_r4-original/* docs/_wood-ui/* docs/_unlaunch/* docs/_font/* docs/_icon/* docs/nintendo-3ds/category/* docs/nintendo-dsi/category/* docs/r4-original/category/* docs/wood-ui/category/* docs/unlaunch/category/* docs/font/category/* docs/icon/category/*
 
