@@ -471,5 +471,52 @@
 	"ToneSynthDS.nds": {
 		"title": "ToneSynthDS",
 		"author": "ryba"
+	},
+	"Gamepad_NEOGEO": {
+		"title": "Gamepad Neo Geo",
+		"author": "ryba",
+		"categories": ["gamepad"]
+	},
+	"Gamepad_NES": {
+		"title": "Gamepad NES",
+		"author": "ryba",
+		"categories": ["gamepad"]
+	},
+	"Gamepad_SEGA": {
+		"title": "Gamepad SEGA (MD)",
+		"author": "ryba",
+		"categories": ["gamepad"]
+	},
+	"Gamepad_SNES": {
+		"title": "Gamepad SNES",
+		"author": "ryba",
+		"categories": ["gamepad"]
+	},
+	"Gamepad_PCE": {
+		"title": "Gamepad PC Engine",
+		"author": "ryba",
+		"categories": ["gamepad"]
+	},
+	"Gamepad_SMS": {
+		"title": "Gamepad SEGA (Master System)",
+		"author": "ryba",
+		"categories": ["gamepad"]
+	},
+	"Gamepad_GBA": {
+		"title": "Gamepad GBA",
+		"author": "ryba",
+		"categories": ["gamepad"]
+	},
+	"Gamepad_GB": {
+		"title": "Gamepad GB",
+		"author": "ryba",
+		"description": "Slightly altered default GB icon to match up with my other icons.",
+		"categories": ["gamepad"]
+	},
+	"Gamepad_GBC": {
+		"title": "Gamepad GBC",
+		"author": "ryba",
+		"description": "Slightly altered default GB icon to match up with my other icons.",
+		"categories": ["gamepad"]
 	}
 }
