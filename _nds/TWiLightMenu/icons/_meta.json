@@ -518,5 +518,53 @@
 		"author": "ryba",
 		"description": "Slightly altered default GB icon to match up with my other icons.",
 		"categories": ["gamepad"]
+	},
+	"gba-black": {
+		"title": "GBA (black)",
+		"author": "SombrAbsol",
+		"description": "Default GBA icon in black.",
+		"categories": ["gba"]
+	},
+	"gba-orange": {
+		"title": "GBA (orange)",
+		"author": "SombrAbsol",
+		"description": "Default GBA icon in orange.",
+		"categories": ["gba"]
+	},
+	"gbasp-red": {
+		"title": "GBA SP (red)",
+		"author": "SombrAbsol",
+		"description": "GBA SP icon in red.",
+		"categories": ["gba"]
+	},
+	"gbasp-blue": {
+		"title": "GBA SP (blue)",
+		"author": "SombrAbsol",
+		"description": "GBA SP icon in blue.",
+		"categories": ["gba"]
+	},
+	"gbasp-gray": {
+		"title": "GBA SP (gray)",
+		"author": "SombrAbsol",
+		"description": "GBA SP icon in gray.",
+		"categories": ["gba"]
+	},
+	"Pokémon Pinball - Ruby & Sapphire": {
+		"title": "Pokémon Pinball: Ruby & Sapphire",
+		"author": "SombrAbsol",
+		"description": "Custom banner for Pokémon Pinball on NDS.",
+		"categories": ["gba", "pokemon", "pokemon-pinball", "animated"]
+	},
+	"Pokémon Mystery Dungeon - Red Rescue Team": {
+		"title": "Pokémon Mystery Dungeon: Red Rescue Team",
+		"author": "SombrAbsol",
+		"description": "Custom banner for Pokémon Mystery Dungeon on GBA.",
+		"categories": ["gba", "pokemon", "pokemon-mystery-dungeon"]
+	},
+	"Pokémon Mystery Dungeon - Blue Rescue Team": {
+		"title": "Pokémon Mystery Dungeon: Blue Rescue Team",
+		"author": "SombrAbsol",
+		"description": "Custom banner for Pokémon Mystery Dungeon on NDS. Only the titles have been added or corrected.",
+		"categories": ["gba", "pokemon", "pokemon-mystery-dungeon"]
 	}
 }
