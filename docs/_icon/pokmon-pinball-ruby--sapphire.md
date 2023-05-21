@@ -8,7 +8,7 @@ category:
 color: '#a9467a'
 console: Icon
 created: '2023-05-17T17:41:15Z'
-description: Custom banner for Pokémon Pinball on NDS.
+description: Custom banner for Pokémon Pinball on GBA.
 downloads:
   Pokémon Pinball - Ruby & Sapphire.bin:
     size: 9152
