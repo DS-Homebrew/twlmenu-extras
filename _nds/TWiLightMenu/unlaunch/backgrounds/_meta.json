@@ -306,11 +306,17 @@
 		"description": "Sylveon skin for Unlaunch.",
 		"categories": ["sylveon", "pokémon"]
 	},
+	"stealds": {
+		"title": "SOAD: Steal This DS!",
+		"author": "SylverReZ",
+		"description": "In the style of System of a Down.",
+		"categories": ["system-of-a-down", "1998", "soad", "music", "artist"]
+	},
 	"soad": {
 		"title": "System of a Down",
 		"author": "SylverReZ",
 		"description": "Artwork from the 1998 album, by System of a Down.",
-		"categories": ["system-of-a-down", "1998", "soad", "music", "artist"]
+		"categories": ["system-of-a-down", "steal-thos-album", "soad", "funny", "comedy", "meme"]
 	},
 	"lain": {
 		"title": "Serial Experiments Lain",
