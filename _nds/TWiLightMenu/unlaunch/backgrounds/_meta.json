@@ -1,9 +1,9 @@
 {
-        "12coups": {
-                "title": "Les Douze Coups de Midi",
-                "author": "Dhalian",
-                "categories": ["jean-luc", "tv", "tf1", "12coups"]
-        },
+	"12coups": {
+			"title": "Les Douze Coups de Midi",
+			"author": "Dhalian",
+			"categories": ["jean-luc", "tv", "tf1", "12coups"]
+	},
 	"aurora": {
 		"title": "Aurora",
 		"author": "SNBeast",
@@ -293,5 +293,35 @@
 		"author": "spellboundtriangle",
 		"description": "A background inspired by the scroll item in Tim Sweeney's ZZT",
 		"categories": ["zzt"]
+	},
+	"skullz": {
+		"title": "Skullz",
+		"author": "SylverReZ",
+		"description": "Skeletons doing the 'three wise monkeys' poses.",
+		"categories": ["horror", "skull"]
+	},
+	"sylveon": {
+		"title": "Sylveon",
+		"author": "SylverReZ",
+		"description": "Sylveon skin for Unlaunch.",
+		"categories": ["sylveon", "pokémon"]
+	},
+	"soad": {
+		"title": "System of a Down",
+		"author": "SylverReZ",
+		"description": "Artwork from the 1998 album, by System of a Down.",
+		"categories": ["system-of-a-down", "1998", "soad", "music", "artist"]
+	},
+	"lain": {
+		"title": "Serial Experiments Lain",
+		"author": "SylverReZ",
+		"description": "Serial Experiments Lain skin for Nocash Unlaunch.",
+		"categories": ["serial-experiments-lain", "lain", "horror", "anime"]
+	},
+	"modzville": {
+		"title": "ModzvilleUSA!",
+		"author": "SylverReZ",
+		"description": "Unlaunch skin in the style of ModzVilleUSA.",
+		"categories": ["modzville", "modzvilleusa", "youtuber", "tech", "modding"]
 	}
 }
