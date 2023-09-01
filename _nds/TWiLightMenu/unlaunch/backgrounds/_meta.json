@@ -93,6 +93,11 @@
 		"author": "SNBeast",
 		"categories": ["vista", "windows"]
 	},
+		"dsi": {
+		"title": "DSi",
+		"author": "blckbear",
+		"categories": ["dsi"]
+	},
 	"field": {
 		"title": "Field",
 		"author": "SNBeast",
