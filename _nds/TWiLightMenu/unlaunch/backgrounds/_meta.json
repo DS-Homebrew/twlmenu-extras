@@ -93,9 +93,10 @@
 		"author": "SNBeast",
 		"categories": ["vista", "windows"]
 	},
-		"dsi": {
+	"dsi": {
 		"title": "DSi",
 		"author": "blckbear",
+		"description": "Based on the background found in TWilight Menu++'s DSi Theme.",
 		"categories": ["dsi"]
 	},
 	"field": {
