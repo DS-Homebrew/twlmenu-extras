@@ -6,12 +6,12 @@ created: '2020-06-01T23:44:11Z'
 description: ''
 downloads:
   Cherry blossoms.7z:
-    size: 303321
+    size: 299311
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Cherry
       blossoms.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
-last_updated: 2020-09-07 at 06:22 (UTC)
+last_updated: 2023-07-05 at 10:54 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -22,6 +22,6 @@ screenshots:
 systems:
 - R4 Original
 title: Cherry blossoms
-updated: '2020-09-07T06:22:01Z'
+updated: '2023-07-05T10:54:17Z'
 version: v1.0.0
 ---

@@ -11,12 +11,12 @@ created: '2021-09-20T15:38:47Z'
 description: Feel the Sharance town vibes in your 3ds menu.
 downloads:
   RF 3.7z:
-    size: 8141962
+    size: 8107725
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/RF
       3.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/RF%203/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/RF%203/icon.png
-last_updated: 2022-09-02 at 04:19 (UTC)
+last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -29,6 +29,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Rune Factory 3
-updated: '2022-09-02T04:19:02Z'
+updated: '2023-07-05T15:00:41Z'
 version: v1.0.1
 ---

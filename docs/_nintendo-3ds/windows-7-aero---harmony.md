@@ -9,15 +9,17 @@ category:
 color: '#57b3d2'
 console: Nintendo 3DS
 created: '2023-04-15T05:23:25Z'
-description: Enjoy the elegance of Aero, now on your favorite portable console.
+description: This skin was made for an old version of TWiLight Menu++ and hasn't been
+  updated yet. Some graphics will not be displayed. Enjoy the elegance of Aero, now
+  on your favorite portable console.
 downloads:
   Windows 7.7z:
-    size: 565526
+    size: 562066
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Windows
       7.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Windows%207/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Windows%207/icon.png
-last_updated: 2023-04-14 at 20:53 (UTC)
+last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -32,6 +34,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Windows 7 Aero - Harmony
-updated: '2023-04-14T20:53:24Z'
+updated: '2023-07-05T15:00:43Z'
 version: v1.0.0
 ---

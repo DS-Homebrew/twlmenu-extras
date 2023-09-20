@@ -6,18 +6,20 @@ category:
 - phoenix
 - wright
 - objection
-color: '#798fcf'
+color: '#788fcf'
 console: Nintendo 3DS
 created: '2023-03-14T23:13:29Z'
-description: Objection! Think you can bluff your way of this trial?
+description: This skin was made for an old version of TWiLight Menu++ and hasn't been
+  updated yet. Some graphics will not be displayed. Objection! Think you can bluff
+  your way of this trial?
 downloads:
   Ace Attorney.7z:
-    size: 3913717
+    size: 3908804
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Ace
       Attorney.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Ace%20Attorney/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Ace%20Attorney/icon.png
-last_updated: 2023-03-16 at 05:31 (UTC)
+last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -32,6 +34,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Phoenix Wtight - Ace Attorney
-updated: '2023-03-16T05:31:13Z'
+updated: '2023-07-05T15:00:36Z'
 version: v1.0.1
 ---

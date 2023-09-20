@@ -11,12 +11,12 @@ created: '2021-07-28T07:25:18Z'
 description: 'Featuring Angelique Noir from Style Savvy: Styling Star'
 downloads:
   Style Savvy - Angelique.7z:
-    size: 147800
+    size: 140511
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Style
       Savvy - Angelique.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Style%20Savvy%20-%20Angelique/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Style%20Savvy%20-%20Angelique/icon.png
-last_updated: 2021-07-28 at 07:33 (UTC)
+last_updated: 2023-07-05 at 11:08 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -27,6 +27,6 @@ screenshots:
 systems:
 - R4 Original
 title: Style Savvy - Angelique
-updated: '2021-07-28T07:33:13Z'
+updated: '2023-07-05T11:08:04Z'
 version: v1.0.0
 ---

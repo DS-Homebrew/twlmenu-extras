@@ -11,16 +11,17 @@ category:
 color: '#c4899b'
 console: Nintendo 3DS
 created: '2022-07-17T03:32:12Z'
-description: 'Warning: Even with this skin on, your console won''t work during the
-  Dark Hour.'
+description: 'This skin was made for an old version of TWiLight Menu++ and hasn''t
+  been updated yet. Some graphics will not be displayed. Warning: Even with this skin
+  on, your console won''t work during the Dark Hour.'
 downloads:
   P3 Pink.7z:
-    size: 6039637
+    size: 6036229
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/P3
       Pink.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/P3%20Pink/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/P3%20Pink/icon.png
-last_updated: 2023-03-16 at 05:24 (UTC)
+last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -35,6 +36,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Persona 3 - S.E.E.S. (Pink)
-updated: '2023-03-16T05:24:11Z'
+updated: '2023-07-05T15:00:40Z'
 version: v1.2.1
 ---

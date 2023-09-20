@@ -15,18 +15,18 @@ description: 'This theme showcases eevee and its evolutions. it has just some ba
   too big for here)'
 downloads:
   CustomMusicEevee v1.7z:
-    size: 939931
+    size: 850686
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/CustomMusicEevee
       v1.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/CustomMusicEevee%20v1/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/CustomMusicEevee%20v1/icon.png
-last_updated: 2022-11-03 at 23:41 (UTC)
+last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots: []
 systems:
 - Nintendo 3DS
 title: Eeveelution Fan
-updated: '2022-11-03T23:41:10Z'
+updated: '2023-07-05T15:00:36Z'
 version: v1.0.0
 ---

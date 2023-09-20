@@ -10,12 +10,12 @@ created: '2021-09-20T01:34:12Z'
 description: ''
 downloads:
   Nintendo Switch.7z:
-    size: 11159
+    size: 9885
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Nintendo
       Switch.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Nintendo%20Switch/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Nintendo%20Switch/icon.png
-last_updated: 2021-09-20 at 01:27 (UTC)
+last_updated: 2023-07-05 at 11:04 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -26,6 +26,6 @@ screenshots:
 systems:
 - R4 Original
 title: Simple Switch
-updated: '2021-09-20T01:27:02Z'
+updated: '2023-07-05T11:04:57Z'
 version: v1.0.0
 ---

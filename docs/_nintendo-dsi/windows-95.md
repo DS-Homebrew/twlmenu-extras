@@ -9,12 +9,12 @@ created: '2021-02-01T20:13:12Z'
 description: A Windows 95 skin for DSi.
 downloads:
   Windows 95.7z:
-    size: 360586
+    size: 359293
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Windows
       95.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Windows%2095/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Windows%2095/icon.png
-last_updated: 2022-08-14 at 06:30 (UTC)
+last_updated: 2023-07-05 at 10:49 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -27,6 +27,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Windows 95
-updated: '2022-08-14T06:30:15Z'
+updated: '2023-07-05T10:49:41Z'
 version: v1.0.1
 ---

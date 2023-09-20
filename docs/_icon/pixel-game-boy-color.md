@@ -9,11 +9,11 @@ created: '2022-04-16T03:00:53Z'
 description: ''
 downloads:
   pixelgbc.png:
-    size: 228
+    size: 219
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/pixelgbc.png
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/pixelgbc.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/pixelgbc.png
-last_updated: 2023-03-14 at 20:06 (UTC)
+last_updated: 2023-07-06 at 14:31 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -22,6 +22,6 @@ screenshots:
 systems:
 - Icon
 title: Pixel Game Boy Color
-updated: '2023-03-14T20:06:17Z'
+updated: '2023-07-06T14:31:36Z'
 version: v1.0.0
 ---

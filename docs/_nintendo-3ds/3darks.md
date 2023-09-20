@@ -11,11 +11,11 @@ created: '2023-04-13T12:30:22Z'
 description: Void Star's dark 3DS skin remade by earedguitr
 downloads:
   3DarkS.7z:
-    size: 27420
+    size: 18261
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/3DarkS.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/3DarkS/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/3DarkS/icon.png
-last_updated: 2023-03-05 at 18:26 (UTC)
+last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -26,6 +26,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: 3DarkS
-updated: '2023-03-05T18:26:48Z'
+updated: '2023-07-05T15:00:36Z'
 version: v1.0.0
 ---

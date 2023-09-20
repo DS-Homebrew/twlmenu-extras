@@ -10,14 +10,15 @@ category:
 color: '#6ba2be'
 console: Nintendo 3DS
 created: '2022-05-12T19:20:36Z'
-description: Think Distinct.
+description: This skin was made for an old version of TWiLight Menu++ and hasn't been
+  updated yet. Some graphics will not be displayed. Think Distinct.
 downloads:
   iDS.7z:
-    size: 594079
+    size: 567571
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/iDS.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/iDS/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/iDS/icon.png
-last_updated: 2023-03-16 at 05:27 (UTC)
+last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -32,6 +33,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: iDS
-updated: '2023-03-16T05:27:01Z'
+updated: '2023-07-05T15:00:37Z'
 version: v2.16.4
 ---
