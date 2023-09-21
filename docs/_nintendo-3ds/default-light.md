@@ -1,5 +1,5 @@
 ---
-author: RocketRobz
+author: Rocket Robz
 category:
 - default
 - light
@@ -9,11 +9,11 @@ created: '2020-06-01T23:44:11Z'
 description: TWiLight Menu++'s default 3DS skin, light version
 downloads:
   light.7z:
-    size: 2357347
+    size: 2362640
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/light.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/3ds.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/3ds.png
-last_updated: 2022-09-02 at 04:19 (UTC)
+last_updated: 2023-08-04 at 02:49 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -26,6 +26,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Default Light
-updated: '2022-09-02T04:19:02Z'
-version: v1.0.3
+updated: '2023-08-04T02:49:51Z'
+version: v1.0.4
 ---

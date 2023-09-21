@@ -11,16 +11,18 @@ category:
 color: '#7c5636'
 console: Nintendo 3DS
 created: '2022-04-08T05:53:13Z'
-description: Skin contains images with cartoony grotesque physique and blood. Follow
-  Isaac into the basement to face deranged enemies, find lost brothers and sisters,
-  face his fears, and play Mario Kart, Pokémon and Tetris on his old DS.
+description: This skin was made for an old version of TWiLight Menu++ and hasn't been
+  updated yet. Some graphics will not be displayed. Skin contains images with cartoony
+  grotesque physique and blood. Follow Isaac into the basement to face deranged enemies,
+  find lost brothers and sisters, face his fears, and play Mario Kart, Pokémon and
+  Tetris on his old DS.
 downloads:
   TBOI.7z:
-    size: 2505364
+    size: 2472101
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/TBOI.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/TBOI/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/TBOI/icon.png
-last_updated: 2023-03-20 at 23:04 (UTC)
+last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -41,6 +43,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: The Binding of Isaac
-updated: '2023-03-20T23:04:10Z'
+updated: '2023-07-05T15:00:42Z'
 version: v1.1.1
 ---

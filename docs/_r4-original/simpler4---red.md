@@ -7,11 +7,11 @@ created: '2020-07-28T03:51:11Z'
 description: ''
 downloads:
   simpleR4_red.7z:
-    size: 8084
+    size: 5740
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/simpleR4_red.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
-last_updated: 2020-10-12 at 04:02 (UTC)
+last_updated: 2023-07-05 at 11:06 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -22,6 +22,6 @@ screenshots:
 systems:
 - R4 Original
 title: simpleR4 - Red
-updated: '2020-10-12T04:02:56Z'
+updated: '2023-07-05T11:06:21Z'
 version: v1.0.0
 ---

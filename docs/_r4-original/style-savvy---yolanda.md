@@ -12,12 +12,12 @@ description: 'Featuring Yolanda Artemisia (aka Lady Moon) from Style Savvy: Styl
   Star'
 downloads:
   Style Savvy - Yolanda.7z:
-    size: 138345
+    size: 131698
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Style
       Savvy - Yolanda.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Style%20Savvy%20-%20Yolanda/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Style%20Savvy%20-%20Yolanda/icon.png
-last_updated: 2021-07-28 at 07:33 (UTC)
+last_updated: 2023-07-05 at 11:08 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -28,6 +28,6 @@ screenshots:
 systems:
 - R4 Original
 title: Style Savvy - Yolanda
-updated: '2021-07-28T07:33:13Z'
+updated: '2023-07-05T11:08:48Z'
 version: v1.0.0
 ---

@@ -17,12 +17,12 @@ created: '2022-11-13T05:21:39Z'
 description: ''
 downloads:
   TLOZ - Spirit Tracks.7z:
-    size: 336538
+    size: 315725
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/TLOZ
       - Spirit Tracks.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
-last_updated: 2022-11-08 at 07:08 (UTC)
+last_updated: 2023-07-05 at 11:09 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -33,6 +33,6 @@ screenshots:
 systems:
 - R4 Original
 title: TLOZ - Spirit Tracks
-updated: '2022-11-08T07:08:03Z'
+updated: '2023-07-05T11:09:27Z'
 version: v1.0.0
 ---

@@ -10,11 +10,11 @@ created: '2020-06-01T23:44:11Z'
 description: Minimalistic Suicune skin with Eusine's theme
 downloads:
   Suicune.7z:
-    size: 916333
+    size: 915521
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Suicune.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Suicune/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Suicune/icon.png
-last_updated: 2022-09-02 at 04:19 (UTC)
+last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -27,6 +27,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Pokémon - Suicune
-updated: '2022-09-02T04:19:02Z'
+updated: '2023-07-05T15:00:42Z'
 version: v1.0.2
 ---

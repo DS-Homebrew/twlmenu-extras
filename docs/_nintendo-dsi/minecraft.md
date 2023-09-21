@@ -3,18 +3,18 @@ author: DVDo
 category:
 - minecraft
 - mojang
-color: '#3c3b26'
+color: '#47462d'
 console: Nintendo DSi
 created: '2022-03-14T03:41:32Z'
 description: A Minecraft theme featuring one of the most iconic renders of all time.
   Includes music and sounds from the game.
 downloads:
   Minecraft.7z:
-    size: 8953006
+    size: 8930969
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Minecraft.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Minecraft/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Minecraft/icon.png
-last_updated: 2023-01-25 at 20:22 (UTC)
+last_updated: 2023-07-05 at 10:47 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -27,6 +27,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Minecraft
-updated: '2023-01-25T20:22:15Z'
+updated: '2023-07-05T10:47:23Z'
 version: v2.1.1
 ---

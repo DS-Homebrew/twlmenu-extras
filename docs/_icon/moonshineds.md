@@ -10,11 +10,11 @@ created: '2022-04-22T15:20:54Z'
 description: ''
 downloads:
   moonshineDS.nds.bin:
-    size: 9152
+    size: 2112
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/moonshineDS.nds.bin
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/moonshineDS.nds.gif
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/moonshineDS.nds.gif
-last_updated: 2022-04-22 at 15:20 (UTC)
+last_updated: 2023-07-06 at 14:31 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -54,16 +54,6 @@ titles:
   By Ermii, Jesse,
 
   Gericom and Stomatol'
-- 'moonshineDS
-
-  By Ermii, Jesse,
-
-  Gericom and Stomatol'
-- 'moonshineDS
-
-  By Ermii, Jesse,
-
-  Gericom and Stomatol'
-updated: '2022-04-22T15:20:54Z'
+updated: '2023-07-06T14:31:36Z'
 version: v1.0.0
 ---
