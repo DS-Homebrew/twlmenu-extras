@@ -143,14 +143,14 @@
 		"title": "Pokémon Black Version 2",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Ploaj from www.spriters-resource.com"
-		"categories": [""nds", "pokemon-black-version-2", "pokemon", "black-2", "black-version-2", "kyurem", "kyurem-black", "animated"],
+		"categories": ["nds", "pokemon-black-version-2", "pokemon", "black-2", "black-version-2", "kyurem", "kyurem-black", "animated"],
 		"version": "v1.0.0"
 	},
 	"Pokémon Blaze Black 2": {
 		"title": "Pokémon Blaze Black 2 Redux",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Ploaj from www.spriters-resource.com, Template from Allinxter"
-		"categories": [""nds", "pokemon-blaze-black-2-redux", "pokemon", "blaze-black-2", "blaze-black-2-redux", "kyurem", "kyurem-black", "animated"],
+		"categories": ["nds", "pokemon-blaze-black-2-redux", "pokemon", "blaze-black-2", "blaze-black-2-redux", "kyurem", "kyurem-black", "animated"],
 		"version": "v1.0.0"
 	},
 	"Pokémon Crystal Version": {
@@ -234,7 +234,7 @@
 		"title": "Pokémon Volt White 2 Redux",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Ploaj from www.spriters-resource.com, Template from Allinxter"
-		"categories": [""nds", "pokemon-volt-white-2-redux", "pokemon", "volt-white-2", "volt-white-2-redux", "kyurem", "kyurem-white", "animated"],
+		"categories": ["nds", "pokemon-volt-white-2-redux", "pokemon", "volt-white-2", "volt-white-2-redux", "kyurem", "kyurem-white", "animated"],
 		"version": "v1.0.0"
 	},
 	"Pokémon White Version": {
@@ -247,7 +247,7 @@
 	"Pokémon White Version 2": {
 		"title": "Pokémon White Version 2",
 		"description": "Sprites ripped by Ploaj from www.spriters-resource.com"
-		"categories": [""nds", "pokemon-white-version-2", "pokemon", "white-2", "white-version-2", "kyurem", "kyurem-white", "animated"],
+		"categories": ["nds", "pokemon-white-version-2", "pokemon", "white-2", "white-version-2", "kyurem", "kyurem-white", "animated"],
 		"version": "v1.0.0"
 	},
 	"Pokémon Yellow Version": {
@@ -306,7 +306,7 @@
 		"categories": ["gb", "super-mario-land", "mario-land", "mario", "animated"],
 		"version": "v1.0.0"
 	},
-	""Super Mario Land 2 - 6 Golden Coins": {
+	"Super Mario Land 2 - 6 Golden Coins": {
 		"title": "Super Mario Land 2: 6 Golden Coins",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Mister Man, P-Tux7, & Snessy the duck from www.spriters-resource.com"
@@ -317,7 +317,7 @@
 		"title": "Super Mario RPG: Legend of the Seven Stars",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Tonberry2k from www.spriters-resource.com"
-		"categories": ["snes", "super-mario-rpg", "mario-rpg", "legend-of-the-seven-stars", "mario", "animated],
+		"categories": ["snes", "super-mario-rpg", "mario-rpg", "legend-of-the-seven-stars", "mario", "animated"],
 		"version": "v1.0.0"
 	},
 	"TMNT IV - Turtles in Time.": {
@@ -326,5 +326,4 @@
 		"description": "Sprites ripped by Dolphman from www.spriters-resource.com"
 		"categories": ["snes", "tmnt", "turtles", "ninja", "turtles-in-time", "animated"],
 		"version": "v1.0.0"
-	}
 }
