@@ -2,41 +2,41 @@
 author: ToxicityLvL
 category:
 - gba
-- pokemon-emerald-version
+- pokemon-sapphire-version
 - pokemon
-- emerald
-- emerald-version
-- rayquaza
+- sapphire
+- sapphire-version
+- kyogre
 - animated
-color: '#37a64b'
+color: '#375cac'
 console: Icon
 created: '2023-10-05T17:27:16Z'
 description: Sprites ripped by Libby, Lugiathekingofantartica, & Polar Koala from
   www.spriters-resource.com, Template from NandoLawson
 downloads:
-  Pokémon Emerald Version.bin:
+  Pokémon Sapphire Version - Animated.bin:
     size: 9152
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Pokémon
-      Emerald Version.bin
+      Sapphire Version - Animated.bin
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
-  Emerald Version.gif
+  Sapphire Version - Animated.gif
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
-  Emerald Version.gif
+  Sapphire Version - Animated.gif
 last_updated: 2023-10-05 at 17:27 (UTC)
 layout: app
 license: ''
 screenshots:
-- description: Pokémon emerald version
+- description: Pokémon sapphire version   animated
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
-    Emerald Version.gif
+    Sapphire Version - Animated.gif
 systems:
 - Icon
-title: Pokémon Emerald Version
+title: Pokémon Sapphire Version (Animated)
 titles:
-- 'ポケットモンスターエメラルド
+- 'ポケットモンスターサファイア
 
   任天堂株式会社'
-- 'Pokémon Emerald Version
+- 'Pokémon Sapphire Version
 
   Nintendo'
 - 'The crazy smiley quest!

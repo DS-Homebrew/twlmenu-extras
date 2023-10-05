@@ -2,41 +2,41 @@
 author: ToxicityLvL
 category:
 - gba
-- pokemon-emerald-version
+- pokemon-ruby-version
 - pokemon
-- emerald
-- emerald-version
-- rayquaza
+- ruby
+- ruby-version
+- groudon
 - animated
-color: '#37a64b'
+color: '#aa322e'
 console: Icon
 created: '2023-10-05T17:27:16Z'
 description: Sprites ripped by Libby, Lugiathekingofantartica, & Polar Koala from
   www.spriters-resource.com, Template from NandoLawson
 downloads:
-  Pokémon Emerald Version.bin:
+  Pokémon Ruby Version - Animated.bin:
     size: 9152
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Pokémon
-      Emerald Version.bin
+      Ruby Version - Animated.bin
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
-  Emerald Version.gif
+  Ruby Version - Animated.gif
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
-  Emerald Version.gif
+  Ruby Version - Animated.gif
 last_updated: 2023-10-05 at 17:27 (UTC)
 layout: app
 license: ''
 screenshots:
-- description: Pokémon emerald version
+- description: Pokémon ruby version   animated
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
-    Emerald Version.gif
+    Ruby Version - Animated.gif
 systems:
 - Icon
-title: Pokémon Emerald Version
+title: Pokémon Ruby Version (Animated)
 titles:
-- 'ポケットモンスターエメラルド
+- 'ポケットモンスタールビー
 
   任天堂株式会社'
-- 'Pokémon Emerald Version
+- 'Pokémon Ruby Version
 
   Nintendo'
 - 'The crazy smiley quest!
