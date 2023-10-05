@@ -1,0 +1,330 @@
+{
+	"Advance Wars - Dual Strike": {
+		"title": "Advance Wars: Dual Strike",
+		"author": "ToxicityLvL",
+		"description": "Sprites	ripped by Amyd from www.spriters-resource.com",
+		"categories": ["nds", "advance-wars", "infantry", "animated"],
+		"version": "v1.0.0"
+	},
+	"Battle City": {
+		"title": "Battle City",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Superjustinbros from www.spriters-resource.com"
+		"categories": ["nes", "battle-city", "tank", "animated"],
+		"version": "v1.0.0"
+	},
+	"Bomberman": {
+		"title": "Bomberman",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Black	Squirrel & Superjustinbros from www.spriters-resource.com"
+		"categories": ["nes", "bomberman", "animated"],
+		"version": "v1.0.0"
+	},
+	"Bomberman II": {
+		"title": "Bomberman II",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by 	Ragey from www.spriters-resource.com"
+		"categories": ["nes", "bomberman", "bomberman-ii", "bomberman-2", "animated"],
+		"version": "v1.0.0"
+	},
+	"Chrono Trigger": {
+		"title": "Chrono Trigger",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Tonberry2k from www.spriters-resource.com"
+		"categories": ["snes", "nds", "chrono-trigger", "crono", "animated"],
+		"version": "v1.0.0"
+	},
+	"DSi Icon": {
+		"title": "DSi Icon",
+		"author": "ToxicityLvL",
+		"description": "A black DSi Icon"
+		"categories": ["default", "nds", "dsi", "animated"],
+		"version": "v1.0.0"
+	},
+	"Dinosaur King": {
+		"title": "Dinosaur King",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Previous from www.spriters-resource.com"
+		"categories": ["nds", "dinosaur-king", "animated"],
+		"version": "v1.0.0"
+	},
+	"Donkey Kong": {
+		"title": "Donkey Kong",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Deathbringer from www.spriters-resource.com"
+		"categories": ["nes", "donkey-kong", "animated"],
+		"version": "v1.0.0"
+	},
+	"Dragon Quest": {
+		"title": "Dragon Quest IX: Sentinels of the Starry Skies",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by MisterMike from www.spriters-resource.com"
+		"categories": ["nds", "dragon-quest", "slime", "dragon-quest-9", "dragon-quest-ix", "animated"],
+		"version": "v1.0.0"
+	},
+	"Excitebike": {
+		"title": "Excitebike",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Ville10 from www.spriters-resource.com"
+		"categories": ["excitebike", "nes", "animated"],
+		"version": "v1.0.0"
+	},
+	"Final Fantasy III": {
+		"title": "Final Fantasy III",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by NeoGeoff from www.spriters-resource.com"
+		"categories": ["nes", "nds", "final-fantasy", "final-fantasy-iii", "final-fantasy-3", "black-mage", "animated"],
+		"version": "v1.0.0"
+	},
+	"Final Fantasy IV": {
+		"title": "Final Fantasy IV",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Tonberry2k & Forsaken_Loser from www.spriters-resource.com"
+		"categories": ["snes", "nds", "final-fantasy", "final-fantasy-iv", "final-fantasy-4", "cecil-harvey", "cecil", "dark-knight", "animated"],
+		"version": "v1.0.0"
+	},
+	"Final Fantasy VI Advance": {
+		"title": "Final Fantasy VI Advance",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by daemoth, Tonberry2k, & Unknown from www.spriters-resource.com"
+		"categories": ["gba", "snes", "final-fantasy", "final-fantasy-vi", "final-fantasy-6", "advance", "terra-branford", "terra", "animated"],
+		"version": "v1.0.0"
+	},
+	"Fire Emblem - Shadow Dragon": {
+		"title": "Fire Emblem: Shadow Dragon",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped 	by Previous from www.spriters-resource.com"
+		"categories": ["nds", "fire-emblem", "fire-emblem-shadow-dragon", "shadow-dragon", "marth", "animated"],
+		"version": "v1.0.0"
+	},
+	"Locks Quest": {
+		"title": "Lock's Quest",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Arkinea from www.spriters-resource.com"
+		"categories": ["nds", "locks-quest", "lock", "animated"],
+		"version": "v1.0.0"
+	},
+	"Mario & Luigi - Partners in Time": {
+		"title": "Mario & Luigi: Partners in Time",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by A.J. Nitro from www.spriters-resource.com"
+		"categories": ["nds", "mario-&-luigi-partners-in-time", "mario-&-luigi", "partners-in-time", "mario", "baby-mario", "animated"],
+		"version": "v1.0.0"
+	},
+	"Megaman Battle Network - Operate Shooting Star": {
+		"title": "Megaman Battle Network: Operate Shooting Star",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Bacon from www.spriters-resource.com"
+		"categories": ["nds", "megaman-battle-network", "megaman", "battle-network", "operate-shooting-star", "translation", "fan-translation", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pac-Man": {
+		"title": "Pac-Man",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Galbo & 125scratch from www.spriters-resource.com"
+		"categories": ["nes", "pac-man", "namco", "champ", "championship", "animated"],
+		"version": "v1.0.0"
+	},
+	"Plants vs Zombies": {
+		"title": "Plants vs Zombies",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by StayPuft from www.spriters-resource.com"
+		"categories": ["nds", "plants-vs-zombies", "plants", "zombies", "sunflower", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon Black Version": {
+		"title": "Pokémon Black Version",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Ploaj from www.spriters-resource.com"
+		"categories": ["nds", "pokemon-black-version", "pokemon", "black", "black-version", "reshiram", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon Black Version 2": {
+		"title": "Pokémon Black Version 2",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Ploaj from www.spriters-resource.com"
+		"categories": ["nds", "pokemon-black-version-2", "pokemon", "black-2", "black-version-2", "kyurem", "kyurem-black", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon Blaze Black 2": {
+		"title": "Pokémon Blaze Black 2 Redux",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Ploaj from www.spriters-resource.com, Template from Allinxter"
+		"categories": ["nds", "pokemon-blaze-black-2-redux", "pokemon", "blaze-black-2", "blaze-black-2-redux", "kyurem", "kyurem-black", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon Crystal Version": {
+		"title": "Pokémon Crystal Version",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped 	by FrenchOrange from www.spriters-resource.com"
+		"categories": ["gbc", "pokemon-crystal-version", "pokemon", "crystal", "crystal-version", "suicune", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon Emerald Version": {
+		"title": "Pokémon Emerald Version",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped 	by Libby, Lugiathekingofantartica, & Polar Koala from www.spriters-resource.com, Template from NandoLawson"
+		"categories": ["gba", "pokemon-emerald-version", "pokemon", "emerald", "emerald-version", "rayquaza", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon FireRed Version": {
+		"title": "Pokémon FireRed Version",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped 	by MishuK9, & Sam from www.spriters-resource.com, Template from NandoLawson"
+		"categories": ["gba", "pokemon-firered-version", "pokemon", "firered", "firered-version", "charizard", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon HeartGold Version": {
+		"title": "Pokémon HeartGold Version",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Dazz, HackMew, KurainoOni, & Random Talking Bush from www.spriters-resource.com"
+		"categories": ["nds", "pokemon-heartgold-version", "pokemon", "heartgold", "heartgold-version", "ho-oh", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon LeafGreen Version": {
+		"title": "Pokémon LeafGreen Version",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by MishuK9, & Sam from www.spriters-resource.com, Template from NandoLawson"
+		"categories": ["gba", "pokemon-leafgreen-version", "pokemon", "leafgreen", "leafgreen-version", "venusaur", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon Mystery Dungeon - Explorers of the Spirit": {
+		"title": "Pokémon Mystery Dungeon: Explorers of the Spirit",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Naokohiro from www.spriters-resource.com"
+		"categories": ["nds", "pokemon-mystery-dungeon", "explorers-of-the-spirit", "darkrai", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon Platinum Version": {
+		"title": "Pokémon Platinum Version",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Random Talking Bush from www.spriters-resource.com"
+		"categories": ["nds", "pokemon-platinum-version", "pokemon", "platinum", "platinum-version", "giratina", "origin-form", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon Renegade Platinum": {
+		"title": "Pokémon Renegade Platinum",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Random Talking Bush from www.spriters-resource.com, Template from Bice"
+		"categories": ["nds", "pokemon-renegade-platinum", "pokemon", "renegade-platinum", "giratina", "origin-form", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon Ruby Version": {
+		"title": "Pokémon Ruby Version",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped 	by Libby, Lugiathekingofantartica, & Polar Koala from www.spriters-resource.com, Template from NandoLawson"
+		"categories": ["gba", "pokemon-ruby-version", "pokemon", "ruby", "ruby-version", "groudon", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon Sapphire Version": {
+		"title": "Pokémon Sapphire Version",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped 	by Libby, Lugiathekingofantartica, & Polar Koala from www.spriters-resource.com, Template from NandoLawson"
+		"categories": ["gba", "pokemon-sapphire-version", "pokemon", "sapphire", "sapphire-version", "kyogre", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon SoulSilver Version": {
+		"title": "Pokémon SoulSilver Version",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Dazz, HackMew, KurainoOni, & Random Talking Bush from www.spriters-resource.com"
+		"categories": ["nds", "pokemon-soulsilver-version", "pokemon", "soulsilver", "soulsilver-version", "lugia", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon Volt White 2": {
+		"title": "Pokémon Volt White 2 Redux",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Ploaj from www.spriters-resource.com, Template from Allinxter"
+		"categories": ["nds", "pokemon-volt-white-2-redux", "pokemon", "volt-white-2", "volt-white-2-redux", "kyurem", "kyurem-white", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon White Version": {
+		"title": "Pokémon White Version 2",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Ploaj from www.spriters-resource.com"
+		"categories": ["nds", "pokemon-white-version", "pokemon", "white", "white-version", "zekrom", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon White Version 2": {
+		"title": "Pokémon White Version 2",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Ploaj from www.spriters-resource.com"
+		"categories": ["nds", "pokemon-white-version-2", "pokemon", "white-2", "white-version-2", "kyurem", "kyurem-white", "animated"],
+		"version": "v1.0.0"
+	},
+	"Pokémon Yellow Version": {
+		"title": "Pokémon Yellow Version",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by FrenchOrange from www.spriters-resource.com"
+		"categories": ["gb", "gbc", "pokemon-yellow-version", "pokemon", "yellow", "yellow-version", "pikachu", "animated"],
+		"version": "v1.0.0"
+	},
+	"Sonic the Hedgehog": {
+		"title": "Sonic the Hedgehog",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Paraemon & Triangly from www.spriters-resource.com"
+		"categories": ["gen", "sonic-the-hedgehog", "sonic", "animated"],
+		"version": "v1.0.0"
+	},
+	"Sonic the Hedgehog 2": {
+		"title": "Sonic the Hedgehog 2",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Paraemon & Triangly from www.spriters-resource.com"
+		"categories": ["gen", "sonic-the-hedgehog-2", "tails", "animated"],
+		"version": "v1.0.0"
+	},
+	"Sonic the Hedgehog 3": {
+		"title": "Sonic the Hedgehog 3",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Paraemon & Triangly from www.spriters-resource.com"
+		"categories": ["gen", "sonic-the-hedgehog-2", "knuckles", "animated"],
+		"version": "v1.0.0"
+	},
+	"Super Mario Bros.": {
+		"title": "Super Mario Bros.",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Superjustinbros from www.spriters-resource.com"
+		"categories": ["nes", "super-mario-bros.", "super-mario", "mario", "animated"],
+		"version": "v1.0.0"
+	},
+	"Super Mario Bros. 2": {
+		"title": "Super Mario Bros. 2",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Andres1812 from www.spriters-resource.com"
+		"categories": ["nes", "super-mario-bros. 2", "super-mario-2", "mario-2", "mario", "super-mario-usa", "mario-usa", "animated"],
+		"version": "v1.0.0"
+	},
+	"Super Mario Bros. 3": {
+		"title": "Super Mario Bros. 3",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by 125scratch & Jermungandr from www.spriters-resource.com"
+		"categories": ["nes", "super-mario-bros. 2", "super-mario-3", "mario-3", "mario", "animated"],
+		"version": "v1.0.0"
+	},
+	"Super Mario Land": {
+		"title": "Super Mario Land",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by MisterMike & Sunny Cassette from www.spriters-resource.com"
+		"categories": ["gb", "super-mario-land", "mario-land", "mario", "animated"],
+		"version": "v1.0.0"
+	},
+	"Super Mario Land 2 - 6 Golden Coins": {
+		"title": "Super Mario Land 2: 6 Golden Coins",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Mister Man, P-Tux7, & Snessy the duck from www.spriters-resource.com"
+		"categories": ["gb", "super-mario-land-2", "mario-land-2", "6-golden-coins", "mario", "animated"],
+		"version": "v1.0.0"
+	},
+	"Super Mario RPG - Legend of the Seven Stars": {
+		"title": "Super Mario RPG: Legend of the Seven Stars",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Tonberry2k from www.spriters-resource.com"
+		"categories": ["snes", "super-mario-rpg", "mario-rpg", "legend-of-the-seven-stars", "mario", "animated"],
+		"version": "v1.0.0"
+	},
+	"TMNT IV - Turtles in Time.": {
+		"title": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+		"author": "ToxicityLvL",
+		"description": "Sprites ripped by Dolphman from www.spriters-resource.com"
+		"categories": ["snes", "tmnt", "turtles", "ninja", "turtles-in-time", "animated"],
+		"version": "v1.0.0"
+}
