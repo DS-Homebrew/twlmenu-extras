@@ -23,6 +23,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - [Equillun](https://github.com/Equillun): DSi Windows 95 skin
 - [HxOr1997](https://github.com/HotPizzaYT): 3DS Vaporwave skin
 - Nicoboy: 3DS Scooter Boys skin
+- [lamsmallcritter](https://github.com/lamsmallcritter): R4 Yume Nikki and Template skins
 - [lifehackerhansol](https://github.com/lifehackerhansol): DSi Hakui Koyori skin
 - [Pk11](https://github.com/epicpkmn11): 3DS Suicune skin, DSi Switch and iQue skins, Unlaunch Black, macOS, and Safari Pink backgrounds
 - [Rilukian](https://github.com/rilukian): Omori and PMD EoS 3DS skins
