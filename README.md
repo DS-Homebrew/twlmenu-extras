@@ -22,8 +22,9 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - [Emran_Ahmed](https://github.com/Emran54320): Unlaunch Call of Duty: Modern Warfare 2 background
 - [Equillun](https://github.com/Equillun): DSi Windows 95 skin
 - [HxOr1997](https://github.com/HotPizzaYT): 3DS Vaporwave skin
-- Nicoboy: 3DS Scooter Boys skin
 - [lifehackerhansol](https://github.com/lifehackerhansol): DSi Hakui Koyori skin
+- [Mr. Start](https://github.com/Arthur-Start): 3DS Mario Kart DS skin
+- Nicoboy: 3DS Scooter Boys skin
 - [Pk11](https://github.com/epicpkmn11): 3DS Suicune skin, DSi Switch and iQue skins, Unlaunch Black, macOS, and Safari Pink backgrounds
 - [Rilukian](https://github.com/rilukian): Omori and PMD EoS 3DS skins
 - [Rocket Robz](https://github.com/RocketRobz): R4 Style Savvy skins, DSi Default skins, and 3DS Default Light skin
@@ -36,4 +37,3 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - Vague Rant: Various GBA borders
 - [Void Star](https://github.com/unresolvedsymbol): Dark 3DS skin
 - Vulpes-Vulpeos: Uploading AKmenu Pico-8, Monster Hunter Generations, and Nintendo DS-Like skins
-- [Mr. Start](https://github.com/Arthur-Start): 3DS Mario Kart DS skin
