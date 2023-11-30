@@ -14,7 +14,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 
 ## Theme Credits:
 - [Allinxter](https://github.com/Allinxter): 3DS Kyurem, Tower Duo, The Legend of Zelda, Windows XP, Windows 7, Spider-Man, The Binding of Isaac, Phantom Thieves, Investigation Team, S.E.E.S., iDS, Terraria, Ace Attorney and Chrono Trigger skins, and DSi Persona 5 skin
-- [ctutts14](https://github.com/ctutts14): 3DS Sonic Rush and Corkboard Skins and Unlaunch Sonic Rush background
+- [ctutts14](https://github.com/ctutts14): 3DS Sonic Rush Skin and Unlaunch Sonic Rush background
 - [Dhalian.](https://github.com/Dhalian): 3DS Douze Coups de Midi skin, Unlaunch Douze Coups de Midi background 
 - [DVDo](https://github.com/DieGo367): DSi Minecraft, Relaxing Space, Bowser's Fury, and Lake Lapcat skins
 - [earedguitr](https://github.com/GriShafir): 3DS 3DarkS skin
