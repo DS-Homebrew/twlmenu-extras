@@ -16,6 +16,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - [Allinxter](https://github.com/Allinxter): 3DS Kyurem, Tower Duo, The Legend of Zelda, Windows XP, Windows 7, Spider-Man, The Binding of Isaac, Phantom Thieves, Investigation Team, S.E.E.S., iDS, Terraria, Ace Attorney and Chrono Trigger skins, and DSi Persona 5 skin
 - [ctutts14](https://github.com/ctutts14): 3DS Sonic Rush and Corkboard Skins and Unlaunch Sonic Rush background
 - [Dhalian.](https://github.com/Dhalian): 3DS Douze Coups de Midi skin, Unlaunch Douze Coups de Midi background 
+- doomguy9: DSi Breaking Bad skin
 - [DVDo](https://github.com/DieGo367): DSi Minecraft, Relaxing Space, Bowser's Fury, and Lake Lapcat skins
 - [earedguitr](https://github.com/GriShafir): 3DS 3DarkS skin
 - [Egon370](https://github.com/Egon370): Unlaunch Minecraft Menu background
@@ -26,6 +27,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - [Mr. Start](https://github.com/Arthur-Start): 3DS Mario Kart DS skin
 - Nicoboy: 3DS Scooter Boys skin
 - [Pk11](https://github.com/epicpkmn11): 3DS Suicune skin, DSi Switch and iQue skins, Unlaunch Black, macOS, and Safari Pink backgrounds
+- Red-man: 3DS Red skin
 - [Rilukian](https://github.com/rilukian): Omori and PMD EoS 3DS skins
 - [Rocket Robz](https://github.com/RocketRobz): R4 Style Savvy skins, DSi Default skins, and 3DS Default Light skin
 - [Shiori](https://github.com/EgoisTamamono): 3DS Rune Factory 3 and Love Plus skins 
