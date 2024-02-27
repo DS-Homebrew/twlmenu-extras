@@ -27,7 +27,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - [Mr. Start](https://github.com/Arthur-Start): 3DS Mario Kart DS skin
 - Nicoboy: 3DS Scooter Boys skin
 - [Pk11](https://github.com/epicpkmn11): 3DS Suicune skin, DSi Switch and iQue skins, Unlaunch Black, macOS, and Safari Pink backgrounds
-- Red-man: 3DS Red skin
+- Red-man: 3DS Red and Blue skins
 - [Rilukian](https://github.com/rilukian): Omori and PMD EoS 3DS skins
 - [Rocket Robz](https://github.com/RocketRobz): R4 Style Savvy skins, DSi Default skins, and 3DS Default Light skin
 - [Shiori](https://github.com/EgoisTamamono): 3DS Rune Factory 3 and Love Plus skins 
