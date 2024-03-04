@@ -446,6 +446,11 @@
 		"description": "A icon for the rom hack Mega Man World 5 DX",
 		"categories": ["megaman", "gbc", "icon"]
 	},
+	"Pull Pull Pullpy": {
+		"title": "Pull Pull Pullpy",
+		"author": "Rocket Robz",
+		"categories": ["nds", "pull", "pullpy"]
+	},
 	"glitchDS.nds": {
 		"title": "glitchDS",
 		"author": "ryba"
