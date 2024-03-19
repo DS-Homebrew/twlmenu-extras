@@ -1,5 +1,5 @@
 ---
-author: Dekano
+author: Rayhan
 category:
 - omori
 - indie
