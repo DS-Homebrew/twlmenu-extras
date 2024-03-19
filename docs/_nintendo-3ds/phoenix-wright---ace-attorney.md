@@ -12,12 +12,12 @@ created: '2023-03-14T23:13:29Z'
 description: Objection! Think you can bluff your way of this trial?
 downloads:
   Ace Attorney.7z:
-    size: 3909716
+    size: 3910134
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Ace
       Attorney.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Ace%20Attorney/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Ace%20Attorney/icon.png
-last_updated: 2023-11-25 at 22:21 (UTC)
+last_updated: 2024-03-19 at 20:45 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -29,9 +29,11 @@ screenshots:
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Ace%20Attorney/screenshots/macro.png
 - description: Pergame_settings
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Ace%20Attorney/screenshots/pergame_settings.png
+- description: Support
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Ace%20Attorney/screenshots/support.png
 systems:
 - Nintendo 3DS
 title: Phoenix Wright - Ace Attorney
-updated: '2023-11-25T22:21:29Z'
+updated: '2024-03-19T20:45:03Z'
 version: v1.1.1
 ---
