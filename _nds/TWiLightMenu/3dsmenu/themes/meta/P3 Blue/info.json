@@ -1,7 +1,7 @@
 {
-	"title": "Persona 3 - S.E.E.S. (Blue)",
+	"title": "Persona 3 Reload - S.E.E.S.",
 	"author": "Allinxter",
-	"description": "This skin was made for an old version of TWiLight Menu++ and hasn't been updated yet. Some graphics will not be displayed. Warning: Even with this skin on, your console won't work during the Dark Hour.",
-	"categories": ["persona", "sees", "tartarus", "minato", "arisato", "yuki", "makoto"],
-	"version": "v1.2.1"
+	"description": "Warning: Even with this skin on, your console won't work during the dark hour.",
+	"categories": ["persona", "sees", "tartarus", "minato", "arisato", "yuki", "makoto", "yukari", "junpei", "akihiko", "mitsuru", "fuuka", "aigis", "ken", "koromaru", "shinjiro"],
+	"version": "v2.0.2"
 }

@@ -13,17 +13,19 @@ description: 'Speed across the crystal clear waters of Lake Lapcat while on the 
   of a plesiosaur! BGM: Plessie''s Wild Ride ~On Open Waters~'
 downloads:
   Lake Lapcat.7z:
-    size: 5346379
+    size: 3490740
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Lake
       Lapcat.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Lake%20Lapcat/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Lake%20Lapcat/icon.png
-last_updated: 2023-07-05 at 10:37 (UTC)
+last_updated: 2023-12-15 at 23:08 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: App list
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Lake%20Lapcat/screenshots/app-list.png
+- description: Macro mode
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Lake%20Lapcat/screenshots/macro-mode.png
 - description: Per game settings
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Lake%20Lapcat/screenshots/per-game-settings.png
 - description: Select menu
@@ -31,6 +33,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Lake Lapcat
-updated: '2023-07-05T10:37:07Z'
-version: v1.0.1
+updated: '2023-12-15T23:08:11Z'
+version: v1.0.2
 ---
