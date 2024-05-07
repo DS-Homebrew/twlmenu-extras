@@ -39,3 +39,4 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - Vague Rant: Various GBA borders
 - [Void Star](https://github.com/unresolvedsymbol): Dark 3DS skin
 - Vulpes-Vulpeos: Uploading AKmenu Pico-8, Monster Hunter Generations, and Nintendo DS-Like skins
+- [maniacnny](https://github.com/maniacnny): Metroid R4 Themes
