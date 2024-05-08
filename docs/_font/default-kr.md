@@ -10,7 +10,7 @@ created: '2022-02-21T02:38:34Z'
 description: The default font but with more Hangul (Noto Sans KR)
 downloads:
   Default KR.7z:
-    size: 109735
+    size: 109731
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/extras/fonts/Default
       KR.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/extras/fonts/meta/Default%20KR/icon.png
