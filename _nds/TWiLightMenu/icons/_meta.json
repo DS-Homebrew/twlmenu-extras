@@ -1,4 +1,18 @@
-{
+{	
+	"GM9iGC": {
+		"title": "Godmode9(i) DS Cartridge",
+		"author": "Modjac105",
+		"description": "Spinning DS cartrige with Godmode9(i) logo",
+		"categories": ["nds", "GM9i", "DScart", "animated"],
+		"version": "v1.1.0"
+	},
+	"DSGCblank": {
+		"title": "Blank DS Game Cartridge",
+		"author": "Modjac105",
+		"description": "Blank Spinnning DS cartridge. Feel free to add your own designs with NDS banner editor"
+		"categories": ["nds", "DScart", "animated"],
+		"version": "v1.1.0"
+	},
 	"default-a26": {
 		"title": "Default Atari 2600",
 		"author": "Rocket Robz",
