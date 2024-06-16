@@ -9,7 +9,7 @@
 	"DSGCblank": {
 		"title": "Blank DS Game Cartridge",
 		"author": "Modjac105",
-		"description": "Blank Spinnning DS cartridge. Feel free to add your own designs with NDS banner editor"
+		"description": "Blank Spinnning DS cartridge. Feel free to add your own designs with NDS banner editor",
 		"categories": ["nds", "DScart", "animated"],
 		"version": "v1.1.0"
 	},
