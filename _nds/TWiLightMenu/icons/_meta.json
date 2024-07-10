@@ -1,4 +1,136 @@
-{	
+{	 
+      "Balloon Fight": {
+        "title": "Ballon Fight",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: Ragey, Bluestone (The Spriter's Resource)",
+        "categories": ["nes"]
+      },
+      "Bubble Bobble": {
+        "title": "Bubble Bobble (NES)",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: Jermungandr, Black Squirrel (The Spriter's Resource)",
+        "categories": ["nes"]
+      },
+      "Castlevania - Aria of Sorrow": {
+        "title": "Castlevania - Aria of Sorrow",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: SmithyGCN (The Spriter's Resource)",
+        "categories": ["gba"]
+      },
+      "Donkey Kong Country": {
+        "title": "Donkey Kong Country",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: Mattress87, Mr. L, Tonberry2k (The Spriter's Resource)",
+        "categories": ["snes", "animated"]
+      },
+      "Dragon Warrior III": {
+        "title": "Dragon Warrior III (GBC)",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: DrakeWing (The Spriter's Resource)",
+        "categories": ["gbc"]
+      },
+      "Dragon Warrior Monsters": {
+        "title": "Dragon Warrior Monsters",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: Bean (The Spriter's Resource)",
+        "categories": ["gbc"]
+      },
+      "DuckTales": {
+        "title": "DuckTales",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: JOBNED1, Raposa Cadela (The Spriter's Resource)",
+        "categories": ["nes"]
+      },
+      "EarthBound": {
+        "title": "EarthBound",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: Depressed Mario, M. Bison, Matheus123, Tonberry2k, Murphmario (The Spriter's Resource)",
+        "categories": ["snes"]
+      },
+      "Faxanadu": {
+        "title": "Faxanadu",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: HylianFox (The Spriter's Resource)",
+        "categories": ["nes"]
+      },
+      "Game & Watch Gallery 2": {
+        "title": "Game & Watch Gallery 2",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: Tigt the Bandit(The Spriter's Resource)",
+        "categories": ["gbc"]
+      },
+      "Gargoyle's Quest": {
+        "title": "Gargoyle's Quest",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: DeathBringer (The Spriter's Resource)",
+        "categories": ["gb"]
+      },
+      "Ghost Trick - Phantom Detective": {
+        "title": "Ghost Trick - Phantom Detective",
+        "author": "Leach_Beech",
+        "categories": ["nds"]
+      },
+      "Hotel Dusk - Room 215 (Europe)": {
+        "title": "Hotel Dusk - Room 215 (Europe)",
+        "author": "Leach_Beech",
+        "categories": ["nds"]
+      },
+      "Hotel Dusk - Room 215 (North America)": {
+        "title": "Hotel Dusk - Room 215 (North America)",
+        "author": "Leach_Beech",
+        "categories": ["nds"]
+      },
+      "KuruKuru Kururin": {
+        "title": "KuruKuru Kururin",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: Mr. C (The Spriter's Resource)",
+        "categories": ["gba"]
+      },
+      "Little Samson": {
+        "title": "Little Samson",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: Belial, Vanzuro Izuno Xin (The Spriter's Resource)",
+        "categories": ["nes"]
+      },
+      "Mario Tennis": {
+        "title": "Mario Tennis (GBC)",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: M. Bison, Ragey (The Spriter's Resource)",
+        "categories": ["gbc"]
+      },
+      "QIX": {
+        "title": "QIX",
+        "author": "Leach_Beech",
+        "categories": ["gb"]
+      },
+      "R-Type DX": {
+        "title": "R-Type DX",
+        "author": "Leach_Beech",
+        "categories": ["gbc"]
+      },
+      "The Legend of Zelda - Link's Awakening DX": {
+        "title": "The Legend of Zelda - Link's Awakening DX",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: Previous (The Spriter's Resource)",
+        "categories": ["gbc"]
+      },
+      "Toki Tori": {
+        "title": "Toki Tori (GBC)",
+        "author": "Leach_Beech",
+        "categories": ["gbc"]
+      },
+      "Wario Land II": {
+        "title": "Wario Land II",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: Tox2564 (The Spriter's Resource)",
+        "categories": ["gbc"]
+      },
+      "Wario Land 3": {
+        "title": "Wario Land 3",
+        "author": "Leach_Beech",
+        "description": "Credit for the original sprites: ShyGuyXXL (The Spriter's Resource)",
+        "categories": ["gbc"]
+      },
 	"GM9iGC": {
 		"title": "Godmode9(i) DS Cartridge",
 		"author": "Modjac105",
