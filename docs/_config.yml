@@ -14,8 +14,8 @@ collections:
     output: true
   r4-original:
     output: true
-  # wood-ui:
-  #   output: true
+  wood-ui:
+    output: true
   font:
     output: true
   icon:
