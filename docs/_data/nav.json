@@ -19,6 +19,11 @@
 		"key": "r"
 	},
 	{
+		"title": "Wood UI",
+		"url": "/wood-ui",
+		"key": "w"
+	},
+	{
 		"title": "Fonts",
 		"system-title": "Font",
 		"url": "/font",

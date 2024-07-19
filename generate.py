@@ -54,16 +54,16 @@ def getDefaultIcon(path: str) -> int:
 
 	if "3dsmenu/" in path:
 		return 0
-	elif "akmenu/" in path:
-		return -1
 	elif "dsimenu/" in path:
 		return 1
 	elif "r4menu/" in path:
 		return 2
-	elif "extras/fonts/" in path:
+	elif "akmenu/" in path:
 		return 3
-	elif "icons/" in path:
+	elif "extras/fonts/" in path:
 		return 4
+	elif "icons/" in path:
+		return 5
 	return -1
 
 
@@ -141,7 +141,7 @@ icons = []
 iconIndex = 0
 
 # Make 3DS, DSi, R4 icons
-for file in ["3ds.png", "dsi.png", "r4.png", "font.png"]:
+for file in ["3ds.png", "dsi.png", "r4.png", "ak.png", "font.png"]:
 	with Image.open(open(path.join("unistore", "icons", file), "rb")) as icon:
 		if not path.exists(path.join("unistore", "temp")):
 			mkdir(path.join("unistore", "temp"))
@@ -161,10 +161,6 @@ files += [f for f in glob("_nds/TWiLightMenu/unlaunch/backgrounds/*.gif")]
 # Generate UniStore entries
 for skin in files:
 	print(skin)
-
-	# Skip Wood UI for now
-	if(getTheme(skin) == "Wood UI"):
-		continue
 
 	info = {}
 	updated = datetime.utcfromtimestamp(0)

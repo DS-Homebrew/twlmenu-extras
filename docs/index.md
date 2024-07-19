@@ -14,7 +14,7 @@ Here you can find all the skins for TWiLight Menu++ from the [DS-Homebrew/twlmen
 To see all available skins for the theme you're using, click the theme in the top red bar.
 {:.i18n .innerHTML-home-2}
 
-To make your own skins, there's a [wiki page on how to make Nintendo DSi / Nintendo 3DS skins](https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins). For Original R4 skins simply edit the images from an existing skin.
+To make your own skins, there's a [wiki page on how to make Nintendo DSi / Nintendo 3DS skins](https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins). For Original R4 and Wood UI skins simply edit the images from an existing skin.
 {:.i18n .innerHTML-home-3}
 
 If you want your skin added here, make a pull request on the GitHub repository or send it and ask on the [DS⁽ⁱ⁾ Mode Hacking Discord server](https://discord.gg/yD3spjv).
