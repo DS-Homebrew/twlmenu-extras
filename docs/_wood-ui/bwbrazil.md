@@ -14,7 +14,9 @@ image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/
 last_updated: 2020-05-05 at 03:52 (UTC)
 layout: app
 license: ''
-screenshots: []
+screenshots:
+- description: App list
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/BWBrazil/screenshots/app-list.png
 systems:
 - Wood UI
 title: BWBrazil

@@ -1,6 +1,7 @@
 ---
-author: ''
-category: []
+author: Xemnas
+category:
+- 3ds
 console: Wood UI
 created: '2020-06-01T23:44:11Z'
 description: ''
