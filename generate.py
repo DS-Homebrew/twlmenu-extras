@@ -281,7 +281,7 @@ for skin in files:
 		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin
 	elif skin[-3:] == "bin":
 		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
-	elif web["icon_index"] < 3:
+	elif web["icon_index"] < 4:
 		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/" + ["3ds", "dsi", "r4", "ak"][web["icon_index"]] + ".png"
 	else:
 		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/icon.png"
