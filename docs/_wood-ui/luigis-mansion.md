@@ -9,8 +9,8 @@ downloads:
     size: 74693
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/Luigi's
       Mansion.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Luigi%27s%20Mansion/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Luigi%27s%20Mansion/icon.png
+icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/ak.png
+image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/ak.png
 last_updated: 2020-05-05 at 03:52 (UTC)
 layout: app
 license: ''

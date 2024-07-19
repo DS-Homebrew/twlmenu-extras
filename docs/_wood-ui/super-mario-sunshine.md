@@ -9,8 +9,8 @@ downloads:
     size: 97395
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/super
       mario sunshine.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/super%20mario%20sunshine/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/super%20mario%20sunshine/icon.png
+icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/ak.png
+image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/ak.png
 last_updated: 2020-05-05 at 03:52 (UTC)
 layout: app
 license: ''

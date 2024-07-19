@@ -9,8 +9,8 @@ downloads:
     size: 54861
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/Pokemon
       Black and White.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Pokemon%20Black%20and%20White/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Pokemon%20Black%20and%20White/icon.png
+icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/ak.png
+image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/ak.png
 last_updated: 2020-05-05 at 03:52 (UTC)
 layout: app
 license: ''

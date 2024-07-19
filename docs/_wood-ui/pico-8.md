@@ -8,8 +8,8 @@ downloads:
   PICO-8.7z:
     size: 191670
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/PICO-8.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/PICO-8/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/PICO-8/icon.png
+icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/ak.png
+image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/ak.png
 last_updated: 2020-05-05 at 03:52 (UTC)
 layout: app
 license: ''
