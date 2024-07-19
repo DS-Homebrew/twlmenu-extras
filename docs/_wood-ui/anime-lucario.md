@@ -1,6 +1,9 @@
 ---
 author: ''
-category: []
+category:
+- pokemon
+- lucario
+color: '#414d54'
 console: Wood UI
 created: '2020-06-01T23:44:11Z'
 description: ''
@@ -9,8 +12,8 @@ downloads:
     size: 174130
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/Anime
       Lucario.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/ak.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/ak.png
+icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Anime%20Lucario/icon.png
+image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Anime%20Lucario/icon.png
 last_updated: 2020-05-05 at 03:52 (UTC)
 layout: app
 license: ''
