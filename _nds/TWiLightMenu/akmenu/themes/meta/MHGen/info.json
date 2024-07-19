@@ -1,0 +1,6 @@
+{
+	"title": "MHGen",
+	"author": "Vulpes-Vulpeos",
+	"description": "There are several backgrounds for top screen for every village. To change it you need to rename background file to `upper_screen.bmp` in theme folder.",
+	"categories": ["Monster Hunter"]
+}
