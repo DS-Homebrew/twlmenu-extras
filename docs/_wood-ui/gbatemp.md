@@ -1,24 +1,24 @@
 ---
-author: LeonPro12
+author: ''
 category:
 - GBAtemp
-color: '#5d84a7'
+color: '#a36228'
 console: Wood UI
 created: '2020-06-01T23:44:11Z'
 description: ''
 downloads:
-  gbatemp.v3.7z:
-    size: 23304
-    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/gbatemp.v3.7z
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/gbatemp.v3/icon.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/gbatemp.v3/icon.png
-last_updated: 2020-05-05 at 05:11 (UTC)
+  gbatemp.7z:
+    size: 105846
+    url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/gbatemp.7z
+icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/gbatemp/icon.png
+image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/gbatemp/icon.png
+last_updated: 2020-05-05 at 03:52 (UTC)
 layout: app
 license: ''
 screenshots: []
 systems:
 - Wood UI
 title: GBAtemp
-updated: '2020-05-05T05:11:21Z'
-version: v3
+updated: '2020-05-05T03:52:09Z'
+version: ???
 ---
