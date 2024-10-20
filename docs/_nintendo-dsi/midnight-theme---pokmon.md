@@ -1,9 +1,15 @@
 ---
-author: ''
-category: []
+author: Xuhbe
+category:
+- pokemon
+- night
+- Moon
+- Darkrai
+- Midnight
 console: Nintendo DSi
 created: '2024-10-20T02:49:39Z'
-description: ''
+description: This is a port of the a theme originally made by Kazoomaster on Theme
+  Plaza (https://themeplaza.art/item/32746)
 downloads:
   Midnight Theme.7z:
     size: 5146730
@@ -17,7 +23,7 @@ license: ''
 screenshots: []
 systems:
 - Nintendo DSi
-title: Midnight Theme
+title: Midnight Theme - Pokémon
 updated: '2024-10-20T01:17:20Z'
-version: v1.0.0
+version: v1.0
 ---
