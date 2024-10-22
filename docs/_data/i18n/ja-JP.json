@@ -142,7 +142,7 @@
 	"home-1": "ここでは、<a href=\"https://github.com/DS-Homebrew/twlmenu-extras\">DS-Homebrew/twlmenu-extras</a>リポジトリからすべてのTWiLight Menu++のスキンを見つけることができます。",
 	"home-2": "使用するテーマで利用可能なすべてのスキンを教示するには、上部の赤いバーでテーマをクリックしてください。",
 	"home-3": "自分のスキンを作るには、<a href=\"https://wiki.ds-homebrew.com/ja-JP/twilightmenu/custom-dsi-3ds-skins\">ニンテンドーDSi・ニンテンドー3DSのスキンを作成方法のウィキページ</a>があります。オリジナルR4のスキンは、単に既存のスキンから画像を編集します。",
-	"home-4": "ここにスキンを追加したい場合は、GitHubリポジトリでプルリクエストを作るか、<a href=\"https://discord.gg/yD3spjv\">DS⁽ⁱ⁾ Mode HackingのDiscordサーバー</a>に送信して依頼してください。",
+	"home-4": "ここにスキンを追加したい場合は、GitHubリポジトリでプルリクエストを作るか、<a href=\"https://discord.gg/fCzqcWteC4\">DS⁽ⁱ⁾ Mode HackingのDiscordサーバー</a>に送信して依頼してください。",
 	"home-5": "3DSをお使い場合は、Universal-Updaterを使ってこのサイトにあるすべてのスキンを3DSで直接ダウンロードできます。UniStoreを追加するには、設定から<code>UniStoreを選択……</code>を選択し、下の+ボタンをタップし、 <code>TWiLight Menu++ Skins</code>を選択して追加してください。追加された後に、UniStoreの選択メニューから<code>twlmenu-skins.unistore</code>を選択するだけで、切り替わります。",
 	"last-updated-skins": "最近更新されたスキン： "
 }

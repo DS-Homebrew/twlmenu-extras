@@ -132,7 +132,7 @@
 	"welcome": "Skin untuk TWiLight Menu++!",
 	"home-1": "Di sini kamu dapat menemukan segala skin untuk TWiLight Menu++ dari <a href=\"https://github.com/DS-Homebrew/twlmenu-extras\">repositori</a> DS-Homebrew.",
 	"home-2": "Untuk membuat skin tema sendiri, terdapat halaman wiki <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\"> yang mengulas cara membuat skin DSi / 3DS</a>. Untuk tema R4, cukup sunting gambarnya dari skin yang telah ada.",
-	"home-3": "Jika kamu ingin menambahkan skin di sini, buat Pull Request di repositori Github atau tanyakan di <a href=\"https://discord.gg/yD3spjv\">DS⁽ⁱ⁾ Mode Hacking Discord server</a>.",
+	"home-3": "Jika kamu ingin menambahkan skin di sini, buat Pull Request di repositori Github atau tanyakan di <a href=\"https://discord.gg/fCzqcWteC4\">DS⁽ⁱ⁾ Mode Hacking Discord server</a>.",
 	"home-4": "Jika berada di 2DS atau 3DS, semua skin pada situs ini dapat diunduh langsung dari konsol menggunakan Universal-Updater. Untuk menambahkan UniStore; masuk ke pengaturan, pilih <code>Select UniStore...</code>, ketuk tombol + di bawah, dan pilih <code>TWiLight Menu++ Skins</code>. Setelah ditambah, tinggal pilih <code>twlmenu-skins.unistore</code> dari menu Select UniStore untuk beralih ke situ.",
 	"last-updated-skins": "Terakhir diperbarui: "
 }

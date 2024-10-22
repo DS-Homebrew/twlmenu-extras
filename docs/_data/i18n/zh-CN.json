@@ -132,7 +132,7 @@
 	"welcome": "TWiLight Menu++ 皮肤",
 	"home-1": "您可以在这里找到TWiLight Menu的所有皮肤： <a href=\"https://github.com/DS-Homebrew/twlmenu-extras\">DS-Homebrew/twlmenu-extras</a>",
 	"home-2": "想制作属于自己的皮肤的话, 有一个 <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\">关于如何制作Nintendo DSi/Nintendo 3DS皮肤的Wiki页面</a>。 对于R4原生皮肤来说，可以简单的编辑它的图像。",
-	"home-3": "如果想要让你的皮肤出现在这里，就在Github仓库上提出拉取请求(pull request) 或者发送到 <a href=\"https://discord.gg/yD3spjv\">DS⁽ⁱ⁾ Mode Hacking Discord 服务器</a>上。",
+	"home-3": "如果想要让你的皮肤出现在这里，就在Github仓库上提出拉取请求(pull request) 或者发送到 <a href=\"https://discord.gg/fCzqcWteC4\">DS⁽ⁱ⁾ Mode Hacking Discord 服务器</a>上。",
 	"home-4": "If you're on a 2DS or 3DS, all of the skins on this site can be downloaded directly on console using Universal-Updater. To add the UniStore go to settings, choose <code>Select UniStore...</code>, tap the + button at the bottom, and select <code>TWiLight Menu++ Skins</code> to add. Once it's added simply select <code>twlmenu-skins.unistore</code> from the Select UniStore menu to switch to it.",
 	"last-updated-skins": "最新更新： "
 }

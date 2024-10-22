@@ -132,7 +132,7 @@
 	"welcome": "TWiLight Menu++ szkinek!",
 	"home-1": "Itt találhatod az összes szkint a TWiLight Menu++-hoz a <a href=\"https://github.com/DS-Homebrew/twlmenu-extras\">DS-Homebrew/twlmenu-extras</a> repository-ból.",
 	"home-2": "Saját szkinek készítéséhez itt találhat a <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\">wiki oldal, arról, hogyan készíts Nintendo DSi / Nintendo 3DS szkineket</a>. Az eredeti R4 szkinhez egyszerűen szerkeszd a képeket a meglévő szkinben.",
-	"home-3": "Ha szeretnéd, hogy a szkined hozzá legyen adva itt a listához, hajts végre egy pull request-et a GitHub repository-ban vagy küld el azt, majd érdeklődj utána a <a href=\"https://discord.gg/yD3spjv\">DS⁽ⁱ⁾ Mode Hacking Discord szerveren</a>.",
+	"home-3": "Ha szeretnéd, hogy a szkined hozzá legyen adva itt a listához, hajts végre egy pull request-et a GitHub repository-ban vagy küld el azt, majd érdeklődj utána a <a href=\"https://discord.gg/fCzqcWteC4\">DS⁽ⁱ⁾ Mode Hacking Discord szerveren</a>.",
 	"home-4": "Ha 2DS-t vagy 3DS-t használsz, az összes, ezen az oldalon található skin letölthető közvetlenül a konzolra az Universal-Updater segítségével. Az UniStore hozzáadásához menj a beállításokhoz, válaszd a <code>UniStore kiválasztása...</code> opciót, majd koppints a + gombra alul és a válaszd a <code>TWiLight Menu++ Skins</code> áruházat a hozzáadásához. Miután hozzáadtad, egyszerűen válaszd ki a <code>twlmenu-skins.unistore</code> menüpontot aZ UniStore kiválasztása menüből, hogy átkapcsolj rá.",
 	"last-updated-skins": "Utoljára frissített: "
 }

@@ -132,7 +132,7 @@
 	"welcome": "Skins do TWiLight Menu++!",
 	"home-1": "Aqui podes encontrar todas as skins para o TWiLight Menu++ do repositório <a href=\"https://github.com/DS-Homebrew/twlmenu-extras\">DS-Homebrew/twlmenu-extras</a>.",
 	"home-2": "Para fazeres as tuas próprias skins, existe uma <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\">página da wiki sobre como fazer skins Nintendo DSi / Nintendo 3DS</a>. Para skins R4 Original simplesmente editem as imagens de uma skin existente.",
-	"home-3": "Se queres que a tua skin seja adicionada aqui, faz um pull request no repositório do GitHub ou envia a nós e pede-nos no <a href=\"https://discord.gg/yD3spjv\">Servidor do Discord DS⁽ⁱ⁾ Mode Hacking</a>.",
+	"home-3": "Se queres que a tua skin seja adicionada aqui, faz um pull request no repositório do GitHub ou envia a nós e pede-nos no <a href=\"https://discord.gg/fCzqcWteC4\">Servidor do Discord DS⁽ⁱ⁾ Mode Hacking</a>.",
 	"home-4": "Se estás num Sistema 2DS ou 3DS, todas as skins neste website podem ser obtidas directamente no sistema ao usar o Universal-Updater. Para adicionar a UniStore vá para as definições, toque em <code>Escolher UniStore...</code>, toque no botão + no fundo e seleccione <code>TWiLight Menu++ Skins</code> para adicionar. Assim adicionado, simplesmente escolha <code>twlmenu-skins.unistore</code> no menu Escolher UniStore para trocar entre UniStores.",
 	"last-updated-skins": "Última atualização: "
 }
