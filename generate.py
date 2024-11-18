@@ -13,7 +13,7 @@ from os import listdir, makedirs, mkdir, path, system
 from PIL import Image
 from py7zr import SevenZipFile
 
-SKIN_FOLDER_REGEX = r"(.*?\/?)(?:theme.ini|background|battery|grf|quickmenu|ui|video|volume|(?:bckgrd_1|bckgrd_2|icons|logo)\.png|(?:large|small)(?:-ds|-dsi)?\.nftr)$"
+SKIN_FOLDER_REGEX = r"(.*?\/?)(?:theme.ini|background|battery|grf|quickmenu|ui|video|volume|(?:bckgrd_1|bckgrd_2|icons|logo)\.png|(?:large|small)(?:-ds|-dsi)?\.nftr|uisettings\.ini)$"
 
 
 def webName(name: str) -> str:
