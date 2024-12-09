@@ -1,6 +1,7 @@
 ---
-author: ''
-category: []
+author: ThatOnePerson
+category:
+- space
 console: R4 Original
 created: '2024-12-09T10:59:34Z'
 description: ''
@@ -13,7 +14,9 @@ image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unist
 last_updated: 2024-11-28 at 23:03 (UTC)
 layout: app
 license: ''
-screenshots: []
+screenshots:
+- description: Main menu
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Galactic/screenshots/main-menu.png
 systems:
 - R4 Original
 title: Galactic
