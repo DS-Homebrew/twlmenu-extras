@@ -4,6 +4,7 @@
 	"title-nintendo-3ds": "crwdns23330:0crwdne23330:0",
 	"title-nintendo-dsi": "crwdns23332:0crwdne23332:0",
 	"title-r4-original": "crwdns23334:0crwdne23334:0",
+	"title-wood-ui": "crwdns42376:0crwdne42376:0",
 	"title-font": "crwdns30062:0crwdne30062:0",
 	"title-icon": "crwdns30064:0crwdne30064:0",
 	"title-unlaunch-backgrounds": "crwdns23336:0crwdne23336:0",
@@ -20,6 +21,7 @@
 	"nintendo-3ds": "crwdns23358:0crwdne23358:0",
 	"nintendo-dsi": "crwdns23360:0crwdne23360:0",
 	"r4-original": "crwdns23362:0crwdne23362:0",
+	"wood-ui": "crwdns42378:0crwdne42378:0",
 	"font": "crwdns30066:0crwdne30066:0",
 	"fonts": "crwdns30070:0crwdne30070:0",
 	"icon": "crwdns30068:0crwdne30068:0",
@@ -141,8 +143,8 @@
 	"welcome": "crwdns23472:0crwdne23472:0",
 	"home-1": "crwdns23482:0crwdne23482:0",
 	"home-2": "crwdns37453:0crwdne37453:0",
-	"home-3": "crwdns37455:0crwdne37455:0",
-	"home-4": "crwdns37457:0crwdne37457:0",
+	"home-3": "crwdns42380:0crwdne42380:0",
+	"home-4": "crwdns42382:0crwdne42382:0",
 	"home-5": "crwdns37459:0crwdne37459:0",
 	"last-updated-skins": "crwdns23480:0crwdne23480:0"
 }
