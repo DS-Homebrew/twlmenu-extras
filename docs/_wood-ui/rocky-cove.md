@@ -10,12 +10,12 @@ created: '2020-06-01T23:44:11Z'
 description: ''
 downloads:
   Rocky Cove.7z:
-    size: 173740
+    size: 174232
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/Rocky
       Cove.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Rocky%20Cove/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/akmenu/themes/meta/Rocky%20Cove/icon.png
-last_updated: 2020-05-05 at 03:52 (UTC)
+last_updated: 2024-12-29 at 01:42 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -24,6 +24,6 @@ screenshots:
 systems:
 - Wood UI
 title: Rocky Cove
-updated: '2020-05-05T03:52:09Z'
+updated: '2024-12-29T01:42:13Z'
 version: v1.0.0
 ---
