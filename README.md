@@ -23,7 +23,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - [Egon370](https://github.com/Egon370): Unlaunch Minecraft Menu background
 - [Emran_Ahmed](https://github.com/Emran54320): Unlaunch Call of Duty: Modern Warfare 2 background
 - [Equillun](https://github.com/Equillun): DSi Windows 95 skin
-- [Gemdation](https://github.com/Gemdation) Classic DS Menu skin
+- [Gemdation](https://github.com/Gemdation): Classic DS Menu skin
 - [HxOr1997](https://github.com/HotPizzaYT): 3DS Vaporwave skin
 - [LeafedFox](https://github.com/leafedfox): DSi Blahaj Skin
 - [lifehackerhansol](https://github.com/lifehackerhansol): DSi Hakui Koyori skin
