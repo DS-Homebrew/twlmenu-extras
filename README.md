@@ -13,6 +13,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - [Pk11](https://github.com/epicpkmn11): Adding UniStore generation
 
 ## Theme Credits:
+- [Gemdation](https://github.com/Gemdation) Classic DS Menu skin
 - [Allinxter](https://github.com/Allinxter): 3DS Kyurem, Tower Duo, The Legend of Zelda, Windows XP, Windows 7, Spider-Man, The Binding of Isaac, Phantom Thieves, Investigation Team, S.E.E.S., iDS, Terraria, Ace Attorney and Chrono Trigger skins, and DSi Persona 5 skin
 - [blloop](https://github.com/blloop): Grand Theft Auto CW Skin
 - [ctutts14](https://github.com/ctutts14): 3DS Sonic Rush and Corkboard Skins and Unlaunch Sonic Rush background
