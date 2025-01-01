@@ -4,7 +4,7 @@
 	"title-nintendo-3ds": "Nintendo 3DS | Skin TWiLight Menu++",
 	"title-nintendo-dsi": "Nintendo DSi | Skin TWiLight Menu++",
 	"title-r4-original": "R4 Original | Skin TWiLight Menu++",
-	"title-wood-ui": "Wood UI | TWiLight Menu++ Skins",
+	"title-wood-ui": "Wood UI | Skin TWiLight Menu++",
 	"title-font": "Font | Skin TWiLight Menu++",
 	"title-icon": "Ikon | Skin TWiLight Menu++",
 	"title-unlaunch-backgrounds": "Latar Belakang Unlaunch | Skin TWiLight Menu++",
@@ -143,8 +143,8 @@
 	"welcome": "Skin TWiLight Menu++!",
 	"home-1": "Di sini tersedia berbagai macam skin untuk TWiLight Menu++ dari <a href=\"https://github.com/DS-Homebrew/twlmenu-extras\">repositori DS-Homebrew</a>.",
 	"home-2": "Untuk mencari skin tema yang sedang digunakan, pencet tema di bilah merah atas.",
-	"home-3": "To make your own skins, there's a <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\">wiki page on how to make Nintendo DSi / Nintendo 3DS skins</a>. For Original R4 and Wood UI skins simply edit the images from an existing skin.",
-	"home-4": "If you want your skin added here, make a pull request on the GitHub repository or send it and ask on the <a href=\"https://discord.gg/fCzqcWteC4\">DS⁽ⁱ⁾ Mode Hacking Discord server</a>.",
+	"home-3": "Untuk membuat skin sendiri, lihat <a href=\"https://wiki.ds-homebrew.com/id-ID/twilightmenu/custom-dsi-3ds-skins\">wiki cara membuat skin Nintendo DSi / 3DS</a>. Untuk tema R4 Original dan Wood UI, cukup sunting gambarnya dari skin yang telah ada.",
+	"home-4": "Jika ingin menambahkan skin di sini, buat <i>Pull Request</i> di repositori Github atau kirim dan tanyakan di <a href=\"https://discord.gg/fCzqcWteC4\">server Discord DS⁽ⁱ⁾ Mode Hacking</a>.",
 	"home-5": "Jika di konsol 2DS atau 3DS, semua skin pada situs ini bisa langsung diunduh dari konsol menggunakan Universal-Updater. Untuk menambah UniStore; masuk ke pengaturan, pilih <code>Select UniStore...</code>, ketuk tombol + di bawah, dan pilih <code>TWiLight Menu++ Skins</code>. Sesudah ditambah, pilih <code>twlmenu-skins.unistore</code> dari menu Select UniStore untuk membukanya.",
 	"last-updated-skins": "Terakhir diperbarui: "
 }
