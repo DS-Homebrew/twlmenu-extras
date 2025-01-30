@@ -26,6 +26,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these skins for ea
 - [Gemdation](https://github.com/Gemdation): Classic DS Menu skin
 - [HxOr1997](https://github.com/HotPizzaYT): 3DS Vaporwave skin
 - [LeafedFox](https://github.com/leafedfox): DSi Blahaj Skin
+- [LetsGoAway](https://github.com/letsgoawaydev): 3DS NES Classic theme
 - [lifehackerhansol](https://github.com/lifehackerhansol): DSi Hakui Koyori skin
 - [Mr. Start](https://github.com/Arthur-Start): 3DS Mario Kart DS skin
 - Nicoboy: 3DS Scooter Boys skin
