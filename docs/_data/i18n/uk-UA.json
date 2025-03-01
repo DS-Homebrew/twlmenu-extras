@@ -4,7 +4,7 @@
 	"title-nintendo-3ds": "Nintendo 3DS | Скіни TWiLight Menu++",
 	"title-nintendo-dsi": "Nintendo DSi | Скіни TWiLight Menu++",
 	"title-r4-original": "R4 Original | Скіни TWiLight Menu++",
-	"title-wood-ui": "Wood UI | TWiLight Menu++ Skins",
+	"title-wood-ui": "Wood UI | Скіни TWiLight Menu++",
 	"title-font": "Шрифти | Скіни TWiLight Menu++",
 	"title-icon": "Іконки | Скіни TWiLight Menu++",
 	"title-unlaunch-backgrounds": "Фони Unlaunch | Скіни TWiLight Menu++",
@@ -143,8 +143,8 @@
 	"welcome": "Скіни TWiLight Menu++!",
 	"home-1": "Тут ви можете знайти всі скіни для TWiLight Menu++ з репозиторію <a href=\"https://github.com/DS-Homebrew/twlmenu-extras\">DS-Homebrew/twlmenu-extras</a>.",
 	"home-2": "Щоб побачити всі доступні скіни для теми, яку ви використовуєте, клацніть на тему на червоній панелі зверху.",
-	"home-3": "To make your own skins, there's a <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\">wiki page on how to make Nintendo DSi / Nintendo 3DS skins</a>. For Original R4 and Wood UI skins simply edit the images from an existing skin.",
-	"home-4": "If you want your skin added here, make a pull request on the GitHub repository or send it and ask on the <a href=\"https://discord.gg/fCzqcWteC4\">DS⁽ⁱ⁾ Mode Hacking Discord server</a>.",
+	"home-3": "Щоб зробити власний скін, дотримуйтесь <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\">цієї сторінки про те, як створювати скіни для тем Nintendo DSi / Nintendo 3DS</a>. Для скінів оригінальної R4 та Wood UI просто відредагуйте зображення з наявного скіну.",
+	"home-4": "Якщо ви хочете, щоб ваш скін додали сюди, зробіть запит на додавання у репозиторії GitHub або надішліть його в Discord сервер <a href=\"https://discord.gg/fCzqcWteC4\">DS⁽ⁱ⁾ Mode Hacking</a>.",
 	"home-5": "Якщо ви користуєтеся 2DS або 3DS, всі скіни з цього сайту можна завантажити безпосередньо на консоль за допомогою Universal-Updater. Щоб додати UniStore, перейдіть до налаштувань, виберіть <code>Select UniStore...</code>, натисніть кнопку + внизу, та виберіть <code>TWiLight Menu++ Skins</code>. Після додавання просто виберіть <code>twlmenu-skins.unistore</code> з меню Select UniStore, щоб перейти до нього.",
 	"last-updated-skins": "Востаннє оновлено: "
 }
