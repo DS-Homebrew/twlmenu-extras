@@ -123,13 +123,13 @@ output = []
 # Create UniStore base
 unistore = {
 	"storeInfo": {
-		"title": "TWiLight Menu++ Skins",
+		"title": "TWiLight Menu++ Themes",
 		"author": "DS-Homebrew",
 		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/twlmenu-skins.unistore",
 		"file": "twlmenu-skins.unistore",
 		"sheetURL": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/twlmenu-skins.t3x",
 		"sheet": "twlmenu-skins.t3x",
-		"description": "A collection of skins for TWiLight Menu++\nfrom DS-Homebrew/twlmenu-extras on GitHub\n\n(The 'Console' is the theme in TWiLight)",
+		"description": "A collection of themes for TWiLight Menu++\nfrom DS-Homebrew/twlmenu-extras on GitHub\n\n(The 'Console' is the UI in TWiLight)",
 		"version": 3,
 		"revision": 0 if ("storeInfo" not in unistoreOld or "revision" not in unistoreOld["storeInfo"]) else unistoreOld["storeInfo"]["revision"]
 	},
