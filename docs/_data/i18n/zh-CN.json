@@ -145,6 +145,6 @@
 	"home-2": "要查看您正在使用的主题的所有可用皮肤，请点击顶部红色栏中的主题。",
 	"home-3": "要制作自己的主题，可访问 <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\">wiki 页面了解如何制作任天堂 DSi / 任天堂 3DS 主题</a>。对于原生 R4 主题以及 Wood UI 主题，只需编辑现有主题的图像即可。",
 	"home-4": "如果您希望在这里添加您的主题，请在 GitHub 存储库中提出拉取请求，或者发送到 <a href=\"https://discord.gg/fCzqcWteC4\">DS⁽ⁱ⁾ Mode Hacking Discord 服务器</a> 上。",
-	"home-5": "如果您使用的是 2DS 或 3DS，本网站上的所有皮肤都可以使用 Universal-Updater 直接下载到游戏机上。要添加 UniStore，请进入设置，选择<code>Select UniStore...</code>，点击底部的 + 按钮，然后选择<code>TWiLight Menu++ Skins</code>添加。添加完成后，只需从“Select UniStore”菜单中选择<code>twlmenu-skins.unistore</code>即可切换到它。",
+	"home-5": "如果您使用的是 2DS 或 3DS，本网站上的所有皮肤都可以使用 Universal-Updater 直接下载到游戏机上。要添加 UniStore，请进入设置，选择<code>Select UniStore...</code>，点击底部的 + 按钮，然后选择<code>TWiLight Menu++ Themes</code>添加。添加完成后，只需从“Select UniStore”菜单中选择<code>twlmenu-skins.unistore</code>即可切换到它。",
 	"last-updated-skins": "最新更新： "
 }

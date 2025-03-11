@@ -4,7 +4,7 @@
 	"title-nintendo-3ds": "ニンテンドー3DS | TWiLight Menu++のスキン",
 	"title-nintendo-dsi": "ニンテンドーDSi | TWiLight Menu++のスキン",
 	"title-r4-original": "R4オリジナル | TWiLight Menu++のスキン",
-	"title-wood-ui": "Wood UI | TWiLight Menu++ Skins",
+	"title-wood-ui": "Wood UI | TWiLight Menu++ Themes",
 	"title-font": "フォント | TWiLight Menu++のスキン",
 	"title-icon": "アイコン | TWiLight Menu++のスキン",
 	"title-unlaunch-backgrounds": "Unlaunchの背景 | TWiLight Menu++のスキン",
@@ -145,6 +145,6 @@
 	"home-2": "使用するテーマで利用可能なすべてのスキンを教示するには、上部の赤いバーでテーマをクリックしてください。",
 	"home-3": "To make your own skins, there's a <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\">wiki page on how to make Nintendo DSi / Nintendo 3DS skins</a>. For Original R4 and Wood UI skins simply edit the images from an existing skin.",
 	"home-4": "If you want your skin added here, make a pull request on the GitHub repository or send it and ask on the <a href=\"https://discord.gg/fCzqcWteC4\">DS⁽ⁱ⁾ Mode Hacking Discord server</a>.",
-	"home-5": "3DSをお使い場合は、Universal-Updaterを使ってこのサイトにあるすべてのスキンを3DSで直接ダウンロードできます。UniStoreを追加するには、設定から<code>UniStoreを選択……</code>を選択し、下の+ボタンをタップし、 <code>TWiLight Menu++ Skins</code>を選択して追加してください。追加された後に、UniStoreの選択メニューから<code>twlmenu-skins.unistore</code>を選択するだけで、切り替わります。",
+	"home-5": "3DSをお使い場合は、Universal-Updaterを使ってこのサイトにあるすべてのスキンを3DSで直接ダウンロードできます。UniStoreを追加するには、設定から<code>UniStoreを選択……</code>を選択し、下の+ボタンをタップし、 <code>TWiLight Menu++ Themes</code>を選択して追加してください。追加された後に、UniStoreの選択メニューから<code>twlmenu-skins.unistore</code>を選択するだけで、切り替わります。",
 	"last-updated-skins": "最近更新されたスキン： "
 }

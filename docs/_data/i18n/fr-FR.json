@@ -4,7 +4,7 @@
 	"title-nintendo-3ds": "Nintendo 3DS | Skins TWiLight Menu++",
 	"title-nintendo-dsi": "Nintendo DSi | Skins TWiLight Menu++",
 	"title-r4-original": "R4 Original | Skins TWiLight Menu++",
-	"title-wood-ui": "Wood UI | TWiLight Menu++ Skins",
+	"title-wood-ui": "Wood UI | TWiLight Menu++ Themes",
 	"title-font": "Polices | Skins TWiLight Menu++",
 	"title-icon": "Icônes | Skins TWiLight Menu++",
 	"title-unlaunch-backgrounds": "Fonds d'écran d'Unlaunch | Skins TWiLight Menu++",
@@ -145,6 +145,6 @@
 	"home-2": "Pour voir tous les skins disponibles pour le thème que vous utilisez, cliquez sur le thème dans la barre rouge supérieure.",
 	"home-3": "To make your own skins, there's a <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\">wiki page on how to make Nintendo DSi / Nintendo 3DS skins</a>. For Original R4 and Wood UI skins simply edit the images from an existing skin.",
 	"home-4": "If you want your skin added here, make a pull request on the GitHub repository or send it and ask on the <a href=\"https://discord.gg/fCzqcWteC4\">DS⁽ⁱ⁾ Mode Hacking Discord server</a>.",
-	"home-5": "Si vous êtes sur une 2DS ou une 3DS, tous les skins de ce site peuvent être téléchargés directement sur la console en utilisant Universal-Updater. Pour ajouter l'UniStore, allez dans les paramètres, choisissez <code>Sélectionner l'UniStore…</code>, appuyez sur le bouton + en bas, et sélectionnez <code>TWiLight Menu++ Skins</code> pour l'ajouter. Une fois qu'il est ajouté, sélectionnez simplement <code>twlmenu-skins.unistore</code> dans le menu Sélectionner un UniStore pour y accéder.",
+	"home-5": "Si vous êtes sur une 2DS ou une 3DS, tous les skins de ce site peuvent être téléchargés directement sur la console en utilisant Universal-Updater. Pour ajouter l'UniStore, allez dans les paramètres, choisissez <code>Sélectionner l'UniStore…</code>, appuyez sur le bouton + en bas, et sélectionnez <code>TWiLight Menu++ Themes</code> pour l'ajouter. Une fois qu'il est ajouté, sélectionnez simplement <code>twlmenu-skins.unistore</code> dans le menu Sélectionner un UniStore pour y accéder.",
 	"last-updated-skins": "Dernières mises à jour : "
 }

@@ -145,6 +145,6 @@
 	"home-2": "Щоб побачити всі доступні скіни для теми, яку ви використовуєте, клацніть на тему на червоній панелі зверху.",
 	"home-3": "Щоб зробити власний скін, дотримуйтесь <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\">цієї сторінки про те, як створювати скіни для тем Nintendo DSi / Nintendo 3DS</a>. Для скінів оригінальної R4 та Wood UI просто відредагуйте зображення з наявного скіну.",
 	"home-4": "Якщо ви хочете, щоб ваш скін додали сюди, зробіть запит на додавання у репозиторії GitHub або надішліть його в Discord сервер <a href=\"https://discord.gg/fCzqcWteC4\">DS⁽ⁱ⁾ Mode Hacking</a>.",
-	"home-5": "Якщо ви користуєтеся 2DS або 3DS, всі скіни з цього сайту можна завантажити безпосередньо на консоль за допомогою Universal-Updater. Щоб додати UniStore, перейдіть до налаштувань, виберіть <code>Select UniStore...</code>, натисніть кнопку + внизу, та виберіть <code>TWiLight Menu++ Skins</code>. Після додавання просто виберіть <code>twlmenu-skins.unistore</code> з меню Select UniStore, щоб перейти до нього.",
+	"home-5": "Якщо ви користуєтеся 2DS або 3DS, всі скіни з цього сайту можна завантажити безпосередньо на консоль за допомогою Universal-Updater. Щоб додати UniStore, перейдіть до налаштувань, виберіть <code>Select UniStore...</code>, натисніть кнопку + внизу, та виберіть <code>TWiLight Menu++ Themes</code>. Після додавання просто виберіть <code>twlmenu-skins.unistore</code> з меню Select UniStore, щоб перейти до нього.",
 	"last-updated-skins": "Востаннє оновлено: "
 }

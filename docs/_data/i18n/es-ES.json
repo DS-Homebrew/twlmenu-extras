@@ -4,7 +4,7 @@
 	"title-nintendo-3ds": "Nintendo 3DS | Skins para TTWiLight Menu++",
 	"title-nintendo-dsi": "Nintendo DSi | TTWiLight Menu++",
 	"title-r4-original": "R4 Original | Skins para TTWiLight Menu++",
-	"title-wood-ui": "Wood UI | TWiLight Menu++ Skins",
+	"title-wood-ui": "Wood UI | TWiLight Menu++ Themes",
 	"title-font": "Fuentes | Skins para TWiLight Menu++",
 	"title-icon": "Íconos | Skins para TWiLight Menu++",
 	"title-unlaunch-backgrounds": "Fondos de Unlaunch | Skins para TTWiLight Menu++",
@@ -145,6 +145,6 @@
 	"home-2": "Para ver todas las skins disponibles para el tema que estás usando, haz clic en el tema en la barra roja de la parte superior.",
 	"home-3": "To make your own skins, there's a <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\">wiki page on how to make Nintendo DSi / Nintendo 3DS skins</a>. For Original R4 and Wood UI skins simply edit the images from an existing skin.",
 	"home-4": "If you want your skin added here, make a pull request on the GitHub repository or send it and ask on the <a href=\"https://discord.gg/fCzqcWteC4\">DS⁽ⁱ⁾ Mode Hacking Discord server</a>.",
-	"home-5": "Si estás usando una 2DS o 3DS, todas las skins de este sitio pueden ser descargadas directamente desde la consola usando Universal-Updater. Para añadir la UniStore, ve a los Ajustes, escoge la opción <code>Seleccionar UniStore...</code>, toca el botón + en el fondo, y elije la opción <code>TWiLight Menu++ Skins</code> para añadir. Una vez añadida, elije <code>twlmenu-skins.unistore</code> desde el menú de UniStores.",
+	"home-5": "Si estás usando una 2DS o 3DS, todas las skins de este sitio pueden ser descargadas directamente desde la consola usando Universal-Updater. Para añadir la UniStore, ve a los Ajustes, escoge la opción <code>Seleccionar UniStore...</code>, toca el botón + en el fondo, y elije la opción <code>TWiLight Menu++ Themes</code> para añadir. Una vez añadida, elije <code>twlmenu-skins.unistore</code> desde el menú de UniStores.",
 	"last-updated-skins": "Actualizado por última vez: "
 }

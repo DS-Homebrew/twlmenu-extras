@@ -4,7 +4,7 @@
 	"title-nintendo-3ds": "Nintendo 3DS | Aparência do TWiLight Menu",
 	"title-nintendo-dsi": "Nintendo DSi | Aparência do TWiLight Menu",
 	"title-r4-original": "R4 Original | Aparência do TWiLight Menu++",
-	"title-wood-ui": "Wood UI | TWiLight Menu++ Skins",
+	"title-wood-ui": "Wood UI | TWiLight Menu++ Themes",
 	"title-font": "Fontes | Aparência do TWiLight Menu",
 	"title-icon": "Ícones | Aparência do TWiLight Menu",
 	"title-unlaunch-backgrounds": "Papéis de Parede do Unlaunch | Aparência do TWiLight Menu",
@@ -145,6 +145,6 @@
 	"home-2": "Para ver todas as skins disponíveis para o tema que você está usando, clique no tema na barra vermelha superior.",
 	"home-3": "To make your own skins, there's a <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\">wiki page on how to make Nintendo DSi / Nintendo 3DS skins</a>. For Original R4 and Wood UI skins simply edit the images from an existing skin.",
 	"home-4": "If you want your skin added here, make a pull request on the GitHub repository or send it and ask on the <a href=\"https://discord.gg/fCzqcWteC4\">DS⁽ⁱ⁾ Mode Hacking Discord server</a>.",
-	"home-5": "Se você estiver usando um 2DS ou 3DS, todas as skins deste site podem ser baixadas diretamente no console usando o Universal-Updater. Para adicionar a UniStore, vá em configurações, escolha <code>Selecionar UniStore...</code>toque no botão + na parte inferior e selecione <code>TWiLight Menu++ Skins</code> para adicionar. Depois de adicionada, basta selecionar <code>twlmenu-skins.unistore</code> no menu Selecionar uma UniStore para alternar.",
+	"home-5": "Se você estiver usando um 2DS ou 3DS, todas as skins deste site podem ser baixadas diretamente no console usando o Universal-Updater. Para adicionar a UniStore, vá em configurações, escolha <code>Selecionar UniStore...</code>toque no botão + na parte inferior e selecione <code>TWiLight Menu++ Themes</code> para adicionar. Depois de adicionada, basta selecionar <code>twlmenu-skins.unistore</code> no menu Selecionar uma UniStore para alternar.",
 	"last-updated-skins": "Última atualização: "
 }

@@ -4,7 +4,7 @@
 	"title-nintendo-3ds": "Nintendo 3DS | Skin di TWiLight Menu++",
 	"title-nintendo-dsi": "Nintendo DSi | Skin di TWiLight Menu++",
 	"title-r4-original": "R4 Original | Skin di TWiLight Menu++",
-	"title-wood-ui": "Wood UI | TWiLight Menu++ Skins",
+	"title-wood-ui": "Wood UI | TWiLight Menu++ Themes",
 	"title-font": "Caratteri | Skin di TWiLight Menu++",
 	"title-icon": "Icone | Skin di TWiLight Menu++",
 	"title-unlaunch-backgrounds": "Sfondi di Unlaunch | Skin di TWiLight Menu++",
@@ -145,6 +145,6 @@
 	"home-2": "Per vedere tutte le skin disponibili per il tema che stai utilizzando, fai clic sul tema nella barra rossa in alto.",
 	"home-3": "To make your own skins, there's a <a href=\"https://wiki.ds-homebrew.com/twilightmenu/custom-dsi-3ds-skins\">wiki page on how to make Nintendo DSi / Nintendo 3DS skins</a>. For Original R4 and Wood UI skins simply edit the images from an existing skin.",
 	"home-4": "If you want your skin added here, make a pull request on the GitHub repository or send it and ask on the <a href=\"https://discord.gg/fCzqcWteC4\">DS⁽ⁱ⁾ Mode Hacking Discord server</a>.",
-	"home-5": "Se utilizzi un 2DS o un 3DS, tutte le skin di questo sito possono essere scaricate direttamente su console utilizzando Universal-Updater. Per aggiungere l'UniStore vai alle impostazioni, scegli <code>Seleziona UniStore...</code>, tocca il pulsante + in basso e seleziona <code>TWiLight Menu++ Skins</code> da aggiungere. Una volta aggiunto, seleziona semplicemente <code>twlmenu-skins.unistore</code> dal menu Seleziona UniStore per passare ad esso.",
+	"home-5": "Se utilizzi un 2DS o un 3DS, tutte le skin di questo sito possono essere scaricate direttamente su console utilizzando Universal-Updater. Per aggiungere l'UniStore vai alle impostazioni, scegli <code>Seleziona UniStore...</code>, tocca il pulsante + in basso e seleziona <code>TWiLight Menu++ Themes</code> da aggiungere. Una volta aggiunto, seleziona semplicemente <code>twlmenu-skins.unistore</code> dal menu Seleziona UniStore per passare ad esso.",
 	"last-updated-skins": "Ultimo aggiornamento: "
 }
