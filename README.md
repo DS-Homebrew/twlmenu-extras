@@ -4,7 +4,7 @@ This is a repository to host extra files for **TW**i**L**ight Menu++.
 ## UniStore
 Scan this QR code in Universal-Updater to add a UniStore with these themes for easy installation:
 
-![QR code to the UniStore](https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/twlmenu-themes.png)
+![QR code to the UniStore](https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/twlmenu-skins.png)
 
 ## Repository Credits
 - [NightScript](https://github.com/NightYoshi370): Organizing everything
