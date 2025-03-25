@@ -1,12 +1,12 @@
 ---
-author: ''
+author: CatTheEyn
 category: []
 console: Nintendo 3DS
 created: '2025-03-25T20:51:56Z'
 description: ''
 downloads:
   Oneshot World Machine.7z:
-    size: 4895532
+    size: 4895113
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Oneshot
       World Machine.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/3ds.png
