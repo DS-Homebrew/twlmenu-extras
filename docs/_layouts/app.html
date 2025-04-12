@@ -45,7 +45,7 @@ layout: compress
 									{% if page.website %}</a>{% elsif page.source %}</a>{% endif %}
 									<div class="card-footer">
 										<small>
-											<span class="i18n innerHTML-theme">Theme: </span>
+											<span class="i18n innerHTML-user-interface">User Interface: </span>
 											{%- for system in page.systems -%}
 												{%- assign systemId = system | downcase | replace: " ", "-" -%}
 												<a href="/{{ systemId }}" class="i18n innerHTML-{{ systemId }}">{{ system }}</a>

@@ -106,7 +106,7 @@ layout: compress
 													</div>
 													<small>
 														{% unless page.system %}
-															<span class="i18n innerHTML-theme">Theme: </span>
+															<span class="i18n innerHTML-user-interface">User Interface: </span>
 															{% for system in app.systems %}
 																{%- assign systemId = system | downcase | replace: " ", "-" -%}
 																<span class="i18n innerHTML-{{ systemId }}">{{ system }}</span>
