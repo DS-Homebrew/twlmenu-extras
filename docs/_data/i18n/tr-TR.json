@@ -116,6 +116,7 @@
 	"last-updated": "Last updated: ",
 	"license": "License: ",
 	"theme": "Theme: ",
+	"user-interface": "User Interface: ",
 	"version": "Version: ",
 	"show-qr-for": "Show QR Code for ${name}",
 	"back": "&lt; Back",

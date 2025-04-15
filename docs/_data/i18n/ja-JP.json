@@ -116,6 +116,7 @@
 	"last-updated": "最終更新日: ",
 	"license": "ライセンス: ",
 	"theme": "テーマ: ",
+	"user-interface": "User Interface: ",
 	"version": "バージョン: ",
 	"show-qr-for": "${name}のQRコードを表示",
 	"back": "＜ 戻る",

@@ -116,6 +116,7 @@
 	"last-updated": "最后更新时间: ",
 	"license": "许可协议: ",
 	"theme": "主题: ",
+	"user-interface": "User Interface: ",
 	"version": "版本: ",
 	"show-qr-for": "显示 ${name} 的二维码",
 	"back": "&lt; 返回",

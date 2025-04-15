@@ -116,6 +116,7 @@
 	"last-updated": "Востаннє оновлено: ",
 	"license": "Ліцензія: ",
 	"theme": "Тема: ",
+	"user-interface": "User Interface: ",
 	"version": "Версія: ",
 	"show-qr-for": "Показати QR-код для ${name}",
 	"back": "&lt; Назад",

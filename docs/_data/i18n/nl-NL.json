@@ -116,6 +116,7 @@
 	"last-updated": "Laatst bijgewerkt: ",
 	"license": "Licentie: ",
 	"theme": "Thema: ",
+	"user-interface": "User Interface: ",
 	"version": "Versie: ",
 	"show-qr-for": "Toon QR-code voor ${name}",
 	"back": "&lt;- Terug",

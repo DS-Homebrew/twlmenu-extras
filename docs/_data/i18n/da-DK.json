@@ -116,6 +116,7 @@
 	"last-updated": "Sidst opdateret: ",
 	"license": "Licens: ",
 	"theme": "Tema: ",
+	"user-interface": "User Interface: ",
 	"version": "Version: ",
 	"show-qr-for": "Vis QR-kode for ${name}",
 	"back": "&lt; Tilbage",

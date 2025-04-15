@@ -116,6 +116,7 @@
 	"last-updated": "עודכן לאחרונה: ",
 	"license": "רשיון: ",
 	"theme": "ערכת נושא: ",
+	"user-interface": "User Interface: ",
 	"version": "גירסה: ",
 	"show-qr-for": "הראה קוד QR עבור ${name}",
 	"back": "&lt; חזור",

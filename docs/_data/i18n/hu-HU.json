@@ -116,6 +116,7 @@
 	"last-updated": "Utolsó frissítés: ",
 	"license": "Licensz: ",
 	"theme": "Téma: ",
+	"user-interface": "Felhasználói felület: ",
 	"version": "Verzió: ",
 	"show-qr-for": "${name} QR kódjának megjelenítése",
 	"back": "&lt; Vissza",

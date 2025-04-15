@@ -116,6 +116,7 @@
 	"last-updated": "마지막 업데이트: ",
 	"license": "라이센스: ",
 	"theme": "테마: ",
+	"user-interface": "User Interface: ",
 	"version": "버전: ",
 	"show-qr-for": "${name} QR코드 표시",
 	"back": "&lt; 뒤로",

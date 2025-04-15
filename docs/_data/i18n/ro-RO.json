@@ -116,6 +116,7 @@
 	"last-updated": "Ultima actualizare: ",
 	"license": "Licență: ",
 	"theme": "Temă: ",
+	"user-interface": "User Interface: ",
 	"version": "Versiune: ",
 	"show-qr-for": "Arătați Cod QR pentru ${name}",
 	"back": "&lt; Înapoi",
