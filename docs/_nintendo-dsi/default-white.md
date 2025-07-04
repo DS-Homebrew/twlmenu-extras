@@ -9,11 +9,11 @@ created: '2020-06-01T23:44:11Z'
 description: TWiLight Menu++'s default DSi skin in white
 downloads:
   white.7z:
-    size: 19620
+    size: 19679
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/white.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/dsi.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/dsi.png
-last_updated: 2023-12-31 at 00:21 (UTC)
+last_updated: 2025-07-04 at 07:54 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -26,6 +26,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Default White
-updated: '2023-12-31T00:21:02Z'
+updated: '2025-07-04T07:54:13Z'
 version: v1.0.3
 ---
