@@ -1095,5 +1095,11 @@
 		"description": "Link peacefully fishing. Sprites ripped by MisterMike on spriter's resource",
 		"categories": ["icon","animated"],
 		"version": "v1.0.0"
+	},
+	"FlipnoteStudio.nds": {
+		"title": "Flipnote Studio",
+		"author": "korbosoft",
+		"categories": ["nds", "animated"],
+		"version": "v1.0.0"
 	}
 }
