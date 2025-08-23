@@ -1062,6 +1062,18 @@
 		"categories": ["snes", "tmnt", "turtles", "ninja", "turtles-in-time", "animated"],
 		"version": "v1.0.0"
 	},
+	"Trip World.gb": {
+		"title": "Trip World",
+		"author": "YSB573",
+		"categories": ["gb", "trip", "world", "trip-world", "sunsoft", "animated"],
+		"version": "v1.0.0"
+	},
+	"Trip World DX.gbc": {
+		"title": "Trip World DX",
+		"author": "YSB573",
+		"categories": ["gbc", "trip", "world", "trip-world", "sunsoft", "animated"],
+		"version": "v1.0.0"
+	},
 	"Mario Tennis (animated)": {
 		"title": "Mario Tennis (animated)",
 		"author": "Buni",
