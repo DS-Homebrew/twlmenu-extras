@@ -2,5 +2,5 @@ GitPython==3.1.41
 Pillow==11.3.0
 py7zr==0.20.2
 python-dateutil==2.8.1
-PyYAML==5.4.1
+PyYAML==6.0.3
 rfeed==1.1.1
