@@ -32,7 +32,7 @@ jobs:
           libfreetype6-dev liblcms2-dev libwebp-dev tcl8.6-dev tk8.6-dev python3-tk \
           libharfbuzz-dev libfribidi-dev libxcb1-dev -y
         sudo apt-get install python3-pip -y
-        pip3 install -r requirements.txt
+        pip3 install -r requirements.txt --break-system-packages
 
     - name: Workaround Git issue by chowning the repo
       run: |
