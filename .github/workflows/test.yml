@@ -17,19 +17,33 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
-    container: devkitpro/devkitarm
 
     steps:
     - uses: actions/checkout@v3
       with:
         fetch-depth: 0
 
-    - name: Install packages
+    - uses: actions/setup-python@v6
+      with:
+        python-version: '3.9'
+        cache: 'pip' # caching pip dependencies
+    - run: pip install -r requirements.txt
+
+    - name: Build tex3ds
+      shell: bash
       run: |
-        echo deb http://deb.debian.org/debian stable main contrib non-free >> /etc/apt/sources.list
+        sudo rm /var/lib/man-db/auto-update
         sudo apt-get update
-        sudo apt-get install python3-pip -y
-        pip3 install -r requirements.txt --break-system-packages
+        sudo apt-get install -y libmagick++-dev automake libfftw3-dev
+        git clone https://github.com/devkitPro/tex3ds --depth 1 -b v2.3.0
+        cd tex3ds
+        ./autogen.sh
+        mkdir build
+        cd build
+        ../configure
+        make -j$(nproc)
+        sudo make install
+        rm -rf tex3ds
 
     - name: Workaround Git issue by chowning the repo
       run: |
@@ -41,5 +55,4 @@ jobs:
 
     - name: Run generate.py
       run: |
-        export PATH=$PATH:/opt/devkitpro/tools/bin
         python3 generate.py ${{ secrets.GITHUB_TOKEN }}
