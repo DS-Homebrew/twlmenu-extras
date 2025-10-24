@@ -12,12 +12,12 @@ created: '2023-12-26T19:46:47Z'
 description: Breaking Bad skin for when you need to cook
 downloads:
   Breaking Bad.7z:
-    size: 2477774
+    size: 2469450
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Breaking
       Bad.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Breaking%20Bad/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Breaking%20Bad/icon.png
-last_updated: 2023-12-25 at 00:20 (UTC)
+last_updated: 2025-10-24 at 03:16 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -32,6 +32,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Breaking Bad
-updated: '2023-12-25T00:20:55Z'
+updated: '2025-10-24T03:16:38Z'
 version: v1.0.0
 ---

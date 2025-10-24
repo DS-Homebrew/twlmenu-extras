@@ -12,12 +12,12 @@ created: '2022-09-06T03:37:04Z'
 description: 'A terror of gargantuan proportions! BGM: Fury Bowser 1'
 downloads:
   Bowser's Fury.7z:
-    size: 4902270
+    size: 4902213
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Bowser's
       Fury.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Bowser%27s%20Fury/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Bowser%27s%20Fury/icon.png
-last_updated: 2023-12-15 at 23:07 (UTC)
+last_updated: 2025-10-24 at 03:10 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -32,6 +32,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Bowser's Fury
-updated: '2023-12-15T23:07:30Z'
+updated: '2025-10-24T03:10:45Z'
 version: v1.0.2
 ---

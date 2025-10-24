@@ -10,11 +10,11 @@ description: 'A Minecraft theme featuring one of the most iconic renders of all 
   "Steve wrócił z wakacji" by Mursztin. BGM: "Minecraft" by C418.'
 downloads:
   Minecraft.7z:
-    size: 5912275
+    size: 5908997
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Minecraft.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Minecraft/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Minecraft/icon.png
-last_updated: 2023-12-16 at 03:02 (UTC)
+last_updated: 2025-10-24 at 03:20 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -29,6 +29,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Minecraft
-updated: '2023-12-16T03:02:50Z'
+updated: '2025-10-24T03:20:05Z'
 version: v2.1.2
 ---
