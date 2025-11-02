@@ -46,4 +46,6 @@ Scan this QR code in Universal-Updater to add a UniStore with these themes for e
 - Vulpes-Vulpeos: Uploading AKmenu Pico-8, Monster Hunter Generations, and Nintendo DS-Like themes
 - [xanshark](https://github.com/xanshark): Starry Rayquaza theme
 - [maniacnny](https://github.com/maniacnny): Metroid R4 Themes
+- [DaveMars616](https://github.com/DaveMars616): My Melody: Sweets Time 3DS theme
+
 
