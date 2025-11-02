@@ -10,11 +10,11 @@ created: '2020-06-01T23:44:11Z'
 description: TWiLight Menu++'s default DSi skin in black
 downloads:
   dark.7z:
-    size: 18530
+    size: 17111
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/dark.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/dark/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/dark/icon.png
-last_updated: 2023-12-31 at 00:11 (UTC)
+last_updated: 2025-10-24 at 01:37 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -29,6 +29,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Default Dark
-updated: '2023-12-31T00:11:51Z'
-version: v1.0.3
+updated: '2025-10-24T01:37:43Z'
+version: v1.0.4
 ---

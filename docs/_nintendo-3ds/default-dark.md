@@ -10,11 +10,11 @@ created: '2020-11-23T02:43:34Z'
 description: TWiLight Menu++'s default 3DS skin, dark version
 downloads:
   dark.7z:
-    size: 16963
+    size: 17281
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/dark.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/dark/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/dark/icon.png
-last_updated: 2023-07-22 at 03:07 (UTC)
+last_updated: 2025-10-24 at 02:32 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -25,6 +25,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Default Dark
-updated: '2023-07-22T03:07:12Z'
-version: v1.0.3
+updated: '2025-10-24T02:32:57Z'
+version: v1.0.4
 ---

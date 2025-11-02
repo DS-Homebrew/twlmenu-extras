@@ -9,11 +9,11 @@ created: '2020-06-01T23:44:11Z'
 description: TWiLight Menu++'s default DSi skin in yellow
 downloads:
   yellow.7z:
-    size: 20608
+    size: 17066
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/yellow.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/yellow/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/yellow/icon.png
-last_updated: 2023-12-31 at 02:25 (UTC)
+last_updated: 2025-10-24 at 02:32 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -26,6 +26,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Default Yellow
-updated: '2023-12-31T02:25:39Z'
-version: v1.0.3
+updated: '2025-10-24T02:32:57Z'
+version: v1.0.4
 ---
