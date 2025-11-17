@@ -1,7 +1,9 @@
 ---
 author: Andr0meda
 category:
-- UT, Epic Games, FPS
+- UT
+- Epic Games
+- FPS
 color: '#253040'
 console: Wood UI
 created: '2025-11-17T05:43:24Z'
