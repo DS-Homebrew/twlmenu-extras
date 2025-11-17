@@ -1118,5 +1118,9 @@
 		"author": "korbosoft",
 		"categories": ["nds", "animated"],
 		"version": "v1.0.0"
+	},
+	"Celeste2-GBA.gba": {
+		"title": "Celeste2-GBA",
+		"author": "Hans1221n",
 	}
 }
