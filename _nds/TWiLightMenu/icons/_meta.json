@@ -1121,6 +1121,12 @@
 	},
 	"Celeste2-GBA.gba": {
 		"title": "Celeste2-GBA",
-		"author": "Hans1221n",
+		"author": "Hans1221n"
+	}
+	"Twilight Sparkle Menu": {
+		"title": "Twilight Sparkle Menu++",
+		"author": "saulsa14",
+		"description": "Well, someone had to make this eventually. Custom animated icon replacement for TWiLight Menu++ featuring Twilight Sparkle. Made for use with a custom TM++ forwarder on 3DS.",
+		"categories": ["icon"]
 	}
 }
