@@ -99,6 +99,11 @@
 		"description": "Based on the background found in TWilight Menu++'s DSi Theme.",
 		"categories": ["dsi"]
 	},
+	"dsisettings": {
+		"title": "DSi System Settings",
+		"author": "Godeps2891",
+		"categories": ["dsi"]
+	},
 	"field": {
 		"title": "Field",
 		"author": "SNBeast",
