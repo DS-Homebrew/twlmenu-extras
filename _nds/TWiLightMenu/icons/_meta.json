@@ -836,6 +836,31 @@
 		"categories": ["nds", "fire-emblem", "fire-emblem-shadow-dragon", "shadow-dragon", "marth", "animated"],
 		"version": "v1.0.0"
 	},
+	"Legendary Starfy Origins, The.gba": {
+		"title": "The Legendary Starfy: Origins",
+		"author": "YSB573",
+		"categories": ["gba", "starfy", "stafy", "densetsu", "legendary"],
+		"version": "v1.0.0"
+	},
+	"Legendary Starfy 2, The.gba": {
+		"title": "The Legendary Starfy 2",
+		"author": "YSB573",
+		"categories": ["gba", "starfy", "stafy", "densetsu", "legendary"],
+		"version": "v1.0.0"
+	},
+	"Legendary Starfy 3, The.gba": {
+		"title": "The Legendary Starfy 3",
+		"author": "YSB573",
+		"categories": ["gba", "starfy", "stafy", "densetsu", "legendary"],
+		"version": "v1.0.0"
+	},
+	"Legendary Starfy 4, The.nds": {
+		"title": "The Legendary Starfy 4",
+		"author": "YSB573",
+		"description": "Title translation, mainly just here for consistency with the GBA Starfy games.",
+		"categories": ["nds", "starfy", "stafy", "densetsu", "legendary"],
+		"version": "v1.0.0"
+	},
 	"Locks Quest": {
 		"title": "Lock's Quest",
 		"author": "ToxicityLvL",
