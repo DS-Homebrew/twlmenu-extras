@@ -345,5 +345,11 @@
 		"author": "SylverReZ",
 		"description": "Unlaunch skin in the style of ModzVilleUSA.",
 		"categories": ["modzville", "modzvilleusa", "youtuber", "tech", "modding"]
+	},
+	"ps1hagrid": {
+		"title": "PS1 Hagrid",
+		"author": "the_real_mcarn",
+		"description": "PS1 Hagrid for your Unlaunch viewing pleasure.",
+		"categories": ["meme"]
 	}
 }
