@@ -1,7 +1,7 @@
 ---
 layout: cards
-title: Nintendo DSi - nintendo
+title: Nintendo DSi - Nintendo
 system: nintendo-dsi
-category: nintendo
+category: Nintendo
 ---
-<div class="alert alert-secondary mb-4"><span class="i18n innerHTML-category">Category: </span><span class="i18n innerHTML-cat-nintendo">nintendo</span></div>
+<div class="alert alert-secondary mb-4"><span class="i18n innerHTML-category">Category: </span><span class="i18n innerHTML-cat-Nintendo">Nintendo</span></div>
