@@ -351,5 +351,11 @@
 		"author": "the_real_mcarn",
 		"description": "PS1 Hagrid for your Unlaunch viewing pleasure.",
 		"categories": ["meme"]
+	},
+	"hollow-knight": {
+		"title": "Hollow Knight Unlaunch",
+		"author": "junior-cemelle",
+		"description": "Unlaunch Menu background featuring artwork from the Hollow Knight promo collection.",
+		"categories": ["hollow", "knight", "game", "dark"]
 	}
 }
