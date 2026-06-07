@@ -2,59 +2,58 @@
 author: ToxicityLvL
 category:
 - nds
-- pokemon-white-version-2
+- pokemon-white-version
 - pokemon
-- white-2
-- white-version-2
-- kyurem
-- kyurem-white
+- white
+- white-version
+- zekrom
 - animated
-color: '#aeb0b0'
+color: '#9a9a98'
 console: Icon
 created: '2023-10-05T17:27:16Z'
 description: Sprites ripped by Ploaj from www.spriters-resource.com
 downloads:
-  Pokémon White Version 2.bin:
+  Pokémon White Version.bin:
     size: 9152
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Pokémon
-      White Version 2.bin
+      White Version.bin
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
-  White Version 2.gif
+  White Version.gif
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
-  White Version 2.gif
+  White Version.gif
 last_updated: 2023-10-05 at 17:27 (UTC)
 layout: app
 license: ''
 screenshots:
-- description: Pokémon white version 2
+- description: Pokémon white version
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
-    White Version 2.gif
+    White Version.gif
 systems:
 - Icon
 title: Pokémon White Version 2
 titles:
-- 'ポケットモンスター ホワイト ２
+- 'ポケットモンスター ホワイト
 
   任天堂'
-- 'Pokémon White Version 2
+- 'Pokémon White Version
 
   Nintendo'
-- 'Pokémon White Version 2
+- 'Pokémon White Version
 
   Nintendo'
-- 'Pokémon White Version 2
+- 'Pokémon White Version
 
   Nintendo'
-- 'Pokémon White Version 2
+- 'Pokémon White Version
 
   Nintendo'
-- 'Pokémon White Version 2
+- 'Pokémon White Version
 
   Nintendo'
-- 'Pokémon White Version 2
+- 'Pokémon White Version
 
   Nintendo'
-- 'Pokémon White Version 2
+- 'Pokémon White Version
 
   Nintendo'
 updated: '2023-10-05T17:27:16Z'
