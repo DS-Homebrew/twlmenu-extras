@@ -7,8 +7,8 @@ title: App Request
 
 Please fill out the form below to submit themes or other TWiLight Menu++ files
 to the repository. This will submit a request for manual review, you can also
-sumit a pull request directly to the GitHub repository. Pending submissions
-can be views on [the submission review page](https://submit.skins.ds-homebrew.com).
+submit a pull request directly to the GitHub repository. Pending submissions
+can be viewed on [the submission review page](https://submit.skins.ds-homebrew.com).
 
 If you have any issues, please as on the [Discord server](https://ds-homebrew.com/discord).
 
