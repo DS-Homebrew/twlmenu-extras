@@ -81,7 +81,7 @@ function approve($id) {
 		'author' => $info['author']
 	];
 	if(!empty($info['description']))
-		$meta_json['desciption'] = $info['description'];
+		$meta_json['description'] = $info['description'];
 	if(!empty($info['version']) && $info['version'] != 'v1.0.0')
 		$meta_json['version'] = $info['version'];
 	if(!empty($info['categories']))
