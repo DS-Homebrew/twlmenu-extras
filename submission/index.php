@@ -30,7 +30,7 @@ function format($val, $col, $row) {
 		case 'screenshots':
 			$res = [];
 			foreach(explode('/', $val) as $screenshot) {
-				$res[] = "<a href=\"/staging/$temp/$screenshot\">$screenshot</a>";
+				$res[] = "<a href=\"/staging/${row['temp']}/$screenshot\">$screenshot</a>";
 			}
 			return implode('<br>', $res);
 		case 'author':
