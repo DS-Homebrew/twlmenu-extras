@@ -134,6 +134,25 @@ function reject($id) {
 	}
 }
 
+// Commands
+function command($cmd) {
+	if(!isset($cmd))
+		return;
+
+	header('Content-Type: text/html');
+	$back = '[<a href="/">back</a>]';
+	switch($cmd) {
+		case 'git-pull':
+			echo "Running git pull... $back<pre>";
+			die(shell_exec('git pull 2>&1'));
+		case 'git-push':
+			echo "Running git push... $back<pre>";
+			die(shell_exec('git stage ' . BASE_DIR . '/_nds 2>&1 && git commit -m "Add new files" 2>&1; git push 2>&1'));
+		default:
+			die("Invalid command. $back");
+	}
+}
+
 function main() {
 	header('Content-Type: text/plain');
 	umask(2);
@@ -147,16 +166,26 @@ function main() {
 		or die('Could not connect: ' . pg_last_error());
 
 	// Check for action
+	$return  = true;
 	$approve = $_POST['approve'];
 	$reject = $_POST['reject'];
-	if(isset($approve))
+	$cmd = $_GET['cmd'];
+	$authenticate = isset($_GET['authenticate']);
+	if(isset($approve)) {
 		approve($approve);
-	else if(isset($reject))
+	} else if(isset($reject)) {
 		reject($reject);
-	else
+	} else if(isset($cmd)) {
+		command($cmd);
+		$return = false;
+	} else if(isset($authenticate)) {
+		// NOP
+	} else {
 		die("Error: No action requested.");
+	}
 
-	header('Location: /', true, 303);
+	if($return)
+		header('Location: /', true, 303);
 	pg_close($dbc);
 }
 

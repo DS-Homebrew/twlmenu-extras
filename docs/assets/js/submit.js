@@ -307,7 +307,7 @@ function fillInfo() {
 	submit.type = "submit";
 	submit.name = "submit";
 	submit.value = "Submit";
-	submit.classList.add("btn", "btn-primary", "ms-2");
+	submit.classList.add("btn", "btn-primary", "me-2");
 	div.appendChild(submit);
 
 	let download = document.createElement("input");

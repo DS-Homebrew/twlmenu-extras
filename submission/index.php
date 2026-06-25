@@ -6,27 +6,14 @@ if(isset($_GET['source'])) {
 }
 
 // Basic authentication
+$AUTH_REQUIRED = false;
 require_once('auth.php');
 require_once('vars.php');
 
 // Check git status
-$git_status = shell_exec('git rev-list --left-right --count origin/master...HEAD');
-$git_status = preg_replace('/(\d+)\t(\d+)/', '↓ \1 ↑ \2', $git_status);
-
-// Run commands
-if(isset($_GET['cmd'])) {
-	umask(2);
-	$back = '[<a href="/">back</a>]';
-	switch($_GET['cmd']) {
-		case 'git-pull':
-			echo "Running git pull... $back<pre>";
-			die(shell_exec('git pull 2>&1'));
-		case 'git-push':
-			echo "Running git push... $back<pre>";
-			die(shell_exec('git stage ' . BASE_DIR . '/_nds 2>&1 && git commit -m "Add new files" 2>&1; git push 2>&1'));
-		default:
-			die("Invalid command. $back");
-	}
+if(AUTHENTICATED) {
+	$git_status = shell_exec('git rev-list --left-right --count origin/master...HEAD');
+	$git_status = preg_replace('/(\d+)\t(\d+)/', '↓ \1 ↑ \2', $git_status);
 }
 
 // Connect to the database
@@ -68,17 +55,23 @@ function format($val, $col, $row) {
 </head>
 <body>
 	<div>
-		<p>
-			[<?php echo $git_status; ?>]
-			[<a href="?cmd=git-pull">git pull</a>]
-			[<a href="?cmd=git-push">git push</a>]
-		</p>
+		<?php if(AUTHENTICATED) { ?>
+			<p>
+				[<?php echo $git_status; ?>]
+				[<a href="/process.php?cmd=git-pull">git pull</a>]
+				[<a href="/process.php?cmd=git-push">git push</a>]
+			</p>
+		<?php } else { ?>
+			<p>
+				[<a href="/process.php?authenticate">moderation</a>]
+			<p>
+		<?php } ?>
 	</div>
 	<div>
 		<table>
 			<thead>
 				<tr>
-					<th>Actions</th>
+					<?php if(AUTHENTICATED) echo '<th>Actions</th>'; ?>
 					<th>Type</th>
 					<th>Name</th>
 					<th>Author</th>
@@ -94,15 +87,18 @@ function format($val, $col, $row) {
 			</thead>
 			<tbody>
 				<?php
-					$query = "SELECT type, name, author, file, version, description, categories, icon, screenshots, tid, time, temp, id, email FROM submissions";
+					$email = AUTHENTICATED ? ',email' : '';
+					$query = "SELECT type, name, author, file, version, description, categories, icon, screenshots, tid, time, temp, id $email FROM submissions";
 					$res = pg_query($query);
 
 					while($row = pg_fetch_array($res, null, PGSQL_ASSOC)) {
 						echo '<tr>';
-						echo '<td><form action="/process.php" method="post">';
-						echo '<button type="submit" name="approve" value="' . $row['id']. '">O</button> ';
-						echo '<button type="submit" name="reject" value="' . $row['id'] . '">X</button>';
-						echo '</form></td>';
+						if(AUTHENTICATED) {
+							echo '<td><form action="/process.php" method="post">';
+							echo '<button type="submit" name="approve" value="' . $row['id']. '">O</button> ';
+							echo '<button type="submit" name="reject" value="' . $row['id'] . '">X</button>';
+							echo '</form></td>';
+						}
 
 						foreach($row as $col => $val) {
 							if(in_array($col, ['temp', 'id', 'email']))
