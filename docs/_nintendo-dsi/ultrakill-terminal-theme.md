@@ -4,7 +4,8 @@ category: []
 color: '#55482c'
 console: Nintendo DSi
 created: '2026-06-25T21:55:14Z'
-description: ''
+description: A theme based on the terminals from the game ULTRAKILL because the're
+  very cool :D
 downloads:
   SmileOS 2.0 for your DS.7z:
     size: 4195350

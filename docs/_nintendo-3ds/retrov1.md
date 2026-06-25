@@ -5,7 +5,7 @@ category:
 color: '#4f2753'
 console: Nintendo 3DS
 created: '2026-06-25T21:55:14Z'
-description: ''
+description: A twilight menu theme for the 3DS interface
 downloads:
   RetroV1.7z:
     size: 6778261

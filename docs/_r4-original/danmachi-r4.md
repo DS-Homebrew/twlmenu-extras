@@ -6,7 +6,8 @@ category:
 color: '#607ca9'
 console: R4 Original
 created: '2026-06-25T21:55:14Z'
-description: ''
+description: Theme for the R4 menu of the anime Danmachi. The images are mostly from
+  seasons 1 and 2.
 downloads:
   danmachi r4.7z:
     size: 403048
