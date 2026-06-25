@@ -10,3 +10,6 @@ unistore/temp
 *__pycache__
 docs/.bundle
 docs/vendor
+
+*vars.php
+submission/staging
