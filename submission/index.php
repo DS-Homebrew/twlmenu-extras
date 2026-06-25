@@ -12,7 +12,7 @@ require_once('vars.php');
 
 // Check git status
 if(AUTHENTICATED) {
-	$git_status = shell_exec('git rev-list --left-right --count origin/master...HEAD');
+	$git_status = shell_exec('git fetch origin master; git rev-list --left-right --count origin/master...HEAD');
 	$git_status = preg_replace('/(\d+)\t(\d+)/', '↓ \1 ↑ \2', $git_status);
 }
 
@@ -51,6 +51,7 @@ function format($val, $col, $row) {
 		table { border-collapse: collapse }
 		th { padding: 0 1rem }
 		td { text-align: center; border-bottom: 1px solid lightgray }
+		.table-container { overflow: scroll; }
 	</style>
 </head>
 <body>
@@ -67,7 +68,7 @@ function format($val, $col, $row) {
 			<p>
 		<?php } ?>
 	</div>
-	<div>
+	<div class="table-container">
 		<table>
 			<thead>
 				<tr>
