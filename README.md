@@ -29,6 +29,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these themes for e
 - [HxOr1997](https://github.com/HotPizzaYT): 3DS Vaporwave theme
 - [LeafedFox](https://github.com/leafedfox): DSi Blahaj Theme
 - [LetsGoAway](https://github.com/letsgoawaydev): 3DS NES Classic theme
+- [lamsmallcritter](https://github.com/lamsmallcritter): R4 Yume Nikki skin
 - [lifehackerhansol](https://github.com/lifehackerhansol): DSi Hakui Koyori theme
 - [Mr. Start](https://github.com/Arthur-Start): 3DS Mario Kart DS theme
 - Nicoboy: 3DS Scooter Boys theme
@@ -36,7 +37,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these themes for e
 - Red-man: 3DS Red and Blue themes
 - [Rayhan](https://github.com/rayhan-ryu): Omori and PMD EoS 3DS themes
 - [Rocket Robz](https://github.com/RocketRobz): R4 Style Savvy themes, DSi Default themes, and 3DS Default Light theme
-- [Shiori](https://github.com/EgoisTamamono): 3DS Rune Factory 3 and Love Plus themes 
+- [Shiori](https://github.com/EgoisTamamono): 3DS Rune Factory 3 and Love Plus themes
 - [SkyLark](https://github.com/SleepyLark): Unlaunch Cork and various Kirby/Mario backgrounds
 - [SNBeast](https://github.com/SNBeast): Unlaunch Windows Vista backgrounds
 - [SombrAbsol](https://github.com/SombrAbsol): 3DS IceCap Zone and Knuckles Mania themes
