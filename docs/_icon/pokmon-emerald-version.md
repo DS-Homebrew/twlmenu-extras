@@ -1,29 +1,62 @@
 ---
-author: ''
-category: []
-color: '#4da75e'
+author: ToxicityLvL
+category:
+- gba
+- pokemon-emerald-version
+- pokemon
+- emerald
+- emerald-version
+- rayquaza
+- animated
+color: '#37a64b'
 console: Icon
-created: '2022-04-15T17:08:09Z'
-description: ''
+created: '2023-10-05T17:27:16Z'
+description: Sprites ripped by Libby, Lugiathekingofantartica, & Polar Koala from
+  www.spriters-resource.com, Template from NandoLawson
 downloads:
-  Pokémon Emerald Version.png:
-    size: 399
+  Pokémon Emerald Version.bin:
+    size: 9152
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Pokémon
-      Emerald Version.png
-icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Pokémon
-  Emerald Version.png
-image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Pokémon
-  Emerald Version.png
-last_updated: 2022-04-15 at 17:08 (UTC)
+      Emerald Version.bin
+icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
+  Emerald Version.gif
+image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
+  Emerald Version.gif
+last_updated: 2023-10-05 at 17:27 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: Pokémon emerald version
-  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Pokémon
-    Emerald Version.png
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Pokémon
+    Emerald Version.gif
 systems:
 - Icon
 title: Pokémon Emerald Version
-updated: '2022-04-15T17:08:09Z'
+titles:
+- 'ポケットモンスターエメラルド
+
+  任天堂株式会社'
+- 'Pokémon Emerald Version
+
+  Nintendo'
+- 'The crazy smiley quest!
+
+  Smiley Corporation'
+- 'The crazy smiley quest!
+
+  Smiley Corporation'
+- 'The crazy smiley quest!
+
+  Smiley Corporation'
+- 'The crazy smiley quest!
+
+  Smiley Corporation'
+- 'The crazy smiley quest!
+
+  Smiley Corporation'
+- 'The crazy smiley quest!
+
+  Smiley Corporation'
+updated: '2023-10-05T17:27:16Z'
 version: v1.0.0
 ---

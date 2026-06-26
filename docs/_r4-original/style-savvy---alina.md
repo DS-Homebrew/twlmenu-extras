@@ -11,12 +11,12 @@ created: '2021-07-28T07:25:18Z'
 description: 'Featuring Alina Golding (aka Alinatron) from Style Savvy: Styling Star'
 downloads:
   Style Savvy - Alina.7z:
-    size: 156114
+    size: 149732
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Style
       Savvy - Alina.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Style%20Savvy%20-%20Alina/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Style%20Savvy%20-%20Alina/icon.png
-last_updated: 2021-07-28 at 07:33 (UTC)
+last_updated: 2023-07-05 at 11:07 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -27,6 +27,6 @@ screenshots:
 systems:
 - R4 Original
 title: Style Savvy - Alina
-updated: '2021-07-28T07:33:13Z'
+updated: '2023-07-05T11:07:40Z'
 version: v1.0.0
 ---

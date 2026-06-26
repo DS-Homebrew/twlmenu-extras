@@ -13,12 +13,12 @@ description: Customize your Hunter-VG with this cool skin featuring our legendar
   hero, Mega Man!
 downloads:
   Mega Man Star Force 3.7z:
-    size: 13623815
+    size: 13580260
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Mega
       Man Star Force 3.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Mega%20Man%20Star%20Force%203/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Mega%20Man%20Star%20Force%203/icon.png
-last_updated: 2022-09-11 at 18:31 (UTC)
+last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -31,6 +31,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Mega Man Star Force 3
-updated: '2022-09-11T18:31:42Z'
+updated: '2023-07-05T15:00:38Z'
 version: v1.0.0
 ---

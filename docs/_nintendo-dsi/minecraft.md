@@ -3,23 +3,25 @@ author: DVDo
 category:
 - minecraft
 - mojang
-color: '#3c3b26'
+color: '#47462d'
 console: Nintendo DSi
 created: '2022-03-14T03:41:32Z'
-description: A Minecraft theme featuring one of the most iconic renders of all time.
-  Includes music and sounds from the game.
+description: 'A Minecraft theme featuring one of the most iconic renders of all time,
+  "Steve wrócił z wakacji" by Mursztin. BGM: "Minecraft" by C418.'
 downloads:
   Minecraft.7z:
-    size: 8953006
+    size: 5908485
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/Minecraft.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Minecraft/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Minecraft/icon.png
-last_updated: 2023-01-25 at 20:22 (UTC)
+last_updated: 2025-10-24 at 05:40 (UTC)
 layout: app
 license: ''
 screenshots:
 - description: App list
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Minecraft/screenshots/app-list.png
+- description: Macro mode
+  url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Minecraft/screenshots/macro-mode.png
 - description: Per game settings
   url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/dsimenu/themes/meta/Minecraft/screenshots/per-game-settings.png
 - description: Select menu
@@ -27,6 +29,6 @@ screenshots:
 systems:
 - Nintendo DSi
 title: Minecraft
-updated: '2023-01-25T20:22:15Z'
-version: v2.1.1
+updated: '2025-10-24T05:40:03Z'
+version: v2.1.3
 ---

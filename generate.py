@@ -13,7 +13,7 @@ from os import listdir, makedirs, mkdir, path, system
 from PIL import Image
 from py7zr import SevenZipFile
 
-SKIN_FOLDER_REGEX = r"(.*?\/?)(?:theme.ini|background|battery|grf|quickmenu|ui|video|volume|(?:bckgrd_1|bckgrd_2|icons|logo)\.png|(?:large|small)(?:-ds|-dsi)?\.nftr)$"
+SKIN_FOLDER_REGEX = r"(.*?\/?)(?:theme.ini|background|battery|grf|quickmenu|ui|video|volume|(?:bckgrd_1|bckgrd_2|icons|logo)\.png|(?:large|small)(?:-ds|-dsi)?\.nftr|uisettings\.ini)$"
 
 
 def webName(name: str) -> str:
@@ -54,16 +54,16 @@ def getDefaultIcon(path: str) -> int:
 
 	if "3dsmenu/" in path:
 		return 0
-	elif "akmenu/" in path:
-		return -1
 	elif "dsimenu/" in path:
 		return 1
 	elif "r4menu/" in path:
 		return 2
-	elif "extras/fonts/" in path:
+	elif "akmenu/" in path:
 		return 3
-	elif "icons/" in path:
+	elif "extras/fonts/" in path:
 		return 4
+	elif "icons/" in path:
+		return 5
 	return -1
 
 
@@ -123,13 +123,13 @@ output = []
 # Create UniStore base
 unistore = {
 	"storeInfo": {
-		"title": "TWiLight Menu++ Skins",
+		"title": "TWiLight Menu++ Themes",
 		"author": "DS-Homebrew",
 		"url": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/twlmenu-skins.unistore",
 		"file": "twlmenu-skins.unistore",
 		"sheetURL": "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/twlmenu-skins.t3x",
 		"sheet": "twlmenu-skins.t3x",
-		"description": "A collection of skins for TWiLight Menu++\nfrom DS-Homebrew/twlmenu-extras on GitHub\n\n(The 'Console' is the theme in TWiLight)",
+		"description": "A collection of themes for TWiLight Menu++\nfrom DS-Homebrew/twlmenu-extras on GitHub\n\n(The 'Console' is the UI in TWiLight)",
 		"version": 3,
 		"revision": 0 if ("storeInfo" not in unistoreOld or "revision" not in unistoreOld["storeInfo"]) else unistoreOld["storeInfo"]["revision"]
 	},
@@ -141,7 +141,7 @@ icons = []
 iconIndex = 0
 
 # Make 3DS, DSi, R4 icons
-for file in ["3ds.png", "dsi.png", "r4.png", "font.png"]:
+for file in ["3ds.png", "dsi.png", "r4.png", "ak.png", "font.png"]:
 	with Image.open(open(path.join("unistore", "icons", file), "rb")) as icon:
 		if not path.exists(path.join("unistore", "temp")):
 			mkdir(path.join("unistore", "temp"))
@@ -161,10 +161,6 @@ files += [f for f in glob("_nds/TWiLightMenu/unlaunch/backgrounds/*.gif")]
 # Generate UniStore entries
 for skin in files:
 	print(skin)
-
-	# Skip Wood UI for now
-	if(getTheme(skin) == "Wood UI"):
-		continue
 
 	info = {}
 	updated = datetime.utcfromtimestamp(0)
@@ -285,7 +281,7 @@ for skin in files:
 		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin
 	elif skin[-3:] == "bin":
 		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + path.join(skin[:skin.rfind("/")], "gif", skinName + ".gif")
-	elif web["icon_index"] < 3:
+	elif web["icon_index"] < 4:
 		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/" + ["3ds", "dsi", "r4", "ak"][web["icon_index"]] + ".png"
 	else:
 		web["icon"] = "https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/" + skin[:skin.rfind("/")] + "/meta/" + urllib.parse.quote(skinName) + "/icon.png"

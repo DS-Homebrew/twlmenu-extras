@@ -1,3 +1,5 @@
+@use "sass:color";
+
 // For the bottom aligned footer
 html, body {
 	height: 100%;
@@ -98,13 +100,20 @@ img {
 	background-color: $primary!important;
 }
 .btn-primary, .btn-primary:focus {
-	color: $nav-link-color;
+	color: $nav-link-color!important;
 	background-color: $primary!important;
 	border-color: $primary!important;
 }
-.btn-primary:hover, .btn-primary:active {
-	color: $nav-link-color!important;
+.btn-secondary, .btn-secondary:focus {
+	color: $main-color!important;
+	background-color: $secondary!important;
+	border-color: $secondary-border!important;
+}
+.btn-primary:hover, .btn-primary:active, .btn-secondary:hover, .btn-secondary:active {
 	opacity: 0.8;
+}
+.btn-check:checked + .btn-secondary {
+	background-color: $secondary-active!important;
 }
 .btn-outline-primary {
 	color: $primary;
@@ -116,6 +125,9 @@ img {
 }
 .text-primary {
 	background-color: $primary!important;
+}
+input.input-group-text:hover {
+	background-color: $secondary-active;
 }
 
 // Override the secondary text color
@@ -135,6 +147,10 @@ img {
 	color: $code-color;
 	background-color: $code-bg;
 	border-color: $code-bg;
+}
+
+.alert p:last-child {
+	margin-bottom: 0;
 }
 
 // Override the dark text too
@@ -207,6 +223,7 @@ html[dir=rtl] .navbar-toggler {
 	visibility: hidden;
 	line-height: 0;
 	margin: 0;
+	right: 0;
 }
 .dropdown .hover-content {
 	display: none;
@@ -257,7 +274,7 @@ html:not([dir=rtl]) {
 		margin-right: 0!important;
 		padding-right: 0.25rem;
 	}
-	
+
 	.btn-qr {
 		border-top-left-radius: 0;
 		border-bottom-left-radius: 0;
@@ -287,7 +304,7 @@ html[dir=rtl] {
 		margin-left: 0!important;
 		padding-left: 0.25rem;
 	}
-	
+
 	.btn-qr {
 		border-top-right-radius: 0;
 		border-bottom-right-radius: 0;
@@ -302,14 +319,17 @@ html[dir=rtl] {
 }
 
 // Input box
+.input-group {
+	margin-bottom: 0.25rem;
+}
 .input-group-text {
 	color: $light-placeholder;
 	background-color: $light;
 	border-color: $light-border;
 }
 .form-control, .form-control:focus, .form-control::placeholder {
-	color: $light-placeholder;
-	background-color: $light;
+	color: $blockquote-color;
+	background-color: $very-light;
 	border-color: $light-border;
 	display: inline;
 	min-width: 50%!important;

@@ -11,12 +11,12 @@ created: '2023-01-16T21:40:45Z'
 description: A Redesign of the Inconspicuous theme by Beta 215
 downloads:
   Inconspicuous V2.7z:
-    size: 84056
+    size: 48481
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Inconspicuous
       V2.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Inconspicuous%20V2/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/meta/Inconspicuous%20V2/icon.png
-last_updated: 2023-01-16 at 06:06 (UTC)
+last_updated: 2023-07-05 at 10:58 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -27,6 +27,6 @@ screenshots:
 systems:
 - R4 Original
 title: Inconspicuous V2
-updated: '2023-01-16T06:06:46Z'
+updated: '2023-07-05T10:58:03Z'
 version: v1.0.0
 ---

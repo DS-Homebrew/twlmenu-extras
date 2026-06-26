@@ -12,12 +12,12 @@ created: '2022-05-06T04:37:58Z'
 description: Your beautiful senpai, Nene Anegasaki is here. Let's work together.
 downloads:
   Love Plus Nene.7z:
-    size: 6926631
+    size: 6856305
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Love
       Plus Nene.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Love%20Plus%20Nene/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Love%20Plus%20Nene/icon.png
-last_updated: 2022-09-02 at 04:19 (UTC)
+last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -30,6 +30,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Love Plus - Nene Anegasaki Pink
-updated: '2022-09-02T04:19:02Z'
+updated: '2023-07-05T15:00:38Z'
 version: v1.0.2
 ---

@@ -6,12 +6,12 @@ created: '2020-06-01T23:44:11Z'
 description: ''
 downloads:
   Snow hill.7z:
-    size: 218322
+    size: 206893
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/r4menu/themes/Snow
       hill.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/unistore/icons/r4.png
-last_updated: 2020-09-07 at 06:22 (UTC)
+last_updated: 2023-07-05 at 11:06 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -22,6 +22,6 @@ screenshots:
 systems:
 - R4 Original
 title: Snow hill
-updated: '2020-09-07T06:22:01Z'
+updated: '2023-07-05T11:06:58Z'
 version: v1.0.0
 ---

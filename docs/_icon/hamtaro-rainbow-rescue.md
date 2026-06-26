@@ -9,11 +9,11 @@ created: '2022-10-21T13:30:02Z'
 description: ''
 downloads:
   rainbowrescue.bin:
-    size: 9152
+    size: 2112
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/rainbowrescue.bin
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/rainbowrescue.gif
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/rainbowrescue.gif
-last_updated: 2022-10-21 at 13:30 (UTC)
+last_updated: 2023-07-06 at 14:31 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -53,16 +53,6 @@ titles:
   El rescate del arco iris
 
   Nintendo'
-- 'Hamtaro
-
-  Rainbow Rescue
-
-  Nintendo'
-- 'Hamtaro
-
-  Rainbow Rescue
-
-  Nintendo'
-updated: '2022-10-21T13:30:02Z'
+updated: '2023-07-06T14:31:36Z'
 version: v1.0.0
 ---

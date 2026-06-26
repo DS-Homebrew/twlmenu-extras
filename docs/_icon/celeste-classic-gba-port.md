@@ -9,14 +9,14 @@ created: '2022-11-02T23:12:33Z'
 description: ''
 downloads:
   Celeste Classic.gba.bin:
-    size: 9152
+    size: 2112
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Celeste
       Classic.gba.bin
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Celeste
   Classic.gba.gif
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/gif/Celeste
   Classic.gba.gif
-last_updated: 2022-11-02 at 23:12 (UTC)
+last_updated: 2023-07-06 at 14:31 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -57,16 +57,6 @@ titles:
   Maddy Makes Games
 
   GBA port by JeffRuLz'
-- 'Celeste Classic
-
-  Maddy Makes Games
-
-  GBA port by JeffRuLz'
-- 'Celeste Classic
-
-  Maddy Makes Games
-
-  GBA port by JeffRuLz'
-updated: '2022-11-02T23:12:33Z'
+updated: '2023-07-06T14:31:36Z'
 version: v1.0.0
 ---

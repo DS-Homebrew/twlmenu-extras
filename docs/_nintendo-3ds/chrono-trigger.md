@@ -13,15 +13,17 @@ category:
 color: '#676d5d'
 console: Nintendo 3DS
 created: '2023-03-25T20:46:55Z'
-description: Do you think you can change the flow of time, and save the world?
+description: This skin was made for an old version of TWiLight Menu++ and hasn't been
+  updated yet. Some graphics will not be displayed. Do you think you can change the
+  flow of time, and save the world?
 downloads:
   Chrono Trigger.7z:
-    size: 6343090
+    size: 6333440
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/Chrono
       Trigger.7z
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Chrono%20Trigger/icon.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/3dsmenu/themes/meta/Chrono%20Trigger/icon.png
-last_updated: 2023-03-25 at 19:32 (UTC)
+last_updated: 2023-07-05 at 15:00 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -38,6 +40,6 @@ screenshots:
 systems:
 - Nintendo 3DS
 title: Chrono Trigger
-updated: '2023-03-25T19:32:56Z'
+updated: '2023-07-05T15:00:36Z'
 version: v1.0.0
 ---

@@ -9,14 +9,14 @@ created: '2022-04-23T03:30:51Z'
 description: ''
 downloads:
   Sonic Advance.png:
-    size: 536
+    size: 533
     url: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Sonic
       Advance.png
 icon: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Sonic
   Advance.png
 image: https://raw.githubusercontent.com/DS-Homebrew/twlmenu-extras/master/_nds/TWiLightMenu/icons/Sonic
   Advance.png
-last_updated: 2022-04-23 at 03:30 (UTC)
+last_updated: 2023-07-06 at 14:31 (UTC)
 layout: app
 license: ''
 screenshots:
@@ -26,6 +26,6 @@ screenshots:
 systems:
 - Icon
 title: Sonic Advance
-updated: '2022-04-23T03:30:51Z'
+updated: '2023-07-06T14:31:36Z'
 version: v1.0.0
 ---

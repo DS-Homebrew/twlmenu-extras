@@ -1,9 +1,9 @@
 {
-        "12coups": {
-                "title": "Les Douze Coups de Midi",
-                "author": "Dhalian",
-                "categories": ["jean-luc", "tv", "tf1", "12coups"]
-        },
+	"12coups": {
+			"title": "Les Douze Coups de Midi",
+			"author": "Dhalian",
+			"categories": ["jean-luc", "tv", "tf1", "12coups"]
+	},
 	"aurora": {
 		"title": "Aurora",
 		"author": "SNBeast",
@@ -93,6 +93,17 @@
 		"author": "SNBeast",
 		"categories": ["vista", "windows"]
 	},
+	"dsi": {
+		"title": "DSi",
+		"author": "blckbear",
+		"description": "Based on the background found in TWilight Menu++'s DSi Theme.",
+		"categories": ["dsi"]
+	},
+	"dsisettings": {
+		"title": "DSi System Settings",
+		"author": "Godeps2891",
+		"categories": ["dsi"]
+	},
 	"field": {
 		"title": "Field",
 		"author": "SNBeast",
@@ -148,6 +159,11 @@
 		"title": "Log On",
 		"author": "SNBeast",
 		"categories": ["vista", "windows"]
+	},
+	"manaka": {
+		"title": "Love Plus - Manaka",
+		"author": "Sanras",
+		"categories": ["love-plus"]
 	},
 	"mario-bros": {
 		"title": "Mario Bros.",
@@ -293,5 +309,53 @@
 		"author": "spellboundtriangle",
 		"description": "A background inspired by the scroll item in Tim Sweeney's ZZT",
 		"categories": ["zzt"]
+	},
+	"skullz": {
+		"title": "Skullz",
+		"author": "SylverReZ",
+		"description": "Skeletons doing the 'three wise monkeys' poses.",
+		"categories": ["horror", "skull"]
+	},
+	"sylveon": {
+		"title": "Sylveon",
+		"author": "SylverReZ",
+		"description": "Sylveon skin for Unlaunch.",
+		"categories": ["sylveon", "pokémon"]
+	},
+	"stealds": {
+		"title": "SOAD: Steal This DS!",
+		"author": "SylverReZ",
+		"description": "In the style of System of a Down.",
+		"categories": ["system-of-a-down", "1998", "soad", "music", "artist"]
+	},
+	"soad": {
+		"title": "System of a Down",
+		"author": "SylverReZ",
+		"description": "Artwork from the 1998 album, by System of a Down.",
+		"categories": ["system-of-a-down", "steal-thos-album", "soad", "funny", "comedy", "meme"]
+	},
+	"lain": {
+		"title": "Serial Experiments Lain",
+		"author": "SylverReZ",
+		"description": "Serial Experiments Lain skin for Nocash Unlaunch.",
+		"categories": ["serial-experiments-lain", "lain", "horror", "anime"]
+	},
+	"modzville": {
+		"title": "ModzvilleUSA!",
+		"author": "SylverReZ",
+		"description": "Unlaunch skin in the style of ModzVilleUSA.",
+		"categories": ["modzville", "modzvilleusa", "youtuber", "tech", "modding"]
+	},
+	"ps1hagrid": {
+		"title": "PS1 Hagrid",
+		"author": "the_real_mcarn",
+		"description": "PS1 Hagrid for your Unlaunch viewing pleasure.",
+		"categories": ["meme"]
+	},
+	"hollow-knight": {
+		"title": "Hollow Knight",
+		"author": "junior-cemelle",
+		"description": "Unlaunch Menu background featuring artwork from the Hollow Knight promo collection. Git gud.",
+		"categories": ["hollow", "knight", "game", "dark"]
 	}
 }
