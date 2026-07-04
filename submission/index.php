@@ -47,6 +47,7 @@ function format($val, $col, $row) {
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Submission Review</title>
+	<link rel="alternate" type="application/rss+xml" title="RSS feed" href="/rss.php" />
 	<style>
 		table { border-collapse: collapse }
 		th { padding: 0 1rem }
@@ -56,17 +57,16 @@ function format($val, $col, $row) {
 </head>
 <body>
 	<div>
-		<?php if(AUTHENTICATED) { ?>
-			<p>
+		<p>
+			<?php if(AUTHENTICATED) { ?>
 				[<?php echo $git_status; ?>]
 				[<a href="/process.php?cmd=git-pull">git pull</a>]
 				[<a href="/process.php?cmd=git-push">git push</a>]
-			</p>
-		<?php } else { ?>
-			<p>
+			<?php } else { ?>
 				[<a href="/process.php?authenticate">moderation</a>]
-			<p>
-		<?php } ?>
+			<?php } ?>
+				[<a href="rss.php">feed</a>]
+		</p>
 	</div>
 	<div class="table-container">
 		<table>
