@@ -65,8 +65,7 @@ let categorySchemas = {
 	},
 	unlaunch: {
 		...baseSchema,
-		file: {...baseSchema.file, label: "Background", help: "Must be an Unlaunch compatible GIF, use conversion bot on Discord.", limit: 1, accept: "image/gif"},
-		icon: {label: "Icon", help: "Must be 32x32", type: "files", limit: 1, noExport: true, accept: "image/png, image/gif"}
+		file: {...baseSchema.file, label: "Background", help: "Must be an Unlaunch compatible GIF, use conversion bot on Discord.", limit: 1, accept: "image/gif"}
 	}
 };
 
