@@ -16,6 +16,7 @@ Scan this QR code in Universal-Updater to add a UniStore with these themes for e
 - [Allinxter](https://github.com/Allinxter): 3DS Kyurem, Tower Duo, The Legend of Zelda, Windows XP, Windows 7, Spider-Man, The Binding of Isaac, Phantom Thieves, Investigation Team, S.E.E.S., iDS, Terraria, Ace Attorney and Chrono Trigger themes, and DSi Persona 5 theme
 - [Anonymous-cat1](https://github.com/Anonymous-cat1): 3DS POSTAL 2 Theme, DiiSU Light/Dark Theme
 - [blloop](https://github.com/blloop): Grand Theft Auto CW Theme
+- [Bruno]([https://github.com/Aspirstudios]): Doom and hagrid ps1 theme creator
 - [ctutts14](https://github.com/ctutts14): 3DS Sonic Rush Theme and Unlaunch Sonic Rush background
 - [Dhalian.](https://github.com/Dhalian): 3DS Douze Coups de Midi theme, Unlaunch Douze Coups de Midi background, 3DS Emilien des Douze Coups de Midi theme
 - doomguy9: DSi Breaking Bad theme
