@@ -4,41 +4,56 @@
 		"url": "/"
 	},
 	{
-		"title": "Nintendo 3DS",
-		"url": "/nintendo-3ds",
-		"key": "3"
+		"title": "Themes",
+		"items": [
+			{
+				"title": "Nintendo 3DS",
+				"url": "/nintendo-3ds",
+				"key": "3"
+			},
+			{
+				"title": "Nintendo DSi",
+				"url": "/nintendo-dsi",
+				"key": "i"
+			},
+			{
+				"title": "R4 Original",
+				"url": "/r4-original",
+				"key": "r"
+			},
+			{
+				"title": "Wood UI",
+				"url": "/wood-ui",
+				"key": "w"
+			}
+		]
 	},
 	{
-		"title": "Nintendo DSi",
-		"url": "/nintendo-dsi",
-		"key": "i"
+		"title": "Extras",
+		"items": [
+			{
+				"title": "Fonts",
+				"system-title": "Font",
+				"url": "/font",
+				"key": "f"
+			},
+			{
+				"title": "Icons",
+				"system-title": "Icon",
+				"url": "/icon",
+				"key": "c"
+			},
+			{
+				"title": "Unlaunch Backgrounds",
+				"system-title": "Unlaunch",
+				"url": "/unlaunch",
+				"key": "u"
+			}
+		]
 	},
 	{
-		"title": "R4 Original",
-		"url": "/r4-original",
-		"key": "r"
-	},
-	{
-		"title": "Wood UI",
-		"url": "/wood-ui",
-		"key": "w"
-	},
-	{
-		"title": "Fonts",
-		"system-title": "Font",
-		"url": "/font",
-		"key": "f"
-	},
-	{
-		"title": "Icons",
-		"system-title": "Icon",
-		"url": "/icon",
-		"key": "c"
-	},
-	{
-		"title": "Unlaunch Backgrounds",
-		"system-title": "Unlaunch",
-		"url": "/unlaunch",
-		"key": "u"
+		"title": "Submit",
+		"url": "/submit",
+		"key": "s"
 	}
 ]

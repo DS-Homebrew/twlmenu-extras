@@ -1,355 +1,578 @@
 {
 	"12coups": {
-			"title": "Les Douze Coups de Midi",
-			"author": "Dhalian",
-			"categories": ["jean-luc", "tv", "tf1", "12coups"]
+		"title": "Les Douze Coups de Midi",
+		"author": "Dhalian",
+		"categories": [
+			"jean-luc",
+			"tv",
+			"tf1",
+			"12coups"
+		]
+	},
+	"aphex": {
+		"title": "aphex",
+		"author": "radicalhiway",
+		"description": "aphex"
 	},
 	"aurora": {
 		"title": "Aurora",
 		"author": "SNBeast",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
 	},
 	"b-52_crash": {
 		"title": "B-52 Crash",
 		"author": "nocash",
 		"description": "Default bottom screen background in Unlaunch v1.5 - v1.7",
-		"categories": ["default"]
+		"categories": [
+			"default"
+		]
 	},
 	"bamboo": {
 		"title": "Bamboo",
 		"author": "SNBeast",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
 	},
 	"bars": {
 		"title": "Bars",
 		"author": "SNBeast",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
 	},
 	"beach": {
 		"title": "Beach",
 		"author": "SNBeast",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
 	},
 	"black": {
 		"title": "Black",
 		"author": "Pk11",
 		"description": "Just pure black",
-		"categories": ["simple"]
+		"categories": [
+			"simple"
+		]
 	},
 	"bliss": {
 		"title": "Bliss",
 		"author": "spellboundtriangle",
 		"description": "Based on Windows XP",
-		"categories": ["windows"]
+		"categories": [
+			"windows"
+		]
 	},
 	"boeing_b-50": {
 		"title": "Boeing B-50",
 		"author": "nocash",
 		"description": "Default top screen background in Unlaunch v1.5 - v1.7",
-		"categories": ["default"]
+		"categories": [
+			"default"
+		]
 	},
 	"bridge": {
 		"title": "Bridge",
 		"author": "SNBeast",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
 	},
 	"cave": {
 		"title": "Cave",
 		"author": "SleepyLark",
-		"categories": ["kirby"]
+		"categories": [
+			"kirby"
+		]
 	},
 	"circles": {
 		"title": "Circles",
 		"author": "SNBeast",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
 	},
 	"city": {
 		"title": "City",
 		"author": "SNBeast",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
 	},
 	"clay-shooting": {
 		"title": "Duck Hunt: Clay Shooting",
 		"author": "Egehan64",
-		"categories": ["games", "nes"]
+		"categories": [
+			"games",
+			"nes"
+		]
 	},
 	"codmw2": {
 		"title": "Call Of Duty : Modern Warfare 2",
 		"author": "Emran_Ahmed",
-		"categories": ["call-of-duty", "games"]
+		"categories": [
+			"call-of-duty",
+			"games"
+		]
 	},
 	"cork": {
 		"title": "Cork",
 		"author": "SleepyLark",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
 	},
 	"default": {
 		"title": "Vista Default",
 		"author": "SNBeast",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
 	},
 	"desert": {
 		"title": "Desert",
 		"author": "SNBeast",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"draingg": {
+		"title": "Draingg",
+		"author": "radicalhiway",
+		"description": "Draingg"
 	},
 	"dsi": {
 		"title": "DSi",
 		"author": "blckbear",
 		"description": "Based on the background found in TWilight Menu++'s DSi Theme.",
-		"categories": ["dsi"]
+		"categories": [
+			"dsi"
+		]
 	},
 	"dsisettings": {
 		"title": "DSi System Settings",
 		"author": "Godeps2891",
-		"categories": ["dsi"]
+		"categories": [
+			"dsi"
+		]
 	},
 	"field": {
 		"title": "Field",
 		"author": "SNBeast",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
 	},
 	"fish": {
 		"title": "Fish",
 		"author": "SNBeast",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
 	},
 	"flower": {
 		"title": "Flower",
 		"author": "SNBeast",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"ggxrd": {
+		"title": "Guilty Gear Xrd",
+		"author": "radicalhiway",
+		"description": "Guilty Gear Xrd"
 	},
 	"grass": {
 		"title": "Grass",
 		"author": "SNBeast",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
 	},
 	"green": {
 		"title": "Green",
 		"author": "SNBeast",
-		"categories": ["vista", "windows"]
+		"categories": [
+			"vista",
+			"windows"
+		]
 	},
 	"herzogin_cecilie": {
 		"title": "Herzogin Cecilie",
 		"author": "nocash",
 		"description": "Default bottom screen background until Unlaunch v1.5",
-		"categories": ["default"]
+		"categories": [
+			"default"
+		]
+	},
+	"hollow-knight": {
+		"title": "Hollow Knight",
+		"author": "junior-cemelle",
+		"description": "Unlaunch Menu background featuring artwork from the Hollow Knight promo collection. Git gud.",
+		"categories": [
+			"hollow",
+			"knight",
+			"game",
+			"dark"
+		]
 	},
 	"king": {
 		"title": "King Dedede",
 		"author": "SleepyLark",
-		"categories": ["kirby"]
+		"categories": [
+			"kirby"
+		]
 	},
 	"knight": {
 		"title": "Meta Knight",
 		"author": "SleepyLark",
-		"categories": ["kirby"]
-	},
-	"leaf": {
-		"title": "Leaf",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"light": {
-		"title": "Light",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"logon": {
-		"title": "Log On",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"manaka": {
-		"title": "Love Plus - Manaka",
-		"author": "Sanras",
-		"categories": ["love-plus"]
-	},
-	"mario-bros": {
-		"title": "Mario Bros.",
-		"author": "SleepyLark",
-		"categories": ["mario", "nes"]
-	},
-	"minecraft_menu": {
-		"title": "Minecraft Menu",
-		"author": "Egon370",
-		"categories": ["minecraft"]
-        },
-	"mkds": {
-		"title": "Mario Kart DS",
-		"author": "spellboundtriangle",
-		"categories": ["mario"]
-	},
-	"mario": {
-		"title": "Mario",
-		"author": "SleepyLark",
-		"categories": ["mario", "nes"]
-	},
-	"mojave_gray": {
-		"title": "Mojave (Gray)",
-		"author": "Pk11",
-		"description": "macOS Mojave's default background in grayscale",
-		"categories": ["macos"]
-	},
-	"mojave": {
-		"title": "Mojave",
-		"author": "Pk11",
-		"description": "macOS Mojave's default background",
-		"categories": ["macos"]
-	},
-	"mountain": {
-		"title": "Mountain",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"palm": {
-		"title": "Palm",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"people": {
-		"title": "People",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"purple": {
-		"title": "Purple",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"river": {
-		"title": "River",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"rocks": {
-		"title": "Rocks",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"safari-pink": {
-		"title": "Safari Pink",
-		"author": "Pk11",
-		"description": "Pink new tab background from Safari 14",
-		"categories": ["macos"]
-	},
-	"school": {
-		"title": "School",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"seats": {
-		"title": "Seats",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"sky": {
-		"title": "Sky",
-		"author": "SleepyLark",
-		"categories": ["kirby"]
-	},
-	"sonic-rush": {
-		"title": "Sonic Rush",
-		"author": "ctutts14",
-		"categories": ["sonic", "blaze", "sega"]
-	},
-	"stars": {
-		"title": "Stars",
-		"author": "SleepyLark",
-		"categories": ["kirby"]
-	},
-	"sunset": {
-		"title": "Sunset",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"sweet": {
-		"title": "Sweet",
-		"author": "SleepyLark",
-		"categories": ["kirby"]
-	},
-	"tree": {
-		"title": "Tree",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"twig": {
-		"title": "Twig",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"vangogh": {
-		"title": "Vangogh",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"win31boot": {
-		"title": "Windows 3.1 Bootscreen",
-		"author": "guest123guest",
-		"categories": ["windows"]
-	},
-	"wind": {
-		"title": "Wind",
-		"author": "SleepyLark",
-		"categories": ["kirby"]
-	},
-	"wood": {
-		"title": "Wood",
-		"author": "SNBeast",
-		"categories": ["vista", "windows"]
-	},
-	"yosemite-3": {
-		"title": "Yosemite 3",
-		"author": "Pk11",
-		"description": "A default background of macOS Yosemite",
-		"categories": ["macos"]
-	},
-	"zztscroll": {
-		"title": "ZZT Scroll",
-		"author": "spellboundtriangle",
-		"description": "A background inspired by the scroll item in Tim Sweeney's ZZT",
-		"categories": ["zzt"]
-	},
-	"skullz": {
-		"title": "Skullz",
-		"author": "SylverReZ",
-		"description": "Skeletons doing the 'three wise monkeys' poses.",
-		"categories": ["horror", "skull"]
-	},
-	"sylveon": {
-		"title": "Sylveon",
-		"author": "SylverReZ",
-		"description": "Sylveon skin for Unlaunch.",
-		"categories": ["sylveon", "pokémon"]
-	},
-	"stealds": {
-		"title": "SOAD: Steal This DS!",
-		"author": "SylverReZ",
-		"description": "In the style of System of a Down.",
-		"categories": ["system-of-a-down", "1998", "soad", "music", "artist"]
-	},
-	"soad": {
-		"title": "System of a Down",
-		"author": "SylverReZ",
-		"description": "Artwork from the 1998 album, by System of a Down.",
-		"categories": ["system-of-a-down", "steal-thos-album", "soad", "funny", "comedy", "meme"]
+		"categories": [
+			"kirby"
+		]
 	},
 	"lain": {
 		"title": "Serial Experiments Lain",
 		"author": "SylverReZ",
 		"description": "Serial Experiments Lain skin for Nocash Unlaunch.",
-		"categories": ["serial-experiments-lain", "lain", "horror", "anime"]
+		"categories": [
+			"serial-experiments-lain",
+			"lain",
+			"horror",
+			"anime"
+		]
+	},
+	"leaf": {
+		"title": "Leaf",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"light": {
+		"title": "Light",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"logon": {
+		"title": "Log On",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"loveless": {
+		"title": "Loveless - My Bloody Valentine",
+		"author": "radicalhiway",
+		"description": "my bloody valentine's 1991 record, \"loveless\""
+	},
+	"manaka": {
+		"title": "Love Plus - Manaka",
+		"author": "Sanras",
+		"categories": [
+			"love-plus"
+		]
+	},
+	"mario": {
+		"title": "Mario",
+		"author": "SleepyLark",
+		"categories": [
+			"mario",
+			"nes"
+		]
+	},
+	"mario-bros": {
+		"title": "Mario Bros.",
+		"author": "SleepyLark",
+		"categories": [
+			"mario",
+			"nes"
+		]
+	},
+	"minecraft_menu": {
+		"title": "Minecraft Menu",
+		"author": "Egon370",
+		"categories": [
+			"minecraft"
+		]
+	},
+	"mkds": {
+		"title": "Mario Kart DS",
+		"author": "spellboundtriangle",
+		"categories": [
+			"mario"
+		]
 	},
 	"modzville": {
 		"title": "ModzvilleUSA!",
 		"author": "SylverReZ",
 		"description": "Unlaunch skin in the style of ModzVilleUSA.",
-		"categories": ["modzville", "modzvilleusa", "youtuber", "tech", "modding"]
+		"categories": [
+			"modzville",
+			"modzvilleusa",
+			"youtuber",
+			"tech",
+			"modding"
+		]
+	},
+	"mojave": {
+		"title": "Mojave",
+		"author": "Pk11",
+		"description": "macOS Mojave's default background",
+		"categories": [
+			"macos"
+		]
+	},
+	"mojave_gray": {
+		"title": "Mojave (Gray)",
+		"author": "Pk11",
+		"description": "macOS Mojave's default background in grayscale",
+		"categories": [
+			"macos"
+		]
+	},
+	"mountain": {
+		"title": "Mountain",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"palm": {
+		"title": "Palm",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"people": {
+		"title": "People",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
 	},
 	"ps1hagrid": {
 		"title": "PS1 Hagrid",
 		"author": "the_real_mcarn",
 		"description": "PS1 Hagrid for your Unlaunch viewing pleasure.",
-		"categories": ["meme"]
+		"categories": [
+			"meme"
+		]
+	},
+	"purple": {
+		"title": "Purple",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"river": {
+		"title": "River",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"rocks": {
+		"title": "Rocks",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"safari-pink": {
+		"title": "Safari Pink",
+		"author": "Pk11",
+		"description": "Pink new tab background from Safari 14",
+		"categories": [
+			"macos"
+		]
+	},
+	"school": {
+		"title": "School",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"seats": {
+		"title": "Seats",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"skullz": {
+		"title": "Skullz",
+		"author": "SylverReZ",
+		"description": "Skeletons doing the 'three wise monkeys' poses.",
+		"categories": [
+			"horror",
+			"skull"
+		]
+	},
+	"sky": {
+		"title": "Sky",
+		"author": "SleepyLark",
+		"categories": [
+			"kirby"
+		]
+	},
+	"soad": {
+		"title": "System of a Down",
+		"author": "SylverReZ",
+		"description": "Artwork from the 1998 album, by System of a Down.",
+		"categories": [
+			"system-of-a-down",
+			"steal-thos-album",
+			"soad",
+			"funny",
+			"comedy",
+			"meme"
+		]
+	},
+	"sonic-rush": {
+		"title": "Sonic Rush",
+		"author": "ctutts14",
+		"categories": [
+			"sonic",
+			"blaze",
+			"sega"
+		]
+	},
+	"stars": {
+		"title": "Stars",
+		"author": "SleepyLark",
+		"categories": [
+			"kirby"
+		]
+	},
+	"stealds": {
+		"title": "SOAD: Steal This DS!",
+		"author": "SylverReZ",
+		"description": "In the style of System of a Down.",
+		"categories": [
+			"system-of-a-down",
+			"1998",
+			"soad",
+			"music",
+			"artist"
+		]
+	},
+	"sunset": {
+		"title": "Sunset",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"sweet": {
+		"title": "Sweet",
+		"author": "SleepyLark",
+		"categories": [
+			"kirby"
+		]
+	},
+	"sylveon": {
+		"title": "Sylveon",
+		"author": "SylverReZ",
+		"description": "Sylveon skin for Unlaunch.",
+		"categories": [
+			"sylveon",
+			"pok\u00e9mon"
+		]
+	},
+	"tree": {
+		"title": "Tree",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"twig": {
+		"title": "Twig",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"vangogh": {
+		"title": "Vangogh",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"win31boot": {
+		"title": "Windows 3.1 Bootscreen",
+		"author": "guest123guest",
+		"categories": [
+			"windows"
+		]
+	},
+	"wind": {
+		"title": "Wind",
+		"author": "SleepyLark",
+		"categories": [
+			"kirby"
+		]
+	},
+	"wood": {
+		"title": "Wood",
+		"author": "SNBeast",
+		"categories": [
+			"vista",
+			"windows"
+		]
+	},
+	"yosemite-3": {
+		"title": "Yosemite 3",
+		"author": "Pk11",
+		"description": "A default background of macOS Yosemite",
+		"categories": [
+			"macos"
+		]
+	},
+	"zztscroll": {
+		"title": "ZZT Scroll",
+		"author": "spellboundtriangle",
+		"description": "A background inspired by the scroll item in Tim Sweeney's ZZT",
+		"categories": [
+			"zzt"
+		]
 	}
 }

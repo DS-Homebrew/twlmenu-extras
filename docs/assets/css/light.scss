@@ -13,9 +13,12 @@ $code-color: #333;
 $a-color: #0366d6;
 $small-color: #666;
 $carousel-caption-bg: #fffb;
+$secondary: #f8f9fa;
+$secondary-active: #e9ecef;
+$secondary-border: #dee2e6;
 
 // Cards
-$card-background: var($main-bg);
+$card-background: $main-bg;
 $card-edges-background: rgba(0,0,0,.03);
 
 // Modal
@@ -29,6 +32,7 @@ $dropdown-item-bg-hover: rgba(0, 0, 0, 0.3);
 $primary: {{ page.color | default: site.color }};
 $dark: #343a40;
 $light: #f8f9fa;
+$very-light: #fff;
 $light-border: #ced4da;
 $light-placeholder: darkgray;
 
@@ -36,11 +40,10 @@ $light-placeholder: darkgray;
 @import "base";
 
 /// CSS Overrides
-
 .carousel-dark-when-light .carousel-control-next-icon, .carousel-dark-when-light .carousel-control-prev-icon {
 	filter: invert(1) grayscale(100);
 }
 
-.carousel-dark-when-light .carousel-indicators li {
+.carousel-dark-when-light .carousel-indicators button {
 	background-color: #000;
 }

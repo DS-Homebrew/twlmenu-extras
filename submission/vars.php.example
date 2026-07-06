@@ -1,0 +1,7 @@
+<?php
+define('BASE_DIR', '<path to the root of the repository>');
+define('AUTH_TOKENS', ['<any string for an auth token>']);
+define('DB_HOST', '<probably localhost>');
+define('DB_NAME', '<db name>');
+define('DB_USER', '<db owner name>');
+define('DB_PASSWORD', '<db owner password>');
