@@ -1,10 +1,11 @@
 ---
-author: ''
-category: []
+author: Bruno
+category:
+- dsi-hagridps1-theme
 color: '#573e25'
 console: Nintendo DSi
 created: '2026-06-07T23:44:44Z'
-description: ''
+description: A hagrid ps1 model meme theme with custom bg music
 downloads:
   Hagrid ps1.7z:
     size: 14912529
@@ -26,5 +27,5 @@ systems:
 - Nintendo DSi
 title: Hagrid ps1
 updated: '2026-04-03T22:37:02Z'
-version: v1.0.0
+version: v2.0.0
 ---

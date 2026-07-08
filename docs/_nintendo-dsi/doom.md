@@ -1,10 +1,11 @@
 ---
-author: ''
-category: []
+author: Bruno
+category:
+- dsi-doom-themes
 color: '#4d4a33'
 console: Nintendo DSi
 created: '2026-06-07T23:44:44Z'
-description: ''
+description: A classic Doom inspired theme with background music and custom sounds.
 downloads:
   Doom.7z:
     size: 13334539
