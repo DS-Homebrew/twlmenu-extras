@@ -91,7 +91,7 @@ function add_database($entry) {
 }
 
 function handle_theme($entry) {
-	if(!handle_file($entry->file, ['application/x-7z-compressed', 'application/octet-stream'])) {
+	if(!handle_file($entry->file, ['application/x-7z-compressed', 'application/x-compressed', 'application/octet-stream'])) {
 		echo "Error: Invalid theme archive provided!!\n";
 		return false;
 	}
@@ -110,7 +110,7 @@ function handle_theme($entry) {
 }
 
 function handle_font($entry) {
-	if(!handle_file($entry->file, ['application/x-7z-compressed', 'application/octet-stream'])) {
+	if(!handle_file($entry->file, ['application/x-7z-compressed', 'application/x-compressed', 'application/octet-stream'])) {
 		echo "Error: Invalid font archive provided!!\n";
 		return false;
 	}
