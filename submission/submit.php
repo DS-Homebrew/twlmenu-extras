@@ -42,8 +42,8 @@ function cleanup_dir($dir_path) {
 function handle_file($file, $accepted_types) {
 	$name = $file['name'];
 	$tmp_name = $file['tmp_name'];
+	$type = mime_content_type($tmp_name);
 	$error = $file['error'];
-	$type = $file['type'];
 
 	if($error != 0) {
 		echo "Warning: Upload $name failed, error $error.\n";
@@ -91,7 +91,7 @@ function add_database($entry) {
 }
 
 function handle_theme($entry) {
-	if(!handle_file($entry->file, ['application/x-7z-compressed', 'application/x-compressed', 'application/octet-stream'])) {
+	if(!handle_file($entry->file, ['application/x-7z-compressed'])) {
 		echo "Error: Invalid theme archive provided!!\n";
 		return false;
 	}
@@ -110,7 +110,7 @@ function handle_theme($entry) {
 }
 
 function handle_font($entry) {
-	if(!handle_file($entry->file, ['application/x-7z-compressed', 'application/x-compressed', 'application/octet-stream'])) {
+	if(!handle_file($entry->file, ['application/x-7z-compressed'])) {
 		echo "Error: Invalid font archive provided!!\n";
 		return false;
 	}
