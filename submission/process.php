@@ -147,7 +147,14 @@ function command($cmd) {
 			die(shell_exec('git pull 2>&1'));
 		case 'git-push':
 			echo "Running git push... $back<pre>";
-			die(shell_exec('git stage ' . BASE_DIR . '/_nds 2>&1 && git commit -m "Add new files" 2>&1; git push 2>&1'));
+			$output = shell_exec('git stage ' . BASE_DIR . '/_nds 2>&1');
+			$changed = explode("\n", trim(shell_exec('git diff --cached --name-only | grep -v meta | xargs -L 1 basename')));
+			$changed_count = count($changed);
+			$changed_str = '- ' . implode("\n- ", $changed);
+			$files_str = $changed_count == 1 ? 'file' : 'files';
+			$message = "Add $changed_count new $files_str\n\n$changed_str";
+
+			die($output . shell_exec("git commit -m '$message' 2>&1; git push 2>&1"));
 		default:
 			die("Invalid command. $back");
 	}
