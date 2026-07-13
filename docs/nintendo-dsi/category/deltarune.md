@@ -1,7 +1,7 @@
 ---
 layout: cards
-title: Nintendo DSi - Deltarune
+title: Nintendo DSi - deltarune
 system: nintendo-dsi
-category: Deltarune
+category: deltarune
 ---
-<div class="alert alert-secondary mb-4"><span class="i18n innerHTML-category">Category: </span><span class="i18n innerHTML-cat-Deltarune">Deltarune</span></div>
+<div class="alert alert-secondary mb-4"><span class="i18n innerHTML-category">Category: </span><span class="i18n innerHTML-cat-deltarune">deltarune</span></div>
