@@ -148,7 +148,7 @@ function command($cmd) {
 		case 'git-push':
 			echo "Running git push... $back<pre>";
 			$output = shell_exec('git stage ' . BASE_DIR . '/_nds 2>&1');
-			$changed = explode("\n", trim(shell_exec('git diff --cached --name-only | grep -v meta | xargs -L 1 basename')));
+			$changed = explode("\n", trim(shell_exec('git diff --cached --name-only | grep -v meta | xargs -I{} basename "{}"')));
 			$changed_count = count($changed);
 			$changed_str = '- ' . implode("\n- ", $changed);
 			$files_str = $changed_count == 1 ? 'file' : 'files';
