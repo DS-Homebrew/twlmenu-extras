@@ -1,1157 +1,2062 @@
-{	 
-      "Balloon Fight": {
-        "title": "Ballon Fight",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: Ragey, Bluestone (The Spriter's Resource)",
-        "categories": ["nes"]
-      },
-      "Bubble Bobble": {
-        "title": "Bubble Bobble (NES)",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: Jermungandr, Black Squirrel (The Spriter's Resource)",
-        "categories": ["nes"]
-      },
-      "Castlevania - Aria of Sorrow": {
-        "title": "Castlevania - Aria of Sorrow",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: SmithyGCN (The Spriter's Resource)",
-        "categories": ["gba"]
-      },
-      "Donkey Kong Country": {
-        "title": "Donkey Kong Country",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: Mattress87, Mr. L, Tonberry2k (The Spriter's Resource)",
-        "categories": ["snes", "animated"]
-      },
-      "Dragon Warrior III": {
-        "title": "Dragon Warrior III (GBC)",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: DrakeWing (The Spriter's Resource)",
-        "categories": ["gbc"]
-      },
-      "Dragon Warrior Monsters": {
-        "title": "Dragon Warrior Monsters",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: Bean (The Spriter's Resource)",
-        "categories": ["gbc"]
-      },
-      "DuckTales": {
-        "title": "DuckTales",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: JOBNED1, Raposa Cadela (The Spriter's Resource)",
-        "categories": ["nes"]
-      },
-      "EarthBound": {
-        "title": "EarthBound",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: Depressed Mario, M. Bison, Matheus123, Tonberry2k, Murphmario (The Spriter's Resource)",
-        "categories": ["snes"]
-      },
-      "Faxanadu": {
-        "title": "Faxanadu",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: HylianFox (The Spriter's Resource)",
-        "categories": ["nes"]
-      },
-      "Game & Watch Gallery 2": {
-        "title": "Game & Watch Gallery 2",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: Tigt the Bandit(The Spriter's Resource)",
-        "categories": ["gbc"]
-      },
-      "Gargoyle's Quest": {
-        "title": "Gargoyle's Quest",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: DeathBringer (The Spriter's Resource)",
-        "categories": ["gb"]
-      },
-      "Ghost Trick - Phantom Detective": {
-        "title": "Ghost Trick - Phantom Detective",
-        "author": "Leach_Beech",
-        "categories": ["nds"]
-      },
-      "Hotel Dusk - Room 215 (Europe)": {
-        "title": "Hotel Dusk - Room 215 (Europe)",
-        "author": "Leach_Beech",
-        "categories": ["nds"]
-      },
-      "Hotel Dusk - Room 215 (North America)": {
-        "title": "Hotel Dusk - Room 215 (North America)",
-        "author": "Leach_Beech",
-        "categories": ["nds"]
-      },
-      "KuruKuru Kururin": {
-        "title": "KuruKuru Kururin",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: Mr. C (The Spriter's Resource)",
-        "categories": ["gba"]
-      },
-      "Little Samson": {
-        "title": "Little Samson",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: Belial, Vanzuro Izuno Xin (The Spriter's Resource)",
-        "categories": ["nes"]
-      },
-      "Mario Tennis": {
-        "title": "Mario Tennis (GBC)",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: M. Bison, Ragey (The Spriter's Resource)",
-        "categories": ["gbc"]
-      },
-      "QIX": {
-        "title": "QIX",
-        "author": "Leach_Beech",
-        "categories": ["gb"]
-      },
-      "R-Type DX": {
-        "title": "R-Type DX",
-        "author": "Leach_Beech",
-        "categories": ["gbc"]
-	  },
-      "Super Puzzle Fighter II Turbo": {
-        "title": "Super Puzzle Fighter II Turbo",
-        "author": "Bubbabyte",
-        "categories": ["gba"]
-      },
-      "The Legend of Zelda - Link's Awakening DX": {
-        "title": "The Legend of Zelda - Link's Awakening DX",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: Previous (The Spriter's Resource)",
-        "categories": ["gbc"]
-      },
-      "Toki Tori": {
-        "title": "Toki Tori (GBC)",
-        "author": "Leach_Beech",
-        "categories": ["gbc"]
-      },
-      "Wario Land II": {
-        "title": "Wario Land II",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: Tox2564 (The Spriter's Resource)",
-        "categories": ["gbc"]
-      },
-      "Wario Land 3": {
-        "title": "Wario Land 3",
-        "author": "Leach_Beech",
-        "description": "Credit for the original sprites: ShyGuyXXL (The Spriter's Resource)",
-        "categories": ["gbc"]
-      },
-	"GM9iGC": {
-		"title": "Godmode9(i) DS Cartridge",
-		"author": "Modjac105",
-		"description": "Spinning DS cartrige with Godmode9(i) logo",
-		"categories": ["nds", "GM9i", "DScart", "animated"],
-		"version": "v1.1.0"
-	},
-	"DSGCblank": {
-		"title": "Blank DS Game Cartridge",
-		"author": "Modjac105",
-		"description": "Blank Spinnning DS cartridge. Feel free to add your own designs with NDS banner editor",
-		"categories": ["nds", "DScart", "animated"],
-		"version": "v1.1.0"
-	},
-	"default-a26": {
-		"title": "Default Atari 2600",
-		"author": "Rocket Robz",
-		"categories": ["default", "atari-2600"]
-	},
-	"default-gb": {
-		"title": "Default Game Boy",
-		"author": "Rocket Robz",
-		"categories": ["default", "game-boy"]
-	},
-	"default-gbc": {
-		"title": "Default Game Boy Color",
-		"author": "Rocket Robz",
-		"categories": ["default", "game-boy", "gbc"]
-	},
-	"default-gba": {
-		"title": "Default Game Boy Advance",
-		"author": "Rocket Robz",
-		"categories": ["default", "gba"]
-	},
-	"default-gbamode": {
-		"title": "Default GBA Mode",
-		"author": "Rocket Robz",
-		"categories": ["default", "gba"]
-	},
-	"default-gg": {
-		"title": "Default Game Gear",
-		"author": "Rocket Robz",
-		"categories": ["default", "game-gear"]
-	},
-	"default-int": {
-		"title": "Default Intellivision",
-		"author": "Rocket Robz",
-		"categories": ["default", "intellivision"]
-	},
-	"default-m5": {
-		"title": "Default Sord M5",
-		"author": "Rocket Robz",
-		"categories": ["default", "sord-m5"]
-	},
-	"default-md": {
-		"title": "Default Mega Drive",
-		"author": "Rocket Robz",
-		"categories": ["default", "mega-drive"]
-	},
-	"default-nes": {
-		"title": "Default NES",
-		"author": "Rocket Robz",
-		"categories": ["default", "nes"]
-	},
-	"default-ngp": {
-		"title": "Default Neo Geo Pocket",
-		"author": "Rocket Robz",
-		"categories": ["default", "neo-geo-pocket"]
-	},
-	"default-pce": {
-		"title": "Default PC Engine",
-		"author": "Rocket Robz",
-		"categories": ["default", "pc-engine"]
-	},
-	"default-plg": {
-		"title": "Default PLG",
-		"author": "Rocket Robz",
-		"categories": ["default", "plg"]
-	},
-	"default-sg": {
-		"title": "Default SG-1000",
-		"author": "Rocket Robz",
-		"categories": ["default", "sg-1000"]
-	},
-	"default-sms": {
-		"title": "Default Master System",
-		"author": "Rocket Robz",
-		"categories": ["default", "master-system"]
-	},
-	"default-snes": {
-		"title": "Default SNES",
-		"author": "Rocket Robz",
-		"categories": ["default", "snes"]
-	},
-	"default-ws": {
-		"title": "Default WonderSwan",
-		"author": "Rocket Robz",
-		"categories": ["default", "wonderswan"]
-	},
-	"Puzzle Bobble 4": {
-		"title": "Puzzle Bobble 4",
-		"author": "Zdrmonster1",
-		"categories": ["gbc", "bubblebobble", "puzzlebobble", "bustamove", "taito"]
-	},
-	"SpongeBob": {
-		"title": "SpongeBob SquarePants: Legend of the Lost Spatula",
-		"author": "Zdrmonster1",
-		"categories": ["gbc", "nickelodeon", "spongebob", "thq", "animated"]
-	},
-	"SpongeBobAGB": {
-		"title": "SpongeBob SquarePants: SuperSponge",
-		"author": "Zdrmonster1",
-		"categories": ["gba", "nickelodeon", "spongebob", "thq"]
-	},
-	"Parasol Stars": {
-		"title": "Parasol Stars (Game Boy)",
-		"author": "Zdrmonster1",
-		"categories": ["gb", "game-boy", "bubblebobble", "rainbowislands", "parasolstars", "taito", "animated"]
-	},
-	"Rainbow Islands": {
-		"title": "Rainbow Islands (Game Boy Colour)",
-		"author": "Zdrmonster1",
-		"categories": ["gbc", "bubblebobble", "rainbowislands", "taito"]
-	},
-	"Popn Pop": {
-		"title": "Pop'n Pop (Game Boy Colour)",
-		"author": "Zdrmonster1",
-		"categories": ["gbc", "bubblebobble", "popnpop", "taito", "animated"]
-	},
-	"Tails Adventure": {
-		"title": "Tails Adventure (GG2SMS version)",
-		"author": "Zdrmonster1",
-		"categories": ["sms", "sonic", "sega", "tailsadventure", "unofficialgame", "animated"]
-	},
-	"hamhamsunite": {
-		"title": "Hamtaro: Ham-Hams Unite!",
-		"author": "YSB573",
-		"categories": ["gbc", "hamtaro"]
-	},
-	"hamhamheartbreak": {
-		"title": "Hamtaro: Ham-Ham Heartbreak",
-		"author": "YSB573",
-		"categories": ["gba", "hamtaro"]
-	},
-	"rainbowrescue": {
-		"title": "Hamtaro: Rainbow Rescue",
-		"author": "YSB573",
-		"categories": ["gba", "hamtaro"]
-	},
-	"Chex Quest 3 Vanilla Edition.argv": {
-		"title": "Chex Quest 3: Vanilla Edition",
-		"author": "YSB573",
-		"categories": ["nds", "chex", "quest", "chexquest", "doom"]
-	},
-	"Chex Quest 3.argv": {
-		"title": "Chex Quest 3",
-		"author": "YSB573",
-		"categories": ["nds", "chex", "quest", "chexquest", "doom"]
-	},
-	"Celeste Classic.gba": {
-		"title": "Celeste Classic GBA Port",
-		"author": "YSB573",
-		"categories": ["gba", "celeste"]
-	},
-	"voltwhite2": {
-		"title": "Pokémon Volt White 2",
-		"author": "Allinxter",
-		"categories": ["nds", "pokemon", "drayano", "volt", "white", "voltwhite", "animated"],
-		"version": "v1.1.0"
-	},
-	"blazeblack2": {
-		"title": "Pokémon Blaze Black 2",
-		"author": "Allinxter",
-		"categories": ["nds", "pokemon", "drayano", "blaze", "black", "blazeblack", "animated"],
-		"version": "v1.1.0"
-	},
-	"renegadeplatinum": {
-		"title": "Pokémon Renegade Platinum",
-		"author": "Bice",
-		"categories": ["nds", "pokemon", "drayano", "renegade", "platinum", "renegadeplatinum"],
-		"version": "v1.3.0"
-	},
-	"alteredplatinum": {
-		"title": "Pokémon Altered Platinum",
-		"author": "Bice",
-		"categories": ["nds", "pokemon", "lithobraker", "altered", "platinum", "alteredplatinum"],
-		"version": "b1.5.3"
-	},
-	"explorersofthespirit": {
-		"title": "Pokémon Mystery Dungeon: Explorers of the Spirit",
-		"author": "Bice",
-		"categories": ["nds", "pokemon", "mysterydungeon", "mystery", "dungeon", "pmd", "explorers", "spirit", "explorersofthespirit"],
-		"version": "v1.01"
-	},
-	"Mario Kart - Super Circuit": {
-		"title": "Mario Kart: Super Circuit",
-		"author": "NandoLawson",
-		"categories": ["gba", "mario"]
-	},
-	"Mario Party Advance": {
-		"title": "Mario Party Advance",
-		"author": "NandoLawson",
-		"categories": ["gba", "mario"]
-	},
-	"Mother 3": {
-		"title": "Mother 3",
-		"author": "NandoLawson",
-		"categories": ["gba", "mother", "earthbound"]
-	},
-	"Pokémon Emerald Version.gba": {
-		"title": "Pokémon Emerald Version",
-		"author": "NandoLawson",
-		"categories": ["gba", "pokemon"]
-	},
-	"Pokémon FireRed Version": {
-		"title": "Pokémon FireRed Version",
-		"author": "NandoLawson",
-		"categories": ["gba", "pokemon"]
-	},
-	"Pokémon LeafGreen Version": {
-		"title": "Pokémon LeafGreen Version",
-		"author": "NandoLawson",
-		"categories": ["gba", "pokemon"]
-	},
-	"Pokémon Ruby Version": {
-		"title": "Pokémon Ruby Version",
-		"author": "NandoLawson",
-		"categories": ["gba", "pokemon"]
-	},
-	"Pokémon Sapphire Version": {
-		"title": "Pokémon Sapphire Version",
-		"author": "NandoLawson",
-		"categories": ["gba", "pokemon"]
-	},
-	"Rayman Advance": {
-		"title": "Rayman Advance",
-		"author": "NandoLawson",
-		"categories": ["gba", "rayman"]
-	},
-	"The Legend of Zelda - The Minish Cap": {
-		"title": "The Legend of Zelda: The Minish Cap",
-		"author": "NandoLawson",
-		"categories": ["gba", "zelda"]
-	},
-	"pixelgb": {
-		"title": "Pixel Game Boy",
-		"author": "Allinxter",
-		"categories": ["pixel", "game-boy"]
-	},
-	"pixelgba": {
-		"title": "Pixel Game Boy Advance",
-		"author": "Allinxter",
-		"categories": ["pixel", "game-boy-advance"]
-	},
-	"pixelgbc": {
-		"title": "Pixel Game Boy Color",
-		"author": "Allinxter",
-		"categories": ["pixel", "game-boy-color"]
-	},
-	"pixelgg": {
-		"title": "Pixel Game Gear",
-		"author": "Allinxter",
-		"categories": ["pixel", "game-gear"]
-	},
-	"pixelmd": {
-		"title": "Pixel Mega Drive",
-		"author": "Allinxter",
-		"categories": ["pixel", "mega-drive"]
-	},
-	"pixelnes": {
-		"title": "Pixel NES",
-		"author": "Allinxter",
-		"categories": ["pixel", "nes"]
-	},
-	"pixelsms": {
-		"title": "Pixel Master System",
-		"author": "Allinxter",
-		"categories": ["pixel", "master-system"]
-	},
-	"pixelsnes": {
-		"title": "Pixel SNES",
-		"author": "Allinxter",
-		"categories": ["pixel", "snes"]
-	},
-	"Cocoto - Kart Racer": {
-		"title": "Cocoto: Kart Racer",
-		"author": "NandoLawson",
-		"categories": ["gba", "cocoto"]
-	},
-	"Game % Watch Gallery Advance": {
-		"title": "Game & Watch Gallery Advance",
-		"author": "NandoLawson",
-		"categories": ["gba"]
-	},
-	"Harvest Moon - Friends of Mineral Town": {
-		"title": "Harvest Moon: Friends of Mineral Town",
-		"author": "NandoLawson",
-		"categories": ["gba", "harvest-moon"]
-	},
-	"Mario & Luigi - Superstar Saga": {
-		"title": "Mario & Luigi: Superstar Saga",
-		"author": "NandoLawson",
-		"categories": ["gba", "mario"]
-	},
-	"Metroid Fusion": {
-		"title": "Metroid Fusion",
-		"author": "NandoLawson",
-		"categories": ["gba", "metroid"]
-	},
-	"Metroid - Zero Mission": {
-		"title": "Metroid: Zero Mission",
-		"author": "NandoLawson",
-		"categories": ["gba", "metroid"]
-	},
-	"The Legend of Zelda - A Link to the Past & Four Swords": {
-		"title": "The Legend of Zelda: A Link to the Past & Four Swords",
-		"author": "NandoLawson",
-		"categories": ["gba", "zelda"]
-	},
-	"beebzds.nds": {
-		"title": "beebzDS",
-		"author": "spellboundtriangle",
-		"categories": ["nds", "homebrew"]
-	},
-	"moonshineDS.nds": {
-		"title": "moonshineDS",
-		"author": "spellboundtriangle",
-		"categories": ["nds", "homebrew", "mario"]
-	},
+{
 	"AceAttorney": {
 		"title": "Phoenix Wright: Ace Attorney",
 		"author": "Allinxter",
-		"categories": ["nds", "ace-attorney", "phoenix", "wright", "animated"]
+		"categories": [
+			"nds",
+			"ace-attorney",
+			"phoenix",
+			"wright",
+			"animated"
+		]
 	},
 	"AceAttorneyI": {
 		"title": "Ace Attorney Investigations: Miles Edgeworth",
 		"author": "Allinxter",
-		"categories": ["nds", "ace-attorney", "miles", "edgeworth", "investigations", "animated"]
+		"categories": [
+			"nds",
+			"ace-attorney",
+			"miles",
+			"edgeworth",
+			"investigations",
+			"animated"
+		]
 	},
 	"AceAttorneyIPP": {
 		"title": "Ace Attorney Investigations: Miles Edgeworth - Prosecutor's Path",
 		"author": "Allinxter",
-		"categories": ["nds", "ace-attorney", "miles", "edgeworth", "investigations", "animated"]
+		"categories": [
+			"nds",
+			"ace-attorney",
+			"miles",
+			"edgeworth",
+			"investigations",
+			"animated"
+		]
 	},
 	"AceAttorneyJFA": {
 		"title": "Phoenix Wright: Ace Attorney - Justice for All",
 		"author": "Allinxter",
-		"categories": ["nds", "ace-attorney", "phoenix", "wright", "justice-for-all", "animated"]
+		"categories": [
+			"nds",
+			"ace-attorney",
+			"phoenix",
+			"wright",
+			"justice-for-all",
+			"animated"
+		]
 	},
 	"AceAttorneyTAT": {
 		"title": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
 		"author": "Allinxter",
-		"categories": ["nds", "ace-attorney", "phoenix", "wright", "trials-and-tribulations", "animated"]
-	},
-	"ApolloJustice": {
-		"title": "Apollo Justice: Ace Attorney",
-		"author": "Allinxter",
-		"categories": ["nds", "ace-attorney", "apollo", "justice", "animated"]
-	},
-	"MarioKartDS": {
-		"title": "Mario Kart DS",
-		"author": "Allinxter",
-		"categories": ["nds", "mario", "kart"]
-	},
-	"FabStyle": {
-		"title": "FabStyle",
-		"author": "Rocket Robz",
-		"categories": ["nds", "fabstyle", "fashion", "animated"]
-	},
-	"KirbyCanvasCurse": {
-		"title": "Kirby: Canvas Curse",
-		"author": "Rocket Robz",
-		"categories": ["nds", "kirby", "canvas-curse", "power-paintbrush", "animated"]
-	},
-	"KirbySqueakSquad": {
-		"title": "Kirby: Squeak Squad",
-		"author": "Rocket Robz",
-		"categories": ["nds", "kirby", "squeak-squad", "mouse-attack", "animated"]
-	},
-	"SonicRush": {
-		"title": "Sonic Rush",
-		"author": "Rocket Robz",
-		"categories": ["nds", "sonic", "rush", "animated"]
-	},
-	"Advance Wars 2 - Black Hole Rising": {
-		"title": "Advance Wars 2: Black Hole Rising",
-		"author": "NandoLawson",
-		"categories": ["gba", "advance-wars"]
+		"categories": [
+			"nds",
+			"ace-attorney",
+			"phoenix",
+			"wright",
+			"trials-and-tribulations",
+			"animated"
+		]
 	},
 	"Advance Wars": {
 		"title": "Advance Wars",
 		"author": "NandoLawson",
-		"categories": ["gba", "advance-wars"]
-	},
-	"F-Zero - Maximum Velocity": {
-		"title": "F-Zero: Maximum Velocity",
-		"author": "NandoLawson",
-		"categories": ["gba", "f-zero"]
-	},
-	"Fire Emblem": {
-		"title": "Fire Emblem",
-		"author": "NandoLawson",
-		"categories": ["gba", "fire-emblem"]
-	},
-	"Kirby & the Amazing Mirror": {
-		"title": "Kirby & the Amazing Mirror",
-		"author": "NandoLawson",
-		"categories": ["gba", "kirby"]
-	},
-	"Mario vs. Donkey Kong": {
-		"title": "Mario vs. Donkey Kong",
-		"author": "NandoLawson",
-		"categories": ["gba", "mario", "donkey-kong"]
-	},
-	"Sonic Advance": {
-		"title": "Sonic Advance",
-		"author": "NandoLawson",
-		"categories": ["gba", "sonic"]
-	},
-	"Super Mario Advance 2 - Super Mario World": {
-		"title": "Super Mario Advance 2: Super Mario World",
-		"author": "NandoLawson",
-		"categories": ["gba", "mario"]
-	},
-	"Super Mario Advance 3 - Yoshi's Island": {
-		"title": "Super Mario Advance 3: Yoshi's Island",
-		"author": "NandoLawson",
-		"categories": ["gba", "mario", "yoshi"]
-	},
-	"Super Mario Advance 4 - Super Mario Bros. 3": {
-		"title": "Super Mario Advance 4: Super Mario Bros. 3",
-		"author": "NandoLawson",
-		"categories": ["gba", "mario"]
-	},
-	"Super Mario Advance": {
-		"title": "Super Mario Advance",
-		"author": "NandoLawson",
-		"categories": ["gba", "mario"]
-	},
-	"WarioWare, Inc. - Minigame Mania": {
-		"title": "WarioWare, Inc.: Minigame Mania",
-		"author": "NandoLawson",
-		"categories": ["gba", "wario"]
-	},
-	"Domo-Kun no Fushigi Terebi": {
-		"title": "Domo-Kun no Fushigi Terebi",
-		"author": "NandoLawson",
-		"categories": ["gba"]
-	},
-	"Sonic1Genesis": {
-		"title": "Sonic the Hedgehog (16-bit)",
-		"author": "SombrAbsol",
-		"categories": ["md", "sonic", "animated"]
-	},
-	"gameyob": {
-		"title": "GameYob",
-		"author": "SombrAbsol",
-		"categories": ["nds", "homebrew", "gbc", "animated"]
-	},
-	"Sonic the Hedgehog Pocket Adventure": {
-		"title": "Sonic The Hedgehog Pocket Adventure",
-		"author": "KaiSonicX",
-		"description": "An animated icon for Neo Geo Pocket Color game Sonic The Hedgehog Pocket Adventure",
-		"categories": ["sonic", "animated", "ngp"]
-	},
-	"MMW5DX": {
-		"title": "Mega Man World 5 DX",
-		"author": "KaiSonicX",
-		"description": "A icon for the rom hack Mega Man World 5 DX",
-		"categories": ["megaman", "gbc", "icon"]
-	},
-	"Pull Pull Pullpy": {
-		"title": "Pull Pull Pullpy",
-		"author": "Rocket Robz",
-		"categories": ["nds", "pull", "pullpy"]
-	},
-	"glitchDS.nds": {
-		"title": "glitchDS",
-		"author": "ryba"
-	},
-	"Animanatee.nds": {
-		"title": "Animanatee",
-		"author": "ryba"
-	},
-	"Gameboy Camera.gb": {
-		"title": "Gameboy Camera",
-		"author": "ryba"
-	},
-	"DuckSlinger.nds": {
-		"title": "DuckSlinger",
-		"author": "ryba",
-		"description": "Little Music tracker for DS"
-	},
-	"giana.nds": {
-		"title": "Giana Sisters C64",
-		"author": "ryba",
-		"description": "Homebrew port of C64 game The Great Giana Sisters"
-	},
-	"ik.nds": {
-		"title": "International Karate DS",
-		"author": "ryba",
-		"description": "Homebrew port of C64 game International Karate"
-	},
-	"ToneSynthDS.nds": {
-		"title": "ToneSynthDS",
-		"author": "ryba"
-	},
-	"Gamepad_NEOGEO": {
-		"title": "Gamepad Neo Geo",
-		"author": "ryba",
-		"categories": ["gamepad"]
-	},
-	"Gamepad_NES": {
-		"title": "Gamepad NES",
-		"author": "ryba",
-		"categories": ["gamepad"]
-	},
-	"Gamepad_SEGA": {
-		"title": "Gamepad SEGA (MD)",
-		"author": "ryba",
-		"categories": ["gamepad"]
-	},
-	"Gamepad_SNES": {
-		"title": "Gamepad SNES",
-		"author": "ryba",
-		"categories": ["gamepad"]
-	},
-	"Gamepad_PCE": {
-		"title": "Gamepad PC Engine",
-		"author": "ryba",
-		"categories": ["gamepad"]
-	},
-	"Gamepad_SMS": {
-		"title": "Gamepad SEGA (Master System)",
-		"author": "ryba",
-		"categories": ["gamepad"]
-	},
-	"Gamepad_GBA": {
-		"title": "Gamepad GBA",
-		"author": "ryba",
-		"categories": ["gamepad"]
-	},
-	"Gamepad_GB": {
-		"title": "Gamepad GB",
-		"author": "ryba",
-		"description": "Slightly altered default GB icon to match up with my other icons.",
-		"categories": ["gamepad"]
-	},
-	"Gamepad_GBC": {
-		"title": "Gamepad GBC",
-		"author": "ryba",
-		"description": "Slightly altered default GB icon to match up with my other icons.",
-		"categories": ["gamepad"]
-	},
-	"gba-black": {
-		"title": "GBA (black)",
-		"author": "SombrAbsol",
-		"description": "Default GBA icon in black.",
-		"categories": ["gba"]
-	},
-	"gba-orange": {
-		"title": "GBA (orange)",
-		"author": "SombrAbsol",
-		"description": "Default GBA icon in orange.",
-		"categories": ["gba"]
-	},
-	"gbasp-red": {
-		"title": "GBA SP (red)",
-		"author": "SombrAbsol",
-		"description": "GBA SP icon in red.",
-		"categories": ["gba"]
-	},
-	"gbasp-blue": {
-		"title": "GBA SP (blue)",
-		"author": "SombrAbsol",
-		"description": "GBA SP icon in blue.",
-		"categories": ["gba"]
-	},
-	"gbasp-gray": {
-		"title": "GBA SP (gray)",
-		"author": "SombrAbsol",
-		"description": "GBA SP icon in gray.",
-		"categories": ["gba"]
-	},
-	"Pokémon Pinball - Ruby & Sapphire": {
-		"title": "Pokémon Pinball: Ruby & Sapphire",
-		"author": "SombrAbsol",
-		"description": "Custom banner for Pokémon Pinball on GBA.",
-		"categories": ["gba", "pokemon", "pokemon-pinball", "animated"]
-	},
-	"Pokémon Mystery Dungeon - Red Rescue Team": {
-		"title": "Pokémon Mystery Dungeon: Red Rescue Team",
-		"author": "SombrAbsol",
-		"description": "Custom banner for Pokémon Mystery Dungeon on GBA.",
-		"categories": ["gba", "pokemon", "pokemon-mystery-dungeon"]
-	},
-	"Pokémon Mystery Dungeon - Blue Rescue Team": {
-		"title": "Pokémon Mystery Dungeon: Blue Rescue Team",
-		"author": "SombrAbsol",
-		"description": "Custom banner for Pokémon Mystery Dungeon on NDS. Only the titles have been added or corrected.",
-		"categories": ["gba", "pokemon", "pokemon-mystery-dungeon"]
+		"categories": [
+			"gba",
+			"advance-wars"
+		]
 	},
 	"Advance Wars - Dual Strike": {
 		"title": "Advance Wars: Dual Strike",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Amyd from www.spriters-resource.com",
-		"categories": ["nds", "advance-wars", "infantry", "animated"],
+		"categories": [
+			"nds",
+			"advance-wars",
+			"infantry",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"Advance Wars 2 - Black Hole Rising": {
+		"title": "Advance Wars 2: Black Hole Rising",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"advance-wars"
+		]
+	},
+	"Animanatee.nds": {
+		"title": "Animanatee",
+		"author": "ryba"
+	},
+	"ApolloJustice": {
+		"title": "Apollo Justice: Ace Attorney",
+		"author": "Allinxter",
+		"categories": [
+			"nds",
+			"ace-attorney",
+			"apollo",
+			"justice",
+			"animated"
+		]
+	},
+	"Balloon Fight": {
+		"title": "Ballon Fight",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: Ragey, Bluestone (The Spriter's Resource)",
+		"categories": [
+			"nes"
+		]
 	},
 	"Battle City": {
 		"title": "Battle City",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Superjustinbros from www.spriters-resource.com",
-		"categories": ["nes", "battle-city", "tank", "animated"],
+		"categories": [
+			"nes",
+			"battle-city",
+			"tank",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
 	"Bomberman": {
 		"title": "Bomberman",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Black Squirrel & Superjustinbros from www.spriters-resource.com",
-		"categories": ["nes", "bomberman", "animated"],
+		"categories": [
+			"nes",
+			"bomberman",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
 	"Bomberman II": {
 		"title": "Bomberman II",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Ragey from www.spriters-resource.com",
-		"categories": ["nes", "bomberman", "bomberman-ii", "bomberman-2", "animated"],
+		"categories": [
+			"nes",
+			"bomberman",
+			"bomberman-ii",
+			"bomberman-2",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"Bubble Bobble": {
+		"title": "Bubble Bobble (NES)",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: Jermungandr, Black Squirrel (The Spriter's Resource)",
+		"categories": [
+			"nes"
+		]
+	},
+	"Castlevania - Aria of Sorrow": {
+		"title": "Castlevania - Aria of Sorrow",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: SmithyGCN (The Spriter's Resource)",
+		"categories": [
+			"gba"
+		]
+	},
+	"Celeste Classic.gba": {
+		"title": "Celeste Classic GBA Port",
+		"author": "YSB573",
+		"categories": [
+			"gba",
+			"celeste"
+		]
+	},
+	"Celeste2-GBA.gba": {
+		"title": "Celeste2-GBA",
+		"author": "Hans1221n"
+	},
+	"Chex Quest 3 Vanilla Edition.argv": {
+		"title": "Chex Quest 3: Vanilla Edition",
+		"author": "YSB573",
+		"categories": [
+			"nds",
+			"chex",
+			"quest",
+			"chexquest",
+			"doom"
+		]
+	},
+	"Chex Quest 3.argv": {
+		"title": "Chex Quest 3",
+		"author": "YSB573",
+		"categories": [
+			"nds",
+			"chex",
+			"quest",
+			"chexquest",
+			"doom"
+		]
 	},
 	"Chrono Trigger": {
 		"title": "Chrono Trigger",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Tonberry2k from www.spriters-resource.com",
-		"categories": ["snes", "nds", "chrono-trigger", "crono", "animated"],
+		"categories": [
+			"snes",
+			"nds",
+			"chrono-trigger",
+			"crono",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"Cocoto - Kart Racer": {
+		"title": "Cocoto: Kart Racer",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"cocoto"
+		]
+	},
+	"DSGCblank": {
+		"title": "Blank DS Game Cartridge",
+		"author": "Modjac105",
+		"description": "Blank Spinnning DS cartridge. Feel free to add your own designs with NDS banner editor",
+		"categories": [
+			"nds",
+			"DScart",
+			"animated"
+		],
+		"version": "v1.1.0"
 	},
 	"DSi Icon": {
 		"title": "DSi Icon",
 		"author": "ToxicityLvL",
 		"description": "A black DSi Icon",
-		"categories": ["default", "nds", "dsi", "animated"],
+		"categories": [
+			"default",
+			"nds",
+			"dsi",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
 	"Dinosaur King": {
 		"title": "Dinosaur King",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Previous from www.spriters-resource.com",
-		"categories": ["nds", "dinosaur-king", "animated"],
+		"categories": [
+			"nds",
+			"dinosaur-king",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"Domo-Kun no Fushigi Terebi": {
+		"title": "Domo-Kun no Fushigi Terebi",
+		"author": "NandoLawson",
+		"categories": [
+			"gba"
+		]
 	},
 	"Donkey Kong": {
 		"title": "Donkey Kong",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Deathbringer from www.spriters-resource.com",
-		"categories": ["nes", "donkey-kong", "animated"],
+		"categories": [
+			"nes",
+			"donkey-kong",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"Donkey Kong Country": {
+		"title": "Donkey Kong Country",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: Mattress87, Mr. L, Tonberry2k (The Spriter's Resource)",
+		"categories": [
+			"snes",
+			"animated"
+		]
 	},
 	"Dragon Quest": {
 		"title": "Dragon Quest IX: Sentinels of the Starry Skies",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by MisterMike from www.spriters-resource.com",
-		"categories": ["nds", "dragon-quest", "slime", "dragon-quest-9", "dragon-quest-ix", "animated"],
+		"categories": [
+			"nds",
+			"dragon-quest",
+			"slime",
+			"dragon-quest-9",
+			"dragon-quest-ix",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"Dragon Warrior III": {
+		"title": "Dragon Warrior III (GBC)",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: DrakeWing (The Spriter's Resource)",
+		"categories": [
+			"gbc"
+		]
+	},
+	"Dragon Warrior Monsters": {
+		"title": "Dragon Warrior Monsters",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: Bean (The Spriter's Resource)",
+		"categories": [
+			"gbc"
+		]
+	},
+	"DuckSlinger.nds": {
+		"title": "DuckSlinger",
+		"author": "ryba",
+		"description": "Little Music tracker for DS"
+	},
+	"DuckTales": {
+		"title": "DuckTales",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: JOBNED1, Raposa Cadela (The Spriter's Resource)",
+		"categories": [
+			"nes"
+		]
+	},
+	"EarthBound": {
+		"title": "EarthBound",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: Depressed Mario, M. Bison, Matheus123, Tonberry2k, Murphmario (The Spriter's Resource)",
+		"categories": [
+			"snes"
+		]
 	},
 	"Excitebike": {
 		"title": "Excitebike",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Ville10 from www.spriters-resource.com",
-		"categories": ["excitebike", "nes", "animated"],
+		"categories": [
+			"excitebike",
+			"nes",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"F-Zero - Maximum Velocity": {
+		"title": "F-Zero: Maximum Velocity",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"f-zero"
+		]
+	},
+	"FabStyle": {
+		"title": "FabStyle",
+		"author": "Rocket Robz",
+		"categories": [
+			"nds",
+			"fabstyle",
+			"fashion",
+			"animated"
+		]
+	},
+	"Faxanadu": {
+		"title": "Faxanadu",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: HylianFox (The Spriter's Resource)",
+		"categories": [
+			"nes"
+		]
 	},
 	"Final Fantasy III": {
 		"title": "Final Fantasy III",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by NeoGeoff from www.spriters-resource.com",
-		"categories": ["nes", "nds", "final-fantasy", "final-fantasy-iii", "final-fantasy-3", "black-mage", "animated"],
+		"categories": [
+			"nes",
+			"nds",
+			"final-fantasy",
+			"final-fantasy-iii",
+			"final-fantasy-3",
+			"black-mage",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
 	"Final Fantasy IV": {
 		"title": "Final Fantasy IV",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Tonberry2k & Forsaken_Loser from www.spriters-resource.com",
-		"categories": ["snes", "nds", "final-fantasy", "final-fantasy-iv", "final-fantasy-4", "cecil-harvey", "cecil", "dark-knight", "animated"],
+		"categories": [
+			"snes",
+			"nds",
+			"final-fantasy",
+			"final-fantasy-iv",
+			"final-fantasy-4",
+			"cecil-harvey",
+			"cecil",
+			"dark-knight",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
 	"Final Fantasy VI Advance": {
 		"title": "Final Fantasy VI Advance",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by daemoth, Tonberry2k, & Unknown from www.spriters-resource.com",
-		"categories": ["gba", "snes", "final-fantasy", "final-fantasy-vi", "final-fantasy-6", "advance", "terra-branford", "terra", "animated"],
+		"categories": [
+			"gba",
+			"snes",
+			"final-fantasy",
+			"final-fantasy-vi",
+			"final-fantasy-6",
+			"advance",
+			"terra-branford",
+			"terra",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"Fire Emblem": {
+		"title": "Fire Emblem",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"fire-emblem"
+		]
 	},
 	"Fire Emblem - Shadow Dragon": {
 		"title": "Fire Emblem: Shadow Dragon",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Previous from www.spriters-resource.com",
-		"categories": ["nds", "fire-emblem", "fire-emblem-shadow-dragon", "shadow-dragon", "marth", "animated"],
+		"categories": [
+			"nds",
+			"fire-emblem",
+			"fire-emblem-shadow-dragon",
+			"shadow-dragon",
+			"marth",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Legendary Starfy Origins, The.gba": {
-		"title": "The Legendary Starfy: Origins",
-		"author": "YSB573",
-		"categories": ["gba", "starfy", "stafy", "densetsu", "legendary"],
+	"FlipnoteStudio.nds": {
+		"title": "Flipnote Studio",
+		"author": "korbosoft",
+		"categories": [
+			"nds",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"GM9iGC": {
+		"title": "Godmode9(i) DS Cartridge",
+		"author": "Modjac105",
+		"description": "Spinning DS cartrige with Godmode9(i) logo",
+		"categories": [
+			"nds",
+			"GM9i",
+			"DScart",
+			"animated"
+		],
+		"version": "v1.1.0"
+	},
+	"Game % Watch Gallery Advance": {
+		"title": "Game & Watch Gallery Advance",
+		"author": "NandoLawson",
+		"categories": [
+			"gba"
+		]
+	},
+	"Game & Watch Gallery 2": {
+		"title": "Game & Watch Gallery 2",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: Tigt the Bandit(The Spriter's Resource)",
+		"categories": [
+			"gbc"
+		]
+	},
+	"Gameboy Camera.gb": {
+		"title": "Gameboy Camera",
+		"author": "ryba"
+	},
+	"Gamepad_GB": {
+		"title": "Gamepad GB",
+		"author": "ryba",
+		"description": "Slightly altered default GB icon to match up with my other icons.",
+		"categories": [
+			"gamepad"
+		]
+	},
+	"Gamepad_GBA": {
+		"title": "Gamepad GBA",
+		"author": "ryba",
+		"categories": [
+			"gamepad"
+		]
+	},
+	"Gamepad_GBC": {
+		"title": "Gamepad GBC",
+		"author": "ryba",
+		"description": "Slightly altered default GB icon to match up with my other icons.",
+		"categories": [
+			"gamepad"
+		]
+	},
+	"Gamepad_NEOGEO": {
+		"title": "Gamepad Neo Geo",
+		"author": "ryba",
+		"categories": [
+			"gamepad"
+		]
+	},
+	"Gamepad_NES": {
+		"title": "Gamepad NES",
+		"author": "ryba",
+		"categories": [
+			"gamepad"
+		]
+	},
+	"Gamepad_PCE": {
+		"title": "Gamepad PC Engine",
+		"author": "ryba",
+		"categories": [
+			"gamepad"
+		]
+	},
+	"Gamepad_SEGA": {
+		"title": "Gamepad SEGA (MD)",
+		"author": "ryba",
+		"categories": [
+			"gamepad"
+		]
+	},
+	"Gamepad_SMS": {
+		"title": "Gamepad SEGA (Master System)",
+		"author": "ryba",
+		"categories": [
+			"gamepad"
+		]
+	},
+	"Gamepad_SNES": {
+		"title": "Gamepad SNES",
+		"author": "ryba",
+		"categories": [
+			"gamepad"
+		]
+	},
+	"Gargoyle's Quest": {
+		"title": "Gargoyle's Quest",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: DeathBringer (The Spriter's Resource)",
+		"categories": [
+			"gb"
+		]
+	},
+	"Ghost Trick - Phantom Detective": {
+		"title": "Ghost Trick - Phantom Detective",
+		"author": "Leach_Beech",
+		"categories": [
+			"nds"
+		]
+	},
+	"Harvest Moon - Friends of Mineral Town": {
+		"title": "Harvest Moon: Friends of Mineral Town",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"harvest-moon"
+		]
+	},
+	"Hotel Dusk - Room 215 (Europe)": {
+		"title": "Hotel Dusk - Room 215 (Europe)",
+		"author": "Leach_Beech",
+		"categories": [
+			"nds"
+		]
+	},
+	"Hotel Dusk - Room 215 (North America)": {
+		"title": "Hotel Dusk - Room 215 (North America)",
+		"author": "Leach_Beech",
+		"categories": [
+			"nds"
+		]
+	},
+	"Kirby & the Amazing Mirror": {
+		"title": "Kirby & the Amazing Mirror",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"kirby"
+		]
+	},
+	"KirbyCanvasCurse": {
+		"title": "Kirby: Canvas Curse",
+		"author": "Rocket Robz",
+		"categories": [
+			"nds",
+			"kirby",
+			"canvas-curse",
+			"power-paintbrush",
+			"animated"
+		]
+	},
+	"KirbySqueakSquad": {
+		"title": "Kirby: Squeak Squad",
+		"author": "Rocket Robz",
+		"categories": [
+			"nds",
+			"kirby",
+			"squeak-squad",
+			"mouse-attack",
+			"animated"
+		]
+	},
+	"KuruKuru Kururin": {
+		"title": "KuruKuru Kururin",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: Mr. C (The Spriter's Resource)",
+		"categories": [
+			"gba"
+		]
 	},
 	"Legendary Starfy 2, The.gba": {
 		"title": "The Legendary Starfy 2",
 		"author": "YSB573",
-		"categories": ["gba", "starfy", "stafy", "densetsu", "legendary"],
+		"categories": [
+			"gba",
+			"starfy",
+			"stafy",
+			"densetsu",
+			"legendary"
+		],
 		"version": "v1.0.0"
 	},
 	"Legendary Starfy 3, The.gba": {
 		"title": "The Legendary Starfy 3",
 		"author": "YSB573",
-		"categories": ["gba", "starfy", "stafy", "densetsu", "legendary"],
+		"categories": [
+			"gba",
+			"starfy",
+			"stafy",
+			"densetsu",
+			"legendary"
+		],
 		"version": "v1.0.0"
 	},
 	"Legendary Starfy 4, The.nds": {
 		"title": "The Legendary Starfy 4",
 		"author": "YSB573",
 		"description": "Title translation, mainly just here for consistency with the GBA Starfy games.",
-		"categories": ["nds", "starfy", "stafy", "densetsu", "legendary"],
+		"categories": [
+			"nds",
+			"starfy",
+			"stafy",
+			"densetsu",
+			"legendary"
+		],
 		"version": "v1.0.0"
+	},
+	"Legendary Starfy Origins, The.gba": {
+		"title": "The Legendary Starfy: Origins",
+		"author": "YSB573",
+		"categories": [
+			"gba",
+			"starfy",
+			"stafy",
+			"densetsu",
+			"legendary"
+		],
+		"version": "v1.0.0"
+	},
+	"Little Samson": {
+		"title": "Little Samson",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: Belial, Vanzuro Izuno Xin (The Spriter's Resource)",
+		"categories": [
+			"nes"
+		]
 	},
 	"Locks Quest": {
 		"title": "Lock's Quest",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Arkinea from www.spriters-resource.com",
-		"categories": ["nds", "locks-quest", "lock", "animated"],
+		"categories": [
+			"nds",
+			"locks-quest",
+			"lock",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"MMW5DX": {
+		"title": "Mega Man World 5 DX",
+		"author": "KaiSonicX",
+		"description": "A icon for the rom hack Mega Man World 5 DX",
+		"categories": [
+			"megaman",
+			"gbc",
+			"icon"
+		]
 	},
 	"Mario & Luigi - Partners in Time": {
 		"title": "Mario & Luigi: Partners in Time",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by A.J. Nitro from www.spriters-resource.com",
-		"categories": ["nds", "mario-&-luigi-partners-in-time", "mario-&-luigi", "partners-in-time", "mario", "baby-mario", "animated"],
+		"categories": [
+			"nds",
+			"mario-&-luigi-partners-in-time",
+			"mario-&-luigi",
+			"partners-in-time",
+			"mario",
+			"baby-mario",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"Mario & Luigi - Superstar Saga": {
+		"title": "Mario & Luigi: Superstar Saga",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"mario"
+		]
+	},
+	"Mario Kart - Super Circuit": {
+		"title": "Mario Kart: Super Circuit",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"mario"
+		]
+	},
+	"Mario Party Advance": {
+		"title": "Mario Party Advance",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"mario"
+		]
+	},
+	"Mario Tennis": {
+		"title": "Mario Tennis (GBC)",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: M. Bison, Ragey (The Spriter's Resource)",
+		"categories": [
+			"gbc"
+		]
+	},
+	"Mario Tennis (animated)": {
+		"title": "Mario Tennis (animated)",
+		"author": "Buni",
+		"description": "Mario ready to battle!",
+		"categories": [
+			"icon",
+			"animated"
+		],
+		"version": "v1.0.0"
+	},
+	"Mario vs. Donkey Kong": {
+		"title": "Mario vs. Donkey Kong",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"mario",
+			"donkey-kong"
+		]
+	},
+	"MarioKartDS": {
+		"title": "Mario Kart DS",
+		"author": "Allinxter",
+		"categories": [
+			"nds",
+			"mario",
+			"kart"
+		]
 	},
 	"Megaman Battle Network - Operate Shooting Star": {
 		"title": "Megaman Battle Network: Operate Shooting Star",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Bacon from www.spriters-resource.com",
-		"categories": ["nds", "megaman-battle-network", "megaman", "battle-network", "operate-shooting-star", "translation", "fan-translation", "animated"],
+		"categories": [
+			"nds",
+			"megaman-battle-network",
+			"megaman",
+			"battle-network",
+			"operate-shooting-star",
+			"translation",
+			"fan-translation",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"Metroid - Zero Mission": {
+		"title": "Metroid: Zero Mission",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"metroid"
+		]
+	},
+	"Metroid Fusion": {
+		"title": "Metroid Fusion",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"metroid"
+		]
+	},
+	"Mother 3": {
+		"title": "Mother 3",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"mother",
+			"earthbound"
+		]
 	},
 	"Pac-Man": {
 		"title": "Pac-Man",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Galbo & 125scratch from www.spriters-resource.com",
-		"categories": ["nes", "pac-man", "namco", "champ", "championship", "animated"],
+		"categories": [
+			"nes",
+			"pac-man",
+			"namco",
+			"champ",
+			"championship",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"Parasol Stars": {
+		"title": "Parasol Stars (Game Boy)",
+		"author": "Zdrmonster1",
+		"categories": [
+			"gb",
+			"game-boy",
+			"bubblebobble",
+			"rainbowislands",
+			"parasolstars",
+			"taito",
+			"animated"
+		]
 	},
 	"Plants vs Zombies": {
 		"title": "Plants vs Zombies",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by StayPuft from www.spriters-resource.com",
-		"categories": ["nds", "plants-vs-zombies", "plants", "zombies", "sunflower", "animated"],
+		"categories": [
+			"nds",
+			"plants-vs-zombies",
+			"plants",
+			"zombies",
+			"sunflower",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon Black Version": {
-		"title": "Pokémon Black Version",
+	"Pokemon Black 2 Version": {
+		"title": "Pok\u00e9mon Black 2 Version",
+		"author": "Fonde",
+		"description": "Sprites ripped from: https:\/\/archives.bulbagarden.net\/wiki\/Category:Animated_menu_sprites",
+		"categories": [
+			"pokemon"
+		]
+	},
+	"Pokemon Black Version": {
+		"title": "Pok\u00e9mon Black Version",
+		"author": "Fonde",
+		"description": "Sprites ripped from: https:\/\/archives.bulbagarden.net\/wiki\/Category:Animated_menu_sprites",
+		"categories": [
+			"pokemon"
+		]
+	},
+	"Pokemon Diamond Version": {
+		"title": "Pok\u00e9mon Diamond Version",
+		"author": "Fonde",
+		"description": "Sprites ripped from: https:\/\/archives.bulbagarden.net\/wiki\/Category:Animated_menu_sprites",
+		"categories": [
+			"pokemon"
+		]
+	},
+	"Pokemon Pearl Version": {
+		"title": "Pok\u00e9mon Pearl Version",
+		"author": "Fonde",
+		"description": "Sprites ripped from: https:\/\/archives.bulbagarden.net\/wiki\/Category:Animated_menu_sprites",
+		"categories": [
+			"pokemon"
+		]
+	},
+	"Pokemon White 2 Version": {
+		"title": "Pok\u00e9mon White 2 Version",
+		"author": "Fonde",
+		"description": "Sprites ripped from: https:\/\/archives.bulbagarden.net\/wiki\/Category:Animated_menu_sprites",
+		"categories": [
+			"pokemon"
+		]
+	},
+	"Pokemon White Version": {
+		"title": "Pok\u00e9mon White Version",
+		"author": "Fonde",
+		"description": "Sprites ripped from: https:\/\/archives.bulbagarden.net\/wiki\/Category:Animated_menu_sprites",
+		"categories": [
+			"pokemon"
+		]
+	},
+	"Pok\u00e9mon Black Version": {
+		"title": "Pok\u00e9mon Black Version",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Ploaj from www.spriters-resource.com",
-		"categories": ["nds", "pokemon-black-version", "pokemon", "black", "black-version", "reshiram", "animated"],
+		"categories": [
+			"nds",
+			"pokemon-black-version",
+			"pokemon",
+			"black",
+			"black-version",
+			"reshiram",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon Black Version 2": {
-		"title": "Pokémon Black Version 2",
+	"Pok\u00e9mon Black Version 2": {
+		"title": "Pok\u00e9mon Black Version 2",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Ploaj from www.spriters-resource.com",
-		"categories": ["nds", "pokemon-black-version-2", "pokemon", "black-2", "black-version-2", "kyurem", "kyurem-black", "animated"],
+		"categories": [
+			"nds",
+			"pokemon-black-version-2",
+			"pokemon",
+			"black-2",
+			"black-version-2",
+			"kyurem",
+			"kyurem-black",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon Blaze Black 2": {
-		"title": "Pokémon Blaze Black 2 Redux",
+	"Pok\u00e9mon Blaze Black 2": {
+		"title": "Pok\u00e9mon Blaze Black 2 Redux",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Ploaj from www.spriters-resource.com, Template from Allinxter",
-		"categories": ["nds", "pokemon-blaze-black-2-redux", "pokemon", "blaze-black-2", "blaze-black-2-redux", "kyurem", "kyurem-black", "animated"],
+		"categories": [
+			"nds",
+			"pokemon-blaze-black-2-redux",
+			"pokemon",
+			"blaze-black-2",
+			"blaze-black-2-redux",
+			"kyurem",
+			"kyurem-black",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon Crystal Version": {
-		"title": "Pokémon Crystal Version",
+	"Pok\u00e9mon Crystal Version": {
+		"title": "Pok\u00e9mon Crystal Version",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by FrenchOrange from www.spriters-resource.com",
-		"categories": ["gbc", "pokemon-crystal-version", "pokemon", "crystal", "crystal-version", "suicune", "animated"],
+		"categories": [
+			"gbc",
+			"pokemon-crystal-version",
+			"pokemon",
+			"crystal",
+			"crystal-version",
+			"suicune",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon Emerald Version": {
-		"title": "Pokémon Emerald Version",
+	"Pok\u00e9mon Emerald Version": {
+		"title": "Pok\u00e9mon Emerald Version",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Libby, Lugiathekingofantartica, & Polar Koala from www.spriters-resource.com, Template from NandoLawson",
-		"categories": ["gba", "pokemon-emerald-version", "pokemon", "emerald", "emerald-version", "rayquaza", "animated"],
+		"categories": [
+			"gba",
+			"pokemon-emerald-version",
+			"pokemon",
+			"emerald",
+			"emerald-version",
+			"rayquaza",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon FireRed Version - Animated": {
-		"title": "Pokémon FireRed Version (Animated)",
+	"Pok\u00e9mon Emerald Version.gba": {
+		"title": "Pok\u00e9mon Emerald Version",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"pokemon"
+		]
+	},
+	"Pok\u00e9mon FireRed Version": {
+		"title": "Pok\u00e9mon FireRed Version",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"pokemon"
+		]
+	},
+	"Pok\u00e9mon FireRed Version - Animated": {
+		"title": "Pok\u00e9mon FireRed Version (Animated)",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by MishuK9, & Sam from www.spriters-resource.com, Template from NandoLawson",
-		"categories": ["gba", "pokemon-firered-version", "pokemon", "firered", "firered-version", "charizard", "animated"],
+		"categories": [
+			"gba",
+			"pokemon-firered-version",
+			"pokemon",
+			"firered",
+			"firered-version",
+			"charizard",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon HeartGold Version": {
-		"title": "Pokémon HeartGold Version",
+	"Pok\u00e9mon HeartGold Version": {
+		"title": "Pok\u00e9mon HeartGold Version",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Dazz, HackMew, KurainoOni, & Random Talking Bush from www.spriters-resource.com",
-		"categories": ["nds", "pokemon-heartgold-version", "pokemon", "heartgold", "heartgold-version", "ho-oh", "animated"],
+		"categories": [
+			"nds",
+			"pokemon-heartgold-version",
+			"pokemon",
+			"heartgold",
+			"heartgold-version",
+			"ho-oh",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon LeafGreen Version - Animated": {
-		"title": "Pokémon LeafGreen Version (Animated)",
+	"Pok\u00e9mon LeafGreen Version": {
+		"title": "Pok\u00e9mon LeafGreen Version",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"pokemon"
+		]
+	},
+	"Pok\u00e9mon LeafGreen Version - Animated": {
+		"title": "Pok\u00e9mon LeafGreen Version (Animated)",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by MishuK9, & Sam from www.spriters-resource.com, Template from NandoLawson",
-		"categories": ["gba", "pokemon-leafgreen-version", "pokemon", "leafgreen", "leafgreen-version", "venusaur", "animated"],
+		"categories": [
+			"gba",
+			"pokemon-leafgreen-version",
+			"pokemon",
+			"leafgreen",
+			"leafgreen-version",
+			"venusaur",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon Mystery Dungeon - Explorers of the Spirit": {
-		"title": "Pokémon Mystery Dungeon: Explorers of the Spirit",
+	"Pok\u00e9mon Mystery Dungeon - Blue Rescue Team": {
+		"title": "Pok\u00e9mon Mystery Dungeon: Blue Rescue Team",
+		"author": "SombrAbsol",
+		"description": "Custom banner for Pok\u00e9mon Mystery Dungeon on NDS. Only the titles have been added or corrected.",
+		"categories": [
+			"gba",
+			"pokemon",
+			"pokemon-mystery-dungeon"
+		]
+	},
+	"Pok\u00e9mon Mystery Dungeon - Explorers of the Spirit": {
+		"title": "Pok\u00e9mon Mystery Dungeon: Explorers of the Spirit",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Naokohiro from www.spriters-resource.com",
-		"categories": ["nds", "pokemon-mystery-dungeon", "explorers-of-the-spirit", "darkrai", "animated"],
+		"categories": [
+			"nds",
+			"pokemon-mystery-dungeon",
+			"explorers-of-the-spirit",
+			"darkrai",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon Platinum Version": {
-		"title": "Pokémon Platinum Version",
+	"Pok\u00e9mon Mystery Dungeon - Red Rescue Team": {
+		"title": "Pok\u00e9mon Mystery Dungeon: Red Rescue Team",
+		"author": "SombrAbsol",
+		"description": "Custom banner for Pok\u00e9mon Mystery Dungeon on GBA.",
+		"categories": [
+			"gba",
+			"pokemon",
+			"pokemon-mystery-dungeon"
+		]
+	},
+	"Pok\u00e9mon Picross (animated)": {
+		"title": "Pok\u00e9mon Picross (animated)",
+		"author": "Buni",
+		"description": "Pikachu walking over a Picross grid.",
+		"categories": [
+			"icon",
+			"animated"
+		],
+		"version": "v1.0.0"
+	},
+	"Pok\u00e9mon Pinball - Ruby & Sapphire": {
+		"title": "Pok\u00e9mon Pinball: Ruby & Sapphire",
+		"author": "SombrAbsol",
+		"description": "Custom banner for Pok\u00e9mon Pinball on GBA.",
+		"categories": [
+			"gba",
+			"pokemon",
+			"pokemon-pinball",
+			"animated"
+		]
+	},
+	"Pok\u00e9mon Platinum Version": {
+		"title": "Pok\u00e9mon Platinum Version",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Random Talking Bush from www.spriters-resource.com",
-		"categories": ["nds", "pokemon-platinum-version", "pokemon", "platinum", "platinum-version", "giratina", "origin-form", "animated"],
+		"categories": [
+			"nds",
+			"pokemon-platinum-version",
+			"pokemon",
+			"platinum",
+			"platinum-version",
+			"giratina",
+			"origin-form",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon Renegade Platinum": {
-		"title": "Pokémon Renegade Platinum",
+	"Pok\u00e9mon Renegade Platinum": {
+		"title": "Pok\u00e9mon Renegade Platinum",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Random Talking Bush from www.spriters-resource.com, Template from Bice",
-		"categories": ["nds", "pokemon-renegade-platinum", "pokemon", "renegade-platinum", "giratina", "origin-form", "animated"],
+		"categories": [
+			"nds",
+			"pokemon-renegade-platinum",
+			"pokemon",
+			"renegade-platinum",
+			"giratina",
+			"origin-form",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon Ruby Version - Animated": {
-		"title": "Pokémon Ruby Version (Animated)",
+	"Pok\u00e9mon Ruby Version": {
+		"title": "Pok\u00e9mon Ruby Version",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"pokemon"
+		]
+	},
+	"Pok\u00e9mon Ruby Version - Animated": {
+		"title": "Pok\u00e9mon Ruby Version (Animated)",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Libby, Lugiathekingofantartica, & Polar Koala from www.spriters-resource.com, Template from NandoLawson",
-		"categories": ["gba", "pokemon-ruby-version", "pokemon", "ruby", "ruby-version", "groudon", "animated"],
+		"categories": [
+			"gba",
+			"pokemon-ruby-version",
+			"pokemon",
+			"ruby",
+			"ruby-version",
+			"groudon",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon Sapphire Version - Animated": {
-		"title": "Pokémon Sapphire Version (Animated)",
+	"Pok\u00e9mon Sapphire Version": {
+		"title": "Pok\u00e9mon Sapphire Version",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"pokemon"
+		]
+	},
+	"Pok\u00e9mon Sapphire Version - Animated": {
+		"title": "Pok\u00e9mon Sapphire Version (Animated)",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Libby, Lugiathekingofantartica, & Polar Koala from www.spriters-resource.com, Template from NandoLawson",
-		"categories": ["gba", "pokemon-sapphire-version", "pokemon", "sapphire", "sapphire-version", "kyogre", "animated"],
+		"categories": [
+			"gba",
+			"pokemon-sapphire-version",
+			"pokemon",
+			"sapphire",
+			"sapphire-version",
+			"kyogre",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon SoulSilver Version": {
-		"title": "Pokémon SoulSilver Version",
+	"Pok\u00e9mon SoulSilver Version": {
+		"title": "Pok\u00e9mon SoulSilver Version",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Dazz, HackMew, KurainoOni, & Random Talking Bush from www.spriters-resource.com",
-		"categories": ["nds", "pokemon-soulsilver-version", "pokemon", "soulsilver", "soulsilver-version", "lugia", "animated"],
+		"categories": [
+			"nds",
+			"pokemon-soulsilver-version",
+			"pokemon",
+			"soulsilver",
+			"soulsilver-version",
+			"lugia",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon Volt White 2": {
-		"title": "Pokémon Volt White 2 Redux",
+	"Pok\u00e9mon Volt White 2": {
+		"title": "Pok\u00e9mon Volt White 2 Redux",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Ploaj from www.spriters-resource.com, Template from Allinxter",
-		"categories": ["nds", "pokemon-volt-white-2-redux", "pokemon", "volt-white-2", "volt-white-2-redux", "kyurem", "kyurem-white", "animated"],
+		"categories": [
+			"nds",
+			"pokemon-volt-white-2-redux",
+			"pokemon",
+			"volt-white-2",
+			"volt-white-2-redux",
+			"kyurem",
+			"kyurem-white",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon White Version": {
-		"title": "Pokémon White Version 2",
+	"Pok\u00e9mon White Version": {
+		"title": "Pok\u00e9mon White Version 2",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Ploaj from www.spriters-resource.com",
-		"categories": ["nds", "pokemon-white-version", "pokemon", "white", "white-version", "zekrom", "animated"],
+		"categories": [
+			"nds",
+			"pokemon-white-version",
+			"pokemon",
+			"white",
+			"white-version",
+			"zekrom",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon White Version 2": {
-		"title": "Pokémon White Version 2",
+	"Pok\u00e9mon White Version 2": {
+		"title": "Pok\u00e9mon White Version 2",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Ploaj from www.spriters-resource.com",
-		"categories": ["nds", "pokemon-white-version-2", "pokemon", "white-2", "white-version-2", "kyurem", "kyurem-white", "animated"],
+		"categories": [
+			"nds",
+			"pokemon-white-version-2",
+			"pokemon",
+			"white-2",
+			"white-version-2",
+			"kyurem",
+			"kyurem-white",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Pokémon Yellow Version": {
-		"title": "Pokémon Yellow Version",
+	"Pok\u00e9mon Yellow Version": {
+		"title": "Pok\u00e9mon Yellow Version",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by FrenchOrange from www.spriters-resource.com",
-		"categories": ["gb", "gbc", "pokemon-yellow-version", "pokemon", "yellow", "yellow-version", "pikachu", "animated"],
+		"categories": [
+			"gb",
+			"gbc",
+			"pokemon-yellow-version",
+			"pokemon",
+			"yellow",
+			"yellow-version",
+			"pikachu",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"Popn Pop": {
+		"title": "Pop'n Pop (Game Boy Colour)",
+		"author": "Zdrmonster1",
+		"categories": [
+			"gbc",
+			"bubblebobble",
+			"popnpop",
+			"taito",
+			"animated"
+		]
+	},
+	"Pull Pull Pullpy": {
+		"title": "Pull Pull Pullpy",
+		"author": "Rocket Robz",
+		"categories": [
+			"nds",
+			"pull",
+			"pullpy"
+		]
+	},
+	"Puzzle Bobble 4": {
+		"title": "Puzzle Bobble 4",
+		"author": "Zdrmonster1",
+		"categories": [
+			"gbc",
+			"bubblebobble",
+			"puzzlebobble",
+			"bustamove",
+			"taito"
+		]
+	},
+	"QIX": {
+		"title": "QIX",
+		"author": "Leach_Beech",
+		"categories": [
+			"gb"
+		]
+	},
+	"R-Type DX": {
+		"title": "R-Type DX",
+		"author": "Leach_Beech",
+		"categories": [
+			"gbc"
+		]
+	},
+	"Rainbow Islands": {
+		"title": "Rainbow Islands (Game Boy Colour)",
+		"author": "Zdrmonster1",
+		"categories": [
+			"gbc",
+			"bubblebobble",
+			"rainbowislands",
+			"taito"
+		]
+	},
+	"Rayman Advance": {
+		"title": "Rayman Advance",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"rayman"
+		]
+	},
+	"Robopon Sun Version": {
+		"title": "Robopon : Sun Version",
+		"author": "Buni",
+		"description": "Sprite ripped by FrenchOrange on spriter's resource",
+		"categories": [
+			"icon"
+		],
+		"version": "v1.0.0"
+	},
+	"Sonic Advance": {
+		"title": "Sonic Advance",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"sonic"
+		]
 	},
 	"Sonic the Hedgehog": {
 		"title": "Sonic the Hedgehog",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Paraemon & Triangly from www.spriters-resource.com",
-		"categories": ["gen", "sonic-the-hedgehog", "sonic", "animated"],
+		"categories": [
+			"gen",
+			"sonic-the-hedgehog",
+			"sonic",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
 	"Sonic the Hedgehog 2": {
 		"title": "Sonic the Hedgehog 2",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Paraemon & Triangly from www.spriters-resource.com",
-		"categories": ["gen", "sonic-the-hedgehog-2", "tails", "animated"],
+		"categories": [
+			"gen",
+			"sonic-the-hedgehog-2",
+			"tails",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
 	"Sonic the Hedgehog 3": {
 		"title": "Sonic the Hedgehog 3",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Paraemon & Triangly from www.spriters-resource.com",
-		"categories": ["gen", "sonic-the-hedgehog-2", "knuckles", "animated"],
+		"categories": [
+			"gen",
+			"sonic-the-hedgehog-2",
+			"knuckles",
+			"animated"
+		],
 		"version": "v1.0.0"
+	},
+	"Sonic the Hedgehog Pocket Adventure": {
+		"title": "Sonic The Hedgehog Pocket Adventure",
+		"author": "KaiSonicX",
+		"description": "An animated icon for Neo Geo Pocket Color game Sonic The Hedgehog Pocket Adventure",
+		"categories": [
+			"sonic",
+			"animated",
+			"ngp"
+		]
+	},
+	"Sonic1Genesis": {
+		"title": "Sonic the Hedgehog (16-bit)",
+		"author": "SombrAbsol",
+		"categories": [
+			"md",
+			"sonic",
+			"animated"
+		]
+	},
+	"SonicRush": {
+		"title": "Sonic Rush",
+		"author": "Rocket Robz",
+		"categories": [
+			"nds",
+			"sonic",
+			"rush",
+			"animated"
+		]
+	},
+	"SpongeBob": {
+		"title": "SpongeBob SquarePants: Legend of the Lost Spatula",
+		"author": "Zdrmonster1",
+		"categories": [
+			"gbc",
+			"nickelodeon",
+			"spongebob",
+			"thq",
+			"animated"
+		]
+	},
+	"SpongeBobAGB": {
+		"title": "SpongeBob SquarePants: SuperSponge",
+		"author": "Zdrmonster1",
+		"categories": [
+			"gba",
+			"nickelodeon",
+			"spongebob",
+			"thq"
+		]
+	},
+	"Super Mario Advance": {
+		"title": "Super Mario Advance",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"mario"
+		]
+	},
+	"Super Mario Advance 2 - Super Mario World": {
+		"title": "Super Mario Advance 2: Super Mario World",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"mario"
+		]
+	},
+	"Super Mario Advance 3 - Yoshi's Island": {
+		"title": "Super Mario Advance 3: Yoshi's Island",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"mario",
+			"yoshi"
+		]
+	},
+	"Super Mario Advance 4 - Super Mario Bros. 3": {
+		"title": "Super Mario Advance 4: Super Mario Bros. 3",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"mario"
+		]
 	},
 	"Super Mario Bros.": {
 		"title": "Super Mario Bros.",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Superjustinbros from www.spriters-resource.com",
-		"categories": ["nes", "super-mario-bros.", "super-mario", "mario", "animated"],
+		"categories": [
+			"nes",
+			"super-mario-bros.",
+			"super-mario",
+			"mario",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
 	"Super Mario Bros. 2": {
 		"title": "Super Mario Bros. 2",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Andres1812 from www.spriters-resource.com",
-		"categories": ["nes", "super-mario-bros. 2", "super-mario-2", "mario-2", "mario", "super-mario-usa", "mario-usa", "animated"],
+		"categories": [
+			"nes",
+			"super-mario-bros. 2",
+			"super-mario-2",
+			"mario-2",
+			"mario",
+			"super-mario-usa",
+			"mario-usa",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
 	"Super Mario Bros. 3": {
 		"title": "Super Mario Bros. 3",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by 125scratch & Jermungandr from www.spriters-resource.com",
-		"categories": ["nes", "super-mario-bros. 2", "super-mario-3", "mario-3", "mario", "animated"],
+		"categories": [
+			"nes",
+			"super-mario-bros. 2",
+			"super-mario-3",
+			"mario-3",
+			"mario",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
 	"Super Mario Land": {
 		"title": "Super Mario Land",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by MisterMike & Sunny Cassette from www.spriters-resource.com",
-		"categories": ["gb", "super-mario-land", "mario-land", "mario", "animated"],
+		"categories": [
+			"gb",
+			"super-mario-land",
+			"mario-land",
+			"mario",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
 	"Super Mario Land 2 - 6 Golden Coins": {
 		"title": "Super Mario Land 2: 6 Golden Coins",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Mister Man, P-Tux7, & Snessy the duck from www.spriters-resource.com",
-		"categories": ["gb", "super-mario-land-2", "mario-land-2", "6-golden-coins", "mario", "animated"],
+		"categories": [
+			"gb",
+			"super-mario-land-2",
+			"mario-land-2",
+			"6-golden-coins",
+			"mario",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
 	"Super Mario RPG - Legend of the Seven Stars": {
 		"title": "Super Mario RPG: Legend of the Seven Stars",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Tonberry2k from www.spriters-resource.com",
-		"categories": ["snes", "super-mario-rpg", "mario-rpg", "legend-of-the-seven-stars", "mario", "animated"],
+		"categories": [
+			"snes",
+			"super-mario-rpg",
+			"mario-rpg",
+			"legend-of-the-seven-stars",
+			"mario",
+			"animated"
+		],
+		"version": "v1.0.0"
+	},
+	"Super Puzzle Fighter II Turbo": {
+		"title": "Super Puzzle Fighter II Turbo",
+		"author": "Bubbabyte",
+		"categories": [
+			"gba"
+		]
+	},
+	"Sylvanian Families Otogi no Kuni no Pendant (animated)": {
+		"title": "Sylvanian Families : Otogi no Kuni no Pendant (animated)",
+		"author": "Buni",
+		"categories": [
+			"icon",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
 	"TMNT IV - Turtles in Time.": {
 		"title": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
 		"author": "ToxicityLvL",
 		"description": "Sprites ripped by Dolphman from www.spriters-resource.com",
-		"categories": ["snes", "tmnt", "turtles", "ninja", "turtles-in-time", "animated"],
+		"categories": [
+			"snes",
+			"tmnt",
+			"turtles",
+			"ninja",
+			"turtles-in-time",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Trip World.gb": {
-		"title": "Trip World",
-		"author": "YSB573",
-		"categories": ["gb", "trip", "world", "trip-world", "sunsoft", "animated"],
-		"version": "v1.0.0"
+	"Tails Adventure": {
+		"title": "Tails Adventure (GG2SMS version)",
+		"author": "Zdrmonster1",
+		"categories": [
+			"sms",
+			"sonic",
+			"sega",
+			"tailsadventure",
+			"unofficialgame",
+			"animated"
+		]
 	},
-	"Trip World DX.gbc": {
-		"title": "Trip World DX",
-		"author": "YSB573",
-		"categories": ["gbc", "trip", "world", "trip-world", "sunsoft", "animated"],
-		"version": "v1.0.0"
+	"The Legend of Zelda - A Link to the Past & Four Swords": {
+		"title": "The Legend of Zelda: A Link to the Past & Four Swords",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"zelda"
+		]
 	},
-	"Mario Tennis (animated)": {
-		"title": "Mario Tennis (animated)",
-		"author": "Buni",
-		"description": "Mario ready to battle!",
-		"categories": ["icon","animated"],
-		"version": "v1.0.0"
+	"The Legend of Zelda - Link's Awakening DX": {
+		"title": "The Legend of Zelda - Link's Awakening DX",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: Previous (The Spriter's Resource)",
+		"categories": [
+			"gbc"
+		]
 	},
-	"Pokémon Picross (animated)": {
-		"title": "Pokémon Picross (animated)",
-		"author": "Buni",
-		"description": "Pikachu walking over a Picross grid.",
-		"categories": ["icon","animated"],
-		"version": "v1.0.0"
-	},
-	"Robopon Sun Version": {
-		"title": "Robopon : Sun Version",
-		"author": "Buni",
-		"description": "Sprite ripped by FrenchOrange on spriter's resource",
-		"categories": ["icon"],
-		"version": "v1.0.0"
-	},
-	"Sylvanian Families Otogi no Kuni no Pendant (animated)": {
-		"title": "Sylvanian Families : Otogi no Kuni no Pendant (animated)",
-		"author": "Buni",
-		"categories": ["icon","animated"],
-		"version": "v1.0.0"
+	"The Legend of Zelda - The Minish Cap": {
+		"title": "The Legend of Zelda: The Minish Cap",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"zelda"
+		]
 	},
 	"The Legend of Zelda Link's Awakening DX (animated)": {
 		"title": "The Legend of Zelda : Link's Awakening DX (animated)",
 		"author": "Buni",
 		"description": "Link peacefully fishing. Sprites ripped by MisterMike on spriter's resource",
-		"categories": ["icon","animated"],
+		"categories": [
+			"icon",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"FlipnoteStudio.nds": {
-		"title": "Flipnote Studio",
-		"author": "korbosoft",
-		"categories": ["nds", "animated"],
+	"Toki Tori": {
+		"title": "Toki Tori (GBC)",
+		"author": "Leach_Beech",
+		"categories": [
+			"gbc"
+		]
+	},
+	"ToneSynthDS.nds": {
+		"title": "ToneSynthDS",
+		"author": "ryba"
+	},
+	"Trip World DX.gbc": {
+		"title": "Trip World DX",
+		"author": "YSB573",
+		"categories": [
+			"gbc",
+			"trip",
+			"world",
+			"trip-world",
+			"sunsoft",
+			"animated"
+		],
 		"version": "v1.0.0"
 	},
-	"Celeste2-GBA.gba": {
-		"title": "Celeste2-GBA",
-		"author": "Hans1221n"
+	"Trip World.gb": {
+		"title": "Trip World",
+		"author": "YSB573",
+		"categories": [
+			"gb",
+			"trip",
+			"world",
+			"trip-world",
+			"sunsoft",
+			"animated"
+		],
+		"version": "v1.0.0"
 	},
 	"Twilight Sparkle Menu": {
 		"title": "Twilight Sparkle Menu++",
 		"author": "saulsa14",
 		"description": "Well, someone had to make this eventually. Custom animated icon replacement for TWiLight Menu++ featuring Twilight Sparkle. Made for use with a custom TM++ forwarder on 3DS.",
-		"categories": ["icon"]
+		"categories": [
+			"icon"
+		]
+	},
+	"Wario Land 3": {
+		"title": "Wario Land 3",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: ShyGuyXXL (The Spriter's Resource)",
+		"categories": [
+			"gbc"
+		]
+	},
+	"Wario Land II": {
+		"title": "Wario Land II",
+		"author": "Leach_Beech",
+		"description": "Credit for the original sprites: Tox2564 (The Spriter's Resource)",
+		"categories": [
+			"gbc"
+		]
+	},
+	"WarioWare, Inc. - Minigame Mania": {
+		"title": "WarioWare, Inc.: Minigame Mania",
+		"author": "NandoLawson",
+		"categories": [
+			"gba",
+			"wario"
+		]
+	},
+	"alteredplatinum": {
+		"title": "Pok\u00e9mon Altered Platinum",
+		"author": "Bice",
+		"categories": [
+			"nds",
+			"pokemon",
+			"lithobraker",
+			"altered",
+			"platinum",
+			"alteredplatinum"
+		],
+		"version": "b1.5.3"
+	},
+	"beebzds.nds": {
+		"title": "beebzDS",
+		"author": "spellboundtriangle",
+		"categories": [
+			"nds",
+			"homebrew"
+		]
+	},
+	"blazeblack2": {
+		"title": "Pok\u00e9mon Blaze Black 2",
+		"author": "Allinxter",
+		"categories": [
+			"nds",
+			"pokemon",
+			"drayano",
+			"blaze",
+			"black",
+			"blazeblack",
+			"animated"
+		],
+		"version": "v1.1.0"
+	},
+	"default-a26": {
+		"title": "Default Atari 2600",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"atari-2600"
+		]
+	},
+	"default-gb": {
+		"title": "Default Game Boy",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"game-boy"
+		]
+	},
+	"default-gba": {
+		"title": "Default Game Boy Advance",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"gba"
+		]
+	},
+	"default-gbamode": {
+		"title": "Default GBA Mode",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"gba"
+		]
+	},
+	"default-gbc": {
+		"title": "Default Game Boy Color",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"game-boy",
+			"gbc"
+		]
+	},
+	"default-gg": {
+		"title": "Default Game Gear",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"game-gear"
+		]
+	},
+	"default-int": {
+		"title": "Default Intellivision",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"intellivision"
+		]
+	},
+	"default-m5": {
+		"title": "Default Sord M5",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"sord-m5"
+		]
+	},
+	"default-md": {
+		"title": "Default Mega Drive",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"mega-drive"
+		]
+	},
+	"default-nes": {
+		"title": "Default NES",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"nes"
+		]
+	},
+	"default-ngp": {
+		"title": "Default Neo Geo Pocket",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"neo-geo-pocket"
+		]
+	},
+	"default-pce": {
+		"title": "Default PC Engine",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"pc-engine"
+		]
+	},
+	"default-plg": {
+		"title": "Default PLG",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"plg"
+		]
+	},
+	"default-sg": {
+		"title": "Default SG-1000",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"sg-1000"
+		]
+	},
+	"default-sms": {
+		"title": "Default Master System",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"master-system"
+		]
+	},
+	"default-snes": {
+		"title": "Default SNES",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"snes"
+		]
+	},
+	"default-ws": {
+		"title": "Default WonderSwan",
+		"author": "Rocket Robz",
+		"categories": [
+			"default",
+			"wonderswan"
+		]
+	},
+	"explorersofthespirit": {
+		"title": "Pok\u00e9mon Mystery Dungeon: Explorers of the Spirit",
+		"author": "Bice",
+		"categories": [
+			"nds",
+			"pokemon",
+			"mysterydungeon",
+			"mystery",
+			"dungeon",
+			"pmd",
+			"explorers",
+			"spirit",
+			"explorersofthespirit"
+		],
+		"version": "v1.01"
+	},
+	"gameyob": {
+		"title": "GameYob",
+		"author": "SombrAbsol",
+		"categories": [
+			"nds",
+			"homebrew",
+			"gbc",
+			"animated"
+		]
+	},
+	"gba-black": {
+		"title": "GBA (black)",
+		"author": "SombrAbsol",
+		"description": "Default GBA icon in black.",
+		"categories": [
+			"gba"
+		]
+	},
+	"gba-orange": {
+		"title": "GBA (orange)",
+		"author": "SombrAbsol",
+		"description": "Default GBA icon in orange.",
+		"categories": [
+			"gba"
+		]
+	},
+	"gbasp-blue": {
+		"title": "GBA SP (blue)",
+		"author": "SombrAbsol",
+		"description": "GBA SP icon in blue.",
+		"categories": [
+			"gba"
+		]
+	},
+	"gbasp-gray": {
+		"title": "GBA SP (gray)",
+		"author": "SombrAbsol",
+		"description": "GBA SP icon in gray.",
+		"categories": [
+			"gba"
+		]
+	},
+	"gbasp-red": {
+		"title": "GBA SP (red)",
+		"author": "SombrAbsol",
+		"description": "GBA SP icon in red.",
+		"categories": [
+			"gba"
+		]
+	},
+	"giana.nds": {
+		"title": "Giana Sisters C64",
+		"author": "ryba",
+		"description": "Homebrew port of C64 game The Great Giana Sisters"
+	},
+	"glitchDS.nds": {
+		"title": "glitchDS",
+		"author": "ryba"
+	},
+	"hamhamheartbreak": {
+		"title": "Hamtaro: Ham-Ham Heartbreak",
+		"author": "YSB573",
+		"categories": [
+			"gba",
+			"hamtaro"
+		]
+	},
+	"hamhamsunite": {
+		"title": "Hamtaro: Ham-Hams Unite!",
+		"author": "YSB573",
+		"categories": [
+			"gbc",
+			"hamtaro"
+		]
+	},
+	"ik.nds": {
+		"title": "International Karate DS",
+		"author": "ryba",
+		"description": "Homebrew port of C64 game International Karate"
+	},
+	"moonshineDS.nds": {
+		"title": "moonshineDS",
+		"author": "spellboundtriangle",
+		"categories": [
+			"nds",
+			"homebrew",
+			"mario"
+		]
+	},
+	"pixelgb": {
+		"title": "Pixel Game Boy",
+		"author": "Allinxter",
+		"categories": [
+			"pixel",
+			"game-boy"
+		]
+	},
+	"pixelgba": {
+		"title": "Pixel Game Boy Advance",
+		"author": "Allinxter",
+		"categories": [
+			"pixel",
+			"game-boy-advance"
+		]
+	},
+	"pixelgbc": {
+		"title": "Pixel Game Boy Color",
+		"author": "Allinxter",
+		"categories": [
+			"pixel",
+			"game-boy-color"
+		]
+	},
+	"pixelgg": {
+		"title": "Pixel Game Gear",
+		"author": "Allinxter",
+		"categories": [
+			"pixel",
+			"game-gear"
+		]
+	},
+	"pixelmd": {
+		"title": "Pixel Mega Drive",
+		"author": "Allinxter",
+		"categories": [
+			"pixel",
+			"mega-drive"
+		]
+	},
+	"pixelnes": {
+		"title": "Pixel NES",
+		"author": "Allinxter",
+		"categories": [
+			"pixel",
+			"nes"
+		]
+	},
+	"pixelsms": {
+		"title": "Pixel Master System",
+		"author": "Allinxter",
+		"categories": [
+			"pixel",
+			"master-system"
+		]
+	},
+	"pixelsnes": {
+		"title": "Pixel SNES",
+		"author": "Allinxter",
+		"categories": [
+			"pixel",
+			"snes"
+		]
+	},
+	"rainbowrescue": {
+		"title": "Hamtaro: Rainbow Rescue",
+		"author": "YSB573",
+		"categories": [
+			"gba",
+			"hamtaro"
+		]
+	},
+	"renegadeplatinum": {
+		"title": "Pok\u00e9mon Renegade Platinum",
+		"author": "Bice",
+		"categories": [
+			"nds",
+			"pokemon",
+			"drayano",
+			"renegade",
+			"platinum",
+			"renegadeplatinum"
+		],
+		"version": "v1.3.0"
+	},
+	"voltwhite2": {
+		"title": "Pok\u00e9mon Volt White 2",
+		"author": "Allinxter",
+		"categories": [
+			"nds",
+			"pokemon",
+			"drayano",
+			"volt",
+			"white",
+			"voltwhite",
+			"animated"
+		],
+		"version": "v1.1.0"
 	}
 }
