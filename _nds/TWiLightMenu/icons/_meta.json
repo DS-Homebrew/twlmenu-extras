@@ -101,6 +101,11 @@
 			"animated"
 		]
 	},
+	"Apotris.gba": {
+		"title": "Apostris",
+		"author": "Harker",
+		"description": "Apotris"
+	},
 	"Balloon Fight": {
 		"title": "Ballon Fight",
 		"author": "Leach_Beech",
@@ -160,6 +165,16 @@
 		"categories": [
 			"gba"
 		]
+	},
+	"Castlevania - Aria of Sorrow.gba": {
+		"title": "Castlevania: Aria of Sorrow",
+		"author": "Harker",
+		"description": "Castlevania: Aria of Sorrow"
+	},
+	"Castlevania - Harmony of Dissonance.gba": {
+		"title": "Castlevania: Harmomy of Dissonance",
+		"author": "Harker",
+		"description": "Castlevania: Harmony of Dissonance"
 	},
 	"Celeste Classic.gba": {
 		"title": "Celeste Classic GBA Port",
